@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 52.503",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 52503,
+  "decision_date": "1995-03-24",
+  "date_as_printed": "24 mars 1995",
+  "chamber": "III",
+  "role_number": "A. 61.769/III-20.073",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/52503",
+  "source_sha256": "508ad8c76f3c2e41316d70d8943b94b19fddde1b41dd87224bc5c0691e95d5da",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
