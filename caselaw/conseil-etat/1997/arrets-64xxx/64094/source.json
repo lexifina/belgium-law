@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.094",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64094,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.700/III-22.473",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64094",
+  "source_sha256": "655e3ad10c3c149c144fd17c4012b2fbf7fe26df6fa5fc6a0b87aaf221310669",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
