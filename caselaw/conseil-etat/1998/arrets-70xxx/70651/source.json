@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.651",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70651,
+  "decision_date": "1998-01-13",
+  "date_as_printed": "13 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 73.284/VII-15.211",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70651",
+  "source_sha256": "1951441fcc969683def67b097c804ef9f296a9193f3f6a75822edfefcbd14702",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
