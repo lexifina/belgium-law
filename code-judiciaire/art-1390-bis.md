@@ -1,0 +1,2 @@
+Lorsqu'une délégation est accordée en vertu des articles 203ter, 221, 301bis, du Code civil ou 1280, cinquième alinéa, du présent Code, un avis de délégation est établi par le greffier ou par l'huissier de justice, suivant les cas et notifié au greffier du tribunal de première instance du domicile du délégant pour être joint, le cas échéant, aux avis de saisie prévus par l'article 1390.
+L'avis de délégation relate l'identité et le domicile du délégant, du délégataire et du tiers délégué, ainsi que le montant, les conditions, les limites et la cause de la délégation.
