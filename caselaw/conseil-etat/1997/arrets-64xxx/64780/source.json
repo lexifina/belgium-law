@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.780",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64780,
+  "decision_date": "1997-02-26",
+  "date_as_printed": "26 février 1997",
+  "chamber": "III",
+  "role_number": "A. 72.608/III-14.055",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64780",
+  "source_sha256": "b91fee32d888ab34ef77b167a4ddf6468e4e99c1eda7df359b1a26a7071bfc00",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
