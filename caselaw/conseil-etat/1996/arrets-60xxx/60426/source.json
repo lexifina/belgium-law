@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.426",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60426,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.379/X-6.541",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60426",
+  "source_sha256": "25b375860f9f5a1ef714e6dc70232a50b3ca24cead38687fc8c8c15b8cdc19c1",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
