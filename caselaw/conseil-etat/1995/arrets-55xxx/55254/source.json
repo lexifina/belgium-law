@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.254",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55254,
+  "decision_date": "1995-09-20",
+  "date_as_printed": "20 septembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 62.777/VI-12.288",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55254",
+  "source_sha256": "cac8dc8d655ce4d4e25ef20eda514ecd107cb3a9126d26f7685b125b10f63054",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
