@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.463",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68463,
+  "decision_date": "1997-09-26",
+  "date_as_printed": "26 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 62.363/XI-2.919",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68463",
+  "source_sha256": "fef59dc2ed1d1db0a70ae31da5e94cdbc39637ddac4c60310949a40a27c05712",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
