@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 54.896",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 54896,
+  "decision_date": "1995-08-25",
+  "date_as_printed": "25 augustus 1995",
+  "chamber": "X",
+  "role_number": "A. 65.176/X-15.362",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/54896",
+  "source_sha256": "586142083c0f651478160b77f04d1a4ff7ac9fa28af55894191f1f6104a9edf6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
