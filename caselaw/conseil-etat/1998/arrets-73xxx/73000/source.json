@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.000",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73000,
+  "decision_date": "1998-04-06",
+  "date_as_printed": "6 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.026/XI-4.264",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73000",
+  "source_sha256": "e5610c577883ad92eda923acf0999b6861685018c02320da7e86fb206020014e",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
