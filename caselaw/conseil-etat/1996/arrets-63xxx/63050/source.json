@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.050",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63050,
+  "decision_date": "1996-11-13",
+  "date_as_printed": "13 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.499/III-2.892",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63050",
+  "source_sha256": "da01975bd0c01a6c3c9b00c95eb766b82c37cd19057605ef30790c898db42d3c",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
