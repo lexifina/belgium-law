@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.901",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65901,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 59.514/III-2.703",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65901",
+  "source_sha256": "19dc3c2ed460814f14b29f4495655abfd2c71e3bc69b2006d438aa7ea1b56a24",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
