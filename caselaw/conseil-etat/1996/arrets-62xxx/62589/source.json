@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.589",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62589,
+  "decision_date": "1996-10-16",
+  "date_as_printed": "16 oktober 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.264/IV-564",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62589",
+  "source_sha256": "ca366aae2d2ce55c9529312a8e2d3e01715b1368fb6f2a6c6835095fa8121482",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
