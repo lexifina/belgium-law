@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.228",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61228,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 augustus 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.181/IV-532",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61228",
+  "source_sha256": "35b40750c530b3db26e78029887bd8e955aa70a18d97a825bbb1c936547e6263",
+  "pages": 18,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
