@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.448",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67448,
+  "decision_date": "1997-07-09",
+  "date_as_printed": "9 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 62.246/III-3.041",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67448",
+  "source_sha256": "f5cc16acbaecb40496e556b5d7ade0eef4c870bf80f7e3fa79815fe60aff7636",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
