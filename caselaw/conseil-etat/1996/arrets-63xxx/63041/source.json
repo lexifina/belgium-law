@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.041",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63041,
+  "decision_date": "1996-11-13",
+  "date_as_printed": "13 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 70.135/IV-2.138",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63041",
+  "source_sha256": "f66e4798006642e1d44c2df7375c9bc3866a68fc8e3dedd8028680dc5cfcd334",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
