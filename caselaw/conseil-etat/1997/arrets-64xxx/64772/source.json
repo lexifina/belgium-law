@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.772",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64772,
+  "decision_date": "1997-02-25",
+  "date_as_printed": "25 februari 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.260/VII-14.961",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64772",
+  "source_sha256": "4e8a2f162fce4d960e4607302cb375c9afac8f270c4e054c4e0ac99c48b98c9f",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
