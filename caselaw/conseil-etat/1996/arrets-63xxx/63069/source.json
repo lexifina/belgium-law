@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.069",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63069,
+  "decision_date": "1996-11-18",
+  "date_as_printed": "18 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 68.632/III-22.305",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63069",
+  "source_sha256": "9c1d3e2168df4989b89b935ae63bff37a2c891bb6c05d095decd764965d0f1a5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
