@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.620",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71620,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 74.603/XI-2.402",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71620",
+  "source_sha256": "789df165da29ebc1bf9a6c40dc5d6b010d48f6170e80a5c5aa050c5df1f7c6ce",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
