@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.241",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73241,
+  "decision_date": "1998-04-23",
+  "date_as_printed": "23 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.537/VII-15.572",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73241",
+  "source_sha256": "87ba47b3b93445d72e7a2d234e9c520d3e862dc26b5600841ae178d969c9105a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
