@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.727",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66727,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.612/VII-13.670",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66727",
+  "source_sha256": "770d9b01c3cdac003d374643ba418bcec8d4843fcc7d7970511d9f2f1f5bff9d",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
