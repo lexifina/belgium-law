@@ -1,0 +1,2 @@
+Lorsqu'une personne qui justifie d'un intérêt établit devant la juridiction compétente des faits qui permettent de présumer l'existence de violence ou de harcèlement moral ou sexuel au travail, la charge de la preuve qu'il n'y a pas eu de violence ou de harcèlement moral ou sexuel au travail incombe à la partie défenderesse.
+L'alinéa 1er ne s'applique pas aux procédures pénales et ne porte pas atteinte à d'autres dispositions légales plus favorables en matière de charge de la preuve.

@@ -1,0 +1,2 @@
+Toute personne qui justifie d'un intérêt peut intenter une procédure devant la juridiction compétente pour faire respecter les dispositions du présent chapitre.
+Sans préjudice de la possibilité d'octroi de dommages et intérêts, la juridiction compétente peut intimer l'ordre à celui qui se rend coupable de violence ou de harcèlement moral ou sexuel au travail, ainsi qu'à l'employeur, d'y mettre fin, dans le délai qu'elle fixe.
