@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.520",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67520,
+  "decision_date": "1997-07-15",
+  "date_as_printed": "15 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 73.920/III-22.971",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67520",
+  "source_sha256": "d6b3d33b6e9a1c120a6a715d433d525040d0f37885a738506d5f3fbab07b4ee1",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
