@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.600",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64600,
+  "decision_date": "1997-02-18",
+  "date_as_printed": "18 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 69.363/IV-406",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64600",
+  "source_sha256": "7e9e863fea39a25cbbce962cd03fe3c52f6bd733cbfa72454cb60a8f59500faf",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
