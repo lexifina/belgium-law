@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.383",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64383,
+  "decision_date": "1997-02-05",
+  "date_as_printed": "5 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 63.893/IV-15.150",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64383",
+  "source_sha256": "9a5ab076b296efd65c5dfdbbdf9bc96d29d875d6963ffa0af0f6e075fe2337e3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
