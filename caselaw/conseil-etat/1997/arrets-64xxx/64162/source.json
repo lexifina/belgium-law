@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.162",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64162,
+  "decision_date": "1997-01-24",
+  "date_as_printed": "24 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.085/III-22.599",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64162",
+  "source_sha256": "269c99be39d2a39e78e209731f8b9e75b293eedab068b7b5c71a3d4e349e952d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
