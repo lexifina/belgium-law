@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.070",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67070,
+  "decision_date": "1997-06-26",
+  "date_as_printed": "26 juin 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.627/XI-2.405",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67070",
+  "source_sha256": "3d78c7399885e180de825b5dffec159afe62e06e999843bff4298d5fedb1bb68",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
