@@ -1,0 +1,21 @@
+§ 1er. Il est établi tous les deux ans un bulletin d'évaluation de tous les membres du personnel titulaires des grades visés aux Chapitres VI, VII, VIIbis, VIII et IX du présent titre, ainsi que de ceux créés par le Roi, conformément à l'article 185, alinéa 1er.
+La disposition du premier alinéa s'applique au personnel engagé sous les liens d'un contrat de travail.
+Dans le bulletin d'évaluation, le chef de service exprime son opinion quant à la valeur et à l'aptitude du membre du personnel, au moyen de formules descriptives, conformément aux indications apportées. L'évaluation se traduit par l'une des mentions suivantes: " très bon ", " bon " ou " insuffisant ". Le Roi détermine les modalités d'application des présentes dispositions.
+Par " chef de service ", on entend:
+1° pour les greffiers en chef, les secrétaires en chef et les attachés, visés à l'article 136, selon le cas, le procureur général, le procureur du Roi ou l'auditeur du travail;
+2° pour les conseillers en médiation et les assistants de médiation, respectivement, le procureur général et le procureur du Roi;
+3° pour les membres des greffes, les membres des secrétariats de parquet, le personnel des greffes et des secrétariats de parquet, ainsi que pour les membres du personnel titulaires des grades créés par le Roi conformément à l'article 185, alinéa 1er, selon le cas, le greffier en chef ou le secrétaire en chef du parquet.
+Le chef de service peut déléguer ses compétences selon les modalités déterminées par le Roi.
+§ 2. En ce qui concerne les greffiers en chef et les attachés, visés à l'article 136, le procureur général, le procureur du Roi ou l'auditeur du travail, selon le cas, établit une évaluation provisoire et en informe le magistrat chef de corps de la juridiction concernée qui y appose son visa et, le cas échéant, y ajoute son avis. Le procureur général, le procureur du Roi ou l'auditeur du travail, selon le cas, établit ensuite une évaluation définitive.
+En ce qui concerne les membres des greffes, le greffier en chef établit une évaluation provisoire, en informe le procureur général, le procureur du Roi ou l'auditeur du travail compétent. Ce magistrat y appose son visa et, le cas échéant, y ajoute son avis. Il invite le magistrat chef de corps de la juridiction où le membre du greffe exerce ses fonctions à faire de même et transmet ensuite le bulletin et les avis éventuels en retour au greffier en chef qui établit une évaluation définitive.
+En ce qui concerne les membres des secrétariats de parquet, le secrétaire en chef établit une évaluation provisoire, en informe le procureur général, le procureur du Roi ou l'auditeur du travail compétent qui y appose son visa et, le cas échéant, y ajoute son avis. Le secrétaire en chef établit ensuite une évaluation définitive.
+§ 3. Le bulletin renseignant l'évaluation définitive est notifié par le chef de service au membre du personnel intéressé.
+L'intéressé dispose d'un délai de dix jours pour introduire une réclamation auprès de la chambre de recours compétente et demander à être entendu. Il adresse par même courrier une copie de sa requête au chef de service qui a établi le bulletin d'évaluation. Celui-ci transmet le bulletin d'évaluation, éventuellement accompagné d'une justification écrite supplémentaire émanant des supérieurs hiérarchiques, à la chambre de recours dans les quarante-huit heures qui suivent la réception de cette copie.
+La chambre de recours transmet son avis dans les quarante jours à compter de la réception de la réclamation au chef de service concerné et le notifie par lettre recommandée au membre du personnel intéressé.
+Cet avis est définitif et est joint au bulletin d'évaluation.
+§ 4. Le bulletin d'évaluation est établi pour la première fois entre le neuvième et le douzième mois de service effectif.
+L'évaluation porte sur la période révolue depuis l'entrée en service ou depuis le bulletin d'évaluation précédent.
+Le membre du personnel peut solliciter une nouvelle évaluation, au plus tôt un an après.
+§ 4. Le bulletin d'évaluation est établi pour la première fois entre le neuvième et le douzième mois de service effectif.
+L'évaluation porte sur la période révolue depuis l'entrée en service ou depuis le bulletin d'évaluation précédent.
+Le membre du personnel peut solliciter une nouvelle évaluation, au plus tôt un an après.
