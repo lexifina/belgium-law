@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.734",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67734,
+  "decision_date": "1997-08-26",
+  "date_as_printed": "26 augustus 1997",
+  "chamber": "VII",
+  "role_number": "A. 54.533/VII-12.334",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67734",
+  "source_sha256": "0f043684897c36e37e68109523e95542d6e8a5f38ae501a0e557233fc719325b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
