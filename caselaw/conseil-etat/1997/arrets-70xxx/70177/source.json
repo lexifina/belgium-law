@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.177",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70177,
+  "decision_date": "1997-12-11",
+  "date_as_printed": "11 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 61.243/XIII-270",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70177",
+  "source_sha256": "3bfe4913efa4c64f848d030819c787e5e90f49e4c25eaa7ae50569a3ed694231",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
