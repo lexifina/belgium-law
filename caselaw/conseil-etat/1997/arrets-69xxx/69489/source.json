@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.489",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69489,
+  "decision_date": "1997-11-07",
+  "date_as_printed": "7 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 76.257/XII-633",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69489",
+  "source_sha256": "c3762d9d8c7fb09e2158d17d95afc27a0aa4d1e9cfe0058f5292e45cb5f5d2c9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
