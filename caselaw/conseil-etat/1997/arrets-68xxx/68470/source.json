@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.470",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68470,
+  "decision_date": "1997-09-29",
+  "date_as_printed": "29 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 60.480/XI-2.915",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68470",
+  "source_sha256": "cc9b6e41fc57c31e3874c630d07f70052214d9446d7fc6fc1dbb5f0c2cb19398",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
