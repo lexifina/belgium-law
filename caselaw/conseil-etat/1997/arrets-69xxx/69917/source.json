@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.917",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69917,
+  "decision_date": "1997-12-02",
+  "date_as_printed": "2 december 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.684/XII-399",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69917",
+  "source_sha256": "4343fecc42f054fd81c58c146a385b17543f852be8e65d41a67da49889e219d2",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
