@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.315",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58315,
+  "decision_date": "1996-02-22",
+  "date_as_printed": "22 februari 1996",
+  "chamber": "VII",
+  "role_number": "A. 62.307/VII-13.001",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58315",
+  "source_sha256": "deb0f6ef4880e8f61359339576335b3e2fbf5a554a0d94f669de8d769bfa3ef5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
