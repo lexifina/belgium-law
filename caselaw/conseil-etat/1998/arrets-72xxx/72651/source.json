@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.651",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72651,
+  "decision_date": "1998-03-24",
+  "date_as_printed": "24 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.110/XII-855",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72651",
+  "source_sha256": "3330468f6e36cd24614430319071976974cf04539a2ac33f6c41153ab39ca4cf",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
