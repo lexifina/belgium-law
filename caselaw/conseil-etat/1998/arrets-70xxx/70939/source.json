@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.939",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70939,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 67.293/XI-366",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70939",
+  "source_sha256": "1a9e4c15aff153bfe40ab3028b1beace70cada4a293dde80caea25eda2d69602",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
