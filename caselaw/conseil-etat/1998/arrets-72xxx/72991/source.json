@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.991",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72991,
+  "decision_date": "1998-04-03",
+  "date_as_printed": "3 april 1998",
+  "chamber": "X",
+  "role_number": "A. 72.399/X-7.114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72991",
+  "source_sha256": "9658ef303cff4189901c0a6795f62655785e55175e5a3d68e311039c32009df8",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
