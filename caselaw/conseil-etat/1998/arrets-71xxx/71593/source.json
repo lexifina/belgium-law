@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.593",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71593,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 65.680/VII-13.440",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71593",
+  "source_sha256": "ba7e51d3bb9209a1d3297624cb8f2d036e5cc46f8673b8091e83828c8bf142f8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
