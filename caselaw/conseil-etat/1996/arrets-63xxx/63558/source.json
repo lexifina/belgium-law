@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.558",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63558,
+  "decision_date": "1996-12-12",
+  "date_as_printed": "12 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.999/III-22.117",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63558",
+  "source_sha256": "98225b3da078fd3ff292a20d178397a47bbcc210a43a3079e5c78fadfaaf1a13",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
