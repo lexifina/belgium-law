@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.071",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71071,
+  "decision_date": "1998-01-26",
+  "date_as_printed": "26 januari 1998",
+  "chamber": "IX",
+  "role_number": "A. 67.543/IX-275",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71071",
+  "source_sha256": "a950480a9b3ad6ec5dd809b9851cce56de41e505028db774ced2a88bff97d045",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
