@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.140",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57140,
+  "decision_date": "1995-12-20",
+  "date_as_printed": "20 décembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 64.477/VI-12.497",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57140",
+  "source_sha256": "63c86b487ff962a0297365705757bfd75656a889195dbe0a2b0ea1ce1c8fa614",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
