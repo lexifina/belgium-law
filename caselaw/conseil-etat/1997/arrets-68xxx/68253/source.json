@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.253",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68253,
+  "decision_date": "1997-09-23",
+  "date_as_printed": "23 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 63.118/XI-2.562",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68253",
+  "source_sha256": "548e37840fb2ae25ba2df51e46ee9d505e611e18455d8fb495fe62ace37a3951",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
