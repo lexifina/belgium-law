@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.663",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67663,
+  "decision_date": "1997-08-05",
+  "date_as_printed": "5 augustus 1997",
+  "chamber": "IV",
+  "role_number": "A. 63.225/IV-15.057",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67663",
+  "source_sha256": "2af797e8a7fd49d6f2c9cbed0cd183232b03bc9cde02b393e5e27a9a68665a0a",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
