@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.501",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70501,
+  "decision_date": "1997-12-23",
+  "date_as_printed": "23 décembre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 75.525/VIII-363",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70501",
+  "source_sha256": "308c7be572c880ed14a8d508cb50ea161f8b3b695b22ffc34d547822ecd7915c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
