@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.678",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73678,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 76.359/XIII-378",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73678",
+  "source_sha256": "5816a0b51d341e0658cde64d3561a3bab166ec00d0743441d5b10be20120e8a1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
