@@ -1,4 +1,4 @@
-Pour la nomination d'un attaché, visé à l'article 136, d'un assistant de médiation, d'un traducteur, d'un employé, (...) ainsi que pour la nomination à un grade créé conformément à l'article 185, alinéa 1er, sont prises chaque fois en considération à égalité:
+Pour la nomination d'un attaché, visé à l'article 136, (...), d'un traducteur, d'un employé, (...) ainsi que pour la nomination à un grade créé conformément à l'article 185, alinéa 1er, sont prises chaque fois en considération à égalité:
 1° la candidature du lauréat le mieux classé du concours de recrutement pour le grade concerné;
 2° la candidature des lauréats du concours de recrutement pour le grade concerné, qui sont moins bien classés mais qui exercent déjà ces fonctions sur base d'un contrat de travail à l'endroit où l'emploi est devenu vacant, à condition qu'au moment de la publication de la vacance, ils soient déjà en fonction depuis un an et qu'ils aient obtenu une évaluation avec mention " très bon ", telle que visée à l'article 287ter;
 3° la candidature de ceux qui ont déjà été nommés aux mêmes fonctions dans un autre greffe, parquet ou secrétariat de parquet;

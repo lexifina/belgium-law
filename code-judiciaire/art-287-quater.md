@@ -1,6 +1,6 @@
-§ 1er. Il est établi une chambre de recours nationale, qui est saisie des réclamations introduites par les attachés, visés à l'article 136, par les conseillers en médiation, par les greffiers en chef et par les secrétaires en chef, contre les avis donnés dans le cadre des procédures de nomination ainsi que contre les bulletins d'évaluation.
+§ 1er. Il est etabli une chambre de recours nationale, qui est saisie des réclamations introduites par les attachés, visés à l'article 136, (...), par les greffiers en chef et par les secrétaires en chef, contre les avis donnés dans le cadre des procédures de nomination ainsi que contre les bulletins d'évaluation.
 Cette chambre nationale est établie à Bruxelles.
-Il est établi dans le ressort de chaque cour d'appel une chambre de recours, qui est saisie des réclamations introduites contre les avis donnés dans le cadre des procédures de nomination ainsi que contre les bulletins d'évaluation par les membres des greffes, par les membres des secrétariats de parquet, par les assistants de médiation, par le personnel des greffes et des secrétariats de parquet et par les membres du personnel titulaires des grades créés par le Roi, conformément à l'article 185, alinéa 1er.
+Il est établi dans le ressort de chaque cour d'appel une chambre de recours, qui est saisie des réclamations introduites contre les avis donnés dans le cadre des procédures de nomination ainsi que contre les bulletins d'évaluation par les membres des greffes, par les membres des secrétariats de parquet, (...), par le personnel des greffes et des secrétariats de parquet et par les membres du personnel titulaires des grades crées par le Roi, conformément à l'article 185, alinéa 1er.
 Cette chambre est établie au siège de la cour d'appel.
 La chambre de recours établie dans le ressort de la cour d'appel de Bruxelles est également compétente pour les réclamations introduites par les personnes visées à l'alinéa trois qui exercent leurs fonctions au greffe de la Cour de cassation et au parquet de cette cour.
 Ces chambres comprennent autant de sections qu'il y a de régimes linguistiques parmi les membres du personnel qui peuvent demander à être entendus.
@@ -10,14 +10,14 @@ Le régime linguistique du requérant détermine la section devant laquelle il c
 2° de deux magistrats du parquet près une cour;
 3° de deux greffiers en chef;
 4° de deux secrétaires en chef;
-5° de deux conseillers en médiation;
+5° (abrogé).
 6° d'un attaché au service de documentation et de concordance des textes auprès de la Cour de cassation.
 § 3. La chambre de recours du ressort de chaque cour d'appel est composée, par section:
 1° d'un magistrat du siège;
 2° de deux magistrats du parquet;
 3° de deux greffiers;
 4° de deux secrétaires;
-5° d'un conseiller en médiation et d'un assistant de médiation.
+5° (abrogé).
 § 4. Les membres de la chambre de recours nationale sont désignés, en ce qui concerne les magistrats du siège, par le premier président de la Cour de cassation, et en ce qui concerne les autres membres, par le procureur général près la Cour de cassation. Les membres de la chambre de recours du ressort de la cour d'appel sont désignés, en ce qui concerne les magistrats du siège, selon le cas, par le premier président de la cour d'appel, le premier président de la cour du travail ou le premier président de la cour militaire, et en ce qui concerne les autres membres, selon le cas, par le procureur général près la cour d'appel ou l'auditeur général près la cour militaire.
 Les désignations visées à l'alinéa précédent s'effectuent selon les critères établis par le Roi. Pour chaque catégorie de juridiction, chacune des fonctions énumérées aux §§ 2 et 3 doit être représentée, soit par un membre, soit par un suppléant.
 Il peut être désigné jusqu'à six suppléants pour chacun des membres.

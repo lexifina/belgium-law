@@ -1,3 +1,3 @@
-Les conseillers en médiation et les assistants de médiation prêtent le serment prescrit par le décret du 20 juillet 1831 entre les mains, respectivement, du procureur général et du procureur du Roi, lors de leur première nomination.
+(...)
 Les secrétaires en chef, secrétaires et secrétaires adjoints des parquets prêtent le serment prescrit par le décret du 20 juillet 1831 entre les mains, selon le cas, du procureur général, du procureur du Roi ou de l'auditeur du travail.
 La prestation de serment doit avoir lieu dans le mois de la notification de la nomination, à défaut de quoi celle-ci peut être considérée comme non avenue.
