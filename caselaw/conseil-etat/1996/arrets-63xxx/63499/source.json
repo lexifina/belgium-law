@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.499",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63499,
+  "decision_date": "1996-12-11",
+  "date_as_printed": "11 december 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.156/IV-170",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63499",
+  "source_sha256": "b408a5c4ffca40ced440528e05594b13aa90962b0f4fb4e46390daf69ba783a6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
