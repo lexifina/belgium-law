@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.678",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65678,
+  "decision_date": "1997-03-27",
+  "date_as_printed": "27 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.987/IV-16.486",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65678",
+  "source_sha256": "f331c42dd77b84fb52f7ea14b75921d20c3376c98003337c6f85055c1c5530ed",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
