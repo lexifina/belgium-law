@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.008",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73008,
+  "decision_date": "1998-04-07",
+  "date_as_printed": "7 avril 1998",
+  "chamber": "VIII",
+  "role_number": "A. 74.912/VIII-6",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73008",
+  "source_sha256": "fdc27ed0790a4b49bdce39347cc87b1f737f4be5a3104359c7ad6460b57e1893",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
