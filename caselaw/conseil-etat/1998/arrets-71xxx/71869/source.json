@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.869",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71869,
+  "decision_date": "1998-02-17",
+  "date_as_printed": "17 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 66.584/XI-114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71869",
+  "source_sha256": "4715ef2f47dae9d49710e0e17cecf0dcc630cc44d7d59a40b5ee407a5a722a6a",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
