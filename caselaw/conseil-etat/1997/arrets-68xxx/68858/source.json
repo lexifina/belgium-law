@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.858",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68858,
+  "decision_date": "1997-10-14",
+  "date_as_printed": "14 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 62.158/VII-7.107",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68858",
+  "source_sha256": "8cc8bde9d32cd6b5a852a0a7f27eb350e1939b75b69ec4f684db0bcb3726de3f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
