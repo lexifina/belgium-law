@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.579",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72579,
+  "decision_date": "1998-03-18",
+  "date_as_printed": "18 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 72.608/VI-14.055",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72579",
+  "source_sha256": "1d8d587f95d82af89f1fee2f03b94534522135ad44c1469da3d32628ad951b6a",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
