@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.572",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72572,
+  "decision_date": "1998-03-17",
+  "date_as_printed": "17 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.749/XI-4.195",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72572",
+  "source_sha256": "34a8a8711259eb4483a0af0d0ba9fbb260497c9c7b968be3dcc3a71fad8db85c",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
