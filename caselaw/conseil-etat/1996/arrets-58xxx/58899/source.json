@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.899",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58899,
+  "decision_date": "1996-03-27",
+  "date_as_printed": "27 mars 1996",
+  "chamber": "VI",
+  "role_number": "A. 60.517/VI-12.084",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58899",
+  "source_sha256": "4138308a3d64f47a3508a7a25720c7e8bac86311a57a82d53c876a68e74d94f5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
