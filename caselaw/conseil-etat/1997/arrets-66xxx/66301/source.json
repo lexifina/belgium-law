@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.301",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66301,
+  "decision_date": "1997-05-16",
+  "date_as_printed": "16 mai 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.350/XI-2.327",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66301",
+  "source_sha256": "0220fed576830787570d16d8e953fd0b46ec2def81fecee4f0d99477ee4bdf90",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
