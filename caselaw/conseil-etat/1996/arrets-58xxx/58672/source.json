@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.672",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58672,
+  "decision_date": "1996-03-20",
+  "date_as_printed": "20 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 66.864/IV-15.441",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58672",
+  "source_sha256": "a64196e0f096b15312b835a4e68ba87cbdf0766c3cfcba9cd5e307792673268d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
