@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.308",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66308,
+  "decision_date": "1997-05-20",
+  "date_as_printed": "20 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.879/VII-15.115",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66308",
+  "source_sha256": "58cc9f2daa85f0cfe3763ecd21534c8ee84e6c5a55a272781739072ee75ddb0b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
