@@ -1,1 +1,5 @@
-§ 1. (La cotisation visée à l'article 59, 1°, est fixée à 0,30 p.c. de la rémunération.) La notion de rémunération est celle, prévue par la loi et les arrêtés-loi visés à l'article 1er.§ 2. La cotisation, visée à l'article 59, 1°, est due au Fonds des accidents du travail suivant les modalités, dans les délais et sous peine des sanctions prévues par la loi et les arrêtés-loi visés à l'article 1er.Le Roi peut charger, dans les conditions qu'il détermine, les organismes qui assurent la perception des cotisations en exécution de la loi et des arrêtés-loi précités, de la perception et du recouvrement des cotisations, majorations de cotisations et intérêts de retard, au nom et pour compte du Fonds des accidents du travail sans devoir consulter ce dernier.
+Le Fonds des accidents du travail est en outre alimenté par:
+1° les indemnités supplémentaires visées à l'article 28bis, alinéa 3;
+2° une cotisation, dont le montant est fixé par le Roi, à charge des établissements visés à l'article 51;
+3° les capitaux de rentes constitués en application de l'article 51bis;
+4° les allocations annuelles et rentes visées à l'article 59quinquies, alinéa 2.

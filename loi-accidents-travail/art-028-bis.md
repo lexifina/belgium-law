@@ -1,0 +1,4 @@
+Pour les accidents survenus avant le 1er janvier 1988 les frais pour les soins visés à l'article 28, ne sont à charge de l'assureur que jusqu'à l'expiration du délai fixé à l'article 72. Passé ce délai, ils sont à charge du Fonds des accidents du travail.
+Pour les accidents survenus avant le 1er janvier 1988, le coût des appareils de prothèse et d'orthopédie n'est à charge de l'assureur que jusqu'à la date de l'homologation ou de l'entérinement de l'accord ou de la décision visée à l'article 24.
+Une indemnité supplémentaire représentant le coût probable du renouvellement et de la réparation des appareils est fixée par l'accord ou par la décision et est calculée de la manière fixée par le Roi.
+Cette indemnité est versée par l'assureur au Fonds des accidents du travail dans le mois qui suit l'homologation ou l'entérinement de l'accord ou la décision visée à l'article 24.
