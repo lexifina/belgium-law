@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.193",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74193,
+  "decision_date": "1998-06-10",
+  "date_as_printed": "10 juin 1998",
+  "chamber": "XIII",
+  "role_number": "A. 72.159/XIII-17",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74193",
+  "source_sha256": "3fe8f31286c9c6de16f69377f65a849bee0b9d0290755716b931daab13d001da",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
