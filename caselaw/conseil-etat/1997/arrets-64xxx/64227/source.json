@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.227",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64227,
+  "decision_date": "1997-01-29",
+  "date_as_printed": "29 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.707/III-22.480",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64227",
+  "source_sha256": "f09e192bbf3c891ebfce4d183893433b5df5bcbe40092264648b181889862f06",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
