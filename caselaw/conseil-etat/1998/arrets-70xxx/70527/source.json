@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.527",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70527,
+  "decision_date": "1998-01-05",
+  "date_as_printed": "5 januari 1998",
+  "chamber": "IX",
+  "role_number": "A. 75.596/IX-314",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70527",
+  "source_sha256": "fe866ea91f5677afc4e51c5359609db2bd927fee93c15d40151f5490e1f3895f",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
