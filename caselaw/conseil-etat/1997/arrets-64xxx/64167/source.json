@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.167",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64167,
+  "decision_date": "1997-01-24",
+  "date_as_printed": "24 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.096/III-22.608",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64167",
+  "source_sha256": "938123fcf6e8b97d07aab0a78f213fc9cd402de961bbf4b73f73394c81349c83",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
