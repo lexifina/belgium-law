@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.556",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63556,
+  "decision_date": "1996-12-12",
+  "date_as_printed": "12 december 1996",
+  "chamber": "VII",
+  "role_number": "A. 69.703/VII-8.527",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63556",
+  "source_sha256": "5229a20f6fe61285229ac0380b27e0d36874a5fa9ef6b7095e2123e3ecd4c934",
+  "pages": 15,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
