@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 50.355",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 50355,
+  "decision_date": "1994-11-23",
+  "date_as_printed": "23 novembre 1994",
+  "chamber": "VI",
+  "role_number": "A. 60.187/VI-12.018",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/50355",
+  "source_sha256": "4afd50c98f91759c94c87588b299cc68b965db4df64a6321d3452cd8e16343c7",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
