@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.387",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64387,
+  "decision_date": "1997-02-05",
+  "date_as_printed": "5 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 69.156/IV-170",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64387",
+  "source_sha256": "e448bf84268f2779fa2a40ec0e83a489672a77e0f56cb4601cda12997308cd77",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
