@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.763",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68763,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 46.987/VII-15.011",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68763",
+  "source_sha256": "dd566c315cf9bb13150c79bfc8ba6a12b805fecadbf2ce95539ad393f272cb7e",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
