@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.207",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63207,
+  "decision_date": "1996-11-20",
+  "date_as_printed": "20 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.948/IV-1.947",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63207",
+  "source_sha256": "9682c8531e5cf8440d6d90f82fe8f6e5fb5cb023987c24e75c4746be881d2e0d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
