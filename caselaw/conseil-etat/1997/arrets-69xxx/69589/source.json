@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.589",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69589,
+  "decision_date": "1997-11-14",
+  "date_as_printed": "14 novembre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 73.425/VIII-538",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69589",
+  "source_sha256": "295936ff6cf8f18a6ceb2ae8bfa8fb2ee74c06fa97ad2ca07ee03f28bce02ca8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
