@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.810",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72810,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 mars 1998",
+  "chamber": "XIII",
+  "role_number": "A. 58.217/XIII-317",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72810",
+  "source_sha256": "1ef476d34cd28ef12ea3ef56f9cd16b7d105f04b67d16cab94b5307f0c611867",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
