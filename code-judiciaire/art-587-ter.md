@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Le président du tribunal du travail statue sur les demandes formées en vertu de l'article 3 de la loi 23 avril 1998 portant des dispositions diverses en ce qui concerne l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs.
