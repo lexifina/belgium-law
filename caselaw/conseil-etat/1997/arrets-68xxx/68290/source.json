@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.290",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68290,
+  "decision_date": "1997-09-25",
+  "date_as_printed": "25 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 71.373/XI-1.587",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68290",
+  "source_sha256": "446172a66a893abb7377f8e6704781e3c416f8b207c3a2a054447ce0e1d9d3d4",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
