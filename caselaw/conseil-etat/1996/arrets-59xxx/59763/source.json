@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.763",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59763,
+  "decision_date": "1996-05-22",
+  "date_as_printed": "22 mai 1996",
+  "chamber": "VI",
+  "role_number": "A. 65.995/VI-12.864",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59763",
+  "source_sha256": "e70faa09df127fce8965e03a8fcff9933b87731365f8010e67590be6ec147f20",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
