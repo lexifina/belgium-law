@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.456",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73456,
+  "decision_date": "1998-05-05",
+  "date_as_printed": "5 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 71.686/XII-576",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73456",
+  "source_sha256": "87cf2dba2904c0be3fb98d984ae7fe2b9cf7dbef2b89c69b426ceb3d2383c74a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
