@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.413",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60413,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 67.286/VII-6.549",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60413",
+  "source_sha256": "219d350efbc9000b8815b763ec1a873f7219639866d0a2b37729ceb2bfaf354f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
