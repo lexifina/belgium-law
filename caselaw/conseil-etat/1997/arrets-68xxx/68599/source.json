@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.599",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68599,
+  "decision_date": "1997-10-02",
+  "date_as_printed": "2 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.735/XI-3.339",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68599",
+  "source_sha256": "031578e6a08394edab23fe30f5fe2a1f2152976debf2c12c159b176d30afa59d",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
