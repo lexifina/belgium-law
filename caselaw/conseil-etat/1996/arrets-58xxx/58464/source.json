@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.464",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58464,
+  "decision_date": "1996-03-06",
+  "date_as_printed": "6 mars 1996",
+  "chamber": "VI",
+  "role_number": "A. 63.787/VI-12.361",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58464",
+  "source_sha256": "a5e76630eaadb8953a065b200e5430e24a01834db20965d989f8a5f7cf04fddc",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
