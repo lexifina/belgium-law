@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.035",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58035,
+  "decision_date": "1996-02-07",
+  "date_as_printed": "7 februari 1996",
+  "chamber": "IV",
+  "role_number": "A. 65.070/IV-15.266",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58035",
+  "source_sha256": "4d33bfe56c628c758296382a70850c118530e7cf60c6295e9d5b54ce5688a408",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
