@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.667",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69667,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.246/XI-3.639",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69667",
+  "source_sha256": "6d4918d5de94117efe47f6595ec1deaf689c79d2938337a59205c4ad2adff535",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
