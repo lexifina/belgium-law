@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.497",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58497,
+  "decision_date": "1996-03-07",
+  "date_as_printed": "7 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 65.012/VII-10.143",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58497",
+  "source_sha256": "4a8903038f75080507cca28a8ac4deb6d6820948b292ecd05d0b806e6bb05c28",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
