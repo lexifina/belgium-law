@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.936",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64936,
+  "decision_date": "1997-02-28",
+  "date_as_printed": "28 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.314/III-22.672",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64936",
+  "source_sha256": "b957b7903c11bd53fcf4a77136f32034138847ed9b101750f03dd76770d7e5e0",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
