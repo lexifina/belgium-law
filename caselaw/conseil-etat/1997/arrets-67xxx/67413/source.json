@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.413",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67413,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 73.183/III-22.910",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67413",
+  "source_sha256": "d0b661443d18a5e52e9b6c0c5fff4e6abbd9b0bbbe938bd07bec63d2533b670e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
