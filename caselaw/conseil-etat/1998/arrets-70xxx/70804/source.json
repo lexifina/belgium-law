@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.804",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70804,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 63.577/XI-2.833",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70804",
+  "source_sha256": "0839c62af66450a4d4584a0d2ae8c55c9037e240f40c19743a1852fe3268fd58",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
