@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.541",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67541,
+  "decision_date": "1997-07-22",
+  "date_as_printed": "22 juillet 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.833/XI-2.444",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67541",
+  "source_sha256": "9f08b09662cbb5aa216bde6aee7ce30eb0b6fc1de538c0a761a16efbe46b87a1",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
