@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.771",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67771,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "III",
+  "role_number": "A. 61.640/III-20.032",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67771",
+  "source_sha256": "ac45b2b03b81a214f300022d1bf5369848cb81b3963bf8451c633679f22bde9e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
