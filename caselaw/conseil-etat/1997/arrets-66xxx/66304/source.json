@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.304",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66304,
+  "decision_date": "1997-05-20",
+  "date_as_printed": "20 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 71.059/VII-14.665",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66304",
+  "source_sha256": "6c8c1fb8372cfe21d5f0bf185daf8847a851123d92ad85936c5fbd4913ffa01e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
