@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.786",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70786,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 76.943/XII-788",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70786",
+  "source_sha256": "5fa1eba28358f29c5858c3a22d9a2a49b6f04eadceacf78e32a2b4cccb05e088",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
