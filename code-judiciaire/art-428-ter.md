@@ -1,7 +1,7 @@
 § 1er. (Selon le barreau auquel l'inscription est demandée, l'Ordre des barreaux francophones et germanophone ou l'Orde van Vlaamse balies est l'autorité habilitée à):
 1° recevoir les demandes;
 2° vérifier si le candidat, pour être admis à l'épreuve d'aptitude, satisfait aux conditions de l'article 428bis, alinéa 1er, 1° et 2°;
-3° décider, à la lumière du relevé mentionné à l'article 428bis, alinéa 1er, 2°, d, et de (la liste figurant à l'article 428quater, § 2), si la formation que le candidat a recue porte sur des matières substantiellement différentes de celles couvertes par le diplôme belge de licencié en droit;
+3° (décider, à la lumière des documents visés à l'article 428bis, alinéa 1er, 2°, d), et de la liste figurant à l'article 428quater, § 2, si la formation que le candidat a reçue ou son expérience professionnelle porte sur des matières substantiellement différentes de celles couvertes par le diplôme belge de licencié ou de master en droit;)
 4° notifier au candidat la décision relative à la recevabilité de sa requête, et, lorsque celle-ci est jugée recevable, notifier au candidat, le cas échéant, qu'il est tenu de présenter l'épreuve d'aptitude.
 § 2. Les documents adressés par le candidat (à l'Ordre des barreaux francophones et germanophone ou à l'Orde van Vlaamse balies) doivent:
 1° être délivrés par les autorités compétentes de l'Etat membre d'origine ou de provenance, à savoir, les pouvoirs publics, les établissements d'enseignement et les organisations professionnelles comparables aux institutions belges;
