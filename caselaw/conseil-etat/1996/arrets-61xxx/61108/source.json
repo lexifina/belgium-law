@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.108",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61108,
+  "decision_date": "1996-08-02",
+  "date_as_printed": "2 août 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.109/XI-1.318",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61108",
+  "source_sha256": "fd090563c2a993fd02b6493e8bc69598528d15807b73ae9cd432788e56387754",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
