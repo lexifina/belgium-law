@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.443",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69443,
+  "decision_date": "1997-11-05",
+  "date_as_printed": "5 novembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 68.461/VI-13.098",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69443",
+  "source_sha256": "388c678ab1c8528ea273c241c31f9ba63a709814f764f2b8ed280dfed3376406",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
