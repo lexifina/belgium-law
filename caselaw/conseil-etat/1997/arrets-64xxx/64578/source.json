@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.578",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64578,
+  "decision_date": "1997-02-18",
+  "date_as_printed": "18 februari 1997",
+  "chamber": "VII",
+  "role_number": "A. 64.498/VII-13.279",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64578",
+  "source_sha256": "d5f26a764926aeab4cdcfa180b84b0f4109af161ded5c2268e3d8e9770faccc9",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
