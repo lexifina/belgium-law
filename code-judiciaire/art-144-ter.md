@@ -3,7 +3,7 @@
 - aux articles 101 à 136 du Code pénal;
 - aux articles 331bis, 477 à 477sexies et 488bis du Code pénal;
 - à l'article 77bis, §§ 2 et 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
-- aux articles 1er et 2 de la loi du 16 juin 1993 relative à la répression des violations graves du droit international humanitaire;
+- (...)
 2° les infractions commises avec usage de violence à l'encontre de personnes ou d'intérêts matériels, pour des motifs idéologiques ou politiques, dans le but d'atteindre ses objectifs par la terreur, l'intimidation ou les menaces;
 3° les infractions qui, dans une large mesure, concernent plusieurs ressorts ou qui ont une dimension internationale, en particulier celles de la criminalité organisée;
 4° les infractions commises à l'occasion de l'importation, l'exportation et le transit d'armes, de munitions et de matériel devant servir spécialement à un usage militaire et de la technologie y afférente, dans les cas où le ministère public exerce l'action publique;

@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(ancien art. 144quater) La coordination de l'exercice de l'action publique et la facilitation de la coopération internationale se font en concertation avec un ou plusieurs procureurs du Roi ou auditeurs du travail. Si nécessaire, le procureur fédéral peut à cet effet donner des instructions contraignantes à un ou plusieurs procureurs du Roi ou auditeurs du travail, après en avoir informé le procureur général territorialement compétent et sauf décision contraire de sa part.
