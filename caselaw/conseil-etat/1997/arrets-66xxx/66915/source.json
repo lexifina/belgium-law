@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.915",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66915,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.549/IV-554",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66915",
+  "source_sha256": "293279aeb3a043c973c372443c97993a1315c1302e69d1c4a1188f0116a5c157",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
