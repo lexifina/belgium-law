@@ -1,4 +1,4 @@
-<a name="Art.6">Art.</a> <a href="#Art.13"> 6</a>. § 1. Les matières visées à l'article 107quater de la Constitution sont :
+<a name="Art.6">Art.</a> <a href="#Art.16"> 6</a>. § 1. Les matières visées à l'article 107quater de la Constitution sont :
 I. En ce qui concerne l'aménagement du territoire :
 1° L'urbanisme et l'aménagement du territoire;
 2° Les plans d'alignement de la voirie communale;
@@ -79,6 +79,7 @@ IX. (En ce qui concerne la politique de l'emploi :
 1° Le placement des travailleurs;
 2° Les programmes de remise au travail des chômeurs complets indemnisés ou des personnes assimilées à l'exclusion des programmes de remise au travail dans les administrations et services de l'autorité nationale ou placés sous sa tutelle.
 Pour chaque chômeur complet indemnisé ou chaque personne assimilée par ou en vertu de la loi, placé, dans le cadre d'un contrat de travail, dans un programme de remise au travail, l'autorité nationale octroie une intervention financière dont le montant fixé par arrêté royal délibéré en Conseil des Ministres correspond à une indemnité de chômage.
+(L'intervention financière visée à l'alinéa précédent peut varier en fonction de la durée du chômage du chômeur remis au travail. Le montant de cette intervention est fixée avec l'accord des Exécutifs régionaux.) &lt;L 1989-01-16/30, art. 70, 004; <b> En vigueur : </b> 1989-01-01&gt;
 Sans préjudice des dispositions précitées, et jusqu'à l'expiration de la durée de validité du Fonds budgétaire interdépartemental créé par l'arrêté royal n° 25 du 24 mars 1982, la réglementation existante reste applicable aux conventions, visées à la section 5 du même arrêté n° 25, conclues avant l'entrée en vigueur de la loi visée à l'article 115, dernier alinéa, de la Constitution.) &lt;L 1988-08-08/30, art. 4, § 13, 002; <b> En vigueur : </b> 1989-01-01&gt;
 X. (En ce qui concerne les travaux publics et le transport :
 1° les routes et leurs dépendances;
@@ -122,22 +123,12 @@ Lorsque les dispositions des 1°, 2° et 3° concernent des situations relatives
 2° le Ministre de l'Intérieur, de la gestion des associations de communes dont le ressort s'étend à plus d'une Région.
 § 7. Les Exécutifs visés aux § 2 à 6 sont les Exécutifs prévus par la présente loi ainsi que l'autorité compétente pour le territoire autre que celui de la Région wallonne ou de la Région flamande.
 
-<a name="Art.13" href="#Art.6">Art.</a> <a href="#Art.14"> 13</a>. § 1. Chaque Conseil vote annuellement le budget et arrêté les comptes.
-Toutes les recettes et dépenses sont portées au budget et dans les comptes.
-§ 2. Les dispositions des lois du 15 mai 1846 et du 28 juin 1963 sur la comptabilité de l'Etat sont d'application au budget.
-§ 3. (abrogé) &lt;L 1988-08-08/30, art. 16, 4°, 002; <b> En vigueur : </b> 1989-01-01&gt;
-§ 4. La loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes et les dispositions relatives au Comité supérieur de contrôle sont applicables à la Communauté et à la Région.
-§ 5. Les attributions que fixent les lois précitées sont exercées, selon le cas, par les organes correspondants de la Communauté ou de la Région.
-§ 6. (abrogé) &lt;L 1988-08-08/30, art. 16, 4°, 002; <b> En vigueur : </b> 5555-55-55; voir art. 18, § 3, al. 2 de L 1988-08-08&gt;
+<a name="Art.16" href="#Art.6">Art.</a> <a href="#Art.81"> 16</a>. § 1. L'assentiment à tout traité ou accord relatif à la coopération dans les matières visées à l'article 59bis, § 2, 1° et 2°, et § 2bis de la Constitution et aux articles 4 et 5 de la présente loi est donnée soit par le Conseil de la Communauté francaise, soit par le Conseil flamand, soit par ces deux Conseils s'ils sont l'un et l'autre concernés.
+§ 2. Les traités visés au § 1er sont présentés au Conseil compétent par l'Exécutif de la Communauté.
 
-<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.91bis"> 14</a>. La Communauté et la Région peuvent contracter des emprunts. Elles peuvent également émettre des emprunts publics dans le cadre d'une programmation fixée par le Conseil des Ministres.
-Les conditions de chacun de ces emprunts seront soumises par l'Exécutif à l'approbation du Ministre des Finances. En cas de refus d'approbation, l'Exécutif peut demander que l'affaire soit déférée au Conseil des Ministres pour décision.
-Les dates des émissions publiques seront fixées après concertation entre les Exécutifs et le Ministre des Finances. En cas de désaccord, le Conseil des Ministres décide.
+<a name="Art.81" href="#Art.16">Art.</a> <a href="#Art.92bis"> 81</a>. Dans les matières qui relèvent de la compétence du Conseil, son Exécutif est associé aux négociations des accords internationaux, le Roi restant le seul interlocuteur sur le plan international dans le respect de l'article 68 de la Constitution.
 
-<a name="Art.91bis" href="#Art.14">Art.</a> <a href="#Art.92bis"> 91bis</a>. &lt;L 1988-08-08/30, art. 14, 002; <b> En vigueur : </b> 1989-01-01&gt;
-En vue de l'exercice des compétences attribuées par la Constitution, les membres du personnel de l'enseignement visé à l'article 17 de la Constitution, organisé par l'Etat, des Fonds et des Services d'inspection, visés par la loi du 29 mai 1959 modifiant certaines dispositions de la législation sur l'enseignement, sont transférés à la Communauté francaise ou à la Communauté flamande, selon le cas.
-
-<a name="Art.92bis" href="#Art.91bis">Art.</a> <a href="#Art.94"> 92bis</a>. &lt;L 1988-08-08/30, art 15, 002; <b> En vigueur : </b> 1989-01-01&gt;
+<a name="Art.92bis" href="#Art.81">Art.</a> <a href="#Art.92quater"> 92bis</a>. &lt;L 1988-08-08/30, art 15, 002; <b> En vigueur : </b> 1989-01-01&gt;
 § 1. L'Etat, les Communautés et les Régions peuvent conclure des accords de coopération qui portent notamment sur la création et la gestion conjointes de services et institutions communs, sur l'exercice conjoint de compétences propres, ou sur le développement d'initiatives en commun.
 Les accords de coopération sont négociés et conclus par l'autorité compétente. Le cas échéant, ils n'ont d'effet qu'après avoir été approuvés, selon le cas, par la loi ou le décret.
 § 2. Les Régions concluent en tout cas des accords de coopération pour le règlement des questions relatives :
@@ -145,9 +136,18 @@ a) à l'hydrologie et à la maîtrise des eaux, aux voies hydrauliques qui dépa
 b) aux troncons de routes et aux biefs des voies hydrauliques qui dépassent les limites d'une Région et aux ports situés sur le territoire de plus d'une Région;
 c) aux services de transport en commun urbains et vicinaux et services de taxis qui s'étendent sur le territoire de plus d'une Région.
 § 3. L'autorité nationale compétente et les Régions concluent en tout cas un accord de coopération pour l'entretien, l'exploitation et le développement des réseaux de télécommunication et de télécontrôle, qui, en rapport avec le transport et la sécurité, dépassent les limites d'une Région.
+(§ 4. Les Communautés concluent en tout cas un accord de coopération pour le règlement des questions relatives à l'Ecole de Navigation à Ostende et à Anvers et son internat.
+§ 5. Les litiges entre les parties contractantes aux accords prévus aux §§ 2, 3 et 4, nés de l'interprétation ou de l'exécution de ces accords, sont tranchés par une juridiction organisée par la loi.
+Chaque partie désigne un des membres de cette juridiction.
+Les contestations relatives à la récusation du président ou d'un membre de la juridiction sont tranchées par le président en exercice de la Cour d'arbitrage.
+Les accords règlent le mode de désignation de ces membres autres que le président.
+Le président est coopté par les membres; à défaut de désignation des membres ou de cooptation du président, la désignation est faite par la président en exercice de la Cour d'Arbitrage.
+La décision prononcée n'est pas susceptible de recours et peut faire l'objet d'exécution forcée.
+Elle fixe le délai maximum dans lequel elle doit être exécutée et, le cas échéant, peut autoriser qu'à la partie défaillante et aux frais de celle-ci,soit substituée l'autre partie.
+Les accords déterminent le règlement des frais de fonctionnement de la juridiction.
+La loi visée à l'alinéa 1er règle la procédure suivie par la juridiction Elle garantit le respect des droits de la défense.
+§ 6. Les parties aux accords de coopération autres que ceux visés aux §§ 2, 3 et 4 peuvent également leur rendre applicables les dispositions contenues au § 5. &lt;L 1989-01-16/30, art. 66, 004; <b> En vigueur : </b> 01-01-1989&gt;
 
-<a name="Art.94" href="#Art.92bis">Art.</a> <a href="#Art.97"> 94</a>. Sans préjudice des dispositions de l'article 83, § 2 et 3, les autorités chargées d'attributions par les lois et règlements dans les matières relevant de la compétence des Communautés et des Régions, continuent d'exercer ces attributions selon les procédures fixées par les règles existantes, tant que celles-ci n'auront pas été modifiées ou abrogées par leurs Conseils ou leurs Exécutifs.
+<a name="Art.92quater" href="#Art.92bis">Art.</a> <a href="#Art.99"> 92quater</a>. &lt;Cet article n'a été inséré que par L 1993-05-05/65, art. 4, 004; <b> En vigueur : </b> 18-05-1993&gt;
 
-<a name="Art.97" href="#Art.94">Art.</a> <a href="#Art.98"> 97</a>. &lt;inséré par L 1989-01-16/30, art. 78, 004; <b> En vigueur : </b> 1989-01-01&gt;
-
-<a name="Art.98" href="#Art.97">Art.</a> 98. &lt;inséré par L 1989-01-16/30, art. 78, 004; <b> En vigueur : </b> 1989-01-01&gt;
+<a name="Art.99" href="#Art.92quater">Art.</a> 99. &lt;Cet article n'a été inséré que par L 1993-05-05/65, art. 1, 005; <b> En vigueur : </b> 18-05-1993&gt;
