@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.004",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63004,
+  "decision_date": "1996-11-07",
+  "date_as_printed": "7 november 1996",
+  "chamber": "VII",
+  "role_number": "A. 68.688/VII-14.230",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63004",
+  "source_sha256": "f6f66ea0c7b7c64cd607a4b8e62ac7c6fee2fc3c6d88d402f9a2a6a04b5678c3",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
