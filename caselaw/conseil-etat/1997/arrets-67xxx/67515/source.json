@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.515",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67515,
+  "decision_date": "1997-07-14",
+  "date_as_printed": "14 juli 1997",
+  "chamber": "IV",
+  "role_number": "A. 74.885/IV-410",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67515",
+  "source_sha256": "ba5c52d4220dff285fc59c4722ce8fdd329ca062c2e04b15d0e7f8f0cea79688",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
