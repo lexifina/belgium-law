@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.361",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66361,
+  "decision_date": "1997-05-22",
+  "date_as_printed": "22 mai 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.293/XI-2.318",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66361",
+  "source_sha256": "b4299b87a6d2240599c973822bd5d65087a56326625ad8359de49046930cc29f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
