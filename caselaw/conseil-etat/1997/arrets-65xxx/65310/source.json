@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.310",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65310,
+  "decision_date": "1997-03-18",
+  "date_as_printed": "18 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 69.714/III-22.397",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65310",
+  "source_sha256": "057a52003680358589eab73f53cdbc414ab1fa508ffcb10b02b1ac66dae4440a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
