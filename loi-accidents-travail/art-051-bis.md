@@ -1,0 +1,3 @@
+Si, à l'expiration du délai visé à l'article 72, la rente est calculée sur un taux d'incapacité permanente de travail inférieure à 10 p.c., l'assureur verse le capital de la rente au Fonds des accidents du travail, dans le courant du premier mois du trimestre qui suit l'expiration du délai visé à l'article 72.
+Un complément de capital est versé au Fonds des accidents du travail pour la période située entre le premier jour du mois susvisé et le jour du versement du capital, en application de l'alinéa précédent.
+L'assureur avertit la victime avant le transfert du capital de la rente au Fonds des accidents du travail.
