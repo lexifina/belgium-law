@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.322",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63322,
+  "decision_date": "1996-11-28",
+  "date_as_printed": "28 novembre 1996",
+  "chamber": "VII",
+  "role_number": "A. 70.352/VII-453",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63322",
+  "source_sha256": "8d7d1206e4d40aa9e806861afac266986ba4430faf1bf2699c130d7244229a03",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
