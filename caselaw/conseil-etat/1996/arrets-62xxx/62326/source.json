@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.326",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62326,
+  "decision_date": "1996-10-04",
+  "date_as_printed": "4 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 69.460/III-22.470",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62326",
+  "source_sha256": "4f977351a89f5f7eb7bd48a08f8d1d8241ab79f285c4c3625abb205dd6bb9109",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
