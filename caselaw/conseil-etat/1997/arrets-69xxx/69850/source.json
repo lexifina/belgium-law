@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.850",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69850,
+  "decision_date": "1997-11-26",
+  "date_as_printed": "26 novembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 45.184/VI-10.313",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69850",
+  "source_sha256": "b31aaf18854c0e3a22436f73832692783d836ce1f89b1f1bf8b5f881db84daf8",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
