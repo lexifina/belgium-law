@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.448",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73448,
+  "decision_date": "1998-05-05",
+  "date_as_printed": "5 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 73.350/XII-540",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73448",
+  "source_sha256": "d419bd3ef22a6db5cb28c35feb49f4b43a079fe783ff7e3ead602aec8679c127",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
