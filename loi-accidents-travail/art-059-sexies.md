@@ -1,1 +1,2 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Le Fonds des accidents du travail ajoute les produits nets du système de capitalisation et de répartition ainsi que du service " Prothèse " aux soldes de la gestion des rentes, qui sont transférés à la réserve sans affectation spéciale et à la réserve affectée.
+Le mode de calcul et la fixation du montant maximum des soldes des comptes de résultats des diverses gestions spéciales et le transfert aux réserves spéciales sont englobés dans le règlement financier du Fonds conformément aux dispositions de l'article 7 de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
