@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.331",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69331,
+  "decision_date": "1997-11-03",
+  "date_as_printed": "3 november 1997",
+  "chamber": "IX",
+  "role_number": "A. 39.040/IX-249",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69331",
+  "source_sha256": "bf81497faca1f3cec4981c167222287c343e2e8d44fbdc3a48d59b938f698c2a",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
