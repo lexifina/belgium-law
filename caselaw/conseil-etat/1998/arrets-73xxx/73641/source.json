@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.641",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73641,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 76.030/X-8.006",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73641",
+  "source_sha256": "896dcb8bd4bae3e0dedcc241ea1b6139c1d142550fb95704417bd828269a22d7",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
