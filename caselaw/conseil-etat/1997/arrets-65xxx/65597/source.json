@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.597",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65597,
+  "decision_date": "1997-03-21",
+  "date_as_printed": "21 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 73.077/III-22.900",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65597",
+  "source_sha256": "c558a80cfe26b9724cd7be3d27833949fbe4c2a5b879749711fa272d28a4b44b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
