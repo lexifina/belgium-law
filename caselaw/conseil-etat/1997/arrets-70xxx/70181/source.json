@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.181",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70181,
+  "decision_date": "1997-12-11",
+  "date_as_printed": "11 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 61.127/XIII-320",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70181",
+  "source_sha256": "217ef1f2db39f60d163f916c52495199366965b956511b88e9aec88c700ad634",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
