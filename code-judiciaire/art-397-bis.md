@@ -1,2 +1,2 @@
-Les référendaires cessent d'exercer leurs fonctions et sont admis à la retraite lorsqu'ils ont atteint l'âge de soixante-cinq ans ou lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions.
-La loi générale sur les pensions civiles est applicable aux référendaires mis à la retraite.
+Les référendaires (près la Cour de cassation ainsi que les référendaires et les juristes de parquet près les cours d'appel et les tribunaux de première instance) cessent d'exercer leurs fonctions et sont admis à la retraite lorsqu'ils ont atteint l'âge de soixante-cinq ans ou lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions.
+La loi générale sur les pensions civiles est applicable aux référendaires (et juristes de parquet) mis à la retraite.
