@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.556",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71556,
+  "decision_date": "1998-02-04",
+  "date_as_printed": "4 février 1998",
+  "chamber": "VI",
+  "role_number": "A. 53.810/VI-14.015",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71556",
+  "source_sha256": "7c79590525393affcf198f1b5cb337973df7e995718fbcfd39e73f2ce19968af",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
