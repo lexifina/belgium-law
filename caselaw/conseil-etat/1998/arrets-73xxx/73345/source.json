@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.345",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73345,
+  "decision_date": "1998-04-28",
+  "date_as_printed": "28 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 68.521/XI-764",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73345",
+  "source_sha256": "e1ffd9cf8ed13472546acca3ff4e2aa6160ad74a59e90e42352ef8f37aba953a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
