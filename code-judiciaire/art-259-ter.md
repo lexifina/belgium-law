@@ -1,0 +1,24 @@
+§ 1. Avant de procéder à toute nomination aux fonctions visées par les articles 187, 188, 190, 191, 192, 193, 194, 207, § 2, 208 et 209, le ministre de la Justice recueille l'avis du comité du ressort où la nomination doit intervenir. Ce comité est composé comme prévu au § 3.
+L'avis fait l'objet d'un procès-verbal motivé et signé par chaque membre du comité ou son représentant délégué ayant participé à la séance du comité.
+L'avis est notifié à l'intéressé. Celui-ci dispose alors d'un délai de dix jours pour saisir le comité de ses observations et demander à être entendu, assisté le cas échéant d'un conseil qu'il choisira au sein du barreau ou de la magistrature.
+L'avis définitif est communiqué au ministre de la Justice par le procureur général ou, le cas échéant, l'auditeur général ou par leur representant délégué, dans les quarante jours suivant la réception de la demande d'avis ou, si l'intéressé a fait usage de la possibilité prévue au troisième alinéa, dans les trente jours suivant soit la réception de ses observations, soit son audition par le comité.
+§ 2. Le comité peut proposer au ministre de la Justice d'exclure un stagiaire judiciaire. Dans ce cas, le comité communique au ministre un rapport écrit et motivé sur l'exclusion du stagiaire, nommé conformément à l'article 259quater et qui a accompli au moins douze mois de stage, lorsque cette exclusion est motivée par l'inaptitude de l'intéressé.
+Le rapport peut être communiqué à tout moment du stage, lorsque l'exclusion est motivée par l'inconduite notoire ou des absences répétées et injustifiées.
+Dans ces cas, le comité doit notifier au préalable sa proposition à l'intéressé, celui-ci disposant alors d'un délai de dix jours pour saisir le comité de ses observations et demander à être entendu, assisté le cas échéant du conseil de son choix.
+Le ministre statue par décision motivée, après avoir entendu l'intéressé.
+§ 3. Dans chacun des ressorts des cours d'appel et du travail, est constitué un comité composé:
+1° du premier président de la Cour d'appel ou, le cas échéant, du premier président de la Cour du travail ou du président de la Cour militaire si la nomination a pour objet soit une fonction dans une juridiction du travail, soit une fonction dans une juridiction militaire;
+2° du procureur général ou, le cas échéant, de l'auditeur général près la Cour militaire;
+3° du président du tribunal de première instance, du travail ou de commerce selon le cas, soit de l'arrondissement où la nomination doit intervenir lorsque le comité doit rendre un avis conformément au § 1er, soit de l'arrondissement où s'exerce le stage lorsque le comité doit rendre un rapport conformément au § 2.
+4° du procureur du Roi ou de l'auditeur du travail, soit de l'arrondissement où la nomination doit intervenir lorsque le comité doit rendre un avis conformément au § 1er, soit de l'arrondissement où s'exerce le stage lorsque le comité doit rendre un rapport conformément au § 2, ou, le cas échéant, de l'auditeur militaire près le Conseil de guerre de Bruxelles ou celui compétent en raison du lieu de l'accomplissement du stage.
+5° des maîtres de stage visés à l'article 259quater, § 2, quatrième alinéa, lorsque le comité doit communiquer un rapport sur un stagiaire judiciaire, conformément au § 2;
+6° - soit, du bâtonnier et de trois avocats, provenant de l'arrondissement où la nomination doit intervenir, lorsque le comité doit rendre un avis conformément au § 1er, ou de l'arrondissement où s'exerce le stage, lorsque le comité doit rendre un rapport conformément au § 2, dans les cas où le comité doit rendre un avis préalablement à une nomination aux fonctions visées par les articles 187, 188, 191, 192 et 194;
+- soit, du bâtonnier et de deux avocats, provenant de l'arrondissement où la nomination doit intervenir, dans les cas où le comité doit rendre un avis préalablement à une nomination aux fonctions visees par les articles 190, 193, 207, § 2, 208 et 209.
+Lors de son installation, le conseil de l'ordre désigne en son sein trois avocats effectifs et trois avocats suppléants à cet effet.
+§ 4. Le comité élit en son sein le président, qui fixe l'ordre des travaux.
+Le cas échéant, à l'exception des maîtres de stage, chaque membre du comité pourra être remplacé au sein de celui-ci, conformément aux règles prévues aux articles 319, 324 et 447.
+Le comité ne peut valablement délibérer que si la moitié au moins de ses membres se trouve réunie.
+Le Roi détermine, s'il y a lieu, les modalités de fonctionnement des comités d'avis.
+§ 5. Les fonctions de membre des comités d'avis sont incompatibles avec l'exercice de tout mandat politique.
+§ 6. Pour l'établissement de leur avis, les comités peuvent recueillir tous les renseignements qu'ils jugent nécessaires.
+§ 7. Les membres des comités sont tenus au secret. L'article 458 du Code pénal leur est applicable.

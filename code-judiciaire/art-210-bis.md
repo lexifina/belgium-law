@@ -1,2 +1,2 @@
-Les présidents et les conseillers appelés à sièger seuls dans les cas visés à l'article 109bis, § 1er, 2° et 3°, et § 2, sont désignés par le premier président de la cour d'appel, sur l'avis écrit et motivé du procureur général.
+(Les presidents et les conseillers siégeant seuls dans les cas visés à l'article 109bis, § 1er, 2° et 3°, et § 2, sont choisis par le premier président de la cour d'appel, sur l'avis écrit et motivé du procureur général, parmi les conseillers qui sont nommés depuis trois ans au moins et, à défaut, parmi les conseillers qui sont nommés depuis un an au moins.)
 Ils peuvent aussi siéger à leur rang dans les autres chambres de la cour.
