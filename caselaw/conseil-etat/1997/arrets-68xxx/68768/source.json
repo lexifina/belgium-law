@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.768",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68768,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 69.690/XI-1.191",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68768",
+  "source_sha256": "0a9986b811332455141495262072a0843938cd464827cc8280228e8f72b4650f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
