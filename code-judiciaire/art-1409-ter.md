@@ -1,0 +1,6 @@
+Le débiteur saisi qui peut prétendre à la majoration de la partie des revenus insaisissables en application de l'article 1409, § 1er, alinéa 4, ou 1409, § 1erbis, alinéa 4, en fait la déclaration à l'huissier instrumentant en utilisant le formulaire dont le modèle est arrêté par le Ministre de la Justice.
+Il joint à cette déclaration tout élément permettant d'établir la réalité de ses prétentions ainsi qu'une déclaration sur l'honneur que l'enfant ne dispose pas de revenus d'un montant supérieur à celui déterminé par le Roi ou que ses revenus ont fait l'objet d'une déclaration fiscale commune.
+L'huissier apprécie sur base des pièces produites et dresse procès-verbal dont copie est notifiée aux parties sans délai.
+Les difficultés d'application de cet article sont tranchées selon la procédure visée à l'article 1408, § 3, du Code judiciaire.
+La déclaration porte effet à la première échéance de paiement des sommes saisies qui suit et est valable pendant un an. Avant l'expiration de ce délai, le titulaire des revenus saisis peut procéder à une nouvelle déclaration.
+En cas de contestation, la part des revenus saisis qui fait l'objet du litige est bloquée entre les mains de l'huissier jusqu'à l'intervention d'un accord ou du jugement.
