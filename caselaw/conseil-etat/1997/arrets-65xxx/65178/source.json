@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.178",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65178,
+  "decision_date": "1997-03-12",
+  "date_as_printed": "12 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 70.481/IV-10.339",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65178",
+  "source_sha256": "4fcfb512fecd5e59132d14db4faaf69f5d8307785e2f01b06e6aa3a420963c49",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
