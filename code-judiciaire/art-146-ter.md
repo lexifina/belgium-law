@@ -1,0 +1,1 @@
+Les procureurs généraux, les procureurs du Roi et les auditeurs du travail de leur ressort veillent, en concertation, à la qualité de l'organisation et du fonctionnement des parquets de première instance et des auditorats du travail.

@@ -1,0 +1,2 @@
+Sans préjudice de l'application de l'article 143bis, les procureurs généraux près les cours d'appel procurent aux parquets de première instance et aux auditorats du travail de leur ressort l'appui nécessaire à l'exercice de l'action publique.
+A cet effet, chaque procureur général peut désigner au sein du parquet général ou de l'auditorat général des magistrats chargés plus particulièrement d'une mission permanente d'information, de documentation et de conseil dans un ou plusieurs domaines déterminés.
