@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.041",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65041,
+  "decision_date": "1997-03-07",
+  "date_as_printed": "7 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.803/III-22.745",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65041",
+  "source_sha256": "7e50d10556429482571ee1f55680e5969c4c9f96a64207175d3948e2e3dd8228",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
