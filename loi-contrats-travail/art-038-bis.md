@@ -1,1 +1,1 @@
-En cas de congé donné par l'employeur, le délai de préavis ne court pas pendant les jours de repos compensatoire octroyés en application de l'article 26bis de la loi du 16 mars 1971 sur le travail.
+En cas de congé donné par l'employeur, le délai de préavis ne court pas pendant les jours de repos compensatoire octroyés en application de l'article 26bis de la loi du 16 mars 1971 sur le travail (et de l'article 8, § 3, de la loi du 14 décembre 2000 fixant certains aspects de l'aménagement du temps de travail dans le secteur public).
