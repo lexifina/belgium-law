@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.456",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72456,
+  "decision_date": "1998-03-13",
+  "date_as_printed": "13 mars 1998",
+  "chamber": "VIII",
+  "role_number": "A. 76.416/VIII-625",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72456",
+  "source_sha256": "40ef4664b6f1ada802a565fceac619628992f221d5b8659f1a41607c2b509f46",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
