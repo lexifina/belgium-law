@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.857",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67857,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 augustus 1997",
+  "chamber": "VII",
+  "role_number": "A. 75.422/VII-99",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67857",
+  "source_sha256": "3c78e10d70cf82303a936e3258df379a5e683e8ac494346d4810e135c38c58d3",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
