@@ -1,0 +1,1 @@
+Est puni d'un emprisonnement (de trois mois à deux ans), celui qui obtient un engagement à servir dans une armée ou troupe étrangère, d'un mineur non autorisé à cet effet par ses parents, son tuteur ou son curateur.

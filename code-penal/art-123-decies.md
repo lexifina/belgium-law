@@ -1,0 +1,4 @@
+Les sociétés sont civilement responsables des condamnations aux dommages-intérêts, amendes, frais, confiscations, restitutions et sanctions pécuniaires quelconques prononcées pour infractions aux dispositions du présent chapitre contre leurs organes ou préposés.
+Il en est de même des membres de toutes associations commerciales dépourvues de personnalité civile, lorsque l'infraction a été commise par un associé, gérant ou préposé, à l'occasion d'une opération rentrant dans le cadre de l'activité de l'association.
+L'associé civilement responsable n'est toutefois personnellement tenu qu'à concurrence des sommes ou valeurs qu'il a retirées de l'opération.
+Ces sociétés et associés pourront être cités directement devant la juridiction répressive par le ministère public ou la partie civile.

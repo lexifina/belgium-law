@@ -1,0 +1,1 @@
+Sera puni d'un emprisonnement de huit jours à deux ans et d'une amende de vingt-six francs à mille francs ou d'une de ces peines seulement quiconque, étant détenteur d'un document dont la production en justice a été ordonnée par un jugement, aura frauduleusement détruit, altéré ou dissimulé ce document.

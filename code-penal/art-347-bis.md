@@ -1,0 +1,5 @@
+La prise d'otages sera punie des travaux forcés à perpétuité.
+Constituent une prise d'otages, l'arrestation, la détention ou l'enlèvement de personnes pour répondre de l'exécution d'un ordre ou d'une condition, tel que préparer ou faciliter l'exécution d'un crime ou d'un délit, favoriser la fuite, l'évasion, obtenir la libération ou assurer l'impunité des auteurs ou des complices d'un crime ou d'un délit.
+La peine sera les travaux forcés de quinze ans à vingt ans si dans les cinq jours de l'arrestation, de la détention ou de l'enlèvement, la personne prise comme otage a été libérée volontairement sans que l'ordre ou la condition ait été exécuté.
+La peine sera la peine de mort si l'arrestation, la détention ou l'enlèvement de la personne prise comme otage a causé soit une maladie paraissant incurable, soit une incapacité permanente physique ou psychique, soit la perte complète de l'usage d'un organe, soit une mutilation grave, soit la mort.
+La même peine sera appliquée si les malfaiteurs ont soumis la personne prise comme otage à des tortures corporelles.

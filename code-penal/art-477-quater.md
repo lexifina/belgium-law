@@ -1,0 +1,1 @@
+Est assimilé au vol ou à l'extorsion de matières nucléaires commis à l'aide de violences ou de menaces, le cas où le voleur ou l'extorqueur, surpris en flagrant délit, a exercé des violences ou fait des menaces, soit pour se maintenir en possession des matières nucléaires soustraites, soit pour assurer sa fuite.

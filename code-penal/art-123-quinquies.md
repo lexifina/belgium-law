@@ -1,0 +1,2 @@
+La confiscation des choses qui ont servi ou qui ont été destinées à commettre l'infraction sera toujours prononcée, de même que la confiscation des plans, cartes, écrits, documents, copies, levés, photographies, vues, reproductions et toutes autres choses procurées par l'infraction.
+(Dans les cas prévus aux articles 119, 120, 120bis, 121bis, 122bis et 123quater, les coupables condamnés à l'emprisonnement peuvent être condamnés à l'interdiction à perpétuité ou à temps des droits énumérés à l'article 31.)

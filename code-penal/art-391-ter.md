@@ -1,0 +1,2 @@
+Lorsqu'une personne est demeurée plus de deux mois sans satisfaire à une des obligations dont l'inexécution est sanctionnée par l'article 391bis, elle pourra être appelée devant le juge de paix à la requête de toute personne intéressée ou du ministère public. La convocation est faite au moyen d'une lettre recommandée signée et adressée par le greffier avec accusé de réception.
+Le juge de paix recueille les explications des parties et dresse du tout, procès-verbal qu'il transmet au procureur du roi.

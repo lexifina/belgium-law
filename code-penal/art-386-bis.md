@@ -1,0 +1,2 @@
+Sera puni d'un emprisonnement de six mois à deux ans et d'une amende de mille francs à cinq mille francs, quiconque vend ou distribue à des mineurs de moins de dix-huit ans accomplis ou expose sur la voie publique ou le long de celle-ci des images, figures ou objets indécents de nature à troubler leur imagination.
+Les images, figures et objets exposés, mis en vente ou en distribution, seront saisis par tout officier de police judiciaire sur mandat du juge de paix ou du juge de police du canton et leur confiscation sera toujours prononcée en cas de condamnation.
