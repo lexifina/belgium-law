@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.943",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63943,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.594/III-22.461",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63943",
+  "source_sha256": "988db1caa179314326df712cfba1dd7d7fac732d525b6ad6d4f633fcba1ad335",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
