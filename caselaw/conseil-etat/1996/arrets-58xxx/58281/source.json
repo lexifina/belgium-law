@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.281",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58281,
+  "decision_date": "1996-02-21",
+  "date_as_printed": "21 februari 1996",
+  "chamber": "IV",
+  "role_number": "A. 66.567/IV-15.416",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58281",
+  "source_sha256": "c71064144fe35175e47646f7bcbce67578bafe33484701cf3335f44a3717c943",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
