@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.904",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66904,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.687/VII-15.075",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66904",
+  "source_sha256": "d529c0b48eb83e4022dc1d042f6ac8e5dbf34706fb62ea89e67f93782b6a42fc",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
