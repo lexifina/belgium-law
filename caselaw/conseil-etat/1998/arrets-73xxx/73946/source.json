@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.946",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73946,
+  "decision_date": "1998-05-28",
+  "date_as_printed": "28 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 45.303/VII-10.447",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73946",
+  "source_sha256": "6b643d1352a592add710bfef52d7b19732ad40d313be5bd0cd2d672fd229a85f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
