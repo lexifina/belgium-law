@@ -3,7 +3,7 @@ Cette disposition est aussi applicable aux dépassements commis en infraction au
 La période de référence d'un trimestre peut être prolongée à un an maximum:
 - par le Roi;
 - par convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
-- ou, à défaut, par le règlement de travail dans les entreprises qui occupent habituellement en moyenne moins de cinquante travailleurs et qui n'ont pas institué de délégation syndicale.
+- ou, à défaut, par le règlement de travail (....) <L 1996-07-26/32, art. 38, 015; En vigueur: indéterminée )
 En cas d'application de la dérogation prévue à l'article 20bis, la période visée à l'alinéa 1 est, pour l'application des articles 25 et 26, la même que celle fixée par la convention collecctive de travail ou le règlement de travail.
 Il ne sera pas tenu compte dans le calcul de cette moyenne des dépassements des limites fixées par les articles 19 et 20 qui résultent de l'application de l'article 26, § 1, 1° et 2°.
 Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés, ainsi que par ou en vertu d'une convention collective de travail, les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail et les jours de repos accordés en application de l'article 29, § 4, de la présente loi comptent comme temps de travail pour le calcul de la durée moyenne de travail visée à l'alinéa 1.
