@@ -1,1 +1,1 @@
-_
+_ La rente convertie en capital, visée à l'article 20, qui n'est pas due suite à l'application de l'article 20bis, est versée au Fonds des accidents du travail, selon les modalités à déterminer par le Roi.Le montant de l'allocation annuelle, correspondant à la diminution suite à l'application de l'article 24, alinéa 2, est versé au Fonds des accidents du travail, selon les modalités à déterminer par le Roi.
