@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.265",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72265,
+  "decision_date": "1998-03-05",
+  "date_as_printed": "5 mars 1998",
+  "chamber": "X",
+  "role_number": "A. 77.658/X-7.991",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72265",
+  "source_sha256": "0bbd12360b511ffa0c4905eca18b1a119c6e0e4735dfbcf579a5fbe266fb90d7",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
