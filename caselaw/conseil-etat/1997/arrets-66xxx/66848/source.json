@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.848",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66848,
+  "decision_date": "1997-06-18",
+  "date_as_printed": "18 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.450/IV-63",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66848",
+  "source_sha256": "0ada11f23223c5a2b8c5c1204bda2d17fe1d359f5201bcd5f06bd06c48cc8a5f",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
