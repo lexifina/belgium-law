@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.031",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64031,
+  "decision_date": "1997-01-15",
+  "date_as_printed": "15 janvier 1997",
+  "chamber": "VI",
+  "role_number": "A. 67.636/VI-13.074",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64031",
+  "source_sha256": "c3151860095164c2ca4867e9f6c57586aac91b9ac98aec735ba9421e09bc5864",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
