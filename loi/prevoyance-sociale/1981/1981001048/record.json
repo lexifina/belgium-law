@@ -1,0 +1,23 @@
+{
+  "id": "1981001048",
+  "act": "loi/prevoyance-sociale/1981/1981001048",
+  "title": "29 JUIN 1981. - Loi établissant les principes généraux de la sécurité sociale des travailleurs salariés.",
+  "version": "001",
+  "versions_total": 154,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1981-07-02&numac_search=1981001048&page=1&lg_txt=F&caller=list&1981001048=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=1981001048&cn_search=&caller=list&&view_numac=1981001048f",
+  "source_sha256": "80f750056198236c4dd32a1c3669e97a45a0c0413ead6495a6891ae18f33c967",
+  "source_issuer": "Prévoyance Sociale",
+  "made": "1981-06-29",
+  "published": "1981-07-02",
+  "in_force": "1996-08-11",
+  "source_in_force": "1996-08-11",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (1 juillet 1981 (ART. 26) (ART. 35 - ART. 37) 1 janvier 1982 (ART. 23) (ART. 38) 11 août 1996 (ART. 22) (ART. 29) indéterminée (ART. (41))) and the dated En vigueur notes in its text before this version's end (1984-04-01)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 3,
+  "independent_source_tokens": 1964,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
