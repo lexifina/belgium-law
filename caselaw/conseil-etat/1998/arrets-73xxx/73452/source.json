@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.452",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73452,
+  "decision_date": "1998-05-05",
+  "date_as_printed": "5 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 69.264/XII-564",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73452",
+  "source_sha256": "7562056d05d0a38daefe49dd3e9aacb0ea8a235e9a6622a80abc09ba61bd188f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
