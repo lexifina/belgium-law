@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.240",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71240,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 januari 1998",
+  "chamber": "X",
+  "role_number": "A. 67.328/X-7.211",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71240",
+  "source_sha256": "df90773ed1de91acbd53c4047a5d3767d237ddf36bcb0a976624c886164a8577",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
