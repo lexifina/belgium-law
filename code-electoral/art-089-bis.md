@@ -1,0 +1,1 @@
+Par dérogation à l'article 4, les électeurs inscrits sur la liste des électeurs des communes de Fourons et de Comines-Warneton ont la faculté de voter respectivement à Aubel et à Heuvelland, au bureau de vote désigné par le Ministre de l'intérieur.
