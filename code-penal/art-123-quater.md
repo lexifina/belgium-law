@@ -1,2 +1,2 @@
 Sans préjudice de l'application de dispositions plus sévères, sera puni des peines prévues par l'article 123bis, le complot de commettre un crime ou un délit contre les personnes ou les propriétés, formé dans le dessein d'entraver, en temps de guerre, soit la défense du territoire, soit la mobilisation, soit le ravitaillement en vivres, armes ou munitions de l'armée.
-Si le complot est formé en temps de guerre, il sera puni de la réclusion.
+Si le complot est formé en temps de guerre, il sera puni de la (réclusion de cinq ans à dix ans).

@@ -1,1 +1,1 @@
-L'extorsion de matières nucléaires à l'aide de violences ou de menaces est punie des travaux forcés de dix ans à quinze ans.
+L'extorsion de matières nucléaires à l'aide de violences ou de menaces est punie (de la réclusion) de dix ans à quinze ans.

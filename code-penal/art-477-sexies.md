@@ -1,4 +1,4 @@
-§ 1. Le vol ou l'extorsion de matières nucléaires à l'aide de violences ou de menaces, ainsi que le fait visé à l'article 477quater, sont punis des travaux forcés à perpétuité:
+§ 1. Le vol ou l'extorsion de matières nucléaires à l'aide de violences ou de menaces, ainsi que le fait visé à l'article 477quater, sont punis (de la réclusion de vingt ans à trente ans):
 1° s'ils ont été commis avec deux des circonstances mentionnées à l'article 477quinquies;
 2° si des armes ou des objets qui y ressemblent ont été employés ou montrés ou si le coupable a fait croire qu'il était armé;
 3° si le coupable a fait usage de substances inhibitives ou toxiques pour commettre le fait ou pour assurer sa fuite;
