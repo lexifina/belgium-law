@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.343",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64343,
+  "decision_date": "1997-01-31",
+  "date_as_printed": "31 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.178/III-22.623",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64343",
+  "source_sha256": "a694405d2064255a790cb4de7c071c6987b1c881d04c10cef946384103514e45",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
