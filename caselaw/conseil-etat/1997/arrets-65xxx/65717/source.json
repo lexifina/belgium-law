@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.717",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65717,
+  "decision_date": "1997-03-28",
+  "date_as_printed": "28 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.195/IV-348",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65717",
+  "source_sha256": "fa9ed0dc6eb5506f349829102101fb83273a0cee6b933aaa1cca7b7c6cb4f72b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
