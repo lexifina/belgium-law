@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.096",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66096,
+  "decision_date": "1997-04-29",
+  "date_as_printed": "29 april 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.991/VII-15.377",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66096",
+  "source_sha256": "d440ba3ce27ebd7567ebfcc3b69ef7bdd38b941b51016606042d5dadc79412cf",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
