@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.949",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68949,
+  "decision_date": "1997-10-21",
+  "date_as_printed": "21 oktober 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.751/XII-180",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68949",
+  "source_sha256": "a6f568e138e42b0b96ccf06f2f443b68149b8407cd755f7f3ada94284968498d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
