@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.161",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56161,
+  "decision_date": "1995-11-08",
+  "date_as_printed": "8 novembre 1995",
+  "chamber": "III",
+  "role_number": "A. 59.859/III-19.215",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56161",
+  "source_sha256": "228341ca0b53fcebf443df533a76f57b8b125cabb2106914ac885627cabfa3d5",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
