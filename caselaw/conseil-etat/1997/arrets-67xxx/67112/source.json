@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.112",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67112,
+  "decision_date": "1997-06-26",
+  "date_as_printed": "26 juin 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.624/XI-2.404",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67112",
+  "source_sha256": "bd0c2de97d30cd0704fb4902f9c7a84d193f549e15341e1c43016ee7756bbc0e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
