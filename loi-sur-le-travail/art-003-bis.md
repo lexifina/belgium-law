@@ -1,3 +1,3 @@
-Les dispositions du chapitre III, sections I et II qui concernent le repos du dimanche et la durée du travail, ne sont pas applicables aux travailleurs à domicile.
+Les dispositions du chapitre III, (sections I et II et IV à VII), ne sont pas applicables aux travailleurs à domicile.
 Le Roi peut, sur proposition de l'organe paritaire compétent, et dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa premier applicables en tout ou en partie aux travailleurs à domicile.
 A défaut de la proposition visée à l'alinéa 2 et après avis du Conseil national du Travail, le Roi peut, dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa premier applicables en tout ou en partie aux travailleurs à domicile.
