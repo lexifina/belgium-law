@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 51.268",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 51268,
+  "decision_date": "1995-01-21",
+  "date_as_printed": "21 januari 1995",
+  "chamber": "IV",
+  "role_number": "A. 61.943/IV-14.958",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/51268",
+  "source_sha256": "5763fae6943caec9677294fd54b79c34ece5840a8a87ddf15715410a5d2f1935",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
