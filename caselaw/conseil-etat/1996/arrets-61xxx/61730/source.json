@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.730",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61730,
+  "decision_date": "1996-09-13",
+  "date_as_printed": "13 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 70.870/VII-14.603",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61730",
+  "source_sha256": "2aed85bf8fff15138c5e5a3ffe0eb1ba4eebaca8b6057ce0f967006b07a916f2",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
