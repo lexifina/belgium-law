@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.413",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66413,
+  "decision_date": "1997-05-27",
+  "date_as_printed": "27 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 66.495/VII-13.534",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66413",
+  "source_sha256": "bb3119709ed462ccde0c4bd4ecc7f8682f462a93b91bc1f92dfefccc891347c4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
