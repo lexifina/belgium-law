@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.947",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63947,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.804/III-22.519",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63947",
+  "source_sha256": "4d06fa558de233b9f11495b583559275dffe3558556e9ebb2e354b0108241ee6",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
