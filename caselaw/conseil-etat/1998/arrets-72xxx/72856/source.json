@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.856",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72856,
+  "decision_date": "1998-03-31",
+  "date_as_printed": "31 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 73.451/XII-191",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72856",
+  "source_sha256": "acadd5d9ad1c7d352ef1bd73a75e89242cdb00fd2e250c6bf91c604ef0866d5a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
