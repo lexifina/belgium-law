@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.060",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57060,
+  "decision_date": "1995-12-14",
+  "date_as_printed": "14 december 1995",
+  "chamber": "VII",
+  "role_number": "A. 60.927/VII-12.826",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57060",
+  "source_sha256": "935aaffba092881ae286e547c36c5011eef0f649ddc004d4ef5ce8abfde4ad3d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
