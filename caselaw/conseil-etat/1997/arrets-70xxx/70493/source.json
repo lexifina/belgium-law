@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.493",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70493,
+  "decision_date": "1997-12-23",
+  "date_as_printed": "23 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 66.478/XI-84",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70493",
+  "source_sha256": "cab7ab67946525c35dc4b3826fdff94d80692cebdba7b6986cd1a3a4cf1c858a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
