@@ -1,4 +1,8 @@
 § 1er. L'expert perçoit des honoraires pour les prestations fournies en exécution de ses missions.
-§ 2. Les honoraires visés au § 1er sont dus par la société d'assurances chez qui l'employeur, visé à l'article 94quater, 3°, b, a contracté une assurance contre les accidents du travail.
-A défaut de la société d'assurances visée à l'alinéa 1er, l'honoraire est dû par l'établissement qui, en cas d'accident du travail, assure l'indemnisation des travailleurs de l'employeur visé à l'article 94quater, 3°, b.
-L'honoraire est dû à l'expert ou à son employeur sur production d'une créance détaillant les prestations de l'expert.
+(Lors des situations visées à l'article 94ter, § 2, alinéa 1er, les honoraires sont divisés en honoraires partiels, conformément à l'arrangement visé à l'article 94ter, § 2, alinéa 2.)
+§ 2. (Les honoraires visés au § 1er sont dus par les sociétés d'assurance en matière d'accidents du travail chez qui, selon le cas, l'employeur visé à l'article 94ter, § 1er, ou les personnes visées à l'article 94ter, § 2, sont affiliés pour assurer ses travailleurs.
+Lors des situations visées à l'article 94ter, § 2, alinéa 1er, les honoraires partiels sont payés par les sociétés d'assurance respectives, conformément à l'arrangement visé à l'article 94ter, § 2, alinéa 2.
+A défaut de l'arrangement visé à l'alinéa précédent, le montant total des honoraires est dû par la société d'assurances à laquelle est affiliée la personne chargée de reprendre les clauses correspondantes dans le contrat visé à l'article 94ter, § 2, alinéa 2.
+A défaut d'une ou de plusieurs sociétés d'assurances visées à l'alinéa 1er, les honoraires ou, en cas d'application du § 1er, alinéa 2, une partie par des honoraires sont dus par l'établissement qui, en cas d'accident du travail, assure l'indemnisation des travailleurs de l'employeur visé à l'article 94ter, § 1er, ou des personnes visées à l'article 94ter, § 2.
+Les honoraires sont dus à l'expert ou à son employeur sur production d'une créance détaillant les prestations de l'expert.
+En cas d'application du § 1er, alinéa 2, des créances partielles sont produites, dont le montant est calculé sur base de l'arrangement visé à l'article 94ter, § 2, alinéa 2.)
