@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.981",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72981,
+  "decision_date": "1998-04-03",
+  "date_as_printed": "3 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 42.357/XII-890",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72981",
+  "source_sha256": "0d01271ed95f3db8a565959e2c997467a842c597bf12cd464980323d2eb4b75d",
+  "pages": 18,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
