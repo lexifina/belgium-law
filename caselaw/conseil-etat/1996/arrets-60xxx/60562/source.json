@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.562",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60562,
+  "decision_date": "1996-06-27",
+  "date_as_printed": "27 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 68.718/VII-13.928",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60562",
+  "source_sha256": "e8c137c946999ef143f225b35d917fed8a9f43c6194c29153ba93511586a4a0f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
