@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.699",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64699,
+  "decision_date": "1997-02-21",
+  "date_as_printed": "21 février 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.214/IV-9.963",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64699",
+  "source_sha256": "719b2e7e8b579f203b5c05b16ebbef4040063640abf5aaaea405472207310572",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
