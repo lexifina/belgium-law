@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.218",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60218,
+  "decision_date": "1996-06-17",
+  "date_as_printed": "17 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 65.680/VII-13.440",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60218",
+  "source_sha256": "8a0b4829701a7a6ed4743b66c9a430b501ce373a53f293cc29c84cd76c24cd99",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
