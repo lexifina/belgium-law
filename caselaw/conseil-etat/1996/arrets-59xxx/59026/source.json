@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.026",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59026,
+  "decision_date": "1996-04-10",
+  "date_as_printed": "10 april 1996",
+  "chamber": "X",
+  "role_number": "A. 68.301/X-295",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59026",
+  "source_sha256": "db25ccd4962302a135a90f9f5edb8574e9cbed7850359cd87b548eaede4c6041",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
