@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.939",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72939,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 33.840/VII-5.803",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72939",
+  "source_sha256": "03122a920bef53a8ee50e2a47eb728ee858307ced4ebcd8f9f9bb7b96c00fdec",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
