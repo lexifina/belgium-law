@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.994",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61994,
+  "decision_date": "1996-09-27",
+  "date_as_printed": "27 septembre 1996",
+  "chamber": "VI",
+  "role_number": "A. 64.625/VI-12.723",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61994",
+  "source_sha256": "6a644690292f841a3bd3e0eb283a98c5f306e918bc7c57236b352e3c2d8c5796",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
