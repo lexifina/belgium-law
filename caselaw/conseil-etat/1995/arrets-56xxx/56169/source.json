@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.169",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56169,
+  "decision_date": "1995-11-09",
+  "date_as_printed": "9 november 1995",
+  "chamber": "X",
+  "role_number": "A. 60.133/X-4.164",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56169",
+  "source_sha256": "0100f5c0a59d773a7dc929a73ad6b6c5502f7393360a9bd14fd06e66139c6027",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
