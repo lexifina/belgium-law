@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.903",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62903,
+  "decision_date": "1996-10-31",
+  "date_as_printed": "31 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 68.904/VII-13.970",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62903",
+  "source_sha256": "6af90f04e4854955ee4bf16a7b1a4f1d1419e652d1bf2e3056be08d9e810e2fd",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
