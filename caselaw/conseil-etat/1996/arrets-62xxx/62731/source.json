@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.731",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62731,
+  "decision_date": "1996-10-25",
+  "date_as_printed": "25 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.141/III-3.270",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62731",
+  "source_sha256": "390ec623d41639030dae094736034a73b97b93fc30d47d68f8df8b8735257ee3",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
