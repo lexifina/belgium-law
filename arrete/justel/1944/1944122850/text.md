@@ -1,4 +1,4 @@
-<a name="Art.7">Art.</a> <a href="#Art.8"> 7</a>. § 1er. (Il est institué auprès du Ministre du Travail et de la Prévoyance sociale un (Office national de l'emploi). &lt;L 14-02-1961, art. 9&gt;
+<a name="Art.7">Art.</a> 7. § 1er. (Il est institué auprès du Ministre du Travail et de la Prévoyance sociale un (Office national de l'emploi). &lt;L 14-02-1961, art. 9&gt;
 Cet office est un établissement public doté de la personnalité civile.) &lt;L 14-07-1951, art. 3.&gt;
 (Dans les conditions que le Roi détermine, l'Office national de l'emploi a pour mission de:
 a) promouvoir et organiser le recrutement et le placement des travailleurs;
@@ -30,7 +30,7 @@ Le Roi fixe les cas dans lesquels les organismes payeurs supportent la charge de
 § 7. Le Roi peut réglementer l'activité et le contrôle des bureaux de placement gratuit.
 § 8. Les infractions aux dispositions des §§ 6 et 7 ainsi qu'aux arrêtés pris en exécution de ceux-ci sont punies des peines correctionnelles ou de police que le Roi détermine.
 § 9. Le Roi peut modifier les dispositions de l'arrêté royal n° 285, du 31 mars 1936, complétant et coordonnant les dispositions relatives à l'emploi de la main-d'oeuvre étrangère, confirmé par la loi du 4 mai 1936 portant confirmation de certains arrêtés royaux pris en exécution de la loi du 31 juillet 1934, prorogée et complétée par les lois des 7 décembre 1934, 15 et 30 mars 1935.
-§ 10. Les communes sont tenues d'effectuer les opérations de pointage des chômeurs involontaires. Elles sont, à titre transitoire, tenues de prêter, dans les conditions prévues au § 2, leur concours à l'Office pour le paiement des allocations de chômage, mais elles seront déchargées de cette obligation progressivement et au plus tard un an à dater de l'entrée en vigueur de la présente loi).
+§ 10. (Les communes doivent, selon les conditions et modalités que le Roi détermine, assurer l'estampillage des formulaires de contrôle des chômeurs involontaires qui se présentent au contrôle.) &lt;L 1994-03-30/31, art. 73, 006; <b> En vigueur : </b> 10-04-1994&gt;
 § 11. (Les litiges ayant pour objet des droits résultant de la réglementation en matière de chômage sont de la compétence du tribunal du travail.
 Les décisions du directeur du bureau régional de (l'Office national de l'emploi ou de l'agent du bureau régional désigné par le directeur général de l'Office doivent, à peine de déchéance, être soumises au tribunal du travail compétent, dans le mois de la notification de la décision, ou à défaut de notification, dans le mois à compter du jour ou l'intéressé en a eu connaissance.
 L'action introduite devant le tribunal du travail n'est pas suspensive.) &lt;L 14-07-1951, art. 3&gt; &lt;L 10-10-1967, art. 63, § 2&gt;.
@@ -46,9 +46,3 @@ En cas de faillite ou de liquidation de l'entreprise, les mandataires, les curat
 Le droit de l'Office national de l'emploi d'ordonner la répétition des allocations de chômage payées indûment, ainsi que les actions des organismes de paiement en répétition d'allocations de chômage payées indûment se prescrivent par trois ans. Ce délai est porté à cinq ans lorsque le paiement indu résulte de la fraude ou du dol du chômeur.
 Les délais de prescription déterminés à l'alinéa 2 prennent cours le premier jour du trimestre civil suivant celui au cours duquel le paiement à été effectué. Lorsque les allocations de chômage payées se révèlent indues à cause de l'octroi ou de la majoration d'un avantage qui ne peut être cumulé, en tout ou en partie, avec les allocations de chômage, le délai de prescription prend cours le premier jour du trimestre civil qui suit celui au cours duquel cet avantage ou cette majoration a été payé.
 San préjudice des dispositions du Code civil, les délais de prescription peuvent être interrompus par lettre recommandée à la poste. Les actes d'interruption de la prescription restent valables même s'ils sont adressés à une institution ou administration incompétente, à condition que cette institution ou administration soit chargée de l'octroi ou du paiement des allocations de chômage.) &lt;L 1988-12-30/31, art. 112, 003; <b> En vigueur : </b> 01-01-1989&gt;
-
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
-
-<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
-
-<a name="Art.10" href="#Art.9">Art.</a> 10. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
