@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.845",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72845,
+  "decision_date": "1998-03-30",
+  "date_as_printed": "30 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.035/XI-4.261",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72845",
+  "source_sha256": "5bcd796853ba3381a14a80c7423137b4e0d263351f50d24f19a4868daf153594",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
