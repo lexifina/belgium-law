@@ -1,2 +1,1 @@
-L'action publique du chef d'une infraction aux lois et règlements en matière fiscale peut être exercée par les substituts spécialisés en matière fiscale devant les tribunaux des arrondissements judiciaires situés dans le ressort de la Cour d'appel de l'arrondissement où ils ont été nommés.
-Lorsqu'ils sont appelés á exercer leurs fonctions dans un arrondissement qui n'est pas celui dans lequel ils ont été nommés, ils sont placés sous la surveillance et la direction immédiate du procureur du Roi de l'arrondissement dans lequel ils exercent leurs fonctions.
+-
