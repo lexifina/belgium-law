@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.727",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67727,
+  "decision_date": "1997-08-25",
+  "date_as_printed": "25 août 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.175/XI-15.827",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67727",
+  "source_sha256": "25eaca56fea561ed90a1f6d68112c446bf4b21a8a3c3a13103565ffbb48e0026",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
