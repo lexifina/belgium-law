@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.742",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63742,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.602/III-22.469",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63742",
+  "source_sha256": "230d793511b119266a2204c0a8d61fe2a8c627743ec9c1cddc9a9e280ae38937",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
