@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.974",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67974,
+  "decision_date": "1997-09-04",
+  "date_as_printed": "4 septembre 1997",
+  "chamber": "VII",
+  "role_number": "A. 39.760/VII-8.561",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67974",
+  "source_sha256": "a92695edf21267d2c3259f9ae4b405cc84232d9c8161d7f881c3e08c1e89cbb1",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
