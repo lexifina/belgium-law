@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.050",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59050,
+  "decision_date": "1996-04-12",
+  "date_as_printed": "12 april 1996",
+  "chamber": "X",
+  "role_number": "A. 68.327/X-6.316",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59050",
+  "source_sha256": "57fbdcbbb54052914e36f9cbab9cde7e83dd9f7e4f9a406ec4bcf7a66eace455",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
