@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.956",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62956,
+  "decision_date": "1996-11-06",
+  "date_as_printed": "6 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 60.796/IV-14.910",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62956",
+  "source_sha256": "be92c3e83fbb66a930feae0a52fd8bf0b7d80f73acf2bcbad43c4fb6b84d3cb1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
