@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.882",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66882,
+  "decision_date": "1997-06-20",
+  "date_as_printed": "20 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.641/VII-15.566",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66882",
+  "source_sha256": "067d0fcf6390f666e427c6b984ec3f94148ccc91c0d5451f63afe69ba6b918b7",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
