@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.021",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73021,
+  "decision_date": "1998-04-08",
+  "date_as_printed": "8 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.052/XI-4.266",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73021",
+  "source_sha256": "c7d84c256e65ef3558ca7479bf35124e2dd4aed75f4567a9931bd6aa19b21ec9",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
