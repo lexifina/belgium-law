@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.107",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61107,
+  "decision_date": "1996-08-02",
+  "date_as_printed": "2 août 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.088/XI-1.299",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61107",
+  "source_sha256": "a9432c6cbde5c404b92c66a8c2654709b100dae395e1255c17276e6554999bf2",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
