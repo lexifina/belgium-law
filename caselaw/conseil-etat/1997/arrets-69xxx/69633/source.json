@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.633",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69633,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 75.120/XII-3",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69633",
+  "source_sha256": "d36437b33ec3b41d6cca9b3d8ff893d9a25fab48bc8b2a676b00e325f73ab4bb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
