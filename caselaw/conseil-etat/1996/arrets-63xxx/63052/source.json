@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.052",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63052,
+  "decision_date": "1996-11-14",
+  "date_as_printed": "14 november 1996",
+  "chamber": "VII",
+  "role_number": "A. 70.870/VII-14.603",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63052",
+  "source_sha256": "0ea9ddb5b680915d319db5322557725927985568c9747d4f06ef8ea427af2f77",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
