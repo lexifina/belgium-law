@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.903",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73903,
+  "decision_date": "1998-05-26",
+  "date_as_printed": "26 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 69.230/XI-1.019",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73903",
+  "source_sha256": "eb81556e0e8b7a77a13cdf98f27b82a2125d5f9c66e54c507aa03b99689d9d60",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
