@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.696",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71696,
+  "decision_date": "1998-02-09",
+  "date_as_printed": "9 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.317/XI-4.034",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71696",
+  "source_sha256": "2086b5d6f98a7afba6fed2e57139aa2955ef26621eb75dfe162b28e2672c6479",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
