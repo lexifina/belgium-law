@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.167",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73167,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 76.835/XI-3.852",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73167",
+  "source_sha256": "42f8c86b4062f7ed6bfafa34fca0404d39656f8ffd5d27beee94294ca0d4f555",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
