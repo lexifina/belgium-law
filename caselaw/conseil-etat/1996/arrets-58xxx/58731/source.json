@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.731",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58731,
+  "decision_date": "1996-03-21",
+  "date_as_printed": "21 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.116/IV-15.662",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58731",
+  "source_sha256": "5816888d8df185a2bfb5d0b1485940363271ba2518cce3da4027c36c34858e0f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
