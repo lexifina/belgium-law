@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.959",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73959,
+  "decision_date": "1998-05-29",
+  "date_as_printed": "29 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 55.247/XI-3.731",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73959",
+  "source_sha256": "bc017a2591bd1a6aa1ba6e9dfeda44cb8b7bcb2ba34017b3ae67b3210ed10b16",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
