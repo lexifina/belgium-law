@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.622",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68622,
+  "decision_date": "1997-10-03",
+  "date_as_printed": "3 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 49.294/XI-2.897",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68622",
+  "source_sha256": "bad57141f6071303637cec9e9b2db447840b6e529fbe8001f875b0955b6f844b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
