@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.558",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66558,
+  "decision_date": "1997-06-04",
+  "date_as_printed": "4 juin 1997",
+  "chamber": "VI",
+  "role_number": "A. 64.625/VI-12.723",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66558",
+  "source_sha256": "dbc7fb23acf33c4d70c1b5f63a7a66de25821830c2fec7c2f4ad5ecbe76d2e28",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
