@@ -4,4 +4,4 @@ La peine sera la réclusion à perpétuité si la personne prise comme otage est
 § 3. Sauf dans les cas vises au § 4, la peine sera la réclusion de quinze ans à vingt ans si dans les cinq jours de l'arrestation, de la détention ou de l'enlèvement, la personne prise comme otage a été libérée volontairement sans que l'ordre ou la condition ait été exécuté.
 § 4. La peine sera la réclusion à perpétuité dans les cas suivants:
 1° si l'arrestation, la détention ou l'enlèvement de la personne prise comme otage a causé soit une maladie paraissant incurable, soit une incapacité permanente physique ou psychique, soit la perte complète de l'usage d'un organe, soit une mutilation grave, soit la mort;
-2° si la personne prise comme otage a été soumise à des tortures corporelles.
+2° (si la personne prise comme otage a été soumise aux actes visés à l'article 417ter, alinéa premier.)
