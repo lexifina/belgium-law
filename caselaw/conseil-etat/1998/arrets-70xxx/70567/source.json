@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.567",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70567,
+  "decision_date": "1998-01-08",
+  "date_as_printed": "8 janvier 1998",
+  "chamber": "XIII",
+  "role_number": "A. 73.996/XIII-334",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70567",
+  "source_sha256": "bd38791c259b7767699935c509dadf7922363fe69ac3ce4e2b434a4a20b5641e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
