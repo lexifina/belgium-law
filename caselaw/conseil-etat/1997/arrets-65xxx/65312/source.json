@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.312",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65312,
+  "decision_date": "1997-03-18",
+  "date_as_printed": "18 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 70.823/III-22.538",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65312",
+  "source_sha256": "0ad4fdc000fdea7e515d4ab8c389c59fe0b5d311cc4fa7c7680885e4ceaf2820",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
