@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.869",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66869,
+  "decision_date": "1997-06-18",
+  "date_as_printed": "18 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 56.520/III-937",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66869",
+  "source_sha256": "c63843ccf4672baa1c82b9c3ee120ad7c6dc4bff24e6cbe9aad2983744015b4b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
