@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.642",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67642,
+  "decision_date": "1997-08-05",
+  "date_as_printed": "5 augustus 1997",
+  "chamber": "IV",
+  "role_number": "A. 40.038/IV-13.444",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67642",
+  "source_sha256": "aaaca450f0cde3d80c21b70554553a5c4710dbeeda3bff576e7ae23de7725f8d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
