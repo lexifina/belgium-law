@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.815",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57815,
+  "decision_date": "1996-01-25",
+  "date_as_printed": "25 januari 1996",
+  "chamber": "VII",
+  "role_number": "A. 65.543/VII-13.413",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57815",
+  "source_sha256": "bcec5ec414a4fff1734e6adf3a789129be5298f72b27ba197805124c11ba007e",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
