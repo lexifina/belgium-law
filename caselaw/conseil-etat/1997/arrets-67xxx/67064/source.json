@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.064",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67064,
+  "decision_date": "1997-06-26",
+  "date_as_printed": "26 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.110/VII-15.179",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67064",
+  "source_sha256": "82300a17a77031e30184352fb553f0ab2312fed3e1f2101e405c982ad5e5ac8d",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
