@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.825",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59825,
+  "decision_date": "1996-05-31",
+  "date_as_printed": "31 mai 1996",
+  "chamber": "VI",
+  "role_number": "A. 69.041/VI-13.202",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59825",
+  "source_sha256": "2024c25b4b31375fe94341b9af59ec5d08ed8eb6750cad8f49f9d46c448aea43",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
