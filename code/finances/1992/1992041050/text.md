@@ -1,13 +1,8 @@
-<a name="Art.180">Art.</a> 180. Ne sont pas assujettis à l'impôt des sociétés :
-1° les intercommunales régies par la loi du 22 décembre 1986;
-2° (la "Naamloze Vennootschap Zeekanaal en Watergebonden Grondbeheer Vlaanderen", la Compagnie des installations maritimes de Bruges, le Port de Bruxelles, la régie portuaire communale d'Anvers, la régie portuaire communale d'Ostende et les ports autonomes de Liège, Charleroi et Namur;) &lt;L 1998-12-22/36, art. 17, 043; <b> En vigueur : </b> 01-01-1996&gt;
-3° l'Office national du ducroire;
-4° la Compagnie belge pour le Financement de l'Industrie;
-5° la Loterie Nationale;
-(5°bis le Fonds de participation;) &lt;L 1992-07-28/30, art. 82; <b> En vigueur : </b> 01-01-1993&gt;
-6° la Société régionale wallonne de transport public de personnes et les sociétés d'exploitation qui lui sont liées;
-7° la Société des Transports flamande et les unités d'exploitation autonome existant en son sein;
-8° la Société de transports intercommunaux de Bruxelles;
-9° les sociétés dépuration des eaux régies par la loi du 26 mars 1971.
-10° (abrogé) &lt;W 2000-08-12/67, art. 31, 014; <b> En vigueur : </b> 01-01-2000&gt;décembre 1990.) &lt;L 1992-12-28/32, art. 7; <b> En vigueur : </b> 01-01-1992&gt;
-(11° la société de droit public à finalit»sociale Coopération technique belge.) &lt;L 1998-12-21/30, art. 32, 041; <b> En vigueur : </b> 24-02-1999&gt;
+<a name="Art.112">Art.</a> 112. § 1. Les rémunérations d'un employé de maison visées (à l'article 104), 6°, sont déduites aux conditions ci-après : &lt;L 1994-07-06/33, art. 85, 004; <b> En vigueur : </b> 01-01-1995&gt;
+1° les rémunérations atteignent au moins 100.000 francs par période imposable et sont soumises au régime de la sécurité sociale;
+2° l'employé de maison est, au moment de son engagement et depuis 6 mois au moins, admis à bénéficier d'une indemnité en tant que chômeur complet ou d'une allocation à titre de minimum de moyens d'existence;
+3° au moment de l'engagement, le contribuable s'inscrit auprès de l'Office national de la sécurité sociale en qualité d'employeur de personnel domestique et cette inscription est la première en cette qualité depuis le 1er janvier 1980;
+4° la déduction ne s'applique qu'aux rémunérations payées ou attribuées à un seul employé de maison;
+5° le montant de la déduction ne peut excéder 200.000 francs par période imposable.
+§ 2. Les conditions prévues au § 1er, 2° et 3°, ne s'appliquent pas, lorsqu'au 1er juillet 1986, le contribuable occupe déjà un employé de maison depuis un ans au moins.
+§ 3. Après la rupture du contrat de travail, la déduction des rémunérations payées ou attribuées à un employé de maison répondant à la condition du § 1er, 2°, continue à être octroyée lorsque le contribuable engage, dans les 3 mois, un autre employé de maison qui répond à ces conditions.
