@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.585",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59585,
+  "decision_date": "1996-05-09",
+  "date_as_printed": "9 mei 1996",
+  "chamber": "VII",
+  "role_number": "A. 66.245/VII-9.519",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59585",
+  "source_sha256": "38310a41303f054cb6c65188c670ea0e6d173d7b2b8cd13ded29f85eb0fb6875",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
