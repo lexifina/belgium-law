@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.594",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72594,
+  "decision_date": "1998-03-18",
+  "date_as_printed": "18 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.811/XI-4.207",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72594",
+  "source_sha256": "a6575efcc58ae3fe04b58f9414c3cbe519086f4c494f0eb0a585a702ae5729f8",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
