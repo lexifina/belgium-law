@@ -1,1 +1,2 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(inséré par ) Quiconque aura harcelé une personne alors qu'il savait ou aurait dû savoir qu'il affecterait gravement par ce comportement la tranquillité de la personne visée, sera puni d'une peine d'emprisonnement de quinze jours à deux ans et d'une amende de cinquante francs à trois cents francs, ou de l'une de ces peines seulement.
+Le délit prévu par le présent article ne pourra être poursuivi que sur la plainte de la personne qui se prétend harcelée.
