@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.775",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64775,
+  "decision_date": "1997-02-26",
+  "date_as_printed": "26 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 71.839/IV-1.980",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64775",
+  "source_sha256": "57eaaaa2c6eeefa2c8eab545527841311e45988151ecb98ce8876fb780fb7e50",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
