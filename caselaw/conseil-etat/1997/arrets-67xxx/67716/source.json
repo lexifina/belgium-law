@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.716",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67716,
+  "decision_date": "1997-08-21",
+  "date_as_printed": "21 août 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.228/XI-2.608",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67716",
+  "source_sha256": "c2ae0a27f53e9ece6b7bcc063260728d924031e603655a286f8882e0e9591408",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
