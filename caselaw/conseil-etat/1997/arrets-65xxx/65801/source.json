@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.801",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65801,
+  "decision_date": "1997-04-03",
+  "date_as_printed": "3 avril 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.084/VI-585",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65801",
+  "source_sha256": "53e3bd15d8ff50b3d63a9b36afee0a484996216d3cb0b5acc473bc269fd8a8f4",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
