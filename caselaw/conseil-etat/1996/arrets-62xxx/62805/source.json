@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.805",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62805,
+  "decision_date": "1996-10-28",
+  "date_as_printed": "28 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 65.329/III-21.618",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62805",
+  "source_sha256": "5444ecf4efe15496646ac902f6ec7346f0fbc7fd20ce5fe590dad7562a2e6b37",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
