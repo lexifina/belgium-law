@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.735",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66735,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 59.776/III-19.580",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66735",
+  "source_sha256": "453b4c0b8de6e60d839947876b7b45c53a32300f67c69bc0e6e4929a872bf5ef",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
