@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.642",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72642,
+  "decision_date": "1998-03-23",
+  "date_as_printed": "23 mars 1998",
+  "chamber": "XIII",
+  "role_number": "A. 76.010/XIII-315",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72642",
+  "source_sha256": "1981dff46742157cb9895ac24502f2dd95b7a813200a729d52358a718a67d4c5",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
