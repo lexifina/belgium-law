@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.034",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71034,
+  "decision_date": "1998-01-22",
+  "date_as_printed": "22 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 44.855/VII-10.267",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71034",
+  "source_sha256": "2b6cb94b72989b401454a97f12fb772544024f65da57a943759d4828db8d5842",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
