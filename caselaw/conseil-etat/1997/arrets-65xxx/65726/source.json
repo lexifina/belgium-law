@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.726",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65726,
+  "decision_date": "1997-03-28",
+  "date_as_printed": "28 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 65.692/III-21.921",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65726",
+  "source_sha256": "57cd4375022116d5b093b8fbffc3666c4fd293bfb3c42fa005f1aad88b647783",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
