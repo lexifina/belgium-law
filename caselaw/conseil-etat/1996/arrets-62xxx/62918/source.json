@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.918",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62918,
+  "decision_date": "1996-11-05",
+  "date_as_printed": "5 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 71.803/III-22.745",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62918",
+  "source_sha256": "4cf9ea722160da5f7b9d4d1ad12008ec15b812483c883158869c8bda756b8ce0",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
