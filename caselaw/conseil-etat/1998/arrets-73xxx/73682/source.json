@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.682",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73682,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 55.943/XIII-413",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73682",
+  "source_sha256": "97c41716019d78f07fb79bf9484db807c0813400f077c19b8902c940657f84ad",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
