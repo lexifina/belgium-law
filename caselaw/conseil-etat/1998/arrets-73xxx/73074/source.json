@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.074",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73074,
+  "decision_date": "1998-04-14",
+  "date_as_printed": "14 avril 1998",
+  "chamber": "VI",
+  "role_number": "A. 78.190/VI-14.494",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73074",
+  "source_sha256": "161dc53998de81852049e6fd0a4bb21259db1a841b39984676fed2975898bef3",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
