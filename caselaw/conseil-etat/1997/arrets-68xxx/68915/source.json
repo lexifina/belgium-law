@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.915",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68915,
+  "decision_date": "1997-10-16",
+  "date_as_printed": "16 oktober 1997",
+  "chamber": "IX",
+  "role_number": "A. 68.301/IX-295",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68915",
+  "source_sha256": "305dd289fc8d506efe56c92a19544f3fadedc015888b23dcc01523ab230cc07f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
