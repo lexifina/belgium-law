@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.670",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71670,
+  "decision_date": "1998-02-09",
+  "date_as_printed": "9 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.315/XII-865",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71670",
+  "source_sha256": "3f83f7822f4034d972bd5d47de0de8594a7847e8198fe30a34706fdd27bf597e",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
