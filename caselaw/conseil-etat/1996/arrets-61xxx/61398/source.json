@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.398",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61398,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 août 1996",
+  "chamber": "III",
+  "role_number": "A. 66.410/III-22.050",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61398",
+  "source_sha256": "809a9a3fb92b95e3f2e16d19bc6c68cbf4e81c86901863b1e50454f7d669b5d1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
