@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.374",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71374,
+  "decision_date": "1998-01-29",
+  "date_as_printed": "29 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 41.408/VII-9.175",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71374",
+  "source_sha256": "878123464a5395fcff81acac08bab3d8bea64d72f512df7a9b6739d7f34c356b",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
