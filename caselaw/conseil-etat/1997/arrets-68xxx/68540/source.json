@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.540",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68540,
+  "decision_date": "1997-10-01",
+  "date_as_printed": "1 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 72.206/X-7.074",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68540",
+  "source_sha256": "4c76b1043af79c041d4a5030e2e0b906e9e05489e2aef4cf678de134136552f9",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
