@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.926",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63926,
+  "decision_date": "1997-01-09",
+  "date_as_printed": "9 januari 1997",
+  "chamber": "VII",
+  "role_number": "A. 69.496/VII-14.280",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63926",
+  "source_sha256": "b2f6b955745aff3c5534d984f3f669d0a0817a977f1099045ce1029079b330e9",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
