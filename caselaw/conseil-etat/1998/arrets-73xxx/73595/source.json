@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.595",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73595,
+  "decision_date": "1998-05-12",
+  "date_as_printed": "12 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 75.937/VII-15.980",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73595",
+  "source_sha256": "47195d1d0fb747183d97f6be75c85e30d6b88ccdd751f5c22e6165eb7f98d005",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
