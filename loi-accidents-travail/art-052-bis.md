@@ -1,1 +1,1 @@
-Pour les accidents survenus avant le 1er janvier 1988, les assureurs agréés sont tenus de constituer des réserves et des cautionnements suivant les règles fixées par la Roi pour les cas visés à l'article 52, 1° à 5°.
+(Abrogé)
