@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.117",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73117,
+  "decision_date": "1998-04-20",
+  "date_as_printed": "20 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.304/XII-1.232",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73117",
+  "source_sha256": "43c90edb50a01a9c2afba446e31df25c1ce91f41e8935b8732ebec550767e3ad",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
