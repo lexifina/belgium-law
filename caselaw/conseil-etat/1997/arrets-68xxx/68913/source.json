@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.913",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68913,
+  "decision_date": "1997-10-16",
+  "date_as_printed": "16 oktober 1997",
+  "chamber": "IX",
+  "role_number": "A. 49.563/IX-174",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68913",
+  "source_sha256": "6cbdd832bb16e46f938267fdb2d7b885da135bb67f507bdbc49bad15a6e1eba3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
