@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.387",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71387,
+  "decision_date": "1998-01-29",
+  "date_as_printed": "29 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 49.283/VII-11.593",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71387",
+  "source_sha256": "56933513a19335e2760e3b52c717a609d16769204d99cd901074128458fc7083",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
