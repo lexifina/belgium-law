@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.253",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71253,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 januari 1998",
+  "chamber": "X",
+  "role_number": "A. 50.367/X-7.644",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71253",
+  "source_sha256": "d580fa2665c1e3b0e8499603386d302c1702a72cdad907ac5e43c02d571bdac6",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
