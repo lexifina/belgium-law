@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.837",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69837,
+  "decision_date": "1997-11-26",
+  "date_as_printed": "26 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 57.964/XI-2.680",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69837",
+  "source_sha256": "c776f9bcb391149be3dc1409488edaf191cde8e3256a65249213c0af6a9ff035",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
