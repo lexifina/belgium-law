@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.990",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71990,
+  "decision_date": "1998-02-23",
+  "date_as_printed": "23 février 1998",
+  "chamber": "XIII",
+  "role_number": "A. 76.181/XIII-353",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71990",
+  "source_sha256": "1d93f129a3729468e897e56455c3a5088443222eb83352117fb96494f93878f4",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
