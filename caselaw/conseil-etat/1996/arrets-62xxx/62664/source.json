@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.664",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62664,
+  "decision_date": "1996-10-22",
+  "date_as_printed": "22 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 67.319/III-22.190",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62664",
+  "source_sha256": "d7a0b1ec29b536282dcfffb3345c14abcea5fb299d2b642bca2844dde0bd046e",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
