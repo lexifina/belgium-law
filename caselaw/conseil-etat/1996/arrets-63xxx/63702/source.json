@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.702",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63702,
+  "decision_date": "1996-12-19",
+  "date_as_printed": "19 décembre 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.068/XI-1.308",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63702",
+  "source_sha256": "ce1e4fcc3b1b747d63f7c15bd2ecb4a4ec8cc3dea5b486b435ea6a639ad519fb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
