@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.179",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70179,
+  "decision_date": "1997-12-11",
+  "date_as_printed": "11 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 45.911/XIII-280",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70179",
+  "source_sha256": "f10c76cb36dfa7f5526307cf78a4f3a7bf8537bae910bb619dad012014decf69",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
