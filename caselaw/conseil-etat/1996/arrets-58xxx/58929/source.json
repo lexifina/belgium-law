@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.929",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58929,
+  "decision_date": "1996-03-28",
+  "date_as_printed": "28 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 66.495/VII-13.534",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58929",
+  "source_sha256": "dccebcb9b41f40e4ba86b48df73d4f0ca5c9f07bc86f29115aea02b07ff024ac",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
