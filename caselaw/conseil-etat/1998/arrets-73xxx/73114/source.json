@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.114",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73114,
+  "decision_date": "1998-04-20",
+  "date_as_printed": "20 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 63.451/XI-2.828",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73114",
+  "source_sha256": "5620792ea56e4b2d1420e89d4a06b6f941eb5d9e4e943c667df77d76fb4bf4ac",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
