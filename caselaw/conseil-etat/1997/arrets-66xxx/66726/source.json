@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.726",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66726,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 67.146/IV-15.524",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66726",
+  "source_sha256": "8a9d684769a3363d108cb451887524deca8ca4160aef1a8a2ec2b4aad7f968ab",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
