@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.681",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59681,
+  "decision_date": "1996-05-14",
+  "date_as_printed": "14 mei 1996",
+  "chamber": "X",
+  "role_number": "A. 68.783/X-2.979",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59681",
+  "source_sha256": "23a6a200f5afddbff23f31503cc939de31bdf3d64723094a136e88bf858f05e8",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
