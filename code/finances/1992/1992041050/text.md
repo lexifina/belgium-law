@@ -1,10 +1,7 @@
-<a name="Art.67">Art.</a> <a href="#Art.98"> 67</a>. § 1. Les bénéfices sont exonérés à concurrence de (400.000 francs) par unité de personnel supplémentaire affecté à la recherche scientifique en Belgique. &lt;AR 1995-12-22/56, art. 1, 017; <b> En vigueur : </b> 01-01-1997&gt;
-Le personnel supplémentaire est déterminé par rapport à la moyenne des travailleurs affectés par l'entreprise à cette même fin au cours de la période imposable précédente.
-§ 2. Si le nombre d'unités de personnel affectées à la recherche scientifique est réduit au cours d'une période imposable par rapport à la période imposable antérieure, le montant total des bénéfices antérieurement exonérés, est réduit de (400.000 francs) par unité. &lt;AR 1995-12-22/56, art. 1, 017; <b> En vigueur : </b> 01-01-1997&gt;
-Dans cette éventualité, les bénéfices ou les pertes de la période imposable au cours de laquelle le personnel a été réduit sont, suivant le cas, majorés ou réduites à due concurrence.
-§ 3. Par arrêté délibéré en Conseil des Ministres, le Roi détermine ce qu'il y a lieu d'entendre par "personnel affecté à la recherche scientifique" et règle l'exécution du présent article.
-Lorsque les circonstances économiques le justifient, Il peut également adapter le montant de (400.000 francs). &lt;AR 1995-12-22/56, art. 1, 017; <b> En vigueur : </b> 01-01-1997&gt;
+<a name="Art.253">Art.</a> <a href="#Art.255"> 253</a>. &lt;L 1994-07-06/33, art. 38, 004; <b> En vigueur : </b> 01-01-1992&gt; Est exonéré du précompte immobilier, le revenu cadastral :
+1° des biens immobiliers ou des parties de biens immobiliers visés à l'article 12, § 1er;
+2° des biens immobiliers visés à l'article 231, 1°;
+3° des biens immobiliers qui ont le caractère de domaines nationaux, sont improductifs par eux-mêmes et sont affectés à un servic public ou d'intérêt général; l'exonération est subordonnée à la réunion de ces trois conditions.
 
-<a name="Art.98" href="#Art.67">Art.</a> <a href="#Art.109"> 98</a>. &lt;L 1994-07-06/33, art. 15, 004; <b> En vigueur : </b> 01-01-1992&gt; Les revenus visés à l'article 90, 2° et 5° à 7°, s'entendent de leur montant effectivement payé ou attribué au bénéficiaire, éventuellement majoré du précompte professionnel ou du précompte mobilier.
-
-<a name="Art.109" href="#Art.98">Art.</a> 109. Le montant total des libéralités déductibles ne peut excéder ni 10 p.c. de l'ensemble des revenus nets ni 10.000.000 de francs.
+<a name="Art.255" href="#Art.253">Art.</a> 255. Le précompte immobilier s'élève à 1,25 p.c. du revenu cadastral tel que celui-ci est établi au 1er janvier de l'exercice d'imposition.
+Ce taux est ramené à 0,8 p.c. pour les habitations appartenant aux sociétés de construction agréées par la Société nationale du logement ou par la Caisse générale d'épargne et de retraite, pour les propriétés louées comme habitations sociales et appartenant aux centres publics d'aide sociale, (...) et aux communes, ainsi que pour les propriétés appartenant à la Société nationale terrienne ou à des sociétés agréées par celle-ci et qui sont louées comme habitations sociales. &lt;L 1994-07-06/33, art. 39, 004; <b> En vigueur : </b> 26-07-1994&gt;
