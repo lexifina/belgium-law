@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.118",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72118,
+  "decision_date": "1998-03-02",
+  "date_as_printed": "2 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 43.954/IX-909",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72118",
+  "source_sha256": "9d0378e29e3eff0aa7ee080a6a5b4a6dfac400610e1b0984362b8533548e7e9d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
