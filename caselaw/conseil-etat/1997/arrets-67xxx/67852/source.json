@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.852",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67852,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "IV",
+  "role_number": "A. 70.985/IV-16.174",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67852",
+  "source_sha256": "ffa3d1d5df5cda04a3627e5ba8752b936f9c575e4fa01167da9b94e8658bc494",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
