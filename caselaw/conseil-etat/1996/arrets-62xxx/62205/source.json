@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.205",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62205,
+  "decision_date": "1996-10-03",
+  "date_as_printed": "3 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 64.287/X-6.720",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62205",
+  "source_sha256": "e9c7edec00c34414fb44640a443bca28cbe3006a7ed3b9dde76384a39c4d426a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
