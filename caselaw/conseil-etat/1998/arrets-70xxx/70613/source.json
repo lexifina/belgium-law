@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.613",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70613,
+  "decision_date": "1998-01-12",
+  "date_as_printed": "12 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 71.812/XI-1.682",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70613",
+  "source_sha256": "1c3e1eaef619c35016e604589d6989e9f112e34522539066052e9992416e7092",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
