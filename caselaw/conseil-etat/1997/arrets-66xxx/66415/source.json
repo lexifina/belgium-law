@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.415",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66415,
+  "decision_date": "1997-05-27",
+  "date_as_printed": "27 mei 1997",
+  "chamber": "X",
+  "role_number": "A. 68.393/X-6.433",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66415",
+  "source_sha256": "626e8adaaf86b9293f69e7df560798211204da7daafad987e2cbfaad97257180",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
