@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.158",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60158,
+  "decision_date": "1996-06-13",
+  "date_as_printed": "13 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 62.021/VII-12.941",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60158",
+  "source_sha256": "56196d59d18dbd20159bb7b47c76a869b7aa0fea347fb390dddd99234df59b5f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
