@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.498",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73498,
+  "decision_date": "1998-05-06",
+  "date_as_printed": "6 mai 1998",
+  "chamber": "VI",
+  "role_number": "A. 67.211/VI-14.263",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73498",
+  "source_sha256": "6555093feabfcc370554a417abe152dd6f8cd4adc7a70460bd8223c4aa2851b1",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
