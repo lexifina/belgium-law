@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.561",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55561,
+  "decision_date": "1995-10-02",
+  "date_as_printed": "2 oktober 1995",
+  "chamber": "X",
+  "role_number": "A. 62.781/X-5.029",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55561",
+  "source_sha256": "aa885ffcd171dd4078aa0a482af0ad7f3dbd9353574e1d6b1f6c6817035ac5cd",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
