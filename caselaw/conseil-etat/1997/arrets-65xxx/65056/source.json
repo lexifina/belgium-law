@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.056",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65056,
+  "decision_date": "1997-03-10",
+  "date_as_printed": "10 mars 1997",
+  "chamber": "VI",
+  "role_number": "A. 65.342/VI-12.766",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65056",
+  "source_sha256": "6f952f6570d311de7381ceb0ab8e2d7dcb3e7b107c4c5a48a8249530664e3520",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
