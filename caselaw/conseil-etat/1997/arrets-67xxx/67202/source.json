@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.202",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67202,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.667/XI-2.413",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67202",
+  "source_sha256": "ce6f57d95e02129c8fa582f931c0d32989bcdffc20ca1166e214fc78a33186df",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
