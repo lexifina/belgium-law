@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.408",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66408,
+  "decision_date": "1997-05-27",
+  "date_as_printed": "27 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 71.780/VII-11.131",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66408",
+  "source_sha256": "572fb602ca0055e84bdff3ada23d13f4195c6704a3f5599b40f97df87c3d8f9f",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
