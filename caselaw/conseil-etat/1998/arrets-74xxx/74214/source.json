@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.214",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74214,
+  "decision_date": "1998-06-10",
+  "date_as_printed": "10 juin 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.041/VI-14.346",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74214",
+  "source_sha256": "a65a9a97e691478bc8a3504384d555c203e5b8d877b7324acadf0b1fef72f1f8",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
