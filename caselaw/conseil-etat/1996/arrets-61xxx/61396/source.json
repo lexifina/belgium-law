@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.396",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61396,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 août 1996",
+  "chamber": "III",
+  "role_number": "A. 66.394/III-664",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61396",
+  "source_sha256": "6537fd82f90c7150e94a56e871c29375464995755305be2cbf89e4f22bccdfea",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
