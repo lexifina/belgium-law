@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.521",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57521,
+  "decision_date": "1996-01-15",
+  "date_as_printed": "15 januari 1996",
+  "chamber": "X",
+  "role_number": "A. 61.760/X-4.729",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57521",
+  "source_sha256": "a64f9a9a3c26df0df16c10631f9985a0235b8db14272b2ef9ac4e4f53bd646ce",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
