@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.413",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70413,
+  "decision_date": "1997-12-18",
+  "date_as_printed": "18 december 1997",
+  "chamber": "X",
+  "role_number": "A. 74.749/X-7.513",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70413",
+  "source_sha256": "a663c3aaa695c6cdc83a3af455b9ca4804b4fe6af39a8b7cf2263bbd54296af0",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
