@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 49.834",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 49834,
+  "decision_date": "1994-10-21",
+  "date_as_printed": "21 oktober 1994",
+  "chamber": "IV",
+  "role_number": "A. 60.452/IV-14.814",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/49834",
+  "source_sha256": "8864b6ae8cea28cc90a53b3f41fe807f1636bf782166e24799187cd363914914",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
