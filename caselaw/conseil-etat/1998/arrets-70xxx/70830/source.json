@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.830",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70830,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 54.965/VII-15.770",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70830",
+  "source_sha256": "9e0cb6590eb3be38ae3c003723ba0607c72faea8ba6002c2c6bbb7b5ff3cf1a6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
