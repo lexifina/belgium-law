@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.619",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58619,
+  "decision_date": "1996-03-13",
+  "date_as_printed": "13 mars 1996",
+  "chamber": "XI",
+  "role_number": "A. 66.182/XI-8",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58619",
+  "source_sha256": "651b9284a56cbdbe5caa9cf53329111a40eb0b27e472a6673736c6bdb8aba1d9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
