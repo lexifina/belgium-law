@@ -1,0 +1,1 @@
+Le Roi détermine, après avis du Conseil supérieur de la Justice, la manière dont est enregistrée la charge de travail du juge et du ministère public ainsi que la manière dont ces données enregistrées sont évaluées.
