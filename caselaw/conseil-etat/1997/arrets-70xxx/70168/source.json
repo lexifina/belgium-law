@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.168",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70168,
+  "decision_date": "1997-12-11",
+  "date_as_printed": "11 december 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.612/VII-15.578",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70168",
+  "source_sha256": "0d5ceea4ef6754eb2ce5d1fa8547bb6fced556d2c502986a79fba1073ab4c187",
+  "pages": 21,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
