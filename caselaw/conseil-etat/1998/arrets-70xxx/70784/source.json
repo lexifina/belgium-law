@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.784",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70784,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 73.377/VI-13.721",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70784",
+  "source_sha256": "c32fda348be080dbaeefc24e5a0cae5098d748216b803d8633a7c1a7167d28f6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
