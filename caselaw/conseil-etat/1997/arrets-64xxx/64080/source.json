@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.080",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64080,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.945/III-22.558",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64080",
+  "source_sha256": "7d5568c95e838a5555682ab7cf85782307bfe498433072ef0fde5bb2b93518d4",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
