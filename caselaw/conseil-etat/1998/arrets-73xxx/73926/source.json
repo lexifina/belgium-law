@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.926",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73926,
+  "decision_date": "1998-05-28",
+  "date_as_printed": "28 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 77.269/VII-16.326",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73926",
+  "source_sha256": "5f15369843526e918cde8cb461b77e5488edc3deec11b4982b88bcbe13f73626",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
