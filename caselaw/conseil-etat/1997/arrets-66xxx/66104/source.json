@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.104",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66104,
+  "decision_date": "1997-04-29",
+  "date_as_printed": "29 april 1997",
+  "chamber": "VII",
+  "role_number": "A. 71.594/VII-14.791",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66104",
+  "source_sha256": "7cc4a681555eb3f2ad851c1a959cc6fbea0d5324ccd2b04eda74ca2df1580adf",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
