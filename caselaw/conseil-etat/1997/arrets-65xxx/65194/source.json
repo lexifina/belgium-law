@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.194",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65194,
+  "decision_date": "1997-03-13",
+  "date_as_printed": "13 mars 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.414/XI-2.112",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65194",
+  "source_sha256": "bd1ad647baf893676cf4b122e9f5ffcccfb7762f380be77ebe4db2d1796b6176",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
