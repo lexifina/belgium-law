@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.592",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71592,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 47.986/VII-11.261",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71592",
+  "source_sha256": "301e2f03c9635b5f7400ba3eb30715815a0eb1db3f2bd5259cfa07faaaa9a6a7",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
