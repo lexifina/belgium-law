@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.740",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68740,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 43.154/VII-9.736",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68740",
+  "source_sha256": "87c270dc107e39fa297373eee301cb5477acef0d923a46f598c37441f64d2ddc",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
