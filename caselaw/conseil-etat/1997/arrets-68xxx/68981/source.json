@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.981",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68981,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 71.551/VII-14.782",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68981",
+  "source_sha256": "5dcd0203de2b1fde01fd8169dc1578d1b8a3f84671ac780d3df15cd6dc976fcc",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
