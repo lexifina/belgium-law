@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.986",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68986,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 57.009/VII-12.546",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68986",
+  "source_sha256": "734f55076524db5022adbf0e06b70e7eba4ec27e99028522fd16bf32e88c6fa9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
