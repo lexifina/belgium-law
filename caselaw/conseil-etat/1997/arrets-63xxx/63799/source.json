@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.799",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63799,
+  "decision_date": "1997-01-07",
+  "date_as_printed": "7 januari 1997",
+  "chamber": "X",
+  "role_number": "A. 70.404/X-1.686",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63799",
+  "source_sha256": "d3a2425b3498fb6a1a8662c6263d10f6031999f14ba5616347926bb2f6bc907e",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
