@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.920",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63920,
+  "decision_date": "1997-01-08",
+  "date_as_printed": "8 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 67.929/III-22.242",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63920",
+  "source_sha256": "3c4769a9060cf4ad82d051306e6099a2e60b13e8f79f6d21b8488317ffff5d46",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
