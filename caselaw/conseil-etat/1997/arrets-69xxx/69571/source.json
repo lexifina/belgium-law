@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.571",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69571,
+  "decision_date": "1997-11-12",
+  "date_as_printed": "12 novembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 62.432/VI-12.835",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69571",
+  "source_sha256": "be1f73de639c188c3e79542898521cd370621beaee940f8de43f14d8cf20762a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
