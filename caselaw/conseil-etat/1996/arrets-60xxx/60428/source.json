@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.428",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60428,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.380/X-6.540",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60428",
+  "source_sha256": "8e068760ff2708cba3d4c2f2ef25364ce65d41fdedc235086d55d7d493c7ca3f",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
