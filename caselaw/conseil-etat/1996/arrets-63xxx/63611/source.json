@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.611",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63611,
+  "decision_date": "1996-12-17",
+  "date_as_printed": "17 december 1996",
+  "chamber": "X",
+  "role_number": "A. 70.024/X-6.790",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63611",
+  "source_sha256": "a53bcfff0696802e5f4cfc08141239c182daa7b7e9ff33ec9acf6c85b39393c7",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
