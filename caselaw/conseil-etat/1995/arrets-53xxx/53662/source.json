@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.662",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53662,
+  "decision_date": "1995-06-12",
+  "date_as_printed": "12 juni 1995",
+  "chamber": "X",
+  "role_number": "A. 62.421/X-4.898",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53662",
+  "source_sha256": "b65b044f477a8d3e528d2f5366d7d62c478f82952b87363c7cf48970c12f8c91",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
