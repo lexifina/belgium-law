@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.029",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63029,
+  "decision_date": "1996-11-13",
+  "date_as_printed": "13 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 70.103/IV-1.908",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63029",
+  "source_sha256": "72acc32876a0feaa47ddc9f9ef78e9cf478cf2f67c7c851ec1535db2262dbcdc",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
