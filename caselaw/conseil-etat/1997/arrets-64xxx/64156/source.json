@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.156",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64156,
+  "decision_date": "1997-01-23",
+  "date_as_printed": "23 januari 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.922/IV-520",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64156",
+  "source_sha256": "09761cfce8180d71e623799b94116fe9355eaab019dfe70a4607506adc66d9f2",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
