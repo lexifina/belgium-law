@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.132",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68132,
+  "decision_date": "1997-09-16",
+  "date_as_printed": "16 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 69.738/XI-1.204",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68132",
+  "source_sha256": "49c6f644799902a275c151d35f83682ba598cc75e486171920196a9f12da9d9b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
