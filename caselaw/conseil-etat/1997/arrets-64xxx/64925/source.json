@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.925",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64925,
+  "decision_date": "1997-02-28",
+  "date_as_printed": "28 février 1997",
+  "chamber": "III",
+  "role_number": "A. 65.529/III-21.793",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64925",
+  "source_sha256": "2d9ba09a629ff200a925bcbac68538cee07856169554ecb3405f7af8da4dbb30",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
