@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.395",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69395,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 65.829/VII-13.459",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69395",
+  "source_sha256": "a0b8eb0630b7b1d2a14303e195ac3655682ddc12f57ff1f30fca0ee729ea1b7f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
