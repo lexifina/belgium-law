@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.424",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66424,
+  "decision_date": "1997-05-28",
+  "date_as_printed": "28 mei 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.175/IV-76",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66424",
+  "source_sha256": "60bc757e8149522ac55db4c14d2199d3118f2210463d7cf9e76c9c2b05b55e30",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
