@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.919",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65919,
+  "decision_date": "1997-04-18",
+  "date_as_printed": "18 april 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.926/IV-3.404",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65919",
+  "source_sha256": "3c647403911482695b697572afba03189a2db5aca4f76296a7a526a1b59b45ca",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
