@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.040",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65040,
+  "decision_date": "1997-03-07",
+  "date_as_printed": "7 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.243/III-22.643",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65040",
+  "source_sha256": "9a55a06e47f2248e32c31a948fe0ec17edc29ec6d5117602890aa827e699e342",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
