@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.550",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71550,
+  "decision_date": "1998-02-04",
+  "date_as_printed": "4 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 67.552/XI-473",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71550",
+  "source_sha256": "05f5fbac753fa4308dae658e4bb7ed1e1bea38f9f4e1a12be8643b60b35cf003",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
