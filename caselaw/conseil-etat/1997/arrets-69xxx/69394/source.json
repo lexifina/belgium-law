@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.394",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69394,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 72.121/XI-1.751",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69394",
+  "source_sha256": "7052339b7eac1b675ca9e172fb0436e8a0df16b42cbfd6ea038b627f58243f54",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
