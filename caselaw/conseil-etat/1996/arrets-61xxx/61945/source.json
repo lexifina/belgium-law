@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.945",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61945,
+  "decision_date": "1996-09-25",
+  "date_as_printed": "25 septembre 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.959/IV-2.920",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61945",
+  "source_sha256": "11c3da0d8455f2db286e7d94c5637cb3ac5a71d8a65f16fbbf2fd63f8c86e069",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
