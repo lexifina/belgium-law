@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.529",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62529,
+  "decision_date": "1996-10-11",
+  "date_as_printed": "11 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 62.217/III-20.766",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62529",
+  "source_sha256": "6aa0b78a426b68bda8590f691585a4500a33941a1c4b4aca6871a13ac9a8d17a",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
