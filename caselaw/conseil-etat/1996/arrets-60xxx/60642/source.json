@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.642",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60642,
+  "decision_date": "1996-07-03",
+  "date_as_printed": "3 juillet 1996",
+  "chamber": "III",
+  "role_number": "A. 64.452/III-21.356",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60642",
+  "source_sha256": "bacf0611cec47e7240f7048f6c15d1d77a01fa69a4e865a2285040552b6982ad",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
