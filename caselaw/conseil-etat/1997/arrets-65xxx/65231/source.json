@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.231",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65231,
+  "decision_date": "1997-03-14",
+  "date_as_printed": "14 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.185/III-22.630",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65231",
+  "source_sha256": "eb25866c5b139fccd4f81c390c5e043e29974fd21d8aaf5138b70f5fc27da9b4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
