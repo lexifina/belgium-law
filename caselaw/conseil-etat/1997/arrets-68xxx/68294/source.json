@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.294",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68294,
+  "decision_date": "1997-09-25",
+  "date_as_printed": "25 september 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.296/VII-15.481",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68294",
+  "source_sha256": "5ff5dbdbfdbf7ee99f217868fda43154e1f264412d41aa924771a37667d49bbb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
