@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.907",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73907,
+  "decision_date": "1998-05-27",
+  "date_as_printed": "27 mei 1998",
+  "chamber": "IX",
+  "role_number": "A. 63.618/IX-193",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73907",
+  "source_sha256": "b7a7ad6be1cf56273c127b8b833a731e4e8f917d3584930c3dc5250748ade23a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
