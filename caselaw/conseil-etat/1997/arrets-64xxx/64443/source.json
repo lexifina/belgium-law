@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.443",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64443,
+  "decision_date": "1997-02-06",
+  "date_as_printed": "6 februari 1997",
+  "chamber": "VII",
+  "role_number": "A. 64.657/VII-13.312",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64443",
+  "source_sha256": "59b8fb9a41d9d12a1d81753742ffe5b156601d30f619c408e3943f450a46ad11",
+  "pages": 21,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
