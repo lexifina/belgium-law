@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.469",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68469,
+  "decision_date": "1997-09-29",
+  "date_as_printed": "29 september 1997",
+  "chamber": "XII",
+  "role_number": "A. 75.763/XII-428",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68469",
+  "source_sha256": "d522622cbdc314b1792786fa31326efe2478eb8beac098fc9c8442dbe9283323",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
