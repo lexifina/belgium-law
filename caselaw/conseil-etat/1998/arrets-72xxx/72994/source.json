@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.994",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72994,
+  "decision_date": "1998-04-06",
+  "date_as_printed": "6 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 50.320/XI-3.229",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72994",
+  "source_sha256": "25755501494fe9fb306b5e3e60a9fe2331e846cf8e519ff399ecf646cb98cb87",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
