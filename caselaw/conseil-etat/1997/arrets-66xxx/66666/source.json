@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.666",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66666,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juin 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.539/IV-1.782",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66666",
+  "source_sha256": "935fc456aa0dd8d5048d9764b382f51d53c79320748cff8eed9561f6a25b2b3c",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only",
+  "text_not_reproduced": "Personal-data rule: home-address/birth-date/national-number marker. The decision text is in the official PDF at the source link."
+}
