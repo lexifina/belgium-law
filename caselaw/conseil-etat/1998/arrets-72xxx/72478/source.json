@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.478",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72478,
+  "decision_date": "1998-03-16",
+  "date_as_printed": "16 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 75.091/XI-2.514",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72478",
+  "source_sha256": "877fa0e017bf9e2d41a80f0b2da1475d3b570934752dd2b3a00ef7519966c06f",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
