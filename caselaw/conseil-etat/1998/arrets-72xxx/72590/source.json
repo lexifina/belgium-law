@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.590",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72590,
+  "decision_date": "1998-03-18",
+  "date_as_printed": "18 maart 1998",
+  "chamber": "X",
+  "role_number": "A. 69.723/X-6.731",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72590",
+  "source_sha256": "946c09c4eea72538921f1f1b3f3af278e2bafecabd6c808b9991dfbb77bbcb65",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
