@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.991",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59991,
+  "decision_date": "1996-06-11",
+  "date_as_printed": "11 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 62.845/X-6.514",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59991",
+  "source_sha256": "b736c0af9619d79f380d176064db1f30a160e758d57fd8037ba14f2ef91a9b53",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
