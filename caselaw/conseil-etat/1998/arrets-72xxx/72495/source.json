@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.495",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72495,
+  "decision_date": "1998-03-17",
+  "date_as_printed": "17 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 69.182/VII-14.182",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72495",
+  "source_sha256": "6af78dfe8217402b189a6d7e5a5c13d77e430026c03dfd01ae20c0bae96cbc16",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
