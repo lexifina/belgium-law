@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.891",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66891,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 44.240/IV-13.403",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66891",
+  "source_sha256": "42c77ceb108e304b6b23a3072f2ce7a8e1778b65a2b4e8223f6f12678fe0a626",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
