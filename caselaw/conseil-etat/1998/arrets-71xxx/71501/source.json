@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.501",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71501,
+  "decision_date": "1998-02-02",
+  "date_as_printed": "2 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 42.006/IX-230",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71501",
+  "source_sha256": "0230896f6a669474fad4af88142a71b0f4fc2324f75540be4f2d30c948a9ef2d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
