@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.083",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64083,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.027/III-22.575",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64083",
+  "source_sha256": "20790cbbb3f43b5c3dd56ec27ccc7f82f721fea206ddde360fb687add34c3677",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
