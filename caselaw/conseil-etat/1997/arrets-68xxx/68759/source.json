@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.759",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68759,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.334/VII-13.650",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68759",
+  "source_sha256": "e2b2546e4606cb31ca6477276cb6a7c121b4d3111bf28e9249926bd35c2ad9bb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
