@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.664",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56664,
+  "decision_date": "1995-12-06",
+  "date_as_printed": "6 décembre 1995",
+  "chamber": "III",
+  "role_number": "A. 63.285/III-20.752",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56664",
+  "source_sha256": "84131ae84c5e1d0da5ec39166cdd87ec6874ee85c91122292d1dae1c443d1e22",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
