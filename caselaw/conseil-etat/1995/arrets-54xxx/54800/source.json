@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 54.800",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 54800,
+  "decision_date": "1995-08-16",
+  "date_as_printed": "16 août 1995",
+  "chamber": "VI",
+  "role_number": "A. 64.292/VI-12.483",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/54800",
+  "source_sha256": "2754bcb4c420148c52dae15d852298b3e1feb7d91e2a1942d2a19dc4e09fcbf0",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
