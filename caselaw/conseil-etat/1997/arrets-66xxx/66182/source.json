@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.182",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66182,
+  "decision_date": "1997-05-06",
+  "date_as_printed": "6 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.649/VII-15.051",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66182",
+  "source_sha256": "dc4de05d2265ff622408c2ee88fc73bc62dd8aa7c0f873011365d22d5911ce56",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
