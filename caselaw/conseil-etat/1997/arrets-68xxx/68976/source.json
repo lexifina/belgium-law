@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.976",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68976,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 64.864/VII-13.340",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68976",
+  "source_sha256": "1e073cb7775db1aec3df56c41cf50cfa9c7c5528605ee8bcabdfcec6e5b18037",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
