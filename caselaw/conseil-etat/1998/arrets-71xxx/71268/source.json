@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.268",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71268,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 76.415/VI-14.347",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71268",
+  "source_sha256": "acb9d94aa62b84f7ec1e67c0462ddcbcee8c33337a0d2edc9950d6e502d18590",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
