@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.828",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72828,
+  "decision_date": "1998-03-27",
+  "date_as_printed": "27 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 67.196/XI-342",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72828",
+  "source_sha256": "60e1656522bbd3f0afc4a1cdfea020ac875976a2c2d59def26d140bcfc7fbe08",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
