@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.633",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63633,
+  "decision_date": "1996-12-18",
+  "date_as_printed": "18 december 1996",
+  "chamber": "IV",
+  "role_number": "A. 70.985/IV-16.174",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63633",
+  "source_sha256": "dae43b6ec468b361e8930eec07c3a794f6ab07bb84bc276a4bac269537490a4f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
