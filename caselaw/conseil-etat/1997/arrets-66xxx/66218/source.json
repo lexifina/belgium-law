@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.218",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66218,
+  "decision_date": "1997-05-13",
+  "date_as_printed": "13 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 69.137/VII-14.171",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66218",
+  "source_sha256": "7c7ad16e19a680fd22d03b288a666b1d3017dbd6ab968878fcadfbece78f6aaa",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
