@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.909",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55909,
+  "decision_date": "1995-10-18",
+  "date_as_printed": "18 octobre 1995",
+  "chamber": "III",
+  "role_number": "A. 62.716/III-20.535",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55909",
+  "source_sha256": "bd64e221600031a252dcc3692d2ce71e30929a47b4f76431f7f6656a5e504849",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
