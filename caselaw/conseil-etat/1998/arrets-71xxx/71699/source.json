@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.699",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71699,
+  "decision_date": "1998-02-10",
+  "date_as_printed": "10 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 45.520/XII-559",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71699",
+  "source_sha256": "5116c6b47ca7700630451d356984ea74a02cacd8b5804341b10f03c0505d346f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
