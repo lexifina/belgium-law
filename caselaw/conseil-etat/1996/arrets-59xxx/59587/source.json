@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.587",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59587,
+  "decision_date": "1996-05-09",
+  "date_as_printed": "9 mei 1996",
+  "chamber": "VII",
+  "role_number": "A. 67.657/VII-13.714",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59587",
+  "source_sha256": "b8ac21caff5b2077dd573e6b3687b85454ce9e94e29341f64e91db4bfc2dbf57",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
