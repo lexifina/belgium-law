@@ -1,0 +1,4 @@
+L'appelant est convoqué par le secrétaire devant le conseil d'appel, par lettre recommandée à la poste.
+Le délai de comparution est d'au moins quinze jours. Sauf si l'appelant demande expressément le huis clos, les débats ont lieu en audience publique.
+Le conseil d'appel peut également siéger à huis clos pendant la totalité ou une partie de la procédure dans l'intérêt de la moralité ou de l'ordre public, lorsque les intérêts des mineurs ou la protection de la vie privée de l'huissier de justice inculpé l'exigent, ou dans la mesure jugée strictement nécessaire par le conseil d'appel, lorsque dans des circonstances spéciales la publicité serait de nature à porter atteinte aux intérêts de l'administration de la justice.
+La décision du conseil d'appel est adressée sous pli recommandé à la poste à l'appelant et au secrétaire du conseil de la chambre d'arrondissement par le secrétaire du conseil d'appel.

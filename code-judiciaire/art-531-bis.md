@@ -1,0 +1,6 @@
+La décision rendue en matière disciplinaire, prononcée conformément à l'article 531, est susceptible d'appel devant un conseil d'appel des huissiers de justice.
+Un conseil est créé dans le ressort de chaque cour d'appel. Il se réunit au lieu où est établi le siège de la cour. Dans le ressort de la cour d'appel de Bruxelles, il y a un conseil francophone et un conseil néerlandophone. Le conseil est composé de trois assesseurs effectifs et trois assesseurs suppléants, élus parmi les huissiers de justice, de façon que les assesseurs effectifs, d'une part, et les assesseurs suppléants, d'autre part, appartiennent à trois arrondissements judiciaires différents. Le conseil est présidé par un conseiller de la cour d'appel compétente, désigné à cet effet par le premier président.
+Les assesseurs sont élus annuellement au scrutin secret par le conseil permanent. Ils sont rééligibles.
+Un secrétaire et un rapporteur sont désignés parmi les assesseurs.
+Un membre du comité de direction peut être entendu, à la demande du conseil, sans pouvoir prendre part à la délibération.
+Pour la première fois, les assesseurs sont désignés par le premier président de la cour d'appel compétente, sur la présentation de la chambre d'arrondissement intéressée.
