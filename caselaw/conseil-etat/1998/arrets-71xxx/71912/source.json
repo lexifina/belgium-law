@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.912",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71912,
+  "decision_date": "1998-02-18",
+  "date_as_printed": "18 februari 1998",
+  "chamber": "X",
+  "role_number": "A. 74.643/X-7.472",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71912",
+  "source_sha256": "52a6e36f75c0ff27b4dd6c2f26d6408ca6f9a7d8a8cc7bc5fb0f4ce9a2fbe781",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
