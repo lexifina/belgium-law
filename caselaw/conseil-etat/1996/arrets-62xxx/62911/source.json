@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.911",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62911,
+  "decision_date": "1996-11-05",
+  "date_as_printed": "5 november 1996",
+  "chamber": "X",
+  "role_number": "A. 69.475/X-6.672",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62911",
+  "source_sha256": "be9317d13327641bd47e4f82e51652ee399695a18786c004c484f16f83032bfc",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
