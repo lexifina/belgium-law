@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.931",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59931,
+  "decision_date": "1996-06-07",
+  "date_as_printed": "7 juin 1996",
+  "chamber": "III",
+  "role_number": "A. 63.482/III-21.182",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59931",
+  "source_sha256": "404321b2d815dd98cd83350cf5f852fbb2267a2fdef423ff6a68d43341e7ff72",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
