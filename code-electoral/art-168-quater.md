@@ -1,0 +1,1 @@
+La répartition des sièges qui sont à conférer aux listes de candidats d'expression française présentées dans la circonscription électorale de Bruxelles-Hal-Vilvorde et aux listes de candidats présentées dans la circonscription électorale du Brabant wallon s'opère conformément aux articles 169 à 171.
