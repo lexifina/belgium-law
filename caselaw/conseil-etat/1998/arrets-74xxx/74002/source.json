@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.002",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74002,
+  "decision_date": "1998-06-02",
+  "date_as_printed": "2 juni 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.979/XII-1.217",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74002",
+  "source_sha256": "8b0b741559cc709469c145446426ffc4f8c17885520b03d41c8e8bbcf0df6a3f",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
