@@ -1,4 +1,4 @@
-<a name="Art.7">Art.</a> 7. § 1er. (Il est institué auprès du Ministre du Travail et de la Prévoyance sociale un (Office national de l'emploi). &lt;L 14-02-1961, art. 9&gt;
+<a name="Art.7">Art.</a> <a href="#Art.8"> 7</a>. § 1er. (Il est institué auprès du Ministre du Travail et de la Prévoyance sociale un (Office national de l'emploi). &lt;L 14-02-1961, art. 9&gt;
 Cet office est un établissement public doté de la personnalité civile.) &lt;L 14-07-1951, art. 3.&gt;
 (Dans les conditions que le Roi détermine, l'Office national de l'emploi a pour mission de:
 a) promouvoir et organiser le recrutement et le placement des travailleurs;
@@ -14,6 +14,7 @@ j) (assurer, avec l'aide des organismes créés ou à créer à cette fin, aux t
 k) (abrogé) &lt;ARN28 24-3-1982, art. 1er; cet arrêté entre en vigueur à une date à fixer par le Roi&gt;
 (l) assurer le paiement des indemnités visées aux articles 100 et 102 de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales.) &lt;L 1985-01-22/30, art. 106, 002&gt;
 (Il est alimenté par une part des cotisations imposées par le présent arrêté-loi, ainsi qu'il est prévu à l'article 4, et par des subventions de l'Etat.) &lt;L 14-07-1951, art. 3&gt;
+(Lorsqu'il s'agit du paiement d'allocations aux chômeurs involontaires dont l'exécution du contrat de travail est suspendue en application du Titre II, chapitre II, de la loi du 3 juillet 1978 relative aux contrats de travail, l'Office national de l'emploi paie pour le compte du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, institué par l'article 9 de la loi du 28 juin 1966 relatif à l'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, l'intervention de celui-ci dans le montant de ces allocations de chômage.) &lt;L 1992-06-26/30, art. 101, 005; <b> En vigueur : </b> 10-07-1992&gt;
 (L'Office national de l'emploi est soumis au contrôle organisé par la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public. Il est administré conformément aux dispositions de la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale.) &lt;L 11-01-1967, art. 5&gt;
 L'organisation et le fonctionnement de (l'Office national de l'emploi)
 sont réglés par le Roi. &lt;L 14-07-1951, art. 9&gt;
@@ -45,3 +46,9 @@ En cas de faillite ou de liquidation de l'entreprise, les mandataires, les curat
 Le droit de l'Office national de l'emploi d'ordonner la répétition des allocations de chômage payées indûment, ainsi que les actions des organismes de paiement en répétition d'allocations de chômage payées indûment se prescrivent par trois ans. Ce délai est porté à cinq ans lorsque le paiement indu résulte de la fraude ou du dol du chômeur.
 Les délais de prescription déterminés à l'alinéa 2 prennent cours le premier jour du trimestre civil suivant celui au cours duquel le paiement à été effectué. Lorsque les allocations de chômage payées se révèlent indues à cause de l'octroi ou de la majoration d'un avantage qui ne peut être cumulé, en tout ou en partie, avec les allocations de chômage, le délai de prescription prend cours le premier jour du trimestre civil qui suit celui au cours duquel cet avantage ou cette majoration a été payé.
 San préjudice des dispositions du Code civil, les délais de prescription peuvent être interrompus par lettre recommandée à la poste. Les actes d'interruption de la prescription restent valables même s'ils sont adressés à une institution ou administration incompétente, à condition que cette institution ou administration soit chargée de l'octroi ou du paiement des allocations de chômage.) &lt;L 1988-12-30/31, art. 112, 003; <b> En vigueur : </b> 01-01-1989&gt;
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
