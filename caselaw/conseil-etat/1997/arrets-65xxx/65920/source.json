@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.920",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65920,
+  "decision_date": "1997-04-18",
+  "date_as_printed": "18 avril 1997",
+  "chamber": "VI",
+  "role_number": "A. 65.413/VI-12.770",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65920",
+  "source_sha256": "66d3470dc030aae42c53847f5b5edd5970ba0103d1d328c726487fe15ab5c3d6",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
