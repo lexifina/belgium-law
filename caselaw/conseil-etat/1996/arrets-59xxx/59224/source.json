@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.224",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59224,
+  "decision_date": "1996-04-24",
+  "date_as_printed": "24 april 1996",
+  "chamber": "IV",
+  "role_number": "A. 65.553/IV-10.462",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59224",
+  "source_sha256": "1c8e048994c3d137d86a85547c8683a5b7bcfedd663072b8f6cd5cbabb4167bc",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
