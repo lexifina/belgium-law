@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.053",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74053,
+  "decision_date": "1998-06-03",
+  "date_as_printed": "3 juni 1998",
+  "chamber": "VII",
+  "role_number": "A. 57.472/VII-14.139",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74053",
+  "source_sha256": "0f22e927c3a1058f8bbbfaf6c30791fad5bf7839052bfb0bff5478d815bfa96a",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
