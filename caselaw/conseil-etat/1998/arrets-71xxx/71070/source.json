@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.070",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71070,
+  "decision_date": "1998-01-26",
+  "date_as_printed": "26 januari 1998",
+  "chamber": "IX",
+  "role_number": "A. 43.911/IX-203",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71070",
+  "source_sha256": "962a26f347d61bba49c214f5c1fe9880d56802e365de51b12643a271757ce232",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
