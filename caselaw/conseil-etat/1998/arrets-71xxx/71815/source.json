@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.815",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71815,
+  "decision_date": "1998-02-12",
+  "date_as_printed": "12 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 49.958/VII-11.782",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71815",
+  "source_sha256": "ad85d639be1ff2c933b857bc4a5f88b9fceddf6416ac00d32f5301db7d4b21e2",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
