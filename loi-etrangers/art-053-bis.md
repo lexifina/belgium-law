@@ -1,1 +1,2 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(Par décision du (Ministre) ou de son délégué, l'étranger visé à l'article 52 (ou l'article 52bis) peut être reconduit à la frontière du pays qu'il a fui et où, selon sa déclaration, sa vie ou sa liberté serait menacée.)
+(Alinéa 1 et 2 abrogé)
