@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.935",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68935,
+  "decision_date": "1997-10-20",
+  "date_as_printed": "20 oktober 1997",
+  "chamber": "IX",
+  "role_number": "A. 75.927/IX-477",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68935",
+  "source_sha256": "39ffb4f80f8c505b31a734cc8b9a559c5be99c7be1854ea16dc843a129aed028",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
