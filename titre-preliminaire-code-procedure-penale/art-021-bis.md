@@ -1,0 +1,1 @@
+Dans les cas visés aux articles 372, 373, 375, 379, 380 et 380bis du Code pénal, le délai de prescription de l'action publique ne commence à courir qu'a partir du jour où la victime atteint l'âge de dix-huit ans.
