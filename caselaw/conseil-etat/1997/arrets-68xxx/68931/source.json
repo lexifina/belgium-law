@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.931",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68931,
+  "decision_date": "1997-10-17",
+  "date_as_printed": "17 octobre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 60.712/VIII-268",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68931",
+  "source_sha256": "8908d7aeb15abad8cc23c6e7098e372baaea622b992c171b4d51cbd3c3f38628",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
