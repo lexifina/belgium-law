@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.795",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63795,
+  "decision_date": "1996-12-31",
+  "date_as_printed": "31 december 1996",
+  "chamber": "IV",
+  "role_number": "A. 72.609/IV-669",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63795",
+  "source_sha256": "a6a5905f0a0a1936c6679d409f2be73a11d5241cb215ae370af78ddc6fd37227",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
