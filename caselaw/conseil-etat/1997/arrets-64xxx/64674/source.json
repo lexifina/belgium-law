@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.674",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64674,
+  "decision_date": "1997-02-20",
+  "date_as_printed": "20 février 1997",
+  "chamber": "III",
+  "role_number": "A. 59.533/III-19.021",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64674",
+  "source_sha256": "257f9426e6400d07b7b46dab0ef1d6a22a953abd70281b556dfb617952767fb2",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
