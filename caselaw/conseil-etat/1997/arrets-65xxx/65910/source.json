@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.910",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65910,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 59.767/III-3.030",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65910",
+  "source_sha256": "7b3545c0b469e3204353f2e16affefaba2623d96dff7dd7c5bac1676f6dfa30d",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
