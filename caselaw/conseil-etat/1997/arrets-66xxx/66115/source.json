@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.115",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66115,
+  "decision_date": "1997-04-29",
+  "date_as_printed": "29 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 69.538/III-22.378",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66115",
+  "source_sha256": "c5e9dfa3ae06bfac90a07adad9c5956582d09c9799f167541226d7ee41010737",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
