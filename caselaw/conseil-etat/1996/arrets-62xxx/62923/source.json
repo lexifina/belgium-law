@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.923",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62923,
+  "decision_date": "1996-11-05",
+  "date_as_printed": "5 novembre 1996",
+  "chamber": "VI",
+  "role_number": "A. 61.005/VI-530",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62923",
+  "source_sha256": "3fa46d53f43d2cb66422716fe058c768cbb31bf011e5b377c5ae275eaa6117d1",
+  "pages": 28,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
