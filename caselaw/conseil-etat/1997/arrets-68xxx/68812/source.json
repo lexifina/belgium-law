@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.812",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68812,
+  "decision_date": "1997-10-13",
+  "date_as_printed": "13 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 50.189/XI-2.900",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68812",
+  "source_sha256": "aa8f97ead82070ed23e45cbc0f0ef6a7c0bfc914693812bf853495d14380380c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
