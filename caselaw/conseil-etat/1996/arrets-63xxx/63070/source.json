@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.070",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63070,
+  "decision_date": "1996-11-18",
+  "date_as_printed": "18 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.899/III-22.157",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63070",
+  "source_sha256": "2d73dd3040774ee2b5d39a426d45de7505af82f22732223a0548e6eda1ed13e9",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
