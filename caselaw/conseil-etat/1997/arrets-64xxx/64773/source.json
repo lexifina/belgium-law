@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.773",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64773,
+  "decision_date": "1997-02-26",
+  "date_as_printed": "26 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.327/IV-2.620",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64773",
+  "source_sha256": "43cc7c4ea738ea1e8d877195c065de4189a5905da25dfd2cce195dac9f0f8dc7",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
