@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.037",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74037,
+  "decision_date": "1998-06-03",
+  "date_as_printed": "3 juni 1998",
+  "chamber": "VII",
+  "role_number": "A. 73.442/VII-15.275",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74037",
+  "source_sha256": "7f5b8de3bde86a74684fb0ec43f9d6b9d57c80382861cc539c2ca9bf3574dec1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
