@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.458",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63458,
+  "decision_date": "1996-12-09",
+  "date_as_printed": "9 december 1996",
+  "chamber": "IV",
+  "role_number": "A. 72.227/IV-466",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63458",
+  "source_sha256": "5429920d2400d0d7cdcdcd0fa2b981feff3f9b90fc520bcfcb02b1af239fb13b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
