@@ -1,0 +1,5 @@
+§ 1er. Les travailleurs ne peuvent travailler sans interruption pendant plus de six heures.
+Les dispositions du présent article ne portent pas préjudice à l'application de l'article 34.
+§ 2. Lorsque le temps de travail depasse six heures, le travailleur se voit accorder une pause. La durée et les modalités d'octroi de cette pause sont fixées par convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires ou par le Roi pour les employeurs qui ne relèvent pas du champ d'application de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.
+§ 3. A défaut de convention collective de travail conclue en application du § 2 ou d'arrêté royal, le travailleur se voit accorder au moins un quart d'heure de pause au plus tard au moment où la durée des prestations atteint 6 heures.
+§ 4. Il peut être dérogé aux obligations imposées par les dispositions du présent article en cas de travaux entrepris pour faire face à un accident survenu ou imminent.
