@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.916",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63916,
+  "decision_date": "1997-01-08",
+  "date_as_printed": "8 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 64.847/III-21.552",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63916",
+  "source_sha256": "34d903a978571cfe24062ad92cb94c9c836aab62a812fb9ae3e2ba9285a3567b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
