@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.428",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69428,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 59.562/XI-2.704",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69428",
+  "source_sha256": "0e04ad0c8902d2917a900cf27e8e19f1da5b300120aecf13c4bbf5cd2c0f7dd1",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
