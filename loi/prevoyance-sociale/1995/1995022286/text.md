@@ -1,0 +1,133 @@
+<a name="Art.2">Art.</a> <a href="#LNK0001"> 2</a>. Pour l'exécution et l'application de la présente loi et de ses mesures d'exécution, on entend par :
+1° "sécurité sociale" :
+a) l'ensemble des branches reprises à l'article 21 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, y compris celles de la sécurité sociale des marins de la marine marchande et des ouvriers mineurs;
+b) l'ensemble des branches visées sous le a), dont l'application est étendue aux personnes occupées au travail dans le secteur public, et les pensions de ce secteur public visées à l'article 35 de la loi du 5 août 1978 de réformes économiques et budgétaires;
+c) l'ensemble des branches reprises à l'article 1er de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants;
+d) l'ensemble des branches reprises à l'article 12 de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer ou visées par la loi du 16 juin 1960 placant sous le contrôle et la garantie de l'Etat belge des organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda-Urundi et portant garantie par l'Etat belge des prestations sociales assurées en faveur de ceux-ci;
+e) l'ensemble des branches du régime d'aide sociale constitué par les allocations aux handicapés, le droit à un minimum de moyens d'existence, les prestations familiales garanties et le revenu garanti aux personnes âgées;
+f) l'ensemble des avantages complémentaires aux prestations assurées dans le cadre de la sécurité sociale visée au littera a, accordés, dans les limites de leurs statuts, par les fonds de sécurité d'existence visés au 2°, littera c);
+g) l'ensemble des règles relatives à la perception et au recouvrement des cotisations et des autres ressources contribuant au financement des branches et avantages précités;
+2° "institutions de sécurité sociale" :
+a) les institutions publiques de sécurité sociale, ainsi que les ministères qui sont chargés de l'application de la sécurité sociale;
+b) les institutions coopérantes de sécurité sociale, c'est-à-dire les organismes de droit privé, autres que les secrétariats sociaux d'employeurs, agréés pour collaborer à l'application de la sécurité sociale;
+c) les fonds de sécurité d'existence institués, en vertu de la loi du 7 janvier 1958, par conventions collectives de travail conclues au sein des commissions paritaires et rendues obligatoires par le Roi, dans la mesure où ils accordent des avantages complémentaires visés au 1°, littera f);
+3° "personnes" : les personnes physiques, leurs représentants légaux ou leurs mandataires, les associations dotées ou non de la personnalité civile et toutes institutions ou administrations publiques;
+4° "données sociales" : toutes données nécessaires à l'application de la sécurité sociale;
+5° "données sociales à caractère personnel" : toutes données sociales concernant une personne physique identifiée ou identifiable;
+6° "données médicales à caractère personnel" : toutes données sociales concernant une personne physique identifiée ou identifiable et dont on peut déduire une information sur l'état antérieur, actuel ou futur de sa santé physique ou psychique, à l'exception des données purement administratives ou comptables relatives aux traitements ou aux soins médicaux;
+7° "décision" : l'acte juridique unilatéral de portée individuelle émanant d'une institution de sécurité sociale et qui a pour but de produire des effets juridiques à l'égard d'une ou plusieurs personnes.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, modifier les notions :
+1° "sécurité sociale";
+2° "institution de sécurité sociale";
+3° "personnes";
+4° "données sociales";
+5° "données à caractère personnel";
+6° "données médicales à caractère personnel";
+7° "décision".
+
+<a name="LNK0001" href="#LNKR0001">CHAPITRE II.</a> - Devoirs des institutions de sécurité sociale.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Les institutions de sécurité sociale sont tenues de fournir, soit d'initiative, soit à toute personne qui en fait la demande écrite, toute information utile concernant ses droits et devoirs, sans préjudice des dispositions de l'article 7. Le Roi détermine, après avis du Comité de gestion ou de l'organe d'avis compétent de l'institution concernée, ce qu'il y a lieu d'entendre par information utile, ainsi que les modalités d'application du présent article.
+L'information visée à l'alinéa 1er doit indiquer clairement les références du dossier traité et le service qui gère celui-ci.
+Elle doit être précise et complète quant aux droits et obligations de la personne intéressée.
+Elle est gratuite et doit être fournie dans un délai de trente jours ouvrables.
+Toutefois, le Roi détermine les cas dans lesquels l'information donne lieu à la perception de droits et les secteurs pour lesquels ce délai de trente jours peut être augmenté.
+Il fixe le montant, les conditions et les modalités de cette débition.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans les mêmes conditions, les institutions de sécurité sociale doivent dans les matières qui les concernent conseiller toute personne qui le demande sur l'exercice de ses droits ou l'accomplissement de ses devoirs et obligations.
+Le Roi peut fixer les modalités d'application du présent article après avis du Comité de gestion ou de l'organe d'avis compétent de l'institution concernée.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Les demandes d'informations ou de conseil adressées erronément à une institution de sécurité sociale non compétente pour la matière concernée, doivent être transmises sans délai par cette institution à l'institution compétente. Le demandeur en est simultanément averti.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.8"> 6</a>. Les institutions de sécurité sociale doivent utiliser, dans leurs rapports externes, quelle qu'en soit la forme, un langage compréhensible pour le public.
+
+<a name="Art.8" href="#Art.6">Art.</a> <a href="#Art.9"> 8</a>. Les prestations sociales sont octroyées soit d'office à l'intervention de l'institution de sécurité sociale chargée du service de ces prestations chaque fois que cela est matériellement possible, soit sur demande écrite.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0002"> 9</a>. La demande signée par l'intéressé est introduite auprès de l'institution de sécurité sociale ayant pour mission de l'instruire.
+L'institution de sécurité sociale qui recoit la demande écrite adresse ou remet un accusé de réception à l'assuré social. Tout accusé de réception doit indiquer le délai d'examen de la demande prévu dans le régime ou le secteur concerné ainsi que le délai de prescription à considérer. Un paiement ou une demande de renseignements complémentaires valent accusé de réception.
+L'institution de sécurité sociale incompétente auprès de laquelle la demande a été introduite transmet celle-ci sans délai à l'institution compétente. Le demandeur en est averti.
+Toutefois, dans les situations visées à l'alinéa précédent, la demande sera, dans les conditions et suivant les modalités fixées par le Roi, validée quant à sa date d'introduction.
+Toute demande introduite en vue de l'obtention d'un avantage ressortissant à un régime de sécurité sociale ou d'aide sociale vaut demande d'obtention du même avantage à charge d'un autre régime.
+
+<a name="LNK0002" href="#LNKR0002">Section 2.</a> - Décisions et exécution sans délai.
+
+<a name="LNK0003" href="#LNKR0003">Sous-section 1.</a> - Délais.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Sans préjudice d'un délai plus court prévu par une loi particulière, l'institution de sécurité sociale statue au plus tard dans les nonante jours ouvrables de la réception de la demande ou du fait donnant lieu à l'examen d'office.
+Si l'institution ne peut prendre de décision dans ce délai, elle en informe le demandeur en lui faisant connaître les raisons.
+Si la demande nécessite l'intervention d'une autre institution sociale, cette intervention sera demandée par l'institution à laquelle la demande a été adressée. Le demandeur en sera informé.
+Le Roi peut porter temporairement le délai à cent quatre-vingts jours ouvrables au plus, dans les cas qu'Il détermine.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Si malgré le rappel qui lui est adressé, le demandeur reste, pendant plus d'un mois, en défaut de fournir les renseignements complémentaires demandés par l'institution de sécurité sociale, celle-ci, après avoir accompli toute démarche utile en vue de l'obtention desdits renseignements, peut statuer en se basant sur les renseignements dont elle dispose, sauf si le demandeur fait connaître un motif justifiant un délai de réponse plus long.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#LNK0004"> 12</a>. Sans préjudice d'un délai plus court prévu par une législation particulière, il est procédé au paiement des prestations au plus tard dans les nonante jours ouvrables de la notification de la décision d'octroi et au plus tôt à partir de la date à laquelle les conditions de paiement sont remplies.
+Si le paiement n'est pas effectué dans ce délai, et sans préjudice des droits du demandeur de saisir les juridictions compétentes, l'institution de sécurité sociale chargée du paiement des prestations en informe le demandeur, en indiquant les motifs du retard.
+Aussi longtemps que le paiement n'a pas été effectué, le demandeur est informé tous les nonante jours ouvrables des motifs du retard.
+Le Roi peut porter temporairement le délai de nonante jours ouvrables, prévu au premier alinéa, à cent quatre-vingts jours ouvrables au plus.
+
+<a name="LNK0004" href="#LNKR0004">Sous-section 2.</a> - Motivation, mentions et notifications.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Les décisions d'octroi d'un droit, d'un droit complémentaire, de régularisation d'un droit, ou de refus de prestations sociales, visées aux articles 11 et 12 doivent être motivées. Lorsque les décisions portent sur des sommes d'argent, elles doivent mentionner le mode de calcul de celles-ci. La communication du mode de calcul vaut motivation et notification. Le Roi fixe les mentions obligatoires devant figurer sur les formules de paiement.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Les décisions d'octroi ou de refus des prestations doivent contenir les mentions suivantes :
+1° la possibilité d'intenter un recours devant la juridiction compétente;
+2° l'adresse de la juridiction compétente;
+3° le délai et les modalités pour intenter un recours;
+4° les dispositions des articles 728 et 1017 du Code judiciaire;
+5° les références du dossier et du service qui gère celui-ci;
+6° la possibilité d'obtenir toute explication sur la décision auprès du service qui gère le dossier ou d'un service d'information désigné.
+Si la décision ne contient pas les mentions prévues à l'alinéa 1er, le délai de recours ne commence pas à courir.
+Le Roi peut prévoir que l'alinéa premier ne s'applique pas aux prestations qu'Il détermine.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. Les décisions de répétition de l'indu doivent contenir, outre les mentions de l'article 14, les indications suivantes :
+1° la constatation de l'indu;
+2° le montant total de l'indu, ainsi que le mode de calcul;
+3° le texte et les références des dispositions en infraction desquelles les paiements ont été effectués;
+4° le délai de prescription pris en considération;
+5° la possibilité pour l'institution de sécurité sociale de renoncer à la répétition de l'indu et la procédure à suivre afin d'obtenir cette renonciation;
+6° la possibilité de soumettre une proposition motivée en vue d'un remboursement étalé.
+Si la décision ne contient pas les mentions prévues à l'alinéa 1er, le délai de recours ne commence pas à courir.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#LNK0005"> 16</a>. La notification se fait par lettre ordinaire ou par la remise d'un écrit à l'intéressé.
+Le Roi détermine les cas dans lesquels la notification doit se faire par lettre recommandée à la poste, ainsi que les modalités d'application de cette notification.
+
+<a name="LNK0005" href="#LNKR0005">Sous-section 3.</a> - Révision.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. Lorsqu'il est constaté que la décision est entachée d'une erreur de droit ou matérielle, l'institution de sécurité sociale prend d'initiative une nouvelle décision produisant ses effets à la date de prise d'effets de la décision initiale.
+Sans préjudice de l'article 18, la nouvelle décision produit ses effets, en cas d'erreur due à l'institution de sécurité sociale, le premier jour du mois qui suit la notification, si le droit à la prestation est inférieur à celui reconnu initialement.
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. L'institution de sécurité sociale peut rapporter sa décision et en prendre une nouvelle dans le délai d'introduction d'un recours devant le tribunal du travail ou, si un recours a été introduit, jusqu'à la clôture des débats lorsque :
+1. à la date de prise de cours de la prestation, le droit a été modifié par une disposition légale ou réglementaire;
+2. un fait nouveau ou des éléments de preuve nouveaux ayant une incidence sur les droits du demandeur sont invoqués en cours d'instance;
+3. il est constaté que la décision administrative est entachée d'irrégularité ou d'erreur matérielle.
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#LNK0006"> 19</a>. Après une décision administrative ou une décision judiciaire ayant force de chose jugée concernant une demande d'octroi d'une prestation sociale, une nouvelle demande peut être introduite dans les formes prévues pour la demande originaire. Une nouvelle demande ne peut être déclarée fondée qu'au vu d'éléments de preuve nouveaux qui n'avaient pas été soumis antérieurement à l'autorité administrative ou à la juridiction contentieuse compétente ou en raison d'une modification d'une disposition légale ou réglementaire.
+Sans préjudice des dispositions légales existantes, la nouvelle décision prend cours le premier jour du mois qui suit celui au cours duquel, la nouvelle demande à été introduite.
+
+<a name="LNK0006" href="#LNKR0006">Section 3.</a> - Intérêts.
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. Sans préjudice des dispositions de la loi du 25 juillet 1994 modifiant la loi du 27 février 1987 relative aux allocations aux handicapés en vue d'accélérer l'examen des dossiers, les prestations portent intérêt de plein droit, uniquement pour les bénéficiaires sociaux, à partir de la date de leur exigibilité et au plus tôt à partir de la date découlant de l'application de l'article 12. Toutefois, si la décision d'octroi est prise avec un retard imputable à l'institution de sécurité sociale, les intérêts sont dus à partir de l'expiration du délai visé à l'article 10 et au plus tôt à partir de la date de prise de cours de la prestation.
+Le Roi fixe la date de prise de cours des intérêts dans les cas où les décisions des institutions de sécurité sociale sont dépendantes de décisions d'institutions étrangères.
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#LNK0007"> 21</a>. Les prestations payées indûment portent intérêt de plein droit à partir du paiement si le paiement indu résulte de fraude, de dol ou de manoeuvres frauduleuses de la part de la personne intéressée.
+
+<a name="LNK0007" href="#LNKR0007">Section 4.</a> - Renonciations.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0008"> 22</a>.
+§ 1er. Sans préjudice des règles propres aux différents secteurs de la sécurité sociale, les dispositions des §§ 2 à 4 s'appliquent à la récupération de l'indu.
+§ 2. L'institution de sécurité sociale compétente peut, dans les conditions déterminées par son Comité de gestion et approuvées par le ministre compétent, renoncer à la récupération de l'indu :
+a) dans des cas ou catégories de cas dignes d'intérêt et à la condition que le débiteur soit de bonne foi;
+b) lorsque la somme a récupérer est minime;
+c) lorsqu'il s'avère que le recouvrement de la somme à récupérer est aléatoire ou trop onéreux par rapport au montant a récupérer.
+§ 3. Sauf en cas de vol ou de fraude, il est renoncé d'office, au décès de celui à qui elles ont été payées, à la récupération des prestations payées indûment si, à ce moment, la réclamation de l'indu ne lui avait pas encore été notifiée.
+§ 4. Toutefois, sans préjudice de l'application de l'article 1410 du Code judiciaire, cette disposition ne fait pas obstacle à la récupération de l'indu sur les prestations qui, au moment du décès de l'intéressé étaient échues, mais ne lui avaient pas encore été versées ou n'avaient pas encore été versées à l'une des personnes suivantes :
+1° au conjoint avec qui le bénéficiaire cohabitait au moment de son décès;
+2° aux enfants avec qui le bénéficiaire vivait au moment de son décès;
+3° à la personne avec qui le bénéficiaire vivait au moment de son décès;
+4° à la personne qui est intervenue dans les frais d'hospitalisation, à concurrence de son intervention;
+5° à la personne qui a payé les frais funéraires à concurrence de ces frais.
+
+<a name="LNK0008" href="#LNKR0008">Section 5.</a> - Des délais de recours.
+
+<a name="Art.23" href="#Art.22">Art.</a> 23. Sans préjudice des dispositions plus favorables prévues dans des législations particulières, les recours contre les décisions prises par les institutions de sécurité sociale compétentes en matière d'octroi, de paiement ou de récupération de prestations doivent, à peine de déchéance, être introduits dans les trois mois de leur notification ou de la prise de connaissance de la décision par l'intéressé.
+Tout recours en reconnaissance d'un droit à l'encontre d'une institution de sécurité sociale doit également, à peine de déchéance, être introduit dans un délai de trois mois à dater de la constatation de la carence de l'institution.
