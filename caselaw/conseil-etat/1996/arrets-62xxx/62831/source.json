@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.831",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62831,
+  "decision_date": "1996-10-29",
+  "date_as_printed": "29 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 67.492/X-6.146",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62831",
+  "source_sha256": "0c06dccb93a3f5481cf252eb159b888053c1fd372cbe54d93f1fdc6b57adee41",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
