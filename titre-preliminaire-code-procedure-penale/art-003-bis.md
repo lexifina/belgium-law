@@ -1,0 +1,2 @@
+Les victimes d'infractions et leurs proches doivent être traitées de façon correcte et consciencieuse, en particulier en leur fournissant l'information nécessaire, et en les mettant, s'il échet, en contact avec les services spécialisés et, notamment, avec les assistants de justice.
+Sont assistants de justice, les personnes qui prêtent assistance aux magistrats compétents dans la guidance des personnes engagées dans des procédures judiciaires.
