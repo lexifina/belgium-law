@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.809",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70809,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 75.297/VII-15.757",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70809",
+  "source_sha256": "8f12efb05522d432e82e7b2294c40880097bcc412a495cfcda88f3f5ed2969e0",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
