@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.198",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73198,
+  "decision_date": "1998-04-22",
+  "date_as_printed": "22 april 1998",
+  "chamber": "X",
+  "role_number": "A. 43.355/X-7.399",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73198",
+  "source_sha256": "e489e726c92db73eccd7e5926961c02304406e90f205967651a94c0e58f5f00f",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
