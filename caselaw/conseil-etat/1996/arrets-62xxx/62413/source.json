@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.413",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62413,
+  "decision_date": "1996-10-08",
+  "date_as_printed": "8 octobre 1996",
+  "chamber": "VI",
+  "role_number": "A. 71.475/VI-13.452",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62413",
+  "source_sha256": "9fa8eb3905ab0ab6f74a889df89e7255ef4ee611cbfecfee8cc6755994dc6e5a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
