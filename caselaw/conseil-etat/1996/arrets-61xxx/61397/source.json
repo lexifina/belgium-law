@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.397",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61397,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 août 1996",
+  "chamber": "VI",
+  "role_number": "A. 69.139/VI-13.211",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61397",
+  "source_sha256": "a08d360feed8de27a02c7f11b3aed5b68c3a0ba45b49d1d18ca6a02e46cba153",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
