@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.363",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64363,
+  "decision_date": "1997-02-04",
+  "date_as_printed": "4 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.044/III-22.579",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64363",
+  "source_sha256": "0fb5ab351df218a379f8613fa6f8761a7bb64a1d695f4d5b6c407e97d25669c1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
