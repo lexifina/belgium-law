@@ -1,0 +1,5 @@
+Celui qui remplace un travailleur dont l'exécution du contrat est suspendue pour un motif autre que le manque de travail résultant de causes économiques, d'intempéries, de grève ou de lock-out, peut être engagé dans des conditions qui dérogent aux règles prévues par la présente loi en ce qui concerne la durée du contrat et le délai de préavis.
+Le motif, l'identité du ou des travailleur(s) remplacé(s) et les conditions de cet engagement doivent être constatés par écrit pour chaque travailleur individuellement, au plus tard au moment de l'entrée en service de celui-ci.
+La durée du contrat de remplacement conclu en application des dispositions du présent article ne peut dépasser deux ans.
+Lorsque les parties ont conclu plusieurs contrats de travail de remplacement successifs, sans qu'il y ait entre eux une interruption attribuable au travailleur, la durée totale de ces contrats successifs ne peut dépasser deux ans.
+A défaut d'écrit ou en cas de dépassement de la période de deux ans prévue aux alinéas 3 et 4, le contrat est soumis aux mêmes conditions que les contrats conclus pour une durée indéterminée.
