@@ -1,0 +1,23 @@
+{
+  "id": "2002022559",
+  "act": "loi/affaires-sociales-sante-publique-environnement/2002/2002022559",
+  "title": "26 MAI 2002. - Loi concernant le droit à l'intégration sociale",
+  "version": "001",
+  "versions_total": 33,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2002-07-31&numac_search=2002022559&page=1&lg_txt=F&caller=list&2002022559=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=2002022559&cn_search=&caller=list&&view_numac=2002022559f",
+  "source_sha256": "9ace33847827a1585d0de8064c5ed8cc15b221d65fcd578141936b303c7164ef",
+  "source_issuer": "Affaires sociales - Santé Publique et Environnement",
+  "made": "2002-05-26",
+  "published": "2002-07-31",
+  "in_force": "2002-10-01",
+  "source_in_force": "2002-10-01",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (1 janvier 2002 (ART. 40) 1 octobre 2002 (ART. (60))) and the dated En vigueur notes in its text before this version's end (2003-04-27)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 1,
+  "independent_source_tokens": 418,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
