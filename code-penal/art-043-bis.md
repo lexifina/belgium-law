@@ -1,0 +1,4 @@
+La confiscation spéciale s'appliquant aux choses visées au 3° de l'article 42 pourra toujours être prononcée par le juge.
+Si ces choses ne peuvent être trouvées dans le patrimoine du condamné, le juge procédera à leur évaluation monétaire et la confiscation portera sur une somme d'argent qui leur sera équivalente.
+Lorsque les choses confisquées appartiennent à la partie civile, elles lui seront restituées. Les choses confisquées lui seront de même attribuées lorsque le juge en aura prononcé la confiscation pour le motif qu'elles constituent des biens ou des valeurs substitués par le condamné à des choses appartenant à la partie civile ou parce qu'elles constituent l'équivalent de telles choses au sens de l'alinéa 2 du présent article.
+Tout autre tiers prétendant droit sur la chose confisquée pourra faire valoir ce droit dans un délai et selon des modalités déterminées par le Roi.
