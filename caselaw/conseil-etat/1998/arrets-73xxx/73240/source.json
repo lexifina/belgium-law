@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.240",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73240,
+  "decision_date": "1998-04-23",
+  "date_as_printed": "23 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.150/VII-15.464",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73240",
+  "source_sha256": "183bd5180e7a26be63e8d1c4e81f014dc8620eadb46f7b6ba15053e5b82673d5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
