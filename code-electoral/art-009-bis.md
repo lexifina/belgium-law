@@ -1,0 +1,2 @@
+En cas de condamnation à plusieurs peines visées à l'article 7, 2°, les incapacités résultant de chacune d'elles sont cumulées, sans qu'elles puissent néanmoins excéder une durée de douze ans.
+Il en est de même, en cas de nouvelle condamnation à une ou plusieurs peines visées à l'article 7, 2°, prononcée pendant la durée de l'incapacité résultant d'une condamnation antérieure sans toutefois que l'incapacité puisse prendre fin moins de six ans après la dernière condamnation.
