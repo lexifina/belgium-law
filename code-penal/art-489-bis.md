@@ -1,4 +1,4 @@
-Sont punies d'un emprisonnement d'un mois à deux ans et d'une amende de cent francs à cinq cent mille francs ou d'une de ces peines seulement, les personnes visées à l'article 489, qui auront:
+Sont punies d'un emprisonnement d'un mois à deux ans et d'une amende de cent euros à cinq cent mille euros ou d'une de ces peines seulement, les personnes visées à l'article 489, qui auront:
 1° dans l'intention de retarder la déclaration de faillite, fait des achats pour revendre au-dessous du cours ou qui se seront livrées à des emprunts, circulations d'effets et autres moyens ruineux de se procurer des fonds;
 2° supposé des dépenses ou des pertes ou n'ont pu justifier de l'existence ou de l'emploi de tout ou partie de l'actif, tel qu'il apparaît des documents et livres comptables à la date de cessation de paiement et de tous biens de quelque nature que ce soit obtenus postérieurement;
 3° dans l'intention de retarder la déclaration de faillite, payé ou favorisé un créancier au préjudice de la masse;

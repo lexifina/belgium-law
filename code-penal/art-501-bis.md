@@ -1,1 +1,1 @@
-Sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six à trois cents francs ou d'une de ces peines seulement celui qui, sans l'intention frauduleuse, exigée par l'article 500, aura vendu, débité, ou exposé en vente des (denrées alimentaires) falsifiées.
+Sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six à trois cents euros ou d'une de ces peines seulement celui qui, sans l'intention frauduleuse, exigée par l'article 500, aura vendu, débité, ou exposé en vente des (denrées alimentaires) falsifiées.
