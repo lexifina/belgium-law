@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.618",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70618,
+  "decision_date": "1998-01-12",
+  "date_as_printed": "12 januari 1998",
+  "chamber": "IX",
+  "role_number": "A. 50.766/IX-354",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70618",
+  "source_sha256": "c1585b313d377c949f271d511af9b7199e96d20be5bdf8241279187f17be53cc",
+  "pages": 15,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
