@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.840",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57840,
+  "decision_date": "1996-01-26",
+  "date_as_printed": "26 januari 1996",
+  "chamber": "X",
+  "role_number": "A. 62.115/X-4.779",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57840",
+  "source_sha256": "9263e89af6d053e7af0320f37cce640ea3d41fa6a45bd5803dc91df221b5fd2c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
