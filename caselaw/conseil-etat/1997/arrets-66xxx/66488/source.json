@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.488",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66488,
+  "decision_date": "1997-05-29",
+  "date_as_printed": "29 mai 1997",
+  "chamber": "III",
+  "role_number": "A. 61.805/III-3.089",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66488",
+  "source_sha256": "0a830940f5088d1881a335c04f86da25984ab473384056e82c553ed1d048da9a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
