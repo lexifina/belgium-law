@@ -1,0 +1,1 @@
+Le certificat d'études moyennes du degré supérieur, ou d'études déclarées équivalentes par le Roi, visé aux articles 274, 275 et 280, n'est pas requis pour les candidats qui ont exercé les fonctions d'employé au parquet cinq ans au moins et qui ont réussi un examen de maturité, organisé par le Roi, permettant d'être nommé rédacteur au parquet.
