@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.522",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70522,
+  "decision_date": "1997-12-30",
+  "date_as_printed": "30 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.725/XI-3.813",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70522",
+  "source_sha256": "a274a8e2985b68e4820ae16230ceda0b8c2cd8fdeb504f90dfbdfb77562a2eb0",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
