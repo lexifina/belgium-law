@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.915",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73915,
+  "decision_date": "1998-05-27",
+  "date_as_printed": "27 mai 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.020/VI-14.342",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73915",
+  "source_sha256": "2ccc8ab4782555e60c0263e5bb2104a4f3777936a8c7a16737a16790f2764f9d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
