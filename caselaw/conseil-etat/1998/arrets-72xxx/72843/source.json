@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.843",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72843,
+  "decision_date": "1998-03-30",
+  "date_as_printed": "30 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 67.002/VI-13.049",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72843",
+  "source_sha256": "ae3710ba28d4864cf0359c500d6777ec20af8f02dcf2d20733bd70d7ec2703b6",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
