@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.560",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63560,
+  "decision_date": "1996-12-12",
+  "date_as_printed": "12 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 67.780/III-22.205",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63560",
+  "source_sha256": "72d2372405d56d6a038decfc241b7a67c3418a006235e343ebe04b77cca1a5f7",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
