@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.759",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70759,
+  "decision_date": "1998-01-13",
+  "date_as_printed": "13 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 67.202/XI-340",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70759",
+  "source_sha256": "730679b53efa88ec9a5599d1ff6cc17c35d313146d4f0ae9b1aad4ad23703e3d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
