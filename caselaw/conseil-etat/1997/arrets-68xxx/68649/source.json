@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.649",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68649,
+  "decision_date": "1997-10-07",
+  "date_as_printed": "7 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.442/VII-15.275",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68649",
+  "source_sha256": "0424ce292ee8540fd303bb0d47a22d93b469e5a78b1932b60c66a8d72b7e52a3",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
