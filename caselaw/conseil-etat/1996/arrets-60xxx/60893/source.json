@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.893",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60893,
+  "decision_date": "1996-07-10",
+  "date_as_printed": "10 juillet 1996",
+  "chamber": "VI",
+  "role_number": "A. 65.667/VI-12.772",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60893",
+  "source_sha256": "b9b969dd3cdc473b5dc29f4cae823ef3e9fefd8ec852479b55269cdf79300b7d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
