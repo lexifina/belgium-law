@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.653",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61653,
+  "decision_date": "1996-09-11",
+  "date_as_printed": "11 septembre 1996",
+  "chamber": "IV",
+  "role_number": "A. 65.864/IV-15.383",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61653",
+  "source_sha256": "0999f435506684ab7328ac04855f80b04e03c481ea358e34ef5357c3177eed87",
+  "pages": 18,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
