@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.964",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64964,
+  "decision_date": "1997-03-04",
+  "date_as_printed": "4 maart 1997",
+  "chamber": "X",
+  "role_number": "A. 63.699/X-7.084",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64964",
+  "source_sha256": "d0ac022e8fa3de8072b23e9f3205f18b5cba8b934f09a9a0e96e47a66f90209a",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
