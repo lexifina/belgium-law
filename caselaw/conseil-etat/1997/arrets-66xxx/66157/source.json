@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.157",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66157,
+  "decision_date": "1997-05-06",
+  "date_as_printed": "6 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.130/VII-15.446",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66157",
+  "source_sha256": "ce23421a1438f5baa9d2ba977ba0c182cdb3c0be928306c0cc14160603d2bf2d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
