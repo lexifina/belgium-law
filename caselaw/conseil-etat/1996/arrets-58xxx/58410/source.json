@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.410",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58410,
+  "decision_date": "1996-02-27",
+  "date_as_printed": "27 februari 1996",
+  "chamber": "X",
+  "role_number": "A. 67.762/X-1.683",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58410",
+  "source_sha256": "e471d4afe06112241b4f4ad720e15d348a32b9c098d17a7b99d08fcadb921073",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
