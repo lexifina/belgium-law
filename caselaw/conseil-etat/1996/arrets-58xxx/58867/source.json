@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.867",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58867,
+  "decision_date": "1996-03-27",
+  "date_as_printed": "27 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 60.733/IV-14.852",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58867",
+  "source_sha256": "fd6f9cc257fcddcc28ee533a20b008cf10f924dc5bb2cd372f72817bc2c0d365",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
