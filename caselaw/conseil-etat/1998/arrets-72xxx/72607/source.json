@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.607",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72607,
+  "decision_date": "1998-03-19",
+  "date_as_printed": "19 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 42.195/IX-191",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72607",
+  "source_sha256": "944bc880d0f6b1564c1504e067a7a7655e0bd3826597ee5332026c0bf4b22bcb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
