@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.932",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73932,
+  "decision_date": "1998-05-28",
+  "date_as_printed": "28 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 76.357/VII-16.087",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73932",
+  "source_sha256": "35859ecdf09687dff1792c94adaff89e9321b9f36c7bf5ae03ceee298c1d6bb6",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
