@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.743",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63743,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.699/III-22.472",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63743",
+  "source_sha256": "459241153b15c52d7a44acc1dc0adbee131a8f645d3ec6aded70ca7fbbdec664",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
