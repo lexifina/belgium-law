@@ -1,0 +1,2 @@
+Pour les accidents visés à l'article 45quater, l'assureur verse le capital correspondant à l'allocation et à la rente, diminué conformément à l'article 24, alinéa 3, au Fonds des accidents du travail. Le Roi fixe les conditions, délais et modalités de ce transfert, ainsi que du décompte en cas de révision du taux d'incapacité au cours du délai visé à l'article 72.
+L'assureur avertit la victime avant le transfert du capital au Fonds des accidents du travail.

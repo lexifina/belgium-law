@@ -1,0 +1,2 @@
+Pour les accidents survenus à partir du 1er janvier 1988 dans le cas desquels la fixation du taux d'incapacité permanente de travail de moins de 10 p.c. se fait, soit par entérinement de l'accord à une date à partir du 1er janvier 1994, soit par une décision judiciaire coulée en force de chose jugée, à une date à partir du 1er janvier 1994, la valeur de l'allocation annuelle et de la rente est versée en capital au Fonds des accidents du travail, tel qu'il est prévu à l'article 51ter.
+Dans ces cas, l'article 45, alinéa 1er, n'est pas d'application.
