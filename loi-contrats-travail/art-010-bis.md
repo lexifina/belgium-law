@@ -1,6 +1,4 @@
-§ 1. Jusqu'au 31 décembre 1997 au plus tard, par dérogation à l'article 10, des contrats successifs peuvent être conclus pour une durée déterminée, dans les conditions prévues aux §§ 2 et 3 du présent article.
-La répercussion sur l'emploi des contrats successifs pour une durée déterminée est évaluée annuellement de la facon prévue à l'article 89 de la loi du 30 mars 1994 portant des dispositions sociales.
+§ 1er. Par dérogation à l'article 10, des contrats successifs peuvent être conclus pour une durée déterminée, dans les conditions prévues aux § 2 et § 3 du présent article.
 § 2. Il peut être conclu au maximum quatre contrats pour une durée déterminée qui ne peut, chaque fois, être inférieure à trois mois sans que la durée totale de ces contrats successifs ne puisse dépasser deux ans.
 § 3. Moyennant l'autorisation préalable du fonctionnaire désigné par le Roi, il peut être conclu des contrats pour une durée déterminée qui ne peut, chaque fois, être inférieure à six mois sans que la durée totale de ces contrats successifs ne puisse dépasser trois ans.
 Le Roi fixe la procédure à suivre pour obtenir l'autorisation du fonctionnaire visé à l'alinéa 1er.
-Les dispositions du § 2 de cet article ne sont applicables qu'aux contrats à durée déterminée conclus à partir du premier jour du mois qui suit celui au cours duquel la loi du 30 mars 1994 portant des dispositions sociales, aura été publiée au Moniteur belge.
