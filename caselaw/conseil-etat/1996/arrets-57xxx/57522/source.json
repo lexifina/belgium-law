@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.522",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57522,
+  "decision_date": "1996-01-15",
+  "date_as_printed": "15 januari 1996",
+  "chamber": "X",
+  "role_number": "A. 61.462/X-4.754",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57522",
+  "source_sha256": "d89e8a0b17e85e0b9da9bc03a72335e272566299780d005518917f59c439d980",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
