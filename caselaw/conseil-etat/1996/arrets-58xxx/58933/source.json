@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.933",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58933,
+  "decision_date": "1996-03-28",
+  "date_as_printed": "28 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 66.708/VII-13.604",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58933",
+  "source_sha256": "2297d1b677a28a034b9b42fcc7aefd8cbcd7c273f5a09f9334a6d154b55022d8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
