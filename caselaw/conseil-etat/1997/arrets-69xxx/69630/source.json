@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.630",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69630,
+  "decision_date": "1997-11-17",
+  "date_as_printed": "17 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 49.555/XI-3.008",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69630",
+  "source_sha256": "306f266dd634e97b6e3cb8197c4eaad9f0946250e3125c9ed44784c61a35e8a9",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
