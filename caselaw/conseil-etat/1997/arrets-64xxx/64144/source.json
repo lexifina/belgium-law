@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.144",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64144,
+  "decision_date": "1997-01-22",
+  "date_as_printed": "22 januari 1997",
+  "chamber": "IV",
+  "role_number": "A. 70.671/IV-9.961",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64144",
+  "source_sha256": "c16849209ff44fb99d393168f6753001bb7ba89512190f17158effccf5645684",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
