@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.961",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65961,
+  "decision_date": "1997-04-21",
+  "date_as_printed": "21 april 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.060/VII-7.150",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65961",
+  "source_sha256": "d9d6f184fc7d6e17e990f451200ccd754d793b19e9d5638fda752a0c3db72176",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
