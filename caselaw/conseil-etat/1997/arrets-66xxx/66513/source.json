@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.513",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66513,
+  "decision_date": "1997-06-03",
+  "date_as_printed": "3 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 46.340/VII-10.764",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66513",
+  "source_sha256": "a17661dc2d2b3d83c8c2fca51ed920d85535ec397d6b1f2b1b3a35637cc30d05",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
