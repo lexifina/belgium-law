@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.196",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73196,
+  "decision_date": "1998-04-22",
+  "date_as_printed": "22 avril 1998",
+  "chamber": "VI",
+  "role_number": "A. 69.545/VI-13.951",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73196",
+  "source_sha256": "60ae1c1cb7e91a5984cb15c3f644b85eb1f642c99a8a22d5d10c28916c4a6238",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
