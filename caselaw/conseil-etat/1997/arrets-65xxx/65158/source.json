@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.158",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65158,
+  "decision_date": "1997-03-11",
+  "date_as_printed": "11 maart 1997",
+  "chamber": "X",
+  "role_number": "A. 65.556/X-6.842",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65158",
+  "source_sha256": "2c5a85deaf00dfd83bb6d71c1ff826747516239f6537ea37f8cef980dd6885ab",
+  "pages": 24,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
