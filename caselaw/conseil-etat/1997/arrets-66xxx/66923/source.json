@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.923",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66923,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "X",
+  "role_number": "A. 68.988/X-1.067",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66923",
+  "source_sha256": "52063035ec533023b838d0de94cb9b8ed495e0c86a523e9352d53f7d6a312d0f",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
