@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.257",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69257,
+  "decision_date": "1997-10-29",
+  "date_as_printed": "29 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 72.962/X-7.198",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69257",
+  "source_sha256": "c150e99c782b5f12f31efb651b710c2d18642a84da4a40662af1ccb562f66bb6",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
