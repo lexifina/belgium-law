@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.531",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71531,
+  "decision_date": "1998-02-03",
+  "date_as_printed": "3 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 27.883/XII-600",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71531",
+  "source_sha256": "33179784d7ea747cccc952476b324b01d320a66606e7cfde40f7bf5c8c1ed2c4",
+  "pages": 19,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
