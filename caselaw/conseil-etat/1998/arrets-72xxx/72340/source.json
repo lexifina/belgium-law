@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.340",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72340,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 59.170/XI-3.177",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72340",
+  "source_sha256": "def6fe67a4d815065db76e65e258cc5d9dd4e26d428c1f63cc85fa48a29707cb",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
