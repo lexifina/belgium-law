@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.700",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71700,
+  "decision_date": "1998-02-10",
+  "date_as_printed": "10 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 72.922/XII-520",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71700",
+  "source_sha256": "569f55eb08f772a88e10526c072e010e16ddd72667e240c09f6e7a919852a08b",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
