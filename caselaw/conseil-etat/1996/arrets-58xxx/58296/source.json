@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.296",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58296,
+  "decision_date": "1996-02-21",
+  "date_as_printed": "21 februari 1996",
+  "chamber": "IV",
+  "role_number": "A. 64.381/IV-15.207",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58296",
+  "source_sha256": "f50e325c42a04014e712e03eb048b8244caa028ffbfb7822e9a15b8b26826caa",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
