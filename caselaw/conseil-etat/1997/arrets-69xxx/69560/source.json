@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.560",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69560,
+  "decision_date": "1997-11-12",
+  "date_as_printed": "12 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 69.283/XI-1.056",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69560",
+  "source_sha256": "303a52bc26b3439a41d72fc076d5f5393a673b4e548d41e192d9ced18184240f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
