@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.947",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68947,
+  "decision_date": "1997-10-21",
+  "date_as_printed": "21 oktober 1997",
+  "chamber": "XII",
+  "role_number": "A. 40.490/XII-124",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68947",
+  "source_sha256": "57037b650be5e847aacb45eef871a3b4ee4d7ce0cf227dc430caa282c111c3bb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
