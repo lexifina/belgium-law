@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.471",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72471,
+  "decision_date": "1998-03-16",
+  "date_as_printed": "16 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 50.222/IX-633",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72471",
+  "source_sha256": "e6e65e64408da095336528e8c26d9d2b971fba9b7536fbeb8726744438d66d19",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
