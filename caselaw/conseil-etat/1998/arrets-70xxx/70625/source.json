@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.625",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70625,
+  "decision_date": "1998-01-12",
+  "date_as_printed": "12 januari 1998",
+  "chamber": "X",
+  "role_number": "A. 71.541/X-1.149",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70625",
+  "source_sha256": "318f605dd369017cc13ad85dc677adaf7010cb92febc4343bdd767d53c02334a",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
