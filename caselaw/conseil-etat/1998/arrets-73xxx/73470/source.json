@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.470",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73470,
+  "decision_date": "1998-05-05",
+  "date_as_printed": "5 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.337/XI-4.336",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73470",
+  "source_sha256": "3cd5913fac366a8e701944ec0edf69b8dd85f5517d5597bd2da2f71ce39911ef",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
