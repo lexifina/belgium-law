@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.244",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60244,
+  "decision_date": "1996-06-18",
+  "date_as_printed": "18 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 62.375/X-4.958",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60244",
+  "source_sha256": "31fa21a13750f0e9d111359c9a70ae8a7e7089f27fe61a8bc367b55d87507be5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
