@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.672",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65672,
+  "decision_date": "1997-03-26",
+  "date_as_printed": "26 mars 1997",
+  "chamber": "XI",
+  "role_number": "A. 66.498/XI-224",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65672",
+  "source_sha256": "1fe459d124d1c6df59e5c3be8c5e71e23c668a78611fafa0c5cac7bff9ed4b48",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
