@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.707",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71707,
+  "decision_date": "1998-02-10",
+  "date_as_printed": "10 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 68.523/XI-766",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71707",
+  "source_sha256": "2eeabf93600d49d731fed9d72c8ecf2cc50b5a7ffd7afd1a87861d11292532ac",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
