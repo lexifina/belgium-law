@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.318",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72318,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 74.728/XII-544",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72318",
+  "source_sha256": "a7d319a5b2c9e931642e8fa58920b495523e0500e5e0986c84135decafd4d1f1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
