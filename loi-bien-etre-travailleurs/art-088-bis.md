@@ -1,0 +1,1 @@
+Sans préjudice des dispositions des articles 269 à 272 du Code pénal, sont punis d'un emprisonnement de huit jours à un mois et d'une amende de 26 à 500 EUR ou d'une de ces peines seulement les personnes qui n'ont pas mis fin à la violence ou au harcèlement moral ou sexuel au travail dans le délai qui leur a été fixé par la juridiction compétente en vertu de l'article 32decies.
