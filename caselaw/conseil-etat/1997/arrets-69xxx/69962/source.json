@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.962",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69962,
+  "decision_date": "1997-12-03",
+  "date_as_printed": "3 décembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.957/VI-13.762",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69962",
+  "source_sha256": "9bb969fd9a87c791ae13ecb086124e58a0fc2537578e7b141e53d55aacce8b71",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
