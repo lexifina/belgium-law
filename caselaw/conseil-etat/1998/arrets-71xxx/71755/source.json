@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.755",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71755,
+  "decision_date": "1998-02-11",
+  "date_as_printed": "11 février 1998",
+  "chamber": "VI",
+  "role_number": "A. 42.515/VI-11.013",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71755",
+  "source_sha256": "d0738f0df87cab2267d8933daf5f66093751cbe682ab7ab1fc81a27db7fecc15",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
