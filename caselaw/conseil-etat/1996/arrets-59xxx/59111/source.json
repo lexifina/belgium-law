@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.111",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59111,
+  "decision_date": "1996-04-17",
+  "date_as_printed": "17 avril 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.514/VI-13.129",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59111",
+  "source_sha256": "6a531d7d73da3c4f5d105613e5d6fc772aa743ee76ed3833e1aaceba23eb8ef0",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
