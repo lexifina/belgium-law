@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.621",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73621,
+  "decision_date": "1998-05-13",
+  "date_as_printed": "13 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 68.268/X-6.396",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73621",
+  "source_sha256": "dd3773768d88e18da65bedd6877d1fcaf68a0e74ca4dd99b05823f0292b021a4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
