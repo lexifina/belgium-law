@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.801",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62801,
+  "decision_date": "1996-10-28",
+  "date_as_printed": "28 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.449/III-22.104",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62801",
+  "source_sha256": "d3629259ffdb63bed81efa9a6d87c4526df097630fd732126478d7ea5df3db2a",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
