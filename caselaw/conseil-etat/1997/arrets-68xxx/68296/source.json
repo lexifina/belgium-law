@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.296",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68296,
+  "decision_date": "1997-09-25",
+  "date_as_printed": "25 september 1997",
+  "chamber": "VII",
+  "role_number": "A. 47.686/VII-11.220",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68296",
+  "source_sha256": "5b1e4e82829bfb4de035f75eb61a897f6be506f6317a0504d433c787ea7eda32",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
