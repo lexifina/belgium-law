@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.735",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68735,
+  "decision_date": "1997-10-08",
+  "date_as_printed": "8 octobre 1997",
+  "chamber": "VI",
+  "role_number": "A. 65.655/VI-13.985",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68735",
+  "source_sha256": "72c7421a13b7044b0559241feaf4308713543993efe8843be501437fb2c583bb",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
