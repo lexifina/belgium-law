@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.172",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69172,
+  "decision_date": "1997-10-27",
+  "date_as_printed": "27 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 68.187/VII-7.068",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69172",
+  "source_sha256": "0697af94a4305e4197ebc058145a278895b1ec6e9b4ccef1d4b1d5bb30932d2d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
