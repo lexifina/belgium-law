@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.149",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69149,
+  "decision_date": "1997-10-24",
+  "date_as_printed": "24 octobre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 62.169/VIII-344",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69149",
+  "source_sha256": "01700e79c3b1f0e47a5862b76b61c340226ab77ebb81c41699fdb45ff320ad6c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
