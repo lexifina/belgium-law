@@ -1,0 +1,2 @@
+Un candidat nommé à une fonction visée à l'article 58bis, 1°, ne peut, dans le délai de trois ans suivant la publication de l'arrêté de nomination au Moniteur belge, poser sa candidature pour une nomination à une autre fonction visée à l'article 58bis, 1°, ou à la même fonction dans ou près une autre juridiction.
+La présente disposition ne s'applique pas aux magistrats suppléants.
