@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.406",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69406,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.879/VII-15.115",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69406",
+  "source_sha256": "3a6f8427755e769515df2f09f120492dfde74b381bae92d061c43415632a95f5",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
