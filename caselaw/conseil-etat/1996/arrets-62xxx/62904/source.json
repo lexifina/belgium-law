@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.904",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62904,
+  "decision_date": "1996-10-31",
+  "date_as_printed": "31 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 69.398/VII-14.256",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62904",
+  "source_sha256": "0b4ccda100ad401a3f2087ba388c9500b1091d767ee5a557c72cd8e1508e38e9",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
