@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.190",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55190,
+  "decision_date": "1995-09-18",
+  "date_as_printed": "18 september 1995",
+  "chamber": "X",
+  "role_number": "A. 65.438/X-5.650",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55190",
+  "source_sha256": "3998cc21a49b94ef67e850815e713b3831a776958085830fa71ca2d57f36a73e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
