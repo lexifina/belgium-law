@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.467",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58467,
+  "decision_date": "1996-03-06",
+  "date_as_printed": "6 maart 1996",
+  "chamber": "X",
+  "role_number": "A. 67.788/X-6.165",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58467",
+  "source_sha256": "88b75036001deffe22c85a006bd79b239e38fe4fe0e34958728535c97646be6f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
