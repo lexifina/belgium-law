@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.626",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72626,
+  "decision_date": "1998-03-20",
+  "date_as_printed": "20 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.796/XI-4.205",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72626",
+  "source_sha256": "ae5b06d87884d37c5eb6c87cb95fda89548dc004612940e395abbafc9057657e",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
