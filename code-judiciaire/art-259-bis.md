@@ -19,3 +19,4 @@ L'examen d'aptitude professionnelle et le concours d'admission au stage judiciai
 b) de donner au ministre de la Justice, à sa demande et au moins une fois par an, un avis concernant la formation des magistrats et des stagiaires;
 c) (de donner au ministre de la Justice, à sa demande et au moins une fois par an, un avis concernant la formationthéorique des stagiaires, en application de l'article 259quater, § 2, alinéa 1er, et § 3, deuxième alinéa.)
 § 5. Chaque jury a pour mission d'organiser, suivant les dispositions légales, l'examen d'aptitude professionnelle prévu aux articles 187, 189, 191, 193, 194, 208, 209, 254 et 258, ainsi que le concours d'admission au stage judiciaire prévu par l'article 259quater.
+(§ 6. Les lauréats de l'examen d'aptitude professionnelle conservent le bénéfice de leur résultat pendant sept années a compter de la date du procès-verbal de l'examen.)
