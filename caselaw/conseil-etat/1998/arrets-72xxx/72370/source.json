@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.370",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72370,
+  "decision_date": "1998-03-11",
+  "date_as_printed": "11 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.689/XI-4.160",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72370",
+  "source_sha256": "eceb7a5a60a8c62664ef07a15bf814973d12d89c23bdd46bfc38f900465f8b1e",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
