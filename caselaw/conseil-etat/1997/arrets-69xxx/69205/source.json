@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.205",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69205,
+  "decision_date": "1997-10-28",
+  "date_as_printed": "28 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.036/XI-3.500",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69205",
+  "source_sha256": "a59408f5a1bf2bc9628fa4b0821d39b39ac3031429cd136c403837b8f642be6f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
