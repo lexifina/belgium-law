@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.596",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71596,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 71.725/VII-14.803",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71596",
+  "source_sha256": "adb739a5aa4353a496b8e1255220ec66ee4de8a89348e15121d41ab6015c86c5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
