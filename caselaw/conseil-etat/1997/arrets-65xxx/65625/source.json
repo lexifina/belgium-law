@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.625",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65625,
+  "decision_date": "1997-03-24",
+  "date_as_printed": "24 mars 1997",
+  "chamber": "XI",
+  "role_number": "A. 59.479/XI-1.029",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65625",
+  "source_sha256": "9d1b75b14c671e063e1e4c48f68c6d8cc9e03a9592032643c6554de8101a20e0",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
