@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.789",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70789,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 janvier 1998",
+  "chamber": "III",
+  "role_number": "A. 64.646/III-21.569",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70789",
+  "source_sha256": "5146acb69039530da81808198ef62a3eb93bd256776aa26b5d42b3d4fc08a08b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
