@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.817",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53817,
+  "decision_date": "1995-06-20",
+  "date_as_printed": "20 juin 1995",
+  "chamber": "III",
+  "role_number": "A. 60.658/III-20.144",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53817",
+  "source_sha256": "4b53349cd1c704d650ce32729d3de129d7b3e3c74c3dd3f4268240f16a72d065",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
