@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.490",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59490,
+  "decision_date": "1996-05-02",
+  "date_as_printed": "2 mei 1996",
+  "chamber": "VII",
+  "role_number": "A. 59.921/VII-12.711",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59490",
+  "source_sha256": "75b248acecb19496eaf440c5d6f30ead28f0e91cc0e8a343f9d0a83021bef2e1",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
