@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.128",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59128,
+  "decision_date": "1996-04-22",
+  "date_as_printed": "22 april 1996",
+  "chamber": "X",
+  "role_number": "A. 61.740/X-4.756",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59128",
+  "source_sha256": "466ac7dacee00258d4b2763abb50af79ce17db9cc7857bdb8102c1b4bf64c4d3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
