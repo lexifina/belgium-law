@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.663",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73663,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.256/VII-15.531",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73663",
+  "source_sha256": "5d1747dfee905fa65a11332fa45cc65c2cb659415db1597e960d862484761258",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
