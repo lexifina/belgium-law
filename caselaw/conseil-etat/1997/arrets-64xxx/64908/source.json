@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.908",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64908,
+  "decision_date": "1997-02-27",
+  "date_as_printed": "27 février 1997",
+  "chamber": "III",
+  "role_number": "A. 60.285/III-19.455",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64908",
+  "source_sha256": "c7126274051240d8c036d589174c27ee0d603a2884216870aff0fa43144994a8",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
