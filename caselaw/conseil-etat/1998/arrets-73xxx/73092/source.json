@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.092",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73092,
+  "decision_date": "1998-04-16",
+  "date_as_printed": "16 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 49.605/XI-2.718",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73092",
+  "source_sha256": "8a2e31735f905c5fc8b45502671cfc9a9a825ca267d76add9200effdd0282b04",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
