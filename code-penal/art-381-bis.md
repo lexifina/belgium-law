@@ -1,0 +1,1 @@
+Les infractions visées aux articles 379 et 380bis, §§ 3 et 4, seront punies des travaux forcés de quinze ans à vingt ans et d'une amende de mille francs à cent mille francs si elles constituent des actes de participation à l'activité principale ou accessoire d'une association, et ce, que le coupable ait ou non la qualité de dirigeant.
