@@ -75,6 +75,7 @@ Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions min
 <a name="LNK0007" href="#LNKR0007">CHAPITRE I.</a> - Montant du revenu d'intégration.
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. (NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 14, § 1er, 1°, en ce qu'il traite de la même manière tous les cohabitants sans tenir compte de la charge d'enfants et article 14, § 1er, 2°, en tant qu'il comprend la catégorie des personnes qui s'acquittent d'une part contributive pour un enfant placé, fixée par le tribunal de la jeunesse ou les autorités administratives dans le cadre de l'aide ou de la protection de la jeunesse)
+(NOTE : par son arrêt n° 123/2006 du 28-07-2006 (M.B. 01-09-2006, p. 43897-43903), la Cour d'Arbitrage a annulé le mot " exclusivement " dans l'article 14, § 1er, 3° de cet article)
 § 1. (Le revenu d'intégration s'élève à :
 1° 4 400 EUR pour toute personne cohabitant avec une ou plusieurs personnes.
 Il faut entendre par cohabitation le fait que des personnes vivent sous le même toit et règlent principalement en commun leurs questions ménagères.
@@ -86,8 +87,8 @@ Par famille à charge, on entend le conjoint, le partenaire de vie, l'enfant min
 Par partenaire de vie, on entend la personne avec qui le demandeur constitue un ménage de fait.
 Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quelle mesure le conjoint ou le partenaire de vie doit répondre aux conditions d'octroi visées à l'article 3.) &lt;L 2004-07-09/30, art. 104, 003; <b> En vigueur : </b> 01-01-2005&gt;
 § 2. Le montant du revenu d'intégration est diminué des ressources du demandeur, calculées conformément aux dispositions du titre II, chapitre II.
-§ 3. Le bénéficiaire d'un revenu d'intégration qui perd sa qualité de sans-abri en occupant un logement qui lui sert de résidence principale a droit, une seule fois dans sa vie, à une majoration d'un douzième du montant annuel du revenu d'intégration, fixé au § 1, alinéa 1, 4°.
-Par dérogation à l'alinéa précédent, le Roi peut prévoir la possibilité d'octroyer, dans des cas dignes d'intérêt, une deuxième fois la majoration d'un douzième du montant annuel du revenu d'intégration, fixé au § 1, alinéa 1, 4°.
+§ 3. Le bénéficiaire d'un revenu d'intégration qui perd sa qualité de sans-abri en occupant un logement qui lui sert de résidence principale a droit, une seule fois dans sa vie, à une majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
+Par dérogation à l'alinéa précédent, le Roi peut prévoir la possibilité d'octroyer, dans des cas dignes d'intérêt, une deuxième fois la majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
 Le Roi peut assimiler d'autres catégories de personnes à des sans-abri.
 (NOTE 1 : Pour la période du 1er octobre 2004 jusqu'au 31 décembre 2004 les montants du revenu d'intégration visés à l'article 14, § 1er, sont respectivement fixés comme suit :
 4.444,00;
@@ -208,7 +209,7 @@ Le Roi peut déterminer les modalités de calcul de l'intérêt. Il peut égalem
 1° en cas de révision avec effet rétroactif, visée à l'article 22, § 1.
 En cas d'erreur du centre, le centre peut soit récupérer l'indu, soit de sa propre initiative, ou à la demande de l'intéressé, renoncer totalement ou partiellement à la récupération;
 2° lorsqu'il vient à disposer de ressources en vertu de droits qu'il possédait pendant la période pour laquelle le revenu d'intégration lui a été versé. Dans ce cas, la récupération est limitée au montant des ressources qui auraient dû être prises en considération pour le calcul du revenu d'intégration à payer s'il en avait déjà disposé à ce moment. Par dérogation à l'article 1410 du Code judiciaire, le centre est subrogé de plein droit, jusqu'à concurrence de cette somme, dans les droits que le bénéficiaire peut faire valoir aux ressources susvisées.
-§ 2. En dehors des cas visés au § 1, une récupération du revenu d'intégration auprès de l'intéressé n'est pas possible. Toute convention contraire est considérée comme nulle.
+§ 2. En dehors des cas visés au § 1, une récupération du revenu d'intégration auprès de l'interessé n'est pas possible. Toute convention contraire est considérée comme nulle.
 § 3. La décision mentionnée au § 1 doit être conforme aux dispositions de l'article 21, §§ 2, 3 et 4.
 § 4. Les montants payés indûment portent intérêt de plein droit à partir du paiement, si le paiement indu résulte de fraude, de dol ou de manoeuvres frauduleuses de la part de la personne intéressée.
 
@@ -218,10 +219,10 @@ En cas d'erreur du centre, le centre peut soit récupérer l'indu, soit de sa pr
 2° le montant total de ce qui a été payé indûment, ainsi que le mode de calcul;
 3° le contenu et les références des dispositions en violation desquelles les paiements ont été effectués;
 4° le délai de prescription pris en considération;
-5° la possibilité pour le centre de renoncer à la récupération des montants payés indûment et la procédure à suivre à cet effet;
+5° la possibilité pour le centre de renoncer à la récupération des montants payés indûment et la procédure à suivre a cet effet;
 6° la possibilité de soumettre une proposition dûment motivée de remboursement par tranches.
 Lorsque la décision ne comporte pas les mentions précitées, le délai de recours visé à l'article 47, § 1, alinéa 2, ne commence pas à courir.
-Le centre ne peut exécuter sa décision de récupération qu'après un délai d'un mois. Si l'intéressé demande dans ce délai qu'il soit renoncé à la récupération, le centre ne peut agir qu'après avoir confirmé sa décision par une nouvelle decision communiquée à l'intéressé par lettre recommandée.
+Le centre ne peut exécuter sa décision de récupération qu'après un délai d'un mois. Si l'intéressé demande dans ce délai qu'il soit renoncé à la récupération, le centre ne peut agir qu'après avoir confirmé sa décision par une nouvelle décision communiquée à l'intéressé par lettre recommandée.
 § 3. Le Roi détermine les conditions dans lesquelles le centre renonce au recouvrement de l'indu lors du décès de la personne qui a été payée.
 
 <a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. Le remboursement du revenu d'intégration octroyé par un centre en application de la présente loi est poursuivi par ce centre en vertu d'un droit propre, dans les limites, les conditions et les modalités fixées par le Roi, à charge des débiteurs d'aliments visés à l'article 4, § 1, ainsi qu'à charge des débiteurs d'aliments visés à l'article 336 du Code civil, à concurrence du montant auquel ils sont tenus pendant la période durant laquelle le revenu d'intégration a été octroyé.
@@ -236,7 +237,7 @@ Aucune récupération ne doit être entreprise si les coûts ou les démarches i
 <a name="Art.29" href="#Art.28">Art.</a> <a href="#LNK0016"> 29</a>. § 1. L'action en remboursement visée à l'article 24, § 1 et l'action visée à l'article 27, alinéa 1, se prescrivent conformément à l'article 2262bis, § 1, alinéa 1, du Code civil.
 § 2. L'action en remboursement visée à l'article 26 se prescrit conformément à l'article 2277 du Code civil.
 § 3. L'action visée à l'article 27, alinéa 2, se prescrit conformément à l'article 2262bis, § 1, alinéas 2 et 3, du Code civil.
-§ 4. Ces prescriptions peuvent être interrompues par une sommation faite soit par lettre recommandée à la poste, soit contre accusé de réception.
+§ 4. Ces prescriptions peuvent être interrompues par une sommation faite soit par lettre recommandée à la poste, soit contre accuse de réception.
 
 <a name="LNK0016" href="#LNKR0016">CHAPITRE V.</a> - Des sanctions.
 
@@ -244,50 +245,50 @@ Aucune récupération ne doit être entreprise si les coûts ou les démarches i
 En cas de récidive dans un délai de trois ans à compter du jour où la sanction pour une omission ou déclaration inexacte antérieure est devenue définitive, les périodes susvisées peuvent être doublées.
 Aucune sanction ne peut plus être prononcée lorsqu'un délai de deux ans s'est écoulé à compter du jour où l'omission a été commise ou la déclaration inexacte, faite. Aucune sanction ne peut plus être exécutée lorsqu'un délai de deux ans s'est écoulé à compter du jour où la sanction est devenue définitive.
 § 2. Après mise en demeure, si l'intéressé ne respecte pas sans motif légitime ses obligations prévues dans le contrat contenant un projet individualisé d'intégration sociale, visé aux articles 11 et 13, § 2, le paiement du revenu d'intégration peut, après avis du travailleur social ayant en charge le dossier, être suspendu partiellement ou totalement pour une période d'un mois au maximum. En cas de récidive dans un délai d'un an tout au plus, le paiement du revenu d'intégration peut être suspendu pour une période de trois mois au maximum.
-La sanction prévue à l'alinéa 1 prend cours le premier jour du deuxième mois suivant la décision du centre.
+La sanction prévue à l'alinea 1 prend cours le premier jour du deuxième mois suivant la décision du centre.
 § 3. Les sanctions administratives visées aux §§ 1 et 2 sont prononcées par le centre compétent visé à l'article 18, § 1, et leur exécution peut, s'il y a lieu, être poursuivie par le centre qui devient ultérieurement compétent et ce pour la durée d'application de la sanction.
-Les règles de la procédure déterminée par les articles 20, 21, §§ 2, 3 et 4 et l'article 47 sont d'application.
+Les règles de la procedure déterminée par les articles 20, 21, §§ 2, 3 et 4 et l'article 47 sont d'application.
 
-<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>. Sans préjudice de l'application d'autres dispositions pénales, notamment celles de l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature qui sont, en tout ou en partie, à charge de l'Etat, est puni d'un emprisonnement de huit jours a un mois et d'une amende de 26 EUR à 500 EUR ou d'une de ces peines seulement :
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>. Sans préjudice de l'application d'autres dispositions pénales, notamment celles de l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature qui sont, en tout ou en partie, à charge de l'Etat, est puni d'un emprisonnement de huit jours à un mois et d'une amende de 26 EUR à 500 EUR ou d'une de ces peines seulement :
 1. le bénéficiaire visé à l'article 30, § 1, qui a agi avec une intention frauduleuse.
-2. toute personne qui fait sciemment des déclarations ou des attestations fausses relatives à l'état de santé ou a la situation sociale de l'intéressé, dans le but de faire octroyer à celui-ci un revenu d'intégration, auquel il n'est pas en droit de prétendre.
+2. toute personne qui fait sciemment des déclarations ou des attestations fausses relatives à l'état de santé ou à la situation sociale de l'intéresse, dans le but de faire octroyer à celui-ci un revenu d'intégration, auquel il n'est pas en droit de prétendre.
 Les dispositions du livre I du Code pénal, y compris celles du chapitre VII et de l'article 85, sont applicables aux infractions prévues par le présent article.
 
 <a name="LNK0017" href="#LNKR0017">CHAPITRE VI.</a> - De la subvention de l'Etat.
 
 <a name="LNK0018" href="#LNKR0018">Section 1.</a> - Revenu d'intégration.
 
-<a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. § 1. L'Etat accorde au centre visé à l'article 18 une subvention égale à 50 % du montant du revenu d'intégration accordé conformément aux dispositions de la présente loi.
+<a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. § 1. L'Etat accorde au centre visé à l'article 18 une subvention égale à 50 % du montant du revenu d'intégration accordé conformément aux dispositions de la presente loi.
 § 2. La subvention visée au § 1 est portée à 60 % du montant du revenu d'intégration pour le centre qui a octroyé, en moyenne mensuelle au cours de la pénultième année, un revenu d'intégration à au moins cinq cents ayants droit ou qui a réalisé en leur faveur un emploi subventionné par l'Etat.
-§ 3. La subvention visée au § 1 est portée à 65 % lorsque, dans les conditions visées au § 2, le droit a eté octroyé à au moins mille ayants droit.
-§ 4. La subvention visée aux §§ 2 et 3 est octroyee pour la première fois au centre qui dépasse le seuil de cinq cents ou mille ayants droit, à condition que le nombre d'ayants droit ait augmenté d'au moins 5 % par rapport à l'année précédente.
-§ 5. Lorsque le nombre d'ayants droit, calcule en moyenne mensuelle au cours de l'année pénultième, baisse en dessous du seuil de 500 ou 1 000 ayants droit, le centre conserve le droit à la subvention majorée, visee aux §§ 2 et 3, toutefois diminuée de 1 % par an jusqu'à ce qu'il atteigne les taux de subvention respectifs de 50 % et 60 % du montant du revenu d'intégration.
+§ 3. La subvention visée au § 1 est portée à 65 % lorsque, dans les conditions visées au § 2, le droit a été octroyé à au moins mille ayants droit.
+§ 4. La subvention visée aux §§ 2 et 3 est octroyée pour la première fois au centre qui dépasse le seuil de cinq cents ou mille ayants droit, à condition que le nombre d'ayants droit ait augmenté d'au moins 5 % par rapport à l'année précédente.
+§ 5. Lorsque le nombre d'ayants droit, calculé en moyenne mensuelle au cours de l'année pénultième, baisse en dessous du seuil de 500 ou 1 000 ayants droit, le centre conserve le droit à la subvention majorée, visée aux §§ 2 et 3, toutefois diminuée de 1 % par an jusqu'à ce qu'il atteigne les taux de subvention respectifs de 50 % et 60 % du montant du revenu d'integration.
 La diminution de la subvention de 1 % par an n'est pas appliquée lorsque la réduction du nombre des ayants droit est inférieure à 3 % par rapport à l'année précédente.
 
-<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>. La subvention s'élève, pendant une durée maximale de six mois, à 70 % du montant du revenu d'intégration lorsque dans le cadre d'un contrat contenant un projet individualisé d'intégration sociale, passé en application des articles 11 et 13, § 2, le bénéficiaire suit une formation à raison de 10 h/semaine au moins ou preste dans le cadre d'une formation par le travail 10 h/semaine au moins et de 20 h/semaine au plus.
-La formation doit être organisée par un service public de formation des sans-emploi ou par un organisme de formation professionnelle conventionné avec le centre. La formation par le travail devra etre exercé au sein des services ou établissements du centre ou au sein d'un service ou établissement visés à l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>. La subvention s'élève, pendant une durée maximale de six mois, à 70 % du montant du revenu d'intégration lorsque dans le cadre d'un contrat contenant un projet individualisé d'intégration sociale, passé en application des articles 11 et 13, § 2, le bénéficiaire suit une formation a raison de 10 h/semaine au moins ou preste dans le cadre d'une formation par le travail 10 h/semaine au moins et de 20 h/semaine au plus.
+La formation doit être organisée par un service public de formation des sans-emploi ou par un organisme de formation professionnelle conventionné avec le centre. La formation par le travail devra être exercé au sein des services ou établissements du centre ou au sein d'un service ou établissement visés à l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
 
 <a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>. La subvention visée à l'article 32 est majorée de 10 % pendant la durée d'un contrat concernant un projet individualisé d'intégration sociale conclu en application de l'article 11, § 2, a, dans la mesure où le centre respecte les dispositions prévues aux articles 26 et 28.
 
-<a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0019"> 35</a>. Par derogation à l'article 55 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, le centre conserve les montants qu'il récupère en exécution de l'article 26 auprès des ascendants au premier degré, les adoptants, le conjoint ou, le cas échéant, l'ex-conjoint et les débiteurs de la pension alimentaire visés à l'article 336 du Code civil, lorsque le bénéficiaire est lie par un projet individualisé d'intégration sociale conclu en application de l'article 11, § 2, a.
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0019"> 35</a>. Par derogation à l'article 55 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, le centre conserve les montants qu'il récupère en exécution de l'article 26 auprès des ascendants au premier degré, les adoptants, le conjoint ou, le cas échéant, l'ex-conjoint et les débiteurs de la pension alimentaire visés à l'article 336 du Code civil, lorsque le bénéficiaire est lié par un projet individualisé d'intégration sociale conclu en application de l'article 11, § 2, a.
 
 <a name="LNK0019" href="#LNKR0019">Section 2.</a> - Emploi.
 
-<a name="Art.36" href="#Art.35">Art.</a> <a href="#Art.37"> 36</a>. § 1. Une subvention est due au centre lorsqu'il agit en qualité d'employeur en application de l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. Lorsque la personne est engagée à temps plein la subvention est égale au montant du revenu d'intégration fixé a l'article 14, § 1, 4°, de la présente loi. La subvention reste due au centre jusqu'au terme du contrat de travail, même si la situation familiale ou financiere du travailleur concerné se modifie pendant la durée du contrat de travail ou s'il s'établit dans une autre commune.
+<a name="Art.36" href="#Art.35">Art.</a> <a href="#Art.37"> 36</a>. § 1. Une subvention est due au centre lorsqu'il agit en qualité d'employeur en application de l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. Lorsque la personne est engagée à temps plein la subvention est égale au montant du revenu d'intégration fixé à l'article 14, § 1, 4°, de la présente loi. La subvention reste due au centre jusqu'au terme du contrat de travail, même si la situation familiale ou financière du travailleur concerné se modifie pendant la durée du contrat de travail ou s'il s'établit dans une autre commune.
 § 2. Le Roi fixe le montant de la subvention en cas d'occupation à temps partiel ainsi que les conditions d'octroi de cette subvention.
 Il peut aussi porter le montant de la subvention à un montant supérieur et en fixer les conditions pour des initiatives spécifiques d'insertion sociale.
 
 <a name="Art.37" href="#Art.36">Art.</a> <a href="#Art.38"> 37</a>. Lorsque le centre agit en tant qu'employeur en application de l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, afin de réaliser le droit à l'intégration sociale par l'emploi visé à l'article 6, la subvention, déterminée conformément aux §§ 1 et 2, alinéa 1, de l'article 36, est majorée de 25 % tout au plus, jusqu'à concurrence du coût salarial brut de la personne mise au travail.
 
 <a name="Art.38" href="#Art.37">Art.</a> <a href="#Art.39"> 38</a>. Une subvention est due au centre lorsqu'il conclut pour un bénéficiaire une convention en matière d'emploi avec une entreprise privée, en application de l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
-Cette subvention doit être entièrement consacrée à l'encadrement ou à la formation du bénéficiaire visé à l'alinéa 1 dans l'entreprise ou au sein du centre.
+Cette subvention doit être entièrement consacrée à l'encadrement ou a la formation du bénéficiaire visé à l'alinéa 1 dans l'entreprise ou au sein du centre.
 Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le montant de la subvention visée à l'alinéa 1, de même que les conditions, la durée et les modalités selon lesquelles cette subvention est accordée.
 
 <a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0020"> 39</a>. Une subvention est due au centre lorsque celui intervient dans les frais liés à l'insertion professionnelle de l'ayant droit, en application de l'article 9 ou de l'article 13. La subvention est égale au montant de l'intervention financière.
 
 <a name="LNK0020" href="#LNKR0020">Section 3.</a> - Frais de personnel.
 
-<a name="Art.40" href="#Art.39">Art.</a> <a href="#LNK0021"> 40</a>. Une subvention est accordée au centre à titre d'intervention dans les frais de personnel par dossier pour lequel le centre reçoit une subvention de l'Etat suite a l'octroi d'un revenu d'intégration ou d'un emploi. Cette subvention s'élève à 250 EUR sur une base annuelle et est calculée en fonction du nombre de jours durant lequel le centre reçoit la subvention précitée de l'Etat
+<a name="Art.40" href="#Art.39">Art.</a> <a href="#LNK0021"> 40</a>. Une subvention est accordée au centre à titre d'intervention dans les frais de personnel par dossier pour lequel le centre reçoit une subvention de l'Etat suite à l'octroi d'un revenu d'intégration ou d'un emploi. Cette subvention s'élève à 250 EUR sur une base annuelle et est calculée en fonction du nombre de jours durant lequel le centre reçoit la subvention précitée de l'Etat
 Le Roi fixe par arrêté délibéré en Conseil des Ministres les conditions et modalités d'octroi de cette subvention.
 (Le Roi peut, par arrêté délibéré en Conseil des ministres adapter le montant de la subvention mentionné à l'alinéa 1er.) &lt;L 2004-07-09/30, art. 105, 003; <b> En vigueur : </b> 25-07-2004&gt;
 (NOTE : Le montant de l'intervention dans les frais de personnel fixé à l'article 40, alinéa 1er, est remplacé comme suit :
@@ -297,11 +298,11 @@ Le Roi fixe par arrêté délibéré en Conseil des Ministres les conditions et 
 
 <a name="LNK0021" href="#LNKR0021">Section 4.</a> - Autres subventions majorées.
 
-<a name="Art.41" href="#Art.40">Art.</a> <a href="#Art.42"> 41</a>. La subvention est égale a 100 % du montant du revenu d'intégration pendant une période maximale d'un an lorsqu'il est octroyé à un bénéficiaire qui perd sa qualité de sans-abri tel que visé à l'article 14, § 3, alinéa 1.
+<a name="Art.41" href="#Art.40">Art.</a> <a href="#Art.42"> 41</a>. La subvention est égale à 100 % du montant du revenu d'intégration pendant une période maximale d'un an lorsqu'il est octroyé à un bénéficiaire qui perd sa qualité de sans-abri tel que visé à l'article 14, § 3, alinéa 1.
 
 <a name="Art.42" href="#Art.41">Art.</a> <a href="#Art.43"> 42</a>. La subvention est égale à 100 % de la majoration du revenu d'intégration octroyé en application de l'article 14, § 3, alinéa 1, au bénéficiaire qui perd sa qualité de sans-abri.
 
-<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0022"> 43</a>. Elle est égale à 100 % du montant du revenu d'intégration pour une période maximale de cinq ans lorsqu'il est octroyé à un bénéficiaire inscrit dans le registre des étrangers et ce jusqu'au jour de son inscription dans le registre de population.
+<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0022"> 43</a>. Elle est égale à 100 % du montant du revenu d'intégration pour une periode maximale de cinq ans lorsqu'il est octroyé a un bénéficiaire inscrit dans le registre des étrangers et ce jusqu'au jour de son inscription dans le registre de population.
 
 <a name="LNK0022" href="#LNKR0022">Section 5.</a> - Modalités.
 
@@ -312,21 +313,21 @@ Par dérogation aux dispositions des articles 28, alinéa 2, et 57 de l'arrêté
 
 <a name="Art.45" href="#Art.44">Art.</a> <a href="#Art.46"> 45</a>. Par décision motivée, le ministre peut refuser de payer la subvention ou décider de la diminuer :
 - si le rapport établi à la suite de l'enquête sociale, visée à l'article 19, ne mentionne pas que les différentes conditions d'octroi du revenu d'intégration ou de réalisation de l'emploi sont remplies;
-- si le centre n'a pas respecté les dispositions de la présente loi relatives à la recupération du revenu d'intégration.
+- si le centre n'a pas respecté les dispositions de la présente loi relatives à la récupération du revenu d'intégration.
 
 <a name="Art.46" href="#Art.45">Art.</a> <a href="#LNK0024"> 46</a>. Si le centre s'est indûment déclaré incompétent pour intervenir et est condamné par décision judiciaire coulée en force de chose jugée à l'octroi du revenu d'intégration, le ministre peut, par décision motivée, refuser de payer la subvention ou décider de la réduire quand cela se produit à plusieurs reprises. Cette sanction prend cours à la date de la demande d'aide et se termine au plus tard trois ans après la date de la décision judiciaire.
 Un recours contre la décision du ministre est ouvert dans les trente jours de sa notification auprès du Conseil d'Etat.
 
 <a name="LNK0024" href="#LNKR0024">CHAPITRE VII.</a> - Recours.
 
-<a name="Art.47" href="#Art.46">Art.</a> <a href="#LNK0025"> 47</a>. § 1. L'intéressé ou le ministre, ou son délégué, peuvent introduire un recours contre la décision du centre en matière de droit à l'intégration sociale auprès du tribunal du travail du domicile de l'intéressé. L'interessé peut aussi introduire un recours contre l'absence de décision du centre en cette matière.
+<a name="Art.47" href="#Art.46">Art.</a> <a href="#LNK0025"> 47</a>. § 1. L'intéressé ou le ministre, ou son délégué, peuvent introduire un recours contre la décision du centre en matière de droit à l'intégration sociale auprès du tribunal du travail du domicile de l'intéressé. L'intéressé peut aussi introduire un recours contre l'absence de décision du centre en cette matière.
 Ce recours doit, à peine de déchéance, être introduit dans les trois mois par une requête déposée ou envoyée par lettre recommandée au greffe du tribunal de travail.
-Le délai de trois mois commence à courir, selon le cas, à partir :
+Le délai de trois mois commence a courir, selon le cas, à partir :
 - de la notification de la décision, visée à l'article 21, § 4;
-- du jour suivant l'échéance du délai au cours duquel la décision aurait dû être notifiée au plus tard en application de l'article 21, §§ 1 et 4.
+- du jour suivant l'échéance du delai au cours duquel la décision aurait dû être notifiée au plus tard en application de l'article 21, §§ 1 et 4.
 § 2. Lorsque le recours est introduit par le ministre ou son délégué, il est dirigé soit contre le centre et l'intéressé, soit contre le centre, l'intéressé étant appelé à la cause.
 § 3. Le recours n'est pas suspensif de l'exécution de la décision.
-§ 4. Lorsqu'un centre impliqué dans l'affaire conteste sa compétence territoriale, le tribunal du travail le cas echéant, en dérogation à l'article 811 du Code Judiciaire, convoque d'office le centre présumé compétent par pli judiciaire afin que celui-ci comparaisse à la prochaine audience utile.
+§ 4. Lorsqu'un centre impliqué dans l'affaire conteste sa compétence territoriale, le tribunal du travail le cas échéant, en dérogation à l'article 811 du Code Judiciaire, convoque d'office le centre présumé competent par pli judiciaire afin que celui-ci comparaisse à la prochaine audience utile.
 Si l'incompétence du centre est soulevée lors de l'audience introductive, le greffier peut noter sur la feuille d'audience la décision de convoquer d'office.
 
 <a name="LNK0025" href="#LNKR0025">CHAPITRE VIII.</a> - Dispositions finales et abrogatoires.
