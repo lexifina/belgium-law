@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.789",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56789,
+  "decision_date": "1995-12-12",
+  "date_as_printed": "12 december 1995",
+  "chamber": "IV",
+  "role_number": "A. 61.324/IV-14.919",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56789",
+  "source_sha256": "9b1813f3502a2eb660199a0ede7efe7f8bbf572f0053e938861e94e54d976a9d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only",
+  "text_not_reproduced": "Personal-data rule: home-address/birth-date/national-number marker. The decision text is in the official PDF at the source link."
+}
