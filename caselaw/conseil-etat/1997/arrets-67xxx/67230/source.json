@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.230",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67230,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 62.644/III-3.048",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67230",
+  "source_sha256": "49cc7b8fe9b649a4b39c9878a8ca06faa90200f37eac6066b3f88dc94f633003",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
