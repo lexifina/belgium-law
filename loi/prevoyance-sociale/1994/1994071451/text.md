@@ -1,43 +1,36 @@
-<a name="Art.196">Art.</a> <a href="#Art.198"> 196</a>. &lt;AR 1994-08-12/38, art. 3, 002; <b> En vigueur : </b> 10-09-1994&gt; § 1er. L'objectif budgétaire annuel global de l'assurance soins de santé visé à l'article 40, § 1er, est ventilé par organisme assureur.
-La quotité de chaque organisme assureur ci-après dénommée quotité budgétaire, résulte de la pondération de deux clefs de répartition :
-1. une première clef de répartition, constituée de la part des dépenses réelles de chaque organisme assureur dans les dépenses annuelles totales de l'exercice concerné pour l'ensemble des organismes assureurs, dont le poids évolutif, conformément aux phases ci-après, est de :
-(- pour les années 1995, 1996 et 1997 : 90 %;
-- pour les années 1998 et 1999 : 80 %;
-- pour les années à partir de 2000 : 70 %.) &lt;AR 1996-12-23/59, art. 1, 021; <b> En vigueur : </b> 01-01-1997&gt;
-2. une deuxième clef de répartition, de nature normative, dont le poids évolutif, conformément aux phases ci-après, est de :
-(- pour les années 1995, 1996 et 1997 : 10 %;
-- pour les années 1998 et 1999 : 20 %;
-- pour les années à partir de 2000 : 30 %.) &lt;AR 1996-12-23/59, art. 1, 021; <b> En vigueur : </b> 01-01-1997&gt;
-§ 2. La clef de répartition normative est fixée par le Roi sur proposition du Conseil général, après avis du Comité de l'assurance, au plus tard dans le mois précédant l'exercice visé, sur la base de paramètres élaborés avec l'aide d'experts qui sont désignés par ce Conseil. Le Conseil général dépose cette proposition auprès du Ministre, au plus tard le 15 novembre. A défaut de proposition dans les délais prévus, le Roi prend la décision.
-Sans préjudice de l'application de l'alinéa précédent au 1er janvier 1995, la proposition concernant les années 1995 et 1996, qui est introduite avant le 15 novembre 1994 peut être complétée au plus tard le 30 juin 1995. Dans ce cas, les avances, telles que visées à l'article 202, sont régularisées.
-(Par dérogation aux délais prévus à l'alinéa 1er, le Roi peut, dans les conditions déterminées par Lui, prévoir, sur la proposition du Conseil général, l'adaptation de la clé de répartition normative d'une année considérée pour autant que cette adaptation soit limitée à l'effet découlant de la correction de données utilisées ou de l'utilisation de données nouvelles, sans pour autant modifier les paramètres retenus. Cette adaptation de la clé normative doit être réalisée avant l'approbation de la clôture des comptes de la dernière année de chaque phase.) &lt;L 1999-01-25/32, art. 137, 038; <b> En vigueur : </b> 16-02-1999&gt;
-§ 3. Pour les années 1995 et 1996, ces paramètres sont basés sur les caractéristiques suivantes, dans la mesure où celles-ci sont disponibles et pertinentes :
-la situation sociale et professionnelle des bénéficiaires, en établissant une distinction entre les titulaires indemnisables primaires, le groupe des veufs, veuves et orphelins, les invalides et les handicapés, les pensionnés, les personnes non protégées, les bénéficiaires du minimum de moyens d'existence, les membres des communautés religieuses et, le cas échéant, une distinction en fonction du droit ou non à une intervention majorée, l'âge, le sexe, la mortalité, le taux d'urbanisation, le taux de chômage, la composition du ménage, le revenu.
-§ 4. Au cours de l'année précédant l'augmentation du poids de la clef de répartition normative, le Conseil général, après avis du Comité de l'assurance doit procéder à l'évaluation de l'importance et de l'incidence des paramètres utilisés, ainsi que de l'incidence de la clef de répartition normative dans l'ensemble de la répartition de l'objectif budgétaire annuel global entre les organismes assureurs.
-Sur la proposition du Conseil général, après avis du Comité de l'assurance et sur avis du Conseil de l'Office de contrôle des mutualités et des unions nationales de mutualités, le Roi peut :
-1° affiner les paramètres existants et/ou intégrer de nouveaux paramètres dans le calcul de la clef de répartition;
-2° par arrêté royal délibéré en Conseil des Ministres, proroger d'un an dans chaque phase où le poids de la clef de répartition normative augmente, de manière non récurrente, le calendrier repris au § 1er.
-Si le Conseil général ne formule pas de proposition avant le 15 novembre, la clef de répartition normative basée sur les paramètres visés au § 3 reste d'application.
-§ 5. Au plus tôt deux ans après la mise en oeuvre de la troisième phase, le Roi peut, par arrêté délibéré en Conseil des Ministres et sur avis du Conseil général, faire accroître le poids de la clef de répartition normative jusqu'à concurrence de 40 % maximum.
-
-<a name="Art.198" href="#Art.196">Art.</a> 198. &lt;AR 1994-08-12/38, art. 3, 002; <b> En vigueur : </b> 10-09-1994&gt; § 1er. Il convient d'entendre par :
-- boni : la part de la quotité de ressources d'un organisme assureur dépassant ses dépenses réelles pour prestations de santé;
-- déficit : la part des dépenses réelles, pour prestations de santé, d'un organisme assureur dépassant sa quotité de ressources.
-§ 2. Un organisme assureur qui clôture un exercice en boni, acquiert en droit, à titre de part dans les ressources du régime, un montant égal à ses dépenses, majoré d'une partie du boni.
-Cette partie du boni s'élève :
-(- pour les années 1995, 1996 et 1997 : 15 %;
-- pour les années 1998 et 1999 : 20 %;
-- pour les années à partir de 2000 : 25 %.) &lt;AR 1996-12-23/59, art. 1, 021; <b> En vigueur : </b> 01-01-1997&gt;
-Cette partie est versée dans le fonds spécial de réserve visé à l'article 199.
-§ 3. Un organisme assureur qui clôture un exercice en déficit doit couvrir une partie de ce déficit en faisant appel à son fonds spécial de réserve tel que visé à l'article 199 et/ou par le biais du prélèvement d'une cotisation supplémentaire à charge des titulaires.
-Cette partie s'élève :
-(- pour les années 1995, 1996 et 1997 : à 15 %;
-- pour les années 1998 et 1999 : à 20 %;
-- pour les années à partir de 2000 : à 25 %.) &lt;AR 1996-12-23/59, art. 1, 021; <b> En vigueur : </b> 01-01-1997&gt;
-Il acquiert en droit, à titre de part dans les ressources du régime, sa quotité de ressources majorée d'une partie du déficit.
-Cette partie s'élève à :
-(- pour les années 1995, 1996 et 1997 : 85 %;
-- pour les années 1998 et 1999 : 80 %;
-- pour les années à partir de 2000 : 75 %.) &lt;AR 1996-12-23/59, art. 1, 021; <b> En vigueur : </b> 01-01-1997&gt;
-et est majorée de la partie du déficit qui, en application de l'article 197, § 4, n'est pas pris en considération pour l'application de cet article.
-§ 4. Sur la proposition du Conseil général, après avis du Comité de l'assurance et sur avis du Conseil de l'Office de contrôle des mutualités et des unions nationales des mutualités, le Roi peut, par arrêté délibéré en Conseil des Ministres, proroger d'un an, à titre non récurrent, le calendrier visé aux §§ 2 et 3 pour chaque phase dans laquelle le niveau de responsabilité augmente.
+<a name="Art.37bis">Art.</a> 37bis. &lt;Inséré par L 1994-12-21/31, art. 24; <b> En vigueur : </b> 01-10-1993 et 01-01-1994&gt; § 1. L'intervention personnelle du bénéficiaire, à l'exception du bénéficiaire de l'intervention majorée de l'assurance prévue à l'article (37, §§ 1 et 19), dans les honoraires pour certaines prestations visées à l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, est fixée comme suit : &lt;AR 1997-04-16/33, art. 4, 024; <b> En vigueur : </b> 01-07-1997&gt;
+A. 30 p.c. des honoraires pour les consultations du médecin généraliste et suppléments d'urgence visés à l'article 2, I, A, de ladite annexe sous les numéros de codes :
+101010, 101032, (101076), 101054, 102454, 102476, 102410, 102432, 104650 et 104355. &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt;
+(Toutefois, en ce qui concerne les consultations visées sous les numéros de codes 101010, 101032, 101076 et 101054, le montant de l'intervention personnelle obtenu après application des 30 % visés ci-dessus, est réduit de 30 % pour les bénéficiaires à qui a été payée l'intervention de l'assurance pour la prestation 102771 visée à l'article 2, I, A, de l'annexe à l'arrêté royal du 14 septembre 1984 précité.
+Les bénéficiaires qui, conformément à l'article 2, I, A, précité, remplissent les conditions fixées pour l'attestation de la prestation 102771, ne sont redevables d'aucune intervention personnelle dans les honoraires en question.) &lt;AR 1999-04-29/56, art. 1, 042; <b> En vigueur : </b> 01-05-1999&gt;
+B. 35 p.c. des honoraires pour les visites et suppléments d'urgence visés à l'article 2, I, A, de ladite annexe sous les numéros de codes suivants :
+- visites du médecin généraliste :
+103110, 103213, 103235, 103316 à 103353, (104112, 104134, 104156,) 104510 à 104576, 104591 à 104635, 103132, 103412, 103434, 103515 à 103552, (103913, 103935, 103950,) 104215 à 104274 et 104296 à 104333. &lt;AR 1999-06-30/32, art. 1, 044; <b> En vigueur : </b> 01-07-1999&gt;
+- visites du médecin spécialiste en pédiatrie :
+103751, 103773, 103795, 103810, 103832, 103854, 103876, 103891, 104812, 104834, 104856 et 104871.
+C. 40 p.c. des honoraires pour les consultations des médecins spécialistes et suppléments d'urgence visés à l'article 2, I, A, de ladite annexe sous les numéros de codes :
+(102012, 102034, 102071, 102093, 102115, 102130, 102152, 102174, 102196, 102211, 102491, 102513, 102535, 102550, 102572, 102594, 102616, 102631, 102653, 102675, 102690, 102712, (102734, 102756,) 103014.) &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt; &lt;AR 1999-06-30/32, art. 1, 044; <b> En vigueur : </b> 01-07-1999&gt;
+D. 35 p.c. avec un maximum de 200 francs par prestation, des honoraires de surveillance des bénéficiaires hospitalisés visés à l'article 25, § 1, de ladite annexe.
+E. 15 p.c., avec un maximum de 350 francs par prestation, des honoraires pour les prestations suivantes, dispensées à des bénéficiaires non hospitalisés :
+1° les prestations visées sous les numéros de codes :
+350055, 350512, 350571, 350593, 351035, 353253, 355390 à 355434, 355471 à 355515 et 355596 à 355913, repris à l'article 11 de ladite annexe.
+2° la prestation visée sous le numéro de code 214211 repris à l'article 13 de ladite annexe.
+3° les prestations visées sous les numéros de codes :
+220091, 220290, 230333, 243633, 248511 à 248916, 248953, 248975, 227091, 227452, 228152, 254995 à 255076, 255113, 255135, 256594, 257294, 257316, 257596 à 257670, 257692, 257714, 257736, 257773, 257795, 257913, 257935, 258296, 258510, 258613, 258812, 258834, 260271, 260293, 260330, 261531, 261914 à 261995, 262356, 262371, 280173 à 280210, 280770, 300252 et 300274, repris à l'article 14 de ladite annexe.
+4° les prestations visées sous les numéros de codes :
+442212, 442234, 442411 à 442492, 442610 à 442654, 442816 à 442853, 442934 et 442971, repris à l'article 18 de ladite annexe.
+5° les prestations visées sous les numéros de codes 470050, 471015 à 471052, 471251 à 471413, 471516, 471575, 471715 à 471752, 471811, 472076, 472113, 472135, 472194 à 472253, 472356, 472371, 472415 à 472474, 472511 à 472533, 473012 à 473196, 473233, 473255, 473351 à 473454, 473491, 473594 à 473631, 474095 à 474191, 474235 à 474272, 474353, 474493, 474530 à 474596, 475031, 475075, 475090, 475112, 475311, 475333, 475451, 475532 à 475576, 475650, 475753, 475812, 475834, 475856 à 475893, 476011 à 476070, 476276 à 476313, 476114 à 476254, 476615, 476630, 477116, 477131, 477190 à 477256 et 477315 à 477536 repris à l'article 20 de ladite annexe.
+6° les prestations visées sous les numéros de codes 532011, 532114 et 532534 à 532571 repris à l'article 21 de ladite annexe.
+7° toutes les prestations reprises aux articles 22, I, 32 et 33 de ladite annexe.
+F. 300 francs pour les honoraires de consultance visés à l'article 17 de ladite annexe sous le numéro de code 460670, (460795). &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt;
+G. 250 francs pour les honoraires de consultance visés à l'article 17 de ladite annexe sous le numéro de code 460703, (460821). &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt;
+H. (300 francs pour les honoraires forfaitaires visés à l'article 24, § 2, de ladite annexe sous les numéros de code 591102 et 591603). &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt;
+(§ 1bis. Le montant de l'intervention personnelle du bénéficiaire dans les prestations accessibles aux médecins accrédités, tel qu'il résulte du § 1er, reste le même, que la prestation soit effectuée par un médecin accrédité, visé à l'article 1er, § 10, de l'annexe à l'arrêté royal du 14 septembre 1984 précité ou par un médecin non accrédité.) &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt;
+§ 2. L'intervention personnelle du bénéficiaire, à l'exception du bénéficiaire de l'intervention majorée de l'assurance prévue à l'article (37, §§ 1 et 19,) dans les honoraires forfaitaires pour la biologie clinique dispensée à des patients non hospitalisés, et visés aux articles 2, § 2, a), et 3, § 2, de l'arrêté royal du 24 septembre 1992 fixant des modalités relatives aux honoraires forfaitaires pour certaines prestations de biologie clinique dispensées à des bénéficiaires non hospitalisés ainsi qu'à la sous-traitance de ces prestations, est fixée comme suit : &lt;AR 1997-04-16/33, art. 4, 024; <b> En vigueur : </b> 01-07-1997&gt;
+(300 francs pour les numéros de codes 592314 et 592675;
+400 francs pour les numéros de codes 592336 et 592690;
+500 francs pour les numéros de codes 592351 et 592712;
+550 francs pour les numéros de codes 592373 et 592734;
+600 francs pour les numéros de codes 592395 et 592756;
+700 francs pour les numéros de codes 592410 et 592771.) &lt;AR 2000-03-21/40, art. 1, 048; <b> En vigueur : </b> 30-03-2000&gt;
+(§ 3. L'intervention personnelle du bénéficiaire à l'exception du bénéficiaire de l'intervention majorée de l'assurance prévue à l'article (37, §§ 1er et 19) est majorée d'une quote-part de 1.100 F le premier jour de son hospitalisation ou de son séjour dans un centre de rééducation fonctionnelle et professionnelle, au sens de l'arrêté royal du 5 mars 1997 fixant le montant de la réduction de l'intervention de l'assurance en cas d'hospitalisation ou de séjour dans un centre de rééducation.) &lt;AR 1997-03-05/30, art. 1, 017; <b> En vigueur : </b> 01-04-1997&gt; &lt;AR 1997-04-16/33, art. 4, 024; <b> En vigueur : </b> 01-07-1997&gt;
