@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.045",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63045,
+  "decision_date": "1996-11-13",
+  "date_as_printed": "13 novembre 1996",
+  "chamber": "VI",
+  "role_number": "A. 60.570/VI-12.088",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63045",
+  "source_sha256": "633c3824b6bb3bb5434a8d14910352be0d8146ad4b17205991b85c6636541ed0",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
