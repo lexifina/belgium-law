@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.511",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64511,
+  "decision_date": "1997-02-12",
+  "date_as_printed": "12 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.366/III-22.685",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64511",
+  "source_sha256": "a07fa1ed7a517575efc9e047e3028a2de294d5b3b653213ca897bfaf43100d98",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
