@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.479",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62479,
+  "decision_date": "1996-10-09",
+  "date_as_printed": "9 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.499/III-2.892",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62479",
+  "source_sha256": "6fb95eb2a34783cf18e1a2e043fa4199053d70c4b97ba336c31bab65c9326821",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
