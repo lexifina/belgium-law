@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.436",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66436,
+  "decision_date": "1997-05-28",
+  "date_as_printed": "28 mai 1997",
+  "chamber": "VI",
+  "role_number": "A. 69.197/VI-13.259",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66436",
+  "source_sha256": "8d45451fb5c95522169c695b300fb413e15737fb1f145125d5b9f2e8f22f5b45",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
