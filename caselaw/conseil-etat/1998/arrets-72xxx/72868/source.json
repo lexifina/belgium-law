@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.868",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72868,
+  "decision_date": "1998-03-31",
+  "date_as_printed": "31 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 75.948/XI-3.454",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72868",
+  "source_sha256": "4a02b4e94fde43785c0a246f8e7da0d3728aa53784f991130635623ca33ea03e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
