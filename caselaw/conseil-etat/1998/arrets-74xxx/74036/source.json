@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.036",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74036,
+  "decision_date": "1998-06-03",
+  "date_as_printed": "3 juni 1998",
+  "chamber": "VII",
+  "role_number": "A. 55.263/VII-15.943",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74036",
+  "source_sha256": "783f79cc2f6e9a15d508f35ad9a4a19bc15ba93d6d45fba71e8cd37154f13f98",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
