@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.632",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69632,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 40.280/XII-141",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69632",
+  "source_sha256": "1773a973fe9f7da5235c559e0f9ed9c5db6cf92c67d56521436ea69efec9646d",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
