@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.540",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66540,
+  "decision_date": "1997-06-04",
+  "date_as_printed": "4 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 68.614/IV-15.736",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66540",
+  "source_sha256": "dcc56631ff00a8caa120ee309b10f720366758813a132f0a310fb80cdf3f9f2c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
