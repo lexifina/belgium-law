@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.287",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68287,
+  "decision_date": "1997-09-24",
+  "date_as_printed": "24 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 63.756/XI-2.922",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68287",
+  "source_sha256": "1dca8bf9def24b2895fc9337350d1be601ac6eb119f46523a7032fe1e941459a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
