@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.179",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66179,
+  "decision_date": "1997-05-06",
+  "date_as_printed": "6 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 68.438/VII-15.315",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66179",
+  "source_sha256": "8ea716410cb7702aefb1f276df20adfdea6aac96b2aceda45b22b217cccb5692",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
