@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.338",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72338,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 59.253/XI-3.587",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72338",
+  "source_sha256": "0fabe2f9cd3672c6204aa71068698972b8dfb4f6fe6b43e1034d5132352fe98d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
