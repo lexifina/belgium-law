@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.938",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72938,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 42.496/VII-9.523",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72938",
+  "source_sha256": "2e8b7425b2076e942fb4752812e4e49ed3bdd7e9c8d8551d17edaa4b961c62c5",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
