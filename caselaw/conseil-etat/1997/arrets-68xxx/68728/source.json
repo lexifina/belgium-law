@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.728",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68728,
+  "decision_date": "1997-10-08",
+  "date_as_printed": "8 octobre 1997",
+  "chamber": "VI",
+  "role_number": "A. 40.801/VI-14.008",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68728",
+  "source_sha256": "9e8261c566a91ed007fbc599601b98a256aadac6f42eb57e3d34ba2193b15178",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
