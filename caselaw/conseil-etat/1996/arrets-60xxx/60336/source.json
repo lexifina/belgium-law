@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.336",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60336,
+  "decision_date": "1996-06-20",
+  "date_as_printed": "20 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 64.361/VII-13.250",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60336",
+  "source_sha256": "35b927d8d9653c035c7901041a86abdb5dd0fa2d4c1ca28d6a027e5b9fe856e0",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
