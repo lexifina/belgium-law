@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.609",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68609,
+  "decision_date": "1997-10-02",
+  "date_as_printed": "2 octobre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 68.263/XIII-25",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68609",
+  "source_sha256": "173efabebfd7adb3464065c61256289297c5203f707e8382d87232b587505743",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
