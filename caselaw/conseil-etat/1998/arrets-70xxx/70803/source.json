@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.803",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70803,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 66.024/XI-2.887",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70803",
+  "source_sha256": "934a33aed61ffe1b30f435f8fec7722186996319c8b1f700e915de565809018f",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
