@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.241",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65241,
+  "decision_date": "1997-03-14",
+  "date_as_printed": "14 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.368/III-22.687",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65241",
+  "source_sha256": "43ba0ebae05617992ff91c8b06c99d605b3109a5fb6f8027c5d6d25ba6806c5e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
