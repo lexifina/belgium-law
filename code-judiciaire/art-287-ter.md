@@ -1,4 +1,4 @@
-(§ 1er. Il est établi tous les deux ans un bulletin d'évaluation de tous les membres du personnel titulaires des grades visés aux Chapitres VI, VII, (...), VIII et IX du présent titre, ainsi que de ceux créés par le Roi, conformément à l'article 185, alinéa 1er.
+(§ 1er. Il est établi (...) un bulletin d'évaluation de tous les membres du personnel titulaires des grades visés aux Chapitres VI, VII, (...), VIII et IX du présent titre, ainsi que de ceux créés par le Roi, conformément à l'article 185, alinéa 1er.
 La disposition du premier alinéa s'applique au personnel engagé sous les liens d'un contrat de travail.
 1° En ce qui concerne les greffiers en chef.
 Dans le bulletin d'evaluation, (selon le cas, le chef du corps, le juge au tribunal de police le plus ancien ou le juge de paix,) de la juridiction exprime son opinion quant à la valeur et a l'attitude du greffier en chef, au moyen de formules descriptives, conformément aux indications apportées.
@@ -19,8 +19,12 @@ L'intéresse dispose d'un délai de dix jours pour introduire une réclamation a
 La chambre de recours transmet son avis dans les quarante jours à compter de la réception de la réclamation au rédacteur concerné et le notifie par lettre recommandée au membre du personnel intéressé.
 Cet avis est définitif et est joint au bulletin d'évaluation.
 Le membre du personnel intéressé peut former contre la décision de la chambre de recours un recours en annulation conformément à l'article 14 des lois coordonnées sur le Conseil d'Etat.
-§ 4. Le bulletin d'évaluation est établi pour la première fois entre le neuvième et le douzième mois de service effectif.
-L'évaluation porte sur la période révolue depuis l'entrée en service ou depuis le bulletin d'évaluation précédent.
-Le membre du personnel peut solliciter une nouvelle évaluation, au plus tôt un an après l'établissement de l'évaluation précédente.
+§ 4. (Le bulletin d'évaluation est établi dans les cas suivants:
+1° entre le neuvième et le douzième mois qui suivent l'entrée en fonction du membre du personnel;
+2° entre le neuvième et le douzième mois qui suivent le jour où le membre du personnel exerce une autre fonction que celle dans laquelle un bulletin d'évaluation définitif lui a été attribué, soit par nomination, soit par contrat ou en application des articles 328, 329, 329bis, 330 ou 330bis;
+3° si, depuis l'établissement du dernier bulletin d'évaluation, des faits ou constatations favorables ou défavorables sont susceptibles d'améliorer ou d'aggraver le bulletin d'évaluation du membre du personnel;
+4° si le membre du personnel le demande, au plus tôt un an après l'établissement du bulletin d'évaluation précédent.)
+L'évaluation porte sur la période révolue depuis l'entrée en fonction, depuis la date de début d'exercice des nouvelles fonctions ou depuis le bulletin d'évaluation précédent.
+(Alinea 3 abrogé)
 Le bulletin d'évaluation est conservé par son rédacteur dans un dossier confidentiel ouvert au nom de chaque membre du personnel. Il communique directement au ministre de la Justice la mention définitive attribuée.)
 § 5. Sans préjudice de ses conséquences disciplinaires, l'évaluation d'un membre du personnel qui porte la mention " insuffisant ", entraîne, au niveau pécuniaire, la privation, pendant un an, de l'effet de la première augmentation intercalaire qui suit la date d'attribution de la mention.
