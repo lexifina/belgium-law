@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.860",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72860,
+  "decision_date": "1998-03-31",
+  "date_as_printed": "31 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 55.697/XII-304",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72860",
+  "source_sha256": "3d4b2db545cc3224c431778f81a6743f99609deabf5fd76328938f12fba5b59c",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
