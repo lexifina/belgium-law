@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.975",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67975,
+  "decision_date": "1997-09-04",
+  "date_as_printed": "4 september 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.335/VII-15.248",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67975",
+  "source_sha256": "4e253cc9bc7eec14a186e4ece64807e408cf799b395418b8fe53307191779421",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
