@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.049",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72049,
+  "decision_date": "1998-02-25",
+  "date_as_printed": "25 février 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.582/VI-14.439",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72049",
+  "source_sha256": "0e7602671e788961c280b99c26198cb5fa2ffa37e7bcabd63f73787eda06cd13",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
