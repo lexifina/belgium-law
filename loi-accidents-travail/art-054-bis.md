@@ -1,3 +1,2 @@
-Toute cession totale ou partielle entre deux assureurs agrees des droits et obligations resultant de l'application de la loi a lieu conformement aux dispositions fixees par le Roi.
-La cession autorisee est realisee valablement a l'egard de tous les assures et de tous les tiers interesses.
-(Si un assureur agréé est partie à une fusion ou à une scission conformément aux dispositions de la Section VIIIbis - VIIIter des lois sur les sociétés commerciales coordonnées le 30 décembre 1935, le Roi fixe les conditions auxquelles l'agrément est cédé.)
+Lorsque, lors des cessions visées au chapitre Vquater de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, une entreprise d'assurance exerçant l'assurance légale contre les accidents du travail est concernée, l'Office de Contrôle des Assurances ne peut accorder l'autorisation qu'après avis du comité de gestion du Fonds des accidents du travail.
+Si une telle entreprise d'assurances est concernée par une restructuration de sociétés visée au livre XI de la loi du 7 mai 1999 contenant le Code des sociétés, l'Office de Contrôle des Assurances en informe le Fonds des accidents du travail sans délai.
