@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 51.669",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 51669,
+  "decision_date": "1995-02-17",
+  "date_as_printed": "17 février 1995",
+  "chamber": "III",
+  "role_number": "A. 60.235/III-19.551",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/51669",
+  "source_sha256": "7b4a1971ac06f0ef2d4d80312f5030974d69e48fde03eb8b2596ed812cb53275",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
