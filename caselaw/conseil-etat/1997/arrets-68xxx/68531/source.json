@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.531",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68531,
+  "decision_date": "1997-10-01",
+  "date_as_printed": "1er octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 68.838/XI-880",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68531",
+  "source_sha256": "ff3b9ea4a4430138ff3a46f8e806790584aa822a9d4187e829ae814b6145b623",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
