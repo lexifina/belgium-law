@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.371",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69371,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 45.027/XII-69",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69371",
+  "source_sha256": "e5b8a2678379db7dc0ef9041237c4f5e0165e807f4e7e625e727b8f6c8a0ddb6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
