@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.969",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57969,
+  "decision_date": "1996-01-31",
+  "date_as_printed": "31 janvier 1996",
+  "chamber": "III",
+  "role_number": "A. 61.359/III-20.311",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57969",
+  "source_sha256": "0d3f13765597433045a157863e5ced400ea1451bfea89deb71ef4406e40e51d4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
