@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.365",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69365,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.948/XII-250",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69365",
+  "source_sha256": "8d7efbc2f1fe6bc264a9545b31647c0ca20a2d9b6f20641e19f903958e09974f",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
