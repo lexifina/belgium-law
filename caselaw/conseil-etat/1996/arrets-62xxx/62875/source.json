@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.875",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62875,
+  "decision_date": "1996-10-30",
+  "date_as_printed": "30 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 71.725/VII-14.803",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62875",
+  "source_sha256": "7c6541dc3c7caf55793cbb7552ec4c280a7f14448757f03872cc5ec92786ee93",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
