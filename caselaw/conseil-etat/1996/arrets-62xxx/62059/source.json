@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.059",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62059,
+  "decision_date": "1996-09-30",
+  "date_as_printed": "30 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 71.361/VII-14.670",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62059",
+  "source_sha256": "5a49bb4629ad334a9e90302ee18585be4587375f7cdb8c49351da178f1ad88c0",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
