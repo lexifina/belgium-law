@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.794",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68794,
+  "decision_date": "1997-10-10",
+  "date_as_printed": "10 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 50.386/XI-2.901",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68794",
+  "source_sha256": "d3cb7be4e58ca40ae80a6414b6f39194437f2b50fffcaa3ebdea27fbeec84c30",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
