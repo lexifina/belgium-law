@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.407",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66407,
+  "decision_date": "1997-05-27",
+  "date_as_printed": "27 mei 1997",
+  "chamber": "VII",
+  "role_number": "A. 71.725/VII-14.803",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66407",
+  "source_sha256": "649f7899ec064743a9029b6b1efaf8f58b6f4c95140b1f8d47f2cbb91d775dc1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
