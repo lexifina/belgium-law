@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.501",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64501,
+  "decision_date": "1997-02-12",
+  "date_as_printed": "12 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.299/III-22.658",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64501",
+  "source_sha256": "1ebc522200b0e060c794491a2d7a72b075f0bec12c2616b732f28a4ba9df4102",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
