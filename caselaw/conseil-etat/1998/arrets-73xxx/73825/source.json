@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.825",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73825,
+  "decision_date": "1998-05-25",
+  "date_as_printed": "25 mei 1998",
+  "chamber": "IX",
+  "role_number": "A. 47.446/IX-211",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73825",
+  "source_sha256": "3d4e2a78e146acaae129a185200edbe1ab5b17d5b4ac19a6a81a342976b38619",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
