@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.288",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72288,
+  "decision_date": "1998-03-09",
+  "date_as_printed": "9 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 48.659/IX-565",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72288",
+  "source_sha256": "b969d6ed25b7b6efd33d26ed38e43c2779e83a078b2b77138d5cba3b8bec5dd4",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
