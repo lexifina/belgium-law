@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.251",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63251,
+  "decision_date": "1996-11-21",
+  "date_as_printed": "21 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.810/III-22.525",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63251",
+  "source_sha256": "5371306d56b29bc5dece3b06ec87b1e10c9146f4c693d68dd1d3fbe576b90b24",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
