@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.667",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73667,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 51.967/VII-12.017",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73667",
+  "source_sha256": "b7dbe33a90786593c8f9899ec02f68df7350346e946547f31ef41c1915f75ad5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
