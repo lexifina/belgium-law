@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.165",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74165,
+  "decision_date": "1998-06-09",
+  "date_as_printed": "9 juni 1998",
+  "chamber": "XII",
+  "role_number": "A. 44.370/XII-318",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74165",
+  "source_sha256": "d6954704772c683cfdaf637568d6d74c8cc0336efabed051487ee1b79ad8721f",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
