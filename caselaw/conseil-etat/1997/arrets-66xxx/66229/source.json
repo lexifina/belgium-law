@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.229",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66229,
+  "decision_date": "1997-05-14",
+  "date_as_printed": "14 mai 1997",
+  "chamber": "IV",
+  "role_number": "A. 42.716/IV-1.052",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66229",
+  "source_sha256": "6b6ab4838ad549c15f0188ab09527b26f6e5a661eb3fb614558bf92358fefc48",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
