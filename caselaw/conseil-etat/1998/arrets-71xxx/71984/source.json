@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.984",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71984,
+  "decision_date": "1998-02-20",
+  "date_as_printed": "20 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.588/XII-953",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71984",
+  "source_sha256": "f52b3c17ec8539fd480902c6e27757675c5d65bc58e5eb70802773fe65ffb8b2",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
