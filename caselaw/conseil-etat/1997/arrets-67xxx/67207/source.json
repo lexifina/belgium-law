@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.207",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67207,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.200/VII-15.198",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67207",
+  "source_sha256": "0f72d2148730b3893f54aaa90ff9e1917fab039e8fe6f45b61c38c6b31a9d034",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
