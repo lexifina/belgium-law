@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.485",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66485,
+  "decision_date": "1997-05-29",
+  "date_as_printed": "29 mai 1997",
+  "chamber": "III",
+  "role_number": "A. 61.470/III-3.096",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66485",
+  "source_sha256": "c46950991e28306d9d5b730d5ca8e2e229a30cdf2d03898e6758969360f7c3fc",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
