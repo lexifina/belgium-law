@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.319",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60319,
+  "decision_date": "1996-06-19",
+  "date_as_printed": "19 juni 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.259/IV-381",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60319",
+  "source_sha256": "a119c0c80fd3aea34cf89c8bb4346c33063819bc0b1b38f6912d7759f8624871",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
