@@ -1,1 +1,4 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Lorsqu'une délégation est demandée en vertu des articles 203ter, 221, 301bis, du Code civil ou 1280, cinquième alinéa, du présent Code, le greffier de la juridiction saisie joint au dossier le relevé des avis prévus (aux articles 1390, 1390bis et 1390ter), s'il en existe.
+Si les revenus ou les sommes sur lesquels porte la demande font déjà l'objet d'une délégation ou d'une saisie pour cause d'aliments, le greffier notifie sous pli judiciaire au bénéficiaire de la délégation ou au saisissant, pour le mettre à la cause, une copie de la requête ou de la citation avec invitation à comparaître.
+Le défendeur peut également mettre à la cause les créanciers auxquels il a été condamné à payer des aliments mais qui ne bénéficient pas d'une délégation et qui n'ont pas pratiqué de saisie.
+Les parties entendues, le juge détermine, au besoin, la répartition à opérer entre les créanciers d'aliments.
