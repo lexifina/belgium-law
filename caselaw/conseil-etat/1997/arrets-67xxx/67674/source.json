@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.674",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67674,
+  "decision_date": "1997-08-05",
+  "date_as_printed": "5 août 1997",
+  "chamber": "III",
+  "role_number": "A. 72.299/III-190",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67674",
+  "source_sha256": "64a671be6b61cecf109b0fc3f565021e9f08dab13034f451e106388a87e02919",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
