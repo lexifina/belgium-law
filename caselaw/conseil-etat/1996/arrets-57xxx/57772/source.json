@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.772",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57772,
+  "decision_date": "1996-01-23",
+  "date_as_printed": "23 janvier 1996",
+  "chamber": "III",
+  "role_number": "A. 60.910/III-19.932",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57772",
+  "source_sha256": "af4a57781a403d8cb73f86f74f4d115fda2d3e1012b9ccf744b9f03556f60044",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
