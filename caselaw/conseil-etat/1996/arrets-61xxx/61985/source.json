@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.985",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61985,
+  "decision_date": "1996-09-26",
+  "date_as_printed": "26 september 1996",
+  "chamber": "VI",
+  "role_number": "A. 64.485/VI-13.259",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61985",
+  "source_sha256": "04ea24a7cfbd7ec23c7bfcb98c5d6e356fdf4ab61fc6a83d6440232f819c1cd3",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
