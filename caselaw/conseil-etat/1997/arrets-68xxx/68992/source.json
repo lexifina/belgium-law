@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.992",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68992,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 31.466/VII-5.071",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68992",
+  "source_sha256": "0fc113ee3a2c4738b1e5e820e5930258a43abcabd4cb3598673545d6573a9dad",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
