@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.272",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73272,
+  "decision_date": "1998-04-24",
+  "date_as_printed": "24 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 73.708/XI-2.172",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73272",
+  "source_sha256": "4d272550ceb3d32b1ed8067229b93cef4d91cd0d1f940d67dbf412e1c7b926ab",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
