@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.914",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65914,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.481/XI-2.132",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65914",
+  "source_sha256": "bb41479169591316ec8836507c8b839944df078dd7dc1592bcce610b64baaa79",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
