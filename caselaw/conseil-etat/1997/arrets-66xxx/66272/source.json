@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.272",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66272,
+  "decision_date": "1997-05-15",
+  "date_as_printed": "15 mai 1997",
+  "chamber": "III",
+  "role_number": "A. 63.252/III-2.823",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66272",
+  "source_sha256": "ddcd98d19495d1a4e7d078d417e7fac1484f59d884d6fa03619b2f74f3ab3ac1",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
