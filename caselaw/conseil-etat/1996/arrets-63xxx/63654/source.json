@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.654",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63654,
+  "decision_date": "1996-12-18",
+  "date_as_printed": "18 décembre 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.272/IV-3.355",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63654",
+  "source_sha256": "20f0f34f3f719e2c8c2e1e8b92f10bdf334a15db9efbd8ea71883df467589388",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
