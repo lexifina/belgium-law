@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.972",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72972,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 avril 1998",
+  "chamber": "XIII",
+  "role_number": "A. 50.920/XIII-366",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72972",
+  "source_sha256": "6ef6196cf7a71292e0d92c3066e484996e51e357edbfba8e72d642eff9e350ed",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
