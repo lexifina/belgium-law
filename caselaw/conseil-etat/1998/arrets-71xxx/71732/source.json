@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.732",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71732,
+  "decision_date": "1998-02-11",
+  "date_as_printed": "11 février 1998",
+  "chamber": "VI",
+  "role_number": "A. 76.061/VI-14.283",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71732",
+  "source_sha256": "fb03445b6a1afc19cc1212f11754d68622faf9a52ce5290ea095ce573df39a8e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
