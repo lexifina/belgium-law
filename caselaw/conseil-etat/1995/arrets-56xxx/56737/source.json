@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.737",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56737,
+  "decision_date": "1995-12-06",
+  "date_as_printed": "6 december 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.108/IV-14.979",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56737",
+  "source_sha256": "805745730e8302f436ae0da04142ac4f813572cd691fe641fb57ad25396f0b42",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
