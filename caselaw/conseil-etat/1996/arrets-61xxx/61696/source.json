@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.696",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61696,
+  "decision_date": "1996-09-11",
+  "date_as_printed": "11 septembre 1996",
+  "chamber": "III",
+  "role_number": "A. 69.427/III-22.337",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61696",
+  "source_sha256": "01b7edab256b2deac85a1c5f56d3dc3c91a5b8633f4e6555d98590266d4ffcdb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
