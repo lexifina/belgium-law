@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.572",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71572,
+  "decision_date": "1998-02-04",
+  "date_as_printed": "4 februari 1998",
+  "chamber": "X",
+  "role_number": "A. 50.979/X-7.634",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71572",
+  "source_sha256": "066832130fecd5972d32daf9cb07221ff91d0205d69da7cec9895de5eb72e42a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
