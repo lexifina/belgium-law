@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.644",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57644,
+  "decision_date": "1996-01-19",
+  "date_as_printed": "19 janvier 1996",
+  "chamber": "XI",
+  "role_number": "A. 67.130/XI-321",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57644",
+  "source_sha256": "b62a1811dde250131d9d9aa8d198306500e4054f7ae2f59445f7ade9c62c0fc1",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
