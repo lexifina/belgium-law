@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.116",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55116,
+  "decision_date": "1995-09-13",
+  "date_as_printed": "13 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 62.649/III-20.520",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55116",
+  "source_sha256": "38230122ef60090c4a9f67606a9fec40bb51a4e37e7d4a4900d1e845617c0b18",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
