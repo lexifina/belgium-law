@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.022",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73022,
+  "decision_date": "1998-04-08",
+  "date_as_printed": "8 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.065/XI-4.273",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73022",
+  "source_sha256": "eb5ef17797ac406bdbdbf1fdbe10989fc5daaa70566e8a70a09837f0ddbb32f2",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
