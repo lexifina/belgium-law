@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.442",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66442,
+  "decision_date": "1997-05-28",
+  "date_as_printed": "28 mai 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.322/VI-13.712",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66442",
+  "source_sha256": "544a2c4fe259bf3d83f2a0e0b285acec34be0d9f554ca5bcb9288817188ce5eb",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
