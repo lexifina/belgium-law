@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.126",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56126,
+  "decision_date": "1995-11-07",
+  "date_as_printed": "7 novembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 63.705/VI-12.441",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56126",
+  "source_sha256": "1e92a277c143ca21e6525f755e4d47718eb7fc5f2aed8c0ad05417e289e4e563",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
