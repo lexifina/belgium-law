@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.575",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70575,
+  "decision_date": "1998-01-08",
+  "date_as_printed": "8 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 75.116/VII-15.702",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70575",
+  "source_sha256": "debc84289f83155ab4242eb46b7d55888de4aa3c55e765ca435d8e42e72cdb50",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
