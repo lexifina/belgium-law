@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.643",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60643,
+  "decision_date": "1996-07-03",
+  "date_as_printed": "3 juillet 1996",
+  "chamber": "III",
+  "role_number": "A. 63.817/III-20.983",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60643",
+  "source_sha256": "eea7b3d85a7da60b2d568d64c60e60bf00f78ed5da625d96a0e74f871b21ed7a",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
