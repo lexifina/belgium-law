@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.749",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67749,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "III",
+  "role_number": "A. 60.143/III-19.408",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67749",
+  "source_sha256": "369197aa83db62ba59b5032fdce54fece36fdac54b1f17437504b80b703e7a17",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
