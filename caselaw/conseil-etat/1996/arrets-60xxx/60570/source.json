@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.570",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60570,
+  "decision_date": "1996-06-27",
+  "date_as_printed": "27 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 64.863/VII-13.314",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60570",
+  "source_sha256": "0c19cf48d73eda6613af3e74ba1266f17f54a64fff3fd263594896c3d363d253",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
