@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.623",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73623,
+  "decision_date": "1998-05-13",
+  "date_as_printed": "13 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 67.071/X-6.768",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73623",
+  "source_sha256": "65ad4529a1bbd12885ebe2f0cec0eab3ba24ff63761106a01f1bec17285fde60",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
