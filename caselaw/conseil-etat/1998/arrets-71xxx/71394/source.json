@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.394",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71394,
+  "decision_date": "1998-01-29",
+  "date_as_printed": "29 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 63.587/VII-13.132",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71394",
+  "source_sha256": "49453b43f9f56bfec967e61f278de2159e4ab32b63d6c705034d33c11cb321eb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
