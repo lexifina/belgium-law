@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.940",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55940,
+  "decision_date": "1995-10-19",
+  "date_as_printed": "19 oktober 1995",
+  "chamber": "VII",
+  "role_number": "A. 60.553/VII-12.760",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55940",
+  "source_sha256": "a50fcba61ebfda59d23ce08cdc9d6e3da1d2da5772d8a2c8f5eaaa87cc85795c",
+  "pages": 15,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
