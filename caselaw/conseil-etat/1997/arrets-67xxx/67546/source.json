@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.546",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67546,
+  "decision_date": "1997-07-23",
+  "date_as_printed": "23 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 74.973/III-338",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67546",
+  "source_sha256": "a595366885c38e3584587b47f3150a20f221450a7aee88cdb6a038a91bd5726c",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
