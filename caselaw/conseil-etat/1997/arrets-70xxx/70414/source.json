@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.414",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70414,
+  "decision_date": "1997-12-18",
+  "date_as_printed": "18 december 1997",
+  "chamber": "X",
+  "role_number": "A. 75.130/X-7.566",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70414",
+  "source_sha256": "5f12a2d8c46af8d67860d4dce333079d335401995a8d6d725ad55b6e248e723e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
