@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.201",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55201,
+  "decision_date": "1995-09-18",
+  "date_as_printed": "18 septembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 63.363/VI-12.304",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55201",
+  "source_sha256": "cd3e94d262377a139f693c8c079eb8526e2b4dc5ceaf588abd15346f65000e8b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
