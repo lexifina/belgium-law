@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.462",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58462,
+  "decision_date": "1996-03-06",
+  "date_as_printed": "6 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 64.253/IV-2.947",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58462",
+  "source_sha256": "4e63da0dcb03be7480b8b7433cad0790f93d03e577ebbab9f0dec6170f1c02b9",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
