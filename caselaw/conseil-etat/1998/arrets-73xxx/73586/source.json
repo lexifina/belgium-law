@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.586",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73586,
+  "decision_date": "1998-05-11",
+  "date_as_printed": "11 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 75.435/X-7.679",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73586",
+  "source_sha256": "151deb8d7b239b0d07bfd16d75d00db4bab9853eed559a3fba03bd04e8aa0d8f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
