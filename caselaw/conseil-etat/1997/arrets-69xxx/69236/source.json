@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.236",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69236,
+  "decision_date": "1997-10-28",
+  "date_as_printed": "28 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 52.212/XI-2.647",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69236",
+  "source_sha256": "10e9c887e0f11aba076b10204329c29d1b245f4dde3b59ccb9b8f290d61af2b6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
