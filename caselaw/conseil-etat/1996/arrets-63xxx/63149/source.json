@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.149",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63149,
+  "decision_date": "1996-11-20",
+  "date_as_printed": "20 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 70.136/IV-460",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63149",
+  "source_sha256": "19a37f811b0ea60360bf7a34e0b81beeb916171e9ca5d0e4946d5626947765cd",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
