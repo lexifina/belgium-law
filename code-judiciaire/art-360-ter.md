@@ -1,0 +1,2 @@
+Si, lors d'une évaluation périodique, un magistrat a obtenu la mention " insuffisant ", celle-ci entraîne la perte pendant six mois, de la dernière majoration triennale visée aux articles 360 et 360bis, sans préjudice des conséquences sur le plan disciplinaire.
+En cas de mention " insuffisant ", le magistrat concerné fait l'objet d'une nouvelle évaluation après un délai de six mois. S'il n'obtient pas au moins la mention " bon ", l'alinéa premier est à nouveau d'application.
