@@ -1,0 +1,2 @@
+§ 1. Pour pouvoir être nommé juge conformément à l'article 191, le membre du ministère public qui a effectué le stage prévu à l'article 259quater, § 3, doit avoir exercé la fonction de magistrat du ministère public pendant au moins 5 années.
+§ 2. Pour pouvoir être nommé juge conformément à l'article 191, le membre du ministère public, nommé en application de l'article 194, § 2, doit avoir excercé la fonction de magistrat du ministère public pendant au moins 5 années.
