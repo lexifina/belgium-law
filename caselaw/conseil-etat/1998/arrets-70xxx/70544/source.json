@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.544",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70544,
+  "decision_date": "1998-01-07",
+  "date_as_printed": "7 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 72.200/VI-13.603",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70544",
+  "source_sha256": "5da4a1ff3f831234dd97178f8d6c4148c6a8a5a2104b295e02d4b08a2dd95b00",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
