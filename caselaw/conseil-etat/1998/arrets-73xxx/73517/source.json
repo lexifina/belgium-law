@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.517",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73517,
+  "decision_date": "1998-05-07",
+  "date_as_printed": "7 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.375/XI-4.355",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73517",
+  "source_sha256": "bc7ab853b96b07ce8c1a3987eab2ea2b2aa15d15b63f2b20b775b8bec859a076",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
