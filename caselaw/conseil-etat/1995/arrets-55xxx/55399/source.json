@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.399",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55399,
+  "decision_date": "1995-09-27",
+  "date_as_printed": "27 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 59.937/III-19.270",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55399",
+  "source_sha256": "c10e26dd5c7c9ba12e366975e7de5efb51035d1bf192d36596c8505a0e1ab886",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
