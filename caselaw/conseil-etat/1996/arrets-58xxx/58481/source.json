@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.481",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58481,
+  "decision_date": "1996-03-07",
+  "date_as_printed": "7 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 60.183/VII-12.743",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58481",
+  "source_sha256": "fab4ab15eedd9d55330cf87ba85a2f7001c9a83a37581d3247efad4664de09d6",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
