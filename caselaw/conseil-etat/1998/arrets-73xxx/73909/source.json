@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.909",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73909,
+  "decision_date": "1998-05-27",
+  "date_as_printed": "27 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 68.034/XI-621",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73909",
+  "source_sha256": "c7301609cfaf88da65f9f43e52e00fbe18153387b7847016492f6fb68d2f31e9",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
