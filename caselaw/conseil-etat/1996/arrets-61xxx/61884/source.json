@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.884",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61884,
+  "decision_date": "1996-09-20",
+  "date_as_printed": "20 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 70.750/VII-14.584",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61884",
+  "source_sha256": "2bcb8e0e16dff603c51f45d2f2f721f42a623b1bbb219528f42987b093d20690",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
