@@ -1,0 +1,1 @@
+Les règles d'incompatibilité déterminées à l'article 293 sont applicables au personnel des greffes et des parquets, aux attachés au service de la documentation et de la concordance des textes auprès de la Cour de cassation ainsi qu'aux membres du personnel titulaires d'un grade de qualification particulière, créé par le Roi, conformément à l'article 185.
