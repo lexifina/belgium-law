@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.057",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70057,
+  "decision_date": "1997-12-05",
+  "date_as_printed": "5 décembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 54.128/VI-11.501",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70057",
+  "source_sha256": "460282ef1e80f6b8352b911464a3a616b3ea83dde191f9e32ebfbc40ffda2fca",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
