@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.851",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68851,
+  "decision_date": "1997-10-14",
+  "date_as_printed": "14 oktober 1997",
+  "chamber": "XII",
+  "role_number": "A. 53.835/XII-100",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68851",
+  "source_sha256": "ecf3cf1b06f370e4bc61ab068cc869cc8dd1d519a6e805d7908c51b1810c2580",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
