@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.740",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58740,
+  "decision_date": "1996-03-22",
+  "date_as_printed": "22 maart 1996",
+  "chamber": "X",
+  "role_number": "A. 65.230/X-5.621",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58740",
+  "source_sha256": "010487afa2c462cb0d559018bbff422c75a9a962e455c2043da2bfc2966897db",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
