@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.127",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70127,
+  "decision_date": "1997-12-09",
+  "date_as_printed": "9 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.506/XI-3.725",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70127",
+  "source_sha256": "d173f126e18942e380b2f07bc97ac8b04e5f762fc48186fd591f312dcc0d8b46",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
