@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 54.899",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 54899,
+  "decision_date": "1995-08-25",
+  "date_as_printed": "25 augustus 1995",
+  "chamber": "X",
+  "role_number": "A. 65.175/X-13.921",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/54899",
+  "source_sha256": "e82dc285438e9197322b8b0abbcc739eed597f602757df87e4783f8d31d70af6",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
