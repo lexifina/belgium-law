@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.222",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72222,
+  "decision_date": "1998-03-04",
+  "date_as_printed": "4 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 76.523/VI-14.303",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72222",
+  "source_sha256": "ed68610e5ce4f70409dab469f15bf11f086dfb8e59111dade52d6f4aa2508cca",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
