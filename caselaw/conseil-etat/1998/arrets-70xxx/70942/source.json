@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.942",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70942,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 59.751/XI-3.068",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70942",
+  "source_sha256": "775b0f2d00e5e889b79552877e4710272f62b02df659f46da5e6410f86e208ef",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
