@@ -1,11 +1,11 @@
 § 1er. Sans préjudice de l'article 43bis, alinéas 3 et 4, les avantages patrimoniaux visés au § 2, les biens et les valeurs qui y ont été substitués et les revenus provenant des avantages investis trouvés dans le patrimoine ou en possession d'une personne peuvent, à la demande du procureur du Roi, être confisqués ou cette personne peut être condamnée au paiement d'un montant que le juge estime correspondre à la valeur de ces choses si elle a été reconnue coupable:
 (a) soit d'une ou de plusieurs infractions visées:
-1° aux articles 246 à 251, et à l'article 323;
-2° aux articles 504bis et 504quater, et à l'article 323;
-3° à l'article 2bis, § 1er, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques dans la mesure où les faits concernent l'importation, l'exportation, la production, la vente ou la mise en vente des substances visées audit article, ou au § 3, b), ou au § 4, b), de la même loi;
-4° à l'article 77bis, § 2 ou § 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
-5° à l'article 10, § 1er, 2°, de la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet antihormonal, à effet beta-adrénergique ou à effet stimulateur de production chez les animaux;
-6° aux articles 2 à 4 de la loi du 16 juin 1993 relative à la répression des violations graves de la Convention internationale de Genève du 12 août 1949 et des protocoles I et II additionnels à ces Conventions, adoptés le 8 juin 1977.
+1° à l'article 136sexies et au point 1° de l'article 136septies;
+2° aux articles 246 à 251 et à l'article 323;
+3° aux articles 504bis et 504ter et à l'article 323;
+4° à l'article 2bis, § 1er, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques pour autant que les faits portent sur l'importation, l'exportation, la fabrication, la vente ou la mise en vente des substances visées au présent article, ou au § 3, b) ou au § 4, b) de la même loi;
+5° à l'article 77bis, § 2 ou § 3 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+6° l'article 10, § 1er, 2°, de la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet anti-hormonal, à effet béta-adrénergique ou à effet stimulateur de production chez les animaux.
 b) soit des infractions prévues à l'article 324ter, soit une ou plusieurs infractions visés ci-dessous, lorsqu'elles ont été commises dans le cadre d'une organisation criminelle, telle qu'elle est définie à l'article 324bis:
 1° articles 379 ou 380;
 2° articles 468, 469, 470, 471 ou 472;
