@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.919",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73919,
+  "decision_date": "1998-05-27",
+  "date_as_printed": "27 mai 1998",
+  "chamber": "VI",
+  "role_number": "A. 71.908/VI-14.066",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73919",
+  "source_sha256": "b29991781922c88357d6e0960a821f866ee635cfd37b892b54720aac2452f398",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
