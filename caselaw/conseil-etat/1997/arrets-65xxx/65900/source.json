@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.900",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65900,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 59.770/III-3.073",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65900",
+  "source_sha256": "0e4952ced1b386fb3ee4d1d9fa4f33b02e390e5e6ed0ac8a1ac3f063c632fc5d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
