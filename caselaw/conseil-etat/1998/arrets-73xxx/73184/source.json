@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.184",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73184,
+  "decision_date": "1998-04-22",
+  "date_as_printed": "22 april 1998",
+  "chamber": "X",
+  "role_number": "A. 39.338/X-7.381",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73184",
+  "source_sha256": "154df0e0a51d588c4b69d216f4892de6ae9caf4e6dc43b2bf2632a0af58af177",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
