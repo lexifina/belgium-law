@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.439",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67439,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.857/VI-485",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67439",
+  "source_sha256": "fd01bb200cd0b5e4a558d42ed8f1f0e7028248dd2988dc4ddac8eec9e67a80ce",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
