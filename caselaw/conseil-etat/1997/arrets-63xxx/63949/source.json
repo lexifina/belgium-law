@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.949",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63949,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.826/III-22.541",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63949",
+  "source_sha256": "ef849a14239206b3b7d7c175cbd60b7e07f228e0e1859f7decb992c2f074c50a",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
