@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.061",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59061,
+  "decision_date": "1996-04-15",
+  "date_as_printed": "15 april 1996",
+  "chamber": "X",
+  "role_number": "A. 66.101/X-2.953",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59061",
+  "source_sha256": "32b7d3d2356ba4fb84396bfdc30d12cac84a19a221d11c80cf3726d343c6d79a",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
