@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.416",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56416,
+  "decision_date": "1995-11-22",
+  "date_as_printed": "22 novembre 1995",
+  "chamber": "III",
+  "role_number": "A. 65.451/III-21.670",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56416",
+  "source_sha256": "ef4b1a68e24b2963020af56c06c7fffef5290870b71de6cd871cfd746d619ef7",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
