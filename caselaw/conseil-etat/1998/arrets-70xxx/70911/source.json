@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.911",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70911,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 65.869/XII-344",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70911",
+  "source_sha256": "677dd380fce091d5202d40daccf452fafb6c78512c109c292322cc7d471cae0a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
