@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.919",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68919,
+  "decision_date": "1997-10-16",
+  "date_as_printed": "16 octobre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 43.632/XIII-52",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68919",
+  "source_sha256": "e60e2bff3cc0b6c953667f38aca6cb27d7d209e7dd9727358f84f287365955ce",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
