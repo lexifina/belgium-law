@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.912",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59912,
+  "decision_date": "1996-06-06",
+  "date_as_printed": "6 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 67.447/VII-13.678",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59912",
+  "source_sha256": "0c9e5c01c65b2a7877ec5305f2ec1386b7412b3b9d0883791d90854303c6c657",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
