@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.846",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59846,
+  "decision_date": "1996-06-04",
+  "date_as_printed": "4 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 64.657/VII-13.312",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59846",
+  "source_sha256": "79bfebad7fa461bbd815719028c2384e87f33af8834b397ac2c0bef0d7068668",
+  "pages": 22,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
