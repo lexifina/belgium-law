@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.584",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68584,
+  "decision_date": "1997-10-02",
+  "date_as_printed": "2 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 71.420/XI-1.589",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68584",
+  "source_sha256": "f3064727ca381f52cdaaf3968603887abfc07da34d3c394b5b61f187993c2604",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
