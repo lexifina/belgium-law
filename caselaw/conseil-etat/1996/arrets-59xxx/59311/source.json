@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.311",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59311,
+  "decision_date": "1996-04-26",
+  "date_as_printed": "26 april 1996",
+  "chamber": "X",
+  "role_number": "A. 65.231/X-19.342",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59311",
+  "source_sha256": "0f322750496e542452ddd5520969df737c8cbe1bdf66bae0d55f99406d68d81e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
