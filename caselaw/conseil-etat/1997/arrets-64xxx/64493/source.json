@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.493",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64493,
+  "decision_date": "1997-02-12",
+  "date_as_printed": "12 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.291/III-22.650",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64493",
+  "source_sha256": "0cff076a2ae69fe5b858d49da54069a83b400fd75d2655b28620ccfc55e4e39d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
