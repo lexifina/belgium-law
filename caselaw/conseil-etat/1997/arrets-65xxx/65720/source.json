@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.720",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65720,
+  "decision_date": "1997-03-28",
+  "date_as_printed": "28 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.240/III-22.641",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65720",
+  "source_sha256": "91e69d147604b4d72bc573b0c54943a2c4f2c0fae45beae376227d719a27e068",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
