@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.647",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68647,
+  "decision_date": "1997-10-07",
+  "date_as_printed": "7 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.823/XI-3.400",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68647",
+  "source_sha256": "51b7840609adc9e26ea70fe7b8dc8c5452b1a6f993100abb699ee4cdf2e6a651",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
