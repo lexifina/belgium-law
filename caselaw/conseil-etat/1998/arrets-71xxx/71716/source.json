@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.716",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71716,
+  "decision_date": "1998-02-11",
+  "date_as_printed": "11 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.292/XI-4.023",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71716",
+  "source_sha256": "bb738d65cd76c64bc98d243679868471d3d9c7c5607ae97c1d805c523b7206f8",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
