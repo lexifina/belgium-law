@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.560",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70560,
+  "decision_date": "1998-01-07",
+  "date_as_printed": "7 janvier 1998",
+  "chamber": "III",
+  "role_number": "A. 71.925/III-14.396",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70560",
+  "source_sha256": "28b72cc8c5cb9c56872d7f243c09ff4bdc557bb454089812d1e7ec7d5f3a028e",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
