@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.782",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64782,
+  "decision_date": "1997-02-26",
+  "date_as_printed": "26 février 1997",
+  "chamber": "IV",
+  "role_number": "A. 70.888/IV-10.018",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64782",
+  "source_sha256": "178153597732b6e26a483baf3a5bb4ff65cbfdc4e7dbea3634b750d4a2be850b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
