@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.069",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70069,
+  "decision_date": "1997-12-08",
+  "date_as_printed": "8 december 1997",
+  "chamber": "X",
+  "role_number": "A. 73.588/X-7.282",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70069",
+  "source_sha256": "48817f89669af5eed58fb75bf5fe62a7845e78a5303ad5dcb705084369e97af1",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
