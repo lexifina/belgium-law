@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.163",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73163,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 74.470/XI-2.359",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73163",
+  "source_sha256": "6edc7f92f9d76741ecf26d2be4bd45f6cb7808e1bd3aafea0b8595be0d6da720",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
