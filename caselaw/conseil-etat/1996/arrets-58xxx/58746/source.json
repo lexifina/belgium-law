@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.746",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58746,
+  "decision_date": "1996-03-22",
+  "date_as_printed": "22 maart 1996",
+  "chamber": "X",
+  "role_number": "A. 65.965/X-17.580",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58746",
+  "source_sha256": "b4362e3275111b962da4fbc422fb51a96c5a263ce82d91d741e592b45dbd414c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
