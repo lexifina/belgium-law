@@ -1,0 +1,2 @@
+§ 1. Sans préjudice des dispositions de l'article 29bis de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, l'assureur reste tenu du paiement des indemnités résultant de la présente loi dans les délais fixés aux articles 41 et 42.
+§ 2. La réparation accordée conformément à l'article 29bis de la loi précitée du 21 novembre 1989 qui ne peut se rapporter à l'indemnisation des dommages corporels telle qu'elle est couverte par la présente loi, peut se cumuler avec les indemnités résultant de la présente loi.
