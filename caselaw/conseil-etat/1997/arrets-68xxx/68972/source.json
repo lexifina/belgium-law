@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.972",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68972,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.269/VII-15.476",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68972",
+  "source_sha256": "f6af5bdde818fe745525231b064c1c453c65881b77fc985a4068e2062078806b",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
