@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.161",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68161,
+  "decision_date": "1997-09-17",
+  "date_as_printed": "17 septembre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 72.889/VIII-234",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68161",
+  "source_sha256": "be6aac41f63664c24d4af8983efca1fba9e3083f74fbbba85e6c48302bacbf0a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
