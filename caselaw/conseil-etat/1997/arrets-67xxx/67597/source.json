@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.597",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67597,
+  "decision_date": "1997-07-25",
+  "date_as_printed": "25 juillet 1997",
+  "chamber": "VI",
+  "role_number": "A. 74.561/VI-5.346",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67597",
+  "source_sha256": "db6f34ccfc27b33fed3942c67c88fd836534ff630ecd295e1d7aac991cbfccaa",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
