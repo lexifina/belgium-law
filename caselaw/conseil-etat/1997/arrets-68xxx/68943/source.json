@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.943",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68943,
+  "decision_date": "1997-10-21",
+  "date_as_printed": "21 oktober 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.990/XII-11",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68943",
+  "source_sha256": "df65896dd33e29bed4f2cdb8e5e944a10e3df32ed7877de2f03da6c624134683",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
