@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.219",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59219,
+  "decision_date": "1996-04-24",
+  "date_as_printed": "24 avril 1996",
+  "chamber": "XI",
+  "role_number": "A. 68.592/XI-782",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59219",
+  "source_sha256": "7c67ce1be442130a715378381689f03023ef144d28dae2560dfecd85d3b10c09",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
