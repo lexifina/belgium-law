@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.700",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69700,
+  "decision_date": "1997-11-20",
+  "date_as_printed": "20 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.248/XI-3.640",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69700",
+  "source_sha256": "37b54ba2ea1a55758afbe38e43edae591f5d55d3ecd450c6ce3c57753a7bdc87",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
