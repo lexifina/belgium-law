@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.919",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63919,
+  "decision_date": "1997-01-08",
+  "date_as_printed": "8 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 66.252/III-22.100",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63919",
+  "source_sha256": "1f7796c5771b2c25cf7c7322b259270dfaaf30e45019b564eb4f0d62b921fb99",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
