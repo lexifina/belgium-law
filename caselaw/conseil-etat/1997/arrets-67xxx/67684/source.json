@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.684",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67684,
+  "decision_date": "1997-08-06",
+  "date_as_printed": "6 août 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.166/XI-2.541",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67684",
+  "source_sha256": "170a4eef6b75fe9a131f93e6a8fec6ed6e72fc5e59c8ea310b4ba3a6c73568f4",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
