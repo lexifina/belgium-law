@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.916",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66916,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.556/IV-2.835",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66916",
+  "source_sha256": "9440c47c3fe6ceaece2f85da5fb8ddcb7f4bf672238ac7ca70b216e5ecb7e299",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
