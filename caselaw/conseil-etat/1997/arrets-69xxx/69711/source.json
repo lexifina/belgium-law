@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.711",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69711,
+  "decision_date": "1997-11-20",
+  "date_as_printed": "20 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 37.737/VII-7.605",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69711",
+  "source_sha256": "b9e78d829ddfc329eae04732cc6b84fa101692213c582a7919ee46094c5f8fa3",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
