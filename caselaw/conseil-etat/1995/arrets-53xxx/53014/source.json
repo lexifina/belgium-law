@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.014",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53014,
+  "decision_date": "1995-04-19",
+  "date_as_printed": "19 april 1995",
+  "chamber": "IV",
+  "role_number": "A. 61.961/IV-14.971",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53014",
+  "source_sha256": "ad2fba6a2def64add0694c8b57633db9ff5c89576687aeac82e8d1cf242301f2",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
