@@ -1,0 +1,7 @@
+Dans les cas prévus aux articles 1186 à 1189, les personnes qui ont qualité pour provoquer la vente publique des immeubles peuvent introduire, selon le cas, devant le conseil de famille ou devant le tribunal de première instance, une demande d'autorisation de vente de gré à gré. L'autorisation est accordée si l'intérêt des personnes protégées par ces articles l'exige.
+L'autorisation du conseil de famille ou du tribunal doit indiquer expressément la raison pour laquelle la vente de gré à gré sert l'intérêt des personnes protégées. Le recours à cette forme de vente peut être subordonné à la fixation d'un prix minimum.
+L'autorisation accordée par le conseil de famille est soumise à l'homologation du tribunal de première instance, conformément à l'article 1186, alinéa 2.
+La demande prévue à l'alinéa 1er est introduite par une requête motivée à laquelle est joint un projet d'acte de vente établi par un notaire.
+Les personnes désignées par les articles 1187, alinéa 2, et 1188, alinéa 2, doivent être entendues, ou dûment appelées par pli judiciaire.
+Le tribunal peut ordonner la comparution des personnes qui seront parties à l'acte.
+La vente doit avoir lieu, conformément au projet d'acte admis par le tribunal, en présence du juge de paix du canton de la situation des biens et, le cas échéant, des subrogés tuteurs, par le ministère du notaire commis par le jugement d'homologation ou d'autorisation.

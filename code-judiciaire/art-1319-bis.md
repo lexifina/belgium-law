@@ -1,0 +1,1 @@
+Si les formalités prescrites à l'article précédent ont été observées, les créanciers d'un des époux ne sont plus reçus à l'expiration du délai d'un an prenant cours à la date de la publication de la décision au Moniteur belge, à se pourvoir contre une liquidation opérée en fraude de leurs droits.

@@ -1,0 +1,1 @@
+Le juge peut fixer l'astreinte soit à une somme unique, soit à une somme déterminée par unité de temps ou par contravention. Dans ces deux derniers cas, le juge peut aussi déterminer un montant au-delà duquel la condamnation aux astreintes cessera ses effets.

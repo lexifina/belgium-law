@@ -1,0 +1,7 @@
+Dans le cas prévus à l'article 1190, le curateur peut demander au tribunal de commerce l'autorisation de vendre de gré à gré.
+(Le curateur soumet au tribunal un projet d'acte de vente établi par un notaire et lui expose les motifs pour lesquels la vente de gré à gré s'impose. Il y joint un certificat du conservateur des hypothèques relatant, le cas échéant, les inscriptions existantes et toute transcription de commandement ou de saisie portant sur les immeubles qui doivent être vendus.)
+(Les créanciers hypothécaires ou privilégiés inscrits doivent être entendus ou dûment appelés par pli judiciaire. Ils peuvent demander au tribunal que l'autorisation de vendre de gré à gré soit subordonnée à certaines conditions, telles que la fixation d'un prix de vente minimum.
+L'autorisation est accordée si l'intérêt de la masse faillie l'exige et de l'avis conforme de juge-commissaire.
+Le jugement doit indiquer expressément la raison pour laquelle la vente de gré sert l'intérêt de la masse faillie. Le recours à cette forme de vente peut être subordonné à la fixation d'un prix minimum.
+(La vente doit avoir lieu conformément au projet d'acte admis par le tribunal et par le ministère du notaire désigné par l'ordonnance, qui répartira le prix conformément aux articles 1639 et suivants du Code judiciaire)
+(Le demandeur ou les créanciers intervenants peuvent appeler l'ordonnance du tribunal conformément à l'article 1031 du Code judiciaire.)

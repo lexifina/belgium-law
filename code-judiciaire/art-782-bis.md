@@ -1,0 +1,2 @@
+Sauf en matière répressive et disciplinaire, le jugement est prononcé par le président de la chambre qui l'a rendu, même en l'absence des autres juges et du ministère public.
+Toutefois, lorsqu'un président de chambre est légitimement empêché de prononcer le jugement au délibéré duquel il a participé dans les conditions prévues à l'article 778, le président de la juridiction peut désigner un autre juge pour le remplacer au moment du prononcé.
