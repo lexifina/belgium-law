@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.119",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68119,
+  "decision_date": "1997-09-16",
+  "date_as_printed": "16 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.524/XI-3.210",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68119",
+  "source_sha256": "28c0c95dd279870f058d7674f589b840f1cceac003249b469a5ff2eb637169bd",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
