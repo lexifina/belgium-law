@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.360",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72360,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 50.580/XI-2.644",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72360",
+  "source_sha256": "d1f2d87646aec6874aab4bc5ec30c9395d3a40d7a681dc5069b8ecabec8eb046",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
