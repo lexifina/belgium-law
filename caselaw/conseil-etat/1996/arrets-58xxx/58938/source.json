@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.938",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58938,
+  "decision_date": "1996-03-28",
+  "date_as_printed": "28 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 66.462/VII-13.540",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58938",
+  "source_sha256": "aa42a9deb2bbea498e2ab95bfaa1b6045f271f5102b87ae446b26dfaa4d64704",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
