@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.875",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69875,
+  "decision_date": "1997-11-27",
+  "date_as_printed": "27 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 51.927/VII-11.981",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69875",
+  "source_sha256": "3a546e9575e96620df5fec44b2644ddbd7009dc6fdfb33bef5baedf4117739b4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
