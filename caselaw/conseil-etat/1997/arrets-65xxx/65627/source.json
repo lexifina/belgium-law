@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.627",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65627,
+  "decision_date": "1997-03-25",
+  "date_as_printed": "25 maart 1997",
+  "chamber": "VII",
+  "role_number": "A. 60.225/VII-13.897",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65627",
+  "source_sha256": "8c2dec09f29552b0910f4fcf19e227abe614fd332175439be2187a3a8d575597",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
