@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.960",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65960,
+  "decision_date": "1997-04-21",
+  "date_as_printed": "21 april 1997",
+  "chamber": "X",
+  "role_number": "A. 66.338/X-7.149",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65960",
+  "source_sha256": "836c2cd13abbe9a04aa157d64409071642ba156d01fa2683ad7a042bb0b477b5",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
