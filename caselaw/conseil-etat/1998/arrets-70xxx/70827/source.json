@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.827",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70827,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 44.209/VII-10.060",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70827",
+  "source_sha256": "83863f220fb18506308145fff4abd70120f11c09e50407b9a849d5c9520708dd",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
