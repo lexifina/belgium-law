@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.929",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65929,
+  "decision_date": "1997-04-18",
+  "date_as_printed": "18 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.936/XI-2.232",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65929",
+  "source_sha256": "09da1cec568d72a0c5096eacc3fec8f7da4104ea5d59f57b926c919a4a0fb893",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
