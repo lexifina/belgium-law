@@ -1,0 +1,382 @@
+Texte français (Titre VI, chapitre II, des lois sur le Conseil d’Etat,
+                                    coordonnées le 12 janvier 1973)
+
+ CONSEIL D’ETAT, SECTION D’ADMINISTRATION.
+
+                               ARRET
+                 no 66.657 du 10 juin 1997
+
+A.64.930/V-1408
+
+En cause :  la Communauté flamande,
+            représentée par son Gouvernement,
+
+            contre :
+
+            la Communauté française,
+            représentée par son Gouvernement,
+
+            ayant élu domicile chez
+            Me Marc UYTTENDAELE
+            rue Capitaine Crespel 2-4
+            1050 Bruxelles.
+
+---------------------------------------------------------
+
+            LE CONSEIL D’ETAT, Ve CHAMBRE,
+
+              Vu la requête introduite le 1er août 1995 par la
+Communauté flamande qui demande la suspension de l’exécu-
+tion de l’arrêté du Gouvernement de la Communauté fran-
+çaise du 10 avril 1995 mettant les fréquences nécessaires
+à la disposition de la Radio-Télévision belge de la
+Communauté française, qui a été publié par extrait au
+Moniteur belge du 23 août 1995;
+
+              Vu la requête de la même date par laquelle la même
+requérante demande l’annulation du même acte;
+
+              Vu la note d’observations de la partie défenderes-
+se;
+
+              Vu le rapport de M. HAESBROUCK, auditeur au
+Conseil d’Etat;
+
+                                               V - 1408F - 1/9
+              Vu l’ordonnance du 10 mai 1996 fixant l’affaire à
+l’audience du 29 mai 1996;
+
+              Vu la notification aux parties du rapport et de
+l’ordonnance de fixation de l’audience;
+
+              Entendu M. BEIRLAEN, conseiller d’Etat, en son
+rapport;
+
+              Entendu, en leurs observations, Mme H. DE RIDDER,
+directeur adjoint, et M. H. VAN MOESEKE, chef de division,
+qui comparaissent pour la partie requérante, et Me
+TULKENS, loco Me M. UYTTENDAELE, avocat, qui comparaît
+pour la partie défenderesse;
+
+              Entendu M. J. DE COENE, premier auditeur au
+Conseil d’Etat, en son avis conforme;
+
+              Vu le titre VI, chapitre II, des lois sur le
+Conseil d’Etat, coordonnées le 12 janvier 1973;
+
+              Considérant que l’article 2, alinéa 1er, de
+l’arrêté royal du 10 janvier 1992 réglementant la radio-
+diffusion sonore en modulation de fréquence dans la bande
+87,5 MHz - 108 MHz dispose qu’une Communauté qui se
+propose d’élaborer un plan de fréquences ou d’apporter une
+modification à son plan de fréquences introduit une
+demande de coordination auprès de l’Institut belge des
+services postaux et des télécommunications (IBPT), qui,
+selon le cas, procède à cette coordination avec les autres
+Communautés, la Régie des Voies aériennes, les administra-
+tions étrangères; que selon l’alinéa 2 de l’article
+précité, il y a lieu de considérer comme une modification
+du plan de fréquences : une nouvelle assignation de
+fréquence, une augmentation de la puissance rayonnée et/ou
+de la hauteur équivalente de l’antenne d’une assignation
+existante et un déplacement d’une station de radiodiffu-
+sion existante;
+
+                                                                                                                                             V - 1408F - 2/9
+              Considérant que, par l’arrêté attaqué du
+10 avril 1995, le Gouvernement de la Communauté française
+a mis un nombre de fréquences à la disposition de la RTBF;
+que, notamment, les fréquences, mentionnées à l’annexe 2,
+dans la bande 87,5 MHz - 108 MHz ont été assignées à la
+RTBF, à savoir :
+
+ fréquence  emplacement     puissance       hauteur max.
+               antenne      apparente     antenne d’émis-
+ 87.6 Mhz                  rayonnée max.  sion au-dessus
+ 88.2 Mhz   d’émission                    du niveau du sol
+ 89.1 Mhz
+ 89.3 Mhz   Léglise         10 Kw ND      150 m
+ 89.4 Mhz   La Roche       100 w ND        40 m
+ 89.4 Mhz   Malmedy        100 w ND        40 m
+ 90.2 Mhz   Couvin         100 w ND        40 m
+ 90.5 Mhz   Bouillon       100 w ND        40 m
+ 90.8 Mhz   Welkenraedt    100 w D         40 m
+ 91.2 Mhz   Houffalize     100 w ND        38 m
+ 91.5 Mhz   Liège
+ 91.8 Mhz   Profondeville   50 Kw ND      200 m
+ 92.3 Mhz   Wavre           10 Kw ND      150 m
+ 92.8 Mhz   Léglise         10 Kw ND      300 m
+ 93.2 Mhz   Houffalize      10 Kw ND      150 m
+ 93.3 Mhz   Anderlues      100 w D
+ 94.1 Mhz   Profondeville   50 Kw ND       40 m
+ 94.3 Mhz   Wavre           10 Kw ND      150 m
+ 94.6 Mhz   Marche          10 Kw ND      150 m
+ 94.6 Mhz   Léglise        500 w ND       300 m
+ 95.2 Mhz   Huy             10 Kw ND
+ 95.4 Mhz   Spa            500 w ND        75 m
+ 95.6 Mhz   Waremme        250 w D        150 m
+ 96.0 Mhz   Marche         100 w ND
+ 96.1 Mhz   Chimay                         75 m
+ 96.4 Mhz   Liège             5 Kw D       75 m
+ 96.6 Mhz   St Hubert      100 w ND        38 m
+ 97.3 Mhz   Wavre                          75 m
+ 97.3 Mhz   Léglise         50 Kw ND       40 m
+ 97.6 Mhz   Anderlues      100 w ND       200 m
+ 98.3 Mhz   Wavre                          40 m
+ 99.1 Mhz   Spa             10 Kw ND      300 m
+ 99.3 Mhz   Rochefort       10 Kw ND      150 m
+ 99.5 Mhz   Profondeville   50 Kw ND      150 m
+101.1 Mhz   Anderlues      500 w ND        75 m
+101.6 Mhz   Bruxelles      100 w D         40 m
+102.6 Mhz   Liège          100 w D         75 m
+102.7 Mhz   Wavre           10 Kw ND      150 m
+103.0 Mhz   Tournai         50 Kw ND      150 m
+104.6 Mhz   Tournai                       150 m
+106.0 Mhz   Profondeville     1 Kw ND     200 m
+            Verviers        50 Kw ND      300 m
+            Tournai         50 Kw ND      150 m
+            Tournai         50 Kw D       150 m
+                            50 Kw D       150 m
+                            50 Kw D       150 m
+                            20 Kw ND      150 m
+                            50 Kw D       150 m;
+                            50 Kw D
+
+                                          V - 1408F - 3/9
+              Considérant que la partie défenderesse conteste la
+recevabilité de la demande de suspension; qu’elle tire une
+première exception de ce que la Communauté flamande
+conteste uniquement l’attribution de certaines fréquences
+dans la bande 87,5 MHz - 108 MHz, à savoir : 102,6 MHz
+(Tournai), 102,7 MHz (Profondeville), 103,0 MHz (Ver-
+viers), 104,6 MHz (Tournai) et 106,0 MHz (Tournai), en
+sorte qu’elle n’a pas intérêt à la suspension de l’attri-
+bution des fréquences restantes; que cette exception est
+fondée;
+
+              Considérant qu’en une seconde exception, la partie
+défenderesse fait valoir qu’à l’exception de la fréquence
+106,0 MHz (Tournai), les fréquences contestées avaient
+déjà été attribuées à la RTBF par l’arrêté royal du
+21 mars 1989 mettant les fréquences nécessaires à la
+disposition de la Radio-Télévision belge de la Communauté
+française, abrogé par l’article 4 de l’arrêté attaqué, en
+sorte qu’en ce qui concerne ces fréquences, l’arrêté
+attaqué n’a pas modifié l’ordre juridique; que l’arrêté
+royal du 21 mars 1989 avait effectivement mis à la dispo-
+sition de la RTBF les fréquences 102,6 MHz (Tournai),
+102,7 MHz (Profondeville), 103,0 MHz (Verviers) et
+104,6 MHz (Tournai), quoique sans indiquer de spécifica-
+tions techniques au sujet de la puissance d’émission et de
+la hauteur de l’antenne; que selon l’article 1er, 2o, a),
+de l’arrêté royal du 21 mars 1989, l’attribution s’opérait
+toutefois "en vertu du plan joint à l’Accord régional
+relatif à l’utilisation de la bande 87,5 - 108 MHz pour la
+radiodiffusion sonore à modulation de fréquence (Région 1
+et partie de la Région 3), signé à Genève, le 7 décembre
+1984", en sorte que les spécifications techniques mention-
+nées dans ce plan à propos de la puissance d’émission et
+de la hauteur de l’antenne devaient être respectées par la
+RTBF; qu’en ce qui concerne ces fréquences, le plan
+comporte les mêmes spécifications que celles prévues par
+l’arrêté attaqué, en sorte que l’allégation de la partie
+
+                                                                                                                                             V - 1408F - 4/9
+requérante selon laquelle l’arrêté attaqué octroie d’im-
+portantes augmentations de puissance, est inexacte; que,
+par conséquent, cette exception de la partie défenderesse
+est également fondée et qu’une éventuelle suspension de
+l’arrêté attaqué doit se limiter à l’assignation à la RTBF
+de la fréquence 106,0 MHz à Tournai;
+
+              Considérant qu’en vertu de l’article 17, § 2, des
+lois coordonnées sur le Conseil d’Etat, la suspension de
+l’exécution ne peut être prononcée qu’à la double condi-
+tion que des moyens sérieux susceptibles de justifier
+l’annulation de l’acte ou du règlement attaqué soient
+invoqués et que l’exécution immédiate de cet acte ou de ce
+règlement risque de causer un préjudice grave diffici-
+lement réparable;
+
+              Considérant, en ce qui concerne la première condi-
+tion, que la partie requérante prend un moyen de la
+violation de l’article 2 de l’arrêté royal du 10 jan-
+vier 1992 réglementant la radiodiffusion sonore en modula-
+tion de fréquence dans la bande 87,5 MHz - 108 MHz, en ce
+que, par l’arrêté attaqué, la partie adverse a mis des
+fréquences à la disposition de la RTBF sans que la coordi-
+nation préalable nécessaire au niveau de l’IBPT ait eu
+lieu, omission qui constitue, à son sens, la violation
+d’une formalité substantielle;
+
+              Considérant que la partie défenderesse réplique
+que, bien que la fréquence 106,0 MHz (Tournai) n’ait pas
+été attribuée à la RTBF par l’arrêté royal du
+21 mars 1989, elle était coordonnée au niveau internatio-
+nal par l’Accord de Genève (1984) et était destinée à être
+utilisée par la RTBF, mais pouvait, en attendant, être
+mise à titre précaire à la disposition de diverses radios
+locales, situation dont les Communautés étaient informées,
+que de ce fait il était loisible à la Communauté française
+de décider à tout moment de ne plus répartir la fréquence
+concernée entre des radios locales, mais d’en utiliser la
+
+                                                                                                                                             V - 1408F - 5/9
+puissance nominale et de l’attribuer à la RTBF, que si une
+fréquence était coordonnée au niveau international par
+l’Accord de Genève, elle ne devait plus être coordonnée
+une nouvelle fois au niveau interne belge;
+
+              Considérant que la circonstance qu’une fréquence
+figure dans le plan annexé à l’Accord de Genève n’implique
+pas qu’elle soit également coordonnée au niveau interne
+belge; qu’en effet l’arrêté royal du 10 janvier 1992 a
+instauré non seulement l’obligation de coordination avec
+les administrations étrangères, mais également l’obliga-
+tion de coordination avec les autres Communautés et la
+Régie des Voies aériennes; qu’au niveau interne belge, la
+fréquence 106,0 MHz (Tournai) a d’abord été attribuée à la
+RTBF par l’arrêté attaqué, en sorte qu’il s’agit d’une
+nouvelle assignation de fréquence au sens de l’article 2,
+alinéa 2, 1o, de l’arrêté royal du 10 janvier 1992, qui
+requérait une coordination préalable avec les autres
+Communautés et la Régie des Voies aériennes; que, ainsi
+que la partie requérante le soutient, il en résulte une
+violation d’une formalité substantielle, dès lors que la
+procédure de coordination intéresse la compétence de la
+Communauté concernée : tant que la coordination n’a pas eu
+lieu, un plan de fréquence ne peut être modifié; qu’en
+effet, il a été estimé que cette coordination s’imposait
+pour permettre aux diverses Communautés d’exercer en
+concertation leurs compétences complémentaires en cette
+matière; que si chaque Communauté pouvait modifier de
+manière arbitraire son plan de fréquence, il en résulte-
+rait un chaos des ondes, préoccupation qui a conduit la
+Cour d’arbitrage à considérer, dans son arrêt no 1/91 du 7
+février 1991 que bien que l’ensemble de la matière de la
+radiodiffusion et de la télévision ait été transféré aux
+Communautés - à l’exception de l’émission de communica-
+tions du gouvernement fédéral -, il revient à l’autorité
+fédérale d’assurer la police générale des ondes radioé-
+lectriques pour permettre l’intégration de chacune des
+ondes radioélectriques dans le réseau de toutes celles qui
+
+                                                                                                                                             V - 1408F - 6/9
+sont émises sur le territoire national et afin d’éviter
+les perturbations mutuelles; que, du reste, la coordina-
+tion imposée n’intéresse pas uniquement la compétence de
+la Communauté et, par conséquent, l’ordre public, mais
+qu’elle est en outre imposée, entre autres, dans l’intérêt
+des justiciables concernés, en l’espèce les Communautés
+notamment, en sorte que pour ce motif également elle doit
+être considérée comme une formalité substantielle; que le
+moyen est sérieux;
+
+              Considérant qu’en ce qui concerne la condition du
+préjudice grave difficilement réparable, la partie requé-
+rante fait notamment valoir que le préjudice grave diffi-
+cilement réparable présente un caractère spécifique pour
+une composante de l’Etat telle que la Communauté flamande,
+qui est reconnue par la Constitution, que l’exercice
+normal et sans entrave, par les organes de cette Communau-
+té, des compétences qui lui sont attribuées par la Consti-
+tution ou en vertu de celle-ci, intéresse l’ordre public,
+que la circonstance que l’exercice de ces compétences est
+entravé ou rendu impossible pendant une période plus
+longue en cas de non-suspension, doit être regardée pour
+la Communauté flamande comme constitutive d’un préjudice
+grave difficilement réparable, que la mise en service par
+la RTBF d’un émetteur sur la fréquence 106,0 MHz à Tournai
+aura pour effet de perturber certaines radios locales et
+rendra pour ainsi dire impossible le fonctionnement d’un
+certain nombre de radios locales, en sorte que la Commu-
+nauté flamande ne peut plus garantir aux radios locales
+relevant de ses compétences, des émissions non perturbées
+sur son domaine de compétence territoriale;
+
+              Considérant que la partie défenderesse réplique
+qu’il n’est pas invoqué d’éléments concrets démontrant que
+l’utilisation par la RTBF de la fréquence concernée
+pertubera les émissions des radios locales et permettant
+de déterminer l’importance de ces éventuelles perturba-
+tions, que la partie requérante était informée du fait
+
+                                                                                                                                             V - 1408F - 7/9
+qu’à tout moment la partie défenderesse était autorisée
+à décider d’attribuer cette fréquence à la RTBF, ce qui
+impliquait nécessairement qu’elle ne pouvait plus être
+utilisée par des radios locales, en sorte que la Commu-
+nauté flamande n’est pas fondée à soutenir que l’arrêté
+attaqué lui cause un préjudice grave difficilement répara-
+ble, qu’il ne s’agit du reste pas, en ce qui concerne la
+partie requérante, d’un préjudice personnel et qu’elle
+n’est pas en droit d’invoquer ce préjudice au nom des
+radios locales;
+
+              Considérant qu’en ce qui concerne les éléments
+avancés, il est clair que des émetteurs qui occupent la
+même ou quasi la même fréquence sur la bande FM et qui ne
+sont en outre pas très éloignés géographiquement l’un de
+l’autre, risquent de se perturber mutuellement, à plus
+forte raison dans les zones où les deux signaux peuvent
+être captés; que, par ailleurs, il faut tenir compte du
+fait que l’irrégularité commise, à savoir le non-respect
+de l’obligation de procéder préalablement à une coordina-
+tion au niveau interne belge, a précisément empêché la
+discussion relative au caractère perturbant ou non pertur-
+bant de l’émetteur 106,0 MHz (Tournai) d’avoir lieu; que,
+ainsi que la partie requérante le soutient à bon droit, le
+préjudice grave difficilement réparable présente un
+caractère spécifique pour une composante de l’Etat telle
+que la Communauté flamande, qui est reconnue par la
+Constitution; que l’exercice normal et sans entrave, par
+les organes de cette Communauté, des compétences qui lui
+sont attribuées par la Constitution ou en vertu de celle-
+ci, intéresse l’ordre public; que la circonstance que
+l’exercice de ces compétences est entravé ou rendu impos-
+sible pendant une période plus longue en cas de non-sus-
+pension, doit être regardée pour la Communauté flamande
+comme constitutive d’un préjudice grave difficilement
+réparable; qu’il est également satisfait, dès lors, à la
+seconde condition de suspension,
+
+                                                                                                                                             V - 1408F - 8/9
+                                       DECIDE:
+
+Article 1er.
+
+              Est ordonnée la suspension de l’exécution de l’ar-
+rêté du Gouvernement de la Communauté française du
+10 avril 1995 mettant les fréquences nécessaires à la
+disposition de la Radio-Télévision belge de la Communauté
+française, en ce qui concerne l’attribution de la fré-
+quence 106,0 MHz à Tournai.
+
+Article 2.
+
+              La demande de suspension est rejetée pour le
+surplus.
+
+Article 3.
+
+              Le présent arrêt sera publié par extrait dans les
+mêmes formes que l’arrêté frappé de suspension.
+
+              Ainsi prononcé à Bruxelles, le dix juin 1900
+nonante-sept, en audience publique de la Ve chambre du
+Conseil d’Etat, composée de :
+
+MM.  G. BAETEMAN,     premier président du
+                      Conseil d’Etat,
+     A. BEIRLAEN,     conseiller d’Etat,
+                      conseiller d’Etat,
+     P. LIENARDY,     greffier.
+
+Mme  Chr. NOTEBAERT,
+
+     Le greffier,     Le premier président,
+
+     Chr. NOTEBAERT.  G. BAETEMAN.
+
+                                                    V - 1408F - 9/9
+

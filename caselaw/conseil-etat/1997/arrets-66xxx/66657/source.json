@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.657",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66657,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juin 1997",
+  "chamber": "V",
+  "role_number": "A. 64.930/V-1.408",
+  "subject": "Médias",
+  "source": "https://www.raadvst-consetat.be/arrets/66657",
+  "source_sha256": "6fc8dd5af8341c15eda8a8beea384743131e11701ef81e1d2b9057aed05ce323",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
