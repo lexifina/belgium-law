@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.436",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58436,
+  "decision_date": "1996-02-28",
+  "date_as_printed": "28 februari 1996",
+  "chamber": "IV",
+  "role_number": "A. 62.645/IV-15.033",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58436",
+  "source_sha256": "6aa66f7adcf55b693ae1a398284f9efb3d150a28358d495b40090c3dbcc6750c",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
