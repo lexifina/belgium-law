@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.593",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62593,
+  "decision_date": "1996-10-16",
+  "date_as_printed": "16 oktober 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.861/IV-1.749",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62593",
+  "source_sha256": "f6aee1c3599aefeade5639f2dbf035dd756169ad249bbf9054f392ab35944823",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
