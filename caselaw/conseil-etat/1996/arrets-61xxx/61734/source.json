@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.734",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61734,
+  "decision_date": "1996-09-16",
+  "date_as_printed": "16 septembre 1996",
+  "chamber": "VI",
+  "role_number": "A. 64.377/VI-12.679",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61734",
+  "source_sha256": "d6a484c97ab632bb04f1f86839cef1761b7826734d8b8608275e9fe2a9675548",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
