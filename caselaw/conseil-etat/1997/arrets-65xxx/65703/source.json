@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.703",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65703,
+  "decision_date": "1997-03-28",
+  "date_as_printed": "28 mars 1997",
+  "chamber": "VI",
+  "role_number": "A. 69.651/VI-13.297",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65703",
+  "source_sha256": "e81fecc7548fdb8afd4ae19f4f838e55081b383430ac2f6a102e301bb62ddeb9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
