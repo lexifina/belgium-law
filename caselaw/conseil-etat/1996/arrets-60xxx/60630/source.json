@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.630",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60630,
+  "decision_date": "1996-06-28",
+  "date_as_printed": "28 juin 1996",
+  "chamber": "VI",
+  "role_number": "A. 69.041/VI-13.202",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60630",
+  "source_sha256": "a4f3f04882a72e18269ee7f91f9efceca6c667589be9b442ec124f3e686ae3c7",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
