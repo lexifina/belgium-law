@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.573",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69573,
+  "decision_date": "1997-11-13",
+  "date_as_printed": "13 novembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 74.808/VI-14.266",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69573",
+  "source_sha256": "836b8f41ec750716396e51f0d260e5fc7b6e9d95d0c59426a2552a9f5b1299ac",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
