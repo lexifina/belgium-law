@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.646",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69646,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 75.202/XII-11.163",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69646",
+  "source_sha256": "b6c141c01ed8c56a908239dfe0af7489efcc91536cac0e3b8acdb842983df145",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
