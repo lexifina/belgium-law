@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.740",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67740,
+  "decision_date": "1997-08-28",
+  "date_as_printed": "28 août 1997",
+  "chamber": "VI",
+  "role_number": "A. 74.128/VI-13.810",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67740",
+  "source_sha256": "953057d837c160e0f5308e5d729e89f09a98e9f80eca661ef4c0bbc051072270",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
