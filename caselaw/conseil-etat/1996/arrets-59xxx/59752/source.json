@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.752",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59752,
+  "decision_date": "1996-05-21",
+  "date_as_printed": "21 mai 1996",
+  "chamber": "III",
+  "role_number": "A. 65.298/III-2.707",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59752",
+  "source_sha256": "65ce6136d22ae4fdb2f28cf87e2558cff6185688f261ffa244232bd0c5edd14d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
