@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.378",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66378,
+  "decision_date": "1997-05-23",
+  "date_as_printed": "23 mai 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.427/VI-537",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66378",
+  "source_sha256": "eba7b7f80119c8bf4b24085f71191bfe76a6ca3863d58a95903fd23d2e6bd69d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
