@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.793",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73793,
+  "decision_date": "1998-05-19",
+  "date_as_printed": "19 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 78.602/VII-16.663",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73793",
+  "source_sha256": "d00900e48832b401b62d650fea1d7aeaf62d3d50650334679ec65919e5279498",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
