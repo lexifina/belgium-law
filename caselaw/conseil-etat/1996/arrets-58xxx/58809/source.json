@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.809",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58809,
+  "decision_date": "1996-03-26",
+  "date_as_printed": "26 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.117/IV-3.017",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58809",
+  "source_sha256": "1f1d1806ec48c335dbad3ace0f578e546aa181ebc397a82124e1879cce39e249",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
