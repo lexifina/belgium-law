@@ -1,0 +1,41 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2000:ARR.20000629.7",
+  "ecli": "ECLI:BE:CASS:2000:ARR.20000629.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2000-06-29",
+  "date_as_printed": "Jugement/arrêt du 29 juin 2000",
+  "published_on_juportal": "2001-06-21",
+  "language": "fr",
+  "role_number": "C.98.0217.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "ENSEIGNEMENT",
+    "ONDERWIJS",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Horaire complet - Notion",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Heures complémentaires - Rémunération - Calcul",
+    "Franse Gemeenschap - Hoger kunstonderwijs - Hoger muziekonderwijs - Koninklijk conservatorium - Ambt met volledige prestaties - Volledig uurrooster - Begrip",
+    "Franse Gemeenschap - Hoger kunstonderwijs - Hoger muziekonderwijs - Koninklijk conservatorium - Ambt met volledige prestaties - Bijkomende uren - Bezoldiging - Berekening"
+  ],
+  "fiche": [
+    "ENSEIGNEMENT",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Horaire complet - Notion",
+    "L. du 24 décembre 1976 relative aux propositions budgétaires 1976-1977 - 24-12-1976 - Art. 77, § 1er - 01 Lien ELI No pub 1976122405 A.R. du 8 août 1984 portant exécution de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977 - 08-08-1984 - Art. 1er - 32 Lien DB Justel 19840808-32",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Heures complémentaires - Rémunération - Calcul",
+    "L. du 24 décembre 1976 relative aux propositions budgétaires 1976-1977 - 24-12-1976 - Art. 77, § 1er - 01 Lien ELI No pub 1976122405 A.R. du 8 août 1984 portant exécution de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977 - 08-08-1984 - Art. 1er - 32 Lien DB Justel 19840808-32",
+    "ENSEIGNEMENT",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Horaire complet - Notion",
+    "Communauté française - Enseignement artistique supérieur - Enseignement musical supérieur - Conservatoire royal - Emploi à prestations complètes - Heures complémentaires - Rémunération - Calcul",
+    "ARRESTEN VAN HET HOF VAN CASSATIE - - 2000(421)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2000:ARR.20000629.7",
+  "source_sha256": "e0c95c7d7e1198b41364509603ed09ba06547da9f172f6c69164b1e3f30fd53d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2000:ARR.20000629.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
