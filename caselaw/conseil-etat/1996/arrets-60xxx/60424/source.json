@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.424",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60424,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.374/X-6.535",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60424",
+  "source_sha256": "ea90af013bf3f1a357332a4ab3671dc78610900a31540832ae9d42f4ab443024",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
