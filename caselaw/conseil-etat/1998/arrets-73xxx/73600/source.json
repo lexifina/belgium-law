@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.600",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73600,
+  "decision_date": "1998-05-12",
+  "date_as_printed": "12 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 77.279/VII-16.325",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73600",
+  "source_sha256": "52bb38d50588e76ae3709d0a3a70e91e28fa2b81cd0ed5a64fc1ce941fa7e501",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
