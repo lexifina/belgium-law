@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.528",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62528,
+  "decision_date": "1996-10-11",
+  "date_as_printed": "11 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 62.753/III-20.978",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62528",
+  "source_sha256": "40aacab3125cf77b38c3235a631698acf9b05a58f9969682c636a106822ff0f4",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
