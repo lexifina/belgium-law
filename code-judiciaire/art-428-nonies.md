@@ -1,0 +1,1 @@
+Les candidats auxquels l'Ordre national des avocats de Belgique a notifié qu'ils sont dispensés de présenter l'épreuve d'aptitude ou qu'ils ont réussi l'épreuve d'aptitude sont soumis à l'article 432.

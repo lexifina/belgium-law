@@ -1,0 +1,2 @@
+Nul ne peut être à la fois, membre du jury et de la commission de recours.
+Les membres avocats du jury ou bâtonniers de la commission de recours qui sont membres du conseil de l'Ordre des avocats ou du conseil d'appel, qui décident de l'inscription du candidat au tableau ou à la liste de cet Ordre des avocats ou qui connaissent de l'appel de cette décision prise par le conseil de l'Ordre, sont tenus de s'abstenir lorsque ces conseils exercent leur compétence.
