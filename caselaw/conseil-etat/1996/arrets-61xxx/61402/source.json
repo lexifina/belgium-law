@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.402",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61402,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 août 1996",
+  "chamber": "III",
+  "role_number": "A. 67.174/III-365",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61402",
+  "source_sha256": "a28f295a38639cb1a5ac4313a7e890875b6dba82d5ac97d831c02ceba2a6f198",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
