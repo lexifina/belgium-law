@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.622",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67622,
+  "decision_date": "1997-08-01",
+  "date_as_printed": "1er août 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.006/XI-2.488",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67622",
+  "source_sha256": "f437fbd19539b083747f7d8872d04c1985a9aa399208f879f7afb0353f871c7c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
