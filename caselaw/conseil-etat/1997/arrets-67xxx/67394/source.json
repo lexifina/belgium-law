@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.394",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67394,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 43.578/III-11.923",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67394",
+  "source_sha256": "5e256b5121caf75309c9634fadbdca2f311cbb89a5fc37f3b41f1a55be2aabba",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
