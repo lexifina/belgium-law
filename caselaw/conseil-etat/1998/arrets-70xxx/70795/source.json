@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.795",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70795,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 janvier 1998",
+  "chamber": "III",
+  "role_number": "A. 68.453/III-22.276",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70795",
+  "source_sha256": "9b4a025663ff1596b77cb0ab3ae4cc7ef56b108520f524c349cfd04bb55f10d5",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
