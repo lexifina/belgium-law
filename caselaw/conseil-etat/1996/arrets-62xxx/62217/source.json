@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.217",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62217,
+  "decision_date": "1996-10-03",
+  "date_as_printed": "3 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 64.332/X-6.721",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62217",
+  "source_sha256": "a4f2d2e2fed2894aafe988e6651c25107b2d9a74844bc54bf714238ea99ecc7b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
