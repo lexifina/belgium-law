@@ -1,0 +1,1 @@
+L'exécution du contrat de travail ne peut être suspendue en application des articles 49, 50 et 51 que lorsque le travailleur se sera vu octroyer tous les jours complets de repos compensatoire auxquels il a droit conformément aux articles 16 et 26bis de la loi du 16 mars 1971 sur le travail et à l'article 11 de la loi du 4 janvier 1974 relative aux jours fériés.
