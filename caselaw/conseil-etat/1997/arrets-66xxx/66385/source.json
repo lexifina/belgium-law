@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.385",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66385,
+  "decision_date": "1997-05-26",
+  "date_as_printed": "26 mai 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.363/XI-2.329",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66385",
+  "source_sha256": "a34fc6bd9e2bbfa48a4e12584c0d060b778d4756396014b118386c73d564fd1b",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
