@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.151",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74151,
+  "decision_date": "1998-06-05",
+  "date_as_printed": "5 juin 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.754/XI-4.463",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74151",
+  "source_sha256": "1561f4952efca93b371dbef929818b6ebb77c5e3287d1330b1e2e328396d3b5c",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
