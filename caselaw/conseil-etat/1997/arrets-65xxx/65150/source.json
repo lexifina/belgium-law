@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.150",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65150,
+  "decision_date": "1997-03-11",
+  "date_as_printed": "11 maart 1997",
+  "chamber": "X",
+  "role_number": "A. 70.186/X-93",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65150",
+  "source_sha256": "a9ecb5683c20e4b76ba89a7f990b9b18fc2aa630ed3d9bd1a7a1a98d41af77ad",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
