@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.586",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62586,
+  "decision_date": "1996-10-16",
+  "date_as_printed": "16 oktober 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.556/IV-192",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62586",
+  "source_sha256": "603194a0d70a0a1418b71904cab254d89d67ef729b174fdf960c6169a57252a0",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
