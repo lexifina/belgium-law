@@ -1,1 +1,1 @@
-Les assistants de médiation qui comptent au moins dix-huit années d'ancienneté de grade sont nommés par le ministre de la Justice assistants de médiation principaux, pour autant que leur évaluation, visée à l'article 287ter, porte la mention " très bon ".
+(Abrogé).

@@ -1,2 +1,1 @@
-Il y a dans chaque parquet du procureur du Roi un ou plusieurs assistants de médiation, nommés par le ministre de la Justice. Le Roi en détermine le nombre selon les nécessités du service. Ils exercent leurs fonctions sous la direction et la surveillance du procureur du Roi ou du magistrat qu'il désigne à cet effet.
-L'assistant de médiation assiste le procureur du Roi dans l'élaboration de la médiation pénale. Il est fait appel à l'assistant de médiation dans les différentes phases de la médiation pénale et plus spécifiquement dans son élaboration concrète. Il effectue sa mission en collaboration étroite avec le procureur du Roi et sous sa surveillance.
+(Abrogé).

@@ -1,4 +1,4 @@
-(§ 1. Il est établi tous les deux ans un bulletin d'évaluation de tous les membres du personnel titulaires des grades visés aux Chapitres VI, VII, VIIbis, VIII et IX du présent titre, ainsi que de ceux créés par le Roi, conformément à l'article 185, alinéa 1.
+(§ 1. Il est établi tous les deux ans un bulletin d'évaluation de tous les membres du personnel titulaires des grades visés aux Chapitres VI, VII, (...), VIII et IX du présent titre, ainsi que de ceux créés par le Roi, conformément à l'article 185, alinéa 1.
 La disposition du premier alinéa s'applique au personnel engagé sous les liens d'un contrat de travail.
 1° En ce qui concerne les greffiers en chef.
 Dans le bulletin d'évaluation, le magistrat chef de corps de la juridiction exprime son opinion quant à la valeur et à l'attitude du greffier en chef, au moyen de formules descriptives, conformément aux indications apportées.
@@ -6,8 +6,7 @@ Dans le bulletin d'évaluation, le magistrat chef de corps de la juridiction exp
 Dans le bulletin d'évaluation, le procureur général, le procureur du Roi ou l'auditeur du travail, selon le cas, exprime son opinion quant à la valeur et à l'attitude du secrétaire en chef, au moyen de formules descriptives, conformément aux indications apportées.
 3° En ce qui concerne les attachés visés à l'article 136:
 Dans le bulletin d'évaluation, le magistrat chef de corps de la juridiction exprime son opinion quant a la valeur et à l'attitude des attachés, au moyen de formules descriptives, conformément aux indications apportées.
-4° En ce qui concerne les conseillers en médiation et les assistants de médiation:
-Dans le bulletin d'évaluation, le procureur général et le procureur du Roi expriment leur opinion quant à la valeur et à l'attitude des conseillers en médiation et des assistants de médiation, au moyen de formules descriptives, conformément aux indications apportées.
+4° (Abrogé).
 5° En ce qui concerne les membres des greffes, les membres des secrétariats de parquet, le personnel des greffes et des secrétariats de parquet, ainsi que pour les membres du personnel titulaires des grades créés par le Roi conformément à l'article 185, alinéa 1:
 Dans le bulletin d'évaluation, les greffiers en chef ou les secrétaires en chef du parquet expriment leur opinion quant à la valeur et à l'attitude du membre du personnel, au moyen de formules descriptives, conformément aux indications apportées.
 L'évaluation se traduit par l'une des mentions suivantes: " très bon ", " bon " ou " insuffisant ". Le Roi détermine les modalités d'application des présentes dispositions.
