@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.703",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61703,
+  "decision_date": "1996-09-12",
+  "date_as_printed": "12 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 68.265/VII-13.791",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61703",
+  "source_sha256": "e767144da094041d41d1ae9946de409403fb0ceffd0c9c511b9c715de79543ad",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
