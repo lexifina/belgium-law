@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.292",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66292,
+  "decision_date": "1997-05-16",
+  "date_as_printed": "16 mai 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.291/XI-2.308",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66292",
+  "source_sha256": "7189568f0762ef97df4ebb51ae2b8b8a3b1b398be316416caab7377ed94189a2",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
