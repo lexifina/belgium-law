@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.886",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58886,
+  "decision_date": "1996-03-27",
+  "date_as_printed": "27 mars 1996",
+  "chamber": "III",
+  "role_number": "A. 59.903/III-19.267",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58886",
+  "source_sha256": "ddb31afdcb120712478743932e83de37f2d998c0284a6e4ef6b25171f67148cb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
