@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.519",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70519,
+  "decision_date": "1997-12-30",
+  "date_as_printed": "30 décembre 1997",
+  "chamber": "VI",
+  "role_number": "A. 75.664/VI-14.113",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70519",
+  "source_sha256": "ef4518dc0d6d7516fcc5be99c7ec919fc1cc4ab2be1f960dd0e592f22f19dd69",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
