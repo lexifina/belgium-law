@@ -1,0 +1,2 @@
+L'assemblée générale de la Cour de cassation formule dans un plan quadriennal les mesures qui, sans affecter l'exercice de sa fonction juridictionnelle, peuvent contribuer à résorber l'arrière judiciaire de la Cour de cassation.
+Elle examine chaque année, dans le courant du mois de septembre, l'état d'avancement des affaires pendantes et fait rapport au ministère de la Justice et au parlement au plus tard le 15 octobre.
