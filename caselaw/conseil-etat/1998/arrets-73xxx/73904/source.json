@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.904",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73904,
+  "decision_date": "1998-05-26",
+  "date_as_printed": "26 mai 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.986/VI-14.476",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73904",
+  "source_sha256": "8304f1572cd8309c0dda6546f65ce4c812b4394f8bd4bc161c6d7b012698591a",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
