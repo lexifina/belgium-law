@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.410",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67410,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 71.934/III-22.790",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67410",
+  "source_sha256": "27fecbf9746715d0ac99bc840d6fd9879ea65ca98240dc05bafbe9ea6e7ea123",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
