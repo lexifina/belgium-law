@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.278",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73278,
+  "decision_date": "1998-04-27",
+  "date_as_printed": "27 april 1998",
+  "chamber": "IX",
+  "role_number": "A. 76.974/IX-902",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73278",
+  "source_sha256": "b3973076ba3b2e3b5bd7d62eff61358ef41c043221edc657f588c0235b4db9c7",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
