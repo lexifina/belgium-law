@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.235",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65235,
+  "decision_date": "1997-03-14",
+  "date_as_printed": "14 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.345/III-22.680",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65235",
+  "source_sha256": "356f3deeca68cc652b769f9c7991015cb655422e2d1cff0c86b831728a29fa18",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
