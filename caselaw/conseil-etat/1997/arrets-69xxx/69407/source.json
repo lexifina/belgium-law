@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.407",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69407,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.450/VII-15.534",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69407",
+  "source_sha256": "bf6c61946d9ff6a0430854c3862e94328b4ec3a45947a73642d07f1e9d2f1178",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
