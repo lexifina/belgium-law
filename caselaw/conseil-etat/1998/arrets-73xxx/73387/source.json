@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.387",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73387,
+  "decision_date": "1998-05-04",
+  "date_as_printed": "4 mei 1998",
+  "chamber": "IX",
+  "role_number": "A. 76.855/IX-908",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73387",
+  "source_sha256": "39d455e19b7f397ed7a0ab4d8757515762290f7b9d3445369175876679b3055e",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
