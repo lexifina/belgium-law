@@ -1,0 +1,1 @@
+A l'intérieur des frontières de l'Etat, les membres des Conseils des communautés et des régions, mentionnées aux articles 2 et 3, ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
