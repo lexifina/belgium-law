@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.507",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73507,
+  "decision_date": "1998-05-06",
+  "date_as_printed": "6 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 76.831/X-7.935",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73507",
+  "source_sha256": "92986ff8d33d0788392e5f07642d7de0cac514597bb7fc42674e5af4bb7dde93",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
