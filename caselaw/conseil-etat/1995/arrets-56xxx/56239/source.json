@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.239",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56239,
+  "decision_date": "1995-11-14",
+  "date_as_printed": "14 novembre 1995",
+  "chamber": "III",
+  "role_number": "A. 66.303/III-16.017",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56239",
+  "source_sha256": "1e713baa32e853673b6ad25fc4dbd74415bd4e8189cb5ecc25f247d5d0f3d5dd",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
