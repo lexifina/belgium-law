@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.429",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66429,
+  "decision_date": "1997-05-28",
+  "date_as_printed": "28 mei 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.347/IV-2.769",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66429",
+  "source_sha256": "ae89ab9bc4b450308cc097990cd7dcfbd2b54c2a07d9477a686d0daaffc1243c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
