@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.133",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59133,
+  "decision_date": "1996-04-22",
+  "date_as_printed": "22 april 1996",
+  "chamber": "X",
+  "role_number": "A. 66.439/X-1.503",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59133",
+  "source_sha256": "994e8f51f555e5a8e5de16a9d0e57085a704e4e14c69456972fd3e7d6424c9b1",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
