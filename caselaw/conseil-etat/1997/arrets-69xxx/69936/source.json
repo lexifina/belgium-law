@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.936",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69936,
+  "decision_date": "1997-12-02",
+  "date_as_printed": "2 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 76.204/XIII-358",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69936",
+  "source_sha256": "8b915028a9bda336dd2fdf789948c9eb84263471f96074501abe8b55250d468d",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
