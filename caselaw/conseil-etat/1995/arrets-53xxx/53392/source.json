@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.392",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53392,
+  "decision_date": "1995-05-19",
+  "date_as_printed": "19 mai 1995",
+  "chamber": "III",
+  "role_number": "A. 61.574/III-381",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53392",
+  "source_sha256": "eeeb1d1f40bfaa075d542f76c8a4b203320a61583f2d65aec66563d4ea193f69",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
