@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.453",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59453,
+  "decision_date": "1996-04-30",
+  "date_as_printed": "30 avril 1996",
+  "chamber": "III",
+  "role_number": "A. 66.421/III-22.114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59453",
+  "source_sha256": "a8a00a0a95419b7b7c26b077d83db06ffc645c75568f1718d558bdcd399ef017",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
