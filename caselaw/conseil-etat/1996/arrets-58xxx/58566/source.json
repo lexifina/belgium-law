@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.566",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58566,
+  "decision_date": "1996-03-13",
+  "date_as_printed": "13 mars 1996",
+  "chamber": "VI",
+  "role_number": "A. 66.687/VI-12.909",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58566",
+  "source_sha256": "61a7b14282943d0c0933c0c4f872b4a5205596b979a20d303388b753e62158f9",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
