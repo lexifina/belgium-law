@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.535",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65535,
+  "decision_date": "1997-03-20",
+  "date_as_printed": "20 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 71.409/IV-16.266",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65535",
+  "source_sha256": "c047ea0c3b3d343c300c87d8bed9b9302010ef424c3db9a4db25fdb7fff21ee7",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only",
+  "text_not_reproduced": "Personal-data rule: home-address/birth-date/national-number marker. The decision text is in the official PDF at the source link."
+}
