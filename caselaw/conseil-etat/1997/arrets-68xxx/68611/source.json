@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.611",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68611,
+  "decision_date": "1997-10-02",
+  "date_as_printed": "2 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 66.465/VII-13.532",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68611",
+  "source_sha256": "dbe100331ce7b414574bd0a24a2e938ae1bb1c33a01d4142efc3ec531a90b9b7",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
