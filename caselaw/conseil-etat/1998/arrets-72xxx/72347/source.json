@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.347",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72347,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 50.464/XI-2.642",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72347",
+  "source_sha256": "588a35b0485cc2488498819ee9b4e6b840624bef258b689102aa5277dd32015f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
