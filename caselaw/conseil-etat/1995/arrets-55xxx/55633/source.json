@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.633",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55633,
+  "decision_date": "1995-10-11",
+  "date_as_printed": "11 octobre 1995",
+  "chamber": "VI",
+  "role_number": "A. 65.760/VI-12.773",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55633",
+  "source_sha256": "f30a2004d1927ac12b4676d291f6565f6fdc9177a44ad05cd9d4800ed4a21270",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
