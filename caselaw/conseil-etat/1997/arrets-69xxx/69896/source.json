@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.896",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69896,
+  "decision_date": "1997-12-01",
+  "date_as_printed": "1er décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 70.526/XI-1.475",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69896",
+  "source_sha256": "afa680840bbd7f2ed0037de9db854f9eda73349289b79d6feb3b39c0e0e84767",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
