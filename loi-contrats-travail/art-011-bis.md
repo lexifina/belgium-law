@@ -1,0 +1,3 @@
+Le contrat de travail conclu pour un travail à temps partiel doit être constaté par écrit pour chaque travailleur individuellement, au plus tard au moment ou le travailleur commence l'exécution de son contrat.Cet écrit doit mentionner le régime de travail à temps partiel et l'horaire convenus.L'horaire de travail à temps partiel peut être variable.A défaut d'écrit conforme aux dispositions des premier et deuxième alinéas, le travailleur peut choisir le régime de travail et l'horaire à temps partiel qui lui sont le plus favorables parmi ceux qui:
+_ soit sont prévus par le règlement de travail;
+_ soit, à défaut, découlent de tout autre document dont la tenue est imposée par l'arrêté royal no 5 du 23 octobre 1978 relatif à la tenue des documents sociaux.

@@ -1,0 +1,1 @@
+Tout pharmacien exerçant une activité professionnelle dans une officine ouverte au public est réputé, jusqu'à preuve du contraire, se trouver dans les liens d'un contrat de travail d'employé vis-à-vis de la personne physique ou morale propriétaire ou locataire de l'officine.

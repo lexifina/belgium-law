@@ -1,0 +1,1 @@
+Sont nulles les clauses du contrat de travail autorisant l'employeur à résilier le contrat de travail sans préavis ou avant l'expiration du terme, lorsque la rémunération du travailleur fait l'objet d'une saisie à la suite de contrats de crédit définis par la loi du 12 juin 1991 relative au crédit à la consommation.
