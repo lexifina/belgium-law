@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.031",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56031,
+  "decision_date": "1995-10-25",
+  "date_as_printed": "25 oktober 1995",
+  "chamber": "IV",
+  "role_number": "A. 63.089/IV-15.044",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56031",
+  "source_sha256": "9444fda33f0c19e99011f4169edb448cefc2fef5a323d0cc8b65715b461ab096",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
