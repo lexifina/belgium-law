@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.937",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71937,
+  "decision_date": "1998-02-19",
+  "date_as_printed": "19 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 75.769/VII-15.951",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71937",
+  "source_sha256": "066d6200d4db485b781e6a586a388d1b9a652a6835e121f333a7ecdca7ca9431",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
