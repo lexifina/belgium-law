@@ -1,4 +1,4 @@
-(§ 1. Les dépassements visés aux articles 22, 1° et 2°, 23, 24, 25 et 26, § 1, 3°, et § 2, ne sont autorisés qu'à condition que, pendant une période d'un trimestre, il ne soit pas travaillé en moyenne plus de quarante heures par semaine.
+(§ 1. Les dépassements visés aux articles 22, 1° et 2°, 23, 24, 25 et 26, § 1, 3°, et § 2, ne sont autorisés qu'à condition que, pendant une période d'un trimestre, il ne soit pas travaillé en moyenne plus de (39 heures) par semaine.
 Cette disposition est aussi applicable aux dépassements commis en infraction aux dispositions de la présente loi ou à d'autres dispositions légales.
 La période de référence d'un trimestre peut être prolongée à un an maximum:
 - par le Roi;
