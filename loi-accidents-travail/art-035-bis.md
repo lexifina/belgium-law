@@ -1,0 +1,1 @@
+Pour l'application de la présente loi, ne sont pas considérés comme de la rémunération les avantages non récurrents liés aux résultats accordés aux travailleurs en application du chapitre II de la loi du 21 décembre 2007 relative à l'exécution de l'accord interprofessionnel 2007-2008 à concurrence du plafond prévu à l'article 38, § 3novies, de la loi du 29 juin 1981.
