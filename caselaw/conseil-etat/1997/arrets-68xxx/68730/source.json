@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.730",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68730,
+  "decision_date": "1997-10-08",
+  "date_as_printed": "8 octobre 1997",
+  "chamber": "VI",
+  "role_number": "A. 66.854/VI-14.037",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68730",
+  "source_sha256": "1340e42fd6b8bd01459f3a141e3cf141f221fad31dd49839ab7f879b382fb888",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
