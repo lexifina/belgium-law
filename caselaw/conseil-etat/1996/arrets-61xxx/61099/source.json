@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.099",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61099,
+  "decision_date": "1996-07-31",
+  "date_as_printed": "31 juillet 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.461/VI-13.098",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61099",
+  "source_sha256": "b339e72579d890d681d82458a06442138fbb2035282ffca38f76091f6efd1056",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
