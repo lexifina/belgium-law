@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.183",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69183,
+  "decision_date": "1997-10-27",
+  "date_as_printed": "27 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 69.829/X-7.712",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69183",
+  "source_sha256": "83669a3ad263b79c3077196e3dda271784d1e2a121e5235a1488a18838e16c65",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
