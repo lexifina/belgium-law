@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.807",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70807,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 35.044/VII-6.208",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70807",
+  "source_sha256": "219e0ab52a78e49776c1a5d9e84f4316f6ebb75dbff23e83d98493be705b5f45",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
