@@ -1,1 +1,1 @@
-Lorsque la demande en divorce est formée pour cause de séparation de fait, conformément à l'article 232 du Code civil, la preuve que les époux vivent séparés depuis plus de cinq ans peut être fournie par toutes voies de droit, à l'exclusion du serment.
+Lorsque la demande en divorce est formée pour cause de séparation de fait, conformément à l'article 232 du Code civil, la preuve que les époux vivent séparés depuis plus de (deux) ans peut être fournie par toutes voies de droit, à l'exclusion du serment.
