@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.127",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68127,
+  "decision_date": "1997-09-16",
+  "date_as_printed": "16 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.568/XI-3.223",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68127",
+  "source_sha256": "bc137a5a272aee24b1963b374ba13eaa601fd4cf8a26eb0bf47c72d7db5c7e4f",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
