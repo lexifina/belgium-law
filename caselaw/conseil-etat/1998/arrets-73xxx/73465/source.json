@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.465",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73465,
+  "decision_date": "1998-05-05",
+  "date_as_printed": "5 mai 1998",
+  "chamber": "III",
+  "role_number": "A. 60.233/III-19.549",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73465",
+  "source_sha256": "85f0058bcf99a8139c083c8cba9ce0d36766a632dbe054203609bdfbeaa2982b",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
