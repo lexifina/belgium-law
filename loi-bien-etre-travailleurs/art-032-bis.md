@@ -1,0 +1,1 @@
+Les employeurs et les travailleurs ainsi que les personnes assimilées visées à l'article 2, § 1er, et les personnes, autres que celles visées à l'article 2, § 1er, qui entrent en contact avec les travailleurs lors de l'exécution de leur travail, sont tenues de s'abstenir de tout acte de violence ou de harcèlement moral ou sexuel au travail.
