@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.394",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62394,
+  "decision_date": "1996-10-08",
+  "date_as_printed": "8 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 63.532/X-5.250",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62394",
+  "source_sha256": "f18c24e1824368487867d6857a8d34cbfa6a0df3b39d69fdd6d02f19b318df7b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
