@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.895",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62895,
+  "decision_date": "1996-10-31",
+  "date_as_printed": "31 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 69.183/VII-14.183",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62895",
+  "source_sha256": "b5824e152597b4bd3c5db23f0e2ef20e9df4309fb1e3077948a18f63e22dac20",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
