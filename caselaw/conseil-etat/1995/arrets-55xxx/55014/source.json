@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.014",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55014,
+  "decision_date": "1995-09-06",
+  "date_as_printed": "6 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 59.581/III-19.323",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55014",
+  "source_sha256": "276750522e4ed3d214734bd98390bbd7b5fb411ec4e7245475bd4df853fe0bff",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
