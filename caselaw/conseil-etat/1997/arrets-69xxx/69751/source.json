@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.751",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69751,
+  "decision_date": "1997-11-25",
+  "date_as_printed": "25 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 75.533/XII-265",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69751",
+  "source_sha256": "9031f9093223ffb634219419f96000be411baa43a38e6ed00d4d4b4185f53a52",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
