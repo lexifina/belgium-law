@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.986",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59986,
+  "decision_date": "1996-06-10",
+  "date_as_printed": "10 juni 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.132/IV-3.091",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59986",
+  "source_sha256": "af093ebc868e9bd73588ddad002af2b5d260755062df6fe0c9fedc39b6769b72",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
