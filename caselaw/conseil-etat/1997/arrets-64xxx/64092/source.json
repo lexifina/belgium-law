@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.092",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64092,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.086/III-22.600",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64092",
+  "source_sha256": "268305994e1f32e74ba400c3aaa8fc2e8ee85920028c7190e3fecb201775bb68",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
