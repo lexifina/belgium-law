@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.758",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64758,
+  "decision_date": "1997-02-25",
+  "date_as_printed": "25 februari 1997",
+  "chamber": "X",
+  "role_number": "A. 70.422/X-6.821",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64758",
+  "source_sha256": "ae9ea777b87f7317d07d2b9f6e3d3eb5c803c564b618bc7492481c045a95af08",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
