@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.799",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62799,
+  "decision_date": "1996-10-28",
+  "date_as_printed": "28 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.158/III-22.099",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62799",
+  "source_sha256": "a5bda65a2598f6c24993aa93067dcd7ae47a850939793b7c6af560270abdaf4c",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
