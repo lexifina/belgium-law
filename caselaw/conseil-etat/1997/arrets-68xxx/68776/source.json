@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.776",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68776,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.924/XI-3.445",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68776",
+  "source_sha256": "59512df48078eb62c456704acefaa24c23a2237a9252e396a04d652568cd59f7",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
