@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.050",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66050,
+  "decision_date": "1997-04-24",
+  "date_as_printed": "24 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 60.118/III-3.310",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66050",
+  "source_sha256": "4dcbcdb8a145280e8499e21f512b949f153015ab68dbc64391e9819c9896a79c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
