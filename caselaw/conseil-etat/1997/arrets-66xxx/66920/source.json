@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.920",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66920,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "X",
+  "role_number": "A. 60.571/X-6.513",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66920",
+  "source_sha256": "f1c0d084b456c9bee40234c89dd5438690398a47e17aadb2a855e1cdeba1880a",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
