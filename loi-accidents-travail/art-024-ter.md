@@ -1,0 +1,1 @@
+Pour l'application des articles 24, alinéa 6, et 24bis, alinéa 2, de la présente loi, toute nouvelle hospitalisation qui survient dans les 90 jours qui suivent la fin d'une hospitalisation précédente, est censée être la prolongation de cette dernière.
