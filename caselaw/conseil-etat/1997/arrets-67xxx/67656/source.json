@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.656",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67656,
+  "decision_date": "1997-08-05",
+  "date_as_printed": "5 augustus 1997",
+  "chamber": "IV",
+  "role_number": "A. 68.160/IV-15.676",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67656",
+  "source_sha256": "dc4068a5f1e42acfcf218dcd68872133c53b9d0f5f4b3d6ec3f2f4df35602368",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
