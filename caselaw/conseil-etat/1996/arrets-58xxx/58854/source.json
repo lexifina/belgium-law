@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.854",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58854,
+  "decision_date": "1996-03-27",
+  "date_as_printed": "27 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 66.682/IV-3.052",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58854",
+  "source_sha256": "07ab9f7db55639b479ea74b885d44c64e27428087a71e55cf8ef32c88d706d32",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
