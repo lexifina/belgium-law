@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.427",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55427,
+  "decision_date": "1995-09-27",
+  "date_as_printed": "27 september 1995",
+  "chamber": "IV",
+  "role_number": "A. 61.196/IV-14.886",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55427",
+  "source_sha256": "1218c10f0ce474daaba269d81b164fdccc4a20136712b786d984d9625dd7d0a3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
