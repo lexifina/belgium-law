@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.851",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66851,
+  "decision_date": "1997-06-18",
+  "date_as_printed": "18 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.802/IV-373",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66851",
+  "source_sha256": "ab7fa7a2e6a4821564f840506cd587574abe26af774c1f0742d025b378db105b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
