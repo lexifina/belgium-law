@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.152",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69152,
+  "decision_date": "1997-10-24",
+  "date_as_printed": "24 octobre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 73.083/VIII-421",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69152",
+  "source_sha256": "f4fa34903f82181cdff3f3d31a57ed272822e361f32d7c29295b7b65cfee56c3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
