@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.991",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68991,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 41.563/VII-9.205",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68991",
+  "source_sha256": "e45c214e0259ea574d7ca3d0792717767eec0da3929a5e16aa68afc808613747",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
