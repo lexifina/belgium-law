@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.204",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62204,
+  "decision_date": "1996-10-03",
+  "date_as_printed": "3 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 60.092/X-4.190",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62204",
+  "source_sha256": "7fb588c2160cb1fc4ef16124f12eccf70a778fa1908c6eb49bda133496c56bbf",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
