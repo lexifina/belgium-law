@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 54.799",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 54799,
+  "decision_date": "1995-08-16",
+  "date_as_printed": "16 août 1995",
+  "chamber": "VI",
+  "role_number": "A. 62.778/VI-12.289",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/54799",
+  "source_sha256": "3ef703dabcdc5f27833ca6374c16c7908e36964ea6b7f2e07baf1fe8a5d1e8dc",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
