@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.623",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68623,
+  "decision_date": "1997-10-03",
+  "date_as_printed": "3 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 56.894/XI-2.909",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68623",
+  "source_sha256": "5ccc1d7043094c0d54344ce12b0c52546e1588faefa7eb6994459a6983a3c69a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
