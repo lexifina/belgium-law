@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.847",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58847,
+  "decision_date": "1996-03-26",
+  "date_as_printed": "26 mars 1996",
+  "chamber": "III",
+  "role_number": "A. 64.473/III-21.415",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58847",
+  "source_sha256": "4d8c118f38923aad5081695cffde9479ed58817a46b30bb390add69ea3bc28a5",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
