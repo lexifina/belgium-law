@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.357",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55357,
+  "decision_date": "1995-09-22",
+  "date_as_printed": "22 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 62.935/III-20.642",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55357",
+  "source_sha256": "0abb656f153d93360acf8794d9db0937b10a76f48ad52592c054ade0af6dad21",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
