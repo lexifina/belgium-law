@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.577",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68577,
+  "decision_date": "1997-10-01",
+  "date_as_printed": "1er octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 55.804/XI-2.907",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68577",
+  "source_sha256": "24851d86bffe12de10b69d0254e75dea87514904621fbcd36bb62c661a984700",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
