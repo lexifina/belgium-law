@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.169",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61169,
+  "decision_date": "1996-08-22",
+  "date_as_printed": "22 août 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.268/XI-1.372",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61169",
+  "source_sha256": "e235cb986f96bb64be747bb257cb98c1e20dabde37a363176e0fc76efc86dfaa",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
