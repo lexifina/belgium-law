@@ -10,7 +10,7 @@ g) les allocations de vacances annuelles;
 2° d'assurer la gestion financière globale de la sécurité sociale, ainsi que de promouvoir la transparence et l'efficacité du financement de celle-ci.
 (Pour ce faire, l'Office veille, sous l'autorité du Comité de gestion de la sécurité sociale, entre autres, à :) &lt;L 1994-12-21/31, art. 8, 010; <b> En vigueur : </b> 1995-01-02&gt;
 a) mettre en oeuvre une gestion de trésorerie commune;
-b) soumettre au Gouvernement, en vue de l'élaboration du budget et du contrôle budgétaire, un rapport sur l'évolution des dépenses et des recettes, les options politiques prioritaires et la facon dont l'équilibre du régime peut être assuré;
+(b) soumettre au Gouvernement, en vue de l'élaboration du budget et du contrôle budgétaire, un rapport sur l'évolution des dépenses et des recettes dans une perspective pluriannuelle, les options politiques prioritaires et la facon dont un équilibre financier durable du régime peut être assuré) &lt;L 1996-07-26/31, art. 7, 012; <b> En vigueur : </b> 11-08-1996&gt;;
 c) suivre l'évolution de l'ensemble des recettes et dépenses sur la base des données transmises par les institutions publiques de sécurité sociales concernées;
 d) répartir annuellement le produit des cotisations, à l'exclusion de celles relatives au régime visé au 1°, g), après prélèvement des sommes destinées à couvrir les frais d'administration de l'Office, et des autres ressources visées à l'article 22 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés;
 e) évaluer la gestion des ressources non réparties et la gestion des réserves des régimes visés au 1°.
