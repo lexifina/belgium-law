@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.589",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60589,
+  "decision_date": "1996-06-28",
+  "date_as_printed": "28 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 68.179/X-6.299",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60589",
+  "source_sha256": "c69244c0affb58099c8255727bb29ccb603112feea64292bd0677ab896fb0b2c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
