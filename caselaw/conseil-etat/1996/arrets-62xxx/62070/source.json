@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.070",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62070,
+  "decision_date": "1996-10-01",
+  "date_as_printed": "1er octobre 1996",
+  "chamber": "IV",
+  "role_number": "A. 63.315/IV-897",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62070",
+  "source_sha256": "5ebd0d918c7443f567f2609f73871c56c3783d6fc24a36226aa1c52b84e1c75f",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
