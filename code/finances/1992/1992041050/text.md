@@ -9,5 +9,5 @@
 7° la Société des Transports flamande et les unités d'exploitation autonome existant en son sein;
 8° la Société de transports intercommunaux de Bruxelles;
 9° les sociétés dépuration des eaux régies par la loi du 26 mars 1971.
-(10° les Sociétés des Bourses de valeurs mobilières visées à l'article 7 de la loi du 4 décembre 1990.) &lt;L 1992-12-28/32, art. 7; <b> En vigueur : </b> 01-01-1992&gt;
+10° (abrogé) &lt;W 2000-08-12/67, art. 31, 014; <b> En vigueur : </b> 01-01-2000&gt;décembre 1990.) &lt;L 1992-12-28/32, art. 7; <b> En vigueur : </b> 01-01-1992&gt;
 (11° la société de droit public à finalit»sociale Coopération technique belge.) &lt;L 1998-12-21/30, art. 32, 041; <b> En vigueur : </b> 24-02-1999&gt;
