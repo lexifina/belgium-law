@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.957",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71957,
+  "decision_date": "1998-02-20",
+  "date_as_printed": "20 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 64.850/XI-3.303",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71957",
+  "source_sha256": "2b5269fe80fa9fe84c53bcb064197530c14f59c67b1d68044ae6b56367d8ffbe",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
