@@ -1,0 +1,6 @@
+Sont seules admises à la répartition des sièges:
+1° pour l'élection de la Chambre des représentants:
+a) les listes qui ont obtenu au moins 5 % du total général des votes valablement exprimés dans la circonscription électorale, sans préjudice de ce qui est prévu aux b) et c) pour les circonscriptions électorales de Bruxelles-Hal-Vilvorde et de Louvain;
+b) les listes de candidats d'expression française qui ont obtenu dans la circonscription électorale de Bruxelles-Hal-Vilvorde, au moins 5 % du total général des votes valablement exprimés en faveur de l'ensemble de ces listes;
+c) les listes de candidats d'expression néerlandaise et les listes de candidats qui ont obtenu dans la circonscription électorale de Bruxelles-Hal-Vilvorde et dans la circonscription électorale de Louvain, au moins 5 %du total général des votes valablement exprimés en faveur de l'ensemble de ces listes.
+2° pour l'élection du Sénat, les listes qui ont obtenu au moins 5 % du total général des votes valablement exprimés en faveur des listes présentées pour le collège électoral français ou le collège électoral néerlandais, selon le cas.
