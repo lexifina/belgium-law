@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.858",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72858,
+  "decision_date": "1998-03-31",
+  "date_as_printed": "31 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 73.904/XII-52",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72858",
+  "source_sha256": "10b52176f5d321d88b0c33e5ae44dcf91d2e1f1b78df2d4b1ef8362338392039",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
