@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.314",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65314,
+  "decision_date": "1997-03-18",
+  "date_as_printed": "18 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.696/III-22.728",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65314",
+  "source_sha256": "0df75b866458c6c2a4569ef9b5b6d64ea2f8937e5eb7817f7a35f28a2fbf8541",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
