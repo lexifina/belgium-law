@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.088",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73088,
+  "decision_date": "1998-04-15",
+  "date_as_printed": "15 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 49.646/XI-2.634",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73088",
+  "source_sha256": "57d2b6100d2ab982648da1769575a9542f2a4c94883e1aa41213ec29a26af694",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
