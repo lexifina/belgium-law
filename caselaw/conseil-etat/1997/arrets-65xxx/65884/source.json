@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.884",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65884,
+  "decision_date": "1997-04-15",
+  "date_as_printed": "15 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.811/XI-2.191",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65884",
+  "source_sha256": "f6160ad13bf6fc4fa03ab59575c7d4ec2004c3f081251c465dff5eef69de5dcb",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
