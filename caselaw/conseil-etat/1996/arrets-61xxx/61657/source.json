@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.657",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61657,
+  "decision_date": "1996-09-11",
+  "date_as_printed": "11 september 1996",
+  "chamber": "IV",
+  "role_number": "A. 67.435/IV-15.552",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61657",
+  "source_sha256": "c36eca1564f254faaf5029f7668c93283c7602a7bedea74d71316116301aef47",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
