@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.401",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67401,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 64.350/III-21.428",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67401",
+  "source_sha256": "746449045cec6e12fb6b27bafb9f026cdeb6d688163e329b1b3bc5c09afb8062",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
