@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.171",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72171,
+  "decision_date": "1998-03-03",
+  "date_as_printed": "3 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 75.652/XI-3.347",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72171",
+  "source_sha256": "cda4681b6fc7a251a8758e5bf52cfe7d2d1735295811593355461922d18c87a3",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
