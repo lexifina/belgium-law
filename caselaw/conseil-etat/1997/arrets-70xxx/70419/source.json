@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.419",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70419,
+  "decision_date": "1997-12-18",
+  "date_as_printed": "18 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 76.204/XIII-358",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70419",
+  "source_sha256": "9c07f0edc5aeef96681bf1e742ee6f7daa904e4f047d02c4bd72df2d85919e37",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
