@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.545",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70545,
+  "decision_date": "1998-01-07",
+  "date_as_printed": "7 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 73.446/VI-14.208",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70545",
+  "source_sha256": "cd888c8ab6470090057a0d85ee045b921cdc0f39efb6b5875399ed1ca4c92abb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
