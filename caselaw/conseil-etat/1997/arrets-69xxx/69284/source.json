@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.284",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69284,
+  "decision_date": "1997-10-30",
+  "date_as_printed": "30 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.962/XI-3.464",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69284",
+  "source_sha256": "3e41d541bbe6e38287043cc7c1e3802f0b1f2796520b5ef39199a6049c30f344",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
