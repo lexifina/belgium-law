@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.633",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66633,
+  "decision_date": "1997-06-06",
+  "date_as_printed": "6 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 73.578/III-14.086",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66633",
+  "source_sha256": "7eb965ea44081b543be6eb6d47efcfcea05657304125df48b148e10fb0c4e349",
+  "pages": 23,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
