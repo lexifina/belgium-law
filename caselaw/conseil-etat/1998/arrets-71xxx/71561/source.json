@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.561",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71561,
+  "decision_date": "1998-02-04",
+  "date_as_printed": "4 février 1998",
+  "chamber": "VIII",
+  "role_number": "A. 72.729/VIII-707",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71561",
+  "source_sha256": "43febccf2579d932db0d570e50a0154553005e23b3fecb42c5c79e9aa613a431",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
