@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.184",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66184,
+  "decision_date": "1997-05-06",
+  "date_as_printed": "6 mai 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.152/XI-2.275",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66184",
+  "source_sha256": "67dc34cc9d7263747d9b41b5d2710a13b5bff228f343715cb3e03c1954115a18",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
