@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.062",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61062,
+  "decision_date": "1996-07-17",
+  "date_as_printed": "17 juillet 1996",
+  "chamber": "VI",
+  "role_number": "A. 69.906/VI-1.230",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61062",
+  "source_sha256": "53cfeb44b12ea873c0a4117699b4f90c33b734eecfab79e982b7fbacfe87163b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
