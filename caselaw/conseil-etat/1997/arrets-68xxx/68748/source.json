@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.748",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68748,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 54.108/VII-12.269",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68748",
+  "source_sha256": "9b5aa2894899b11b890ef0dcf3ccb08c58ed1cb0e65fe591ee2f7da83d3e768b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
