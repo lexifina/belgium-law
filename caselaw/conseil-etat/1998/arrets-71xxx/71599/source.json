@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.599",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71599,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 51.305/VII-11.933",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71599",
+  "source_sha256": "0cf5b7fc6973c74f6e772840a4d20bd1e11b38ba747d3e236a7c1be7c0655ab9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
