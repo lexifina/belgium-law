@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.955",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71955,
+  "decision_date": "1998-02-20",
+  "date_as_printed": "20 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 76.116/XI-3.545",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71955",
+  "source_sha256": "4dde6d6b5271b1262b1145be9ecb30ae5226c19e49e8977a57111c1fa930c7b8",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
