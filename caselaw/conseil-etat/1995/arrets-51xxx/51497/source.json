@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 51.497",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 51497,
+  "decision_date": "1995-02-02",
+  "date_as_printed": "2 februari 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.047/IV-14.972",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/51497",
+  "source_sha256": "4f6493de2f4ad7082d5b439f9d7540e48bfe4ff0d8f01ec7db198d5c9b735f2c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
