@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.779",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64779,
+  "decision_date": "1997-02-26",
+  "date_as_printed": "26 février 1997",
+  "chamber": "III",
+  "role_number": "A. 72.306/III-14.013",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64779",
+  "source_sha256": "e0bf5c73b74a04c21964bd9dd4a64324988aa9bac4f5c8a46d578f9ded808168",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
