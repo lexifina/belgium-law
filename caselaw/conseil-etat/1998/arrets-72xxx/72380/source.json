@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.380",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72380,
+  "decision_date": "1998-03-11",
+  "date_as_printed": "11 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 73.885/VI-14.135",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72380",
+  "source_sha256": "102fb7429f018ac85961baea78f3b81d86e563d3ff6826fd0eb2f389222fd1e1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
