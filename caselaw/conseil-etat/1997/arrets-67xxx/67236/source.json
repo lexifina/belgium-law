@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.236",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67236,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "AGAV",
+  "role_number": "A. 70.144/AGAV-3.424",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67236",
+  "source_sha256": "7df1777930f8ff3b2d70c2131a67bc24598cbc16ff7b2d77c5ba17280d3b606d",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
