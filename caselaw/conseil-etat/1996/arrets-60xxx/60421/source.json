@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.421",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60421,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.378/X-6.539",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60421",
+  "source_sha256": "f6067059235a9e50b69082bee913bf07814950be1ec43247bcb214f2b3323c9c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
