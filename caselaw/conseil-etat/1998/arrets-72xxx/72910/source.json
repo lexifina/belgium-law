@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.910",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72910,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "X",
+  "role_number": "A. 52.125/X-7.628",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72910",
+  "source_sha256": "4ca24b88d6102d4040ba99247c41817d4f33a985127b2b01307f74882fa15d3c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
