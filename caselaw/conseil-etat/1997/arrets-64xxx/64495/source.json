@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.495",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64495,
+  "decision_date": "1997-02-12",
+  "date_as_printed": "12 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.293/III-22.652",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64495",
+  "source_sha256": "909798c03da086c8f8eefe94e7c05a393ae9a0a88017b5ffe027cb4e9a6d0320",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
