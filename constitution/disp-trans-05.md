@@ -15,7 +15,7 @@ f) Les sénateurs sont élus pour quatre ans.
 g) Les ministres n'ont voix délibérative dans l'une ou l'autre Chambre que quand ils en sont membres.
 Ils ont leur entrée dans chacune des Chambres, et doivent être entendus quand ils le demandent.
 Les Chambres peuvent requérir la présence des ministres.
-h) Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de region condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du Conseil concerné.
+h) Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du (Parlement) concerné.
 i) Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par le Sénat, l'autre par la Cour de cassation.
 j) Les Chambres arrêtent, chaque année, la loi des comptes et votent le budget.
 k) La Cour des comptes soumet le compte général de l'Etat, avec ses observations, à la Chambre des représentants et au Sénat.
