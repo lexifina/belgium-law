@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.462",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68462,
+  "decision_date": "1997-09-26",
+  "date_as_printed": "26 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 61.677/XI-2.917",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68462",
+  "source_sha256": "19adbc0e4835fd03a4c38ed6d44b32ec7cf9001eee3cce25bdfd5cdd7eac8019",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
