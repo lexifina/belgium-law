@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.636",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71636,
+  "decision_date": "1998-02-09",
+  "date_as_printed": "9 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 72.195/IX-348",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71636",
+  "source_sha256": "6441fe449903ba5c9a824f52d3d588e7aedf3a427652984c829345d346c04082",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
