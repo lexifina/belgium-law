@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.161",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71161,
+  "decision_date": "1998-01-27",
+  "date_as_printed": "27 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 70.490/XII-364",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71161",
+  "source_sha256": "3a611a284f41306dcf8b6d95f673e6967f283eafaaca680510529a14b6f4507f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
