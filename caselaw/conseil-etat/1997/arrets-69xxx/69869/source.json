@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.869",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69869,
+  "decision_date": "1997-11-27",
+  "date_as_printed": "27 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 42.463/VII-9.515",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69869",
+  "source_sha256": "4c7c5578b7ee4713d4ca213ab081ea62dc8b9b1754610f34afb92c15330dcf01",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
