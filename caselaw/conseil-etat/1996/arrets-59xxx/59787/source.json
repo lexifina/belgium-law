@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.787",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59787,
+  "decision_date": "1996-05-24",
+  "date_as_printed": "24 mai 1996",
+  "chamber": "XI",
+  "role_number": "A. 69.038/XI-940",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59787",
+  "source_sha256": "a4f1347cab0ebef7c7827ec5d026a01e1ef44a37af2c4255646f08dd74ed8b39",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
