@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.260",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72260,
+  "decision_date": "1998-03-05",
+  "date_as_printed": "5 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 37.724/VII-7.601",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72260",
+  "source_sha256": "e152824ea3ee54c468261eeff845c0c1a674fac1ea3723f277ca3af3673e632e",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
