@@ -1,0 +1,2 @@
+§ 1er. En cas de corruption privée, la peine sera un emprisonnement de six mois à deux ans et une amende de 100 francs à 10 000 francs ou une de ces peines.
+§ 2. Dans le cas où la sollicitation visée à l'article 504bis, § 1er, est suivie d'une proposition visée à l'article 504bis, § 2, de même, que dans le cas où la proposition visée à l'article 504bis, § 2, est acceptée, la peine sera un emprisonnement de six mois à trois ans et une amende de 100 francs à 50 000 francs ou une de ces peines.
