@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:1998:ARR.19980903.12",
+  "ecli": "ECLI:BE:CASS:1998:ARR.19980903.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "1998-09-03",
+  "date_as_printed": "Vonnis/arrest van 03 september 1998",
+  "published_on_juportal": "1999-09-02",
+  "language": "nl",
+  "role_number": "D.97.0034.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "ART DE GUERIR - ORDRES PROFESSIONNELS",
+    "GENEESKUNDE - BEROEPSORDEN",
+    "Ordre des médecins - Conseil d'appel - Décision - Prononciation - Publicité - Renonciation - Conv. D.H., article 6, § 1er - Applicabilité",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Matière disciplinaire - Décision - Prononciation - Publicité - Renonciation",
+    "Orde der geneesheren - Raad van beroep - Beslissing - Uitspraak - Openbaarheid - Afstand - Artikel 6.1, EVRM - Toepasselijkheid",
+    "Tuchtzaken - Beslissing - Uitspraak - Openbaarheid - Afstand"
+  ],
+  "fiche": [
+    "GENEESKUNDE - BEROEPSORDEN",
+    "Orde der geneesheren - Raad van beroep - Beslissing - Uitspraak - Openbaarheid - Afstand - Artikel 6.1, EVRM - Toepasselijkheid",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Tuchtzaken - Beslissing - Uitspraak - Openbaarheid - Afstand",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "ARRESTEN VAN HET HOF VAN CASSATIE - - 1998(383)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:1998:ARR.19980903.12",
+  "source_sha256": "81c8382c96a2b64dc2a0729fc955768608a03c928411842a343ec03a5b851765",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
