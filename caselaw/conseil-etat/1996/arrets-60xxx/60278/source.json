@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.278",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60278,
+  "decision_date": "1996-06-19",
+  "date_as_printed": "19 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 60.637/X-4.320",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60278",
+  "source_sha256": "6e017be8844a98bce369de1e6e64066585d1a6bd02d1cb879cb7c3dceceff8d4",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
