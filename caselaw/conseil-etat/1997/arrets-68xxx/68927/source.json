@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.927",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68927,
+  "decision_date": "1997-10-17",
+  "date_as_printed": "17 octobre 1997",
+  "chamber": "VI",
+  "role_number": "A. 71.377/VI-13.461",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68927",
+  "source_sha256": "74990eadbb1bea0f639a404a25822d14492a5839eb7106fb60e821b0c3bdfadf",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
