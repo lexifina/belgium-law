@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.783",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59783,
+  "decision_date": "1996-05-24",
+  "date_as_printed": "24 mei 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.930/IV-1.405",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59783",
+  "source_sha256": "217e7a0d9492bd2fa77a37e2a1972bea989f00d004b42691eaf86460f5640b2a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
