@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.528",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60528,
+  "decision_date": "1996-06-26",
+  "date_as_printed": "26 juin 1996",
+  "chamber": "III",
+  "role_number": "A. 63.557/III-14.246",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60528",
+  "source_sha256": "8e7c635c92cd3bc8103c2c70a0dc44ecd65bd456d980b4630e1af1c637ef96b5",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
