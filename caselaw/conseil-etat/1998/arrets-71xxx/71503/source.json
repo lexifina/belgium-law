@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.503",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71503,
+  "decision_date": "1998-02-02",
+  "date_as_printed": "2 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 73.823/IX-536",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71503",
+  "source_sha256": "eaa545451dfad56b2f80881f6b1791249c5d9567f4df3023bf48475b6e0c5000",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
