@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.591",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73591,
+  "decision_date": "1998-05-12",
+  "date_as_printed": "12 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 73.413/XII-355",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73591",
+  "source_sha256": "40f03e13b584aeec1e2b37456866913155bb13427219bfef4cf400e03f425d5d",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
