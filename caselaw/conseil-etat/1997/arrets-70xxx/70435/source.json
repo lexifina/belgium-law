@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.435",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70435,
+  "decision_date": "1997-12-19",
+  "date_as_printed": "19 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.743/XI-3.819",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70435",
+  "source_sha256": "56ee9885c9e03b9dd4d5bd5414a618153aa2bd9b29b715a438c54fbb050f1a12",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
