@@ -1,1 +1,1 @@
-Les demandes fondées sur les articles 214, 215, 216, 220, 221, 223, 1420, 1421, 1426, 1442, 1463 et 1469 du Code civil sont introduites par requête. Devant le juge de paix, cette requête peut être présentée verbalement par le demandeur; dans ce cas, il en est dressé procès-verbal par le greffier. Les articles 1026 à 1034 leur sont applicables, sauf les dérogations prévues aux articles suivants.
+(abrogé)

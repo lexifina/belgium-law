@@ -1,0 +1,1 @@
+Dans les cas où il est dérogé par la loi à la règle générale prévoyant l'introduction des demandes principales au moyen d'une citation, le présent titre est applicable aux demandes introduites par une requête notifiée à la partie adverse, sauf pour les formalités et mentions régies par des dispositions légales non expressément abrogées.
