@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.697",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59697,
+  "decision_date": "1996-05-15",
+  "date_as_printed": "15 mei 1996",
+  "chamber": "IV",
+  "role_number": "A. 67.399/IV-15.551",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59697",
+  "source_sha256": "918b18692d51e97924e588b97295ef7efe6b57be1e79673da1e38b7e5cb5196a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
