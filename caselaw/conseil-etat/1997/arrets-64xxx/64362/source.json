@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.362",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64362,
+  "decision_date": "1997-02-04",
+  "date_as_printed": "4 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.028/III-22.576",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64362",
+  "source_sha256": "b90d73eb24b514f2d9868fb0e9c514671cd6899e22d504e008361d0e5f74cc15",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
