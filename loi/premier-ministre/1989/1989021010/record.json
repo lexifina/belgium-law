@@ -1,0 +1,23 @@
+{
+  "id": "1989021010",
+  "act": "loi/premier-ministre/1989/1989021010",
+  "title": "16 JANVIER 1989. - Loi spéciale relative au financement des Communautés et des Régions.",
+  "version": "001",
+  "versions_total": 9,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1989-01-17&numac_search=1989021010&page=1&lg_txt=F&caller=list&1989021010=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=1989021010&cn_search=&caller=list&&view_numac=1989021010f",
+  "source_sha256": "cfe600f4866c7fc14f3d77f2a7665bee0dbb355719483c59ff49eda1cd2dc6b3",
+  "source_issuer": "Premier Ministre",
+  "made": "1989-01-16",
+  "published": "1989-01-17",
+  "in_force": "1989-01-01",
+  "source_in_force": "1989-01-01",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (1 janvier 1989) and the dated En vigueur notes in its text before this version's end (1993-07-30)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 33,
+  "independent_source_tokens": 5181,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
