@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.675",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65675,
+  "decision_date": "1997-03-27",
+  "date_as_printed": "27 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.922/IV-520",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65675",
+  "source_sha256": "91a3c7f51fe91f377f21c45bd9b0a4cf37e7133c7c7dc2796b18f99e2b12b1ff",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
