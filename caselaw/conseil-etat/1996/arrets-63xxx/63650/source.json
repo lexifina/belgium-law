@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.650",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63650,
+  "decision_date": "1996-12-18",
+  "date_as_printed": "18 décembre 1996",
+  "chamber": "VI",
+  "role_number": "A. 63.997/VI-12.425",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63650",
+  "source_sha256": "549ef9ea9c12ae0e59d88569d44a5972f188be454cf933e2884f3e1c72fb07ce",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
