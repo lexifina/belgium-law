@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.265",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71265,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 68.282/VI-14.043",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71265",
+  "source_sha256": "e5f2a603f8b92047408bbf0875952ccc2d4f3ca7f1c3c9bd05641dc4a7cdd764",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
