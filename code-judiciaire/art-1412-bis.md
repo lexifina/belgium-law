@@ -1,0 +1,10 @@
+§ 1. Les biens appartenant à l'Etat, aux Régions, aux Communautés, aux provinces, aux communes, aux organismes d'intérêt public et généralement à toutes personnes morales de droit public sont insaisissables.
+§ 2. Toutefois, sans préjudice de l'article 8, alinéa 2, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, peuvent faire l'objet d'une saisie:
+1° les biens dont les personnes morales de droit public visées au § 1er ont déclarés qu'ils pouvaient être saisis. Cette déclaration doit émaner des organes compétents. Elle sera déposée aux lieux prescrits par l'article 42 pour la signification des actes judiciaires.
+Le Roi fixe les modalités de ce dépôt;
+2° à défaut d'une telle déclaration ou lorsque la réalisation des biens qui y figurent ne suffit pas à désintéresser le créancier, les biens qui ne sont manifestement pas utiles à ces personnes morales pour l'exercice de leur mission ou pour la continuité du service public.
+§ 3. Les personnes morales de droit public visées au § 1er, dont les biens font l'objet d'une saisie conformément au § 2, 2°, peuvent faire opposition. Elles peuvent faire offre au créancier saisissant d'exercer ses poursuites sur d'autres biens. L'offre lie le créancier saissant si le bien est sis sur le territoire belge, et si sa réalisation est susceptible de le désintéresser.
+Si le créancier saisissant allègue que les conditions du remplacement du bien saisi visées à l'alinéa précédent ne sont pas remplies, la partie la plus diligente saisit le juge dans les conditions fixées à l'article 1395.
+§ 4. S'il y a opposition, elle ne peut résulter que d'un exploit signifié au saisissant avec citation à comparaître devant le juge des saisies. La demande, qui est suspensive de la poursuite, doit être formée, à peine de déchéance, dans le mois de l'exploit de saisie signifié au débiteur.
+Le jugement ne peut être assorti de l'exécution provisoire. Il n'est pas susceptible d'opposition.
+Le délai pour interjeter appel est d'un mois à partir de la signification du jugement. Le juge d'appel statue toutes affaires cessantes. L'arrêt rendu par défaut n'est pas susceptible d'opposition.
