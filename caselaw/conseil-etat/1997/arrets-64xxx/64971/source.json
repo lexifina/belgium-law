@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.971",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64971,
+  "decision_date": "1997-03-04",
+  "date_as_printed": "4 maart 1997",
+  "chamber": "VII",
+  "role_number": "A. 65.842/VII-13.449",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64971",
+  "source_sha256": "674ed88a3fa430686c2d9bd1eed92343e8fd485694a46a75be1bf81357f47bf6",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
