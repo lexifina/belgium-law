@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.764",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72764,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 74.982/XI-2.548",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72764",
+  "source_sha256": "3481c446bfff1445284a59d25c4e47f05d8ecb51ac90a6f597eec3bb831d26cd",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
