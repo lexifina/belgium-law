@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.856",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68856,
+  "decision_date": "1997-10-14",
+  "date_as_printed": "14 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 61.956/VII-7.094",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68856",
+  "source_sha256": "82c5cc88f687bb14bd6c41db0bb9318e1ff9cfe7790471301172a8d7db527ec8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
