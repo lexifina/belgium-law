@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.363",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61363,
+  "decision_date": "1996-08-29",
+  "date_as_printed": "29 août 1996",
+  "chamber": "III",
+  "role_number": "A. 65.696/III-21.896",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61363",
+  "source_sha256": "bc9b0b8b12f959c6964b50a81a925d3ea352c8811ce0abbd6cc71c6e563ef75e",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
