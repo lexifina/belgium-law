@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.595",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65595,
+  "decision_date": "1997-03-21",
+  "date_as_printed": "21 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.413/IV-355",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65595",
+  "source_sha256": "d55f598c6a6c2218ecf8bea9c5e7eff52f7a983f42c569d8fac5e0ee375d927a",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
