@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.230",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68230,
+  "decision_date": "1997-09-18",
+  "date_as_printed": "18 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 60.272/XI-2.575",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68230",
+  "source_sha256": "7ca7202c72ab02cae868d7713a49c43d1b1d3d6c19789b26712502e503e850e1",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
