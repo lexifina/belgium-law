@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.143",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60143,
+  "decision_date": "1996-06-12",
+  "date_as_printed": "12 juin 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.514/VI-13.129",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60143",
+  "source_sha256": "310cf6a4eca69af9cb36d5c49c7bebfbe1b20270863ef06147834052bfd7707e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
