@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.558",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56558,
+  "decision_date": "1995-12-01",
+  "date_as_printed": "1er décembre 1995",
+  "chamber": "XI",
+  "role_number": "A. 66.623/XI-122",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56558",
+  "source_sha256": "665359e8da9c6316eb89b0976a2ddfc71cf7fd613ed4201620319c43c1e56c49",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
