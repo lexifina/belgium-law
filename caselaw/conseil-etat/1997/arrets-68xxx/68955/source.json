@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.955",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68955,
+  "decision_date": "1997-10-21",
+  "date_as_printed": "21 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 54.278/XI-2.651",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68955",
+  "source_sha256": "b27a3893be539e41d5369c43820cf187377435163c122e4848088584de65cd8d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
