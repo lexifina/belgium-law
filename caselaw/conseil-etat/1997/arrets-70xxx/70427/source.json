@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.427",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70427,
+  "decision_date": "1997-12-18",
+  "date_as_printed": "18 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 76.726/XI-3.814",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70427",
+  "source_sha256": "1354c5ff84a821d3a9d0448bd5ad4f693de603eead5609b9beced841c29ec045",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
