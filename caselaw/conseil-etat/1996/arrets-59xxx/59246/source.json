@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.246",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59246,
+  "decision_date": "1996-04-25",
+  "date_as_printed": "25 april 1996",
+  "chamber": "VII",
+  "role_number": "A. 67.334/VII-13.650",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59246",
+  "source_sha256": "042a25dd7c78abe9b762dcbd4752d0a5f836a937e521c8419838580938688e72",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
