@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.888",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61888,
+  "decision_date": "1996-09-20",
+  "date_as_printed": "20 septembre 1996",
+  "chamber": "III",
+  "role_number": "A. 59.536/III-19.322",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61888",
+  "source_sha256": "a52e78f7a39ca2e552b954936ca946ebc61eea15bfbfc9a4eb66ba664cf5174d",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
