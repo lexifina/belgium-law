@@ -1,0 +1,1 @@
+Les dispositions de cette section s'appliquent à l'utilisateur et à l'entreprise de travail intérimaire tels que visés dans la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs.
