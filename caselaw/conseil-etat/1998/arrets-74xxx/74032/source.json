@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.032",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74032,
+  "decision_date": "1998-06-02",
+  "date_as_printed": "2 juni 1998",
+  "chamber": "X",
+  "role_number": "A. 75.690/X-7.758",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74032",
+  "source_sha256": "df7db994142c8bace2bd5a62661786dcb29c98487df23706083430712fb7f276",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
