@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.059",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59059,
+  "decision_date": "1996-04-15",
+  "date_as_printed": "15 avril 1996",
+  "chamber": "IX",
+  "role_number": "A. 65.883/IX-1.050",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59059",
+  "source_sha256": "4577fb508962e3d1c7e6d4c635ced3b1c3857ccb2fe2dea6774c09e8ca92293f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
