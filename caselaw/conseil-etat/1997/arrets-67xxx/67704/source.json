@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.704",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67704,
+  "decision_date": "1997-08-13",
+  "date_as_printed": "13 août 1997",
+  "chamber": "XIII",
+  "role_number": "A. 75.214/XIII-43",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67704",
+  "source_sha256": "61b158572d95c7e62e8f6a5016ba54cc6043c1842ebafc3bdc394e0303dfa2b7",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
