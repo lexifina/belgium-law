@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.176",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64176,
+  "decision_date": "1997-01-24",
+  "date_as_printed": "24 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.238/III-22.632",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64176",
+  "source_sha256": "eb470b5be67d0fa435eeebacc4bf61a2588dd8e1ab1fa63a0e5038e047c5ecb2",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
