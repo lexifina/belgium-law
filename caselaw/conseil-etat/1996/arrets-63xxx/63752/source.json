@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.752",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63752,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.762/III-22.500",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63752",
+  "source_sha256": "10a181b8745b0fad68407c17a1f2f046f26ca9159f5d0fa706bedb1a3510af58",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
