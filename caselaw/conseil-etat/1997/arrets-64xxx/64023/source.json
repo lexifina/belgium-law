@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.023",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64023,
+  "decision_date": "1997-01-15",
+  "date_as_printed": "15 januari 1997",
+  "chamber": "IV",
+  "role_number": "A. 70.428/IV-10.332",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64023",
+  "source_sha256": "490981794d4e9b43cc43c86e2f8e9f57611f6e8688165c8fd9e9f33f2324dfc9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
