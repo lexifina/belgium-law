@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.429",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60429,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.377/X-6.538",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60429",
+  "source_sha256": "8854823fd05aeddde49d20030d295a4f702d3b312dd7ee808452af864d186f9d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
