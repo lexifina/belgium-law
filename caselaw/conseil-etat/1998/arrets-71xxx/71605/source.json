@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.605",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71605,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 51.950/VII-11.969",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71605",
+  "source_sha256": "883dd86a539e0628c0ecb0b4acd65fff460832482ea6fcf12e791ee9c89c19f0",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
