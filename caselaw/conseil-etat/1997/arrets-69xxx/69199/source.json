@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.199",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69199,
+  "decision_date": "1997-10-28",
+  "date_as_printed": "28 oktober 1997",
+  "chamber": "XII",
+  "role_number": "A. 73.346/XII-142",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69199",
+  "source_sha256": "2ab3068ae96e6d35c3fa636cb6d09aa86c0f51cdc70c35b79ce37537bdfcba9e",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
