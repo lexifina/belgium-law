@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.804",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73804,
+  "decision_date": "1998-05-19",
+  "date_as_printed": "19 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 74.842/XIII-369",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73804",
+  "source_sha256": "1a1b4b1d704003942c9bae10b1fa339ea75bf2399c3cfbf1d4ee16c1afe92175",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
