@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.057",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65057,
+  "decision_date": "1997-03-10",
+  "date_as_printed": "10 mars 1997",
+  "chamber": "VI",
+  "role_number": "A. 66.794/VI-13.007",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65057",
+  "source_sha256": "e085522deeef4c233756bb1650ed5dd31f6625fe4221356b5eba5123b2476357",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
