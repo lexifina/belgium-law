@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.615",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67615,
+  "decision_date": "1997-07-31",
+  "date_as_printed": "31 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 60.025/III-19.302",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67615",
+  "source_sha256": "7433a190e703a7fa7c0ef1739c33d3e2f5efd50d6ea83c239d5005f57588f007",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
