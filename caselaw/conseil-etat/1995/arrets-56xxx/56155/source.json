@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.155",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56155,
+  "decision_date": "1995-11-08",
+  "date_as_printed": "8 november 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.958/IV-15.050",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56155",
+  "source_sha256": "8ad0032a8f9537b2adc2abb9d83b48ba06e39c04803d8258885e0bb80c61ee1f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
