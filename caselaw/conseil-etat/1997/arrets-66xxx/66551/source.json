@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.551",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66551,
+  "decision_date": "1997-06-04",
+  "date_as_printed": "4 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 67.049/IV-15.542",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66551",
+  "source_sha256": "a01e61a9fd9b23d249092d0d3425c64fc2eb157c274c695dc37a72e8851310e2",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
