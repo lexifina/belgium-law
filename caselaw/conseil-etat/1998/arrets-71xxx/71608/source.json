@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.608",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71608,
+  "decision_date": "1998-02-05",
+  "date_as_printed": "5 février 1998",
+  "chamber": "XIII",
+  "role_number": "A. 48.926/XIII-122",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71608",
+  "source_sha256": "222d2a3b82d4bdc677ec5871c2eb7ab9efe96985662719383a70fe38394ba846",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
