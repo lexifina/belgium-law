@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.472",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67472,
+  "decision_date": "1997-07-10",
+  "date_as_printed": "10 juli 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.401/VII-6.944",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67472",
+  "source_sha256": "ce1c17da1aabe95ac69f0f35b4a553eb04b055ba4c2d48c354dd9311f69165ec",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
