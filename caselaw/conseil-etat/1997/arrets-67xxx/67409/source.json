@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.409",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67409,
+  "decision_date": "1997-07-04",
+  "date_as_printed": "4 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 72.320/III-22.779",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67409",
+  "source_sha256": "3af2e6e9478369fcd8cfd09614f7ccf0ac74dede4e9ed4686dad1e2a5143a41a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
