@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.555",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63555,
+  "decision_date": "1996-12-12",
+  "date_as_printed": "12 december 1996",
+  "chamber": "VII",
+  "role_number": "A. 69.265/VII-14.196",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63555",
+  "source_sha256": "d3d39e46f55933f844d5059332714413172791daad54148276655067cd862009",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
