@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.377",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69377,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 69.988/XI-1.276",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69377",
+  "source_sha256": "acb08046026501165193394548a6106a91d82675fe0698532e2b8a64e2d14d1d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
