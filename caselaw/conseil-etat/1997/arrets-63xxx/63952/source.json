@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.952",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63952,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.067/III-22.581",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63952",
+  "source_sha256": "67b4568dea3ec21cfffd757127d43e3b060ed594ca0d5b4b01a77c841d5a5a23",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
