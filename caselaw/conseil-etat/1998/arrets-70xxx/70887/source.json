@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.887",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70887,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 41.677/XII-70",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70887",
+  "source_sha256": "b551e6cfc6e90270b4d05a84087b3660295fe3431c19f9ef6da873f4e7717347",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
