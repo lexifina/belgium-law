@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.522",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66522,
+  "decision_date": "1997-06-03",
+  "date_as_printed": "3 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.178/VII-15.195",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66522",
+  "source_sha256": "935f82f112cad982c7d1b3c9cf68d63100a58960f49a1b24fa0e44aff43c52c4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
