@@ -1,0 +1,1 @@
+Des prestations de services complémentaires exécutées en application d'un contrat d'entreprise sont présumées l'être en application d'un contrat de travail sans que la preuve du contraire puisse être apportée lorsque le prestataire des services et le bénéficiaire de ceux-ci sont liés par un contrat de travail pour l'exercice d'activités similaires.
