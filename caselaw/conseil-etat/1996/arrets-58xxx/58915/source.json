@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.915",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58915,
+  "decision_date": "1996-03-28",
+  "date_as_printed": "28 maart 1996",
+  "chamber": "VII",
+  "role_number": "A. 63.587/VII-13.132",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58915",
+  "source_sha256": "59680b91d5e817a2b9672d27e5676c098814594966f7c46134884c45d45439be",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
