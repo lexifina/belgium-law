@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.230",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64230,
+  "decision_date": "1997-01-29",
+  "date_as_printed": "29 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.082/III-22.596",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64230",
+  "source_sha256": "67e20f178d60610395989bc12fec1952670f643550883680eff0b20bb0ec17ed",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
