@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.236",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65236,
+  "decision_date": "1997-03-14",
+  "date_as_printed": "14 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.362/III-22.681",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65236",
+  "source_sha256": "af2595070141ddbb66fe8868a882779e4969aab7901a8ccc553aef44d75cede7",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
