@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.009",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74009,
+  "decision_date": "1998-06-02",
+  "date_as_printed": "2 juin 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.634/XI-4.433",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74009",
+  "source_sha256": "2cc81b69dc3d4c316a86ad05c22223c18deaed7af86a79ded99816e7c0bb4ff2",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
