@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.076",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66076,
+  "decision_date": "1997-04-24",
+  "date_as_printed": "24 april 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.146/VII-15.191",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66076",
+  "source_sha256": "9ca2b859b7af459204a22b5461e5260b8c4fd18927b1b3c21dfb02a4f0d894cd",
+  "pages": 27,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
