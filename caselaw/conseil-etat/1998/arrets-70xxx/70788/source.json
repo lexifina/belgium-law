@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.788",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70788,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 janvier 1998",
+  "chamber": "VIII",
+  "role_number": "A. 64.162/VIII-287",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70788",
+  "source_sha256": "35b2d2e950ec417197d9f96762d61f7f515da236d4672d7bb3868e842d9981be",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
