@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.013",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63013,
+  "decision_date": "1996-11-08",
+  "date_as_printed": "8 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 71.839/IV-1.980",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63013",
+  "source_sha256": "ea32c7b69f8b63bda1c1aafd5952f07f8e118a629e2c93a55cdb461fb190cc21",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
