@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.043",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70043,
+  "decision_date": "1997-12-04",
+  "date_as_printed": "4 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 65.223/XI-3.392",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70043",
+  "source_sha256": "af2e84a29929e523d38e65de6bc0dd89336f0e7edf7bd013fa1cd6e0e0066603",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
