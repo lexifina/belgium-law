@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.977",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71977,
+  "decision_date": "1998-02-20",
+  "date_as_printed": "20 février 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.514/XI-4.114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71977",
+  "source_sha256": "13bdf9086b1631a0d0e8e352ac6f836a7db711958ee1d0a9dedf288a55be0564",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
