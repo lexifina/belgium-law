@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.581",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73581,
+  "decision_date": "1998-05-11",
+  "date_as_printed": "11 mei 1998",
+  "chamber": "IX",
+  "role_number": "A. 36.976/IX-693",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73581",
+  "source_sha256": "bdefcb1465483fc8050dfe5887ba2dcf5c6a0f09fa6b21bdd96cc770d45de7d5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
