@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.600",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70600,
+  "decision_date": "1998-01-09",
+  "date_as_printed": "9 janvier 1998",
+  "chamber": "VIII",
+  "role_number": "A. 58.627/VIII-258",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70600",
+  "source_sha256": "3fc490d65b661d6000d1106329aaa6367c2f2e19e0b13b99dbbf7152f6489643",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
