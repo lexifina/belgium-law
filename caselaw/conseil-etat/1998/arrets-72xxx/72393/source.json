@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.393",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72393,
+  "decision_date": "1998-03-11",
+  "date_as_printed": "11 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 73.830/VI-13.817",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72393",
+  "source_sha256": "751cb3943e9eb314e204082f6e386cd298450c6ea5025c28fa68b81bb975da9b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
