@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.323",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63323,
+  "decision_date": "1996-11-28",
+  "date_as_printed": "28 november 1996",
+  "chamber": "VII",
+  "role_number": "A. 70.352/VII-453",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63323",
+  "source_sha256": "8641d29f843a223c96204a69efc7ccefeb666a874f3676a85ec890a057dd6a1a",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
