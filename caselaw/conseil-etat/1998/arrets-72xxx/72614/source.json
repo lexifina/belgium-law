@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.614",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72614,
+  "decision_date": "1998-03-19",
+  "date_as_printed": "19 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 76.419/VII-16.121",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72614",
+  "source_sha256": "14bb2acd15d02218677a2907ccffc35c65fbda7ad794701da9305bb4bf6c042d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
