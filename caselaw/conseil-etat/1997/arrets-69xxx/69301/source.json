@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.301",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69301,
+  "decision_date": "1997-10-30",
+  "date_as_printed": "30 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 68.854/XI-889",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69301",
+  "source_sha256": "03bc8152cc40a48a0b0a1c74aded5e2145371342491fdd551c1a040acca985e1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
