@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.676",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65676,
+  "decision_date": "1997-03-27",
+  "date_as_printed": "27 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.765/IV-541",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65676",
+  "source_sha256": "5455526f84785d2138168a72368f6dfe1e22111391b35e0b79d330633cc9b713",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
