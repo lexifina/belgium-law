@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.543",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67543,
+  "decision_date": "1997-07-22",
+  "date_as_printed": "22 juillet 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.844/XI-2.447",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67543",
+  "source_sha256": "bcefdb10f243b7b84cb8ca4d2bcc9e08a8f84b81fc2a5641083c09f346af9b08",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
