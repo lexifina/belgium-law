@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.687",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67687,
+  "decision_date": "1997-08-06",
+  "date_as_printed": "6 août 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.110/XI-2.518",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67687",
+  "source_sha256": "6dcd71f01d56b8b70fdd867490be35c340f663b3dd0f544b490d46f2d675d63f",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
