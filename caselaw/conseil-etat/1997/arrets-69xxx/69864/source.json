@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.864",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69864,
+  "decision_date": "1997-11-27",
+  "date_as_printed": "27 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 68.265/VII-13.791",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69864",
+  "source_sha256": "e1cabfaf56b3cdc614ad77b6c6b4377b410f4a8ffe8118d8c17c7b8dee4b412c",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
