@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.100",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70100,
+  "decision_date": "1997-12-09",
+  "date_as_printed": "9 december 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.961/XII-251",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70100",
+  "source_sha256": "0751e1cce93790f3767767f6c0494f87e787bd31089ea00e6c746cde3b9fd281",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
