@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.285",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68285,
+  "decision_date": "1997-09-24",
+  "date_as_printed": "24 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 64.038/XI-2.923",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68285",
+  "source_sha256": "e45a423e98643f123404cfb1f18681daf0b208e6f0c0ebcdf371d88b1a0247a5",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
