@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.078",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62078,
+  "decision_date": "1996-10-01",
+  "date_as_printed": "1er octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 66.227/III-22.077",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62078",
+  "source_sha256": "56cd3ce7e2b32360d143e15ef6456364085a2d01d070375a59d4c77731c1a060",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
