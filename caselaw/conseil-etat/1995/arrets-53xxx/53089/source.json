@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.089",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53089,
+  "decision_date": "1995-05-03",
+  "date_as_printed": "3 mei 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.411/IV-14.989",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53089",
+  "source_sha256": "ac2fb94fdd658db20c88cc5d707bee001f33d3479286a1769654a83f7fd44066",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
