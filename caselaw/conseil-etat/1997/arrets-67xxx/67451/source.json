@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.451",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67451,
+  "decision_date": "1997-07-09",
+  "date_as_printed": "9 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 61.752/III-3.037",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67451",
+  "source_sha256": "80aecd329b0a19721199c7bf0d6ed06ed9642df0a2cbbbabd0c12463f12f82f8",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
