@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.727",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61727,
+  "decision_date": "1996-09-12",
+  "date_as_printed": "12 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 63.162/VII-13.093",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61727",
+  "source_sha256": "601c0a44ebfb76f548db5b4a99e17abbcc81f9f460cb25acb397edd05ba5c960",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
