@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.452",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67452,
+  "decision_date": "1997-07-09",
+  "date_as_printed": "9 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 63.114/III-3.054",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67452",
+  "source_sha256": "48c0d8f62827e70bcd751a8aacc03687a45ea04e2c92449e5536c385dbcd1a15",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
