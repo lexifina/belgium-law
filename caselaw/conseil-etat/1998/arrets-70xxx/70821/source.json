@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.821",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70821,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 35.282/VII-6.318",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70821",
+  "source_sha256": "a05b6184de4cb8ef53c39bef516b65d110632db458f0e0de7491252b0bf8b5bc",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
