@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.707",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53707,
+  "decision_date": "1995-06-14",
+  "date_as_printed": "14 juni 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.157/IV-14.995",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53707",
+  "source_sha256": "a26a348c8759857147d2e9f94d0f17e22c5e6d1695d751d538bdfb88d39199b4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
