@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.629",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69629,
+  "decision_date": "1997-11-17",
+  "date_as_printed": "17 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 49.171/XI-3.003",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69629",
+  "source_sha256": "206e1ffa9820a8c994c836006ddeaca671a7be66bc745072ec38abf211f287d0",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
