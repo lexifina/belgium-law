@@ -1,0 +1,1 @@
+Les personnes n'ayant pas atteint la limite d'âge fixée par ou en exécution de l'article 6 de la loi du 24 février 1978 relative au contrat de travail du sportif rémunéré, ne peuvent être occupées en vertu d'un contrat de travail du sportif rémunéré.

@@ -1,0 +1,1 @@
+Sauf dans les cas prévus aux articles 12, 3° et 4°, 22, 3°, 24, § 2, (26), 37, 5° et 12°, et 38, il est interdit de faire ou de laisser travailler en dehors du temps de travail fixé dans le règlement de travail ou dans l'avis prévu à l'article 14, 1°, de la loi du 8 avril 1965 instituant les règlements de travail.
