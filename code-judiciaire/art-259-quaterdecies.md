@@ -1,0 +1,1 @@
+Les années accomplies en tant que référendaire près la Cour de cassation entrent en ligne de compte pour le calcul de l'ancienneté dans une fonction administrative ou judiciaire ou dans une fonction à la Cour d'arbitrage ou au Conseil d'Etat que les référendaires pourraient exercer par la suite.
