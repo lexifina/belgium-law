@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.427",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63427,
+  "decision_date": "1996-12-04",
+  "date_as_printed": "4 december 1996",
+  "chamber": "IV",
+  "role_number": "A. 70.356/IV-10.041",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63427",
+  "source_sha256": "016b4b7840cc9db18cd22cf1a63ba1882843a211487148bb6fa37f649d169134",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
