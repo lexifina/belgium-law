@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.563",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70563,
+  "decision_date": "1998-01-08",
+  "date_as_printed": "8 janvier 1998",
+  "chamber": "XIII",
+  "role_number": "A. 75.774/XIII-181",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70563",
+  "source_sha256": "6241c624c5fdbd4ffa2fbf08b3e6e5da9abc3193bd7ee6c5fb6466c52ab87234",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
