@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.293",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72293,
+  "decision_date": "1998-03-09",
+  "date_as_printed": "9 mars 1998",
+  "chamber": "XIII",
+  "role_number": "A. 73.072/XIII-80",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72293",
+  "source_sha256": "0c1041cadf42c815563b6ccad039e04bcbe2ab99ff19983520f65337d5e07e91",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
