@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.286",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57286,
+  "decision_date": "1995-12-27",
+  "date_as_printed": "27 décembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 62.939/VI-12.402",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57286",
+  "source_sha256": "72dadb3d201bd284c781bcd6fb35e6293493315ba8913109bc4b269c1f4ee592",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
