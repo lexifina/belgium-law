@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.281",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73281,
+  "decision_date": "1998-04-27",
+  "date_as_printed": "27 april 1998",
+  "chamber": "IX",
+  "role_number": "A. 76.524/IX-829",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73281",
+  "source_sha256": "14fa97f3f4336d62d371bc4f8ca52ad4e9e23312bf64c972410ec7c677966132",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
