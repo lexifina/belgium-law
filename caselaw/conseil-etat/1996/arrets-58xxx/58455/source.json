@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.455",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58455,
+  "decision_date": "1996-03-05",
+  "date_as_printed": "5 mars 1996",
+  "chamber": "III",
+  "role_number": "A. 67.857/III-14.022",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58455",
+  "source_sha256": "381d8ccecc370aea39bbf7a62d16e552177b0c3fe944ea4e4527f5a1a9fb28bc",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
