@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.020",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59020,
+  "decision_date": "1996-04-05",
+  "date_as_printed": "5 avril 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.277/VI-865",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59020",
+  "source_sha256": "a9bfdf4b0c89381f6e7c88a357dd2e1afe3e9324e64f124df14b0662d9639fa9",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
