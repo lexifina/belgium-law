@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.275",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72275,
+  "decision_date": "1998-03-06",
+  "date_as_printed": "6 mars 1998",
+  "chamber": "XIII",
+  "role_number": "A. 69.785/XIII-4",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72275",
+  "source_sha256": "dd07c63cdedfdcd56af7ecc5e4d52094fcf1224aa8f297a6a658f3ad5a0b8bce",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
