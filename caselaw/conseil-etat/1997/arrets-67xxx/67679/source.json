@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.679",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67679,
+  "decision_date": "1997-08-06",
+  "date_as_printed": "6 août 1997",
+  "chamber": "III",
+  "role_number": "A. 73.693/III-22.955",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67679",
+  "source_sha256": "65e8e3839db57ffaadc796ac1424f0700c417118991bd72fbfe9e1517171914d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
