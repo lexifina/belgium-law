@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.704",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59704,
+  "decision_date": "1996-05-15",
+  "date_as_printed": "15 mei 1996",
+  "chamber": "IV",
+  "role_number": "A. 67.342/IV-149",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59704",
+  "source_sha256": "29294731cd840adcf2afa5e2147b5cc18919ee48280b426652a3e7f4b0e5e76d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
