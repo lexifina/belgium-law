@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.748",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53748,
+  "decision_date": "1995-06-15",
+  "date_as_printed": "15 juni 1995",
+  "chamber": "VII",
+  "role_number": "A. 62.307/VII-13.001",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53748",
+  "source_sha256": "28ecbf4de5e2f4176c9a95850c99b77483dd089ca184c623f81d2a8de510cd27",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
