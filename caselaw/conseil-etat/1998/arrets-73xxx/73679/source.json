@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.679",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73679,
+  "decision_date": "1998-05-14",
+  "date_as_printed": "14 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 66.590/XIII-383",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73679",
+  "source_sha256": "08c3e3c50216627809b0d7bb493e710b4b58b2803f45f529c73368f2c1fb5e6b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
