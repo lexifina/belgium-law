@@ -1,2 +1,2 @@
-Seront punis d'un emprisonnement de huit jours à six mois et d'une amende de vingt-six francs à cinq cents francs, ceux qui, dans le but de les mettre en circulation, auront reçu ou se seront procuré des monnaies auxquelles on a donné l'apparence de monnaies d'une valeur supérieure.
-La tentative sera punie d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six francs à mille francs.
+Seront punis d'un emprisonnement de huit jours à six mois et d'une amende de vingt-six euros à cinq cents euros, ceux qui, dans le but de les mettre en circulation, auront reçu ou se seront procuré des monnaies auxquelles on a donné l'apparence de monnaies d'une valeur supérieure.
+La tentative sera punie d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six euros à mille euros.
