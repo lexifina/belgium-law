@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.928",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72928,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 49.508/VII-11.634",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72928",
+  "source_sha256": "22f158fc24c5ead12dd17e7b5ede7fe94ad4e41d1d766ad5ccbe3d76a2bec8bd",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
