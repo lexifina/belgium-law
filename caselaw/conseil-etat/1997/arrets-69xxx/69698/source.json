@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.698",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69698,
+  "decision_date": "1997-11-20",
+  "date_as_printed": "20 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.115/XI-2.298",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69698",
+  "source_sha256": "bfc8bb74c0a89ea265648200baa60891509582bd5c21ce2ff9211ef05996c234",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
