@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.081",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64081,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.024/III-22.572",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64081",
+  "source_sha256": "854ce42ada989eda4306a0a483dddb4808cb687d5ef5749db699de96d2c3f04d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
