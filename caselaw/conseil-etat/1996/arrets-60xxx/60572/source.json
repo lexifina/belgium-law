@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.572",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60572,
+  "decision_date": "1996-06-27",
+  "date_as_printed": "27 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 67.949/VII-13.733",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60572",
+  "source_sha256": "b1270ca1acb9c94d149ed90f64738c0e7748a86949fa3e48b167875aef8cfea7",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
