@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.266",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73266,
+  "decision_date": "1998-04-24",
+  "date_as_printed": "24 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.336/XII-1.252",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73266",
+  "source_sha256": "8ebf7d5213d8a56112c3cbe7a0c8542895fe8a3e252f3a88973a8ebfb8e379cb",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
