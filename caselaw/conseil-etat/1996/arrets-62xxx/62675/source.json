@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.675",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62675,
+  "decision_date": "1996-10-23",
+  "date_as_printed": "23 octobre 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.086/VI-13.118",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62675",
+  "source_sha256": "990fff659577b5e872dc30edcf3cc2f4ea5569f42faecdbeb49dc5fe0fa2eaea",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
