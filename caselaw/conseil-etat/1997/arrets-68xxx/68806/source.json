@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.806",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68806,
+  "decision_date": "1997-10-13",
+  "date_as_printed": "13 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.865/XI-3.408",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68806",
+  "source_sha256": "22d119d32bcccb1109838b34119988678a5cdd21228b1a8ef8f21cba7634dec2",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
