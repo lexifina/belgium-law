@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.041",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73041,
+  "decision_date": "1998-04-10",
+  "date_as_printed": "10 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.070/XI-4.276",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73041",
+  "source_sha256": "569fe3d802e976efed9275cebf42cbfe0548fabe6a4cc8927c633639eec4cb9f",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
