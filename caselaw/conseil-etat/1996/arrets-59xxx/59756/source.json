@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.756",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59756,
+  "decision_date": "1996-05-22",
+  "date_as_printed": "22 mei 1996",
+  "chamber": "IV",
+  "role_number": "A. 67.567/IV-2.628",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59756",
+  "source_sha256": "1f5e8257ea8d5dcfc7d99bbe908a4d852a84ce3f240180bccb54f254179b2554",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
