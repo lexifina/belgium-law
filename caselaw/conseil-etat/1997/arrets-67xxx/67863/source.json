@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.863",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67863,
+  "decision_date": "1997-09-02",
+  "date_as_printed": "2 septembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.210/XI-2.578",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67863",
+  "source_sha256": "35d2706e2dbfa73e0761af6bf99b98fe130586ab5a938e1cf22df0f55633cbf9",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
