@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.051",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66051,
+  "decision_date": "1997-04-24",
+  "date_as_printed": "24 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 61.697/III-2.758",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66051",
+  "source_sha256": "0845438080d328babc232c3aac933339856fcb5206f51e85a82dcde69fd8f859",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
