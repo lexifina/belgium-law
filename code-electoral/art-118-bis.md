@@ -1,0 +1,2 @@
+Le président du bureau principal (de circonscription électorale pour la Chambre des représentants) ajoute au bas des extraits de listes de candidats communiqués au Ministre de l'interieur en vertu de l'article précédent, l'affiliation à laquelle les candidats ont déclaré vouloir adhérer.
+Le Ministre fait publier au Moniteur belge paraissant le dix-septième jour avant le scrutin un tableau indiquant les numéros d'ordre attribués aux différents affiliations ainsi que les noms des deux premiers candidats et le sigle de chaque liste.

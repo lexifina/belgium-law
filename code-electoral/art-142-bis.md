@@ -1,0 +1,2 @@
+Par dérogation à l'article 142, quatrième alinéa, les électeurs visés à l'article 89bis ne peuvent en aucun cas être admis au vote s'ils ne sont pas porteurs du modèle spécial de lettre de convocation visé à l'article 107bis.
+Les noms des électeurs des communes de Fourons et de Comines-Warneton qui se présentent dans les bureaux de vote visés à l'article 89bis pour y exprimer leur suffrage, sont pointés sur les exemplaires de la liste des électeurs visés à l'article 96, alinéa 3.
