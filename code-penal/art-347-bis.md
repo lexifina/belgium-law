@@ -1,5 +1,7 @@
-La prise d'otages sera punie (de la réclusion de vingt à trente ans).
-Constituent une prise d'otages, l'arrestation, la détention ou l'enlèvement de personnes pour répondre de l'exécution d'un ordre ou d'une condition, tel que préparer ou faciliter l'exécution d'un crime ou d'un délit, favoriser la fuite, l'évasion, obtenir la libération ou assurer l'impunité des auteurs ou des complices d'un crime ou d'un délit.
-La peine sera (la réclusion de quinze à vingt ans) si dans les cinq jours de l'arrestation, de la détention ou de l'enlèvement, la personne prise comme otage a été libérée volontairement sans que l'ordre ou la condition ait été exécuté.
-La peine sera (la réclusion à perpétuité) si l'arrestation, la détention ou l'enlèvement de la personne prise comme otage a causé soit une maladie paraissant incurable, soit une incapacité permanente physique ou psychique, soit la perte complète de l'usage d'un organe, soit une mutilation grave, soit la mort.
-La même peine sera appliquée si les malfaiteurs ont soumis la personne prise comme otage à des tortures corporelles.
+§ 1er. Constituent une prise d'otages, l'arrestation, la détention ou l'enlèvement de personnes pour répondre de l'exécution d'un ordre ou d'une condition, tel que préparer ou faciliter l'exécution d'un crime ou d'un délit, favoriser la fuite, l'évasion, obtenir la libération ou assurer l'impunité des auteurs ou des complices d'un crime ou d'un délit.
+§ 2. La prise d'otages sera punie de la réclusion de vingt ans à trente ans.
+La peine sera la réclusion à perpétuité si la personne prise comme otage est un mineur.
+§ 3. Sauf dans les cas vises au § 4, la peine sera la réclusion de quinze ans à vingt ans si dans les cinq jours de l'arrestation, de la détention ou de l'enlèvement, la personne prise comme otage a été libérée volontairement sans que l'ordre ou la condition ait été exécuté.
+§ 4. La peine sera la réclusion à perpétuité dans les cas suivants:
+1° si l'arrestation, la détention ou l'enlèvement de la personne prise comme otage a causé soit une maladie paraissant incurable, soit une incapacité permanente physique ou psychique, soit la perte complète de l'usage d'un organe, soit une mutilation grave, soit la mort;
+2° si la personne prise comme otage a été soumise à des tortures corporelles.

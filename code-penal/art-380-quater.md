@@ -1,2 +1,1 @@
-Sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six francs à cinq cents francs, quiconque, dans un lieu public aura par paroles, gestes ou signes provoqué une personne à la débauche. La peine sera élevée au double si le délit a été commis envers un mineur.
-(Alinéa 2 abrogé)
+(abrogé)

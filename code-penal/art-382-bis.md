@@ -1,4 +1,5 @@
-Sans préjudice de l'article 382, toute condamnation pour des faits visés aux articles 372 à 386ter, accomplis sur un mineur de moins de seize ans ou impliquant sa participation, peut comporter, pour une durée de 1 à 20 ans, l'interdiction du droit:
-a) de participer, à quelque titre que ce soit, à un enseignement donné dans un établissement public ou privé qui accueille des mineurs;
-b) de faire partie, comme membre bénévole, membre du personnel statutaire ou contractuel ou comme membre des organes d'administration et de gestion, de toute institution ou association dont l'activité concerne à titre principal les mineurs.
-L'application de cette interdiction se fera conformément aux alinéas 3 et 4 de l'article 382.
+Sans préjudice de l'application de l'article 382, toute condamnation pour des faits visés aux articles 372 à 377, 379 à 380ter, 381 et 383 à 387, accomplis sur un mineur ou impliquant sa participation, peut comporter, pour une durée d'un an à vingt ans, l'interdiction du droit:
+1° de participer, à quelque titre que ce soit, à un enseignement donné dans un établissement public ou privé qui accueille des mineurs;
+2° de faire partie, comme membre bénévole, membre du personnel statutaire ou contractuel, ou comme membre des organes d'administration et de gestion, de toute personne morale ou association de fait dont l'activité concerne à titre principal les mineurs;
+3° d'être affecté à une activité qui place le condamné en relation de confiance ou d'autorité vis-à-vis de mineurs, comme membre bénévole, membre du personnel statutaire ou contractuel ou comme membre des organes d'administration et de gestion, de toute personne morale ou association de fait.
+L'article 389 est applicable à la présente disposition.
