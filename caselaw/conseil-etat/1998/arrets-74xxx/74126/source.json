@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.126",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74126,
+  "decision_date": "1998-06-04",
+  "date_as_printed": "4 juin 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.630/XI-4.432",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74126",
+  "source_sha256": "c1077e80c7641125e1481b93e6e97e016f9436e9948caaaff11b7b4c1df01b2b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
