@@ -1,8 +1,1 @@
-§ 1. Est punie d'un emprisonnement d'un mois à un an et d'une amende de 50 à 10 000 francs ou d'une de ces peines seulement toute personne qui, ayant connaissance, par fonction ou profession, d'informations qui, si elles étaient rendues publiques, seraient, en raison de leur caractère suffisamment précis et certain, de nature à influencer de manière sensible le cours de titres admis à la cote officielle ou traités aux ventes publiques supplémentaires d'une bourse de fonds publics et de change du Royaume, a, avant que ces informations soient rendues publiques:
-1° acquis ou aliéné directement ou indirectement de tels titres en exploitant l'information dont elle a connaissance afin de réaliser un profit ou d'éviter une perte;
-2° recommandé à un tiers, sur base de cette information, l'aliénation ou l'acquisition de tels titres afin de lui permettre de réaliser un profit ou d'éviter une perte;
-3° ou communiqué à un tiers cette information afin de lui permettre de réaliser un profit ou d'éviter une perte.
-Si les opérations visées au 1° ont eu lieu en bourse, le délinquant peut en outre être condamné à payer une somme correspondant à tout ou partie du profit acquis directement ou indirectement ou de la perte évitée. Cette somme est recouvrée comme l'amende.
-§ 2. Le tribunal, ainsi que le procureur du Roi, peuvent, en tout état de la procédure, demander l'avis de la Commission bancaire, celui de la Commission de la bourse concernée et celui du Comité de la cote concerné.
-Ces avis sont donnés dans le mois, sauf prorogation de ce délai par le tribunal ou par le procureur du Roi. A défaut d'avis donné dans ce délai éventuellement prorogé, la procédure continue.
-Une copie de la demande d'avis et des avis recus est jointe au dossier de la procédure.
+(Abrogé)
