@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.328",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72328,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.632/XI-4.139",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72328",
+  "source_sha256": "9a3e9ca1bb752c799f4fb253f4d915e7466eb3257fb30206eae861b8d5174e2f",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
