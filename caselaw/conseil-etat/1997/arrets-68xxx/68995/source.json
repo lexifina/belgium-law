@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.995",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68995,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 36.027/VII-6.689",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68995",
+  "source_sha256": "385106c1c63cfb398d983652321cbb2e73e1612fc62fe0947b19e7b22919edc5",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
