@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.237",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71237,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 januari 1998",
+  "chamber": "X",
+  "role_number": "A. 69.743/X-6.734",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71237",
+  "source_sha256": "bb62811b13315092f79511743c296ba508bcc4aabd05366930ad978eaee066af",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
