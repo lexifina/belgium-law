@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.138",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57138,
+  "decision_date": "1995-12-20",
+  "date_as_printed": "20 décembre 1995",
+  "chamber": "VI",
+  "role_number": "A. 60.186/VI-12.017",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57138",
+  "source_sha256": "9844b856be19549b2d492f0817b8c613b42b7d7b76eb50b095eda24515a5e7b2",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
