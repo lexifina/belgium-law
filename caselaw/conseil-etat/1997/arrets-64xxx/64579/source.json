@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.579",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64579,
+  "decision_date": "1997-02-18",
+  "date_as_printed": "18 februari 1997",
+  "chamber": "VII",
+  "role_number": "A. 66.823/VII-13.562",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64579",
+  "source_sha256": "fc5a4efad472eefc2bba37cc4e5d92f1caa2fa5dbca3e4428e4c4a7a10865db2",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
