@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.735",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73735,
+  "decision_date": "1998-05-18",
+  "date_as_printed": "18 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 71.174/XI-1.566",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73735",
+  "source_sha256": "7dc0c459381ac6d7a788d7f5db63fca71b046a478ec8a64b808ebb778108596e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
