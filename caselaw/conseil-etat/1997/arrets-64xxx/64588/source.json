@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.588",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64588,
+  "decision_date": "1997-02-18",
+  "date_as_printed": "18 februari 1997",
+  "chamber": "X",
+  "role_number": "A. 68.723/X-6.533",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64588",
+  "source_sha256": "66d35820f75052128cf9435e61503bf5b26faa410a188f5dfd4f03b826c486c6",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
