@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.420",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60420,
+  "decision_date": "1996-06-25",
+  "date_as_printed": "25 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.376/X-6.537",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60420",
+  "source_sha256": "ec8896966f273a572090379ac1ea371590cdbd5d505cbea5088ed0ed46c77548",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
