@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.289",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71289,
+  "decision_date": "1998-01-28",
+  "date_as_printed": "28 januari 1998",
+  "chamber": "X",
+  "role_number": "A. 74.653/X-7.493",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71289",
+  "source_sha256": "8f4d26e0e980e29c20c5ea3ac793a1f9fcd33afbb293b21b982bb10b14b13247",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
