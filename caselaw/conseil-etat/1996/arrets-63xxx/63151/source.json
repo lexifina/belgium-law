@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.151",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63151,
+  "decision_date": "1996-11-20",
+  "date_as_printed": "20 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.185/IV-3.223",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63151",
+  "source_sha256": "a15121df7cf3d58ea7741723d4591c853ee93e5a03d2155b946676f0e41cc254",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
