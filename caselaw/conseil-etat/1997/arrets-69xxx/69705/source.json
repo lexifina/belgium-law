@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.705",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69705,
+  "decision_date": "1997-11-20",
+  "date_as_printed": "20 novembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 52.271/XIII-125",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69705",
+  "source_sha256": "231a3a1d581e208947ac8797e56bf5fd4b8995bb16ae1cf20a1ace4286b2a773",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
