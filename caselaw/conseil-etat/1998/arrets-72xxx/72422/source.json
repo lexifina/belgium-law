@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.422",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72422,
+  "decision_date": "1998-03-12",
+  "date_as_printed": "12 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 73.385/VII-15.260",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72422",
+  "source_sha256": "5fbf03f18ea48fb556df23ded05ef3a298c1917785ee17fc321f5514a4107411",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
