@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 50.370",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 50370,
+  "decision_date": "1994-11-24",
+  "date_as_printed": "24 november 1994",
+  "chamber": "X",
+  "role_number": "A. 58.447/X-9.382",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/50370",
+  "source_sha256": "de9f831babc6220b696cd74557ff6b6e4fab787083aa06b5fc55d24b2cf23728",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
