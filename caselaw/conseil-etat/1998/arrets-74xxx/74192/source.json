@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.192",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74192,
+  "decision_date": "1998-06-10",
+  "date_as_printed": "10 juin 1998",
+  "chamber": "XIII",
+  "role_number": "A. 72.158/XIII-16",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74192",
+  "source_sha256": "3a6288ba03602ad9621827f92d78684e2768a05f02af8c4013cd249119d1ab96",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
