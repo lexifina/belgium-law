@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.641",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55641,
+  "decision_date": "1995-10-11",
+  "date_as_printed": "11 octobre 1995",
+  "chamber": "III",
+  "role_number": "A. 65.850/III-21.845",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55641",
+  "source_sha256": "eaccd702de7cf033ef3de8f024254dc35ac727c551f1099fd99f1a06adedab03",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
