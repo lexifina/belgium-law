@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.240",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65240,
+  "decision_date": "1997-03-14",
+  "date_as_printed": "14 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.367/III-22.686",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65240",
+  "source_sha256": "c2a4ef3468af1bfd831d92a1b84c0af39b1aa948aca2727ece69c9bb1ede3d1f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
