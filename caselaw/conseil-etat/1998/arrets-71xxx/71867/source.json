@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.867",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71867,
+  "decision_date": "1998-02-17",
+  "date_as_printed": "17 februari 1998",
+  "chamber": "X",
+  "role_number": "A. 47.685/X-4.649",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71867",
+  "source_sha256": "270519f765b96b78fda81cb1ee9b29f554c0e721056b873d1eb5461e970ec923",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
