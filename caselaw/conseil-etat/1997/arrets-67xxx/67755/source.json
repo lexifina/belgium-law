@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.755",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67755,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "III",
+  "role_number": "A. 65.045/III-21.506",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67755",
+  "source_sha256": "a35df3f5cf13a366f649818951a8c7a3916d8630b1ae2db05fdf3571dc62906a",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
