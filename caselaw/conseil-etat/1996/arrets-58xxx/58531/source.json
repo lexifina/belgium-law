@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.531",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58531,
+  "decision_date": "1996-03-11",
+  "date_as_printed": "11 mars 1996",
+  "chamber": "XI",
+  "role_number": "A. 67.919/XI-572",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58531",
+  "source_sha256": "61d6904aba0bb52f5229fe40a09b817030dffaff7a8400a9c30c40300c642741",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
