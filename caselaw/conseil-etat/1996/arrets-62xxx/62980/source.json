@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.980",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62980,
+  "decision_date": "1996-11-06",
+  "date_as_printed": "6 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 65.451/III-21.670",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62980",
+  "source_sha256": "73bbc2a532be487c1b3df7214a33cc896b1745a719a835ed05bc64117c53cd1a",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
