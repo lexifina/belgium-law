@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.314",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58314,
+  "decision_date": "1996-02-22",
+  "date_as_printed": "22 februari 1996",
+  "chamber": "VII",
+  "role_number": "A. 62.181/VII-12.990",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58314",
+  "source_sha256": "129dcf49e1d4307593d674cc47f975b081491776f7f6c85a69383f1cc080a713",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
