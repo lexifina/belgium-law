@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.210",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68210,
+  "decision_date": "1997-09-17",
+  "date_as_printed": "17 september 1997",
+  "chamber": "IX",
+  "role_number": "A. 75.487/IX-146",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68210",
+  "source_sha256": "436e1e21b2414d07a7b4f9f485018bc2cd38551003a10b3b11c563e65e59fdac",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
