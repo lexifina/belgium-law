@@ -1,0 +1,12 @@
+§ 1er. Sont attribués aux chambres ne comprenant qu'un conseiller:
+1° les appels des jugements rendus par le juge au tribunal de la jeunesse;
+2° les recours visés à l'article 603, 4°;
+3° les demandes fondées sur les articles 606 et 1718.
+§ 2. A l'exception des demandes relatives à l'état des personnes, sont de même attribués aux chambres qui ne comprennent qu'un conseiller:
+1° les appels des décisions rendues en matière civile par une chambre du tribunal de première instance qui ne comprend qu'un juge;
+2° les appels des décisions rendues par le président du tribunal de première instance ou par le président du tribunal de commerce;
+Néanmoins, les appels énumérés à l'alinéa 1er sont, dans tous les cas, attribués aux chambres composées de trois conseillers à la cour lorsque la demande en est faite par l'appelant dans son acte d'appel principal.
+La cause est également attribuée ou renvoyée à une chambre composée de trois conseillers à la cour lorsque la demande en est faite par l'intime, par lettre recommandée adressée au greffier des rôles, au plus tard dans les trente jours de la signification ou de la notification de l'acte d'appel.
+Le délai est prescrit à peine de déchéance.
+§ 3. Les causes autres que celles qui sont visées au §§ 1er et 2, sont attribuées à des chambres composées de trois conseilleres à la cour.
+§ 4. Lorsque de plusieurs causes connexes, l'une d'elles au moins doit être portée devant une chambre composée de trois conseillers à la cour, le premier président les fixe toutes devant une telle chambre, même s'il y a lieu, à cette fin, de modifier leur distribution antérieure.
