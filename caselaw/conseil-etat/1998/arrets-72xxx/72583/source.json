@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.583",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72583,
+  "decision_date": "1998-03-18",
+  "date_as_printed": "18 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.813/XI-4.208",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72583",
+  "source_sha256": "3ce57292fecf61dab8c328ba0435bbdeac6b83addb723de707441db4b8bbebd3",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
