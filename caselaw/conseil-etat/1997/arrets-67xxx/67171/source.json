@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.171",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67171,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "VI",
+  "role_number": "A. 66.346/VI-12.896",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67171",
+  "source_sha256": "4ec84c3c4ffdf7ed14d6975e4c73c7ddafa8ea29a4d6eddd93aeced3dcd3b1e3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
