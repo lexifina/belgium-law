@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.888",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70888,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 44.160/XII-72",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70888",
+  "source_sha256": "fe649c14cb2fee3263b58def8ee1599e5bf63fc541878ec553f21374f3adc29c",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
