@@ -1,0 +1,587 @@
+CONSEIL D’ETAT, SECTION D’ADMINISTRATION.
+
+                      ARRET
+
+            no 72.899 du 1 avril 1998
+
+A.65.974/VI-13.947
+
+En cause :  la Société anonyme SOTRELCO,
+
+            ayant élu domicile chez
+            Me Fr. LIBERT, avocat
+            avenue Emile De Mot 19
+            1000 Bruxelles,
+
+            contre :
+
+            la Régie des Bâtiments,
+
+            ayant élu domicile chez
+            Mes Dominique GERARD et
+            Eric MARON, avocats,
+            rue Capitaine Crespel 2-4
+            1050 Bruxelles.
+
+---------------------------------------------------------
+
+            LE CONSEIL D’ETAT, VIe CHAMBRE,
+
+              Vu la requête introduite le 16 octobre 1995 par la
+Société anonyme SOTRELCO qui demande l’annulation de "la
+décision de la partie adverse de considérer comme irrégu-
+lière la soumission de la S.A. SOTRELCO en application de
+l’article 20 § 5 et 25 § 2 de l’Arrêté Royal du 22.04.77,
+à cause des prix prétendument anormaux des postes 51, 53,
+55, 106, 109, 122, 141, 142 et 143 de la soumission, et
+(de) la décision subséquente d’adjuger le marché à la S.A.
+ENI";
+
+              Vu les mémoires en réponse et en réplique régu-
+lièrement échangés;
+
+              Vu le rapport de M. FORTPIED, premier auditeur;
+
+              Vu l’ordonnance du 7 juin 1996 ordonnant le dépôt
+au greffe du dossier et du rapport;
+
+                                                                                                                                        VI - 13.947 - 1/13
+              Vu la notification du rapport aux parties et les
+derniers mémoires;
+
+              Vu l’ordonnance du 18 février 1998, notifiée aux
+parties, fixant l’affaire à l’audience du 25 mars 1998;
+
+              Entendu, en son rapport, M. HANSE, conseiller
+d’Etat;
+
+              Entendu, en leurs observations, Me SOHIER, avocat,
+comparaissant pour la requérante et Me MARON, avocat,
+comparaissant pour la partie adverse;
+
+              Entendu, en son avis contraire, M. DEROUAUX, pre-
+mier auditeur au Conseil d’Etat;
+
+              Vu le titre VI, chapitre II, des lois sur le
+Conseil d’Etat, coordonnées le 12 janvier 1973;
+
+              Considérant que les faits utiles à l’examen de la
+requête se présentent comme suit :
+
+              1. Par cahier spécial des charges n˚
+94/30.2240/021E, la Régie des Bâtiments met en compétition
+un marché ayant pour but "la fourniture et le montage en
+état de fonctionnement de l’installation électrique quant
+à la construction d’un immeuble de bureaux pour la Commis-
+sion Européenne, rue Belliard 25-33 à 1040 Bruxelles".
+
+              Il y est prévu que l’entreprise est divisée en
+deux parties, d’une part, l’installation de base et,
+d’autre part, l’extension (le câblage téléphonique et
+informatique et l’installation de paratonnerres), que la
+commande de chaque partie se fera par ordre de service
+séparé et que la Régie se réserve le droit de ne pas
+commander la partie 2 sans aucun droit de dédommagement
+pour l’entrepreneur.
+
+                                                                                                                                        VI - 13.947 - 2/13
+              L’ouverture des soumissions pour l’adjudication
+publique est fixée au 18 mai 1995.
+
+              2. Le 29 mai 1995, l’ouverture des soumissions
+révèle 21 offres, dont les plus basses sont :
+
+ - celle de SOTRELCO, d’un montant de 38.650.479 frs,
+ - celle de CEGELEC, d’un montant de 38.664.214 frs,
+ - celle de ENI, d’un montant de 41.706.096 frs,
+ - celle de EAGLE Int., d’un montant de 42.021.146 frs,
+ - celle de GAZEL, d’un montant de 42.125.103 frs.
+
+              3. Un tableau des prix rectifie les montants des
+offres et les classe comme suit :
+
+1˚- CEGELEC COMSIP S.A.       38.791.993
+2˚- SOTRELCO S.A.             39.310.721
+3˚- EAGLE INTERNATIONAL N.V.  42.731.353
+4˚- GAZEL S.A.                42.856.840
+5˚- E.N.I. N.V.               42.291.795
+
+Il compare également les prix offerts par chacune de ces
+cinq offres pour chacun des 155 postes.
+
+              4. Le 2 juin 1995, la partie adverse adresse à la
+requérante une lettre libellée comme suit :
+
+" Conformément à l’article 25 de l’A.R. du 22 avril 1977
+   relatif aux marchés publics de travaux, de fournitures
+   et de services, modifié par l’article 2 § 2 de l’arrêté
+   royal du 19 août 1985, je vous invite à me fournir la
+   justification du prix unitaire des postes 51, 53, 55,
+   85, 106, 109, 122, 141, 142 et 143, qui apparaissent
+   anormalement bas.
+
+   J’attire votre attention sur le fait que le cahier
+   spécial des charges spécifie que :
+
+   - pour le poste 53, la boîte de sol est équipée avec 3
+       prises de courant fort.
+
+   - pour les postes 141 et 142, "un point d’accès" est
+       équipé d’une prise double RJ45 pour l’informatique et
+       une prise simple RJ45 pour la téléphonie.
+
+                              VI - 13.947 - 3/13
+   En plus, je vous demande de me confirmer que le matériel
+   proposé pour les postes 106 et 109 est conforme et
+   d’ajouter la documentation, attestation d’essais, etc...
+   nécessaires.
+
+   Les justifications demandées, avec copies des offres des
+   sous-traitants et des fournisseurs, doivent me parvenir
+   dans le délai prévu de 12 jours de calendrier."
+
+              Par courrier du même jour, de semblables demandes
+de justification de prix apparemment anormaux sont adres-
+sées à la S.A. CEGELEC et à la N.V. E.N.I.
+
+              5. Par lettre du 16 juin 1995, la requérante
+justifie notamment chacun des postes tenus pour anormale-
+ment bas en indiquant, justificatifs des fournisseurs à
+l’appui, son prix d’achat, la marge qu’elle prend, la
+durée et le coût de la main d’oeuvre.
+
+              6. Le 19 juin 1995, un rapport définitif d’analyse
+des offres est établi par l’ingénieur industriel DE
+BISSCHOP. Il reprend le classement des offres lors de
+l’ouverture des soumissions et le classement après examen
+des opérations arithmétiques et après les corrections
+éventuelles, et indique le classement après vérification
+des quantités modifiées et des omissions ajoutées par le
+soumissionnaire.
+Examinant les offres sous l’angle des prix anormaux, il
+indique ce qui suit :
+
+" 1. En application de l’article 25 § 3 de l’arrêté royal
+   du 22.04.1977.
+
+   Le montant moyen des soumissions qui ont été déposées,
+   calculé conformément aux dispositions figurant à l’arti-
+   cle 25 § 3 de l’arrêté royal du 22.04.1977, modifié par
+   l’arrêté royal du 19.08.1985, s’élève à 44.087.521 FB.
+
+   Le montant limite (= montant moyen - 15 %) se chiffre à
+   37.474.393 FB.
+
+   Aucune soumission n’est inférieure à ce montant limite.
+
+   2. En application de l’article 25 § 2 de l’arrêté royal
+   du 22.04.1977.
+
+                                                                                                                                        VI - 13.947 - 4/13
+   Les offres remises par la S.A. CEGELEC, la S.A. SOTRELCO
+   et la N.V. E.N.I. contiennent des prix unitaires qui
+   paraissent anormaux.
+
+   Nous avons, par lettre datée du 02.06.1995, invité ces
+   soumissionnaires à fournir des justifications néces-
+   saires.
+
+   L’examen des explications qui ont été fournies nous a
+   permis de tirer les conclusions suivantes :
+
+   1) S.A. CEGELEC
+       (...)
+
+   2) S.A. SOTRELCO
+
+   Il ressort de la vérification de la justification qui a
+   été donnée que :
+   - les prix unitaires ont été justifiés sans tenir compte
+
+       de la remise admise de 2,5 %;
+   - le prix du placement a été calculé sur la base d’un
+
+       salaire horaire de 720 FB alors que le prix de la
+       soumission est de 1.181,7 FB pour le poste 138 (sa-
+       laire horaire);
+   - les postes 51 et 53 sont justifiés par des offres peu
+       crédibles du 16.06.1995 et dépourvues de signature.
+
+   - poste 55 : - le matériel proposé n’est pas conforme
+                               hauteur = 130 mm au lieu de 160 mm;
+                               certains éléments indispensables tels que
+                               la cloison, les pièces d’angle, les
+                               plaques terminales, les étriers, les
+                               ressorts de serrage du couvercle, (...)
+                               font défaut dans le calcul du prix.
+
+   - poste 106 :- l’appareil proposé n’est pas conforme :
+                               * les réflecteurs transversaux ne sont
+                                   pas découpés paraboliquement et le
+                                   côté supérieur n’est pas muni d’une
+                                   couverture.
+                               * la luminance moyenne est supérieure à
+                                   200 cd/m2.
+                               * les luminances de crête ne sont pas
+                                   éliminées.
+
+- poste 109 : - l’appareil proposé n’est pas conforme :
+                               le réflecteur est en polycarbonate métal-
+                               lisé au lieu d’être en aluminium argenté.
+
+- poste 122 : - offre peu crédible datée du 15.06.1995.
+
+- poste 141 : - justification peu crédible : durée de
+                               placement nettement insuffisante.
+
+- poste 142 : - justification peu crédible : durée de
+                               placement nettement insuffisante.
+
+                                                                                                                                        VI - 13.947 - 5/13
+- poste 143 : - justification peu crédible : durée de
+                               placement nettement insuffisante.
+
+Etant donné que pour les postes concernés la justification
+donnée est inacceptable, les prix unitaires des postes 51,
+53, 55, 106, 109, 122, 142 et 143 sont considérés comme
+anormaux et la soumission de la S.A. SOTRELCO est, vu
+l’importance de ces postes dans l’ensemble du marché,
+considéré(e) comme irrégulière et partant comme nulle et
+non avenue.
+
+3) N.V.E.N.I.
+   (...)
+
+Il ressort du tableau de classement des soumissions qu’il
+y a une différence de prix importante entre les soumis-
+sionnaires classés premier et deuxième et les soumission-
+naires classés troisième à vingt et un.
+
+La différence de prix entre la S.A. CEGELEC et la S.A.
+SOTRELCO d’une part, et l’entrepreneur classé troisième,
+à savoir la N.V. E.N.I., d’autre part, est due principale-
+ment aux postes 141, 142 et 143, qui sont des postes de la
+deuxième partie - extension.
+
+Le cahier des charges stipule en partie I - Objet du
+marché - que "la Régie se réserve le droit de ne pas
+commander la partie 2".
+
+La S.A. CEGELEC et la S.A. SOTRELCO ont tenu compte de
+cette absence éventuelle de commande pour la deuxième
+partie des travaux et ont prévu des prix anormalement bas
+pour celle-ci.
+
+A titre de comparaison, les montants totaux, T.V.A.
+comprise, pour la partie 2 des trois soumissionnaires
+classés les plus bas :
+
+ 1) S.A. CEGELEC : 3.145.296 FB
+ 2) S.A. SOTRELCO : 3.975.256 FB
+ 3) N.V. E.N.I. : 5.591.271 FB
+
+Les montants totaux, remis par les autres soumissionnai-
+res, pour les travaux de la deuxième partie sont compris
+entre 4,3 et 6,6 millions FB.
+
+Ces prix anormalement bas sont cependant compensés par-
+tiellement, pour ce qui est de la S.A. CEGELEC, par les
+postes 22, 45, 46 et 55 et par les postes concernant les
+appareillages de la première partie et, pour ce qui est de
+la S.A. SOTRELCO, par les postes 12 et 138.
+
+Cette forme de spéculation est contraire à l’article 20 §
+5 de l’arrêté royal du 22.04.1977.
+
+Le poste 106 - EMFs 1.36 constitue la deuxième raison
+importante de la différence de prix entre les deux soumis-
+sionnaires les moins chers et le soumissionnaire classé en
+
+                                                                                                                                        VI - 13.947 - 6/13
+troisième ordre. Les appareils d’éclairage EMFs (1.227
+pièces), placés dans les bureaux, sont la principale
+composante visible de l’installation électrique et sont en
+outre d’une grande importance au point de vue de la
+technique de l’éclairage du fait de l’utilisation d’écrans
+de visualisation dans les bureaux.
+
+La Commission européenne a d’ailleurs insisté par écrit
+auprès de la Régie afin que celle-ci prévoie des appareils
+d’éclairage de grande qualité.
+
+Le prix total, T.V.A. comprise, indiqué par les trois
+soumissionnaires les moins chers pour ce poste est donné
+ci-après à titre de comparaison :
+
+ 1) S.A. CEGELEC : 4.300.910 FB
+ 2) S.A. SOTRELCO : 4.131.544 FB
+ 3) N.V. E.N.I. : 5.251.756 FB
+
+La S.A. CEGELEC propose pour ce poste un appareil de la
+marque AEG qui est, comme il ressort des données annexées
+au document contenant la justification du prix, non
+conforme à la description figurant au cahier des charges.
+
+La S.A. SOTRELCO propose pour ce poste un appareil de la
+marque MITRALUX qui est, comme il ressort des données
+annexées au document contenant la justification du prix,
+non conforme à la description figurant au cahier des
+charges.
+
+L’appareil EMFs proposé par la N.V. E.N.I. est de la
+marque ETAP. Il s’agit d’un appareil qui figure dans le
+catalogue standard et qui est conforme à la description du
+cahier des charges."
+
+Il conclut que "les soumissions présentées par la S.A.
+
+CEGELEC et la S.A. SOTRELCO doivent, du fait de leur
+
+caractère irrégulier, être refusées en vertu de l’article
+
+20 § 5 de l’arrêté royal du 22.04.1977 et ce à cause des
+
+prix anormaux en application de l’article 25 § 2 de
+
+l’arrêté royal du 22.01.1977" (lire 22.04.1977) et que "la
+
+soumission régulière la plus basse a dès lors été présen-
+
+tée par la N.V. E.N.I.".
+
+              7. Par lettre recommandée du 17 août 1995, la
+
+partie adverse informe la requérante de ce qui suit :
+
+" Conformément à l’article 25 de l’A.R. du 22 avril 1977
+   relatif aux marchés publics de travaux, de fournitures
+   et de services, modifié par l’article 2 de l’arrêté
+   royal du 19 août 1985, je vous informe qu’après examen
+   des justifications fournies, les prix unitaires des
+   postes 51, 53, 55, 106, 109, 122, 141, 142 et 143, sont
+   considérés comme anormaux."
+
+                                                                                                                                        VI - 13.947 - 7/13
+              La requérante voit dans cette lettre une décision
+qui constitue le premier objet de son recours.
+
+              8. Par lettre du 5 septembre 1995, la requérante
+marque son désaccord et demande à la partie adverse de lui
+communiquer la motivation formelle des décisions interve-
+nues.
+
+              9. Le 13 septembre 1995, en réponse, la partie
+adverse communique à la requérante une copie de la "déci-
+sion d’attribution" libellée comme suit :
+
+" (...)
+
+Etant donné le fait que les entrepreneurs suivants ont
+fait une soumission dans l’adjudication mentionnée sous
+rubrique et ont été classés comme suit à l’ouverture des
+soumissions :
+
+1. S.A. SOTRELCO  39.641.516
+                  - 2,5 %
+                  38.650.479
+
+2. S.A. CEGELEC   38.664.214
+
+3. N.V.E.N.I.     41.706.096
+
+(...)
+
+Qu’après contrôle et rectification (art. 31 et 32 de
+l’A.R. du 22.04.1977), le classement des soumissions
+s’établit comme suit :
+
+1. S.A. CEGELEC 38.791.993
+
+2. S.A. SOTRELCO 39.310.721
+
+3. N.V. E.N.I. 42.291.795
+
+(...)
+
+Qu’il y a lieu de considérer la soumission de la S.A.
+CEGELEC comme irrégulière en application de l’article
+20 §5 et l’article 25 §2 de l’A.R. du 22 avril 1977, à
+cause des prix anormaux des postes 106, 109, 111, 136,
+142, 143 Chapitre 2 - groupe électrogène, 22, 45 et 55.
+
+Qu’il y a lieu de considérer la soumission de la S.A.
+SOTRELCO comme irrégulière en application de :
+- l’article 20 § 5 et l’article 25 § 2 de l’A.R. du 22
+avril 1977, à cause des prix anormaux des postes 51,
+53, 55, 106, 109, 122, 141, 142 et 143.
+
+                              VI - 13.947 - 8/13
+   Etant donné que la soumission du 23.05.1995 de la S.A.
+   E.N.I. doit être considérée comme la soumission régu-
+   lière la plus basse, vu :
+   - le montant de soumission définitivement retenu (art.
+   31 et 32, A.R. 22.04.1977) s’élevant à 42.291.795,-
+   BEF
+   - la conformité de la soumission aux dispositions essen-
+
+       tielles du Cahier des Charges
+   - l’enregistrement dans la catégorie 00
+   - l’agréation dans la catégorie et classe P1-classe 8
+   - le respect des obligations en matière de cotisations
+
+          à l’O.N.S.S.
+
+Et vu :
+   - le visa de l’Inspection des Finances
+
+   j’ai décidé d’attribuer le marché précité à la S.A.
+   E.N.I. pour un montant de 42.291.795,-BEF."
+
+              La requérante voit dans cette décision qui n’est
+pas datée mais porte un paraphe du 12 septembre 1995, le
+second objet de son recours;
+
+              Considérant que la partie adverse soulève une
+exception d’irrecevabilité qu’elle libelle comme suit :
+
+" La lettre du 17 août 1995 par laquelle la partie adverse
+   a informé la requérante des prix unitaires considérés
+   comme anormalement bas après examen des justifications
+   fournies, ne constitue (...) qu’une simple information
+   préalable à la décision d’attribution du marché qui
+   seule peut faire grief en théorie à la requérante.
+
+   Seule cette décision constitue, dès lors, un acte admi-
+   nistratif au sens de l’article 14 des lois coordonnées
+   sur le Conseil d’Etat.
+
+   S’il devait résulter des débats que le recours vise
+   également la lettre du 17 août 1995, il devrait, par
+   conséquent, être déclaré irrecevable de ce chef.";
+
+              Considérant qu’à bon droit, la partie adverse
+excipe de l’irrecevabilité du recours en tant qu’il se
+donne pour objet la lettre du 17 août 1995; qu’en effet,
+cette lettre ne constitue qu’une simple constatation
+servant de motif à la décision d’attribution du marché
+qui, seule, peut faire grief;
+
+                                                                                                                                        VI - 13.947 - 9/13
+              Considérant que la partie adverse soulève une
+seconde exception d’irrecevabilité, déduite de ce que "la
+requérante n’est pas (...) susceptible de retirer un quel-
+conque avantage de la procédure en annulation puisque le
+second moyen doit être rejeté"; qu’elle soutient en
+substance que, dès lors qu’elle a jugé à bon droit que
+certains des prix unitaires de la requérante étaient
+anormaux, et que, partant, le second moyen doit être
+rejeté, la requérante n’a pas intérêt à son premier moyen
+pris de l’absence ou de l’insuffisance de la motivation
+formelle, puisque, en cas d’annulation sur ce premier
+moyen, elle-même ne pourrait prendre une autre décision,
+différente de la première annulée;
+
+              Considérant que cette exception part du postulat
+que le second moyen de la requête doit être rejeté, que
+dès lors le premier moyen est sans intérêt et que, par-
+tant, le recours est irrecevable; qu’une telle exception,
+qui se confond avec le fond des moyens, ne peut être
+accueillie;
+
+              Considérant que la requérante prend un premier
+moyen "de la violation et/ou du défaut de respect par la
+partie adverse de son obligation de motivation formelle
+(articles 2 et 3 de la loi du 29.07.91), et (...), à titre
+subsidiaire, de l’insuffisance de la motivation formelle";
+qu’elle soutient que "la référence à deux articles de
+l’arrêté royal énonçant que certains prix peuvent être
+considérés comme anormaux, et l’indication des postes
+considérés comme anormaux ne constituent pas une justifi-
+cation de l’anormalité des prix, ni du caractère substan-
+tiel des prétendues irrégularités"; qu’à titre subsidiai-
+re, elle fait valoir que "cette prétendue motivation est
+tout à fait insuffisante puisqu’elle ne rencontre en rien
+l’argumentation et les pièces versées par la partie
+requérante dans sa justification de prix du 15.06.95";
+
+                                                                                                                                      VI - 13.947 - 10/13
+              Considérant que la partie adverse répond en subs-
+tance que seule la décision d’attribuer le marché à la
+S.A.E.N.I. devait être motivée formellement; que, selon
+elle, "afin de justifier l’attribution du marché à la S.A.
+E.N.I., elle pouvait se contenter, comme elle l’a fait, de
+souligner que les offres de la S.A. CEGELEC et de la
+requérante étaient irrégulières en application de l’arti-
+cle 25, § 2, et, plus particulièrement, en raison des prix
+anormalement bas des postes qui sont identifiés dans la
+décision litigieuse et qui ont été portés à la connais-
+sance de la requérante le 17 août 1995"; qu’elle soutient
+que la requérante ne pouvait ignorer ni que ses "explica-
+tions", données par sa lettre du 16 juin 1995, seraient
+considérées comme insuffisantes, ni "que le niveau de ses
+prix traduisait sa volonté de spéculer sur la non réalisa-
+tion éventuelle de la seconde partie du marché, puis-
+qu’elle est elle-même à l’origine de cette spéculation";
+
+              Considérant que l’acte attaqué, en tant qu’il
+tenait la soumission de la requérante pour irrégulière, et
+en tant qu’il la privait définitivement de toute chance de
+se voir adjuger le marché, devait être motivé conformément
+à la loi du 29 juillet 1991 relative à la motivation for-
+melle des actes administratifs;
+
+              Considérant que la "décision d’attribution"
+communiquée le 13 septembre 1995 n’indique pas les motifs
+pour lesquels la partie adverse a considéré comme anormaux
+certains des prix unitaires de la soumission de la requé-
+rante; qu’en particulier, elle ne mentionne ni la "spécu-
+lation" déduite, selon le rapport du 19 juin 1995, "prin-
+cipalement" des postes 141, 142 et 143, ni la non confor-
+mité du poste 106 qui constitue pourtant "la deuxième
+raison importante de la différence de prix"; que la
+motivation, qui n’énonce même pas les principaux éléments
+fondant la décision querellée, ne satisfait pas au pres-
+crit de la loi du 29 juillet 1991; que le moyen est fondé;
+
+                                                                                                                                      VI - 13.947 - 11/13
+              Considérant qu’il n’y a pas lieu d’examiner
+l’autre moyen de la requête,
+
+                                       DECIDE:
+
+Article 1er.
+              Est annulée la décision prise à une date inconnue
+
+par la Régie des Bâtiments, dans le cadre du marché ayant
+pour objet l’installation électrique d’un immeuble de
+bureaux en construction pour la Commission européenne, rue
+Belliard, 25-33, à 1040 Bruxelles (cahier spécial des
+charges no 94/30.2240/021E), de considérer comme irrégu-
+lière la soumission de la Société Anonyme SOTRELCO, et
+d’adjuger le marché à la Société Anonyme E.N.I.
+Article 2.
+
+              La requête est rejetée pour le surplus.
+Article 3.
+
+              Les dépens, liquidés à la somme de 4.000 francs,
+sont mis à charge de la partie adverse.
+
+              Ainsi prononcé à Bruxelles, en audience publique
+de la VIe chambre, le premier avril 1900 nonante-huit par :
+
+       MM. CLOSSET, président de chambre,
+
+                                                                                                                                      VI - 13.947 - 12/13
+HANSE,        conseiller d’Etat,
+
+LEWALLE, conseiller d’Etat,
+
+Mme NOTEBAERT, greffier.
+
+Le Greffier,              Le Président,
+
+Chr. NOTEBAERT.           Ch.-L. CLOSSET.
+
+                                  VI - 13.947 - 13/13
+
