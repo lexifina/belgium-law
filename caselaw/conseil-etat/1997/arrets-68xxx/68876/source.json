@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.876",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68876,
+  "decision_date": "1997-10-14",
+  "date_as_printed": "14 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 56.744/XI-2.908",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68876",
+  "source_sha256": "c107b1ea7fe21fb85d729dadafad17a898bc99dcda76ac36458abae17b99e78b",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
