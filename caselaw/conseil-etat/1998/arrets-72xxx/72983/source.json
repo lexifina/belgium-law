@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.983",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72983,
+  "decision_date": "1998-04-03",
+  "date_as_printed": "3 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.023/XII-1.170",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72983",
+  "source_sha256": "4e148c04118bd83954b85e6d954f8128dc8a8b2c9342747043bdca5d55b6be9c",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
