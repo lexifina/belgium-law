@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.579",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70579,
+  "decision_date": "1998-01-08",
+  "date_as_printed": "8 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 75.598/VII-15.884",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70579",
+  "source_sha256": "64ee9d1e8bb0b9532fec54d819ecf5e9796dae4b71719f6ed860b816d84b2029",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
