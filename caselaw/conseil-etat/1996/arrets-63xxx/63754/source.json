@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.754",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63754,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.807/III-22.522",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63754",
+  "source_sha256": "b24397c5f3f8d7e44af6b2a2d4f8a401c02aa0c3d73c2f8333a5029180001f35",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
