@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.668",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67668,
+  "decision_date": "1997-08-05",
+  "date_as_printed": "5 augustus 1997",
+  "chamber": "IV",
+  "role_number": "A. 66.924/IV-15.446",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67668",
+  "source_sha256": "09866f9bd5e3806a4172bbc9215e30bd607dba637378e07542b3591e020bf671",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
