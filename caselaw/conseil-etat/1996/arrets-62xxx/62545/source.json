@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.545",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62545,
+  "decision_date": "1996-10-14",
+  "date_as_printed": "14 octobre 1996",
+  "chamber": "VI",
+  "role_number": "A. 62.874/VI-12.978",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62545",
+  "source_sha256": "e3ac1090432e896559015b31875b7818b2b9c7547712adbfb0c7c24e004fe201",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
