@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.758",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63758,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.814/III-22.529",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63758",
+  "source_sha256": "e6dd174570af6a366d75def24b756d9b3b3cfb60b62e5268f665e4165e5adbd3",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
