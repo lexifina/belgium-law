@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.711",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73711,
+  "decision_date": "1998-05-15",
+  "date_as_printed": "15 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.522/XI-4.399",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73711",
+  "source_sha256": "f551e876f13200c2404935c51094d650d0b26f9978a301d45818a5ae6a956403",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
