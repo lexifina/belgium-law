@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.733",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67733,
+  "decision_date": "1997-08-26",
+  "date_as_printed": "26 augustus 1997",
+  "chamber": "VII",
+  "role_number": "A. 40.625/VII-8.873",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67733",
+  "source_sha256": "95fd66cfaffc7a64f16e35864a8fa4be7637ae64dc4c06626370d974b703d1aa",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
