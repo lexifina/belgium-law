@@ -1,1 +1,3 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(inséré par ) Contre l'Administration fiscale, et dans les contestations visées à l'article 569, alinéa 1er, 32°, l'action n'est admise que si le demandeur a introduit préalablement le recours administratif organisé par ou en vertu de la loi.
+L'action est introduite au plus tôt six mois après la date de réception du recours administratif au cas où ce recours n'a pas fait l'objet d'une décision et, à peine de déchéance, au plus tard dans un délai de trois mois à partir de la notification de la décision relative au recours administratif.
+Le délai de six mois visé à l'alinéa 2 est prolongé de trois mois lorsque l'imposition contestée a été établie d'office par l'administration.
