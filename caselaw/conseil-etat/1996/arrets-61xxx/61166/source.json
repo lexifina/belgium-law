@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.166",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61166,
+  "decision_date": "1996-08-20",
+  "date_as_printed": "20 augustus 1996",
+  "chamber": "X",
+  "role_number": "A. 70.288/X-3.627",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61166",
+  "source_sha256": "70aa2272939003379064ef995d09bb943aec8896cfc33f12b1e0f79276697038",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
