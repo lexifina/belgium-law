@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.565",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63565,
+  "decision_date": "1996-12-13",
+  "date_as_printed": "13 december 1996",
+  "chamber": "VII",
+  "role_number": "A. 72.415/VII-14.982",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63565",
+  "source_sha256": "b5e39c03b6fa18c93e39c174b3e89c66f5029cb2c07082f8db106a98320184f1",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
