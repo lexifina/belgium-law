@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.662",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66662,
+  "decision_date": "1997-06-10",
+  "date_as_printed": "10 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 69.571/IV-15.838",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66662",
+  "source_sha256": "6c0cff3af0632bb6af400342cb8daea27cd344a4092556f95d2374382905cfc7",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
