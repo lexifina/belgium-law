@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.263",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63263,
+  "decision_date": "1996-11-21",
+  "date_as_printed": "21 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 68.403/III-22.280",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63263",
+  "source_sha256": "78450c02ace75939e63159d49d8ccfcfd2e4d7f4b6c8b7949ea4c03f0e31b81a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
