@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.065",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66065,
+  "decision_date": "1997-04-24",
+  "date_as_printed": "24 avril 1997",
+  "chamber": "III",
+  "role_number": "A. 65.307/III-21.600",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66065",
+  "source_sha256": "970929fa7d51211d17d8f4eab77469a94dee0cf8040afdc37ecdeddd1681518f",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
