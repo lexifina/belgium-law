@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.290",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67290,
+  "decision_date": "1997-07-02",
+  "date_as_printed": "2 juillet 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.990/VI-251",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67290",
+  "source_sha256": "4f1a48b88f52668e97dd0cbd75c3e2b86aa86b7ea3babd741d16fdebbbf470d1",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
