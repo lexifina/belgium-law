@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.101",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70101,
+  "decision_date": "1997-12-09",
+  "date_as_printed": "9 décembre 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.961/XII-251",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70101",
+  "source_sha256": "2a49489af8aec025f85514e481465e7bc3d3e6232620bc0ecb5ec61c526f11f5",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
