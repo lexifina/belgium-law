@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.159",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71159,
+  "decision_date": "1998-01-27",
+  "date_as_printed": "27 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 68.259/XII-381",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71159",
+  "source_sha256": "a305d7500698b10b43942f6a83bca8716482d598c346efbbd20924d4982c990b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
