@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.943",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58943,
+  "decision_date": "1996-03-28",
+  "date_as_printed": "28 mars 1996",
+  "chamber": "III",
+  "role_number": "A. 67.288/III-2.233",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58943",
+  "source_sha256": "5f9133c6ebd0772f07561113edc3fe420cf3ea5605d834b22dfec346b934fc23",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
