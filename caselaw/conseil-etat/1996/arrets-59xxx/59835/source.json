@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.835",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59835,
+  "decision_date": "1996-05-31",
+  "date_as_printed": "31 mai 1996",
+  "chamber": "XI",
+  "role_number": "A. 69.040/XI-943",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59835",
+  "source_sha256": "2bc6d04226c935c6f12d30633139c4da271ea20d3fc8ea4f1841a9cce7d8d1ad",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
