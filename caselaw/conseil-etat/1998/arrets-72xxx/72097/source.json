@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.097",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72097,
+  "decision_date": "1998-02-26",
+  "date_as_printed": "26 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 68.407/VII-15.799",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72097",
+  "source_sha256": "a6218f81d7717ded03897555c547bc4e2cc303f672031d037d8d20948bfa11fa",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
