@@ -1,1 +1,1 @@
-<a name="Art.470">Art.</a> 470. Il est prélevé sur le montant des taxes additionnelles visées aux articles 465 à 469, une remise de 3 p.c. pour remboursement au Trésor des frais d'administration.
+<a name="Art.470">Art.</a> 470. Il est prélevé sur le montant des taxes additionnelles visées aux articles 465 à 469, une (remise de 2 %) pour remboursement au Trésor des frais d'administration. &lt;L 2001-12-10/34, art. 2, A, 101; <b> En vigueur : </b> 01-01-2002&gt;
