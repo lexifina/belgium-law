@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.045",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66045,
+  "decision_date": "1997-04-23",
+  "date_as_printed": "23 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.033/XI-2.003",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66045",
+  "source_sha256": "19f70304f0f590516b7e2695b4cd45ff0594854f0260946a41c79b6865cf4c4c",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
