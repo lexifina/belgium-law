@@ -1,0 +1,1 @@
+Ne sont pas à considérer comme rémunération, pour l'application de la présente loi: les paiements en espèces ou en actions ou parts aux travailleurs, en application de la loi du 22 mai 2001 relative aux régimes de participation des travailleurs au capital et aux bénéfices des sociétés.
