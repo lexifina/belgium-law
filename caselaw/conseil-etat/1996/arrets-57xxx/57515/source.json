@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.515",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57515,
+  "decision_date": "1996-01-15",
+  "date_as_printed": "15 januari 1996",
+  "chamber": "X",
+  "role_number": "A. 65.051/X-5.619",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57515",
+  "source_sha256": "a6d830712a597ecaa6702b7f9dc102534775ca19ce35e68240ee26ecb9e836d0",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
