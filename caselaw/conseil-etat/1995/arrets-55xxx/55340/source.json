@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.340",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55340,
+  "decision_date": "1995-09-22",
+  "date_as_printed": "22 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 63.450/III-20.833",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55340",
+  "source_sha256": "eb4fd9fc5e1139f469f98f8361df6b749a89dbd82fb8e5620e8435b0f2ae53cd",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
