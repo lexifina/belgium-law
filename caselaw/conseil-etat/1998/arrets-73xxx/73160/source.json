@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.160",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73160,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 72.381/XI-1.818",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73160",
+  "source_sha256": "a82b6081473b32ed27ac646bdfd7f4f40a18099f4d4b56de77ece1f947f7a594",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
