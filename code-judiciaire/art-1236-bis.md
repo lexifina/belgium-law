@@ -1,0 +1,12 @@
+§ 1er. La demande tendant à la constatation de l'impossibilité durable d'exercer l'autorité parentale est introduite devant le tribunal de première instance par le procureur du Roi. Ce dernier agit d'office ou à la demande de toute personne intéressée.
+A la requête sont joints tous les renseignements utiles, et notamment l'avis des père et mère, celui des ascendants au deuxième degré ainsi que celui des frères et soeurs majeurs de l'enfant mineur.
+§ 2. Le tribunal ordonne la comparution en chambre du conseil de toutes les personnes qu'il estime utile d'entendre; il est dressé procès-verbal de leur audition. Si l'une des personnes dont le procureur du Roi a obligatoirement recueilli l'avis a émis un avis défavorable à la mesure envisagée, cette personne est également convoquée et, si elle comparaît, elle peut déclarer par simple acte vouloir intervenir à la cause. Les convocations sont adressées aux interessés par le greffier sous pli judiciaire.
+Le mineur âgé de douze ans est également entendu séparément.
+§ 3. S'il fait droit à la demande, le tribunal décide si l'impossibilité durable d'exercer l'autorité parentale entraîne pour le père ou la mère, ou les deux, la perte du droit de jouissance légale fixe à l'article 384 du Code civil.
+Une copie certifiée conforme de la décision est notifiée par le greffier au juge de paix compétent territorialement. Celui-ci procède conformément aux règles de la tutelle.
+§ 4. L'appel est formé par requête déposée au greffe de la cour d'appel. La cause est instruite en chambre du conseil.
+Le délai pour interjeter appel et l'appel contre le jugement sont suspensifs, de même que le délai pour se pourvoir en cassation et le pourvoi contre l'arrêt.
+§ 5. La demande en mainlevée est introduite par requête des père et mère agissant conjointement ou séparément.
+Le greffier transmet la requête au procureur du Roi. Celui-ci recueille tous les renseignements utiles et notamment l'avis des personnes mentionnées au paragraphe 1er, alinéa 2, et celui des tuteur et subrogé tuteur. Le procureur du Roi transmet au tribunal la requête accompagnée de ces renseignements et de son avis.
+Le tribunal procède ensuite conformément au § 2.
+S'il est fait droit à la demande, une copie conforme de la décision est notifiée par le greffier au juge de paix tutélaire et la tutelle prend fin à la date du procès-verbal prévu à l'article 415, alinéa 2, du Code civil.
