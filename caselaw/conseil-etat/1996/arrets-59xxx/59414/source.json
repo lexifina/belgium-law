@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.414",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59414,
+  "decision_date": "1996-04-30",
+  "date_as_printed": "30 avril 1996",
+  "chamber": "XI",
+  "role_number": "A. 67.510/XI-449",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59414",
+  "source_sha256": "4a3074dd26485878ba988cef71c33e6e2f305a3e7b2d03d8cfa6eb9ac6123a65",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
