@@ -1,0 +1,1 @@
+Lorsque les poursuites contre une personne morale et contre la personne habilitée à la représenter sont engagées pour des mêmes faits ou des faits connexes, le tribunal compétent pour connaître de l'action publique contre la personne morale désigne, d'office ou sur requête, un mandataire ad hoc pour la représenter.
