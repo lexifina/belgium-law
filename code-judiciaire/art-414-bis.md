@@ -1,5 +1,1 @@
-§ 1. Les référendaires près la Cour de cassation peuvent être suspendus ou révoqués pour motifs disciplinaires par la Cour soit d'office, soit sur réquisition du procureur général près la Cour.
-Le premier président et le procureur général peuvent, chacun en ce qui le concerne, leur appliquer les peines de l'avertissement, de la censure simple et de la censure avec réprimande.
-(§ 2. Lorsqu'ils sont poursuivis pour un crime ou un délit ou dans le cas de poursuite disciplinaire, les référendaires peuvent, lorsque l'intérêt du service le requiert, être suspendus de leur fonction par mesure d'ordre par la Cour de cassation, pendant la durée des poursuites et jusqu'à la décision finale.
-La suspension par mesure d'ordre est prononcée pour un mois et peut être prorogée de mois en mois jusqu'à la décision définitive. La Cour de cassation peut décider que cette mesure comportera, pendant tout ou partie de sa durée, retenue provisoire, totale ou partielle du traitement.)
-(§ 3. Aucune sanction (ni mesure) n'est infligée sans que la personne concernée ait été entendue ou dûment appelée.)
+(Abrogé)
