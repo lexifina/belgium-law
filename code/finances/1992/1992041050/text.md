@@ -1,19 +1,12 @@
-<a name="Art.38">Art.</a> 38. Sont exonérées :
-1° (les allocations familiales, les allocations de naissance et les primes d'adoption légales); &lt;L 1994-07-06/33, art. 7, 004; <b> En vigueur : </b> 01-01-1994&gt;
-2° les pensions ou les rentes octroyées à charge du Trésor, aux victimes militaires et civiles des deux guerres ou à leurs ayants droit, à l'exclusion des pensions militaires d'ancienneté;
-3° la dotation attribuée sur base de la loi du 21 juin 1960, aux militaires qui ont effectué du service pendant la guerre 1940-1945 dans les forces belges en Grande-Bretagne;
-4° les allocations, à charge du Trésor, qui sont octroyées aux handicapés, en exécution de la législation y relative;
-5° les allocations pour soins de santé et pour frais funéraires octroyées en exécution de la législation concernant soit l'assurance en cas de maladie ou d'invalidité, soit la réparation des dommages résultant d'accidents du travail ou sur le chemin du travail, soit la réparation des dommages causés par les maladies professionnelles;
-6° les allocations pour soins de santé et pour frais funéraires accordées, au titre de l'assurance mutualiste libre, par les mutualités et unions de mutualités approuvées conformément à la loi du 6 août 1990;
-7° l'indemnité pour frais funéraires octroyée par l'Etat, par les Communautés et les Régions aux ayants droit des membres ou anciens membres de son personnel;
-8° les allocations obtenues en exécution d'un contrat d'assurance individuelle contre les accidents corporels;
-9° dans la mesure où elles ne dépassent pas 5.000 francs l'an, les indemnités accordées par l'employeur, en remboursement des frais de déplacement du domicile au lieu du travail, aux travailleurs dont les frais professionnels sont fixés forfaitairement conformément à l'article 51 ou qui utilisent régulièrement un transport public en commun pour effectuer ce déplacement; (lors de l'établissement de l'impôt dans le chef des travailleurs, l'exonération de ces indemnités est portée au montant de l'intervention de l'employeur dans le prix d'un abonnement social, qui est fixé en exécution de la loi du 27 juillet 1962 établissant une intervention des employeurs dans la perte subie par la Société nationale des chemins de fer belges par l'émission d'abonnements pour ouvriers et employés) pour les travailleurs qui, dans leur déclaration aux impôts sur les revenus de l'exercice d'imposition pour lequel l'exonération est revendiquée, établissent, au moyen d'une attestation d'une entreprise publique de transport en commun, avoir souscrit régulièrement au cours de la période imposable un abonnement auprès d'une telle entreprise pour leur déplacement de leur domicile au lieu du travail; (Lorsque l'intervention obligatoire de l'employeur est inférieure à 10 000 francs, l'exonération s'étend toutefois à l'intervention totale de l'employeur, limitée au prix de l'abonnement social et à un montant maximum de 10 000 francs;) &lt;L 1992-07-28/30, art. 6; <b> En vigueur : </b> 01-01-1993&gt;
-10° dans la mesure où elles dépassent ce qui correspond à la pension de retraite et de survie à laquelle les intéressés auraient pu normalement prétendre, les rentes octroyées aux invalides du temps de paix ou à leurs ayants droit;
-11° (les avantages sociaux suivants obtenus par les personnes qui percoivent ou ont percu des rémunérations visées à l'article 30, ainsi que par leurs ayants droit :) &lt;AR 1996-12-20/40, art. 7, 024; <b> En vigueur : </b> 01-01-1998&gt;
-a) les avantages dont il n'est pas possible en raison des modalités de leur octroi, de déterminer le montant effectivement recueilli par chacun des bénéficiaires;
-b) les avantages qui, bien que personnalisables, n'ont pas le caractère d'une véritable rémunération;
-c) les menus avantages ou cadeaux d'usage obtenus à l'occasion ou en raison d'événements sans rapport direct avec l'activité professionnelle.
-(12° les allocations des pompiers volontaires des services publics d'incendie à concurrence de 60 000 francs.) &lt;W 1993-08-06, art. 1; <b> En vigueur : </b> 01-01-1993&gt;
-(13° les indemnités obtenues pour des prestations fournies dans le cadre des agences locales pour l'emploi.) &lt;L 1994-12-21/31, art. 92, 006; <b> En vigueur : </b> 01-01-1995&gt;
-(14° l'indemnité kilométrique allouée pour les déplacements en bicyclette entre le domicile et le lieu de travail à concurrence d'un montant maximum de 6 francs par kilomètre.) &lt;L 1997-08-08/00, art. 2, 2°, 034; <b> En vigueur : </b> 01-01-1998&gt;
-(L'exonération visée à l'alinéa 1er, 9°, ne peut être cumulée pour le même déplacement ou partie de celui-ci avec celle visée à l'alinéa 1er, 14°.) &lt;L 1997-08-08/00, art. 2, 3°, 034; <b> En vigueur : </b> 01-01-1998&gt;
+<a name="Art.180">Art.</a> 180. Ne sont pas assujettis à l'impôt des sociétés :
+1° les intercommunales régies par la loi du 22 décembre 1986;
+2° la Société anonyme du canal et des installations maritimes de Bruxelles, la Compagnie des installations maritimes de Bruges (, le Port de Bruxelles) (, la régie portuaire communale d'Anvers, la régie portuaire communale d'Ostende) et les ports autonomes de Liège, Charleroi et Namur; &lt;L 1994-07-06/33, art. 25, 004; <b> En vigueur : </b> 01-01-1994&gt; &lt;L 1997-07-06/77, art. 2, 031; <b> En vigueur : </b> 01-01-1998&gt;
+3° l'Office national du ducroire;
+4° la Compagnie belge pour le Financement de l'Industrie;
+5° la Loterie Nationale;
+(5°bis le Fonds de participation;) &lt;L 1992-07-28/30, art. 82; <b> En vigueur : </b> 01-01-1993&gt;
+6° la Société régionale wallonne de transport public de personnes et les sociétés d'exploitation qui lui sont liées;
+7° la Société des Transports flamande et les unités d'exploitation autonome existant en son sein;
+8° la Société de transports intercommunaux de Bruxelles;
+9° les sociétés dépuration des eaux régies par la loi du 26 mars 1971.
+(10° les Sociétés des Bourses de valeurs mobilières visées à l'article 7 de la loi du 4 décembre 1990.) &lt;L 1992-12-28/32, art. 7; <b> En vigueur : </b> 01-01-1992&gt;
