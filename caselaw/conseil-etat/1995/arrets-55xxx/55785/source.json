@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.785",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55785,
+  "decision_date": "1995-10-16",
+  "date_as_printed": "16 octobre 1995",
+  "chamber": "VI",
+  "role_number": "A. 62.527/VI-12.346",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55785",
+  "source_sha256": "392c394b84516b97b2021bd84cc7a5073a1243f83b50a9a1df3e5a8c8c12f89f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
