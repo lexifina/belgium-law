@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.349",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64349,
+  "decision_date": "1997-02-03",
+  "date_as_printed": "3 februari 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.987/IV-16.486",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64349",
+  "source_sha256": "4551049c48a116f1d3a1793fb4bf4ed97eddc556f4a69f7853bd022520cf8391",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
