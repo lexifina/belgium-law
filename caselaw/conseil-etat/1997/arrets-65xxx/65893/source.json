@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.893",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65893,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 april 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.115/VII-13.785",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65893",
+  "source_sha256": "ec85bd2efdd87beb2029a830a43ecae73b9530d86503afb8ba1a23af3ebfd705",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
