@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.752",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72752,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.628/VII-15.568",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72752",
+  "source_sha256": "fd6727ac392ef56d9e7795e6cc06af9413264b8d00e6c4f7c6aa57f4ae8b64d4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
