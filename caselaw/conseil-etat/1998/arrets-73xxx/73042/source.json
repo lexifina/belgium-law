@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.042",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73042,
+  "decision_date": "1998-04-10",
+  "date_as_printed": "10 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.101/XII-1.185",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73042",
+  "source_sha256": "6f8c5c15258104d4092d13a1441e2ca4d789f2099e1cbbe845ed95ee9d14161f",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
