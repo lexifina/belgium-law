@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.317",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72317,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 60.710/XII-508",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72317",
+  "source_sha256": "75ab07b8034eb1c666f5af5a9eb2a669f13f064a673d89fc8711c666ce692537",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
