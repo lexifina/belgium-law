@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.171",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73171,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 69.007/XI-931",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73171",
+  "source_sha256": "51ad40687e7171436562fbf118fbbe892a25a5e2d34656d5d698eebc92d59001",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
