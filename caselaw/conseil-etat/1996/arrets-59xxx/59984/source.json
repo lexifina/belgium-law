@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.984",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59984,
+  "decision_date": "1996-06-10",
+  "date_as_printed": "10 juni 1996",
+  "chamber": "IV",
+  "role_number": "A. 64.460/IV-15.215",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59984",
+  "source_sha256": "fbe11575b32d1ce772014a3047a11e637a62b4fb10519e1557faa5bdbe3c0c3b",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
