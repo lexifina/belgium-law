@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.900",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66900,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 69.265/VII-14.196",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66900",
+  "source_sha256": "b93354f45e8ff67d0af52645331bf1055feb74b173653df2b96c06da9c10e9e5",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
