@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.027",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63027,
+  "decision_date": "1996-11-13",
+  "date_as_printed": "13 november 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.325/IV-705",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63027",
+  "source_sha256": "1fdf00ec4b42893440d8a6b13beba3d14b9f930a203f85d58ea0646ef48980e0",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
