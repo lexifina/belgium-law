@@ -1,62 +1,20 @@
-<a name="Art.5">Art.</a> <a href="#Art.8"> 5</a>. L'office national de sécurité sociale, institué par l'arrêté-loi du 28 décembre 1944, est chargé, sous le contrôle du Ministre qui a la prévoyance sociale dans ses attributions, de percevoir les cotisations des employeurs et des travailleurs et d'en répartir le produit en vue de contribuer au financement des régimes:
-1° d'assurance obligatoire contre la maladie et l'invalidité:
-a) en ce qui concerne le secteur des soins de santé;
-b) en ce qui concerne le secteur des indemnités;
-2° des allocations familiales pour travailleurs salariés;
-3° de pensions de retraite et de survie des travailleurs salariés;
-4° de l'emploi et du chômage des travailleurs;
-5° des vacances annuelles des travailleurs.
-
-<a name="Art.8" href="#Art.5">Art.</a> <a href="#Art.19"> 8</a>. Le Roi peut également charge l'Office national de sécurité sociale de percevoir les cotisations, majorations de cotisations et intérêts de retard, en lieu et place du Fonds des maladies professionnelles.
-
-<a name="Art.19" href="#Art.8">Art.</a> <a href="#Art.20"> 19</a>. Après prélèvement des sommes destinées, conformément au budget, à couvrir ses frais d'administration, l'Office national de sécurité sociale répartit le produit des cotisations selon les modalités de calcul prévues à l'article 17 et verse:
-1° à l'Institut national d'assurance maladie-invalidité la part destinée au régime d'assurance obligatoire contre la maladie et l'invalidité;
-2° à l'Office national d'allocations familiales pour travailleurs salariés la part destinée au régime des allocations familiales pour travailleurs salariés;
-3° à l'Office national des pensions pour travailleurs salariés la part destinée au régime de pension de retraite et de survie pour travailleurs salariés;
-4° à l'Office national de l'emploi la part destinée au régime relatif à l'emploi et au chômage;
-5° à la Caisse nationale des vacances annuelles la part destinée au régime des vacances annuelles des travailleurs.
-
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0001"> 20</a>. Selon une procédure fixée par le Roi et compte tenu des montants qui leur sont dus, l'Office national de sécurité sociale octroie des avances aux organismes mentionnés à l'article 19 au fur et à mesure de la perception des cotisations.
-
-<a name="LNK0001" href="#LNKR0001">CHAPITRE IV.</a> _ Perception et recouvrement des cotisations.
-
-<a name="LNK0002" href="#LNKR0002">Section Ier.</a> _ Déclaration et paiement.
-
-<a name="Art.30ter" href="#Art.20">Art.</a> 30ter. &lt;L 1989-07-06/30, art. 22, 003; <b> En vigueur : </b> 01-04-1990&gt; § 1. Pour l'application du présent article, il faut entendre par :
-Entrepreneur principal :
-a) la personne physique ou morale qui s'engage moyennant un certain prix, à exécuter ou à faire exécuter, pour un maître d'ouvrage, des travaux répondant à des activités déterminées par le Roi;
-b) chacun des associés d'une association momentanée ou d'une association en participation qui exécute semblables travaux.
-Sous-traitant : la personne physique ou morale qui soit directement soit indirectement, à quelque stade que ce soit, s'engage à exécuter ou faire exécuter pour un certain prix, le travail ou une partie du travail concédé à l'entrepreneur principal; est également considéré comme sous-traitant, celui qui met des travailleurs à la disposition.
-Chantier : le lieu ou l'ensemble des lieux où l'entrepreneur principal effectue ou fait effectuer, pour un maître d'ouvrage, des travaux qui constituent de par leur nature un tout.
-§ 2. Tout entrepreneur principal qui fait appel à un sous-traitant pour accomplir des prestations de service répondant à des activités déterminées par le Roi, est tenu lors de chaque paiement qu'il effectue à ce sous-traitant pour ces prestations, de retenir et de verser 35 % du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national de sécurité sociale, selon les modalités déterminées par le Roi.
-Le Roi peut, par arrêté délibéré en Conseil des ministres, dans les conditions et selon les modalités qu'Il détermine, (réduire ou dispenser de ce pourcentage). &lt;L 1989-12-22/31, art. 126, 005; <b> En vigueur : </b> 09-01-1990&gt;
-Le Roi détermine le contenu et les conditions et modalités d'envoi des renseignements que doivent fournir l'entrepreneur principal et le sous-traitant.
-Le Roi fixe les modalités selon lesquelles l'Office national de sécurité sociale répartit les montants versés en application de l'alinéa 1er, afin de payer à l'Office national ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, les cotisations, les majorations de cotisation et les intérêts de retard dus par chaque sous-traitant à quelque stade que ce soit.
-Le Roi détermine de quelle manière, sous quelles conditions et dans quel délai ce montant peut être imputé sur les cotisations qui peuvent être dues par chaque sous-traitant ainsi que les modalités de remboursement ou d'affectation du solde éventuel.
-§ 3. Lorsque le versement visé au paragraphe précédent n'a pas ou pas totalement été effectué pour tous les paiements faits au sous-traitant pour un chantier déterminé, l'entrepreneur principal ainsi que le sous-traitant et chaque sous-traitant suivant sont solidairement responsables :
-1° de l'accomplissement par ce sous-traitant des obligations visées à l'article 21;
-2° du paiement à l'Office national de sécurité sociale conformément à l'article 23, §§ 1er et 2, des sommes dues par ce sous-traitant à l'Office national précité en application de la législation et de la réglementation en matière de sécurité sociale des travailleurs salariés;
-3° du paiement des rémunérations dues aux travailleurs pour les prestations qu'ils ont effectuées ou effectuent sur le chantier pour le compte de ce sous-traitant;
-4° du paiement des cotisations, afférentes aux prestations visées au 3° de ce paragraphe, dues à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence.
-La responsabilité solidaire vis-à-vis de chaque sous-traitant est limitée à une somme égale à 50 % du montant total des travaux, non compris la taxe sur la valeur ajoutée, qui sont concédés pour un chantier déterminé. Les versements visés au § 2 sont, le cas échéant, déduits du montant pour lequel s'exerce la responsabilité.
-Le sous-traitant doit fournir à l'entrepreneur principal la preuve qu'il a correctement accompli les obligations visées à l'alinéa 1er. Le Roi peut déterminer des modalités en la matière.
-Les associés des associations momentanées ou en participation sont, pour l'application de cet article, solidairement responsables des dettes sociales des sous-traitants avec lesquels ils ont conjointement contracté.
-§ 4. (Chaque sous-traitant a l'obligation de transmettre journellement à l'entrepreneur principal la liste des travailleurs qu'il occupe sur le chantier, ainsi que tous les renseignements nécessaires à ce sujet. Tout entrepreneur principal a l'obligation de tenir sur chaque chantier un livre journalier préalablement visé et paraphé à chaque page par les services de l'Inspection sociale du Ministère de la Prévoyance sociale et répertoriant tous les travailleurs qui y sont occupés. Le Roi détermine, sur la proposition du Ministre qui a la Prévoyance sociale dans ses attributions, le modèle et les caractéristiques de ce livre journalier, les conditions particulières de tenue de celui-ci, ainsi que les renseignements qui doivent y figurer.
-Ce livre journalier doit être conservé par l'entrepreneur principal pendant 5 ans à compter de la dernière inscription qui y est portée, à l'endroit où, conformément à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux, il doit tenir ces derniers ou à l'endroit où il devrait les tenir si cet arrêté lui était applicable. Ce livre journalier doit être remis immédiatement à tout fonctionnaire et agent désigné par le Roi qui en fait la demande.) &lt;L 1993-08-06/30, art. 19, 008; <b> En vigueur : </b> 01-01-1994&gt;
-(§ 4bis. Le Roi peut, sur la proposition de l'organe paritaire compétent, autoriser le remplacement du livre journalier prévu au § 4 par un autre document offrant les mêmes garanties.) &lt;L 1993-08-06/30, art. 20, 008; <b> En vigueur : </b> 01-01-1994&gt;
-§ 5. (Tout entrepreneur principal doit, selon les modalités à fixer par le Roi, communiquer à l'Office national de sécurité sociale avant le début de tout chantier, les informations nécessaires destinées à en évaluer l'importance et, le cas échéant, à en identifier les sous-traitants, à quelque stade que ce soit. Si au cours des travaux, d'autres sous-traitants devaient être amenés à intervenir, l'entrepreneur principal doit au préalable en avertir l'Office national précité.
-A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-traitant, doit préalablement en informer par écrit l'entrepreneur principal. &lt;L 1991-07-20/31, art. 23, 007; <b> En vigueur : </b> 01-07-1991&gt;
-§ 6. (A. L'entrepreneur principal qui ne tient pas le livre journalier visé au § 4, ou qui omet d'y mentionner un travailleur ou qui y apporte des fausses mentions ou omet certaines mentions, est redevable à l'Office national de sécurité sociale d'une somme égale au triple des cotisations prévues à l'article 38, §§ 2 et 3, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, calculées sur la base du revenu minimum mensuel moyen, fixé par une convention collective de travail conclue au sein du Conseil national du travail. Cette somme est multipliée par le nombre de travailleurs qui ne figurent pas dans le livre journalier ou qui devraient y figurer lorsque celui-ci n'existe pas ou n'est pas tenu, ainsi que par le nombre de fausses mentions ou de mentions omises.
-Le Roi détermine les conditions et modalités d'application de la présente disposition au document visé au § 4bis.) &lt;L 1993-08-06/30, art. 21, 1°, 008; <b> En vigueur : </b> 01-01-1994&gt;
-(B. L'entrepreneur principal qui ne se conforme pas aux obligations du § 5 est redevable à l'Office national de sécurité sociale d'une somme au moins équivalente à 5 p.c. du montant total des travaux, non comprise la taxe sur la valeur ajoutée, qui n'ont pas été déclarés à l'Office national précité et au maximum à 5 p.c. du montant total des travaux, non comprise la taxe sur la valeur ajoutée, qui lui sont concédés sur le chantier en cause. La somme qui est réclamée à l'entrepreneur principal est diminuée à concurrence du montant qui a été payé effectivement à l'Office national précité par le sous-traitant en application de la disposition de l'alinéa qui suit.) &lt;L 1991-07-20/31, art. 24, 007; <b> En vigueur : </b> 01-04-1990&gt;
-(Le sous-traitant qui ne se conforme pas aux dispositions du § 5, alinéa 2, est redevable à l'Office national précité d'une somme égale à 5 p.c. du montant total des travaux, non comprise la taxe sur la valeur ajoutée, qu'il a concédés à son ou à ses sous-traitants sur le chantier en cause.) &lt;L 1991-07-20/31, art. 24, 007; <b> En vigueur : </b> 01-07-1991&gt;
-(C. Lors de la constatation du non-respect des obligations prévues par les §§ 4 et 5, les fonctionnaires et agents chargés de la surveillance, de l'application de la présente loi et de ses arrêtés d'exécution ont le droit de donner des avertissements tel que prévu par l'article 9, alinéa 1er, de la loi du 16 novembre 1972 concernant l'inspection du travail.) &lt;L 1991-07-20/31, art. 24, 007; <b> En vigueur : </b> 01-04-1990&gt;
-(Un tel avertissement ne peut cependant être donné qu'à la suite de circonstances exceptionnelles ou lorsqu'il s'agit d'une première infraction aux présentes dispositions dans le chef du contrevenant. Le Roi détermine ce qu'il faut entendre par circonstances exceptionnelles.) &lt;L 1993-08-06/30, art. 21, 2°, 008; <b> En vigueur : </b> 19-08-1993&gt;
-§ 7. (Le Roi peut limiter l'application des §§ 2 à 6 du présent article aux chantiers dont l'importance, exprimée en montant et en durée des travaux et par le nombre des travailleurs qui y sont occupés, dépasse une limite qu'Il détermine. Le Roi déterminera par la même occasion si les critères ci-avant doivent être pris en considération simultanément ou non.
-Lorsque l'entrepreneur principal ne fait pas appel à un sous-traitant, le Roi peut toutefois limiter l'application du § 5 aux chantiers pour lesquels le montant total des travaux est supérieur à un montant qu'Il détermine.) &lt;L 1991-07-20/31, art. 25, 007; <b> En vigueur : </b> 01-07-1991&gt;
-§ 8. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement et dation en paiement.
-§ 9. Le présent article n'est pas applicable :
-1° à la transformation, l'aménagement, la réparation, l'entretien ou le nettoyage d'une habitation individuelle existante;
-2° à la construction d'une maison unifamiliale érigée autrement qu'en groupe, à l'initiative et pour le compte d'un particulier.
-Le Roi définit la notion de construction en groupe.
-(Alinéa 3 abrogé.) &lt;L 1991-07-20/31, art. 26, 007; <b> En vigueur : </b> 01-07-1991&gt;
+<a name="Art.5">Art.</a> 5. &lt;L 1994-03-30/31, art. 1, 009; <b> En vigueur : </b> indéterminée &gt; L'Office national de sécurité sociale institué par l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, est chargé :
+1° de percevoir les cotisations des employeurs et des travailleurs en vue de contribuer au financement des régimes suivants :
+a) les indemnités de maladie-invalidité;
+b) les allocations de chômage;
+c) les pensions de retraite et de survie;
+d) les allocations du chef d'accidents de travail et de maladies professionnelles;
+e) les remboursements de soins de santé;
+f) les prestations familiales;
+g) les allocations de vacances annuelles;
+2° d'assurer la gestion financière globale de la sécurité sociale, ainsi que de promouvoir la transparence et l'efficacité du financement de celle-ci.
+Pour ce faire, l'Office veille, entre autres, à :
+a) mettre en oeuvre une gestion de trésorerie commune;
+b) soumettre au Gouvernement, en vue de l'élaboration du budget et du contrôle budgétaire, un rapport sur l'évolution des dépenses et des recettes, les options politiques prioritaires et la facon dont l'équilibre du régime peut être assuré;
+c) suivre l'évolution de l'ensemble des recettes et dépenses sur la base des données transmises par les institutions publiques de sécurité sociales concernées;
+d) répartir annuellement le produit des cotisations, à l'exclusion de celles relatives au régime visé au 1°, g), après prélèvement des sommes destinées à couvrir les frais d'administration de l'Office, et des autres ressources visées à l'article 22 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés;
+e) évaluer la gestion des ressources non réparties et la gestion des réserves des régimes visés au 1°.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, et après avis du Comité de gestion, déterminer la manière dont les recettes non réparties sont gérées.
+La répartition des moyens financiers telle que prévue à l'alinéa 1er, 2°, d), doit être présentée pour approbation au Roi, pour le 15 septembre au plus tard de l'année précédant l'année budgétaire visée. Si tel n'est pas le cas, le Roi fixe, par arrêté délibéré en Conseil des ministres, les conditions et modalités selon lesquelles les cotisations et les autres ressources sont réparties.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer dans quelles conditions la répartition visée à l'alinéa précédent peut être adaptée par le Comité de gestion au cours de l'année budgétaire.
+Le Roi peut, sur proposition ou après avis du Comité de gestion, préciser les dates, délais et procédures relatifs à l'exécution de l'alinéa 1er, 2°, b), c), d) et e).
