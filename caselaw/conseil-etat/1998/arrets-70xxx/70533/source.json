@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.533",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70533,
+  "decision_date": "1998-01-06",
+  "date_as_printed": "6 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 46.960/XII-646",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70533",
+  "source_sha256": "540cee50b85e45385ab0b983c3039c31af194325cac599431859ec3c6c310523",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
