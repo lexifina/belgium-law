@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.654",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69654,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 68.787/XI-862",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69654",
+  "source_sha256": "f321e579a7015d6122511ca896d1f0af399a1105d29ccd131399eb31cd46f5a3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
