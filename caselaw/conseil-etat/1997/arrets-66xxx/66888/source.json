@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.888",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66888,
+  "decision_date": "1997-06-23",
+  "date_as_printed": "23 juin 1997",
+  "chamber": "XI",
+  "role_number": "A. 74.493/XI-2.370",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66888",
+  "source_sha256": "58cd372cfa807f24f3ae1a7779a5187e0b94ca0165e8274e6b49b07067440357",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
