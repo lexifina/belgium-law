@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.808",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73808,
+  "decision_date": "1998-05-19",
+  "date_as_printed": "19 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 77.330/XIII-460",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73808",
+  "source_sha256": "bc4061088f049dbcb4aed444954978c2809ff410f9877f0642a7ad7abfc49a71",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
