@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.002",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59002,
+  "decision_date": "1996-04-05",
+  "date_as_printed": "5 avril 1996",
+  "chamber": "VI",
+  "role_number": "A. 68.369/VI-13.096",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59002",
+  "source_sha256": "9a9627d0f4be8baa27c496715881707536a45623eda0fda5cea2fd3ab2414ac8",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
