@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.404",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56404,
+  "decision_date": "1995-11-22",
+  "date_as_printed": "22 novembre 1995",
+  "chamber": "IV",
+  "role_number": "A. 60.532/IV-14.871",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56404",
+  "source_sha256": "bdf275d13fb7827bad1867b2bdd85a6508c7ede96b3fc683d74056b6fb3d0b29",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
