@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.790",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70790,
+  "decision_date": "1998-01-14",
+  "date_as_printed": "14 janvier 1998",
+  "chamber": "III",
+  "role_number": "A. 66.228/III-22.078",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70790",
+  "source_sha256": "963d5514f6857b3d341465735ece04af254366e65271ba308a57853bd78b75a9",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
