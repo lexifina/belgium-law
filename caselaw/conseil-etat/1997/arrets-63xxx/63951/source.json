@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.951",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63951,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.066/III-22.580",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63951",
+  "source_sha256": "30ac57dadaf6c084f9276d17c842ba7bc6da7f10a71021f51c9e72f15f9946fd",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
