@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.735",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65735,
+  "decision_date": "1997-03-28",
+  "date_as_printed": "28 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 68.662/III-22.308",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65735",
+  "source_sha256": "7e1731df4c316d23d6a802259a974389921ddeaecd10ee77b709dd91fd7b1ac4",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
