@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.093",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66093,
+  "decision_date": "1997-04-28",
+  "date_as_printed": "28 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 67.560/XI-480",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66093",
+  "source_sha256": "6fd57b6471503951a12e8b1cd3cd8050bc1db414c6721bd7df90e4cc8ff385a7",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
