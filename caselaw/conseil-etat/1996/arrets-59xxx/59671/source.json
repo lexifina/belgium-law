@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.671",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59671,
+  "decision_date": "1996-05-14",
+  "date_as_printed": "14 mai 1996",
+  "chamber": "III",
+  "role_number": "A. 65.297/III-21.602",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59671",
+  "source_sha256": "a7bd5b14c1f5ce2d9cce2868d4f4464e21d1a688d0a7f000e6750dc85ba9fb32",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
