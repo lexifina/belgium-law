@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.361",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64361,
+  "decision_date": "1997-02-04",
+  "date_as_printed": "4 février 1997",
+  "chamber": "III",
+  "role_number": "A. 70.997/III-22.567",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64361",
+  "source_sha256": "e9cc5c656af367bc2fd54ba75069a2cce4ac84f739b0d84d92b5ef1f97f20c0a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
