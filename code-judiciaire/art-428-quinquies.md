@@ -1,1 +1,1 @@
-Dans les quinze jours qui suivent la clôture de l'épreuve, l'Ordre national des avocats de Belgique notifie au candidat le résultat obtenu à l'épreuve d'aptitude."
+L'Ordre national des avocats de Belgique met à la disposition de la commission de recours et du jury le personnel, le secrétariat, les locaux, la documentation et le matériel nécessaires pour l'accomplissement de leur mission.
