@@ -1,18 +1,17 @@
-<a name="Art.269">Art.</a> 269. &lt;L 1994-03-30/39, art. 20, 002; <b> En vigueur : </b> 01-01-1994&gt; Le taux du précompte mobilier est fixé à :
-1° (15 p.c.) pour les revenus de capitaux et biens mobiliers, autres que les dividendes, ainsi que pour les revenus divers visés à l'article 90, 5° à 7°;
-2° 25 p.c. pour les dividendes. &lt;L 1995-12-20/31, art. 13, 014; <b> En vigueur : </b> 01-01-1996&gt;
-Le taux de 25 p.c. est toutefois réduit à :
-1° 20 p.c. pour les dividendes d'actions ou parts représentatives d'apports en numéraire effectués en 1982 ou en 1983 pour la réalisation d'opérations visées à l'article 2 de l'arrêté royal n° 15 du 9 mars 1982 portant encouragement à la souscription ou à l'achat d'actions ou parts représentatives de droits sociaux dans des sociétés belges, alloués ou attribués au titre des cinq, des dix ou des neuf premiers exercices sociaux pour lesquels ces revenus sont exonérés de l'impôt des personnes physiques en vertu de l'article 3, § 1er, dudit arrêté royal n° 15;
-2° (15 p.c.) pour les dividendes d'actions ou parts visées au 1° cotées à une bourse de valeurs mobilières lorsque la société débitrice des revenus a renoncé irrévocablement à reporter sur les revenus distribués aux actions ou parts dont il s'agit : &lt;L 1995-12-20/31, art. 13, 014; <b> En vigueur : </b> 01-01-1996&gt;
-- l'économie d'impôt résultant de l'exonération prévue en la matière à l'impôt des sociétés;
-- le complément éventuel des revenus résultant de l'exonération en cause dont ont bénéficié, le cas échéant, les sociétés à la constitution ou à l'augmentation du capital desquelles la société intéressée à directement ou indirectement participé.
-Le taux de 25 p.c. est également réduit à (15 p.c.) pour les dividendes suivants, pour autant que la société distributrice de ces dividendes ne renonce pas irrévocablement au bénéfice de cette réduction : &lt;L 1995-12-20/31, art. 13, 014; <b> En vigueur : </b> 01-01-1996&gt;
-a) les dividendes d'actions ou parts émises à partir du 1er janvier 1994 par appel public à l'épargne;
-b) les dividendes d'actions ou parts qui ont fait l'objet depuis leur émission d'une inscription nominative chez l'émetteur ou d'un dépôt à découvert en Belgique dont les conditions et modalités d'application sont déterminées par le Roi, auprès d'une banque, d'un établissement public de crédit, d'une société de bourse ou d'une caisse d'épargne soumise au contrôle de la Commission bancaire et financière, lorsque ces actions ou parts ont été émises à partir du 1er janvier 1994 en représentation du capital social et correspondent à des apports en numéraire;
-c) les dividendes distribués par des sociétés d'investissement visées aux articles 114, 118 et 119quinquies de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers, autres que les dividendes visés à l'article 21, 2°.
-Le taux de (15 p.c.) prévu à l'alinéa 2, 2°, et à l'alinéa 3, a et b, ne s'applique que pour autant que les actions ou parts auxquelles les dividendes se rattachent ne confèrent aucun droit privilégié par rapport aux autres actions ou parts émises par la société. &lt;L 1995-12-20/31, art. 13, 014; <b> En vigueur : </b> 01-01-1996&gt;
-Dans le chef des sociétés visées à l'alinéa 3, a) et b), qui procèdent à des réductions de leur capital après le 31 décembre 1993, les augmentations de capital auxquelles elles procèdent ne sont prises en considération que dans la mesure où elles excèdent ces réductions de capital.
-Toutefois, ces augmentations de capital sont prises en considération pour leur totalité lorsque les réductions de capital répondent à des besoins légitimes de caractère financier ou économique.
-Sont présumées répondre à la condition visée à l'alinéa 6, les réductions de capital affectées à l'apurement comptable de pertes ou à la constitution de réserves indisponibles.
-En cas de cession par les personnes physiques ou morales qui ont signé ou au nom de qui a été signé l'acte constitutif ou, en cas de constitution par souscription publique, qui ont signé le projet d'acte constitutif, par les actionnaires, les administrateurs, les gérants ou les associés de la société cessionnaire, soit de biens affectés avant le 1er janvier 1994 à l'exercice de leur activité professionnelle, soit d'actions ou parts faisant partie de leur patrimoine, soit de biens ayant appartenu à une société dont ils étaient actionnaires, administrateurs, gérants ou associés avant le 1er janvier 1994, seul le montant de l'apport en numéraire qui excède le prix de la cession est pris en considération pour l'application de l'alinéa 3, a) et b).
-L'alinéa 8 s'applique à la cession faite par une personne physique ou morale agissant en son nom propre mais pour le compte d'une personne visée dans cet alinéa.
+<a name="Art.25">Art.</a> <a href="#Art.28"> 25</a>. Les bénéfices comprennent également :
+1° la rémunération que l'entrepreneur s'attribue pour son travail personnel;
+2° les avantages de toute nature que l'entrepreneur obtient en raison ou à l'occasion de l'exercice de son activité professionnelle;
+3° les profits des spéculations de l'entrepreneur;
+4° les sommes affectées au remboursement total ou partiel de capitaux empruntés, à l'extension de l'entreprise ou à l'accroissement de la valeur des éléments de l'actif;
+5° les réserves, fonds de prévision ou provisions quelconques, le résultat reporté à nouveau et toutes sommes auxquelles une affectation analogue est donnée;
+6° les indemnités de toute nature que l'entrepreneur obtient en cours d'exploitation :
+a) en compensation ou à l'occasion de tout acte quelconque susceptible d'entraîner une réduction de l'activité professionnelle ou des bénéfices de l'entreprise;
+b) en réparation totale ou partielle d'une perte temporaire de bénéfices.
+
+<a name="Art.28" href="#Art.25">Art.</a> 28. Les bénéfices et profits d'une activité professionnelle exercée antérieurement par le bénéficiaire ou par la personne dont celui-ci est l'ayant cause, sont :
+1° les revenus qui sont obtenus ou constatés en raison ou à l'occasion de la cessation complète et définitive de l'entreprise ou de l'exercice d'une profession libérale, charge, office ou occupation lucrative et qui proviennent de plus-values sur des éléments de l'actif affectés à l'activité professionnelle;
+2° les revenus qui sont obtenus ou constatés postérieurement à la cessation et qui proviennent de l'activité professionnelle antérieure;
+3° les indemnités de toute nature obtenues postérieurement à la cessation :
+a) en compensation ou à l'occasion d'un acte quelconque susceptible d'avoir entraîné une réduction de l'activité, des bénéfices ou des profits;
+b) ou en réparation totale ou partielle d'une perte temporaire de bénéfices ou de profits.
+Le présent article s'applique également en cas de cessation complète et définitive, pendant l'exercice de l'activité professionnelle, d'une ou de plusieurs branches de cette activité.
