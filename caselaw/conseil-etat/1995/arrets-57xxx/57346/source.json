@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.346",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57346,
+  "decision_date": "1995-12-28",
+  "date_as_printed": "28 décembre 1995",
+  "chamber": "III",
+  "role_number": "A. 62.028/III-20.197",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57346",
+  "source_sha256": "6704ab98280bbead4516e0cf725a5244165f837bc04eaff83754872aca75af94",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
