@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.300",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59300,
+  "decision_date": "1996-04-26",
+  "date_as_printed": "26 april 1996",
+  "chamber": "X",
+  "role_number": "A. 64.286/X-5.387",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59300",
+  "source_sha256": "d8923bd8d71f69780df8255a77b9de8f2ca3c32ad98aa7c68bcdb7f4e29d5c2d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
