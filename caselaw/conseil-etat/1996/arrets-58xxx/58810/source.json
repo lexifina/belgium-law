@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.810",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58810,
+  "decision_date": "1996-03-26",
+  "date_as_printed": "26 mars 1996",
+  "chamber": "III",
+  "role_number": "A. 66.233/III-22.082",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58810",
+  "source_sha256": "b8d2f2d45a9d4f8335bf33bd3f8e34702ca199ca808c5f7c8ca6ccf80dc7793f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
