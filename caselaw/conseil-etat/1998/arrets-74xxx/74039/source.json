@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.039",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74039,
+  "decision_date": "1998-06-03",
+  "date_as_printed": "3 juni 1998",
+  "chamber": "VII",
+  "role_number": "A. 65.176/VII-15.362",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74039",
+  "source_sha256": "25f7c2a00fc21ded2b5bb5a8e62f9e6b13968584d348d1241f63cc6ed609ade4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
