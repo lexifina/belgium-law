@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.563",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64563,
+  "decision_date": "1997-02-18",
+  "date_as_printed": "18 février 1997",
+  "chamber": "IV",
+  "role_number": "A. 71.846/IV-89",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64563",
+  "source_sha256": "d904ebe54c8f2c8fd50f50638dc8b12014172d666e803809394caffb692fbc0f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
