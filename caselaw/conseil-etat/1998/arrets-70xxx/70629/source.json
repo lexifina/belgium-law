@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.629",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70629,
+  "decision_date": "1998-01-12",
+  "date_as_printed": "12 janvier 1998",
+  "chamber": "XIII",
+  "role_number": "A. 64.447/XIII-31",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70629",
+  "source_sha256": "4145a81e6256de07dd048bd7047166be53febb8e191b87bb788cfcab216046f6",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
