@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.276",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60276,
+  "decision_date": "1996-06-19",
+  "date_as_printed": "19 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 62.274/X-4.846",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60276",
+  "source_sha256": "64041d436858cbe913e0a04ba5274aa7bc67fad9402fd9f7a881048114721d71",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
