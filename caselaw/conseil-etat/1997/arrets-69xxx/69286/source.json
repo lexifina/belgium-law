@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.286",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69286,
+  "decision_date": "1997-10-30",
+  "date_as_printed": "30 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.488/VII-15.522",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69286",
+  "source_sha256": "fb2419881f3b3d7bb279ee0f1a4d1b3d49633f24d0316896806cae551cfa4a27",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
