@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.486",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60486,
+  "decision_date": "1996-06-26",
+  "date_as_printed": "26 juni 1996",
+  "chamber": "IV",
+  "role_number": "A. 68.232/IV-15.695",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60486",
+  "source_sha256": "7fcafeb818450335d623755227f0c4482f6afc3d840dd8ba8cb2b105ee3dfc22",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
