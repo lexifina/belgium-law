@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.183",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66183,
+  "decision_date": "1997-05-06",
+  "date_as_printed": "6 mei 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.413/IV-355",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66183",
+  "source_sha256": "4ffc2010ef4d3d3a518987f5679519a31ec12d9aa2d06accbdb44841e18bdead",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
