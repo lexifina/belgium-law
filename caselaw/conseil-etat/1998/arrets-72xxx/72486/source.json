@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.486",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72486,
+  "decision_date": "1998-03-17",
+  "date_as_printed": "17 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 73.175/XII-76",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72486",
+  "source_sha256": "2ca5302b358898a4777cb5cb91d12cba849cfc4aaf6cb22ba7a1c8d6f81daf26",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
