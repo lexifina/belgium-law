@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 53.394",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 53394,
+  "decision_date": "1995-05-19",
+  "date_as_printed": "19 mai 1995",
+  "chamber": "III",
+  "role_number": "A. 60.115/III-19.339",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/53394",
+  "source_sha256": "735195da43b309402a5ef145bd600937c30efbe727cb475469f72a06251610ec",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
