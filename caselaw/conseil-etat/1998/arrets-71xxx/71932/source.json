@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.932",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71932,
+  "decision_date": "1998-02-19",
+  "date_as_printed": "19 février 1998",
+  "chamber": "XIII",
+  "role_number": "A. 54.559/XIII-60",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71932",
+  "source_sha256": "c1052def53bf6716457efb12c9d6d7fde07e0a0d4a9864e0aa9be1e0bb3e3864",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
