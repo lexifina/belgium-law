@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.777",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70777,
+  "decision_date": "1998-01-13",
+  "date_as_printed": "13 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 69.352/XI-1.072",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70777",
+  "source_sha256": "1776dcbfdf0701a6b1d92834eea5a7ad261e9304d49ad7b77b404f4062347b04",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
