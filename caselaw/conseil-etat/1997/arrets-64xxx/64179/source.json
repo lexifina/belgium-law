@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.179",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64179,
+  "decision_date": "1997-01-24",
+  "date_as_printed": "24 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.286/III-22.645",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64179",
+  "source_sha256": "8c1915ebcb4f81886576294478895d2a80fde8741ea1c3fc710414809d418acd",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
