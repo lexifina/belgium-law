@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.136",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58136,
+  "decision_date": "1996-02-14",
+  "date_as_printed": "14 février 1996",
+  "chamber": "III",
+  "role_number": "A. 66.887/III-1.866",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58136",
+  "source_sha256": "b1acf54719afbf85369ece498cf9029894f3e4e52dabd03f0209ebabde40f01f",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
