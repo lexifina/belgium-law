@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 52.716",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 52716,
+  "decision_date": "1995-04-06",
+  "date_as_printed": "6 avril 1995",
+  "chamber": "IV",
+  "role_number": "A. 63.089/IV-15.044",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/52716",
+  "source_sha256": "792150ec27086d80e0803f6db8af2db1176f51f700ac642e6ffc9b64de9ee5ee",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
