@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.910",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66910,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.233/VII-15.208",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66910",
+  "source_sha256": "8a1aae5d44a82661117ef0bd7b4bf25ff753528ef864a969e365bbb6ee817d6d",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
