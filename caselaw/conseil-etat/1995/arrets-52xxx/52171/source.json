@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 52.171",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 52171,
+  "decision_date": "1995-03-11",
+  "date_as_printed": "11 mars 1995",
+  "chamber": "VI",
+  "role_number": "A. 62.682/VI-12.281",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/52171",
+  "source_sha256": "10f99b4dd26e42811724112f8bdc90ddf0e806a958bd5b16cdf25c83c339c193",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
