@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.609",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72609,
+  "decision_date": "1998-03-19",
+  "date_as_printed": "19 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 76.307/VII-16.093",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72609",
+  "source_sha256": "ed7c6f0a09aa93e4299177632a3f8d455eafa0e1ecda81b1961a07aa9808974e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
