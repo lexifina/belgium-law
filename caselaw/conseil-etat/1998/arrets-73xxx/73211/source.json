@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.211",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73211,
+  "decision_date": "1998-04-22",
+  "date_as_printed": "22 april 1998",
+  "chamber": "X",
+  "role_number": "A. 76.304/X-7.854",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73211",
+  "source_sha256": "6909ad5a70b76c87479cf61420b21f33c67280c33d1d1c56fe358dc4905d70e6",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
