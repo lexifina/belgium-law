@@ -1,0 +1,1 @@
+Les réserves et cautionnements constitués par le Fonds sont couverts conformément aux dispositions de l'article 12, § 2, de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
