@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.240",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68240,
+  "decision_date": "1997-09-22",
+  "date_as_printed": "22 september 1997",
+  "chamber": "IX",
+  "role_number": "A. 75.580/IX-256",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68240",
+  "source_sha256": "961905d4079a9638d34782d326dc36f4366f3b5ede53ef234a4793c5f0880a5d",
+  "pages": 13,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
