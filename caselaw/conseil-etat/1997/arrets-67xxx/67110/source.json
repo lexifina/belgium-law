@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.110",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67110,
+  "decision_date": "1997-06-26",
+  "date_as_printed": "26 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 74.725/III-333",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67110",
+  "source_sha256": "4aaed5cdbef722bd08138d87eb4122dc34a7cb4847b413945723969bf9a9106b",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
