@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.748",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59748,
+  "decision_date": "1996-05-21",
+  "date_as_printed": "21 mai 1996",
+  "chamber": "III",
+  "role_number": "A. 62.355/III-20.357",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59748",
+  "source_sha256": "db18692697d00484302c4562c2574c030523924bae7bd05e5fee008989e21751",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
