@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.775",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73775,
+  "decision_date": "1998-05-19",
+  "date_as_printed": "19 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.315/XII-865",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73775",
+  "source_sha256": "f1d2078070576da77bebbe7aecde2dd5fec1cb0546b60c7a2f79d18d3f1c319f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
