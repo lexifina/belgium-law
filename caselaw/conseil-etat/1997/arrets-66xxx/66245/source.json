@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.245",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66245,
+  "decision_date": "1997-05-14",
+  "date_as_printed": "14 mei 1997",
+  "chamber": "IV",
+  "role_number": "A. 65.069/IV-15.293",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66245",
+  "source_sha256": "3dde2eac17842fe8ee7e32661d009555941135294c1cd88ea1dfc6b105f01530",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
