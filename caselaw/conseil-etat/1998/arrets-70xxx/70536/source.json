@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.536",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70536,
+  "decision_date": "1998-01-06",
+  "date_as_printed": "6 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 76.769/XI-3.838",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70536",
+  "source_sha256": "812c087fddc07c7b4145df1cbeb00ba59d56b9594b5825e208171d39a25eda1b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
