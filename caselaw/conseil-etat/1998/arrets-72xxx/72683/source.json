@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.683",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72683,
+  "decision_date": "1998-03-24",
+  "date_as_printed": "24 maart 1998",
+  "chamber": "X",
+  "role_number": "A. 77.780/X-8.007",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72683",
+  "source_sha256": "96488a4bcee8cc870529ece5c77c0cc33a907d9475c651d310e453ceb001f066",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
