@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.801",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57801,
+  "decision_date": "1996-01-24",
+  "date_as_printed": "24 janvier 1996",
+  "chamber": "III",
+  "role_number": "A. 65.977/III-14.219",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57801",
+  "source_sha256": "174bbe70f73d968efdec03876a4df22fd20d6103ac5e9910863b430b74ae82f2",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
