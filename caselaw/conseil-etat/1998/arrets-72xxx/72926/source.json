@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.926",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72926,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 40.745/XII-870",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72926",
+  "source_sha256": "eaac0029af52f73fda5e5ceddaf40e0920b989600e7f2f7ee695d3bd6e56cacb",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
