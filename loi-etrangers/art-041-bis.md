@@ -1,0 +1,2 @@
+L'étranger CE qui vient en Belgique pour un séjour n'excédant pas trois mois et qui ne loge pas dans une maison d'hébergement soumise à la législation relative au contrôle des voyageurs, est tenu de se faire inscrire à l'administration communale du lieu où il loge, dans les huit jours ouvrables de son entrée dans le Royaume, à moins qu'il n'appartienne à l'une des catégories d'étrangers que le Roi a dispensées de cette obligation.
+Le Roi détermine le mode d'inscription et le modèle de l'attestation délivrée au moment de l'inscription et faisant foi de celle-ci.
