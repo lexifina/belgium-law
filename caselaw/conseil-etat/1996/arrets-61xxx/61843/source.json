@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.843",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61843,
+  "decision_date": "1996-09-18",
+  "date_as_printed": "18 septembre 1996",
+  "chamber": "III",
+  "role_number": "A. 67.190/III-22.197",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61843",
+  "source_sha256": "2dca406d10c5ebf688bc23b0793720e61232e7e1a4c8eebb8e2530467c43e8b9",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
