@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.970",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63970,
+  "decision_date": "1997-01-13",
+  "date_as_printed": "13 januari 1997",
+  "chamber": "IV",
+  "role_number": "A. 62.631/IV-15.026",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63970",
+  "source_sha256": "7e2a56e7fc66172badcef05fcfd0bc18f4f51f5e11cf8c4715af205e14052cea",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
