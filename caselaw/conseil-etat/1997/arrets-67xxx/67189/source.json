@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.189",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67189,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "VI",
+  "role_number": "A. 72.370/VI-13.556",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67189",
+  "source_sha256": "c1fe33f2f525bf56e9b6789f464bf2db619e7ba8d09c02b9fb8cd99a2987e18f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
