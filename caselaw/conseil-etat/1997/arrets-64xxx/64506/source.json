@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.506",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64506,
+  "decision_date": "1997-02-12",
+  "date_as_printed": "12 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.305/III-22.664",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64506",
+  "source_sha256": "b48d22136916e6048bf9efb4c7fe0c4c93ea8716a31ac88e4f838956fec14500",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
