@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(abrogé) des peines portées par les articles 398 et 401, et suivant les distinctions y établies, quiconque aura volontairement privé d'aliments ou de soins, au point de compromettre sa santé, un enfant au-dessous de l'âge de seize ans ou une personne qui, à raison de son état physique ou mental, n'était pas a même de pourvoir à son entretien.
