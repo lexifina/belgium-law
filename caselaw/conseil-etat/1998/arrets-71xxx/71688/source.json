@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.688",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71688,
+  "decision_date": "1998-02-09",
+  "date_as_printed": "9 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 75.310/IX-118",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71688",
+  "source_sha256": "fe35ffa045ad0603a4f22b421ae4d87e3a299446b6b1da84d8f517ee1d0712cb",
+  "pages": 15,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
