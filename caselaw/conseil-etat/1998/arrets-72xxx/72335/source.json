@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.335",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72335,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 72.034/XI-1.733",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72335",
+  "source_sha256": "ffb38d826050ee2ab0e7df48c906ac05ba39b9f306b7220ee6c57a29ea49633d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
