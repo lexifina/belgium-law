@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.297",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69297,
+  "decision_date": "1997-10-30",
+  "date_as_printed": "30 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 76.089/VII-16.031",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69297",
+  "source_sha256": "00cfd64e81361a7b542a68ad55022b44b699f8b0e26f95f587c3bd50a9781985",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
