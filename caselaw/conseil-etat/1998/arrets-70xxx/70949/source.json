@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.949",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70949,
+  "decision_date": "1998-01-21",
+  "date_as_printed": "21 janvier 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.106/VI-14.398",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70949",
+  "source_sha256": "c9a0500ff374df26790f96a2339c2ca68c3fa50bb7e2fdabebd3455884f6b5f0",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
