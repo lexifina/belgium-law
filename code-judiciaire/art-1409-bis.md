@@ -1,2 +1,2 @@
-Le débiteur qui ne dispose pas de revenus visés à l'article 1409 peut conserver pour lui et sa famille les revenus nécessaires calculés conformément aux articles 1409 et 1411.
+Le débiteur qui ne dispose pas de revenus visés à l'article 1409 peut conserver pour lui et sa famille les revenus nécessaires calculés conformément aux articles 1409 (, § 1er,) et 1411.
 Toute prétention du débiteur fondée sur l'alinéa 1er est soumise au juge des saisies conformément à l'article 1408, § 3. Celui-ci peut limiter la durée pendant laquelle le débiteur bénéfice de cette insaisissabilité.
