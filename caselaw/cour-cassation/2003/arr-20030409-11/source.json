@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2003:ARR.20030409.11",
+  "ecli": "ECLI:BE:CASS:2003:ARR.20030409.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2003-04-09",
+  "date_as_printed": "Jugement/arrêt du 09 avril 2003",
+  "published_on_juportal": "2005-01-07",
+  "language": "fr",
+  "role_number": "P.03.0330.F",
+  "case_name_as_published": "M. contra W.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Chambre du conseil - Ordonnance - Appel - Délai - Calcul",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Raadkamer - Beschikking - Hoger beroep - Termijn - Berekening"
+  ],
+  "fiche": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "Chambre du conseil - Ordonnance - Appel - Délai - Calcul",
+    "Code d'instruction criminelle - 17-11-1808 - Art. 135, § 3 - 30 Lien ELI No pub 1808111701 Code Judiciaire - 10-10-1967 - Art. 2 - 01 Lien ELI No pub 1967101052 Code Judiciaire - 10-10-1967 - Art. 52 - 01 Lien ELI No pub 1967101052",
+    "JURIDICTIONS D'INSTRUCTION",
+    "Chambre du conseil - Ordonnance - Appel - Délai - Calcul",
+    "Code d'instruction criminelle - 17-11-1808 - Art. 135, § 3 - 30 Lien ELI No pub 1808111701 Code Judiciaire - 10-10-1967 - Art. 2 - 01 Lien ELI No pub 1967101052 Code Judiciaire - 10-10-1967 - Art. 52 - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2003:ARR.20030409.11",
+  "source_sha256": "6d5b809c62a0a29c42e76c983abbbd54e10ed78257b78fca4f81711462e08675",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2003:ARR.20030409.11_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
