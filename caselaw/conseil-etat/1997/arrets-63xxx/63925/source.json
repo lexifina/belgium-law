@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.925",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63925,
+  "decision_date": "1997-01-09",
+  "date_as_printed": "9 januari 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.074/VII-13.599",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63925",
+  "source_sha256": "d94c7d0460224563e782e075d8335f9e9e808f483c3a26e0b8c41f758df2a2a5",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
