@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.178",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64178,
+  "decision_date": "1997-01-24",
+  "date_as_printed": "24 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.239/III-22.640",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64178",
+  "source_sha256": "abf5c974b76fbc934db85f614f71e0c9f6bef6ee450630513bda4f7e3dbef0d9",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
