@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 54.284",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 54284,
+  "decision_date": "1995-07-05",
+  "date_as_printed": "5 juli 1995",
+  "chamber": "X",
+  "role_number": "A. 62.761/X-6.474",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/54284",
+  "source_sha256": "4bc132611675d490ab459bfc4fdba88427455bdd2313d8d3100f4e939d197c82",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
