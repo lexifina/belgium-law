@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.428",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66428,
+  "decision_date": "1997-05-28",
+  "date_as_printed": "28 mei 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.346/IV-142",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66428",
+  "source_sha256": "0217c78bcfbdb18566327e5235a7e437c67b5a0a810d34e013cedd23ddcae25c",
+  "pages": 17,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
