@@ -1,7 +1,7 @@
 <a name="Art.51">Art.</a> <a href="#Art.130"> 51</a>. Pour ce qui concerne les rémunérations et les profits autres que les indemnités obtenues en réparation totale ou partielle d'une perte temporaire de rémunérations ou de profits, les frais professionnels (autres que les cotisations et sommes visées à l'article 52, 7° et 8°) (...), sont, à défaut de preuve, fixés forfaitairement en pourcentages du montant brut de ces revenus préalablement diminués desdites cotisations. &lt;L 1994-07-06/33, art. 9, 1°, 004; <b> En vigueur : </b> 01-01-1992&gt; &lt;L 1992-12-28/32, art. 77; <b> En vigueur : </b> 01-01-1994&gt;
 (Ces pourcentages sont :
 1° pour les rémunérations des travailleurs :
-a) 20 p.c. de la première tranche de (3.750 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
+a) (23 p.c.) de la première tranche de (3.750 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt; &lt;L 2001-08-10/63, art. 7, 095; <b> En vigueur : </b> 01-01-2003&gt;
 b) 10 p.c. de la tranche de (3.750 EUR) à (7.450 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
 c) 5 p.c. de la tranche de (7.450 EUR) à (12.400 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
 d) 3 p.c. de la tranche excédant (12.400 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
@@ -11,72 +11,34 @@ d) 3 p.c. de la tranche excédant (12.400 EUR); &lt;AR 2000-07-20/64, art. 1, 07
 Le forfait ne peut, en aucun cas, dépasser (2.500 EUR) pour l'ensemble des revenus d'une même catégorie visée à l'alinéa 2, 1° à 4°.) &lt;L 1994-07-06/33, art. 51, 2°, 004; <b> En vigueur : </b> 01-01-1992&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
 En ce qui concerne les rémunérations des travailleurs, le forfait est majoré, pour tenir compte des frais exceptionnels qui résultent de l'éloignement du domicile par rapport au lieu de travail, d'un montant déterminé suivant une échelle fixée par le Roi.
 
-<a name="Art.130" href="#Art.51">Art.</a> <a href="#Art.133"> 130</a>. L'impôt est fixé à :
-25 p.c. pour la tranche de revenu de (0,01 EUR) à (5.705 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-30 p.c. pour la tranche de (5.705 EUR) à (7.565 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-40 p.c. pour la tranche de (7.565 EUR) à (10.785 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-45 p.c. pour la tranche de (10.785 EUR) à (24.790 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-50 p.c. pour la tranche de (24.790 EUR) à (37.185 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-52,5 p.c. pour la tranche de (37.185 EUR) à (54.540 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-55 p.c. pour la tranche dépassant (54.540 EUR). &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.130" href="#Art.51">Art.</a> <a href="#LNK0001"> 130</a>. &lt;L 2001-08-10/63, art. 22, 095; <b> En vigueur : </b> 01-01-2003&gt; L'impôt est fixé à :
+25 p.c. pour la tranche de revenus de 0,01 EUR à 5 705,00 EUR;
+30 p.c. pour la tranche de 5 705,00 EUR à 7 565,00 EUR;
+40 p.c. pour la tranche de 7 565,00 EUR à 10 785,00 EUR;
+45 p.c. pour la tranche de 10 785,00 EUR à 24 800,00 EUR;
+50 p.c. pour la tranche de 24 800,00 EUR à 37 185,00 EUR;
+52 p.c. pour la tranche supérieure à 37 185,00 EUR.
 
-<a name="Art.133" href="#Art.130">Art.</a> <a href="#Art.134"> 133</a>. (§ 1.) La quotité du revenu exemptée d'impôt est, en outre, majorée des suppléments suivants : &lt;L 1999-05-04/42, art. 5, 2°, 055; <b> En vigueur : </b> 01-01-2000&gt;
-1° (870 EUR) pour un veuf ou une veuve, non remarié, ainsi que pour un père ou une mère célibataire ayant un ou plusieurs enfants à charge; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-2° (870 EUR) pour chaque contribuable atteint d'un handicap; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-3° (870 EUR) pour chaque autre personne à charge atteinte d'un handicap; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-4° (870 EUR) pour un contribuable marié, pour l'année de son mariage, si le conjoint n'a pas bénéficié de ressources d'un montant net supérieur à (1.500,00 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-5° (...). &lt;L 1999-05-04/42, art. 5, 1°, 055; <b> En vigueur : </b> 01-01-2000&gt;
-§ 2. (...) &lt;L 2001-08-10/63, art. 25,094; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="LNK0001" href="#LNKR0001">Sous-section II.</a> - Quotité du revenu exemptée d'impôt.
 
-<a name="Art.134" href="#Art.133">Art.</a> <a href="#Art.145.2"> 134</a>. Le montant de base visé à l'article 131, 2°, est imputé sur celle des parts du revenu visées à l'article 127, qui constitue les revenus du conjoint concerné ou qui les comprend. Lorsqu'une desdites parts est inférieure à ((3.250) EUR), le solde est imputé sur l'autre part du revenu. &lt;L 1999-05-04/54, art. 10, 056; <b> En vigueur : </b> 01-01-2000&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-Les majorations visées aux articles 132 et 133, 2° et 3°, sont ensuite imputées par priorité sur la part du revenu de celui des conjoints qui a les revenus professionnels les plus élevés. Lorsque cette part du revenu est inférieure au total desdites majorations, le solde est imputé sur l'autre part du revenu.
-La quotité du revenu exemptée est imputée sur les tranches successives du revenu, en commencant par la première.
+<a name="Art.131" href="#Art.130">Art.</a> <a href="#Art.289ter"> 131</a>. Pour le calcul de l'impôt, est exemptée une quotité du revenu déterminée comme suit :
+1° pour un contribuable isolé, un montant de base de (4.095 EUR); &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
+2° pour chaque conjoint, un montant de base de ((3.250) EUR). &lt;L 1999-05-04/54, art. 9, 056; <b> En vigueur : </b> 01-01-2000&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
 
-<a name="Art.145.2" href="#Art.134">Art.</a> <a href="#Art.145.4"> 145.2</a>. &lt;Inséré par L 1992-12-28/32, art. 86; <b> En vigueur : </b> 01-01-1993&gt; La réduction est calculée u taux moyen spécial qui correspond à l'impôt calculé conformément aux articles 130, 131 et 134, alinéas 1er et 3, sur l'ensemble des revenus imposables, en ce non compris les revenus imposés distinctement en application de l'article 171.
-Le taux d'imposition qui est applicable sur les dépenses prises en considération au nom de chacun des conjoints pour la réduction d'impôt, est fixé séparément pour chacun d'eux compte tenu des dispositions de l'article 127.
-Le taux d'imposition ainsi déterminé ne peut être inférieur à 30 p.c., ni supérieur à 40 p.c.
-
-<a name="Art.145.4" href="#Art.145.2">Art.</a> <a href="#Art.290"> 145.4</a>. &lt;Inséré par L 1992-12-28/32, art. 86; <b> En vigueur : </b> 01-01-1993&gt; Les cotisations visées à l'article 145.1., 2°, sont prises en considération pour la réduction à condition :
-1° que le contrat d'assurance-vie soit souscrit :
-a) par le contribuable qui, en outre s'est assuré exclusivement sur sa tête;
-b) avant l'âge de 65 ans (...); les contrats qui sont prorogés au-delà du terme initialement prévu, remis en vigueur, transformés ou augmentés, alors que l'assuré a atteint l'âge de 65 ans (...) ne sont pas considérés comme souscrits avant cet âge; &lt;L 2001-08-10/63, art. 31, 094; <b> En vigueur : </b> 01-01-2002&gt;
-c) pour une durée minimum de 10 ans lorsqu'il prévoit des avantages en cas de vie;
-2° que les avantages du contrat soient stipulés :
-a) en cas de vie, au profit du contribuable à partir de l'âge de 65 ans ou de 60 ans, suivant qu'il s'agit d'un homme ou d'une femme;
-b) en cas de décès, au profit du conjoint ou des parents jusqu'au deuxième degré du contribuable.
-
-<a name="Art.290" href="#Art.145.4">Art.</a> <a href="#Art.291"> 290</a>. &lt;L 1993-07-22/30, art. 13; <b> En vigueur : </b> 01-01-1994&gt; Dans le chef des habitants du royaume et sans préjudice de l'application de l'article 277 :
-1° le précompte immobilier est imputé à concurrence de l'impôt des personnes physiques, (...); &lt;L 1994-03-30/39, art. 22, 1°, 002; <b> En vigueur : </b> 01-01-1995&gt;
-2° (le montant des sommes imputables à titre de quotité forfaitaire d'impôt étranger et de crédit d'impôt, ne peut pas dépasser la quotité de l'impôt des personnes physiques qui est proportionnellement afférente aux revenus professionnels;) &lt;L 1999-05-04/54, art. 29, 1°, 056; <b> En vigueur : </b> 01-01-1997&gt;
-3° (...) &lt;L 1999-05-04/54, art. 29, 2°, 056; <b> En vigueur : </b> 01-01-1997&gt;
-
-<a name="Art.291" href="#Art.290">Art.</a> <a href="#Art.304"> 291</a>. Les précomptes qui ne peuvent pas être imputés en raison des limites prévues à l'article 290 ne peuvent pas être imputés sur les taxes additionnelles visées à l'article 466, ni être remboursés au contribuable.
-(Lorsque le crédit d'impôt n'a pu être imputé, par défaut ou insuffisance d'impôt des personnes physiques dû pour un exercice d'imposition, le crédit d'impôt non imputé pour cet exercice est reporté sur la quotité de l'impôt des personnes physiques déterminée conformément (à l'article 290, 2°), des trois exercices d'imposition suivants. &lt;L 1999-05-04/54, art. 30, 056; <b> En vigueur : </b> 01-01-1997&gt;
-Dans les cas visés à l'article 46, § 1er, alinéa 1er, 1° et 3°, le crédit d'impôt est reporté comme s'il n'y avait pas eu changement de contribuable, sans qu'il puisse en résulter une prolongation du délai au delà du terme initialement prévu.) &lt;L 1995-12-20/31, art. 18, 014; <b> En vigueur : </b> 01-01-1997&gt;
-
-<a name="Art.304" href="#Art.291">Art.</a> <a href="#Art.355"> 304</a>. &lt;Voir NOTE sous TITRE VII&gt; (NOTE : L'article 304, § 2, a été modifié par l'article 38, 1° de l'AR 1996-12-20/40. Cet article 38, 1°, a été rapporté par L 1999-05-04/54, art. 45, § 3, 058; <b> En vigueur : </b> 01-01-1997) § 1. (Le précompte immobilier fait l'objet de rôles. Les impositions au précompte immobilier qui sont afférentes à un revenu cadastral inférieur à (15 EUR) par article de la matrice cadastrale ne sont pas portées au rôle.) &lt;L 1999-03-15/31, art. 7, 053; <b> En vigueur : </b> 06-04-1999&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-(A défaut de paiement dans le délai prévu à l'article 412, les impositions au précompte mobilier et au précompte professionnel sont toujours portées au rôle, quel qu'en soit le montant.) &lt;L 1999-03-15/31, art. 7, 053; <b> En vigueur : </b> 06-04-1999&gt;
-(Sauf dans les cas prévus aux articles 225, alinéa 1er, et 248, alinéa 1er, les impositions à l'impôt des personnes physiques, à l'impôt des sociétés, à l'impôt des personnes morales et à l'impôt des non-résidents, sont toujours portées au rôle, quel qu'en soit le montant, mais ce montant n'est pas recouvré ou remboursé lorsqu'il n'atteint pas (2,50 EUR), après imputation des précomptes, versements anticipés et autres éléments.) &lt;L 1999-03-15/31, art. 7, 053; <b> En vigueur : </b> 06-04-1999&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-Pour déterminer si la limite de (2,50 EUR) est atteinte, il est tenu compte des centimes et taxes additionnels prévus (aux articles 245 et 466). &lt;L 1994-07-06/33, art. 50, 005; <b> En vigueur : </b> 01-01-1992&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-§ 2. Dans le chef des contribuables soumis à l'impôt des personnes physiques, l'excédent éventuel des précomptes mobiliers, réels ou fictifs, visés aux articles 279 et 284, des précomptes professionnels visés aux articles 270 à 272, et des versements anticipés visés aux articles 157 à 168 et 175, est imputé, s'il y a lieu, sur les taxes additionnelles à l'impôt des personnes physiques et le surplus est restitué pour autant qu'il atteigne (2,50 EUR). &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-Dans le chef des sociétés résidentes, l'excédent éventuel du précompte mobilier, visé à l'article 279 et des versements anticipés visés aux articles 157 à 168 et 218 est imputé, s'il y a lieu, sur (les cotisations distinctes établies en exécution des articles 219 et 219bis), et le surplus est restitué pour autant qu'il atteigne (2,50 EUR). &lt;L 1999-05-04/54, art. 33, 052; <b> En vigueur : </b> 01-01-1999&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-(Dans le chef des contribuables soumis à l'impôt des personnes morales, les versements anticipés non imputés sont restitués pour autant qu'ils atteignent (2,50 EUR).) &lt;L 1999-05-04/54, art. 33, 051; <b> En vigueur : </b> 01-01-1998&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-(...) &lt;AR 1996-12-20/40, art. 38, 1°, 024; <b> En vigueur : </b> 10-01-1997&gt;
-(Dans le chef des contribuables soumis à l'impôt des non-résidents conformément à l'article 232, l'alinéa 1er du présent paragraphe s'applique à l'impôt calculé conformément aux articles 243 à 245.
-Dans le chef des contribuables soumis à l'impôt des non-résidents, conformément à l'article 233, l'alinéa 2 du présent paragraphe s'applique à l'impôt calculé conformément à l'article 246 et l'excédent éventuel du précompte professionnel visé aux articles 270 à 272 est imputé sur cet impôt, le surplus est restitué pour autant qu'il atteigne (2,50 EUR).) &lt;AR 1996-12-20/40, art. 38, 2°, 024; <b> En vigueur : </b> 01-01-1997&gt; &lt;AR 2000-07-20/64, art. 1, 078; <b> En vigueur : </b> 01-01-2002&gt;
-
-<a name="Art.355" href="#Art.304">Art.</a> <a href="#Art.376"> 355</a>. &lt;Voir NOTE sous TITRE VII&gt; &lt;L 1999-03-15/31, art. 20, 053; <b> En vigueur : </b> 01-01-1999&gt; Lorsqu'une imposition a été annulée pour n'avoir pas été établie conformément à une règle légale autre qu'une règle relative à la prescription, l'administration peut, même si le délai fixé pour l'établissement de la cotisation est alors écoulé, établir à charge du même redevable, une nouvelle cotisation en raison de tout ou partie des mêmes éléments d'imposition, dans les trois mois de la date à laquelle la décision du directeur des Contributions ou du fonctionnaire délégué par lui n'est plus susceptible de recours en justice.
-Lorsque l'imposition annulée a donné lieu à la restitution d'un précompte ou d'un versement anticipé, il est tenu compte de cette restitution lors de l'établissement de la nouvelle cotisation de remplacement.
-
-<a name="Art.376" href="#Art.355">Art.</a> <a href="#Art.466"> 376</a>. &lt;Voir NOTE sous TITRE VII&gt; &lt;L 1999-03-15/31, art. 33, 053; <b> En vigueur : </b> 06-04-1999, mais 27-03-1999 en une mesure précisée par L 1999-03-15/31, art. 97, al. 2&gt; § 1er. Le directeur des Contributions ou le fonctionnaire délégué par lui, accorde d'office le dégrèvement des surtaxes résultant d'erreurs matérielles, de doubles emplois, ainsi que de celles qui apparaîtraient à la lumière de documents ou faits nouveaux probants, dont la production ou l'allégation tardive par le redevable est justifiée par de justes motifs, à condition que :
-1° ces surtaxes aient été constatées par l'administration ou signalées à celle-ci par le redevable ou par son conjoint sur les biens duquel l'imposition est mise en recouvrement, dans les trois ans à partir du 1er janvier de l'année au cours de laquelle l'impôt a été établi;
-2° la taxation n'ait pas déjà fait l'objet d'une réclamation ayant donné lieu à une décision définitive sur le fond.
-§ 2. N'est pas considéré comme constituant un élément nouveau, un nouveau moyen de droit ni un changement de jurisprudence.
-§ 3. Le directeur des Contributions ou le fonctionnaire délégué par lui accorde aussi d'office le dégrèvement :
-1° des excédents de précomptes et versements anticipés visés à l'article 304, § 2, pour autant que ces excédents aient été constatés par l'administration ou signalés à celle-ci par le redevable ou par son conjoint sur les biens duquel l'imposition est mise en recouvrement, dans les trois ans à partir du 1er janvier de l'exercice d'imposition auquel appartient l'impôt sur lequel ces précomptes et versements anticipés sont imputables;
-2° des réductions résultant de l'application des articles 88, 131 à 135, 138, 139, 146 à 156 et 257, pour autant que le fait générateur de ces réductions ait été constaté par l'administration ou signalé à celle-ci par le redevable ou par son conjoint sur les biens duquel l'imposition est mise en recouvrement, dans les trois ans à partir du 1er janvier de l'exercice d'imposition auquel appartient l'impôt sur lequel ces réductions doivent être accordées.
-§ 4. Le Roi détermine les conditions et modalités de restitution d'office des versements anticipés visés aux articles 157 à 168 et 175 à 177 qui n'ont pas encore été imputés sur l'impôt réellement dû.
-
-<a name="Art.466" href="#Art.376">Art.</a> 466. La taxe communale additionnelle à l'impôt des personnes physiques et la taxe d'agglomération additionnelle à l'impôt des personnes physiques sont calculées sur l'impôt des personnes physiques déterminé :
-- avant imputation des versements anticipés visés aux articles 157 à 168 et 175 à 177, des précomptes (, de la quotité forfaitaire d'impôt étranger et du crédit d'impôt), visés aux articles 277 à 296; &lt;L 1995-12-20/31, art. 22, 014; <b> En vigueur : </b> 01-01-1997&gt;
-- avant application des majorations prévues aux articles 157 à 168, de la bonification prévue aux articles 175 à 177 ainsi que des accroissements d'impôt prévus à l'article 444.
+<a name="Art.289ter" href="#Art.131">Art.</a> 289ter. &lt;Inséré par L 2001-08-10/63, art. 49, A; <b> En vigueur : </b> 01-01-2003&gt; § 1er. Lorsque l'ensemble de ses revenus nets de la période imposable ne dépasse pas 14 140 EUR, l'habitant du Royaume a droit à un crédit d'impôt dont le montant est déterminé en fonction du montant des revenus d'activités.
+Le montant des revenus d'activités est égal au montant net des revenus professionnels, diminué :
+1° des revenus visés à l'article 23, § 1er, 5°;
+2° des indemnités obtenues en réparation totale ou partielle d'une perte temporaire de revenus;
+3° des revenus professionnels imposés distinctement conformément à l'article 171;
+4° des rémunérations pour des prestations de travail dont la durée est inférieure au tiers de la durée légale prévue du temps de travail;
+5° des bénéfices ou profits qui sont considérés comme des revenus d'une activité exercée à titre accessoire pour l'application de la législation relative au statut social des travailleurs indépendants.
+Aucun crédit d'impôt n'est accordé au contribuable qui a obtenu des bénéfices ou profits déterminés selon des bases forfaitaires de taxation.
+Lorsqu'une imposition est établie conformément à l'article 126, §§ 1er et 2, le crédit d'impôt, les revenus et les limites sont calculés par contribuable, avant application des articles 86 à 89.
+§ 2. Pour donner droit au crédit d'impôt, le montant des revenus d'activités doit être supérieur à 3 260 EUR.
+Le montant du crédit d'impôt est déterminé comme suit :
+1° lorsque le montant des revenus d'activités s'élève à plus de 3 260 EUR tout en ne dépassant pas 4 350 EUR : 78 EUR multipliés par une fraction dont le numérateur est égal à la différence entre le montant des revenus d'activités et 3 260 EUR et dont le dénominateur est égal à la différence entre 4 350 EUR et 3 260 EUR;
+2° lorsque le montant des revenus d'activités s'élève à plus de 4 350 EUR tout en ne dépassant pas 10 880 EUR : 78 EUR;
+3° lorsque le montant des revenus d'activités s'élève à plus de 10 880 EUR tout en ne dépassant pas 14 140 EUR : 78 EUR multipliés par une fraction dont le numérateur est égal à la différence entre 14 140 EUR et le montant des revenus d'activités et dont le dénominateur est égal à la différence entre 14 140 EUR et 10 880 EUR.
+Lorsque les revenus professionnels ne comprennent que pour partie des revenus d'activités, le crédit d'impôt déterminé conformément à l'alinéa 2, est réduit en proportion de la fraction que représentent les revenus d'activités par rapport au montant net des revenus professionnels.
+Lorsque l'ensemble des revenus nets s'élève à plus de 10 880 EUR tout en ne dépassant pas 14 140 EUR, le crédit d'impôt ne peut excéder le produit de la multiplication de 78 EUR par une fraction dont le numérateur est égal à la différence entre 14 140 EUR et le montant de l'ensemble des revenus nets et dont le dénominateur est égal à la différence entre 14 140 EUR et 10 880 EUR.
+§ 3. Les dispositions de l'article 178 sont applicables aux montants visés au présent article.
