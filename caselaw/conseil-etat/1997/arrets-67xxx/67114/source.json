@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.114",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67114,
+  "decision_date": "1997-06-27",
+  "date_as_printed": "27 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 69.207/IV-15.807",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67114",
+  "source_sha256": "a23df3e78ff275604756be065592515692f71b63d1496e7c43c74b1f3c756d97",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
