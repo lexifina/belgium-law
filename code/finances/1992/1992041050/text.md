@@ -1,12 +1,6 @@
-<a name="Art.180">Art.</a> 180. Ne sont pas assujettis à l'impôt des sociétés :
-1° les intercommunales régies par la loi du 22 décembre 1986;
-2° la Société anonyme du canal et des installations maritimes de Bruxelles, la Compagnie des installations maritimes de Bruges (, le Port de Bruxelles) (, la régie portuaire communale d'Anvers, la régie portuaire communale d'Ostende) et les ports autonomes de Liège, Charleroi et Namur; &lt;L 1994-07-06/33, art. 25, 004; <b> En vigueur : </b> 01-01-1994&gt; &lt;L 1997-07-06/77, art. 2, 031; <b> En vigueur : </b> 01-01-1998&gt;
-3° l'Office national du ducroire;
-4° la Compagnie belge pour le Financement de l'Industrie;
-5° la Loterie Nationale;
-(5°bis le Fonds de participation;) &lt;L 1992-07-28/30, art. 82; <b> En vigueur : </b> 01-01-1993&gt;
-6° la Société régionale wallonne de transport public de personnes et les sociétés d'exploitation qui lui sont liées;
-7° la Société des Transports flamande et les unités d'exploitation autonome existant en son sein;
-8° la Société de transports intercommunaux de Bruxelles;
-9° les sociétés dépuration des eaux régies par la loi du 26 mars 1971.
-(10° les Sociétés des Bourses de valeurs mobilières visées à l'article 7 de la loi du 4 décembre 1990.) &lt;L 1992-12-28/32, art. 7; <b> En vigueur : </b> 01-01-1992&gt;
+<a name="Art.145.1">Art.</a> 145.1. &lt;Inséré par L 1992-12-28/32, art. 86; <b> En vigueur : </b> 01-01-1993&gt; Dans les limites et aux conditions prévues aux articles 145.2. à 145.16., il est accordé une réduction d'impôt calculée sur les dépenses suivantes qui ont été effectivement payées pendant la période imposable :
+1° à titre de cotisations personnelles d'assurance complémentaire contre la vieillesse et le décès prématuré en vue de la constitution d'une rente ou d'un capital en cas de vie ou en cas de décès, à l'intervention de l'employeur, par voie de retenue sur les rémunérations;
+2° à titre de cotisations d'une assurance complémentaire contre la vieillesse et le décès prématuré que le contribuable a payées à titre définitif en Belgique pour constituer une rente ou un capital en cas de vie ou en cas de décès en exécution d'un contrat d'assurance-vie qu'il a conclu individuellement.
+3° à titre de sommes affectées à l'amortissement ou à la reconstitution d'un emprunt hypothécaire, contracté en vue de construire, acquérir ou transformer une habitation située en Belgique et garanti par une assurance temporaire au décès à capital décroissant;
+4° à titre de sommes affectées à la libération en numéraire d'actions ou parts, souscrites par le contribuable en tant que travailleur représentant une fraction du capital social de la société résidente qui occupe le contribuable ou dont la société employeur est, au sens de la législation relative à la comptabilité et aux comptes annuels des entreprises, considérée de manière irréfragable comme une filiale ou une sous-filiale;
+5° à titre de paiements pour l'épargne-pension.
