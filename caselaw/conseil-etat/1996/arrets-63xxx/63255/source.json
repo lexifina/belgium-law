@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.255",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63255,
+  "decision_date": "1996-11-21",
+  "date_as_printed": "21 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.819/III-22.534",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63255",
+  "source_sha256": "64576768814bc0d97f5d30faf61cf385c46c3fbc9a8de3e7e0aaa8a8bd711fe5",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
