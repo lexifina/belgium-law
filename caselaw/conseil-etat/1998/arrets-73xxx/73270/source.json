@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.270",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73270,
+  "decision_date": "1998-04-24",
+  "date_as_printed": "24 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 60.676/XI-3.466",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73270",
+  "source_sha256": "1b3a4558db7477213581fc3935ae6a54f0c6b0bc915944af4c331a58e7814df6",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
