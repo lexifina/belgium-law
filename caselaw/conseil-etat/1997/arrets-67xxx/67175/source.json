@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.175",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67175,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "X",
+  "role_number": "A. 67.175/X-13.864",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67175",
+  "source_sha256": "b253eb3b38ff39e4ad4577de72e650378020b347a117d0a810ac6d6880aafb28",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
