@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.366",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73366,
+  "decision_date": "1998-04-29",
+  "date_as_printed": "29 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.028/XI-4.260",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73366",
+  "source_sha256": "efbec946c9ee73389776f43e35d66ca6c826a83492ca4aac456c094c501fa9cd",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
