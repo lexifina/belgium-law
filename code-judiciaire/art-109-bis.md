@@ -4,6 +4,7 @@
 3° les demandes fondées sur les articles 606 et 1718.
 § 2. A l'exception des demandes relatives à l'état des personnes, sont de même attribués aux chambres qui ne comprennent qu'un conseiller:
 1° les appels des décisions rendues en matière civile par une chambre du tribunal de première instance qui ne comprend qu'un juge;
+(1°bis les appels des décisions rendues par le tribunal de commerce;)
 2° les appels des décisions rendues par le président du tribunal de première instance ou par le président du tribunal de commerce;
 Néanmoins, les appels énumérés à l'alinéa 1er sont, dans tous les cas, attribués aux chambres composées de trois conseillers à la cour lorsque la demande en est faite par l'appelant dans son acte d'appel principal.
 (La cause est également attribuée à une chambre composée de trois conseillers, pour autant que l'intimé, à peine de déchéance, en fasse la demande par écrit dans la déclaration visée à l'article 1061.)
