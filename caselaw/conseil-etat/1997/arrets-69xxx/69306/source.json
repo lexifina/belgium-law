@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.306",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69306,
+  "decision_date": "1997-10-30",
+  "date_as_printed": "30 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 70.074/X-6.811",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69306",
+  "source_sha256": "0c9beeaff197f289e4d6449c62d4cec649aa09713795728cc594681f846b7f8b",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
