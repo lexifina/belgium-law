@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.158",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67158,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juin 1997",
+  "chamber": "VI",
+  "role_number": "A. 48.210/VI-10.966",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67158",
+  "source_sha256": "48205a53bfc7ad5a4810d792797ef4a8dd8a407da2d37e0a7d4c0bbece998a87",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
