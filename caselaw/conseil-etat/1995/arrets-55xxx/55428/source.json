@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.428",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55428,
+  "decision_date": "1995-09-27",
+  "date_as_printed": "27 september 1995",
+  "chamber": "IV",
+  "role_number": "A. 61.339/IV-14.920",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55428",
+  "source_sha256": "a232a9d09933de5656cf5fa20e587b7d61797bd579369f95aa5e200b449702d9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
