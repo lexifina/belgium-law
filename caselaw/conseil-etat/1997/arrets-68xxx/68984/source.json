@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.984",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68984,
+  "decision_date": "1997-10-23",
+  "date_as_printed": "23 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 42.125/VII-9.400",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68984",
+  "source_sha256": "ed1b335c1f89c65d59cfd8ced4d4b5a34c2a822334f388fca7e540b376f0f1f6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
