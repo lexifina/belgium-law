@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.978",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64978,
+  "decision_date": "1997-03-05",
+  "date_as_printed": "5 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 68.232/IV-15.695",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64978",
+  "source_sha256": "42133b1cf2cc99ddc43aaf960abdc80b93947553eef4b23cb08a873ea67b6842",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
