@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.680",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59680,
+  "decision_date": "1996-05-14",
+  "date_as_printed": "14 mai 1996",
+  "chamber": "III",
+  "role_number": "A. 65.669/III-21.748",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59680",
+  "source_sha256": "0b49ee8f74118733ccfb4f8db9ca2a98ab07f503ee386cb7197fa34c66bedac3",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
