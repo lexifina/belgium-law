@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.902",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62902,
+  "decision_date": "1996-10-31",
+  "date_as_printed": "31 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 68.448/VII-13.815",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62902",
+  "source_sha256": "3517f83e298bb971afd89ccb00728ce255c1bc71b6e4b8c23e3634c67f52c307",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
