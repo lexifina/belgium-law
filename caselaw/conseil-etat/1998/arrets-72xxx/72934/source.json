@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.934",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72934,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 71.647/VII-14.783",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72934",
+  "source_sha256": "2907377fb2a2b4cff4fedec4d5203b325f49945bd290c5b0be2a93bd6f0345a9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
