@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.280",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58280,
+  "decision_date": "1996-02-21",
+  "date_as_printed": "21 février 1996",
+  "chamber": "III",
+  "role_number": "A. 62.872/III-21.057",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58280",
+  "source_sha256": "b306c69c3b9968ed3a6e7e1adda342e6162de2eb95ee0fb7e94e08e4382f7632",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
