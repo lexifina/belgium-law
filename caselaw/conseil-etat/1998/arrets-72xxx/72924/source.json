@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.924",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72924,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.894/XI-4.233",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72924",
+  "source_sha256": "6c6b9de054cf05445ee7f2cd1a5f96c32c061c36f8fc17bad7ddd90f4e37f203",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
