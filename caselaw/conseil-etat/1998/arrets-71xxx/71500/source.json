@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.500",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71500,
+  "decision_date": "1998-02-02",
+  "date_as_printed": "2 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 75.275/IX-116",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71500",
+  "source_sha256": "9d2cb8cd80df2843c84bfce5e8873a5a21d918df04755ed8d24ec00d0ab5ac1c",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
