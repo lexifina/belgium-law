@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.891",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62891,
+  "decision_date": "1996-10-31",
+  "date_as_printed": "31 oktober 1996",
+  "chamber": "VII",
+  "role_number": "A. 69.181/VII-14.181",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62891",
+  "source_sha256": "1382063099c23a40fa27d525faf32911c9eb59c4e55689a987a2a034cec7000d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
