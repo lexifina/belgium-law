@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.806",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72806,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 66.933/XI-251",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72806",
+  "source_sha256": "448b63b0fe833f4c3a0c5344c4997eb36b14746875e66902fc18910a693aca75",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
