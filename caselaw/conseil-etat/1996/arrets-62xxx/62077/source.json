@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.077",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62077,
+  "decision_date": "1996-10-01",
+  "date_as_printed": "1er octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 63.904/III-21.187",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62077",
+  "source_sha256": "a815d34cd9139ab8509c059c44ba2b2887263da71515cadde68aa107f1cd45f8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
