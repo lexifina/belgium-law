@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.973",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66973,
+  "decision_date": "1997-06-25",
+  "date_as_printed": "25 juin 1997",
+  "chamber": "VI",
+  "role_number": "A. 73.957/VI-13.762",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66973",
+  "source_sha256": "6f425e1bc03a95d2a16064794362db163709f3ee22f6831590b904185bfb4f4e",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
