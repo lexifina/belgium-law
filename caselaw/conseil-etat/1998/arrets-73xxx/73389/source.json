@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.389",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73389,
+  "decision_date": "1998-05-04",
+  "date_as_printed": "4 mai 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.026/XI-3.909",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73389",
+  "source_sha256": "87add0901141bb816514a4104760d67db79bfec6ea52c5687c89bf6de1236237",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
