@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.458",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69458,
+  "decision_date": "1997-11-05",
+  "date_as_printed": "5 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 67.310/VII-6.602",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69458",
+  "source_sha256": "dfd04297038fd226606f414a71bff3f8963aeecf8416b34d93be9bd29cdb40e4",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
