@@ -1,0 +1,3 @@
+Le procureur du Roi émet un avis écrit sur les conditions de forme, sur l'admissibilité du divorce et sur le contenu des conventions entre les époux relatives aux enfants mineurs.
+L'avis déposé au greffe au plus tard la veille de la compuration des époux visée à l'article 1289, à moins qu'en raison des circonstances de la cause il ne soit émis sur-le-champ, par écrit ou verbalement à l'audience de la comparution des époux; dans ce cas, il en est fait mention sur la feuille d'audience.
+Si l'avis ne peut être donné en temps utile, le président du tribunal ou le juge qui en exerce les fonctions en est avisé au plus tard la veille de l'audience et il est fait mention de la cause du retard sur la feuille d'audience.
