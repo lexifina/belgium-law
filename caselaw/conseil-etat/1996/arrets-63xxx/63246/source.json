@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.246",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63246,
+  "decision_date": "1996-11-21",
+  "date_as_printed": "21 novembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.597/III-22.464",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63246",
+  "source_sha256": "6d35ce3aeb183497742ca6ccc0979d7f2e4e6feffa2b285880d2913c2fd3fc6b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
