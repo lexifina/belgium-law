@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.921",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65921,
+  "decision_date": "1997-04-18",
+  "date_as_printed": "18 avril 1997",
+  "chamber": "VI",
+  "role_number": "A. 68.127/VI-13.119",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65921",
+  "source_sha256": "dd70d0418d18dfb038de80e9025fca94d40257d678a3de0c5c910bc65baf2dd4",
+  "pages": 10,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
