@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.028",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72028,
+  "decision_date": "1998-02-25",
+  "date_as_printed": "25 februari 1998",
+  "chamber": "VII",
+  "role_number": "A. 40.155/VII-8.703",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72028",
+  "source_sha256": "2efe5ae391fab6f7c1ed1737e8c7fc234a7708c918bb4ad08387742c29711bb1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
