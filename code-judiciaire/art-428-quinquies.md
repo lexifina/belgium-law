@@ -1,1 +1,1 @@
-L'Ordre national des avocats de Belgique met à la disposition de la commission de recours et du jury le personnel, le secrétariat, les locaux, la documentation et le matériel nécessaires pour l'accomplissement de leur mission.
+(L'Ordre des barreaux francophones et germanophone ou l'Orde van Vlaamse balies) met à la disposition de la commission de recours et du jury le personnel, le secrétariat, les locaux, la documentation et le matériel nécessaires pour l'accomplissement de leur mission.
