@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.482",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69482,
+  "decision_date": "1997-11-06",
+  "date_as_printed": "6 november 1997",
+  "chamber": "X",
+  "role_number": "A. 41.624/X-7.476",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69482",
+  "source_sha256": "a43bf6ca365f59391977e40f65a35d959a02382c451e5485d46b29e03866a38e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
