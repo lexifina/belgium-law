@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.672",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64672,
+  "decision_date": "1997-02-20",
+  "date_as_printed": "20 février 1997",
+  "chamber": "III",
+  "role_number": "A. 59.441/III-18.981",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64672",
+  "source_sha256": "6e440a2ebc3bfa9ce46253544d2c7bd53c72f7545826684d121fe5a027bbe351",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
