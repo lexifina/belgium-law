@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.917",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72917,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "X",
+  "role_number": "A. 75.014/X-7.558",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72917",
+  "source_sha256": "283b1b39d8549d8b6b12c3423494a434030fb2657494e5e3525b38bbeb4da5df",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
