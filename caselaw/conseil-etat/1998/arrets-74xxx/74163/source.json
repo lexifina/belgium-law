@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.163",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74163,
+  "decision_date": "1998-06-08",
+  "date_as_printed": "8 juin 1998",
+  "chamber": "XI",
+  "role_number": "A. 78.851/XI-4.500",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74163",
+  "source_sha256": "02cbb15040c77826a388777c53ab7ceae98c032e9ed23186c694c77f186ed76a",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
