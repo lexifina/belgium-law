@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.210",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73210,
+  "decision_date": "1998-04-22",
+  "date_as_printed": "22 april 1998",
+  "chamber": "X",
+  "role_number": "A. 71.464/X-6.954",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73210",
+  "source_sha256": "a70e4c4e56522d1de27c086938b4279aa9724c6ed3a57e698f41fcb433efe655",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
