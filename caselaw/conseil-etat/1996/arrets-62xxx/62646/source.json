@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.646",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62646,
+  "decision_date": "1996-10-22",
+  "date_as_printed": "22 oktober 1996",
+  "chamber": "X",
+  "role_number": "A. 66.559/X-6.767",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62646",
+  "source_sha256": "b4a0c4b83681413d1fe8e90fe8b9f5349ee2260df38797b77de21827717b1af9",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
