@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.166",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60166,
+  "decision_date": "1996-06-14",
+  "date_as_printed": "14 juin 1996",
+  "chamber": "III",
+  "role_number": "A. 62.613/III-20.470",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60166",
+  "source_sha256": "832f17b1e2d9ff60cb2ddb132809c175b2b476b402d8ec32c6f8e01fcd14a7d5",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
