@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.367",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56367,
+  "decision_date": "1995-11-20",
+  "date_as_printed": "20 november 1995",
+  "chamber": "X",
+  "role_number": "A. 60.828/X-4.356",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56367",
+  "source_sha256": "a7d27204e1584e54a6f960f47db6c754e7632fc09abdbc932c1b2418291f3437",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
