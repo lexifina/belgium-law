@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.134",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72134,
+  "decision_date": "1998-03-03",
+  "date_as_printed": "3 maart 1998",
+  "chamber": "XII",
+  "role_number": "A. 69.951/XII-197",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72134",
+  "source_sha256": "85208352b11b80d2b2eea8d0251a4de383efef2e8f8c112cb1b17b2ab83e27ff",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
