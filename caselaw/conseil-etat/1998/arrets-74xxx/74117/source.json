@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.117",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74117,
+  "decision_date": "1998-06-04",
+  "date_as_printed": "4 juni 1998",
+  "chamber": "VII",
+  "role_number": "A. 62.021/VII-12.941",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74117",
+  "source_sha256": "7b9ba4faadb6fbfbddc6ec80153e97246851aac9b6d61eba72d3c13040a5b657",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
