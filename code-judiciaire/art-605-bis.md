@@ -1,1 +1,1 @@
-La cour d'appel connaît des recours visés aux articles 120, 121, 123 et 125 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.
+La cour d'appel connaît des recours visés aux articles 120, 121, 123 et 125 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers (et des recours visés à l'article 2 de la loi du 12 mai 2004 organisant une procédure de recours dans le cadre de la protection contre le faux monnayage).
