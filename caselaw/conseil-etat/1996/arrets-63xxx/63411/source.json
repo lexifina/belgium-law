@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.411",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63411,
+  "decision_date": "1996-12-03",
+  "date_as_printed": "3 december 1996",
+  "chamber": "X",
+  "role_number": "A. 67.071/X-6.768",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63411",
+  "source_sha256": "004819a920aad9e1defaac80b9efce8c523e2847d8a07a512af6f160b0ec61f4",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
