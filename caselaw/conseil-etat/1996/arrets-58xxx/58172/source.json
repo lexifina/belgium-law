@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.172",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58172,
+  "decision_date": "1996-02-16",
+  "date_as_printed": "16 februari 1996",
+  "chamber": "X",
+  "role_number": "A. 62.227/X-18.866",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58172",
+  "source_sha256": "c48782f62a5c0a7c80a2dbd977b21b9b186d87c3cd5a9443f2711c83daa8f5a9",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
