@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.729",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60729,
+  "decision_date": "1996-07-03",
+  "date_as_printed": "3 juillet 1996",
+  "chamber": "XI",
+  "role_number": "A. 67.943/XI-580",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60729",
+  "source_sha256": "18e8f4db5254a626784a14629091b5f5f6db1a653983265314dabe59777fbe8a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
