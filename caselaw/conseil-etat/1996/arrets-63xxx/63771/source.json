@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.771",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63771,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 71.078/III-22.592",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63771",
+  "source_sha256": "263741ca2229b46ef319455f09da20fbe28abf3bce6f3ef715601a4a5ad5cb46",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
