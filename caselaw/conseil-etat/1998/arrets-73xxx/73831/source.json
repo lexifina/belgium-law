@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.831",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73831,
+  "decision_date": "1998-05-25",
+  "date_as_printed": "25 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.545/XII-1.319",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73831",
+  "source_sha256": "e3da500f94e7ea41fb2431fc07ca660e007fdb5a55d85e8d1bfc7505d09c7a97",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
