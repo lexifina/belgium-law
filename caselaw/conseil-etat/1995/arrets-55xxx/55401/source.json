@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 55.401",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 55401,
+  "decision_date": "1995-09-27",
+  "date_as_printed": "27 septembre 1995",
+  "chamber": "III",
+  "role_number": "A. 62.564/III-20.824",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/55401",
+  "source_sha256": "052650542d4277e15dc91d0b858d0ce19500620f7f1cd15f18cb37a2516e47f2",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
