@@ -1,1 +1,2 @@
-Les traitements des magistrats nationaux sont les mêmes que ceux fixés par l'article 355 pour les avocats généraux auprès des cours d'appel.
+Le traitement du procureur fédéral est le même que celui fixé pour les procureurs généraux près les cours d'appel.
+Le traitement des magistrats fédéraux et des magistrats d'assistance est le même que celui fixé pour les avocats généraux près les cours d'appel et les cours du travail.
