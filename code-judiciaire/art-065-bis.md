@@ -1,0 +1,3 @@
+Pour pouvoir être désigné président et président suppléant de l'assemblée générale des juges de paix et des juges au tribunal de police, les candidats doivent être depuis au moins cinq années juge de paix ou juge de paix de complément, juge ou juge de complément à un tribunal de police dans le ressort de cour d'appel concerné.
+Le président et le président suppléant sont élus, pour un terme non renouvelable de quatre ans, par les membres de l'assemblée générale des juges de paix et des juges au tribunal de police.
+La présidence de l'assemblée générale des juges de paix et des juges au tribunal de police est assurée alternativement par un juge de paix ou un juge de paix de complément et par un juge ou juge de complément au tribunal de police.
