@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.996",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60996,
+  "decision_date": "1996-07-17",
+  "date_as_printed": "17 juli 1996",
+  "chamber": "X",
+  "role_number": "A. 66.068/X-14.548",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60996",
+  "source_sha256": "23cfc7a623eb7e11183428e2fc44883b575bd0b373704bc5a985b4ba39dac451",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
