@@ -1,1 +1,1 @@
-Les règles d'incompatibilité déterminées à l'article 293 sont applicables aux conseillers en médiation et aux assistants de médiation, aux membres du secrétariat du parquet, au personnel des greffes et des secrétariats des parquets, aux attachés au service de la documentation et de la concordance des textes auprès de la Cour de cassation ainsi qu'aux membres du personnel titulaires d'un grade de qualification particulière, créé par le Roi, conformément à l'article 185, alinéa 1er.
+[La source ne donne pas le texte en vigueur à cette date.]

@@ -1,0 +1,1 @@
+Le Roi détermine les congés, les vacances et les absences pour cause d'incapacité de travail des référendaires près la Cour de cassation. Il peut déterminer une position de disponibilité et fixer le traitement d'attente qui y est attaché.

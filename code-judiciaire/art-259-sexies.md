@@ -1,0 +1,3 @@
+Les référendaires sont nommés par le Roi pour un stage de trois ans selon le classement prévu à l'article 259quinquies.
+Au terme de ces trois ans, la nomination devient définitive sauf décision contraire prise par le Roi, exclusivement sur la proposition, selon le cas, du premier président ou du procureur géneral, au plus tard durant le troisième trimestre de la troisième année de stage.
+Le premier président de la Cour de cassation et le procureur général près cette Cour désignent de commun accord les référendaires stagiaires et les référendaires nommés à titre définitif qui sont placés sous l'autorité de l'un et ceux qui sont placés sous l'autorité de l'autre.
