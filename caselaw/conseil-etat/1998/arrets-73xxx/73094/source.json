@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.094",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73094,
+  "decision_date": "1998-04-17",
+  "date_as_printed": "17 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 64.114/XI-2.847",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73094",
+  "source_sha256": "037f9c95c27e901d2f2aaddf35fe5b1625cb6f073492e3bf8b9864f751d33e2b",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
