@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.545",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67545,
+  "decision_date": "1997-07-23",
+  "date_as_printed": "23 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 73.874/III-14.268",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67545",
+  "source_sha256": "df0ff31e02a1344fb4aac4e70219b6c17ab198558574cee07dba6117bbf1616b",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
