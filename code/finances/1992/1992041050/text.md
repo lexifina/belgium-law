@@ -1,9 +1,43 @@
-<a name="Art.132">Art.</a> 132. Les montants de base visés à l'article 131 sont majorés des suppléments suivants pour personnes à charge :
-1° pour un enfant : 35.000 francs;
-2° pour deux enfants : 90.000 francs;
-3° pour trois enfants : 202.500 francs;
-4° pour quatre enfants : 327.500 francs;
-5° pour plus de quatre enfants : 327.500 francs majorés de 125.000 francs par enfant au-delà du quatrième;
-6° un montant supplémentaire de 10.000 francs pour chaque enfant n'ayant pas atteint l'âge de 3 ans au 1er janvier de l'exercice d'imposition, étant entendu que ce supplément ne peut s'ajouter à la déduction pour garde d'enfant visée (à l'article 104), 7°; &lt;L 1994-07-06/33, art. 85, 004; <b> En vigueur : </b> 01-01-1995&gt;
-7° pour chaque autre personne à charge : 35.000 francs.
-Pour l'application de l'alinéa 1er, les enfants considérés comme handicapés sont comptés pour deux.
+<a name="Art.171">Art.</a> 171. Par dérogation aux articles 130 à 168, sont imposables distinctement, sauf si l'impôt ainsi calculé, majoré de l'impôt afférent aux autres revenus, est supérieur à celui que donnerait l'application desdits articles à l'ensemble des revenus imposables :
+1° au taux de 33 p.c. :
+a) les revenus divers visés à l'article 90, 1°;
+b) les plus-values visées à l'article 90, 8°, lorsque les biens auxquels elles se rapportent ont été aliénés au cours des 5 années suivant leur acquisition;
+(c) sans préjudice de l'application du 4°, b, les plus-values de cessation sur des immobilisations incorporelles visées à l'article 28, alinéa 1er, 1° et les indemnités visées aux articles 25, 6°, a, et 27 alinéa 2, 4°, a, obtenues en compensation d'une réduction d'activité, dans la mesure où elles n'excèdent pas les bénéfices ou profits nets imposables afférents à l'activité délaissée réalisés au cours des quatre années qui précèdent celle de la cessation ou de la réduction d'activité.
+Par bénéfices ou profits nets imposables de chacune des années visées à l'alinéa précédent, on entend les revenus déterminés conformément à l'article 23, § 2, 1°, mais à l'exception des revenus imposés distinctement conformément à la présente sous-section.) &lt;L 1992-07-28/30, art. 15, 1°; <b> En vigueur : </b> 06-04-1992&gt;
+(d) les valeurs de rachat des contrats d'assurances-vie visés au 2°, b, lorsqu'elles sont liquidées d'une autre manière qu'au 4°, f;
+e) les capitaux visés au 2°, c, lorsqu'ils sont liquidés d'une autre manière qu'au 4°, g;
+f) les valeurs de rachat visées au 2°, d, lorsqu'elles sont liquidées d'une autre manière;
+g) l'épargne, les capitaux et les valeurs de rachat visés au 2°, e, lorsqu'ils sont liquidés d'une autre manière;) &lt;L 1992-12-28/32, art. 89, 1°; <b> En vigueur : </b> 01-01-1993 en 01-01-1994&gt;
+2° (au taux de 10 p.c. :
+a) (les capitaux liquidés à l'expiration normale du contrat ou au décès de l'assuré et les valeurs de rachat liquidées au cours d'une des cinq années qui précèdent l'expiration normale du contrat et pour autant que ces capitaux et valeurs de rachat soient alloués à raison de pensions libres pour lesquelles une réduction d'impôt visée à l'article 145.16bis a été accordée;) &lt;L 1999-01-25/32, art. 207, 045; <b> En vigueur : </b> 01-04-1999&gt;
+b) les capitaux et valeurs de rachat visés au 4°, f, dans la mesure où ils sont constitués au moyen de cotisations personnelles visées à l'article 145.1., 1°;
+c) les capitaux visés au 4°, g, dans la mesure où ils sont constitués au moyen de cotisations personnelles visées à l'article 145.1., 1°;
+d) les capitaux qui sont liquidés au décès de l'assuré et les valeurs de rachat qui sont liquidées au cours d'une des 5 années qui précèdent l'expiration normale du contrat, et pour autant que ces capitaux et valeurs de rachat soient attribués à raison de contrats d'assurance-vie au sens de l'article 145.1., 2° et jusqu'au montant ne servant pas à la reconstitution ou à la garantie d'un emprunt hypothécaire;
+e) l'épargne, les capitaux et les valeurs de rachat constitués dans le cadre de l'épargne-pension, au moyen de paiements visés à l'article 145.1., 5°, lorsqu'ils sont liquidés au bénéficiaire à l'occasion de la mise à la retraite à la date normale ou au cours d'une des 5 années qui précèdent cette date, à l'occasion de sa mise à la prépension, ou à l'occasion du décès de la personne dont il est l'ayant-cause;) &lt;L 1992-12-28/32, art. 89, 2°; <b> En vigueur : </b> 01-01-1993 en 01-01-1994&gt;
+2°bis (au taux de (15 p.c.) : &lt;L 1995-12-20/31, art. 9, 014; <b> En vigueur : </b> 01-01-1997&gt;
+a) les revenus de capitaux et biens mobiliers, autres que les dividendes, et les revenus divers visés à l'article 90, 5° à 7°;
+b) les dividendes visés à l'article 269, alinéa 2, 2°, et alinéa 3;) &lt;L 1994-03-30/39, art. 13, 1°, 002; <b> En vigueur : </b> 01-01-1995&gt;
+3° (au taux de 25 p.c., les dividendes, à l'exclusion de ceux visés à l'article 269, alinéas 2 et 3;) &lt;L 1994-03-30/39, art. 13, 2°, 002; <b> En vigueur : </b> 01-01-1995&gt;
+(3°bis au taux de 20 p.c., les dividendes visés à l'article 269, alinéa 2, 1°;) &lt;L 1994-03-30/39, art. 13, 3°, 002; <b> En vigueur : </b> 01-01-1995&gt;
+(3°ter au taux de 15, 20 ou de 25 %, les indemnités pour coupon manquant visées à l'article 18, alinéa 1er, 3°, selon le taux applicable aux dividendes auxquels se substituent ces indemnités;) &lt;L 1999-03-10/38, art. 47, 049; <b> En vigueur : </b> 14-04-1999&gt;
+4° au taux de 16,5 p.c. :
+a) les plus-values réalisées sur des immobilisations corporelles ou financières affectées à l'exercice de l'activité professionnelle depuis plus de 5 ans au moment de leur réalisation, pour lesquelles (il n'est pas opté pour la taxation étalée visée à l'article 47), et sur d'autres actions ou parts acquises depuis plus de 5 ans. &lt;L 1994-07-06/33, art. 24, 1°, 004; <b> En vigueur : </b> 01-01-1992&gt;
+La condition relative à la période d'affectation de 5 ans prévue à l'alinéa précédent n'est toutefois pas exigée lorsque les plus-values sont réalisées à l'occasion de la cessation complète et définitive de l'activité professionnelle ou d'une ou plusieurs branches de celle-ci;
+b) (les plus-values de cessation visées au 1°, c, obtenues ou constatées à l'occasion de la cessation d'activité à partir de l'âge de 60 ans ou à la suite du décès ou à l'occasion d'une cessation définitive forcée, et les indemnités visées au 1°, c, obtenues à l'occasion d'un acte survenant à partir du même âge ou à la suite du décès ou à l'occasion d'un acte forcé.
+Par cessation définitive forcée ou par acte forcé on entend la cessation définitive ou l'acte qui est la conséquence d'un sinistre, d'une expropriation, d'une réquisition en propriété ou d'un autre événement analogue. Est également considérée comme étant une cessation définitive forcée celle qui résulte d'un handicap visé à l'article 135, alinéa 1er, 1°.) &lt;L 1992-07-28/30, art. 15, 2°; <b> En vigueur : </b> 06-04-1992&gt;
+c) les prix, subsides, rentes et pensions visés à l'article 90, 2°;
+d) les plus-values visées à l'article 90, 8°, lorsque les biens auxquels elles se rapportent ont été aliénés plus de 5 ans après leur acquisition;
+e) les plus-values visées (à l'article 90, 9° et 10°); &lt;AR 1996-12-20/40, art. 19, 024; <b> En vigueur : </b> 01-01-1997&gt;
+f) les capitaux résultant de contrats d'assurances-vie non imposés conformément à l'article 169, § 1er, lorsqu'ils sont liquidés à l'expiration normale du contrat ou au décès de l'assuré, ainsi que les valeurs de rachat de ces contrats lorsqu'elles sont liquidées soit à l'occasion de la mise à la retraite ou de la prépension de l'assuré, soit au cours d'une des 5 années qui précèdent l'expiration normale du contrat, soit à l'âge normal auquel le bénéficiaire cesse complètement et définitivement l'activité professionnelle en raison de laquelle le capital a été constitué (et dans la mesure où ces capitaux et valeurs de rachat sont constitués au moyen de cotisations patronales visées à l'article 52, 3°, b); &lt;L 1992-12-28/32, art. 89, 3°; <b> En vigueur : </b> 01-01-1994&gt;
+(fbis) (...) &lt;L 1992-12-28/32, art. 89, 4°; <b> En vigueur : </b> 01-01-1993&gt;
+g) (les autres capitaux tenant lieu de rentes ou pensions lorsqu'ils sont liquidés au bénéficiaire au plus tôt, soit à l'occasion de sa mise à la retraite à la date normale ou au cours d'une des 5 années qui précèdent cette date, soit à l'occasion de sa mise à la prépension, soit à l'occasion du décès de la personne dont il est l'ayant cause, soit à l'âge normal auquel le bénéficiaire cesse complètement et définitivement l'activité professionnelle en raison de laquelle le capital a été constitué et dans la mesure où ces capitaux ne sont pas constitués au moyen de cotisations personnelles visées à l'article 145.1., 1°.) &lt;L 1994-07-06/33, art. 24, 2°, 004; <b> En vigueur : </b> 01-01-1994&gt;
+h) le rachat de la valeur capitalisée d'une partie de la pension légale de retraite ou de survie;
+i) (les primes et indemnités instaurées en tant qu'aide au secteur agricole par les Communautés européennes;) &lt;L 1999-05-04/54, art. 11, 056; <b> En vigueur : </b> indéterminée &gt;
+5° au taux moyen afférent à l'ensemble des revenus imposables de la dernière année antérieure pendant laquelle le contribuable a eu une activité professionnelle normale :
+a) les indemnités dont le montant brut dépasse 25.000 francs, payées contractuellement ou non, ensuite de la cessation de travail ou de la rupture d'un contrat de travail;
+b) les rémunérations, pensions, rentes ou allocations visées aux articles 31 et 34, dont le paiement ou l'attribution n'a eu lieu, par le fait d'une autorité publique ou de l'existence d'un litige, qu'après l'expiration de la période imposable à laquelle elles se rapportent effectivement;
+c) les bénéfices ou profits d'une activité professionnelle antérieure (visés à l'article 28, alinéa 1, 2° et 3°, a); &lt;L 1994-07-06/33, art. 24, 3°, 004; <b> En vigueur : </b> 01-01-1992&gt;
+6° au taux afférent à l'ensemble des autres revenus imposables :
+- le pécule de vacances acquis et payé à l'employé qui quitte l'entreprise;
+- les profits visés à l'article 23, § 1er, 2°, qui se rapportent à des actes accomplis pendant une période d'une durée supérieure à 12 mois et dont le montant n'a pas, par le fait de l'autorité publique, été payé au cours de l'année des prestations mais a été réglé en une seule fois, et ce exclusivement pour la partie qui excède proportionnellement un montant correspondant à 12 mois de prestations;
+- les rentes visées à l'article 90, 4°.
