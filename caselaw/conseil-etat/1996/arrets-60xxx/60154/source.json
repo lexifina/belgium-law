@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.154",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60154,
+  "decision_date": "1996-06-13",
+  "date_as_printed": "13 juni 1996",
+  "chamber": "X",
+  "role_number": "A. 66.563/X-1.288",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60154",
+  "source_sha256": "17fe518e175bd078719bfd70954475df640759377a79d2eb873a0aa6e47814e1",
+  "pages": 9,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
