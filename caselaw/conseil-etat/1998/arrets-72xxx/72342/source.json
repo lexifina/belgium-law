@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.342",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72342,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 49.557/XI-3.159",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72342",
+  "source_sha256": "032f9c96ca728c962655055f56e64ecbc17cd2f5e8d3582d0894af1646723acd",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
