@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.932",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64932,
+  "decision_date": "1997-02-28",
+  "date_as_printed": "28 février 1997",
+  "chamber": "III",
+  "role_number": "A. 71.248/III-22.637",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64932",
+  "source_sha256": "a1582cb3a6ceac9643d62b22340cae7886459ed7ec34c93b6d58b2f7768048c0",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
