@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.705",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63705,
+  "decision_date": "1996-12-19",
+  "date_as_printed": "19 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 62.643/III-20.492",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63705",
+  "source_sha256": "0d12924560670e8ccc8632c3cdb35c9bfb5e901c374b52f8fe73d161b0b3d1cc",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
