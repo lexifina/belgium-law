@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.769",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63769,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 71.076/III-22.590",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63769",
+  "source_sha256": "8d4e302e336b0d1fba877ac7264ef2a21d287c274e3afec412a67caa99b9efdc",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
