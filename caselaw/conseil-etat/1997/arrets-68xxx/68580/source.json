@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.580",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68580,
+  "decision_date": "1997-10-01",
+  "date_as_printed": "1er octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 48.801/XI-2.896",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68580",
+  "source_sha256": "0ed2e7f5d98d6d9548b26728ee1f8f6fddb86ea64079521e743640695301f556",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
