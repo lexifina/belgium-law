@@ -1,0 +1,2 @@
+Les médecins visés à l'article 87, alinéa 3, peuvent intervenir au titre de conciliateurs à la demande de la victime ou de l'assureur lors de la fixation du taux d'incapacité permanente de travail, dans les cas et conditions fixes par le Roi. Ils en dressent un rapport.
+Si la proposition du médecin-conciliateur n'est pas acceptée par la victime ou par l'assureur, le litige est porté par la partie la plus diligente devant le Tribunal du travail. Le rapport visé à l'alinea 1er est déposé dans ce cas par l'assureur au greffe de la juridiction compétente.
