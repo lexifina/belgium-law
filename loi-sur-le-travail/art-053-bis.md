@@ -1,0 +1,4 @@
+Sans préjudice des articles 269 à 274 du Code pénal, sont punis d'un emprisonnement de huit jours à six mois et d'une amende 26 à 2 000 francs ou d'une de ces peines seulement:
+1° les personnes autres que le père, la mère ou le tuteur qui font ou laissent effectuer ou exercer par des enfants du travail ou des activités en violation des dispositions des articles 7.1 ou 7.2 ou des arrêtés pris en exécution de ces articles;
+2° les personnes, leurs préposés ou mandataires qui, après avoir obtenu une dérogation individuelle, visée à l'article 7.2, à l'interdiction de faire ou laisser exercer des activités par des enfants, font ou laissent effectuer ou exercer par des enfants du travail ou des activités en violation des dispositions de cette dérogation individuelle, des articles 7.1, 7.2, 7.3 ou 7.4 ou des arrêtés pris en exécution de ces articles;
+3° les personnes qui contreviennent à l'article 7.11.
