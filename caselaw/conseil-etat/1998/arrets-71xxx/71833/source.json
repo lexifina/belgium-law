@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.833",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71833,
+  "decision_date": "1998-02-16",
+  "date_as_printed": "16 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 75.309/IX-168",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71833",
+  "source_sha256": "92615d97bbcb6101fa7dcd481367d43be5c4c158fe2046340c1b6df974373f82",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
