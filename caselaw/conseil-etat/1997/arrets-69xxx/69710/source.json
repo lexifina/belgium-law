@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.710",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69710,
+  "decision_date": "1997-11-20",
+  "date_as_printed": "20 november 1997",
+  "chamber": "VII",
+  "role_number": "A. 74.408/VII-15.517",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69710",
+  "source_sha256": "3a3cae7649c7a9bacf4389adba6098ead17c4428e4f0127f85f9998cfc6a37e1",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
