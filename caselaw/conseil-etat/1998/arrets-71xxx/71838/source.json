@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.838",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71838,
+  "decision_date": "1998-02-16",
+  "date_as_printed": "16 februari 1998",
+  "chamber": "IX",
+  "role_number": "A. 57.775/IX-349",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71838",
+  "source_sha256": "0bb6b33c35c5c177eb9f1019e4ff5634a71f43199fda006fbced79f2b4f209aa",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
