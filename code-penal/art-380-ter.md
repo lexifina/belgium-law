@@ -1,0 +1,1 @@
+Quiconque aura retenu contre son gré, même pour cause de dettes contractées, une personne, même majeure, dans une maison de débauche ou de prostitution, ou aura contraint une personne majeure à se livrer à la débauche ou à la prostitution, sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de cent à cinq mille francs.
