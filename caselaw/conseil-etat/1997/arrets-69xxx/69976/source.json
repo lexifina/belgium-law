@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.976",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69976,
+  "decision_date": "1997-12-03",
+  "date_as_printed": "3 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 56.541/XIII-323",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69976",
+  "source_sha256": "1e5c3f137f031a391b40defb2df8a749856c4c6461a9e41ef99ededd92ff0041",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
