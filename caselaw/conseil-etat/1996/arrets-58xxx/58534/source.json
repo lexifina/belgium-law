@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.534",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58534,
+  "decision_date": "1996-03-11",
+  "date_as_printed": "11 mars 1996",
+  "chamber": "VI",
+  "role_number": "A. 60.719/VI-12.110",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58534",
+  "source_sha256": "f41017eaaa08d4ba898f22054141e373c2f04d5f63d4b157e14de225b9fe7852",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
