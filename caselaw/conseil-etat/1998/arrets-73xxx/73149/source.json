@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.149",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73149,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 76.878/XII-818",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73149",
+  "source_sha256": "ab0595af38c092589adc10424579b13f82be3189d29573f1cfe28bc3e64cc65e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
