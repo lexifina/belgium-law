@@ -4,7 +4,7 @@ Official issuer: not stated on the Justel page.
 
 [Official consolidated text](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1944-12-30&numac_search=1944122850&page=1&lg_txt=F&caller=list&1944122850=1&trier=promulgation&fr=f).
 
-Consolidated text with the versions Justel keeps: this record starts with Justel's archived version 001 and adds one commit per archived version and the current text (77 in all), each dated by the day it took effect (see In-force-basis in each commit). This is version 020, in force from 2002-03-13.
+Consolidated text with the versions Justel keeps: this record starts with Justel's archived version 001 and adds one commit per archived version and the current text (77 in all), each dated by the day it took effect (see In-force-basis in each commit). This is version 021, in force from 2002-08-29.
 
 Made: 1944-12-28. Published: 1944-12-30.
 
