@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.687",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58687,
+  "decision_date": "1996-03-20",
+  "date_as_printed": "20 mars 1996",
+  "chamber": "VI",
+  "role_number": "A. 62.128/VI-12.284",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58687",
+  "source_sha256": "9ac510b10a143ad40299aa381ce8822e00f6f49b527a7e2d885bdfd4f9c3ec7d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
