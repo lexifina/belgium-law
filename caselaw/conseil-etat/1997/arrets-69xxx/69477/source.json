@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.477",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69477,
+  "decision_date": "1997-11-06",
+  "date_as_printed": "6 november 1997",
+  "chamber": "X",
+  "role_number": "A. 51.184/X-7.698",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69477",
+  "source_sha256": "c7520e8d1248c4b6e74ded936549214b98775b0a9c36e01b7c143f668dcdd771",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
