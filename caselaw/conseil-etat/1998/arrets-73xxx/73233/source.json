@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.233",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73233,
+  "decision_date": "1998-04-23",
+  "date_as_printed": "23 april 1998",
+  "chamber": "X",
+  "role_number": "A. 56.752/X-3.124",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73233",
+  "source_sha256": "5bddd93ef209b6bc3f3e57ba8d4aa9604b0fbe42025943609668cc4590c75ba6",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
