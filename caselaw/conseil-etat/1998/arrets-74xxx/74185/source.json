@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 74.185",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 74185,
+  "decision_date": "1998-06-10",
+  "date_as_printed": "10 juin 1998",
+  "chamber": "XIII",
+  "role_number": "A. 72.151/XIII-9",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/74185",
+  "source_sha256": "28a01425c46bcc0bd85fcf6f686c1284b6a767f1da20a962cfb8d6ccf0046a50",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
