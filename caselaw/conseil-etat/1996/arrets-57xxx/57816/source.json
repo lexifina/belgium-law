@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.816",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57816,
+  "decision_date": "1996-01-25",
+  "date_as_printed": "25 januari 1996",
+  "chamber": "VII",
+  "role_number": "A. 63.695/VII-13.174",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57816",
+  "source_sha256": "342ac263a048f57914329f44ef488e6fe7d7350e4358d3b672cfd04f74650aec",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
