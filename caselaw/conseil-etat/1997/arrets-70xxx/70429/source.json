@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.429",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70429,
+  "decision_date": "1997-12-19",
+  "date_as_printed": "19 décembre 1997",
+  "chamber": "XII",
+  "role_number": "A. 74.814/XII-11.438",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70429",
+  "source_sha256": "9a9ad1f7883b4a5d74851188689ffed4b577f7fa988e39e59cd4b8328c569112",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
