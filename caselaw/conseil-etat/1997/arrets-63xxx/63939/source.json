@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.939",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63939,
+  "decision_date": "1997-01-10",
+  "date_as_printed": "10 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.538/III-22.453",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63939",
+  "source_sha256": "0e443777286c1865a3cd2e6b4df1e95d6ad673de4e2b4b3c001465869d526f56",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
