@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.091",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73091,
+  "decision_date": "1998-04-16",
+  "date_as_printed": "16 april 1998",
+  "chamber": "XII",
+  "role_number": "A. 78.197/XII-1.223",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73091",
+  "source_sha256": "b1e7662f48e96e08395b2f28c470cbc8d3ca3e9d1607c2d81f46ac3e89a22a18",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
