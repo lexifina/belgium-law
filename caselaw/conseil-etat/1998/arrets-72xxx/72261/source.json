@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.261",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72261,
+  "decision_date": "1998-03-05",
+  "date_as_printed": "5 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 39.064/VII-8.299",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72261",
+  "source_sha256": "a5891f60c38ea78e42296638275249b6c633f3224cea7dea71870ec4a1337986",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
