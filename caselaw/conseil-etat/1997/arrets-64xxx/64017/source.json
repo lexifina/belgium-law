@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.017",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64017,
+  "decision_date": "1997-01-15",
+  "date_as_printed": "15 januari 1997",
+  "chamber": "IV",
+  "role_number": "A. 68.610/IV-15.735",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64017",
+  "source_sha256": "f099d4383c9f14bcd9f1f655e0220afe8b8c1eccd189126cc0d65224437d0cf6",
+  "pages": 20,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
