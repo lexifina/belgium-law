@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.172",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70172,
+  "decision_date": "1997-12-11",
+  "date_as_printed": "11 décembre 1997",
+  "chamber": "XIII",
+  "role_number": "A. 72.775/XIII-132",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70172",
+  "source_sha256": "0bf6f92fec7b146a3a7405175335005a778d29784ef7a50b0153b7fdb6851b34",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
