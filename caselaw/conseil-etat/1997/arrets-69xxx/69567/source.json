@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.567",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69567,
+  "decision_date": "1997-11-12",
+  "date_as_printed": "12 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 55.470/XI-1.369",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69567",
+  "source_sha256": "4998717bb5451bd1038a1f8aed8821c565a0070d2d00b49c0aaa045522ccfbf6",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
