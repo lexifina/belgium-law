@@ -1,0 +1,443 @@
+CONSEIL D'ETAT, SECTION D'ADMINISTRATION.
+
+                     ARRET
+
+            no 64.520 du 13 février 1997
+
+A.59.700/III-19.114
+
+En cause :  la Société anonyme PRIMINFO,
+
+            ayant élu domicile chez
+            Me Paul HEGER, avocat,
+            rue du Séminaire 1
+            5000 Namur,
+
+                        contre :
+
+                        l'Etat belge, représenté par
+                        le Ministre de la Défense nationale,
+
+                        ayant élu domicile chez
+                        Me Jean-Marie DEFOURNY et
+                        Pierre DEFOURNY, avocats,
+                        rue Louvrex 77/011
+                        4000 Liège.
+
+                        Partie intervenante :
+
+                        la Société anonyme International
+                        Business Machines of Belgium,
+                        en abrégé "I.B.M.",
+
+                        ayant élu domicile chez
+                        Me Lucien SIMONT, avocat à la Cour
+                        de cassation, et
+                        Me Nicole CAHEN, avocat,
+                        rue Henri Wafelaerts 47/51
+                        1060 Bruxelles.
+
+---------------------------------------------------------
+
+            LE CONSEIL D'ETAT, IIIe CHAMBRE,
+
+              Vu la requête introduite le 5 septembre 1994 par
+la S.A. PRIMINFO, qui demande l'annulation de la décision
+
+                                                                                                                III - 19.114 - 1/11
+qui lui a été notifiée le 1er août 1994 d'attribuer à la
+s.a. I.B.M. BELGIUM le marché pluriannuel SAIB 324.303
+relatif à la fourniture et à l'entretien en quatre lots
+d'ordinateurs personnels et d'imprimantes au profit des
+organismes de la Défense nationale, ayant fait l'objet
+d'un appel d'offres général ouvert le 20 octobre 1993;
+
+              Vu l'arrêt no 49.641 du 12 octobre 1994 rejetant la
+suspension de l'exécution de l'acte attaqué;
+
+              Vu la requête introduite le 28 octobre 1994 par
+laquelle la S.A. International Business Machines of
+Belgium demande à être reçue en qualité de partie inter-
+venante;
+
+              Vu l'ordonnance du 23 novembre 1994 accueillant
+cette intervention;
+
+              Vu les mémoires en réponse et en réplique réguliè-
+rement échangés;
+
+              Vu le rapport de M. FORTPIED, premier auditeur au
+Conseil d'Etat;
+
+              Vu l'ordonnance du 9 juin 1995 ordonnant le dépôt
+au greffe du dossier et du rapport;
+
+              Vu la notification du rapport aux parties et les
+derniers mémoires;
+
+              Vu l'ordonnance du 9 septembre 1996, notifiée aux
+parties, fixant l'affaire à l'audience du 22 novembre
+1996;
+
+              Entendu, en son rapport, M. MESSINNE, conseiller
+d'Etat;
+
+                                                                                                                III - 19.114 - 2/11
+              Entendu, en leurs observations, Me HEGER, avocat,
+comparaissant pour la requérante, Me DEFOURNY avocat, com-
+paraissant pour la partie adverse, et Me CAHEN, avocat,
+comparaissant pour la partie intervenante;
+
+              Entendu, en son avis contraire, M. FORTPIED,
+premier auditeur;
+
+              Vu le titre VI, chapitre II, des lois sur le
+Conseil d'Etat, coordonnées le 12 janvier 1973;
+
+              Considérant que, le 20 août 1993, la partie
+adverse a lancé un appel d'offres général portant sur la
+fourniture et l'entretien en quatre lots d'environ 2.400
+ordinateurs personnels et 1.200 imprimantes, régi par un
+cahier spécial des charges SAIB 324.303; que le 20 octobre
+1993, l'ouverture des offres a recueilli notamment 8
+soumissions pour le lot I, dont celie de la requérante qui
+n'a fait d'offre que pour ce seul lot; que ces offres ont
+fait l'objet, le 20 décembre 1993, d'un rapport d'évalua-
+tion technique de la commission d'évaluation technique, le
+5 avril 1994, d'un rapport complémentaire de la même
+commission, et, le 19 avril 1994, d'un rapport d'attribu-
+tion du service général des achats, sous-section d'achat
+informatique et bureautique;
+
+              Considérant qu'en ce qui concerne le lot I, ledit
+rapport conclut son analyse particulière des offres des
+firmes BULL, DIGITAL, I.B.M., PRIMINFO et TELINDUS en ces
+termes:
+" En conclusion, pour le lot n° I, aux termes des critéres
+
+   d'attribution de ce marché, sur base du rapport de la
+   commission d'évaluation technique et du classement
+   calculé, l'offre de IBM apparaît comme étant la plus
+   intéressante, puisque pour un prix moyen par rapport aux
+   deux autres offres acceptables, elle est de loin la
+   mieux classée techniquement";
+
+                                                                                                                III - 19.114 - 3/11
+que l'inspection des Finances a marqué son accord sur ce
+rapport le 15 juin 1994;
+
+              Considérant que le 5 juillet 1994, la société
+I.B.M. Belgium a été désignée comme adjudicataire dudit
+lot I; que cette décision, notifiée à l'adjudicataire le
+13 juillet 1994, reproduit les considérations du rapport
+précité du 19 avril 1994 et constitue l'acte attaqué; que
+le 1er août 1994, l'administration a fait savoir aux autres
+soumissionnaires évincés que leur offre n'avait pas été
+retenue;
+
+              Considérant que la requérante prend un premier
+moyen de la "violation du principe d'égalité de la loi du
+14 juillet 1976 relative aux marchés publics de travaux,
+de fournitures et de services, spécialement de l'article
+14, et des dispositions de l'arrêté royal du 12 avril 1977
+relatif aux marchés publics de travaux, de fournitures et
+de services, spécialement les articles 4 et 44"; que, dans
+une première branche, elle reproche à la partie adverse
+d'avoir "adjugé le marché à IBM sur base du critère
+d'attribution *acceptabilité de l'offre+ qui n'était
+mentionné ni dans la loi ni dans le cahier spécial des
+charges"; que, dans une deuxième branche, elle soutient
+que "la partie adverse a adjugé le marché à IBM sur base
+d'un autre critère d'attribution, qui n'était mentionné ni
+dans la loi ni dans le cahier spécial des charges, ce
+critére étant la préférence donnée aux ordinateurs pourvus
+d'un processeur de type PENTIUM";
+
+              Considérant, sur les deux branches réunies, que,
+d'une part, la décision attaquée, loin d'avoir déclaré
+l'offre de la requérante inacceptable, l'a retenue et
+classée en deuxième ordre, et que, d'autre part, en
+décidant que "techniquement, l'offre d'IBM surpasse les
+autres offres par la qualité du PC de type 3 offert (PC de
+type PENTIUM), les PC de types 1 et 2 obtenant des notes
+
+                                                                                                                III - 19.114 - 4/11
+équivalentes. L'offre de TELINDUS (bien que le PC de type
+3 soit également du type PENTIUM) prévoit toutefois des
+composantes de moindre qualité par rapport à l'offre de
+IBM", l'autorité n'a pas fait du "type PENTIUM" un critère
+d'attribution mais a seulement constaté que le matériel
+proposé par IBM présentait un avantage technique par
+rapport à celui présenté par la requérante; que cette
+constatation était légitime dès lors que, comme en l'espè-
+ce, le cahier spécial des charges ne mentionnait que des
+exigences minimales; que le moyen n'est fondé en aucune de
+ses branches;
+
+              Considérant que la requérante prend un deuxième
+moyen de la violation des mêmes dispositions légales et
+réglementaires; qu'elle soutient que "la partie adverse a
+adjugé le marché à IBM après avoir analysé les offres sur
+base de critères qui ne sont pas objectifs"; qu'elle en
+voit la preuve dans un communiqué de presse du ministre de
+la Défense nationale commenté dans le journal "Le Soir"
+daté des 20 et 21 août 1994, selon lequel le ministre
+avait "suivi les propositions techniques du service
+d'achat ayant formulé 6 objections techniques sur le
+matériel PRIMINFO qui serait <<peu adapté à un environ-
+nement militaire+", et dans une lettre du 11 août 1994 qui
+relate les "remarques formulées par la Commission d'éva-
+luation technique" en ces termes:
+
+" 1. Les appareils livrés ne seront pas, selon toute
+          vraisemblance, identiques durant toute la durée du
+          contrat.
+
+   2. Les DRIVERS et autres SOFTWARE devront à tout bout
+          de champ être adaptés en fonction de l'assemblage
+          des machines.
+
+   3. Les modes d'emploi sont un assemblage de la documen-
+          tation du fournisseur des différents éléments et
+          changeront probablement plusieurs fois durant le
+          contrat";
+
+                                                                                                                III - 19.114 - 5/11
+              Considérant que ces observations, qui portent sur
+certaines spécificités de l'offre de la requérante, n'ont
+pas le caractére subjectif que celle-ci leur attribue;
+qu'en outre, elles figurent dans une note technique datée
+du 13 septembre 1994 qui reprend, dans des termes plus
+compréhensibles pour des non-techniciens, celles qui
+figuraient déjà dans le rapport de la commission d'évalua-
+tion technique du 20 décembre 1993; que le moyen ne peut
+être retenu;
+
+              Considérant que la requérante prend un troisième
+moyen de la violation des mêmes dispositions légales et
+réglementaires, "en ce que la partie adverse a adjugé le
+marché à IBM sur base d'une offre analysée notamment en
+fonction de critères définis dans le cahier des charges et
+exprimés en ordre décroissant d'importance, mais non
+pondérés, alors que les dispositions légales visées (...)
+imposent l'application de tous les critères et que l'art-
+ticle 4, § ler, alinéa 3, stipule que le cahier des charges
+indiquera le cas échéant les coefficients d'ordre techni-
+que destinés à coter certaines qualités techniques des
+prestations offertes en vue de la comparaison des prix
+offerts";
+
+              Considérant que dans son mémoire en réplique, la
+requérante indique qu'elle "a appris, après l'intentement
+de la procédure, que la pondération retenue par la partie
+adverse avait été fixée au préalable" et que "les craintes
+qu'elle avait quant à une modification des résultats par
+une pondération a posteriori ne se justifi(aient) plus";
+qu'il s'ensuit que le moyen manque en fait;
+
+              Considérant que la requérante prend un quatrième
+moyen de la violation "du principe général de droit de la
+motivation des actes administratifs, des articles 14 de la
+loi du 14 juillet 1976 et 44 de l'arrêté royal du 22 avril
+
+                                                                                                                III - 19.114 - 6/11
+1977"; qu'en réalité, la requérante y invoque une viola-
+tion de l'annexe B.1 du cahier spécial des charges, aux
+termes de laquelle "le soumissionnaire présentera pour
+chaque type de configuration aussi bien DOS V4.0/MS-
+WINDOWS V3.1 (ou version plus récente) que OS/2 V2.1 (ou
+version plus récente).(I)", alors que l'offre de l'in-
+tervenante mentionnait, en ce qui concerne le système
+d'exploitation: "DOS V5.0/MS-WINDOWS V3.1 ou (off) OS/2
+V2.1"; qu'elle ajoute que l'indication "(I)" à la fin de
+l'annexe du cahier spécial des charges signifiet en vertu
+des points 6C(1) et C.2 du même cahier des charges, qu'il
+s'agit d'un "critère indispensable" dont le non - respect
+par une offre doit entraîner la constatation que cette
+offre n'est pas conforme;
+
+              Considérant que l'annexe B.1 du cahier spécial des
+charges n'impose pas aux soumissionnaires, dans la dispo-
+sition précitée, de faire coexister les deux systèmes pour
+chaque machine, mais exige seulement que chaque machine
+puisse être dotée de l'un ou de l'autre système; que cette
+interprétation de la disposition dont la violation est
+invoquée résulte du procès-verbal d'une réunion d'informa-
+tion tenue le 15 septembre 1993, c'est-a-dire avant le
+dépôt des soumissions, à laquelle la requérante, bien
+qu'invitée, ne s'est pas présentée; que le moyen ne peut
+être retenu;
+
+              Considérant que la requérante prend un cinquième
+moyen de la "violation du principe général de l'égalité
+des articles 10 et 11 de la Constitution, 14 de la loi du
+14 juillet 1976 relative aux marchés publics de travaux,
+de fournitures et de services, des articles 4 et 44 de
+l'arrêté royal du 12 avril 1977 relatif aux marchés
+publics de travaux, de fournitures et de services";
+qu'elle expose en substance qu'elle "a observé dix diffé-
+rences entre le cahier spécial des charges rédigé en
+langue française sur base duquel elle a remis son offre et
+
+                                                                                                                III - 19.114 - 7/11
+le cahier spécial des charges rédigé en langue néerlan-
+daise sur base duquel la firme IBM a remis son offre",
+"qu'une de ces différences concernant le lot 1 pour lequel
+elle a soumissionné lui cause préjudice", que "dans la
+version francophone, la durée de validité de la soumission
+était précisée (1.4.1994) alors que dans la version
+néerlandaise du cahier spécial des charges, sur base de
+laquelle la soumission d'IBM a été rédigée, aucun délai
+n'est précisé", et "qu'il en résulte une différence entre
+la soumission d'IBM et celle de la requérante";
+
+              Considérant que la requérante n'établit pas que la
+différence qu'elle relève aurait influencé le choix
+qu'elle critique; que le moyen ne peut être retenu;
+
+              Considérant que la requérante prend un sixième
+moyen de la "violation du principe général de l'égalité,
+du principe général de bonne administration, des articles
+14 de la loi du 14 juillet 1976 relative aux marchés
+publics de travaux, de fournitures et de services, des
+articles 4 et 14 de l'arrêté royal du 12 avril 1977
+relatif aux marchés publics de travaux, de fournitures et
+de services", dans lequel elle soutient en substance "que
+la partie adverse a successivement comparé les offres à
+une grille établie par elle-même et que les offres n'ont
+pas été comparées entre elles";
+
+              Considérant qu'aucun des principes ni des disposi-
+tions légales et réglementaires invoqués n'interdit à
+l'autorité d'apprécier des offres par rapport à une
+échelle qu'elle détermine; que le moyen manque en droit;
+
+              Considérant que la requérante prend un septième
+moyen de la "violation du principe général de la motiva-
+tion des actes administratifs"; que, dans une première
+
+                                                                                                                III - 19.114 - 8/11
+branche, elle soutient que "la partie adverse a manifeste-
+ment pris sa décision sur base d'un motif inexact, l'exa-
+men du critère technique en ce qui concerne PRIMINFO
+comportant des erreurs nombreuses et substantielles en sa
+défaveur", ce que démontre, selon elle, "une étude réali-
+sée par les Facultés universitaires Notre-Dame de la Paix
+à Namur, sur base du cahier spécial des charges, de
+l'offre de PRIMINFO, de l'Offre d'IBM, de la décision
+motivée de l'administration, et des tests CHEK IT effec-
+tués par l'administration, (qui) contredit sur 14 cotes
+les résultats de la partie adverse"; que, dans une deux-
+ième branche, elle fait valoir "que, de plus, au sein du
+lot 1, les résultats sur le plan technique n'ont pas été
+pondérés en fonction du nombre d'appareils de chaque type
+concerné par l'analyse"; que, dans une troisième branche,
+elle ajoute "que le rapport de la commission technique sur
+base duquel, au vu de la décision motivée et notifiée le
+ler août 1994, a été prise la décision, contient des
+inexactitudes";
+
+              Considérant, sur les trois branches réunies, que
+s'il est vrai que selon un principe général du droit
+administratif, toute décision administrative doit être
+fondée sur des motifs légalement admissibles, il n'y a
+point de "principe général de la motivation des actes
+administratifs"; que la décision attaquée justifie comme
+suit le choix critiqué:
+
+"d. Classement des offres retenues pour chaque critère
+       d'attribution; ordre de grandeur des rapports vis-à-
+       vis de l'offre la mieux notée, celle-ci étant indiquée
+       par 1
+
+(1) Valeur technique: IBM 1; TELINDUS 0,84;
+                                                       PRIMINFO 0,76
+
+(2) Coût:   PRIMINFO 1; IBM 0,88;
+
+            TELINDUS                                                  0,71
+
+(3) Délai:  IBM 2 sem; TELINDUS 3 sem;
+
+                                                                   III - 19.114 - 9/11
+                     PRIMINF0 4 sem
+
+Techniquement, l'offre d'IBM surpasse les autres par
+la qualité du PC de type 3 offert (PC de type PEN-
+TIUM), les PC de types 1 et 2 obtenant des notes
+équivalentes. L'offre de TELINDUS (bien Que le PC de
+type 3 soit également du type PENTIUM) prévoit toute-
+fois des composantes de moindre qualité par rapport à
+l'offre de IBM.
+
+Du point de vue prix elle se situe dans la moyenne par
+rapport aux deux autres offres.
+
+e. Les critéres d'attribution sont pondérés de la
+       manière suivante:
+
+Valeur technique:    48%
+
+Coût complet des solutions: 43%
+
+Délai de livraison:  9%
+
+Sur cette base, on obtient le classement suivant :
+(1) IBM
+(2) PRIMINFO
+(3) TELINDUS";
+
+que la requérante, sans mettre en cause la légalité de ces
+motifs, décrit les erreurs qui auraient été commises,
+selon elle, dans les tests effectués par l'administration
+et en voit la preuve dans un rapport d'expertise unllaté-
+ral qu'elle a demandé aux Facultés universitaires Notre-
+Dame de la Paix:
+
+              Considérant que ni dans sa requête, ni dans son
+mémoire en réplique où elle expose longuement et de
+manière extrêmement détaillée les quatorze "erreurs de
+calcul commises par la partie adverse" dans l'appréciation
+faite par celle-ci des mérites des différentes offres, et
+spécialement dans celle de la requérante, par rapport aux
+exigences du cahier spécial des charges, cette dernière ne
+soutient que ces erreurs seraient manifestes; qu'au reste,
+il n'est pas contesté que les Facultés universitaires
+Notre-Dame de la Paix n'ont pas eu à leur disposition,
+pour effectuer l'étude qui leur avait été demandée par la
+requérante, les appareils qui ont été testés par l'admi-
+nistration; qu'ainsi, la requérante n'établit pas que la
+
+                                                                                                              III - 19.114 - 10/11
+décision attaquée serait le fruit d'une appréciation
+manifestement inexacte; que le moyen ne peut être retenu,
+
+               DECIDE:
+
+Article 1er.
+              La requête est rejetée.
+
+Article 2.
+
+              Les dépens, liquidés à 7.000 francs, sont mis à
+charge de la requérante à concurrence de 4.000 francs et
+à charge de la partie intervenante à concurrence de 3.000
+francs.
+
+              Ainsi prononcé à Bruxelles, en audience publique,
+le treize février 1900 nonante-sept par :
+
+M. GEUS,       président de chambre,
+
+M. MESSINNE,   conseiller d'Etat,
+
+Mme DAURMONT,  conseiller d'Etat,
+
+Mme HONDERMARCQ, greffier.
+
+Le Greffier,                           Le Président,
+
+M.-Cl. HONDERMARCQ.                    J.-Cl. GEUS.
+
+                                                III - 19.114 - 11/11
+

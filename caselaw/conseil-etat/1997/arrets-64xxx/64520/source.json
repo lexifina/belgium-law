@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.520",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64520,
+  "decision_date": "1997-02-13",
+  "date_as_printed": "13 février 1997",
+  "chamber": "III",
+  "role_number": "A. 59.700/III-19.114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64520",
+  "source_sha256": "0bfe2c9d8fb529dee09f986ca0aa84a78d26f0f4058a5c1b86f7d494efa583e7",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
