@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.283",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72283,
+  "decision_date": "1998-03-09",
+  "date_as_printed": "9 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 76.276/IX-787",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72283",
+  "source_sha256": "dc26d14279b6638474ddbbf353f539b13684d5836ccc313be31fa2ebafb3b68b",
+  "pages": 14,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
