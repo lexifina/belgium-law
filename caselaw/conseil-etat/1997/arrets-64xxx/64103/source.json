@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.103",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64103,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 70.716/III-22.487",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64103",
+  "source_sha256": "c5f9de1c5c60923a29056b0f4f67ae72b05726f96832dfd1b07ddc8903206112",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
