@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.703",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63703,
+  "decision_date": "1996-12-19",
+  "date_as_printed": "19 décembre 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.319/XI-1.404",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63703",
+  "source_sha256": "4340aff01feb694a6b45f1c70a172b2ebdcb1fbe1bbf182b68a396811fa9a4ae",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
