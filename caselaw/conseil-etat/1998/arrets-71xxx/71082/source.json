@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.082",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71082,
+  "decision_date": "1998-01-26",
+  "date_as_printed": "26 januari 1998",
+  "chamber": "IX",
+  "role_number": "A. 69.363/IX-406",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71082",
+  "source_sha256": "a2ee5e51e6a168e798a894111345e6c28ca850312f4941264d3b4b1645a1bf86",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
