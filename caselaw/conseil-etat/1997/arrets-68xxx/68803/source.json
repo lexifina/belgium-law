@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.803",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68803,
+  "decision_date": "1997-10-13",
+  "date_as_printed": "13 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 66.874/XI-233",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68803",
+  "source_sha256": "b1aa25dc4fe64b7af6264e6577382b416b306dcfbd35e7db5d889d76e08ba135",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
