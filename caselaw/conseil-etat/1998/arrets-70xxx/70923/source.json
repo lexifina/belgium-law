@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.923",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70923,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 janvier 1998",
+  "chamber": "XI",
+  "role_number": "A. 65.459/XI-2.873",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70923",
+  "source_sha256": "80fe0e33d2a62f14f339d0fc5e1ba877779beea0ebf4902a359e828fd6adbf87",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
