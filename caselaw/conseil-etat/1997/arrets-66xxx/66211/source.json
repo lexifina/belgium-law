@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.211",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66211,
+  "decision_date": "1997-05-13",
+  "date_as_printed": "13 mai 1997",
+  "chamber": "III",
+  "role_number": "A. 73.125/III-14.087",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66211",
+  "source_sha256": "3bc70dd8d441e248fe353f9a493f0f8dbca306a470426c41b011696a78e0ea89",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
