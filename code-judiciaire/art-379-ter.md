@@ -1,0 +1,2 @@
+§ 1er. Le conseiller suppléant qui est appelé à siéger selon l'article 102, § 1er, a droit à une indemnité mensuelle, comme prévu à l'article 379.
+§ 2. Le conseiller suppléant-président et le conseiller suppléant qui sont appelés à siéger dans une chambre supplémentaire comme prévu dans l'article 102, § 2, ont droit, en leur qualité de président ou de conseiller suppléant, à une indemnité par audience dont les modalités d'application sont fixées par le ministre de la Justice.
