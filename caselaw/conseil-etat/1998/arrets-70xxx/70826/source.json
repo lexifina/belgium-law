@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.826",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70826,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 42.391/VII-9.487",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70826",
+  "source_sha256": "e2787913d9324d204e7ae385c1abab6332fbef3295cabf7f9007518b36b1c819",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
