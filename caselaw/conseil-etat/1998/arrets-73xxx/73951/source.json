@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.951",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73951,
+  "decision_date": "1998-05-28",
+  "date_as_printed": "28 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 48.311/VII-11.333",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73951",
+  "source_sha256": "1f9c58025a89d143818a8e7e53e8e369e423aecc4d6273147c2fdbba0d9ce04d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
