@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.166",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73166,
+  "decision_date": "1998-04-21",
+  "date_as_printed": "21 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 68.599/XI-792",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73166",
+  "source_sha256": "6c3213e7b9759895d1398d7e9bb4fda88964caf83d606e5b9c96ac2b0b8959aa",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
