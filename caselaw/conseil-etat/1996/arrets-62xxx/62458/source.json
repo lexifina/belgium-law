@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.458",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62458,
+  "decision_date": "1996-10-09",
+  "date_as_printed": "9 octobre 1996",
+  "chamber": "VI",
+  "role_number": "A. 69.302/VI-77",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62458",
+  "source_sha256": "2c565034b8225c6727600521b872b4281a609513c1bcefffff3ac83a59050f0f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
