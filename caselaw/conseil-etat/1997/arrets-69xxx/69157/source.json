@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.157",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69157,
+  "decision_date": "1997-10-24",
+  "date_as_printed": "24 octobre 1997",
+  "chamber": "XI",
+  "role_number": "A. 75.888/XI-3.411",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69157",
+  "source_sha256": "aef68d3c144d08e420e681b22675db7264b386b6e0de2c1ef390810f1837ac0c",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
