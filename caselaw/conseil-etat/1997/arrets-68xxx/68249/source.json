@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.249",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68249,
+  "decision_date": "1997-09-23",
+  "date_as_printed": "23 september 1997",
+  "chamber": "XII",
+  "role_number": "A. 43.408/XII-350",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68249",
+  "source_sha256": "f040f4764fb1625cc643a3627fc76e969eff7b7c8a92efd4acfde1f4d541c5c4",
+  "pages": 12,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
