@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.254",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72254,
+  "decision_date": "1998-03-05",
+  "date_as_printed": "5 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 69.885/XI-1.250",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72254",
+  "source_sha256": "2d184e0b7ebd211c4b7965042a4611dfab51f85afe95422429bb296bf1bf4c4f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
