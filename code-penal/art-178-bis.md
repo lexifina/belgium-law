@@ -1,0 +1,1 @@
+Quiconque aura émis un signe monétaire destiné à circuler dans le public comme moyen de paiement sans y avoir été habilité par l'autorité compétente, sera puni d'un emprisonnement d'un mois à un an et d'une amende de 50 à 10 000 EUR, ou d'une de ces peines seulement. ".
