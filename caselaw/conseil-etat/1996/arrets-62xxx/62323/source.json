@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.323",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62323,
+  "decision_date": "1996-10-04",
+  "date_as_printed": "4 octobre 1996",
+  "chamber": "III",
+  "role_number": "A. 63.807/III-20.974",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62323",
+  "source_sha256": "c3cce5f2e69b1c49a83ffce07d91364c400d7798f9826dc266651cf700eae8a1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
