@@ -1,0 +1,1 @@
+Elles sont appliquées sans exception aux personnes qui, n'étant pas soumises aux lois pénales militaires, ont participé à un crime ou à un délit réprimé par le Code pénal militaire. Toutefois, l'emprisonnement militaire est remplacé par un emprisonnement de même durée et la destitution, portée comme peine principale, par un emprisonnement de deux mois à trois ans.

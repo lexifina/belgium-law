@@ -1,0 +1,1 @@
+Les peines exprimées aux articles 118, 119, 120 à 120septies seront les mêmes soit que les infractions prévues par ces articles aient été commises envers la Belgique, soit qu'elles l'aient été envers un Etat avec lequel la Belgique est unie par un accord régional en vue d'une défense commune.

@@ -1,0 +1,3 @@
+Seront punis d'un emprisonnement de huit jours à ((six mois)) et d'une amende de cinquante francs à cinq cents francs, ou d'une de ces peines seulement, sans préjudice, s'il y a lieu, à l'application de dispositions pénales plus sévères:
+(Les père et mère ou les adoptants) qui abandonnent leur enfant dans le besoin, encore qu'il n'ait pas été laissé seul, qui refusent de le reprendre ou qui, l'ayant confié à un tiers, refusent de payer l'entretien de l'enfant.
+(En cas de seconde condamnation pour une des infractions prévues au présent article, commise dans un délai de cinq ans à compter de la première, les peines pourront être doublées.)

@@ -1,0 +1,4 @@
+En cas d'inexécution totale ou partielle de la peine de probation autonome, l'assistant de justice informe sans délai la commission de probation. La commission convoque le condamné par envoi recommandé ou par une voie électronique à déterminer par le Roi plus de dix jours avant la date fixée pour l'examen de l'affaire et en informe son conseil. Le dossier de la commission est mis pendant cinq jours à la disposition du condamné et de son conseil éventuel.
+La commission, siégeant hors la présence du ministère public, rédige un rapport motivé en vue de l'application de la peine de substitution.
+Le rapport est envoyé par simple lettre au condamné, au ministère public et à l'assistant de justice.
+Dans ce cas, le ministère public peut décider d'exécuter la peine d'emprisonnement ou l'amende prévue dans la décision judiciaire, et ce en tenant compte de la peine de probation autonome qui a déjà été exécutée par le condamné.
