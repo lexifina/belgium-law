@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.088",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64088,
+  "decision_date": "1997-01-17",
+  "date_as_printed": "17 janvier 1997",
+  "chamber": "III",
+  "role_number": "A. 71.093/III-22.605",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64088",
+  "source_sha256": "2ac0356efd8820c4ad231678820b3668352393b0220ac9e6e7c607799a33c873",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
