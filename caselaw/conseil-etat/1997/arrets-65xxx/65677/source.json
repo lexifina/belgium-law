@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.677",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65677,
+  "decision_date": "1997-03-27",
+  "date_as_printed": "27 maart 1997",
+  "chamber": "IV",
+  "role_number": "A. 72.850/IV-16.458",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65677",
+  "source_sha256": "ccce513584a4c3c3bdd1b9df2f37ff88cf7cf19da969d78dc478875d39f6b9e6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
