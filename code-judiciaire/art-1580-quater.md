@@ -1,0 +1,2 @@
+Lorsqu'il est fait application de l'article 1580bis ou de l'article 1580ter, la cause reste inscrite au rôle jusqu'à la passation de l'acte notarié. En cas de difficultés, elle peut être ramenée devant le juge par simple déclaration écrite déposée ou adressée au greffe.
+En cas de refus d'autorisation de vente de gré à gré ou de non réalisation de celle-ci, le juge nomme un notaire chargé de procéder à l'adjudication des biens et aux opérations d'ordre.

@@ -1,0 +1,1 @@
+Dans les vingt-quatre heures du prononcé de la décision d'admissibilité, un avis de règlement collectif de dettes est établi par le greffier pour être joint, le cas échéant, aux avis de saisie visés à l'article 1390. Le modèle des avis de règlement collectif de dettes est établi par le Roi.
