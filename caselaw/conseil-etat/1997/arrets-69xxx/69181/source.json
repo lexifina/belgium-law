@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.181",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69181,
+  "decision_date": "1997-10-27",
+  "date_as_printed": "27 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 65.712/X-7.673",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69181",
+  "source_sha256": "bf22b6261afd430f13a8077d1035d784a60a280b5816629bb40d29c5f7476e41",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
