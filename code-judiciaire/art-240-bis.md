@@ -1,0 +1,1 @@
+Huit jours au moins avant l'ouverture des débats, le président de la cour d'assises statue par ordonnance, au vu des conclusions écrites du procureur général, sur la rectification des erreurs matérielles affectant l'identité des jurés figurant sur la liste des jurés et le relevé des jurés de complément.
