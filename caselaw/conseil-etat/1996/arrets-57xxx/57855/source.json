@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.855",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57855,
+  "decision_date": "1996-01-26",
+  "date_as_printed": "26 janvier 1996",
+  "chamber": "III",
+  "role_number": "A. 65.388/III-21.746",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57855",
+  "source_sha256": "15cbd6bdf9238b3db38548ad640f254c0dd18346e13127fbd5149c01d82116ce",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
