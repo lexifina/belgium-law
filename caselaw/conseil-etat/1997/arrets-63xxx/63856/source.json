@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.856",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63856,
+  "decision_date": "1997-01-08",
+  "date_as_printed": "8 janvier 1997",
+  "chamber": "XI",
+  "role_number": "A. 72.517/XI-1.871",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63856",
+  "source_sha256": "472d94556914fc7e413e6dd069bdfc98466b1aed8b529d6935461d2ad0a6d541",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
