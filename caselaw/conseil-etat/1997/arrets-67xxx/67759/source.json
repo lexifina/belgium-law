@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.759",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67759,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "XI",
+  "role_number": "A. 69.410/XI-1.113",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67759",
+  "source_sha256": "6b353e9b62fec6d2845866baf553758d2a00e09eed3a75712213ad11a2f1d428",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
