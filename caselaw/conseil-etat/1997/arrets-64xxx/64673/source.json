@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 64.673",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 64673,
+  "decision_date": "1997-02-20",
+  "date_as_printed": "20 février 1997",
+  "chamber": "III",
+  "role_number": "A. 59.529/III-19.017",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/64673",
+  "source_sha256": "45cf3ade473cdf9ddc7704bf9fcbba96ea7322011c4a76c81d673fdccf43894d",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
