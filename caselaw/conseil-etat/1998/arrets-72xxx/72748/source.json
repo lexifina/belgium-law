@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.748",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72748,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.181/VII-4.244",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72748",
+  "source_sha256": "4183c0390454b4c7fe13b95ab6b7dc6c1f249176a849cb0094bd856f8543d5f9",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
