@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.899",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65899,
+  "decision_date": "1997-04-17",
+  "date_as_printed": "17 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.896/XI-2.219",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65899",
+  "source_sha256": "b2e8761c514a667954855485f6b916d9958498f13e269042e189751350eb1197",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
