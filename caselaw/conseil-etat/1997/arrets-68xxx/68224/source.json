@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.224",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68224,
+  "decision_date": "1997-09-18",
+  "date_as_printed": "18 september 1997",
+  "chamber": "VII",
+  "role_number": "A. 73.557/VII-15.290",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68224",
+  "source_sha256": "01d3c42c7b0e655e3c0adcb83e5c63068192c63e713eb02c0e2a74c6f602a67c",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
