@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.419",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72419,
+  "decision_date": "1998-03-12",
+  "date_as_printed": "12 maart 1998",
+  "chamber": "VII",
+  "role_number": "A. 74.641/VII-15.566",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72419",
+  "source_sha256": "9862d2c29d9b1dc38bee1a297317d7391ac293e2353e9f7469d6311b67028612",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
