@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.237",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59237,
+  "decision_date": "1996-04-25",
+  "date_as_printed": "25 april 1996",
+  "chamber": "VII",
+  "role_number": "A. 65.336/VII-8.370",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59237",
+  "source_sha256": "8ae0f07bd5bca85b8239a30ae41da339664c433a82d54378ecbd7923f660691b",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
