@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.582",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72582,
+  "decision_date": "1998-03-18",
+  "date_as_printed": "18 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 59.690/VI-14.018",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72582",
+  "source_sha256": "6f314df72b1664e53e7cba2ab6ccc8e4c5d329551897524357588b2f24282f36",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
