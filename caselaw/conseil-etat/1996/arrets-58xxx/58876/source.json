@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.876",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58876,
+  "decision_date": "1996-03-27",
+  "date_as_printed": "27 maart 1996",
+  "chamber": "IV",
+  "role_number": "A. 64.040/IV-15.165",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58876",
+  "source_sha256": "cabeb22ee936bfb1f053667b7aefc5dbde268e639f2849c624ca35092219257e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
