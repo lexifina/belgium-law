@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.984",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60984,
+  "decision_date": "1996-07-15",
+  "date_as_printed": "15 juli 1996",
+  "chamber": "IV",
+  "role_number": "A. 67.790/IV-321",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60984",
+  "source_sha256": "cb56d8d7f7e382d8fd6510f6aa9da64724895bd1f0256c8dec66376d76df8128",
+  "pages": 16,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
