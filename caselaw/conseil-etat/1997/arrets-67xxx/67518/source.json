@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.518",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67518,
+  "decision_date": "1997-07-15",
+  "date_as_printed": "15 juillet 1997",
+  "chamber": "III",
+  "role_number": "A. 71.023/III-22.748",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67518",
+  "source_sha256": "3e909ac0107a3b1d0d6927b8469b2c63f3b19a839aa9d2c25b51015233d4b93e",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
