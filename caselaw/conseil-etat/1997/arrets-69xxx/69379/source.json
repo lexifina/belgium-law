@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.379",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69379,
+  "decision_date": "1997-11-04",
+  "date_as_printed": "4 novembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 70.014/XI-1.291",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69379",
+  "source_sha256": "0b9ba1e3b9df69d540767040baba234d3b3d0f6612581ef0e0c79b2f6f1b7ee8",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
