@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.628",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66628,
+  "decision_date": "1997-06-05",
+  "date_as_printed": "5 juin 1997",
+  "chamber": "III",
+  "role_number": "A. 62.413/III-20.381",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66628",
+  "source_sha256": "757c792a6bbca9d18179ef6334987786461f8ea656681978d862401192bf7c6f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
