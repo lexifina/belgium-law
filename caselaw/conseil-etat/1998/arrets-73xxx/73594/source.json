@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.594",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73594,
+  "decision_date": "1998-05-12",
+  "date_as_printed": "12 mei 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.111/XII-861",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73594",
+  "source_sha256": "88a345593b0cb8dcdc1c00e81faa973048e30c1267da837e1ad9c04d714bb40e",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
