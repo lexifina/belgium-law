@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.820",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70820,
+  "decision_date": "1998-01-15",
+  "date_as_printed": "15 januari 1998",
+  "chamber": "VII",
+  "role_number": "A. 34.047/VII-5.885",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70820",
+  "source_sha256": "0922ce3df485f58bc3b31bb84ab7e783a9062e58e14192c6e5ebb855ee5a00ba",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
