@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 66.897",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 66897,
+  "decision_date": "1997-06-24",
+  "date_as_printed": "24 juni 1997",
+  "chamber": "VII",
+  "role_number": "A. 41.980/VII-9.357",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/66897",
+  "source_sha256": "5d640820c4fa05f3f63b638759512fcc0402184571db5da922c33f345d576d23",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
