@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.633",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70633,
+  "decision_date": "1998-01-12",
+  "date_as_printed": "12 janvier 1998",
+  "chamber": "XIII",
+  "role_number": "A. 76.359/XIII-378",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70633",
+  "source_sha256": "f0007b3db3eff9272f39c66d30927a2ae5d727622e471d17b05a8c08e3cfe184",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
