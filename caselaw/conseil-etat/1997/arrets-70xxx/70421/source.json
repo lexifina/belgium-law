@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.421",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70421,
+  "decision_date": "1997-12-18",
+  "date_as_printed": "18 december 1997",
+  "chamber": "X",
+  "role_number": "A. 40.773/X-7.822",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70421",
+  "source_sha256": "339e90e5b1b1810ccd81d7f62fe11e5f94d8bb247eeee50dece4bd8a04432ff6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
