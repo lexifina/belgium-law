@@ -1,0 +1,2 @@
+L'employeur redevable d'une rémunération garantie, conformément aux articles 52, 70 ou 71 de la loi du 3 juillet 1978 relative aux contrats de travail, à la victime d'un accident du travail survenu chez un autre employeur est subrogé dans les droits de la victime selon les modalités fixées par le Roi.
+En l'occurrence, le Roi précise à qui seront payées les indemnités d'incapacité temporaire de travail relatives à la période couverte par la rémunération garantie.
