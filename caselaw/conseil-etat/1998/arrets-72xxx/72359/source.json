@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.359",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72359,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 50.284/XI-2.639",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72359",
+  "source_sha256": "5722769a4710f8c4448f2cf316ea2373714e93dedc3dc1b941012f2f4bc6d997",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
