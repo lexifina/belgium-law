@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.114",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61114,
+  "decision_date": "1996-08-06",
+  "date_as_printed": "6 août 1996",
+  "chamber": "XI",
+  "role_number": "A. 70.218/XI-1.350",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61114",
+  "source_sha256": "5e93cdd9025b91e97a5e10111fb6b77531b106d18b3ddb10599eb312cd3ff030",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
