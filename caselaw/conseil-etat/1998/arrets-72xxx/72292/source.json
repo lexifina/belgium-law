@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.292",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72292,
+  "decision_date": "1998-03-09",
+  "date_as_printed": "9 maart 1998",
+  "chamber": "IX",
+  "role_number": "A. 75.979/IX-673",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72292",
+  "source_sha256": "be98bdea75c3ecffe0c841abe3768309bfd23e14ba8b4a452e74c7db46a7fb7c",
+  "pages": 18,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
