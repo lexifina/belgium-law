@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.847",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65847,
+  "decision_date": "1997-04-10",
+  "date_as_printed": "10 avril 1997",
+  "chamber": "XI",
+  "role_number": "A. 73.710/XI-2.173",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65847",
+  "source_sha256": "cc704e782bb1e58dc689ce199c64fa994ab18b4096d7eff0ac5cbd8dd28f935d",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
