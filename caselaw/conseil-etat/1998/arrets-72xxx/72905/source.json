@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.905",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72905,
+  "decision_date": "1998-04-01",
+  "date_as_printed": "1 april 1998",
+  "chamber": "X",
+  "role_number": "A. 75.342/X-7.596",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72905",
+  "source_sha256": "aefaed134cc8b0643b1a879097c779a35b3cc72cb31358afc29347db9abefd4c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
