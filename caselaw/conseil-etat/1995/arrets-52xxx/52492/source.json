@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 52.492",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 52492,
+  "decision_date": "1995-03-23",
+  "date_as_printed": "23 maart 1995",
+  "chamber": "XII",
+  "role_number": "A. 62.773/XII-2.955",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/52492",
+  "source_sha256": "18b2ca4b5e5fa88566aa5ba2ecc0f634541e50f4476784edeb3089e48e080fe0",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
