@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.708",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63708,
+  "decision_date": "1996-12-19",
+  "date_as_printed": "19 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 63.303/III-21.023",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63708",
+  "source_sha256": "3862e9c116b0220abaea06e8f8af2447358797ab6462fbcfafa91a34465cbe8a",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
