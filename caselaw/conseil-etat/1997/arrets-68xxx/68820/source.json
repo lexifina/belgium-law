@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.820",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68820,
+  "decision_date": "1997-10-13",
+  "date_as_printed": "13 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 66.956/X-7.757",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68820",
+  "source_sha256": "f33cdff84eaee18aeddb542a20bdbba6a58d2f18a153bada095862090b34c81e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
