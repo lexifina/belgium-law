@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.173",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60173,
+  "decision_date": "1996-06-14",
+  "date_as_printed": "14 juin 1996",
+  "chamber": "III",
+  "role_number": "A. 67.135/III-22.124",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60173",
+  "source_sha256": "77c992f0066675c9d2afc0cd3e681b18534e0a8900d313d75dc6072eae8f387f",
+  "pages": 2,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
