@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.744",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60744,
+  "decision_date": "1996-07-03",
+  "date_as_printed": "3 juillet 1996",
+  "chamber": "III",
+  "role_number": "A. 64.116/III-21.148",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60744",
+  "source_sha256": "e578b1451b2076fb5580cd4cd125d120faf85fd23d8b5fcaa4566fd6ec48bec1",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
