@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.030",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56030,
+  "decision_date": "1995-10-25",
+  "date_as_printed": "25 oktober 1995",
+  "chamber": "IV",
+  "role_number": "A. 62.369/IV-14.999",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56030",
+  "source_sha256": "400f4b784c2e366ff1ebc6242bcee726a027c92028885e672f5b1c6cffe26648",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
