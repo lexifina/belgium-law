@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.893",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68893,
+  "decision_date": "1997-10-15",
+  "date_as_printed": "15 octobre 1997",
+  "chamber": "VI",
+  "role_number": "A. 71.533/VI-14.001",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68893",
+  "source_sha256": "5597dd927c46060262b4e27540dc6fa7fc5f6b5e388c413827eb731ed829a5bb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
