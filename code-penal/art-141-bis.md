@@ -1,0 +1,1 @@
+Le présent titre ne s'applique pas aux activités des forces armées en période de conflit armé, tels que définis et régis par le droit international humanitaire, ni aux activités menées par les forces armées d'un Etat dans l'exercice de leurs fonctions officielles, pour autant qu'elles soient régies par d'autres règles de droit international.
