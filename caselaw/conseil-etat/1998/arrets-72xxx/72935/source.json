@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.935",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72935,
+  "decision_date": "1998-04-02",
+  "date_as_printed": "2 april 1998",
+  "chamber": "VII",
+  "role_number": "A. 72.415/VII-14.982",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72935",
+  "source_sha256": "06df9758b5c88b033a07a902d93d0d3ff070c010b6e914b551799c837413d81f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
