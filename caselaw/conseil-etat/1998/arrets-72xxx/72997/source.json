@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.997",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72997,
+  "decision_date": "1998-04-06",
+  "date_as_printed": "6 avril 1998",
+  "chamber": "XI",
+  "role_number": "A. 68.832/XI-876",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72997",
+  "source_sha256": "738f1fd2e882bc21e7259e9fd88312a98c46f46396480259bcba3d22dc7b54db",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
