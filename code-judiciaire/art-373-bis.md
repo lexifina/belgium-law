@@ -1,1 +1,6 @@
-Après douze ans de fonction effective dans une ou plusieurs juridictions, il est alloué aux secrétaires des parquets un supplément de 27 971 francs.
+Les suppléments de traitement suivant sont accordés aux secrétaires (en francs):
+Nombre d'annees d'anciennete Montant des supplements
+utile de traitement apres
+chaque periode
+- Douze annees 29 680
+- Quinze annees 29 680
