@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.746",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68746,
+  "decision_date": "1997-10-09",
+  "date_as_printed": "9 oktober 1997",
+  "chamber": "VII",
+  "role_number": "A. 54.151/VII-12.238",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68746",
+  "source_sha256": "67c66c077e7036f54eb1f30314aab38b4362082244c90533d8f67d0cf7b346ad",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
