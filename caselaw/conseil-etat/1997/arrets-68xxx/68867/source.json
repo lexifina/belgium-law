@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.867",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68867,
+  "decision_date": "1997-10-14",
+  "date_as_printed": "14 oktober 1997",
+  "chamber": "X",
+  "role_number": "A. 40.040/X-7.070",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68867",
+  "source_sha256": "238eee1ce80d0eae743ad7be76e202a4cd777dc6dba2873faab025aa7b8b2124",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
