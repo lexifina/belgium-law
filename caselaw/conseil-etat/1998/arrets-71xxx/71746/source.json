@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 71.746",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 71746,
+  "decision_date": "1998-02-11",
+  "date_as_printed": "11 februari 1998",
+  "chamber": "XII",
+  "role_number": "A. 77.355/XII-881",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/71746",
+  "source_sha256": "4315e736acd50ecc929f70ad5f561b5ac9a88895037d4912cc9c462d3d11a141",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
