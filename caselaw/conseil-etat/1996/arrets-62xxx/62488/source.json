@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 62.488",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 62488,
+  "decision_date": "1996-10-10",
+  "date_as_printed": "10 oktober 1996",
+  "chamber": "IV",
+  "role_number": "A. 69.543/IV-459",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/62488",
+  "source_sha256": "245643a7581ad76564cbeec37f97ae2c96b9e0f95365ec8c417ac7b1cdf2d043",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
