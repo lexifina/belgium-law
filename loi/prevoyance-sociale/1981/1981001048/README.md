@@ -4,7 +4,7 @@ Official issuer: Prévoyance Sociale.
 
 [Official consolidated text](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1981-07-02&numac_search=1981001048&page=1&lg_txt=F&caller=list&1981001048=1&trier=promulgation&fr=f).
 
-Consolidated text with the versions Justel keeps: this record starts with Justel's archived version 001 and adds one commit per archived version and the current text (154 in all), each dated by the day it took effect (see In-force-basis in each commit). This is version 031, in force from 1996-08-11.
+Consolidated text with the versions Justel keeps: this record starts with Justel's archived version 001 and adds one commit per archived version and the current text (154 in all), each dated by the day it took effect (see In-force-basis in each commit). This is version 032, in force from 1996-08-11.
 
 Made: 1981-06-29. Published: 1981-07-02.
 
