@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.811",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72811,
+  "decision_date": "1998-03-26",
+  "date_as_printed": "26 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 77.833/XI-4.213",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72811",
+  "source_sha256": "1b515e0285834edf2eba9b9ce282002cae15128c1c782c6716b0a93d290c3f86",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
