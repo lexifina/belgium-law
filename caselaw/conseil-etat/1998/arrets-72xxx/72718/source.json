@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.718",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72718,
+  "decision_date": "1998-03-25",
+  "date_as_printed": "25 mars 1998",
+  "chamber": "X",
+  "role_number": "A. 67.060/X-7.150",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72718",
+  "source_sha256": "f81c75b5e8c921ebe836a71e05f2f17c51797df86ea99e196663cf48127af5bf",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
