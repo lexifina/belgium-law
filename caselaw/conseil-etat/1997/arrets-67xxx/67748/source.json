@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.748",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67748,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "III",
+  "role_number": "A. 59.941/III-19.278",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67748",
+  "source_sha256": "13e7598e4f494b2b6c5cdc60d5bfc62832fdf61144e570ec4477d07722fc8d41",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
