@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.981",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61981,
+  "decision_date": "1996-09-26",
+  "date_as_printed": "26 september 1996",
+  "chamber": "VII",
+  "role_number": "A. 65.951/VII-13.483",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61981",
+  "source_sha256": "494fbc904fa39b11d6e837daf553a08fac0dfb0eef2c68b18a8c3318c5e4b517",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
