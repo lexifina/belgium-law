@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 59.221",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 59221,
+  "decision_date": "1996-04-24",
+  "date_as_printed": "24 april 1996",
+  "chamber": "IV",
+  "role_number": "A. 63.390/IV-15.125",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/59221",
+  "source_sha256": "6811f54b52fdef5e18c0a108de672b71a1a686e0b51fa676b1447f7f9856ed2f",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
