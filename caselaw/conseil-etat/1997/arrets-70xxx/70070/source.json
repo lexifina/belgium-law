@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.070",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70070,
+  "decision_date": "1997-12-08",
+  "date_as_printed": "8 december 1997",
+  "chamber": "X",
+  "role_number": "A. 73.587/X-7.281",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70070",
+  "source_sha256": "af64c6e60d71677a4eb3abacdafffd439667ff185c7e84a1d7cd7786b72b1e16",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
