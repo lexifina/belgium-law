@@ -1,12 +1,20 @@
-<a name="Art.7">Art.</a> <a href="#Art.13"> 7</a>. § 1er. Par dérogation à l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers et assimilés et à l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, le Roi peut, par arrêté délibéré en Conseil des Ministres et après l'avis du Conseil national du travail, charger l'Office national de sécurité sociale d'effectuer la perception et le recouvrement des cotisations, majorations de cotisations et des intérêts de retard, prévus par ces arrêtés-lois.
-§ 2. Dans ce cas, le Roi détermine les conditions techniques et administratives dans lesquelles l'Office national de sécurité sociale accomplit la mission qui lui est ainsi confiée, ces conditions pouvant déroger aux dispositions de ces arrêtés-lois, sauf en ce qui cOncerne les taux de cotisations qui y sont prévus ainsi que la base de calcul des cotisations.
-
-<a name="Art.13" href="#Art.7">Art.</a> <a href="#Art.39"> 13</a>. L'Office national de sécurité sociale peut créer un service mécanographique et le mettre à la disposition des organismes visés à l'article 19. Il peut également s'associer avec lesdits organismes en vue de sa création. Les charges du fonctionnement de ce service seront réparties entre ces différents organismes.
-Cet Office peut également confier l'exécution de travaux mécanographiques à un établissement privé, à condition qu'il dispose auprès cet établissement d'un représentant permanent, chargé de la surveillance régulière des travaux effectués pour son compte. Le Comité de gestion dudit Office désigne, parmi les fonctionnaires dirigeants de celui-ci et avec l'approbation du Ministre qui a la Prévoyance sociale dans ses attributions, ce représentants permanent;(dans ces cas, le Roi peut nommer un deuxième administrateur général adjoint.) &lt;L 05-07-1971, art. 4&gt;
-
-<a name="Art.39" href="#Art.13">Art.</a> <a href="#Art.42"> 39</a>. (L'action publique résultant des infractions aux dispositions de la présente loi et de ses arrêtés d'exécution se prescrit par trois ans à compter du fait qui a donné naissance à l'action.) &lt;L 04-08-1978, art. 66&gt;
-Toutefois, lorsque l'employeur a effectué les retenues prévues à l'article 23, mais ne les a pas transférées à l'Office national de sécurité sociale dans les délais et conditions réglementaires, le délai pour la prescription ne prend cours qu'à tir du jour du transfert des retenues à l'Office.
-
-<a name="Art.42" href="#Art.39">Art.</a> 42. (Les créances de l'Office national de sécurité social à charge des employeurs assujettis à la présente loi et des personnes visées à l'article 30bis, se prescrivent par trois ans.) &lt;L 04-08-1978, art. 68&gt;
-Les actions intentées contre l'Office national de sécurité sociale en répétition de cotisations indues se prescrivent par trois ans à partir de la date du paiement.
-La signification de la contrainte prévue à l'article 40 suspend )'écoulement de ce délai.
+<a name="Art.5">Art.</a> 5. &lt;L 1994-03-30/31, art. 1, 009; <b> En vigueur : </b> indéterminée &gt; L'Office national de sécurité sociale institué par l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, est chargé :
+1° de percevoir les cotisations des employeurs et des travailleurs en vue de contribuer au financement des régimes suivants :
+a) les indemnités de maladie-invalidité;
+b) les allocations de chômage;
+c) les pensions de retraite et de survie;
+d) les allocations du chef d'accidents de travail et de maladies professionnelles;
+e) les remboursements de soins de santé;
+f) les prestations familiales;
+g) les allocations de vacances annuelles;
+2° d'assurer la gestion financière globale de la sécurité sociale, ainsi que de promouvoir la transparence et l'efficacité du financement de celle-ci.
+(Pour ce faire, l'Office veille, sous l'autorité du Comité de gestion de la sécurité sociale, entre autres, à :) &lt;L 1994-12-21/31, art. 8, 010; <b> En vigueur : </b> 1995-01-02&gt;
+a) mettre en oeuvre une gestion de trésorerie commune;
+b) soumettre au Gouvernement, en vue de l'élaboration du budget et du contrôle budgétaire, un rapport sur l'évolution des dépenses et des recettes, les options politiques prioritaires et la facon dont l'équilibre du régime peut être assuré;
+c) suivre l'évolution de l'ensemble des recettes et dépenses sur la base des données transmises par les institutions publiques de sécurité sociales concernées;
+d) répartir annuellement le produit des cotisations, à l'exclusion de celles relatives au régime visé au 1°, g), après prélèvement des sommes destinées à couvrir les frais d'administration de l'Office, et des autres ressources visées à l'article 22 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés;
+e) évaluer la gestion des ressources non réparties et la gestion des réserves des régimes visés au 1°.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, et après avis du (Comité de gestion de la sécurité sociale), déterminer la manière dont les recettes non réparties sont gérées. &lt;L 1994-12-21/31, art. 8, 010; <b> En vigueur : </b> 1995-01-02&gt;
+La répartition des moyens financiers telle que prévue à l'alinéa 1er, 2°, d), doit être présentée pour approbation au Roi, pour le 15 septembre au plus tard de l'année précédant l'année budgétaire visée. Si tel n'est pas le cas, le Roi fixe, par arrêté délibéré en Conseil des ministres, les conditions et modalités selon lesquelles les cotisations et les autres ressources sont réparties.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer dans quelles conditions la répartition visée à l'alinéa précédent peut être adaptée par le (Comité de gestion de la sécurité sociale) au cours de l'année budgétaire. &lt;L 1994-12-21/31, art. 8, 010; <b> En vigueur : </b> 1995-01-02&gt;
+Le Roi peut, sur proposition ou après avis du (Comité de gestion de la sécurité sociale), préciser les dates, délais et procédures relatifs à l'exécution de l'alinéa 1er, 2°, b), c), d) et e). &lt;L 1994-12-21/31, art. 8, 010; <b> En vigueur : </b> 1995-01-02&gt;
