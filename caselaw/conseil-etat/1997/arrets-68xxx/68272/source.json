@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 68.272",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 68272,
+  "decision_date": "1997-09-24",
+  "date_as_printed": "24 septembre 1997",
+  "chamber": "VIII",
+  "role_number": "A. 60.435/VIII-180",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/68272",
+  "source_sha256": "534123f50e7f10ea565a067f86498df89ac964d15641d5b97aa8c42f357a9f56",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
