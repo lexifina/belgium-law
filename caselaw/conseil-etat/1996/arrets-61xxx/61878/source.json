@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 61.878",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 61878,
+  "decision_date": "1996-09-18",
+  "date_as_printed": "18 septembre 1996",
+  "chamber": "III",
+  "role_number": "A. 69.545/III-13.951",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/61878",
+  "source_sha256": "4f2a6ed20bee863ef2e7158eeaf931d814f03c2543df8d552a158ba641fe3c64",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
