@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.864",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72864,
+  "decision_date": "1998-03-31",
+  "date_as_printed": "31 mars 1998",
+  "chamber": "VI",
+  "role_number": "A. 77.977/VI-14.474",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72864",
+  "source_sha256": "3f6ca0ec62fd3c1e80d54e14fee82b6c9c57dfa6adccdce60a13ea6ca8f7a104",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
