@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.975",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58975,
+  "decision_date": "1996-04-03",
+  "date_as_printed": "3 avril 1996",
+  "chamber": "III",
+  "role_number": "A. 66.999/III-22.117",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58975",
+  "source_sha256": "2684d24ef0b5c0ff8def227b4c1eb8571a46f5b3b2339a5094f83629afbdfbf6",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
