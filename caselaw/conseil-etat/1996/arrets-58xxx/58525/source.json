@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 58.525",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 58525,
+  "decision_date": "1996-03-11",
+  "date_as_printed": "11 maart 1996",
+  "chamber": "X",
+  "role_number": "A. 64.964/X-5.603",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/58525",
+  "source_sha256": "8a4764b779c4cb693ac8edcb34c13c58905c3ad8b545e2c51cd46aa3753ca9e2",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
