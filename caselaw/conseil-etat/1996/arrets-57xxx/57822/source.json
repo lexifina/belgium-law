@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 57.822",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 57822,
+  "decision_date": "1996-01-25",
+  "date_as_printed": "25 januari 1996",
+  "chamber": "VII",
+  "role_number": "A. 62.306/VII-13.000",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/57822",
+  "source_sha256": "b3f33bcc33f31d95960c6d59f5092f77427dc610ac3af08c109a9511617d9856",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
