@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.223",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65223,
+  "decision_date": "1997-03-13",
+  "date_as_printed": "13 maart 1997",
+  "chamber": "VII",
+  "role_number": "A. 72.615/VII-15.070",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65223",
+  "source_sha256": "437b4eea676339df2e6f33426350daf4def8b2a9b7ee7b77552fa0726d65371e",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
