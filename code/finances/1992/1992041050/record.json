@@ -1,0 +1,23 @@
+{
+  "id": "1992041050",
+  "act": "code/finances/1992/1992041050",
+  "title": "10 AVRIL 1992. - CODE DES IMPOTS SUR LES REVENUS 1992 (CIR).",
+  "version": "001",
+  "versions_total": 107,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1992-07-30&numac_search=1992041050&page=1&lg_txt=F&caller=list&1992041050=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=1992041050&cn_search=&caller=list&&view_numac=1992041050f",
+  "source_sha256": "82dca4623494fd279f495fc00255f42773e4ac4b178b48662dc03d387033ac85",
+  "source_issuer": "Finances",
+  "made": "1992-04-10",
+  "published": "1992-07-30",
+  "in_force": "1991-04-19",
+  "source_in_force": "1991-04-19",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (1 janvier 1992) and the dated En vigueur notes in its text before this version's end (1992-01-01)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 24,
+  "independent_source_tokens": 9020,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
