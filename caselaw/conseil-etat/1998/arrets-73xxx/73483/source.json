@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.483",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73483,
+  "decision_date": "1998-05-06",
+  "date_as_printed": "6 mei 1998",
+  "chamber": "X",
+  "role_number": "A. 72.115/X-7.058",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73483",
+  "source_sha256": "ba5cfabe90dc061f0b9ab10259b19033c7facfd46e47fd6aaf721099fac596b1",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
