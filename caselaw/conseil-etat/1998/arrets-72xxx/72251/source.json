@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.251",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72251,
+  "decision_date": "1998-03-05",
+  "date_as_printed": "5 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 71.004/XI-1.540",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72251",
+  "source_sha256": "241f8f237ec0024bb5099c0c7dd7dfb203365c0876bc66db23d1bee915d5cff8",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
