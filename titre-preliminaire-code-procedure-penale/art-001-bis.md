@@ -1,0 +1,4 @@
+§ 1er. Conformément au droit international, les poursuites sont exclues à l'égard:
+- des chefs d'Etat, chefs de gouvernement et ministres des Affaires étrangères étrangers, pendant la période où ils exercent leur fonction, ainsi que des autres personnes dont l'immunité est reconnue par le droit international;
+- des personnes qui disposent d'une immunité, totale ou partielle, fondée sur un traité qui lie la Belgique.
+§ 2. Conformément au droit international, nul acte de contrainte relatif à l'exercice de l'action publique ne peut être posé pendant la durée de leur séjour, à l'encontre de toute personne ayant été officiellement invitée à séjourner sur le territoire du Royaume par les autorités belges ou par une organisation internationale établie en Belgique et avec laquelle la Belgique a conclu un accord de siège.
