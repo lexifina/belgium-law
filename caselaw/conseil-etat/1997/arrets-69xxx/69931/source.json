@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.931",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69931,
+  "decision_date": "1997-12-02",
+  "date_as_printed": "2 december 1997",
+  "chamber": "VII",
+  "role_number": "A. 76.421/VII-16.104",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69931",
+  "source_sha256": "5920599673529f03bf0eb20308946150ae605cfcc67aabcc1c262742fe09f1a4",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
