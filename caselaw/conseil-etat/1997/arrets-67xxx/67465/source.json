@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.465",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67465,
+  "decision_date": "1997-07-10",
+  "date_as_printed": "10 juli 1997",
+  "chamber": "X",
+  "role_number": "A. 68.295/X-6.420",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67465",
+  "source_sha256": "4be872170876110298b027956a0582abf80251a6e84a13af1889ad33f0ec2d8d",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
