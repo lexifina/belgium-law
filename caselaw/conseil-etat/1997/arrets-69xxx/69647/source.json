@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.647",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69647,
+  "decision_date": "1997-11-18",
+  "date_as_printed": "18 november 1997",
+  "chamber": "XII",
+  "role_number": "A. 38.566/XII-68",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69647",
+  "source_sha256": "8aa19267c57c4cd2d0f1a9a4da994e08e22eae3aab47d5998d41ce02a6e8f9bb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
