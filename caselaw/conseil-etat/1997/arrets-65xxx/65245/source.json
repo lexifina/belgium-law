@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.245",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65245,
+  "decision_date": "1997-03-04",
+  "date_as_printed": "4 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 71.604/III-22.713",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65245",
+  "source_sha256": "04e51c2be775a582ac980baf31d3551c7ab1914c1d376f38c5f6d4237d719e6f",
+  "pages": 4,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
