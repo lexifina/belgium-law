@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.685",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69685,
+  "decision_date": "1997-11-19",
+  "date_as_printed": "19 november 1997",
+  "chamber": "X",
+  "role_number": "A. 65.337/X-7.015",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69685",
+  "source_sha256": "0e217ec83470996e37887518ec39305c3cb8e8fb7a730363166051119a0aff7b",
+  "pages": 8,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
