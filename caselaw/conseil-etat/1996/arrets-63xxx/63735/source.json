@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 63.735",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 63735,
+  "decision_date": "1996-12-20",
+  "date_as_printed": "20 décembre 1996",
+  "chamber": "III",
+  "role_number": "A. 70.599/III-22.466",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/63735",
+  "source_sha256": "e177fdd2867a89454cca00d0297acb58c9990ff44ae4149b39d6fa97a7ff8acb",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
