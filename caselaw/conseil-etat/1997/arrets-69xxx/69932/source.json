@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 69.932",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 69932,
+  "decision_date": "1997-12-02",
+  "date_as_printed": "2 décembre 1997",
+  "chamber": "XI",
+  "role_number": "A. 65.590/XI-3.399",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/69932",
+  "source_sha256": "06371235df0a6c64b3d5dc5f9dc84d079a470fe82447318bbec95df9bdee406c",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
