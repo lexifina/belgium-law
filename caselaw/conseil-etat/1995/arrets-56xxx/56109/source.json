@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 56.109",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 56109,
+  "decision_date": "1995-10-31",
+  "date_as_printed": "31 octobre 1995",
+  "chamber": "III",
+  "role_number": "A. 66.116/III-22.023",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/56109",
+  "source_sha256": "3abd78d8dc5cf3a259a20df0db74e0bac89d7e108e7fde5624384186c6777371",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
