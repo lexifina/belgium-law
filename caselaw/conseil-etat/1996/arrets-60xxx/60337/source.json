@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 60.337",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 60337,
+  "decision_date": "1996-06-20",
+  "date_as_printed": "20 juni 1996",
+  "chamber": "VII",
+  "role_number": "A. 64.968/VII-13.325",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/60337",
+  "source_sha256": "53851b6f6a2b52225b114bfe2887ce0bff13a9c106e68c78264e488f2cbf640c",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
