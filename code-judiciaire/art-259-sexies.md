@@ -12,5 +12,8 @@ En l'absence d'avis dans le délai prescrit pour chaque candidat, il n'est pas t
 § 2. Les juges d'instruction, les juges des saisies et les juges de la jeunesse sont désignés pour une période d'un an renouvelable après évaluation, la première fois pour une période de deux ans, puis chaque fois pour une période de cinq ans.
 Les juges d'appel de la jeunesse sont désignés pour une période de trois ans qui, après évaluation, peut être renouvelée chaque fois pour une période de cinq ans.
 Les magistrats d'assistance et les magistrats fédéraux sont désignés pour une période de cinq ans, laquelle peut, après évaluation, être renouvelée deux fois.
+(Si, au moment de sa désignation, le magistrat fédéral exerçait la fonction de magistrat du ministère public près une cour, il peut être pourvu au remplacement par une nomination et, le cas échéant, une désignation en surnombre.)
 § 3. Lorsqu'un mandat spécifique n'est pas renouvelé, la procédure visée au § 1er est entamée.
-A l'expiration de leur mandat, le magistrat d'assistance et le magistrat fédéral réintègrent la fonction à laquelle ils sont nommés et, le cas échéant, le mandat adjoint auquel ils sont désignés à titre définitif.
+(A l'expiration de leur mandat, le magistrat d'assistance et le magistrat fédéral réintègrent la fonction à laquelle ils sont nommés et, le cas échéant, le mandat adjoint auquel ils sont désignés.
+S'ils n'ont pas été désignés à titre définitif à un mandat adjoint, celui-ci est suspendu pour la durée de ces mandats spécifiques.
+Le mandat spécifique de magistrat d'assistance ou de magistrat fédéral s'achève lorsque l'intéressé accepte une mission visée aux articles 308, 323bis, 327 et 327bis.)

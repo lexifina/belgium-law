@@ -2,7 +2,7 @@
 Cette chambre nationale est établie à Bruxelles.
 Il est établi dans le ressort de chaque cour d'appel une chambre de recours, qui est saisie des réclamations introduites contre les avis donnés dans le cadre des procédures de nomination ainsi que contre les bulletins d'évaluation par les membres des greffes, par les membres des secrétariats de parquet, (...), par le personnel des greffes et des secrétariats de parquet et par les membres du personnel titulaires des grades crées par le Roi, conformément à l'article 185, alinéa 1er.
 Cette chambre est établie au siège de la cour d'appel.
-La chambre de recours établie dans le ressort de la cour d'appel de Bruxelles est également compétente pour les réclamations introduites par les personnes visées à l'alinéa trois qui exercent leurs fonctions au greffe de la Cour de cassation et au parquet de cette cour.
+La chambre de recours établie dans le ressort de la cour d'appel de Bruxelles est également competente pour les réclamations introduites par les personnes visées à l'alinéa trois qui exercent leurs fonctions au greffe de la Cour de cassation et au parquet de cette cour (et au parquet fédéral).
 Ces chambres comprennent autant de sections qu'il y a de régimes linguistiques parmi les membres du personnel qui peuvent demander à être entendus.
 Le régime linguistique du requérant détermine la section devant laquelle il comparaît.
 § 2. La chambre de recours nationale est composée, par section:
