@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.753",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67753,
+  "decision_date": "1997-08-29",
+  "date_as_printed": "29 août 1997",
+  "chamber": "III",
+  "role_number": "A. 62.749/III-20.556",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67753",
+  "source_sha256": "710339b7d3666a7e48bea6725d5c0e42deaad6ba98b66ed30bc926998f7ec541",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
