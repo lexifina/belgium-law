@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.930",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73930,
+  "decision_date": "1998-05-28",
+  "date_as_printed": "28 mei 1998",
+  "chamber": "VII",
+  "role_number": "A. 44.689/VII-10.209",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73930",
+  "source_sha256": "099ec05f970514f1e563316820273f3c7467ff978bea6f6557a678206f02c43e",
+  "pages": 7,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
