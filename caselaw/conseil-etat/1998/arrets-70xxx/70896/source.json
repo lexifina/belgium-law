@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 70.896",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 70896,
+  "decision_date": "1998-01-20",
+  "date_as_printed": "20 januari 1998",
+  "chamber": "XII",
+  "role_number": "A. 49.855/XII-374",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/70896",
+  "source_sha256": "c4431b8557f5e42d2bfe8aadb123f39d4db3c5a1fe2b944ab13a0af152854c06",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
