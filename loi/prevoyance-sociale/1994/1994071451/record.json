@@ -1,0 +1,23 @@
+{
+  "id": "1994071451",
+  "act": "loi/prevoyance-sociale/1994/1994071451",
+  "title": "14 JUILLET 1994. - Loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994. Partie 1. : TEXTE.",
+  "version": "001",
+  "versions_total": 353,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=1994-08-27&numac_search=1994071451&page=1&lg_txt=F&caller=list&1994071451=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=1994071451&cn_search=&caller=list&&view_numac=1994071451f",
+  "source_sha256": "8a7881bbc9f964c5e47eb657135db453e88911558865f3532c2cecd1c413738f",
+  "source_issuer": "Prévoyance Sociale",
+  "made": "1994-07-14",
+  "published": "1994-08-27",
+  "in_force": "1994-09-06",
+  "source_in_force": "1994-09-06",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (6 septembre 1994) and the dated En vigueur notes in its text before this version's end (1994-09-10)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 11,
+  "independent_source_tokens": 6936,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
