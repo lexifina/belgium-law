@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 73.922",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 73922,
+  "decision_date": "1998-05-27",
+  "date_as_printed": "27 mai 1998",
+  "chamber": "XIII",
+  "role_number": "A. 66.731/XIII-382",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/73922",
+  "source_sha256": "323e9809909fcfad7706949e204d7002cc1099b790037cf16f4a23eaa2ed4b0e",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
