@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.303",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65303,
+  "decision_date": "1997-03-18",
+  "date_as_printed": "18 mars 1997",
+  "chamber": "III",
+  "role_number": "A. 66.421/III-22.114",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65303",
+  "source_sha256": "c923f999c3ee31fea3fa6dd197dd69c8f421315e6b3ef46e9ad273d65909cdb8",
+  "pages": 3,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
