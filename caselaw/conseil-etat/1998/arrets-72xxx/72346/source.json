@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.346",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72346,
+  "decision_date": "1998-03-10",
+  "date_as_printed": "10 mars 1998",
+  "chamber": "XI",
+  "role_number": "A. 50.685/XI-2.645",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72346",
+  "source_sha256": "766e16cedf76677320da2a6bcd2a9e0dada91127b71874c583f51803042b731d",
+  "pages": 5,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
