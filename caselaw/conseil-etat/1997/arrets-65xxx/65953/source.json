@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 65.953",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 65953,
+  "decision_date": "1997-04-21",
+  "date_as_printed": "21 april 1997",
+  "chamber": "X",
+  "role_number": "A. 69.619/X-88",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/65953",
+  "source_sha256": "7dedb8dd9fcb99be496d72b1a1c4ffd963e2a42127d596ba48db211b6993bdb8",
+  "pages": 11,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
