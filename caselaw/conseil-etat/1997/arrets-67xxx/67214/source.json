@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 67.214",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 67214,
+  "decision_date": "1997-06-30",
+  "date_as_printed": "30 juni 1997",
+  "chamber": "IV",
+  "role_number": "A. 73.655/IV-371",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/67214",
+  "source_sha256": "10cd1b5d8c60ed246e245fac1214cf3146b6a5070dec099550d15e1a2d640d79",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
