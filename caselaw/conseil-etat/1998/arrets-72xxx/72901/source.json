@@ -1,0 +1,18 @@
+{
+  "title": "Arrêt 72.901",
+  "court": "Conseil d'État / Raad van State",
+  "decision_type": "arrêt",
+  "number": 72901,
+  "decision_date": "1998-04-01",
+  "date_as_printed": "1er avril 1998",
+  "chamber": "VI",
+  "role_number": "A. 76.814/VI-14.416",
+  "subject": "",
+  "source": "https://www.raadvst-consetat.be/arrets/72901",
+  "source_sha256": "ff2865e707001da6f65f87ac0c0dd0ab0d8b81266e7be36063fcb53fa9b1e4e1",
+  "pages": 6,
+  "listing": "https://www.raadvst-consetat.be/fr/recherche/arrets",
+  "record_type": "published court decision",
+  "scope": "text-layer extraction of the official PDF",
+  "text_layer": "pdftotext -enc UTF-8 -layout"
+}
