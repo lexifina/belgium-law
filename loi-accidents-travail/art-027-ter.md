@@ -1,1 +1,1 @@
-Pour les accidents survenus avant le 1er janvier 1988, l'indexation et les allocations visées à l'article 27bis (et, pour les accidents visés à l'article 45quater, alinéas premier et deux,) sont à charge du Fonds des accidents du travail.
+Pour les accidents survenus avant le 1er janvier 1988, l'indexation et les allocations visées à l'article 27bis (et, pour les accidents visés à l'article 45quater, les allocations fixées par le Roi,) sont à charge du Fonds des accidents du travail.

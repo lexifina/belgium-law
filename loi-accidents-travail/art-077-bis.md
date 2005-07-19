@@ -1,1 +1,3 @@
-_
+Le marin de la pêche maritime, victime d'un accident du travail, continue à bénéficier de l'intégralité de ses gages et du droit au rapatriement aux frais du navire dans les conditions et limites fixées par la législation portant réglementation du contrat d'engagement maritime.
+A partir du jour où ces dispositions ne lui sont plus applicables, il est indemnisé conformément aux dispositions de la présente loi.
+Les frais médicaux, chirurgicaux, pharmaceutiques et hospitaliers, ainsi que les frais de déplacement, nécessités par l'accident, survenu à un pêcheur de la pêche maritime, sont à charge du Fonds des accidents du travail.
