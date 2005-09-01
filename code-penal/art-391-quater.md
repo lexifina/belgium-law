@@ -1,0 +1,2 @@
+Sera puni d'un emprisonnement d'un mois à un an et d'une amende de vingt-six euros à cinq cents euros ou d'une de ces peines seulement quiconque aura, dans une intention frauduleuse, obtenu ou tenté d'obtenir pour lui-même une adoption contrevenant aux dispositions de la loi.
+En cas de récidive dans les trois ans qui suivent un jugement de condamnation coulé en force de chose jugée du chef d'une infraction à l'alinéa premier, ces peines pourro nt être portées au double.
