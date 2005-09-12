@@ -1,0 +1,2 @@
+Dans les cas visés aux articles 77ter, 77quater et 77quinquies, les coupables seront en outre condamnés à l'interdiction des droits énoncés à l'article 31 du Code pénal.
+La confiscation spéciale prévue à l'article 42, 1°, du Code pénal est appliquée aux coupables des infractions visées par les articles 77bis à 77quinquies, même lorsque la propriété des choses sur lesquelles elle porte n'appartient pas au condamné, sans que cette confiscation puisse cependant porter préjudice aux droits des tiers sur les biens susceptibles de faire l'objet de la confiscation.
