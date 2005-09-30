@@ -1,2 +1,1 @@
-§ 1er. Le Roi détermine la manière dont le médiateur en matière familiale sera rétribué pour ses prestations, le mode selon lequel le médiateur en matière familiale taxe la rétribution ainsi que la manière dont les parties en sont informées.
-§ 2. Le juge fixe le montant de la provision à valoir sur la rétribution du médiateur en matière familiale. La provision est à charge des parties à parts égales, sauf si les parties en décident autrement.
+(Abrogé)
