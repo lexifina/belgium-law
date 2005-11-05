@@ -1,0 +1,1 @@
+Le président du tribunal du travail statue sur les demandes formées en vertu de l'article 3 de la loi du 17 septembre 2005 portant des dispositions diverses en ce qui concerne l'institution d'un groupe spécial de négociation, d'un organe de représentation et de procédures relatives à l'implication des travailleurs au sein de la Société européenne.
