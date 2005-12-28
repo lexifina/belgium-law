@@ -1,2 +1,1 @@
-Les prochaines élections des (Parlements), conformément aux dispositions des articles 115, § 2, 116, § 2, 118 et 119, à l'exclusion de l'article 117, auront lieu le même jour que les prochaines élections générales de la Chambre des représentants. Les élections suivantes des (Parlements), conformément aux articles 115, § 2, 116, § 2, 118 et 119, auront lieu le même jour que les deuxièmes élections du Parlement européen suivant l'entrée en vigueur des articles 115, § 2, 118, 120, 121, § 2, 123 et 124.
-Jusqu'aux prochaines élections pour la Chambre des représentants, les articles 116, § 2, 117 et 119 ne sont pas d'application.
+(Abrogé)
