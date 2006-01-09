@@ -469,10 +469,10 @@ Cette retenue est effectuée :
 a) sur le pécule de vacances accordé aux agents visés à l'alinéa 1er;
 b) sur la prime Copernic accordée aux agents des administrations de l'Etat visés à l'article 1er;
 c) sur la prime de restructuration accordée à certains militaires visés à l'alinéa 1er.
-§ 2. Le produit de la retenue visée au paragraphe 1er est affecté au Fonds pour l'équilibre des régimes de pensions.
-Le produit de la retenue visée à l'alinéa 1er doit parvenir au Fonds pour l'équilibre des régimes de pensions au plus tard le cinquième jour ouvrable qui suit le jour du paiement aux personnes intéressées de l'avantage soumis à la retenue.
-Si l'employeur reste en défaut de satisfaire à l'obligation prévue à l'alinéa 2, il est de plein droit redevable envers le Trésor public d'intérêts de retard sur les sommes non versées. Ces intérêts, dont le taux est à tout moment égal au taux de l'intérêt légal augmenté de 2 p.c., commencent à courir le sixième jour ouvrable qui suit le jour du paiement aux personnes intéressées de l'avantage soumis à la retenue.
-Le produit de ces intérêts est affecté au Fonds pour l'équilibre des régimes de pensions.
+§ 2. (Le produit de la retenue visée au § 1er est affecté au Service des Pensions du Secteur public et est destiné au financement des pensions à charge du Trésor public). &lt;L 2006-01-12/45, art. 42, 1°, 069 ; <b> En vigueur : </b> 01-01-2006&gt;
+Le produit de la retenue visée à l'alinéa 1er doit parvenir au (Service de Pensions du Secteur public) au plus tard le cinquième jour ouvrable qui suit le jour du paiement aux personnes intéressées de l'avantage soumis à la retenue. &lt;L 2006-01-12/45, art. 42, 2°, 069 ; <b> En vigueur : </b> 01-01-2006&gt;
+Si l'employeur reste en défaut de satisfaire à l'obligation prévue à l'alinéa 2, il est de plein droit redevable envers le (Service de Pensions du Secteur public) d'intérêts de retard sur les sommes non versées. Ces intérêts, dont le taux est à tout moment égal au taux de l'intérêt légal augmenté de 2 p.c., commencent à courir le sixième jour ouvrable qui suit le jour du paiement aux personnes intéressées de l'avantage soumis à la retenue. &lt;L 2006-01-12/45, art. 42, 2°, 069 ; <b> En vigueur : </b> 01-01-2006&gt;
+Le produit de ces intérêts est affecté au (Service de Pensions du Secteur public). &lt;L 2006-01-12/45, art. 42, 2°, 069 ; <b> En vigueur : </b> 01-01-2006&gt;
 
 <a name="Art.40" href="#Art.39quater">Art.</a> <a href="#Art.41"> 40</a>. En attendant la promulgation des lois et des arrêtés particuliers visés par la présente loi, les lois et arrêtés en vigueur, relatifs aux matières concernées, restent d'application.
 
