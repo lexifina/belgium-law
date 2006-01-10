@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2006:ARR.20060110.11",
+  "ecli": "ECLI:BE:CASS:2006:ARR.20060110.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2006-01-10",
+  "date_as_printed": "Vonnis/arrest van 10 januari 2006",
+  "published_on_juportal": "2006-06-01",
+  "language": "nl",
+  "role_number": "P.05.1409.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Suspension",
+    "VERJARING - STRAFZAKEN - Strafvordering - Schorsing",
+    "Introduction de l'action publique devant la juridiction de jugement - Remise de l'instruction en vue d'une éventuelle disqualification - Conséquence",
+    "Inleiding van de strafvordering voor het vonnisgerecht - Uitstel van de behandeling met het oog op mogelijke herkwalificatie - Gevolg"
+  ],
+  "fiche": [
+    "VERJARING - STRAFZAKEN - Strafvordering - Schorsing",
+    "Inleiding van de strafvordering voor het vonnisgerecht - Uitstel van de behandeling met het oog op mogelijke herkwalificatie - Gevolg",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 24, eerste lid, 1°, tweede streepje - 01 ELI link Pub nr 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2006:ARR.20060110.11",
+  "source_sha256": "676f429529b93401e897efc6dbcd32ef43d408e8a0c2b733b8203a06cb1e4883",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2006:ARR.20060110.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
