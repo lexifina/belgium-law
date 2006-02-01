@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2006:ARR.20060201.5",
+  "ecli": "ECLI:BE:CASS:2006:ARR.20060201.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2006-02-01",
+  "date_as_printed": "Jugement/arrêt du 01 février 2006",
+  "published_on_juportal": "2006-06-02",
+  "language": "fr",
+  "role_number": "P.05.1355.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "POLICE",
+    "POLITIE",
+    "Procès-verbal - Constatations réalisées par un fonctionnaire de police en dehors de l'exercice de ses fonctions - Validité",
+    "PREUVE - MATIERE REPRESSIVE - Preuve littérale - Généralités",
+    "BEWIJS - STRAFZAKEN - Geschriften - Algemeen",
+    "Fonctionnaire de police - Police fédérale et police locale - Pouvoir - Recherche et constatation des infractions - Police de la circulation routière - Compétence territoriale",
+    "ROULAGE - DIVERS",
+    "WEGVERKEER - ALLERLEI",
+    "Proces-verbaal - Vaststellingen door een politieambtenaar buiten de uitoefening van zijn ambt - Geldigheid",
+    "Politieambtenaar - Federale en lokale politie - Bevoegdheid - Opsporing en vaststelling van misdrijven - Politie over het wegverkeer - Territoriale bevoegdheid"
+  ],
+  "fiche": [
+    "POLICE",
+    "Procès-verbal - Constatations réalisées par un fonctionnaire de police en dehors de l'exercice de ses fonctions - Validité",
+    "PREUVE - MATIERE REPRESSIVE - Preuve littérale - Généralités",
+    "Procès-verbal - Constatations réalisées par un fonctionnaire de police en dehors de l'exercice de ses fonctions - Validité",
+    "POLICE",
+    "Fonctionnaire de police - Police fédérale et police locale - Pouvoir - Recherche et constatation des infractions - Police de la circulation routière - Compétence territoriale",
+    "ROULAGE - DIVERS",
+    "Fonctionnaire de police - Police fédérale et police locale - Pouvoir - Recherche et constatation des infractions - Police de la circulation routière - Compétence territoriale",
+    "POLICE",
+    "Procès-verbal - Constatations réalisées par un fonctionnaire de police en dehors de l'exercice de ses fonctions - Validité",
+    "PREUVE - MATIERE REPRESSIVE - Preuve littérale - Généralités",
+    "Procès-verbal - Constatations réalisées par un fonctionnaire de police en dehors de l'exercice de ses fonctions - Validité",
+    "POLICE",
+    "Fonctionnaire de police - Police fédérale et police locale - Pouvoir - Recherche et constatation des infractions - Police de la circulation routière - Compétence territoriale",
+    "ROULAGE - DIVERS",
+    "Fonctionnaire de police - Police fédérale et police locale - Pouvoir - Recherche et constatation des infractions - Police de la circulation routière - Compétence territoriale"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2006:ARR.20060201.5",
+  "source_sha256": "a43f38eddd2a72c2824d82863a9cb4b9776ccbe05f86fd4065ce59dd429264ad",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2006:ARR.20060201.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
