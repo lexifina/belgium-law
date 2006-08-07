@@ -1,0 +1,2 @@
+Les dispositions du chapitre III, sections 1re et 2 et 4 à 7 ne sont pas applicables au personnel navigant occupé à des travaux de transport par air.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, et dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa 1er applicables en tout ou en partie au personnel navigant occupé à des travaux de transport par air. Le Roi peut également introduire des dispositions spécifiques pour cette catégorie de travailleurs.
