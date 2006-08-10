@@ -1,0 +1,1 @@
+La personne qui ne bénéficie pas de revenus insuffisants au sens de l'article 667, peut néanmoins bénéficier de l'assistance judiciaire si elle apporte la preuve qu'elle ne peut pas faire face aux frais en raison de la différence du coût de la vie entre l'Etat membre dans lequel elle a son domicile ou sa résidence habituelle et la Belgique.

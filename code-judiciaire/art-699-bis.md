@@ -1,0 +1,1 @@
+Pour ce qui concerne les affaires transfrontalières au sens de la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l'accès à la justice dans les affaires transfrontalières par l'établissement de règles minimales communes relatives à l'aide judiciaire accordée dans le cadre de telles affaires, l'article 508/24 est applicable par analogie.
