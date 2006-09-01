@@ -1,6 +1,6 @@
-§ 1. Sans préjudice des articles 269 à 274 du Code pénal, sont punis d'un emprisonnement de huit jours à un mois et d'une amende de 1 000 à 10 000 francs ou d'une de ces peines seulement:
+§ 1er. Sans préjudice des articles 269 à 274 du Code pénal, sont punis d'un emprisonnement de huit jours à un mois et d'une amende de 1 000 à 10 000 francs ou d'une de ces peines seulement:
 1° les administrateurs, commissaires, directeurs, gérants ou mandataires d'entreprise d'assurances (...) qui sciemment et volontairement ont fait des déclarations inexactes aux agents visés à l'article 87 ou qui ont refusé de fournir les renseignements demandés en exécution de la présente loi et de ses arrêtés d'exécution;
 2° les administrateurs, commissaires, directeurs, gérants ou mandataires d'entreprise d'assurances (...) qui ne se sont pas conformés aux obligations qui leur sont imposées par ou en vertu de la présente loi;
 3° les administrateurs, commissaires, directeurs, gérants ou mandataires d'une entreprise d'assurances (...) et tous ceux qui, en qualité d'intermédiaire d'assurances, ont participé à la conclusion ou à l'exécution d'un contrat contraire aux dispositions de la présente loi et de ses arrêtés d'exécution.
 § 2. Les intermédiaires d'assurances qui font obstacle à la surveillance organisée par la présente loi sont punis dans les conditions prévues par l'article 15, § 3, de la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances.
-(§ 3. Les infractions à l'article 58quater sont punies d'un emprisonnement de 8 jours à 6 mois et d'une amende de 500 à 25.000 euros ou d'une de ces peines seulement.)
+§ 3. Les infractions aux articles 88ter et 88 quater sont punies des peines prévues à l'article 458 du Code pénal.
