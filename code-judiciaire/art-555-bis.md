@@ -1,0 +1,1 @@
+Par dérogation aux articles 513 et 516, les huissiers de justice qui ont leur résidence dans l'arrondissement judiciaire de Verviers ou dans celui d'Eupen, peuvent dresser tous exploits dans les deux arrondissements précités.
