@@ -1,8 +1,561 @@
-<a name="LNK0001" href="#LNKR0001">Section 2.</a> Du fonctionnement.
+<a name="LNK0001" href="#LNKR0001">TITRE PREMIER.</a> _ DISPOSITIONS PRELIMINAIRES.
 
-<a name="LNK0002" href="#LNKR0002">Sous-section première.</a> _ Dispositions communes.
+<a name="Art.1"></a>Article <a href="#Art.2"> 1</a>. § 1. Le (Parlement) et (le Gouvernement) de la Communauté flamande, ci-après dénommés "(Le Parlement flamand)" et "(le Gouvernement flamand)", sont compétents pour les matières visées à l'article 59bis de la Constitution. &lt;L 2006-03-27/33, art. 2, A et B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Ils exercent dans la Région flamande les compétences des organes régionaux pour les matières visées à l'article 107quater de la Constitution, dans les conditions et selon le mode déterminés par la présente loi. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. Le (Parlement) et (le Gouvernement de la Communauté française), ci-après dénommés "(Le Parlement de la Communauté française)" et "(le Gouvernement de la Communauté française)", sont compétents pour les matières visées à l'article 59bis de la Constitution. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A et B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 3. Il y a pour la Région wallonne un (Parlement) et un (Gouvernement), ci-après dénommés "(Le Parlement wallon)" et "(le Gouvernement) régional wallon" qui sont compétents pour les matières visées à l'article 107quater de la Constitution, dans la Région wallonne. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A et B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 4. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="Art.32">Art.</a> <a href="#Art.33"> 32</a>. &lt;NOTE : le présent article est modifié par l'article 53bis.&gt; § 1. (Le Parlement flamand) et (le Parlement de la Communauté française) se réunissent de plein droit chaque année, le troisième mardi d'octobre. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+<a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Le territoire des Région wallonne et flamande est, (...), fixé comme suit : &lt;L 1989-01-12/30, art. 2, § 2, 003; <b> En vigueur : </b> 1989-01-01&gt;
+La Région flamande comprend le territoire des provinces d'Anvers, de Flandre occidentale, de Flandre orientale et de Limbourg, ainsi que le territoire des arrondissements administratifs de Hal-Vilvorde et de Louvain.
+La Région wallonne comprend le territoire des provinces de Hainaut, de Liège, de Luxembourg et de Namur, ainsi que le territoire de l'arrondissement administratif de Nivelles.
+Par le territoire des provinces et arrondissements énumérés ci-dessus, il faut entendre le territoire de ces provinces et arrondissements tel qu'il existait au 1er octobre 1979.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0002"> 3</a>. La Communauté française, la Communauté flamande, la Région wallonne et la Région flamande ont la personnalité juridique.
+En ce qui concerne (...) la Région flamande (...), les attributs de la personnalité juridique sont exercés conformément à la présente loi, en particulier à l'article 1er. &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="LNK0002" href="#LNKR0002">TITRE II.</a> _ DES COMPETENCES.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Les matières culturelles visées à l'article 59bis, § 2, 1°, de la Constitution sont :
+1° La défense et l'illustration de la langue;
+2° L'encouragement à la formation des chercheurs;
+3° Les beaux-arts;
+4° Le patrimoine culturel, les musées et les autres institutions scientifiques culturelles (à l'exception des monuments et des sites); &lt;L 1988-08-08/30, art. 1, § 1, 002; <b> En vigueur : </b> 1989-01-01&gt;
+5° Les bibliothèques, discothèques et services similaires;
+6° La radiodiffusion et la télévision, à l'exception de l'émission de communications du ((Gouvernement fédéral)) (...); &lt;L 1988-08-08/30, art. 1, § 2, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+(6°bis Le soutien à la presse écrite;) &lt;L 1988-08-08/30, art. 1, § 3, 002; <b> En vigueur : </b> 1989-01-01&gt;
+7° La politique de la jeunesse;
+8° L'éducation permanente et l'animation culturelle;
+9° L'éducation physique, les sports et la vie en plein air;
+10° Les loisirs et le tourisme;
+11° La formation préscolaire dans les prégardiennats;
+12° La formation postscolaire et parascolaire;
+13° La formation artistique;
+14° La formation intellectuelle, morale et sociale;
+15° La promotion sociale;
+16° La reconversion et le recyclage professionnels, à l'exception des règles relatives à l'intervention dans les dépenses inhérentes à la sélection, la formation professionnelle et la réinstallation du personnel recruté par un employeur en vue de la création d'une entreprise, de l'extension ou de la reconversion de son entreprise;
+17° (abrogé) &lt;L 1988-08-08/30, art. 16, 002; <b> En vigueur : </b> 1989-01-01&gt;
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. § 1. Les matières personnalisables visées à l'article 59bis, § 2bis, de la Constitution, sont :
+I. En ce qui concerne la politique de santé :
+1° La politique de dispensation de soins dans et au dehors des institutions de soins, à l'exception :
+a) de la législation organique;
+b) du financement de l'exploitation, lorsqu'il est organisé par la législation organique;
+c)de l'assurance maladie-invalidité;
+d) des règles de base relatives à la programmation;
+e) des règles de base relatives au financement de l'infrastructure, en ce compris l'appareillage médical lourd;
+f) des normes nationales d'agréation uniquement dans la mesure où celles-ci peuvent avoir une répercussion sur les compétences visées aux b), c), d) et e) ci-dessus;
+g) de la détermination des conditions et de la désignation comme hôpital universitaire conformément à la législation sur les hôpitaux.
+2° L'éducation sanitaire ainsi que les activités et services de médecine préventive, à l'exception des mesures prophylactiques nationales.
+II. En matière d'aide aux personnes :
+1° La politique familiale en ce compris toutes les formes d'aide et d'assistance aux familles et aux enfants.
+2° (La politique d'aide sociale, en ce compris les règles organiques relatives aux centres publics d'aide sociale, à l'exception :
+a) de la fixation du montant minimum, des conditions d'octroi et du financement du revenu légalement garanti, conformément à la législation instituant le droit à un minimum de moyens d'existence;
+b) des matières relatives aux centres publics d'aide sociale, réglées par les articles 1er et 2 et dans les chapitres IV, V et VII de la loi organique du 8 juillet 1976 relative aux centres publics d'aide sociale sans préjudice de la compétence des Communautés d'octroyer des droits supplémentaires ou complémentaires;
+c) des matières relatives aux centres publics d'aide sociale réglées dans la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les commissions d'assistance publique;
+d) des règles relatives aux centres publics d'aide sociale des communes visées aux articles 6 et 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et des communes de Comines-Warneton et Fourons, inscrites dans les articles 6, § 4, 11, § 5, 18ter, 27, § 4, et 27bis, § 1er, dernier alinéa, de la loi organique du 8 juillet 1976 relative aux centres publics d'aide sociale et dans la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les Chambres législatives et les conseils provinciaux.) &lt;L 1993-07-16/30, art. 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+3° La politique d'accueil et d'intégration des immigrés.
+4° La politique des handicapés, en ce compris la formation, la reconversion et le recyclage professionnels des handicapés, à l'exception :
+a) des règles et du financement des allocations aux handicapés en ce compris les dossiers individuels;
+b) des règles relatives à l'intervention financière pour la mise au travail de travailleurs handicapés, octroyée aux employeurs occupant des handicapés.
+5° La politique du troisième âge à l'exception de la fixation du montant minimum, des conditions d'octroi et du financement du revenu légalement garanti aux personnes âgées.
+6° (La protection de la jeunesse, en ce compris la protection sociale et la protection judiciaire, à l'exception :
+a) des règles du droit civil relatives au statut des mineurs et de la famille, telles qu'elles sont établies par le Code civil et les lois qui le complètent;
+b) des règles de droit pénal érigeant en infraction les comportements qui contreviennent à la protection de la jeunesse et établissant des peines qui punissent ces manquements, en ce compris les dispositions qui ont trait aux poursuites, sans préjudice de l'article 11;
+c) de l'organisation des juridictions de la jeunesse, de leur compétence territoriale et de la procédure devant ces juridictions;
+d) de la détermination des mesures qui peuvent être prises à l'égard des mineurs ayant commis un fait qualifié d'infraction;
+e) de la déchéance de l'autorité parentale et de la tutelle sur les prestations familiales ou autres allocations sociales.) &lt;L 1988-08-08/30, art. 2, 002; <b> En vigueur : </b> 1989-01-01&gt;
+(7° L'aide sociale aux détenus, en vue de leur réinsertion sociale.) &lt;L 1988-08-08/30, art. 3, 002; <b> En vigueur : </b> 1988-08-23&gt;
+III. (abrogé) &lt;L 1988-08-08/30, art. 16, 002; <b> En vigueur : </b> 1989-01-01&gt;
+§ 2. Les (Gouvernements de Communauté) informent l'(autorité fédérale) compétente de leurs décisions en matière d'agréation, de fermeture et d'investissements concernant les matières visées au § 1er, I, 1°. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. Il est institué un organe de concertation de la politique de santé dans la région bilingue de Bruxelles-Capitale.
+Cet organe de concertation regroupe les représentants des (Gouvernements de Communauté) et de l'(autorité fédérale) compétente. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Sa composition et ses missions sont fixées par arrêté royal délibéré en Conseil des Ministres. Cet arrêté royal veillera à la présence de représentants de la région bilingue de Bruxelles-Capitale.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.6bis"> 6</a>. § 1. Les matières visées à l'article 107quater de la Constitution sont :
+I. En ce qui concerne l'aménagement du territoire :
+1° L'urbanisme et l'aménagement du territoire;
+2° Les plans d'alignement de la voirie communale;
+3° L'acquisition, l'aménagement, l'équipement de terrains à l'usage de l'industrie, de l'artisanat et des services, ou d'autres infrastructures d'accueil aux investisseurs, y compris les investissements pour l'équipement des zones industrielles avoisinant les ports et leur mise à la disposition des utilisateurs;
+4° La rénovation urbaine;
+5° La rénovation des sites d'activité économique désaffectés;
+6° La politique foncière;
+(7° Les monuments et les sites.) L 1988-08-08/30, art. 4, § 1, 002; <b> En vigueur : </b> 1989-01-01&gt;
+II. (En ce qui concerne l'environnement et la politique de l'eau :
+1° La protection de l'environnement, notamment celle du sol, du sous-sol, de l'eau et de l'air contre la pollution et les agressions ainsi que la lutte contre le bruit;
+2° La politique des déchets;
+3° La police des établissements dangereux, insalubres et incommodes sous réserve des mesures de police interne qui concernent la protection du travail;
+4° La protection et la distribution d'eau, en ce compris la réglementation technique relative à la qualité de l'eau potable, l'épuration des eaux usées et l'égouttage.
+L'autorité fédérale est toutefois compétente pour :
+1° L'établissement des normes de produits;
+2° La protection contre les radiations ionisantes, en ce compris les déchets radioactifs;
+3° Le transit des déchets.) &lt;L 1993-07-16/30, art. 2, § 1, 006; <b> En vigueur : </b> 1994-05-07&gt;
+III. En ce qui concerne la rénovation rurale et la conservation de la nature :
+1° Le remembrement des biens ruraux et la rénovation rurale;
+2° La protection et la conservation de la nature, à l'exception de l'importation, de l'exportation et du transit des espèces végétales non indigènes, ainsi que des espèces animales non indigènes et de leurs dépouilles;
+3° Les zones d'espaces verts, les zones de parcs et les zones vertes;
+4° Les forêts;
+5° La chasse, à l'exception de la fabrication, du commerce et de la détention d'armes de chasse, et la tenderie;
+6° La pêche fluviale;
+7° (La pisciculture;) &lt;L 1988-08-08/30, art. 4, § 5, 002; <b> En vigueur : </b> 1989-01-01&gt;
+8° L'hydraulique agricole et les cours d'eau non navigables (en ce compris leurs berges;) &lt;L 1988-08-08/30, art. 4, § 5, al. 2, 002; <b> En vigueur : </b> 1989-01-01&gt;
+9° Le démergement;
+10° Les polders et les wateringues, (...). &lt;L 1988-08-08/30, art. 4, § 5, al. 3, 002; <b> En vigueur : </b> 1989-01-01&gt;
+IV. En ce qui concerne le logement :
+Le logement et la police des habitations qui constituent un danger pour la propreté et la salubrité publiques.
+(V. La politique agricole et la pêche maritime, sans préjudice de la compétence fédérale afférente :
+1° aux normes relatives à la qualité des matières premières et des produits végétaux, et au contrôle de ces normes, en vue d'assurer la sécurité de la chaîne alimentaire;
+2° aux normes et à leur contrôle relatifs à la santé et au bien-être des animaux, ainsi qu'à la qualité des produits d'origine animale en vue d'assurer la sécurité de la chaîne alimentaire;
+3° aux mesures de remplacement de revenus en cas de cessation anticipée de l'activité d'agriculteurs plus âgés;
+4° au Bureau d'intervention et de restitution belge, étant entendu que les régions disposent en son sein d'une représentation garantie et significative.
+L'accord des gouvernements régionaux concernés est requis pour les mesures de l'autorité fédérale en matière de bien-être des animaux lorsque ces mesures ont une incidence sur la politique agricole.) &lt;L 2001-07-13/34, art. 2, 019; <b> En vigueur : </b> 01-01-2002&gt;
+VI. (En ce qui concerne l'économie :
+1° La politique économique;
+2° Les aspects régionaux de la politique du crédit, en ce compris la création et la gestion des organismes publics de crédit;
+3° (La politique des débouchés et des exportations, sans préjudice de la compétence fédérale :
+a) d'octroyer des garanties contre les risques à l'exportation, à l'importation et à l'investissement; la représentation des régions sera assurée dans les institutions et les organes fédéraux qui fournissent ces garanties;
+b) en matière de politique commerciale multilatérale, sans préjudice de la mise en oeuvre de l'article 92bis, § 4bis.) &lt;L 2001-07-13/34, art. 3, 019; <b> En vigueur : </b> 01-01-2002&gt;
+(4° L'importation, l'exportation et le transit d'armes, de munitions, et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de la technologie y afférente ainsi que des produits et des technologies à double usage, sans préjudice de la compétence fédérale pour l'importation et l'exportation concernant l'armée et la police et dans le respect des critères définis par le Code de conduite de l'Union européenne en matière d'exportation d'armements;) &lt;L 2003-08-12/32, art. 2, 024; <b> En vigueur : </b> 30-08-2003&gt;
+5° Les richesses naturelles.
+Toutefois,
+1° toute réglementation édictée par la Région en ce qui concerne les avantages fiscaux relevant de la fiscalité nationale et attribués en exécution des lois d'expansion économique, est soumise à l'accord de l'(autorité fédérale) compétente; L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+2° (en matière d'expansion économique, le Conseil des ministres peut octroyer, sur proposition du Gouvernement régional concerné, la garantie de l'Etat prévue aux articles 19 à 21 et 22, alinéa 3, e, de la loi du 30 décembre 1970 sur l'expansion économique.) &lt;L 1993-07-16/30, art. 2, § 4, 006; <b> En vigueur : </b> 1993-07-30&gt;
+En matière économique, les Régions exercent leurs compétences dans le respect des principes de la libre circulation des personnes, biens, services et capitaux et de la liberté de commerce et d'industrie, ainsi que dans le respect du cadre normatif général de l'union économique et de l'unité monétaire, tel qu'il est établi par ou en vertu de la loi, et par ou en vertu des traités internationaux.
+A cette fin, l'(autorité fédérale) est compétente pour fixer les règles générales en matière : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° de marchés publics;
+2° de protection des consommateurs;
+3° d'organisation de l'économie;
+4° de plafonds d'aides aux entreprises en matière d'expansion économique, qui ne peuvent être modifiés que de l'accord des Régions.
+L'(autorité fédérale) est, en outre, seule compétente pour : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° la politique monétaire aussi bien interne qu'externe;
+2° la politique financière et la protection de l'épargne, en ce compris la réglementation et le contrôle des établissements de crédit et autres institutions financières et des entreprises d'assurances et assimilées, des sociétés de portefeuille et des fonds communs de placement, le crédit hypothécaire, le crédit à la consommation, le droit bancaire et de l'assurance, ainsi que la constitution et la gestion de ses institutions publiques de crédit;
+3° la politique des prix et des revenus;
+4° le droit de la concurrence et le droit des pratiques du commerce, à l'exception de l'attribution des labels de qualité et des appellations d'origine, de caractère régional ou local;
+5° le droit commercial et le droit des sociétés;
+6° les conditions d'accès à la profession (, à l'exception des compétences régionales pour les conditions d'accès à la profession en matière de tourisme); &lt;L 1993-07-16/30, art. 2, § 5, 006; <b> En vigueur : </b> 1993-07-30&gt;
+7° la propriété industrielle et intellectuelle;
+8° Les contingents et licences (à l'exception des licences pour l'importation, l'exportation et le transit d'armes, de munitions, et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de la technologie y afférente ainsi que des produits et des technologies à double usage, sans préjudice de la compétence fédérale pour celles concernant l'armée et la police); &lt;L 2003-08-12/32, art. 3, 024; <b> En vigueur : </b> 30-08-2003&gt;
+9° la métrologie et la normalisation;
+10° le secret statistique;
+11° la Société nationale d'investissement;
+12° le droit du travail et la sécurité sociale.) &lt;L 1988-08-08/30, art. 4, § 8, 002; <b> En vigueur : </b> 1989-01-01&gt;
+VII. En ce qui concerne la politique de l'énergie :
+Les aspects régionaux de l'énergie, et en tout cas :
+a) (La distribution et le transport local d'électricité au moyen de réseaux dont la tension nominale est inférieure ou égale à 70 000 volts;) L 1988-08-08/30, art. 4, § 9, al. 1, 002; <b> En vigueur : </b> 1989-01-01&gt;
+b) (La distribution publique du gaz;) &lt;L 1988-08-08/30, art. 4, § 9, al. 2, 002; <b> En vigueur : </b> 1989-01-01&gt;
+c) L'utilisation du grisou et du gaz de hauts fourneaux;
+d) Les réseaux de distribution de chaleur à distance;
+e) La valorisation des terrils;
+f) (Les sources nouvelles d'énergie à l'exception de celles liées à l'énergie nucléaire;) &lt;L 1988-08-08/30, art. 4, § 9, al. 3, 002; <b> En vigueur : </b> 1989-01-01&gt;
+g) La récupération d'énergie par les industries et autres utilisateurs.
+(h) L'utilisation rationnelle de l'énergie.) &lt;L 1988-08-08/30, art. 4, § 9, al. 4, 002; <b> En vigueur : </b> 1989-01-01&gt;
+(Toutefois, l' (autorité fédérale) est compétente pour les matières dont l'indivisibilité technique et économique requiert une mise en oeuvre homogène sur le plan national, à savoir : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+a) Le plan d'équipement national du secteur de l'électricité;
+b) Le cycle du combustible nucléaire;
+c) Les grandes infrastructures de stockage; le transport et la production de l'énergie;
+d) Les tarifs.) &lt;L 1988-08-08/30, art. 4, § 10, 002; <b> En vigueur : </b> 1989-01-01&gt;
+VIII. (En ce qui concerne les pouvoirs subordonnés :
+1° la composition, l'organisation, la compétence et le fonctionnement des institutions provinciales et communales, à l'exception :
+- des règles inscrites dans la loi communale, la loi électorale communale, la loi organique des centres publics d'aide sociale, la loi provinciale, le Code électoral, la loi organique des élections provinciales et la loi organisant l'élection simultanée pour les chambres législatives et les conseils provinciaux en vertu de la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les chambres législatives et les conseils provinciaux;
+- des règles inscrites dans les articles 5, 5bis, 70, 3° et 8°, 126, deuxième et troisième alinéas, et le titre XI de la loi provinciale;
+- des règles inscrites dans les articles 125, 126, 127 et 132 de la nouvelle loi communale, dans la mesure où elles concernent les registres de l'état civil;
+- de l'organisation de et de la politique relative à la police, en ce compris l'article 135, § 2, de la nouvelle loi communale, et aux services d'incendie;
+- des régimes de pension du personnel et des mandataires.
+Les régions exercent cette compétence, sans préjudice des articles 279 et 280 de la nouvelle loi communale.
+Les conseils communaux ou provinciaux règlent tout ce qui est d'intérêt communal ou provincial; ils délibèrent et statuent sur tout objet qui leur est soumis par l'autorité fédérale ou par les communautés.
+Les gouverneurs des provinces, le gouverneur et le vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale, l'adjoint du gouverneur de la province de Brabant flamand, les commissaires d'arrondissement et les commissaires d'arrondissement adjoints sont nommés et révoqués par le gouvernement de région concerné, sur l'avis conforme du Conseil des Ministres.
+Lorsqu'un gouvernement de région ou de communauté demande des informations contenues dans les registres de l'état civil, l'officier de l'état civil donne immédiatement suite à cette demande;
+2° le changement ou la rectification des limites des provinces et des communes, à l'exception des limites des communes citées à l'article 7 des lois sur l'emploi des langues en matières administratives, coordonnées le 18 juillet 1966, et des communes de Comines-Warneton et de Fourons;
+3° la composition, l'organisation, la compétence et le fonctionnement des institutions des agglomérations et des fédérations de communes, sauf pour les communes citées à l'article 7 des lois sur l'emploi des langues en matières administratives, coordonnées le 18 juillet 1966, et les communes de Comines-Warneton et de Fourons;
+4° l'élection des organes provinciaux, communaux et intracommunaux, ainsi que des organes des agglomérations et fédérations de communes, en ce compris le contrôle des dépenses électorales y afférentes (et l'origine des fonds qui y ont été affectés) : &lt;L 2004-04-25/42, art. 2, 028; <b> En vigueur : </b> 07-05-2004&gt;
+a) à l'exception des règles inscrites dans la loi communale, la loi électorale communale, la loi organique des centres publics d'aide sociale, la loi provinciale, le Code électoral, la loi organique des élections provinciales et la loi organisant l'élection simultanée pour les chambres législatives et les conseils provinciaux en vertu de la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les Chambres législatives et les conseils provinciaux;
+b) à l'exception de la compétence exclusive du Conseil d'Etat pour statuer par voie d'arrêts sur les recours en dernier ressort en matière électorale;
+c) étant entendu que les décrets et les ordonnances ayant pour effet de diminuer la proportionnalité de la répartition des sièges par rapport à la répartition des voix doivent être adoptés à la majorité visée à l'article 35, § 3.
+Les régions exercent cette compétence, sans préjudice des articles 5, deuxième et troisième alinéas, 23bis et 30bis de la loi électorale communale coordonnée le 4 août 1932, et des articles 2, § 2, quatrième alinéa, 3bis, deuxième alinéa, 3novies, deuxième alinéa, et 5, troisième alinéa, de la loi organique des élections provinciales;
+5° le régime disciplinaire des bourgmestres, étant entendu que le bourgmestre qui introduit, auprès du Conseil d'Etat, un recours en dernier ressort contre la sanction disciplinaire prononcée contre lui et qui n'est pas basée sur son inconduite notoire, mais sur le non-respect d'une loi, d'un décret, d'une ordonnance, d'un règlement ou d'un acte administratif, peut demander à la chambre, selon le cas, qu'elle pose une question préjudicielle à la Cour d'arbitrage, ou qu'elle renvoie l'affaire à l'assemblée générale de la section d'administration, qui vérifiera si le règlement ou l'acte administratif ne constitue pas une violation de l'article 16bis de la présente loi spéciale ou de l'article 5bis de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises; la chambre doit donner suite à cette demande; la Cour d'arbitrage ou l'assemblée générale de la section d'administration statue dans un délai de soixante jours; la chambre est tenue, pour la solution du litige, de se conformer, selon le cas, à l'arrêt de la Cour d'arbitrage ou à la décision de l'assemblée générale; le recours du bourgmestre auprès du Conseil d'Etat est suspensif; le Conseil d'Etat statue sur le recours dans un délai de soixante jours; si le renvoi à la Cour d'arbitrage ou à l'assemblée générale est demandé, le Conseil statue dans les soixante jours de leur décision;
+6° les fabriques d'églises et les établissements chargés de la gestion du temporel des cultes reconnus, à l'exception de la reconnaissance des cultes et des traitements et pensions des ministres des cultes;
+7° les funérailles et sépultures;
+8° les associations de provinces et de communes dans un but d'utilité publique, à l'exception de la tutelle spécifique en matière de lutte contre l'incendie, organisée par la loi;
+9° le financement général des communes, des agglomérations et des fédérations de communes et des provinces;
+(9°bis. l'autorité fédérale peut attribuer annuellement, après avis conforme préalable du Gouvernement régional concerné, aux communes de chaque Région, le produit de la cotisation fédérale destinée à compenser la perte de revenus des communes résultant de la libéralisation du marché de l'électricité, qui est situé dans la Région concernée et pour autant que cette attribution n'excède pas le montant du produit généré dans la Région.
+En vue de cette attribution, le produit est censé être généré à l'endroit où le kWh est consommé pour usage propre par le client final.
+Les Régions sont habilitées à octroyer, par arrêté de leur Gouvernement, après concertation préalable avec l'autorité fédérale, en fonction de l'endroit où le kWh est consommé pour usage propre par le client final, des exonérations globales ou partielles de la cotisation fédérale destinée à compenser la perte de revenus résultant de la libéralisation du marché de l'électricité.
+L'arrêté visé à l'alinéa précédent est présumé ne jamais avoir eu d'effets s'il n'est pas confirmé par décret ou une règle visée à l'article 134 de la Constitution dans les douze mois à compter de la date de son entrée en vigueur;) &lt;L 2004-09-13/69, art. 2, 031; <b> En vigueur : </b> 01-05-2004&gt;
+10° le financement des missions à remplir par les communes, les agglomérations et fédérations de communes, les provinces et par d'autres personnes morales de droit public dans les matières qui relèvent de la compétence des régions, sauf lorsque ces missions se rapportent à une matière qui est de la compétence de l'autorité fédérale ou des communautés;
+11° les conditions et le mode suivant lesquels les organes territoriaux intracommunaux, visés à l'article 41 de la Constitution, peuvent être créés.
+Les actes, règlements et ordonnances des autorités des provinces, des communes, des agglomérations et des fédérations de communes et des autres autorités administratives ne peuvent être contraires aux lois et aux arrêtés de l'autorité fédérale ou aux décrets et arrêtés des communautés, qui peuvent, en tout cas, charger ces autorités de leur exécution, et d'autres missions, en ce compris donner un avis, ainsi que d'inscrire au budget toutes les dépenses qu'elles imposent à ces autorités.) &lt;L 2001-07-13/34, art. 4, 019; <b> En vigueur : </b> 01-01-2002&gt;
+IX. (En ce qui concerne la politique de l'emploi :
+1° Le placement des travailleurs;) &lt;L 1988-08-08/30, art. 4, § 13, 002; <b> En vigueur : </b> 1989-01-01&gt;
+(2° les programmes de remise au travail des demandeurs d'emploi inoccupés, à l'exclusion des programmes de remise au travail dans les administrations et services de l'autorité fédérale ou placés sous sa tutelle et à l'exclusion des conventions visées dans la section 5 du chapitre II de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non marchand.) &lt;L 2001-07-13/35, art. 49, 016; <b> En vigueur : </b> 01-01-2001&gt;
+Pour (chaque demandeur d'emploi inoccupé), placé, dans le cadre d'un contrat de travail, dans un programme de remise au travail, l'(autorité fédérale) octroie une intervention financière dont le montant fixé par arrêté royal délibéré en Conseil des Ministres correspond à une indemnité de chômage. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2001-07-13/35, art. 49, 016; <b> En vigueur : </b> 01-01-2001&gt;
+(L'intervention financière visée à l'alinéa précédent peut varier en fonction de la durée d'inscription comme demandeur d'emploi pendant laquelle le demandeur d'emploi remis au travail est inoccupé. Le montant de cette intervention est fixé avec l'accord des Gouvernements de région.) &lt;L 2001-07-13/35, art. 49, 016; <b> En vigueur : </b> 01-01-2001&gt;
+(L'autorité fédérale octroie également l'intervention financière visée à l'alinéa 2 pour un nombre de travailleurs occupés dans les liens d'un contrat de travail ou d'un engagement statutaire égal au nombre d'emplois maintenus parmi ceux qui étaient occupés dans les programmes de remise au travail la veille de leur abrogation par une région.) &lt;L 2001-07-13/35, art. 49, 016; <b> En vigueur : </b> 01-01-2001&gt;
+3° l'application des normes concernant l'occupation des travailleurs étrangers.
+(La surveillance du respect de ces normes relève de l'autorité fédérale.
+La constatation des infractions peut également être faite par des agents dûment habilités à cette fin par les Régions.) &lt;L 1993-07-16/30, art. 2, § 8, 006; <b> En vigueur : </b> 1993-07-30&gt;
+X. (En ce qui concerne les travaux publics et le transport :
+1° les routes et leurs dépendances;
+2° les voies hydrauliques et leurs dépendances;
+2°bis (le régime juridique de la voirie terrestre et des voies hydrauliques, quel qu'en soit le gestionnaire, à l'exclusion des voies ferrées gérées par la Société nationale des chemins de fer belges.) &lt;L 1993-07-16/30, art. 2, § 9, 006; <b> En vigueur : </b> 1993-07-30&gt;
+3° les ports et leurs dépendances;
+4° les défenses côtières;
+5° les digues;
+6° les services des bacs;
+7° l'équipement et l'exploitation des aéroports et des aérodromes publics, à l'exception de l'aéroport de Bruxelles-National;
+8° le transport en commun urbain et vicinal, en ce compris les services réguliers spécialisés(, les services de taxis et les services de location de voitures avec chauffeurs); &lt;L 1993-07-16/30, art. 2,§ 10, 006; <b> En vigueur : </b> 1993-07-30&gt;
+9° les services de pilotage et de balisage de et vers les ports, ainsi que les services de sauvetage et de remorquage en mer.
+Les compétences visées aux 2°, 3°, 4° et 9°, comprennent le droit d'effectuer dans les eaux territoriales et sur le plateau continental les travaux et activités, en ce compris le dragage, nécessaires à l'exercice de ces compétences.) &lt;L 1988-08-08/30, art. 4, § 11, 002; <b> En vigueur : </b> 1989-01-01&gt;
+§ 2. Les (Gouvernements) concernés devront se concerter en ce qui concerne : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° les dispositions spécifiques relatives aux forêts situées sur le territoire de plus d'une Région;
+2° l'ouverture et la fermeture de la chasse, de la tenderie et de la pêche fluviale;
+3° les nappes d'eau s'étendant sur plus d'une Région.
+Lorsque les dispositions des 1°, 2° et 3° concernent des situations relatives à un territoire autre que celui de la Région wallonne et de la Région flamande, l'autorité compétente pour ce territoire est associée à la concertation.
+(§ 2bis. Les gouvernements régionaux concernés et l'autorité fédéralise concertent pour la préparation des négociations et des décisions, ainsi que pour le suivi des activités des institutions européennes, relatives à la politique agricole.) &lt;L 2001-07-13/34, art. 5, 019; <b> En vigueur : </b> 01-01-2002&gt;
+§ 3. Une concertation associant les (Gouvernements) concernés et l'(autorité fédérale) compétente aura lieu : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° (abrogé) &lt;L 1988-08-08/30, art. 16, 3°, 002; <b> En vigueur : </b> 1989-01-01&gt;
+2° pour toute mesure au sujet de la politique de l'énergie, en dehors des compétences énumérées au § 1er, VII;
+3° sur les grands axes de la politique énergétique nationale.
+(4° pour les normes techniques minimales de sécurité relatives à la construction et à l'entretien des routes, des ports, des voies hydrauliques, des digues, des aéroports et des aérodromes;
+5° pour les travaux à réaliser en faveur des institutions européennes et internationales;
+6° pour le trafic aérien sur les aéroports régionaux et les aérodromes publics ainsi que pour les droits y afférents;) &lt;L 1988-08-08/30, art. 4, § 14, 002; <b> En vigueur : </b> 1989-01-01&gt;
+7° (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+(§ 3bis. Une concertation associant les (Gouvernements) concernés et l'(autorité fédérale) concernée a lieu pour : L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° l'échange d'informations entres les services de formation, de chômage et de placement, ainsi que les initiatives concernant les (programmes de remise au travail des demandeurs d'emploi non occupés); &lt;L 2001-07-13/35, art. 50, 016; <b> En vigueur : </b> 01-01-2001&gt;
+2° le planning, la fonctionnalité et la compatibilité des réseaux d'autoroutes et des voies hydrauliques;
+3° la coopération entre les chemins de fer, d'une part, et les sociétés de transport urbain et vicinal, d'autre part, en vue de la coordination et de la promotion du transport public;) &lt;L 1988-08-08/30, art. 4, § 15, 002; <b> En vigueur : </b> 1989-01-01&gt;
+4° (la détermination et la bonne fin des mesures qui peuvent être prises à l'égard des mineurs ayant commis un fait qualifié d'infraction.) &lt;L 1988-08-08/30, art. 4, § 15, 002; <b> En vigueur : </b> 1988-08-23&gt;
+(5° les mesures qui ont une incidence sur la politique agricole.) &lt;L 1993-07-16/30, art. 2, § 12, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 4. (Les (Gouvernements) seront associés : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° (à l'élaboration des réglementations fédérales en matière de normes de produits et de transit de déchets, visées au § 1er, II, alinéa 2, 1° et 3°;) &lt;L 1993-07-16/30, art. 2, § 13, a), 006; <b> En vigueur : </b> 1994-05-07&gt;
+2° (abrogé) L 1993-07-16/30, art. 64, § 1, 006;
+<b> En vigueur : </b> 1993-07-30&gt;
+3° à l'élaboration des règles de police générale et de la réglementation relatives aux communications et aux transports, ainsi qu'aux prescriptions techniques relatives aux moyens de communication et de transport;
+4° à l'élaboration des règles relatives à l'organisation et à la mise en oeuvre de la sécurité de la circulation aérienne sur les aéroports régionaux et les aérodromes publics;
+5° à l'élaboration du plan d'équipement national du secteur de l'électricité visé à l'article 6, § 1er, VII, alinéa 2.) &lt;L 1988-08-08/30, art. 4, § 16, 002; <b> En vigueur : </b> 1989-01-01&gt;
+(6° à l'élaboration de dispositions fédérales générales prévues à l'article 9, § 1er, deuxième alinéa, de la loi du 31 décembre 1963 sur la protection civile;
+7° à l'élaboration de dispositions fédérales générales prévues à l'article 189 de la nouvelle loi communale.) &lt;L 1993-07-16/30, art. 2, § 13, b), 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 5. (L'autorité fédérale et les Gouvernements régionaux concernés déterminent, en concertation, la façon dont la politique en matière d'importation, d'exportation et de transit de déchets peut être coordonnée.) &lt;L 1993-07-16/30, art. 2, § 14, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 6. Les (Gouvernements) informent : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° le Ministre qui a l'Energie dans ses attributions, de la gestion des associations de communes de distribution de gaz et d'électricité;
+2° (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 7. Les (Gouvernements) visés aux § 2 à 6 sont les (Gouvernements) prévus par la présente loi ainsi que l'autorité compétente pour le territoire autre que celui de la Région wallonne ou de la Région flamande. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+(§ 8. Si une proposition de loi, de décret ou d'ordonnance concerne une matière visée aux §§ 2, 2bis, 3, 3bis, 4, 5, et à l'article 11, alinéa 2, la concertation, l'association ou la procédure d'avis de l'autorité fédérale et des Gouvernements de Communauté ou de Région concernés a lieu selon les règles prévues par le règlement de la Chambre législative ou du (Parlement) devant laquelle ou devant lequel la proposition de loi, de décret ou d'ordonnance est déposée.) &lt;L 1993-07-16/30, art. 2, § 8, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.6bis" href="#Art.6">Art.</a> <a href="#Art.6ter"> 6bis</a>. &lt;L 1988-08-08/30, art. 5, 002; <b> En vigueur : </b> 1989-01-01&gt;
+§ 1. (Les Communautés et les Régions sont compétentes pour la recherche scientifique, dans le cadre de leurs compétences respectives, en ce compris la recherche en exécution d'accords ou d'actes internationaux ou supranationaux.) &lt;L 1993-07-16/30, art. 3, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. (L'autorité fédérale est toutefois compétente pour :
+1° la recherche scientifique nécessaire à l'exercice de ses propres compétences, en ce compris la recherche scientifique en exécution d'accords ou d'actes internationaux ou supranationaux;
+2° la mise en oeuvre et l'organisation de réseaux d'échange de données entre établissements scientifiques sur le plan national et international;
+3° la recherche spatiale dans le cadre d'institutions, d'accords ou d'actes internationaux ou supranationaux;
+4° les établissements scientifiques et culturels fédéraux, en ce compris les activités de recherche et de service public de ces derniers. Le Roi désigne ces établissements par arrêté délibéré en Conseil des ministres. L'avis conforme des Gouvernements de Communauté et de Région est requis pour toute modification ultérieure de cet arrêté;
+5° les programmes et actions nécessitant une mise en oeuvre homogène sur le plan national ou international dans des domaines et suivant des modalités fixés par des accords de coopération visés à l'article 92bis, § 1er;
+6° la tenue d'un inventaire permanent du potentiel scientifique du pays suivant des modalités fixées par un accord de coopération visé à l'article 92bis, § 1er;
+7° la participation de la Belgique aux activités des organismes internationaux de recherche suivant des modalités fixées par des accords de coopération visés à l'article 92bis, § 1er.) &lt;L 1993-07-16/30, art. 3, § 2, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. Sans préjudice des dispositions du § 1er, l'autorité nationale peut prendre des initiatives, créer des structures et prévoir des moyens financiers pour la recherche scientifique dans les matières qui sont de la compétence des Communautés ou des Régions, et qui, en outre :
+a) soit fait l'objet d'accords ou d'actes internationaux ou supranationaux auxquels la Belgique est partie contractante ou considérée comme telle;
+b) soit se rapporte à des actions et programmes qui dépassent les intérêts d'une Communauté ou d'une Région.
+Dans ces cas, l'((autorité fédérale)) soumet, préalablement à sa décision, une proposition de collaboration aux Communautés et/ou aux Régions, (sur avis du Conseil fédéral de la politique scientifique composé conformément à l'article 92ter). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+(Chaque Communauté et chaque Région peut refuser toute participation en ce qui la concerne et en ce qui concerne les établissements relevant de sa compétence.) &lt;L 1993-07-16/30, art. 3, § 4, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 4. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.6ter" href="#Art.6bis">Art.</a> <a href="#Art.7"> 6ter</a>. &lt;Inséré par L 2001-07-13/34, art. 6; <b> En vigueur : </b> 01-01-2002&gt; Certaines parties de la coopération au développement seront transférées dès le 1er janvier 2004 dans la mesure où elles portent sur les compétences des communautés et régions.
+Un groupe de travail spécial est constitué, ayant pour tâche, en concertation avec le secteur et au plus tard pour le 31 décembre 2002, de proposer une liste des matières relatives aux compétences des communautés et régions en matière de coopération au développement.
+
+<a name="Art.7" href="#Art.6ter">Art.</a> <a href="#Art.7bis"> 7</a>. (§ 1er. A l'exception des règles inscrites dans la loi communale, la loi électorale communale, la loi organique des centres publics d'aide sociale, la loi provinciale, le Code électoral, la loi organique des élections provinciales et la loi organisant l'élection simultanée pour les Chambres législatives et les conseils provinciaux en vertu de la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les Chambres législatives et les conseils provinciaux, les régions sont compétentes en ce qui concerne l'organisation et l'exercice de la tutelle administrative sur les provinces, les agglomérations et les fédérations de communes, les communes et les organes territoriaux intracommunaux, visés à l'article 41 de la Constitution.
+L'alinéa premier ne préjudicie pas à la compétence de l'autorité fédérale et des communautés d'organiser et d'exercer elles-mêmes une tutelle administrative spécifique dans les matières qui relèvent de leur compétence.
+Les régions exercent la compétence visée à l'alinéa premier sans préjudice des règles inscrites dans les articles 12, § 3; 28, § 3; 41; 65, § 3; 68, § 3; 146, § 2; 150, § 3; 155, § 3; 231, § 3, 2°; 235, § 1er, deuxième alinéa; 237; 249, § 3; 287, § 3 et, pour autant qu'ils portent sur les communes de Comines-Warneton et de Fourons, les articles 47, § 2, 235, § 3, 240, § 2, 241, § 2, 244, 254, 258 et 264 à 266 de la nouvelle loi communale.
+§ 2. Par dérogation au § 1er aucune tutelle administrative n'est organisée ni exercée par l'autorité fédérale ou par les régions, sur les décisions prises en matière disciplinaire à l'égard de la police locale.) &lt;L 2001-07-13/34, art. 7, 017; <b> En vigueur : </b> 01-01-2002&gt;
+
+<a name="Art.7bis" href="#Art.7">Art.</a> <a href="#Art.8"> 7bis</a>. &lt;Inséré par L 2001-07-13/34, art. 8; <b> En vigueur : </b> 01-01-2002&gt; Sans préjudice des dispositions visées à l'article 7, § 1er, premier et troisième alinéas, et des articles 279 et 280 de la nouvelle loi communale, la composition, l'organisation, la compétence, le fonctionnement, la désignation ou l'élection des organes des communes situées sur le territoire d'une même région, ainsi que la tutelle administrative sur celles-ci, sont réglées par cette Région de façon identique.
+
+<a name="Art.8" href="#Art.7bis">Art.</a> <a href="#Art.9"> 8</a>. Les compétences des (Parlements) dans les matières énumérées aux articles 4, 5, 6 et 7 comprennent le pouvoir d'adopter les dispositions et autres mesures relatives à l'infrastructure, nécessaire à l'exercice de ces compétences. &lt;L 2006-03-27/33, art. 2, C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. &lt;L 1988-08-08/30, art. 7, 002; <b> En vigueur : </b> 1988-10-18&gt; Dans les matières qui relèvent de leurs compétences, les Communautés et les Régions peuvent créer des services décentralisés, des établissements et des entreprises, ou prendre des participations en capital.
+Le décret peut accorder aux organismes précités la personnalité juridique et leur permettre de prendre des participations en capital. Sans préjudice de l'article 87, § 4, il en règle la création, la composition, la compétence, le fonctionnement et le contrôle.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Les décrets peuvent porter des dispositions de droit relatives à des matières pour lesquelles les (Parlements) ne sont pas compétents, dans la mesure où ces dispositions sont (nécessaires) à l'exercice de leur compétence. &lt;L 1988-08-08/30, art. 8, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;L 2006-03-27/33, art. 2, C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. &lt;L 1993-07-16/30, art. 5, 006; <b> En vigueur : </b> 1993-07-30&gt; Dans les limites des compétences des Communautés et des Régions, les décrets peuvent ériger en infraction les manquements à leurs dispositions et établir les peines punissant ces manquements; les dispositions du livre Ier du Code pénal s'y appliquent, sauf les exceptions qui peuvent être prévues par décret pour des infractions particulières.
+L'avis conforme du Conseil des ministres est requis pour toute délibération au sein du Gouvernement de Communauté ou de Région sur un avant-projet de décret reprenant une peine ou une pénalisation non prévue au livre Ier du Code pénal.
+Dans les limites visées à l'alinéa 1er, les décrets peuvent :
+1° accorder la qualité d'agent ou d'officier de police judiciaire aux agents assermentés du Gouvernement de Communauté ou de Région ou d'organismes ressortissant à l'autorité ou au contrôle du Gouvernement de Communauté ou de Région;
+2° régler la force probante des procès-verbaux;
+3° fixer les cas pouvant donner lieu à une perquisition.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Les biens meubles et immeubles de l'Etat, tant du domaine public que du domaine privé, indispensables à l'exercice des compétences des Régions et des Communautés, leur sont transférés sans indemnité.
+Les conditions et les modalités de ce transfert sont fixées par arrêté royal délibéré en Conseil des Ministres.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. § 1. &lt;abroge en ce qui concerne la Cour des Comptes, sauf dans la mesure où il est applicable à la Communauté germanophone; L 1989-01-16/30, art. 69, § 1, 2°, 004; <b> En vigueur : </b> 1989-01-01&gt; Chaque (Parlement) vote annuellement le budget et arrêté les comptes. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Toutes les recettes et dépenses sont portées au budget et dans les comptes.
+§ 2. &lt;abrogé en ce qui concerne la Cour des Comptes, sauf dans la mesure où il est applicable à la Communauté germanophone; L 1989-01-16/30, art. 69, § 1, 2°, 004; <b> En vigueur : </b> 1989-01-01&gt; Les dispositions des lois du 15 mai 1846 et du 28 juin 1963 sur la comptabilité de l'Etat sont d'application au budget.
+§ 3. (abrogé) &lt;L 1988-08-08/30, art. 16, 4°, 002; <b> En vigueur : </b> 1989-01-01&gt;
+§ 4. &lt;abrogé en ce qui concerne la Cour des Comptes, sauf dans la mesure où il est applicable à la Communauté germanophone; L 1989-01-16/30, art. 69, § 1, 2°, 004; <b> En vigueur : </b> 1989-01-01&gt; La loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes et les dispositions relatives au Comité supérieur de contrôle sont applicables à la Communauté et à la Région.
+§ 5. &lt;L 1989-01-16/30, art. 69, 004; <b> En vigueur : </b> 1989-01-01&gt; Les attributions que fixent les lois et les règlements précités sont exercées, selon le cas, par les organes correspondants de la Communauté ou de la Région.
+§ 6. (abrogé) &lt;L 1988-08-08/30, art. 16, 4°, 002; <b> En vigueur : </b> 5555-55-55; voir art. 18, § 3, al. 2 de L 1988-08-08, sauf dans la mesure où il est applicable à la Communauté germanophone; L 1990-07-18/30, art. 27&gt; A l'exception de la fixation du statut administratif et pécuniaire, les compétences attribuées par la loi du 16 mars 1954 au Ministre ayant la Fonction publique dans ses attributions sont exercées par les organes correspondants de la Communauté ou de la Région.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. &lt;L 1993-07-16/30, art. 6, 006; <b> En vigueur : </b> 1993-07-30&gt; Dans les limites des compétences des Régions et des Communautés, les décrets peuvent instituer un droit de préemption, pour autant que ce droit de préemption ne porte pas préjudice à un droit de préemption existant le jour de l'entrée en vigueur du présent article.
+Le décret ne peut pas instituer un droit de préemption sur les biens du domaine public ou privé fédéral; inversement, seules les Communautés ou les Régions peuvent instituer un droit de préemption sur les biens de leur propre domaine public ou privé.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. L'Etat ne garantit aucun des engagements pris par la Communauté ou par la Région.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.16bis"> 16</a>. &lt;L 1993-05-05/65, art. 1, 005; <b> En vigueur : </b> 18-05-1993&gt; § 1. L'assentiment aux traités dans les matières qui relèvent de sa compétence, est donné par le (Parlement) concerné. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Les traités visés au § 1er sont présentés au (Parlement) compétent par son (Gouvernement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Dès l'ouverture des négociations en vue de toute révision des Traités instituant les Communautés européennes ainsi que les traités et actes subséquents qui les ont modifiés ou complétés, les (Parlements), chacun pour ce qui le concerne, en sont informés. Ils ont connaissance du projet de traité avant sa signature. &lt;L 2006-03-27/33, art. 2, C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 3. Après avoir été condamné par une juridiction internationale ou supranationale du fait du non-respect d'une obligation internationale ou supranationale par une Communauté ou une Région, l'Etat peut se substituer à la Communauté ou à la Région concernée, pour l'exécution du dispositif de la décision aux conditions suivantes :
+1° la Communauté ou la Région concernée doit avoir été mise en demeure trois mois auparavant par un arrêté royal motivé et délibéré en Conseil des Ministres.
+En cas d'urgence, le délai de trois mois prévu au premier alinéa, 1°, peut être abrégé par l'arrêté royal visé au même alinéa;
+2° la Communauté ou la Région concernée doit avoir été associée par l'Etat à l'ensemble de la procédure du règlement du différend, y compris la procédure devant la juridiction internationale ou supranationale;
+3° le cas échéant, l'accord de coopération prévu à l'article 92bis, § 4ter, doit avoir été respecté par l'Etat.
+Les mesures prises par l'Etat en exécution du premier alinéa cessent de produire leurs effets à partir du moment où la Communauté ou la Région concernée s'est conformée au dispositif de la décision.
+L'Etat peut récupérer, auprès de la Communauté ou de la Région concernée, les frais du non-respect par celle-ci d'une obligation internationale ou supranationale. Cette récupération peut prendre la forme d'une retenue sur les moyens financiers à transférer en vertu de la loi à la Communauté ou à la Région concernée.
+
+<a name="Art.16bis" href="#Art.16">Art.</a> <a href="#Art.16ter"> 16bis</a>. &lt;Inséré par L 2001-07-13/34, art. 9; <b> En vigueur : </b> 01-01-2002&gt; Les décrets, règlements et actes administratifs ne peuvent porter préjudice aux garanties existantes au moment de l'entrée en vigueur de la présente disposition dont bénéficient les francophones dans les communes citées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que celles dont bénéficient les néerlandophones, les francophones et germanophones dans les communes citées à l'article 8 des mêmes lois.
+
+<a name="Art.16ter" href="#Art.16bis">Art.</a> <a href="#LNK0003"> 16ter</a>. &lt;L 2001-07-13/34, art. 10; <b> En vigueur : </b> 01-01-2002&gt; La suspension d'une norme ou d'un acte peut être ordonnée par la Cour d'arbitrage ou le Conseil d'Etat si des moyens sérieux sont susceptibles de justifier l'annulation de la norme ou de l'acte sur base de l'article 16bis.
+
+<a name="LNK0003" href="#LNKR0003">TITRE III.</a> _ DES POUVOIRS.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 1.</a> _ Dispositions générales.
+
+<a name="Art.17" href="#Art.16ter">Art.</a> <a href="#Art.18"> 17</a>. Le pouvoir décrétal s'exerce collectivement par le (Parlement) et (le Gouvernement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. Le droit d'initiative appartient (au Gouvernement) et aux membres du (Parlement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. § 1. (Sauf application de l'article 10, le décret règle les matières visées aux articles 4 à 9, sans préjudice des compétences (que la Constitution a réservées à la loi après l'entrée en vigueur de la loi spéciale du 8 août 1980 de réformes institutionnelles).) &lt;L 1993-07-16/30, art. 7, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2001-07-13/34, art. 11, 016; <b> En vigueur : </b> 01-01-2002&gt;
+Les décrets du (Parlement flamand) (...) mentionnent s'ils règlent des matières visées à l'article 59bis de la Constitution ou à l'article 107quater de la Constitution. &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Le décret a force de loi. Il peut abroger, compléter, modifier ou remplacer les dispositions légales en vigueur.
+§ 3. Les décrets portant sur les matières visées à l'article 107quater de la Constitution sont d'application dans la Région wallonne ou dans la Région flamande, selon le cas.
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. (Le Gouvernement) fait les règlements et arrêtés nécessaires pour l'exécution des décrets, sans pouvoir jamais ni suspendre les décrets eux-mêmes, ni dispenser de leur exécution. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. (Le Gouvernement) sanctionne et promulgue les décrets. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#Art.23"> 22</a>. Aucun décret ou arrêté d'exécution n'est obligatoire qu'après avoir été publié dans la forme déterminée par la présente loi.
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#LNK0005"> 23</a>. &lt;L 1993-07-16/30, art. 8, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des Représentants"&gt; Les incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives, prévues par la loi, sont applicables mutatis mutandis, aux membres et anciens membres des Gouvernements de Communauté et de Région ainsi qu'aux membres et anciens membres des (Parlements), en ce qui concerne les fonctions relevant de la Communauté ou de la Région. &lt;L 2006-03-27/33, art. 2, C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Par dérogation à l'alinéa 1er, les membres d'un (Parlement) ou Gouvernement de Communauté peuvent être membres du personnel de l'enseignement de la Communauté concernée. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE II.</a> _ Des (Parlements). &lt;L 2006-03-27/33, art. 2, C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="LNK0006" href="#LNKR0006">Section 1.</a> _ De la composition.
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.24bis"> 24</a>. &lt;L 1993-07-16/30, art. 9, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. (Le Parlement flamand) se compose : &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+1° de 118 membres élus directement;
+2° (de 6 membres domiciliés sur le territoire de la Région de Bruxelles-Capitale et élus directement en cette qualité, conformément à l'article 30, § 1er, alinéa 1.) &lt;L 2001-07-13/34, art. 12, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(...) &lt;L 2001-07-13/34, art. 12, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(Le Parlement flamand) peut, par décret, modifier les nombres vises à l'alinéa 1er, 1° et 2°. Le nombre de membres visé à l'alinéa 1er, 2°, doit toujours être égal au rapport de 6 sur 118 du nombre de membres visé à l'alinéa 1er, 1°. Si le nombre obtenu en application du présent alinéa n'est pas un nombre entier, la fraction restante sera arrondie à l'unité supérieure ou omise selon qu'elle atteint ou non la moitié de l'unité. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. (Le Parlement wallon) se compose de 75 membres élus directement. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(Le Parlement wallon) peut, par décret, modifier le nombre visé à l'alinéa 1er. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 3. (Le Parlement de la Communauté française) se compose : &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+1° de 75 membres du (Parlement wallon); &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+2° de 19 membres élus par le groupe linguistique français du (Parlement de la Région de Bruxelles-Capitale) en son sein, visé à l'article 23 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(Le Parlement de la Communauté française) peut, par décret, modifier les nombres visés à l'alinéa 1er, 1° et 2°. Le nombre de membres visé à l'alinéa 1er, 2°, doit toujours être égal au rapport de 19 sur 75 du nombre de membres visé à l'alinéa 1er, 1°. Si le nombre obtenu en application du présent alinéa n'est pas un nombre entier, la fraction restante sera arrondie à l'unité supérieure ou omise selon qu'elle atteint ou non la moitié de l'unité. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Si, à la suite de l'application de l'alinéa précédent, (Le Parlement de la Communauté française) ne comprend pas tous les membres du (Parlement wallon), (Le Parlement de la Communauté française) règle, par décret, sur la base de règles objectives et proportionnellement au chiffre électoral des listes obtenu lors des élections du (Parlement wallon), la façon dont les membres du Conseil régional wallon sont élus pour faire partie du (Parlement de la Communauté française) et la façon dont le nombre de mandats revenant à chaque groupe politique est déterminé. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 4. Si le (Parlement wallon) augmente le nombre de ses membres de telle sorte que le (Parlement de la Communauté française) ne comprend pas tous les membres du (Parlement wallon), (le Parlement wallon) détermine, sur la base de règles objectives et proportionnellement au chiffre électoral des listes obtenu lors des élections du (Parlement wallon), en même temps le nombre de ceux-ci qui font partie du (Parlement de la Communauté française) ainsi que la façon dont ils sont élus et répartis entre les groupes politiques; le (Parlement de la Communauté française) adapte alors en conséquence le nombre de ses membres pour respecter le rapport visé au § 3, alinéa 2. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.24bis" href="#Art.24">Art.</a> <a href="#LNK0007"> 24bis</a>. &lt;inséré par L 1993-07-16/30, art. 10, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Pour être élu directement en qualité de membre du (Parlement wallon) ou du (Parlement flamand), il faut : &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+1° être Belge;
+2° jouir des droits civils et politiques;
+3° être âgé de (18 ans) accomplis; &lt;L 2004-03-02/40, art. 2, 026; <b> En vigueur : </b> 05-04-2004&gt;
+4° avoir son domicile :
+a) (pour les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 1°), dans une commune faisant partie du territoire de la Région flamande et, en conséquence, être inscrit au registre de la population de cette commune; &lt;L 2001-07-13/34, art. 13, 016; <b> En vigueur : </b> indéterminée "pour le prochain renouvellement intégral du Conseil de la Région de Bruxelles-Capitale et, pour les opérations électorales relatives à ce renouvellement, le premier jour du deuxième mois qui précède celui de la date de l'élection."&gt;
+(pour les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 2°, dans une commune faisant partie du territoire de la Région de Bruxelles-Capitale et en conséquence être inscrit au registre de la population de cette commune;) &lt;L 2001-07-13/34, art. 13, 016; <b> En vigueur : </b> indéterminée "pour le prochain renouvellement intégral du (Parlement de la Région de Bruxelles-Capitale) et, pour les opérations électorales relatives à ce renouvellement, le premier jour du deuxième mois qui précède celui de la date de l'élection."&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+b) pour le (Parlement wallon), dans une commune faisant partie du territoire de la Région wallonne et, en conséquence, être inscrit au registre de la population de cette commune; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+5° ne pas se trouver dans l'un des cas d'exclusion ou de suspension visés aux articles 6 à 9bis du Code électoral.
+Les conditions d'éligibilité doivent être remplies le jour des élections, à l'exception des conditions de domicile et d'inscription au registre de la population auxquelles il doit être satisfait six mois avant l'élection.
+§ 2. Sans préjudice du § 4, le mandat de membre du (Parlement de la Communauté française), du (Parlement wallon) et du (Parlement flamand) est incompatible avec les fonctions ou mandats suivants : &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+1° membre de la Chambre des représentants;
+2° sénateur, visé à l'article 53, § 1er, 1°, 2°, 5°, 6° et 7° de la Constitution;
+3° ministre ou secrétaire d'Etat fédéral;
+4° gouverneur de province, vice gouverneur, gouverneur adjoint, conseiller provincial, greffier provincial;
+5° commissaire d'arrondissement;
+6° titulaire de fonctions dans l'ordre judiciaire;
+7° conseiller d'Etat, assesseur de la section de législation ou membre de l'auditorat, du bureau de coordination ou du greffe du Conseil d'Etat;
+8° juge, référendaire ou greffier à la Cour d'arbitrage;
+(9° membre de la Cour des comptes;) &lt;L 1999-02-08/30, art. 2, 012; <b> En vigueur : </b> 28-02-1999&gt;
+10° militaire en service actif, à l'exception des officiers de réserve rappelés sous les armes et des miliciens;
+11° sauf pour ce qui concerne les membres du personnel de l'enseignement, membre du personnel placé directement sous l'autorité du (Parlement) ou du Gouvernement concerné; à cet égard, tout (Parlement) peut organiser, par décret, un régime de congé politique au profit des agents qui ressortissent à la Communauté ou à la Région concernée. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 2bis. Nonobstant le § 2, 3°, du présent article, le membre du (Parlement de la Communauté française), du (Parlement wallon) ou du (Parlement flamand), nommé par le Roi en qualité de ministre ou de secrétaire d'Etat fédéral et qui l'accepte, cesse immédiatement de siéger et reprend son mandat lorsqu'il a été mis fin par le Roi à ses fonctions de ministre ou de secrétaire d'Etat. Le décret prévoit les modalités de son remplacement au sein du (Parlement) concerné.) &lt;L 1996-12-04/32, art. 2, 011; <b> En vigueur : </b> 10-01-1997&gt; &lt;L 2006-03-27/33, art. 2, A et B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 2ter. Le mandat de membre du (Parlement de la Communauté française), de membre du (Parlement wallon) et de membre du (Parlement flamand) ne peut pas être cumulé avec plus d'un mandat exécutif rémunéré. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Sont considérés comme mandats exécutifs rémunérés au sens de l'alinéa précédent :
+1° les fonctions de bourgmestre, d'échevin et de président d'un conseil de l'aide sociale, quel que soit le revenu y afférent;
+2° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que ce mandat confère davantage de pouvoir que la simple qualité de membre de l'assemblée générale ou du conseil d'administration de cet organisme et quel que soit le revenu y afférent;
+3° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que le revenu mensuel brut imposable y afférent atteigne un montant de 20 000 francs au moins. Ce montant est adapté annuellement à l'évolution de l'indice des prix à la consommation.) &lt;L 1999-05-04/90, art. 2, 014; <b> En vigueur : </b> 2001-01-31&gt;
+§ 3. (Parlement wallon) et le (Parlement flamand) peuvent, chacun pour ce qui le concerne, déterminer par décret des incompatibilités supplémentaires. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 4. Les mandats de membre du (Parlement de la Communauté française), du (Parlement flamand) et du (Parlement de la Communauté germanophone) sont incompatibles entre eux. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(Le mandat de membre du (Parlement de la Communauté française) est incompatible avec celui de membre du (Parlement wallon) lorsque le mandataire concerné a exclusivement ou en premier lieu prêté serment en allemand.) &lt;L 2002-04-29/36, art. 2, 022; <b> En vigueur : </b> 24-06-2002&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 5. (Les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 2°) qui, en application des §§ 2 et 3 du présent article et de l'article 12, § 2, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, ne peuvent pas assumer leur mandat au sein du (Parlement flamand), seront remplacés au sein du (Parlement flamand) par leurs suppléants, élus (...) sur les mêmes listes (...), dans l'ordre dans lequel ils sont élus sur chacune des listes susmentionnées. &lt;L 2001-07-13/34, art. 13, 016; <b> En vigueur : </b> indéterminée "en vigueur pour le prochain renouvellement intégral du (Parlement de la Région de Bruxelles-Capitale) et, pour les opérations électorales relatives à ce renouvellement, le premier jour du deuxième mois qui précède celui de la date de l'élection"&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les membres du (Parlement wallon) qui, conformément à l'article 24, §§ 3 et 4, sont membres du Conseil de la Communauté française, (mais qui, en application des §§ 2, 3 et 4 du présent article), ne peuvent pas assumer leur mandat au sein du (Parlement de la Communauté française), seront remplacés au sein du (Parlement de la Communauté française) par leurs suppléants, élus lors des élections du (Parlement wallon) sur les mêmes listes que ces membres, dans l'ordre dans lequel ils sont élus sur chacune des listes susmentionnées. &lt;L 1996-03-25/35, art. 2, 009; <b> En vigueur : </b> 29-04-1996&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(Les membres du (Parlement wallon) qui, conformément à l'article 24, § 3, sont membres du (Parlement de la Communauté française), mais qui, en application du § 4, alinéa 2, du présent article, ne peuvent pas assumer leur mandat au sein du (Parlement de la Communauté française), seront remplacés au sein du (Parlement de la Communauté française) par leurs suppléants, élus lors des élections au (Parlement wallon) sur les mêmes listes que ces membres, dans l'ordre dans lequel ils sont élus sur chacune des listes susmentionnées.) &lt;L 2002-04-29/36, art. 3, 022; <b> En vigueur : </b> 24-06-2002&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les membres du groupe linguistique français du (Parlement de la Région de Bruxelles-Capitale) qui, conformément à l'article 24, §§ 3 et 4, sont membres du (Parlement de la Communauté française) mais qui, en application du § 2 du présent article et de l'article 12, § 2, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, ne peuvent pas assumer leur mandat au sein du (Parlement de la Communauté française), seront remplacés au sein du (Parlement de la Communauté française) par leurs suppléants, élus lors des élections du (Parlement de la Région de Bruxelles-Capitale) sur les mêmes listes du même groupe linguistique que ces membres, dans l'ordre dans lequel ils sont élus sur chacune des listes susmentionnées.
+
+<a name="LNK0007" href="#LNKR0007">Section 1bis.</a> - Des élections. &lt;L 1993-07-16/30, art. 11, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="LNK0008" href="#LNKR0008">Première sous-section.</a> - Des électeurs. &lt;L 1993-07-16/30, art. 11, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.25" href="#Art.24bis">Art.</a> <a href="#LNK0009"> 25</a>. &lt;L 1993-07-16/30, art. 12, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 1°, sont élus directement par les Belges âgés de 18 ans accomplis, inscrits aux registres de la population d'une commune du territoire de la Région flamande et ne se trouvant pas dans l'un des cas d'exclusion ou de suspension visés aux articles 6 à 9bis du Code électoral. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les membres du (Parlement wallon) sont élus directement par les Belges âgés de 18 ans accomplis, inscrits aux registres de la population d'une commune du territoire de la Région wallonne et ne se trouvant pas dans l'un des cas d'exclusion ou de suspension visés aux articles 6 à 9bis du Code électoral.
+Les conditions d'électorat visées aux alinéas précédents et concernant la nationalité et l'inscription aux registres de la population doivent être réunies à la date d'établissement de la liste des électeurs; les autres conditions doivent être réunies le jour de l'élection.
+§ 2. Chaque électeur n'a droit qu'à un vote.
+
+<a name="LNK0009" href="#LNKR0009">Sous-section 2.</a> - De la répartition des électeurs et des bureaux de vote. &lt;L 1993-07-16/30, art. 13, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.26bis"> 26</a>. &lt;L 1993-07-16/30, art. 14, 006; <b> En vigueur : </b> 1993-07-30&gt; § 1. Le (Parlement wallon) et le (Parlement flamand) déterminent les circonscriptions électorales par décret, chacun pour ce qui le concerne. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Aucune circonscription électorale ne peut dépasser les limites du territoire d'une Région.
+§ 3. S'il y a plusieurs circonscriptions électorales, chaque circonscription électorale compte autant de sièges que le chiffre de sa population contient de fois le diviseur régional, obtenu en divisant le chiffre de la population de la Région par le nombre de membres à élire directement.
+Les sièges restants sont attribués aux circonscriptions électorales ayant le plus grand excédent de population non encore représenté.
+§ 4. La répartition des membres du (Parlement) entre les circonscriptions électorales est fixée en rapport avec la population par le Gouvernement wallon et le Gouvernement flamand, chacun pour ce qui le concerne. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le chiffre de la population de chaque circonscription électorale est déterminé tous les dix ans par le recensement de la population ou par tout autre moyen visé à l'article 49, § 3, de la Constitution.
+Dans les trois mois de la publication du chiffre de la population, le Gouvernement wallon et le Gouvernement flamand déterminent, chacun pour ce qui le concerne, le nombre de sièges attribués à chaque circonscription électorale.
+La nouvelle répartition des sièges est appliquée à partir du prochain renouvellement intégral du (Parlement) concerné. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.26bis" href="#Art.26">Art.</a> <a href="#Art.26ter"> 26bis</a>. &lt;inséré par L 1993-07-16/30, art. 15, <b> En vigueur : </b> 1993-07-30&gt; Le vote est obligatoire et secret. Il a lieu à la commune. "
+
+<a name="Art.26ter" href="#Art.26bis">Art.</a> <a href="#Art.26quater"> 26ter</a>. &lt;inséré par L 1993-07-16/30, art. 16, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 1°, et les membres du (Parlement wallon) visés à l'article 24, § 2, sont élus directement par des collèges électoraux se composant, pour chaque circonscription électorale, de tous les électeurs des communes du territoire de la circonscription électorale concernée. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.26quater" href="#Art.26ter">Art.</a> <a href="#LNK0010"> 26quater</a>. &lt;inséré par L 1993-07-16/30, art. 17, <b> En vigueur : </b> 1993-07-30&gt; Il est constitué un bureau principal de la circonscription électorale dans le chef-lieu de toute circonscription électorale. Le (Parlement wallon) et le (Parlement flamand) déterminent par décret, chacun pour ce qui le concerne, le chef-lieu des circonscriptions électorales. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le bureau principal de la circonscription électorale est présidé par le président du tribunal de première instance compétent pour le chef-lieu, ou, en cas de désistement de ce dernier, par le magistrat qui le remplace. Dans les circonscriptions électorales n'ayant pas de tribunal de première instance, le bureau principal de la circonscription électorale est présidé par le juge de paix compétent pour le chef-lieu, ou en cas de désistement de ce dernier, par un de ses suppléants suivant l'ordre d'ancienneté.
+Le bureau principal de la circonscription électorale comprend, outre le président, quatre assesseurs, quatre assesseurs suppléants et un secrétaire désignés par le président parmi les électeurs du chef-lieu de la circonscription électorale.
+
+<a name="LNK0010" href="#LNKR0010">Sous-section 3.</a> - De la convocation des électeurs. &lt;L 1993-07-16/30, art. 18, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.27" href="#Art.26quater">Art.</a> <a href="#LNK0011"> 27</a>. &lt;L 1993-07-16/30, art. 19, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; En cas de vacance, lorsqu'il ne peut y être pourvu par l'installation d'un suppléant, le collège électoral est réuni dans les quarante jours de la vacance. La date de l'élection est fixée, selon le cas, par un arrêté du Gouvernement wallon ou du Gouvernement flamand.
+Cependant, si une vacance se produit dans les trois mois qui précèdent le renouvellement du (Parlement), la convocation du collège électoral ne peut avoir lieu que sur la décision du (Parlement). Il en va de même lorsque la vacance a pour cause soit la démission d'un titulaire et le désistement de suppléants, soit la démission d'un titulaire ou le désistement de suppléants. Dans ces différents cas, la réunion éventuelle du collège électoral a lieu dans les quarante jours de la décision. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="LNK0011" href="#LNKR0011">Sous-section 4.</a> - Des candidatures et des bulletins de vote. &lt;L 1993-07-16/30, art. 20, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.28bis"> 28</a>. &lt;L 1993-07-16/30, art. 21, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; (Lors de la présentation de candidats aux mandats de membre du (Parlement wallon) ou du (Parlement flamand), selon le cas, il doit être présenté en même temps que ceux-ci et dans les mêmes formes, des candidats suppléants. Leur présentation doit, à peine de nullité, être faite dans l'acte même de présentation des candidats aux mandats effectifs, et l'acte doit classer séparément les candidats des deux catégories, présentés ensemble, en spécifiant celles-ci. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le nombre de candidats présentés à la suppléance doit être égal à celui des candidats présentés aux mandats effectifs. Toutefois, lorsque le nombre de candidats présentés aux mandats effectifs est supérieur à seize, le nombre de candidats suppléants est obligatoirement fixé à seize. Lorsque le nombre de candidats présentés aux mandats effectifs est inférieur à quatre, le nombre de candidats suppléants est obligatoirement fixé à quatre.
+L'acte de présentation des candidats titulaires et suppléants indique l'ordre dans lequel les candidats sont présentés dans chacune des deux catégories.
+Aucune liste ne peut comprendre un nombre de candidats titulaires supérieur à celui des membres à élire.
+Sur chacune des listes, ni l'écart entre le nombre des candidats titulaires de chaque sexe, ni celui entre le nombre des candidats suppléants de chaque sexe, ne peuvent être supérieurs à un.
+Ni les deux premiers candidats titulaires, ni les deux premiers candidats suppléants de chacune des listes ne peuvent être du même sexe.) &lt;L 2004-03-02/40, art. 3, 026; <b> En vigueur : </b> 05-04-2004&gt;
+Un électeur ne peut signer plus d'un acte de présentation de candidats pour la même élection. Un membre sortant du (Parlement flamand) et un membre sortant du (Parlement wallon), selon le cas, ne peuvent, dans la même circonscription électorale, signer plus d'un acte de présentation de candidats pour la même élection. L'électeur ou le membre sortant qui contrevient à l'interdiction qui précède est passible des peines édictées à l'article 202 du Code électoral. &lt;BVR 2004-06-11/38, art. 16, 1°, 002; <b> En vigueur : </b> 01-04-2006&gt;
+
+<a name="Art.28bis" href="#Art.28">Art.</a> <a href="#Art.28ter"> 28bis</a>. &lt;inséré par L 1993-07-16/30, art. 22, <b> En vigueur : </b> 1993-07-30&gt; § 1. La présentation de candidats doit être signée soit par un nombre minimum d'électeurs soit par un nombre minimum de membres sortants du (Parlement) concerné. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le (Parlement wallon) et le (Parlement flamand) déterminent par décret, chacun pour ce qui le concerne, les nombres visés au premier alinéa. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Un candidat ne peut figurer sur plus d'une liste pour la même élection.
+Nul ne peut être présenté simultanément dans plus d'une circonscription électorale.
+Le candidat acceptant qui contrevient à l'une ou l'autre interdiction indiquée aux deux alinéas précédents, est passible des peines prévues à l'article 202 du Code électoral. Son nom est rayé de toutes les listes où il figure.
+§ 3. Les électeurs qui présentent les candidats doivent être inscrits au registre de la population d'une commune faisant partie du territoire de la circonscription électorale visée, au moins depuis le nonantième jour précédant celui fixé pour l'élection.
+
+<a name="Art.28ter" href="#Art.28bis">Art.</a> <a href="#Art.28quater"> 28ter</a>. &lt;inséré par L 1993-07-16/30, art. 23, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Sauf si la loi instaure un mode de scrutin au moyen de systèmes automatisés, le bureau principal de la circonscription électorale formule, dès que la liste des candidats est arrêtée, le bulletin de vote conformément au modèle et aux prescriptions prévues par la loi.
+
+<a name="Art.28quater" href="#Art.28ter">Art.</a> <a href="#LNK0012"> 28quater</a>. &lt;inséré par L 1993-07-16/30, art. 24, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Lors des élections pour le renouvellement intégral du (Parlement flamand) et du (Parlement wallon), les candidats d'une liste peuvent, avec l'assentiment des personnes qui les ont présentés, déclarer qu'ils forment groupe, au point de vue de la répartition des sièges, avec les candidats, nominativement désignés, de listes présentées dans d'autres circonscriptions électorales de la même province (...). &lt;L 2004-03-02/40, art. 4, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="LNK0012" href="#LNKR0012">Sous-section 5.</a> - De la répartition des sièges et de la désignation des élus. &lt;L 1993-07-16/30, art. 25, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.29" href="#Art.28quater">Art.</a> <a href="#Art.29bis"> 29</a>. &lt;L 1993-07-16/30, art. 26, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Les élections du (Parlement wallon) et du (Parlement flamand) se font en respectant le système de la représentation proportionnelle. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Toutefois, lorsqu'il n'y a qu'un seul membre du (Parlement wallon) ou du (Parlement flamand) à élire, le candidat qui a obtenu le plus de voix est proclamé élu. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+En cas de parité de voix, le plus âgé est élu.
+
+<a name="Art.29bis" href="#Art.29">Art.</a> <a href="#LNK0013"> 29bis</a>. &lt;inséré par L 1993-07-16/30, art. 27, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Le chiffre électoral de chaque liste est constitué par l'addition du nombre de bulletins exprimant un vote valable pour cette liste.
+Les candidatures isolées (aux mandats effectifs) sont censées constituer chacune une liste distincte. &lt;L 2004-03-02/40, art. 5, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="LNK0013" href="#LNKR0013">I.</a> De la répartition des sièges en l'absence de groupement de listes. &lt;L 1993-07-16/30, art. 28, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.29ter" href="#Art.29bis">Art.</a> <a href="#Art.29quater"> 29ter</a>. &lt;inséré par L 1993-07-16/30, art. 29, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; (Sont seules admises à la répartition des sièges, les listes qui ont obtenu au moins 5 % du total général des votes valablement exprimés dans la circonscription électorale où elles ont été présentées aux suffrages des électeurs.) &lt;L 2004-03-02/40, art. 6, 026; <b> En vigueur : </b> 05-04-2004&gt;
+Le bureau principal de la circonscription divise successivement par 1, 2, 3, 4, 5, etc., le chiffre électoral de chacune des listes (admises à la répartition des sièges) et range les quotients dans l'ordre de leur importance jusqu'à concurrence d'un nombre total de quotients égal à celui des membres à élire. Le dernier quotient sert de diviseur électoral. &lt;L 2004-03-02/40, art. 6, 026; <b> En vigueur : </b> 05-04-2004&gt;
+La répartition entre les listes (admises à la répartition) s'opère en attribuant à chacune d'elles autant de sièges que son chiffre électoral comprend de fois ce diviseur, sauf application de l'article 29quater. &lt;L 2004-03-02/40, art. 6, 026; <b> En vigueur : </b> 05-04-2004&gt;
+Si une liste obtient plus de sièges qu'elle ne porte de candidats (titulaires et suppléants,) (...), les sièges non attribués sont ajoutés à ceux revenant aux autres listes (admises à la répartition) ; la répartition entre celles-ci se fait en poursuivant l'opération indiquée à l'alinéa 1er, chaque quotient nouveau déterminant l'attribution d'un siège en faveur de la liste à laquelle il appartient. &lt;L 2002-01-22/37, art. 3, 021; <b> En vigueur : </b> 05-03-2002&gt; &lt;L 2004-03-02/40, art. 6, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="Art.29quater" href="#Art.29ter">Art.</a> <a href="#LNK0014"> 29quater</a>. &lt;inséré par L 1993-07-16/30, art. 30, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Lorsqu'un siège revient à titre égal à plusieurs listes, il est attribué à celle qui a obtenu le chiffre électoral le plus élevé et, en cas de parité des chiffres électoraux, à la liste où figure le candidat dont l'élection est en cause qui a obtenu le plus de voix ou, subsidiairement, qui est le plus âgé.
+
+<a name="LNK0014" href="#LNKR0014">II.</a> De la répartition des sièges en cas de groupement de listes. &lt;L 1993-07-16/30, art. 31, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.29quinquies" href="#Art.29quater">Art.</a> <a href="#Art.29sexies"> 29quinquies</a>. &lt;inséré par L 1993-07-16/30, art. 32, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Dans les circonscriptions où les candidats d'une ou plusieurs listes ont fait la déclaration de groupement prévue à l'article 28quater de la loi spéciale, le bureau principal de la circonscription établit un diviseur électoral en divisant le total général des (bulletins) valables par le nombre de sièges à conférer dans la circonscription. &lt;L 1995-04-05/30, art. 1, 008; <b> En vigueur : </b> 25-04-1995&gt;
+(Sont seules admises à participer aux opérations prévues dans les alinéas suivants, les listes qui obtiennent au moins 5 % du total général des votes valablement exprimés dans la circonscription.) &lt;L 2004-03-02/40, art. 7, 026; <b> En vigueur : </b> 05-04-2004&gt; (Le bureau principal de la circonscription) divise les chiffres électoraux par ce diviseur et fixe ainsi, à chaque liste, son quotient électoral dont les unités indiquent le nombre de sièges immédiatement acquis. &lt;L 2004-03-02/40, art. 7, 026; <b> En vigueur : </b> 05-04-2004&gt;
+Il divise ensuite chaque quotient électoral par 1, si la liste n'a pas encore de siège, par 2, si elle en a obtenu un, par 3, si elle en a obtenu deux, et ainsi de suite. Le droit éventuel de la liste sera ainsi représenté par la fraction que l'on obtient, lorsque l'on divise son quotient électoral par le nombre de sièges qu'elle occuperait successivement si le siège complémentaire lui était chaque fois attribué.
+Le procès-verbal de ces opérations est adressé immédiatement au président du bureau central provincial, les autres pièces prévues par la loi étant seules transmises au greffier du (Parlement) concerné. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.29sexies" href="#Art.29quinquies">Art.</a> <a href="#Art.29septies"> 29sexies</a>. &lt;L 1993-07-16/30, art. 33, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Le bureau principal de la circonscription dans laquelle se trouve le chef-lieu de la province siège en tant que bureau central provincial. Il se réunit le lendemain du scrutin, à l'heure fixée par le président. Si, par suite d'un retard dans la réception d'un ou de plusieurs procès-verbaux des bureaux principaux de circonscription, le travail se trouve suspendu, la séance peut être interrompue momentanément. Elle est reprise le jour même, ou au besoin, le lendemain, à l'heure prévue pour l'arrivée des documents manquants. Le bureau arrête le chiffre électoral de chaque groupe en additionnant les chiffres électoraux des listes qui en font partie. Les autres listes conservent leurs chiffres électoraux.
+Le bureau arrête, en totalisant les unités des quotients établis par application de l'article 29quinquies, le nombre des sièges déjà acquis aux différents groupes de listes et aux listes isolées pour l'ensemble de la province ainsi que le nombre des sièges à répartir complémentairement.
+(Sont seules admises à la répartition complémentaire, les listes faisant groupement dont le chiffre électoral cumulé de l'ensemble des circonscriptions électorales de la province où elles sont présentées aux suffrages des électeurs atteint au moins 5 % du total général des votes valablement exprimés dans l'ensemble de la province et à la condition que le chiffre électoral qu'elles ont obtenu par circonscription atteigne dans au moins une circonscription de la province, au moins soixante-six pour cent du diviseur électoral fixe en vertu de l'article 29quinquies, alinéa 1er. Les listes isolées qui satisfont à cette double condition sont également admises à la répartition complémentaire.) &lt;L 2004-03-02/40, art. 8, 026; <b> En vigueur : </b> 05-04-2004&gt;
+Le bureau divise successivement leurs chiffres électoraux par 1, 2, 3, etc., si la liste ne comptait encore aucun siège définitivement acquis; par 2, 3, 4, etc., si elle n'en avait acquis qu'un seul; par 3, 4, 5, etc., si elle en avait déjà acquis deux, et ainsi de suite, la première division se faisant chaque fois par un chiffre égal au total des sièges que le groupe ou la liste obtiendraient si le premier des sièges restant à conférer lui était attribué.
+Le bureau classe les quotients dans l'ordre de leur importance jusqu'à concurrence d'un nombre de quotients égal à celui des mandats disponibles; chaque quotient utile détermine en faveur du groupe ou de la liste qu'il concerne l'attribution d'un siège complémentaire.
+§ 2. Le (Parlement flamand) et le (Parlement wallon) peuvent, chacun pour ce qui le concerne, modifier par décret la quotité de voix qu'un groupe de listes doit atteindre pour la répartition des sièges visée au § 1er, alinéa 3. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.29septies" href="#Art.29sexies">Art.</a> <a href="#LNK0015"> 29septies</a>. &lt;inséré par L 1993-07-16/30, art. 34, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Le bureau central provincial procède ensuite à la désignation des circonscriptions où les listes formant groupe obtiendront le ou les sièges complémentaires qui leur reviennent.
+Pour les listes isolées, la désignation est tout indiquée et l'attribution se fait en premier lieu, en commençant par celles auxquelles appartiennent les quotients utiles les plus élevés.
+Pour les listes formant groupe, la désignation se fait de la manière suivante :
+L'ordre d'importance des quotients visés à l'article 29sexies, § 1er, dernier alinéa, détermine l'ordre suivant lequel chaque groupe est successivement appelé à occuper le siège restant à conférer.
+A l'appel de chaque groupe correspond l'appel de la circonscription où le groupe acquiert un siège.
+A cette fin, le bureau central provincial inscrit verticalement, dans autant de colonnes qu'il y a de groupes appelés au partage, les fractions de sièges inscrites aux procès-verbaux de circonscription visés à l'article 29quinquies en les classant suivant l'ordre de leur importance, la première fraction étant celle qui se rapproche le plus de l'unité, et en indiquant en regard de chacune d'elles le nom de la circonscription à laquelle elle se rapporte.
+Le groupe auquel revient le premier siège dans l'attribution complémentaire des mandats l'obtient dans la circonscription qui figure en tête de la colonne réservée à ce groupe et ainsi de suite. Si la circonscription venant en ordre utile se trouve avoir déjà été complètement pourvue, le siège revenant au groupe appelé passe à la circonscription inscrite immédiatement après elle dans la même colonne et, le cas échéant, à la circonscription suivante.
+Si toutes les circonscriptions où le groupe compte des candidats sont déjà pourvues, le siège complémentaire ne pourra lui être attribué, et le mandat laissé vacant dans la circonscription où le groupe ne compte pas de candidats, sera attribué à une autre liste conformément à l'alinéa suivant.
+Lorsque, l'appel des listes et la désignation des circonscriptions étant terminés, il est constaté que, dans une circonscription, une liste obtient plus de sièges qu'elle n'y a de candidats (titulaires et suppléants,) (...), le bureau central provincial ajoute les sièges non attribués à ceux qui reviennent aux autres listes dans la même circonscription, en poursuivant à cet effet les opérations indiquées à l'article 29sexies, § 1er; chaque quotient nouveau détermine, en faveur du groupe ou de la liste à laquelle il appartient et qui compte des candidats en nombre suffisant dans la circonscription, l'attribution d'un siège. &lt;L 2004-03-02/40, art. 9, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="LNK0015" href="#LNKR0015">III.</a> De la désignation des élus. &lt;L 1993-07-16/30, art. 35, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; &lt;L 2002-01-22/37, art. 4, 021; <b> En vigueur : </b> 05-03-2002&gt;
+
+<a name="Art.29octies" href="#Art.29septies">Art.</a> <a href="#Art.29octies1"> 29octies</a>. &lt;L 2004-03-02/40, art. 10, 026; <b> En vigueur : </b> 05-04-2004&gt; Lorsque le nombre de candidats titulaires d'une liste est égal à celui des sièges qui lui reviennent, ces candidats sont tous élus.
+Lorsque le premier de ces nombres est supérieur au second, les sièges sont conférés aux candidats titulaires dans l'ordre décroissant du nombre de voix qu'ils ont obtenues. En cas de parité de voix, l'ordre de présentation prévaut. Préalablement à la désignation des élus, le bureau principal de la circonscription électorale ou le bureau central provincial, selon le cas, procède à l'attribution individuelle aux candidats titulaires de la moitie du nombre des bulletins favorables à l'ordre de présentation de ces candidats. Cette moitié s'établit en divisant par deux le total du nombre des bulletins marqués en tête et des bulletins marqués exclusivement en faveur d'un ou de plusieurs candidats suppléants. L'attribution de ces bulletins se fait d'après un mode dévolutif. Ils sont ajoutés aux suffrages nominatifs obtenus par le premier candidat titulaire de la liste, à concurrence de ce qui est nécessaire pour atteindre le chiffre d'éligibilité spécifique à chaque liste. L'excédent, s'il y en a, est attribué, dans une mesure semblable, au deuxième candidat titulaire, puis au troisième, et ainsi de suite, jusqu'à ce que la moitié du nombre des bulletins favorables à l'ordre de présentation de ces candidats soit épuisée.
+Le chiffre d'éligibilité spécifique à chaque liste s'obtient en divisant le chiffre électoral de la liste tel qu'il est déterminé à l'article 29bis par le nombre de sièges attribués à celle-ci, majoré d'une unité.
+Lorsque le nombre des candidats titulaires d'une liste est inférieur à celui des sièges qui lui reviennent, ces candidats sont élus et les sièges en surplus sont conférés aux candidats suppléants qui arrivent les premiers dans l'ordre indiqué à l'article 29nonies. A défaut de suppléants en nombre suffisant, la répartition des sièges excédentaires est réglée conformément au dernier alinéa de l'article 29ter.
+
+<a name="Art.29octies1" href="#Art.29octies">Art.</a> <a href="#Art.29nonies"> 29octies1</a>. (Abrogé) &lt;L 2004-03-02/40, art. 11, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="Art.29nonies" href="#Art.29octies1">Art.</a> <a href="#Art.29nonies1"> 29nonies</a>. &lt;L 2004-03-02/40, art. 12, 026; <b> En vigueur : </b> 05-04-2004&gt; Dans chaque liste dont un ou plusieurs candidats sont élus conformément à l'article 29octies, les candidats à la suppléance qui ont obtenu le plus grand nombre de voix, ou, en cas de parité de voix, dans l'ordre d'inscription au bulletin de vote, sont déclarés premier, deuxième, troisième suppléant, et ainsi de suite.
+Préalablement à leur désignation, le bureau principal, ayant désigné les titulaires, procède à l'attribution individuelle aux suppléants de la moitié du nombre des bulletins favorables à l'ordre de présentation de ces candidats. Cette moitié s'établit en divisant par deux le total du nombre des bulletins marqués en tête et des bulletins marqués exclusivement en faveur d'un ou de plusieurs candidats titulaires.
+L'attribution de ces bulletins se fait d'après un mode dévolutif. Ils sont ajoutés aux suffrages nominatifs obtenus par le premier candidat suppléant, à concurrence de ce qui est nécessaire pour atteindre le chiffre d'éligibilité visé à l'article 29octies, alinéa 3. L'excédent, s'il y en a, est attribué dans une mesure semblable au deuxième candidat suppléant, puis au troisième, et ainsi de suite, suivant l'ordre de présentation, jusqu'à ce que la moitié du nombre des bulletins favorables à l'ordre de présentation de ces candidats soit épuisée.
+Aucune attribution ne se fait au profit des candidats qui sont présentés à la fois comme titulaires et comme suppléants et qui sont déjà désignés comme élus parmi les titulaires conformément à l'article 29octies.
+
+<a name="Art.29nonies1" href="#Art.29nonies">Art.</a> <a href="#Art.29decies"> 29nonies1</a>. &lt;Inséré par L 2004-03-02/40, art. 13; <b> En vigueur : </b> 05-04-2004&gt; Les éventuelles décimales du quotient que l'on obtient d'une part, en divisant par deux le total des bulletins visés aux articles 29octies et 29nonies, qui sont favorables à l'ordre de présentation respectivement des candidats titulaires et des candidats suppléants, et d'autre part, en divisant le chiffre électoral de la liste visé à l'article 29bis par le nombre des sièges qui lui reviennent, majoré d'une unité, en vue d'établir le chiffre d'éligibilité spécifique à cette liste, conformément à l'article 29octies, alinéa 3, sont arrondies à l'unité supérieure, qu'elles atteignent ou non 0,50.
+
+<a name="Art.29decies" href="#Art.29nonies1">Art.</a> <a href="#Art.29undecies"> 29decies</a>. &lt;inséré par L 1993-07-16/30, art. 38, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Le résultat du recensement général des votes et les noms des élus sont proclamés publiquement.
+
+<a name="Art.29undecies" href="#Art.29decies">Art.</a> <a href="#LNK0016"> 29undecies</a>. &lt;inséré par L 1993-07-16/30, art. 39, <b> En vigueur : </b> 08-06-1995 "a partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Les opérations visées aux articles 29octies à 29decies sont effectuées par le bureau principal de la circonscription dans le cas visé au point I et par le bureau central provincial dans le cas visé au point II.
+(Alinéa 2 abrogé) &lt;L 2004-03-02/40, art. 14, 026; <b> En vigueur : </b> 05-04-2004&gt;
+
+<a name="LNK0016" href="#LNKR0016">Sous-section 6.</a> - De l'élection des membres bruxellois. &lt;L 1993-07-16/30, art. 40, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+
+<a name="Art.30" href="#Art.29undecies">Art.</a> <a href="#LNK0017"> 30</a>. &lt;L 1993-07-16/30, art. 41, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. (Au § 1er sont apportées les modifications suivantes :
+a) l'alinéa premier est remplacé par ce qui suit :
+" § 1er. Les articles 13 à 19 et 21 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises sont d'application, moyennant les adaptations nécessaires, pour l'élection des membres du Conseil flamand visés à l'article 24, § 1er, alinéa 1er, 2°, de la présente loi. Toutefois, pour l'application de ces articles, il y a lieu de lire " (Parlement flamand)" au lieu de " (Parlement) &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A et B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Pour l'élection des membres visés à l'article 24, (...) § 3, alinéa 1er, 2°, chaque groupe politique adresse avant la fin de la deuxième semaine suivant les élections directes générales du (Parlement wallon) (...) selon le cas, au président du (Parlement de la Région de Bruxelles-Capitale) ou, si le président appartient à l'autre groupe linguistique du (Parlement de la Région de Bruxelles-Capitale) visé à l'article 23 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, au premier vice-président du (Parlement de la Région de Bruxelles-Capitale), une liste indiquant, dans l'ordre de préséance, les noms de ceux de ses membres qu'il désigne pour faire partie, (...) du (Parlement de la Communauté française) (...) et ce, jusqu'à concurrence du nombre de mandats revenant au groupe en application de l'alinéa 3. &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le nombre de mandats des membres visés à l'article 24, (...) § 3, alinéa 1er, 2°, revenant à chaque groupe politique est déterminé par l'ordre obtenu en application de l'article 20, § 2, alinéa 3, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises. &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les listes des membres désignés pour faire partie du (Parlement de la Communauté française) (...), ne sont valables que si elles sont signées par la majorité des membres élus sur la même liste. &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le président ou, selon le cas, le vice-président du (Parlement de la Région de Bruxelles-Capitale) vérifie si les conditions pour l'établissement des listes de membres désignés pour faire partie du (Parlement de la Communauté française) (...) sont réunies. Il déclare les membres désignés élus. &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. Pour l'application du présent article, sont considérés comme formant un groupe politique, les membres d'un groupe linguistique qui ont été élus sur une même liste.
+§ 3. En cas de vacance d'un mandat visé à l'article 24, § 1er, alinéa 1er, 2°, première phrase, le président du(Parlement de la Région de Bruxelles-Capitale), ou, selon le cas, si le président n'appartient pas au groupe linguistique néerlandais du (Parlement de la Région de Bruxelles-Capitale) visé à l'article 23 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, le premier vice-président du (Parlement de la Région de Bruxelles-Capitale), pourvoit sans délai à la vacance en déclarant élu son suppléant (...). &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+En cas (...) de vacance d'un mandat visé à l'article 24, § 1er, alinéa 1er, 2°, deuxième phrase, et § 3, alinéa 1er, 2°, les membres du groupe politique concerné du groupe linguistique français ou néerlandais du (Parlement de la Région de Bruxelles-Capitale) visé à l'article 23 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, selon le cas, qui ont précédemment procédé à la désignation au siège concerné, pourvoient sans délai à la vacance par une nouvelle désignation; le successeur achève le mandat de son prédécesseur. &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 4. Pour ce qui concerne l'élection des membres visés à l'article 24, § 1er, alinéa 1er, 2°, le résultat du recensement général des votes et le nom des élus sont proclamés publiquement par le bureau régional visé à l'article 16 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises et transmis au (Parlement flamand).) &lt;L 2001-07-13/34, art. 14, 016; <b> En vigueur : </b> 13-06-2004 (art. 41)&gt;
+
+<a name="LNK0017" href="#LNKR0017">Sous-section 7.</a> &lt;Insérée par L 2002-01-22/37, art. 8; <b> En vigueur : </b> 05-03-2002&gt; - Des modalités de l'élection autres que celles réglées par la présente loi.
+
+<a name="Art.30bis" href="#Art.30">Art.</a> <a href="#Art.31"> 30bis</a>. &lt;Inséré par L 2002-01-22/37, art. 8; <b> En vigueur : </b> 05-03-2002&gt; Les mesures présentant un caractère accessoire ou de détail en vue de l'organisation de l'élection du (Parlement flamand) et du (Parlement wallon) sont déterminées par la loi ordinaire. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.31" href="#Art.30bis">Art.</a> <a href="#Art.31bis"> 31</a>. &lt;L 1993-07-16/30, art. 42, 006; <b> En vigueur : </b> 1993-07-30 et 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Chaque (Parlement) se prononce sur la validité des opérations électorales en ce qui concerne ses membres et leurs suppléants. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+En cas d'annulation de l'élection, toutes les formalités doivent être recommencées, y compris les présentations de candidats.
+§ 2. Toute réclamation contre une élection doit, à peine de déchéance, être formulée par écrit, être signée par un des candidats et mentionner l'identité et le domicile du réclamant.
+Elle doit être remise dans les dix jours de l'établissement du procès-verbal, et en tout cas avant la vérification des pouvoirs, au greffier du Conseil concerné, qui est tenu d'en donner récépissé.
+§ 3. Chaque (Parlement) vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 4. Les greffiers du (Parlement wallon) et du (Parlement flamand) peuvent, en vue de la vérification des pouvoirs, par leurs assemblées respectives, se faire communiquer sans frais par les autorités administratives les documents qu'ils jugent utiles.) &lt;L 1995-04-05/30, art. 5, 008; <b> En vigueur : </b> 25-04-1995&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 5. (Chaque (Parlement) ou l'organe désigné par lui exerce, selon les règles définies par décret, le contrôle sur : &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+- les dépenses électorales et l'origine des fonds qui y ont été affectés, pour ce qui concerne l'élection du (Parlement). L'autorité fédérale est toutefois compétente pour régler les procédures et les formalités de déclaration;
+- toutes les communications et campagnes d'information de son gouvernement ou d'un ou de plusieurs de ses membres, ainsi que celles du président du (Parlement), qui sont destinées au public.) &lt;L 2004-04-25/42, art. 3, 028; <b> En vigueur : </b> 07-05-2004&gt; &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les Chambres législatives, le (Parlement) concerné ou l'organe désigné par lui, sont tenus d'exécuter les sanctions imposées par une autre assemblée ou par l'organe désigné par elle en application de la législation fédérale relative à la limitation des dépenses électorales.) &lt;L 2001-07-13/34, art. 15, 016; <b> En vigueur : </b> 01-01-2002&gt; &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 6. Les (Parlements) sont compétents en ce qui concerne le financement complémentaire des partis politiques, tels que définis par l'article 1er, 1°, de la loi du 19 mai 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections du (Parlement wallon), du (Parlement flamand) et du (Parlement de la Région de Bruxelles-Capitale) et du (Parlement de la Communauté germanophone).) &lt;L 2001-07-13/34, art. 16, 016; <b> En vigueur : </b> 01-01-2002&gt; &lt;L 2006-03-27/33, art. 2, A et C, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.31bis" href="#Art.31">Art.</a> <a href="#Art.31ter"> 31bis</a>. &lt;inséré par L 1993-07-16/30, art. 43, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Avant d'entrer en fonction, les membres du (Parlement flamand) prêtent serment de la manière suivante : " Ik zweer de Grondwet na te leven ". &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Avant d'entrer en fonction, les membres du (Parlement de la Communauté française) et du (Parlement wallon) prêtent serment de la manière suivante : " Je jure d'observer la Constitution ". &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Les membres du (Parlement wallon) qui sont domiciliés dans une commune de la région de langue allemande visée à l'article 5 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, peuvent, avant d'entrer en fonction, prêter serment de la manière suivante : " Ich schwöre, die Verfassung zu befolgen ". &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.31ter" href="#Art.31bis">Art.</a> <a href="#LNK0018"> 31ter</a>. &lt;inséré par L 1993-07-16/30, art. 44, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Chaque (Parlement) fixe le montant de l'indemnité allouée à ses membres. Cette indemnité a le même statut que l'indemnité des membres de la Chambre des représentants, qu'elle ne peut dépasser. Elle ne peut être cumulée avec l'indemnité de sénateur. Elle peut être cumulée avec l'indemnité allouée par un autre (Parlement), mais l'indemnité cumulée ne peut pas dépasser l'indemnité attribuée aux membres de la Chambre des représentants. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Lorsque l'indemnité cumulée dépasse l'indemnité attribuée aux membres de la Chambre des représentants, l'indemnité allouée par le (Parlement) pour lequel le membre n'est pas élu directement est réduite en conséquence. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Chaque (Parlement) fixe l'indemnité allouée aux membres de son bureau. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Chaque (Parlement) arrête également le régime de pension de ses membres et fixe les modalités de remboursement de leurs frais de déplacement. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 1bis. Le montant des indemnités, traitements ou jetons de présence perçus en rétribution des activités exercées par le membre du (Parlement de la Communauté française), du (Parlement wallon) et du (Parlement flamand) en dehors de son mandat de (membre du parlement), ne peut excéder la moitié du montant de l'indemnité allouée en exécution du § 1er. &lt;L 2006-03-27/33, art. 2, D, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Sont pris en considération pour le calcul de ce montant les indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+En cas de dépassement de la limite fixée à l'alinéa 1er, le montant de l'indemnité prévue au § 1er est diminué, sauf lorsque le mandat de membre du (Parlement de la Communauté française, du (Parlement wallon) ou du (Parlement flamand) est cumulé avec un mandat de bourgmestre, d'échevin ou de président d'un Conseil de l'aide sociale. Dans ce cas, le traitement afférent au mandat de bourgmestre, d'échevin ou de président du conseil de l'aide sociale est diminué. &lt;L 2006-03-27/33, art. 2, A, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Lorsque les activités visées aux alinéas 1er et 2 débutent ou prennent fin en cours du mandat parlementaire, le (membre) concerné en informe le président de son assemblée. &lt;L 2006-03-27/33, art. 2, D, 032; <b> En vigueur : </b> 21-04-2006&gt;
+Le règlement de chaque assemblée organise les modalités d'exécution des présentes dispositions.) &lt;L 1999-05-04/90, art. 3, 014; <b> En vigueur : </b> 2001-01-31&gt;
+§ 2. Les charges résultant de l'application du § 1er sont supportées par le budget de la Communauté ou de la Région du (Parlement) concerné. &lt;L 2006-03-27/33, art. 2, B, 032; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="LNK0018" href="#LNKR0018">Section 2.</a> Du fonctionnement.
+
+<a name="LNK0019" href="#LNKR0019">Sous-section première.</a> _ Dispositions communes.
+
+<a name="Art.32" href="#Art.31ter">Art.</a> <a href="#Art.33"> 32</a>. &lt;NOTE : le présent article est modifié par l'article 53bis.&gt; § 1. (Le Parlement flamand) et (le Parlement de la Communauté française) se réunissent de plein droit chaque année, le troisième mardi d'octobre. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 (Le Parlement wallon) se réunit de plein droit chaque année, le troisième mercredi d'octobre. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Ils peuvent être réunis antérieurement par leur (Gouvernement). Ils doivent rester réunis chaque année au moins quarante jours. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 (Après chaque renouvellement, le (Parlement wallon) se réunit de plein droit le troisième mardi qui suit le renouvellement. Après chaque renouvellement, le (Parlement flamand) et le (Parlement de la Communauté française) se réunissent de plein droit le quatrième mardi qui suit le renouvellement.) &lt;L 1993-07-16/30, art. 45, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
@@ -18,14 +571,10 @@ Ils peuvent être réunis antérieurement par leur (Gouvernement). Ils doivent r
 (Après chaque renouvellement, le (Parlement wallon) se réunit de plein droit le troisième mardi qui suit le renouvellement. Après chaque renouvellement, le (Parlement flamand) et le (Parlement de la Communauté française) se réunissent de plein droit le quatrième mardi qui suit le renouvellement.) &lt;L 1993-07-16/30, art. 45, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. Chaque (Parlement) peut être convoqué en session extraordinaire par son Exécutif. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 § 3. (Le Gouvernement) prononce la clôture de la session. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+++++++++++once la clôture de la session. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 ++++++++++
-Art. 32. (REGION FLAMAND)
-&lt;NOTE : le présent article est modifié par l'article 53bis.&gt; § 1. Le Parlement flamand se réunit de plein droit chaque année le quatrième lundi de septembre. &lt;DCFL 1996-07-24/34, art. 2, 010; <b> En vigueur : </b> 01-09-1996&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-(Le Parlement wallon) se réunit de plein droit chaque année, le troisième mercredi d'octobre. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-Ils peuvent être réunis antérieurement par leur (Gouvernement). Ils doivent rester réunis chaque année au moins quarante jours. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
-(Après chaque renouvellement, le (Parlement wallon) se réunit de plein droit le troisième mardi qui suit le renouvellement. Après chaque renouvellement, le (Parlement flamand) et le (Parlement de la Communauté française) se réunissent de plein droit le quatrième mardi qui suit le renouvellement.) &lt;L 1993-07-16/30, art. 45, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-§ 2. Chaque (Parlement) peut être convoqué en session extraordinaire par son Exécutif. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
-§ 3. (Le Gouvernement) prononce la clôture de la session. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Art. 32. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 ++++++++++
 Art. 32. (COMMUNAUTE FRANCAISE)
 &lt;NOTE : le présent article est modifié par l'article 53bis.&gt; § 1. (Le Parlement de la Communauté française se réunit de plein droit chaque année, le jeudi qui suit le troisième dimanche de septembre.) &lt;DCFR 2006-06-30/45, art. 2, 035; <b> En vigueur : </b> 28-08-2006&gt;
@@ -49,15 +598,24 @@ Le (Parlement) élit en son sein son président, ses vice-présidents et secrét
 § 2. Pour l'élection des membres du bureau, lorsque la majorité absolue n'est pas atteinte au premier vote, il est procédé à un second vote pour départager les deux candidats ayant obtenu le plus grand nombre de suffrages après désistement éventuel. Le cas échéant, la participation au second vote est déterminée en tenant compte des règles définies au deuxième alinéa.
 En cas de parité de suffrages, la préférence est donnée au candidat qui, sans interruption, remplit depuis le plus longtemps un mandat parlementaire. A ancienneté égale, la préférence est donnée au candidat le plus jeune.
 ++++++++++
-Art. 33. (Communauté française.)
+Art. 33. (COMMUNAUTE FRANCAISE)
 § 1. (A l'ouverture de chaque session, le Président du (Parlement) sortant, ou, à défaut, un Vice-Président du (Parlement) sortant dans l'ordre de présidence, ou, à défaut, le membre du (Parlement) comptant la plus grande ancienneté dans cette qualité de membre, occupe le fauteuil de la présidence jusqu'à la nomination du nouveau Président. Il est assisté de la membre la plus jeune et du membre le plus jeune.) &lt;DCFR 2004-07-23/30, art. 2, 030; <b> En vigueur : </b> 08-10-2004&gt;
 Le Conseil élit en son sein son président, ses vice-présidents et secrétaires. Ils forment le bureau du (Parlement). &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. Pour l'élection des membres du bureau, lorsque la majorité absolue n'est pas atteinte au premier vote, il est procédé à un second vote pour départager les deux candidats ayant obtenu le plus grand nombre de suffrages après désistement éventuel. Le cas échéant, la participation au second vote est déterminée en tenant compte des règles définies au deuxième alinéa.
 En cas de parité de suffrages, la préférence est donnée au candidat qui, sans interruption, remplit depuis le plus longtemps un mandat parlementaire. A ancienneté égale, la préférence est donnée au candidat le plus jeune.
+++++++++++
+Art. 33. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>. Les séances des (Parlements) sont publiques. &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Néanmoins, chaque (Parlement) se forme en comité secret, sur la demande de son président ou de cinq membres. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Le (Parlement) décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 34. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>. (§ 1.) Les (Parlements) ne peuvent prendre de résolution qu'autant que la majorité de leurs membres se trouve réunie. &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
 (§ 2.) Toute résolution est prise à la majorité absolue des suffrages, sauf ce qui sera établi par les règlements des (Parlements) à l'égard des élections et présentations. &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
@@ -70,6 +628,11 @@ Les élections et présentations de candidats se font au scrutin secret.
 <a name="Art.37" href="#Art.36">Art.</a> <a href="#Art.37bis"> 37</a>. &lt;L 1993-07-16/30, art. 47, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Les ministres communautaires et régionaux n'ont voix délibérative au (Parlement) que quand ils en sont membres. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Ils ont leur entrée au (Parlement) et doivent être entendus quand ils le demandent. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Le (Parlement) peut requérir la présence des membres du Gouvernement.
+COMMUNAUTES ET REGIONS
+======================
+Art. 37. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.37bis" href="#Art.37">Art.</a> <a href="#Art.38"> 37bis</a>. &lt;inséré par L 1993-07-16/30, art. 48, <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Le (Parlement flamand) peut décider par décret d'associer à ses travaux, sans voix délibérative, des sénateurs visés à l'article 53, § 1er, 1°, de la Constitution. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Le (Parlement de la Communauté française) et le (Parlement wallon) peuvent, chacun pour ce qui le concerne, décider par décret d'associer à leurs travaux, sans voix délibérative, des sénateurs visés à l'article 53, § 1er, 2°, de la Constitution. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
@@ -86,11 +649,10 @@ Chaque membre du (Parlement) peut demander une seconde lecture selon le mode dé
 
 <a name="Art.41" href="#Art.40">Art.</a> <a href="#Art.42"> 41</a>. Il est interdit de présenter en personne des pétitions aux (Parlements). &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Chaque (Parlement) a le droit de renvoyer (au Gouvernement) les pétitions qui lui sont adressées. (Le Gouvernement) est tenu de donner des explications sur leur contenu, chaque fois que le (Parlement) l'exige. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
-Art. 41 (COMMUNAUTE FLAMANDE)
-&lt;DCFL %%2001-07-06/34%%, art. 6 ; <b> En vigueur : </b> 13-08-2001&gt; § 1er. Chacun a le droit de présenter au Parlement flamand des requêtes signées par une ou plusieurs personnes.
-Le Parlement flamand a le droit de renvoyer au Gouvernement flamand les requêtes qui lui sont adressées avec la demande de donner des explications sur leur contenu.
-§ 2. Le Parlement flamand est tenu d'examiner en séance plénière les requêtes présentées par des personnes ayant atteint l'âge de seize ans et dont le nombre est fixé par le décret.
-§ 3. Le décret détermine les conditions d'exercice de ce droit et les modalités de traitement des requêtes.
+COMMUNAUTES ET REGIONS
+======================
+Art. 41 (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 
 <a name="Art.42" href="#Art.41">Art.</a> <a href="#Art.43"> 42</a>. Aucun membre d'un (Parlement) ne peut être poursuivi ou recherché à l'occasion des opinions et votes émis par lui dans l'exercice de ses fonctions. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006
 
@@ -103,26 +665,39 @@ Chaque (Parlement) prévoit dans son règlement les mesures qu'il juge utiles po
 
 <a name="Art.46" href="#Art.45">Art.</a> <a href="#Art.47"> 46</a>. Le bureau prépare les séance du (Parlement) et propose l'ordre du jour. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Il nomme les membres du personnel du (Parlement), à l'exception du greffier. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
+++++++++++
+COMMUNAUTES ET REGIONS
+======================
+Art. 46. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.47" href="#Art.46">Art.</a> <a href="#Art.48"> 47</a>. Sur présentation de son bureau, chaque (Parlement) nomme un greffier en dehors de ses membres. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Le greffier assiste aux séances du (Parlement) et du bureau et en dresse le procès-verbal. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 Au nom du bureau, il a autorité sur tous les services et sur le personnel du (Parlement). &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
-Art. 47. (COMMUNAUTE FLAMANDE)
-&lt;inséré par DCFL 1999-05-18/39, art. 2&gt; § 1er. Le Parlement flamand nomme en dehors de ses membres et sur la proposition du Bureau, un greffier suivant la procédure prévue par le statut que le Parlement flamand fixe en vertu de l'article 45 et cela suite à une sélection effectuée par une instance extérieure au Parlement flamand.
-Le greffier exerce sa fonction par mandat, tel que décrit dans le statut du personnel du Parlement flamand.
-§ 2. Le greffier assiste aux séances du Parlement et du Bureau et en dresse le procès-verbal.
-Au nom du Bureau, il a autorité sur tous les services et le personnel du Parlement. Il peut déléguer, en vertu de l'article 45, certaines compétences à des membres du personnel qui sont sous son autorité, conformément aux dispositions du statut du personnel du Parlement flamand.
+++++++++++
+COMMUNAUTES ET REGIONS
+======================
+Art. 47. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.48" href="#Art.47">Art.</a> <a href="#Art.48bis"> 48</a>. Toute résolution du (Parlement) et toute décision du bureau sont signées par le président et par le greffier.
+++++++++++
+COMMUNAUTES ET REGIONS
+======================
+Art. 48. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.48bis" href="#Art.48">Art.</a> <a href="#Art.49"> 48bis</a>. &lt;Inséré par L 2003-07-10/44, art. 2; <b> En vigueur : </b> 01-09-2003&gt; Le (Parlement) représente la Communauté ou la Région dans les actes judiciaires et extrajudiciaires si l'objet du litige ou de l'acte entre dans les attributions du (Parlement). &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 La Communauté ou la Région est citée au greffe du (Parlement). Les actions de la Communauté ou de la Région, visées au présent article, en demandant ou en défendant, sont exercées au nom du (Parlement), poursuites et diligences du président, ou, lorsque la session est close, du greffier. Le (Parlement) mis en cause ne peut contester que l'objet du litige entre dans ses attributions qu'à la condition de se substituer en même temps le Gouvernement. &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 L'organe compétent pour agir au nom du (Parlement) dans les actes extrajudiciaires est désigné par le règlement du (Parlement). &lt;L 2006-03-27/33, art. 2, B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 
-<a name="Art.49" href="#Art.48bis">Art.</a> <a href="#LNK0003"> 49</a>. &lt;L 1993-07-16/30, art. 49, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Les (Parlements) peuvent, chacun pour ce qui le concerne, modifier, compléter, remplacer ou abroger par décret les dispositions des articles 32, 33, 34, 37, 41, 46, 47 et 48, ainsi que la disposition du Chapitre III, section II. &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
+<a name="Art.49" href="#Art.48bis">Art.</a> <a href="#LNK0020"> 49</a>. &lt;L 1993-07-16/30, art. 49, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Les (Parlements) peuvent, chacun pour ce qui le concerne, modifier, compléter, remplacer ou abroger par décret les dispositions des articles 32, 33, 34, 37, 41, 46, 47 et 48, ainsi que la disposition du Chapitre III, section II. &lt;L 2006-03-27/33, art. 2, C, 033; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. Le (Parlement de la Communauté française) le (Parlement wallon) et le (Parlement flamand) peuvent, chacun en ce qui le concerne, décider par décret qu'un membre du (Parlement), élu en qualité de membre de leur Gouvernement, cesse immédiatement de siéger et reprend ses fonctions après avoir démissionné de ses fonctions de membre du Gouvernement. Le décret prévoit son remplacement au (Parlement). &lt;L 2006-03-27/33, art. 2, A et B, 033; <b> En vigueur : </b> 21-04-2006&gt;
 
-<a name="LNK0003" href="#LNKR0003">Sous-section 2.</a> _ Dispositions particulières.
+<a name="LNK0020" href="#LNKR0020">Sous-section 2.</a> _ Dispositions particulières.
 
 <a name="Art.50" href="#Art.49">Art.</a> <a href="#Art.51"> 50</a>. &lt;L 1993-07-16/30, art. 50, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Les membres du (Parlement flamand) visés à l'article 24, § 1er, alinéa 1er, 2°, ne participent pas aux votes au sein du (Parlement flamand) sur les matières relevant de la compétence de la Région flamande. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 (Les membres du (Parlement wallon) qui ont exclusivement ou en premier lieu prêté serment en allemand, ne participent pas aux votes au sein du (Parlement wallon) sur les matières relevant de la compétence de la Communauté française.) &lt;L 2002-04-29/36, art. 4, 022; <b> En vigueur : </b> 24-06-2002&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
@@ -131,42 +706,33 @@ L'organe compétent pour agir au nom du (Parlement) dans les actes extrajudiciai
 
 <a name="Art.52" href="#Art.51">Art.</a> <a href="#Art.53"> 52</a>. &lt;L 1993-07-16/30, art. 52, 006; <b> En vigueur : </b> 1993-07-30&gt; Le (Parlement de la Communauté française) et le (Parlement wallon) peuvent régler leur coopération mutuelle et celle de leurs services, tenir des assemblées communes et organiser des services communs. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 
-<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0004"> 53</a>. (Au (Parlement wallon) les projets et propositions de décret, ainsi que les amendements (...) sont présentés et mis aux voix en langue française. Lorsqu'elle est demandée, la traduction en langue allemande est de droit. &lt;L 1993-07-16/30, art. 53, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0021"> 53</a>. (Au (Parlement wallon) les projets et propositions de décret, ainsi que les amendements (...) sont présentés et mis aux voix en langue française. Lorsqu'elle est demandée, la traduction en langue allemande est de droit. &lt;L 1993-07-16/30, art. 53, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 (Toutefois, des propositions de décret et des amendements peuvent être déposés en langue allemande par les membres du (Parlement) qui sont domiciliés dans une commune de la région de langue allemande déterminée par l'article 5 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.) &lt;L 1993-07-16/30, art. 53, § 2, 006; <b> En vigueur : </b> 1993-07-30&gt;
 La traduction de ces propositions et amendements est assurée par les soins du bureau.
 Les membres du (Parlement) visés à l'alinéa 2, (...), peuvent s'exprimer en langue allemande. La traduction de leurs déclarations est assurée simultanément et reproduite dans les comptes rendus des débats. &lt;L 1993-07-16/30, art. 53, § 3, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-Le (Parlement) prévoit dans son règlement les mesures qu'il juge utiles pour assurer l'exécution des présentes dispositions. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+Le (Parlement) prévoit dans son règlement les mesures qu'il juge utiles pour assurer l'exécution des présentes dispositions. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt; ++++++++++
+COMMUNAUTES ET REGIONS
+======================
+(COMMUNAUTE FLAMANDE et REGION FLAMANDE)
 
-<a name="LNK0004" href="#LNKR0004">Sous-section 3 </a>- &lt;insérée par DCFL 1996-07-24/34, art. 2, 010; <b> En vigueur : </b> 01-09-1996&gt; Dispositions propres au Parlement flamand.
+<a name="LNK0021" href="#LNKR0021">Sous-section 3</a>- &lt;insérée par DCFL 1996-07-24/34, art. 2, 010; <b> En vigueur : </b> 01-09-1996&gt; Dispositions propres au Parlement flamand.
 
-<a name="Art.53bis" href="#Art.53">Art.</a> <a href="#Art.53ter"> 53bis</a>. &lt;inséré par DCFL 1996-07-24/34, art. 2, 010; <b> En vigueur : </b> 01-09-1996&gt; A l'article 32, § 1er, le premier alinéa est remplacé, pour ce qui concerne le Parlement flamand, par ce qui suit :
-"Le Parlement flamand se réunit de plein droit chaque année le quatrième lundi de septembre."."
+<a name="Art.53bis" href="#Art.53">Art.</a> <a href="#Art.53ter"> 53bis</a>. (Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 2°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 
-<a name="Art.53ter" href="#Art.53bis">Art.</a> <a href="#Art.53quater"> 53ter</a>. &lt;inséré par DCFL 1997-07-15/45, art. 2, <b> En vigueur : </b> 01-09-1997&gt; Dans l'article 33, § 1er, Section II, le premier alinéa est remplacé, pour ce qui concerne le Parlement flamand, par la disposition suivante :
-" A l'ouverture de chaque session, le doyen d'âge du Parlement flamand préside le Parlement flamand, assisté des deux membres les plus jeunes. Pour le calcul et la durée de la qualité de membre du Parlement flamand, la qualité de membre du Conseil culturel pour la Communauté culturelle néerlandaise et du (Parlement) flamand est prise en considération. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-A ancienneté égale, la préférence est donnée au candidat le plus âgé. ".
+<a name="Art.53ter" href="#Art.53bis">Art.</a> <a href="#Art.53quater"> 53ter</a>. (Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 2°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 
-<a name="Art.53quater" href="#Art.53ter">Art.</a> <a href="#Art.53quinquies"> 53quater</a>. &lt;Inséré par DCFL 1998-07-14/55, art. 2, <b> En vigueur : </b> 26-09-1998&gt; L'article 41 est remplacé, pour ce qui concerne le Parlement flamand, par les dispositions suivantes :
-" Art. 41. § 1er. Chacun a le droit de présenter au Parlement flamand des requêtes signées par une ou plusieurs personnes.
-Le Parlement flamand a le droit de renvoyer au Gouvernement flamand les requêtes qui lui sont adressées avec la demande de donner des explications sur leur contenu.
-§ 2. Le Parlement flamand est tenu d'examiner en séance plénière les requêtes présentées par des personnes ayant atteint l'âge de seize ans et dont le nombre est fixé par le décret.
-§ 3. Le décret détermine les conditions d'exercice de ce droit et les modalités de traitement des requêtes. ".
+<a name="Art.53quater" href="#Art.53ter">Art.</a> <a href="#Art.53quinquies"> 53quater</a>. (Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 2°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 
-<a name="Art.53quinquies" href="#Art.53quater">Art.</a> <a href="#LNK0005"> 53quinquies</a>. &lt;Inséré par DCFL 1999-05-18/39, art. 2; <b> En vigueur : </b> 09-07-1999&gt; L'article 47 est remplacé par les dispositions suivantes, pour ce qui concerne le Parlement flamand :
-" Article 47
-§ 1er. Le Parlement flamand nomme en dehors de ses membres et sur la proposition du Bureau, un greffier suivant la procédure prévue par le statut que le Parlement flamand fixe en vertu de l'article 45 et cela suite à une sélection effectuée par une instance extérieure au Parlement flamand.
-Le greffier exerce sa fonction par mandat, tel que décrit dans le statut du personnel du Parlement flamand.
-§ 2. Le greffier assiste aux séances du Parlement et du Bureau et en dresse le procès-verbal.
-Au nom du Bureau, il a autorité sur tous les services et le personnel du Parlement. Il peut déléguer, en vertu de l'article 45, certaines compétences à des membres du personnel qui sont sous son autorité, conformément aux dispositions du statut du personnel du Parlement flamand. ".
+<a name="Art.53quinquies" href="#Art.53quater">Art.</a> <a href="#LNK0022"> 53quinquies</a>. (Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 2°, 036; <b> En vigueur : </b> 27-10-2006&gt;
 
-<a name="LNK0005" href="#LNKR0005">Section 3.</a> - De la publication et de l'entrée en vigueur des décrets
+<a name="LNK0022" href="#LNKR0022">Section 3.</a> - De la publication et de l'entrée en vigueur des décrets
 
 <a name="Art.54" href="#Art.53quinquies">Art.</a> <a href="#Art.55"> 54</a>. § 1. La sanction et la promulgation des décrets du (Parlement flamand) se font de la manière suivante : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 "De Vlaamse Raad heeft aangenomen en Wij, (Regering), bekrachtigen hetgeen volgt :
 (décret)
 Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt" &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
-§ 2. La sanction et la promulgation des décrets du (Parlement de la Communauté franäise) se font de la manière suivante : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
-"Le (Parlement de la Communauté franäise) a adopté et Nous, (Gouvernement), sanctionnons ce qui suit : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+§ 2. La sanction et la promulgation des décrets du (Parlement de la Communauté française) se font de la manière suivante : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+"Le (Parlement de la Communauté française) a adopté et Nous, (Gouvernement), sanctionnons ce qui suit : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 (décret)
 Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge." &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 § 3. La sanction et la promulgation des décrets du (Parlement wallon) se font de la manière suivante : &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
@@ -174,17 +740,17 @@ Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
 (décret)
 Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge." &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>. Après promulgation, les décrets du (Parlement flamand) sont publiés au Moniteur belge, avec une traduction en langue française, les décrets du (Parlement de la Communauté françcaise) avec une traduction en langue néerlandaise et les décrets du (Parlement wallon) avec une traduction en langue néerlandaise et en langue allemande. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
+<a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>. Après promulgation, les décrets du (Parlement flamand) sont publiés au Moniteur belge, avec une traduction en langue française, les décrets du (Parlement de la Communauté française) avec une traduction en langue néerlandaise et les décrets du (Parlement wallon) avec une traduction en langue néerlandaise et en langue allemande. &lt;L 2006-03-27/33, art. 2, A, 033; <b> En vigueur : </b> 21-04-2006&gt;
 
 <a name="Art.56" href="#Art.55">Art.</a> <a href="#Art.57"> 56</a>. Les décrets sont obligatoires le dixième jour après celui de leur publication au Moniteur belge, à moins qu'ils n'aient fixé un autre délai.
 
 <a name="Art.57" href="#Art.56">Art.</a> <a href="#Art.58"> 57</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="Art.58" href="#Art.57">Art.</a> <a href="#LNK0006"> 58</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+<a name="Art.58" href="#Art.57">Art.</a> <a href="#LNK0023"> 58</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="LNK0006" href="#LNKR0006">CHAPITRE III.</a> _ Des Exécutifs.
+<a name="LNK0023" href="#LNKR0023">CHAPITRE III.</a> _ Des Exécutifs.
 
-<a name="LNK0007" href="#LNKR0007">Section 1ère.</a> _ De la composition.
+<a name="LNK0024" href="#LNKR0024">Section 1ère.</a> _ De la composition.
 
 <a name="Art.59" href="#Art.58">Art.</a> <a href="#Art.60"> 59</a>. &lt;L 1993-07-16/30, art. 54, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; § 1. Chaque Gouvernement de Communauté et de Région est élu par le (Parlement). &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. Pour être élu en qualité de membre du Gouvernement flamand, du Gouvernement de la Communauté française ou du Gouvernement wallon, il faut :
@@ -218,7 +784,7 @@ La désignation du président est ratifiée par le Roi, entre les mains duquel i
 <a name="Art.62" href="#Art.61">Art.</a> <a href="#Art.63"> 62</a>. Les membres (du Gouvernement) prêtent serment entre les mains du président du (Parlement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
 
 <a name="Art.63" href="#Art.62">Art.</a> <a href="#Art.64"> 63</a>. § 1. (((Le Gouvernement))) flamand compte (onze) membres (au plus), en ce compris le président. Un membre au moins ((a son domicile dans)) la région bilingue de Bruxelles-Capitale. &lt;L 1993-07-16/30, art. 56, § 3, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
-§ 2. (((Le Gouvernement))) de la Communauté francaise compte (quatre) membres (au plus), en ce compris le président. Un membre au moins ((a son domicile dans)) la région bilingue de Bruxelles-Capitale. &lt;L 1993-07-16/30, art. 56, § 3, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. (((Le Gouvernement))) de la Communauté française compte (quatre) membres (au plus), en ce compris le président. Un membre au moins ((a son domicile dans)) la région bilingue de Bruxelles-Capitale. &lt;L 1993-07-16/30, art. 56, § 3, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 § 3. ((Le Gouvernement wallon)) compte (sept) membres (au plus), en ce compris le président. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 § 4. (Les (Parlements) peuvent, chacun pour ce qui le concerne, modifier par décret le nombre maximum des membres de leur Gouvernement.) &lt;L 1993-07-16/30, art. 56, § 2, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
 
@@ -230,38 +796,259 @@ Si, lors de la constitution des mêmes gouvernements ou de toute modification ul
 
 <a name="Art.66" href="#Art.65">Art.</a> <a href="#Art.67"> 66</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="Art.67" href="#Art.66">Art.</a> <a href="#LNK0008"> 67</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+<a name="Art.67" href="#Art.66">Art.</a> <a href="#LNK0025"> 67</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
 
-<a name="LNK0008" href="#LNKR0008">Section 2.</a> _ Du fonctionnement.
+<a name="LNK0025" href="#LNKR0025">Section 2.</a> _ Du fonctionnement.
 
-<a name="LNK0009" href="#LNKR0009">Sous-section première.</a> _ Dispositions communes.
+<a name="LNK0026" href="#LNKR0026">Sous-section première.</a> _ Dispositions communes.
 
 <a name="Art.68" href="#Art.67">Art.</a> <a href="#Art.69"> 68</a>. Sans préjudice des dispositions de la présente loi, chaque (Gouvernement) décide de ses règles de fonctionnement. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 (Le Gouvernement détermine le statut de ses membres.) &lt;L 1993-07-16/30, art. 57, 006; <b> En vigueur : </b> 08-06-1995 "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt;
+++++++++++
+COMMUNAUTES ET REGIONS
+======================
+Art. 68. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.69" href="#Art.68">Art.</a> <a href="#Art.70"> 69</a>. Sans préjudice des délégations qu'il accorde, chaque (Gouvernement) délibéré collégialement, selon la procédure du consensus suivie en Conseil des Ministres, de toutes affaires de sa compétence. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 69. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>. (Le Gouvernement), de même que chacun de ses membres, est responsable devant le (Parlement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 70. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>. Le (Parlement) peut, à tout moment, adopter une motion de méfiance à l'égard (du Gouvernement) ou d'un ou de plusieurs de ses membres. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
 Cette motion n'est recevable que si elle présente un successeur (au Gouvernement), à un ou à plusieurs de ses membres, selon le cas. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 Le vote sur la motion ne peut intervenir qu'à l'expiration d'un délai de quarante-huit heures. Elle ne peut être adoptée qu'à la majorité des membres du (Parlement). &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
 L'adoption de la motion emporte la démission (du Gouvernement) ou du ou des membres contestés ainsi que l'installation du (nouveau Gouvernement) ou du ou des nouveaux membres. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 71. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.72" href="#Art.71">Art.</a> <a href="#Art.73"> 72</a>. (Le Gouvernement) peut décider à tout moment de poser la question de confiance sous la forme d'une motion. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 Le vote sur cette motion ne peut intervenir qu'après un délai de quarante-huit heures.
-La motion n'est adoptée que si la majorité des membres du (Le Parlement y souscrit. &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
+La motion n'est adoptée que si la majorité des membres (du Parlement) y souscrit. &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
 Si la confiance est refusée, (le Gouvernement) est démissionnaire de plein droit. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 72. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.73" href="#Art.72">Art.</a> <a href="#Art.74"> 73</a>. Si (le Gouvernement) ou si l'un ou plusieurs de ses membres sont démissionnaires, il est pourvu sans délai à leur remplacement. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
 Tant qu'il n'a pas été remplacé, (le Gouvernement) démissionnaire expédie les affaires courantes. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 73. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
 <a name="Art.74" href="#Art.73">Art.</a> <a href="#Art.75"> 74</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 74. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 26-10-2006&gt;
+++++++++++
 
-<a name="Art.75" href="#Art.74">Art.</a> <a href="#LNK0010"> 75</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+<a name="Art.75" href="#Art.74">Art.</a> <a href="#LNK0027"> 75</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+COMMUNAUTES ET REGIONS
+======================
+Art. 75. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
-<a name="LNK0010" href="#LNKR0010">Sous-section 2.</a> _ Dispositions particulières.
+<a name="LNK0027" href="#LNKR0027">Sous-section 2.</a> _ Dispositions particulières.
 
-<a name="Art.76" href="#Art.75">Art.</a> <a href="#Art.77"> 76</a>. &lt;L 1993-07-16/30, art. 58, 006; <b> En vigueur : </b> 1993-07-30 (abrogation § 2 et § 3 ancienne version), et 08-06-1995 (nouvelle version) "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Lorsque le Gouvernement flamand délibère sur les matières relevant de la compétence de la Région flamande, tout membre du Gouvernement flamand qui a son domicile dans la région bilingue de Bruxelles-Capitale ne siege qu'avec voix consultative.
+<a name="Art.76" href="#Art.75">Art.</a> <a href="#Art.77"> 76</a>. &lt;L 1993-07-16/30, art. 58, 006; <b> En vigueur : </b> 1993-07-30 (abrogation § 2 et § 3 ancienne version), et 08-06-1995 (nouvelle version) "à partir du prochain renouvellement intégral de la Chambre des représentants"&gt; Lorsque le Gouvernement flamand délibère sur les matières relevant de la compétence de la Région flamande, tout membre du Gouvernement flamand qui a son domicile dans la région bilingue de Bruxelles-Capitale ne siège qu'avec voix consultative.
+COMMUNAUTES ET REGIONS
+======================
+Art. 76. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
 
-<a name="Art.77" href="#Art.76">Art.</a> 77. &lt;L 1993-07-16/30, art. 59, 006; <b> En vigueur : </b> 1993-07-30&gt; Le Gouvernement de la Communauté francaise et le Gouvernement wallon peuvent régler leur coopération mutuelle et celle de leurs services, tenir des assemblées communes et organiser des services communs.
+<a name="Art.77" href="#Art.76">Art.</a> <a href="#LNK0028"> 77</a>. &lt;L 1993-07-16/30, art. 59, 006; <b> En vigueur : </b> 1993-07-30&gt; Le Gouvernement de la Communauté française et le Gouvernement wallon peuvent régler leur coopération mutuelle et celle de leurs services, tenir des assemblées communes et organiser des services communs.
+COMMUNAUTES ET REGIONS
+======================
+Art. 77. (COMMUNAUTE FLAMANDE et REGION FLAMANDE)
+(Abrogé) &lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006070786" target="_blank">2006-07-07/86</a>, art. 28, 1°, 036; <b> En vigueur : </b> 27-10-2006&gt;
+++++++++++
+
+<a name="LNK0028" href="#LNKR0028">Section 3.</a> _ Des compétences.
+
+<a name="Art.78" href="#Art.77">Art.</a> <a href="#Art.79"> 78</a>. (Le Gouvernement) n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois et décrets portés en vertu de celle-ci. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.79" href="#Art.78">Art.</a> <a href="#Art.80"> 79</a>. § 1. Sans préjudice du § 2, les (Gouvernements) peuvent poursuivre des expropriations pour cause d'utilité publique dans les cas et selon les modalités fixés par décret, dans le respect des procédures judiciaires fixées par la loi et du principe de la juste et préalable indemnité visé à l'article 11 de la Constitution. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. Dans les cas et selon les modalités fixés par la loi, (le Gouvernement) de la Communauté française et (le Gouvernement) flamand peuvent, chacun en ce qui le concerne et uniquement dans les matières culturelles, procéder à des expropriations pour cause d'utilité publique dans la région bilingue de Bruxelles-Capitale. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. Les contrats de cession amiable, les quittances et autres actes relatifs à l'acquisition des immeubles pourront être passés sans frais à l'intervention du membre (du Gouvernement) délégué à cette fin. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.80" href="#Art.79">Art.</a> <a href="#Art.81"> 80</a>. (Pour les communes citées à l'article 7 des lois sur l'emploi des langues en matières administratives, coordonnées le 18 juillet 1966, et pour les communes de Comines-Warneton et de Fourons, l'avis conforme du Gouvernement flamand ou du Gouvernement wallon, selon le cas, est requis préalablement à toute délibération en Conseil des Ministres sur un avant-projet de loi portant fusion de communes ou sur un arrêté royal portant fusion de communes en application de la loi du 23 juillet 1971 concernant la fusion des communes et la modification de leurs limites.) &lt;L 2001-07-13/34, art. 17, 016; <b> En vigueur : </b> 01-01-2002&gt;
+
+<a name="Art.81" href="#Art.80">Art.</a> <a href="#Art.82"> 81</a>. &lt;L 1993-05-05/65, art. 2, 005; <b> En vigueur : </b> 18-05-1993&gt; § 1. Les (Gouvernements) informent le Roi au préalable de leur intention d'entamer des négociations en vue de la conclusion d'un traité ainsi que de tout acte juridique consécutif qu'ils veulent accomplir en vue de la conclusion du traité. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. Dans les trente jours de la réception de l'acte d'information, le Conseil des Ministres peut signifier (au Gouvernement) concerné, ainsi qu'au Président de la Conférence interministérielle de la politique étrangère, prévue à l'article 31bis de la loi ordinaire du 9 août 1980 de réformes institutionnelles, qu'il existe des objections au traité envisagé. Cette signification implique la suspension provisoire de la procédure envisagée par (le Gouvernement) concerné. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. Dans les trente jours de la signification, la Conférence interministérielle de la politique étrangère rend une décision, selon la procédure du consensus.
+La suspension provisoire prévue au § 2 prend fin dès que la Conférence interministérielle constate qu'il n'y a plus d'objection à poursuivre la procédure de conclusion du traité. A défaut, elle prend fin, sans préjudice du § 4, trente jours après l'expiration du délai prévu à l'alinéa 1er.
+§ 4. Faute de consensus, le Roi peut, dans les trente jours suivant l'expiration du délai visé au § 3, alinéa 1er, par arrêté motivé et délibéré en Conseil des Ministres, confirmer la suspension de la procédure envisagée par l'Exécutif lorsque :
+1° la partie cocontractante n'est pas reconnue par la Belgique;
+2° la Belgique n'entretient pas de relations diplomatiques avec la partie cocontractante;
+3° il ressort d'une décision ou d'un acte de l'Etat que les relations entre la Belgique et la partie cocontractante sont rompues, suspendues ou gravement compromises;
+4° le traité envisagé est contraire à des obligations internationales ou supranationales de la Belgique.
+L'arrêté est porté à la connaissance (du Gouvernement) intéressé. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 5. Dans le respect des procédures prévues aux §§ 3 et 4, le Roi peut suspendre l'exécution des traites visés à l'article 68, § 3, de la Constitution pour les motifs prévus au § 4, 3° et 4°. Il signifie Sa décision (au Gouvernement) concerné. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 6. Les (Gouvernements) sont autorisés à engager l'Etat au sein du Conseil des Communautés européennes, où un de leurs membres représente la Belgique, conformément à un accord de coopération visé à l'article 92bis, § 4bis.
+§ 7. Pour les matières qui, par ou en vertu de la Constitution, relèvent de la compétence des Communautés et des Régions, l'Etat cite devant une juridiction internationale ou supranationale une personne juridique de droit internationale, à la demande du ou des (Gouvernements) concernés. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+A moins qu'un accord de coopération visé à l'article 92bis, § 1er, n'en dispose autrement, le ou les (Gouvernements) concernés signifient la demande de citation au Président de la Conférence interministérielle de la politique étrangère en vue d'une concertation; la Conférence rendant une décision, dans les trente jours, selon la procédure du consensus. A défaut de consensus, le Roi cite sans délai la personne juridique de droit international.
+En aucun cas la procédure visée à l'alinéa précédent ne peut avoir pour conséquence que l'action ne pourrait être introduite dans les délais fixés. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Si le différend vise à l'alinéa premier ne porte pas exclusivement sur des matières pour lesquelles les Communautés ou les Régions sont compétentes par ou en vertu de la Constitution, l'Etat agit conformément à l'accord de coopération visé à l'article 92bis, § 4ter.
+§ 8. En cas de désaccord entre les (Gouvernements) concernés sur la dénonciation d'un traité visé à l'article 68, § 5, alinéa 2, de la Constitution, un (Gouvernement) concerné peut saisir la Conférence interministérielle de la politique étrangère qui rend une décision dans les trente jours, selon la procédure du consensus. Quand le consensus n'est pas atteint, le Roi négocie avec la partie cocontractante une dénonciation partielle du traité. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.82" href="#Art.81">Art.</a> <a href="#Art.83"> 82</a>. (Sans préjudice de l'article 48bis, le Gouvernement) représente la Communauté ou la Région dans les actes judiciaires et extrajudiciaires. Elle est citée au cabinet du président (du Gouvernement). Les actions de la Communauté ou de la Région (visées au présent article,) en demandant ou en défendant, sont exercées au nom (du Gouvernement), poursuites et diligences du membre désigné par celui-ci. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2003-07-10/44, art. 3, 025; <b> En vigueur : </b> 01-09-2003&gt; &lt;L 2003-07-10/44, art. 3, 025; <b> En vigueur : </b> 01-09-2003&gt;
+(Le Gouvernement mis en cause ne peut contester que l'objet du litige entre dans ses attributions qu'à la condition de se substituer en même temps le (Parlement).) &lt;L 2003-07-10/44, art. 3, 025; <b> En vigueur : </b> 01-09-2003&gt; &lt;L 2006-03-27/33, art. 2, B, 034; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.83" href="#Art.82">Art.</a> <a href="#LNK0029"> 83</a>. § 1. Dans les matières qui sont de la compétence de la Communauté ou de la Région, (le Gouvernement) : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° Délibère de tout projet de décret ou d'arrêté royal ou d'arrêté, selon le cas;
+2° Propose l'affectation des crédits budgétaires;
+3° Elabore et coordonne la politique de la Communauté ou de la Région.
+§ 2. La délibération (du Gouvernement) remplace la délibération du Conseil des Ministres ou d'un Comite ministériel national qui est requise par une loi ou par un arrêté royal, chaque fois qu'il s'agit d'une affaire relevant de la compétence (du Gouvernement). &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. Les compétences attribuées à un Ministre par la loi, par décret ou par arrêté royal, sont exercées par (le Gouvernement), chaque fois qu'il s'agit d'une affaire relevant de la compétence de ce dernier. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="LNK0029" href="#LNKR0029">Section 4.</a> _ De la publication et de l'entrée en vigueur des arrêtés.
+
+<a name="Art.84" href="#Art.83">Art.</a> <a href="#Art.85"> 84</a>. La publication et l'entrée en vigueur des arrêtés des (Gouvernements) sont fixées comme suit : &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+1° Les arrêtés des (Gouvernements) sont publiés au Moniteur belge avec une traduction en néerlandais ou en français, selon le cas. Les arrêtés (du Gouvernement wallon) sont en outre publiés avec une traduction en langue allemande. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Néanmoins, lorsqu'ils n'intéressent pas la généralité des citoyens, les arrêtés visés à l'alinéa premier peuvent n'être publiés que par extrait ou ne faire l'objet que d'une simple mention au Moniteur belge; si leur publicité ne présente aucun caractère d'utilité publique, ils peuvent ne pas être publiés.
+2° Les arrêtés sont obligatoires à partir du dixième jour après celui de leur publication, à moins qu'ils ne fixent un autre délai.
+Les arrêtés notifiés aux intéressés sont obligatoires à partir de leur notification ou de leur publication si elle lui est antérieure.
+
+<a name="Art.85" href="#Art.84">Art.</a> <a href="#Art.86"> 85</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.86" href="#Art.85">Art.</a> <a href="#LNK0030"> 86</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="LNK0030" href="#LNKR0030">Section 5.</a> _ Des services.
+
+<a name="Art.87" href="#Art.86">Art.</a> <a href="#Art.88"> 87</a>. § 1. Sans préjudice de l'article 88, chaque (Gouvernement) dispose en propre d'une administration, d'institutions et d'un personnel. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. Chaque ((Gouvernement)) fixe le cadre du personnel de son administration et procède aux nominations, (...). Ce personnel est recruté par l'intermédiaire du Secrétariat permanent de recrutement du personnel de l'Etat. &lt;L 1988-08-08/30, art. 12, § 1, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+Il prête serment, conformément aux dispositions légales, entre les mains de l'autorité que (le Gouvernement) désigne à cet effet. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+§ 3. (Sans préjudice du § 4, les Communautés et les Régions fixent les règles relatives au statut administratif et pécuniaire de leur personnel définitif, temporaire et auxiliaire, à l'exception des règles relatives aux pensions. En matière de pensions, leur personnel est soumis aux règles légales et statutaires applicables au personnel définitif, temporaire et auxiliaire de l'Etat.) &lt;L 1988-08-08/30, art. 12, § 2, 002; <b> En vigueur : </b> 5555-55-55; voir art. 18, § 3, al. 2 L 1988-08-08&gt;
+(§ 4. Un arrêté royal délibéré en Conseil des Ministres, pris après avis des ((Gouvernements)), désigne ceux des principes généraux du statut administratif et pécuniaire du personnel de l'Etat qui seront applicables de plein droit, au personnel des Communautés et des Régions, ainsi qu'à celui des personnes morales de droit public qui dépendent des Communautés et des Régions, à l'exception du personnel visé à l'article 17 de la Constitution.) &lt;L 1988-08-08/30, art. 12, § 3, 002; <b> En vigueur : </b> 1988-08-23&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+(§ 5. Les règles relatives aux relations entre les autorités publiques et les organisations syndicales des agents relevant de ces autorités, ainsi qu'avec les membres de ces organisations syndicales, relèvent en ce qui concerne les Communautés, les Régions et les personnes morales de droit public qui en dépendent, ((y compris l'enseignement, les centres publics d'aide sociale et les associations de communes dans un but d'utilité publique)) de la compétence de (((l'autorité fédérale))), sauf en ce qui concerne la Radio Télévision belge de la Communauté française et le Commissariat général aux relations internationales de la Communauté française. Toutefois, (((le Gouvernement))) concerné peut décider d'appliquer pour ces institutions, les dispositions légales précitées.) &lt;L 1988-08-08/30, art. 12, § 4, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 60, 006; <b> En vigueur : </b> 1993-07-30&gt;&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+
+<a name="Art.88" href="#Art.87">Art.</a> <a href="#Art.89"> 88</a>. (§ 1. Des membres du personnel des ministères sont, par arrêté royal délibéré en Conseil des Ministres, transférés aux ((Gouvernements)) en vue de l'exercice des compétences attribuées aux Communautés et aux Régions.) &lt;L 1988-08-08/30, art. 13, § 2, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+§ (2). Le Roi détermine, après concertation avec les organisations représentatives du personnel et par arrêté délibéré en Conseil des Ministres, la date et les modalités du transfert (des membres du personnel visés au § 1er) aux ((Gouvernements)) respectifs. &lt;L 1988-08-08/30, art. 13, § 3, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+Les membres de ce personnel sont transférés dans leur grade ou un grade équivalent et en leur qualité.
+Ils conservent au moins la rétribution et l'ancienneté qu'ils avaient ou auraient obtenues s'ils avaient continué à exercer dans leur service d'origine la fonction dont ils étaient titulaires au moment de leur transfert.
+Le statut juridique de ces membres du personnel demeure régi par les dispositions en vigueur en cette matière aussi longtemps que le Roi n'aura pas fait usage de cette compétence.
+(§ 3. Dans le cadre du transfert aux Régions des compétences visées à l'article 6, § 1er, I, 7°, ((le Gouvernement)) de la Communauté française règle les modalités et la date du transfert ((au Gouvernement wallon)) des membres du personnel concernés ((du Gouvernement)) de la Communauté française.) &lt;L 1988-08-08/30, art. 13, § 4, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+(§ 3bis. Dans le cadre du transfert à la Région wallonne des compétences visées à l'article 4, § 1er, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, en ce qui concerne le produit de la redevance radio et télévision localisé dans la Région de langue française, le gouvernement de la Communauté française règle les modalités du transfert des membres du personnel concernés du gouvernement de la Communauté française au gouvernement de la Région wallonne.
+Dans le cadre du transfert à la Région de Bruxelles-Capitale des compétences visées à l'article 4, § 1er, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, en ce qui concerne le produit de la redevance radio et télévision localisé dans la Région bilingue de Bruxelles-Capitale, le gouvernement de la Communauté française et le gouvernement flamand règlent d'un commun accord, chacun pour ce qui le concerne, les modalités du transfert des membres du personnel concernés des communautés française et flamande au gouvernement de la Région de Bruxelles-Capitale.) &lt;L 2001-07-13/35, art. 51, 018; <b> En vigueur : </b> 01-01-2002&gt;
+
+<a name="Art.89" href="#Art.88">Art.</a> <a href="#Art.90"> 89</a>. La rémunération et les frais de fonctionnement du personnel et des services mentionnés à l'article 87 sont à charge du budget de la Communauté ou de la Région.
+
+<a name="Art.90" href="#Art.89">Art.</a> <a href="#Art.91"> 90</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="Art.91" href="#Art.90">Art.</a> <a href="#LNK0031"> 91</a>. (abrogé) &lt;L 1993-07-16/30, art. 64, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="LNK0031" href="#LNKR0031">(Section VI.</a> - Personnel de l'enseignement.) &lt;L 1988-08-08/30, art. 14, 002; <b> En vigueur : </b> 1989-01-01&gt;
+
+<a name="Art.91bis" href="#Art.91">Art.</a> <a href="#LNK0032"> 91bis</a>. &lt;L 1988-08-08/30, art. 14, 002; <b> En vigueur : </b> 1989-01-01&gt;
+(§ 1.) En vue de l'exercice des compétences attribuées par la Constitution, les membres du personnel de l'enseignement visé à l'article 17 de la Constitution, organisé par l'Etat, des Fonds et des Services d'inspection, visés par la loi du 29 mai 1959 modifiant certaines dispositions de la législation sur l'enseignement, sont transférés à la Communauté française ou à la Communauté flamande, selon le cas.
+(§ 2. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, après concertation avec les organisations syndicales représentatives du personnel, la date du transfert du personnel des Fonds visés au § 1er ainsi que les modalités de ce transfert. Les dispositions de l'article 88, § 2, alinéas 2, 3 et 4, sont applicables à ce transfert.
+Les agents visés par le présent paragraphe sont transférés aux Communautés, par arrêtés royaux délibérés en Conseil des Ministres.) &lt;L 1989-01-16/30, art. 59, 004; <b> En vigueur : </b> 1989-01-01&gt;
+
+<a name="LNK0032" href="#LNKR0032">TITRE IV.</a> _ COOPERATION ENTRE LES COMMUNAUTES.
+
+<a name="Art.92" href="#Art.91bis">Art.</a> <a href="#LNK0033"> 92</a>. § 1. Sans préjudice de la compétence territoriale de chaque Communauté, sont maintenus :
+1° les régimes relatifs à l'agrément et à l'octroi de subvention, quant aux matières culturelles autres que celles visées à l'article 4, 1° à 10° de la présente loi aux matières personnalisables, qui sont d'application au 1er janvier 1980 dans la région de langue française et dans la région de langue néerlandaise et intéressant des organismes ou groupements relevant respectivement de la Communauté flamande et de la Communauté française;
+2° les situations de fait au 1er janvier 1980, relatives au :
+_ home Susanne van Durme à Rhode-Saint-Genèse.
+_ Pensionnat Jules Lejeune à Wezembeek-Oppem
+_ La Maison à Linkebeek
+_ La Bergerie à Rhode-Saint-Genèse.
+§ 2. Les régimes et les situations visés au § 1er ne peuvent être modifiés que du consentement des deux (Parlements) de communauté. &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
+Toute proposition tendant à une telle modification est au préalable soumise aux commissions réunies de coopération.
+
+<a name="LNK0033" href="#LNKR0033">(TITRE IVBIS.</a> - LA COOPERATION ENTRE L'ETAT, LES COMMUNAUTES ET LES REGIONS.) &lt;L 1988-08-08/30, art. 15, 002; <b> En vigueur : </b> 1989-01-01&gt;
+
+<a name="Art.92bis" href="#Art.92">Art.</a> <a href="#Art.92ter"> 92bis</a>. &lt;L 1988-08-08/30, art 15, 002; <b> En vigueur : </b> 1989-01-01&gt; § 1. L'Etat, les Communautés et les Régions peuvent conclure des accords de coopération qui portent notamment sur la création et la gestion conjointes de services et institutions communs, sur l'exercice conjoint de compétences propres, ou sur le développement d'initiatives en commun.
+Les accords de coopération sont négociés et conclus par l'autorité compétente. (Les accords qui portent sur les matières réglées par décret, ainsi que les accords qui pourraient grever la Communauté ou la Région ou lier des Belges individuellement, n'ont d'effet qu'après avoir reçu l'assentiment par décret. Les accords qui portent sur les matières réglées par la loi, ainsi que les accords qui pourraient grever l'Etat ou lier des Belges individuellement, n'ont d'effet qu'après avoir reçu l'assentiment par la loi.) &lt;L 1993-07-16/30, art. 61, § 1, 006; <b> En vigueur : </b> 1993-07-30&gt;
+§ 2. Les Régions concluent en tout cas des accords de coopération pour le règlement des questions relatives :
+a) à l'hydrologie et à la maîtrise des eaux, aux voies hydrauliques qui dépassent les limites d'une Région, aux travaux à décider et mesures à prendre par une Région, dont la mise en oeuvre ou l'absence sont susceptibles de causer un dommage dans une autre Région;
+b) aux tronçons de routes et aux biefs des voies hydrauliques qui dépassent les limites d'une Région et aux ports situés sur le territoire de plus d'une Région;
+c) aux services de transport en commun urbains et vicinaux et services de taxis qui s'étendent sur le territoire de plus d'une Région.
+(d) aux associations de communes et de provinces dans un but d'utilité publique dont le ressort dépasse les limites d'une Région.) &lt;L 1993-07-16/30, art. 61, § 2, 006; <b> En vigueur : </b> 1993-07-30&gt;
+(e) aux cimetières qui dépassent les limites d'une région ou qui sont situés dans une autre région que la commune à laquelle ils appartiennent;) &lt;L 2001-07-13/34, art. 18, 016; <b> En vigueur : </b> 01-01-2002&gt;
+(f) à l'exercice des compétences visées à l'article 4, § 3, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions dans les cas où le contribuable est une société, une entreprise publique autonome ou une association sans but lucratif à activités de leasing;
+g) à l'exercice des compétences visées à l'article 4, § 4, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions pour les véhicules qui sont immatriculés à l'étranger.) &lt;L 2001-07-13/35, art. 52, 016; <b> En vigueur : </b> 01-01-2002&gt;
+((h)) (ancien f)) aux fabriques d'églises et aux établissements chargés de la gestion du temporel des cultes reconnus, dont l'activité dépasse les limites d'une région;) &lt;L 2001-07-13/34, art. 18, 016; <b> En vigueur : </b> 01-01-2002&gt; &lt;L 2004-03-16/32, art. 2, 027; <b> En vigueur : </b> 08-04-2004&gt;
+§ 3. (L'autorité fédérale et les Régions concluent en tout cas un accord de coopération :
+a) pour l'entretien, l'exploitation et le développement des réseaux de télécommunication et de télécontrôle qui, en rapport avec le transport et la sécurité, dépassent les limites d'une Région;
+b) pour l'application aux niveaux fédéral et régional des règles fixées par la Communauté européenne concernant les risques d'accidents majeurs de certaines activités industrielles;
+c) pour la coordination des politiques d'octroi du permis de travail et d'octroi du permis de séjour, ainsi que les normes relatives à l'emploi de travailleurs étrangers.) &lt;L 1993-07-16/30, art. 61, § 3, 006; <b> En vigueur : </b> 1993-07-30&gt;
+(d) pour la création d'une Agence, qui décidera et organisera des missions conjointes à l'initiative d'une ou de plusieurs régions ou sur demande de l'autorité fédérale, et qui organisera, développera et diffusera de l'information, des études et de la documentation sur les marchés extérieurs;) &lt;L 2001-07-13/34, art. 18, 016; <b> En vigueur : </b> 01-01-2002&gt;
+(e) pour l'échange d'informations dans le cadre de l'exercice des compétences fiscales des régions, visées dans la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, et de l'autorité fédérale.) &lt;L 2001-07-13/35, art. 52, 016; <b> En vigueur : </b> 01-01-2002&gt;
+(§ 4. Les Communautés concluent en tout cas un accord de coopération pour le règlement des questions relatives à l'Ecole de Navigation à Ostende et à Anvers et son internat.
+(§ 4bis. ((L'autorité fédérale)), les Communautés et les Régions, chacun pour ce qui le concerne, concluent en tous cas un ou plusieurs accords de coopération portant sur la représentation de la Belgique auprès d'organisations internationales et supranationales et sur la procédure relative à la prise de position et à l'attitude à prendre à défaut de consensus dans ces organisations. &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+Sans préjudice de l'article 83, §§ 2 et 3, et dans l'attente de la conclusion de cet accord ou de ces accords de coopération, une concertation associant ((l'autorité fédérale)) et les ((Gouvernements)) aura lieu pour la préparation des négociations et des décisions, ainsi que le suivi des travaux des organisations internationales et supranationales relatifs aux matières relevant des compétences communautaires ou régionales.) &lt;L 1993-05-05/65, art. 3, 005; <b> En vigueur : </b> 18-05-1993&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+(§ 4ter. ((L'autorité fédérale)), les Communautés et les Régions concluent en tout cas un accord de coopération pour les modalités de conclusion des traités ne portant pas exclusivement sur les matières qui relèvent de la compétence des Communautés et des Régions et pour les modalités suivant lesquelles des actions sont intentées devant une juridiction internationale ou supranationale visées à l'article 81, § 7, alinéa 4. &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt;
+Dans l'attente de la conclusion de cet accord de coopération, les (Gouvernements) sont en tous cas associés à la négociation de ces traités et aux actions devant une juridiction internationale ou supranationale visées à l'article 81, § 7.) &lt;L 1993-05-05/65, art. 3, 005; <b> En vigueur : </b> 18-05-1993&gt; &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+(§ 4quater. L'autorité fédérale, la Communauté française, la Communauté flamande et les Régions concluent en tout cas un accord de coopération pour le transfert obligatoire, sans indemnisation, du personnel et des biens, droits et obligations de la province de Brabant vers la province du Brabant wallon, la province du Brabant flamand, la Région de Bruxelles-Capitale, les Commissions communautaires visées à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, et vers l'autorité fédérale.
+L'accord de coopération visé à l'alinéa 1er relatif au transfert du personnel ne sera conclu qu'après concertation avec les organisations syndicales représentatives du personnel.
+Le transfert des membres du personnel se fait avec maintien de leur grade, ou avec un grade similaire, et de leur qualité.
+Ils conservent au moins la rémunération et l'ancienneté qu'ils avaient ou auraient eues s'ils avaient continué d'exercer dans leur service d'origine la fonction qu'ils exerçaient au moment de leur transfert.) &lt;L 1993-07-16/30, art. 61, § 4, 006; <b> En vigueur : </b> 1993-07-30&gt;
+(Le montant de la pension qui sera accordée aux agents de la province de Brabant transférés en exécution de la présente disposition à l'Etat fédéral, à la province du Brabant flamand, à la province du Brabant wallon, à la Région de Bruxelles-Capitale, à la Commission communautaire française, à la Commission communautaire flamande ou à la Commission communautaire commune, ne pourra être inférieur au montant de la pension qu'ils auraient obtenue conformément aux dispositions législatives et réglementaires qui leur étaient applicables au moment du transfert, mais compte tenu des modifications que ces dispositions auraient subies ultérieurement en vertu de mesures générales applicables à l'institution à laquelle ils appartenaient au moment du transfert.
+Les modalités de prise en charge des dépenses complémentaires résultant de la garantie prévue à l'alinéa 5 sont fixées par le Roi, sur proposition du ministre qui a les pensions dans ses attributions.) &lt;L 1994-12-28/31, art. 1, 007; <b> En vigueur : </b> 1995-01-19&gt;
+(§ 4quinquies. Le Jardin botanique national de Belgique est transféré après qu'un accord de coopération aura été conclu à ce sujet entre les Communautés.) &lt;L 2001-07-13/34, art. 18, 016; <b> En vigueur : </b> 01-01-2002&gt;
+§ 5. Les litiges entre les parties contractantes aux accords prévus aux (§§ 2, 3, 4, 4bis, 4ter et 4quater), nés de l'interprétation ou de l'exécution de ces accords, sont tranchés par une juridiction organisée par la loi. &lt;L 1993-07-16/30, art. 61, 006; <b> En vigueur : </b> 1993-07-30&gt;
+Chaque partie désigne un des membres de cette juridiction.
+Les contestations relatives à la récusation du président ou d'un membre de la juridiction sont tranchées par le président en exercice de la Cour d'arbitrage.
+Les accords règlent le mode de désignation de ces membres autres que le président.
+Le président est coopté par les membres; à défaut de désignation des membres ou de cooptation du président, la désignation est faite par la président en exercice de la Cour d'Arbitrage.
+La décision prononcée n'est pas susceptible de recours et peut faire l'objet d'exécution forcée.
+Elle fixe le délai maximum dans lequel elle doit être exécutée et, le cas échéant, peut autoriser qu'à la partie défaillante et aux frais de celle-ci,soit substituée l'autre partie.
+Les accords déterminent le règlement des frais de fonctionnement de la juridiction.
+La loi visée à l'alinéa 1er règle la procédure suivie par la juridiction Elle garantit le respect des droits de la défense.
+§ 6. Les parties aux accords de coopération autres que ceux visés aux ((§§ 2, 3, 4, 4bis, 4ter et 4quater)) peuvent également leur rendre applicables les dispositions contenues au § 5.) &lt;L 1989-01-16/30, art. 66, 004; <b> En vigueur : </b> 01-01-1989&gt; &lt;&lt;L 1993-07-16/30, art. 61, § 6, 006; <b> En vigueur : </b> 1993-07-30&gt;&gt;
+
+<a name="Art.92ter" href="#Art.92bis">Art.</a> <a href="#LNK0034"> 92ter</a>. &lt;L 1988-08-08/30, art. 15, 002; <b> En vigueur : </b> 1989-01-01&gt; Le Roi règle, par arrêté délibéré en Conseil des Ministres, pris de l'accord des (Gouvernements) compétents, la représentation des Communautés et des Régions, selon le cas, dans les organes de gestion ou de décision des institutions et organismes nationaux, notamment consultatifs et de contrôle, qu'il désigne. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Les (Gouvernements) communautaires et régionaux, chacun en ce qui le concerne, règlent par arrêté pris de l'accord du Roi et des autres (Gouvernements), selon le cas, la représentation de (l'autorité fédérale) et, le cas échéant, des autres Communautés et Régions, dans les organes de gestion ou de décision des institutions et organismes communautaires et régionaux, notamment consultatifs et de contrôle, qu'ils désignent. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+
+<a name="LNK0034" href="#LNKR0034">TITRE IVter.</a> - &lt;Inséré par L 1993-05-05/65, art. 4, 005; <b> En vigueur : </b> 18-05-1993&gt; Information des Chambres et des (Parlements) sur les propositions d'actes normatifs de la Commission des Communautés européennes. &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="Art.92quater" href="#Art.92ter">Art.</a> <a href="#LNK0035"> 92quater</a>. &lt;Inséré par L 1993-05-05/65, art. 4, 004; <b> En vigueur : </b> 18-05-1993&gt; Dès leur transmission au Conseil des Communautés européennes, les propositions de règlement et de directive et, le cas échéant, des autres actes à caractère normatif de la Commission des Communautés européennes sont transmises aux Chambres et aux (Parlements) chacun pour ce qui le concerne. &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
+(Les Chambres peuvent donner leur avis sur ces propositions au Roi, conformément aux règles explicitées par la commission de concertation parlementaire visée à l'article 41, § 5, de la Constitution.
+Les (Parlements) peuvent donner un avis sur ces propositions à leur Gouvernement.) &lt;L 1993-07-16/30, art. 62, 006; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
+
+<a name="LNK0035" href="#LNKR0035">TITRE V.</a> _ DISPOSITIONS FINALES.
+
+<a name="Art.93" href="#Art.92quater">Art.</a> <a href="#Art.94"> 93</a>. La loi du 21 juillet 1971 relative à la compétence et au fonctionnement des conseils culturels pour la communauté culturelle française et pour la communauté culturelle néerlandaise, à l'exception des articles 4 et 5, et la loi du 20 janvier 1978 réglant les formes de la coopération culturelle internationale en application de l'article 59bis, § 2, de la Constitution, sont abrogées.
+
+<a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.95"> 94</a>. (§ 1.) Sans préjudice des dispositions de l'article 83, § 2 et 3, les autorités chargées d'attributions par les lois et règlements dans les matières relevant de la compétence des Communautés et des Régions, continuent d'exercer ces attributions selon les procédures fixées par les règles existantes, tant que celles-ci n'auront pas été modifiées ou abrogées par leurs (Parlements) ou leurs ((Gouvernements)). &lt;L 1989-01-16/30, art. 67, § 2, 002; <b> En vigueur : </b> 1989-01-01&gt; &lt;&lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;&gt; &lt;L 2006-03-27/33, art. 2, C, 034; <b> En vigueur : </b> 21-04-2006&gt;
+(§ 2. Sans préjudice des dispositions de l'article 83, §§ 2 et 3, les procédures, règlements et situations de fait existant au 1er janvier 1989 pour chaque matière visée à l'article 92bis §§ 2, 3 et 4, restent en vigueur jusqu'à la conclusion d'un accord de coopération pour cette matière.
+§ 3. Les procédures visées à l'article 32, §§ 1er à 4 de la loi ordinaire du 9 août 1980 de réformes institutionnelles sont applicables en cas de litige résultant de l'interprétation ou de l'application du § 2 du présent article. A défaut de consensus au sein du Comité de concertation visé à l'article 31 de la même loi, les parties sont censées être d'accord pour faire trancher leur différend par la juridiction visée à l'article 92bis, § 5.) &lt;L 1989-01-16/30, art. 67, § 1, 004; <b> En vigueur : </b> 1989-01-01&gt;
+
+<a name="Art.95" href="#Art.94">Art.</a> <a href="#LNK0036"> 95</a>. La présente loi entre en vigueur le 1er octobre 1980.
+
+<a name="LNK0036" href="#LNKR0036">(TITRE VI.</a> - DISPOSITION TRANSITOIRE.) &lt;L 1988-08-08/30, art. 17, 002; <b> En vigueur : </b> 1988-08-23&gt;
+
+<a name="Art.96" href="#Art.95">Art.</a> <a href="#Art.97"> 96</a>. &lt;L 1988-08-08/30, art. 17, 002; <b> En vigueur : </b> 1988-08-23&gt; Les dispositions de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, restent applicables aux organismes d'intérêt public qui dépendent de la Communauté ou de la Région aussi longtemps qu'elles ne sont pas modifiées par la Communauté ou la Région concernée.
+
+<a name="Art.97" href="#Art.96">Art.</a> <a href="#Art.98"> 97</a>. &lt;L 1989-01-16/30, art. 78, 004; <b> En vigueur : </b> 1989-01-01&gt;
+Les dispositions de l'arrêté royal du 30 juin 1982 fixant les règles complémentaires du transfert des membres du personnel des ministères de la Communauté française, de la Communauté flamande et de la Région wallonne à leur (Gouvernement) respectif, restent d'application à tous les agents transférés aux (Gouvernements) des Communautés et des Régions, aussi longtemps que le Roi ne les aura pas modifiées. &lt;L 1993-07-16/30, art. 127, <b> En vigueur : </b> 1993-07-30&gt;
+Cet article entre en vigueur en même temps que l'article 96 de la loi du 8 août 1980 tel qu'il a été inséré par l'article 17 de la loi du 8 août 1988.
+
+<a name="Art.98" href="#Art.97">Art.</a> <a href="#Art.99"> 98</a>. &lt;L 1989-01-16/30, art. 78, 004; <b> En vigueur : </b> 1989-01-01&gt;
+Par dérogation aux dispositions de l'article 6, § 1er, IX, jusqu'à la date d'entrée en vigueur des conventions transformant les chômeurs mis au travail en contractuels subventionnés, et au plus tard jusqu'au 30 juin 1989, (l'autorité fédérale) octroie l'intervention financière visée à l'article 6, § 1er, IX, 2°, alinéa 2 pour chaque chômeur mis au travail conformément aux articles 161 à 170 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage.
+
+<a name="Art.99" href="#Art.98">Art.</a> <a href="#Art.100"> 99</a>. &lt;inséré par L 1993-05-05/65, art. 1, 005; <b> En vigueur : </b> 18-05-1993&gt; Les conditions sub 2° et 3° de l'article 16, § 3, alinéa 1er, sont seulement d'application aux différends futurs ainsi qu'aux différends en cours, à partir de la date de l'entrée en vigueur des lois visées à l'article 68, §§ 4 et 7, de la Constitution.
+
+<a name="Art.100" href="#Art.99">Art.</a> 100. &lt;inséré par L 1993-07-16/30, art. 3, § 5, 006; <b> En vigueur : </b> 1993-07-30&gt; § 1. Par dérogation à l'article 6bis, § 2, l'autorité fédérale reste provisoirement compétente pour les programmes existants au moment de l'entrée en vigueur du présent article y compris les programmes dans le cadre ou en exécution d'accords ou d'actes internationaux ou supranationaux, sauf si ces programmes font l'objet d'une modification autre que celle du budget disponible.
+§ 2. Par dérogation à l'article 6bis, § 3, les initiatives existant au moment de l'entrée en vigueur du présent article, restent soumises à la procédure prévue par l'arrêté royal du 9 avril 1990.
