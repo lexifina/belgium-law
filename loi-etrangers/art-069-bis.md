@@ -1,2 +1,1 @@
-Le (Ministre) ou son délégué, peut, comme visé à l'article 63/3, introduire auprès du Conseil d'Etat un recours en annulation contre une décision du Commissaire général aux réfugiés et aux apatrides, qu'il estime contraire à la présente loi ou aux arrêtés royaux qui s'y rapportent.
-Aucune demande de suspension ne peut être introduite auprès du Conseil d'Etat contre la décision contestée visée à l'article 63/5, alinéa premier, qui a été confirmée et déclarée exécutoire nonobstant tout appel par le Commissaire général aux réfugiés et aux apatrides ou un de ses adjoints, ni contre les mesures d'éloignement du territoire.
+(Abrogé)
