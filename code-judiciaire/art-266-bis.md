@@ -1,1 +1,1 @@
-Par dérogation aux dispositions de l'article 266, le Roi peut, lors des premières nominations aux fonctions de greffier en chef des cours d'appel et des cours du travail de Mons et d'Anvers, nommer les personnes de trente-cinq ans accomplis qui ont, respectivement, exercé pendant cinq ans la fonction de greffier à une cour d'appel ou, depuis le 1er novembre 1970, la fonction de greffier à une cour du travail.
+(Abrogé)

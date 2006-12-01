@@ -1,0 +1,12 @@
+§ 1er. Lorsque les besoins du service le justifient, le greffier en chef peut déléguer, un membre du personnel de son greffe, lauréat de l'examen de candidat-greffier, a la fonction de greffier pour une période déterminée et limitée.
+§ 2. La Ministre de la Justice peut également déléguer les membres du personnel d'un greffe ou d'un secrétariat de parquet à une fonction similaire ou supérieure dans leur propre, voire dans un autre, greffe ou secrétariat de parquet, ainsi que dans des services publics fédéraux, organes stratégiques et secrétariats, dans les cabinets ministériels, dans des commissions, organismes ou offices gouvernementaux ou auprès de l'Organe Central pour la Saisie et la Confiscation.
+Seul un membre du personnel répondant aux conditions de nomination au grade correspondant à la fonction supérieure peut être désigne pour exercer cette fonction.
+Ce n'est qu'en l'absence dans le greffe ou le secrétariat de parquet d'un membre du personnel répondant aux conditions visées à l'alinéa précédent qu'un membre du personnel qui ne répond pas à ces conditions peut être désigné, par un acte de désignation, pour exercer des fonctions supérieures.
+§ 3. Un membre du personnel ne peut être chargé d'exercer une fonction supérieure, visée au § 2, que pour un emploi vacant ou temporairement inoccupé. En cas d'octroi pour un emploi vacant, la procédure d'octroi définitive à cet emploi doit être entamée.
+Afin d'assurer la continuité du service, la Ministre de la Justice peut toutefois, par dérogation à l'alinéa précédent, déléguer en surnombre pour répondre à des besoins spécifiques ou prêter assistance à des magistrats supplémentaires.
+La délégation à une fonction supérieure vaut pour six mois maximum. Cette délégation peut être prolongée trois fois au maximum par un terme identique de six mois au plus.
+Par dérogation à ce qui précède, la délégation peut être maintenue à l'expiration de la troisième prolongation:
+a) si l'emploi n'a pu être conféré à titre définitif;
+b) pour les délégations en surnombre faites par la Ministre de la Justice en application de l'alinéa 2;
+c) dans les cas exceptionnels dûment justifiés.
+§ 4. Les membres du personnel ainsi délégués conservent leur traitement et les augmentations et avantages y afférents. Les membres du personnel délégués conformément au § 2 perçoivent en outre une allocation pour l'exercice d'une fonction supérieure.

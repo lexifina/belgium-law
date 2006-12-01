@@ -1,2 +1,3 @@
-En cas d'empêchement, le secrétaire en chef du parquet est remplacé par le secrétaire-chef de service ou le secrétaire qu'il désigne. Lorsqu'il se trouve dans l'impossibilité de faire cette désignation, il est pourvu à son remplacement, selon le cas, par le procureur général, (le procureur fédéral) le procureur du Roi ou l'auditeur du travail.
+En cas d'empêchement, le secrétaire en chef du parquet est remplacé par le secrétaire-chef de service ou le secrétaire qu'il désigne. Lorsqu'il se trouve dans l'impossibilité de faire cette désignation (ou s'il vient à décéder ou à cesser ses fonctions), il est pourvu à son remplacement, selon le cas, par le procureur général, (le procureur fédéral) le procureur du Roi ou l'auditeur du travail.
 Une prestation nouvelle de serment est superflue.
+(En cas d'empêchement d'un secrétaire-chef de service, celui-ci peut être remplacé par un secrétaire que le secrétaire en chef désigne à cet effet.)
