@@ -9,3 +9,4 @@ L'infraction visée à l'alinéa premier sera punie de vingt ans à trente ans d
 1° lorsqu'elle aura été commise envers un mineur ou envers une personne qui, en raison de son état physique ou mental, n'était pas à même de pourvoir à son entretien, par ses père, mère ou autres ascendants, toute autre personne ayant autorité sur lui ou en ayant la garde, ou toute personne majeure qui cohabite occasionnellement ou habituellement avec la victime;
 2° ou lorsqu'elle aura causé la mort et aura été commise sans intention de la donner.
 L'ordre d'un supérieur ou d'une autorité ne peut justifier l'infraction prévue à l'alinéa premier.
+(L'état de nécessité ne peut justifier l'infraction prévue à l'alinéa premier.)
