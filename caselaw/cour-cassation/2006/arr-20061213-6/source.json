@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2006:ARR.20061213.6",
+  "ecli": "ECLI:BE:CASS:2006:ARR.20061213.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2006-12-13",
+  "date_as_printed": "Jugement/arrêt du 13 décembre 2006",
+  "published_on_juportal": "2007-01-15",
+  "language": "fr",
+  "role_number": "P.06.1353.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Pourvoi prématuré (pas de décision définitive)",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Voorbarig cassatieberoep (geen eindbeslissing)",
+    "Arrestation immédiate - Requête de mise en liberté - Prévenu non détenu - Décision attaquée déclarant la requête irrecevable - Recevabilité du pourvoi immédiat",
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "VOORLOPIGE HECHTENIS - VONNISGERECHT",
+    "Arrestation immédiate - Requête de mise en liberté - Prévenu non détenu - Décision attaquée déclarant la requête irrecevable - Pourvoi en cassation immédiat - Recevabilité",
+    "Onmiddellijke aanhouding - Verzoek tot invrijheidstelling - Niet aangehouden beklaagde - Bestreden beslissing verklaart het verzoek niet-ontvankelijk - Ontvankelijkheid van het onmiddellijk cassatieberoep",
+    "Onmiddellijke aanhouding - Verzoek tot invrijheidstelling - Niet aangehouden beklaagde - Bestreden beslissing verklaart het verzoek niet-ontvankelijk - Onmiddellijk cassatieberoep - Ontvankelijkheid"
+  ],
+  "fiche": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Pourvoi prématuré (pas de décision définitive)",
+    "Arrestation immédiate - Requête de mise en liberté - Prévenu non détenu - Décision attaquée déclarant la requête irrecevable - Recevabilité du pourvoi immédiat",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 2, et 31, § 1er et 2 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "Arrestation immédiate - Requête de mise en liberté - Prévenu non détenu - Décision attaquée déclarant la requête irrecevable - Pourvoi en cassation immédiat - Recevabilité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 2, et 31, § 1er et 2 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2006:ARR.20061213.6",
+  "source_sha256": "7c8a31414fb3c7e4744430b84ea64853040869bade1ffaa6f847709489ab38c2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2006:ARR.20061213.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
