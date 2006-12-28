@@ -1,1 +1,7 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Lorsque les nécessités du service le justifient, le Roi peut désigner, à la demande d'un premier président d'une cour d'appel, ou sur réquisition du procureur général, dans le respect de la loi sur l'emploi des langues en matière judiciaire, un conseiller à une cour d'appel pour exercer pendant une période déterminée, avec son accord, ses fonctions auprès d'une cour d'appel d'un autre ressort, après avoir pris préalablement l'avis, selon le cas, des premiers présidents et des procureurs généraux concernés.
+Les mêmes pouvoirs sont exercés par analogie par le Roi en ce qui concerne les cours du travail.
+Sauf prolongation, la désignation prend fin à l'expiration du délai; toutefois pour les affaires en cours de débat ou en délibéré, la désignation produira ses effets jusqu'à l'arrêt.
+Art 113ter. Le premier président de la cour du travail délègue par ordonnance, après avoir pris préalablement l'avis du premier président de la cour d'appel, un conseiller à la cour du travail qui accepte cette délégation pour siéger à titre complémentaire au sein d'une chambre correctionnelle spécialisée visée à l'article 101, alinéa 3.
+La délégation vaut pour une période d'un an renouvelable.
+Le renouvellement a lieu sur avis conforme du premier président de la cour d'appel.
+Le conseiller à la cour du travail dont la délégation auprès de la chambre correctionnelle spécialisée prend fin continue à siéger dans cette chambre dans les affaires en cours de débat ou en délibéré jusqu'à l'arrêt définitif.
