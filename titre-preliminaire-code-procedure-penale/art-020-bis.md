@@ -1,0 +1,1 @@
+L'action publique est également éteinte par l'exercice de l'action exercée par le ministère public devant les juridictions du travail en vertu de l'article 138bis, § 2, alinéa 1er, du Code judiciaire.
