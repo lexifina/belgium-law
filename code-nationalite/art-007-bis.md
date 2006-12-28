@@ -1,0 +1,2 @@
+§ 1er. Pour pouvoir introduire une demande ou une déclaration visant à l'obtention de la nationalité belge, l'étranger doit être en séjour légal au moment de l'introduction de cette demande ou de cette déclaration.
+§ 2. On entend par séjour légal, la situation de l'étranger admis ou autorisé à séjourner plus de trois mois dans le Royaume ou autorisé à s'y établir, conformément aux dispositions de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
