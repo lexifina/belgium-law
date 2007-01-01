@@ -2,5 +2,6 @@ Il y a deux magistrats de liaison en matière de jeunesse. Le premier exerce ses
 Le magistrat de liaison en matière de jeunesse est chargé des missions suivantes:
 1° optimaliser, en cas de manque de places disponibles dans les institutions communautaires publiques de protection de la jeunesse, la mise en oeuvre de la décision de placement prise à l'égard des personnes faisant l'objet d'une décision judiciaire en application de l'article 36, 4°, et 37 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait;
 2° coordonner les orientations éventuelles de personnes condamnées se trouvant dans un centre fédéral fermé vers un établissement pénitentiaire pour adultes.
+(3° établir, dans le respect des compétences respectives, des contacts permanents avec les fonctionnaires dirigeants des services des communautés charges de la mise en oeuvre des décisions de placement.)
 Le magistrat de liaison en matière de jeunesse exerce ses missions sous l'autorité du collège des procureurs généraux et sous la direction du procureur général qui a en charge la protection de la jeunesse.
 Il exerce sa fonction au siège du collège des procureurs généraux.
