@@ -1,0 +1,4 @@
+§ 1er. En cas de saisie ou de cession des montants visés à l'article 1411bis, § 1er, les restrictions et les exclusions visées aux articles 1409, 1409bis et 1410 sont d'application durant une période de trente jours à dater de l'inscription de ces sommes au crédit du compte à vue.
+Néanmoins, lorsque des sommes protégées font l'objet d'un versement global sur un compte à vue alors qu'elles se rapportent à une durée supérieure à un mois, la protection est d'application durant une période correspondante, à dater de l'inscription de ces sommes au crédit du compte à vue. Pour l'application du présent alinéa, un mois compte trente jours.
+§ 2. Le calcul de la partie du solde insaisissable ou incessible du compte à vue se fait au prorata du nombre de jours restants de la période visée au § 1er depuis l'inscription des montants insaisissables ou incessibles au crédit du compte à vue.
+§ 3. L'article 1411 ne s'applique pas aux cas visés au présent article.
