@@ -1,27 +1,36 @@
-<a name="Art.3">Art.</a> <a href="#Art.18"> 3</a>. (NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 3, 3°, deuxième tiret, en ce qu'il exclut du champ d'application de la loi les étrangers ressortissants d'un Etat membre de l'Union européenne qui résident effectivement et régulièrement sur le territoire mais qui ne bénéficient pas de l'application du règlement (CEE) no 1612/68 du Conseil du 15 octobre 1968 relatif à la libre circulation des travailleurs à l'intérieur de la Communauté)
-Pour pouvoir bénéficier du droit à l'intégration sociale, la personne doit simultanément et sans préjudice des conditions spécifiques prévues par cette loi :
-1° avoir sa résidence effective en Belgique, dans le sens à déterminer par le Roi;
-2° être majeure ou assimilée à une personne majeure en application des dispositions de la présente loi;
-3° appartenir à une des catégories de personnes suivantes :
-- soit posséder la nationalité belge;
-- soit bénéficier de l'application du règlement (CEE) n° 1612/68 du 15 octobre 1968 du Conseil des Communautés européennes relatif à la libre circulation des travailleurs à l'intérieur de la Communauté;
-- soit être inscrite comme étranger au registre de la population;
-- soit être un apatride et tomber sous l'application de la Convention relative au statut des apatrides, signée à New-York le 28 septembre 1954 et approuvée par la loi du 12 mai 1960;
-- soit être un réfugié au sens de l'article 49 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
-4° ne pas disposer de ressources suffisantes, ni pouvoir y prétendre ni être en mesure de se les procurer, soit par ses efforts personnels, soit par d'autres moyens. Le centre calcule les ressources de la personne conformément aux dispositions du titre II, chapitre II;
-5° être disposée à travailler, à moins que des raisons de santé ou d'équité l'en empêchent.
-6° faire valoir ses droits aux prestations dont elle peut bénéficier en vertu de la législation sociale belge et étrangère.
+<a name="Art.14">Art.</a> <a href="#Art.41"> 14</a>. (NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 14, § 1er, 1°, en ce qu'il traite de la même manière tous les cohabitants sans tenir compte de la charge d'enfants et article 14, § 1er, 2°, en tant qu'il comprend la catégorie des personnes qui s'acquittent d'une part contributive pour un enfant placé, fixée par le tribunal de la jeunesse ou les autorités administratives dans le cadre de l'aide ou de la protection de la jeunesse)
+(NOTE : par son arrêt n° 123/2006 du 28-07-2006 (M.B. 01-09-2006, p. 43897-43903), la Cour d'Arbitrage a annulé le mot " exclusivement " dans l'article 14, § 1er, 3° de cet article)
+§ 1. (Le revenu d'intégration s'élève à :
+1° 4 400 EUR pour toute personne cohabitant avec une ou plusieurs personnes.
+Il faut entendre par cohabitation le fait que des personnes vivent sous le même toit et règlent principalement en commun leurs questions ménagères.
+2° 6 600 EUR pour une personne isolée.
+3° 8 800 EUR pour une personne vivant exclusivement avec une famille à sa charge.
+Ce droit s'ouvre dès qu'il y a présence d'au moins un enfant mineur non marié.
+Il couvre également le droit de l'éventuel conjoint ou partenaire de vie.
+Par famille à charge, on entend le conjoint, le partenaire de vie, l'enfant mineur non marié ou plusieurs enfants parmi lesquels au moins un enfant mineur non marié.
+Par partenaire de vie, on entend la personne avec qui le demandeur constitue un ménage de fait.
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quelle mesure le conjoint ou le partenaire de vie doit répondre aux conditions d'octroi visées à l'article 3.) &lt;L 2004-07-09/30, art. 104, 003; <b> En vigueur : </b> 01-01-2005&gt;
+§ 2. Le montant du revenu d'intégration est diminué des ressources du demandeur, calculées conformément aux dispositions du titre II, chapitre II.
+§ 3. Le bénéficiaire d'un revenu d'intégration qui perd sa qualité de sans-abri en occupant un logement qui lui sert de résidence principale a droit, une seule fois dans sa vie, à une majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
+Par dérogation à l'alinéa précédent, le Roi peut prévoir la possibilité d'octroyer, dans des cas dignes d'intérêt, une deuxième fois la majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
+Le Roi peut assimiler d'autres catégories de personnes à des sans-abri.
+(NOTE 1 : Pour la période du 1er octobre 2004 jusqu'au 31 décembre 2004 les montants du revenu d'intégration visés à l'article 14, § 1er, sont respectivement fixés comme suit :
+4.444,00;
+6.666,00;
+7.777,00;
+8.888,00; voir AR 2004-09-03/32, art. 1)
+(NOTE 2 : Pour la période à partir du 1er janvier 2005 les montants du revenu d'intégration visés à l'article 14, § 1er, sont respectivement fixés comme suit :
+1° au 1er janvier 2005 :
+4.444,00;
+6.666,00;
+8.888,00;
+2° au 1er octobre 2006 :
+4.488,44;
+6.732,66;
+8.976,88;
+3° au 1er octobre 2007 :
+(4.578,21); &lt;Erratum, voir M.B. 02-12-2004, p. 80685&gt;
+6.867,31;
+9156,42; voir AR 2004-09-03/32, art. 2)
 
-<a name="Art.18" href="#Art.3">Art.</a> 18. § 1. Le centre compétent accorde, revoit ou retire le droit à l'intégration sociale sous la forme d'un revenu d'intégration, d'un emploi ou d'un projet individualisé d'intégration sociale soit de sa propre initiative, soit à la demande de l'intéressé ou de toute personne qu'il a désignée par écrit à cet effet.
-Il y a lieu d'entendre par " centre compétent ", le centre visé aux articles 1, alinéa premier, 1° et 2 de la loi du 2 avril 1965 relative à la prise en charge de l'aide sociale accordée par les centres publics d'aide sociale.
-S'il s'agit d'une personne sans abri, le centre compétent est celui visé à l'article 57bis de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
-§ 2. Le jour de sa réception, la demande est inscrite par ordre chronologique dans le registre tenu à cet effet.
-La demande écrite est signée par l'intéressé ou par la personne désignée. Lorsque la demande est orale, l'intéressé ou la personne désignée signe dans la case ad hoc du registre visé à l'alinéa 1.
-§ 3. Le centre adresse ou remet le même jour un accusé de réception au demandeur.
-Tout accusé de réception doit indiquer le délai d'examen de la demande et les dispositions des articles 20 et 22, § 1, alinéa 2.
-§ 4. Lorsqu'un centre reçoit une demande pour laquelle il ne se considère pas compétent, il transmet cette demande dans les cinq jours calendrier par écrit au centre qu'il estime être compétent. Dans le même délai, il avertit le demandeur par écrit de cette transmission. A peine de nullité, la transmission de la demande au CPAS considéré comme étant compétent, ainsi que la notification au demandeur de la transmission, se fait au moyen d'une lettre mentionnant les raisons de l'incompétence.
-Toutefois, la demande sera validée à la date de sa réception au premier centre, telle que déterminée au § 2.
-Le centre qui manque à cette obligation doit accorder, aux conditions fixées par la présente loi, le revenu d'intégration ou l'intégration sociale par l'emploi tant qu'il n'a pas transmis la demande ni communiqué les raisons invoquées pour justifier l'incompétence.
-La décision d'incompétence peut être prise par le président à charge pour lui de soumettre sa décision au conseil ou à l'organe compétent à la plus prochaine réunion, en vue de sa ratification.
-§ 5. Le centre auprès duquel une demande d'obtention de prestations sociales est introduite, pour laquelle il n'est pas compétent, la transmet sans délai à l'institution de sécurité sociale compétente. Le demandeur en est avisé.
-§ 6. Lorsque le centre reçoit une demande d'obtention du droit à l'intégration sociale, transmise par une autre institution de sécurité sociale, la demande sera validée à la date d'introduction auprès de l'institution non compétente, à savoir la date du cachet de la poste et, à défaut de celui-ci, la date de réception de la demande.
+<a name="Art.41" href="#Art.14">Art.</a> 41. La subvention est égale à 100 % du montant du revenu d'intégration pendant une période maximale d'un an lorsqu'il est octroyé à un bénéficiaire qui perd sa qualité de sans-abri tel que visé à l'article 14, § 3, alinéa 1.
