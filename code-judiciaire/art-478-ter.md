@@ -1,0 +1,8 @@
+§ 1er. Au plus tard trente jours après qu'un poste d'avocat à la Cour de cassation soit vacant, le bâtonnier de l'Ordre des avocats à la Cour de cassation en informe le ministre de la Justice, le premier président de la Cour de cassation et le procureur général près la Cour de cassation.
+§ 2. Dans les trente jours qui suivent cette communication, le ministre de la Justice publie la vacance au Moniteur belge.
+§ 3. Les candidatures sont adressées au ministre de la Justice dans les nonante jours à dater de la publication de la vacance au Moniteur belge.
+La forme de l'acte de candidature, son contenu, ses annexes et les modalités de son dépôt sont établis par le Roi après avis de l'Ordre des avocats à la Cour de cassation.
+§ 4. A la fin du délai visé au paragraphe précédent, le ministre de la Justice transmet les candidatures à la commission.
+§ 5. La commission dispose d'un délai de soixante jours à compter de l'envoi des candidatures par le ministre de la Justice pour proposer une liste de trois candidats par poste vacant.
+Si aucune proposition n'est communiquée dans le délai prescrit, le ministre de la Justice peut, à compter du soixantième jour et jusqu'au septante-cinquième jour de l'envoi des candidatures, enjoindre à la commission par lettre recommandée à la poste de faire une proposition. La commission dispose de quinze jours à compter de l'envoi de l'injonction pour faire une proposition.
+Si aucune proposition n'est communiquée dans le délai prescrit ou dans le délai prolongé à la suite de l'injonction, le ministre de la Justice en informe dans les quinze jours les candidats par lettre recommandée à la poste et un nouvel appel aux candidats est publié au Moniteur belge.
