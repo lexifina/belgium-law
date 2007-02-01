@@ -9,6 +9,7 @@ Le représentant du barreau ne peut émettre un avis sur les parents ou alliés 
 L'avis est transmis à la commission de nomination et de désignation et au candidat dans un délai de trente jours à compter de la demande d'avis.
 A défaut d'avis rendu dans le délai prescrit, ledit avis est censé n'être ni favorable ni défavorable.
 Le candidat dispose d'un délai de quinze jours à compter de la notification de l'avis pour communiquer ses observations à la commission de nomination et de désignation.
+(Les délais de procédure sont suspendus du 15 juillet au 15 août.)
 Le demandeur dont la commission de nomination et de désignation compétente estime, à la majorité des trois quarts des voix, qu'il a réussi l'examen oral d'évaluation est autorisé à se porter candidat à une nomination.
 § 3. L'autorisation délivrée par la commission de nomination et de désignation est valable pendant trois ans à compter de la date de délivrance de l'autorisation.
 Si le candidat n'a pas réussi l'examen oral d'évaluation, il en est averti par lettre motivée et recommandée à la poste. Dans ce cas, l'intéressé peut introduire une nouvelle demande au plus tôt trois ans après cette notification.
