@@ -2,7 +2,7 @@
 La peine de travail ne peut être prononcée pour les faits visés:
 - à l'article 347bis;
 - aux articles 375 à 377;
-- aux articles 379 à 386ter, si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
+- aux articles 379 à (387), si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
 - aux articles 393 à 397;
 - à l'article 475.
 § 2. La durée d'une peine de travail ne peut être inférieure à vingt heures ni supérieure à trois cents heures. Une peine de travail égale ou inférieure à quarante-cinq heures constitue une peine de police. Une peine de travail de plus de quarante-cinq heures constitue une peine correctionnelle.
