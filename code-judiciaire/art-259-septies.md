@@ -1,1 +1,5 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+L'exercice d'un mandat de chef de corps est incompatible avec l'exercice d'un mandat adjoint et avec l'exercice d'un mandat spécifique si ce dernier est exercé en dehors de la juridiction.
+L'exercice d'un mandat adjoint est compatible avec l'exercice d'un mandat spécifique pour autant que celui-ci soit exercé dans la même juridiction.
+(La désignation à un mandat adjoint conformément à l'article 259quinquies est uniquement possible dans la juridiction sur le cadre de laquelle le magistrat est imputé.
+A l'exception des mandats (de juge au tribunal de l'application des peines, de magistrat de liaison en matière de jeunesse, de magistrat d'assistance, de magistrat fédéral et de substitut du procureur du Roi spécialisé en application des peines), la désignation à un mandat spécifique conformément à l'article 259sexies est uniquement possible dans la juridiction sur le cadre de laquelle le magistrat est imputé.)
+(Pendant l'exercice de leur mandat, le juge au tribunal de l'application des peines et le substitut du procureur du Roi spécialisé en application des peines peuvent être désigné à un mandat adjoint dans la juridiction dont ils sont issus. L'article 323bis, § 1er, alinéas 2 à 4, leur est applicable.)
