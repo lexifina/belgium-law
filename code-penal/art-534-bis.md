@@ -1,0 +1,2 @@
+§ 1er. Sera puni d'un emprisonnement d'un mois à six mois et d'une amende de vingt-six euros à deux cents euros ou d'une de ces peines seulement, quiconque réalise sans autorisation des graffitis sur des biens mobiliers ou immobiliers.
+§ 2. Le maximum de l'emprisonnement est porté à un an d'emprisonnement en cas de récidive sur une infraction visée au paragraphe premier dans les cinq années à compter de la date d'un jugement antérieur portant condamnation et passé en force de chose jugée.
