@@ -1,0 +1,1 @@
+Sera puni d'un emprisonnement d'un mois à six mois et d'une amende de vingt-six euros à deux cents euros ou d'une de ces peines seulement, quiconque aura volontairement dégradé les propriétés immobilières d'autrui.
