@@ -1,4 +1,4 @@
-Le président de la cour d'appel porte l'affaire au rôle d'audience de la première chambre de la cour d'appel du treizième jour avant l'élection, à 10 heures du matin, même si ce jour est un jour férié.
+Le président de la cour d'appel porte l'affaire au rôle d'audience de la première chambre de la cour d'appel du vingtième jour avant l'élection, à 10 heures du matin, même si ce jour est un jour férié.
 La première chambre de la cour d'appel examine les affaires d'éligibilité toutes affaires cessantes.
 A l'audience publique, le président donne lecture des pièces du dossier. Il donne ensuite la parole à l'appelant et, éventuellement, à l'intimé; ceux-ci peuvent se faire représenter et assister d'un conseil.
 La cour, après avoir entendu le procureur général en son avis, statue séance tenante par un arrêt dont il est donné lecture en audience publique; cet arrêt n'est pas signifié à l'intéresse mais est déposé au greffe de la cour, où l'intéressé peut en prendre communication sans frais.
