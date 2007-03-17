@@ -14,7 +14,7 @@ Dans le cas prévu à l'article 106, le bureau spécial de dépouillement est co
 Le bureau spécial de dépouillement se compose d'un président, de quatre assesseurs, de quatre assesseurs suppléants et d'un secrétaire.
 Le bureau spécial de dépouillement est préside par le président du tribunal de première instance de Bruxelles ou, à son défaut, par le magistrat qu'il aura désigné à cette fin.
 Les membres du bureau spécial de dépouillement sont désignés parmi les fonctionnaires du Ministère des Affaires étrangères.
-Le président du bureau spécial de dépouillement peut, en fonction du nombre de Belges résidant à l'étranger ayant choisi de voter dans les postes diplomatiques ou consulaires de carrière, étendre la composition de ce bureau.
+Le président du bureau spécial de dépouillement peut, en fonction du nombre de Belges résidant à l'étranger ayant choisi de voter dans les postes diplomatiques ou consulaires de carrière ou par correspondance pour la circonscription électorale de Bruxelles-Hal-Vilvorde, élargir la composition de ce bureau, le cas échéant, en faisan appel à des fonctionnaires d'autres services publics fédéraux.
 § 5. Le bureau spécial de dépouillement procède au dépouillement à partir de 14 heures, le jour de l'élection sur le territoire du Royaume.
 Dès la fermeture des bureaux de vote constitués dans les postes diplomatiques ou consulaires de carrière, les bulletins sont transmis par la personne désignée à cette fin par le président du bureau, au Ministère des Affaires étrangères.
 Les bulletins sont conservés sous enveloppe fermée jusqu'au début des opérations de dépouillement.
