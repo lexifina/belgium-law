@@ -1,4 +1,4 @@
-§ 1. Peut mandater un autre électeur pour voter en son nom:
+§ 1er. Peut mandater un autre électeur pour voter en son nom:
 1° l'électeur qui, pour cause de maladie ou d'infirmité, est dans l'incapacité de se rendre au bureau de vote ou d'y être transporté. Cette incapacité est attestée par certificat médical. Les médecins qui sont présentés comme candidats à l'élection ne peuvent délivrer un tel certificat;
 2° l'électeur qui, pour des raisons professionnelles ou de service:
 a) est retenu à l'étranger de même que les électeurs, membres de sa famille ou de sa suite, qui résident avec lui;
@@ -12,7 +12,7 @@ Cet état est attesté par la direction de l'établissement où séjourne l'int�
 Cette impossibilité doit être justifiée par une attestation délivrée par les autorités religieuses;
 6° L'étudiant qui, pour des motifs d'étude, se trouve dans l'impossibilité de se présenter au bureau de vote, à condition qu'il produise un certificat de la direction de l'établissement qu'il fréquente;
 7° l'électeur qui, pour des raisons autres que celles mentionnées ci-dessus est absent de son domicile le jour du scrutin en raison d'un séjour temporaire à l'étranger, et se trouve des lors dans l'impossibilité de se présenter au bureau de vote, pour autant que l'impossibilité ait été constatée par le bourgmestre du domicile, après présentation des pièces justificatives nécessaires; le Roi détermine le modèle du certificat à délivrer par le bourgmestre.)
-La demande doit être introduite auprès du bourgmestre du domicile au plus tard le quinzième jour avant celui de l'élection.)
+La demande doit être introduite auprès du bourgmestre du domicile au plus tard le jour qui précède le jour de l'élection.
 § 2. Peut être désigné comme mandataire tout autre électeur.
 Chaque mandataire ne peut disposer que d'une procuration.
 § 3. La procuration est rédigée sur un formulaire dont le modèle est fixé par le Roi et qui est délivré gratuitement au secrétariat communal.
