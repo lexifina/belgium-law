@@ -1,2 +1,2 @@
 Pendant la durée de validité du titre de séjour ou lors de son renouvellement, le Ministre ou son délégué peut décider de mettre fin au séjour de l'étudiant CE visé à l'article 40, § 2, 5°, et, le cas échéant, lui donner l'ordre de quitter le territoire, lorsque l'étranger ne répond plus aux conditions mises à son séjour. Il peut prendre les mêmes décisions à l'égard des membres de la famille de l'étudiant CE visés à l'article 40, § 5.
-Ces décisions peuvent donner lieu à la demande en révision prévue à l'article 64.
+(Alinéa 2 abrogé)
