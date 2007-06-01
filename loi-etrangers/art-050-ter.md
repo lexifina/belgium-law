@@ -1,0 +1,1 @@
+L'étranger qui tente d'entrer dans le Royaume sans satisfaire aux conditions fixées à l'article 2, doit introduire sa demande d'asile auprès des autorités chargées du contrôle aux frontières, au moment où celles-ci l'interrogent sur les raisons de sa venue en Belgique.
