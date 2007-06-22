@@ -1,0 +1,2 @@
+Sans préjudice des règles visées à article 735, § 3, l'absence ou l'écartement d'office des conclusions n'emporte pas l'interdiction de plaider. Cette plaidoirie ne vaut pas conclusions.
+A la suite de cette plaidoirie, la partie adverse peut déposer des conclusions en réponse. A cet effet, la cause sera de plein droit mise en continuation à quinze jours et sera ensuite prise en délibéré sans nouveaux débats. Le juge peut réduire ce délai à la demande de la partie autorisée à conclure en vertu du présent alinéa.
