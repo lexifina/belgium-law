@@ -1,2 +1,2 @@
-(inséré par ) Lorsque la demande est formulée par l'intermédiaire de l'autorité centrale désignée sur la base de l'une des Conventions dont question à l'article 1322bis, la requête est signée et présentée au président du tribunal par le ministère public.
+(inséré par ) (Lorsque la demande est formulée par l'intermédiaire de l'Autorité centrale désignée sur la base de l'une des Conventions ou du Règlement du Conseil visés à l'article 1322bis, la requête est signée et présentée au président du tribunal par le ministère public.)
 En cas de conflit d'intérêts dans le chef de celui-ci, la requête est signée et présentée au président du tribunal par l'avocat désigné par l'autorité centrale.
