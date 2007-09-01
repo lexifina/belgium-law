@@ -1,0 +1,2 @@
+Après la taxation définitive, la provision est retirée par les experts à concurrence de la somme qui leur est due. Le reliquat eventuel est remboursé d'office aux parties par le greffier au prorata des montants qu'elles étaient tenues de consigner et qu'elles ont effectivement consigné.
+Les experts peuvent seulement recevoir un paiement direct après que leur état de frais et honoraires a été définitivement taxé et pour autant que la provision consignée soit insuffisante.

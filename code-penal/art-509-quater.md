@@ -1,1 +1,1 @@
-(Abrogé)
+Sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de deux cents euros à quinze cents euros, ou d'une de ces peines seulement, l'expert qui, sachant qu'un paiement direct n'est pas autorisé, l'accepte malgré tout d'une partie à la cause.
