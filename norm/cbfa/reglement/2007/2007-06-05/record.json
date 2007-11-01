@@ -1,0 +1,18 @@
+{
+  "title": "Règlement de la Commission bancaire, financière et des assurances du 5 juin 2007 relatif aux règles organisationnelles applicables aux établissements fournissant des services d’investissement",
+  "issuer": "cbfa",
+  "kind": "reglement",
+  "in_force": "2007-11-01",
+  "in_force_basis": "Art. 26. Le présent règlement entre en vigueur le 1er novembre 2007.",
+  "source": "https://www.nbb.be/doc/cp/nl/bo/wg/pdf/reglem_05-06-2007.pdf",
+  "source_sha256": "8e96b83c72a4ca17647d878d583e7d13462e78377810d653040d55bf84105f29",
+  "source_listing": "https://www.nbb.be/en/financial-supervision/news/reglement-de-la-commission-bancaire-financiere-et-des-assurances-du-5-juin-2007-relatif-aux-regles",
+  "text_status": "as-enacted",
+  "languages": [
+    "nl",
+    "fr"
+  ],
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0
+}
