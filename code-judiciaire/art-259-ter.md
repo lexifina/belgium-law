@@ -14,7 +14,7 @@ Les candidats disposent à peine de déchéance d'un délai de quinze jours à c
 a) la candidature et toutes les pièces justificatives concernant les études et l'expérience professionnelle;
 b) le curriculum vitae;
 c) les avis écrits visés au § 1er et, le cas échéant, les observations du candidat;
-d) les rapports relatifs au stage judiciaire;
+d) (le rapport final du stage judiciaire établi par la commission d'évaluation compétente;)
 e) la mention définitive dans le dossier d'évaluation;
 f) les documents attestant la notification des avis au candidat.)
 § 3. Pour une nomination à la fonction de conseiller à la Cour de cassation, de conseiller ou de conseiller suppléant à la cour d'appel ou de conseiller à la cour du travail, le Ministre de la Justice communique dans un délai de 100 jours à compter de la publication visée au § 1er, pour chacun des candidats, un dossier de nomination à l'assemblée générale de la juridiction où la nomination doit intervenir, avec la demande d'émettre un avis motivé pour chacun des candidats; cet avis sera joint à leur dossier.
