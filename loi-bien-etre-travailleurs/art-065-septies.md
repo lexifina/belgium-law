@@ -1,0 +1,1 @@
+Par dérogation à l'article 95 de la présente loi, le Roi peut, par arrêté délibéré en Conseil des ministres et sur avis unanime du Conseil national du Travail et du Conseil central de l'Economie, préciser les modalités quant à la nature, à l'ampleur, à la périodicité et au mode de délivrance des renseignements à fournir.
