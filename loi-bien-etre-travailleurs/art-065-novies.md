@@ -1,0 +1,2 @@
+Lors de ses communications au Comité, le chef d'entreprise signale, le cas échéant, le caractère confidentiel de certains renseignements, dont la diffusion serait susceptible de causer un préjudice à l'entreprise.
+En cas de désaccord à ce sujet au sein du Comité, le caractère confidentiel de ces renseignements sera soumis à l'approbation d'un des fonctionnaires désignés par le Roi en vertu de l'article 80 de la présente loi pour la surveillance de la présente sous-section. Cette approbation est accordée ou refusée selon la procédure fixée par l'article 65octies, § 2.

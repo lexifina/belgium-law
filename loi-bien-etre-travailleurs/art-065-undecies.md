@@ -1,0 +1,1 @@
+L'extension de compétences prévue par la présente sous-section n'a aucune conséquence sur les attributions visées à l'article 11, § 2, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
