@@ -1,1 +1,1 @@
-(Abrogé)
+L'étranger auquel a été accordé le statut de résident de longue durée dans le Royaume perd ce statut lorsque le même statut lui est accordé dans un autre Etat membre de l'Union européenne, en application de la directive 2003/109/CE du Conseil de l'Union européenne du 25 novembre 2003 relative au statut des ressortissants de pays tiers résidents de longue durée.

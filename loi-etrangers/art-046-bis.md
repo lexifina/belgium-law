@@ -1,0 +1,3 @@
+§ 1er. Le citoyen de l'Union ou les membres de sa famille vises à l'article 40bis, § 2, peuvent, au plus tôt après un délai de deux ans suivant l'arrêté royal d'expulsion ou l'arrêté ministériel de renvoi, introduire auprès du délégué du ministre une demande de suspension ou de levée de l'arrêté concerné, en invoquant des moyens tendant à établir un changement matériel des circonstances qui avaient justifié cette décision.
+§ 2. Une décision concernant cette demande est prise au plus tard dans les six mois suivant l'introduction de celle-ci.
+Les étrangers concernes n'ont aucun droit d'accès ou de séjour dans le Royaume durant le traitement de cette demande.

@@ -1,0 +1,11 @@
+§ 1er. Par dérogation à l'article 42quinquies, le droit de séjour permanent est accordé, avant l'expiration de la période ininterrompue de trois ans, aux catégories suivantes de travailleurs salariés ou non salariés visés à l'article 40, § 4, alinéa 1er, 1°:
+1° le travailleur salarié ou non salarié qui cesse d'exercer son activité à la suite d'une incapacité permanente de travail, à la condition:
+a) qu'il séjourne d'une façon continue dans le Royaume depuis plus de deux ans;
+b) ou que l'incapacité permanente de travail résulte d'un accident de travail ou d'une maladie professionnelle ouvrant le droit à une prestation entièrement ou partiellement à charge d'une institution du Royaume;
+c) ou que son conjoint ou partenaire visé à l'article 40bis, § 2, alinéa 1er, 1°, soit Belge;
+2° le travailleur salarié ou non salarié qui, lorsqu'il cesse d'exercer son activité, a atteint l'âge prévu par la législation pour faire valoir ses droits à une pension de vieillesse ou le travailleur qui cesse d'exercer une activité salariée à la suite d'une mise à la retraite anticipée, à condition que son conjoint ou partenaire vise à l'article 40bis, § 2, alinéa 1er, 1°, soit Belge.
+Les périodes de chômage involontaire, dument constatées par le service d'emploi compétent et durant lesquelles l'intéressé n'a pas travaillé pour des raisons qui ne lui sont pas imputables, ou les périodes d'absence ou d'interruption de travail pour maladie ou pour accident, sont considérées comme des périodes d'activité.
+§ 2. Les membres de famille du citoyen de l'Union visé au § 1er obtiennent également un droit de séjour permanent.
+§ 3. Lorsque le travailleur salarié ou non salarié visé à l'article 40, § 4, alinéa 1er, 1°, décède au cours de sa carrière professionnelle avant d'avoir acquis le droit de séjour permanent sur la base du § 1er, les membres de sa famille séjournant avec lui dans le Royaume acquièrent un droit de séjour permanent à la condition que:
+1° le travailleur salarié ou non salarié ait séjourné dans le Royaume durant deux ans de façon ininterrompue, au moment de son décès;
+2° ou que le décès du travailleur salarié ou non salarié soit la conséquence d'un accident de travail ou d'une maladie professionnelle.
