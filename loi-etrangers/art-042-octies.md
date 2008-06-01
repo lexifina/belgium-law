@@ -1,0 +1,8 @@
+§ 1er. La décision imposant l'amende administrative, visée aux articles 41, alinéa 4, 41bis, alinéa 2, 42, § 4, alinéa 2, et 42quinquies, § 6, alinéa 3, est exécutable immédiatement, nonobstant tout recours.
+L'amende administrative peut être payée au moyen de la consignation du montant dû à la Caisse des Dépôts et Consignations.
+§ 2. Le citoyen de l'Union, ou, le cas échéant, le membre de sa famille, qui conteste la décision du ministre ou de son délégué, introduit par une demande écrite un recours auprès du tribunal de première instance dans un délai d'un mois à compter de la notification de la décision, sous peine de déchéance.
+Si le tribunal de première instance déclare le recours recevable et fondé, la somme payée ou consignée est remboursée.
+Le tribunal de première instance doit statuer dans un mois à compter de l'introduction de la demande écrite visée à l'alinéa 1er.
+Le texte de l'alinéa 1er est repris dans la décision imposant l'amende administrative.
+§ 3. Si le citoyen de l'Union ou le membre de sa famille reste en défaut de paiement de l'amende, la décision de l'agent compétent ou la décision passée en force de chose jugée du tribunal de première instance est portée à la connaissance de l'Administration du Cadastre, de l'Enregistrement et des Domaines, en vue du recouvrement du montant de l'amende administrative.
+§ 4. Si le citoyen de l'Union, le membre de sa famille ou son représentant a consigné la somme de l'amende administrative à la Caisse des Dépôts et Consignations et s'il n'a pas introduit de recours auprès du tribunal de première instance dans le délai précité, la consignation donnée revient à l'Etat.

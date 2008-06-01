@@ -1,0 +1,1 @@
+Le ministre ou son délégué peut mettre fin au droit de séjour du citoyen de l'Union ou des membres de sa famille lorsque celui-ci ou ceux-ci ont utilisé des informations fausses ou trompeuses ou des documents faux ou falsifiés, ou ont recouru à la fraude ou à d'autres moyens illégaux, qui ont été déterminants pour la reconnaissance de ce droit.
