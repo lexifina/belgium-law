@@ -1,0 +1,1 @@
+En cas d'urgence, le premier président se prononce sur la requête, après avoir recueilli l'avis du procureur général, sans qu'un avis préalable de l'avocat à la Cour de cassation soit requis et sans que les parties doivent être appelées ou entendues.
