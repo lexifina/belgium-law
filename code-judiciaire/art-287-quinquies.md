@@ -1,0 +1,3 @@
+§ 1er. Pour les nominations ou les désignations prévues par le présent titre, le candidat doit avoir satisfait aux conditions de connaissance des langues nationales prévues par la loi.
+§ 2. Pour les nominations et les fonctions visées aux articles 187 à 194, 207 à 209 et 254 et 258, les candidats doivent avoir exercé les fonctions juridiques prescrites en tant que titulaire du diplôme de master, licencié ou docteur en droit et à titre d'activité professionnelle principale.
+§ 3. Pour les nominations, fonctions et emplois prévus par le présent titre, les intéressés doivent être d'une conduite répondant aux exigences de la fonction visée et jouir des droits civils et politiques.

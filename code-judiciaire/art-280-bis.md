@@ -1,1 +1,1 @@
-Le Roi organise l'examen en vue de la délivrance du certificat de candidat-secrétaire visé aux articles 274, 275, 276, 277, 278, 279 et 280. Seules peuvent participer à cet examen les personnes qui, au moment de la clôture des inscriptions, remplissent les conditions de diplôme et d'ancienneté fixées à l'article 280, alinéa 1er, 2°, b) ou c).
+(Abrogé)

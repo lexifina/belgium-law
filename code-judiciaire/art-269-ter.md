@@ -1,1 +1,1 @@
-Le Roi organise l'examen en vue de la délivrance du certificat de candidat-greffier visé aux articles 263, 264, 265, 266, 267, 269 et 269bis. Seules peuvent participer à cet examen les personnes qui, au moment de la clôture des inscriptions, remplissent les conditions de diplôme et d'ancienneté fixées à l'article 269bis, alinéa 1er, 2°, b) ou c).
+(Abrogé)

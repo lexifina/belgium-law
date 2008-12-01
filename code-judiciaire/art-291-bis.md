@@ -1,1 +1,5 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+(...)
+Les secrétaires en chef, (et les secrétaires des parquets) prêtent le serment prescrit par le décret du 20 juillet 1831 entre les mains, selon le cas, du procureur général, du (procureur fédéral) du procureur du Roi ou de l'auditeur du travail.)
+(Si la place est vacante au moment de la publication de la nomination ou de la désignation au Moniteur belge, la prestation de serment doit avoir lieu dans le mois qui suit la publication; à défaut, la nomination ou la désignation pourra être considérée comme non avenue.
+Si la place est encore occupée au moment de la publication de la nomination ou de la désignation au Moniteur belge, la prestation de serment doit avoir lieu dans un délai d'un mois à compter du moment où la place devient effectivement vacante; à défaut, la nomination ou la désignation pourra être considérée comme non avenue.)
+La prestation de serment doit avoir lieu dans le mois de la notification de la nomination, à défaut de quoi celle-ci peut être considérée comme non avenue.

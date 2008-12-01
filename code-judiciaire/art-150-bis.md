@@ -3,4 +3,4 @@ Le Conseil des procureurs du Roi est chargé de donner des avis, d'initiative ou
 Le Conseil désigne en son sein, à chaque fois pour la dure d'une année judiciaire, un président, et un vice-président appartenant à un autre régime linguistique et qui remplace le président en cas d'absence ou d'empêchement.
 Le Roi approuve le règlement d'ordre intérieur du Conseil des procureurs du Roi, sur proposition du Conseil et après avis du Collège des procureurs généraux.
 Le Conseil se réunit, d'initiative ou à la demande du Collège des procureurs généraux, et au moins une fois par trimestre.
-L'ordre du jour et les rapports des réunions et les avis sont transmis au Ministre de la Justice, au Collège des procureurs généraux, au procureur fédéral et aux membres du Conseil.
+(Dernier alinéa abrogé).

@@ -3,4 +3,4 @@ Le conseil des auditeurs du travail est chargé de donner des avis, d'initiative
 Le conseil désigne en son sein, à chaque fois pour la durée d'une année judiciaire, un président, et un vice-président appartenant à un autre régime linguistique et qui remplace le président en cas d'absence ou d'empêchement.
 Le Roi approuve le règlement d'ordre intérieur du conseil des auditeurs du travail, sur proposition du conseil et après avis du collège des procureurs généraux.
 Le conseil se réunit au moins une fois par trimestre, d'initiative ou à la demande du collège des procureurs généraux.
-L'ordre du jour et les rapports des réunions et les avis sont transmis au Ministre de la Justice, au collège des procureurs généraux, au procureur fédéral et aux membres du conseil.
+(Dernier alinéa abrogé).
