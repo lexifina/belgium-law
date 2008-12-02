@@ -1,0 +1,1 @@
+Binnen de grenzen van de Staat hebben de leden van de (Parlementen) van de in de artikelen 2 en 3 bedoelde gemeenschappen en gewesten vrij verkeer op alle verkeerswegen door de openbare overheden geëxploiteerd of in concessie gegeven.

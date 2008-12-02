@@ -1,0 +1,1 @@
+De doodstraf is afgeschaft.
