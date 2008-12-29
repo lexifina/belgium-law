@@ -1,0 +1,1 @@
+Le temps consacré par le jeune travailleur encore soumis à l'obligation scolaire à temps partiel visée à l'article 1er, § 1er, de la loi du 29 juin 1983 concernant l'obligation scolaire, à suivre un enseignement à horaire réduit ou une formation reconnue comme répondant aux exigences de l'obligation scolaire, est compté comme temps de travail.
