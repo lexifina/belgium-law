@@ -1,0 +1,3 @@
+§ 1er. L'employeur peut payer l'indemnité de congé visée à l'article 39, § 1er, par mensualités en cas de licenciement effectué par une entreprise en difficulté ou qui connaît des circonstances économiques exceptionnellement défavorables.
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, après avis du Conseil national du travail, ce qu'il faut entendre par entreprise en difficulté ou connaissant des circonstances économiques exceptionnellement défavorables.
+§ 2. L'indemnité de congé payée mensuellement est liée à l'évolution de l'indice des prix à la consommation suivant les mêmes modalités que celles qui étaient applicables à la rémunération du travailleur dont le contrat a pris fin.

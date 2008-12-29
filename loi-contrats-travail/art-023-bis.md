@@ -1,0 +1,1 @@
+Les cautionnements constitués avant l'entrée en vigueur de la présente loi doivent être adaptés aux stipulations des conventions collectives de travail visées à l'article 23, alinéa premier, de la loi du 3 juillet 1978 relative aux contrats de travail, dans un délai de six mois prenant cours le jour où l'employeur est lié par la convention collective de travail.
