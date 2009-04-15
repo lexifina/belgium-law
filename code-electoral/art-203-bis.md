@@ -1,0 +1,1 @@
+Les observateurs issus d'organisations internationales reconnues par la Belgique ou délégués par d'autres pays peuvent être habilités à suivre toutes les opérations électorales. Ils sont dans ce cas admis dans les différents bureaux électoraux sur présentation au président de leur carte de légitimation délivrée par le Service public fédéral Intérieur.
