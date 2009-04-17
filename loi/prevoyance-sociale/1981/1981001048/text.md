@@ -244,7 +244,7 @@ Le dépôt du pli recommandé à la poste interrompt la prescription.
 Si cet avis n'est pas donné dans les deux mois, celui-ci n'est plus requis.
 § 2. Les arrêtés royaux portant exécution des articles 2, 15, 17 et 27 à 30 de la présente loi sont soumis à l'avis des commissions parlementaires compétentes.
 
-<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.35bis"> 35</a>. (§ 1er. abrogé) &lt;L 2002-12-24/31, art. 362, 058; <b> En vigueur : </b> 01-01-2004&gt;
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.35bis"> 35</a>.(§ 1er. abrogé) &lt;L 2002-12-24/31, art. 362, 058; <b> En vigueur : </b> 01-01-2004&gt;
 § 2. (abrogé) &lt;L 2002-12-24/31, art. 362, 058; <b> En vigueur : </b> 01-01-2004&gt;
 § 3. (abrogé) &lt;L 2002-12-24/31, art. 362, 058; <b> En vigueur : </b> 01-01-2004&gt;
 (§ 4. abrogé) &lt;L 2002-12-24/31, art. 362, 058; <b> En vigueur : </b> 01-01-2004&gt;
@@ -296,6 +296,15 @@ Sans préjudice des attributions des officiers de police judiciaire, les fonctio
 Ces fonctionnaires exercent cette surveillance conformément aux dispositions de la loi du 16 novembre 1972 concernant l'inspection du travail.
 G. Le Roi détermine, par arreté délibéré en Conseil des ministres, les conditions et modalités complementaires pour l'application du présent paragraphe.) &lt;L 2003-12-22/42, art. 32, 060; <b> En vigueur : </b> 01-01-2004&gt;
 (H. Le Roi peut déterminer, par arrêté délibéré en Conseil des Ministres, pour chaque Fonds sectoriel, un montant de compensation pour les années 2006, 2007 et 2008. Le Roi fixe les conditions d'attribution et les modalités de calcul de cette compensation.) &lt;L 2005-12-27/30, art. 9, 068; <b> En vigueur : </b> 09-01-2006&gt;
+[<sup>1</sup> § 6. A. Le Roi peut, par arrêté délibéré en Conseil des Ministres, aux conditions qu'Il détermine, affecter aux fonds visés au § 5, C, 1°, une partie de la dispense de versement de précompte professionnel visée à l'alinéa 4 de l'article 275/7 du Code des impôts sur les revenus 1992.
+B. Les dispositions du titre VII du Code des impôts sur les revenus 1992 sont applicables à la partie de la dispense de versement de précompte professionnel visée à l'alinéa 4 de l'article 275/7, affectée au financement des fonds du Maribel social.
+C. Par dérogation au point E. du § 5, le montant provenant des dispenses de versement de précompte professionnel qui se trouve au 31 décembre sur le compte de chacun de ces fonds, y compris les intérêts, diminué du montant des dispenses de versement de précompte professionnel perçu au cours de l'année en cours est mis, annuellement, à la disposition de la gestion globale de l'Office national de Sécurité sociale.
+Ce montant est déduit du produit de la réduction forfaitaire qui est mis à la disposition de chaque Fonds sectoriel pour la deuxième année qui suit l'année à laquelle se rapporte ce montant.
+D. Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi surveillent le respect du présent paragraphe et de ses arrêtés d'exécution.
+Ces fonctionnaires exercent cette surveillance conformément aux dispositions de la loi du 16 novembre 1972 concernant l'inspection du travail.
+E. Le Roi détermine les conditions et modalités complémentaires pour l'application du présent paragraphe.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009032737" target="_blank">2009-03-27/37</a>, art. 48, 082; En vigueur : 17-04-2009&gt;
 
 <a name="Art.35bis" href="#Art.35">Art.</a> <a href="#Art.36"> 35bis</a>. &lt;Inséré par L 1990-07-20/32, art. 1, 019; <b> En vigueur : </b> 11-08-1990&gt; La réduction des cotisations patronales de 4 250 francs par trimestre, prévue à l'article 35 de la présente loi, est accordée pour la période comprise entre le 1er janvier 1983 et le 31 décembre 1988 aux employeurs ayant occupé des travailleurs assujettis au régime prévu par l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés, pour autant que ces travailleurs manuels aient travaillé, par mois, au moins 51 p.c. du nombre (heures ou journées visées à l'article 24 de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs) prévues dans la convention collective qui leur est applicable. &lt;AR 2001-06-10/58, art. 8, 052; <b> En vigueur : </b> 01-01-2003&gt;
 Toutefois, les employeurs ayant bénéficié, au cours de la période comprise entre le 1er janvier 1983 et le 31 décembre 1988, de la réduction des cotisations patronales prévue par l'article 35, § 1er, alinéa premier, qui leur a été rendu applicable par l'arrêté royal du 18 février 1983, ne peuvent prétendre à la réduction des cotisations patronales visée à l'alinéa premier, et ce, pour toute la période pendant laquelle ledit article 35, § 1er, alinéa premier, leur était applicable.
