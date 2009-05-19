@@ -12,7 +12,7 @@ d) la remise au travail des travailleurs qui ont déclaré avoir été l'objet d
 5° l'information et la formation des travailleurs;
 6° l'information du comité.
 Les mesures visées à l'alinéa 3 sont prises après avis du comité, à l'exception des mesures visées au 2°, qui sont prises après accord du comité.
-Lorsqu'aucun accord n'est atteint, l'employeur demande l'avis du fonctionnaire chargé de la surveillance visé à l'article 80, aux conditions et selon les modalités déterminées par le Roi.
+Lorsque aucun accord n'est atteint, l'employeur demande l'avis du fonctionnaire chargé de la surveillance visé à l'article 80, aux conditions et selon les modalités déterminées par le Roi.
 Sans préjudice des dispositions organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, l'employeur peut prendre les mesures lorsque l'accord n'est toujours pas obtenu suite à l'avis visé à l'alinéa 5 pour autant qu'au moins deux tiers des membres représentant les travailleurs au sein du comité aient donné leur accord.)
 § 2. Le Roi peut déterminer les conditions et les modalités d'application du présent article. En outre, il peut prendre des mesures spécifiques, afin de tenir compte de situations à risques spécifiques ou nouveaux ou afin de tenir compte de la situation spécifique du travailleur.
 Néanmoins, pour les employeurs auxquels s'applique la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, les conditions, les modalités et les mesures spécifiques visées à l'alinéa premier peuvent être déterminées par une convention collective de travail, conclue au sein du Conseil national du Travail, rendue obligatoire par arrêté royal.
