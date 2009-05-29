@@ -9,4 +9,4 @@ La décision relative à l'étranger qui dispose d'un titre de séjour délivré
 § 3. Les Etats tenus par la directive précitée au moment de l'entrée en vigueur de la présente disposition sont les Etats membres de l'Union européenne.
 Le Roi met l'alinéa précédent en concordance avec le résultat des procédures, prévues par des instruments européens, permettant l'application du droit communautaire à d'autres Etats.
 § 4. Pendant la procédure de reconnaissance visée au § 1er, le Ministre ou son délégué peut faire détenir l'étranger qui est signalé aux fins de non-admission, pour un des motifs visés au § 1er, 1°, dans les Etats parties à la Convention d'application de l'Accord de Schengen, signée le 19 juin 1990, sans que la durée de la détention puisse dépasser un mois.
-§ 5. Les §§ 1er à 4 ne s'appliquent pas aux décisions d'éloignement prises à l'encontre des étrangers visés à l'article 40.
+§ 5. Les §§ 1er à 4 ne s'appliquent pas aux décisions d'éloignement prises à l'encontre des étrangers visés à l'article 40, 40bis ou 40ter.
