@@ -1,0 +1,2 @@
+. Si l'un de ceux qui doivent être cités en vertu des articles précédents est décédé, l'action en contestation d'état est intentée uniquement contre les autres et l'action en réclamation d'état contre les autres et les héritiers du défunt.
+Si tous ceux qui doivent être cités en vertu des dispositions précédentes sont décédés, la demande est introduite par requête unilatérale, et les articles 1025 et suivants du Code judiciaire sont applicables à l'exception des articles 1029, alinéa 2, et 1032.

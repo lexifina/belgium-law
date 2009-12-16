@@ -1,0 +1,4 @@
+Tout successible ayant reçu une libéralité rapportable en moins prenant, s'acquitte envers le conjoint survivant qui a sur les biens donnés ou légués un droit d'usufruit, en lui payant une rente indexée, calculée sur la valeur au jour du décès de ces biens, au taux fixé par le juge de paix saisi par requête ou par le tribunal devant lequel est pendante la liquidation de la succession.
+Une donation faite du consentement du conjoint survivant est, sauf s'il en a été disposé autrement, réputée faite avec dispense de rapport a son égard.
+Le conjoint survivant qui a reçu une libéralité rapportable en moins prenant et qui a droit à l'usufruit des biens donnés ou légués, conserve l'usufruit des biens rapportables sans être tenu de fournir caution et rapporte, selon son choix, soit en nature soit en valeur, la nue-propriété de ces biens.
+Cette rente peut être capitalisée ou cet usufruit converti conformément aux dispositions des articles 745quater à 745sexies.

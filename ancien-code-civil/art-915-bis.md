@@ -1,0 +1,8 @@
+. § 1. Nonobstant toute disposition contraire, le conjoint survivant a droit à l'usufruit de la moitié de biens de la succession.
+§ 2. Les libéralités par acte entre vifs ou par testament ne peuvent avoir pour effet de priver le conjoint survivant de l'usufruit de l'immeuble affecté au jour de l'ouverture de la succession au logement principal de la famille et des meubles meublants qui le garnissent.
+En cas de séparation de fait des époux, cet usufruit porte sur l'immeuble où les époux avaient établi leur dernière résidence conjugale et sur les meubles meublants qui le garnissent, a condition que le conjoint survivant y ait maintenu sa résidence ou ait été contre sa volonté empêché de le faire et que l'attribution de cet usufruit soit conforme à l'équité.
+Cet usufruit est imputé sur celui que le conjoint survivant obtient en vertu du § 1er, sans toutefois y être limité.
+§ 3. Le conjoint survivant peut être privé par testament des droits prévus aux §§ 1er et 2 lorsqu'au jour du décès les époux étaient séparés depuis plus de six mois et que, par un acte judiciaire, soit en demandant soit en défendant, le testateur avant son décès a réclamé une résidence séparée de celle de son conjoint et pour autant que depuis cet acte les époux n'aient plus repris la vie commune.
+Cette disposition n'est pas applicable lorsque les époux ont établi la convention prévue a l'article 1287, alinéa 3, du Code judiciaire.
+§ 4. Lorsque le conjoint survivant est en concours avec des héritiers au profit desquels la loi établit une réserve, celle du conjoint s'impute proportionnellement sur la réserve des cohéritiers et sur la quotité disponible.
+§ 5. Il peut être dérogé aux dispositions du présent article dans le cas visé à l'article 1388, alinéa 2.

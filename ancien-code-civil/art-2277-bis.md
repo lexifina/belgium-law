@@ -1,0 +1,2 @@
+. L'action des prestataires de soins pour les prestations, biens et services médicaux qu'ils ont fournis, y compris l'action pour frais supplémentaires, se prescrit vis-à-vis du patient par deux ans à compter de la fin du moi au cours duquel ils ont été fournis.
+Il en va de même en ce qui concerne les prestations, services et biens médicaux et les frais supplémentaires qui ont été fournis ou facturés par l'établissement de soins ou par des tiers.

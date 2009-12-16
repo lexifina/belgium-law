@@ -1,0 +1,2 @@
+. La mainlevée de la mesure de mise sous statut de minorité prolongée peut à tout moment être demandée par la personne qui a fait l'objet de la mesure, ses père ou mère, son tuteur, tout autre parent ou par le procureur du Roi. La demande de mainlevée est instruite et jugée conformément aux dispositions de l'article 487quinquies.
+La publicité de la décision de mainlevée est réalisée de la manière prévue à l'article 487sexies.

@@ -1,0 +1,3 @@
+Si parmi les héritiers les uns acceptent la succession purement et simplement et les autres sous bénéfice d'inventaire, les règles du bénéfice d'inventaire relatives, soit à la forme de liquidation, soit au droit de poursuite des créanciers, s'appliquent à la succession tout entière jusqu'au partage.
+Dans ce cas, le tribunal peut confier la liquidation de la succession tout entière à tel des héritiers qu'il lui plaît de choisir, à charge par celui-ci de fournir les sûretés déterminées par le jugement.
+Pendant la durée de la liquidation, aucun des héritiers ne peut être poursuivi sur ses biens personnels. Après le partage, les effets de l'acceptation bénéficiaire ne subsistent qu'au regard des héritiers qui ont accepté dans cette forme.
