@@ -1,0 +1,1 @@
+Il n'y a pas de mariage lorsque, bien que les consentements formels aient été donnés en vue de celui-ci, il ressort d'une combinaison de circonstances que l'intention de l'un au moins des époux n'est manifestement pas la création d'une communauté de vie durable, mais vise uniquement l'obtention d'un avantage en matière de séjour, lié au statut d'époux.

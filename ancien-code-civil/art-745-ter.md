@@ -1,0 +1,1 @@
+Nonobstant toute stipulation contraire quiconque recueille la nue-propriété peut exiger qu'il soit dressé pour tous les biens sujets à l'usufruit un inventaire des meubles et un état des immeubles, qu'il soit fait emploi des sommes et que les titres au porteur soient, au choix de l'époux survivant, convertis en inscriptions nominatives ou déposés en banque à un compte commun.

@@ -1,0 +1,1 @@
+. Si l'un des futurs époux est dans l'impossibilité de se procurer cet acte de notoriété, il peut y être suppléé, avec l'autorisation du tribunal, donnée sur requête, le ministère public entendu, par une déclaration sous serment du futur lui-même. Il est fait mention de cette déclaration dans l'acte de mariage.
