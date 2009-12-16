@@ -1,0 +1,1 @@
+La cour condamnera l'accusé qui succombe à l'indemnité visée à l'article 1022 du Code judiciaire envers la partie civile.
