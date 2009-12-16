@@ -1,0 +1,1 @@
+Les actions en contestation d'état doivent être formées de manière que l'enfant ou ses descendants et celui de ses auteurs dont la paternité ou la maternité n'est pas contestée soient à la cause aussi bien que la personne dont la paternité ou la maternité est contestée.

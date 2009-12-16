@@ -1,0 +1,4 @@
+. A défaut par le débiteur de satisfaire à l'une des obligations régies par les articles 203, 203bis, 205, 207, 303 ou 336 du présent Code ou à l'engagement pris en vertu de l'article 1288, 3°, du Code judiciaire, le créancier peut, sans préjudice du droit des tiers, se faire autoriser à percevoir, a l'exclusion dudit débiteur, dans les conditions et les limites que le jugement fixe, les revenus de celui-ci ou toute autre somme à lui due par un tiers. La procédure et les pouvoirs du juge sont réglés selon les articles 1253ter à 1253quinquies du Code judiciaire.
+Le jugement est opposable à tous tiers débiteurs actuels ou futurs sur la notification que leur en fait le greffier à la requête du demandeur,.
+Lorsque le jugement cesse de produire ses effets, les tiers débiteurs en sont informés par le greffier.
+La notification faite par le greffier indique ce que le tiers débiteur doit payer ou cesser de payer.
