@@ -1,0 +1,8 @@
+§ 1er. Le procureur du Roi peut convoquer une personne qui est arrêtée en application des articles 1er et 2 de la loi du 20 juillet 1990 relative à la détention préventive ou qui se présente devant lui, à comparaître devant le tribunal de police ou le tribunal correctionnel dans un délai qui ne peut être inférieur à dix jours, ni supérieur à deux mois.
+Il lui notifie les faits retenus à sa charge ainsi que les lieu, jour et heure de l'audience et l'informe du fait qu'elle a le droit de choisir un avocat. Si elle ne choisit aucun avocat, le procureur du Roi en informe le bâtonnier ou son délégué.
+Cette notification et cette formalité sont mentionnées dans un procès-verbal, dont copie lui est remise immédiatement.
+La notification vaut citation à comparaître. L'avocat choisi ou, le cas échéant, le bâtonnier ou son délégué et la partie préjudiciée sont informés sans délai de la date de l'audience. La convocation par procès-verbal est privilégiée en cas de poursuite intentée à l'encontre d'une personne ayant fait l'objet d'un dessaisissement en application de l'article 57bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait.
+Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues.
+§ 2. Un jugement est prononcé dans les deux mois de l'audience prévue au § 1er. (...).
+En cas d'opposition, le jugement est prononcé dans les deux mois de l'audience visée aux articles 151, alinéa 2, et 188.
+En cas d'appel, l'affaire est fixée au plus tard à la première audience après l'expiration d'un délai d'un mois à dater de l'acte d'appel.

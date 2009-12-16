@@ -1,0 +1,1 @@
+Les décisions sont prises à la majorité absolue des voix. S'il se forme plus de deux opinions, les juges qui ont émis l'opinion la moins favorable à l'inculpé sont tenus de se réunir à l'une des autres opinions.

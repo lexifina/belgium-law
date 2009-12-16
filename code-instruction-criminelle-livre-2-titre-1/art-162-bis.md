@@ -1,0 +1,2 @@
+Tout jugement de condamnation rendu contre le prévenu et les personnes civilement responsables de l'infraction les condamnera envers la partie civile à l'indemnité de procédure visée à l'article 1022 du Code judiciaire.
+La partie civile qui aura lancé une citation directe et qui succombera sera condamnée envers le prévenu à l'indemnité visée à l'article 1022 du Code judiciaire. L'indemnité sera liquidée par le jugement.
