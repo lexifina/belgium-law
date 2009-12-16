@@ -1,0 +1,1 @@
+Il y aura lieu également au règlement de juges par la Cour de cassation, lorsque différents juges d'instruction prennent connaissance d'un même délit ou de délits connexes pour lesquels le procureur fédéral est chargé de l'exercice de l'action publique.

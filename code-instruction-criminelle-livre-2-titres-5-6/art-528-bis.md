@@ -1,0 +1,1 @@
+Le demandeur en règlement de juges peut plaider sa cause comme en matière civile. La cour, après avoir entendu le ministère public, prononce définitivement, ou ordonne suivant les circonstances par un arrêt préparatoire que le mémoire sera préalablement communiqué à la partie adverse.
