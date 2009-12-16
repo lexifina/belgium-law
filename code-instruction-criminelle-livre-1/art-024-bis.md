@@ -1,0 +1,1 @@
+Les magistrats qui, en temps de paix et conformément à l'article 309bis du Code judiciaire, sont autorisés à accompagner des troupes militaires belges à l'étranger, exercent toutes leurs attributions à l'égard des personnes visées à l'article 10bis du titre préliminaire du présent Code comme si elles se trouvaient sur le territoire du Royaume.

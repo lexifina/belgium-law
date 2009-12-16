@@ -1,0 +1,4 @@
+§ 1er. Dans le cadre de l'exécution de la mesure prévue à l'article 46ter, seul le juge d'instruction est habilité à ouvrir le courrier intercepté et saisi et à prendre connaissance de son contenu.
+En cas de flagrant délit, le procureur du Roi peut également exercer cette compétence.
+Cette mesure ne pourra porter que sur le courrier d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une des infractions visées à l'article 46ter, § 1er, alinéa 1er. Cette mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins en soit averti.
+§ 2. Si le juge d'instruction estime ne pas devoir maintenir la saisie, il rend sans délai les pièces à l'opérateur postal pour envoi. Dans le cas contraire, il est procédé conformément aux dispositions des articles 87 à 90.

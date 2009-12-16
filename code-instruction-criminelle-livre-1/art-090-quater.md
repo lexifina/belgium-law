@@ -1,0 +1,16 @@
+§ 1. Toute mesure de surveillance sur la base de l'article 90ter est préalablement autorisée par une ordonnance motivée du juge d'instruction, que celui-ci communique au procureur du Roi.
+A peine de nullité, l'ordonnance est datée et indique:
+1° les indices ainsi que les faits concrets et propres à la cause qui justifient la mesure conformément à l'article 90ter;
+2° les motifs pour lesquels la mesure est indispensable à la manifestation de la vérité;
+3° la personne, le moyen de communication ou de télécommunication ou le lieu soumis à la surveillance;
+4° la période pendant laquelle la surveillance peut être pratiquée et qui ne peut excéder un mois à compter de la décision ordonnant la mesure;
+5° les nom et qualité de l'officier de police judiciaire commis pour l'exécution de la mesure.
+§ 2. Si la mesure comporte une opération sur un réseau de communication, l'opérateur de ce réseau ou le fournisseur du service de télécommunicationest tenu de prêter son concours technique, quand le juge d'instruction le requiert.
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+Toute personne qui refuse de prêter son concours technique aux réquisitions visées dans cet article, concours dont les modalités sont déterminées par le Roi, sur la proposition du ministre de la Justice et du ministre compétent pour les Télécommunications, est punie d'une amende de vingt-six francs à dix mille francs.
+§ 3. Le juge d'instruction ne peut commettre pour l'exécution de son ordonnance que des officiers de police judiciaire, lesquels peuvent néanmoins se faire assister par des agents de police judiciaire dont les noms sont préalablement communiqués au juge d'instruction. Les noms des agents de police judiciaire chargés de l'exécution de l'ordonnance visée à l'article 90ter, § 1er, alinéa 2, ne sont pas mentionnés dans le dossier judiciaire.
+Les officiers de police judiciaire commis font rapport par écrit au moins tous les cinq jours au juge d'instruction sur l'exécution de l'ordonnance.
+§ 4. Le juge d'instruction peut ordonner aux personnes dont il présume qu'elles ont une connaissance particulière du service de télécommunications qui fait l'objet d'une mesure de surveillance ou des services qui permettent de protéger ou de crypter les données qui sont stockées, traitées ou transmises par un système informatique, de fournir des informations sur le fonctionnement de ce système et sur la manière d'accéder au contenu de la télécommunication qui est ou a été transmise, dans une forme compréhensible.
+Il peut ordonner aux personnes de rendre accessible le contenu de la télécommunication, dans la forme qu'il aura demandée. Ces personnes sont tenues d'y donner suite, dans la mesure de leurs moyens.
+Celui qui refuse de fournir la collaboration ordonnée conformément aux alinéas précédents, est puni d'un emprisonnement de six mois à un an et d'une amende de vingt-six francs à vingt mille francs ou d'une de ces peines seulement.
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou est appelée à y prêter son concours technique, est liée par le secret de l'instruction. Toute violation du secret sera punie conformément à l'article 458 du Code pénal.

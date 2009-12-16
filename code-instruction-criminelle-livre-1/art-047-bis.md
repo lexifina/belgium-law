@@ -1,0 +1,9 @@
+Lors de l'audition de personnes, entendues en quelque qualité que ce soit, l'on respectera au moins les règles suivantes:
+1. Au début de toute audition, il est communiqué à la personne interrogée:
+a) qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés;
+b) qu'elle peut demander qu'il soit procédé à tel acte d'information ou telle audition;
+c) que ses déclarations peuvent êtres utilisées comme preuve en justice.
+2. Toute personne interrogée peut utiliser les documents en sa possession, sans que cela puisse entraîner le report de l'interrogatoire. Elle peut, lors de l'interrogatoire ou ultérieurement, exiger que ces documents soient joints au procès-verbal d'audition ou déposés au greffe.
+3. Le procès-verbal mentionne avec précision l'heure à laquelle l'audition prend cours, est éventuellement interrompue, reprend, et prend fin. Il mentionne avec précision l'identité des personnes qui interviennent à l'interrogatoire ou à une partie de celui-ci ainsi que le moment de leur arrivée et de leur départ. Il mentionne également les circonstances particulières et tout ce qui peut éclairer d'un jour particulier la déclaration ou les circonstances dans lesquelles elle a été faite.
+4. A la fin de l'audition, le procès-verbal est donné en lecture à la personne interrogée, à moins que celle-ci ne demande que lecture lui en soit faite. Il lui est demandé si ses déclarations ne doivent pas être corrigées ou complétées.
+5. Si la personne interrogée souhaite s'exprimer dans une autre langue que celle de la procédure, soit il est fait appel à un interprète assermenté, soit il est noté ses déclarations dans sa langue, soit il lui est demandé de noter elle-même sa déclaration. Si l'interrogatoire a lieu avec l'assistance d'un interprète, son identité et sa qualité sont mentionnées.

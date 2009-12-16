@@ -1,0 +1,2 @@
+Hors les cas de flagrant délit ou réputés tels, et celui où la personne majeure donne son consentement écrit, l'exploration corporelle ne peut être ordonnée que par le juge d'instruction, par la chambre des mises en accusation et par le tribunal ou la cour saisi de la connaissance du crime ou du délit.
+La victime ou la personne soupçonnée peut se faire assister par le médecin de son choix lors de l'exploration corporelle à laquelle elle est soumise. Les honoraires du médecin sont portés en compte dans les frais de justice.

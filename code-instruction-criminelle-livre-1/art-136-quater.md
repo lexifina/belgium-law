@@ -1,0 +1,1 @@
+Lorsque la chambre du conseil ou la chambre des mises en accusation est saisie d'une instruction menée à la suite d'une réquisition du procureur fédéral conformément à l'article 47duodecies, § 3, elles sont compétentes pour en connaître, indépendamment du lieu de l'infraction, du lieu de résidence de l'auteur présumé ou du lieu où celui-ci pourra être trouvé.

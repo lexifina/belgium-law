@@ -1,0 +1,10 @@
+§ 1er. Sans préjudice des dispositions des articles 92 à 103, le procureur du Roi ou le juge d'instruction peut ordonner l'enregistrement audiovisuel ou audio d'une audition. La personne à entendre est préalablement mise au courant de cette décision.
+§ 2. L'audition enregistrée est effectuée par le procureur du Roi ou le juge d'instruction, selon le cas, ou par un fonctionnaire de police nominativement désigné par lui.
+§ 3. Le procureur du Roi ou le juge d'instruction dresse un procès-verbal de l'audition, dans lequel il reprend, sans préjudice des droits prévus à l'article 47bis, les principaux éléments de l'entretien et éventuellement une retranscription des passages les plus significatifs.
+Il est également fait mention dans le procès-verbal des motifs pour lesquels l'enregistrement audiovisuel ou audio a été ordonné.
+§ 4. Sans préjudice de l'application de l'article 47bis, il est procédé, à la demande du juge d'instruction, du procureur du Roi, de la personne entendue ou des parties au procès, à la retranscription intégrale et littérale de l'audition. Elle est versée au dossier dans les plus brefs délais.
+§ 5. L'enregistrement de l'audition est réalisé en deux exemplaires. Les deux cassettes ont le statut d'originaux et sont déposées au greffe à titre de pièces à conviction.
+§ 6. L'enregistrement ne peut être visionné ou écoute que par des personnes qui participent professionnellement à l'information, à l'instruction ou au jugement dans le cadre du dossier judiciaire, ainsi que par les parties au procès et par la personne entendue.
+L'inculpé non détenu et la partie civile peuvent introduire une demande en se sens auprès du juge d'instruction conformément à l'article 61ter.
+Toutes les parties ont le droit de visionner ou, selon le cas, d'écouter l'enregistrement après que le procureur du Roi a pris des réquisitions en vue du règlement de la procédure, conformément à l'article 127.
+§ 7. Pour l'application de l'article 341, l'enregistrement de l'audition d'un témoin est assimilé à une déclaration écrite.

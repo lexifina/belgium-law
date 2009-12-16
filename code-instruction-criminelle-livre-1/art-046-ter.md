@@ -1,0 +1,8 @@
+§ 1er. Dans le cadre de la recherche des crimes et délits, le procureur du Roi peut intercepter et saisir le courrier confié à un opérateur postal, destiné à, provenant de ou concernant un suspect, s'il existe des indices sérieux que les infractions peuvent donner lieu à un emprisonnement correctionnel principal d'un an ou à une peine plus lourde.
+Si cette mesure s'inscrit dans le cadre d'une recherche proactive visée à l'article 28bis, § 2, le procureur du Roi vérifie s'il est satisfait aux conditions spécifiques visées audit article.
+Si le procureur du Roi estime ne pas devoir maintenir la saisie, il rend sans délai les pièces à l'opérateur postal pour envoi. Dans le cas contraire, il est procédé conformément aux dispositions des articles 35 à 39.
+La notion de " courrier " au sens du présent article s'entend ainsi qu'elle est définie à l'article 131, 6°, 7° et 11°, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.
+§ 2. Le procureur du Roi peut, par une décision écrite et motivée, requérir le concours de l'opérateur postal afin de permettre les mesures visées au § 1er. L'opérateur postal est tenu de prêter son concours sans délai.
+II précise dans sa décision la durée de la mesure visée au paragraphe précédent.
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+Toute personne qui refuse de prêter son concours aux réquisitions visées au présent article, est punie d'un emprisonnement de huit jours à un an et d'une amende de vingt-six EUR à dix mille EUR ou d'une de ces peines seulement.

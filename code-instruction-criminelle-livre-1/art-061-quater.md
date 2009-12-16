@@ -1,0 +1,19 @@
+<inséré par § 1er. Toute personne lésée par un acte d'instruction relatif à ses biens peut en demander la levée au juge d'instruction.
+§ 2. La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile. Elle est adressée ou déposée au au greffe du tribunal de première instance et est inscrite dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi.
+Celui-ci prend les réquisitions qu'il juge utiles.
+Le juge d'instruction statue au plus tard dans les quinze jours de l'inscription de la requête dans le registre
+L'ordonnance est communiquée par le greffier au procureur du Roi et est notifiée au requérant et, le cas échéant, à son conseil par télécopie ou par lettre recommandée à la poste dans un délai de huit jours à dater de la décision.
+§ 3. Le juge d'instruction peut rejeter la requête s'il estime que les nécessités de l'instruction le requièrent, lorsque la levée de l'acte compromet la sauvegarde des droits des parties ou des tiers, lorsque la levée de l'acte présente un danger pour les personnes ou les biens, ou dans les cas où la loi prévoit la restitution ou la confiscation desdits biens.
+Il peut accorder une levée totale, partielle ou assortie de conditions. Toute personne qui ne respecte pas les conditions fixées est punie des peines prévues à l'article 507bis du Code pénal.
+§ 4. En cas de décision favorable, le juge d'instruction peut prononcer l'exécution provisoire de la décision lorsque tout retard pourrait entraîner un préjudice irréparable.
+§ 5. Le procureur du Roi et le requérant peuvent interjeter appel de l'ordonnance du juge d'instruction dans un délai de quinze jours. Ce délai court à l'égard du procureur du Roi à compter du jour où l'ordonnance est portée à sa connaissance et, à l'égard du requérant, du jour où elle lui est notifiée.
+L'appel est interjeté par déclaration au greffe du tribunal de première instance et inscrite dans un registre ouvert à cet effet.
+Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son conseil.
+Le greffier donne avis au requérant et à son conseil, par télécopie ou par lettre recommandée à la poste, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+Le procureur général, le requérant et son conseil sont entendus.
+Sauf lorsque l'exécution provisoire a été ordonnée, l'appel est suspensif.
+Le requérant qui succombe peut être condamné aux frais.
+§ 6. Si le juge d'instruction n'a pas statué dans le délai prévu au § 2, alinéa 2, majoré de quinze jours, le requérant peut saisir la chambre des mises en accusation. Celui-ci est déchu de ce droit si la requête motivée n'a pas été déposée, dans les huit jours, au greffe du tribunal de première instance. La requête est inscrite dans un registre ouvert à cet effet. La procédure se déroule conformément au § 5, alinéas 3 à 6.
+§ 7. Dès qu'un tribunal ou une cour est saisi, une requête au sens du § 2 peut être déposée au greffe de ce tribunal ou de cette cour. La chambre du conseil statue sur la requête dans les quinze jours. Le tribunal ou la cour peut rejeter le requête sur la base d'un des motifs mentionnés au § 3. S'il existe un appel ou si le tribunal ne statue pas dans les quinze jours du dépôt de la requête, le requérant peut interjeter appel devant la chambre des mises en accusation conformément au § 5. Si le tribunal accède à la requête, le procureur du Roi peut interjeter appel de la même manière et dans le même délai.
+§ 8. Le requérant ne peut adresser ni déposer de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet.
