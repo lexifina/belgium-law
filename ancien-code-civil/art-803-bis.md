@@ -1,0 +1,1 @@
+L'héritier bénéficiaire peut se décharger du soin d'administrer et de liquider la succession. Il doit au préalable faire nommer sur requête, par ordonnance du président du tribunal, un administrateur auquel il remettra tous les biens de la succession, à charge pour celui-ci de la liquider en se conformant aux règles ci-dessous prescrites.

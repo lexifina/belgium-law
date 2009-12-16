@@ -1,0 +1,5 @@
+§ 1er. Quels que soient les héritiers avec lesquels il vient à la succession, le cohabitant légal survivant recueille l'usufruit de l'immeuble affecté durant la vie commune à la résidence commune de la famille ainsi que des meubles qui le garnissent.
+Le cohabitant légal survivant recueille seul, à l'exclusion de tous les autres héritiers, le droit au bail relatif à l'immeuble affecté à la résidence commune de la famille au moment de l'ouverture de la succession du cohabitant légal prédécédé et recueille l'usufruit des meubles qui le garnissent.
+Les dispositions qui précèdent ne s'appliquent pas lorsque le cohabitant légal survivant est le descendant du cohabitant légal prédécédé.
+§ 2. Nonobstant toute clause contraire, toute personne attributaire de la nue-propriété peut exiger que soient dressés un inventaire des meubles meublants ainsi qu'un état de la résidence commune.
+§ 3. Les règles relatives à l'usufruit du conjoint survivant qui sont énoncées aux articles 745quater à 745septies s'appliquent par analogie à l'usufruit du cohabitant légal survivant.

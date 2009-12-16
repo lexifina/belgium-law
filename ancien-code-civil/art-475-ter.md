@@ -1,0 +1,3 @@
+. La convention établissant la tutelle officieuse et, le cas échéant, le consentement du conjoint du tuteur officieux sont constatés par acte authentique dressé par le juge de paix de la résidence du mineur ou par un notaire.
+Cette convention ne produit ses effets qu'après avoir été entérinée par le tribunal de la jeunesse, à la requête du tuteur officieux.
+Le tribunal de la jeunesse instruit la demande en chambre du conseil. Il entend ou à tout le moins convoque le tuteur officieux et, le cas échéant, son conjoint, l'enfant s'il est âgé de 15 ans, ses tuteur et subrogé tuteur s'il se trouve sous tutelle et les personnes qui ont donné leur accord à la tutelle officieuse conformément à l'article précédent. (...). Le procureur du Roi est toujours entendu.

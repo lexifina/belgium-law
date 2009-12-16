@@ -1,0 +1,1 @@
+. Lors du remboursement total ou partiel d'un prêt à intérêt il ne peut en aucun cas être réclamé au débiteur, indépendamment du capital remboursé et des intérêts échus, une indemnité de remploi d'un montant supérieur à six mois d'intérêts calculés sur la somme remboursée au taux fixé par la convention.
