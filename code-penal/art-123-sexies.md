@@ -5,7 +5,7 @@
 4° du droit d'être rémunéré par l'Etat en qualité de ministre d'un culte;
 5° du droit d'être dirigeant d'une association politique;
 6° du droit de participer à quelque titre que ce soit à l'exploitation, à l'administration, à la rédaction, à l'impression ou à la diffusion d'un journal ou de toute publication dans les cas où cette participation à un caractère politique;
-7° du droit de participer à la direction ou à l'administration de toute manifestation culturelle, philantropique et sportive ou de tout divertissement public dans les cas où cette participation a un caractère politique;
+7° du droit de participer à la direction ou à l'administration de toute manifestation culturelle, philanthropique et sportive ou de tout divertissement public dans les cas où cette participation à un caractère politique;
 8° du droit de participer à l'exploitation, à l'administration ou d'une manière quelconque à l'activité de toute entreprise ayant pour objet les spectacles de théâtre, la cinématographie ou la radiodiffusion dans les cas où cette participation à un caractère politique;
 9° du droit de participer à un titre quelconque à l'administration, la gérance ou la direction d'une association professionnelle ou d'une association sans but lucratif.
 § 2. Par dérogation aux articles 32 et 33, les jugements ou arrêts de condamnation à d'autres peines criminelles ou à des peines correctionnelles pour infraction ou tentative d'infraction prévue au chapitre II du titre Ier du livre II du Code pénal, commises en temps de guerre, pourront prononcer non l'interdiction de droits prévue aux dits articles mais la déchéance temporaire des droits énumérés au paragraphe précédent.
