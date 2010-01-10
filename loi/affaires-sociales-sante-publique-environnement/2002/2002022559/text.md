@@ -234,10 +234,12 @@ Lorsque la lésion ou la maladie résulte d'une infraction, l'action peut être 
 L'intéressé peut faire valoir des raisons d'équité justifiant que le remboursement ne soit pas poursuivi.
 Aucune récupération ne doit être entreprise si les coûts ou les démarches inhérents à cette récupération dépassent le résultat escompté.
 
-<a name="Art.29" href="#Art.28">Art.</a> <a href="#LNK0016"> 29</a>. § 1. L'action en remboursement visée à l'article 24, § 1 et l'action visée à l'article 27, alinéa 1, se prescrivent conformément à l'article 2262bis, § 1, alinéa 1, du Code civil.
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#LNK0016"> 29</a>.§ 1. L'action en remboursement visée à l'article 24, § 1 et l'action visée à l'article 27, alinéa 1, se prescrivent conformément à l'article [<sup>1</sup> 2277 du Code civil]<sup>1</sup>.
 § 2. L'action en remboursement visée à l'article 26 se prescrit conformément à l'article 2277 du Code civil.
 § 3. L'action visée à l'article 27, alinéa 2, se prescrit conformément à l'article 2262bis, § 1, alinéas 2 et 3, du Code civil.
 § 4. Ces prescriptions peuvent être interrompues par une sommation faite soit par lettre recommandée à la poste, soit contre accusé de réception.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 159, 010; En vigueur : 10-01-2010&gt;
 
 <a name="LNK0016" href="#LNKR0016">CHAPITRE V.</a> - Des sanctions.
 
