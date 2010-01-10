@@ -329,9 +329,9 @@ Le Roi fixe les cas dans lesquels les organismes payeurs supportent la charge de
 [Toutes les dispositions du livre Ier du Code pénal, le chapitre V excepté, mais le chapitre VII compris, sont applicables aux infractions visées en exécution du présent paragraphe. L'article 85 du Code précité est applicable aux infractions visées en exécution du présent paragraphe sans que le montant de l'amende puisse être inférieur à 40 % des montants minima visés en exécution du présent paragraphe.] &lt;L 1998-02-13/32, art. 83, 009; <b> En vigueur : </b> 01-03-1998&gt;
 [§ 4bis. Le Roi désigne les fonctionnaires chargés de la surveillance de l'application des dispositions accordant l'indemnité visée aux articles 100 et 102 de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, ainsi que des dispositions pénales qui sont applicables en cas de non-respect des dispositions accordant cette indemnité.] &lt;L 1985-01-22/30, art. 107, 002&gt;
 § 5. L'arrêté royal du 27 juillet 1935 instituant un Office national du placement et du chômage est abrogé. Le Roi prendra les mesures nécessaires pour assurer la liquidation de cet organisme.
-§ 6. [Abrogé] &lt;DCG <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006121843" target="_blank">2006-12-18/43</a>, art. 33, 037; <b> En vigueur : </b> indéterminée &gt;
-§ 7. [Abrogé] &lt;DCG <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006121843" target="_blank">2006-12-18/43</a>, art. 33, 037; <b> En vigueur : </b> indéterminée &gt;
-§ 8. [Abrogé] &lt;DCG <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006121843" target="_blank">2006-12-18/43</a>, art. 33, 037; <b> En vigueur : </b> indéterminée &gt;
+§ 6. [<sup>4</sup> Abrogé]<sup>4</sup>
+§ 7. [<sup>4</sup> Abrogé]<sup>4</sup>
+§ 8. [<sup>4</sup> Abrogé]<sup>4</sup>
 § 9. Le Roi peut modifier les dispositions de l'arrêté royal n° 285, du 31 mars 1936, complétant et coordonnant les dispositions relatives à l'emploi de la main-d'oeuvre étrangère, confirmé par la loi du 4 mai 1936 portant confirmation de certains arrêtés royaux pris en exécution de la loi du 31 juillet 1934, prorogée et complétée par les lois des 7 décembre 1934, 15 et 30 mars 1935.
 § 10. [Les communes doivent, selon les conditions et modalités que le Roi détermine :
 1° délivrer un certificat de résidence aux chômeurs involontaires qui, dans le cadre du contrôle de la condition de résidence, se présentent, dans les cas prévus par le Roi, personnellement auprès de la commune;
@@ -375,6 +375,7 @@ L'alinéa précédent n'est pas applicable :
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061904" target="_blank">2009-06-19/04</a>, art. 27, 043; En vigueur : 25-06-2009; <b> Abrogé : </b> 01-10-2010, voir L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061904" target="_blank">2009-06-19/04</a>, art. 28, tel que modifié&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123002" target="_blank">2009-12-30/02</a>, art. 6, 044; En vigueur : 01-01-2010&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123002" target="_blank">2009-12-30/02</a>, art. 22, 044; En vigueur : 10-01-2010&gt;
+(<font color="red">4</font>)&lt;DCG <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009042719" target="_blank">2009-04-27/19</a>, art. 31, 046; En vigueur : 27-04-2009&gt;
 
 <a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.8bis"> 8</a>. &lt;inséré par L 1994-03-30/31, art. 73, 006; <b> En vigueur : </b> 01-06-1994&gt; § 1. Les communes ou un groupe de communes doivent instituer une agence pour l'emploi. L'agence locale pour l'emploi est, en collaboration avec l'Office national de l'emploi, compétente pour l'organisation et le contrôle d'activites non rencontrées par les circuits de travail réguliers.
 L'agence locale pour l'emploi est instituée sous la forme d'une association sans but lucratif.
