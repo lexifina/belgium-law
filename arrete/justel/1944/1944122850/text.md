@@ -372,7 +372,7 @@ L'alinéa précédent n'est pas applicable :
 2° à la personne qui a la qualité de réfugié en vertu de la législation en la matière.] &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2002080245" target="_blank">2002-08-02/45</a>, art. 114, 021; <b> En vigueur : </b> 29-08-2002&gt;
 ++++++++++++++
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061904" target="_blank">2009-06-19/04</a>, art. 27, 043; En vigueur : 25-06-2009; <b> Abrogé : </b> 01-01-2010&gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061904" target="_blank">2009-06-19/04</a>, art. 27, 043; En vigueur : 25-06-2009; <b> Abrogé : </b> 01-10-2010, voir L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061904" target="_blank">2009-06-19/04</a>, art. 28, tel que modifié&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123002" target="_blank">2009-12-30/02</a>, art. 6, 044; En vigueur : 01-01-2010&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123002" target="_blank">2009-12-30/02</a>, art. 22, 044; En vigueur : 10-01-2010&gt;
 
