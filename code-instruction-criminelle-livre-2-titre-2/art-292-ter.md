@@ -1,1 +1,1 @@
-Aussitôt qu'elle aura été reçue par le greffier, l'expédition de l'arrêt sera transmise par le procureur général près la cour d'appel au procureur général près la Cour de cassation, laquelle sera tenue de se prononcer toutes affaires cessantes.
+(Abrogé)
