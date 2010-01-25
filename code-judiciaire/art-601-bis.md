@@ -1,1 +1,1 @@
-Quelqu'en soit le montant, le tribunal de police connaît de toute demande relative à la réparation d'un dommage résultant d'un accident de la circulation même si celui-ci est survenu dans un lieu qui n'est pas accessible au public.
+Quelqu'en soit le montant, le tribunal de police connaît de toute demande relative à la réparation d'un dommage résultant d'un accident de la circulation ou d'un accident ferroviaire même si celui-ci est survenu dans un lieu qui n'est pas accessible au public.
