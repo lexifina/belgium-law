@@ -1,12 +1,16 @@
-<a name="LNK0001" href="#LNKR0001">TITRE I.</a> - DE LA COMPETENCE DE LA COUR D'ARBITRAGE.
+<a name="LNK0001" href="#LNKR0001">TITRE I.</a> - DE LA COMPETENCE DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 7, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0002" href="#LNKR0002">CHAPITRE I.</a> - Des recours en annulation.
 
 <a name="LNK0003" href="#LNKR0003">Section I.</a> - Des recours.
 
-<a name="Art.1"></a>Article <a href="#Art.2">1</a>. La Cour d'arbitrage statue, par voie d'arrêt, sur les recours en annulation, en tout ou en partie, d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) pour cause de violation :
+<a name="Art.1"></a>Article <a href="#Art.2"> 1</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, par voie d'arrêt, sur les recours en annulation, en tout ou en partie, d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) pour cause de violation :
 1° des règles qui sont établies par la Constitution ou en vertu de celle-ci pour déterminer les compétences respectives de l'Etat, des Communautés et des Régions; ou &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (2° des articles du titre II " Des Belges et de leurs droits ", et des articles 170, 172 et 191 de la Constitution.) &lt;L 2003-03-09/47, art. 2, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 8, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Les recours visés à l'article 1er sont introduits :
 1° par le Conseil des Ministres, par l'exécutif d'une Communauté ou d'une Région;
@@ -31,15 +35,22 @@
 Si le recours est introduit par le Conseil des Ministres, par l'Exécutif d'une Communauté ou d'une Région ou par le président d'une assemblée législative, la partie requérante joint en outre à sa requête une copie certifiée conforme de la délibération par laquelle elle a décidé d'intenter le recours.
 Si le recours est introduit ou l'intervention est faite par une personne morale, cette partie produit, à la première demande, la preuve, (de la décision d'intenter ou de poursuivre le recours ou d'intervenir et, lorsque ses statuts doivent faire l'objet d'une publication aux annexes du Moniteur belge, une copie de cette publication.) &lt;L 2003-03-09/47, art. 4, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0004"> 8</a>. Si le recours est fondé, la Cour d'arbitrage annule, en tout ou en partie, la loi, le décret ou la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0004"> 8</a>.Si le recours est fondé, la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> annule, en tout ou en partie, la loi, le décret ou la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 Si la Cour l'estime nécessaire, elle indique, par voie de disposition générale, ceux des effets des dispositions annulées qui doivent être considérés comme définitifs ou maintenus provisoirement pour le délai qu'elle détermine.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 9, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0004" href="#LNKR0004">Section II.</a> - Des effets des arrêts d'annulation.
 
-<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. § 1. Les arrêts d'annulation rendus par la Cour d'arbitrage ont l'autorité absolue de la chose jugée à partir de leur publication au Moniteur belge.
-§ 2. Les arrêts rendus par la Cour d'arbitrage portant rejet des recours en annulation sont obligatoires pour les juridictions en ce qui concerne les questions de droit tranchées par ces arrêts.
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>.
+§ 1. Les arrêts d'annulation rendus par la Cour d'arbitrage ont l'autorité absolue de la chose jugée à partir de leur publication au Moniteur belge.
+§ 2. Les arrêts rendus par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> portant rejet des recours en annulation sont obligatoires pour les juridictions en ce qui concerne les questions de droit tranchées par ces arrêts.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 10, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la Cour d'arbitrage, ou d'un règlement pris en exécution d'une telle loi, d'un tel décret ou d'une telle règle visée à (l'article 134 de la Constitution), les décisions rendues par les juridictions répressives et passées en force de chose jugée peuvent être rétractées en tout ou en partie par la juridiction qui les a prononcées. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>.Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle loi, d'un tel décret ou d'une telle règle visée à (l'article 134 de la Constitution), les décisions rendues par les juridictions répressives et passées en force de chose jugée peuvent être rétractées en tout ou en partie par la juridiction qui les a prononcées. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 11, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Il incombe au ministère public de demander la rétractation.
 Le droit de demander la rétractation appartient en outre :
@@ -48,8 +59,9 @@ Le droit de demander la rétractation appartient en outre :
 3° si le condamné ou, le cas échéant, celui qui a fait l'objet d'une décision ordonnant la suspension du prononcé de la condamnation est décédé, si son interdiction a été prononcée ou s'il se trouve en état d'absence déclarée, à son conjoint, à ses descendants, à ses ascendants, à ses frères et soeurs;
 4° à la partie déclarée civilement responsable pour le condamné ou, le cas échéant, pour celui qui a fait l'objet d'une décision ordonnant la suspension du prononcé de la condamnation.
 
-<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. § 1. La juridiction compétente est saisie, soit par le réquisitoire du ministère public, soit par une requête spécifiant la cause de la rétractation.
-A peine de nullité, la demande est formée dans les six mois à dater de la publication de l'arrêt de la Cour d'arbitrage au Moniteur belge.
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>.
+§ 1. La juridiction compétente est saisie, soit par le réquisitoire du ministère public, soit par une requête spécifiant la cause de la rétractation.
+A peine de nullité, la demande est formée dans les six mois à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge.
 § 2. Au vu du réquisitoire ou de la requête, la juridiction saisie, si le condamné est décédé, absent ou interdit, nomme un curateur à sa défense, lequel le représentera dans la procédure en rétractation.
 § 3. Le ministère public fait signifier la requête à toutes les parties en cause dans la décision entreprise. La signification contient citation à comparaître devant la juridiction qui a rendu la décision entreprise et reproduit le texte des articles 10 à 12 de la présente loi.
 La décision par laquelle il est statué définitivement sur la rétractation est réputée contradictoire à l'égard de la partie civile régulièrement citée, même si celle-ci n'est pas intervenue avant la clôture des débats dans l'instance en rétractation.
@@ -58,6 +70,8 @@ La décision par laquelle il est statué définitivement sur la rétractation es
 Cette juridiction peut également, si les moyens invoqués paraissent sérieux et de nature à justifier la rétractation demandée, ordonner qu'il sera sursis à toute mesure d'exécution ou d'application de la décision susceptible d'être rétractée.
 § 6. Le juge peut, à la demande d'une personne visée à l'article 11 , 1° à 4°, ordonner que sa décision de rétractation soit publiée par extrait dans un quotidien qu'il désigne.
 § 7. Les frais de la procédure sont à charge de l'Etat.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 12, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. § 1. Dans les limites où elle est prononcée, la rétractation rend non avenues les condamnations pénales fondées sur une loi, un décret ou une règle visée à l'article 26bis de la Constitution annulés, ou sur un règlement pris en exécution d'une telle loi, d'un tel décret ou d'une telle règle visée à (l'article 134 de la Constitution), ainsi que les décisions de suspension du prononcé de telles condamnations. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Lorsque par la décision entreprise, il n'a été prononcé qu'une seule peine du chef de plusieurs infractions, dont l'une au moins était une infraction à une disposition non annulée, le juge peut, sur les réquisitions du ministère public et pourvu que l'action publique ne soit pas prescrite, soit maintenir intégralement la condamnation, soit diminuer la peine, soit suspendre le prononcé de la condamnation, soit prononcer un jugement d'acquittement.
@@ -68,25 +82,37 @@ L'article 28 de la loi du 20 avril 1874 relative à la détention préventive, e
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Sont susceptibles de rétractation, conformément aux articles 10 à 13, les décisions ordonnant l'internement des inculpés et accusés en état de démence, de déséquilibre mental ou de débilité mentale, prononcées en vertu de la loi de défense sociale, à l'égard des anormaux et des délinquants d'habitude.
 
-<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. Par dérogation à l'article 1082, alinéa 2, du Code judiciaire, un second pourvoi en cassation peut être formé lorsqu'il invoque exclusivement l'annulation par la Cour d'arbitrage de la disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) qui a servi de fondement à la décision entreprise, ou d'un règlement pris en exécution d'une telle norme. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>.Par dérogation à l'article 1082, alinéa 2, du Code judiciaire, un second pourvoi en cassation peut être formé lorsqu'il invoque exclusivement l'annulation par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> de la disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) qui a servi de fondement à la décision entreprise, ou d'un règlement pris en exécution d'une telle norme. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 13, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. § 1. Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la Cour d'arbitrage, ou d'un règlement pris en exécution d'une telle norme, les décisions passées en force de chose jugée rendues par les juridictions civiles peuvent être rétractées en tout ou en partie, à la demande de ceux qui y auront été parties ou dûment appelés. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>.
+§ 1. Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle norme, les décisions passées en force de chose jugée rendues par les juridictions civiles peuvent être rétractées en tout ou en partie, à la demande de ceux qui y auront été parties ou dûment appelés. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Dans les limites de la rétractation, le juge peut rendre une décision nouvelle en se fondant sur une autre cause ou sur une qualification juridique différente d'un fait ou d'un acte invoqué à l'appui de la décision entreprise.
 § 3. La demande en rétractation est portée devant la juridiction qui a rendu la décision entreprise et est introduite par une citation contenant l'énoncé des moyens, et signifiée à toutes les parties en cause dans la décision entreprise, le tout à peine de nullité.
-§ 4. A peine de déchéance, la demande est formée dans les six mois, à dater de la publication de l'arrêt de la Cour d'arbitrage au Moniteur belge.
+§ 4. A peine de déchéance, la demande est formée dans les six mois, à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 14, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. Dans la mesure où un arrêt du Conseil d'Etat est fondé sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la Cour d'arbitrage, ou d'un règlement pris en exécution d'une telle norme, cet arrêt peut être rétracté en tout ou en partie. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
-Le délai de recours est de six mois à dater de la publication de l'arrêt de la Cour d'arbitrage au Moniteur belge.
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>.Dans la mesure où un arrêt du Conseil d'Etat est fondé sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle norme, cet arrêt peut être rétracté en tout ou en partie. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+Le délai de recours est de six mois à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 15, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0005"> 18</a>. Nonobstant l'écoulement des délais prévus par les lois et règlements particuliers, les actes et règlements des diverses autorités administratives ainsi que les décisions des juridictions autres que celles visées à l'article 16 de la présente loi peuvent, s'ils sont fondés sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a été ensuite annulée par la Cour d'arbitrage, ou d'un règlement pris en exécution d'une telle norme, faire, selon le cas, l'objet des recours administratifs ou juridictionnels organisés à leur encontre dans les six mois à dater de la publication de l'arrêt de la Cour d'arbitrage au Moniteur belge. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0005"> 18</a>.Nonobstant l'écoulement des délais prévus par les lois et règlements particuliers, les actes et règlements des diverses autorités administratives ainsi que les décisions des juridictions autres que celles visées à l'article 16 de la présente loi peuvent, s'ils sont fondés sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a été ensuite annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle norme, faire, selon le cas, l'objet des recours administratifs ou juridictionnels organisés à leur encontre dans les six mois à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 16, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0005" href="#LNKR0005">Section III.</a> - De la suspension.
 
 <a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. A la demande de la partie requérante, la Cour peut, par une décision motivée, suspendre en tout ou en partie la loi, le décret ou la règle visée à (l'article 134 de la Constitution), qui fait l'objet d'un recours en annulation. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. (Sans préjudice de l'article 16ter de la loi spéciale du 8 août 1980 de réformes institutionnelles et du l'article 5ter de loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, la suspension ne peut être décidée que :) &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>.(Sans préjudice de l'article 16ter de la loi spéciale du 8 août 1980 de réformes institutionnelles et du l'article 5ter de loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, la suspension ne peut être décidée que :
+) &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
 1° si des moyens sérieux sont invoqués et à la condition que l'exécution immédiate de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) faisant l'objet du recours risque de causer un préjudice grave difficilement réparable; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
-2° si un recours est exercé contre une norme identique (ou similaire) à une norme déjà annulée par la Cour d'arbitrage et qui a été adoptée par le même législateur. &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
+2° si un recours est exercé contre une norme identique (ou similaire) à une norme déjà annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et qui a été adoptée par le même législateur. &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 17, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. La demande de suspension est formée dans la requête en annulation ou par un acte distinct, signé conformément à l'article 5, et joint à la requête ou introduit en cours d'instance.
 (Par dérogation à l'article 3, les demandes de suspension ne sont recevables que si elles sont introduites dans un délai de trois mois suivant la publication de la loi, du décret ou de la règle visée à l'article 134 de la Constitution.) &lt;L 2003-03-09/47, art. 6, 006; <b> En vigueur : </b> 21-04-2003&gt;
@@ -104,15 +130,16 @@ Si l'arrêt sur la demande principale n'est pas rendu dans ce délai, la suspens
 
 <a name="LNK0006" href="#LNKR0006">CHAPITRE II.</a> - Des questions préjudicielles.
 
-<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>.§ 1. La Cour d'arbitrage statue, à titre préjudiciel, par voie d'arrêt, sur les questions relatives à :
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>.
+§ 1. La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, par voie d'arrêt, sur les questions relatives à :
 1° la violation par une loi, un décret ou une règle visée à (l'article 134 de la Constitution), des règles qui sont établies par la Constitution ou en vertu de celle-ci pour déterminer les compétences respectives de l'Etat, des Communautés et des Régions; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 2° sans préjudice du 1°, tout conflit entre décrets ou entre règles visées à (l'article 134 de la Constitution) émanant de législateurs distincts et pour autant que le conflit résulte de leur champ d'application respectif; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (3° la violation par une loi, un décret ou une règle visée à l'article 134 de la Constitution, des articles du titre II " Des Belges et de leurs droits ", et des articles 170, 172 et 191 de la Constitution.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (§ 1bis. Sont exclus du champ d'application de cet article les lois, les décrets et les règles visées à l'article 134 de la Constitution par lesquels un traité constituant de l'Union européenne ou la Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales ou un Protocole additionnel à cette convention reçoit l'assentiment.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
-(§ 2. Lorsqu'une telle question est soulevée devant une juridiction, celle-ci doit demander à la Cour d'arbitrage de statuer sur cette question.
+(§ 2. Lorsqu'une telle question est soulevée devant une juridiction, celle-ci doit demander à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> de statuer sur cette question.
 Toutefois, la juridiction n'y est pas tenue :
 1° lorsque l'affaire ne peut être examinée par ladite juridiction pour des motifs d'incompétence ou de non-recevabilité, sauf si ces motifs sont tirés de normes faisant elles-mêmes l'objet de la demande de question préjudicielle;
-2° lorsque la Cour d'arbitrage a déjà statué sur une question ou un recours ayant un objet identique.
+2° lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> a déjà statué sur une question ou un recours ayant un objet identique.
 La juridiction, dont la décision est susceptible, selon le cas, d'appel, d'opposition, de pourvoi en cassation ou de recours en annulation au Conseil d'Etat, n'y est pas tenue non plus si la loi, le décret ou la règle visée à l'article 134 de la Constitution ne viole manifestement pas une règle ou un article de la Constitution visés au § 1 ou lorsque la juridiction estime que la réponse à la question préjudicielle n'est pas indispensable pour rendre sa décision.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (§ 3. Sauf s'il existe un doute sérieux quant à la compatibilité d'une loi, d'un décret ou d'une règle visée à l'article 134 de la Constitution avec une des règles ou un des articles de la Constitution visées au § 1 et qu'il n'y a pas de demande ou de recours ayant le même objet qui soit pendant devant la Cour, une juridiction n'est pas tenue de poser une question préjudicielle ni lorsque la demande est urgente et que le prononcé au sujet de cette demande n'a qu'un caractère provisoire, ni au cours d'une procédure d'appréciation du maintien de la détention préventive.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
 [<sup>1</sup> § 4. Lorsqu'il est invoqué devant une juridiction qu'une loi, un décret ou une règle visée à l'article 134 de la Constitution viole un droit fondamental garanti de manière totalement ou partiellement analogue par une disposition du titre II de la Constitution ainsi que par une disposition de droit européen ou de droit international, la juridiction est tenue de poser d'abord à la Cour constitutionnelle la question préjudicielle sur la compatibilité avec la disposition du titre II de la Constitution.
@@ -124,39 +151,58 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009071210" target="_blank">2009-07-12/10</a>, art. 2, 008; En vigueur : 10-08-2009&gt;
 
-<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. § 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
-§ 2. La décision de renvoi indique les dispositions de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui font l'objet de la question; le cas échéant, elle précise, en outre, les articles pertinents de la Constitution ou des lois spéciales. Toutefois, la Cour d'arbitrage peut reformuler la question préjudicielle posée. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>.
+§ 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
+§ 2. La décision de renvoi indique les dispositions de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui font l'objet de la question; le cas échéant, elle précise, en outre, les articles pertinents de la Constitution ou des lois spéciales. Toutefois, la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> peut reformuler la question préjudicielle posée. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 19, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. La juridiction qui a posé la question préjudicielle, ainsi que toute autre juridiction appelée à statuer dans la même affaire sont tenues, pour la solution du litige à l'occasion duquel ont été posées les questions visées à l'article 26, de se conformer à l'arrêt rendu par la Cour d'arbitrage.
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>.La juridiction qui a posé la question préjudicielle, ainsi que toute autre juridiction appelée à statuer dans la même affaire sont tenues, pour la solution du litige à l'occasion duquel ont été posées les questions visées à l'article 26, de se conformer à l'arrêt rendu par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 20, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. § 1. En tant qu'elle pose une question préjudicielle à la Cour d'arbitrage, la décision d'une juridiction n'est susceptible d'aucun recours.
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>.
+§ 1. En tant qu'elle pose une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, la décision d'une juridiction n'est susceptible d'aucun recours.
 § 2. La décision par laquelle une juridiction refuse de poser une question préjudicielle doit indiquer les motifs de refus. En tant qu'elle refuse de poser une telle question, la décision d'une juridiction n'est pas susceptible d'un recours distinct.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 21, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0007"> 30</a>. La décision de poser une question préjudicielle à la Cour d'arbitrage suspend la procédure et les délais de procédure et de prescription depuis la date de cette décision jusqu'à celle à laquelle l'arrêt de la Cour d'arbitrage est notifié à la juridiction qui a posé la question préjudicielle. Une copie en sera adressée aux parties.
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0007"> 30</a>.La décision de poser une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> suspend la procédure et les délais de procédure et de prescription depuis la date de cette décision jusqu'à celle à laquelle l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est notifié à la juridiction qui a posé la question préjudicielle. Une copie en sera adressée aux parties.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 22, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0007" href="#LNKR0007">CHAPITRE III.</a> &lt;Inséré par L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b>
 21-04-2003&gt; - Dispositions communes.
 
 <a name="Art.30bis" href="#Art.30">Art.</a> <a href="#LNK0008"> 30bis</a>. (ancien 124bis) &lt;Inséré par L 1989-01-16/30, art. 68; <b> En vigueur : </b> 1989-01-01&gt; Pour l'application des articles 1er et 26, § 1er, sont considérées comme règles visées au 1° de ces deux dispositions, la concertation, l'association, la transmission d'informations, les avis, les avis conformes, les accords, les accords communs et les propositions prévus par la loi spéciale du 8 août 1980 de réformes institutionnelles, à l'exception des accords de coopération visés à l'article 92bis de ladite loi, ainsi que par la loi spéciale (du 16 janvier 1989) sur le financement des communautés et Régions ou par toute autre loi prise en exécution des (articles 39, 127, § 1, 128, § 1, 129, § 1, 130, § 1, 135, 136, 137, 140, 166, 175, 176 et 177 de la Constitution). &lt;L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="LNK0008" href="#LNKR0008">TITRE II.</a> - DE L'ORGANISATION DE LA COUR D'ARBITRAGE.
+<a name="LNK0008" href="#LNKR0008">TITRE II.</a> - DE L'ORGANISATION DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 23, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0009" href="#LNKR0009">CHAPITRE I.</a> - Des juges de la Cour d'arbitrage.
+<a name="LNK0009" href="#LNKR0009">CHAPITRE I.</a> - Des juges de la [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 24, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.31" href="#Art.30bis">Art.</a> <a href="#Art.32"> 31</a>. La Cour d'arbitrage est composée de douze juges : six juges d'expression française qui forment le groupe linguistique français de la Cour et six juges d'expression néerlandaise qui forment le groupe linguistique néerlandais de la Cour.
-La qualité de juge d'expression française ou juge d'expression néerlandaise de la Cour d'arbitrage est déterminée en ce qui concerne les juges visés à l'article 34, § 1er, 1°, par la langue du diplôme et, en ce qui concerne les juges visés à l'article 34, § 1er, 2°, par le groupe linguistique parlementaire dont ils faisaient partie en dernier lieu.
+<a name="Art.31" href="#Art.30bis">Art.</a> <a href="#Art.32"> 31</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est composée de douze juges : six juges d'expression française qui forment le groupe linguistique français de la Cour et six juges d'expression néerlandaise qui forment le groupe linguistique néerlandais de la Cour.
+La qualité de juge d'expression française ou juge d'expression néerlandaise de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est déterminée en ce qui concerne les juges visés à l'article 34, § 1er, 1°, par la langue du diplôme et, en ce qui concerne les juges visés à l'article 34, § 1er, 2°, par le groupe linguistique parlementaire dont ils faisaient partie en dernier lieu.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 25, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. (Les juges sont nommés à vie par le Roi sur une liste double présentée alternativement par la Chambre des représentants et par le Sénat.) Celle-ci est adoptée à la majorité des deux tiers des suffrages des membres présents. &lt;L 1993-07-16/30, art. 125, 003; <b> En vigueur : </b> 1993-07-30&gt;
 Il ne peut être procédé aux présentations que quinze jours au moins après la publication de la vacance au Moniteur belge. Cette publication pourra avoir lieu au plus tôt trois mois avant la vacance.
 Chaque présentation fait l'objet d'une publication au Moniteur belge; la nomination ne peut intervenir au plus tôt que quinze jours après celle-ci.
 
-<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>. Les juges d'expression française et les juges d'expression néerlandaise de la Cour d'arbitrage choisissent, chacun en ce qui les concerne, en leur sein, un président d'expression française et un président d'expression néerlandaise.
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>.Les juges d'expression française et les juges d'expression néerlandaise de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> choisissent, chacun en ce qui les concerne, en leur sein, un président d'expression française et un président d'expression néerlandaise.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 26, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0010"> 34</a>. § 1. Pour pouvoir être nommé juge de la Cour d'arbitrage, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0010"> 34</a>.
+§ 1. Pour pouvoir être nommé juge de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :
 1° avoir, en Belgique et pendant au moins cinq ans, occupé la fonction :
 a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de cassation;
 b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat;
-c) soit de référendaire à la Cour d'arbitrage;
+c) soit de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
 d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge.
 2° (avoir été pendant cinq ans au moins, membre du Sénat, de la Chambre des représentants ou d'(un Parlement de Communauté ou de Région.) &lt;L 1993-07-16/30, art. 126, § 1, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 15, 007; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. La Cour compte, parmi ses juges d'expression française comme parmi ses juges d'expression néerlandaise, autant de juges répondant aux conditions fixées au § 1er, 1°, que de juges répondant à la condition fixée au § 1er, 2°.
@@ -165,11 +211,15 @@ Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au
 Un candidat dont la présentation est fondée sur la condition fixée au § 1er, 2°, ne peut être présenté en vertu des conditions fixées au § 1er, 1°.
 § 4. Un juge, au moins, comptant parmi les juges qui répondent aux conditions fixées au § 1er, 1°, doit justifier d'une connaissance suffisante de l'allemand. Le Roi détermine le mode de justification de la connaissance de l'allemand.
 (§ 5. La Cour est composée de juges de sexe différent.) &lt;L 2003-03-09/47, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 27, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0010" href="#LNKR0010">CHAPITRE II.</a> - Des référendaires.
 
-<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>. La Cour d'arbitrage est assistée par (vingt-quatre) référendaires au maximum, dont la moitié est d'expression française et l'autre d'expression néerlandaise, selon la langue du diplôme et qui ont justifié d'une connaissance suffisante de la seconde langue nationale devant un jury constitué par le Secrétaire permanent au Recrutement. &lt;L 2003-03-09/47, art. 12, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est assistée par (vingt-quatre) référendaires au maximum, dont la moitié est d'expression française et l'autre d'expression néerlandaise, selon la langue du diplôme et qui ont justifié d'une connaissance suffisante de la seconde langue nationale devant un jury constitué par le Secrétaire permanent au Recrutement. &lt;L 2003-03-09/47, art. 12, 006; <b> En vigueur : </b> 21-04-2003&gt;
 Un référendaire d'expression française et un référendaire d'expression néerlandaise, au moins, doivent justifier d'une connaissance suffisante de l'allemand, devant un jury constitué par le Secrétaire permanent au recrutement.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 28, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.36" href="#Art.35">Art.</a> <a href="#Art.37"> 36</a>. Nul ne peut être nommé référendaire s'il n'est âgé de vingt-cinq ans et s'il n'est docteur ou licencié en droit.
 Il ne peut être procédé aux nominations qu'après que la place est devenue vacante et quinze jours au moins après la publication de la vacance au Moniteur belge. Cette publication pourra avoir lieu au plus tôt trois mois avant la vacance.
@@ -182,33 +232,42 @@ Le concours est, quant à ses effets, assimilé aux concours donnant accès dans
 <a name="Art.38" href="#Art.37">Art.</a> <a href="#Art.39"> 38</a>. Les référendaires sont nommés par la Cour pour un stage de trois ans selon le classement du concours prévu à l'article 37.
 Au terme de ces trois ans, la nomination devient définitive sauf décision contraire prise par la Cour durant la troisième année du stage.
 
-<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0011"> 39</a>. Les fonctions de référendaire à la Cour d'arbitrage sont assimilées aux fonctions judiciaires pour ce qui concerne les conditions de nomination prévues aux articles 70 et 71 des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, et aux articles 187 et suivants du Code judiciaire.
-Les années accomplies en tant que référendaire à la Cour d'arbitrage entrent en ligne de compte pour le calcul de l'ancienneté dans toute fonction administrative ou judiciaire, ou dans une fonction au Conseil d'Etat ou à la Cour d'arbitrage que les référendaires pourraient exercer par la suite.
+<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0011"> 39</a>.Les fonctions de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont assimilées aux fonctions judiciaires pour ce qui concerne les conditions de nomination prévues aux articles 70 et 71 des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, et aux articles 187 et suivants du Code judiciaire.
+Les années accomplies en tant que référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> entrent en ligne de compte pour le calcul de l'ancienneté dans toute fonction administrative ou judiciaire, ou dans une fonction au Conseil d'Etat ou à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> que les référendaires pourraient exercer par la suite.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 29, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0011" href="#LNKR0011">CHAPITRE III.</a> - Des greffiers.
 
-<a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.41"> 40</a>. § 1. Le Roi nomme deux greffiers sur deux listes comprenant chacune deux candidats et présentées l'une par le groupe linguistique français et l'autre par le groupe linguistique néerlandais de la Cour d'arbitrage.
+<a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.41"> 40</a>.
+§ 1. Le Roi nomme deux greffiers sur deux listes comprenant chacune deux candidats et présentées l'une par le groupe linguistique français et l'autre par le groupe linguistique néerlandais de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 L'article 32, alinéas deux et trois, est applicable à ces présentations.
-§ 2. Le rôle linguistique d'un greffier est déterminé par sa présentation par le groupe linguistique correspondant de la Cour d'arbitrage.
+§ 2. Le rôle linguistique d'un greffier est déterminé par sa présentation par le groupe linguistique correspondant de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 30, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.41" href="#Art.40">Art.</a> <a href="#LNK0012"> 41</a>. (Pour pouvoir être nommé greffier de la Cour d'Arbitrage, le candidat doit :
+<a name="Art.41" href="#Art.40">Art.</a> <a href="#LNK0012"> 41</a>.(Pour pouvoir être nommé greffier de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit :
 1° être âgé de trente ans accomplis;
 2° avoir réussi l'un des examens suivants :
-a) le concours de référendaire à la Cour d'Arbitrage;
+a) le concours de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
 b) le concours de référendaire à la Cour de Cassation;
 c) le concours d'auditeur adjoint ou de référendaire adjoint au Conseil d'Etat;
 d) l'examen d'aptitude professionnelle prévu par l'article 259bis du Code judiciaire;
 e) le concours d'admission au stage judiciaire visé à l'article 259quater du Code judiciaire;
-f) l'examen au grade de recrutement de niveau 1, qualification " juriste ", pour les administrations de l'autorité fédérale, des communautés et des régions et pour les organismes d'intérêt public qui en dépendent, ainsi que pour les services de la Cour d'Arbitrage;
+f) l'examen au grade de recrutement de niveau 1, qualification " juriste ", pour les administrations de l'autorité fédérale, des communautés et des régions et pour les organismes d'intérêt public qui en dépendent, ainsi que pour les services de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
 g) l'examen au grade de recrutement d'attaché, qualification " juriste ", pour les chambres législatives et (Les parlements de Communauté et de Région) &lt;L 2006-03-27/33, art. 16, 007; <b> En vigueur : </b> 21-04-2006&gt;
 3° avoir une expérience utile d'au moins deux ans.) &lt;L 2000-06-24/34, art. 2, 005; <b> En vigueur : </b> 22-07-2000&gt;
 (En outre, le candidat d'expression française doit justifier de la connaissance de la langue néerlandaise et le candidat d'expression néerlandaise doit justifier de la connaissance de la langue française en réussissant un des examens prévus aux articles 43quinquies et 53, § 6, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire (, à l'article 43, § 3, alinéa 3, des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966,) et à l'article 73, § 2, alinéa 5, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.) &lt;L 1994-06-27/31, art. 1, 2°, 004; <b> En vigueur : </b> 30-07-1994&gt; &lt;L 2000-06-24/34, art. 2, 005; <b> En vigueur : </b> 22-07-2000&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 31, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0012" href="#LNKR0012">CHAPITRE IV.</a> - Du personnel administratif.
 
-<a name="Art.42" href="#Art.41">Art.</a> <a href="#Art.43"> 42</a>. La Cour d'arbitrage dispose d'un personnel propre. Elle fixe le cadre organique et le cadre linguistique du personnel, dans le respect de la parité linguistique par niveau; elle nomme et révoque les membres du personnel.
+<a name="Art.42" href="#Art.41">Art.</a> <a href="#Art.43"> 42</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> dispose d'un personnel propre. Elle fixe le cadre organique et le cadre linguistique du personnel, dans le respect de la parité linguistique par niveau; elle nomme et révoque les membres du personnel.
 Le Roi approuve les cadres visés à l'alinéa premier.
 Sauf décision contraire de la Cour, nécessitée par le bon fonctionnement de ses services et fixée dans un règlement approuvé par arrêté royal, le personnel est soumis aux règles légales et statutaires applicables aux agents définitifs de l'Etat.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 32, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0013"> 43</a>. La Cour décide des délégations, des empêchements et des remplacements, des absences, congés et vacances des membres du personnel administratif.
 La Cour peut déléguer tout ou partie de ce pouvoir à une commission du personnel, composée des deux présidents, deux juges du groupe linguistique français et deux juges du groupe linguistique néerlandais, désignés par la Cour pour une durée de quatre ans. Ils sont rééligibles.
@@ -219,7 +278,7 @@ La Cour peut déléguer tout ou partie de ce pouvoir à une commission du person
 Il peut être derogé par le Roi, sur avis favorable et motivé de la Cour, à l'alinéa 1er :
 1° lorsqu'il s'agit de l'exercice de fonctions de professeur, chargé de cours, maître de conférence ou assistant dans les établissements d'enseignement supérieur, pour autant que ces fonctions ne s'exercent pas pendant plus de cinq heures par semaine ni en plus de deux demi-jours par semaine;
 2° lorsqu'il s'agit de l'exercice de fonctions de membre d'un jury d'examen;
-3° lorsqu'il s'agit de la participation à une commission, à un conseil ou comité consultatif, pour autant que le nombre de charges ou fonctions rémunérées soit limité à deux et que l'ensemble de leurs rémunérations ne soit pas superieur au dixième du traitement brut annuel de la fonction principale à la Cour.
+3° lorsqu'il s'agit de la participation à une commission, à un conseil ou comité consultatif, pour autant que le nombre de charges ou fonctions rémunérées soit limité à deux et que l'ensemble de leurs rémunérations ne soit pas supérieur au dixième du traitement brut annuel de la fonction principale à la Cour.
 
 <a name="Art.45" href="#Art.44">Art.</a> <a href="#Art.46"> 45</a>. Les présidents, les juges, les référendaires et les greffiers ne peuvent être requis pour aucun service public, sauf les cas prévus par la loi.
 
@@ -230,17 +289,25 @@ Il peut être derogé par le Roi, sur avis favorable et motivé de la Cour, à l
 
 <a name="Art.47" href="#Art.46">Art.</a> <a href="#Art.48"> 47</a>. Les parents et alliés, jusqu'au troisième degré inclusivement, ne peuvent être simultanément président ou juge et référendaire sans une dispense du Roi.
 
-<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0014"> 48</a>. § 1. L'article 44, alinéa premier, et l'article 46, 1° et 2°, sont applicables aux membres du personnel administratif de la Cour d'arbitrage.
+<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0014"> 48</a>.
+§ 1. L'article 44, alinéa premier, et l'article 46, 1° et 2°, sont applicables aux membres du personnel administratif de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 § 2. Des dérogations peuvent leur être accordées par la Cour dans les cas où les dispositions applicables aux agents de l'Etat permettent à ceux-ci ou à leur conjoint l'exercice de certaines occupations complémentaires.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 34, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0014" href="#LNKR0014">CHAPITRE VI.</a> - De la discipline.
 
-<a name="Art.49" href="#Art.48">Art.</a> <a href="#Art.50"> 49</a>. Les présidents et les juges qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent être destitués ou suspendus de leurs fonctions par arrêt rendu par la Cour d'arbitrage.
+<a name="Art.49" href="#Art.48">Art.</a> <a href="#Art.50"> 49</a>.Les présidents et les juges qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent être destitués ou suspendus de leurs fonctions par arrêt rendu par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 35, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0015"> 50</a>. § 1. Les référendaires et les greffiers qui manquent à leurs devoirs, sont avertis et réprimandés par le président, suspendus et démis par la Cour d'arbitrage. La suspension comporte la privation du traitement, avec les répercussions qui lui sont inhérentes, tant en matière de pensions que pour l'octroi des augmentations ultérieures de traitement.
+<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0015"> 50</a>.
+§ 1. Les référendaires et les greffiers qui manquent à leurs devoirs, sont avertis et réprimandés par le président, suspendus et démis par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>. La suspension comporte la privation du traitement, avec les répercussions qui lui sont inhérentes, tant en matière de pensions que pour l'octroi des augmentations ultérieures de traitement.
 § 2. Aucune sanction n'est infligée sans que la personne concernée ait été entendue ou dûment appelée.
-§ 3. Lorsqu'ils sont poursuivis pour un crime ou un délit ou dans le cas de poursuites disciplinaires, les référendaires et les greffiers peuvent, lorsque l'intérêt du service le requiert, être suspendus de leurs fonctions par mesure d'ordre par la Cour d'arbitrage, pendant la durée des poursuites et jusqu'à la decision finale.
-La suspension par mesure d'ordre est prononcée pour un mois; elle peut être prorogée de mois en mois jusqu'à la décision définitive. La Cour d'arbitrage peut décider que cette mesure comportera, pendant tout ou partie de sa durée, retenue provisoire, totale ou partielle du traitement.
+§ 3. Lorsqu'ils sont poursuivis pour un crime ou un délit ou dans le cas de poursuites disciplinaires, les référendaires et les greffiers peuvent, lorsque l'intérêt du service le requiert, être suspendus de leurs fonctions par mesure d'ordre par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, pendant la durée des poursuites et jusqu'à la décision finale.
+La suspension par mesure d'ordre est prononcée pour un mois; elle peut être prorogée de mois en mois jusqu'à la décision définitive. La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> peut décider que cette mesure comportera, pendant tout ou partie de sa durée, retenue provisoire, totale ou partielle du traitement.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 36, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0015" href="#LNKR0015">CHAPITRE VII.</a> - Dispositions diverses.
 
@@ -249,27 +316,39 @@ La suspension par mesure d'ordre est prononcée pour un mois; elle peut être pr
 § 3. Ils sont tenus à la prestation de serment dans le mois qui suit le jour où leur nomination leur a été notifiée, à défaut de quoi il peut être pourvu à leur remplacement.
 § 4. Le serment est prêté en français ou en néerlandais selon que l'intéressé est d'expression française ou d'expression néerlandaise.
 
-<a name="Art.52" href="#Art.51">Art.</a> <a href="#Art.53"> 52</a>. Le Roi prescrit le costume porté aux audiences et dans les cérémonies officielles par les titulaires de fonctions à la Cour d'arbitrage.
+<a name="Art.52" href="#Art.51">Art.</a> <a href="#Art.53"> 52</a>.Le Roi prescrit le costume porté aux audiences et dans les cérémonies officielles par les titulaires de fonctions à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 Il règle la préséance et les honneurs.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 37, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0016"> 53</a>. Le Roi crée un service de concordance auprès de la Cour d'arbitrage.
+<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0016"> 53</a>.Le Roi crée un service de concordance auprès de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 38, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0016" href="#LNKR0016">TITRE III.</a> - DU FONCTIONNEMENT DE LA COUR D'ARBITRAGE.
+<a name="LNK0016" href="#LNKR0016">TITRE III.</a> - DU FONCTIONNEMENT DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 39, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.54" href="#Art.53">Art.</a> <a href="#Art.55"> 54</a>. La présidence est exercée à tour de role par chaque président pour une période d'un an.
 Ces périodes débutent le premier septembre de chaque année.
 
-<a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>. Sans préjudice de l'article 56, la Cour d'arbitrage tient ses audiences, délibère et statue étant composée de sept juges : trois d'expression française, trois d'expression néerlandaise et le président ou, à son défaut, le juge le plus ancien ou, le cas échéant, le plus âgé du même groupe linguistique.
+<a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>.Sans préjudice de l'article 56, la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> tient ses audiences, délibère et statue étant composée de sept juges : trois d'expression française, trois d'expression néerlandaise et le président ou, à son défaut, le juge le plus ancien ou, le cas échéant, le plus âgé du même groupe linguistique.
 Parmi les sept juges visés à l'alinéa 1er, deux au moins doivent répondre aux conditions fixées à l'article 34, § 1er, 1°, et deux au moins doivent répondre à la condition fixée à l'article 34, § 1er, 2°.
 Lorsqu'il s'agit d'une affaire qui doit être traitée dans la langue qui n'est pas celle du groupe linguistique auquel il appartient, le président délègue ses compétences à l'autre président ou, à son défaut, au juge le plus ancien ou, le cas échéant, le plus âgé de l'autre groupe linguistique.
 Toute décision est prise à la majorité des voix des membres.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 40, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.56" href="#Art.55">Art.</a> <a href="#Art.57"> 56</a>. La Cour d'arbitrage se réunit en séance plénière pour prendre les décisions en application des articles 37, 38, 42, 43, 44, 49, 50, 100 et 122.
-Lorsqu'il l'estime necessaire, chacun des présidents peut soumettre une affaire à la Cour d'arbitrage réunie en séance plénière. Les présidents y sont tenus lorsque, parmi les sept juges qui, conformément à l'article 55, composent le siège, deux juges en font la demande.
+<a name="Art.56" href="#Art.55">Art.</a> <a href="#Art.57"> 56</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> se réunit en séance plénière pour prendre les décisions en application des articles 37, 38, 42, 43, 44, 49, 50, 100 et 122.
+Lorsqu'il l'estime necessaire, chacun des présidents peut soumettre une affaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière. Les présidents y sont tenus lorsque, parmi les sept juges qui, conformément à l'article 55, composent le siège, deux juges en font la demande.
 En séance plénière, la Cour ne peut statuer que si au moins dix juges et autant de juges d'expression française que de juges d'expression néerlandaise sont présents. Si cette dernière condition n'est pas remplie, le juge le dernier nommé ou, le cas échéant, le juge le plus jeune du groupe linguistique le plus nombreux doit s'abstenir pour chaque décision.
 Lorsque la Cour statue en séance plénière, la voix du président est prépondérante en cas de parité des voix. Lorsque le président est absent ou empêché, il est remplacé par le juge le plus ancien ou, le cas échéant, le plus âgé du même groupe linguistique.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 41, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.57" href="#Art.56">Art.</a> <a href="#Art.58"> 57</a>. L'article 258 du Code pénal relatif au déni de justice est applicable aux juges de la Cour d'arbitrage.
+<a name="Art.57" href="#Art.56">Art.</a> <a href="#Art.58"> 57</a>.L'article 258 du Code pénal relatif au déni de justice est applicable aux juges de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 42, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.58" href="#Art.57">Art.</a> <a href="#Art.59"> 58</a>. Le 1er septembre de chaque année, les présidents établissent, pour les besoins du service, une liste des juges de leur groupe linguistique. Y est porté le premier un juge nommé sur base de l'article 34, § 1er, 2°, si le président lui-même était nommé sur la base du 1°, ou inversement. Figurent ensuite alternativement sur la liste les juges nommés sur la base du 1° et les juges nommés sur la base du 2°.
 
@@ -293,9 +372,11 @@ En vue de l'application de l'article 56, alinéa 1er, les présidents et les jug
 
 <a name="LNK0017" href="#LNKR0017">TITRE IV.</a> - DE L'EMPLOI DES LANGUES.
 
-<a name="LNK0018" href="#LNKR0018">CHAPITRE I </a>- De l'emploi des langues devant la Cour d'arbitrage.
+<a name="LNK0018" href="#LNKR0018">CHAPITRE I</a>-De l'emploi des langues devant la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 43, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.62" href="#Art.61">Art.</a> <a href="#Art.63"> 62</a>. Les affaires sont introduites devant la Cour d'arbitrage en français, en néerlandais ou en allemand.
+<a name="Art.62" href="#Art.61">Art.</a> <a href="#Art.63"> 62</a>.Les affaires sont introduites devant la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> en français, en néerlandais ou en allemand.
 Dans les actes et déclarations :
 1° le Conseil des Ministres utilise le français ou le néerlandais selon les règles fixées à l'article 17, § 1er, des lois sur l'emploi des langues en matière administrative coordonnées le 18 juillet 1966;
 2° les Exécutifs utilisent leur langue administrative;
@@ -304,6 +385,8 @@ Dans les actes et déclarations :
 5° les présidents du (Le Parlement de la Communauté française) et du (le Parlement wallon) utilisent le français, le président du (Parlement de la Communauté germanophone) l'allemand, et le président du (Parlement flamand) le néerlandais; &lt;L 2006-03-27/33, art. 17, 007; <b> En vigueur : </b> 21-04-2006&gt;
 6° les personnes ayant à justifier d'un intérêt utilisent la langue de leur choix, hormis le cas où elles sont soumises à la législation sur l'emploi des langues en matière administrative, auquel cas elles utilisent la langue qui est déterminée par les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
 La Cour constate d'office que les actes et les déclarations du Conseil des Ministres, des Exécutifs, des présidents des assemblées législatives et des personnes soumises à la législation sur l'emploi des langues en matière administrative, qui ne sont pas adressés à la Cour dans la langue prescrite par l'alinéa 2, sont nuls.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 44, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.63" href="#Art.62">Art.</a> <a href="#Art.64"> 63</a>. § 1. Sous réserve des dispositions des §§ 2 et 3, l'instruction de l'affaire a lieu dans la langue (de l'acte qui saisit la Cour). &lt;L 2003-03-09/47, art. 13, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Si l'affaire est introduite en allemand, ou à la fois en français et en néerlandais, la Cour décide si l'instruction est faite en français ou en néerlandais.
@@ -317,11 +400,17 @@ Le traitement des affaires jointes se poursuit dans la langue de l'affaire intro
 Les arrêts sont prononcés en néerlandais et en français par les présidents.
 Ils sont également prononcés et publiés en allemand lorsqu'il s'agit d'arrêts rendus sur recours en annulation ou lorsque l'affaire a été introduite en allemand.
 
-<a name="LNK0019" href="#LNKR0019">CHAPITRE II.</a> - De l'emploi des langues dans les services de la Cour d'arbitrage.
+<a name="LNK0019" href="#LNKR0019">CHAPITRE II.</a> - De l'emploi des langues dans les services de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 45, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.66" href="#Art.65">Art.</a> <a href="#LNK0020"> 66</a>. Les travaux administratifs de la Cour d'arbitrage et l'organisation de ses services sont régis par les dispositions de la législation sur l'emploi des langues en matière administrative, qui sont applicables aux services dont l'activité s'étend à tout le pays.
+<a name="Art.66" href="#Art.65">Art.</a> <a href="#LNK0020"> 66</a>.Les travaux administratifs de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et l'organisation de ses services sont régis par les dispositions de la législation sur l'emploi des langues en matière administrative, qui sont applicables aux services dont l'activité s'étend à tout le pays.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 46, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0020" href="#LNKR0020">TITRE V.</a> - PROCEDURE DEVANT LA COUR D'ARBITRAGE.
+<a name="LNK0020" href="#LNKR0020">TITRE V.</a> - PROCEDURE DEVANT LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 47, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0021" href="#LNKR0021">CHAPITRE I.</a> - De la mise au role et de la désignation des rapporteurs.
 
@@ -334,7 +423,9 @@ Chaque rapporteur est chargé d'instruire le dossier et de faire rapport à l'au
 
 <a name="Art.69" href="#Art.68">Art.</a> <a href="#Art.70"> 69</a>. Il existe une chambre restreinte, composée du président et des deux rapporteurs.
 
-<a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>. Dès réception d'un recours en annulation ou d'une décision de renvoi, les rapporteurs examinent s'il apparaît, ou non, au vu de la requête ou de la décision de renvoi, que le recours ou la question est manifestement irrecevable (ou non fondé, que la Cour d'arbitrage) n'est manifestement pas compétente pour en connaître (ou qu'il semble que l'on peut mettre fin à l'affaire par un arrêt de réponse immédiate). &lt;L 2003-03-09/47, art. 15, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>.Dès réception d'un recours en annulation ou d'une décision de renvoi, les rapporteurs examinent s'il apparaît, ou non, au vu de la requête ou de la décision de renvoi, que le recours ou la question est manifestement irrecevable (ou non fondé, que la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>) n'est manifestement pas compétente pour en connaître (ou qu'il semble que l'on peut mettre fin à l'affaire par un arrêt de réponse immédiate). &lt;L 2003-03-09/47, art. 15, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 48, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>. Si le recours en annulation ou la question préjudicielle apparaît comme manifestement irrecevable ou comme ne relevant manifestement pas de la compétence de la Cour, les rapporteurs font rapport à ce sujet devant le président dans un délai de trente jours au maximum suivant la réception de la requête ou de la décision de renvoi; si la règle attaquée fait également l'objet d'une demande de suspension, ce délai est réduit à dix jours au maximum.
 Les conclusions des rapporteurs sont notifiées aux parties par le greffier dans le délai prévu à l'alinéa premier. Les parties disposent de quinze jours (...) a compter de la réception de la notification pour introduire un mémoire justificatif. &lt;L 2003-03-09/47, art. 16, 006; <b> En vigueur : </b> 21-04-2003&gt;
@@ -396,8 +487,11 @@ Lorsque l'affaire concerne un recours en annulation, ces mémoires peuvent formu
 
 <a name="Art.86" href="#Art.85">Art.</a> <a href="#Art.87"> 86</a>. Les mémoires visés à l'article 85, qui n'ont pas été introduits dans les délais prévus par la loi, sont écartés des debats.
 
-<a name="Art.87" href="#Art.86">Art.</a> <a href="#Art.88"> 87</a>. § 1. Lorsque la Cour d'arbitrage statue, à titre préjudiciel, sur les questions visées à l'article 26, toute personne justifiant d'un intérêt dans la cause devant la juridiction qui ordonne le renvoi, peut adresser un memoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est, de ce fait, réputée partie au litige.
-§ 2. Lorsque la Cour d'arbitrage statue sur les recours en annulation visés a l'article 1er, toute personne justifiant d'un intérêt peut adresser ses observations dans un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est de ce fait, réputée partie au litige.
+<a name="Art.87" href="#Art.86">Art.</a> <a href="#Art.88"> 87</a>.
+§ 1. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, sur les questions visées à l'article 26, toute personne justifiant d'un intérêt dans la cause devant la juridiction qui ordonne le renvoi, peut adresser un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est, de ce fait, réputée partie au litige.
+§ 2. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue sur les recours en annulation visés a l'article 1er, toute personne justifiant d'un intérêt peut adresser ses observations dans un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est de ce fait, réputée partie au litige.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 49, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.88" href="#Art.87">Art.</a> <a href="#Art.89"> 88</a>. Toute personne qui, en application des articles 85 et 87, adresse un mémoire à la Cour, est tenue d'y joindre le dossier qu'elle détient.
 
@@ -479,9 +573,11 @@ La juridiction transmet une expédition de sa décision à la Cour.
 
 <a name="LNK0029" href="#LNKR0029">Section IV.</a> - De la connexité.
 
-<a name="Art.100" href="#Art.99">Art.</a> <a href="#LNK0030"> 100</a>. La Cour d'arbitrage réunie en séance plénière peut joindre les recours en annulation ou les questions préjudicielles relatifs à une même norme, sur lesquels il y a lieu de statuer par un seul et même arrêt. Dans ce cas, les affaires sont examinées par le siège saisi le premier.
+<a name="Art.100" href="#Art.99">Art.</a> <a href="#LNK0030"> 100</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière peut joindre les recours en annulation ou les questions préjudicielles relatifs à une même norme, sur lesquels il y a lieu de statuer par un seul et même arrêt. Dans ce cas, les affaires sont examinées par le siège saisi le premier.
 Le greffier notifie l'ordonnance de jonction aux parties.
 Lorsque deux ou plusieurs affaires ont été jointes, les rapporteurs sont ceux qui, conformément à l'article 68, sont désignés pour la première affaire dont la Cour a été saisie.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 50, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0030" href="#LNKR0030">Section V.</a> - De la récusation.
 
@@ -577,8 +673,11 @@ Le Roi fixe les heures d'ouverture.
 
 <a name="LNK0035" href="#LNKR0035">TITRE VI.</a> - DISPOSITIONS FINALES.
 
-<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0036"> 123</a>. § 1. Les crédits nécessaires au fonctionnement de la Cour d'arbitrage sont inscrits au budget des Dotations.
-§ 2. Les arrêtés royaux relatifs à la Cour d'arbitrage sont délibérés en Conseil des Ministres.
+<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0036"> 123</a>.
+§ 1. Les crédits nécessaires au fonctionnement de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont inscrits au budget des Dotations.
+§ 2. Les arrêtés royaux relatifs à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont délibérés en Conseil des Ministres.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 52, 009; En vigueur : 08-03-2010&gt;
 
 <a name="LNK0036" href="#LNKR0036">TITRE VII.</a> - DISPOSITIONS TRANSITOIRES.
 
