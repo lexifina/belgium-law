@@ -1,6 +1,6 @@
 <a name="LNK0001" href="#LNKR0001">CHAPITRE Ier.</a> - Définitions et champ d'application.
 
-<a name="Art.1"></a>Article <a href="#Art.2">1</a>. § 1er. Pour l'application de la présente loi, il faut entendre par:
+<a name="Art.1"></a>Article <a href="#Art.2"> 1</a>. § 1er. Pour l'application de la présente loi, il faut entendre par:
 Travailleur: la personne engagée par un employeur dans les liens d'un contrat de travail;
 Employeur: la personne physique ou morale qui, en vertu d'un contrat de travail, occupe un ou plusieurs travailleurs;
 Assuré social: le travailleur et toute personne considérée par les lois de sécurité sociale comme bénéficiaire des prestations sociales ou comme assimilée à un tel bénéficiaire;
@@ -64,7 +64,7 @@ Le Roi fixe, par arrêté délibéré en conseil des ministres, les conditions e
 
 <a name="Art.14bis" href="#Art.14">Art.</a> <a href="#Art.15"> 14bis</a>. &lt;L 1985-08-01/31, art. 123, 006&gt; Le Roi peut, après avis du Conseil national du travail, et par arrêté délibéré en Conseil des Ministres, modifier la législation et la réglementation en matière de sécurité sociale, afin d'harmoniser les droits et les obligations des employeurs et des travailleurs, tant pour les travailleurs à temps partiel que pour les travailleurs à temps plein et nonobstant la manière dont les prestations de travail sont réparties sur les différents jours de la semaine. Il peut notamment apporter des modifications aux dispositions concernant :
 1° l'obligation de cotisation des employeurs et travailleurs;
-2° le mode de déclaration du (travail effectué par des travailleursà temps plein), du (travail effectué par des travailleursà temps partiel) ou du travail qui est réparti d'une manière inégale sur les divers jours de la semaine; &lt;AR 2001-06-10/58, art. 5, 052; <b> En vigueur : </b> 01-01-2003&gt;
+2° le mode de déclaration du (travail effectué par des travailleurs à temps plein), du (travail effectué par des travailleurs à temps partiel) ou du travail qui est réparti d'une manière inégale sur les divers jours de la semaine; &lt;AR 2001-06-10/58, art. 5, 052; <b> En vigueur : </b> 01-01-2003&gt;
 3° la manière dont la durée dudit travail à temps partiel est déterminée pour l'application des régimes de sécurité sociale;
 4° la durée des stages et des conditions d'octroi des prestations sociales lorsqu'elles sont liées à une certaine durée du travail ou à un certain montant de revenu.
 
@@ -138,7 +138,7 @@ a) recettes de la Gestion globale qui sont globalisées :
 - le produit de legs et de dons à l'ONSS-Gestion globale;
 (- le produit de la retenue visée à l'article 39ter.) &lt;L 2005-09-17/53, art. 3, 067; <b> En vigueur : </b> 01-01-2005&gt;
 b) recettes propres des régimes et des branches, visés à l'article 21, § 2, qui ne sont pas globalisées :
-- le produit des cotisations percues directement par un des régimes de la Gestion globale, visés à l'article 21, § 2;
+- le produit des cotisations perçues directement par un des régimes de la Gestion globale, visés à l'article 21, § 2;
 - le produit des interventions particulières de l'Etat versées directement à un des régimes de la Gestion globale, visés à l'article 21, § 2;
 - le produit des avoirs sur compte provenant des versements qui dépassent le montant des besoins de trésorerie journaliers à financer, des régimes de la Gestion globale, visés à l'article 21, § 2;
 - le produit d'autres versements effectués sur base de dispositions légales et réglementaires à un des régimes de la Gestion globale, visés à l'article 21, § 2;
@@ -203,7 +203,7 @@ c) un montant correspondant à la somme des recettes propres, destinées au rég
 Le pourcentage visé à l'alinéa précédent correspond à la division du montant visé au a) de l'alinéa précédent par la somme des montants visés au a) et b) du même alinéa.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007013145" target="_blank">2007-01-31/45</a>, art. 2, 074; <b> En vigueur : </b> 30-04-2007&gt;
 (§ 1erquinquies. Dès l'exercice 2008, sans préjudice des § 1erter et § 1erquater, le montant visé au § 1erbis est diminué d'un montant de 182 060 milliers EUR, adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007032637" target="_blank">2007-03-26/37</a>, art. 4, 075; <b> En vigueur : </b> 01-01-2008&gt;
 § 2. Par dérogation aux dispositions du § 1er et en application des dispositions visées à l'article 1er, § 2ter de la loi du 1er août 1985 portant des dispositions sociales, une partie des moyens financiers globalisés, visés à l'article 22, § 2, a), est affectée au financement, à l'Office national de Sécurité sociale des administrations provinciales et locales, des travailleurs mis au travail dans des hôpitaux, conformément aux dispositions du Chapitre II, section 5 de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand.
-§ 3. Les régimes qui n'appartiennent pas à la Gestion globale recoivent, (...) après prélèvement des frais d'administration de l'Office national de Sécurité sociale, le produit des cotisations du régime concerné. &lt;L 1999-01-25/32, art. 51, 043; <b> En vigueur : </b> 16-02-1999&gt;
+§ 3. Les régimes qui n'appartiennent pas à la Gestion globale reçoivent, (...) après prélèvement des frais d'administration de l'Office national de Sécurité sociale, le produit des cotisations du régime concerné. &lt;L 1999-01-25/32, art. 51, 043; <b> En vigueur : </b> 16-02-1999&gt;
 
 <a name="Art.25" href="#Art.24">Art.</a> <a href="#Art.26"> 25</a>. L'Office national de sécurité sociale ne peut être chargé de la perception de cotisations autres que celles visées à l'article 23 que pour autant que ces cotisations soient fixées au prorata du salaire et suivant les plafonds salariaux en vigueur.
 
@@ -234,7 +234,7 @@ Le dépôt du pli recommandé à la poste interrompt la prescription.
 
 <a name="Art.31" href="#Art.30">Art.</a> <a href="#Art.31bis"> 31</a>. &lt;Disposition modificative&gt;
 
-<a name="Art.31bis" href="#Art.31">Art.</a> <a href="#LNK0004"> 31bis</a>.&lt;Inséré par L 2005-12-13/35, art. 28; <b> En vigueur : </b> indéterminée ; au plus tard le 1-01-2007&gt; § 1er. En application de l'article 1675/10 du Code judiciaire, les organismes de perception des cotisations sociales et les organismes octroyant des prestations sociales sont autorisés à accepter une remise totale ou partielle des montants qui leur sont dus lorsque cette remise est proposée par un médiateur de dettes dans un plan de règlement amiable de dettes, prévu par les dispositions du titre V de la cinquième partie du Code judiciaire, pour autant que les conditions fixées par le Roi soient réunies au moment où le médiateur de dettes saisit les organismes précités.
+<a name="Art.31bis" href="#Art.31">Art.</a> <a href="#Art.31ter"> 31bis</a>.&lt;Inséré par L 2005-12-13/35, art. 28; <b> En vigueur : </b> 01-01-2007&gt; § 1er. En application de l'article 1675/10 du Code judiciaire, les organismes de perception des cotisations sociales et les organismes octroyant des prestations sociales sont autorisés à accepter une remise totale ou partielle des montants qui leur sont dus lorsque cette remise est proposée par un médiateur de dettes dans un plan de règlement amiable de dettes, prévu par les dispositions du titre V de la cinquième partie du Code judiciaire, pour autant que les conditions fixées par le Roi soient réunies au moment où le médiateur de dettes saisit les organismes précités.
 § 2. Le Roi détermine, après avis du Conseil national du travail, et au plus tard pour le [<sup>1</sup> 1er juillet 2010]<sup>1</sup> :
 1° les notions suivantes : " organismes de perception des cotisations sociales ", " organismes octroyant des prestations sociales ", " cotisations sociales " et " montants ";
 2° l'instance compétente, au sein des organismes visés au 1°, pour accepter la proposition de la renonciation visée au § 1er;
@@ -242,7 +242,7 @@ Le dépôt du pli recommandé à la poste interrompt la prescription.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009050603" target="_blank">2009-05-06/03</a>, art. 72, 083; En vigueur : 29-05-2009&gt;
 
-<a name="Art.%2031ter." href="#Art.31bis">Art.</a> <a href="#LNK0004">31ter</a>. [<sup>1</sup> § 1er. Les employeurs ont la possibilité de désigner un mandataire dans le cadre de leur administration sociale.
+<a name="Art.31ter" href="#Art.31bis">Art.</a> <a href="#Art.31quater"> 31ter</a>. [<sup>1</sup> § 1er. Les employeurs ont la possibilité de désigner un mandataire dans le cadre de leur administration sociale.
 § 2. Il existe deux types de mandataires :
 1° les prestataires de services sociaux sont des mandataires qui, au nom et pour le compte d'employeurs, remplissent en relation directe avec les institutions de sécurité sociale, des formalités prévues en matière de sécurité sociale auxquelles les employeurs sont tenus à l'égard desdites institutions.
 Dans les limites du mandat conclu avec l'employeur, ils se chargent d'accompagner les employeurs dans leurs relations avec les institutions telles que définies à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, et de les informer dans ce contexte;
@@ -255,7 +255,7 @@ Dans les limites du mandat conclu avec l'employeur, ils se chargent d'accompagne
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 49, 086; En vigueur : 01-01-2010&gt;
 
-<a name="Art.%2031quater." href="#Art.%2031ter.">Art.</a> <a href="#LNK0004">31quater</a>. [<sup>1</sup> § 1er. Entre l'employeur et son mandataire, un contrat écrit est conclu qui détermine, entre autres, l'objet du mandat, tout en respectant les conditions énoncées ci-après.
+<a name="Art.31quater" href="#Art.31ter">Art.</a> <a href="#LNK0004"> 31quater</a>. [<sup>1</sup> § 1er. Entre l'employeur et son mandataire, un contrat écrit est conclu qui détermine, entre autres, l'objet du mandat, tout en respectant les conditions énoncées ci-après.
 Le mandat peut s'appliquer à la totalité des obligations en matière de sécurité sociale ou à une partie de celles-ci.
 Le Roi peut fixer les obligations en matière de sécurité sociale pour lesquelles un seul mandataire doit être compétent.
 § 2. Avant que celui-ci ne prenne cours, le mandat est notifié à l'Office national de Sécurité sociale ou à l'Office national de Sécurité sociale des administrations provinciales et locales au moyen de l'envoi d'une procuration.
@@ -272,7 +272,7 @@ L'obligation d'information implique que l'ancien mandataire est tenu de fournir 
 
 <a name="LNK0004" href="#LNKR0004">CHAPITRE IV.</a> - Dispositions finales et transitoires
 
-<a name="Art.32" href="#Art.31bis">Art.</a> <a href="#Art.33"> 32</a>. Le Roi est chargé d'apporter aux dispositions légales concernées, les modifications et abrogations nécessaires afin de les mettre en concordance avec les dispositions des articles 1er et 2 et du chapitre III de la présente loi.
+<a name="Art.32" href="#Art.31quater">Art.</a> <a href="#Art.33"> 32</a>. Le Roi est chargé d'apporter aux dispositions légales concernées, les modifications et abrogations nécessaires afin de les mettre en concordance avec les dispositions des articles 1er et 2 et du chapitre III de la présente loi.
 
 <a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>. Les principes définis aux articles 5 à 13 de la présente loi sont mis en oeuvre par voie légale.
 
@@ -566,7 +566,7 @@ Les régimes et les branches précités mettent, pour une durée indéterminée,
 Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le montant des réserves mises à la disposition de l'ONSS-Gestion globale, ainsi que les modalités pour la mise à la disposition de la gestion globale desdites réserves.
 Le Roi peut, par arrêté délibéré en Conseil des Ministres, selon les modalités qu'Il détermine, imposer à l'ONSS-Gestion globale de remettre la totalité ou une partie de ces réserves à la disposition des régimes et des branches précités.
 
-<a name="Art.39ter" href="#Art.39bis">Art.</a> <a href="#Art.39quater"> 39ter</a>. &lt;L 2005-09-17/53, art. 2, 067; <b> En vigueur : </b> 01-01-2005&gt; Une retenue égale au total des taux de cotisations fixés à l'article 38, § 2, est opérée par :
+<a name="Art.39ter" href="#Art.39bis">Art.</a> <a href="#Art.39quater"> 39ter</a>.&lt;L 2005-09-17/53, art. 2, 067; <b> En vigueur : </b> 01-01-2005&gt; Une retenue égale au total des taux de cotisations fixés à l'article 38, § 2, est opérée par :
 - les Assemblées législatives fédérales;
 - la fonction publique administrative telle que définie à l'article 1er de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique;
 - les services qui assurent le paiement de la rémunération du personnel de la police intégrée et l'armée;
@@ -578,11 +578,13 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres, selon les modali
 - les Cours et tribunaux;
 - la Cour des Comptes;
 - le Conseil d'Etat;
-- la Cour d'Arbitrage;
+- la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
 Cette retenue est effectuée :
 a) sur le pécule de vacances accordé aux membres du personnel contractuel visés à l'alinéa 1er;
 b) sur la prime Copernic accordée à certains membres du personnel contractuel visés à l'alinéa 1er;
 c) sur la prime de restructuration accordée aux militaires contractuels visés à l'alinéa 1er.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022103" target="_blank">2010-02-21/03</a>, art. 9, 088; En vigueur : 08-03-2010&gt;
 
 <a name="Art.39quater" href="#Art.39ter">Art.</a> <a href="#Art.40"> 39quater</a>. &lt;Inséré par L 2005-09-17/53, art. 4; <b> En vigueur : </b> 01-01-2005&gt; § 1er. Une retenue égale au total des taux de cotisations fixés à l'article 38, § 2, est opérée pour les membres du personnel nommés à titre définitif des organismes et pouvoirs visés à l'article 39ter. Il en est de même pour les gouverneurs des provinces, les bourgmestres, les échevins, les présidents des Centres publics d'aide sociale et les ministres du culte.
 Cette retenue est effectuée :
