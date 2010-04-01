@@ -56,6 +56,8 @@ E. 15 p.c., avec un maximum de (8,68 EUR) par prestation, des honoraires pour le
 4° les prestations visées sous les numéros de codes :
 442212, 442234, 442411 à 442492, 442610 à 442654, 442816 à 442853, 442934 et 442971, repris à l'article 18 de ladite annexe.
 5° ((Liste non reprise pour motifs techniques. Voir M.B. 07-05-2008, p. 24195-24196)) &lt;AR %%2008-04-13/36%%, art. 1, 143; <b> En vigueur : </b> 01-07-2008&gt;
+&lt;Modifiée par :&gt;
+&lt;AR %%2008-08-21/40%%, art. 1, 149; <b> En vigueur : </b> 01-11-2008&gt;
 6° les prestations visées sous les numéros de codes 532011, 532114 et 532534 à 532571 repris à l'article 21 de ladite annexe.
 7° toutes les prestations reprises aux articles 22, I, (24bis) 32 (33 et 33bis) de ladite annexe. &lt;AR %%2007-06-07/51%%, art. 1, 138; <b> En vigueur : </b> 01-08-2007&gt; &lt;AR %%2008-03-20/37%%, art. 1, 142; <b> En vigueur : </b> 01-06-2008&gt;
 F. (7,44 EUR) pour les honoraires de consultance visés à l'article 17 de ladite annexe sous le numéro de code 460670, (460795). &lt;AR 1995-08-07/33, art. 1, 004; <b> En vigueur : </b> 01-09-1995&gt; &lt;AR %%2001-12-11/43%%, art. 1, 063; <b> En vigueur : </b> 01-01-2002&gt;
