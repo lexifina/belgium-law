@@ -1,2 +1,1 @@
-S'il résulte des coups, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l'usage absolu d'un organe, soit une mutilation grave, les peines seront un emprisonnement de quatre ans à cinq ans et une amende de deux cents euros à cinq cents euros.
-La peine sera celle de la réclusion de sept ans à dix ans si le coupable a agi avec préméditation.
+(Abrogé)
