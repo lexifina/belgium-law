@@ -1,0 +1,3 @@
+Lors de l'examen au fond d'un dossier auquel figure un procès-verbal non classifié visé à l'article 19/1 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, le président peut, soit d'office, soit sur réquisition du ministère public, soit à la demande de l'accusé, de la partie civile ou de leurs avocats, demander au Comité permanent R un avis écrit sur la légalité de la méthode de recueil de données.
+Cette réquisition ou cette demande doit, à peine de déchéance, être soulevée avant tout autre moyen de droit, sauf si ce moyen concerne des éléments concrets et nouveaux qui sont apparus lors de l'audience.
+Le président transmet le dossier au ministère public afin de porter l'affaire à cet effet devant le Comité permanent R.
