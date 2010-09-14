@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2010:ARR.20100914.4",
+  "ecli": "ECLI:BE:CASS:2010:ARR.20100914.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2010-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2010",
+  "published_on_juportal": "2010-10-05",
+  "language": "nl",
+  "role_number": "P.10.1068.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INSTRUCTION EN MATIERE REPRESSIVE",
+    "ONDERZOEK IN STRAFZAKEN",
+    "Méthodes particulières de recherche - Chambre des mises en accusation - Contrôle de la mise en oeuvre des méthodes particulières de recherche d'observation et d'infiltration - Etendue - Arrêt - Nature - Conséquence",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Chambre des mises en accusation - Contrôle de la mise en oeuvre des méthodes particulières de recherche d'observation et d'infiltration - Etendue - Arrêt - Nature - Conséquence",
+    "OPPOSITION",
+    "VERZET",
+    "Chambre des mises en accusation - Contrôle de la mise en oeuvre des méthodes particulières de recherche d'observation et d'infiltration - Arrêt - Caractère - Conséquence",
+    "Bijzondere opsporingsmethoden - Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Omvang - Arrest - Aard - Gevolg",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Omvang - Arrest - Aard - Gevolg",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Arrest - Karakter - Gevolg"
+  ],
+  "fiche": [
+    "ONDERZOEK IN STRAFZAKEN",
+    "Bijzondere opsporingsmethoden - Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Omvang - Arrest - Aard - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 187, eerste lid, en 235ter - 30 ELI link Pub nr 1808111701",
+    "ONDERZOEKSGERECHTEN",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Omvang - Arrest - Aard - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 187, eerste lid, en 235ter - 30 ELI link Pub nr 1808111701",
+    "VERZET",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethoden observatie en infiltratie - Arrest - Karakter - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 187, eerste lid, en 235ter - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2010:ARR.20100914.4",
+  "source_sha256": "676397a678bc63f70fcb490beef157b7a50d548dcc1f74ebe54457f045c6ffef",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2010:ARR.20100914.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
