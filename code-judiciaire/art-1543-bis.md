@@ -1,0 +1,1 @@
+Le créancier opposant nanti d'un titre exécutoire, peut, sommation préalablement faite au saisissant et sans former aucune demande en subrogation, faire procéder, par l'huissier de justice instrumentant au dessaisissement du tiers saisi conformément à l'article 1543.
