@@ -1,4 +1,11 @@
-Lorsqu'une délégation est demandée en vertu des articles 203ter, 221, 301bis, du Code civil ou 1280, cinquième alinéa, du présent Code, le greffier de la juridiction saisie joint au dossier le relevé des avis prévus (aux articles 1390, 1390bis et 1390ter), s'il en existe.
-Si les revenus ou les sommes sur lesquels porte la demande font déjà l'objet d'une délégation ou d'une saisie pour cause d'aliments, le greffier notifie sous pli judiciaire au bénéficiaire de la délégation ou au saisissant, pour le mettre à la cause, une copie de la requête ou de la citation avec invitation à comparaître.
-Le défendeur peut également mettre à la cause les créanciers auxquels il a été condamné à payer des aliments mais qui ne bénéficient pas d'une délégation et qui n'ont pas pratiqué de saisie.
-Les parties entendues, le juge détermine, au besoin, la répartition à opérer entre les créanciers d'aliments.
+§ 1er. Dans les vingt-quatre heures du prononcé de la décision d'admissibilité visée à l'article 1675/6, le greffier adresse au fichier des avis, un avis de règlement collectif de dettes relatant:
+1° les nom, prénoms, date de naissance et domicile du requérant;
+2° les nom, prénoms, profession et domicile et/ou bureau, ou la dénomination et le siège du médiateur de dettes;
+3° la date de la décision d'admissibilité;
+4° (le tribunal du travail) territorialement compétent et la référence du greffe.
+§ 2. Le médiateur de dettes fait mentionner par le greffier sur l'avis de règlement collectif de dettes:
+1° la date de la révocation de la décision d'admissibilité;
+2° la date de la décision de remplacement du médiateur de dettes;
+3° en cas de plan de règlement amiable, la date de la décision actant l'accord intervenu, la date à laquelle le procès-verbal visé à l'article 1675/11, § 1er, alinéa 1er, est transmis au juge, le terme du plan de règlement collectif de dettes et la date de révocation du plan de règlement collectif de dettes;
+4° en cas de plan de règlement judiciaire, la date de la décision imposant le plan de règlement collectif de dettes, la date de la décision de rejet de la demande, le terme du plan de règlement collectif de dettes et la date de révocation du plan de règlement collectif de dettes;
+Dans tous ces cas, le médiateur de dettes adresse, à l'intervention du greffe ou d'un huissier de justice, sans délai, au fichier des avis, un avis qui relate également les nom, prénoms, date de naissance et domicile du requérant concerné, ainsi que la référence à l'avis de règlement collectif de dettes concerné.
