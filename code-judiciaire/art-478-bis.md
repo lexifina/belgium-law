@@ -9,7 +9,7 @@
 7° un chargé de cours ou un professeur d'université de droit nommé dans une université dépendant de la Communauté flamande, désigné par le Roi par arrêté délibéré en Conseil des ministres.
 Le Roi fixe les modalités d'application du présent paragraphe.
 § 3. La commission comporte autant de membres d'expression française que d'expression néerlandaise.
-Pour chaque membre effectif il est désigné un membre suppléant.
+Pour chaque membre effectif il est désigné un membre suppléant de même expression.
 Le mandat des membres effectifs et suppléants à une durée de 4 ans et est renouvelable.
 § 4. La commission désigne en son sein et pour une période de deux ans son président et son vice-président, qui remplace le président le cas échéant, ainsi qu'un secrétaire, en respectant une alternance néerlandophone et francophone.
 Elle établit son règlement d'ordre intérieur.
