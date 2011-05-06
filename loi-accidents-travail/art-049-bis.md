@@ -12,3 +12,4 @@ Le Roi détermine, sur la proposition des ministres qui ont les accidents du tra
 6° les modalités de notification des mesures de prévention proposées à l'employeur, aux conseillers en prévention interne ou externe et, selon le cas, au comité pour la prévention et la protection au travail, à la délégation syndicale ou aux travailleurs visés au chapitre VIII de la loi du 4 août 1996 sur le bien-être des travailleurs lors de l'exécution de leur travail;
 7° le montant et les conditions d'application de la majoration visée à l'alinéa 3.
 8° les modalités d'application du présent article en cas d'occupation d'intérimaires;
+9° les conditions et les modalités selon lesquelles une réclamation peut être déposée auprès du Comité de gestion du Fonds, ainsi que les conditions selon lesquelles cette réclamation suspend le recouvrement de la contribution forfaitaire de prévention.
