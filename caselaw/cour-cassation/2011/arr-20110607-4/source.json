@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2011:ARR.20110607.4",
+  "ecli": "ECLI:BE:CASS:2011:ARR.20110607.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2011-06-07",
+  "date_as_printed": "Vonnis/arrest van 07 juni 2011",
+  "published_on_juportal": "2011-06-16",
+  "language": "nl",
+  "role_number": "P.11.0898.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Chambre des mises en accusation - Contrôle de la mise en oeuvre de la méthode particulière de recherche d'observation - Autorisation d'observation pour une période bien déterminée - Constatation",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "INSTRUCTION EN MATIERE REPRESSIVE",
+    "ONDERZOEK IN STRAFZAKEN",
+    "Méthode particulière de recherche d'observation - Autorisation d'observation - Décision écrite confirmant la délivrance d'une autorisation - Mention de la période au cours de laquelle l'observation peut être mise en oeuvre",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethode observatie - Machtiging tot observatie voor een welomschreven periode - Vaststelling",
+    "Bijzondere opsporingsmethode van observatie - Machtiging tot observatie - Schriftelijke beslissing tot bevestiging van het bestaan van een verleende machtiging - Vermelding van de periode tijdens dewelke de observatie kan worden uitgevoerd"
+  ],
+  "fiche": [
+    "ONDERZOEKSGERECHTEN",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethode observatie - Machtiging tot observatie voor een welomschreven periode - Vaststelling",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 47sexies, 47septies en 235ter, § 3 - 30 ELI link Pub nr 1808111701",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Kamer van inbeschuldigingstelling - Controle over de toepassing van de bijzondere opsporingsmethode observatie - Machtiging tot observatie voor een welomschreven periode - Vaststelling",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 47sexies, 47septies en 235ter, § 3 - 30 ELI link Pub nr 1808111701",
+    "ONDERZOEK IN STRAFZAKEN",
+    "Bijzondere opsporingsmethode van observatie - Machtiging tot observatie - Schriftelijke beslissing tot bevestiging van het bestaan van een verleende machtiging - Vermelding van de periode tijdens dewelke de observatie kan worden uitgevoerd"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2011:ARR.20110607.4",
+  "source_sha256": "4352c5bd829c22d3bbf47b1380b24576651035a93ca87f9829cdacd5c634fe34",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2011:ARR.20110607.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
