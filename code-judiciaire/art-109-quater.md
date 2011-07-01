@@ -1,2 +1,1 @@
-Les causes pour lesquelles aucune fixation ne peut être accordée pour une date éloignée de moins de six mois de la date de la demande peuvent également être attribuées aux chambres supplémentaires.
-Toutefois, les causes sont attribuées à une chambre ordinaire pour autant que l'une des parties en fasse, sans autres formalités, la demande par écrit au premier président, au plus tard un mois après la notification de la fixation devant la chambre supplémentaire.
+(Abrogé)
