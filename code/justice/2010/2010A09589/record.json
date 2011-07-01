@@ -1,0 +1,23 @@
+{
+  "id": "2010A09589",
+  "act": "code/justice/2010/2010A09589",
+  "title": "6 JUIN 2010. - Code pénal social",
+  "version": "001",
+  "versions_total": 75,
+  "official": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2010-07-01&numac_search=2010A09589&page=1&lg_txt=F&caller=list&2010A09589=1&trier=promulgation&fr=f",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&arch=001&fr=f&trier=promulgation&lg_txt=F&type=&sort=&numac_search=2010A09589&cn_search=&caller=list&&view_numac=2010a09589f",
+  "source_sha256": "cfd08efc1597b0aec67fe3cb93ffa72ed4eb72c080cc605c818d44900303ea85",
+  "source_issuer": "Justice",
+  "made": "2010-06-06",
+  "published": "2010-07-01",
+  "in_force": "2011-07-01",
+  "source_in_force": "2011-07-01",
+  "in_force_basis": "oldest Justel version: latest of the act's Entrée en vigueur (1 juillet 2011) and the dated En vigueur notes in its text before this version's end (2011-02-01)",
+  "amended_by": "",
+  "future_text": false,
+  "provisions": 237,
+  "independent_source_tokens": 48473,
+  "archive_note": "",
+  "history": "justel-archived-versions",
+  "checked_on": "2026-11-16"
+}
