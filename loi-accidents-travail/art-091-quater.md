@@ -1,3 +1,1 @@
-Sans préjudice des articles 269 à 274 du Code pénal,
-1° sont punis d'un emprisonnement de huit jours à un mois et d'une amende de 26 à 500 francs ou d'une de ces peines seulement, l'employeur, ses préposés ou ses mandataires qui ne se sont pas conformés aux obligations qui leur sont imposées par ou en vertu de la présente loi;
-2° est punie, dans les conditions prévues par l'article 15, 2°, de la loi du 16 novembre 1972 concernant l'inspection du travail, toute personne non visée à l'article 91ter qui met obstacle à la surveillance organisée en vertu de la présente loi et de ses arrêtés d'exécution.
+abrogé
