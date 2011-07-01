@@ -2,7 +2,7 @@
 
 <a name="LNK0002" href="#LNKR0002">CHAPITRE I.</a> - Dispositions générales.
 
-<a name="Art.1"></a>Article <a href="#Art.2">1</a>. La présente loi règle une matière visée à l'article 78 de la Constitution.
+<a name="Art.1"></a>Article <a href="#Art.2"> 1</a>. La présente loi règle une matière visée à l'article 78 de la Constitution.
 
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Toute personne a droit à l'intégration sociale. Ce droit peut, dans les conditions fixées par la présente loi, prendre la forme d'un emploi et/ou d'un revenu d'intégration, assortis ou non d'un projet individualisé d'intégration sociale.
 Les centres publics d'aide sociale ont pour mission d'assurer ce droit.
@@ -234,7 +234,8 @@ Lorsque la lésion ou la maladie résulte d'une infraction, l'action peut être 
 L'intéressé peut faire valoir des raisons d'équité justifiant que le remboursement ne soit pas poursuivi.
 Aucune récupération ne doit être entreprise si les coûts ou les démarches inhérents à cette récupération dépassent le résultat escompté.
 
-<a name="Art.29" href="#Art.28">Art.</a> <a href="#LNK0016"> 29</a>.§ 1. L'action en remboursement visée à l'article 24, § 1 et l'action visée à l'article 27, alinéa 1, se prescrivent conformément à l'article [<sup>1</sup> 2277 du Code civil]<sup>1</sup>.
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#LNK0016"> 29</a>.
+§ 1. L'action en remboursement visée à l'article 24, § 1 et l'action visée à l'article 27, alinéa 1, se prescrivent conformément à l'article [<sup>1</sup> 2277 du Code civil]<sup>1</sup>.
 § 2. L'action en remboursement visée à l'article 26 se prescrit conformément à l'article 2277 du Code civil.
 § 3. L'action visée à l'article 27, alinéa 2, se prescrit conformément à l'article 2262bis, § 1, alinéas 2 et 3, du Code civil.
 § 4. Ces prescriptions peuvent être interrompues par une sommation faite soit par lettre recommandée à la poste, soit contre accusé de réception.
@@ -251,10 +252,18 @@ La sanction prévue à l'alinéa 1 prend cours le premier jour du deuxième mois
 § 3. Les sanctions administratives visées aux §§ 1 et 2 sont prononcées par le centre compétent visé à l'article 18, § 1, et leur exécution peut, s'il y a lieu, être poursuivie par le centre qui devient ultérieurement compétent et ce pour la durée d'application de la sanction.
 Les règles de la procédure déterminée par les articles 20, 21, §§ 2, 3 et 4 et l'article 47 sont d'application.
 
-<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>. Sans préjudice de l'application d'autres dispositions pénales, notamment celles de l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature qui sont, en tout ou en partie, à charge de l'Etat, est puni d'un emprisonnement de huit jours à un mois et d'une amende de 26 EUR à 500 EUR ou d'une de ces peines seulement :
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>.Sans préjudice de l'application d'autres dispositions pénales, notamment celles de l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature qui sont, en tout ou en partie, à charge de l'Etat, est puni d'un emprisonnement de huit jours à un mois et d'une amende de 26 EUR à 500 EUR ou d'une de ces peines seulement :
 1. le bénéficiaire visé à l'article 30, § 1, qui a agi avec une intention frauduleuse.
 2. toute personne qui fait sciemment des déclarations ou des attestations fausses relatives à l'état de santé ou à la situation sociale de l'intéressé, dans le but de faire octroyer à celui-ci un revenu d'intégration, auquel il n'est pas en droit de prétendre.
 Les dispositions du livre I du Code pénal, y compris celles du chapitre VII et de l'article 85, sont applicables aux infractions prévues par le présent article.
+
+[
+DROIT FUTUR
+[
+
+<i>Art. 31. [<sup><font color="red">1</font></sup> Les infractions aux dispositions de la présente loi et de ses arrêté d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.<br>   Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup><font color="red">1</font></sup></i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 94, 011; En vigueur : indéterminée , au plus tard le 01-07-2011&gt;
 
 <a name="LNK0017" href="#LNKR0017">CHAPITRE VI.</a> - De la subvention de l'Etat.
 
