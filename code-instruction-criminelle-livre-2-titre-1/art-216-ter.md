@@ -14,7 +14,8 @@ En cas d'inexécution totale ou partielle du travail d'intérêt général, l'as
 § 3. Lorsqu'une confiscation spéciale peut être appliquée, le procureur du Roi invite l'auteur de l'infraction à abandonner, dans un délai déterminé, les objets saisis qui lui appartiennent; si ceux-ci n'ont pas été saisis, le procureur du Roi peut inviter l'auteur à les remettre à un endroit déterminé.
 § 4. Lorsque l'auteur de l'infraction a satisfait à toutes les conditions, acceptées par lui, l'action publique est éteinte.
 L'extinction de l'action publique ne porte pas préjudice aux droits des personnes subrogées dans les droits de la victime ou des victimes qui n'ont pas été associées à la procédure prévue au § 1er: a leur égard, la faute de l'auteur de l'infraction est présumée irréfragablement.
-§ 5. Les paragraphes 2 et 3 de l'article 216bis, sont d'application.
+§ 5. Le droit accordé au procureur du Roi par le § 1er ne peut être exercé lorsque le tribunal est déjà saisi du fait ou lorsque le juge d'instruction est requis d'instruire.
+Le droit prévu au § 1er appartient aussi, pour les mêmes infractions, à l'auditeur du travail, et, à l'égard des personnes visées aux articles 479 et 483, au procureur général près la cour d'appel.
 § 6. L'auteur de l'infraction, convoqué par le procureur du Roi en exécution du présent article, peut se faire assister par un avocat; il ne peut pas se faire représenter.
 La victime peut se faire assister ou représenter par un avocat.
 § 7. Le Service des Maisons de justice du SPF Justice assiste le procureur du Roi dans les différentes phases de la médiation pénale et plus spécifiquement dans son exécution concrète. Les agents de ce service effectuent leur mission en collaboration étroite avec le procureur du Roi, qui a le contrôle de l'évolution du dossier.
