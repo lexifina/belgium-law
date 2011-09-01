@@ -73,7 +73,7 @@ Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions min
 
 <a name="LNK0007" href="#LNKR0007">CHAPITRE I.</a> - Montant du revenu d'intégration.
 
-<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. (NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 14, § 1er, 1°, en ce qu'il traite de la même manière tous les cohabitants sans tenir compte de la charge d'enfants et l'article 14, § 1er, 2°, en tant qu'il comprend la catégorie des personnes qui s'acquittent d'une part contributive pour un enfant placé, fixée par le tribunal de la jeunesse ou les autorités administratives dans le cadre de l'aide ou de la protection de la jeunesse)
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>.(NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 14, § 1er, 1°, en ce qu'il traite de la même manière tous les cohabitants sans tenir compte de la charge d'enfants et l'article 14, § 1er, 2°, en tant qu'il comprend la catégorie des personnes qui s'acquittent d'une part contributive pour un enfant placé, fixée par le tribunal de la jeunesse ou les autorités administratives dans le cadre de l'aide ou de la protection de la jeunesse)
 (NOTE : par son arrêt n° 123/2006 du 28-07-2006 (M.B. 01-09-2006, p. 43897-43903), la Cour d'Arbitrage a annulé le mot " exclusivement " dans l'article 14, § 1er, 3° de cet article)
 § 1er. (Le revenu d'intégration s'élève à :
 1° 4 400 EUR pour toute personne cohabitant avec une ou plusieurs personnes.
@@ -107,6 +107,19 @@ Le Roi peut assimiler d'autres catégories de personnes à des sans-abri.
 (4.578,21); &lt;Erratum, voir M.B. 02-12-2004, p. 80685&gt;
 6.867,31;
 9156,42; voir AR 2004-09-03/32, art. 2)
+(NOTE : Suite à l'application du mécanisme légal de liaison au bien-être, les montants de base du revenu d'intégration sont fixés comme suit à partir du 1er septembre 2011 :
+Catégorie 1 (personne cohabitant) euro 4.858,43.
+Catégorie 2 (personne isolée) euro 7.287,65.
+Catégorie 3 (personne vivant avec une famille à sa charge) euro 9.716,87.
+Cela signifie concrètement que les nouveaux montants sont applicables à partir du 1er septembre 2011.
+Le coefficient d'indexation applicable est 1,2682.
+Mode de calcul : montant de base x 1,2682 (= 1,02<sup>12</sup>).
+
+Montants du revenu d'intégration au 1er septembre 2011
+
+<table border="1"><br>   <br>   <tr><td></td><td>Montant de base </td><td>Revenu d'intégration sur une base annuelle au 1er septembre 2011</td><td>Revenu d'intégration sur une base mensuelle au 1er septembre 2011<br>   </td></tr><tr><td>Catégorie 1 Personne cohabitant</td><td> euro 4.858,43</td><td> euro 6.161,46</td><td> euro 513,46<br>   </td></tr><tr><td>Catégorie 2 Personne isolée</td><td> euro 7.287,65</td><td> euro 9.242,20</td><td> euro 770,18<br>   </td></tr><tr><td>Catégorie 3 Personne qui cohabite avec une famille à sa charge</td><td> euro 9.716,87</td><td> euro 12.322,93</td><td> euro 1.026,91</td></tr></table>
+
+; voir DIVERS <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011082301" target="_blank">2011-08-23/01</a>, art. M, 012; En vigueur : 01-09-2011)
 
 <a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0008"> 15</a>. Les montants visés à l'article 14, § 1, alinéa 1, sont rattachés à l'indice 103,14 applicable au 1er juin 1999 (base 1996 = 100) des prix à la consommation.
 Ils varient conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
@@ -252,18 +265,10 @@ La sanction prévue à l'alinéa 1 prend cours le premier jour du deuxième mois
 § 3. Les sanctions administratives visées aux §§ 1 et 2 sont prononcées par le centre compétent visé à l'article 18, § 1, et leur exécution peut, s'il y a lieu, être poursuivie par le centre qui devient ultérieurement compétent et ce pour la durée d'application de la sanction.
 Les règles de la procédure déterminée par les articles 20, 21, §§ 2, 3 et 4 et l'article 47 sont d'application.
 
-<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>.Sans préjudice de l'application d'autres dispositions pénales, notamment celles de l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature qui sont, en tout ou en partie, à charge de l'Etat, est puni d'un emprisonnement de huit jours à un mois et d'une amende de 26 EUR à 500 EUR ou d'une de ces peines seulement :
-1. le bénéficiaire visé à l'article 30, § 1, qui a agi avec une intention frauduleuse.
-2. toute personne qui fait sciemment des déclarations ou des attestations fausses relatives à l'état de santé ou à la situation sociale de l'intéressé, dans le but de faire octroyer à celui-ci un revenu d'intégration, auquel il n'est pas en droit de prétendre.
-Les dispositions du livre I du Code pénal, y compris celles du chapitre VII et de l'article 85, sont applicables aux infractions prévues par le présent article.
-
-[
-DROIT FUTUR
-[
-
-<i>Art. 31. [<sup><font color="red">1</font></sup> Les infractions aux dispositions de la présente loi et de ses arrêté d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.<br>   Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup><font color="red">1</font></sup></i>
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0017"> 31</a>. [<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêté d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 94, 011; En vigueur : indéterminée , au plus tard le 01-07-2011&gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 94, 011; En vigueur : 01-07-2011&gt;
 
 <a name="LNK0017" href="#LNKR0017">CHAPITRE VI.</a> - De la subvention de l'Etat.
 
@@ -344,11 +349,11 @@ Si l'incompétence du centre est soulevée lors de l'audience introductive, le g
 <a name="LNK0025" href="#LNKR0025">CHAPITRE VIII.</a> - Dispositions finales et abrogatoires.
 
 <a name="Art.48" href="#Art.47">Art.</a> <a href="#Art.49"> 48</a>. § 1. L'article 580, 8°, c) du Code judiciaire est complété par l'alinéa suivant :
-" la loi du... instaurant le droit à l'intégration sociale, en ce qui concerne les contestations relatives à l'octroi, à la révision, au refus et au remboursement par le benéficiaire de l'intégration sociale et à l'application des sanctions administratives prévues par la législation en la matière. "
+" la loi du... instaurant le droit à l'intégration sociale, en ce qui concerne les contestations relatives à l'octroi, à la révision, au refus et au remboursement par le bénéficiaire de l'intégration sociale et à l'application des sanctions administratives prévues par la législation en la matière. "
 § 2. Dans l'article 728, § 3, alinéa 3, du même Code, modifié par la loi du 30 juin 1971, les mots " relatifs au minimum de moyens d'existence " sont remplacés par les mots " relatifs au minimum de moyens d'existence et au droit à l'intégration sociale ".
 
 <a name="Art.49" href="#Art.48">Art.</a> <a href="#Art.50"> 49</a>. Dans le délai requis par le Ministre, le centre fournit au ministère des Affaires sociales, de la Santé publique et de l'Environnement toutes les données nécessaires en vue d'établir des statistiques relatives à l'évolution de l'application de la présente loi.
-Le Roi peut determiner la nature et les modalités de communication de ces données.
+Le Roi peut déterminer la nature et les modalités de communication de ces données.
 
 <a name="Art.50" href="#Art.49">Art.</a> <a href="#Art.51"> 50</a>. § 1. Le Roi peut, par arrêté délibéré en Conseil des Ministres, majorer les montants du revenu d'intégration visés à l'article 14, § 1.
 § 2. Le Roi peut fixer les modalités de liaison au bien-être des montants visés a l'article 14, § 1, loi par analogie au coefficient de revalorisation qui existe dans la loi du 28 mars 1973.
