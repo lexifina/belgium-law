@@ -1,4 +1,1 @@
-. Lorsqu'un bail relatif au logement qui constitue la résidence principale du preneur vient à échéance ou prend fin par l'effet d'un congé donné par le bailleur, le preneur peut demander une prorogation.
-A peine de nullité, cette prorogation est demandée au bailleur par lettre recommandée à la poste, au plus tard un mois avant l'expiration du bail..
-La prorogation ne peut être accordée que compte tenu de l'intérêt des deux parties et à la condition que le preneur justifie de circonstances exceptionnelles. Sauf accord exprès des parties, le juge détermine la durée de la prorogation sans qu'elle puisse toutefois excéder un an. Dans ce cas, le juge peut, s'il l'estime équitable, accorder, à la demande du bailleur, une augmentation de loyer.
-la prorogation ne peut pas être demandée au nouveau propriétaire en cas d'aliénation du bien, ni aux ayants droits en cas de décès. Toutefois, s'il n'a pas été fixé de terme de bail, la prorogation peut être demandée au nouveau propriétaire lorsqu'un congé est donné plus de deux ans après l'aliénation du bien..
+(Abrogé)
