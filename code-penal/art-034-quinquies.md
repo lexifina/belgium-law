@@ -1,0 +1,1 @@
+Dans le cas où la mise à la disposition du tribunal de l'application des peines n'est pas légalement obligatoire, les procédures relatives aux infractions qui forment la base de la récidive sont jointes au dossier de la poursuite et les motifs de la décision y sont spécifiés.
