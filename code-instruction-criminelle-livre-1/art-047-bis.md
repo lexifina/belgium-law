@@ -1,9 +1,26 @@
-Lors de l'audition de personnes, entendues en quelque qualité que ce soit, l'on respectera au moins les règles suivantes:
-1. Au début de toute audition, il est communiqué à la personne interrogée:
+§ 1er. Lors de l'audition de personnes, entendues en quelque qualité que ce soit, il y a lieu de respecter au moins les règles suivantes:
+1. Au début de toute audition, la personne interrogée est informée succinctement des faits sur lesquels elle sera entendue et il lui est communiqué:
 a) qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés;
-b) qu'elle peut demander qu'il soit procédé à tel acte d'information ou telle audition;
-c) que ses déclarations peuvent êtres utilisées comme preuve en justice.
+b) qu'elle peut demander qu'il soit procédé à un acte d'information ou une audition déterminés;
+c) que ses déclarations peuvent être utilisées comme preuve en justice;
+d) qu'elle ne peut être contrainte de s'accuser elle-même.
+Tous ces éléments sont consignés avec précision dans le procès-verbal d'audition.
 2. Toute personne interrogée peut utiliser les documents en sa possession, sans que cela puisse entraîner le report de l'interrogatoire. Elle peut, lors de l'interrogatoire ou ultérieurement, exiger que ces documents soient joints au procès-verbal d'audition ou déposés au greffe.
 3. Le procès-verbal mentionne avec précision l'heure à laquelle l'audition prend cours, est éventuellement interrompue, reprend, et prend fin. Il mentionne avec précision l'identité des personnes qui interviennent à l'interrogatoire ou à une partie de celui-ci ainsi que le moment de leur arrivée et de leur départ. Il mentionne également les circonstances particulières et tout ce qui peut éclairer d'un jour particulier la déclaration ou les circonstances dans lesquelles elle a été faite.
 4. A la fin de l'audition, le procès-verbal est donné en lecture à la personne interrogée, à moins que celle-ci ne demande que lecture lui en soit faite. Il lui est demandé si ses déclarations ne doivent pas être corrigées ou complétées.
 5. Si la personne interrogée souhaite s'exprimer dans une autre langue que celle de la procédure, soit il est fait appel à un interprète assermenté, soit il est noté ses déclarations dans sa langue, soit il lui est demandé de noter elle-même sa déclaration. Si l'interrogatoire a lieu avec l'assistance d'un interprète, son identité et sa qualité sont mentionnées.
+§ 2. Sans préjudice du § 1er, avant qu'il ne soit procédé à l'audition d'une personne sur des infractions qui peuvent lui être imputées, la personne à interroger est informée succinctement des faits sur lesquels elle sera entendue et il lui est communiqué:
+1° qu'elle ne peut être contrainte de s'accuser elle-même;
+2° qu'elle a le choix, après avoir décliné son identité, de faire une déclaration, de répondre aux questions qui lui sont posées ou de se taire;
+3° qu'elle a le droit, avant la première audition, de se concerter confidentiellement avec un avocat de son choix ou avec un avocat qui lui est désigné, pour autant que les faits qui peuvent lui être imputés concernent une infraction dont la sanction peut donner lieu à la délivrance d'un mandat d'arrêt, à l'exception des délits visés à l'article 138, 6°, 6°bis et 6°ter.
+Si la personne à interroger dispose de ressources insuffisantes, les articles 508/13 à 508/18 du Code judiciaire relatifs au bénéfice de la gratuité complète ou partielle de l'aide juridique de deuxième ligne sont intégralement applicables.
+Seule la personne majeure à interroger peut renoncer volontairement et de manière réfléchie au droit visé à l'alinéa 1er, 3°. Elle doit procéder à la renonciation par écrit, dans un document daté et signé par elle.
+Si la première audition a lieu sur convocation écrite, les droits énoncés à l'alinéa 1er, 1°, 2° et 3°, ainsi que la communication succincte des faits sur lesquels la personne à interroger sera entendue, peuvent déjà être notifiés dans cette convocation, laquelle est jointe en copie au procès-verbal d'audition. En pareil cas, la personne concernée est présumée avoir consulté un avocat avant de se présenter à l'audition.
+Si l'audition n'a pas lieu sur convocation ou si la convocation ne mentionne pas les éléments repris à l'alinéa 4, l'audition peut être reportée une seule fois à la demande de la personne à interroger, afin de lui donner la possibilité de consulter un avocat.
+Tous ces éléments sont consignés avec précision dans un procès-verbal.
+§ 3. Sans préjudice des §§ 1er et 2, alinéa 1er, 1° et 2°, toute personne privée de sa liberté conformément aux articles 1er, 2, 3, 15bis et 16 de la loi du 20 juillet 1990 relative à la détention préventive est informée qu'elle jouit des droits énoncés aux articles 2bis, 15bis et 16 de la même loi.
+§ 4. Une déclaration écrite des droits prévus aux §§ 2 et 3 est remise à la personne visée aux §§ 2 et 3 avant la première audition.
+La forme et le contenu de cette déclaration des droits sont fixés par le Roi.
+§ 5. Si, au cours de l'audition d'une personne qui n'était pas considérée initialement comme un suspect, il s'avère que certains éléments laissent présumer que des faits peuvent lui être imputés, cette personne est informée des droits dont elle jouit en vertu du § 2 et, le cas échéant du § 3, et la déclaration écrite visée au § 4 lui est remise.
+§ 6. Aucune condamnation ne peut être prononcée contre une personne sur le seul fondement de déclarations qu'elle a faites en violation des §§ 2, 3 et 5 à l'exclusion du § 4, en ce qui concerne la concertation confidentielle préalable ou l'assistance d'un avocat au cours de l'audition.
+§ 7. Sans préjudice des droits de la défense, l'avocat est tenu de garder secrètes les informations dont il acquiert la connaissance en apportant son assistance pendant les auditions conformément aux articles 2bis, § 2, et 16, § 2, de la loi du 20 juillet 1990 relative à la détention préventive. Celui qui viole ce secret est puni des peines prévues à l'article 458 du Codé pénal.
