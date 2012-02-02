@@ -1,4 +1,4 @@
-Dans les cas visés ci-après, si le crime ou le délit a été commis envers un mineur ou envers une personne qui, en raison de sont état physique ou mental, n'était pas à même de pourvoir à son entretien, les peines seront les suivantes:
+Dans les cas visés ci-après, si le crime ou le délit a été commis envers un mineur ou envers une personne dont la situation de vulnérabilité en raison de l'âge, d'un état de grossesse, d'une maladie, d'une infirmité ou d'une déficience physique ou mentale était apparente ou connue de l'auteur des faits, les peines seront les suivantes:
 1° dans les cas visés à l'article 398, alinéa 1er, les peines seront un emprisonnement d'un mois à un an et une amende de vingt-six euros à cent euros;
 2° dans les cas visés à l'article 398, alinéa 2, les peines seront un emprisonnement de deux mois à deux ans et une amende de cinquante euros à deux cents euros;
 3° dans les cas visés à l'article 399, alinéa 1er, les peines seront un emprisonnement de quatre mois à quatre ans et une amende de cinquante euros à deux cents euros;

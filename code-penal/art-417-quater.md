@@ -2,7 +2,7 @@ Quiconque soumettra une personne à un traitement inhumain sera puni de réclusi
 L'infraction visée à l'alinéa premier sera punie de dix ans à quinze ans de réclusion dans les cas suivants:
 1° lorsqu'elle aura été commise:
 a) soit par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l'occasion de l'exercice de ses fonctions;
-b) soit envers une personne particulièrement vulnérable en raison d'un état de grossesse, d'une maladie, d'une infirmité ou d'une déficience physique ou mentale ou en raison d'une situation précaire;
+b) soit envers une personne dont la situation de vulnérabilité en raison de l'âge, d'un état de grossesse, d'une maladie, d'une infirmité ou d'une déficience physique ou mentale ou en raison de sa situation précaire était apparente ou connue de l'auteur des faits;
 c) soit envers un mineur;
 2° ou lorsque l'acte a causé une maladie paraissant incurable, une incapacité permanente physique ou psychique, la perte complète d'un organe ou de l'usage d'un organe, ou une mutilation grave.
 L'infraction visée à l'alinéa premier sera punie de quinze ans à vingt ans de réclusion:
