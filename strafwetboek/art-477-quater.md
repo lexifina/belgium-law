@@ -1,0 +1,1 @@
+Met diefstal of afpersing van kernmateriaal, gepleegd door middel van geweld of bedreiging, wordt gelijkgesteld het geval waarin de dief of de afperser op heterdaad betrapt, geweld heeft gepleegd of bedreigingen heeft geuit, ofwel om het ontvreemde kernmateriaal in zijn bezit te houden, ofwel om zijn vlucht te dekken.

@@ -1,0 +1,1 @@
+Met gevangenisstraf van acht dagen tot twee jaar en met geldboete van zesentwintig euro tot duizend euro, of met een van die straffen alleen, wordt gestraft hij die een stuk dat hij onder zich heeft en waarvan de overlegging in rechte bij een vonnis wordt bevolen, bedrieglijk vernietigt, verandert of verbergt.

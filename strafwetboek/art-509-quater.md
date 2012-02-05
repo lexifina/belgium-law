@@ -1,0 +1,1 @@
+Met gevangenisstraf van acht dagen tot drie maanden en met geldboete van tweehonderd euro tot vijftienhonderd euro of met een van die straffen alleen wordt gestraft de deskundige die, wetende dat een rechtstreekse betaling niet toegelaten is, deze toch aanvaardt van een partij in het geding.

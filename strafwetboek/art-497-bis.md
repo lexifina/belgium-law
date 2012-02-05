@@ -1,0 +1,2 @@
+Met gevangenisstraf van acht dagen tot zes maanden en met geldboete van zesentwintig euro tot vijfhonderd euro worden gestraft zij die munten waaraan de schijn is gegeven van munten van grotere waarde, ontvangen of zich aanschaffen met het doel die in omloop te brengen.
+Poging wordt gestraft met gevangenisstraf van acht dagen tot drie maanden en met geldboete van zesentwintig euro tot duizend euro.

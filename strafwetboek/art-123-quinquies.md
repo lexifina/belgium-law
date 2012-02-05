@@ -1,0 +1,2 @@
+De verbeurdverklaring van de zaken die gediend hebben of bestemd waren om het misdrijf te plegen, wordt altijd uitgesproken, evenals de verbeurdverklaring van de plans, kaarten, geschriften, bescheiden, afschriften, opmetingen, fotografische opnamen, gezichten, reprodukties en alle andere door het misdrijf verkregen zaken.
+(In de gevallen van de artikelen 119, 120, 120bis, 121bis, 122bis en 123quater, kunnen de tot gevangenisstraf veroordeelden verwezen worden tot levenslange of tijdelijke ontzetting van de rechten, genoemd in artikel 31, eerste lid.)

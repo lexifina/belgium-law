@@ -1,0 +1,1 @@
+Deze titel is niet van toepassing op handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht, noch op de handelingen van de strijdkrachten van een Staat in het kader van de uitoefening van hun officiële taken, voorzover die handelingen onderworpen zijn aan andere bepalingen van internationaal recht.

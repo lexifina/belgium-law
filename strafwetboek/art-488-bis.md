@@ -1,0 +1,5 @@
+§ 1. Hij die opzettelijk en zonder vergunning, verleend door het bevoegd gezag, of niet op de voorwaarden daarin gesteld, zich kernmateriaal laat afgeven, dan wel zodanig materiaal verkrijgt, in zijn bezit houdt, gebruikt, verandert, afstaat, achterlaat, vervoert of verspreidt, wordt gestraft met (opsluiting van vijf jaar tot tien jaar).
+§ 2. De straf is (opsluiting) van tien jaar tot vijftien jaar, indien het strafbaar feit voor een ander heeft veroorzaakt:
+1° hetzij een ongeneeslijk lijkende ziekte, een blijvende ongeschiktheid tot het verrichten van persoonlijke arbeid, het volledig verlies van het gebruik van een orgaan of een zware verminking;
+2° de algemene of gedeeltelijke vernietiging van gebouwen, bruggen, dijken, straatwegen, spoorwegen, sluizen, magazijnen, werkplaatsen, loodsen, schepen, vaartuigen, vliegtuigen of andere kunstwerken of bouwwerken die aan een ander toebehoren.
+§ 3. Indien het strafbaar feit, gepleegd zonder het oogmerk om te doden, toch de dood heeft veroorzaakt, wordt de schuldige gestraft met (opsluiting) van vijftien tot twintig jaar.

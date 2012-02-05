@@ -1,0 +1,1 @@
+Hij die, in weerwil van de vervallenverklaring die voortvloeit uit de toepassing van artikel 123sexies, § 1 of § 2, rechtstreeks of door een tussenpersoon gebruik maakt van een der in dat artikel genoemde rechten, wordt gestraft met gevangenisstraf van een jaar tot drie jaar en met geldboete van tienduizend euro tot honderdduizend euro.

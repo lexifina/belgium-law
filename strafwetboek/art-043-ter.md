@@ -1,0 +1,1 @@
+De bijzondere verbeurdverklaring die van toepassing is op de zaken bedoeld (in de artikelen 42, 43bis en 43quater), kan eveneens worden uitgesproken wanneer die zaken zich buiten het grondgebied van de Belgische Staat bevinden.

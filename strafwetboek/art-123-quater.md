@@ -1,0 +1,2 @@
+De samenspanning om een misdaad of een wanbedrijf tegen personen of eigendommen te plegen, gesmeed met het oogmerk om in oorlogstijd hetzij de verdediging van het grondgebied, hetzij de mobilisatie, hetzij de wapen-, munitie- of levensmiddelenvoorziening van het leger te belemmeren, wordt, onverminderd de toepassing van strengere bepalingen, gestraft met de straffen, in artikel 123bis bepaald.
+Wordt de samenspanning in oorlogstijd gesmeed, dan wordt zij met (opsluiting van vijf jaar tot tien jaar) gestraft.

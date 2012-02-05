@@ -1,0 +1,1 @@
+De straffen, bepaald in de artikelen 118, 119, 120 tot 120septies, zijn gelijk, onverschillig of de misdrijven in die artikelen omschreven, tegen België zijn gepleegd dan wel tegen een Staat waarmee België met het oog op een gemeenschappelijke verdediging door een regionale regeling is verbonden.

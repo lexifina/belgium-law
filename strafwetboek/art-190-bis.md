@@ -1,0 +1,1 @@
+De bepalingen van de artikelen 188 tot 190 zijn niet alleen van toepassing op de plakpostzegels, maar eveneens op die welke gedrukt worden op documenten die bpost uitgeeft, evenals op de euroeerwaarden die vertegenwoordigd worden door afdrukken van machines of door symbolen die door bpost erkend zijn.

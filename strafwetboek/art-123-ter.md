@@ -1,0 +1,3 @@
+(Indien de misdrijven, in de artikelen 115 tot 120quater, 120sexies tot 123bis omschreven, uit winstbejag zijn begaan, worden de (sommen, de goederen of de rechtstreekse of onrechtstreekse voordelen van welke aard ook, die de werkzaamheid van de schuldige heeft opgebracht,) tot eigendom van de Schatkist verklaard; (indien zij niet in beslag zijn genomen, wordt een met hun waarde overeenstemmend bedrag) tot eigendom van de Schatkist verklaard.)
+(In hetzelfde geval worden de in de artikelen 119 en 120 bepaalde gevangenisstraffen vervangen door opsluiting van vijf jaar tot tien jaar en tijdelijke hechtenis door tijdelijke opsluiting van gelijke duur.)
+(Indien verzachtende omstandigheden aanwezig zijn, wordt (levenslange opsluiting) vervangen overeenkomstig artikel 80.)

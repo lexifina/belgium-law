@@ -1,0 +1,1 @@
+Hij die in het openbaar de titel van advocaat aanneemt, zonder ingeschreven te zijn op het tableau van de Orde of op een lijst van stagiairs, of de titel van ereadvocaat zonder in het bezit te zijn van de in artikel 436 van het Gerechtelijk Wetboek bedoelde machtiging, wordt gestraft met geldboete van tweehonderd euro tot duizend euro.

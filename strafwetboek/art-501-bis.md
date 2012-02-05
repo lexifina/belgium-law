@@ -1,0 +1,1 @@
+Wordt gestraft met gevangenisstraf van acht dagen tot drie maanden en met een geldboete van zesentwintig tot driehonderd euro of met één dezer straffen alleen, hij die, zonder het in artikel 500 vereiste bedrieglijk opzet, vervalste (voedingsmiddelen) heeft verkocht, gesloten of te koop gesteld.
