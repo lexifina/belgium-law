@@ -1,0 +1,1 @@
+Met gevangenisstraf (van drie maanden tot 2 jaar), wordt gestraft hij die van een minderjarige verkrijgt dat deze zonder toestemming van zijn ouders, zijn voogd of zijn curator dienst neemt in een vreemd leger of een vreemde troep.

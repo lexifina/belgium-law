@@ -1,0 +1,1 @@
+Hij die een geldteken uitgeeft bestemd om in het publiek te circuleren als betaalmiddel zonder hiertoe gemachtigd te zijn door de bevoegde overheid, wordt gestraft met gevangenisstraf van één maand tot één jaar en met geldboete van 50 tot 10 000 EUR of met één van die straffen alleen. ".

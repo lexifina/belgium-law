@@ -1,0 +1,1 @@
+Met gevangenisstraf van een maand tot zes maanden en met geldboete van zesentwintig euro tot tweehonderd euro of met een van die straffen alleen wordt gestraft hij die opzettelijk andermans onroerende eigendommen beschadigt.

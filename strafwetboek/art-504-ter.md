@@ -1,0 +1,2 @@
+§ 1. In geval van private omkoping is de straf een gevangenisstraf van zes maanden tot twee jaar en een geldboete van 100 euro tot 100 000 euro of één van die straffen.
+§ 2. Indien de vraag bedoeld in artikel 504bis, § 1, gevolgd wordt door een voorstel bedoeld in artikel 504bis, § 2, evenals ingeval het voorstel bedoeld in artikel 504bis, § 2, aangenomen wordt, is de straf een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 100 euro tot 50 000 euro of één van die straffen.

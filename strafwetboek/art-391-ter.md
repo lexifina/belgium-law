@@ -1,0 +1,2 @@
+Wanneer een persoon meer dan twee maanden in gebreke is gebleven te voldoen aan een van de verplichtingen op de niet-nakoming waarvan door artikel 391bis straf is gesteld, kan hij voor de vrederechter worden opgeroepen op verzoek van belanghebbenden of van het openbaar ministerie. De oproeping geschiedt door middel van een aangetekende brief, door de griffier getekend en verzonden met een bericht van ontvangst.
+De vrederechter neemt de verklaringen van de partijen af en maakt van een en ander een proces-verbaal op, dat hij aan de procureur des Konings doet toekomen.

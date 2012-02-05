@@ -1,0 +1,1 @@
+De hoven en de rechtbanken zullen de tot correctionele straffen veroordeelden kunnen ontzetten van de uitoefening van het recht bedoeld in artikel 31, tweede lid, voor een termijn van vijf jaar tot tien jaar.

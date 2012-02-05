@@ -1,0 +1,2 @@
+Met (levenslange hechtenis) wordt gestraft hij die deelneemt aan het vervormen van wettelijke instellingen of organisaties door de vijand, de burgers in hun trouw aan Koning en Staat in oorlogstijd doet wankelen, of wetens de politiek of de oogmerken van de vijand dient.
+Met (levenslange hechtenis) wordt eveneens gestraft hij die wetens enige propaganda leidt, door enigerlei middel voert, ze uitlokt, helpt of begunstigt, welke propaganda gericht is tegen het verzet tegen de vijand of zijn bondgenoten of ertoe strekt de feiten in het vorige lid opgenoemd te verwekken.

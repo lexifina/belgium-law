@@ -1,0 +1,1 @@
+Zij die weggenomen, verduisterde of door de misdaad of het wanbedrijf bedoeld in artikel 433 verkregen zaken of een gedeelte ervan helen, worden gestraft met de straffen bepaald in artikel 505, eerste lid, waarbij de minimumstraf in het geval van gevangenisstraf wordt verhoogd tot drie maanden en in het geval van geldboete tot duizend euro.

@@ -1,0 +1,2 @@
+§ 1. Met gevangenisstraf van één maand tot zes maanden en met geldboete van zesentwintig euro tot tweehonderd euro of met een van die straffen alleen wordt gestraft hij die zonder toestemming graffiti aanbrengt op roerende of onroerende goederen.
+§ 2. Het maximum van de gevangenisstraf wordt gebracht op één jaar gevangenisstraf bij herhaling van een in de eerste paragraaf bedoeld misdrijf binnen vijf jaar te rekenen van de dag van de uitspraak van een vorig veroordelend vonnis dat in kracht van gewijsde is gegaan.

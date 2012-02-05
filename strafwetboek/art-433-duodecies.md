@@ -1,0 +1,2 @@
+Het in artikel 433decies bedoelde misdrijf wordt gestraft met opsluiting van vijf jaar tot tien jaar en met geldboete van duizend euro tot honderdvijftigduizend euro ingeval het een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een criminele organisatie betreft, ongeacht of de schuldige de hoedanigheid van leidend persoon heeft of niet.
+De boete wordt zo veel keer toegepast als er slachtoffers zijn.

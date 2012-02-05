@@ -1,0 +1,2 @@
+Met een gevangenisstraf van een maand tot een jaar en met geldboete van zesentwintig euro tot vijfhonderd euro of met een van die straffen alleen wordt gestraft hij die voor zichzelf, met bedrieglijk inzicht, een adoptie heeft verkregen of proberen te verkrijgen die strijdig is met de bepalingen van de wet.
+Bij herhaling binnen drie jaar te rekenen van een in kracht van gewijsde gegaan vonnis van veroordeling wegens overtreding van het bepaalde in het eerste lid kunnen deze straffen worden verdubbeld.

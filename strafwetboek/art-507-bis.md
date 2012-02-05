@@ -1,0 +1,1 @@
+Met gevangenisstraf van acht dagen tot twee jaar en met geldboete van zesentwintig euro tot vijfhonderd euro wordt gestraft hij die de overeenkomstig de artikelen 28sexies en 61quater van het Wetboek van Strafvordering opgelegde voorwaarden bij de opheffing van een opsporings- of onderzoekshandeling niet naleeft.

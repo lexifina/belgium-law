@@ -1,0 +1,1 @@
+§ 1. Onverminderd de in artikel 136quater, § 1, 18°, 22° en 23° genoemde uitzonderingen kan geen enkel belang, geen enkele noodzaak van politieke, militaire of nationale aard de in de artikelen 136bis, 136ter, 136quater, 136sexies en 136septies omschreven misdrijven, zelfs bij wijze van represaille gepleegd, rechtvaardigen.

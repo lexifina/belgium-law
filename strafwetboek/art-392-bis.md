@@ -1,0 +1,1 @@
+Voor de toepassing van dit hoofdstuk worden met de woorden " vader ", " moeder ", " ouders " en " bloedverwant in opgaande lijn " ook de adoptanten en, in geval van adoptie en volle adoptie, ook de bloedverwanten in de opgaande lijn van de adoptanten bedoeld.

@@ -1,0 +1,3 @@
+Wordt gestraft met gevangenisstraf van 8 dagen tot 6 maanden en met geldboete van 26 euro tot 500 euro of met één van die straffen alleen:
+1° hij die, met een bedrieglijk opzet, een paspoort, reisdocument, identiteitskaart of een als zodanig geldend bescheid alsmede de formulieren die voor de afgifte ervan dienen, gebruikt, afstaat aan of aanneemt van derden of de daarin opgelegde verbodsbepalingen en beperkende voorwaarden niet eerbiedigt;
+2° hij die, binnen de gestelde termijn, geen gevolg geeft aan een beslissing tot intrekking van een paspoort of een als dusdanig geldend bescheid, uitgaande van de bevoegde overheid.
