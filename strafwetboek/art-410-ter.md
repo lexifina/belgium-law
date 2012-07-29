@@ -1,0 +1,1 @@
+Indien de schuldige, in de in de artikelen 398 tot 405 bedoelde gevallen, de misdaad of het wanbedrijf pleegt tegen een scheidsrechter van een sportwedstrijd, wordt het minimum van de bij die artikelen bepaalde straf met de helft van die straf verhoogd in geval van gevangenisstraf en met één jaar verhoogd in geval van opsluiting.
