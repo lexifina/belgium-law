@@ -1,0 +1,1 @@
+Dans les cas visés aux articles 398 à 405, si le coupable a commis le crime ou le délit envers un arbitre de manifestation sportive, le minimum de la peine portée par ces articles sera augmenté à concurrence de la moitié de cette peine s'il s'agit d'un emprisonnement et augmenté d'un an s'il s'agit de la réclusion.
