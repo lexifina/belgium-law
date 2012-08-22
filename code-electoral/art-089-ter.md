@@ -1,0 +1,1 @@
+Pour l'élection de la Chambre des représentants, les électeurs inscrits sur la liste des électeurs des communes du canton électoral de Rhode-Saint-Genèse ont la faculté de voter en faveur soit d'une liste de la circonscription électorale de Bruxelles-Capitale, soit d'une liste de la circonscription électorale du Brabant flamand.
