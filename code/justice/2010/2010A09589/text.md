@@ -274,10 +274,10 @@ Ils peuvent également essayer de rechercher l'identité de ces personnes au moy
 <a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. L'audition de personnes
 Les inspecteurs sociaux peuvent interroger, soit seuls, soit ensemble, soit en présence de témoins, toute personne dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de la surveillance.
 
-<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. Les supports d'information contenant soit des données sociales, soit d'autres données prescrites par la loi
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>.Les supports d'information contenant soit des données sociales, soit d'autres données prescrites par la loi
 § 1er. Les inspecteurs sociaux peuvent se faire produire tous les supports d'information qui se trouvent sur les lieux de travail ou d'autres lieux qui sont soumis à leur contrôle à condition que ces supports d'information :
 1° soit contiennent des données sociales, visées à l'article 16, 5°;
-2° soit contiennent n'importe quelles autres données, dont l'établissement, la tenue ou la conservation sont prescrits par la législation, même lorsque les inspecteurs sociaux ne sont pas chargés de la surveillance de cette législation, à condition que ces données soient mentionnées dans l'arrêté royal visé au § 4.
+2° soit contiennent n'importe quelles autres données, dont l'établissement, la tenue ou la conservation sont prescrits par la législation, même lorsque les inspecteurs sociaux ne sont pas chargés de la surveillance de cette législation, [<sup>1</sup> ...]<sup>1</sup>.
 Les inspecteurs sociaux peuvent également se faire fournir l'accès aux supports d'information visés à l'alinéa 1er qui sont accessibles à partir de ces lieux par un système informatique ou par tout autre appareil électronique.
 § 2. Lorsque l'employeur, son préposé ou son mandataire est absent au moment du contrôle, les inspecteurs sociaux prennent les mesures nécessaires pour contacter l'employeur, son préposé ou son mandataire afin de se faire produire les supports d'information précités ou afin de se faire fournir l'accès aux supports d'information visés au § 1er, alinéa 1er, qui sont accessibles à partir de ces lieux par un système informatique ou par tout autre appareil électronique.
 § 3. Les inspecteurs sociaux peuvent procéder à la recherche et à l'examen des supports d'information visés au § 1er dans les cas suivants :
@@ -285,7 +285,9 @@ Les inspecteurs sociaux peuvent également se faire fournir l'accès aux support
 2° lorsque l'employeur, son préposé ou son mandataire n'est pas joignable au moment du contrôle.
 Les inspecteurs sociaux peuvent uniquement procéder à la recherche ou à l'examen de ces supports d'information à condition que la nature de la recherche ou celle de l'examen l'exige lorsque le danger existe qu'à l'occasion du contrôle, ces supports d'information ou les données qu'ils contiennent disparaissent ou soient modifiés ou lorsque la santé ou la sécurité des travailleurs le requiert.
 Lorsque l'employeur, son préposé ou son mandataire s'oppose à cette recherche ou à cet examen, un procès-verbal est établi pour obstacle à la surveillance.
-§ 4. Le Roi dresse une liste contenant les données visées au § 1er, alinéa 1er, 2°, dont l'établissement, la tenue ou la conservation sont prescrits par la législation, et qui se trouvent sur des supports d'information dans les lieux de travail ou les autres lieux soumis au contrôle des inspecteurs sociaux ou qui sont accessibles à partir de ces lieux par un système informatique ou par tout autre appareil électronique et auquel les inspecteurs sociaux ont accès.
+§ 4. [<sup>1</sup> Le Roi peut, à titre informatif, dresser une liste contenant les données visées au § 1er, alinéa 1er, 2°, dont l'établissement, la tenue ou la conservation sont prescrits par la législation, et qui se trouvent sur des supports d'information dans les lieux de travail ou les autres lieux soumis au contrôle des inspecteurs sociaux ou qui sont accessibles à partir de ces lieux par un système informatique ou par tout autre appareil électronique et auquel les inspecteurs sociaux ont accès.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012021514" target="_blank">2012-02-15/14</a>, art. 3, 004; En vigueur : 18-03-2012&gt;
 
 <a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. Les supports d'information contenant d'autres données
 Les inspecteurs sociaux peuvent également se faire produire, sans déplacement, pour en prendre connaissance, tous les supports d'information qui contiennent n'importe quelles autres données, lorsqu'ils le jugent nécessaire à l'accomplissement de leur mission, et procéder à leur examen.
@@ -1686,11 +1688,13 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 
 <a name="LNK0091" href="#LNKR0091">Section 9.</a> - Les obligations des praticiens de l'art de guérir
 
-<a name="Art.225" href="#Art.224">Art.</a> <a href="#LNK0092"> 225</a>. Les obligations des praticiens de l'art de guérir
+<a name="Art.225" href="#Art.224">Art.</a> <a href="#LNK0092"> 225</a>.Les obligations des praticiens de l'art de guérir
 Sont punis d'une sanction de niveau 2 :
 1° les praticiens de l'art de guérir, les kinésithérapeutes, les praticiens de l'art infirmier, les auxiliaires paramédicaux, les gestionnaires de maisons de repos pour personnes âgées et les gestionnaires des établissements de soins qui refusent de remettre aux bénéficiaires les documents prescrits par la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 et ses arrêtés et règlements d'exécution;
 2° les médecins, les praticiens de l'art dentaire, les accoucheuses, les kinésithérapeutes, les praticiens de l'art infirmier, les auxiliaires paramédicaux et les gestionnaires des établissements de soins qui ne respectent pas les honoraires et les prix fixés en application de l'article 52 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier;
-3° les praticiens de l'art de guérir, les kinésithérapeutes, les praticiens de l'art infirmier et les auxiliaires paramédicaux qui délivrent une attestation de soins alors qu'il n'est pas satisfait aux dispositions de la loi précitée du 14 juillet 1994 et de ses arrêtés et règlements d'exécution.
+3° [<sup>1</sup> ...]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012021514" target="_blank">2012-02-15/14</a>, art. 4, 004; En vigueur : 18-03-2012&gt;
 
 <a name="LNK0092" href="#LNKR0092">Section 10.</a> - Le contrôle du chômage
 
