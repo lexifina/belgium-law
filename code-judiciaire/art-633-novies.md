@@ -1,0 +1,1 @@
+Sans préjudice de la compétence des tribunaux visés à l'article 624, le tribunal de première instance du domicile du demandeur est également compétent pour connaître des demandes visées à l'article 569, alinéa 1er, 41°.
