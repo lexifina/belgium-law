@@ -681,30 +681,22 @@ Le paiement de l'amende met fin à l'action de l'administration compétente.
 <a name="Art.92" href="#Art.91">Art.</a> <a href="#Art.93"> 92</a>. La communication de renseignements par le ministère public
 Le procureur du Roi qui traite une affaire pénale dont l'examen fait apparaître des indices sérieux d'infractions aux dispositions du présent Code, en informe l'auditeur du travail.
 
-<a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>.La communication de la décision sur l'action publique
+<a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>. La communication de la décision sur l'action publique
 § 1er. Le service d'inspection qui a dressé le procès-verbal est informé de toute décision rendue sur l'action publique du chef d'infraction à la législation dont il exerce la surveillance.
 Cette information est donnée dans le mois de la prise de la décision selon le cas, par le ministère public ou le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
 § 2. Toute décision rendue sur l'action publique du chef d'infraction aux dispositions du présent code fait également l'objet d'une information à l'administration compétente.
 Cette information est donnée dans le mois de la prise de la décision selon le cas, par le ministère public ou le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
 Une copie de la décision est transmise à l'administration compétente si elle en fait la demande, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
-§ 3. En cas de condamnation pour les faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, à charge de l'employeur, de ses préposés ou de ses mandataires, une copie du jugement ou de l'arrêt est transmise à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux et aux commissions instituées par le Roi en vertu de l'article 401 du Code des impôts sur les revenus et de l'article 30bis, § 2, de la loi du 27 juin 1969 révisant l'arrêté loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+§ 3. En cas de condamnation pour les faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, à charge de l'employeur, de ses préposés ou de ses mandataires, une copie du jugement ou de l'arrêt est transmise à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux [<sup>1</sup> ...]<sup>1</sup>.
 Cette communication est faite dans le mois de la prise de la décision, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
-
-DROIT FUTUR
-
-<i>Art. 93. La communication de la décision sur l'action publique<br>  § 1er. Le service d'inspection qui a dressé le procès-verbal est informé de toute décision rendue sur l'action publique du chef d'infraction à la législation dont il exerce la surveillance.<br>  Cette information est donnée dans le mois de la prise de la décision selon le cas, par le ministère public ou le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.<br>  § 2. Toute décision rendue sur l'action publique du chef d'infraction aux dispositions du présent code fait également l'objet d'une information à l'administration compétente.<br>  Cette information est donnée dans le mois de la prise de la décision selon le cas, par le ministère public ou le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.<br>  Une copie de la décision est transmise à l'administration compétente si elle en fait la demande, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.<br>  § 3. En cas de condamnation pour les faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, à charge de l'employeur, de ses préposés ou de ses mandataires, une copie du jugement ou de l'arrêt est transmise à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux [<sup><font color="red">1</font></sup> ...]<sup><font color="red">1</font></sup>.<br>  Cette communication est faite dans le mois de la prise de la décision, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.<br>  </i>
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 20, 003; En vigueur : indéterminée &gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 20, 003; En vigueur : 01-09-2012&gt;
 
-<a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.95"> 94</a>.La communication de la décision de l'administration compétente
+<a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.95"> 94</a>. La communication de la décision de l'administration compétente
 Les décisions administratives ou judiciaires infligeant les amendes administratives, déclarant la culpabilité ou par laquelle l'infraction est classée sans suite sont communiquées par l'administration compétente au service d'inspection qui a dressé le procès-verbal, au ministère public et à l'Office national de sécurité sociale.
-Si la décision infligeant une amende administrative ou déclarant la culpabilité est relative à des faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, l'administration compétente en transmet une copie à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux et aux commissions instituées par le Roi en vertu de l'article 401 du Code d'impôts sur les revenus et de l'article 30bis, § 2, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
-
-DROIT FUTUR
-
-<i>Art. 94. La communication de la décision de l'administration compétente<br>  Les décisions administratives ou judiciaires infligeant les amendes administratives, déclarant la culpabilité ou par laquelle l'infraction est classée sans suite sont communiquées par l'administration compétente au service d'inspection qui a dressé le procès-verbal, au ministère public et à l'Office national de sécurité sociale.<br>  Si la décision infligeant une amende administrative ou déclarant la culpabilité est relative à des faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, l'administration compétente en transmet une copie à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux [<sup><font color="red">1</font></sup> ...]<sup><font color="red">1</font></sup>.<br>  </i>
+Si la décision infligeant une amende administrative ou déclarant la culpabilité est relative à des faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, l'administration compétente en transmet une copie à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux [<sup>1</sup> ...]<sup>1</sup>.
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 20, 003; En vigueur : indéterminée &gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 20, 003; En vigueur : 01-09-2012&gt;
 
 <a name="Art.95" href="#Art.94">Art.</a> <a href="#LNK0032"> 95</a>. La communication d'information sur le recouvrement
 L'administration du cadastre, de l'enregistrement et des domaines communique au début de chaque année à l'administration compétente, les informations de l'année écoulée en ce qui concerne les dossiers dont elle est chargée, d'une part, au sujet du recouvrement des amendes administratives, tant en ce qui concerne leur montant total qu'en ce qui concerne le montant recouvré dans chaque dossier particulier dont elle est chargée, et d'autre part, au sujet des dossiers qu'elle a classés définitivement sans suite.
@@ -1449,9 +1441,38 @@ Est puni d'une sanction de niveau 3 :
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0066" href="#LNKR0066">Section 4.</a> - Les secteurs particuliers d'activité
+<a name="LNK0066" href="#LNKR0066">Section 3/1.</a> [<sup>1</sup> - Les titres-services]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 15, 006; En vigueur : 24-12-2012&gt;
 
-<a name="Art.178" href="#Art.177">Art.</a> <a href="#Art.179"> 178</a>. Le travail portuaire
+<a name="Art.177/1" href="#Art.177">Art.</a> <a href="#LNK0067"> 177/1</a>. [<sup>1</sup> Les titres services
+§ 1er. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité :
+1° effectue, dans le cadre de travaux ou de services de proximité, des activités qui ne sont pas autorisées par la décision d'agrément;
+2° accepte des titres-services en paiement d'activités qui ne sont pas des travaux ou des services de proximité;
+3° accepte et transmet à la société émettrice, en vue du remboursement, plus de titres-services pour des prestations de travaux ou de services de proximité effectuées durant un trimestre déterminé, que le nombre d'heures de travail déclarées à l'ONSS pour des prestations de travaux ou de services de proximité effectuées pendant le même trimestre par des travailleurs sous contrat de travail titres-services.
+§ 2. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité :
+1° accepte des titres-services de l'utilisateur alors que les travaux ou les services de proximité ne sont pas encore effectués;
+2° fait effectuer des travaux ou des services de proximité par un travailleur qui n'a pas été recruté pour accomplir des travaux ou des services de proximité;
+3° n'organise pas l'enregistrement des activités titres-services de manière telle que l'on puisse vérifier exactement la relation entre les prestations mensuelles de chaque travailleur titres-services individuel, l'utilisateur et les titres-services correspondants;
+4° fournit des travaux ou des services de proximité sans être agréée à cette fin;
+5° si elle exerce une autre activité que les activités pour lesquelles un agrément peut être accordé sur la base de la loi précitée du 20 juillet 2001 et ne crée pas dans son sein une " section sui generis " qui s'occupe spécifiquement de l'occupation dans le cadre du régime des titres-services tel que visée dans l'article 2, § 2, alinéa 1er, a), de la même loi;
+6° fait effectuer des travaux ou des services financés par les titres-services en sous-traitance par une autre entreprise ou un autre organisme;
+7° fait payer par des titres-services un autre volume de travail que celui correspondant aux activités d'aide à domicile de nature ménagère venant en supplément à partir de son agrément.
+§ 3. Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité :
+1° n'établit pas le contrat de travail titres-services par écrit au plus tard dans les deux jours ouvrables à compter du moment de l'entrée en service du travailleur;
+2° établit le contrat de travail titres-services de manière incomplète ou inexacte;
+3° n'attribue pas par priorité à un travailleur qui, pendant son occupation à temps partiel, bénéficie d'une allocation de chômage, d'un revenu d'intégration ou d'une aide sociale financière, un emploi à temps plein ou un autre emploi à temps partiel qui, presté seul ou à titre complémentaire, lui procure un régime à temps partiel nouveau, dont la durée de travail hebdomadaire est supérieure à celle du régime de travail à temps partiel dans lequel il travaille déjà;
+4° représente l'utilisateur pour l'application de l'article 3, § 2, alinéa 1er, et de l'article 6 de l'arrêté royal du 12 décembre 2001 concernant les titres-services ou qui représente le travailleur pour signer le titre-service;
+5° ne transmet pas les titres-services groupés par mois au cours duquel les prestations sont effectivement effectuées à la société émettrice en vue du remboursement.
+En ce qui concerne les infractions visées à l'alinéa 1er, 1°, 2° et 3°, l'amende est multipliée par le nombre de travailleurs concernés.
+§ 4. Sont punis d'une sanction de niveau 3, l'utilisateur et le travailleur qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, ont participé sciemment et volontairement à une infraction visée aux §§ 1er ou 2 commise par un employeur, son préposé ou son mandataire.
+§ 5. Sont punis d'une sanction de niveau 2, l'utilisateur et le travailleur qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, ont participé sciemment et volontairement à une infraction visée au § 3 commise par un employeur, son préposé ou son mandataire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 16, 006; En vigueur : 24-12-2012&gt;
+
+<a name="LNK0067" href="#LNKR0067">Section 4.</a> - Les secteurs particuliers d'activité
+
+<a name="Art.178" href="#Art.177/1">Art.</a> <a href="#Art.179"> 178</a>. Le travail portuaire
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 8 juin 1972 organisant le travail portuaire et à ses arrêtés d'exécution :
 1° a fait effectuer ou laissé effectuer un travail portuaire dans des zones portuaires par des travailleurs qui n'ont pas été reconnus en qualité d'ouvrier portuaire ou qui n'ont pas été engagés en qualité d'ouvrier portuaire occasionnel ou dont la reconnaissance a été suspendue, a été retirée ou a pris fin;
 2° n'a pas respecté l'obligation faite par le Roi de s'affilier à une organisation d'employeurs agréée par arrêté royal et remplissant, en qualité de mandataire, toutes les obligations sociales qui découlent de l'occupation d'ouvriers portuaires.
@@ -1461,7 +1482,7 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, 1°, l'amende est multi
 Est puni d'une sanction de niveau 2, l'armateur, son préposé ou son mandataire qui, en contravention à la loi du 3 mai 2003 portant réglementation du contrat d'engagement maritime pour la pêche maritime et améliorant le statut social du marin pêcheur emploie, en qualité de membre d'équipage dans le cadre d'un contrat d'engagement pour la pêche maritime, des marins pêcheurs qui n'ont pas été agréés dans les conditions et selon les modalités prescrites par le Roi ou dont l'agrément a été suspendu, a été retiré ou a été perdu d'office à l'exception des cas d'occupation temporaire et exceptionnelle sans agrément.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.180" href="#Art.179">Art.</a> <a href="#LNK0067"> 180</a>. L'industrie diamantaire
+<a name="Art.180" href="#Art.179">Art.</a> <a href="#LNK0068"> 180</a>. L'industrie diamantaire
 Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 30 décembre 1950 organisant l'industrie diamantaire :
 a) a employé un ou plusieurs travailleurs qui ne sont pas titulaires d'une carte de travail spéciale;
@@ -1475,9 +1496,9 @@ En ce qui concerne les infractions visées à l'alinéa 1er, 1°, a) et b), l'am
 Le juge peut retirer à l'employeur son autorisation spéciale pour un délai d'un à six mois en cas d'infraction visée à l'alinéa 1er, 1°, a) ou c).
 Il peut en outre retirer au travailleur sa carte de travail pour un délai d'un à six mois, en cas d'infraction à l'alinéa 1er, 2°, c).
 
-<a name="LNK0067" href="#LNKR0067">CHAPITRE 5.</a> - Le travail non déclaré
+<a name="LNK0068" href="#LNKR0068">CHAPITRE 5.</a> - Le travail non déclaré
 
-<a name="LNK0068" href="#LNKR0068">Section 1re.</a> - Non-déclaration d'un travailleur à l'autorité
+<a name="LNK0069" href="#LNKR0069">Section 1re.</a> - Non-déclaration d'un travailleur à l'autorité
 
 <a name="Art.181" href="#Art.180">Art.</a> <a href="#Art.182"> 181</a>. La déclaration immédiate de l'emploi
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, ne communique pas les données imposées par l'arrêté royal précité du 5 novembre 2002 par voie électronique à l'institution chargée de la perception des cotisations de sécurité sociale dans les formes et suivant les modalités prescrites au plus tard au moment où le travailleur entame ses prestations et au plus tard le premier jour ouvrable qui suit la fin de l'emploi déclaré.
@@ -1492,29 +1513,29 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multiplié
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs, stagiaires ou stagiaires indépendants concernés.
 § 2. Est puni d'une sanction de niveau 3, le travailleur indépendant détaché qui, en contravention au chapitre VIII du titre IV de la loi précitée du 27 décembre 2006 et de ses arrêtés d'exécution, n'a pas effectué de déclaration auprès de l'Institut national d'assurances sociales pour travailleurs indépendants préalablement à l'exercice de l'activité professionnelle en qualité de travailleur indépendant détaché sur le territoire belge selon les modalités déterminées par le Roi.
 
-<a name="Art.183" href="#Art.182">Art.</a> <a href="#LNK0069"> 183</a>. Les obligations des utilisateurs finaux ou des commanditaires
+<a name="Art.183" href="#Art.182">Art.</a> <a href="#LNK0070"> 183</a>. Les obligations des utilisateurs finaux ou des commanditaires
 Est punie d'une sanction de niveau 3 :
 1° toute personne auprès de laquelle ou pour laquelle sont occupés des travailleurs salariés détachés et des stagiaires détachés, directement ou en sous-traitance qui, en contravention au chapitre VIII du titre IV de la loi-programme (I) du 27 décembre 2006 et de ses arrêtés d'exécution, n'a pas communiqué, par voie électronique et selon les modalités déterminées par le Roi à l'Office national de sécurité sociale préalablement au début de l'occupation de ces personnes, les données d'identification des personnes qui ne sont pas en mesure de présenter un accusé de réception;
 2° toute personne auprès de laquelle ou pour laquelle sont occupés des travailleurs indépendants détachés et des stagiaires indépendants détachés, directement ou en sous-traitance qui, en contravention au chapitre VIII du titre IV de la loi précitée du 27 décembre 2006 et de ses arrêtés d'exécution, n'a pas communiqué, par voie électronique et selon les modalités déterminées par le Roi à l'Institut national d'assurances sociales pour travailleurs indépendants préalablement au début de l'occupation de ces personnes, les données d'identification des personnes qui ne sont pas en mesure de présenter un accusé de réception.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs, de stagiaires, d'indépendants ou de stagiaires indépendants concernés.
 
-<a name="LNK0069" href="#LNKR0069">Section 2.</a> - L'absence de souscription d'une police d'assurance-loi
+<a name="LNK0070" href="#LNKR0070">Section 2.</a> - L'absence de souscription d'une police d'assurance-loi
 
-<a name="Art.184" href="#Art.183">Art.</a> <a href="#LNK0070"> 184</a>. L'absence de souscription d'une police d'assurance-loi
+<a name="Art.184" href="#Art.183">Art.</a> <a href="#LNK0071"> 184</a>. L'absence de souscription d'une police d'assurance-loi
 Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui n'a pas souscrit une assurance contre les accidents du travail auprès d'une entreprise d'assurances en application de la loi du 10 avril 1971 sur les accidents du travail.
 Lorsque l'infraction a été commise sciemment et volontairement, le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 
-<a name="LNK0070" href="#LNKR0070">CHAPITRE 6.</a> - Les infractions concernant les documents sociaux
+<a name="LNK0071" href="#LNKR0071">CHAPITRE 6.</a> - Les infractions concernant les documents sociaux
 
-<a name="LNK0071" href="#LNKR0071">Section 1re.</a> - Le registre des intérimaires
+<a name="LNK0072" href="#LNKR0072">Section 1re.</a> - Le registre des intérimaires
 
-<a name="Art.185" href="#Art.184">Art.</a> <a href="#LNK0072"> 185</a>. Le registre des intérimaires
+<a name="Art.185" href="#Art.184">Art.</a> <a href="#LNK0073"> 185</a>. Le registre des intérimaires
 Est punie d'une sanction de niveau 2, toute personne qui, en contravention à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, n'a pas tenu le document prescrit par le Roi et permettant de calculer la moyenne des travailleurs intérimaires occupés par un utilisateur en vue de la détermination des seuils d'institution d'un conseil d'entreprise et d'un comité pour la prévention et la protection au travail.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0072" href="#LNKR0072">Section 2.</a> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
+<a name="LNK0073" href="#LNKR0073">Section 2.</a> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
 
-<a name="Art.186" href="#Art.185">Art.</a> <a href="#LNK0073"> 186</a>. Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
+<a name="Art.186" href="#Art.185">Art.</a> <a href="#LNK0074"> 186</a>. Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux :
 1° n'établit pas le contrat relatif à une occupation d'étudiants par écrit;
 2° ne mentionne pas un travailleur qui est lié à l'employeur par le contrat relatif à une occupation d'étudiants dans le registre général du personnel, dans le registre spécial du personnel et dans le registre de présence;
@@ -1525,9 +1546,9 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 7° ne garde pas ou ne conserve pas le contrat relatif à une occupation d'étudiants au lieu indiqué.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0073" href="#LNKR0073">Section 3.</a> - Le compte individuel
+<a name="LNK0074" href="#LNKR0074">Section 3.</a> - Le compte individuel
 
-<a name="Art.187" href="#Art.186">Art.</a> <a href="#LNK0074"> 187</a>. Le compte individuel
+<a name="Art.187" href="#Art.186">Art.</a> <a href="#LNK0075"> 187</a>. Le compte individuel
 § 1er. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire, qui, en contravention à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux, n'établit pas le compte individuel.
 L'amende est multipliée par le nombre de travailleurs concernés.
 § 2. Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire, qui, en contravention à l'arrêté royal précité du 23 octobre 1978 :
@@ -1537,9 +1558,9 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 4° ne tient pas ou ne conserve pas le compte individuel au lieu indiqué.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0074" href="#LNKR0074">Section 4.</a> - Le registre général du personnel, le registre spécial du personnel, le registre de présence et le registre de mesure du temps de travail
+<a name="LNK0075" href="#LNKR0075">Section 4.</a> - Le registre général du personnel, le registre spécial du personnel, le registre de présence et le registre de mesure du temps de travail
 
-<a name="Art.188" href="#Art.187">Art.</a> <a href="#LNK0075"> 188</a>. Le registre général du personnel, le registre spécial du personnel, le registre de présence et le registre de mesure du temps de travail
+<a name="Art.188" href="#Art.187">Art.</a> <a href="#LNK0076"> 188</a>. Le registre général du personnel, le registre spécial du personnel, le registre de présence et le registre de mesure du temps de travail
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux :
 1° n'établit pas le registre général du personnel, le registre spécial du personnel, le registre de présence et le registre de mesure du temps de travail;
 2° ne conserve pas les documents visés au 1° pendant la durée prescrite;
@@ -1551,17 +1572,17 @@ Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandatair
 8° ne garde pas ou ne conserve pas le registre général du personnel, le registre spécial du personnel et le registre de présence au lieu indiqué.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0075" href="#LNKR0075">CHAPITRE 7.</a> - Les infractions concernant les relations collectives de travail
+<a name="LNK0076" href="#LNKR0076">CHAPITRE 7.</a> - Les infractions concernant les relations collectives de travail
 
-<a name="LNK0076" href="#LNKR0076">Section 1re.</a> - Conventions collectives de travail
+<a name="LNK0077" href="#LNKR0077">Section 1re.</a> - Conventions collectives de travail
 
-<a name="Art.189" href="#Art.188">Art.</a> <a href="#LNK0077"> 189</a>. Les infractions aux conventions collectives de travail rendues obligatoires
+<a name="Art.189" href="#Art.188">Art.</a> <a href="#LNK0078"> 189</a>. Les infractions aux conventions collectives de travail rendues obligatoires
 Est puni d'une sanction de niveau 1, l'employeur qui, en contravention à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, a commis une infraction à une convention collective de travail rendue obligatoire qui n'est pas déjà sanctionnée par un autre article du présent Code.
 En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0077" href="#LNKR0077">Section 2.</a> - La non-institution des organes d'entreprises
+<a name="LNK0078" href="#LNKR0078">Section 2.</a> - La non-institution des organes d'entreprises
 
-<a name="Art.190" href="#Art.189">Art.</a> <a href="#LNK0078"> 190</a>. La non-institution des organes d'entreprises
+<a name="Art.190" href="#Art.189">Art.</a> <a href="#LNK0079"> 190</a>. La non-institution des organes d'entreprises
 § 1er. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 septembre 1948 portant organisation de l'économie, n'institue pas de conseil d'entreprise dans son entreprise.
 § 2. Est puni de la même sanction, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, n'institue pas de comité pour la prévention et la protection au travail dans son entreprise.
 § 3. Est puni de la même sanction, l'employeur, son préposé ou son mandataire qui n'institue pas de délégation syndicale lorsque l'obligation lui en est faite par une convention collective de travail rendue obligatoire par le Roi, conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.
@@ -1569,7 +1590,7 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multiplié
 § 5. Sont punis de la même sanction, les sociétés participantes d'une société européenne ayant son siège en Belgique, leurs préposés ou mandataires, qui ne prennent pas les mesures nécessaires, y compris la communication d'informations, pour engager des négociations avec les représentants des travailleurs des sociétés participantes et des filiales ou établissements concernés sur les modalités relatives à l'implication des travailleurs, lorsque l'obligation leur en est faite par la convention collective de travail n° 84 du 6 octobre 2004, conclue au sein du Conseil national du travail, concernant l'implication des travailleurs dans la société européenne.
 § 6. En ce qui concerne les infractions visées aux §§ 1er à 5, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0078" href="#LNKR0078">Section 3.</a> - Les entraves au fonctionnement des organes d'entreprises
+<a name="LNK0079" href="#LNKR0079">Section 3.</a> - Les entraves au fonctionnement des organes d'entreprises
 
 <a name="Art.191" href="#Art.190">Art.</a> <a href="#Art.192"> 191</a>. Les entraves au fonctionnement des organes d'entreprises
 § 1er. Est puni d'une sanction de niveau 2 :
@@ -1601,13 +1622,13 @@ d) ne procède pas aux consultations obligatoires du conseil d'entreprise;
 3° ne transmet pas à cet organe les informations qu'il est tenu de lui donner;
 4° ne procède pas aux consultations de cet organe.
 
-<a name="Art.192" href="#Art.191">Art.</a> <a href="#LNK0079"> 192</a>. La communication et la divulgation abusives de renseignements
+<a name="Art.192" href="#Art.191">Art.</a> <a href="#LNK0080"> 192</a>. La communication et la divulgation abusives de renseignements
 Est puni d'une sanction de niveau 2, tout membre du Conseil central de l'économie, d'un conseil d'entreprise, d'un comité pour la prévention et la protection au travail ou d'une délégation syndicale qui, en contravention à la loi du 20 septembre 1948 portant organisation de l'économie ou à la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, communique ou divulgue abusivement des renseignements d'ordre individuel dont il a eu connaissance en raison de fonctions ou mandats exercés en vertu des dispositions des lois précitées ou qui communique ou divulgue abusivement des renseignements globaux de nature à porter préjudice à l'économie nationale, aux intérêts d'une branche économique ou d'une entreprise.
 La même sanction est applicable lorsque l'infraction est commise, en contravention à la loi du 23 avril 1998 portant des mesures d'accompagnement en ce qui concerne l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs, par un membre du groupe spécial de négociation du comité d'entreprise européen, un représentant des travailleurs exerçant ses missions dans le cadre d'une procédure d'information et de consultation qui, le cas échéant, tient lieu de comité d'entreprise européen ainsi que par un expert qui les assiste.
 La même sanction est applicable lorsque l'infraction est commise, en contravention à la convention collective de travail n° 84 du 6 octobre 2004, conclue au sein du Conseil national du travail, concernant l'implication des travailleurs dans la société européenne, par un membre du groupe spécial de négociation, par un membre de l'organe de représentation, par un représentant des travailleurs exerçant ses fonctions dans le cadre de la procédure d'information et de consultation des travailleurs, par un représentant des travailleurs siégeant dans l'organe de surveillance ou d'administration d'une société européenne, ainsi que par un expert qui les assiste.
 La même sanction est applicable lorsque l'infraction est commise par un secrétaire ou un membre du personnel d'un secrétariat des personnes désignées aux alinéas 1er, 2 et 3.
 
-<a name="LNK0079" href="#LNKR0079">Section 4.</a> - Les manquements à l'obligation d'information et de consultation des travailleurs
+<a name="LNK0080" href="#LNKR0080">Section 4.</a> - Les manquements à l'obligation d'information et de consultation des travailleurs
 
 <a name="Art.193" href="#Art.192">Art.</a> <a href="#Art.194"> 193</a>. L'information en cas de licenciement collectif
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui entend procéder à un licenciement collectif et qui, en violation de la convention collective de travail n° 24 du 2 octobre 1975 concernant la procédure d'information et de consultation des représentants des travailleurs en matière de licenciements collectifs, n'a pas observé les procédures d'information et de consultation des travailleurs.
@@ -1623,11 +1644,11 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire, le liquidateur ou le curateur qui, en contravention à la convention collective de travail n° 9 du 9 mars 1972 coordonnant les accords nationaux et les conventions collectives de travail relatifs aux conseils d'entreprise conclus au sein du Conseil national du travail, n'a pas informé le conseil d'entreprise, avant toute diffusion, de la décision de procéder à une modification importante de la structure de l'entreprise, notamment par fusion, concentration, transfert ou fermeture de l'entreprise.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.196" href="#Art.195">Art.</a> <a href="#LNK0080"> 196</a>. L'information en cas de transfert conventionnel d'entreprise ou de reprise d'actifs après faillite
+<a name="Art.196" href="#Art.195">Art.</a> <a href="#LNK0081"> 196</a>. L'information en cas de transfert conventionnel d'entreprise ou de reprise d'actifs après faillite
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire, le liquidateur ou le curateur qui n'a pas observé les procédures d'information et de consultation des travailleurs en contravention à la convention collective de travail n° 32bis du 7 juin 1985 concernant le maintien des droits des travailleurs en cas de changement d'employeur du fait d'un transfert conventionnel d'entreprise et réglant les droits des travailleurs repris en cas de reprise de l'actif après faillite.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0080" href="#LNKR0080">Section 5.</a> - Les notifications à faire en cas de licenciement collectif ou de fermeture d'entreprise
+<a name="LNK0081" href="#LNKR0081">Section 5.</a> - Les notifications à faire en cas de licenciement collectif ou de fermeture d'entreprise
 
 <a name="Art.197" href="#Art.196">Art.</a> <a href="#Art.198"> 197</a>. Les notifications en cas de licenciement collectif
 Est puni d'une sanction de niveau 1, l'employeur qui, en contravention à l'arrêté royal du 24 mai 1976 sur les licenciements collectifs, n'a pas effectué, selon les formes et dans les délais prévus par la loi, les notifications requises au directeur du service subrégional de l'emploi.
@@ -1637,11 +1658,11 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 Est puni d'une sanction de niveau 1, l'employeur, son préposé ou son mandataire, le liquidateur ou le curateur qui, en contravention à la loi du 26 juin 2002 relative aux fermetures d'entreprises et à ses arrêtés d'exécution, n'a pas informé le Président du comité de direction du SPF Emploi, Travail et Concertation sociale de la fermeture de son entreprise selon les formes et dans les délais prévus en vertu de la loi.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.199" href="#Art.198">Art.</a> <a href="#LNK0081"> 199</a>. Les notifications en cas de reprise d'actif
+<a name="Art.199" href="#Art.198">Art.</a> <a href="#LNK0082"> 199</a>. Les notifications en cas de reprise d'actif
 Est puni d'une sanction de niveau 1, l'employeur, son préposé ou son mandataire, le liquidateur ou le curateur, l'employeur qui a effectué une reprise d'actif, son préposé ou son mandataire, le commissaire au sursis, qui en contravention à la loi du 26 juin 2002 relative aux fermetures d'entreprises et à ses arrêtés d'exécution, n'informe pas le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises de la cession de tout ou d'une partie de l'actif de l'entreprise en faillite ou du transfert conventionnel d'entreprise réalisé dans le cadre d'un concordat judiciaire.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0081" href="#LNKR0081">Section 6.</a> - Le règlement de travail
+<a name="LNK0082" href="#LNKR0082">Section 6.</a> - Le règlement de travail
 
 <a name="Art.200" href="#Art.199">Art.</a> <a href="#Art.201"> 200</a>. L'établissement du règlement de travail
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 8 avril 1965 instituant les règlements de travail, n'a pas valablement établi de règlement de travail.
@@ -1674,7 +1695,7 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 2° n'a pas affiché l'avis visé au 1° aussi longtemps que l'horaire alternatif reste applicable;
 3° n'a pas conservé l'avis visé au 1° jusqu'à l'issue d'un délai de six mois après la fin de la période pendant laquelle la durée hebdomadaire de travail doit être respectée en moyenne.
 
-<a name="Art.203" href="#Art.202">Art.</a> <a href="#LNK0082"> 203</a>. La publicité du règlement de travail
+<a name="Art.203" href="#Art.202">Art.</a> <a href="#LNK0083"> 203</a>. La publicité du règlement de travail
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 8 avril 1965 instituant les règlements de travail :
 1° n'a pas affiché dans un endroit apparent et accessible un avis indiquant l'endroit où le règlement de travail peut être consulté;
 2° n'a pas affiché dans un endroit apparent et accessible un avis indiquant l'endroit où les textes auquel le règlement de travail se réfère peuvent être consultés;
@@ -1683,7 +1704,7 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 5° n'a pas tenu une copie du règlement de travail en chacun des lieux où il occupe des travailleurs selon les modalités déterminées par le Roi;
 6° n'a pas transmis une copie du règlement et de ses modifications au fonctionnaire désigné par le Roi dans les huit jours de leur entrée en vigueur.
 
-<a name="LNK0082" href="#LNKR0082">Section 7.</a> - Le bilan social
+<a name="LNK0083" href="#LNKR0083">Section 7.</a> - Le bilan social
 
 <a name="Art.204" href="#Art.203">Art.</a> <a href="#Art.205"> 204</a>. L'établissement du bilan social et son contenu
 § 1er. Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 22 décembre 1995 portant des mesures visant à exécuter le plan pluriannuel pour l'emploi et à ses arrêtés d'exécution n'a pas établi de bilan social annuel.
@@ -1701,19 +1722,19 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 2° n'a pas, à défaut de conseil d'entreprise et de délégation syndicale, tenu le bilan social dans un endroit facilement accessible afin que chaque travailleur puisse en prendre connaissance en permanence et sans intermédiaire;
 3° n'a pas transmis le bilan social à la Banque nationale de Belgique selon les modalités prescrites par le Roi.
 
-<a name="Art.206" href="#Art.205">Art.</a> <a href="#LNK0083"> 206</a>. L'attestation et l'approbation par les réviseurs, les experts-comptables indépendants et les commissaires
+<a name="Art.206" href="#Art.205">Art.</a> <a href="#LNK0084"> 206</a>. L'attestation et l'approbation par les réviseurs, les experts-comptables indépendants et les commissaires
 Sont punis d'une sanction de niveau 2, ceux qui, en qualité de réviseur, d'expert-comptable indépendant ou de commissaire, ont attesté ou approuvé le bilan social annuel, lorsque les obligations découlant de la loi du 22 décembre 1995 portant des mesures visant à exécuter le plan pluriannuel pour l'emploi et de ses arrêtés d'exécution n'ont pas été respectées, soit en sachant qu'elles ne l'avaient pas été, soit en n'ayant pas accompli les diligences normales pour s'assurer qu'elles avaient été respectées.
 Lorsque l'infraction a été commise avec une intention frauduleuse, la sanction est de niveau 3. Le juge peut en outre prononcer les peines prévues à l'article 107.
 
-<a name="LNK0083" href="#LNKR0083">Section 8.</a> - Les prestations d'intérêt public
+<a name="LNK0084" href="#LNKR0084">Section 8.</a> - Les prestations d'intérêt public
 
 <a name="Art.207" href="#Art.206">Art.</a> <a href="#Art.208"> 207</a>. Le refus d'exécuter ou de faire exécuter les mesures, prestations ou services
 Est punie d'une sanction de niveau 2, toute personne qui, en contravention à la loi du 19 août 1948 relative aux prestations d'intérêt public en temps de paix, refuse d'exécuter ou de faire exécuter les mesures, prestations ou services à assurer, en cas de grève ou en cas de lock-out, en vue de faire face à certains besoins vitaux, d'effectuer certains travaux urgents aux machines ou au matériel, d'exécuter certaines tâches commandées par une force majeure ou une nécessité imprévue.
 
-<a name="Art.208" href="#Art.207">Art.</a> <a href="#LNK0084"> 208</a>. Le refus de fournir des informations, la fourniture d'information ou la déclaration inexacte
+<a name="Art.208" href="#Art.207">Art.</a> <a href="#LNK0085"> 208</a>. Le refus de fournir des informations, la fourniture d'information ou la déclaration inexacte
 Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 19 août 1948 relative aux prestations d'intérêt public en temps de paix, refuse, sciemment et volontairement, de fournir aux commissions paritaires et à leurs délégués les renseignements nécessaires à la préparation, à l'exécution et au contrôle des mesures visées à l'article 207 du présent Code ou leur fournit, sciemment et volontairement, des renseignements ou leur fait des déclarations inexactes.
 
-<a name="LNK0084" href="#LNKR0084">CHAPITRE 8.</a> - Les infractions en matière de contrôle
+<a name="LNK0085" href="#LNKR0085">CHAPITRE 8.</a> - Les infractions en matière de contrôle
 
 <a name="Art.209" href="#Art.208">Art.</a> <a href="#Art.210"> 209</a>. L'obstacle à la surveillance
 Est punie d'une sanction de niveau 4, toute personne qui met obstacle à la surveillance organisée en vertu du présent Code et de ses arrêtés d'exécution.
@@ -1726,14 +1747,14 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 § 2. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui n'observe pas les mesures prescrites en exécution des articles 38 et 40.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.211" href="#Art.210">Art.</a> <a href="#LNK0085"> 211</a>. Le non-respect de la décision judiciaire visée à l'article 2 de la loi du 2 juin 2010 comportant des dispositions de droit pénal social
+<a name="Art.211" href="#Art.210">Art.</a> <a href="#LNK0086"> 211</a>. Le non-respect de la décision judiciaire visée à l'article 2 de la loi du 2 juin 2010 comportant des dispositions de droit pénal social
 Est punie d'une sanction de niveau 3, toute personne qui ne respecte pas la décision du président du tribunal du travail en application de l'article 2 de la loi du 2 juni 2010 comportant des dispositions de droit pénal social.
 Lorsque la décision est afférente à des mesures prescrites en application des articles 43 à 49, la sanction est de niveau 4.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0085" href="#LNKR0085">CHAPITRE 9.</a> - Les infractions concernant la sécurité sociale
+<a name="LNK0086" href="#LNKR0086">CHAPITRE 9.</a> - Les infractions concernant la sécurité sociale
 
-<a name="LNK0086" href="#LNKR0086">Section 1re.</a> - Les atteintes à la confidentialité des données
+<a name="LNK0087" href="#LNKR0087">Section 1re.</a> - Les atteintes à la confidentialité des données
 
 <a name="Art.212" href="#Art.211">Art.</a> <a href="#Art.213"> 212</a>. Les atteintes à la confidentialité des données en cas d'accident du travail
 Sont punis d'une sanction de niveau 2, les membres du Comité de gestion et des Comités techniques du Fonds des accidents du travail, les personnes habilitées en vertu d'une disposition légale ou réglementaire à participer aux réunions du Comité de gestion et des Comités techniques, les inspecteurs sociaux compétents, les personnes ayant exercé auparavant lesdites fonctions qui ont divulgué des informations confidentielles concernant les entreprises d'assurances dont ils ont eu connaissance de par leur mission, à l'exception des dérogations prévues par la loi du 10 avril 1971 sur les accidents du travail.
@@ -1767,7 +1788,7 @@ b) contrairement aux dispositions de l'article 23, alinéa 2, de la loi précit�
 c) contrairement aux dispositions de la loi précitée du 15 janvier 1990, auront volontairement entravé ou altéré le fonctionnement d'un traitement automatisé de données sociales du réseau ou volontairement endommagé ou détruit tout ou partie d'un tel traitement, notamment les données ou les programmes qui y figurent;
 4° les titulaires de codes individuels d'accès et de compétence qui les auront divulgués, contrairement aux dispositions de l'article 26, § 3, alinéa 1er, de la loi précitée du 15 janvier 1990.
 
-<a name="Art.215" href="#Art.214">Art.</a> <a href="#LNK0087"> 215</a>. Les atteintes volontaires à la confidentialité des données
+<a name="Art.215" href="#Art.214">Art.</a> <a href="#LNK0088"> 215</a>. Les atteintes volontaires à la confidentialité des données
 § 1er. Sont punis d'une sanction de niveau 3, les personnes, leurs préposés ou mandataires qui :
 1° désignés par le Roi, sur la base des dispositions de l'article 29 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale pour détruire ou faire détruire les banques de données de la Banque-carrefour, les banques de données sociales ou les données sociales à caractère personnel y conservées, intentionnellement, n'auront pas exécuté leur mission ou l'auront exécutée sans respecter les conditions et les modalités prévues;
 2° sans être désignés par le Roi, auront intentionnellement détruit ou fait détruire les banques de données de la Banque-carrefour, les banques de données sociales ou les données sociales à caractère personnel y conservées, en respectant ou non les conditions et les modalités prévues en vertu de l'article 29 de la loi précitée du 15 janvier 1990;
@@ -1781,19 +1802,19 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 2° les institutions de sécurité sociale, leurs préposés ou mandataires, qui, volontairement, n'auront pas donné suite aux injonctions des inspecteurs sociaux, conformément à l'article 40, 2°, du Code pénal social;
 3° les inspecteurs sociaux qui, contrairement aux dispositions des articles 58, alinéa 1er, et 59, du Code pénal social, auront volontairement révélé, même devant les tribunaux, le nom de l'auteur d'une plainte ou auront révélé qu'il a été procédé à une enquête à la suite d'une plainte.
 
-<a name="LNK0087" href="#LNKR0087">Section 2.</a> - L'assurance contre les accidents du travail
+<a name="LNK0088" href="#LNKR0088">Section 2.</a> - L'assurance contre les accidents du travail
 
-<a name="Art.216" href="#Art.215">Art.</a> <a href="#LNK0088"> 216</a>. L'assurance contre les accidents du travail
+<a name="Art.216" href="#Art.215">Art.</a> <a href="#LNK0089"> 216</a>. L'assurance contre les accidents du travail
 Sont punis d'une sanction de niveau 2, les intermédiaires d'assurances, les entreprises d'assurances, les commissaires, leurs préposés ou mandataires qui ont participé à la conclusion ou à l'exécution d'un contrat contraire aux dispositions de la loi du 10 avril 1971 sur les accidents du travail et de ses arrêtés d'exécution.
 
-<a name="LNK0088" href="#LNKR0088">Section 3.</a> - L'appellation du Fonds de sécurité d'existence et du secrétariat social agréé
+<a name="LNK0089" href="#LNKR0089">Section 3.</a> - L'appellation du Fonds de sécurité d'existence et du secrétariat social agréé
 
-<a name="Art.217" href="#Art.216">Art.</a> <a href="#LNK0089"> 217</a>. L'usage abusif de la dénomination " Fonds de sécurité d'existence " et de la dénomination " Secrétariat social "
+<a name="Art.217" href="#Art.216">Art.</a> <a href="#LNK0090"> 217</a>. L'usage abusif de la dénomination " Fonds de sécurité d'existence " et de la dénomination " Secrétariat social "
 Est puni d'une sanction de niveau 1, quiconque :
 1° a publiquement fait usage de la dénomination " Fonds de sécurité d'existence " pour qualifier un organisme autre que ceux qui sont institués en application de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence;
 2° a publiquement fait usage de la dénomination " secrétariat social " pour qualifier un mandataire autre que ceux qui, conformément aux dispositions fixées par le Roi, sont agréés comme secrétariat social en application de l'article 27, § 2, alinéa 4, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
 
-<a name="LNK0089" href="#LNKR0089">Section 4.</a> - Le financement de la sécurité sociale
+<a name="LNK0090" href="#LNKR0090">Section 4.</a> - Le financement de la sécurité sociale
 
 <a name="Art.218" href="#Art.217">Art.</a> <a href="#Art.219"> 218</a>. Le non-paiement de diverses cotisations à l'Office national de sécurité sociale
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui :
@@ -1817,22 +1838,22 @@ b) n'a pas versé à la Caisse de secours et de prévoyance en faveur des marins
 3° les personnes physiques ou morales ayant l'industrie ou le commerce du diamant comme activité principale ou accessoire et les personnes important du diamant brut qui n'ont pas payé respectivement la cotisation et la cotisation de compensation au Fonds de compensation interne pour le secteur du diamant selon les modalités et dans les délais définis par le Roi en application de la loi du 12 avril 1960 portant création d'un Fonds de compensation interne pour le secteur du diamant.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.220" href="#Art.219">Art.</a> <a href="#LNK0090"> 220</a>. Le non-paiement de cotisations au Fonds de sécurité d'existence
+<a name="Art.220" href="#Art.219">Art.</a> <a href="#LNK0091"> 220</a>. Le non-paiement de cotisations au Fonds de sécurité d'existence
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence et aux dispositions d'une convention collective de travail rendue obligatoire par arrêté royal, n'a pas versé la cotisation au Fonds de sécurité d'existence dans les délais et selon les modalités prescrites par ses statuts.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0090" href="#LNKR0090">Section 5.</a> - L'assujettissement frauduleux
+<a name="LNK0091" href="#LNKR0091">Section 5.</a> - L'assujettissement frauduleux
 
-<a name="Art.221" href="#Art.220">Art.</a> <a href="#LNK0091"> 221</a>. L'assujettissement frauduleux
+<a name="Art.221" href="#Art.220">Art.</a> <a href="#LNK0092"> 221</a>. L'assujettissement frauduleux
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui :
 1° a assujetti frauduleusement une ou plusieurs personnes à l'application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
 2° a assujetti frauduleusement une ou plusieurs personnes à l'application de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 
-<a name="LNK0091" href="#LNKR0091">Section 6.</a> - Les relations entre les différentes institutions de sécurité sociale
+<a name="LNK0092" href="#LNKR0092">Section 6.</a> - Les relations entre les différentes institutions de sécurité sociale
 
-<a name="Art.222" href="#Art.221">Art.</a> <a href="#LNK0092"> 222</a>. Les relations entre les différentes institutions de sécurité sociale
+<a name="Art.222" href="#Art.221">Art.</a> <a href="#LNK0093"> 222</a>. Les relations entre les différentes institutions de sécurité sociale
 Sont punis d'une sanction de niveau 1 :
 1° la caisse d'allocations familiales qui :
 a) n'a pas informé immédiatement l'Office national d'allocations familiales pour travailleurs salariés qu'un employeur assujetti aux lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939, cesse de faire partie de la caisse d'allocations familiales en indiquant la date à laquelle cet employeur cesse d'être membre et le motif de sa désaffiliation;
@@ -1842,9 +1863,9 @@ a) n'ont pas transmis, de la manière et dans les délais fixés par le Roi, les
 b) n'ont pas prévenu le Fonds des accidents du travail dans les trente jours qui suivent la réception de la déclaration d'accident de leur refus de prendre l'accident en charge ou du doute qu'ils ont quant à l'application à l'accident de la loi précitée du 10 avril 1971;
 3° le débiteur de la réparation qui, en infraction à la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, omet d'informer l'organisme assureur qu'il va indemniser le bénéficiaire.
 
-<a name="LNK0092" href="#LNKR0092">Section 7.</a> - La transmission de documents aux institutions par les employeurs
+<a name="LNK0093" href="#LNKR0093">Section 7.</a> - La transmission de documents aux institutions par les employeurs
 
-<a name="Art.223" href="#Art.222">Art.</a> <a href="#LNK0093"> 223</a>. La transmission de documents aux institutions par les employeurs
+<a name="Art.223" href="#Art.222">Art.</a> <a href="#LNK0094"> 223</a>. La transmission de documents aux institutions par les employeurs
 § 1er. Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui n'a pas fait parvenir à l'Office national de sécurité sociale une déclaration justificative du montant des cotisations de sécurité sociale dues en application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
 2° l'armateur, son préposé ou son mandataire qui n'a pas fait parvenir à la Caisse de secours et de prévoyance en faveur des marins un état détaillé des retenues opérées et des versements dont il est redevable en application de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande;
@@ -1854,14 +1875,14 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multiplié
 § 2. Est puni d'une sanction de niveau 1, l'employeur qui n'a pas fait régulièrement parvenir, dans le délai fixé par le règlement sur la matière, l'état de renseignements nécessaires pour calculer les cotisations supplémentaires dont il est redevable à la caisse d'allocations familiales à laquelle il est affilié en application des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939.
 En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0093" href="#LNKR0093">Section 8.</a> - La délivrance au travailleur des documents en matière de soins de santé et indemnités
+<a name="LNK0094" href="#LNKR0094">Section 8.</a> - La délivrance au travailleur des documents en matière de soins de santé et indemnités
 
-<a name="Art.224" href="#Art.223">Art.</a> <a href="#LNK0094"> 224</a>. La délivrance au travailleur des documents en matière de soins de santé et indemnités
+<a name="Art.224" href="#Art.223">Art.</a> <a href="#LNK0095"> 224</a>. La délivrance au travailleur des documents en matière de soins de santé et indemnités
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui n'a pas fourni, aux titulaires de prestations de santé ou d'indemnités, les documents nécessaires pour prouver leurs droits aux prestations de l'assurance aux organismes d'exécution visés par la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.
 
-<a name="LNK0094" href="#LNKR0094">Section 9.</a> - Les obligations des praticiens de l'art de guérir
+<a name="LNK0095" href="#LNKR0095">Section 9.</a> - Les obligations des praticiens de l'art de guérir
 
-<a name="Art.225" href="#Art.224">Art.</a> <a href="#LNK0095"> 225</a>.Les obligations des praticiens de l'art de guérir
+<a name="Art.225" href="#Art.224">Art.</a> <a href="#LNK0096"> 225</a>.Les obligations des praticiens de l'art de guérir
 Sont punis d'une sanction de niveau 2 :
 1° les praticiens de l'art de guérir, les kinésithérapeutes, les praticiens de l'art infirmier, les auxiliaires paramédicaux, les gestionnaires de maisons de repos pour personnes âgées et les gestionnaires des établissements de soins qui refusent de remettre aux bénéficiaires les documents prescrits par la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 et ses arrêtés et règlements d'exécution;
 2° les médecins, les praticiens de l'art dentaire, les accoucheuses, les kinésithérapeutes, les praticiens de l'art infirmier, les auxiliaires paramédicaux et les gestionnaires des établissements de soins qui ne respectent pas les honoraires et les prix fixés en application de l'article 52 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier;
@@ -1869,9 +1890,9 @@ Sont punis d'une sanction de niveau 2 :
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012021514" target="_blank">2012-02-15/14</a>, art. 4, 004; En vigueur : 18-03-2012&gt;
 
-<a name="LNK0095" href="#LNKR0095">Section 10.</a> - Le contrôle du chômage
+<a name="LNK0096" href="#LNKR0096">Section 10.</a> - Le contrôle du chômage
 
-<a name="Art.226" href="#Art.225">Art.</a> <a href="#LNK0096"> 226</a>. Le contrôle du chômage
+<a name="Art.226" href="#Art.225">Art.</a> <a href="#LNK0097"> 226</a>. Le contrôle du chômage
 Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui :
 a) a refusé ou omis d'établir, de délivrer ou de compléter les documents prescrits par ou en vertu de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, dans les conditions et dans les délais fixés par ou en vertu de ce même arrêté royal;
@@ -1889,23 +1910,23 @@ b) a omis, en cas de remise d'un duplicata d'une carte de contrôle non-nominati
 c) a occupé un travailleur sans avoir constaté ou fait constater que celui-ci a mentionné sur sa carte de contrôle les prestations de travail qui, le jour concerné, sont effectuées à son service, dans la période à partir du jour qui, selon les arrêtés d'exécution de l'article 50 ou de l'article 51, § 3quater, de la loi du 3 juillet 1978 relative aux contrats de travail, a été communiqué à l'Office national de l'emploi comme le premier jour de suspension effective de l'exécution du contrat jusqu'à la fin du mois calendrier concerné.
 En ce qui concerne les infractions visées aux 1° et 4°, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0096" href="#LNKR0096">Section 11.</a> - La carte d'identité sociale
+<a name="LNK0097" href="#LNKR0097">Section 11.</a> - La carte d'identité sociale
 
 <a name="Art.227" href="#Art.226">Art.</a> <a href="#Art.228"> 227</a>. L'usage abusif et la falsification de la carte d'identité sociale
 Est puni d'une sanction de niveau 4, quiconque :
 1° a fait usage de la carte d'identité sociale ou de la carte professionnelle sans autorisation ou les a utilisées dans un autre but que celui pour lequel il a été habilité en application de l'arrêté royal du 18 décembre 1996 portant des mesures en vue d'instaurer une carte d'identité sociale à l'usage de tous les assurés sociaux, en application des articles 38, 40, 41 et 49 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions;
 2° a volontairement introduit des données lisibles électroniquement dans la carte d'identité sociale ou supprimé ou modifié les données lisibles électroniquement qu'elle contient ou leurs modes de traitement ou de transmission en contravention à l'arrêté royal précité du 18 décembre 1996.
 
-<a name="Art.228" href="#Art.227">Art.</a> <a href="#LNK0097"> 228</a>. La fabrication, la détention et la mise en circulation de cartes d'identité sociale et d'appareils de lecture
+<a name="Art.228" href="#Art.227">Art.</a> <a href="#LNK0098"> 228</a>. La fabrication, la détention et la mise en circulation de cartes d'identité sociale et d'appareils de lecture
 Est puni d'une sanction de niveau 4, quiconque a fabriqué, détenu ou mis en circulation des cartes d'identité sociale et des appareils de lecture en contravention à l'arrêté royal précité du 18 décembre 1996.
 
-<a name="LNK0097" href="#LNKR0097">Section 12.</a> - La mise au travail d'un chômeur ou d'une personne bénéficiaire de l'assurance indemnité
+<a name="LNK0098" href="#LNKR0098">Section 12.</a> - La mise au travail d'un chômeur ou d'une personne bénéficiaire de l'assurance indemnité
 
-<a name="Art.229" href="#Art.228">Art.</a> <a href="#LNK0098"> 229</a>. La mise au travail d'un chômeur ou d'une personne bénéficiaire de l'assurance indemnité
+<a name="Art.229" href="#Art.228">Art.</a> <a href="#LNK0099"> 229</a>. La mise au travail d'un chômeur ou d'une personne bénéficiaire de l'assurance indemnité
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui fait ou laisse travailler une personne alors qu'il sait qu'elle bénéficie d'indemnités d'incapacité primaire ou d'invalidité en vertu de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, ou qu'elle bénéficie d'allocations de chômage auxquelles elle n'a pas droit en raison de cette occupation.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0098" href="#LNKR0098">CHAPITRE 10.</a> - Les infractions de faux, d'usage de faux, de déclarations inexactes ou incomplètes et d'escroquerie en droit pénal social
+<a name="LNK0099" href="#LNKR0099">CHAPITRE 10.</a> - Les infractions de faux, d'usage de faux, de déclarations inexactes ou incomplètes et d'escroquerie en droit pénal social
 
 <a name="Art.230" href="#Art.229">Art.</a> <a href="#Art.231"> 230</a>. Les définitions
 Pour l'application du présent chapitre, on entend par :
@@ -1942,12 +1963,12 @@ Lorsque les infractions visées à l'alinéa 1er sont commises par l'employeur, 
 Est puni d'une sanction de niveau 4, quiconque, dans le but, soit d'obtenir ou de faire obtenir, de conserver ou de faire conserver un avantage social indu, soit de ne pas payer ou de ne pas faire payer de cotisations, d'en payer moins ou d'en faire payer moins que celles dont il ou autrui est redevable, a fait usage de faux noms, de faux titres ou de fausses adresses, ou a utilisé tout autre acte frauduleux pour faire croire à l'existence d'une fausse personne, d'une fausse entreprise, d'un accident fictif ou de tout autre événement fictif ou pour abuser d'une autre manière de la confiance.
 Lorsque l'infraction visée à l'alinéa 1er est commise par l'employeur, son préposé ou son mandataire pour faire obtenir ou pour faire conserver un avantage social auquel le travailleur n'a pas droit, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.236" href="#Art.235">Art.</a> <a href="#LNK0099"> 236</a>. La restitution
+<a name="Art.236" href="#Art.235">Art.</a> <a href="#LNK0100"> 236</a>. La restitution
 Lorsque les tiers lésés ne se sont pas constitués partie civile, le juge qui prononce la peine prévue aux articles 218, 219, 220 et 221 ou qui constate la culpabilité pour une infraction à ces dispositions, condamne d'office le débiteur des cotisations impayées à payer les arriérés de cotisations, les majorations de cotisations et les intérêts de retard.
 Lorsque les tiers lésés ne se sont pas constitués partie civile, le juge qui prononce la peine prévue à l'article 233, § 1er, 3°, ou qui constate la culpabilité pour une infraction à cette disposition, condamne d'office le prévenu à restituer les sommes perçues indûment, augmentées des intérêts de retard.
 En l'absence de décompte relatif aux montants visés à l'alinéa 1er et à l'alinéa 2 ou lorsque le décompte est contesté et doit faire l'objet d'un complément d'information, le juge réserve à statuer sur la condamnation d'office.
 
-<a name="LNK0099" href="#LNKR0099">CHAPITRE 11.</a> - Règles communes aux chapitres précédents
+<a name="LNK0100" href="#LNKR0100">CHAPITRE 11.</a> - Règles communes aux chapitres précédents
 
 <a name="Art.237" href="#Art.236">Art.</a> 237. La notification par l'employeur du jugement constatant une infraction en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 décembre 2006 contenant diverses dispositions en matière de droit pénal social, omet sciemment et volontairement de notifier, à ses frais, le jugement constatant une infraction aux lois et règlements qui relèvent de la compétence des juridictions du travail en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire aux travailleurs concernés.
