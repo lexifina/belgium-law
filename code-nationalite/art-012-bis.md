@@ -1,25 +1,37 @@
-§ 1. Peuvent acquérir la nationalité belge en faisant une déclaration conformément au § 2 du présent article, s'ils ont atteint l'âge de dix-huit ans:
-1° l'étranger né en Belgique et y ayant sa résidence principale depuis sa naissance;
-2° Dans l'étranger dont l'un des auteurs ou adoptants possède la nationalité belge au moment de la déclaration, pour autant que l'adoption ait produit ses effets avant que l'adopté n'atteigne l'âge de dix-huit ans ou n'ait été émancipé avant cet âge. Si le déclarant a sa résidence principale à l'étranger, il doit montrer qu'il a conservé des liens effectifs avec son auteur ou adoptant belge et cet auteur ou adoptant doit avoir fixé sa résidence principale en Belgique au moment de la déclaration;
-3° l'étranger qui peut faire valoir sept années de résidence principale en Belgique couvertes par un séjour légal et qui, au moment de la déclaration, a été admis ou autorisé au séjour pour une durée illimitée.
-§ 2. La déclaration est faite contre récépissé devant l'officier de l'état civil du lieu où le déclarant a sa résidence principale. Au plus tard dans les cinq jours ouvrables qui suivent cette déclaration, une copie de celle-ci, à laquelle une copie du récépissé est jointe, est, dès que le dossier est complet, communiquée pour avis par l'officier de l'état civil au parquet du tribunal de première instance du ressort. Le procureur du Roi en accuse réception sans délai.
-En même temps qu'il communique au procureur du Roi copie du dossier, l'officier de l'état civil en transmet également copie à l'Office des étrangers et à la Sûreté de l'Etat.
-Dans le cas prévu au § 1er, 2°, et si le déclarant a sa résidence principale à l'étranger, sa déclaration est faite devant le chef de la mission diplomatique ou du poste consulaire de carrière belge de cette résidence principale. Au plus tard dans les cinq jours ouvrables qui suivent cette déclaration, une copie de celle-ci, à laquelle une copie du récépissé est jointe, est communiquée pour avis par le chef de la mission diplomatique ou du poste consulaire de carrière de cette résidence au parquet du tribunal de première instance de Bruxelles.
-Le procureur du Roi en accuse réception sans délai.
-En même temps qu'il communique au procureur du Roi copie du dossier, le chef de la mission diplomatique ou du poste consulaire de carrière belge en transmet également copie à l'Office des Etrangers et à la Sûreté de l'Etat.
-Dans un délai de quatre mois à compter de la déclaration faite devant l'officier de l'état civil visée à l'alinéa 1er ou dans ce même délai prolongé de quinze jours à compter de la déclaration faite devant le chef de la mission diplomatique ou du poste consulaire de carrière belge, le procureur du Roi peut émettre un avis négatif sur l'acquisition de la nationalité belge lorsqu'il y a un empêchement résultant de faits personnels graves, qu'il doit préciser dans les motifs de son avis, ou lorsque les conditions de base visées au § 1er, qu'il doit indiquer, ne sont pas remplies.
-Si en violation de l'alinéa 1er, la déclaration fait l'objet d'une communication tardive intervenant dans le courant du dernier mois du délai, celui-ci est d'office prolongé d'un mois à dater de la communication du dossier au parquet.
-Lorsqu'il estime ne pas devoir émettre d'avis négatif, il envoie à l'officier de l'état civil une attestation signifiant l'absence d'avis négatif. La déclaration est immédiatement inscrite et mentionnée conformément à l'article 22, § 4.
-A l'expiration du délai de quatre mois, éventuellement prolongé conformément à l'alinéa 6, et à défaut d'avis négatif du procureur du Roi ou de transmission d'une attestation signifiant l'absence d'avis négatif, la déclaration est inscrite d'office et mentionnée conformément à l'article 22, § 4. Toutefois, à défaut de communication visée à l'alinéa 1er, l'inscription n'a pas lieu, l'officier de l'état civil en informe immédiatement l'intéressé.
-Notification de l'inscription est faite à l'intéressé par l'officier de l'état civil.
-La déclaration a effet à compter de l'inscription.
-§ 3. L'avis négatif doit être motivé. Il est notifié à l'officier de l'état civil et, par lettre recommandée à la poste, à l'intéressé par les soins du procureur du Roi.
-Le procureur du Roi ou l'officier de l'état civil dans le cas visé au § 2, alinéa 8, dernière phrase, communique à l'intéressé que, sauf si celui-ci demande la saisine du tribunal conformément au § 4, l'officier de l'état civil transmettra son dossier à la Chambre des représentants, de sorte que l'intéressé puisse déposer un mémoire en réponse au greffe de la Chambre des représentants, dans un délai d'un mois.
-L'officier de l'état civil communique le dossier de l'intéressé ainsi que, le cas échéant, l'avis négatif du procureur du Roi à la Chambre des représentants ou, en application du § 4, au Tribunal de première instance. La communication à la Chambre des représentants tient lieu de demande de naturalisation, sur laquelle la Chambre des représentants statue conformément à l'article 21, § 4.
-§ 4. Dans les quinze jours suivant la date de réception de l'information visée au § 2, alinéa 8, dernière phrase, ou de l'avis négatif visé au § 3, l'intéressé peut inviter l'officier de l'état civil, par lettre recommandée à la poste, à transmettre son dossier au Tribunal de première instance.
-Après avoir entendu ou appelé l'intéressé, le Tribunal de première instance statue sur le bien-fondé de l'avis négatif ou de la déclaration en cas d'application du § 2, alinéa 8, dernière phrase. La décision doit être motivée.
-La décision est notifiée à l'intéressé par les soins du procureur du Roi. Dans les quinze jours de la notification, l'intéressé et le procureur du Roi peuvent interjeter appel de la décision, par requête adressée à la Cour d'appel. La prorogation des délais suite aux vacances judiciaires a lieu conformément à l'article 50, alinéa 2, du Code judiciaire.
-Celle-ci statue, après avis du procureur général, et après avoir entendu ou appelé l'intéressé.
-Les citations ou notifications se font par la voie administrative.
-Le dispositif de la décision définitive par laquelle l'avis négatif est déclaré non fondé est envoyé à l'officier de l'état civil par les soins du ministère public. La déclaration est immédiatement inscrite et mentionnée conformément aux dispositions de l'article 22, § 4. Le § 2, alinéas 5 et 6, est également d'application.
-§ 5. abrogé
+§ 1er. Peuvent acquérir la nationalité belge en faisant une déclaration conformément à l'article 15:
+1° l'étranger qui:
+a) a atteint l'âge de dix-huit ans;
+b) et est né en Belgique et y séjourne légalement depuis sa naissance;
+2° l'étranger qui:
+a) a atteint l'âge de dix-huit ans;
+b) et séjourne légalement en Belgique depuis cinq ans;
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+d) et prouve son intégration sociale:
+- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement organisé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+- ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente;
+- ou bien en ayant suivi un cours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame son cours d'intégration;
+- ou bien en ayant travaillé de manière ininterrompue au cours des cinq dernières années comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique et/ou comme travailleur indépendant à titre principal;
+e) et prouve sa participation économique:
+- soit en ayant travaillé pendant au moins 468 journées de travail au cours des cinq dernières années en tant que travailleur salarié et/ou agent statutaire dans la fonction publique;
+- soit en ayant payé, en Belgique, dans le cadre d'une activité professionnelle indépendante exercée à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins six trimestres au cours des cinq dernières années;
+La durée de la formation suivie dans les cinq ans qui ont précédé la demande visée au 2°, d), premier et/ ou deuxième tirets, est déduite de la durée de l'activité professionnelle requise de 468 jours minimum ou de la durée de l'activité professionnelle indépendante à titre principal.
+3° l'étranger qui:
+a) a atteint l'âge de dix-huit ans;
+b) et séjourne légalement en Belgique depuis cinq ans;
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+d) et est marié avec une personne de nationalité belge, si les époux ont vécu ensemble en Belgique pendant au moins trois ans, ou est le parent d'un enfant belge mineur ou mineur non émancipé;
+e) et prouve son intégration sociale:
+- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement fondé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+- ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente, et en ayant travaillé, au cours des cinq dernières années, pendant au moins 234 journées comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique ou en ayant payé en Belgique, dans le cadre d'une activité professionnelle indépendante à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins trois trimestres;
+- ou bien en ayant suivi un cours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame son cours d'intégration;
+4° l'étranger qui:
+a) a atteint l'âge de dix-huit ans;
+b) et séjourne légalement en Belgique depuis cinq ans;
+c) et apporte la preuve qu'il ne peut, en raison d'un handicap ou d'une invalidité, ni occuper un emploi ni exercer une activité économique, ou a atteint l'âge de la pension;
+5° l'étranger qui:
+a) a atteint l'âge de dix-huit ans;
+b) et séjourne légalement en Belgique depuis dix ans;
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+d) et justifie de sa participation à la vie de sa communauté d'accueil. Cette preuve peut être apportée par toutes voies de droit, et contient des éléments attestant que le demandeur prend part à la vie économique et/ou socioculturelle de cette communauté d'accueil.
+§ 2. Lorsque l'intégration sociale visée au § 1er, 2°, d, et au § 1er, 3°, e, est démontrée en ayant suivi un cours d'intégration prévu par une autorité compétente qui n'est pas la même autorité compétente que celle de la résidence principale du demandeur au moment de sa demande, et ce, parce que le demandeur a changé de résidence principale avant d'atteindre la durée visée au § 1er, 2°, b, et § 1er, 3°, b, pour s'installer sur le territoire d'une autre autorité compétente, le demandeur doit également apporter la preuve de la connaissance de la langue demandée par les autorités compétentes de sa résidence principale dans le cadre du cours d'intégration. Cette preuve doit être apportée de la même manière que la preuve de la connaissance d'une des trois langues nationales.
+§ 3. La déclaration comporte, préalablement à la signature de l'étranger, la mention suivante, écrite de la main de l'étranger: " Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales.
