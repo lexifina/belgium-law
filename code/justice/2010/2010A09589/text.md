@@ -51,7 +51,7 @@ Elle établit des recommandations et rend des avis, d'office ou à la demande d'
 Elle est consultée par le Bureau fédéral d'orientation sur le plan stratégique tel que visé à l'article 2.
 Elle approuve le rapport annuel défini à l'article 7, 16°. Le président présente le rapport annuel approuvé au gouvernement pour le 15 septembre de chaque année.
 
-<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. La composition du Bureau fédéral d'orientation et du comité de direction
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>.La composition du Bureau fédéral d'orientation et du comité de direction
 § 1er. II est institué un Bureau fédéral d'orientation dénommé ci-après " le Bureau ", centre d'orientation, d'expertise et de soutien aux services d'inspection.
 Le Bureau est assisté d'un secrétariat composé de minimum deux personnes.
 Le secrétariat du Bureau est également celui de l'Assemblée générale des partenaires.
@@ -67,16 +67,19 @@ Le secrétariat du Bureau est également celui de l'Assemblée générale des pa
 3° du procureur général désigné par le Collège des procureurs généraux;
 4° des fonctionnaires dirigeants délégués par l'Office national des pensions, de l'Institut national d'Assurance Maladie-Invalidité et de l'Office national des allocations familiales des travailleurs salariés.
 Ce comité de direction est chargé d'établir le plan stratégique et le plan opérationnel visés à l'article 2 ainsi que de veiller au suivi de ceux-ci.
-§ 3. Le Bureau est composé :
+§ 3. [<sup>1</sup> Le Bureau est composé :
 1° du directeur;
-2° d'un magistrat d'un auditorat du travail ou d'un auditorat général du travail;
-3° de membres du Service public fédéral Emploi, Travail et Concertation sociale, du Service public fédéral Sécurité sociale, des institutions publiques de sécurité sociale ou du Service public fédéral intégration sociale;
-4° d'un membre du Service public fédéral Finances;
-5° d'analystes et d'experts dans le domaine de la détection de la fraude et de la lutte contre celle-ci, qui sont chargés de collecter toute information utile à la détection et à l'analyse des phénomènes de fraude. A cette fin, chaque institution publique et chaque organisme fédéral fournira les renseignements demandés par les membres du Bureau;
-6° d'inspecteurs sociaux issus du Service public fédéral Sécurité sociale, du Service public fédéral Emploi, Travail et Concertation sociale, de l'Office national de sécurité sociale et de l'Office national de l'Emploi et intégrés dans l'équipe de détection de la fraude informatique qui est chargée de soutenir les services d'inspection par son expertise en matière de technologie de l'information et de la communication.
+2° du chef de service, désigné parmi un des membres mentionnés au 4° ;
+3° d'un magistrat d'un auditorat du travail ou d'un auditorat général du travail;
+4° de membres du Service public fédéral Emploi, Travail et Concertation sociale, du Service public fédéral Sécurité sociale, des institutions publiques de sécurité sociale ou du Service public fédéral de programmation Intégration Sociale;
+5° d'un membre du Service public fédéral Finances;
+6° d'analystes et d'experts dans le domaine de la détection de la fraude et de la lutte contre celle-ci, qui collectent toute information utile à la détection et à l'analyse des phénomènes de fraude. A cette fin, chaque institution publique et chaque organisme fédéral fournit les renseignements demandés par les membres du Bureau;
+7° d'inspecteurs sociaux issus du Service public fédéral Sécurité sociale, du Service public fédéral Emploi, Travail et Concertation sociale, de l'Office national de Sécurité sociale et de l'Office national de l'Emploi, qui sont intégrés dans l'équipe de détection de la fraude informatique qui soutient les services d'inspection par son expertise en matière de technologie de l'information et de la communication.]<sup>1</sup>
 § 4. Le Roi détermine le nombre de membres composant le Bureau.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 30, 007; En vigueur : 10-01-2013&gt;
 
-<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Les missions du Bureau
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.Les missions du Bureau
 Le Bureau est chargé :
 1° de la mise en oeuvre de la politique définie par le Conseil des ministres dans la lutte contre le travail illégal et la fraude sociale en exécution du plan stratégique et du plan opérationnel visé à l'article 2;
 2° d'orienter et de mener des actions de prévention nécessaires à la mise en oeuvre de cette politique;
@@ -87,7 +90,7 @@ Si l'évaluation mensuelle indique trois fois de suite que les objectifs défini
 6° d'adresser des directives en exécution du plan opérationnel aux Cellules d'arrondissement visées à l'article 11, approuvées par le procureur général désigné par le Collège des procureurs généraux;
 7° de convoquer deux fois par an les présidents des cellules d'arrondissement aux fins d'organiser une coordination du travail entre ces cellules;
 8° d'apporter aux administrations et aux services compétents en matière de lutte contre le travail illégal et la fraude sociale toute l'assistance nécessaire pour mener à bien les opérations de contrôle;
-9° de réaliser des études relatives à la problématique du travail illégal et de la fraude sociale en permettant un meilleur ciblage des actions à mener, notamment avec l'appui des analystes dont la mission est définie à l'article 6, § 3, 5°;
+9° de réaliser des études relatives à la problématique du travail illégal et de la fraude sociale en permettant un meilleur ciblage des actions à mener, notamment avec l'appui des analystes dont la mission est définie à l'article [<sup>1</sup> 6, § 3, 6°]<sup>1</sup>;
 10° d'assurer le soutien des services d'inspection;
 11° de soutenir les démarches nécessaires à l'accès total à toutes les banques de données nécessaires pour l'exécution des missions des services d'inspection;
 12° de mener une politique en matière de collecte, de conservation, de développement et d'échange structuré des informations, notamment dans le cadre de la modernisation de la sécurité sociale avec la Banque-carrefour de la sécurité sociale instituée et organisée par la loi du 15 janvier 1990;
@@ -98,36 +101,58 @@ Si l'évaluation mensuelle indique trois fois de suite que les objectifs défini
 17° de mettre au point une collaboration internationale entre services d'inspection dans le cadre des actions communes aux différents services et d'en assurer le suivi;
 18° de veiller à la mise en oeuvre des conventions de partenariat conclues par le(s) ministre(s);
 19° d'assister l'Assemblée générale dans le cadre de ses missions.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 31, 007; En vigueur : 10-01-2013&gt;
 
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. L'exclusivité de la fonction du directeur du Bureau, les conditions de sa nomination et son statut
-Le directeur du Bureau doit être titulaire d'une fonction de management.
-Pendant la durée de son mandat, le directeur ne peut exercer aucune autre fonction, ni être titulaire d'un mandat public conféré par élection.
-Il est dérogé à la règle énoncée à l'alinéa précédent, avec l'autorisation préalable du Roi, lorsqu'il s'agit de l'exercice d'une fonction d'enseignement dans un établissement d'enseignement supérieur ou de membre d'un jury d'examen.
-Le Roi détermine les conditions de nomination et le statut pécuniaire et administratif du directeur.
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.[<sup>1</sup> La désignation du directeur du Bureau
+La fonction du directeur du Bureau est exercée alternativement par les fonctionnaires dirigeants des services suivants :
+1° l'Inspection sociale du Service public fédéral Sécurité sociale;
+2° la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale;
+3° la direction générale Indépendants du Service public fédéral Sécurité sociale;
+4° la direction générale des services d'inspection de l'Office de Sécurité sociale;
+5° le Service d'inspection de l'Office national de l'Emploi;
+6° le Service d'Inspection de l'Institut national d'Assurances sociales pour Travailleurs indépendants.
+L'ordre suivant lequel les fonctionnaires dirigeants exercent ce mandat est l'ordre précité.
+Le mandat de directeur du Bureau est accordé pour une période de deux ans.
+Lors de l'exercice de son mandat, le directeur du Bureau est assisté par le fonctionnaire dirigeant du service qui va exercer le mandat de directeur dans la période suivante de deux ans et le fonctionnaire dirigeant qui a exercé le mandat de directeur dans la période précédente de deux ans.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 32, 007; En vigueur : 10-01-2013&gt;
 
-<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Les missions du directeur du Bureau
-Le directeur exerce la gestion journalière du Bureau et exécute le plan opérationnel établi par le Bureau.
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9/1"> 9</a>.[<sup>1</sup> Les missions du directeur du Bureau
+Le directeur dirige le Bureau et exécute le plan opérationnel établi par le Bureau.
 Le directeur du Bureau est membre du groupe de travail pour la modernisation de la sécurité sociale.
-Il présente au groupe de travail pour la modernisation de la sécurité sociale pour le 15 septembre de chaque année le plan opérationnel visé à l'article 2.
-Il siège au sein de la commission de conventions de partenariat institueé au sein du SPF Emploi, Travail et Concertation sociale. Il veille à communiquer les résultats des travaux de cette commission au Bureau et à l'Assemblée générale.
-Le directeur porte à la connaissance du procureur du Roi ou de l'auditeur du travail toute information susceptible de donner lieu à l'ouverture d'une procédure judiciaire.
+Il présente le plan opérationnel visé à l'article 2 au groupe de travail pour la modernisation de la sécurité sociale pour le 15 septembre de chaque année.
+Il siège au sein de la commission de conventions de partenariat instituée au sein du Service public fédéral Emploi, Travail et Concertation sociale. Il communique les résultats des travaux de cette commission au Bureau et à l'Assemblée générale.
+Le directeur porte à la connaissance du procureur du Roi ou de l'auditeur du travail toute information susceptible de donner lieu à l'ouverture d'une procédure judiciaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 33, 007; En vigueur : 10-01-2013&gt;
 
-<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0005"> 10</a>. Les pouvoirs des membres du Bureau, leur nomination et leur statut
+<a name="Art.9/1" href="#Art.9">Art.</a> <a href="#Art.10"> 9/1</a>. [<sup>1</sup> La fonction du chef de service
+Le chef de service exerce la gestion journalière du Bureau. Il est responsable de la gestion du budget et du personnel du Service d'Information et de Recherche sociale et de chaque mission qui lui est déléguée par le directeur du Bureau.
+Le Roi détermine les conditions de nomination et le statut pécuniaire et administratif du chef de service.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 34, 007; En vigueur : 10-01-2013&gt;
+
+<a name="Art.10" href="#Art.9/1">Art.</a> <a href="#LNK0005"> 10</a>.Les pouvoirs des membres du Bureau, leur nomination et leur statut
 Pendant la durée de leur mandat, les inspecteurs sociaux, membres du Bureau, gardent leur qualité d'inspecteur social au sens du titre 2.
 Les autres membres du bureau tels que visés à l'article 6, § 3, disposent des mêmes accès aux banques de données que les inspecteurs sociaux au sens du titre 2.
-Pour l'exercice des tâches qui leur sont attribuées en ce qui concerne la recherche et l'analyse des pratiques de fraude et la collecte de toutes les informations utiles à cette fin, les membres du Bureau visé à l'article 6, § 3, 5°, sont considérés comme ayant la qualité d'inspecteur social.
+Pour l'exercice des tâches qui leur sont attribuées en ce qui concerne la recherche et l'analyse des pratiques de fraude et la collecte de toutes les informations utiles à cette fin, les membres du Bureau visé à l'article [<sup>1</sup> 6, § 3, 6°]<sup>1</sup>, sont considérés comme ayant la qualité d'inspecteur social.
 Les membres du Bureau sont nommés par le Roi.
 Le Roi fixe le statut administratif et pécuniaire des membres du Bureau.
 Il fixe les modalités de recrutement.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 35, 007; En vigueur : 10-01-2013&gt;
 
 <a name="LNK0005" href="#LNKR0005">CHAPITRE 3.</a> - La cellule d'arrondissement
 
-<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. La cellule d'arrondissement
-II est institué une cellule d'arrondissement par arrondissement judiciaire, dénommée ci-après " la cellule ", présidée par l'auditeur du travail et pour le surplus composée d'un représentant des services visés à l'article 4, alinéa 1er, 4°, d'un représentant du Service public fédéral Finances, d'un magistrat du parquet du procureur du Roi, d'un membre de la police fédérale, d'un membre visé à l'article 6, § 3, 3°, et du secrétaire de la cellule.
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>.La cellule d'arrondissement
+II est institué une cellule d'arrondissement par arrondissement judiciaire, dénommée ci-après " la cellule ", présidée par l'auditeur du travail et pour le surplus composée d'un représentant des services visés à l'article 4, alinéa 1er, 4°, d'un représentant du Service public fédéral Finances, d'un magistrat du parquet du procureur du Roi, d'un membre de la police fédérale, d'un membre visé à l'article [<sup>1</sup> 6, § 3, 4° ou 5°]<sup>1</sup>, et du secrétaire de la cellule.
 Est associé à la cellule d'arrondissement, à sa demande, le représentant du service d'inspection régionale compétent en matière d'emploi en vertu de l'article 6, § 1er, IX, de la loi spéciale du 8 août 1980 de réformes institutionnelles.
 Dans le cas où une organisation efficiente du travail le préconise et à condition que les arrondissements judiciaires concernés ne comportent chacun pas plus de huit cantons, une cellule peut comporter plusieurs arrondissements judiciaires.
 Si une organisation plus efficiente du travail le préconise dans un arrondissement judiciaire deux cellules d'arrondissement peuvent être créées.
 Dans les cas visés aux deux alinéas précédents, la fusion ou scission des cellules d'arrondissement est sollicitée par les cellules d'arrondissement initiales qui soumettent cette proposition au comité de direction du Bureau qui doit l'approuver.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 36, 007; En vigueur : 10-01-2013&gt;
 
 <a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. La mission de la cellule
 La mission de la cellule en tant que branche opérationnelle locale, consiste à :
@@ -138,7 +163,7 @@ La mission de la cellule en tant que branche opérationnelle locale, consiste à
 5° informer les membres de la cellule d'arrondissement du suivi des dossiers traités par les services d'inspection sociale et poursuivis devant les tribunaux ainsi que les jurisprudences pertinentes pour les services d'inspection;
 6° assurer la formation continue des membres en matière de droit pénal social.
 
-<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Le groupe restreint d'intervention régionale, sa mission et sa composition
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>.Le groupe restreint d'intervention régionale, sa mission et sa composition
 § 1er. La cellule constitue en son sein un groupe restreint d'intervention régionale, appelé GIR, qui se réunit au moins une fois par mois et est présidée par l'auditeur du travail.
 Le GIR est chargé d'organiser et de coordonner, à raison de deux actions au moins par mois et tel que prévu dans le plan d'action, les contrôles du respect des différentes législations sociales en rapport avec le travail illégal et la fraude sociale.
 Il veille à concrétiser sur le terrain le plan d'action annuel en organisant le ciblage local des contrôles.
@@ -147,7 +172,7 @@ Le Bureau peut sur proposition d'un de ses membres décider d'une action nationa
 § 2. Chaque GIR est composé des représentants suivants :
 1° le président, auditeur du travail;
 2° le secrétaire de la cellule;
-3° un membre du Bureau visé à l'article 6, § 3, 3°;
+3° un membre du Bureau visé à l'article [<sup>1</sup> 6, § 3, 4° ou 5° ]<sup>1</sup>;
 4° un représentant de l'Inspection sociale;
 5° un représentant du Contrôle des lois sociales;
 6° un représentant du service d'inspection de l'Office national de sécurité sociale;
@@ -159,6 +184,8 @@ Cet inspecteur travaille en étroite collaboration avec le président et les aut
 1° de préparer les réunions mensuelles du GIR;
 2° d'assurer la communication au Bureau des résultats des actions menées.
 Le procès-verbal de la réunion mensuelle du GIR est transmis au Bureau.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 37, 007; En vigueur : 10-01-2013&gt;
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Le secrétariat de la cellule
 Les cellules sont soutenues par un secrétariat qui est institué par cellule d'arrondissement.
