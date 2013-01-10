@@ -74,12 +74,11 @@ Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions min
 <a name="LNK0007" href="#LNKR0007">CHAPITRE I.</a> - Montant du revenu d'intégration.
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>.(NOTE : par son arrêt n° 5/2004 du 14-01-2004 (M.B. 27-02-2004, p. 11203), la Cour d'Arbitrage a annulé l'article 14, § 1er, 1°, en ce qu'il traite de la même manière tous les cohabitants sans tenir compte de la charge d'enfants et l'article 14, § 1er, 2°, en tant qu'il comprend la catégorie des personnes qui s'acquittent d'une part contributive pour un enfant placé, fixée par le tribunal de la jeunesse ou les autorités administratives dans le cadre de l'aide ou de la protection de la jeunesse)
-(NOTE : par son arrêt n° 123/2006 du 28-07-2006 (M.B. 01-09-2006, p. 43897-43903), la Cour d'Arbitrage a annulé le mot " exclusivement " dans l'article 14, § 1er, 3° de cet article)
 § 1er. (Le revenu d'intégration s'élève à :
 1° 4 400 EUR pour toute personne cohabitant avec une ou plusieurs personnes.
 Il faut entendre par cohabitation le fait que des personnes vivent sous le même toit et règlent principalement en commun leurs questions ménagères.
 2° 6 600 EUR pour une personne isolée (ainsi que pour toute personne sans abri qui bénéficie d'un projet individualisé d'intégration sociale visé à l'article 11, §§ 1er et 3 ainsi qu'à l'article 13, § 2). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006102649" target="_blank">2006-10-26/49</a>, art. 2, 008; <b> En vigueur : </b> 30-03-2007&gt;
-3° 8 800 EUR pour une personne vivant exclusivement avec une famille à sa charge.
+3° 8 800 EUR pour une personne vivant <i>[...]</i> avec une famille à sa charge. (NOTE : par son arrêt n° 123/2006 du 28-07-2006 (M.B. 01-09-2006, p. 43897-43903), la Cour d'Arbitrage a annulé le mot " <i>exclusivement</i> " dans l'article 14, § 1er, 3° de cet article)
 Ce droit s'ouvre dès qu'il y a présence d'au moins un enfant mineur non marié.
 Il couvre également le droit de l'éventuel conjoint ou partenaire de vie.
 Par famille à charge, on entend le conjoint, le partenaire de vie, l'enfant mineur non marié ou plusieurs enfants parmi lesquels au moins un enfant mineur non marié.
@@ -89,11 +88,12 @@ Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quell
 § 3. Le bénéficiaire d'un revenu d'intégration qui perd sa qualité de sans-abri en occupant un logement qui lui sert de résidence principale a droit, une seule fois dans sa vie, à une majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
 Par dérogation à l'alinéa précédent, le Roi peut prévoir la possibilité d'octroyer, dans des cas dignes d'intérêt, une deuxième fois la majoration d'un douzième du montant annuel du revenu d'intégration, fixé au (§ 1, alinéa 1, 3°). &lt;L 2004-12-27/30, art. 200, 005; <b> En vigueur : </b> 01-01-2005&gt;
 Le Roi peut assimiler d'autres catégories de personnes à des sans-abri.
+
 (NOTE 1 : Pour la période du 1er octobre 2004 jusqu'au 31 décembre 2004 les montants du revenu d'intégration visés à l'article 14, § 1er, sont respectivement fixés comme suit :
 4.444,00;
 6.666,00;
 7.777,00;
-8.888,00; voir AR 2004-09-03/32, art. 1)
+8.888,00; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2004090332" target="_blank">2004-09-03/32</a>, art. 1)
 (NOTE 2 : Pour la période à partir du 1er janvier 2005 les montants du revenu d'intégration visés à l'article 14, § 1er, sont respectivement fixés comme suit :
 1° au 1er janvier 2005 :
 4.444,00;
@@ -106,20 +106,27 @@ Le Roi peut assimiler d'autres catégories de personnes à des sans-abri.
 3° au 1er octobre 2007 :
 (4.578,21); &lt;Erratum, voir M.B. 02-12-2004, p. 80685&gt;
 6.867,31;
-9156,42; voir AR 2004-09-03/32, art. 2)
-(NOTE : Suite à l'application du mécanisme légal de liaison au bien-être, les montants de base du revenu d'intégration sont fixés comme suit à partir du 1er septembre 2011 :
-Catégorie 1 (personne cohabitant) euro 4.858,43.
-Catégorie 2 (personne isolée) euro 7.287,65.
-Catégorie 3 (personne vivant avec une famille à sa charge) euro 9.716,87.
-Cela signifie concrètement que les nouveaux montants sont applicables à partir du 1er septembre 2011.
-Le coefficient d'indexation applicable est 1,2682.
-Mode de calcul : montant de base x 1,2682 (= 1,02<sup>12</sup>).
+9156,42; (NOTE 3 : voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2004090332" target="_blank">2004-09-03/32</a>, art. 2)
+
+(NOTE : Suite à l'application du mécanisme légal de liaison au bien-être, les montants de base du revenu d'intégration sont adaptés :
 
 Montants du revenu d'intégration au 1er septembre 2011
 
-<table border="1"><br>   <br>   <tr><td></td><td>Montant de base </td><td>Revenu d'intégration sur une base annuelle au 1er septembre 2011</td><td>Revenu d'intégration sur une base mensuelle au 1er septembre 2011<br>   </td></tr><tr><td>Catégorie 1 Personne cohabitant</td><td> euro 4.858,43</td><td> euro 6.161,46</td><td> euro 513,46<br>   </td></tr><tr><td>Catégorie 2 Personne isolée</td><td> euro 7.287,65</td><td> euro 9.242,20</td><td> euro 770,18<br>   </td></tr><tr><td>Catégorie 3 Personne qui cohabite avec une famille à sa charge</td><td> euro 9.716,87</td><td> euro 12.322,93</td><td> euro 1.026,91</td></tr></table>
+<table border="1"><br>  <tr><td></td><td>Montant de base </td><td>Revenu d'intégration sur une base annuelle au 1er septembre 2011</td><td>Revenu d'intégration sur une base mensuelle au 1er septembre 2011<br>   </td></tr><tr><td>Catégorie 1 Personne cohabitant</td><td> euro 4.858,43</td><td> euro 6.161,46</td><td> euro 513,46<br>   </td></tr><tr><td>Catégorie 2 Personne isolée</td><td> euro 7.287,65</td><td> euro 9.242,20</td><td> euro 770,18<br>   </td></tr><tr><td>Catégorie 3 Personne qui cohabite avec une famille à sa charge</td><td> euro 9.716,87</td><td> euro 12.322,93</td><td> euro 1.026,91</td></tr></table>
 
 ; voir DIVERS <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011082301" target="_blank">2011-08-23/01</a>, art. M, 012; En vigueur : 01-09-2011)
+
+Montants du revenu d'intégration au 1er février 2012
+
+<table border="1"><tr><td></td><td>Montant de base</td><td>Revenu d'intégration sur une base annuelle<br>  au 1er février 2012</td><td>Revenu d'intégration sur une base mensuelle au<br>  1er février 2012</td></tr><tr><td>Catégorie 1<br>  Personne cohabitante</td><td><br>  € 4.858,43</td><td><br>  € 6.284,87</td><td><br>  € 523,74</td></tr><tr><td>Catégorie 2<br>  Personne isolée</td><td><br>  € 7.287,65</td><td><br>  € 9.427,30</td><td><br>  € 785,61</td></tr><tr><td>Catégorie 3<br>  Personne qui cohabite avec une famille à sa charge</td><td><br>  € 9.716,87</td><td><br>  € 12.569,74</td><td><br>  € 1.047,48</td></tr></table>
+
+(voir CM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012020108" target="_blank">2012-02-01/08</a>, Art. N; <b> En vigueur : </b> 01-02-2012)
+
+Montants du revenu d'intégration au 1er décembre 2012
+
+<table border="1"><tr><td></td><td>Montant de base </td><td>Revenu d'intégration sur une base annuelle au 1er décembre 2012</td><td>Revenu d'intégration sur une base mensuelle au 1er décembre 2012</td></tr><tr><td>Catégorie 1<br>  Personne cohabitante</td><td><br>  € 4.858,43</td><td><br>  € 6.410,70</td><td><br>  € 534,23</td></tr><tr><td>Catégorie 2<br>  Personne isolée</td><td><br>  € 7.287,65</td><td><br>  € 9.616,05</td><td><br>  € 801,34</td></tr><tr><td>Catégorie 3<br>  Personne qui cohabite avec une famille à sa charge</td><td><br>  € 9.716,87</td><td><br>  € 12.821,41</td><td><br>  € 1.068,45</td></tr></table>
+
+(voir CM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012120101" target="_blank">2012-12-01/01</a>, Art. N; <b> En vigueur : </b> 01-12-2012)
 
 <a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0008"> 15</a>. Les montants visés à l'article 14, § 1, alinéa 1, sont rattachés à l'indice 103,14 applicable au 1er juin 1999 (base 1996 = 100) des prix à la consommation.
 Ils varient conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
@@ -155,13 +162,16 @@ La décision d'incompétence peut être prise par le président à charge pour l
 
 <a name="LNK0012" href="#LNKR0012">Section 3.</a> - Examen de la demande.
 
-<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. § 1. Le centre procède à une enquête sociale en vue de l'octroi de l'intégration sociale sous la forme d'un revenu d'intégration ou d'un emploi, en vue de la révision ou du retrait d'une décision y afférente ou en vue d'une décision de suspension de paiement du revenu d'intégration.
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>.§ 1. Le centre procède à une enquête sociale en vue de l'octroi de l'intégration sociale sous la forme d'un revenu d'intégration ou d'un emploi, en vue de la révision ou du retrait d'une décision y afférente ou en vue d'une décision de suspension de paiement du revenu d'intégration.
 Le centre doit recourir pour l'enquête sociale à des travailleurs sociaux, selon les conditions de qualification fixées par le Roi.
+[<sup>1</sup> Le Roi peut déterminer les modalités de l'enquête sociale.]<sup>1</sup>
 § 2. L'intéressé est tenu de fournir tout renseignement et autorisation utile à l'examen de sa demande.
 § 3. Le centre recueille toutes les informations faisant défaut en vue de pouvoir apprécier les droits de l'intéressé, lorsque le demandeur ne peut le faire.
 § 4. Le Roi détermine, par arrêté délibéré en Conseil des ministres :
 1° les informations et les autorisations qui doivent être données au minimum par le demandeur au moyen d'un formulaire à compléter à cet effet lors de la demande d'intégration sociale sous la forme d'un revenu d'intégration ou d'un emploi;
 2° les conditions et les modalités selon lesquelles le centre peut recueillir des informations auprès des administrations publiques.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 44, 013; En vigueur : 10-01-2013&gt;
 
 <a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0013"> 20</a>. Le centre est tenu d'entendre le demandeur, si celui-ci le demande, avant de prendre une décision relative à :
 - l'octroi, le refus ou la révision d'un revenu d'intégration, d'un projet individualisé d'intégration sociale, ou d'une intégration sociale par l'emploi;
