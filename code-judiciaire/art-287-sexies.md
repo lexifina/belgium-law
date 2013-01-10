@@ -7,3 +7,4 @@ Les documents mentionnés à l'alinéa précédent sont communiqués en double e
 Le plan de gestion, visé à l'article 259quater, § 2, alinéa 3, doit, sous peine de déchéance, être adressé en deux exemplaires, par courrier recommandé, au ministre de la Justice dans un délai de soixante jours à partir de la publication de la vacance au Moniteur belge.
 La publication pourra avoir lieu quinze mois au plus tôt avant la vacance.
 Aucune nomination ni désignation ne peut intervenir avant l'écoulement du délai prévu à l'alinéa 1er.
+Par dérogation à l'alinéa 1er, l'appel aux candidats au Moniteur belge peut mentionner que les candidatures pour les places vacantes du personnel judiciaire peuvent être introduites par lettre ordinaire ou sous toute autre forme. L'appel peut également, en tenant compte du classement, fixer le nombre maximum de participants à l'épreuve complémentaire.
