@@ -4,3 +4,4 @@
 Toutefois, si le défunt a déclaré que certains legs doivent être acquittés de préférence aux autres, ces legs ne contribuent à la pension que pour autant que le revenu des autres n'y suffise point.
 § 4. Si les aliments ne sont pas prélevés en capital sur la succession, des sûretés suffisantes seront données au bénéficiaire pour assurer le paiement de la pension.
 § 5. Le délai pour réclamer la pension alimentaire est d'un an à partir du décès.
+§ 6. La succession est dispensée de l'obligation visée aux §§ 1er et 2 si le demandeur est indigne de venir à cette succession, sans distinction selon qu'il est ou non effectivement appelé à cette succession.
