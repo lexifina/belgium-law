@@ -38,8 +38,7 @@ La mesure de surveillance ne peut être ordonnée qu'à l'égard soit de personn
 21° (...)
 § 3. La tentative de commettre un crime visé au paragraphe précédent peut également justifier une mesure de surveillance.
 § 4. Une infraction, visée aux articles 322 ou 323 du Code pénal, peut également justifier une mesure de surveillance, pour autant que l'association soit formée dans le but de commettre un attentat contre les personnes ou les propriétés visées au § 2 ou de commettre le fait punissable visé à l'article 467, alinéa 1er, du Code pénal.
-§ 5. En cas de flagrant délit, le procureur du Roi peut ordonner la mesure visée au § 1 pour les infractions visées aux articles 347bis ou 470 du Code pénal.
-Dans ce cas, la mesure doit être confirmée dans les 24 heures par le juge d'instruction.
+§ 5. En cas de flagrant délit et tant que la situation de flagrant délit perdure, le procureur du Roi peut ordonner la mesure visée au § 1er pour les infractions visées à l'article 347bis ou 470 du Code pénal.
 § 6. Une autorité étrangère compétente peut, dans le cadre d'une enquête pénale, temporairement écouter, prendre connaissance et enregistrer, pendant leur transmission, des télécommunications privées lorsque la personne visée par cette mesure se trouve sur le territoire belge et si les conditions suivantes sont réunies:
 1° cette mesure n'implique pas l'intervention technique d'un acteur situé en Belgique;
 2° l'autorité étrangère concernée a notifié cette mesure à une autorité judiciaire belge;
