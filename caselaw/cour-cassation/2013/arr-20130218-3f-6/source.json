@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2013:ARR.20130218.3F.6",
+  "ecli": "ECLI:BE:CASS:2013:ARR.20130218.3F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2013-02-18",
+  "date_as_printed": "Jugement/arrêt du 18 février 2013",
+  "published_on_juportal": "2026-05-28",
+  "language": "fr",
+  "role_number": "S.11.0009.F",
+  "case_name_as_published": "OFFICE NATIONAL DE SECURITE SOCIALE contra B.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - FAIT - Négligence. Imprudence",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - DAAD - Nalatigheid. Onvoorzichtigheid"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - FAIT - Négligence. Imprudence",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 1383 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2013:ARR.20130218.3F.6",
+  "source_sha256": "e7445d086055c8dd1846b7c705575ff5b63130898c55424e252c1bb23fec7948",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2013:ARR.20130218.3F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/28/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
