@@ -1,0 +1,1 @@
+Sans préjudice de l'application de l'article 140, toute personne qui recrute une autre personne pour commettre l'une des infractions visées à l'article 137 ou à l'article 140, à l'exception de celle visée à l'article 137, § 3, 6°, sera punie de la réclusion de cinq ans à dix ans et d'une amende de cent euros à cinq mille euros.
