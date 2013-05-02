@@ -2,4 +2,5 @@ Sans préjudice de l'application de l'article 382, toute condamnation pour des f
 1° de participer, à quelque titre que ce soit, à un enseignement donné dans un établissement public ou privé qui accueille des mineurs;
 2° de faire partie, comme membre bénévole, membre du personnel statutaire ou contractuel, ou comme membre des organes d'administration et de gestion, de toute personne morale ou association de fait dont l'activité concerne à titre principal les mineurs;
 3° d'être affecté à une activité qui place le condamné en relation de confiance ou d'autorité vis-à-vis de mineurs, comme membre bénévole, membre du personnel statutaire ou contractuel ou comme membre des organes d'administration et de gestion, de toute personne morale ou association de fait.
+4° d'habiter, de résider ou de se tenir dans la zone déterminée désignée par le juge compétent. L'imposition de cette mesure doit être spécialement motivée et tenir compte de la gravité des faits et de la capacité de réinsertion du condamné.
 L'article 389 est applicable à la présente disposition.
