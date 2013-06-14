@@ -8,7 +8,8 @@ L'intéressé comparait devant le tribunal siégeant en chambre du conseil soit 
 Cette convocation contient l'indication de la Chambre du tribunal devant laquelle la demande sera portée et des jour et heure de la comparution. Il y aura au moins un délai de huit jours entre la notification et le jour de la comparution. La remise du pli recommandé à la poste vaut notification.
 Si, sur la notification, l'intéressé ne comparaît pas soit en personne, soit par avoué, soit par avocat porteur des pièces, le tribunal peut, avant de statuer sur la demande, ajourner la cause en vue de permettre au ministère public de lui adresser une nouvelle convocation.
 Le dossier du ministère public est déposé au greffe du tribunal huit jours au moins avant l'audience fixée. La procédure se poursuit à l'audience comme en matière correctionnelle.
-Le jugement rendu sur la demande est sans appel. Si la demande est rejetée en tout ou en partie, elle ne peut être renouvelée avant l'expiration de deux années depuis la date de la décision judiciaire.
+Le jugement rendu sur la demande est sans appel.
+Si la demande est rejetée en tout ou en partie, elle ne peut être renouvelée avant l'expiration de deux années depuis la date de la décision judiciaire.
 En cas de décès de l'intéresse, les recours et demandes prévus dans la présente loi peuvent être poursuivis par son conjoint, ses descendants, ses ascendants ou ses frères et soeurs.
 Ils peuvent également être poursuivis par un ou plusieurs ayants-cause à titre universel ou particulier qui justifieront d'un intérêt pécuniaire.
 § 3. La restitution des droits dont les condamnés avaient été déchus par application du précédent article, n'a d'effets que pour l'avenir.
