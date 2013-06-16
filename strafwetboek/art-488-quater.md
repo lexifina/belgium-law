@@ -1,0 +1,1 @@
+Met opsluiting van vijf tot tien jaar wordt gestraft, hij die opzettelijk en zonder door het bevoegd gezag verleende vergunning, of buiten de hierin gestelde voorwaarden, de overdracht van radioactief materiaal of radioactieve instrumenten of van nucleaire installaties eist door bedreiging, in omstandigheden die deze geloofwaardig maken, of door gebruik van geweld.
