@@ -1,0 +1,1 @@
+Est puni de la réclusion de cinq à dix ans, quiconque exige, intentionnellement et sans y être habilité par l'autorité compétente ou en dehors des conditions prévues lors de l'habilitation, la remise de matières ou engins radioactifs ou d'installations nucléaires en recourant à la menace, dans des circonstances qui la rendent crédible, ou à l'emploi de la force.
