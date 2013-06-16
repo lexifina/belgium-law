@@ -1,0 +1,3 @@
+Est puni de la réclusion de dix à quinze ans, quiconque, intentionnellement et sans y être habilité par l'autorité compétente ou en dehors des conditions prévues lors de l'habilitation, détient, fabrique, utilise de quelque manière que ce soit des matières radioactives autres que nucléaires ou des engins radioactifs ou commet un acte dirigé contre des matières radioactives autres que nucléaires ou des engins radioactifs, si, par ces actes:
+1° il provoque intentionnellement ou sait qu'il peut provoquer la mort ou des blessures graves pour autrui ou des dommages substantiels aux biens ou à l'environnement; ou
+2° il contraint intentionnellement une personne physique ou morale, une organisation internationale ou un gouvernement à accomplir un acte ou à s'en abstenir.
