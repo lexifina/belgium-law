@@ -1,4 +1,4 @@
-§ 1er. Par dérogation à l'article 42quinquies, le droit de séjour permanent est accordé, avant l'expiration de la période ininterrompue de trois ans, aux catégories suivantes de travailleurs salariés ou non salariés visés à l'article 40, § 4, alinéa 1er, 1°:
+§ 1er. Par dérogation à l'article 42quinquies, le droit de séjour permanent est accordé, avant l'expiration de la période ininterrompue de cinq ans, aux catégories suivantes de travailleurs salariés ou non salariés visés à l'article 40, § 4, alinéa 1er, 1°:
 1° le travailleur salarié ou non salarié qui cesse d'exercer son activité à la suite d'une incapacité permanente de travail, à la condition:
 a) qu'il séjourne d'une façon continue dans le Royaume depuis plus de deux ans;
 b) ou que l'incapacité permanente de travail résulte d'un accident de travail ou d'une maladie professionnelle ouvrant le droit à une prestation entièrement ou partiellement à charge d'une institution du Royaume;
