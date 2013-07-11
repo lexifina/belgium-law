@@ -7,18 +7,20 @@
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Toute personne a droit à l'intégration sociale. Ce droit peut, dans les conditions fixées par la présente loi, prendre la forme d'un emploi et/ou d'un revenu d'intégration, assortis ou non d'un projet individualisé d'intégration sociale.
 Les centres publics d'aide sociale ont pour mission d'assurer ce droit.
 
-<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Pour pouvoir bénéficier du droit à l'intégration sociale, la personne doit simultanément et sans préjudice des conditions spécifiques prévues par cette loi :
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.Pour pouvoir bénéficier du droit à l'intégration sociale, la personne doit simultanément et sans préjudice des conditions spécifiques prévues par cette loi :
 1° avoir sa résidence effective en Belgique, dans le sens à déterminer par le Roi;
 2° être majeure ou assimilée à une personne majeure en application des dispositions de la présente loi;
 3° appartenir à une des catégories de personnes suivantes :
 - soit posséder la nationalité belge;
-- (soit bénéficier en tant que citoyen de l'Union européenne, ou en tant que membre de sa famille qui l'accompagne ou le rejoint, d'un droit de séjour de plus de trois mois, conformément aux dispositions de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement, et l'éloignement des étrangers.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006122732" target="_blank">2006-12-27/32</a>, art. 80, 007; <b> En vigueur : </b> 07-01-2007&gt;
+- [<sup>1</sup> soit bénéficier, en tant que citoyen de l'Union européenne ou en tant que membre de sa famille qui l'accompagne ou le rejoint, d'un droit de séjour de plus de trois mois conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette catégorie de personnes ne bénéficie du droit à l'intégration sociale qu'après les trois premiers mois de ce séjour;]<sup>1</sup>
 - soit être inscrite comme étranger au registre de la population;
 - soit être un apatride et tomber sous l'application de la Convention relative au statut des apatrides, signée à New-York le 28 septembre 1954 et approuvée par la loi du 12 mai 1960;
 - soit être un réfugié au sens de l'article 49 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
 4° ne pas disposer de ressources suffisantes, ni pouvoir y prétendre ni être en mesure de se les procurer, soit par ses efforts personnels, soit par d'autres moyens. Le centre calcule les ressources de la personne conformément aux dispositions du titre II, chapitre II;
 5° être disposée à travailler, à moins que des raisons de santé ou d'équité l'en empêchent.
 6° faire valoir ses droits aux prestations dont elle peut bénéficier en vertu de la législation sociale belge et étrangère.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013062804" target="_blank">2013-06-28/04</a>, art. 21, 014; En vigueur : 11-07-2013&gt;
 
 <a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1. Il peut être imposé à l'intéressé de faire valoir ses droits à l'égard des personnes qui lui doivent des aliments, ces dernières étant limitées à : son conjoint ou, le cas échéant, son ex-conjoint; les ascendants et descendants du premier degré, l'adoptant et l'adopté.
 § 2. Les conventions relatives à une pension alimentaire ne sont pas opposables au centre.
