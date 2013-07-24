@@ -1,7 +1,7 @@
 § 1er. Si une bonne administration de la justice l'exige, sauf dans les cas prévus par la loi spéciale du 25 juin 1998 réglant la responsabilité pénale des membres des gouvernements de communauté ou de région et la loi du 25 juin 1998 réglant la responsabilité pénale des ministres, le procureur fédéral exerce l'action publique pour:
 1° les infractions visées:
 - aux articles 101 à 136 du Code pénal;
-- aux articles 331bis, 477 à 477sexies et 488bis du Code pénal;
+- aux articles 331bis, 477 à 477sexies et 488bis à 488quinquies du Code pénal;
 - (aux articles 433sexies, 433septies et 433octies du Code pénal et aux articles 77ter, 77quater et 77quinquies) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
 - (...)
 2° les infractions commises avec usage de violence à l'encontre de personnes ou d'intérêts matériels, pour des motifs idéologiques ou politiques, dans le but d'atteindre ses objectifs par la terreur, l'intimidation ou les menaces;
