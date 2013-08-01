@@ -1,0 +1,1 @@
+Si le transfert sous autorité de justice intervient après que la détermination des unités techniques d'exploitation est devenue définitive et avant le jour des élections, il n'est tenu compte du transfert qu'à partir de l'installation du Comité. Dans ce cas, les règles prévues aux articles 76terà 76sexies sont d'application.
