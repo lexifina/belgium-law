@@ -235,12 +235,16 @@ A peine de nullité, cette lettre mentionne:
 Le dépôt du pli recommandé à la poste interrompt la prescription.
 § 3. Le comité de gestion de l'organisme intéressé peut déterminer par voie de règlement les cas dans lesquels il est renoncé à la répétition parce qu'il s'agit de cas dignes d'intérêt ou que la somme payée indûment est inférieure à un montant à déterminer ou est hors de proportion avec les frais de procédure présumés. Le règlement est soumis à l'approbation du Ministre dont l'organisme dépend et est publié au Moniteur belge.
 
-<a name="Art.%2030/1." href="#Art.30">Art.</a> <a href="#Art.31">30/1</a>. [<sup>1</sup> Toute instance en justice relative au recouvrement d'allocations indûment perçues qui est introduite par l'organisme intéressé, par le redevable tenu au remboursement de ces allocations ou par toute autre personne tenue au remboursement en vertu de dispositions légales ou réglementaires, suspend la prescription.
+<a name="Art.%2030/1." href="#Art.30">Art.</a> <a href="#Art.%2030/2.">30/1</a>. [<sup>1</sup> Toute instance en justice relative au recouvrement d'allocations indûment perçues qui est introduite par l'organisme intéressé, par le redevable tenu au remboursement de ces allocations ou par toute autre personne tenue au remboursement en vertu de dispositions légales ou réglementaires, suspend la prescription.
 La suspension débute avec l'acte introductif d'instance et se termine lorsque la décision judiciaire est coulée en force de chose jugée.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 40, 096; En vigueur : 01-01-2013&gt;
 
-<a name="Art.31" href="#Art.%2030/1.">Art.</a> <a href="#Art.31bis"> 31</a>. &lt;Disposition modificative&gt;
+<a name="Art.%2030/2." href="#Art.%2030/1.">Art.</a> <a href="#Art.31">30/2</a>. [<sup>1</sup> Le délai applicable en matière de recouvrement de prestations sociales versées indûment commence à courir le jour où l'institution a connaissance de la fraude, du dol ou des manoeuvres frauduleuses.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013062804" target="_blank">2013-06-28/04</a>, art. 55, 098; En vigueur : 01-08-2013&gt;
+
+<a name="Art.31" href="#Art.%2030/2.">Art.</a> <a href="#Art.31bis"> 31</a>. &lt;Disposition modificative&gt;
 
 <a name="Art.31bis" href="#Art.31">Art.</a> <a href="#Art.31ter"> 31bis</a>.&lt;Inséré par L 2005-12-13/35, art. 28; <b> En vigueur : </b> 01-01-2007&gt; § 1er. En application de l'article 1675/10 du Code judiciaire, les organismes de perception des cotisations sociales et les organismes octroyant des prestations sociales sont autorisés à accepter une remise totale ou partielle des montants qui leur sont dus lorsque cette remise est proposée par un médiateur de dettes dans un plan de règlement amiable de dettes, prévu par les dispositions du titre V de la cinquième partie du Code judiciaire, pour autant que les conditions fixées par le Roi soient réunies au moment où le médiateur de dettes saisit les organismes précités.
 § 2. Le Roi détermine, après avis du Conseil national du travail, et au plus tard pour le [<sup>1</sup> 1er juillet 2010]<sup>1</sup> :
