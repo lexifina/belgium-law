@@ -1,0 +1,1 @@
+Dans tous les cas de transfert sous autorité de justice d'une entreprise ou d'une partie d'entreprise, les membres qui représentaient le personnel et les candidats continuent à bénéficier des mesures de protection prévues par la loi précitée du 19 mars 1991

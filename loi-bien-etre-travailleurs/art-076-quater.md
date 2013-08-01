@@ -1,0 +1,3 @@
+En cas de transfert sous autorité de justice d'une partie d'entreprise à une autre entreprise qui dispose comme la première d'un Comité:
+- si les unités techniques d'exploitation existantes restent inchangées, les Comités existants continuent à fonctionner;
+- si le caractère des unités techniques d'exploitation est modifié, le Comité existant continue à fonctionner dans l'entreprise dont une partie est transférée; les délégués du personnel du Comité occupés dans la partie transférée de l'entreprise sont rattachés au Comité de l'entreprise dans laquelle la partie visée est transférée.
