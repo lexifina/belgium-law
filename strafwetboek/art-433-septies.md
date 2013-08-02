@@ -6,3 +6,4 @@ Het in artikel 433quinquies, § 1, bedoelde misdrijf wordt gestraft met opsluiti
 5° ingeval het misdrijf een ongeneeslijk lijkende ziekte, hetzij een blijvende fysieke of psychische ongeschiktheid, hetzij het volledig verlies van een orgaan of van het gebruik van een orgaan, hetzij een zware verminking heeft veroorzaakt;
 6° in geval van de betrokken activiteit een gewoonte wordt gemaakt;
 7° ingeval het een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging betreft, ongeacht of de schuldige de hoedanigheid van leidend persoon heeft of niet.
+De boete wordt zo veel keer toegepast als er slachtoffers zijn.
