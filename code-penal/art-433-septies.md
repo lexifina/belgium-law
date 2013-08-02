@@ -6,3 +6,4 @@ L'infraction prévue à l'article 433quinquies, § 1er, sera punie de la réclus
 5° lorsque l'infraction a causé une maladie paraissant incurable, une incapacité permanente physique ou psychique, la perte complète d'un organe ou de l'usage d'un organe, ou une mutilation grave;
 6° lorsque l'activité concernée constitue une activité habituelle;
 7° lorsqu'elle constitue un acte de participation à l'activité principale ou accessoire d'une association, et ce, que le coupable ait ou non la qualité de dirigeant.
+L'amende sera appliquée autant de fois qu'il y a de victimes.
