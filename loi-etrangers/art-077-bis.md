@@ -1,3 +1,4 @@
 Constitue l'infraction de trafic des êtres humains, le fait de contribuer, de quelque manière que ce soit, soit directement, soit par un intermédiaire, à permettre l'entrée, le transit ou le séjour d'une personne non ressortissante d'un Etat membre de l'Union européenne sur ou par le territoire d'un tel Etat ou d'un Etat partie à une convention internationale relative au franchissement des frontières extérieures et liant la Belgique, en violation de la législation de cet Etat, en vue d'obtenir, directement ou indirectement, un avantage patrimonial.
 L'infraction prévue à l'alinéa 1er sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de cinq cents euros à cinquante mille euros.
 La tentative de commettre l'infraction visée à l'alinéa 1er sera punie d'un emprisonnement d'un an à trois ans et d'une amende de cent euros à dix mille euros.
+L'amende sera appliquée autant de fois qu'il y a de victimes.
