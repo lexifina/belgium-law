@@ -3094,8 +3094,16 @@ Les Chambres de première instance et de recours sont assistées par un greffe. 
 § 6. Le Roi fixe les règles de fonctionnement et le Règlement de procédure des Chambres de première instance et des Chambres de recours.
 § 7. Le Roi détermine la répartition des mandats des représentants des organismes assureurs. Il tient compte de leurs effectifs respectifs, étant entendu que chaque organisme assureur a droit à un mandat au moins.
 § 8. Le magistrat président de la Chambre de première instance ou de la Chambre de recours connaît seul des recours formés contre les mesures disciplinaires visées à l'article 155, § 1er, 2°, et contre les décisions prises en cas d'infraction à l'article 73bis, 8°.
+[<sup>2</sup> § 9. Les membres de la Chambre de première instance visés au § 1er, alinéa 2, 2° et 3°, prêtent entre les mains du Président de la Chambre de première instance, en personne ou par écrit, le serment prévu à l'article 2 du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle.
+Les membres des Chambres de recours visés au § 1er, alinéa 3, 2° et 3°, prêtent entre les mains du Président de la Chambre de recours, en personne ou par écrit, le serment prévu à l'article 2 du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle.
+§ 10. Si un membre effectif, convoqué pour une audience, est empêché d'assister à cette audience, il en avise sans délai le greffe et un membre suppléant est invité à l'y remplacer.
+Cette procédure ayant été suivie, le siège reste valablement composé le jour de l'audience si, outre le Président, sont également présents au moins :
+- un des membres visés au § 1er, alinéa 2, 2°, et un des membres visés au § 1er, alinéa 2, 3°, pour ce qui concerne la Chambre de première instance;
+- un des membres visés au § 1er, alinéa 3, 2°, et un des membres visés au § 1er, alinéa 3, 3°, pour ce qui concerne la Chambre de recours.
+Si le président constate que les membres d'un groupe sont plus nombreux que ceux de l'autre groupe, il désigne, pour rétablir l'égalité, le membre le plus jeune qui ne siégera pas. Il en sera fait mention au procès-verbal d'audience.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032902" target="_blank">2012-03-29/02</a>, art. 3, 193; En vigueur : 09-04-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013031904" target="_blank">2013-03-19/04</a>, art. 1, 207; En vigueur : 08-04-2013&gt;
 
 <a name="LNK0108" href="#LNKR0108">Section Iter.</a> - Du droit d'enquête du Service d'évaluation et de contrôle médicaux &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006121335" target="_blank">2006-12-13/35</a>, art. 101; <b> En vigueur : </b> 15-05-2007&gt;
 
