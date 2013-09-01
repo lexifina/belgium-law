@@ -1,2 +1,2 @@
 Aucune remise ou distribution des deniers saisis, comptants ou saisis-arrêtés, ou provenant de la vente de biens meubles ou immeubles saisis, ne peut avoir lieu que conformément aux dispositions des articles 1627 à 1654.
-Lorsque la répartition est devenue définitive, l'huissier de justice ou le notaire qui a dressé le procès-verbal de distribution par contribution ou d'ordre, fait mentionner celle-ci, selon les modalités déterminées par le Roi, sur l'avis concerné, dans le fichier des avis.
+Lorsque la répartition est devenue définitive, l'huissier de justice ou le notaire qui a dressé le procès-verbal de distribution par contribution ou d'ordre transmet cette information au fichier des avis, selon les modalités déterminées par le Roi.

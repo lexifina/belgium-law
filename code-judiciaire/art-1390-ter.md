@@ -1,6 +1,6 @@
 En cas de cession de rémunération, l'huissier de justice requis, muni d'une attestation de cessionnaire établissant l'existence de l'arriéré de paiement, adresse, sous sa responsabilité, au fichier des avis, au plus tôt le jour de l'envoi au débiteur cédé de la copie de la notification visée à l'article 28, 1°, de la loi du 12 avril 1965 sur la protection de la rémunération des travailleurs, un avis de cession relatant:
 1° les nom, prénoms, domicile ou dénomination, nature juridique et siège, la date de naissance et/ou le numéro d'entreprise du créancier cessionnaire;
-2° les nom, prénoms, date de naissance et domicile du cédant;
+2° les nom, prénoms, date de naissance et domicile, ou dénomination, forme juridique, siège social et numéro d'entreprise du cédant;
 3° l'identité et le domicile, à défaut de domicile, la résidence ou le nom, la forme juridique et le siège, du débiteur cédé;
 4° le montant du solde exigible de la créance du cessionnaire;
 5° le cas échéant, la mention de l'opposition du cédant et le dispositif du jugement qui y fait suite.

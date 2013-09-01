@@ -1,4 +1,4 @@
-Lorsqu'une délégation est accordée en vertu des articles 203ter, 220, § 3, 221, 301bis du Code civil ou 1280, alinéa 6, du présent Code, un avis de délégation est dans les trois jours ouvrables de la notification ou de la signification établi par le greffier ou par l'huissier de justice, suivant les cas, et adressé au fichier des avis.
+Lorsqu'une délégation est accordée en vertu des articles 203ter, 220, § 3, 221, 301bis du Code civil ou 1280, alinéa 6, du présent Code, un avis de délégation est dans les trois jours ouvrables de la notification ou de la signification établi, suivant les cas, par le greffier, l'huissier de justice ou l'officier qui fait application de l'article 15 de la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances et adressé au fichier des avis.
 L'avis de délégation relate:
 1° les nom, prénoms, profession et domicile et la date de naissance du délégataire;
 2° les nom, prénoms et domicile, à défaut de domicile, la résidence et la date de naissance du délégant;
