@@ -1,0 +1,5 @@
+§ 1er. Lorsque le Collège de la concurrence envisage d'adopter une décision exigeant la cessation d'une infraction et que les entreprises concernées offrent des engagements de nature à répondre à ses préoccupations, il peut, par voie de décision, rendre les engagements obligatoires pour les entreprises. Il peut demander à l'auditeur de déposer un rapport sur les propositions d'engagements dans le délai qu'il détermine. La décision peut être adoptée pour une durée déterminée et conclure qu'il n'y a plus lieu que l'Autorité belge de concurrence agisse. Cette décision est sans préjudice de la faculté des juridictions nationales de constater l'existence de pratiques restrictives pour le passé et n'implique aucune reconnaissance préjudiciable de la part de l'entreprise concernée.
+§ 2. Le président peut rouvrir la procédure prévue aux articles IV.41 à IV.45, sur demande ou de sa propre initiative:
+1° si l'un des faits sur lesquels la décision repose subit un changement important;
+2° si les entreprises concernées contreviennent à leurs engagements, ou
+3° si la décision repose sur des informations incomplètes, inexactes ou dénaturées fournies par les parties.

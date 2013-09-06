@@ -1,0 +1,4 @@
+Le président, l'assesseur vice-président ou les assesseurs qui siègent dans une affaire, l'auditeur général, les directeurs des études économiques et juridiques et les membres du personnel de l'Autorité belge de la concurrence, ainsi que toute personne travaillant sous leur autorité, ne peuvent assumer la défense des intéressés, ni verbalement ni par écrit, ni leur donner des consultations.
+Le président, l'auditeur général, les directeurs des études économiques et juridiques et les membres du personnel de l'Autorité belge de la concurrence, ainsi que toute personne travaillant sous leur autorité, ne peuvent:
+1° faire de l'arbitrage rémunéré;
+2° soit personnellement, soit par personne interposée, exercer aucune espèce de commerce, être agent d'affaires ou participer à la direction, à l'administration ou à la surveillance de sociétés commerciales ou d'établissements industriels ou commerciaux.

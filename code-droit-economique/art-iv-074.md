@@ -1,0 +1,1 @@
+Le chiffre d'affaires visé aux articles IV.70 et IV.71 est le chiffre d'affaires total réalisé au cours de l'exercice social précédent sur le marché national et à l'exportation. Il s'entend au sens du titre VI du livre IV du Code des sociétés relatif aux comptes annuels consolidés des entreprises.

@@ -1,0 +1,4 @@
+L'Autorité belge de la concurrence peut, d'office ou à la demande de la juridiction saisie, dans les délais fixés par la juridiction saisie, soumettre des observations écrites au sujet de l'application des articles IV.1 et IV.2 ou des articles 101 et 102 du Traité sur le fonctionnement de l'Union européenne.
+Avec l'autorisation de la juridiction saisie, elle peut aussi présenter des observations orales.
+Afin de lui permettre de formuler ses observations, et à cette fin uniquement, l'Autorité belge de la concurrence peut solliciter la juridiction saisie afin qu'elle lui transmette ou fasse transmettre tout document nécessaire à l'appréciation de l'affaire.
+Lorsque l'Autorité belge de la concurrence dépose des observations, les autres parties doivent avoir l'occasion de répondre à ces observations.

@@ -1,0 +1,1 @@
+Lors de l'application simultanée de l'article 101 ou de l'article 102 TFUE, l'auditorat informe en même temps la Commission européenne de ce projet de décision en vertu de l'article 11, paragraphe 4, du Règlement (CE) n° 1/2003.

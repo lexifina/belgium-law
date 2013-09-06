@@ -1,0 +1,1 @@
+Il est institué, au sein du Conseil central de l'économie, une commission paritaire consultative dénommée Commission de la concurrence et ayant une compétence d'avis sur toutes les questions générales de politique de concurrence, qu'elle exerce de sa propre initiative ou à la demande du ministre.

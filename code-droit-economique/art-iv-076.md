@@ -1,0 +1,8 @@
+§ 1er. Lorsque la solution d'un litige dépend de l'interprétation des règles contenues dans le présent livre, la juridiction saisie peut surseoir à statuer et poser une question préjudicielle à la Cour de Cassation.
+La décision de poser une question préjudicielle à la Cour de Cassation suspend les délais et la procédure devant la juridiction qui la pose à partir du jour où la décision a été prise jusqu'au jour où la juridiction saisie reçoit la réponse de la Cour de Cassation.
+La décision de cette juridiction de poser ou de ne pas poser une question préjudicielle n'est susceptible d'aucun recours.
+§ 2. Le greffier près la Cour de Cassation porte sans délai la question préjudicielle à la connaissance des parties, de l'Autorité belge de la concurrence, du ministre et, en cas d'application des articles 101 et 102 du Traité sur le fonctionnement de l'Union européenne, de la Commission européenne.
+Le greffier près la Cour de Cassation invite les parties, l'Autorité belge de la concurrence, le ministre et la Commission européenne à formuler leurs observations écrites dans le mois de la notification de la question préjudicielle, à peine d'irrecevabilité.
+§ 3. Ces derniers peuvent chacun demander à être entendus et consulter le dossier de procédure sans déplacement ou demander qu'une copie leur soit envoyée.
+La Cour peut reformuler la question préjudicielle. La Cour rend une décision motivée. La Cour statue toutes affaires cessantes.
+§ 4. La juridiction qui a posé la question préjudicielle, ainsi que toute juridiction appelée à statuer dans la même affaire, sont tenues, pour la solution du litige à l'occasion duquel a été posée la question, de se conformer à l'arrêt rendu par la Cour de Cassation.

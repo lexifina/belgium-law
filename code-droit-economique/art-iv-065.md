@@ -1,0 +1,4 @@
+Les décisions du Collège de la concurrence et du président sont notifiées par le secrétariat de l'Autorité belge de la concurrence par lettre recommandée avec accusé de réception, aux parties, aux plaignants et au ministre, ainsi qu'à toute personne qui peut justifier d'un intérêt conformément à l'article IV.45, § 5, ou l'article IV.60, § 2, et qui a demandé d'être entendue par le Collège de la concurrence.
+Le président qui prend la décision tient compte de l'intérêt légitime des entreprises à ce que leurs secrets d'affaires et autres informations confidentielles ne soient pas divulgués.
+Les décisions visées au premier alinéa mentionnent les parties auxquelles la notification doit être effectuée.
+A peine de nullité, la lettre de notification indique le délai de recours ainsi que les modalités selon lesquelles celui-ci peut être exercé. La lettre comporte en annexe les noms, qualités et adresses des parties auxquelles la décision a été notifiée.
