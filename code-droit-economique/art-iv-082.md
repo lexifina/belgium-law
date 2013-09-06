@@ -1,0 +1,2 @@
+Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer la liste des actes de procédure, en ce compris notamment les mesures d'instruction, dont les frais sont mis à charge des parties notifiantes ou des parties ayant commis une infraction au présent livre.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer le montant, les conditions et les modalités de perception des frais visés à l'alinéa précédent.

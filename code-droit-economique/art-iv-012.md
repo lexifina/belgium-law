@@ -1,0 +1,1 @@
+Les entreprises publiques et les entreprises auxquelles les autorités publiques accordent des droits spéciaux ou exclusifs sont soumises aux dispositions du présent livre dans la mesure où cette application ne fait pas échec, en droit ou en fait, à la mission particulière qui leur a été impartie par ou en vertu de la loi.

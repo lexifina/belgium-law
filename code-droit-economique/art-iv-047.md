@@ -1,0 +1,1 @@
+Le Collège de la concurrence peut, après la procédure visée à l'article IV.45 concernant une plainte, une demande ou une instruction d'office, déclarer, par décision motivée, qu'en fonction des éléments dont le Collège de la concurrence a connaissance, il n'y a pas lieu pour lui d'intervenir.

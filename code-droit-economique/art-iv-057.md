@@ -1,0 +1,4 @@
+Si l'entreprise ou l'association d'entreprises concernée ont communiqué leur confirmation dans le délai fixé, l'auditorat prend une décision, incluant l'amende, qui clôture la procédure. Cette décision équivaut à une décision du Collège de la concurrence telle que visée à l'article IV.48.
+Si la Commission européenne formule toutefois des remarques qui exigent une modification du projet de décision et si l'auditorat ne décide pas de mettre fin à la procédure de transaction, l'auditorat prend un nouveau projet de décision et la procédure prévue à l'article IV.54 reprend à nouveau.
+L'auditeur général transmet la décision par lettre recommandée à l'entreprise ou à l'association d'entreprises concernée. L'auditeur général transmet également une copie de cette décision au secrétariat en vue de la publication, et au plaignant s'il y a un plaignant.
+L'entreprise ou l'association d'entreprises concernée ne peut pas introduire de recours contre la décision de transaction.

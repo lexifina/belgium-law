@@ -1,0 +1,1 @@
+Le président, l'assesseur vice-président, les assesseurs qui siègent dans une affaire, l'auditeur général, les directeurs des études économiques et juridiques et les membres du personnel de l'Autorité belge de concurrence bénéficient dans l'exercice de leur fonction des mêmes immunités que les agents de l'Etat.

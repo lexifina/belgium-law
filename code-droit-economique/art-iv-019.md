@@ -1,0 +1,3 @@
+L'assesseur vice-président remplace le président en tant que président du Collège de la concurrence en cas de conflit d'intérêts ou d'indisponibilité motivée. L'assesseur vice-président dispose, dans les affaires pour lesquelles il est désigné en tant que président, des mêmes compétences et devoirs que le présent livre fixe pour le président.
+En cas d'indisponibilité, le président est remplacé en tant que président du Comité de direction par le membre présent le plus âgé.
+En cas d'indisponibilité de l'assesseur vice-président et du président, un troisième assesseur est désigné et le plus âgé des trois assesseurs siégera comme président du Collège de la concurrence.
