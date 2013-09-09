@@ -1,1 +1,1 @@
-La cour d'appel connaît en premier et dernier ressort des demandes visées à l'article 18ter de la loi du 2 mars 1989 relative à la publicité des participations importantes dans les sociétés cotées en bourse et réglementant les offres publiques d'acquisition.
+La cour d'appel connaît en premier et dernier ressort des demandes visées à l'article 41 de la loi du 1er avril 2007 relative aux offres publiques d'acquisition.
