@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2013:ARR.20130916.4",
+  "ecli": "ECLI:BE:CASS:2013:ARR.20130916.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2013-09-16",
+  "date_as_printed": "Jugement/arrêt du 16 septembre 2013",
+  "published_on_juportal": "2013-10-14",
+  "language": "fr",
+  "role_number": "C.12.0032.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - APPLICATION DANS LE TEMPS ET DANS L'ESPACE",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WERKING IN DE TIJD EN IN DE RUIMTE",
+    "Application dans le temps - Convention - Loi nouvelle - Application - Portée",
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "RECHTBANKEN - BURGERLIJKE ZAKEN - Algemeen",
+    "Code judiciaire, article 747, § 1er et 2 - Calendrier de la procédure - Dernières conclusions - Demande nouvelle - Droits de la défense - Loyauté - Sanction - Ecartement des conclusions - Pouvoir du juge",
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Code judiciaire, article 747, § 1er et 2 - Calendrier de la procédure - Dernières conclusions - Demande nouvelle - Loyauté - Sanction - Ecartement des conclusions - Pouvoir du juge",
+    "Werking in de tijd - Overeenkomst - Nieuwe wet - Toepassing - Draagwijdte",
+    "Artikel 747, §§ 1 en 2, Gerechtelijk Wetboek - Procedurekalender - Laatste conclusie - Nieuwe vordering - Recht van verdediging - Loyale handelwijze - Sanctie - Weren van conclusie - Rechtsmacht van de rechter",
+    "Artikel 747, §§ 1 en 2, Gerechtelijk Wetboek - Procedurekalender - Laatste conclusie - Nieuwe vordering - Loyale handelwijze - Sanctie - Weren van conclusie - Rechtsmacht van de rechter"
+  ],
+  "fiche": [
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - APPLICATION DANS LE TEMPS ET DANS L'ESPACE",
+    "Application dans le temps - Convention - Loi nouvelle - Application - Portée",
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "Code judiciaire, article 747, § 1er et 2 - Calendrier de la procédure - Dernières conclusions - Demande nouvelle - Droits de la défense - Loyauté - Sanction - Ecartement des conclusions - Pouvoir du juge",
+    "Code Judiciaire - 10-10-1967 - Art. 747, § 1er et 2 - 01 Lien ELI No pub 1967101052",
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "Code judiciaire, article 747, § 1er et 2 - Calendrier de la procédure - Dernières conclusions - Demande nouvelle - Loyauté - Sanction - Ecartement des conclusions - Pouvoir du juge",
+    "Code Judiciaire - 10-10-1967 - Art. 747, § 1er et 2 - 01 Lien ELI No pub 1967101052",
+    "Rechtspraak Antwerpen Brussel Gent [RABG] - MAES, Bruno; Noot 'Is het in extremis instellen van een eis niet noodzakelijk deloyaal procesgedrag?' - 2014, nr. 6, p. 357-364."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2013:ARR.20130916.4",
+  "source_sha256": "6d69ed2fe948aa17675d64018c9c7db5449d776b711424f9fe0f49a4797f5dd4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2013:ARR.20130916.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
