@@ -1,0 +1,1 @@
+Il n'y a pas de cohabitation légale lorsque, bien que la volonté des parties de cohabiter légalement ait été exprimée, il ressort d'une combinaison de circonstances que l'intention d'au moins une des parties vise manifestement uniquement à l'obtention d'un avantage en matière de séjour, lié au statut de cohabitant légal.

@@ -1,0 +1,12 @@
+§ 1er. Le juge qui prononce une condamnation sur la base des articles 79bis ou 79ter ou qui constate la culpabilité pour une infraction visée à ces dispositions, peut également prononcer la nullité du mariage ou de la cohabitation légale, à la demande du procureur du Roi ou de toute partie ayant un intérêt à la cause.
+§ 2. Aucun jugement n'est opposable aux époux ou aux cohabitants légaux s'ils n'ont été présents ou appelés à la cause.
+Le ministère public peut appeler en intervention forcée l'époux ou le cohabitant légal qui n'est pas présent à la cause.
+L'intervention leur confère la qualité de partie à la cause. Ces parties peuvent exercer les voies de recours.
+L'intervention est formée dès le début de l'instance de sorte que ces parties puissent faire valoir leurs droits sur l'annulation du mariage ou de la cohabitation légale.
+§ 3. Tout exploit de signification d'un jugement ou arrêt relatif à l'annulation d'un mariage ou d'une cohabitation légale est immédiatement communiqué en copie par l'huissier de justice instrumentant au greffier de la juridiction qui a prononcé la décision.
+§ 4. Lorsque la nullité du mariage a été prononcée par un jugement ou un arrêt coulé en force de chose jugée, un extrait reprenant le dispositif du jugement ou de l'arrêt et la mention du jour où celui-ci a acquis force de chose jugée est, sans délai, adressé par le greffier à l'officier de l'état civil du lieu où le mariage a été célébré et à l'Office des étrangers ou, lorsque le mariage n'a pas été célébré en Belgique, à l'officier de l'état civil de Bruxelles et à l'Office des étrangers.
+Le greffier en avertit les parties.
+L'officier de l'état civil transcrit sans délai le dispositif sur ses registres; mention en est faite en marge de l'acte de mariage et des actes d'état civil relatifs aux enfants, s'ils ont été dressés ou transcrits en Belgique.
+§ 5. Lorsque la nullité de la cohabitation légale a été prononcée par un jugement ou un arrêt coulé en force de chose jugée, un extrait reprenant le dispositif du jugement ou de l'arrêt et la mention du jour où celui-ci a acquis force de chose jugée est, sans délai, adressé par le greffier à l'officier de l'état civil du lieu où la déclaration de cohabitation légale a été faite et à l'Office des étrangers.
+Le greffier en avertit les parties.
+L'officier de l'état civil inscrit sans délai l'annulation de la cohabitation légale dans le registre de la population.
