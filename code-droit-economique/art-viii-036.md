@@ -1,0 +1,1 @@
+Le Roi peut inclure dans le système légal des unités de mesure qui, sans faire partie du système international, sont utilisées de manière habituelle. Il peut en limiter l'emploi aux cas qu'Il détermine.

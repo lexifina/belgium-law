@@ -1,0 +1,1 @@
+La liberté d'entreprendre s'exerce dans le respect des traités internationaux en vigueur en Belgique, du cadre normatif général de l'union économique et de l'unité monétaire tel qu'établi par ou en vertu des traités internationaux et de la loi, ainsi que des lois qui intéressent l'ordre public et les bonnes moeurs et des dispositions impératives.

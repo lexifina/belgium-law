@@ -1,0 +1,2 @@
+L'approbation de modèle, la délivrance de marques d'approbation de modèle, la vérification primitive et la vérification périodique peuvent donner lieu à la perception d'une taxe. Le Roi en fixe le montant et le mode de perception.
+Les dispositions légales concernant les réclamations, recouvrements, poursuites et privilèges en matière de contributions au profit de l'Etat sont applicables aux taxes établies en vertu du présent

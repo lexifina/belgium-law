@@ -1,0 +1,1 @@
+Dans les cas et aux conditions qu'Il détermine, le Roi peut exempter des instruments de mesure soit de l'examen d'un modèle en vue de son approbation, soit des vérifications primitive et périodique, soit de la vérification périodique.

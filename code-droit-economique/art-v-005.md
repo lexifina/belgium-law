@@ -1,0 +1,8 @@
+§ 1er. Un recours peut être introduit devant la cour d'appel de Bruxelles par toute partie concernée ou par toute organisation entendue en vertu de l'article V. 4 ainsi que par toute personne justifiant d'un intérêt.
+Ce recours est introduit dans les formes prescrites par l'article IV. 79, § 4, alinéa 1er et 2.
+En cas de recours, le Collège de la concurrence communique sans délai sa décision et toutes les pièces complémentaires à la cour d'appel de Bruxelles, qui confirme, modifie ou annule la décision du Collège de la concurrence et détermine le caractère conditionnel ou temporaire de sa décision.
+Cet arrêt de la cour d'appel est pris dans un délai de six mois qui suit la décision du Collège de la concurrence.
+§ 2. La cour d'appel peut, à la demande du requérant visé au paragraphe 1er, et par décision avant dire droit, suspendre, en tout ou en partie, l'exécution des mesures provisoires visées à l'article V.4, § 1er, et ce jusqu'au jour du prononcé de l'arrêt.
+Si, conformément à l'article V.4, § 2, le Collège de la concurrence décide que les mesures provisoires sont d'application immédiate, un recours en appel peut être introduit et est suspensif.
+La suspension de l'exécution ne peut être ordonnée que si des moyens sérieux susceptibles de justifier l'annulation de la décision attaquée sont invoqués et à condition que l'exécution immédiate de la décision risque d'avoir des conséquences graves pour l'intéressé.
+Les décisions du Collège de la concurrence visées à l'article V. 4 et de la cour d'appel de Bruxelles visées à l'article V. 5, § § 1er et 2, peuvent être publiées au Moniteur belge et sur le site web de l'Autorité belge de la concurrence.

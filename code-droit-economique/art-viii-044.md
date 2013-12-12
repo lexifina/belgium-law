@@ -1,0 +1,6 @@
+§ 1er. Il est interdit de donner en location, de vendre, d'apposer ou de mettre en vente, de détenir en vue de les vendre ou de donner comme prime:
+1° des instruments de mesure non vérifiés ayant pour but des mesurages comme spécifiés à l'article VIII.43, § 1er;
+2° des instruments de mesure vérifiés qui, en application de l'article VIII.51, sont exemptés de la vérification primitive lorsque ces instruments ne satisfont pas aux prescriptions prévues à l'article VIII.46 ou prises en vertu de cet article.
+§ 2. Les dispositions du paragraphe 1er ne sont pas applicables aux instruments de mesure qui, conformément aux prescriptions données à ce sujet, sont pourvus d'une marque indiquant qu'ils ne sont pas destinés aux mesurages dans le circuit économique fixés au paragraphe 1er.
+§ 3. Lors de salons, d'expositions et de démonstrations, la présentation d'instruments de mesure non vérifiés est autorisée pour autant qu'un panneau visible indique clairement que ces instruments de mesure ne sont pas conformes au présent Titre et qu'ils ne peuvent ni être mis sur le marché ni mis en service.
+§ 4. Le Roi peut interdire de donner en location, de vendre, d'exposer ou mettre en vente, de détenir en vue de les vendre ou de donner comme primes les instruments de mesure non vérifiés, ayant pour but des mesurages comme spécifiés à l'article 43, §§ 3 et 4.

@@ -1,0 +1,1 @@
+Il est créé un Bureau de Normalisation, dénommé ci-après " le Bureau ". Le Bureau est un organisme autonome ayant la personnalité juridique et ayant son siège dans l'arrondissement administratif de Bruxelles-Capitale. Le Bureau est soumis à la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.

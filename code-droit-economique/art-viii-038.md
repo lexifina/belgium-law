@@ -1,0 +1,1 @@
+Le Roi peut modifier les dispositions des articles VIII.34 et VIII.35 pour les mettre en concordance avec les modifications que la Conférence générale des Poids et Mesures apporterait au système international d'unités de mesure.

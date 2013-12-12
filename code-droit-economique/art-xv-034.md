@@ -1,0 +1,3 @@
+Sauf les exceptions légales, tout renseignement, quelle que soit sa forme, reçu ou communiqué en application du présent chapitre, est de nature confidentielle.
+Sauf les exceptions légales, les renseignements visés dans ce chapitre ne peuvent être utilisés à des fins différentes de celles du présent livre. Les autorités compétentes peuvent faire état, à titre de preuve, dans leurs procès-verbaux, rapports et témoignages ainsi qu'au cours des procédures devant les cours et tribunaux, de renseignements recueillis et de documents consultés ou saisis conformément aux dispositions du présent chapitre.
+(...)

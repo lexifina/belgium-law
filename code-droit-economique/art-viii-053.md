@@ -1,0 +1,3 @@
+§ 1er. Le Roi fixe les modalités de l'approbation de modèle, de la vérification primitive, de la vérification périodique et du contrôle technique. Il fixe le modèle des marques et certificats.
+§ 2. Il détermine quels sont les moyens ou la collaboration que l'intéressé doit fournir lors des opérations de vérification.
+§ 3. Le Roi peut déterminer qu'aux conditions fixées par lui, les instruments de mesure provenant des Etats membres de l'Union européenne peuvent être considérés pour l'application du présent Titre comme vérifiés, s'ils satisfont, soit aux dispositions légales de l'Etat membre en question, soit à des directives de l'Union européenne et qu'ils sont en outre pourvus des marques ou signes valables imposés par l'Etat membre ou prévus dans les directives.

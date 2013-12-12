@@ -1,0 +1,1 @@
+Sans préjudice du droit de citer devant le juge compétent, le recouvrement des sommes dues en vertu de l'article VIII.10, excepté celles mentionnées au § 2, 1°, peut avoir lieu par voie de contrainte selon le régime des articles 94 et 95 des lois coordonnées sur la comptabilité de l'Etat.

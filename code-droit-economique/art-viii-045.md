@@ -1,0 +1,1 @@
+Dans les lieux où se font habituellement des mesurages comme spécifiés par l'article VIII.43, § 1er, ou en vertu de l'article VIII.43, §§ 3 et 4, les personnes qui procèdent à ces mesurages sont pourvues de manière permanente, sur place et en nombres suffisants, des instruments de mesure vérifiés, susceptibles d'effectuer les mesurages susvisés.

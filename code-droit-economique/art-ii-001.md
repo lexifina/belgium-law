@@ -1,0 +1,1 @@
+Sous réserve de l'application des traités internationaux, du droit de l'Union européenne ou de législations particulières, le présent Code contient les dispositions générales applicables aux matières économiques qui relèvent de la compétence de l'autorité fédérale.

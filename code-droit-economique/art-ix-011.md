@@ -1,0 +1,1 @@
+Le Roi peut déterminer les critères d'agréation et de fonctionnement des organismes intervenants, les règles concernant leur organisation et leurs missions ainsi que les modalités du contrôle de leur respect.

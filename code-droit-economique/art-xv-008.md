@@ -1,0 +1,3 @@
+§ 1er. Le Roi désigne les agents visés à l'article XV.2 qui sont également revêtus de la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi.
+Le Roi détermine les conditions concernant l'expérience et la formation de ces agents.
+§ 2. Les pouvoirs d'officier de police judiciaire, auxiliaire du procureur du Roi, conférés aux agents désignés par le Roi ne peuvent être exercés qu'en vue de la recherche, de la constatation et de l'enquête concernant les infractions visées à l'article XV.2, § 1er et aux articles 196, 494, 496, 498 en 499 du Code pénal.

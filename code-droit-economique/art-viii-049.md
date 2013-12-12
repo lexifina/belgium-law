@@ -1,0 +1,1 @@
+La vérification primitive consiste dans l'examen de la conformité de l'instrument présenté aux prescriptions légales. Dans l'affirmative, une ou plusieurs marques de vérification sont apposées ou un certificat est délivré.

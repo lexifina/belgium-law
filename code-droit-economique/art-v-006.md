@@ -1,0 +1,1 @@
+Le Collège de la concurrence signifie sa décision au ministre. Quand le Collège de la concurrence adopte des mesures provisoires, le ministre présente au gouvernement, dans un délai de six mois, un plan consistant en un changement structurel du fonctionnement du marché dans le secteur concerné.

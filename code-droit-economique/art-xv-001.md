@@ -1,0 +1,1 @@
+A l'exception des dispositions contraires mentionnées dans le présent Code, les dispositions du Code d'instruction criminelle sont applicables à la recherche, la constatation et la poursuite des infractions visées à l'article XV.2, § 1er.
