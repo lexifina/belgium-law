@@ -1,0 +1,2 @@
+Ce livre vise principalement la protection de la sécurité de l'utilisateur et la transposition de la Directive 2001/95/CE du 3 décembre 2001 du Parlement européen et du Conseil relative à la sécurité générale des produits.
+En ce qui concerne les produits et services soumis à une réglementation spécifique en matière de sécurité, ce livre est uniquement d'application pour les risques qui ne sont pas réglementés par cette réglementation spécifique.

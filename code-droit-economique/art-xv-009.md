@@ -1,0 +1,2 @@
+Pour pouvoir exercer leurs attributions d'officier de police judiciaire, auxiliaire du procureur du Roi, les agents visés à l'article XV.8. prêtent serment, devant le procureur-général du ressort de leur domicile, dans les termes suivants: "Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge, et de remplir fidèlement les fonctions qui me sont conférées".
+Ils peuvent exercer leurs attributions sur l'ensemble du territoire du Royaume.

@@ -1,0 +1,1 @@
+Les crédits nécessaires à assurer le fonctionnement du Conseil supérieur sont inscrits, chaque année, au budget du SPF Economie, P.M.E., Classes moyennes et Energie. Le Roi détermine le montant des indemnités qui peuvent être allouées aux membres du Conseil supérieur. Il fixe le montant des indemnités pour frais de parcours et de séjour.

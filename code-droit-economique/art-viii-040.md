@@ -1,0 +1,2 @@
+Le Roi arrête les mesures nécessaires à l'établissement, à la conservation et à la reproduction des étalons nationaux qui représentent celles des unités légales qui peuvent être matérialisées.
+Les étalons nationaux sont comparés et, le cas échéant, adaptés aux étalons internationaux conservés conformément aux stipulations de la Convention pour assurer l'unification internationale et le perfectionnement du système métrique, signée à Paris le 20 mai 1875, approuvée par la loi du 29 décembre 1875 et modifiée par la Convention signée à Sèvres le 6 octobre 1921.

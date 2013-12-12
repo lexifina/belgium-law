@@ -1,0 +1,1 @@
+Les commissions de normalisation associent à leurs travaux techniques de normalisation des opérateurs sectoriels de normalisation agréés possédant, à cet effet, dans un ou plusieurs domaines la compétence nécessaire. Ces derniers peuvent être chargés d'assurer des présidences ou des secrétariats techniques de leurs commissions.

@@ -1,0 +1,1 @@
+La comptabilité du Bureau est tenue conformément aux dispositions de la loi du 17 juillet 1975 relative à la comptabilité des entreprises et aux arrêtés d'exécution de celle-ci. Le Bureau tend vers un équilibre financier.

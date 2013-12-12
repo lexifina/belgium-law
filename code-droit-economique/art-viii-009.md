@@ -1,0 +1,1 @@
+Le Bureau, les commissions de normalisation et les opérateurs sectoriels de normalisation contribuent, chacun pour sa propre compétence, à l'exécution des programmes de normalisation visés à l'article VIII.5, selon les modalités fixées par le Roi.

@@ -1,0 +1,1 @@
+Le mandat du président et des membres dure 6 ans et est renouvelable. Si le mandat d'un membre effectif prend fin avant terme, son suppléant achève le mandat. Il est procédé ensuite à la désignation d'un nouveau suppléant jusqu'à la fin du premier mandat en cours.

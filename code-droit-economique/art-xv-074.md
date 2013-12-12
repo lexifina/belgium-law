@@ -1,0 +1,1 @@
+A l'expiration d'un délai de dix jours à compter du prononcé, le greffier du tribunal ou la cour est tenu de porter gratuitement à la connaissance du ministre, par lettre ordinaire ou par voie électronique, tout jugement ou arrêt faisant application d'une disposition du présent livre.

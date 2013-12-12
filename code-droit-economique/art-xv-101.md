@@ -1,0 +1,1 @@
+Sans préjudice de l'application des règles relatives à la saisie et la confiscation, les instruments de mesure dont la détention ou l'usage constituent des infractions aux dispositions du Livre VIII, titre 3, ou à ses arrêtés d'exécution ou aux règlements pris en vue de son exécution peuvent être détruits.

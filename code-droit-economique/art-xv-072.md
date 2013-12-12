@@ -1,0 +1,1 @@
+En cas de récidive dans les cinq ans à dater d'une condamnation coulée en force de chose jugée du chef de la même infraction, le maximum des amendes et des peines d'emprisonnement est porté au double.

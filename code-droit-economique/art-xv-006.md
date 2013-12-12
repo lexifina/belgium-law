@@ -1,0 +1,1 @@
+Dans l'exercice de leur mission relative à la recherche et à la constatation des délits économiques, les agents visés à l'article XV.2 sont soumis à la surveillance, selon le cas, du procureur général compétent ou du procureur fédéral, sans préjudice de leur subordination à leurs supérieurs au sein de l'administration.

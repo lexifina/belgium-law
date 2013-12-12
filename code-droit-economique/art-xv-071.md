@@ -1,0 +1,1 @@
+Lorsque les faits soumis au tribunal font l'objet d'une action en cessation, il ne peut être statué sur l'action pénale qu'après qu'une décision coulée en force de chose jugée a été rendue relativement à l'action en cessation.

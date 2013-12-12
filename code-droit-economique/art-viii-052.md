@@ -1,0 +1,1 @@
+Le Roi peut soumettre les instruments de mesure à un contrôle technique afin de contrôler s'ils satisfont aux prescriptions légales ou s'ils sont en bon état de fonctionnement. Dans l'affirmative, un ou plusieurs signes d'approbation sont apposés ou un certificat est délivré.

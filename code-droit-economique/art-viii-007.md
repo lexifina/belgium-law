@@ -1,0 +1,1 @@
+Le Bureau met tout en oeuvre pour que les principales parties intéressées soient représentées dans les commissions de normalisation. Il est chargé de fournir aux commissions de normalisation et aux opérateurs sectoriels les informations techniques et économiques à sa disposition nécessaires à leurs travaux.
