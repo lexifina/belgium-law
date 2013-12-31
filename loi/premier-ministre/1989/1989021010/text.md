@@ -1,33 +1,52 @@
 <a name="LNK0001" href="#LNKR0001">TITRE PREMIER.</a> - DISPOSITIONS GENERALES.
 
-<a name="Art.1"></a>Article <a href="#Art.1bis"> 1</a>. § 1. Sans préjudice de l'article 110, § 2, de la Constitution, le financement du budget de la Communauté française et de la Communauté flamande est assuré par :
+<a name="Art.1"></a>Article <a href="#Art.1bis"> 1</a>.§ 1. [<sup>1</sup> Sans préjudice de l'article 170, § 2, de la Constitution, le financement du budget de la Communauté française et de la Communauté flamande est assuré par :
 1° des recettes non fiscales;
-(abrogé) &lt;L 2001-07-13/35, art. 2, 003; <b> En vigueur : </b> 01-01-2002&gt;
 2° des parties attribuées du produit d'impôts et de perceptions;
-(2°bis. Une dotation compensatoire de la redevance radio et télévision;) &lt;L 2001-07-13/35, art. 2, 003; <b> En vigueur : </b> 01-01-2002&gt;
-3° des emprunts.
-§ 2. Sans préjudice de l'article 110, § 2, de la Constitution, le financement du budget de la Région wallonne, de la Région flamande et de la Région de Bruxelles-Capitale est assuré par :
+3° des dotations fédérales;
+4° pour la période de 2015 jusqu'à 2033, un mécanisme de transition;
+5° des emprunts.]<sup>1</sup>
+§ 2. [<sup>1</sup> Sans préjudice de l'article 170, § 2, de la Constitution, le financement du budget de la Région wallonne, de la Région flamande et de la Région de Bruxelles-Capitale est assuré par :
 1° des recettes non fiscales;
-2° des recettes fiscales, visées par la présente loi;
-3° des parties attribuées du produit d'impôts et de perceptions;
-4° une intervention de solidarité nationale;
-5° des emprunts.
-§ 3. Le (Parlement flamand) peut utiliser tous les moyens financiers qui lui reviennent en vertu des dispositions de la présente loi, pour le financement tant du budget des matières visées à l'article 107quater de la Constitution que du budget des matières visées à l'article 59bis de la Constitution. &lt;L 2006-03-27/33, art. 9, 004; <b> En vigueur : </b> 21-04-2006&gt;
+2° des recettes fiscales visées par la présente loi;
+3° des recettes de l'exercice de l'autonomie fiscale en matière d'impôt des personnes physiques visées au titre III/1;
+4° des parties attribuées du produit d'impôts et de perceptions;
+5° des dotations fédérales;
+6° un mécanisme de solidarité nationale;
+7° pour la période de 2015 jusqu'à 2033, un mécanisme de transition;
+8° des emprunts.]<sup>1</sup>
+§ 3. Le (Parlement flamand) peut utiliser tous les moyens financiers qui lui reviennent en vertu des dispositions de la présente loi, pour le financement tant du budget des matières visées [<sup>1</sup> à l'article 39]<sup>1</sup> de la Constitution que du budget des matières visées [<sup>1</sup> aux articles 127 à 129]<sup>1</sup> de la Constitution. &lt;L 2006-03-27/33, art. 9, 004; <b> En vigueur : </b> 21-04-2006&gt;
 (alinéa abrogé) &lt;L 1993-07-16/30, art. 121, 002; <b> En vigueur : </b> 1993-07-30&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 2, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.1bis" href="#Art.1">Art.</a> <a href="#Art.1ter"> 1bis</a>. &lt;Inséré par L 2001-07-13/35, art. 3; <b> En vigueur : </b> 01-01-2002&gt; L'échange d'informations dans le cadre de l'exercice des compétences fiscales des régions visées dans la présente loi et de l'autorité fédérale est réglé par un accord de coopération visé à l'article 92bis, § 3, de la loi spéciale du 8 août 1980 de réformes institutionnelles.
 
-<a name="Art.1ter" href="#Art.1bis">Art.</a> <a href="#LNK0002"> 1ter</a>. &lt;Inséré par L 2001-07-13/35, art. 4; <b> En vigueur : </b> 01-01-2002&gt; L'exercice des compétences fiscales des régions visées dans la présente loi s'opère dans le respect du principe visant à éviter la double imposition.
-En cas de demande visant à prévenir la double imposition, jugée fondée par la région, cette région se concerte avec les autres autorités concernées en vue de remédier à l'imposition contraire au principe évoqué à l'alinéa 1.
+<a name="Art.1ter" href="#Art.1bis">Art.</a> <a href="#Art.1quater"> 1ter</a>.[<sup>1</sup> L'exercice des compétences fiscales des régions visées dans la présente loi s'opère dans le respect de la loyauté fédérale visée à l'article 143 de la Constitution et du cadre normatif général de l'union économique et de l'unité monétaire, ainsi que des principes suivants :
+1° l'exclusion de toute concurrence fiscale déloyale;
+2° l'évitement de la double imposition;
+3° la libre circulation des personnes, biens, services et capitaux.
+En cas de demande d'un contribuable visant à éviter la double imposition, jugée fondée par une autorité, celle-ci se concerte avec les autres autorités concernées en vue de remédier à l'imposition contraire au principe évoqué à l'alinéa 1er, 2°.
+Une concertation sur la politique fiscale et sur les principes visés à l'alinéa 1er est organisée annuellement au sein du Comité de concertation visé à l'article 31 de la loi ordinaire du 9 août 1980 de réformes institutionnelles.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 3, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.1quater" href="#Art.1ter">Art.</a> <a href="#LNK0002"> 1quater</a>. [<sup>1</sup> Les régions ne peuvent ni instaurer des centimes additionnels ou des augmentations d'impôts ni accorder des diminutions, des réductions ou des crédits d'impôt sur les impôts visés par la présente loi, à l'exception de ceux visés à l'article 5/1, § 1er.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 4, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0002" href="#LNKR0002">TITRE II.</a> - DES RECETTES NON FISCALES PROPRES.
 
-<a name="Art.2" href="#Art.1ter">Art.</a> <a href="#LNK0003"> 2</a>. Les recettes non fiscales propres liées à l'exercice des compétences attribuées aux Communautés et Régions par la Constitution ou en vertu de celle-ci reviennent au pouvoir compétent.
+<a name="Art.2" href="#Art.1quater">Art.</a> <a href="#Art.2bis"> 2</a>. Les recettes non fiscales propres liées à l'exercice des compétences attribuées aux Communautés et Régions par la Constitution ou en vertu de celle-ci reviennent au pouvoir compétent.
 Les Communautés et les Régions peuvent recevoir des dons et des legs.
+
+<a name="Art.2bis" href="#Art.2">Art.</a> <a href="#LNK0003"> 2bis</a>. [<sup>1</sup> Les recettes des perceptions immédiates, transactions et amendes pénales liées aux infractions à la réglementation de la sécurité routière qui relève de la compétence des régions en vertu de l'article 6, § 1er, XII, de la loi spéciale du 8 août 1980 de réformes institutionnelles, sont attribuées à celles-ci en fonction du lieu de l'infraction.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 5, 008; En vigueur : 01-01-2015&gt;
 
 <a name="LNK0003" href="#LNKR0003">TITRE III.</a> - DES IMPOTS REGIONAUX.
 
-<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.&lt;L 2001-07-13/35, art. 5, 003; <b> En vigueur : </b> 01-01-2002&gt; Les impôts suivants sont des impôts régionaux :
+<a name="Art.3" href="#Art.2bis">Art.</a> <a href="#Art.4"> 3</a>.&lt;L 2001-07-13/35, art. 5, 003; <b> En vigueur : </b> 01-01-2002&gt; Les impôts suivants sont des impôts régionaux :
 1° la taxe sur les jeux et paris;
 2° la taxe sur les appareils automatiques de divertissement;
 3° la taxe d'ouverture de débits de boissons fermentées;
@@ -99,60 +118,190 @@ DROIT FUTUR
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122612" target="_blank">2013-12-26/12</a>, art. 5, 007; En vigueur : indéterminée , et au plus tôt le 1er janvier 2016&gt;
 
-<a name="LNK0004" href="#LNKR0004">TITRE IIIbis.</a> - DE L'IMPOT DES COMMUNAUTES. (inséré par L 1993-07-16/30, art. 94; abrogé par L 2001-07-13/35, art. 8; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="LNK0004" href="#LNKR0004">TITRE III/1.</a> - [<sup>1</sup> De la taxe additionnelle régionale sur l'impôt des personnes physiques]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 6, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.5bis" href="#Art.5">Art.</a> <a href="#LNK0005"> 5bis</a>. (abrogé) &lt;L 2001-07-13/35, art. 8, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.5/1" href="#Art.5">Art.</a> <a href="#Art.5/2"> 5/1</a>. [<sup>1</sup> Sur la base de la localisation de l'impôt des personnes physiques, les régions peuvent :
+1° établir des centimes additionnels sur une partie de l'impôt des personnes physiques. La partie de l'impôt des personnes physiques sur laquelle les centimes additionnels sont établis, est l'impôt Etat réduit;
+2° accorder des diminutions d'impôt et appliquer des réductions et des augmentations d'impôt sur les centimes additionnels visés au 1°, sans qu'il en résulte une diminution ou une augmentation de la base imposable.
+Le total des centimes additionnels et des diminutions, réductions et augmentations d'impôt, le cas échéant après application de l'article 5/3, § 1er, 2°, constitue la taxe additionnelle régionale sur l'impôt des personnes physiques, ci-après "l'impôt des personnes physiques régional".
+En outre, les régions peuvent accorder des crédits d'impôts.
+§ 2. Pour l'application de la présente loi, l'impôt des personnes physiques est réputé localisé à l'endroit où le contribuable a établi son domicile fiscal au 1er janvier de l'exercice d'imposition à l'impôt des personnes physiques.
+§ 3. L'impôt Etat réduit, majoré de l'impôt afférent aux dividendes, intérêts, redevances, lots afférents aux titres d'emprunts et plus-values sur valeurs et titres mobiliers, après application des réductions d'impôt fédérales qui n'ont pas encore été appliquées pour déterminer l'impôt Etat réduit et, le cas échéant après application de l'article 5/3, § 1er, 1°, constitue "l'impôt des personnes physiques fédéral" au sens de la présente loi.
+§ 4. L'instauration de l'impôt des personnes physiques régional ne peut porter préjudice au droit des communes et des agglomérations de communes de percevoir des taxes additionnelles.
+§ 5. Seule l'autorité fédérale est compétente pour les dispositions en matière de précompte mobilier et professionnel et pour le service de l'impôt des personnes physiques.
+De l'ensemble des revenus nets, seules les rentes alimentaires peuvent être déduites dans les limites et aux conditions déterminées par le Code des impôts sur les revenus 1992.
+Sans préjudice de l'article 5/5, § 4, l'autorité fédérale peut mettre en oeuvre des réductions d'impôt sans aucune restriction.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 7, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/2" href="#Art.5/1">Art.</a> <a href="#Art.5/3"> 5/2</a>. [<sup>1</sup> § 1er. L'impôt Etat réduit est l'impôt Etat diminué d'un montant égal à l'impôt Etat multiplié par le facteur d'autonomie.
+Le facteur d'autonomie est égal à 25,990 % pour les exercices d'imposition 2015, 2016 et 2017.
+Pour l'exercice d'imposition 2018 et pour les exercices suivants, le facteur d'autonomie est égal au rapport entre :
+1° au numérateur :
+A+B-C où :
+A = le montant prévu pour l'année budgétaire 2015 en vertu de l'article 33 pour les trois régions réunies;
+B = le montant accordé pour l'année budgétaire 2015 en vertu de l'article 35decies pour les trois régions réunies multiplié par 4/6;
+C = un montant calculé comme suit :
+a) pour chaque région, le montant obtenu en application de l'article 33 pour l'année budgétaire 2015 est exprimé en pourcentage du montant obtenu en application de ce même article pour la même année budgétaire pour les trois régions réunies; ce pourcentage est appelé ci-après : "clé IPP";
+b) pour chaque région, le montant obtenu en application de l'article 33bis pour l'année budgétaire 2015 est divisé par sa clé IPP;
+C est égal au plus petit de ces montants;
+2° au dénominateur :
+l'impôt Etat de l'exercice d'imposition 2015 sur la base des recettes perçues jusqu'au 31 décembre 2016.
+Le facteur d'autonomie est exprimé en pourcent et arrondi à la troisième décimale supérieure ou inférieure selon que le chiffre de la quatrième décimale atteint ou non 5.
+Le facteur d'autonomie visé aux alinéas 3 et 4, est déterminé par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des régions sur la base des rapports de la Cour des comptes visés à l'article 81ter.
+§ 2. Pour obtenir l'impôt Etat, il faut successivement en appliquant la législation fiscale fédérale :
+1° déterminer le revenu imposable dont une partie est imposable globalement et une partie est imposable distinctement;
+2° déterminer l'impôt de base en appliquant les barèmes de l'impôt des personnes physiques au revenu imposable globalement;
+3° déterminer l'impôt à répartir en diminuant l'impôt de base de l'impôt afférent à la quotité du revenu exemptée d'impôt;
+4° déterminer le principal en appliquant à l'impôt à répartir les réductions suivantes :
+a) la réduction pour pensions et revenus de remplacement;
+b) la réduction pour revenus d'origine étrangère;
+5° déterminer l'impôt total sur les revenus imposés distinctement en appliquant à ces revenus les taux d'impôt correspondants;
+6° additionner le principal visé au 4° et l'impôt total sur les revenus imposés distinctement visé au 5° ;
+7° diminuer le total obtenu au 6° de l'impôt afférent aux dividendes, intérêts, redevances, lots afférents aux titres d'emprunts et plus-values sur valeurs et titres mobiliers.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 8, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/3" href="#Art.5/2">Art.</a> <a href="#Art.5/4"> 5/3</a>. [<sup>1</sup> § 1er. Dans le cas d'un excédent de réductions d'impôt fédérales ou régionales :
+1° l'autorité fédérale détermine si l'excédent d'une réduction d'impôt fédérale peut être imputé sur le solde des additionnels régionaux et des augmentations d'impôt régionales après imputation des diminutions et réductions d'impôt régionales;
+2° chaque région détermine si l'excédent d'une diminution ou réduction d'impôt régionale peut être imputé sur le solde de l'impôt fédéral après imputation des réductions d'impôt fédérales.
+§ 2. Après application du § 1er, la somme de l'impôt des personnes physiques fédéral et de l'impôt des personnes physiques régional constitue l'impôt total.
+L'impôt total est successivement :
+1° majoré des augmentations fédérales;
+2° diminué des éléments fédéraux imputables non remboursables;
+3° diminué des crédits d'impôt fédéraux et régionaux remboursables;
+4° diminué des éléments fédéraux imputables et remboursables;
+5° majoré de la taxe communale additionnelle à l'impôt des personnes physiques et de la taxe d'agglomération additionnelle à l'impôt des personnes physiques.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 9, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/4" href="#Art.5/3">Art.</a> <a href="#Art.5/5"> 5/4</a>. [<sup>1</sup> § 1er. Les centimes additionnels visés à l'article 5/1, § 1er, alinéa 1er, 1°, sont proportionnels et différenciés ou non par tranche d'impôt.
+§ 2. En cas d'application de centimes additionnels différenciés, pour les revenus imposés globalement, il est procédé comme suit :
+1° l'impôt de base est calculé sur le revenu imposable globalement conformément à l'article 5/2, § 2, 2° ;
+2° l'impôt de base ainsi calculé est réparti entre les tranches d'impôt régionales;
+3° l'impôt afférent à la quotité du revenu exemptée d'impôt et la réduction pour pensions et revenus de remplacement sont soustraits de l'impôt de base calculé sur le revenu imposable globalement, en commençant par la tranche d'impôt la plus basse;
+4° la réduction pour les revenus d'origine étrangère est imputée proportionnellement sur les tranches d'impôt déterminées en application des 1° à 3°.
+Ensuite, l'impôt afférent aux dividendes, intérêts, redevances, lots afférents aux titres d'emprunts et plus-values sur valeurs et titres mobiliers imposés globalement est déduit, en commençant par la tranche d'impôt la plus élevée.
+Enfin, le montant de chaque tranche d'impôt est diminuée d'un montant égal au montant de cette tranche d'impôt multiplié par le facteur d'autonomie visé à l'article 5/2, § 1er, alinéa 2 ou 3, selon le cas.
+§ 3. En cas d'application de centimes additionnels différenciés, le taux des centimes additionnels sur l'impôt afférent aux revenus imposés distinctement :
+1° est uniforme, c'est-à-dire sans différenciation selon la nature ou le montant des revenus imposés distinctement;
+2° est unique, c'est-à-dire un seul taux quel que soit le taux d'imposition fédéral sur ces revenus;
+3° n'est pas inférieur au taux qui est appliqué sur la tranche d'impôt régionale pour laquelle la recette estimée de l'impôt des personnes physiques régional est la plus élevée.
+Les centimes additionnels ainsi déterminés sont appliqués sur la partie de l'impôt Etat réduit afférente aux revenus imposés distinctement.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 10, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/5" href="#Art.5/4">Art.</a> <a href="#Art.5/6"> 5/5</a>. [<sup>1</sup> § 1er. Les diminutions d'impôt visées à l'article 5/1, § 1er, alinéa 1er, 2°, sont des diminutions forfaitaires applicables à toutes les personnes soumises à l'impôt des personnes physiques dans la région concernée.
+§ 2. Les réductions d'impôt visées à l'article 5/1, § 1er, alinéa 1er, 2°, sont :
+1° liées aux compétences matérielles des régions;
+2° proportionnelles ou forfaitaires.
+Les augmentations d'impôt visées à l'article 5/1, § 1er, alinéa 1er, 2°, sont :
+1° liées aux compétences matérielles des régions;
+2° proportionnelles.
+§ 3. Les crédits d'impôt visés à l'article 5/1, § 1er, alinéa 3, sont :
+1° liés aux compétences matérielles des régions;
+2° proportionnels ou forfaitaires.
+§ 4. Seules les régions sont compétentes pour les réductions d'impôt et les crédits d'impôt relatifs aux dépenses suivantes :
+1° les dépenses en vue d'acquérir ou de conserver l'habitation propre;
+2° les dépenses de sécurisation des habitations contre le vol ou l'incendie;
+3° les dépenses pour l'entretien et la restauration de monuments et sites classés;
+4° les dépenses payées pour des prestations dans le cadre des agences locales pour l'emploi et pour des prestations payées avec des titres-services autres que des titres-services sociaux;
+5° les dépenses faites en vue d'économiser l'énergie dans une habitation à l'exclusion des intérêts qui se rapportent à des contrats de prêt visés à l'article 2 de la loi de relance économique du 27 mars 2009;
+6° les dépenses de rénovation d'habitations situées dans une zone d'action positive des grandes villes;
+7° les dépenses de rénovation d'habitations données en location à un loyer modéré.
+Pour l'application de l'alinéa 1er, 1°, l'habitation propre est l'habitation que le contribuable, en tant que propriétaire, possesseur, emphytéote, superficiaire ou usufruitier, pendant la période imposable :
+1° soit occupe personnellement;
+2° soit n'occupe pas personnellement pour un des motifs suivants :
+a) raisons professionnelles;
+b) raisons sociales;
+c) entraves légales ou contractuelles qui rendent impossible l'occupation de l'habitation par le contribuable lui-même;
+d) état d'avancement des travaux de construction ou de rénovation qui ne permettent pas au contribuable d'occuper effectivement l'habitation.
+L'habitation propre ne comprend pas la partie de l'habitation qui, pendant la période imposable :
+a) est affectée à l'exercice de l'activité professionnelle du contribuable ou d'un des membres de son ménage;
+ou
+b) dans les cas visés à l'alinéa 2, 1° et 2°, a) et b), est occupée par des personnes ne faisant pas partie du ménage du contribuable.
+Lorsqu'un contribuable occupe plus d'une habitation, l'habitation où son domicile fiscal est établi, est considérée comme l'habitation propre.
+Lorsqu'un contribuable possède tant une habitation visée à l'alinéa 2, 1°, qu'une habitation visée à l'alinéa 2, 2°, l'habitation qu'il occupe personnellement est considérée comme l'habitation propre.
+Lorsqu'un contribuable ne possède que des habitations visées à l'alinéa 2, 2°, il désigne l'habitation qu'il considère comme l'habitation propre. Ce choix est irrévocable jusqu'au moment où le contribuable, soit occupe personnellement une habitation, soit ne possède plus l'habitation désignée.
+Pour les contribuables mariés ou les cohabitants légaux, une seule habitation peut être considérée comme l'habitation propre. Les alinéas 2 à 6 sont applicables aux deux contribuables considérés ensemble.
+En cas de modification durant la période imposable, la qualification d'une habitation comme étant l'habitation propre s'apprécie de jour en jour.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 11, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/6" href="#Art.5/5">Art.</a> <a href="#Art.5/7"> 5/6</a>. [<sup>1</sup> § 1er. Les régions exercent leurs compétences en matière de centimes additionnels, de diminutions, réductions ou augmentations d'impôt et de crédits d'impôt sans réduire la progressivité de l'impôt des personnes physiques. Le principe de progressivité se comprend comme suit : à mesure que l'impôt de base visé à l'article 5/2, § 2, 2°, augmente, le rapport entre le montant des centimes additionnels et augmentations d'impôt et celui de l'impôt de base, ne peut diminuer et le rapport entre le montant des diminutions, réductions et crédits d'impôt et celui de l'impôt de base ne peut augmenter.
+§ 2. Lorsque les régions différencient les centimes additionnels par tranche d'impôt, le barème des centimes additionnels régionaux peut déroger au § 1er pour autant :
+1° que le taux du centime additionnel régional sur une tranche d'impôt ne soit pas inférieur à 90 % du taux du centime additionnel régional le plus élevé parmi les tranches d'impôt inférieures;
+et
+2° que l'avantage fiscal par contribuable résultant de la dérogation à la règle de progressivité ne soit pas supérieur à 1.000 euros par an.
+Le dépassement ou non de la limite de 1.000 euros est calculé en faisant la différence entre le montant de l'impôt des personnes physiques régional selon le barème que la région veut appliquer et le montant de l'impôt des personnes physiques régional calculé en remplaçant les taux des tranches d'impôt non conformes à la règle de progressivité par les taux qui devraient être établis pour que la règle de progressivité soit respectée.
+Ce montant de 1.000 euros est adapté annuellement à l'indice des prix à la consommation du Royaume. L'adaptation est réalisée au moyen du coefficient qui est obtenu en divisant la moyenne des indices des prix de l'année qui précède celle des revenus par la moyenne des indices des prix de l'année 2013. Après application du coefficient, les montants sont arrondis au multiple de 10 euros supérieur ou inférieur selon que le chiffre des unités atteint ou non 5.
+§ 3. Pour les contrats conclus avant le 1er janvier 2015 et relatifs aux dépenses visées à l'article 5/5, § 4, alinéa 1er, 1°, les régions peuvent continuer à appliquer une réduction d'impôt qui s'écarte de la règle de progressivité visée au § 1er. Cette dérogation reste valable jusqu'à ce que la région décide elle-même de modifier le taux de la réduction d'impôt à appliquer.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 12, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/7" href="#Art.5/6">Art.</a> <a href="#Art.5/8"> 5/7</a>. [<sup>1</sup> Les projets et les propositions d'une règle visée à l'article 134 de la Constitution qui règlent des matières visées à l'article 5/6 sont, selon le cas avant dépôt devant le parlement concerné ou après approbation par la commission compétente du parlement concerné, communiqués, pour avis concernant l'applicabilité technique, au gouvernement fédéral, aux autres gouvernements régionaux et, pour avis concernant le principe visé à l'article 1erter, alinéa 1er, 1°, à la Cour des comptes. Il en est de même pour les amendements adoptés.
+La procédure de concertation concernant l'applicabilité technique de l'instauration de centimes additionnels différenciés ou de diminutions, réductions ou augmentations d'impôt ou de crédits d'impôt, visés à l'article 5/1, § 1er, est fixée dans l'accord de coopération visé à l'article 1erbis.
+Les projets et propositions transmis à la Cour des comptes sont appuyés des données chiffrées suffisantes. L'assemblée générale de la Cour des comptes émet dans le mois qui suit la réception du projet ou de la proposition, dans le cadre du respect du principe visé à l'article 1erter, alinéa 1er, 1°, un avis documenté et motivé sur le respect du principe en matière de progressivité, visé à l'article 5/6. Cet avis est communiqué au gouvernement fédéral et aux gouvernements de région.
+Dans le cadre de sa mission d'avis visée à l'alinéa 3, la Cour des comptes développe en accord avec le gouvernement fédéral et les gouvernements de région un modèle d'évaluation transparent et uniforme.
+La Cour des comptes rédige chaque année un rapport, analogue à l'avis visé à l'alinéa 3, sur l'incidence, au cours de l'exercice d'imposition précédent, des mesures fiscales régionales en vigueur. Ce rapport est communiqué au gouvernement fédéral et aux gouvernements de région.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 13, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.5/8" href="#Art.5/7">Art.</a> <a href="#LNK0005"> 5/8</a>. [<sup>1</sup> L'instauration de centimes additionnels, de diminutions, réductions ou augmentations d'impôt ou de crédits d'impôt, visés à l'article 5/1, § 1er, est préalablement communiquée par le gouvernement de région concerné au gouvernement fédéral ainsi qu'aux autres gouvernements de région.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 14, 008; En vigueur : 01-01-2014&gt;
 
 <a name="LNK0005" href="#LNKR0005">TITRE IV.</a> - DES PARTIES ATTRIBUEES DU PRODUIT D'IMPOTS.
 
 <a name="LNK0006" href="#LNKR0006">CHAPITRE PREMIER.</a> - DISPOSITIONS GENERALES.
 
-<a name="Art.6" href="#Art.5bis">Art.</a> <a href="#Art.7"> 6</a>. § 1. Un impôt partagé est un impôt national perçu d'une manière uniforme sur tout le territoire du Royaume et dont le produit est en tout ou en partie attribué aux Communautés conformément aux dispositions de la présente loi.
+<a name="Art.6" href="#Art.5/8">Art.</a> <a href="#Art.7"> 6</a>.§ 1. Un impôt partagé est un impôt national perçu d'une manière uniforme sur tout le territoire du Royaume et dont le produit est en tout ou en partie attribué aux Communautés conformément aux dispositions de la présente loi.
 Les impôts partagés visés au présent titre sont :
 1° (...) &lt;L 1993-07-16/30, art. 121, 002; <b> En vigueur : </b> 1993-07-30&gt;
 2° la taxe sur la valeur ajoutée;
-3° l'impôt des personnes physiques.
+3° [<sup>1</sup> l'impôt des personnes physiques fédéral.]<sup>1</sup>
 § 2. Un impôt conjoint est un impôt national :
 1° perçu d'une manière uniforme sur tout le territoire du Royaume;
 2° dont une partie déterminée du produit est attribuée aux Régions conformément aux dispositions de la présente loi;
-3° (et sur lequel les régions sont autorisées, sur la base de la localisation de ces impôts, à percevoir des centimes additionnels et à accorder des réductions d'impôt applicables à toutes personnes soumises à l'impôt des personnes physiques et pour autant que ces réductions ne dépassent pas le montant du produit attribué. Ces centimes additionnels ou ces réductions d'impôt n'entrent pas en ligne de compte pour déterminer la base de calcul de la taxe communale additionnelle.) &lt;L 2001-07-13/35, art. 9, 003; <b> En vigueur : </b> 01-01-2002&gt;
-(4° et sur lequel les régions sont autorisées, sur la base de la localisation de ces impôts, à mettre en oeuvre des réductions et des augmentations fiscales générales, liées aux compétences des régions. Ces réductions ou augmentations générales d'impôt n'entrent pas en ligne de compte pour déterminer la base de calcul de la taxe communale additionnelle. Les réductions d'impôt prennent la forme d'une déduction par rapport à l'impôt des personnes physiques dû et non la forme d'une réduction de la base imposable. Les majorations d'impôt prennent la forme d'une majoration par rapport à l'impôt des personnes physiques dû et non celle d'une augmentation de la base imposable.) &lt;L 2001-07-13/35, art. 9, 003; <b> En vigueur : </b> 01-01-2002&gt;
-L'impôt conjoint visé au présent titre est l'impôt des personnes physiques.
+3° [<sup>1</sup> et sur lequel les régions sont autorisées à percevoir une taxe additionnelle conformément au titre III/1;]<sup>1</sup>
+(4° [<sup>1</sup> ...]<sup>1</sup>) &lt;L 2001-07-13/35, art. 9, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> L'impôt conjoint visé au présent titre est l'impôt des personnes physiques fédéral.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 15, 008; En vigueur : 01-01-2014&gt;
 
-<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. § 1. Pour l'application du présent titre, les impôts sont réputés localisés comme suit :
-1° l'impôt des personnes physiques : à l'endroit où le contribuable a établi son domicile;
-2° (...) &lt;L 1993-07-16/30, art. 121, 002; <b> En vigueur : </b> 1993-07-30&gt;
-§ 2. Pour l'application de la présente loi, les recettes de l'impôt des personnes physiques et le nombre d'habitants de chaque Région sont fixés chaque année par arrêté royal délibéré en Conseil des Ministres après concertation préalable avec les Exécutifs des Communautés et des Régions sur la base des données les plus récentes.
-(Par recettes de l'impôt des personnes physiques, on entend le montant de l'impôt global de l'Etat pour le dernier exercice d'imposition constaté à l'expiration du délai de taxation, fixé à l'article 359 du Code des impôts sur les revenus 1992. L'impôt global de l'Etat est l'impôt avant application des centimes additionnels et des réductions d'impôt visés à l'article 6, § 2, alinéa 1er, 3°, des réductions et des augmentations générales d'impôt visées à l'article 6, § 2, alinéa 1er, 4°, et des taxes ou centimes additionnels visés à l'article 9, § 2.) &lt;L 2001-07-13/35, art. 10, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.[<sup>1</sup> Pour l'application du présent titre, les données suivantes sont fixées par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des communautés et des régions :
+1° les recettes de l'impôt des personnes physiques fédéral;
+2° le nombre des habitants.
+Pour les années budgétaires 2014 et 2015, par recettes de l'impôt des personnes physiques fédéral, on entend les recettes de l'impôt global de l'Etat pour les exercices d'imposition 2013 et 2014 lors de l'échéance du délai d'imposition fixé à l'article 359 de Code des impôts sur les revenus 1992. L'impôt global de l'Etat est l'impôt avant imputation des réductions d'impôt régionales telles qu'elles étaient applicables pour ledit exercice d'imposition et fixées en vertu de l'article 6, § 2, alinéa 1er, 4°, tel que cet article existait avant d'être modifié par l'article 15 de la loi spéciale du 6 janvier 2014 portant réforme du financement des communautés et des régions, élargissement de l'autonomie fiscale des régions et financement des nouvelles compétences.
+Pour l'année budgétaire 2016 et chacune des années budgétaires suivantes, les recettes de l'impôt des personnes physiques fédéral sont constatées lors de l'échéance du délai d'imposition fixé à l'article 359 de Code des impôts sur les revenus 1992 du dernier exercice d'imposition connu.
+Par le nombre des habitants, on entend la situation de la population au 1er janvier de l'exercice visé aux alinéas 2 et 3.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 16, 008; En vigueur : 01-01-2014&gt;
 
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Au sein du Comité de concertation Gouvernement-Exécutifs, est annuellement organisée une concertation sur la politique fiscale.
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 17, 008; En vigueur : 01-01-2014&gt;
 
-<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9bis"> 9</a>. § 1. (L'instauration de réductions ou d'augmentations générales d'impôt, de centimes additionnels ou de réductions d'impôt, visés à l'article 6, § 2, alinéa 1er, 3° et 4°, est préalablement communiquée par le gouvernement de région concerné au gouvernement fédéral ainsi qu'aux autres gouvernements de région.
-La procédure de concertation concernant l'applicabilité technique de l'instauration de réductions ou d' augmentations générales d'impôt, visées à l'article 6, § 2, alinéa 1er, 4°, est fixée dans l'accord de coopération visé à l'article 1erbis.
-Un pourcentage global maximal est appliqué au total des réductions et des augmentations générales d'impôt, des centimes additionnels et des réductions d'impôt visés à l'alinéa 1. A partir du 1er janvier 2001, ce pourcentage maximal s'élève à 3,25 % et à 6,75 % à partir du 1er janvier 2004, du produit de l'impôt des personnes physiques visé à l'article 7, § 2, qui est localisé dans chaque région. Sans dépasser ce pourcentage maximal, les régions peuvent :
-1° instaurer des centimes additionnels proportionnels généraux et des réductions d'impôt générales, forfaitaires ou proportionnelles, différenciés ou non par tranches de l'impôt;
-2° accorder des réductions et des augmentations générales d'impôts comme il est prévu à l'article 6, § 2, alinéa 1er, 4°.
-Les régions exercent leurs compétences en matière de réductions ou augmentations fiscales générales, de centimes additionnels ou de réductions d'impôt sans réduire la progressivité de l'impôt des personnes physiques et à l'exclusion de toute concurrence fiscale déloyale. Le principe de progressivité doit être compris comme suit : à mesure que le revenu imposable augmente, le rapport entre le montant de la réduction et celui de l'impôt des personnes physiques dû, avant réduction, ne peut augmenter ou, selon le cas, le rapport entre le montant de l'augmentation et celui de l'impôt des personnes physiques dû, avant augmentation, ne peut diminuer.
-Les modalités de décompte de l'application des réductions et des augmentations générales d'impôt, des centimes additionnels et des réductions d'impôt sont réglées par un arrêté royal délibéré en Conseil des Ministres après concertation préalable avec les gouvernements de région.) &lt;L 2001-07-13/35, art. 11, 003; <b> En vigueur : </b> 01-01-2002&gt;
-§ 2. Les centimes additionnels instaurés par une Région ne peuvent porter préjudice au droit des communes de percevoir des taxes ou centimes additionnels.
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9bis"> 9</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 18, 008; En vigueur : 01-01-2014&gt;
 
-<a name="Art.9bis" href="#Art.9">Art.</a> <a href="#Art.10"> 9bis</a>. &lt;Inséré par L 2001-07-13/35, art. 12; <b> En vigueur : </b> 01-01-2002&gt; Les projets et les propositions d'une règle visée à l'article 134 de la Constitution qui règlent des matières visées à l'article 9 sont, selon le cas avant dépôt devant le (parlement concerné) ou après approbation par la commission compétente du (Parlement en question), communiqués au gouvernement fédéral et aux autres gouvernements de région et, pour avis, à la Cour des comptes. Il en est de même pour les amendements adoptés en commission. Les projets et propositions transmis à la Cour des comptes doivent être appuyés des données chiffrées suffisantes. &lt;L 2006-03-27/33, art. 10, 004; <b> En vigueur : </b> 21-04-2006&gt;
-Sans préjudice de ses compétences générales, l'assemblée générale de la Cour des comptes émet dans le mois qui suit la réception du projet ou de la proposition, dans le cadre du respect de la loyauté fiscale, un avis documenté et motivé sur le respect des pourcentages maximum et du principe en matière de progressivité, visé à l'article 9. Cet avis est communiqué au gouvernement fédéral et aux gouvernements de région.
-Dans le cadre de sa mission d'avis visée au deuxième alinéa, la Cour des comptes développe en accord avec le gouvernement fédéral et les gouvernements de région un modèle d'évaluation transparent et uniforme.
-La Cour des comptes rédige chaque année un rapport, analogue à l'avis visé à l'alinéa 2, sur l'incidence, au cours de l'exercice d'imposition précédent, des mesures fiscales régionales en vigueur. Ce rapport est communiqué au gouvernement fédéral et aux gouvernements de région.
+<a name="Art.9bis" href="#Art.9">Art.</a> <a href="#Art.10"> 9bis</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 19, 008; En vigueur : 01-01-2014&gt;
 
 <a name="Art.10" href="#Art.9bis">Art.</a> <a href="#Art.11"> 10</a>. (abrogé) &lt;L 2001-07-13/35, art. 13, 003; <b> En vigueur : </b> 01-01-2002&gt;
 
-<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0007"> 11</a>.&lt;L 1993-07-16/30, art. 96, 002; <b> En vigueur : </b> 1993-07-30&gt; (Les régions ne peuvent instaurer ni centimes additionnels ni majorations ni réductions d'impôt ni réductions sur les impôts visés par la présente loi, à l'exception de ceux visés à l'article 6, § 2.) &lt;L 2001-07-13/35, art. 14, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0007"> 11</a>.[<sup>3</sup> ...]<sup>3</sup>
 (alinéa abrogé) &lt;L 2001-07-13/35, art. 14, 003; <b> En vigueur : </b> 01-01-2002&gt;
 Sous la réserve des cas prévus par la présente loi, les Communautés et les Régions ne sont pas autorisées à lever des impôts dans les matières qui font l'objet d'une imposition visée par la présente loi [<sup>1</sup> , à l'exception des impôts visés à l'article 3, alinéa 1er, 10°, 11° et 12°]<sup>1</sup> .
 
 DROIT FUTUR
 
-<i>Art. 11. &lt;L 1993-07-16/30, art. 96, 002; <b> En vigueur : </b> 1993-07-30&gt; (Les régions ne peuvent instaurer ni centimes additionnels ni majorations ni réductions d'impôt ni réductions sur les impôts visés par la présente loi, à l'exception de ceux visés à l'article 6, § 2.) &lt;L 2001-07-13/35, art. 14, 003; <b> En vigueur : </b> 01-01-2002&gt;<br>  (alinéa abrogé) &lt;L 2001-07-13/35, art. 14, 003; <b> En vigueur : </b> 01-01-2002&gt;<br>  Sous la réserve des cas prévus par la présente loi, les Communautés et les Régions ne sont pas autorisées à lever des impôts dans les matières qui font l'objet d'une imposition visée par la présente loi [<sup><font color="red">1</font></sup> , à l'exception des impôts visés à l'article 3, alinéa 1er, 10° [<sup><font color="red">2</font></sup> et 11°]<sup><font color="red">2</font></sup> ]<sup><font color="red">1</font></sup> .</i>
+<i>Art. 11. [<sup><font color="red">3</font></sup> ...]<sup><font color="red">3</font></sup><br>  (alinéa abrogé) &lt;L 2001-07-13/35, art. 14, 003; <b> En vigueur : </b> 01-01-2002&gt;<br>  Sous la réserve des cas prévus par la présente loi, les Communautés et les Régions ne sont pas autorisées à lever des impôts dans les matières qui font l'objet d'une imposition visée par la présente loi [<sup><font color="red">1</font></sup> , à l'exception des impôts visés à l'article 3, alinéa 1er, 10° [<sup><font color="red">2</font></sup> et 11°]<sup><font color="red">2</font></sup> ]<sup><font color="red">1</font></sup> .</i>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122612" target="_blank">2013-12-26/12</a>, art. 6,1°, 007; En vigueur : 31-12-2013&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122612" target="_blank">2013-12-26/12</a>, art. 6,2°, 007; En vigueur : indéterminée , et au plus tôt le 1er janvier 2016&gt;
+(<font color="red">3</font>)&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 20, 008; En vigueur : 01-01-2014&gt;
 
 <a name="LNK0007" href="#LNKR0007">CHAPITRE II.</a> - LES REGIONS.
 
@@ -326,16 +475,18 @@ La quatrième partie des moyens pour chaque Région est obtenue en appliquant ce
 
 <a name="LNK0013" href="#LNKR0013">Section 2.</a> - Du régime définitif.
 
-<a name="Art.33" href="#Art.32bis">Art.</a> <a href="#Art.33bis"> 33</a>. § 1. Pour année budgétaire 2000 et chacune des années budgétaires suivantes, la fixation des montants s'effectuera sur la base des moyens par Région de l'année budgétaire précédente, après déduction de l'intervention de solidarité nationale attribuée à la Région concernée (et de la diminution par région visée à l'article 34, alinéa 1er, 2°). &lt;L 2001-07-13/35, art. 15, 003; <b> En vigueur : </b> 01-01-2002&gt;
-§ 2. (Ces montants sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée.
-En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du revenu national brut, les montants sont adaptés au taux estimé de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle estimée du revenu national brut de année budgétaire concernée, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 16, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.33" href="#Art.32bis">Art.</a> <a href="#Art.33bis"> 33</a>.§ 1. [<sup>1</sup> Pour chacune des années budgétaires 2000 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de transition visé à l'article 48/1 et du facteur d'autonomie visé à l'article 5/2, § 1er, la fixation des montants s'effectue sur la base des moyens par région de l'année budgétaire précédente, après déduction de l'intervention de solidarité nationale attribuée à la région concernée et de la diminution par région visée à l'article 34, § 1er, alinéa 1er, 2°.]<sup>1</sup>
+§ 2. (Ces montants sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée.
+En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup>, les montants sont adaptés au taux estimé de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle estimée du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de année budgétaire concernée, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 16, 003; <b> En vigueur : </b> 01-01-2002&gt;
 § 2bis. (Si la moyenne arithmétique de la croissance annuelle réelle du produit national brut au cours de la période 1993 à 2004 inclusivement est inférieure à 2 p.c., le montant déterminé au § 2 pour l'année budgétaire 2005 sera à nouveau détermine, mais cette fois sur la base d'une croissance réelle uniforme de 2 p.c. au cours des années budgétaires 1993 à 2005 incluse.
 Si la différence entre le montant déterminé à l'alinéa précédent et le montant déterminé au § 2 pour l'année budgétaire 2005 dépasse 0,25 p.c. du montant déterminé sur la base du § 2 pour l'année budgétaire 2004, un montant sera retenu, pour l'année budgétaire 2005, égal au montant obtenu sur la base du § 2 pour l'année budgétaire 2005, majoré de 0,25 p.c. du montant obtenu pour l'année budgétaire 2004 sur la base du § 2.
 Si la différence entre le montant déterminé à l'alinéa premier et le montant déterminé au § 2 pour l'année budgétaire 2005 est inférieure à 0,25 p.c. du montant déterminé sur la base du § 2 pour l'année budgétaire 2004, le montant déterminé à l'alinéa premier sera retenu pour l'année budgétaire 2005.) &lt;L 1993-07-16/30, art. 106, § 2, 002; <b> En vigueur : </b> 1993-07-30&gt;
 § 3. (Chaque année, le montant obtenu au § 2 ou, le cas échéant, le montant retenu pour l'année budgétaire 2005 au § 2bis, pour les trois Régions réunies, est exprimé annuellement en pour cent avec cinq décimales des recettes totales de l'impôt des personnes physiques.) &lt;L 1993-07-16/30, art. 107, 002; <b> En vigueur : </b> 1993-07-30&gt;
 § 4. Le pourcentage ainsi obtenu est appliqué annuellement aux recettes localisées dans chacune des Régions de l'impôt des personnes physiques.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 21, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.33bis" href="#Art.33">Art.</a> <a href="#Art.34"> 33bis</a>. &lt;Inséré par L 2001-07-13/35, art. 17; <b> En vigueur : </b> 01-01-2002&gt; § 1er. A partir de l'année budgétaire 2002, les montants obtenus en application de l'article 33, § 4, sont diminués chaque année d'un montant fixé par le Roi par arrêté délibéré en Conseil des Ministres, après concertation préalable avec les gouvernements de région.
+<a name="Art.33bis" href="#Art.33">Art.</a> <a href="#Art.34"> 33bis</a>.&lt;Inséré par L 2001-07-13/35, art. 17; <b> En vigueur : </b> 01-01-2002&gt; § 1er. [<sup>1</sup> Pour chacune des années budgétaires 2002 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de transition visé à l'article 48/1 et du facteur d'autonomie visé à l'article 5/2, § 1er,]<sup>1</sup> les montants obtenus en application de l'article 33, § 4, sont diminués chaque année d'un montant fixé par le Roi par arrêté délibéré en Conseil des Ministres, après concertation préalable avec les gouvernements de région.
 Le montant visé à l'alinéa 1er correspond à la somme :
 1° des recettes moyennes pour les exercices budgétaires 1999 jusqu'à 2001 y compris, préalablement exprimées en prix de 2002, des impôts localisés dans chaque région comme visés à l'article 3, alinéa 1er, 7° à 8° et 10° à 12°;
 2° des recettes moyennes pour les exercices budgétaires 1999 à 2001 inclus, préalablement exprimées en prix de 2002, des recettes localisées dans chaque région comme visées à l'article 4, § 5, dans la mesure où ces dernières n'auraient pas encore été affectées aux régions jusqu'à l'année budgétaire 2001 y comprise;
@@ -345,7 +496,7 @@ A partir de l'année budgétaire 2003 le montant de la diminution obtenu en appl
 A partir de l'année budgétaire 2003 le montant de la diminution obtenu en application du 4° de l'alinéa 2 est adapté chaque année au taux de fluctuation de l'indice moyen des prix à la consommation suivant les modalités définies à l'article 38, § 3.
 § 2. Pour l'année budgétaire 2002, un montant de départ est déterminé pour chaque région, par la moyenne des recettes pour les exercices budgétaires 1999 jusqu'à 2001 y compris, préalablement exprimées en prix de 2002, des impôts, localisés dans chaque région, vises à l'article 3, alinéa 1er, 7° à 8° et 10° à 12°, et de 58,592 % des recettes moyennes, pour les exercices budgétaires 1999 jusqu'à 2001 y compris préalablement exprimées en prix de 2002, des recettes localisées dans chaque région en ce qui concerne l'impôt visé à l'article 3, alinéa 1er, 6°.
 Les montants obtenus par impôt en application de l'alinéa 1er sont additionnés pour chaque région.
-A partir de l'année budgétaire 2003, les montants obtenus pour chaque région en application de l'alinéa 1er pour chaque impôt sont adaptés à l'évolution des recettes à politique inchangée. Ces montants adaptes par impôt sont additionnés pour chaque région.
+[<sup>1</sup> Pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de transition visé à l'article 48/1 et du facteur d'autonomie visé à l'article 5/2, § 1er,]<sup>1</sup> les montants obtenus pour chaque région en application de l'alinéa 1er pour chaque impôt sont adaptés à l'évolution des recettes à politique inchangée. Ces montants adaptes par impôt sont additionnés pour chaque région.
 Pour les années budgétaires 2003 à 2012 incluse, la différence entre le montant obtenu en application de l'alinéa 2 et celui obtenu en application de l'alinéa 3 est calculée annuellement pour chaque région.
 La différence obtenue en application de l'alinéa 4, pour autant qu'elle soit positive, forme annuellement le montant de base de la correction de transition.
 Pour les années budgétaires 2003 à 2007 incluse, la correction de transition est égale pour chaque région à 100 % du montant de base de la correction de transition obtenu pour la même année pour la région concernée.
@@ -353,26 +504,24 @@ Pour les années budgétaires 2008 à 2012 incluse, la correction de transition 
 A partir de l'année budgétaire 2013, il n'est plus appliqué de correction de transition.
 Pour l'application de cet article, on entend par recettes à politique inchangée les recettes réelles, à moins que celles-ci ne soient influencées par la région concernée dans le cadre de l'exercice de ses compétences fiscales liées à l'impôt concerné. Dans ce cas, l'adaptation annuelle visée à l'alinéa 3 s'effectue sur la base de critères objectifs déterminés par impôt par la loi. Le projet de loi concerne est déposé à la Chambre avant le 1er janvier 2002.
 Le montant obtenu par région en application du présent paragraphe est porté en déduction de la diminution visée au § 1er.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 22, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.34" href="#Art.33bis">Art.</a> <a href="#LNK0014"> 34</a>. &lt;L 2001-07-13/35, art. 18, 003; <b> En vigueur : </b> 01-01-2002&gt; Les moyens par région sont constitués annuellement comme suit :
+<a name="Art.34" href="#Art.33bis">Art.</a> <a href="#LNK0014"> 34</a>.[<sup>1</sup> § 1er.]<sup>1</sup> &lt;L 2001-07-13/35, art. 18, 003; <b> En vigueur : </b> 01-01-2002&gt; [<sup>1</sup> Pour les années budgétaires 2000 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de transition visé à l'article 48/1 et du facteur d'autonomie visé à l'article 5/2, § 1er, les moyens par région sont constitués annuellement comme suit :]<sup>1</sup>
 1° les montants obtenus en application de l'article 33, § 4;
 2° les montants obtenus en application de l'article 33bis;
 3° l'intervention de solidarité nationale visée à l'article 48.
 Les moyens visés à l'alinéa 1er sont constitués par une partie du produit de l'impôt des personnes physiques.
+[<sup>1</sup> § 2. A partir de l'année budgétaire 2015, les moyens visés à l'article 1er, § 2, 4° et 6°, par région sont constitués annuellement des moyens supplémentaires visés à la section 4 et du montant de solidarité nationale visé à l'article 48.
+Les moyens visés à l'alinéa 1er sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 23, 008; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0014" href="#LNKR0014">Section 3.</a> - Des moyens supplémentaires de financement des programmes de remise au travail de chômeurs.
+<a name="LNK0014" href="#LNKR0014">Section 3.</a>
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 24, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0015"> 35</a>. § 1. En ce qui concerne l'intervention financière visée à l'article 6, § 1er, IX, 2°, alinéa 2, de la loi spéciale du 8 août 1980 de réformes institutionnelles, le montant correspondant à une indemnité de chômage est octroyé à chaque Région concernée pour chaque emploi équivalent temps plein pris en charge par cette Région à la condition qu'elle fournisse la preuve :
-a) de l'occupation équivalente à un emploi temps plein;
-b) (de la qualité de demandeur d'emploi inoccupé des travailleurs mis au travail;) &lt;L 2001-07-13/35, art. 19, 003; <b> En vigueur : </b> 01-01-2001&gt;
-c) que ces travailleurs sont engagés dans les liens d'un contrat de travail.
-(En ce qui concerne l'intervention financière visée à l'article 6, § 1er, IX, 2°, alinéa 4, de la loi spéciale du 8 août 1980 de réformes institutionnelles, le montant correspondant à une indemnité de chômage est octroyé à la région concernée pour chaque emploi équivalent temps plein pris en charge par cette région, à condition qu'elle fournisse la preuve :
-a) de l'occupation équivalente à un emploi temps plein;
-b) que chaque emploi est occupé par un travailleur engagé dans les liens d'un contrat de travail ou d'un engagement statutaire.) &lt;L 2001-07-13/35, art. 19, 003; <b> En vigueur : </b> 01-01-2001&gt;
-§ 2. Le Roi, après concertation avec les Exécutifs concernés, détermine, les modalités des preuves à fournir par les Régions.
-§ 3. Le montant global des interventions financières visées au § 1er est inscrit annuellement au budget du Ministère de l'Emploi et du Travail, après concertation avec les Exécutifs concernés.
-§ 4. Les interventions financières dues sont versées aux Régions par avances trimestrielles calculées sur la base du nombre d'emplois, vises au § 1er, équivalents temps plein occupés au cours de l'année civile précédente. Le décompte définitif est établi sur la base de l'occupation effective en équivalents temps plein de l'année civile en cours.
-§ 5. Le Roi détermine la date et les modalités de versement des avances trimestrielles et du solde restant dû.
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0015"> 35</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 24, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0015" href="#LNKR0015">Section 4.</a> - Moyens supplémentaires &lt;inséré par L 1993-07-16/30, art. 108, <b> En vigueur : </b> 1993-07-30&gt;
 
@@ -393,35 +542,122 @@ b) que chaque emploi est occupé par un travailleur engagé dans les liens d'un 
 - dans l'année budgétaire 1998 : 1,0755 milliard de francs;
 - dans l'année budgétaire 1999 : 1,1545 milliard de francs.
 
-<a name="Art.35ter" href="#Art.35bis">Art.</a> <a href="#Art.35quater"> 35ter</a>. &lt;inséré par L 1993-07-16/30, art. 110, 002; <b> En vigueur : </b> 1993-07-30&gt; § 1. Pour l'année budgétaire 2000 et chacune des années budgétaires suivantes, la fixation des montants s'effectuera sur la base des moyens supplémentaires obtenus en application de la présente section pour l'année budgétaire précédente, pour la Région flamande et la Région wallonne ensemble.
-§ 2. Ces montants obtenus en application du § 1er sont adaptés annuellement aux taux de fluctuation de l'indice moyen des prix ainsi qu'a la croissance réelle du produit national brut de l'année budgétaire en question, selon les modalités fixées à l'article 33, § 2.
+<a name="Art.35ter" href="#Art.35bis">Art.</a> <a href="#Art.35quater"> 35ter</a>.&lt;inséré par L 1993-07-16/30, art. 110, 002; <b> En vigueur : </b> 1993-07-30&gt; § 1. [<sup>1</sup> Pour chacune des années budgétaires 2000 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 35octies, § 1er, alinéa 2, 1°, et du montant de transition visé à l'article 48/1, la fixation des montants s'effectue sur la base des moyens supplémentaires obtenus en application de l'article 35bis ou du présent article, selon le cas, pour l'année budgétaire précédente, pour la Région flamande et la Région wallonne ensemble.]<sup>1</sup>
+§ 2. Ces montants obtenus en application du § 1er sont adaptés annuellement aux taux de fluctuation de l'indice moyen des prix ainsi qu'a la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire en question, selon les modalités fixées à l'article 33, § 2.
 § 3. Le résultat obtenu en application du § 2 est réparti entre la Région flamande et la Région wallonne selon la clé de répartition :
 - pour la Région flamande : 61,96 p.c.;
 - pour la Région wallonne : 38,04 p.c..
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 25, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35quater" href="#Art.35ter">Art.</a> <a href="#Art.35quinquies"> 35quater</a>. &lt;Inséré par L 2001-07-13/35, art. 20; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Pour l'année budgétaire 2002, les moyens supplémentaires additionnels s'élèvent à 21 653 499,39 EUR pour la Région flamande, à 13 292 050,80 EUR pour la Région wallonne et à 917 206,04 EUR pour la Région de Bruxelles-Capitale.
-§ 2. A partir de l'année budgétaire 2003 les montants visés au § 1er sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2.
-Les soldes disponibles au 31 décembre 2001 sur les fonds budgétaires sont transférés aux régions dans la mesure où ils concernent des matières transférées en application de l'article 2 de la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés. Les montants de ces soldes sont déterminés par arrêté royal délibéré en Conseil des ministres, après concertation avec les gouvernements de région.
+<a name="Art.35quater" href="#Art.35ter">Art.</a> <a href="#Art.35quinquies"> 35quater</a>.&lt;Inséré par L 2001-07-13/35, art. 20; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Pour l'année budgétaire 2002, les moyens supplémentaires additionnels s'élèvent à 21 653 499,39 EUR pour la Région flamande, à 13 292 050,80 EUR pour la Région wallonne et à 917 206,04 EUR pour la Région de Bruxelles-Capitale.
+§ 2. [<sup>1</sup> Pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 35octies, § 1er, alinéa 2, 1°, et du montant de transition visé à l'article 48/1, les montants visés au § 1er sont adaptés annuellement aux taux de fluctuation de l'indice moyen des prix à la consommation, et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 26, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35quinquies" href="#Art.35quater">Art.</a> <a href="#Art.35sexies"> 35quinquies</a>. &lt;Inséré par L 2001-07-13/35, art. 21; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, les moyens supplémentaires pour la Région wallonne s'élèvent à 19 268 763,68 EUR et pour la Région flamande à 21 425 437,35 EUR.
-A partir de l'année budgétaire 2003, les montants visés à l'alinéa 1er sont adaptés au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2.
+<a name="Art.35quinquies" href="#Art.35quater">Art.</a> <a href="#Art.35sexies"> 35quinquies</a>.&lt;Inséré par L 2001-07-13/35, art. 21; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, les moyens supplémentaires pour la Région wallonne s'élèvent à 19 268 763,68 EUR et pour la Région flamande à 21 425 437,35 EUR.
+[<sup>1</sup> Pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 35octies, § 1er, alinéa 2, 1°, et du montant de transition visé à l'article 48/1, les montants visés à l'alinéa 1er sont adaptés annuellement aux taux de fluctuation de l'indice moyen des prix à la consommation, et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 27, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35sexies" href="#Art.35quinquies">Art.</a> <a href="#Art.35septies"> 35sexies</a>. &lt;Inséré par L 2001-07-13/35, art. 22; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, des moyens supplémentaires sont transférés à la Région wallonne, à la Région flamande et à la Région de Bruxelles-Capitale. Pour les trois régions réunies, ces montants sont égaux à 14 873 611,49 EUR exprimés en prix de 2002.
-Pour l'établissement des montants pour l'année budgétaire 2003 et pour chacune des années budgétaires subséquentes, on se fonde sur les moyens supplémentaires obtenus pour l'année budgétaire précédente.
-Chaque année, le montant total obtenu en application de l'alinéa 2 est adapté au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2, et réparti selon les recettes de l'impôt des personnes physiques localisées dans chaque région.
+<a name="Art.35sexies" href="#Art.35quinquies">Art.</a> <a href="#Art.35septies"> 35sexies</a>.&lt;Inséré par L 2001-07-13/35, art. 22; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, des moyens supplémentaires sont transférés à la Région wallonne, à la Région flamande et à la Région de Bruxelles-Capitale. Pour les trois régions réunies, ces montants sont égaux à 14 873 611,49 EUR exprimés en prix de 2002.
+Pour l'établissement des montants [<sup>1</sup> pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 35octies, § 1er, alinéa 2, 1°, et du montant de transition visé à l'article 48/1,]<sup>1</sup> on se fonde sur les moyens supplémentaires obtenus pour l'année budgétaire précédente.
+[<sup>1</sup> Chaque année, le montant total obtenu en application de l'alinéa 2 est adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2, et réparti selon les recettes de l'impôt des personnes physiques fédéral localisé dans chaque région.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 28, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35septies" href="#Art.35sexies">Art.</a> <a href="#Art.35octies"> 35septies</a>. &lt;Inséré par L 2001-07-13/35, art. 23; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, des moyens supplémentaires sont transférés à la Région flamande, à la Région wallonne et à la Région de Bruxelles-Capitale. Pour les trois régions réunies, ce montant est égal à 6 114 434,94 EUR exprimé en prix de 2002.
-Pour l'établissement des montants pour l'année budgétaire 2003 et pour chacune des années budgétaires subséquentes, on se fonde sur les moyens supplémentaires obtenus pour l'année budgétaire précédente.
-Chaque année, le montant total obtenu en application de l'alinéa 2 est adapté au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2, et réparti entre les régions selon la part de chaque région dans le total du montant obtenu en application des articles 33, § 4, 35, 35ter, 35quater, 35quinquies, 35sexies et 48, pour les trois régions réunies.
+<a name="Art.35septies" href="#Art.35sexies">Art.</a> <a href="#Art.35octies"> 35septies</a>.&lt;Inséré par L 2001-07-13/35, art. 23; <b> En vigueur : </b> 01-01-2002&gt; Pour l'année budgétaire 2002, des moyens supplémentaires sont transférés à la Région flamande, à la Région wallonne et à la Région de Bruxelles-Capitale. Pour les trois régions réunies, ce montant est égal à 6 114 434,94 EUR exprimé en prix de 2002.
+Pour l'établissement des montants [<sup>1</sup> pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 35octies, § 1er, alinéa 2, 1°, et du montant de transition visé à l'article 48/1,]<sup>1</sup> on se fonde sur les moyens supplémentaires obtenus pour l'année budgétaire précédente.
+Chaque année, le montant total obtenu en application de l'alinéa 2 est adapté au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée suivant les modalités fixées à l'article 33, § 2, et réparti entre les régions selon la part de chaque région dans le total du montant obtenu en application des articles 33, § 4, 35, 35ter, 35quater, 35quinquies, 35sexies et 48, pour les trois régions réunies.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 29, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.35octies" href="#Art.35septies">Art.</a> <a href="#LNK0016"> 35octies</a>. &lt;Inséré par L 2001-07-13/35, art. 24; <b> En vigueur : </b> 01-01-2002&gt; Les moyens visés dans la présente section sont constitués d'une partie du produit de l'impôt des personnes physiques.
+<a name="Art.35octies" href="#Art.35septies">Art.</a> <a href="#Art.35nonies"> 35octies</a>.[<sup>1</sup> § 1er. A partir de l'année budgétaire 2015 des moyens supplémentaires sont accordés à la Région wallonne, la Région flamande, et la Région de Bruxelles-Capitale.
+Pour l'année budgétaire 2015, pour les trois régions réunies, ces moyens sont égaux à la somme des montants suivants :
+1° le montant obtenu en additionnant les montants qui sont obtenus, pour l'année budgétaire 2015, en application des articles 35ter à 35septies, pour les trois régions réunies;
+2° un montant égal à 625.887.632 euros;
+3° un montant égal à 5 millions d'euros.
+A partir de l'année budgétaire 2016, les moyens attribués pour l'année budgétaire précédente sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée, suivant les modalités fixées à l'article 33, § 2.
+Le pourcentage visé à l'alinéa 3 est égal à :
+1° pour l'année budgétaire 2016 : 100 %;
+2° à partir de l'année budgétaire 2017 :
+a) 55 % sur la partie de la croissance réelle qui ne dépasse pas 2,25 %;
+b) 100 % sur la partie de la croissance réelle qui dépasse 2,25 %;
+A partir de l'année budgétaire 2015, ces moyens sont répartis entre les régions selon la clef de répartition :
+a) pour la Région flamande : 50,33 %;
+b) pour la Région wallonne : 41,37 %;
+c) pour la Région de Bruxelles-Capitale : 8,30 %.
+§ 2. Les montants obtenus au § 1er sont diminués pour les années budgétaires 2015 à 2019 incluse des montants suivants :
+1° pour l'année budgétaire 2015 :
+a) pour la Région flamande : 9.253.026 euros;
+b) pour la Région wallonne : 13.245.455 euros;
+c) pour la Région de Bruxelles-Capitale : 5.141.684 euros;
+2° pour l'année budgétaire 2016 :
+a) pour la Région flamande : 5.559.685 euros;
+b) pour la Région wallonne : 7.239.762 euros;
+c) pour la Région de Bruxelles-Capitale : 2.724.530 euros;
+3° pour l'année budgétaire 2017 :
+a) pour la Région flamande : 4.375.792 euros;
+b) pour la Région wallonne : 5.554.417 euros;
+c) pour la Région de Bruxelles-Capitale : 2.314.311 euros;
+4° pour l'année budgétaire 2018 :
+a) pour la Région flamande : 2.850.247 euros;
+b) pour la Région wallonne : 3.298.120 euros;
+c) pour la Région de Bruxelles-Capitale : 1.499.915 euros;
+5° pour l'année budgétaire 2019 :
+a) pour la Région flamande : 650.405 euros;
+b) pour la Région wallonne : 493.544 euros;
+c) pour la Région de Bruxelles-Capitale : 294.241 euros.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 30, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.35nonies" href="#Art.35octies">Art.</a> <a href="#Art.35decies"> 35nonies</a>. [<sup>1</sup> § 1er. A partir de l'année budgétaire 2015, des moyens supplémentaires sont transférés à la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale, dont le montant de base est fixé à 3.953.242.907 euros.
+Pour l'année budgétaire 2015, le montant attribué pour les trois régions réunies est égal à la somme des montants repris aux 1° et 2° et diminué des montants repris au 3° et 4° :
+1° le montant de base visé à l'alinéa 1er, multiplié par un facteur 0,9 et adapté :
+a) au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2014 et à la croissance réelle du produit intérieur brut de cette même année budgétaire suivant les modalités définies à l'article 33, § 2;
+b) au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2015 et à la croissance réelle du produit intérieur brut de cette même année budgétaire suivant les modalités définies à l'article 33, § 2;
+2° un montant de 434.491.222 euros;
+3° un montant de 707.935.702 euros;
+4° un montant de 831.348.000 euros.
+Pour l'année budgétaire 2016, le montant attribué pour l'année budgétaire 2015 est d'abord adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, et ensuite diminué de 831 348 000 euros.
+A partir de l'année budgétaire 2017, le montant attribué pour l'année budgétaire précédente est adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et au pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2.
+Le pourcentage visé aux alinéas 3 et 4 est égal à :
+1° pour l'année budgétaire 2016 : 75 %;
+2° à partir de l'année budgétaire 2017 :
+a) 55 % sur la partie de la croissance réelle qui ne dépasse pas 2,25 %;
+b) 100 % sur la partie de la croissance réelle qui dépasse 2,25 %;
+A partir de l'année budgétaire 2015, les moyens sont répartis entre les trois régions selon les recettes de l'impôt des personnes physiques fédéral localisé dans chaque région.
+§ 2. En application de l'article 6, § 1er, IX, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, l'intervention financière accordée à l'autorité fédérale par une région lorsque le pourcentage de jours dispensés au cours d'une année pour raison de formation, d'études ou de stage par rapport aux jours de chômage complet indemnisé de la même année dépasse 12 % dans cette région est mise en déduction des moyens octroyés à cette région conformément au § 1er.
+Cette intervention financière est obtenue en additionnant les montants suivants :
+1° un montant de 35,50 euros, multiplié par le nombre de jours de chômage de l'année précédente dispensés pour raison de formation, d'études ou de stage qui dépasse 12 % sans excéder 14 % du nombre de jours de chômage complet indemnisé de la même année, multiplié par un coefficient de 0,5;
+2° un montant de 35,50 euros, multiplié par le nombre de jours de chômage de l'année précédente dispensés pour raison de formation, d'études ou de stage qui dépasse 14 % du nombre de jours de chômage complet indemnisé de la même année.
+A partir de l'année budgétaire 2016, le montant de 35,50 euros est adapté annuellement à l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé conformément au § 1er, alinéa 5.
+Les dispenses pour formations qui préparent à une profession en pénurie et les dispenses octroyées dans le cadre d'une coopérative d'activités ne sont pas prises en considération pour l'application du présent paragraphe.
+§ 3. En application de l'article 6, § 1er, IX, 11°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, si le nombre de personnes mises à l'emploi dans le système des agences locales pour l'emploi (ALE) en moyenne sur l'année dépasse le nombre fixé pour la Région wallonne et la Région flamande par cette même loi spéciale et pour ce qui concerne la Région de Bruxelles-Capitale par l'article 4, alinéa 4, de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, les moyens dus par la région concernée à l'autorité fédérale sont mis en déduction des moyens octroyés à cette région conformément au § 1er.
+Les moyens dus par une région pour une année budgétaire donnée sont obtenus en multipliant le montant de 6.000 euros par la différence entre d'une part, le nombre de personnes qui sont mises à l'emploi dans le système ALE l'année qui précède et qui sont domiciliés sur le territoire de la région concernée et d'autre part, le nombre de bénéficiaires qui est fixé pour la Région wallonne et pour la Région flamande par l'article 6, § 1er, IX, 11°, de la loi spéciale du 8 août 1980 de réformes institutionnelles et pour la Région de Bruxelles-Capitale par l'article 4, alinéa 4, de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, pour ce qui concerne la Région de Bruxelles-Capitale.
+A partir de l'année budgétaire 2016, le montant de 6.000 euros est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé conformément au § 1er, alinéa 5.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 31, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.35decies" href="#Art.35nonies">Art.</a> <a href="#LNK0016"> 35decies</a>. [<sup>1</sup> A partir de l'année budgétaire 2015, des moyens supplémentaires sont transférés à la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale, en raison des compétences attribuées aux régions par l'article 5/5, § 4.
+Pour les trois régions réunies, le montant de référence des moyens visés à l'alinéa 1er est fixé provisoirement à 3.047.959.879 euros. Le montant de référence à politique inchangée sera définitivement déterminé par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des régions sur la base du rapport de la Cour des comptes visé à l'article 81ter, 1°.
+Pour l'année budgétaire 2015, le montant attribué est égal au montant de référence visé à l'alinéa 2, multiplié par un facteur de 0,6.
+A partir de l'année budgétaire 2016, le montant attribué pour l'année budgétaire précédente est adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé conformément à l'article 35nonies, § 1er, alinéa 5.
+A partir de l'année budgétaire 2015, les moyens sont annuellement répartis entre les trois régions selon les recettes de l'impôt des personnes physiques fédéral localisé dans chaque région.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 32, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0016" href="#LNKR0016">CHAPITRE III.</a> - LES COMMUNAUTES.
 
-<a name="Art.36" href="#Art.35octies">Art.</a> <a href="#LNK0017"> 36</a>. &lt;L 2001-07-13/35, art. 25, 003; <b> En vigueur : </b> 01-01-2002&gt; Par communauté, les moyens sont constitués annuellement comme suit :
+<a name="Art.36" href="#Art.35decies">Art.</a> <a href="#LNK0017"> 36</a>.&lt;L 2001-07-13/35, art. 25, 003; <b> En vigueur : </b> 01-01-2002&gt; [<sup>1</sup> Pour chacune des années budgétaires 1989 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base vise à l'article 40quinquies et du montant de transition visé à l'article 48/1, par communauté, les moyens sont constitués annuellement comme suit :]<sup>1</sup>
 1° la partie attribuée du produit de la taxe sur la valeur ajoutée, visée à l'article 41;
 2° la partie attribuée du produit de l'impôt des personnes physiques, visée à l'article 46 ou 47, selon le cas;
-3° la dotation visée à l'article 47bis, compensatoire de la redevance radio télévision.
+3° [<sup>1</sup> la dotation visée à l'article 47/3, compensatoire de la redevance radio télévision à partir de l'année budgétaire 2002.]<sup>1</sup>
+[<sup>1</sup> A partir de l'année budgétaire 2015, les moyens visés à l'article 1er, § 1er, 2°, sont constitués annuellement par communauté comme suit :
+1° la partie attribuée du produit de la taxe sur la valeur ajoutée, visée à l'article 41;
+2° le montant de la partie attribuée du produit de l'impôt des personnes physiques fédéral, obtenu en application de l'article 47/2, § 4.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 33, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0017" href="#LNKR0017">Section 1.</a> (abrogée) &lt;L 1993-07-16/30, art. 121, 002; <b> En vigueur : </b> 1993-07-30&gt;
 
@@ -429,11 +665,11 @@ Chaque année, le montant total obtenu en application de l'alinéa 2 est adapté
 
 <a name="LNK0018" href="#LNKR0018">Section 2.</a> - La partie attribuée du produit de la taxe sur la valeur ajoutée.
 
-<a name="Art.38" href="#Art.37">Art.</a> <a href="#Art.39"> 38</a>. § 1. Les montants de base sont fixés à :
+<a name="Art.38" href="#Art.37">Art.</a> <a href="#Art.39"> 38</a>.§ 1. Les montants de base sont fixés à :
 - pour la Communauté flamande : 167,4389 milliards de francs;
 - pour la Communauté française : 128,9468 milliards de francs.
 § 2. Toutefois, pour l'année 1989, une réduction exceptionnelle et non récurrente de 6,1023 milliards de francs est opérée sur le montant visé au § 1er pour la Communauté flamande et de 4,6902 milliards de francs sur le montant visé au § 1er pour la Communauté française.
-§ 3. (A partir de l'année budgétaire 1990, les montants visés au § 1er sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation.
+§ 3. ([<sup>1</sup> Pour chacune des années budgétaires 1990 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies et du montant de transition visé à l'article 48/1,]<sup>1</sup> les montants visés au § 1er sont adaptés annuellement au taux de fluctuation de l'indice moyen des prix à la consommation.
 En attendant la fixation définitive de l'indice moyen des prix à la consommation de l'année budgétaire concernée, les montants obtenus sont adaptés au taux estimé de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
 (§ 3bis. Pour les deux communautés réunies les montants suivants sont fixés :
 1° pour l'année budgétaire 2002 : un montant de 198 314 819,82 EUR;
@@ -444,9 +680,9 @@ En attendant la fixation définitive de l'indice moyen des prix à la consommati
 6° pour les années budgétaires de 2007 à 2011 incluse : un montant de 24 789 352,48 EUR.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
 (§ 3ter. Pour l'année budgétaire 2002 le montant total est égal au montant obtenu en application du § 3 pour les deux communautés réunies, augmenté du montant fixé pour l'année budgétaire 2002 au § 3bis.
 Pour chacune des années budgétaires 2003 à 2006 incluse, le montant total est égal au montant fixé pour l'année budgétaire concernée au § 3bis, augmenté du montant total obtenu pour l'année budgétaire précédente en application du présent paragraphe après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée suivant les modalités visées au § 3.
-Pour chacune des années budgétaires 2007 à 2011 incluse, le montant total est égal au montant fixé, pour l'année budgétaire concernée, au § 3bis, augmenté du montant total obtenu pour l'année budgétaire précédente en application du présent paragraphe après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à 91 % de la croissance réelle du revenu national brut de l'année budgétaire concernée.
-A partir de l'année budgétaire 2012, le montant total, pour les deux communautés réunies, est égal au montant total obtenu pour année budgétaire précédente en application du présent paragraphe après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à 91 % de la croissance réelle du revenu national brut de l'année budgétaire concernée.
-En attendant la fixation définitive de l'indice moyen des prix à la consommation de l'année budgétaire concernée et de la croissance réelle du revenu national brut de l'année budgétaire concernée, l'adaptation visée aux troisième et quatrième alinéas se fait au taux estimé de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle estimée du revenu national brut de l'année budgétaire concernée, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
+Pour chacune des années budgétaires 2007 à 2011 incluse, le montant total est égal au montant fixé, pour l'année budgétaire concernée, au § 3bis, augmenté du montant total obtenu pour l'année budgétaire précédente en application du présent paragraphe après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à 91 % de la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée.
+[<sup>1</sup> Pour chacune des années budgétaires 2012 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies et du montant de transition visé à l'article 48/1, le montant total, pour les deux communautés réunies, est égal au montant total obtenu pour l'année budgétaire précédente en application du présent paragraphe après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2.]<sup>1</sup>
+En attendant la fixation définitive de l'indice moyen des prix à la consommation de l'année budgétaire concernée et de la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée, l'adaptation visée aux troisième et quatrième alinéas se fait au taux estimé de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle estimée du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
 § 4. Les montants obtenus en application du § 3 sont multipliés annuellement par un facteur d'adaptation.
 Ce facteur d'adaptation est obtenu en calculant respectivement pour la Communauté française et la Communauté flamande, le rapport entre :
 1° d'une part, le nombre d'habitants âgés de moins de 18 ans appartenant respectivement aux Communautés française ou flamande au 30 juin de l'année budgétaire précédente, majoré de 20 % de la baisse ou, le cas échéant, diminué de 20 % de l'augmentation de ce nombre par rapport au 30 juin 1988;
@@ -457,7 +693,9 @@ Pour l'application de cet article, le nombre d'habitants âgés de moins de 18 a
 Pour l'application de cet article, le nombre d'habitants âgés de moins de 18 ans appartenant à la Communauté flamande est censé être égal au nombre d'habitants âgés de moins de 18 ans appartenant à la région de langue néerlandaise, majoré de 20 % du nombre d'habitants âgés de moins de 18 ans appartenant à la région bilingue de Bruxelles-Capitale.
 (§ 5. Pour chacune des années budgétaires 2002 à 2011 incluse, le montant total obtenu en application du § 3ter, après déduction du montant déterminé au § 3bis pour l'année budgétaire concernée, est multiplié annuellement par le facteur d'adaptation visé au § 4.
 Le montant obtenu en application de l'alinéa 1er est augmenté du montant déterminé au § 3bis pour l'année budgétaire concernée.
-A partir de l'année budgétaire 2012, le montant total obtenu en application du § 3ter est multiplié annuellement par le facteur d'adaptation visé au § 4.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> Pour chacune des années budgétaires 2012 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies et du montant de transition visé à l'article 48/1,]<sup>1</sup> le montant total obtenu en application du § 3ter est multiplié annuellement par le facteur d'adaptation visé au § 4.) &lt;L 2001-07-13/35, art. 26, 003; <b> En vigueur : </b> 01-01-2002&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 34, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.39" href="#Art.38">Art.</a> <a href="#Art.40"> 39</a>. § 1. (Les montants obtenus en application de l'article 38, § 4 sont additionnés chaque année.) &lt;L 2001-07-13/35, art. 27, 003; <b> En vigueur : </b> 01-01-2002&gt;
 § 2. Le montant obtenu en application du § 1er est réparti entre les Communautés pour les années budgétaires 1989 à 1998 selon la répartition du nombre actuel d'élèves, à savoir :
@@ -471,9 +709,11 @@ Le résultat ainsi obtenu constituera le montant de base de chaque Communauté.
 Pour les années budgétaires 1992 à 1998 incluses la correction de transition est égale à un pourcentage, diminué de 12,5 points, du montant de base de la correction de transition.
 Il n'est plus appliqué de correction de transition à partir de année budgétaire 1999.
 
-<a name="Art.40bis" href="#Art.40">Art.</a> <a href="#Art.40ter"> 40bis</a>. &lt;Inséré par L 2001-07-13/35, art. 28; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire 2002, la différence est établie chaque année entre, d'une part, le montant total obtenu en application de l'article 38, § 5, et, d'autre part, le montant total obtenu en application de l'article 39, § 1er.
+<a name="Art.40bis" href="#Art.40">Art.</a> <a href="#Art.40ter"> 40bis</a>.&lt;Inséré par L 2001-07-13/35, art. 28; <b> En vigueur : </b> 01-01-2002&gt; [<sup>1</sup> Pour chacune des années budgétaires 2002 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies, du montant de base visé à l'article 47/2 et du montant de transition visé à l'article 48/1,]<sup>1</sup> la différence est établie chaque année entre, d'une part, le montant total obtenu en application de l'article 38, § 5, et, d'autre part, le montant total obtenu en application de l'article 39, § 1er.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 35, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.40ter" href="#Art.40bis">Art.</a> <a href="#Art.41"> 40ter</a>. &lt;Inséré par L 2001-07-13/35, art. 29; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Pour les années budgétaires 2002 à 2011 incluse, le montant obtenu en application de l'article 40bis est scindé en deux parties.
+<a name="Art.40ter" href="#Art.40bis">Art.</a> <a href="#Art.40quater"> 40ter</a>.&lt;Inséré par L 2001-07-13/35, art. 29; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Pour les années budgétaires 2002 à 2011 incluse, le montant obtenu en application de l'article 40bis est scindé en deux parties.
 La première partie s'élève :
 1° pour l'année budgétaire 2002 : à 35 %;
 2° pour les années budgétaires 2003 à 2009 incluse : à un pourcentage augmentant chaque année de 5 points à partir du pourcentage fixé au 1°;
@@ -481,14 +721,43 @@ La première partie s'élève :
 Pour chacune des années budgétaires concernées, la seconde partie est égale à la différence entre le montant visé à l'alinéa 1er et la partie fixée à l'alinéa 2.
 § 2. La partie fixée en application du § 1er, alinéa 2, est répartie pour chacune des années budgétaires concernées entre les deux communautés proportionnellement aux recettes de l'impôt des personnes physiques localisées dans chaque communauté, conformément à l'article 44, § 2, alinéas 2 à 4.
 § 3. La partie fixée en application du § 1er, alinéa 3, est répartie pour chacune des années budgétaires concernées entre les deux communautés selon le nombre d'élèves dans chaque communauté établi conformément aux critères visés à l'article 39, § 2.
-§ 4. A partir de l'année budgétaire 2012, le montant obtenu en application de l'article 40bis est réparti entre les deux communautés proportionnellement aux recettes de l'impôt des personnes physiques localisées dans chaque communauté, conformément à l'article 44, § 2, alinéas 2 à 4.
+§ 4. [<sup>1</sup> Pour chacune des années budgétaires 2012 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies, du montant de base visé à l'article 47/2 et du montant de transition visé à l'article 48/1,]<sup>1</sup> le montant obtenu en application de l'article 40bis est réparti entre les deux communautés proportionnellement aux recettes de l'impôt des personnes physiques localisées dans chaque communauté, conformément à l'article 44, § 2, alinéas 2 à 4.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 36, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.41" href="#Art.40ter">Art.</a> <a href="#LNK0019"> 41</a>. Les moyens visés dans la présente section sont constitués comme suit par Communauté :
+<a name="Art.40quater" href="#Art.40ter">Art.</a> <a href="#Art.40quinquies"> 40quater</a>. [<sup>1</sup> La différence est calculée entre :
+1° l'impact, pour l'année budgétaire 2015, de l'adaptation annuelle appliquée à partir de l'année budgétaire 2007 à 91 % de la croissance réelle du produit intérieur brut de la partie attribuée du produit de la taxe sur la valeur ajoutée; cet impact est calculé comme une différence entre :
+a) le nouveau calcul pour l'année budgétaire 2015 du montant total obtenu, en application de l'article 38, § 5, les montants fixés dans l'article 38, § 3bis, mis à zéro;
+b) le montant total obtenu pour l'année budgétaire 2015 en application de l'article 39, § 1er;
+2° l'impact, pour l'année budgétaire 2010, de l'adaptation annuelle appliquée à partir de l'année budgétaire 2007 à 91 % de la croissance réelle du produit intérieur brut de la partie attribuée du produit de la taxe sur la valeur ajoutée; cet impact est calculé comme une différence entre :
+a) le nouveau calcul pour l'année budgétaire 2010, du montant total obtenu, en application de l'article 38, § 5, les montants fixés dans l'article 38, § 3bis, mis à zéro et la liaison à la croissance réelle du produit intérieur brut pour l'année budgétaire 2010, visée à l'article 38, § 3ter, non prise en compte;
+b) le montant total obtenu pour l'année budgétaire 2010, en application de l'article 39, § 1er.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 37, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.40quinquies" href="#Art.40quater">Art.</a> <a href="#Art.41"> 40quinquies</a>. [<sup>1</sup> Pour l'année budgétaire 2015, un nouveau montant de base est défini, égal à la somme :
+1° du montant total visé à l'article 40quater pour la Communauté française et la Communauté flamande réunies;
+2° du montant obtenu pour l'année budgétaire 2015, en application de l'article 39, § 2, pour la Communauté française et la Communauté flamande réunies;
+3° du montant obtenu pour l'année budgétaire 2015, en application de l'article 47/3, pour la Communauté française et la Communauté flamande réunies;
+4° d'un montant égal à 158 542 548 euros pour la Communauté française et la Communauté flamande réunies.
+Le montant de base obtenu en application de l'alinéa 1er est, à compter de l'année budgétaire 2016 :
+1° adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation et à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2.
+2° multiplié par le rapport entre le facteur d'adaptation visé à l'article 38, § 4, pour l'année budgétaire concernée et le facteur d'adaptation visé à l'article 38, § 4, pour l'année budgétaire précédente.
+A partir de l'année budgétaire 2015, le montant obtenu en application de l'alinéa 1er ou de l'alinéa 2, selon le cas, est réparti annuellement entre la Communauté française et la Communauté flamande suivant les modalités définies à l'article 39.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 38, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.41" href="#Art.40quinquies">Art.</a> <a href="#LNK0019"> 41</a>.[<sup>1</sup> Pour les années budgétaires 1989 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies et du montant de transition visé à l'article 48/1, les moyens visés dans la présente section sont annuellement constitués comme suit par communauté :]<sup>1</sup>
 1° le montant de base obtenu en application de l'article 39, § 2;
 2° le montant de la correction de transition obtenu en application de l'article 40, § 2;
-(3° le montant obtenu en application de l'article 40ter.) &lt;L 2001-07-13/35, art. 30, 003; <b> En vigueur : </b> 01-01-2002&gt;
+(3° le montant obtenu en application de l'article 40ter [<sup>1</sup> à partir de l'année budgétaire 2002.]<sup>1</sup> ) &lt;L 2001-07-13/35, art. 30, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> A partir de l'année budgétaire 2015, les moyens visés dans la présente section sont annuellement constitués par le montant obtenu en application de l'article 40quinquies, alinéa 3.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 39, 008; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0019" href="#LNKR0019">Section 3.</a> - La partie attribuée du produit de l'impôt des personnes physiques.
+<a name="LNK0019" href="#LNKR0019">Section 3.</a> - [<sup>1</sup> La partie attribuée du produit de l'impôt des personnes physiques fédéral]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 40, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0020" href="#LNKR0020">Première sous-section.</a> - Période transitoire.
 
@@ -546,31 +815,291 @@ Pour les années budgétaires 1994 à 1999 incluses, ce montant est adapté annu
 
 <a name="LNK0021" href="#LNKR0021">Sous-section 2.</a> - Du régime définitif.
 
-<a name="Art.47" href="#Art.46">Art.</a> <a href="#LNK0022"> 47</a>. § 1. Pour l'année budgétaire 2000 et chacune des années budgétaires suivantes, la fixation des montants s'effectuera sur la base des moyens par Communauté de l'année budgétaire précédente.
-§ 2. (Chaque année, ces montants sont adaptés au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée. En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du revenu national brut, les montants sont adaptés au taux de fluctuation estimé de l'indice moyen des prix à la consommation et à la croissance réelle estimée du revenu national brut de l'année budgétaire concernée, comme il est prévu dans le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 31, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.47" href="#Art.46">Art.</a> <a href="#Art.47/1"> 47</a>.§ 1. Pour l'année budgétaire 2000 et chacune des années budgétaires suivantes [<sup>1</sup> jusqu'à l'année budgétaire 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 47/2 et du montant de transition visé à l'article 48/1]<sup>1</sup> , la fixation des montants s'effectuera sur la base des moyens par Communauté de l'année budgétaire précédente.
+§ 2. (Chaque année, ces montants sont adaptés au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée. En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup>, les montants sont adaptés au taux de fluctuation estimé de l'indice moyen des prix à la consommation et à la croissance réelle estimée du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée, comme il est prévu dans le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.) &lt;L 2001-07-13/35, art. 31, 003; <b> En vigueur : </b> 01-01-2002&gt;
 § 2bis. (Si la moyenne arithmétique de la croissance réelle annuelle du produit national brut au cours de la période 1993 à 2004 inclusivement est inférieure à 2 p.c., le montant déterminé au § 2 pour l'année budgétaire 2005 sera à nouveau déterminé, mais cette fois sur la base d'une croissance réelle uniforme de 2 p.c. au cours des années budgétaires 1993 à 2005 incluses.
 Si la différence entre le montant déterminé à l'alinéa précédent et le montant déterminé au § 2 pour l'année budgétaire 2005 dépasse 0,25 p.c. du montant déterminé sur la base du § 2 pour l'année budgétaire 2004, un montant sera retenu, pour l'année budgétaire 2005, égal au montant obtenu sur la base du § 2 pour l'année budgétaire 2005, majoré de 0,25 p.c. du montant obtenu pour l'année budgétaire 2004 sur la base du § 2.
 Si la différence entre le montant déterminé à l'alinéa premier et le montant déterminé au § 2 pour l'année budgétaire 2005 est inférieure à 0,25 p.c. du montant déterminé sur la base du § 2 pour l'année budgétaire 2004, le montant déterminé à l'alinéa premier sera retenu pour l'année budgétaire 2005.) &lt;L 1993-07-16/30, art. 114, § 2, 002; <b> En vigueur : </b> 1993-07-30&gt;
 § 3. (Chaque année, le montant obtenu au § 2 ou, le cas échéant, le montant retenu pour l'année budgétaire 2005 au § 2bis, pour les deux communautés réunies, est exprimé en pour-cent à cinq décimales des recettes totales de l'impôt des personnes physiques localisées dans les deux communautés.) &lt;L 2001-07-13/35, art. 32, 003; <b> En vigueur : </b> 01-01-2002&gt;
 § 4. Le pourcentage ainsi obtenu est appliqué annuellement aux recettes localisées dans chacune des Communautés, conformément à l'article 44, § 2, de l'impôt des personnes physiques.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 41, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/1" href="#Art.47">Art.</a> <a href="#Art.47/2"> 47/1</a>. [<sup>1</sup> Pour l'année budgétaire 2015, la différence est calculée entre :
+1° le montant obtenu en application de l'article 40bis pour la Communauté française et la Communauté flamande réunies;
+2° le montant obtenu en application de l'article 40quater pour la Communauté française et la Communauté flamande réunies.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 42, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/2" href="#Art.47/1">Art.</a> <a href="#LNK0022"> 47/2</a>. [<sup>1</sup> § 1er. Pour l'année budgétaire 2015, un nouveau montant de base est défini, égal à la somme :
+1° du montant total visé à l'article 47/1 pour la Communauté française et la Communauté flamande réunies;
+2° du montant total visé à l'article 47 pour la Communauté française et la Communauté flamande réunies;
+3° un montant négatif égal à 356.292.000 euros.
+§ 2. Pour l'année budgétaire 2016, le montant attribué pour l'année budgétaire 2015 est d'abord adapté au taux de fluctuation de l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée, suivant les modalités définies à l'article 33, § 2 et ensuite diminué de 356.292.000 euros. Ce pourcentage est égal au pourcentage déterminé conformément à l'article 35nonies, § 1er, alinéa 5.
+Le montant de base obtenu en application de l'alinéa 1er est adapté annuellement à compter de l'année budgétaire 2017 au taux de fluctuation de l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée, suivant les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé conformément à l'article 35nonies, § 1er, alinéa 5.
+§ 3. A compter de l'année budgétaire 2015, le montant obtenu, selon le cas, en application du § 1er ou du § 2 est exprimé annuellement, en pour cent à cinq décimales du total des recettes de l'impôt des personnes physiques fédéral réputées localisées dans les deux communautés.
+§ 4. Le pourcentage ainsi obtenu est appliqué annuellement aux recettes de l'impôt des personnes physiques fédéral réputées localisées dans chaque communauté.
+Les recettes sont réparties entre les communautés comme suit :
+1° 100 % de ces recettes de l'impôt localisé en région de langue néerlandaise, augmenté de 20 % de ces recettes de l'impôt localisé en région bilingue de Bruxelles-Capitale sont réputées localisées dans la Communauté flamande;
+2° 100 % de ces recettes de l'impôt localisé en région de langue française et 80 % de ces recettes de l'impôt localisé en région bilingue de Bruxelles-Capitale sont réputées localisées dans la Communauté française.
+§ 5. Pour l'application du présent article, les recettes de l'impôt des personnes physiques fédéral localisé dans chaque région linguistique sont établies annuellement sur la base des données du dernier exercice d'imposition et fixées par arrêté royal délibéré en Conseil des Ministres et après concertation avec les gouvernements des régions et des communautés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 43, 008; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0022" href="#LNKR0022">Section IV.</a> - &lt;Insérée par L 2001-07-13/35, art. 33; <b> En vigueur : </b> 01-01-2002&gt; La dotation compensatoire de la redevance radio et télévision.
 
-<a name="Art.47bis" href="#Art.47">Art.</a> <a href="#LNK0023"> 47bis</a>. &lt;Inséré par L 2001-07-13/35, art. 34; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Une dotation est octroyée annuellement à la Communauté française et à la Communauté flamande en compensation de la redevance radio et télévision. Le montant de base de cette dotation est fixé par communauté comme la moyenne, pour les années budgétaires 1999 à 2001 incluse, du produit net de la redevance radio et télévision, localisé respectivement dans la Communauté française et dans la Communauté flamande, dans le respect des critères de localisation fixés au § 3. Le produit net est exprimé en prix de 2002.
-§ 2. A partir de l'année budgétaire 2003, le montant par communauté obtenu en application du § 1er est adapté chaque année au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée suivant les modalités fixées à l'article 38, § 3.
+<a name="Art.47/3" href="#Art.47/2">Art.</a> <a href="#LNK0023"> 47/3</a>.[<sup>1</sup> ancien Art. 47bis.]<sup>1</sup> &lt;Inséré par L 2001-07-13/35, art. 34; <b> En vigueur : </b> 01-01-2002&gt; § 1er. Une dotation est octroyée annuellement à la Communauté française et à la Communauté flamande en compensation de la redevance radio et télévision. Le montant de base de cette dotation est fixé par communauté comme la moyenne, pour les années budgétaires 1999 à 2001 incluse, du produit net de la redevance radio et télévision, localisé respectivement dans la Communauté française et dans la Communauté flamande, dans le respect des critères de localisation fixés au § 3. Le produit net est exprimé en prix de 2002.
+§ 2. [<sup>1</sup> Pour chacune des années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de base visé à l'article 40quinquies et du montant de transition visé à l'article 48/1,]<sup>1</sup> le montant par communauté obtenu en application du § 1er est adapté chaque année au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée suivant les modalités fixées à l'article 38, § 3.
 § 3. Pour l'application du § 1er, la redevance radio et télévision est réputée être localisée comme suit : à l'endroit où l'appareil de télévision est détenu et, en ce qui concerne les appareils à bord de véhicules automobiles, à l'endroit ou le détenteur de l'appareil est établi.
 Il est attribué à la Communauté française la part du produit net de la redevance radio et télévision localisée dans la Région de langue française, majorée de 80 % de la partie du produit net de cette redevance dans la région bilingue de Bruxelles-Capitale.
 Il est attribué à la Communauté flamande la part du produit net de la redevance radio et télévision localisée en Région de langue néerlandaise, majorée de 20 % de la partie du produit net de cette redevance dans la région bilingue de Bruxelles-Capitale.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 44, 008; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0023" href="#LNKR0023">TITRE V.</a> - DE L'INTERVENTION DE SOLIDARITE NATIONALE.
+<a name="LNK0023" href="#LNKR0023">TITRE IV/1.</a> [<sup>1</sup> Des dotations fédérales aux communautés]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 45, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.48" href="#Art.47bis">Art.</a> <a href="#LNK0024"> 48</a>. § 1. A partir de l'année budgétaire 1990, une intervention de solidarité nationale annuelle est attribuée à la Région dont le produit moyen de l'impôt des personnes physiques par habitant est inférieur au produit moyen de l'impôt des personnes physiques par habitant pour l'ensemble du Royaume.
-§ 2. Le montant de base de l'intervention de solidarité nationale s'élève à 468 francs par habitant et par pourcent de différence en moins que présente le produit moyen. Ce produit moyen est calculé sur la base des chiffres fixés conformément à l'article 7, § 2.
+<a name="Art.47/4" href="#Art.47/3">Art.</a> <a href="#Art.47/5"> 47/4</a>. [<sup>1</sup> Pour les communautés, les dotations visées dans les articles 47/5 à 47/11 sont inscrites annuellement au budget général des dépenses de l'autorité fédérale.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 46, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/5" href="#Art.47/4">Art.</a> <a href="#Art.47/6"> 47/5</a>. [<sup>1</sup> § 1er. A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté française, la Communauté flamande et la Commission communautaire commune dont le montant de base est égal à 6 403 683 360 euros.
+§ 2. Pour l'année budgétaire 2015, le montant qui est accordé aux entités réunies visées au § 1er, est obtenu en effectuant consécutivement les opérations suivantes :
+1° le montant visé au § 1er, est adapté selon les modalités définies à l'alinéa 2, et ce pour l'année budgétaire 2014;
+2° le montant obtenu en application du 1° est adapté selon les modalités définies à l'alinéa 2, et ensuite diminué selon les modalités définies à l'alinéa 3, et ce pour l'année budgétaire 2015.
+L'adaptation visée à l'alinéa 1er est effectuée sur la base :
+1° du taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée selon les modalités définies à l'article 38, § 3;
+2° de l'évolution du nombre d'habitants de 0 à 18 ans inclus du Royaume au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année budgétaire précédente, le nombre d'habitants de 0 à 18 ans inclus étant fixé suivant les modalités définies au § 5. En attendant la fixation définitive de ce nombre d'habitants au 1er janvier de l'année budgétaire concernée, l'estimation du nombre d'habitants au 1er janvier de l'année budgétaire concernée est retenue, comme il est prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.
+Le montant obtenu en application de l'alinéa 2 est diminué d'un pourcentage qui est obtenu en calculant le rapport entre le nombre d'habitants de 0 à 18 ans inclus appartenant à la Communauté germanophone au 1er janvier de l'année budgétaire concernée et le nombre d'habitants de 0 à 18 ans inclus du Royaume au 1er janvier de l'année budgétaire concernée, le nombre d'habitants de 0 à 18 ans inclus étant fixé suivant les modalités définies au § 5.
+§ 3. Pour l'année budgétaire 2015, les moyens par entité sont obtenus en répartissant le montant obtenu en application du § 2 entre les entités visées au § 1er selon la clef du nombre d'habitants de 0 à 18 ans inclus au 1er janvier de l'année budgétaire concernée, qui est obtenue en calculant par entité le rapport entre :
+1° le nombre d'habitants de 0 à 18 ans inclus appartenant à l'entité concernée;
+2° la somme du nombre d'habitants de 0 à 18 ans inclus appartenant à toutes les entités visées au § 1er;
+et le nombre d'habitants de 0 à 18 ans inclus étant fixé suivant les modalités définies au § 5.
+§ 4. Pour l`établissement des moyens par entité visée au § 1er pour l'année budgétaire 2016 et pour chacune des années budgétaires subséquentes, les moyens obtenus pour l'année budgétaire précédente sont adaptés annuellement :
+1° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, suivant les modalités définies à l'article 38, § 3;
+2° à l'évolution du nombre d'habitants de 0 à 18 ans inclus de l'entité concernée au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année budgétaire précédente suivant les modalités définies au § 2, alinéa 2, 2°, et le nombre d'habitants de 0 à 18 inclus ans étant fixé suivant les modalités définies au § 5;
+3° à 25 % de la croissance réelle du produit intérieur brut par habitant. En attendant la fixation définitive de ce taux de croissance par habitant de l'année budgétaire concernée, le taux de croissance par habitant estimé de l'année budgétaire concernée est retenu, comme prévu par le budget économique visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.
+§ 5. Pour l'application des §§ 1er à 4, le nombre d'habitants de 0 à 18 ans inclus est égal à :
+1° pour la Communauté flamande, au nombre d'habitants de 0 à 18 ans inclus appartenant à la région de langue néerlandaise;
+2° pour la Communauté française, au nombre d'habitants de 0 à 18 ans inclus appartenant à la région de langue française;
+3° pour la Commission communautaire commune, au nombre d'habitants de 0 à 18 ans inclus appartenant à la région bilingue de Bruxelles-Capitale;
+4° pour la Communauté germanophone, au nombre d'habitants de 0 à 18 ans inclus appartenant à la région de langue allemande.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 47, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/6" href="#Art.47/5">Art.</a> <a href="#Art.47/7"> 47/6</a>. [<sup>1</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, sur proposition des partenaires sociaux visés à la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations affecter une partie de l'enveloppe bien-être à la majoration des dotations visées à l'article 47/5 qui sont accordées à la Communauté française, la Communauté flamande et la Commission communautaire commune si les partenaires sociaux constatent que le taux de participation des jeunes dans l'enseignement supérieur a augmenté significativement dans une ou plusieurs régions linguistiques entre l'année qui précède et la dernière année pour laquelle une partie de l'enveloppe bien-être a été affectée à une majoration des dotations accordées aux entités précitées, ou à défaut l'année 2015.
+Le taux de participation est défini par région linguistique comme étant le rapport entre le nombre de jeunes de 19 à 24 ans inclus domiciliés dans la région linguistique concernée, inscrits pour une formation menant à un grade académique de l'enseignement supérieur et le nombre de jeunes du même âge domiciliés dans cette région linguistique.
+La majoration de la dotation d'une entité visée à l'alinéa 1er est déterminé en fonction de la part de l'augmentation du taux de participation de l'entité concernée dans l'augmentation du taux de participation de la Communauté française, la Communauté flamande et la Commission communautaire commune réunies, l'augmentation étant observée sur la période visée à l'alinéa 1er, et :
+1° la part dans la majoration qui est attribuée à la Communauté flamande correspondant à la part de la région de langue néerlandaise dans l'augmentation du taux de participation;
+2° la part dans la majoration qui est attribuée à la Communauté française correspondant à la part de la région de langue française dans l'augmentation du taux de participation;
+3° la part dans la majoration qui est attribuée à la Commission communautaire commune correspondant à la part de la région bilingue de Bruxelles-Capitale dans l'augmentation du taux de participation.
+Le montant ainsi obtenu qui revient à une ou plusieurs entités visées à l'alinéa 1er est maintenu nominalement constant et ajouté chaque année aux moyens attribués à ces entités concernées en vertu de l'article 47/5, §§ 1er à 5.
+Les modalités d'application de la majoration visée à l'alinéa 1er sont réglées, après concertation avec les gouvernements de communautés et le Collège réuni de la Commission communautaire commune, par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 48, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/7" href="#Art.47/6">Art.</a> <a href="#Art.47/8"> 47/7</a>. [<sup>1</sup> § 1er. A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté française, à la Communauté flamande et à la Commission communautaire commune dont le montant de base est égal à 3 339 352 178 euros.
+§ 2. Pour l'année budgétaire 2015, le montant qui est accordé aux entités réunies visées au § 1er, est obtenu en effectuant consécutivement les opérations suivantes :
+1° le montant de base visé au § 1er est adapté selon les modalités définies à l'alinéa 2 et ce pour l'année budgétaire 2014;
+2° le montant obtenu en application du 1° est adapté selon les modalités définies à l'alinéa 2 et ensuite diminué selon les modalités définies à l'alinéa 3, et ce pour l'année budgétaire 2015.
+L'adaptation visée à l'alinéa 1er s'effectue sur la base :
+1° du taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée selon les modalités définies à l'article 38, § 3;
+2° de l'évolution du nombre d'habitants âgés de plus de 80 ans du Royaume au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année précédente, selon les modalités définies à l'article 47/5, § 2, alinéa 2, 2° ; le nombre d'habitants âgés de plus de 80 ans étant fixé suivant les modalités définies au § 5;
+3° de la croissance réelle du produit intérieur brut par habitant de l'année budgétaire concernée et fixée selon les modalités définies à l'article 47/5, § 4, 3°.
+Le montant obtenu en application de l'alinéa 2 est diminué d'un pourcentage qui est obtenu en calculant le rapport entre le nombre d'habitants âgés de plus de 80 ans appartenant à la Communauté germanophone au 1er janvier de l'année budgétaire concernée et le nombre d'habitants âgés de plus 80 ans dans le Royaume au 1er janvier de l'année budgétaire concernée; le nombre d'habitants âgés de plus de 80 ans étant fixé suivant les modalités définies au § 5.
+§ 3. Pour l'année budgétaire 2015, les moyens par entité sont obtenus en répartissant le montant obtenu en application du § 2 entre les entités visées au § 1er selon la clef du nombre d'habitants âgés de plus de 80 ans au 1er janvier de l'année budgétaire concernée qui est obtenue en calculant par entité le rapport entre :
+1° le nombre d'habitants âgés de plus de 80 ans appartenant à l'entité concernée;
+2° la somme du nombre d'habitants âgés de plus de 80 ans appartenant à toutes les entités visées au § 1er;
+et le nombre d'habitants âgés de plus de 80 ans étant fixé suivant les modalités définies au § 5.
+Des moyens fixés à l'alinéa 1er pour chaque entité, il est déduit un montant pour tenir compte des services de gériatrie isolés, visés à l'article 5, § 1er, I, alinéa 1er, 3°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, existants au 1er janvier 2013, mais qui ne constituent plus de tels services à la date du 1er janvier 2015. Ce montant est déterminé par arrêté royal délibéré en Conseil des Ministres et après concertation avec le gouvernement de la communauté concernée ou du Collège réuni de la Commission communautaire commune. Il correspond au montant qui a été attribué pour l'année budgétaire 2013 pour ces services, compte non tenu des moyens pour l'infrastructure de ces services, et est adapté aux taux de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle du produit intérieur brut des années budgétaires 2014 et 2015, suivant les modalités fixées à l'article 33, § 2. Le montant adapté est déduit des moyens fixés à l'alinéa 1er pour l'entité qui aurait été compétente pour ces services.
+§ 4. Pour la fixation des moyens par entité pour l'année budgétaire 2016 et pour chacune des années budgétaires subséquentes, les moyens obtenus pour l'année budgétaire précédente sont adaptés annuellement :
+1° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, selon les modalités définies à l'article 38, § 3;
+2° à l'évolution du nombre d'habitants âgés de plus de 80 ans dans l'entité concernée au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année budgétaire précédente, suivant les modalités fixées à l'article 47/5, § 2, alinéa 2, 2° ; le nombre d'habitants âgés de plus de 80 ans étant fixé suivant les modalités définies au § 5;
+3° un pourcentage de la croissance réelle du produit intérieur brut par habitant de l'année budgétaire concernée, suivant les modalités fixées à l'article 47/5, § 4, 3°.
+Le pourcentage visé à l'alinéa 1er, 3°, est égal à :
+1° pour l'année budgétaire 2016 : 82,5 %;
+2° à partir de l'année budgétaire 2017 :
+a) 65 % sur la partie de la croissance réelle qui ne dépasse pas 2,25 %;
+b) 100 % sur la partie de la croissance réelle qui dépasse 2,25 %;
+§ 5. Pour l'application des §§ 1er à 4, le nombre d'habitants âgés de plus de 80 ans de :
+1° la Communauté flamande est égal au nombre d'habitants âgés de plus de 80 ans appartenant à la région de langue néerlandaise;
+2° la Communauté française est égal au nombre d'habitants âgés de plus de 80 ans appartenant à la région de langue française;
+3° la Commission communautaire commune est égal au nombre d'habitants âgés de plus de 80 ans appartenant à la région bilingue de Bruxelles-Capitale;
+4° la Communauté germanophone est égal au nombre d'habitants âgés de plus de 80 ans appartenant à la région de langue allemande.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 49, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/8" href="#Art.47/7">Art.</a> <a href="#Art.47/9"> 47/8</a>. [<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté française, à la Communauté flamande et à la Commission communautaire commune dont le montant de base est égal à :
+a) 472.033.613 euros pour la Communauté flamande;
+b) 257.732.297 euros pour la Communauté française;
+c) 128.644.410 euros pour la Commission communautaire commune.
+Il est déduit un montant pour tenir compte des services spécialisés isolés de révalidation et de traitement, visés à l'article 5, § 1er, I, alinéa 1er, 4°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, existants au 1er janvier 2013, mais qui ne constituent plus de tels services à la date du 1er janvier 2015. Ce montant est déterminé par arrêté royal délibéré en Conseil des ministres et après concertation avec le gouvernement de la communauté concernée ou du Collège réuni de la Commission communautaire commune. Il correspond au montant qui a été attribué pour l'année budgétaire 2013 pour ces services, compte non tenu des moyens pour l'infrastructure de ces services, et est adapté aux taux de fluctuation de l'indice moyen des prix à la consommation et à la croissance réelle du produit intérieur brut des années budgétaires 2014 et 2015, suivant les modalités fixées à l'article 33, § 2. Le montant adapté est déduit des moyens pour l'entité qui aurait été compétente pour ces services.
+A partir de l'année budgétaire 2016, les moyens accordés aux entités visées à l'alinéa 1er sont obtenus en adaptant annuellement les moyens de l'année budgétaire précédente au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé conformément à l'article 47/7, § 4, alinéa 2.
+Les moyens sont adaptés annuellement à l'évolution entre le 1er janvier de l'année budgétaire concernée et le 1er janvier de l'année budgétaire précédente, du rapport entre le nombre d'habitants de l'entité concernée et le nombre d'habitants de l'ensemble du Royaume.
+Pour l'application de l'alinéa 4, le nombre d'habitants de :
+1° la Communauté flamande est égal au nombre d'habitants appartenant à la région de langue néerlandaise;
+2° la Communauté française est égal au nombre d'habitants appartenant à la région de langue française;
+3° la Commission communautaire commune est égal au nombre d'habitants appartenant à la région bilingue de Bruxelles-Capitale.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 50, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/9" href="#Art.47/8">Art.</a> <a href="#Art.47/10"> 47/9</a>. [<sup>1</sup> § 1er. A partir de l'année budgétaire 2016, une dotation est accordée annuellement à la Communauté française, à la Communauté flamande et à la Commission communautaire commune en raison de leur compétence en matière de financement des infrastructures hospitalières et des services médico-techniques.
+Le montant de base de la dotation visée à l'alinéa 1er est égal à 566 185 617 euros.
+§ 2. Pour l'année budgétaire 2016, le montant visé au § 1er est adapté :
+1° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2014 et à la croissance réelle du produit intérieur brut de cette même année budgétaire suivant les modalités définies à l'article 33, § 2;
+2° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2015 et à la croissance réelle du produit intérieur brut de cette même année budgétaire suivant les modalités définies à l'article 33, § 2;
+3° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2016 et à la croissance réelle du produit intérieur brut de cette même année budgétaire suivant les modalités définies à l'article 33, § 2.
+A partir de l'année budgétaire 2017, les moyens accordés aux entités visées au § 1er, alinéa 1er, sont obtenus en adaptant annuellement les moyens de l'année budgétaire précédente au taux de fluctuation de l'indice moyen des prix à la consommation et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2. Ce pourcentage est égal au pourcentage déterminé à l'article 47/7, § 4, alinéa 2.
+§ 3. Le montant calculé selon le § 2 est réparti annuellement en deux parties; une première partie de 84,40 % et une seconde de 15,60 %. Les deux parties sont attribuées aux entités visées au § 1er, alinéa 1er, selon les règles établies respectivement par les alinéas 3 et 4.
+La première partie est diminuée d'un pourcentage qui est obtenu en calculant le rapport entre le nombre d'habitants appartenant à la Communauté germanophone au 1er janvier de l'année budgétaire concernée et le nombre d'habitants du Royaume au 1er janvier de l'année budgétaire concernée.
+Le montant obtenu en application de l'alinéa 2 est réparti entre les entités visées au § 1er, alinéa 1er, en fonction du nombre d'habitants de l'année budgétaire concernée, en calculant par entité le rapport entre :
+1° le nombre d'habitants appartenant à l'entité concernée;
+2° la somme du nombre d'habitants appartenant à toutes les entités visées au § 1er, alinéa 1er.
+La seconde partie est répartie par rapport au nombre d'habitants entre la Communauté française et la Communauté flamande comme suit :
+1° pour la Communauté flamande : la fraction qui correspond au rapport entre, d'une part, la population de la Région flamande et 20 % de la population de la Région de Bruxelles-Capitale, et d'autre part, la population du Royaume au 1er janvier de l'année budgétaire concernée;
+2° pour la Communauté française : la fraction qui correspond au rapport entre, d'une part, la population de la Région wallonne et 80 % de la population de la Région de Bruxelles-Capitale, et d'autre part, la population du Royaume au 1er janvier de l'année budgétaire concernée.
+Pour l'application des alinéas 2 à 4, le nombre d'habitants de :
+1° la Communauté flamande est égal au nombre d'habitants appartenant à la région de langue néerlandaise;
+2° la Communauté française est égal au nombre d'habitants appartenant à la région de langue française;
+3° la Commission communautaire commune est égal au nombre d'habitants appartenant à la région bilingue de Bruxelles-Capitale;
+4° la Communauté germanophone, le nombre d'habitants appartenant à la région de langue allemande.
+Le nombre des habitants au 1er janvier d'une année budgétaire est déterminé suivant les modalités fixées à l'article 47/5, § 2, alinéa 2, 2°.
+§ 4. L'autorité fédérale assure, pour le compte des communautés, le financement des investissements des infrastructures et des services médico-techniques des hôpitaux, visés à l'article 5, § 1er, I, 1°, a), de la loi spéciale du 8 août 1980 de réformes institutionnelles, pour autant que ces investissements :
+1° aient fait objet d'un premier amortissement au plus tard le 31 décembre 2015;
+2° ou, s'agissant des nouvelles constructions ou des travaux de reconditionnement prioritaires subsidiés par les communautés, qu'ils aient été prévus dans le calendrier de construction prévu par le protocole d'accord conclu dans le cadre de la conférence interministérielle Santé publique du 19 juin 2006;
+3° ou, s'agissant de travaux de reconditionnement non prioritaires, pour autant que les investissements soient conformes aux règles fédérales en vigueur et soient entamés avant le 31 décembre 2015.
+Chaque année, les dépenses effectuées par l'autorité fédérale conformément à l'alinéa 1er pour les investissements effectués dans les hôpitaux relevant de chacune des entités concernées sont déduites des dotations respectives de ces entités. Il est tenu compte de l'estimation de ces dépenses pour le versement des acomptes prévus à l'article 54.
+§ 5. Chaque communauté ou la Commission communautaire commune peut conclure avec l'autorité fédérale un accord de coopération ayant pour objet la reconversion de lits hospitaliers en vue de la prise en charge de patients, en dehors de l'hôpital, par un service relevant de la compétence de la communauté ou de la Commission communautaire commune. Dans ce cas, cet accord de coopération prévoit que des moyens supplémentaires sont accordés à la communauté, aux communautés ou à la Commission communautaire commune parties à cet accord de coopération. Ces moyens ne peuvent excéder le coût des lits hospitaliers reconvertis.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 51, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/10" href="#Art.47/9">Art.</a> <a href="#Art.47/11"> 47/10</a>. [<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté française et à la Communauté flamande dont le montant de base est égal à :
+1° 51 737 934 euros pour la Communauté flamande;
+2° 34 610 699 euros pour la Communauté française.
+Pour l'année budgétaire 2016 et pour chacune des années budgétaires subséquentes, les moyens accordés à chaque communauté sont obtenus en adaptant les moyens accordés pour l'année budgétaire précédente ou, le cas échéant, le montant de base majoré obtenu en application de l'alinéa 3, au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2.
+A partir de l'année 2019 et ensuite tous les trois ans, la Cour des comptes calcule par communauté l'évolution du nombre de missions en exécution de la législation fédérale sur les trois dernières années écoulées. Si cette évolution est supérieure à la croissance de la dotation fixée conformément à l'alinéa 2 sur la même période, le montant de la dotation à accorder à la communauté pour l'année budgétaire suivante et pour chacune des années budgétaires subséquentes, est déterminé en prenant en compte la croissance plus élevée du nombre de missions sur les trois dernières années.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 52, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.47/11" href="#Art.47/10">Art.</a> <a href="#LNK0024"> 47/11</a>. [<sup>1</sup> A partir de l'année budgétaire 2018, une dotation est accordée annuellement à la Communauté française et à la Communauté flamande dont le montant de base est égal à :
+1° 17.704.421 euros pour la Communauté flamande;
+2° 13.910.617 euros pour la Communauté française.
+Pour l'année budgétaire 2019 et pour chacune des années budgétaires subséquentes, les moyens octroyés à chaque communauté sont fixés en adaptant les moyens obtenus pour l'année précédente au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 53, 008; En vigueur : 01-07-2014&gt;
+
+<a name="LNK0024" href="#LNKR0024">TITRE V.</a> - [<sup>1</sup> Du mécanisme de solidarité nationale]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 54, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.48" href="#Art.47/11">Art.</a> <a href="#LNK0025"> 48</a>.§ 1. [<sup>1</sup> Pour les années budgétaires 1990 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation du montant de transition visé à l'article 48/1, un montant de solidarité nationale est annuellement attribué]<sup>1</sup> à la Région dont le produit moyen de l'impôt des personnes physiques par habitant est inférieur au produit moyen de l'impôt des personnes physiques par habitant pour l'ensemble du Royaume.
+§ 2. Le montant de base [<sup>1</sup> de la solidarité nationale]<sup>1</sup> s'élève à 468 francs par habitant et par pourcent de différence en moins que présente le produit moyen. Ce produit moyen est calculé sur la base des chiffres fixés conformément à l'article 7, § 2.
 Dès l'année budgétaire 1989, le montant de base est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation selon les modalités fixées à l'article 13, § 2. (A partir de l'année budgétaire 2002, l'adaptation annuelle s'opère au taux de fluctuation de l'indice moyen des prix à la consommation suivant les modalités fixées à l'article 38, § 3.) &lt;L 2001-07-13/35, art. 35, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> § 3. A partir de l'année budgétaire 2015, un montant de solidarité nationale est attribué annuellement à chaque région dont le pourcentage dans les recettes totales de l'impôt des personnes physiques fédéral est inférieur au pourcentage dans la population du Royaume.
+§ 4. Pour l'année budgétaire 2015, un montant de base est défini qui est égal à la somme pour toutes les régions réunies :
+1° du montant qui correspond au numérateur du rapport visé à l'article 5/2, § 1er, alinéa 3, 1°, calculé pour l'année budgétaire 2015;
+2° du montant visé à l'article 35nonies pour l'année budgétaire 2015 pour les trois régions réunies compte non tenu de l'application des §§ 2 et 3 de cet article;
+3° du montant visé à l'article 35decies pour l'année budgétaire 2015 pour les trois régions réunies;
+4° de 50 % des moyens visés à l'article 47/2 pour l'année budgétaire 2015 pour la Communauté française et la Communauté flamande réunies.
+Pour l'année budgétaire 2016, le montant de base visé à l'alinéa 1er :
+1° est d'abord adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2;
+2° et ensuite diminué de 1.009.494.000 euros.
+A partir de l'année budgétaire 2017, le montant de l'année budgétaire précédente est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2.
+§ 5. Le montant de solidarité nationale de la région concernée est déterminée comme étant le produit du montant de base visé au § 4 et de 80 % de la valeur absolue de la différence entre le pourcentage de cette région dans les recettes totales de l'impôt des personnes physiques fédéral et le pourcentage de cette région dans la population du Royaume, l'impôt des personnes physiques fédéral et la population étant définis conformément à l'article 7.
+§ 6. Le montant total de solidarité nationale est constitué d'une partie du produit de l'impôt des personnes physiques fédéral.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 55, 008; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0024" href="#LNKR0024">TITRE VI.</a> - DES EMPRUNTS.
+<a name="LNK0025" href="#LNKR0025">TITRE V/1.</a> [<sup>1</sup> Du mécanisme de transition]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 56, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.49" href="#Art.48">Art.</a> <a href="#Art.49bis"> 49</a>. (§ 1er. Les communautés et les régions peuvent contracter des emprunts en euros ou en devises.
+<a name="Art.48/1" href="#Art.48">Art.</a> <a href="#LNK0026"> 48/1</a>. [<sup>1</sup> § 1er. A titre transitoire, pour l'année budgétaire 2015 pour respectivement la Communauté flamande, la Communauté française et la Commission communautaire commune, un montant de transition est fixé, étant la somme :
+1° du montant résultant de la différence pour l'année budgétaire 2015 entre :
+a) le montant de la part attribuée du produit d'impôts obtenu en application de l'article 36, alinéa 2, compte non tenu du montant négatif visé à l'article 47/2, § 1er, 3° ;
+b) le montant de la part attribuée du produit d'impôts obtenu en application de l'article 36, alinéa 1er;
+2° du montant résultant de la multiplication du montant fixé à l'article 47/5, § 2, pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 47/5, § 3, et la clé de répartition suivante :
+a) pour la Communauté flamande : 54,20 %;
+b) pour la Communauté française : 33,62 %;
+c) pour la Commission communautaire commune : 12,18 %;
+3° du montant résultant de la multiplication du montant fixé à l'article 47/7, § 2, pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 47/7, § 3, alinéa 1er, et la clé de répartition suivante :
+a) pour la Communauté flamande : 61,98 %;
+b) pour la Communauté française : 30,73 %;
+c) pour la Commission communautaire commune : 7,29 %;
+4° du montant résultant de la différence entre le montant respectif fixé à l'article 47/8, alinéa, 1er, pour l'année budgétaire 2015 et le montant suivant :
+a) pour la Communauté flamande : 506.258.597 euros;
+b) pour la Communauté française : 285.971.297 euros;
+c) pour la Commission communautaire commune : 28.798.525 euros;
+5° du montant résultant de la différence entre le montant fixé à l'article 47/10 pour l'année budgétaire 2015 et :
+a) pour la Communauté flamande : 41.991.968 euros;
+b) pour la Communauté française : 44.454.922 euros;
+6° du montant négatif résultant de la multiplication du montant fixé à l'article 40quinquies, alinéa 1er, 4°, pour l'année budgétaire 2015 par la clé de répartition :
+a) pour la Communauté flamande : 63,485 %;
+b) pour la Communauté française : 36,505 %;
+c) pour la Commission communautaire commune : 0,01 %.
+7° les montants suivants :
+a) pour la Communauté flamande : un montant négatif de 4.553.362 euros;
+b) pour la Communauté française : 4.526.332 euros.
+Lorsque des établissements établis dans la région bilingue de Bruxelles-Capitale doivent, en raison de leur organisation, être considérés comme appartenant exclusivement à l'une ou l'autre communauté durant l'année budgétaire 2013 et ont, durant cette année budgétaire, reçu un financement dans le cadre des matières visées à l'article 5, § 1er, I, alinéa 1er, 2° à 5°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, le montant correspondant à ce financement pour l'année budgétaire 2015 est ajouté au montant de transition, visé à l'alinéa 1er, de la communauté concernée et soustrait du montant de transition de la Commission communautaire commune, si, en raison d'une modification de leur organisation, ces établissements doivent être considérés au 1er janvier 2015, comme n'appartenant plus exclusivement à l'une ou l'autre communauté, et pour autant qu'ils aient fait part à la communauté concernée et à la Commission communautaire commune des modifications de leur organisation au plus tard le 31 décembre 2014.
+Lorsque des établissements établis dans la région bilingue de Bruxelles-Capitale doivent, en raison de leur organisation, être considérés comme n'appartenant pas exclusivement à l'une ou l'autre communauté durant l'année budgétaire 2013 et ont, durant cette année budgétaire, reçu un financement dans le cadre des matières visées à l'article 5, § 1er, I, alinéa 1er, 2° à 5°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, le montant correspondant à ce financement pour l'année budgétaire 2015 est ajouté au montant de transition, visé à l'alinéa 1er, de la Commission communautaire commune et soustrait du montant de transition de la communauté concernée, si, en raison d'une modification de leur organisation, ces établissements doivent être considérés au 1er janvier 2015, comme appartenant exclusivement à cette communauté, pour autant qu'ils aient fait part à la communauté concernée et à la Commission communautaire commune de ces modifications de leur organisation au plus tard le 31 décembre 2014.
+Les alinéas 2 et 3 sont également applicables pour de telles modifications de statut bi-communautaire vers un statut unicommunautaire ou inversement dont des établissements feraient part entre le 1er janvier 2015 et le 31 décembre 2015, moyennant toutefois l'accord du gouvernement de la communauté concernée et du Collège réuni de la Commission communautaire commune.
+§ 2. à titre transitoire, pour l'année budgétaire 2015 pour respectivement la Région wallonne, la Région de Bruxelles-Capitale et la Région flamande, un montant de transition est fixé comme étant la somme :
+1° du montant obtenu par la somme :
+a) du montant obtenu par la multiplication du montant fixé à l'article 35ter pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition visée à l'article 35ter, § 3;
+b) du montant obtenu par la multiplication du montant fixé à l'article 35quater pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition visée à l'article 35quater, § 1er;
+c) du montant obtenu par la multiplication du montant fixé à l'article 35quinquies pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition visée à l'article 35quinquies, alinéa 1er;
+d) du montant obtenu par la multiplication du montant fixé à l'article 35sexies pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition visée à l'article 35sexies, alinéa 3;
+e) du montant obtenu par la multiplication du montant fixé à l'article 35septies pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition visée à l'article 35septies, alinéa 3;
+2° du montant obtenu par la multiplication du montant fixé à l'article 35octies, § 1er, alinéa 2, 2°, par la différence entre la clé de répartition visée à l'article 35octies, § 1er, alinéa 5, et la clé de répartition suivante :
+a) pour la Région flamande : 49,35 %;
+b) pour la Région wallonne : 38,02 %;
+c) pour la Région de Bruxelles-Capitale : 12,63 %;
+3° du montant obtenu par la multiplication du montant visé à l'article 35nonies, § 1er, alinéa 2, 1° à 3°, pour l'année budgétaire 2015 par la différence entre la clé de répartition visée à l'article 35nonies, § 1er, alinéa 6, et la clé de répartition suivante :
+a) pour la Région flamande : 51,705 %;
+b) pour la Région wallonne : 34,765 %;
+c) pour la Région de Bruxelles-Capitale : 13,53 %;
+4° de la valeur négative d'un montant égal à un neuvième du montant visé à l'article 35nonies, § 1er, alinéa 2, 1° et 2°, réparti entre les régions suivant la clé de répartition suivante :
+a) pour la Région flamande : 52,43 %;
+b) pour la Région wallonne : 34,51 %;
+c) pour la Région de Bruxelles-Capitale : 13,06 %;
+5° de la somme des deux montants suivants :
+a) le montant obtenu par la multiplication du montant de référence visé à l'article 35decies, alinéa 2, pour l'année budgétaire 2015 par 60 % de la différence entre la clé de répartition visée à l'article 35decies, alinéa 5, et la clé de répartition des dépenses fiscales visées à l'article 5/5, § 4, pour l'exercice d'imposition 2015 exprimées à politique inchangée et constatées au terme du délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992;
+b) le montant obtenu par la multiplication du montant de référence visé à l'article 35decies, alinéa 2, pour l'année budgétaire 2015, par 40 % de la différence entre la clé IPP définie à l'article 5/2, § 1er, alinéa 3, 1°, et la clé de répartition des dépenses fiscales visées à l'article 5/5, § 4, pour l'exercice d'imposition 2015, exprimées à politique inchangée et constatées au terme du délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992;
+6° du montant obtenu par la multiplication du montant qui correspond au numérateur du rapport visé à l'article 5/2, § 1er, alinéa 3, 1°, calculé pour l'année budgétaire 2015, par la différence entre la "clé recettes" et la "clé IPP" pour l'année budgétaire 2015 telle que définie à ce même article;
+7° du montant obtenu par la différence entre le montant fixé à l'article 33bis pour l'année budgétaire 2015 et le montant C fixé à l'article 5/2, § 1er, alinéa 3, 1°, qui est préalablement multiplié par la "clé IPP" telle que définie à ce même article;
+8° du montant obtenu par la différence entre le montant fixé à l'article 48, §§ 3 à 6, pour l'année budgétaire 2015, tout en tenant compte d'un montant fixé à l'article 48, § 4, alinéa 1er, qui est majoré de 1.009.494.000 euros, et le montant fixé à l'article 48, §§ 1er et 2, pour l'année budgétaire 2015;
+9° les montants suivants :
+a) pour la Région wallonne : 192 017 euros;
+b) pour la Région de Bruxelles-Capitale : un montant négatif de 630.647 d'euros.
+Pour les montants visés à l'alinéa 1er, 5°, aussi longtemps que n'a pas été établie la clé de répartition des dépenses fiscales visées à l'article 5/5, § 4, pour l'exercice d'imposition 2015, exprimées à politique inchangée et constatées au terme du délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992, la clé suivante est d'application :
+a) pour la Région flamande : 65,17 %;
+b) pour la Région wallonne : 28,73 %;
+c) pour la Région de Bruxelles-Capitale : 6,10 %.
+Par "clé recettes" visée à l'alinéa 1er, 6°, on entend la part de chaque région, exprimée en pourcentage, dans les recettes pour les trois régions réunies des centimes additionnels visés à l'article 5/1, § 1er, alinéa 1er, 1°, pour l'exercice d'imposition 2015, exprimées à politique inchangée et constatées au terme du délai d'imposition visée à l'article 359 du Code des impôts sur les revenus 1992.
+§ 3. Dans la mesure où, pour la fixation pour l'année budgétaire 2015 du montant de transition par région et par communauté visé aux §§ 1er et 2, l'application des articles 5/2, § 1er, alinéa 3, 1°, 35nonies, 35decies, 36, alinéa 2, 2°, et 48, §§ 3 à 5, se fonde sur l'impôt des personnes physiques fédéral, la fixation du montant de transition s'effectue de façon définitive sur la base de l'impôt des personnes physiques fédéral de l'exercice d'imposition 2015 exprimé à politique inchangée et constaté lors de l'échéance du délai d'imposition fixé à l'article 359 du Code des impôts sur les revenus 1992.
+§ 4. Le montant de transition fixé par entité conformément aux §§ 1er à 3, reste nominalement constant durant les années 2015 jusqu'à 2024 incluse, puis, à partir de 2025 jusqu'à 2034 incluse, est réduit linéairement sur dix ans jusqu'à 0.
+Toutefois, à partir de l'année budgétaire 2016, au montant de transition fixé aux §§ 1er et 3 pour la Communauté française, la Communauté flamande et la Commission communautaire commune est ajouté le montant qui correspond à la différence, pour l'année budgétaire 2016, entre :
+1° le montant fixé à l'article 47/9, § 2, alinéa 1er, réparti selon l'article 47/9, § 3, et diminué du montant des financements assurés par l'autorité fédérale pour l'entité concernée conformément à l'article 47/9, § 4;
+2° le montant fixé par l'article 47/9, § 2, alinéa 1er, diminué du montant des financements assurés par l'autorité fédérale pour les trois entités réunies conformément à l'article 47/9, § 4, et multiplié par la clé de répartition suivante :
+a) pour la Communauté flamande : 57,76 %;
+b) pour la Communauté française : 34,01 %;
+c) pour la Commission communautaire commune : 7,69 %;
+Le montant ajouté conformément à l'alinéa 2, reste nominalement constant durant les années 2016 jusqu'à 2024 incluse puis, à partir de 2025 jusqu'à 2034 incluse, sera réduit linéairement sur dix ans jusqu'à 0.
+§ 5. Si le montant de transition est positif, le montant obtenu par application du § 4 est durant la période de 2015 jusqu'à 2033 incluse annuellement porté en déduction :
+1° pour les régions : des moyens accordés à la région concernée et visés au titre IV, chapitre II, section 4;
+2° pour les communautés : des moyens accordés à la communauté concernée et visés au titre IV, chapitre III, section 3, sous-section 2;
+3° pour la Commission communautaire commune : des moyens accordés à celle-ci visés à l'article 65 et, le cas échéant, les moyens visés aux articles 47/8 et 47/7.
+Si le montant de transition est négatif, la valeur absolue du montant obtenu par application du § 4 est durant la période de 2015 jusqu'à 2033 incluse annuellement ajouté :
+1° pour les régions : aux moyens accordés à la région concernée et visés au titre IV, chapitre II, section 4;
+2° pour les communautés : aux moyens accordés à la communauté concernée et visés au titre IV, chapitre III, section 3, sous-section 2;
+3° pour la Commission communautaire commune : aux moyens visés à l'article 65, accordés à celle-ci.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 57, 008; En vigueur : 01-07-2014&gt;
+
+<a name="LNK0026" href="#LNKR0026">TITRE VI.</a> - DES EMPRUNTS.
+
+<a name="Art.49" href="#Art.48/1">Art.</a> <a href="#Art.49bis"> 49</a>. (§ 1er. Les communautés et les régions peuvent contracter des emprunts en euros ou en devises.
 § 2. La programmation des emprunts publics est fixée par le Conseil des Ministres après concertation avec les gouvernements.
 Les conditions et le calendrier d'émission de tout emprunt public sont soumis pour approbation au ministre des Finances.
 En cas de refus d'approbation du Ministre des Finances, le gouvernement concerné peut demander que l'affaire soit portée devant le Conseil des Ministres pour décision.
@@ -588,9 +1117,9 @@ Aussi longtemps que l'arrêté visé à l'alinéa précédent n'a pas cessé ses
 Mensuellement est communiqué au Ministre des Finances un relevé détaillé de la dette totale de chaque Communauté et de chaque Région. Ce relevé est mensuellement publié au Moniteur belge.
 Par dette au sens du présent paragraphe, on entend la dette des Communautés et des Régions en ce compris les engagements des organismes dont le service financier grève le budget des Communautés et des Régions.
 
-<a name="Art.49bis" href="#Art.49">Art.</a> <a href="#LNK0025"> 49bis</a>. &lt;Inséré par L 2001-07-13/35, art. 37; <b> En vigueur : </b> 01-01-2002&gt; Les dispositions de l'article 49, à l'exception du § 6, alinéa 1er, sont applicables aux compétences accordées en vertu de l'article 138 de la Constitution à la Commission communautaire française.
+<a name="Art.49bis" href="#Art.49">Art.</a> <a href="#LNK0027"> 49bis</a>. &lt;Inséré par L 2001-07-13/35, art. 37; <b> En vigueur : </b> 01-01-2002&gt; Les dispositions de l'article 49, à l'exception du § 6, alinéa 1er, sont applicables aux compétences accordées en vertu de l'article 138 de la Constitution à la Commission communautaire française.
 
-<a name="LNK0025" href="#LNKR0025">TITRE VII.</a> - DISPOSITIONS D'ORGANISATION BUDGETAIRE ET FINANCIERE.
+<a name="LNK0027" href="#LNKR0027">TITRE VII.</a> - DISPOSITIONS D'ORGANISATION BUDGETAIRE ET FINANCIERE.
 
 <a name="Art.50" href="#Art.49bis">Art.</a> <a href="#Art.51"> 50</a>. § 1. (Chaque Parlement) vote annuellement le budget et arrête les comptes. &lt;L 2006-03-27/33, art. 11, 005; <b> En vigueur : </b> 21-04-2006&gt;
 Le compte général des Communautés et des Régions est transmis à (leur Parlement), accompagné des observations de la Cour des Comptes.
@@ -612,16 +1141,70 @@ Après accord des Exécutifs, le Roi organise, par arrêté délibéré en Conse
 3° les montants établis par Région et visés aux articles 12 et 34.
 Le projet contenant le Budget des Voies et Moyens fait, sur ces points, l'objet d'une concertation préalable entre l'autorité nationale et les Exécutifs des Communautés et des Régions. Le montant de l'intervention de solidarité nationale visé à l'article 48 fait l'objet de la même concertation préalable.
 
-<a name="Art.54" href="#Art.53">Art.</a> <a href="#LNK0026"> 54</a>. § 1. Les ressources visées au titre II qui sont versées à l'autorité nationale en vertu d'un traité international, sont transférées par celle-ci à l'autorité compétente de la Communauté ou de la Région à la fin du mois qui suit celui de leur perception.
-Sans préjudice de l'article 5, § 3, les ressources visées au titre III et à l'article 6, § 2, alinéa 1er, 3°, sont transférées par le Ministère des Finances à l'autorité compétente de la Région à la fin du mois qui suit celui de leur perception par le Ministère des Finances.
-Les ressources visées au titre IV, à l'exception de celles visées à l'article 6, § 2, alinéa 1er, 3°, sont transférées, au premier jour ouvrable de chaque mois, par le Ministère des Finances à l'autorité compétente de la Communauté ou de la Région à raison d'un douzième du montant évalué. Chaque douzième est un acompte à valoir sur le produit de la perception de l'impôt concerné durant le même mois. Au terme de l'année, le Ministère des Finances communique à l'autorité compétente de la Communauté ou de la Région un tableau reprenant, pour chaque mois de l'année écoulée, le montant du douzième versé et celui de la part correspondante du produit effectivement perçu de l'impôt attribué. Le solde positif au profit de la Communauté ou de la Région est mensuellement comptabilisé comme un prêt au Ministère des Finances. Le solde positif au profit du Ministère des Finances est mensuellement comptabilise comme un prêt à la Communauté ou à la Région concernée. Une convention entre le Ministre des Finances et les Exécutifs règle les modalités financières de ces opérations.
-Les ressources visées au titre V sont transférées, au premier jour ouvrable de chaque mois, par le Ministère des Finances à l'autorité compétente de la Région à raison d'un douzième du montant évalué.
-§ 2. En cas de dépassement de ces délais ou de versement insuffisant et après notification de cette situation au Ministre des Finances, la Communauté ou la Région concernée a le droit de contracter un emprunt auprès d'un organisme de crédit préalablement désigné de l'accord du Ministre des Finances. Cet emprunt bénéficie de plein droit de la garantie de l'Etat. Le régime financier de cet emprunt fait l'objet d'une convention générale préalablement conclue entre le Ministre des Finances, chaque Exécutif et l'organisme de crédit concerné.
+<a name="Art.54" href="#Art.53">Art.</a> <a href="#Art.54/1"> 54</a>.§ 1. Les ressources visées [<sup>1</sup> à l'article 2]<sup>1</sup> qui sont versées à l'autorité nationale en vertu d'un traité international, sont transférées par celle-ci à l'autorité compétente de la Communauté ou de la Région à la fin du mois qui suit celui de leur perception.
+[<sup>1</sup> Lorsque, en raison de ses compétences en matière de police et de justice, l'autorité fédérale perçoit les recettes visées à l'article 2bis, il verse celles-ci à l'autorité compétente de la région à la fin du mois qui suit celui de leur perception par l'autorité fédérale.]<sup>1</sup>
+Sans préjudice de l'article 5, § 3, les ressources visées au titre III et [<sup>1</sup> ...]<sup>1</sup> sont transférées par le Ministère des Finances à l'autorité compétente de la Région à la fin du mois qui suit celui de leur perception par le Ministère des Finances.
+Les ressources visées au titre IV, à l'exception de celles visées à l'article 6, § 2, alinéa 1er, 3°, [<sup>1</sup> et des ressources visées aux titres V et V/1 et aux articles 64quater, 64quinquies, 65, 65bis et 65ter]<sup>1</sup> sont transférées, au premier jour ouvrable de chaque mois, par le Ministère des Finances à l'autorité compétente de la Communauté ou de la Région à raison d'un douzième du montant évalué. Chaque douzième est un acompte à valoir sur le produit de la perception de l'impôt concerné durant le même mois. Au terme de l'année, le Ministère des Finances communique à l'autorité compétente de la Communauté ou de la Région un tableau reprenant, pour chaque mois de l'année écoulée, le montant du douzième versé et celui de la part correspondante du produit effectivement perçu de l'impôt attribué. Le solde positif au profit de la Communauté ou de la Région est mensuellement comptabilisé comme un prêt au Ministère des Finances. Le solde positif au profit du Ministère des Finances est mensuellement comptabilise comme un prêt à la Communauté ou à la Région concernée. Une convention entre le Ministre des Finances et les Exécutifs règle les modalités financières de ces opérations.
+Les ressources visées [<sup>1</sup> au titre IV/1]<sup>1</sup> sont transférées, au premier jour ouvrable de chaque mois, par le Ministère des Finances à l'autorité compétente de la Région à raison d'un douzième du montant évalué.
+[<sup>1</sup> Lorsque les montants de référence visés à l'article 35decies, la clé de répartition des dépenses fiscales visée à l'article 48/1, § 2, alinéa 1er, 5°, la clé de répartition de l'impôt des personnes physiques fédéral obtenu sur la base de l'article 48/1, § 3, et, par voie de conséquence, les montants à attribuer en vertu des articles 48 et 48/1 sont définitivement fixés, la différence entre les montants attribués sur la base des montants provisoires et ceux à attribuer sur la base des montants définitifs est comptabilisée, au profit de l'autorité fédérale ou au profit de chacune des communautés, des régions ou de la Commission communautaire commune, selon qu'elle est positive ou négative. Selon le cas, cette différence est déduite ou ajoutée du ou des versements mensuels prévus aux alinéas 4 et 5 qui suivent le mois au cours duquel les montants de référence et les clés de répartition en question sont définitivement fixés étant entendu que l'imputation sur chacun des versements mensuels ne peut excéder 2 % de ceux-ci.
+Lorsque le facteur d'autonomie visé à l'article 5/2, § 1er, est définitivement fixé, la différence est calculée pour chaque région, entre d'une part, les recettes des additionnels régionaux de l'exercice d'imposition 2015 perçues jusqu'au 31 décembre 2016 et visées à l'article 5/1, § 1er, alinéa 1er, 1°, et d'autre part, le montant obtenu en multipliant la valeur définitive du numérateur du facteur d'autonomie par la part de la région concernée, exprimée en pourcent, dans les recettes des additionnels régionaux des trois régions réunies de ce même exercice d'imposition perçues jusqu'au 31 décembre 2016 et visées à l'article 5/1, § 1er, alinéa 1er, 1°.
+Il est ensuite fait la somme :
+1° du montant égal à la différence fixée à l'alinéa 7;
+2° du montant obtenu en multipliant le montant fixé au 1° par le taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2016 et à la croissance réelle du produit intérieur brut de l'année budgétaire 2016 suivant les modalités fixées à l'article 33, § 2;
+3° du montant obtenu en multipliant le montant fixé au 2° par le taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire 2017 et à la croissance réelle du produit intérieur brut de l'année budgétaire 2017 suivant les modalités fixées à l'article 33, § 2.
+Enfin, selon que la somme fixée à l'alinéa 8 est égale à un montant positif ou négatif, sa valeur absolue est, selon le cas, déduite ou ajoutée, du ou des versements mensuels visés aux alinéas 4 et 5 pour le deuxième mois qui suit le mois au cours duquel le facteur d'autonomie est définitivement fixé, étant entendu que l'imputation sur chacun des versements mensuels ne peut excéder 2 % de ceux-ci.
+Le montant des mesures exécutées en vertu de l'article 6, § 1er, IX, 7°, a) et b), de la loi spéciale du 8 août 1980 de réformes institutionnelles pour le compte des régions est déduit des ressources visées à l'alinéa 4 selon des modalités fixées par arrêté royal délibéré en Conseil des ministres et après concertation avec les régions.]<sup>1</sup>
+§ 2. En cas de dépassement [<sup>1</sup> des délais visés au § 1er]<sup>1</sup> ou de versement insuffisant et après notification de cette situation au Ministre des Finances, la Communauté ou la Région concernée a le droit de contracter un emprunt auprès d'un organisme de crédit préalablement désigné de l'accord du Ministre des Finances. Cet emprunt bénéficie de plein droit de la garantie de l'Etat. Le régime financier de cet emprunt fait l'objet d'une convention générale préalablement conclue entre le Ministre des Finances, chaque Exécutif et l'organisme de crédit concerné.
 Le service financier de cet emprunt est directement à charge de l'Etat.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 58, 008; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0026" href="#LNKR0026">TITRE VIII.</a> - DISPOSITIONS DIVERSES.
+<a name="Art.54/1" href="#Art.54">Art.</a> <a href="#Art.54/2"> 54/1</a>. [<sup>1</sup> § 1er. Le Service public fédéral Finances envoie aux régions chaque mois au plus tard le dernier jour du mois qui suit la perception de l'impôt des personnes physiques, un aperçu par exercice d'imposition.
+L'aperçu mensuel reprend les données suivantes :
+1° la nature de l'impôt;
+2° le mois et l'année de perception;
+3° l'exercice d'imposition pour laquelle la perception a eu lieu;
+4° le montant de l'impôt des personnes physiques régional;
+5° les crédits d'impôt régionaux.
+§ 2. Le Service public fédéral Finances envoie après la clôture du délai visé à l'article 359 du Code des impôts sur les revenus 1992 et après le délai visé à l'article 354, alinéa 1er, du même Code, un relevé comprenant les montants suivants :
+1° le montant des centimes additionnels régionaux;
+2° le montant des diminutions d'impôt régionales;
+3° le montant des augmentations d'impôt régionales par catégorie;
+4° le montant des réductions d'impôt régionales par catégorie;
+5° le montant des crédits d'impôt régionaux par catégorie;
+6° le montant des réductions d'impôts régionales qui ont été imputées sur l'impôt des personnes physiques fédéral, par catégorie.
+§ 3. En matière d'impôt des personnes physiques, les ressources visés à l'article 5/1, § 1er, pour une année budgétaire donnée sont transférées, au premier jour ouvrable de chaque mois, par le Service public fédéral Finances à l'institution compétente de la région à raison d'un douzième du montant évalué pour l'exercice d'imposition pour laquelle le délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992 prend cours le 1er janvier de l'année budgétaire concernée.
+Le montant visé à l'alinéa 1er est obtenu par l'estimation des recettes présumées pour cet exercice d'imposition après l'expiration du délai visé à l'article 359 du Code des impôts sur les revenus 1992 suivant la méthodologie fixée par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des régions. Ce montant est :
+1° à compléter par l'impact budgétaire estimé par le Service public fédéral Finances des mesures discrétionnaires de la région visées à l'article 5/1, § 1er, qui s'appliquent sur l'exercice d'imposition pour laquelle le délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992 prend cours le 1er janvier de l'année budgétaire concernée;
+2° et, le cas échéant, à compléter par des mesures discrétionnaires qui ont été décidées par la région dans le cadre de l'établissement de son budget initial pour l'année budgétaire concernée.
+Chaque douzième est un acompte à valoir sur le produit de la perception de l'exercice d'imposition pour lequel le délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992 prend cours le 1er janvier de l'année budgétaire concernée.
+§ 4. Un premier décompte est établi au terme du délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992. Dans ce but, le Service public fédéral Finances fournit à l'autorité compétente de la région, au terme du troisième mois suivant l'expiration de ce délai d'imposition, un aperçu qui comporte les données suivantes :
+1° le montant des acomptes mensuels versés à la région pendant l'année budgétaire concernée;
+2° la somme des montants perçus par le Service public fédéral Finances pour les recettes de la région visées à l'article 5/1, § 1er, pendant les vingt mois qui se sont écoulés depuis le début de l'exercice d'imposition.
+Un décompte mensuel des recettes et dépenses est établi à compter du troisième mois qui suit l'expiration du délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992. A cet effet, le Service public fédéral Finances communique à l'institution compétente de la région, au terme de chaque mois suivant, un aperçu qui, pour le mois écoulé, comprend les données suivantes :
+1° l'impôt régional effectivement reçu;
+2° les remboursements éventuellement effectués sur l'impôt régional, l'imputation des réductions d'impôt régionaux et les crédits d'impôt régionaux.
+§ 5. Les modalités financières des opérations visées aux §§ 3 et 4 sont fixées par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des régions.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 59, 008; En vigueur : 01-01-2014&gt;
 
-<a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>. § 1. Sont cédées respectivement au " Fonds voor de Herstructurering van de Nationale Sectoren in het Vlaamse Gewest (FNSV) ", au Fonds pour la restructuration des Secteurs nationaux en Région wallonne (FSNW) et à la Société régionale d'Investissement de Bruxelles (SRIB) les titres et créances détenus par la Société nationale pour la Restructuration des Secteurs nationaux (SNSN) dans et à l'égard des entreprises, en ce compris les invests, implantées dans la Région flamande, dans la Région wallonne et dans la Région de Bruxelles-Capitale.
+<a name="Art.54/2" href="#Art.54/1">Art.</a> <a href="#LNK0028"> 54/2</a>. [<sup>1</sup> § 1er. Le régime fiscal des non-résidents est appliqué de manière à tenir compte des dispositions fiscales régionales, c'est-à-dire les centimes additionnels, les diminutions, réductions et augmentations d'impôts et les crédits d'impôt visés à l'article 5/1, § 1er, afin de respecter le principe de la libre circulation des personnes, biens, services et capitaux dans le cadre de l'Union européenne et de l'Espace économique européen, ainsi que les dispositions de non-discrimination des conventions préventives de la double imposition.
+Afin de déterminer les dispositions régionales dont il doit être tenu compte, la localisation des non-résidents est fixée par une loi après concertation avec les gouvernements des régions.
+§ 2. Le Service public fédéral Finances envoie aux régions chaque mois au plus tard le dernier jour du mois qui suit la perception de l'impôt des non-résidents, un aperçu par exercice d'imposition.
+L'aperçu mensuel contient les données suivantes :
+1° la nature de l'impôt;
+2° le mois et l'année de perception;
+3° l'exercice d'imposition pour laquelle la perception a eu lieu;
+4° la différence entre l'impôt de référence et l'impôt dû calculé individuellement.
+L'impôt de référence est égal à l'impôt dû calculé suivant les règles fiscales fédérales sans application du § 1er et de l'article 5/2, § 1er.
+§ 3. En matière de l'impôt des non-résidents, la différence visée au § 2 est payée au plus tard à la fin du mois qui suit celui dans lequel l'aperçu a été envoyé.
+§ 4. Les modalités financières des opérations visées au § 3 sont fixées par arrêté royal délibéré en Conseil des Ministres et après concertation avec les gouvernements des régions.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 60, 008; En vigueur : 01-01-2013&gt;
+
+<a name="LNK0028" href="#LNKR0028">TITRE VIII.</a> - DISPOSITIONS DIVERSES.
+
+<a name="Art.55" href="#Art.54/2">Art.</a> <a href="#Art.56"> 55</a>. § 1. Sont cédées respectivement au " Fonds voor de Herstructurering van de Nationale Sectoren in het Vlaamse Gewest (FNSV) ", au Fonds pour la restructuration des Secteurs nationaux en Région wallonne (FSNW) et à la Société régionale d'Investissement de Bruxelles (SRIB) les titres et créances détenus par la Société nationale pour la Restructuration des Secteurs nationaux (SNSN) dans et à l'égard des entreprises, en ce compris les invests, implantées dans la Région flamande, dans la Région wallonne et dans la Région de Bruxelles-Capitale.
 Ces cessions sont opposables de plein droit aux tiers sans autre formalité, dès l'entrée en vigueur de la présente loi.
 L'inventaire des titres et créances cédés à chaque organisme est publié au Moniteur belge dans le mois de l'entrée en vigueur de la présente loi.
 § 2. A la date de l'entrée en vigueur de la présente loi, sont cédés aux fonds et la SRIB visés au § 1er, chacun en ce qui le concerne, les moyens financiers correspondant aux soldes des enveloppes de reconversion existant à cette date, à charge pour ces fonds de verser à la SNSN le produit du placement de ces moyens financiers, aussi longtemps que ces moyens ne sont pas affectés à des projets de reconversion.
@@ -683,7 +1266,7 @@ A cette fin, Il peut :
 
 <a name="Art.60" href="#Art.59">Art.</a> <a href="#Art.61"> 60</a>. &lt;disposition modificative de l'article 18 de la loi spéciale du 8 août 1988 modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
 
-<a name="Art.61" href="#Art.60">Art.</a> <a href="#Art.62"> 61</a>. § 1. A moins que la présente loi n'en dispose autrement, les Communautés et les Régions succèdent aux droits et obligations de l'Etat relatifs aux compétences qui leur sont attribuées par la loi du 8 août 1988 modifiant la loi spéciale du 8 août 1980 de reformes institutionnelles, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir.
+<a name="Art.61" href="#Art.60">Art.</a> <a href="#Art.62"> 61</a>.§ 1. A moins que la présente loi n'en dispose autrement, les Communautés et les Régions succèdent aux droits et obligations de l'Etat relatifs aux compétences qui leur sont attribuées par la loi du 8 août 1988 modifiant la loi spéciale du 8 août 1980 de reformes institutionnelles, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir.
 Toutefois restent à charge de l'Etat les obligations visées à l'alinéa 1er relatives aux emprunts contractés avant l'entrée en vigueur de la présente loi :
 - par le Fonds des Routes;
 - dans le cadre de la loi du 8 janvier 1981 relative aux emprunts de consolidation en faveur des pouvoirs subordonnés bruxellois et de l'article 51 de la loi du 26 juillet 1971 organisant les agglomérations et les fédérations de communes;
@@ -700,20 +1283,27 @@ Pour ce qui concerne les dépenses autres que celles visées aux alinéas 2, 3 e
 L'Etat communique dans les plus brefs délais aux Communautés et aux Régions, chacune pour ce qui la concerne, les actes et documents mentionnant les droits et obligations auxquels elles succèdent en vertu du présent paragraphe. Un inventaire des actes et documents communiqués est dressé et signé par le Ministre compétent ou son délégué et l'Exécutif compétent ou son délégué.
 En cas de litige, la Communauté ou la Région concernée peut toujours appeler l'Etat à la cause et ce dernier intervenir à la cause.
 § 2. Les articles 1er, 2 et 8 de la loi du 5 mars 1984 relative aux soldes et aux charges du passé des Communautés et des Régions et aux secteurs économiques nationaux, restent d'application dans la mesure où ils se réfèrent aux matières visées par la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi créant des institutions communautaires et régionales, coordonnée le 20 juillet 1979, sans qu'il soit tenu compte des modifications apportées à ces lois après l'entrée en vigueur de la loi du 5 mars 1984 précitée.
-Les articles 1er, 2 et 8 de la dite loi ne peuvent être modifiés qu'a la majorité prévue à l'article 1er, dernier alinéa, de la Constitution.
+Les articles 1er, 2 et 8 de la dite loi ne peuvent être modifiés qu'a la majorité prévue à [<sup>1</sup> l'article 4, alinéa 3]<sup>1</sup> , de la Constitution.
 Pour l'application du présent paragraphe, les mots " du budget du Ministère de la Région bruxelloise " et " Le crédit pour le Ministère de la Région bruxelloise fixé en application de l'article 7 de la loi visée au § 1er " contenus respectivement au § 1er et au § 3 de l'article 8 de la loi du 5 mars 1984 précitée, s'entendent, à partir de l'entrée en vigueur de la présente loi comme, respectivement, " de la Région de Bruxelles-Capitale " et " les moyens financiers attribués à la Région de Bruxelles-Capitale en vertu de la loi spéciale relative au financement des Communautés et des Régions ".
 § 3. Les Communautés et les Régions succèdent, chacune en ce qui la concerne, aux biens, droits et obligations des organismes d'intérêt public dont les missions relèvent des compétences régionales et communautaires, selon les modalités fixées par la loi, dans le respect des principes énoncés à l'article 57 et au § 1er, alinéas 2 à 8, du présent article.
-§ 4. A la date de l'entrée en vigueur de la presente loi, les Régions succèdent aux droits et obligations des Communautés en ce qui concerne les monuments et les sites situés sur leur territoire.
+[<sup>1</sup> Par dérogation à l'alinéa 1er, les modalités concernant le transfert à l'autorité fédérale et aux régions, chacune pour ce qui la concerne, des biens, des droits et des obligations du Bureau d'intervention et de restitution belge, sont fixées par ou en vertu de la loi, sans que les charges du passé puissent être transférées aux régions.]<sup>1</sup>
+§ 4. A la date de l'entrée en vigueur de la présente loi, les Régions succèdent aux droits et obligations des Communautés en ce qui concerne les monuments et les sites situés sur leur territoire.
 § 5. L'Etat est tenu de prendre en charge toutes les dépenses découlant des engagements contractés avant l'entrée en vigueur de la présente loi en matière d'accompagnement social de la restructuration des entreprises appartenant aux secteurs des charbonnages, de la construction et de la réparation navales, de l'industrie du verre creux d'emballage, de l'industrie textile et de la sidérurgie, y compris les transports de minerais et de coke.
 § 6. (En ce qui concerne les engagements contractés avant le 1er janvier 1993 en matière du Fonds d'investissement agricole, l'Etat maintient tous ses droits et obligations.
 Pour ce qui concerne les dépenses autres que celles visées à l'alinéa précédent, l'Etat reste également tenu par les obligations existantes au 31 décembre 1992 :
-- soit lorsque leur paiement est du à cette date s'il s'agit de dépenses fixes ou de dépenses pour lesquelles une déclaration de créance ne doit pas être procuite;
+- soit lorsque leur paiement est du à cette date s'il s'agit de dépenses fixes ou de dépenses pour lesquelles une déclaration de créance ne doit pas être produite;
 - soit pour les autres dettes lorsqu'elles sont certaines et que leur paiement a été régulièrement réclamé à cette date, conformément aux lois et règlements en vigueur.) &lt;L 1993-07-16/30, art. 116, 002; <b> En vigueur : </b> 1993-07-30&gt;
 (§ 7. A moins que le présent paragraphe n'en dispose autrement, les régions succèdent aux droits et obligations de l'Etat relatifs aux compétences qui leur sont attribuées par la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir.
 En ce qui concerne ces compétences transférées, l'Etat demeure, pour les engagements contractés avant le 1er janvier 2002, lié par les obligations existant au 31 décembre 2001 :
 - soit lorsque leur paiement est dû à cette date s'il s'agit de dépenses fixes ou de dépenses pour lesquelles une déclaration de créance ne doit pas être produite;
 - soit pour les autres dettes lorsqu'elles sont certaines et que leur paiement a été régulièrement réclamé à cette date, conformément aux lois et règlements en vigueur.
 En ce qui concerne le préfinancement par l'Etat, pour le compte des pouvoirs locaux qui font appel aux services d'un receveur régional, des frais relatifs aux rémunérations et autres dépenses fixes pour les receveurs régionaux et aux dépenses de fonctionnement des recettes communales régionales, l'Etat conserve ses droits de récupérer sur ces pouvoirs locaux les montants qu'il a préfinancés jusqu'au 31 décembre 2001 y compris.) &lt;L 2001-07-13/35, art. 39, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> § 8. A moins que le présent paragraphe n'en dispose autrement, les communautés et régions succèdent aux droits et obligations de l'autorité fédérale relatifs aux compétences qui leur sont attribuées par la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir.
+En ce qui concerne ces compétences transférées, l'autorité fédérale demeure, pour les engagements contractés avant le 1er juillet 2014, lié par les obligations existant au 30 juin 2014 :
+1° soit lorsque leur paiement est dû à cette date s'il s'agit de dépenses fixes ou de dépenses pour lesquelles une déclaration de créance ne doit pas être produite;
+2° soit pour les autres dettes lorsqu'elles sont certaines et que leur paiement a été régulièrement réclamé à cette même date, conformément aux lois et règlements en vigueur.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 61, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.62" href="#Art.61">Art.</a> <a href="#Art.62bis"> 62</a>. § 1. Sans préjudice de l'application de la présente loi, il est prévu annuellement, à charge du budget de l'Etat, un crédit destiné aux Communautés pour le financement de l'enseignement universitaire dispensé aux étudiants étrangers.
 Pour l'année budgétaire 1989, ces montants sont respectivement de 1.200 millions pour la Communauté française et de 300 millions pour la Communauté flamande.
@@ -724,13 +1314,17 @@ Pour l'année budgétaire 1989, ces montants sont respectivement de 1.200 millio
 Le projet de loi fixant le crédit visé au § 1er fait chaque année sur ce point l'objet d'une concertation préalable entre le Gouvernement national et les Exécutifs des Communautés.
 § 4. L'article 54, § 1er, alinéa 4 et § 2 s'applique à ce crédit.
 
-<a name="Art.62bis" href="#Art.62">Art.</a> <a href="#Art.62ter"> 62bis</a>. &lt;Inséré par L 2001-07-13/35, art. 41; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire 2002, il est établi chaque année un montant correspondant à 27,44 % du bénéfice à répartir de la Loterie Nationale, comme prévu par arrêté royal délibéré en Conseil des Ministres.
+<a name="Art.62bis" href="#Art.62">Art.</a> <a href="#Art.62ter"> 62bis</a>.&lt;Inséré par L 2001-07-13/35, art. 41; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire 2002, il est établi chaque année un montant correspondant à 27,44 % du bénéfice à répartir de la Loterie Nationale, comme prévu par arrêté royal délibéré en Conseil des Ministres.
 Le montant obtenu en application de l'alinéa 1er est réduit chaque année d'un montant correspondant à 0,8428 % du montant obtenu en application de l'alinéa 1.
-Le montant obtenu en application de l'alinéa 2 est réparti chaque année entre la Communauté française et la Communauté flamande selon la part de chaque communauté dans le total du montant obtenu en application de l'article 36, 1° et 2°, pour les deux communautés réunies.
+Le montant obtenu en application de l'alinéa 2 est réparti chaque année entre la Communauté française et la Communauté flamande selon la part de chaque communauté dans le total du montant obtenu en application de l'[<sup>1</sup> article 36, alinéa 1er, 1° et 2°,]<sup>1</sup> pour les deux communautés réunies.
 Les montants susvisés sont versés au moyen d'avances qui, le 30 juin et le 31 décembre de l'exercice concerné, ne peuvent excéder respectivement 50 % et 80 % de la répartition provisoire des bénéfices de la Loterie Nationale comme prévu en Conseil des Ministres.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 62, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.62ter" href="#Art.62bis">Art.</a> <a href="#Art.63"> 62ter</a>. &lt;Inséré par L 2001-07-13/35, art. 42; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire au cours de laquelle le Jardin botanique national de Belgique est transféré, des moyens supplémentaires équivalant à un montant de 5 659 409,17 EUR exprimés en prix de 2002, sont attribues à la Communauté flamande et à la Communauté française. La répartition de ce montant entre les deux communautés s'opère selon une clef qui est en conformité avec le rôle linguistique des effectifs en personnel du Jardin botanique national au jour du transfert, au sens visé à l'article 18, 4°, de la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés.
-Chaque année, ces montants sont adaptés au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée, suivant les modalités fixées à l'article 47, § 2.
+<a name="Art.62ter" href="#Art.62bis">Art.</a> <a href="#Art.63"> 62ter</a>.&lt;Inséré par L 2001-07-13/35, art. 42; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire au cours de laquelle le Jardin botanique national de Belgique est transféré, des moyens supplémentaires équivalant à un montant de 5 659 409,17 EUR exprimés en prix de 2002, sont attribues à la Communauté flamande et à la Communauté française. La répartition de ce montant entre les deux communautés s'opère selon une clef qui est en conformité avec le rôle linguistique des effectifs en personnel du Jardin botanique national au jour du transfert, au sens visé à l'article 18, 4°, de la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés.
+Chaque année, ces montants sont adaptés au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'à la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée, suivant les modalités fixées à l'article 47, § 2.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 63, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.63" href="#Art.62ter">Art.</a> <a href="#Art.64"> 63</a>. &lt;L 1993-07-16/30, art. 117, 002; <b> En vigueur : </b> 1994-01-01&gt; § 1. Un crédit spécial est inscrit chaque année au budget du Ministère de l'Intérieur et de la Fonction publique en faveur des communes sur le territoire desquelles se trouvent des propriétés immunisées du précompte immobilier.
 § 2. Ces propriétés sont :
@@ -770,36 +1364,161 @@ A partir de l'année budgétaire 2016, le montant de l'année précédente est a
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012071931" target="_blank">2012-07-19/31</a>, art. 3, 006; En vigueur : 01-09-2012&gt;
 
-<a name="Art.64ter" href="#Art.64bis">Art.</a> <a href="#Art.65"> 64ter</a>. [<sup>1</sup> § 1er. Un prélèvement sur le produit de l'impôt des personnes physiques est affecté au deuxième sous-fonds visé à l'article 2, alinéa 2, de la loi du 10 août 2001 créant un Fonds de financement du rôle international et de la fonction de capitale de Bruxelles et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires.
+<a name="Art.64ter" href="#Art.64bis">Art.</a> <a href="#Art.64quater"> 64ter</a>. [<sup>1</sup> § 1er. Un prélèvement sur le produit de l'impôt des personnes physiques est affecté au deuxième sous-fonds visé à l'article 2, alinéa 2, de la loi du 10 août 2001 créant un Fonds de financement du rôle international et de la fonction de capitale de Bruxelles et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires.
 Ce prélèvement s'élève à 55 millions d'euros à partir de l'année budgétaire 2012.
 Les dépenses, y compris les subventions aux zones de police locale et aux communes, qui peuvent être effectuées à charge du fonds, visé à l'alinéa 1er, sont des dépenses liées à la sécurité découlant de l'organisation des Sommets européens à Bruxelles, ainsi que des dépenses de sécurité et de prévention en relation avec la fonction de capitale nationale et internationale de Bruxelles.
 § 2. Les membres régionaux du comité de coopération visé à l'article 43 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, après avis des membres fédéraux de ce comité, décident de l'utilisation des moyens visés au paragraphe 1er.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012071931" target="_blank">2012-07-19/31</a>, art. 4, 006; En vigueur : 01-09-2012&gt;
 
-<a name="Art.65" href="#Art.64ter">Art.</a> <a href="#Art.65bis"> 65</a>. § 1. Le financement du budget de la Commission Communautaire Commune pour l'exercice des compétences visées à l'article 63 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloise est assuré par :
+<a name="Art.64quater" href="#Art.64ter">Art.</a> <a href="#Art.64quinquies"> 64quater</a>. [<sup>1</sup> § 1er. Des moyens sont octroyés annuellement à la Région Bruxelles-Capitale pour compenser une partie de la perte de revenus consécutive au flux net de navetteurs.
+Les moyens visés à l'alinéa 1er s'élèvent à :
+1° pour l'année budgétaire 2014 : 32 millions d'euros;
+2° pour l'année budgétaire 2015 : 48 millions d'euros;
+3° pour l'année budgétaire 2016 : 49 millions d'euros;
+4° à partir de l'année budgétaire 2017 : 44 millions d'euros.
+§ 2. Le financement des moyens visés au § 1er est annuellement réparti entre la Région flamande et la Région wallonne au prorata de leur part dans le flux net de navetteurs vers la Région de Bruxelles-Capitale.
+Le flux net de navetteurs visé à l'alinéa 1er est l'addition du flux net de navetteurs en provenance de la Région flamande et du flux net de navetteurs en provenance de la Région wallonne.
+Le flux net de navetteurs en provenance d'une région visée à l'alinéa 2 est réputé correspondre à la différence positive entre :
+1° le nombre de personnes qui se déplacent de la région concernée vers la Région de Bruxelles-Capitale pour l'exercice de leur activité professionnelle;
+2° le nombre de personnes qui se déplacent de la Région de Bruxelles-Capitale vers la région concernée pour l'exercice de leur activité professionnelle.
+Par le nombre de personnes visé à l'alinéa 3, on entend le nombre dernièrement connu au moment de la fixation définitive des moyens de l'année budgétaire concernée visée à l'article 54.
+§ 3. Les montants obtenus en application du § 2 qui sont à charge de la Région flamande et de la Région wallonne sont portés en déduction des moyens qui leur sont accordés en vertu de l'article 35decies pour l'année budgétaire concernée.
+Par dérogation à l'alinéa 1er, les montants obtenus pour l'année budgétaire 2014 sont portés en déduction des moyens qui leur sont accordés en vertu de l'article 33.
+Les moyens visés au § 1er sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 64, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.64quinquies" href="#Art.64quater">Art.</a> <a href="#Art.65"> 64quinquies</a>. [<sup>1</sup> Des moyens sont accordés annuellement à la Région de Bruxelles-Capitale pour partiellement compenser la perte de revenus du fait de la présence de fonctionnaires des institutions internationales.
+Les moyens visés à l'alinéa 1er s'élèvent à :
+1° pour l'année budgétaire 2014 : 117 millions d'euros;
+2° pour l'année budgétaire 2015 : 175 millions d'euros;
+3° à partir de l'année budgétaire 2016 : un montant égal à 159 millions d'euros adapté annuellement, à partir de la même année budgétaire, au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, suivant les modalités fixées à l'article 38, § 3;
+4° exclusivement pour l'année budgétaire 2016, le montant visé au 3° est majoré de 16 millions d'euros.
+Les moyens visés à l'alinéa 1er sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 65, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.65" href="#Art.64quinquies">Art.</a> <a href="#Art.65bis"> 65</a>.§ 1. Le financement du budget de la Commission Communautaire Commune pour l'exercice des compétences visées à l'article 63 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloise est assuré par :
 1° des moyens non fiscaux propres, visés au § 3;
-2° une dotation à charge du budget national, visée au § 4;
+2° [<sup>1</sup> pour chacune des années budgétaires 1989 à 2014 incluse, une dotation à charge du budget de l'autorité fédérale, dont le montant est déterminé conformément au § 4;]<sup>1</sup>
+[<sup>1</sup> 2°/1 à partir de l'année budgétaire 2015, des moyens qui sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral;]<sup>1</sup>
 3° des emprunts.
+[<sup>1</sup> 4° le cas échéant, une dotation accordée par la Région de Bruxelles-Capitale.]<sup>1</sup>
 § 2. La Commission Communautaire Commune est soumise aux dispositions de l'article 49.
 § 3. Les recettes non fiscales propres liées à l'exercice des compétences visées au § 1er reviennent à la Commission Communautaire Commune. La Commission Communautaire Commune peut recevoir des dons et legs. L'article 54, § 1er, alinéa 1er, et § 2 s'applique, le cas échéant, à ces recettes.
 § 4. Dans le budget de l'Etat de l'année 1989, le crédit global pour les compétences visées au § 1er, 2°, est égal à 2,3817 milliards de francs.
-Chaque année, ce montant est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2. (A partir de l'année budgétaire 2002, l'adaptation annuelle s'opère au taux de fluctuation de l'indice moyen des prix à la consommation suivant les modalités fixées à l'article 38, § 3.) &lt;L 2001-07-13/35, art. 44, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> Pour chacune des années budgétaires 1990 à 2014 incluse,]<sup>1</sup> ce montant est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2. (A partir de l'année budgétaire 2002, l'adaptation annuelle s'opère au taux de fluctuation de l'indice moyen des prix à la consommation suivant les modalités fixées à l'article 38, § 3.) &lt;L 2001-07-13/35, art. 44, 003; <b> En vigueur : </b> 01-01-2002&gt;
 Toutefois, pour les années 1989 et 1990 une réduction exceptionnelle et non récurrente respectivement de 264 et 132 millions est opérée sur ce crédit.
 L'article 54, § 1er, alinéa 4, et § 2, s'applique à ce crédit.
 § 5. En accord avec les autorités compétentes, les montants visés à l'article 42, § 1er, sont majores par le Roi, par un arrêté délibéré en Conseil des Ministres, des moyens destinés au subventionnement des établissements et organisations du secteur privé qui opteront avant le 30 juin 1989 pour un statut uni-communautaire. Le Roi règle les modalités d'exécution de cette disposition après concertation avec les Exécutifs concernés.
 Le montant visé au § 4, alinéa 1er, est diminué par le Roi d'un même montant que celui visé à l'alinéa précédent, par arrêté délibéré en Conseil des Ministres.
+[<sup>1</sup> § 6. Les moyens visés au § 1er, 2° /1, pour l'année budgétaire 2015, sont égaux au montant qui est obtenu en application du § 4 pour l'année budgétaire 2014, adapté au taux de fluctuation de l'indice moyen des prix à la consommation pour l'année budgétaire 2015 suivant les modalités fixées à l'article 38, § 3, et ensuite diminué de 10.200.000 euros.
+Pour l'année budgétaire 2016, le montant attribué pour l'année budgétaire 2015 est d'abord adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, et ensuite diminué de 10.200.000 euros.
+A partir de l'année budgétaire 2017, le montant attribué pour l'année budgétaire précédente est adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à un pourcentage de la croissance réelle du produit intérieur brut de l'année budgétaire concernée selon les modalités définies à l'article 33, § 2.
+Le pourcentage visé aux alinéas 2 et 3 est égal au pourcentage déterminé conformément à l'article 47/7, § 4, alinéa 2.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 66, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.65bis" href="#Art.65">Art.</a> <a href="#Art.65ter"> 65bis</a>. &lt;Inséré par L 2001-07-13/35, art. 45; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire 2002, des moyens spéciaux à charge de l'autorité fédérale sont accordés à la Commission communautaire française et à la Commission communautaire flamande prévues à l'article 60, alinéas 2 et 3, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises. Le montant de base de ces moyens est égal à 24 789.352,48 EUR.
-A partir de l'année budgétaire 2003, ce montant de base est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'a la croissance réelle du revenu national brut de l'année budgétaire concernée, suivant les modalités fixées à l'article 47, § 2.
+<a name="Art.65bis" href="#Art.65">Art.</a> <a href="#Art.65ter"> 65bis</a>.&lt;Inséré par L 2001-07-13/35, art. 45; <b> En vigueur : </b> 01-01-2002&gt; A partir de l'année budgétaire 2002, des moyens spéciaux à charge de l'autorité fédérale sont accordés à la Commission communautaire française et à la Commission communautaire flamande prévues à l'article 60, alinéas 2 et 3, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises. Le montant de base de ces moyens est égal à 24 789.352,48 EUR.
+A partir de l'année budgétaire 2003, ce montant de base est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation ainsi qu'a la croissance réelle du [<sup>1</sup> produit intérieur brut]<sup>1</sup> de l'année budgétaire concernée, suivant les modalités fixées à l'article 47, § 2.
 Ces moyens sont constitués d'une partie du produit de l'impôt des personnes physiques.
 Ce montant est réparti à concurrence de 80 % pour la Commission communautaire française et de 20 % pour la Commission communautaire flamande.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 67, 008; En vigueur : 01-07-2014&gt;
 
-<a name="Art.65ter" href="#Art.65bis">Art.</a> <a href="#Art.66"> 65ter</a>. [<sup>1</sup> Au montant obtenu annuellement en application de l'article 65bis est ajouté chaque année en 2012, 2013, 2014 et 2015 un montant additionnel de 10 millions d'euros. Ces montants additionnels s'ajoutent cumulativement aux montants tels que calculés sur la base de l'article 65bis pour les années 2012, 2013, 2014 et 2015 et évoluent selon les mécanismes prévus dans ce même article, dès l'année qui suit leur ajout au montant de base.]<sup>1</sup>
+<a name="Art.65ter" href="#Art.65bis">Art.</a> <a href="#Art.65quater"> 65ter</a>. [<sup>1</sup> Au montant obtenu annuellement en application de l'article 65bis est ajouté chaque année en 2012, 2013, 2014 et 2015 un montant additionnel de 10 millions d'euros. Ces montants additionnels s'ajoutent cumulativement aux montants tels que calculés sur la base de l'article 65bis pour les années 2012, 2013, 2014 et 2015 et évoluent selon les mécanismes prévus dans ce même article, dès l'année qui suit leur ajout au montant de base.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012071931" target="_blank">2012-07-19/31</a>, art. 5, 006; En vigueur : 01-09-2012&gt;
 
-<a name="Art.66" href="#Art.65ter">Art.</a> <a href="#Art.67"> 66</a>. &lt;disposition modificative de l'article 92bis de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
+<a name="Art.65quater" href="#Art.65ter">Art.</a> <a href="#Art.65quinquies"> 65quater</a>. [<sup>1</sup> § 1er. Un mécanisme est instauré dans le cadre d'une stratégie climatique nationale s'inscrivant dans les objectifs internationaux et européens en matière de politique climatique.
+§ 2. Une trajectoire pluriannuelle d'objectifs de réduction d'émissions de gaz à effet de serre dans les bâtiments des secteurs résidentiel et tertiaire quelle que soit leur taille, est définie pour chaque région, par arrêté royal délibéré en Conseil des ministres et après accord des gouvernements des régions, sur la base d'une proposition de la Commission nationale Climat, selon les modalités fixées par la loi ordinaire. Si la Commission nationale Climat ne fait aucune proposition dans le délai prescrit par cette loi ordinaire, il est passé outre.
+A défaut d'arrêté royal fixant la trajectoire conformément à l'alinéa 1er, les trajectoires pour la période du 1er janvier 2015 au 31 décembre 2030 sont celles fixées conformément à l'annexe à la présente loi.
+§ 3. Les trajectoires pluriannuelles établies conformément au § 2, alinéa 1er, sont établies pour une période de quatre années et sont en outre adaptées lors de chaque révision de l'objectif belge applicable et en toute hypothèse tous les quatre ans.
+Par dérogation à l'alinéa 1er, les premières trajectoires pluriannuelles établies conformément au § 2, alinéa 1er, sont établies pour la période du 1er janvier 2015 au 31 décembre 2020.
+§ 4. Les premières trajectoires pluriannuelles établies conformément au § 2, alinéa 1er, sont définies au plus tard le 1er juillet 2014.
+Les trajectoires pour les périodes suivantes sont définies au moins deux ans avant la fin de la période précédente.
+§ 5. Pour chaque année, l'écart entre, d'une part, les émissions annuelles de gaz à effet de serre dans chaque région, telles que rapportées dans les inventaires que les régions transmettent à la Commission nationale Climat pour les bâtiments des secteurs résidentiel et tertiaire, et d'autre part, l'objectif fixé par la trajectoire pluriannuelle de chaque région pour cette même année, est constaté par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements des régions, sur proposition de la Commission nationale Climat, compte tenu d'une correction à apporter en fonction des degrés-jours de l'année considérée communiqués par l'Institut royal de Météorologie. Si la Commission nationale Climat ne fait aucune proposition dans le délai prescrit par la loi, il peut être passé outre.
+Chaque année, à partir de l'année budgétaire 2016, est attribué un montant :
+1° à la région qui a dépassé son objectif au cours de l'année qui précède l'année concernée, par le prélèvement de ce montant provenant de la part fédérale des recettes de la mise aux enchères des quotas d'émission;
+2° à l'autorité fédérale lorsqu'une région n'atteint pas son objectif au cours de l'année qui précède l'année concernée par la déduction de ce montant sur les moyens attribués à la région concernée et visés au titre IV, chapitre II, section 4.
+§ 6. Les montants visés au § 5, alinéa 2, sont fixés sur la base de l'écart, au cours de l'année qui précède l'année budgétaire, entre les émissions de gaz à effet de serre et les objectifs visés au § 2, multipliés par le prix moyen par quota d'émission sur une base annuelle des quotas d'émission mis aux enchères par la Belgique pour l'année au cours de laquelle l'écart s'est produit.
+Ces montants sont compris dans la part de cinquante pour cent des recettes tirées de la mise aux enchères des quotas visée à l'article 10, § 2, de la Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la Directive 96/61/CE du Conseil, qui, conformément au § 3 du même article, doit être utilisée pour une ou plusieurs des fins déterminées dans ce § 3.
+§ 7. Les recettes de la mise aux enchères des quotas d'émission de gaz à effet de serre sont réparties entre l'autorité fédérale et les régions, selon les modalités fixées par un accord de coopération conclu entre ces entités.
+A moins qu'un accord de coopération conclu entre l'autorité fédérale, les communautés et les régions n'en décide autrement, le service responsable de la mise aux enchères, ainsi que de la perception des recettes et de leur répartition conformément à l'accord de coopération visé à l'alinéa 1er, est l'administrateur du registre désigné conformément à l'article 3, § 1er, de l'accord de coopération du 18 juin 2008 entre l'autorité fédérale, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'organisation et à la gestion administrative du système de registre normalisé et sécurisé de la Belgique conformément à la Directive 2003/87/EG du Parlement européen et du Conseil et de la Décision n° 280/2004/CE du Parlement européen et du Conseil.
+§ 8. Les montants visés au § 5, alinéa 2, 1°, sont limités à un plafond égal à la part fédérale des recettes de la mise aux enchères au cours de l'année budgétaire au cours de laquelle l'écart s'est produit. Si les montants calculés conformément au § 6 excèdent ce plafond, le montant plafonné est réparti entre les régions au marc le franc.
+Les montants visés au § 5, alinéa 2, 2°, sont, pour chaque région, limités à 50 % de leur part respective dans les recettes de la mise aux enchères au cours de l'année budgétaire au cours de laquelle l'écart s'est produit.
+§ 9. Si, au cours d'une année budgétaire, les écarts visés au § 5, alinéa 1er, pour l'année précédente ne peuvent être définitivement constatés, ces montants sont provisoirement fixés par arrêté royal délibéré en Conseil des ministres, sur la base des données provisoires rapportées par les régions. Lorsque ces écarts sont définitivement fixés, les montants à verser aux régions ou à payer par les régions font l'objet d'une régularisation au cours de l'année budgétaire au cours de laquelle ces écarts sont définitivement constatés.
+§ 10. La loi détermine la procédure d'adoption des objectifs de réduction d'émissions de gaz à effet de serre visés au § 2 et les modalités complémentaires de leur évaluation annuelle, ainsi que celles du calcul des montants mentionnés au § 6 et de leur prélèvement.
+La loi peut :
+1° modifier la trajectoire établie conformément au § 2, si des normes européennes ou internationales imposent une autre trajectoire;
+2° modifier les autres modalités fixées par le présent article si ces modifications sont rendues nécessaires par des normes européennes ou internationales.
+§ 11. Le présent article fera l'objet d'une évaluation législative dans le courant de l'année 2020, suite à laquelle il sera modifié le cas échéant.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 68, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.65quinquies" href="#Art.65quater">Art.</a> <a href="#Art.66"> 65quinquies</a>. [<sup>1</sup> § 1er. Pour les années budgétaires 2015 et suivantes, la Communauté française, la Communauté flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Commission communautaire commune, sont redevables d'une contribution de responsabilisation pour la pension de leurs fonctionnaires.
+Pour les années budgétaires 2015 jusqu'à 2020 incluse, les contributions de responsabilisation sont déterminées comme suit :
+1° pour la Communauté flamande les montants par année budgétaire selon le tableau suivant :
+201584.463.244 EUR
+201693.781.301 EUR
+2017103.099.358 EUR
+2018112.417.416 EUR
+2019121.735.473 EUR
+2020131.053.530 EUR
+2° pour la Communauté française les montants par année budgétaire selon le tableau suivant :
+201555.938.253 EUR
+201662.109.209 EUR
+201768.280.166 EUR
+201874.451.122 EUR
+201980.622.079 EUR
+202086.793.035 EUR
+3° pour la Région wallonne les montants par année budgétaire selon le tableau suivant :
+20153.881.061 EUR
+20164.309.074 EUR
+20174.737.087 EUR
+20185.165.101 EUR
+20195.593.114 EUR
+20206.021.127 EUR
+4° pour la Région de Bruxelles-Capitale les montants par année budgétaire selon le tableau suivant :
+2015766.156 EUR
+2016850.541 EUR
+2017934.926 EUR
+20181.019.310 EUR
+20191.103.695 EUR
+20201.188.080 EUR
+5° pour la Commission communautaire commune les montants par année budgétaire selon le tableau suivant :
+201530.292 EUR
+201633.553 EUR
+201736.814 EUR
+201840.075 EUR
+201943.336 EUR
+202046.597 EUR
+6° pour la Commission communautaire française les montants par année budgétaire selon le tableau suivant :
+2015142.186 EUR
+2016157.675 EUR
+2017173.164 EUR
+2018188.652 EUR
+2019204.141 EUR
+2020219.630 EUR
+A partir de l'année budgétaire 2021, la contribution de responsabilisation est déterminée par entité en appliquant un pourcentage à la masse salariale versée par l'entité concernée au courant de l'année civile précédente.
+Le pourcentage visé à l'alinéa 3 est fixé comme suit :
+1° pour l'année budgétaire 2021 : à 3/10e du taux de la cotisation sociale qui est dû par tout employeur pour ses travailleurs soumis au régime des pensions des travailleurs salariés;
+2° pour les années budgétaires 2022 jusqu'à 2027 incluse, le numérateur de la fraction dans le 1° est augmenté d'une unité chaque année;
+3° à partir de l'année budgétaire 2028, le pourcentage est égal au taux de la cotisation sociale qui est dû par tout employeur pour ses travailleurs soumis au régime des pensions des travailleurs salariés.
+§ 2. Les masses salariales à prendre en compte sont celles soumises à la retenue visée à l'article 60 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.
+Pour la fixation de la masse salariale visée au § 1er, alinéa 3, il est tenu compte de l'ensemble des traitements et des pensions payés au cours de l'année civile en cause.
+§ 3. Le Roi fixe à partir de l'année budgétaire 2021 chaque année, par arrêté délibéré en Conseil des ministres et après concertation avec les gouvernements des entités visées au § 1er, alinéa 1er, le montant de la contribution de responsabilisation due par chaque entité pour l'année budgétaire en cours.
+Au plus tard le 1er mars qui suit l'année civile, les entités visées au § 1er, alinéa 1er, communiquent au ministre fédéral des Finances le montant de la masse salariale visée au § 2.
+§ 4. Les montants visés au § 1er, alinéa 1er, et les montants fixés au § 3 sont portés en déduction :
+1° pour les régions : des moyens accordés à la région concernée et visés au titre IV, chapitre II, section 4;
+2° pour les communautés : des moyens accordés à la communauté concernée et visés au titre IV, chapitre III, section 3, sous-section 2;
+3° pour la Commission communautaire commune : des moyens accordés à celle-ci et visés à l'article 65 et, le cas échéant, les moyens visés aux articles 47/8 et 47/7.
+4° pour la Commission communautaire française : des moyens accordés à celle-ci et visés à l'article 65bis.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 69, 008; En vigueur : 01-01-2015&gt;
+
+<a name="Art.66" href="#Art.65quinquies">Art.</a> <a href="#Art.67"> 66</a>. &lt;disposition modificative de l'article 92bis de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
 
 <a name="Art.67" href="#Art.66">Art.</a> <a href="#Art.68"> 67</a>. &lt;disposition modificative de l'article 94 de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
 
@@ -813,11 +1532,20 @@ Le prix de revient total du service des impôts visés à l'article 3, alinéa 1
 Il est procédé à l'établissement du rapport du prix de revient total obtenu en application de l'alinéa 2 et du total des recettes de l'impôt concerné, localisées dans les trois régions. Ce pourcentage est appliqué aux recettes de l'impôt concerné, localisées dans chaque région. Les recettes visées dans cet alinéa sont calculées comme la moyenne des recettes des années budgétaires 1999 à 2001 incluse, qui sont préalablement exprimées en prix de 2002, après neutralisation d'éventuels écarts de tarifs entre les régions.
 Le montant obtenu en application de l'alinéa 3, par impôt et par région, est adapté chaque année à partir de l'année budgétaire 2003 au taux de fluctuation de l'indice moyen des prix à la consommation suivant les modalités fixées à l'article 38, § 3.
 
-<a name="Art.68quater" href="#Art.68ter">Art.</a> <a href="#LNK0027"> 68quater</a>. &lt;Inséré par L 2001-07-13/35, art. 57; <b> En vigueur : </b> 01-01-2002&gt; Le transfert des compétences en matière de coopération au développement, les moyens financiers nécessaires sont transférés sur la base des moyens correspondants, tels que prévus dans le budget 2001 et selon les différentes clefs de répartition, respectivement pour les communautés et les régions, telles qu'elles peuvent être inférées de la présente loi spéciale. Le groupe de travail visé à l'article 6ter de la loi spéciale du 8 août 1980 de réformes institutionnelles, inséré par la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés, prépare ce transfert.
+<a name="Art.68quater" href="#Art.68ter">Art.</a> <a href="#Art.68quinquies"> 68quater</a>. &lt;Inséré par L 2001-07-13/35, art. 57; <b> En vigueur : </b> 01-01-2002&gt; Le transfert des compétences en matière de coopération au développement, les moyens financiers nécessaires sont transférés sur la base des moyens correspondants, tels que prévus dans le budget 2001 et selon les différentes clefs de répartition, respectivement pour les communautés et les régions, telles qu'elles peuvent être inférées de la présente loi spéciale. Le groupe de travail visé à l'article 6ter de la loi spéciale du 8 août 1980 de réformes institutionnelles, inséré par la loi spéciale du 13 juillet 2001 portant transfert de diverses compétences aux régions et communautés, prépare ce transfert.
 
-<a name="LNK0027" href="#LNKR0027">TITRE IX.</a> - DISPOSITIONS ABROGATOIRES OU MODIFICATIVES.
+<a name="Art.68quinquies" href="#Art.68quater">Art.</a> <a href="#LNK0029"> 68quinquies</a>. [<sup>1</sup> § 1er. Tant que l'autorité fédérale ou les institutions qui en dépendent assurent la gestion administrative et le paiement des allocations familiales conformément à l'article 94, § 1erbis, de la loi spéciale du 8 août 1980 de réformes institutionnelles, chaque communauté et la Commission communautaire commune en assume, chacune en ce qui la concerne, le coût.
+Le coût total de la gestion administrative et du paiement des allocations familiales s'élève à [214.296.029] euros. Ce coût est mis à charge de chaque communauté et de la Commission communautaire commune au profit de laquelle l'autorité fédérale ou les institutions qui en dépendent assurent la gestion administrative et le paiement des allocations familiales, en raison du nombre d'enfants de 0 à 18 ans inclus inscrits au 1er janvier de l'année budgétaire concernée dans les registres de la population des communes de la région linguistique sur le territoire de laquelle la communauté concernée ou la Commission communautaire commune exerce sa compétence en matière d'allocations familiales, par rapport au nombre d'enfants de 0 à 18 ans inclus inscrits dans les registres de la population à cette date. (ERRATUM, M.B. 05-05-2014, p. 36144)
+Le montant ainsi fixé est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation selon les mêmes modalités que celles définies à l'article 47/5, § 4.
+§ 2. Les dépenses effectuées par les institutions chargées au plus tard jusqu'au 31 décembre 2019 de la gestion administrative et du paiement des allocations familiales conformément à l'article 94, § 1erbis, de la loi spéciale du 8 août 1980 de réformes institutionnelles, qui sont à charge de la Communauté française, de la Communauté flamande et de la Commission communautaire commune sont imputées chaque année sur les dotations respectives visées aux articles 47/5 et 47/8 de ces entités.
+Il est tenu compte de l'estimation de ces dépenses pour le versement des acomptes prévu à l'article 54.
+§ 3. La rémunération visée à l'article 94, § 1erter, de la loi spéciale du 8 août 1980 de réformes institutionnelles, s'élève à 80 % des interventions personnelles pour des prestations de soins visées à l'article 5, § 1er, I, alinéa 1er, 3° à 5°, de la même loi spéciale. Elle est due par la Communauté française, la Communauté flamande et la Commission communautaire commune, selon que les bénéficiaires sont inscrits au registre de la population d'une commune de la région de langue française, de la région de langue néerlandaise ou de la région bilingue de Bruxelles-Capitale. Cette rémunération est portée en déduction des dotations respectives visées à l'article 47/7.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 70, 008; En vigueur : 01-01-2015&gt;
 
-<a name="Art.69" href="#Art.68quater">Art.</a> <a href="#Art.70"> 69</a>. § 1. Sont abroges :
+<a name="LNK0029" href="#LNKR0029">TITRE IX.</a> - DISPOSITIONS ABROGATOIRES OU MODIFICATIVES.
+
+<a name="Art.69" href="#Art.68quinquies">Art.</a> <a href="#Art.70"> 69</a>. § 1. Sont abroges :
 1° les articles 1er à 15 de la loi ordinaire du 9 août 1980 de réformes institutionnelles, sauf dans la mesure où ils sont applicables à la Communauté germanophone et dans la mesure où ils sont nécessaires au versement des ristournes encore dues par l'Etat au 31 décembre 1988;
 2° les articles 13, §§ 1er, 2 et 4, en ce qui concerne la Cour des Comptes, et 14 de la loi spéciale du 8 août 1980 de réformes institutionnelles, sauf dans la mesure où ils sont applicables à la Communauté germanophone;
 3° l'article 76 de la loi du 5 janvier 1976 relative aux propositions budgétaires 1975-1976;
@@ -827,9 +1555,9 @@ Le montant obtenu en application de l'alinéa 3, par impôt et par région, est 
 § 3. Dans l'article 48 de la loi ordinaire du 9 août 1980 de réformes institutionnelles, les mots " à l'exception de l'article 7 " sont supprimés.
 § 4. L'article 4, § 1er, de la loi du 5 mars 1984 relative aux soldes et aux charges du passé des Communautés et des Régions et aux secteurs économiques nationaux est abrogé à partir du 1er janvier 1991.
 
-<a name="Art.70" href="#Art.69">Art.</a> <a href="#LNK0028"> 70</a>. &lt;disposition modificative de l'article 6, § 1er, IX, 2°, de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
+<a name="Art.70" href="#Art.69">Art.</a> <a href="#LNK0030"> 70</a>. &lt;disposition modificative de l'article 6, § 1er, IX, 2°, de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
 
-<a name="LNK0028" href="#LNKR0028">TITRE X.</a> - DISPOSITIONS TRANSITOIRES ET FINALES.
+<a name="LNK0030" href="#LNKR0030">TITRE X.</a> - DISPOSITIONS TRANSITOIRES ET FINALES.
 
 <a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>. § 1. Jusqu'à l'entrée en vigueur de la loi visée à l'article 50, § 2, sont applicables aux Communautés et aux Régions, les dispositions en vigueur relatives à l'organisation du contrôle de la Cour des Comptes et du contrôle de l'octroi et de l'emploi de subventions, ainsi que les dispositions en matière de comptabilité de l'Etat, sans préjudice de ce qui est disposé au § 2 en ce qui concerne l'article 32bis de la loi du 28 juin 1963, modifiant et complétant les lois sur la comptabilité de l'Etat.
 § 2. Jusqu'à l'organisation d'un contrôle administratif et budgétaire, visé à l'article 51, les dispositions mentionnées à l'article 32bis de la même loi du 28 juin 1963, sont applicables aux Communautés et aux Régions.
@@ -857,7 +1585,7 @@ En lieu et place, il est attribué à chacune des Communautés, pour chacune des
 <a name="Art.74" href="#Art.73">Art.</a> <a href="#Art.75"> 74</a>. Pour l'année budgétaire 1989, les moyens financiers revenant à la Commission Communautaire Commune en vertu de la présente loi, sont diminués du montant total des sommes que les Ministres compétents pour les matières personnalisables qui en vertu de l'article 59bis, § 4bis, de la Constitution ne relèvent pas des Communautés, ont ordonnancées à ce titre jusqu'à l'installation de l'Assemblée Réunie et du Collège Réuni.
 Ce montant est fixé, dans les quinze jours suivant l'installation de l'Assemblée Réunie et du Collège Réuni, par arrêté royal délibéré en Conseil des Ministres, pris de l'avis du Collège Réuni.
 
-<a name="Art.75" href="#Art.74">Art.</a> <a href="#Art.76"> 75</a>. § 1. A charge des crédits ouverts par la loi, sont autorisés l'engagement, l'ordonnancement et la liquidation des dépenses relatives aux services administratifs à transférer et qui ne sont ni effectivement ni intégralement pris en charge par les Communautés, les Régions et la Commission Communautaire Commune. L'autorité nationale prélève à cet effet sur les moyens à transférer aux Communautés et aux Régions les montants nécessaires à couvrir ces dépenses.
+<a name="Art.75" href="#Art.74">Art.</a> <a href="#Art.76"> 75</a>.§ 1. A charge des crédits ouverts par la loi, sont autorisés l'engagement, l'ordonnancement et la liquidation des dépenses relatives aux services administratifs à transférer et qui ne sont ni effectivement ni intégralement pris en charge par les Communautés, les Régions et la Commission Communautaire Commune. L'autorité nationale prélève à cet effet sur les moyens à transférer aux Communautés et aux Régions les montants nécessaires à couvrir ces dépenses.
 Ces prélèvements sont fixés par arrêté royal délibéré en Conseil des Ministres après concertation avec les Exécutifs concernés ou avec le Collège Réuni.
 Le présent paragraphe cesse d'être en application, en ce qui concerne les services administratifs, au plus tard le 31 décembre 1990.
 § 1bis. (A charge des crédits ouverts par la loi, sont autorisés l'engagement, l'ordonnancement et la liquidation des dépenses relatives aux services administratifs à transférer et qui ne sont ni effectivement ni intégralement pris en charge par les Régions. L'autorité fédérale prélève à cet effet sur les moyens à transférer aux Régions les montants nécessaires à couvrir ces dépenses.
@@ -865,36 +1593,94 @@ Ces prélèvements sont fixés par arrêté royal délibéré en Conseil des min
 Le présent paragraphe cesse d'être en application, en ce qui concerne les services administratifs, au plus tard le 31 décembre 1994.) &lt;L 1993-07-16/30, art. 119, 002; <b> En vigueur : </b> 1993-07-30&gt;
 (§ 1erter. A charge des crédits ouverts par la loi, sont autorisés pendant une durée de 12 mois l'engagement, l'ordonnancement et la liquidation des dépenses relatives aux services administratifs à transférer et qui ne sont ni effectivement ni intégralement pris en charge par les régions et les communautés. L'autorité fédérale prélève à cet effet sur les moyens à transférer aux régions et aux communautés les montants nécessaires pour couvrir ces dépenses.
 Ces prélèvements sont fixés par arrêté royal délibéré en Conseil des Ministres après concertation avec les gouvernements concernés.) &lt;L 2001-07-13/35, art. 47, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> § 1erquater. A charge des crédits ouverts par la loi, sont autorisés pendant une durée qui se termine au 31 décembre 2015 l'engagement, l'ordonnancement et la liquidation des dépenses relatives aux services administratifs à transférer et qui ne sont ni effectivement ni intégralement pris en charge par les régions, les communautés et la Commission communautaire commune. L'autorité fédérale prélève à cet effet sur les moyens à transférer aux régions, aux communautés et à la Commission communautaire commune les montants nécessaires pour couvrir ces dépenses.
+Ces prélèvements sont fixés par arrêté royal délibéré en Conseil des ministres et après concertation avec les gouvernements concernés.]<sup>1</sup>
 § 2. Les Communautés, les Régions et la Commission Communautaire Commune contribuent au financement des organismes d'intérêt public qui doivent leur être transférés aussi longtemps que ceux-ci ne sont pas effectivement transférés.
 En cas de désaccord sur ces contributions, notifié par l'organisme concerné à son ministre de tutelle, ces contributions sont fixées par arrêté royal délibéré en Conseil des Ministres après concertation avec les Exécutifs concernés ou avec le Collège Réuni. Dans ce cas, le § 1er, alinéas 1er et 2, est d'application.
 § 3. Par dérogation au § 2, alinéa 1er, l'Etat prend à sa charge la dette du Fonds d'aide au redressement financier des communes créé par l'arrête royal n° 208 du 23 septembre 1983, correspondant aux créances considérées comme irrécouvrables que le Fonds a sur les communes et sur l'Agglomération bruxelloise en vertu des conventions prévues à l'article 6 de l'arrêté royal précité. Un arrêté royal délibéré en Conseil des Ministres, après concertation avec les Exécutifs des Régions, détermine le mode de calcul et évalue ces créances.
 Pour la dette correspondant aux créances recouvrables détenues par le Fonds, un arrêté royal délibéré en Conseil des Ministres après concertation avec les Exécutifs des Régions détermine les modalités de prise en charge par chaque Région des obligations du Fonds, ainsi que les modalités de transfert des droits à chacune d'elles.
 § 4. Par dérogation au § 2, le Roi peut, après concertation avec les Exécutifs concernés, par arrêté délibéré en Conseil des Ministres, charger la Régie des voies aériennes, selon les modalités qu'il définit, de prendre en charge pendant une période de trois années, à partir de la date d'entrée en vigueur de la présente loi, tout ou partie du déficit des aéroports et aérodromes publics régionaux.
 Le Roi peut, aux mêmes conditions que celles définies à l'alinéa précédent, charger la Régie des voies aériennes de prendre en charge certains investissements dans les aéroports et aérodromes publics régionaux.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 71, 008; En vigueur : 01-01-2015&gt;
 
 <a name="Art.76" href="#Art.75">Art.</a> <a href="#Art.77"> 76</a>. Sans préjudice des dispositions de l'article 35, chaque Région reprend les obligations de l'Etat relatives aux projets et aux conventions de remise au travail de chômeurs approuvées avant la date d'entrée en vigueur de la présente loi pour les travailleurs occupés avant cette date d'entrée en vigueur et domiciliés sur son territoire. Chaque Région reçoit pour ces travailleurs le montant visé à l'article 35, § 1er.
 
-<a name="Art.77" href="#Art.76">Art.</a> <a href="#Art.78"> 77</a>. (§ 1.) Sans préjudice de l'article 75 et durant l'année 1989, l'autorité nationale est autorisée à procéder, pour compte des Exécutifs des Communautés et des Régions, à charge des crédits ouverts par la loi aux engagements, ordonnancements et liquidations des dépenses décidées par les Exécutifs relativement aux nouvelles compétences qui ont été attribuées aux Communautés et aux Régions par la Constitution ou en vertu de celle-ci à partir de l'entrée en vigueur de la présente loi. &lt;L 2001-07-13/35, art. 48, 003; <b> En vigueur : </b> 01-01-2002&gt;
+<a name="Art.77" href="#Art.76">Art.</a> <a href="#Art.78"> 77</a>.(§ 1.) Sans préjudice de l'article 75 et durant l'année 1989, l'autorité nationale est autorisée à procéder, pour compte des Exécutifs des Communautés et des Régions, à charge des crédits ouverts par la loi aux engagements, ordonnancements et liquidations des dépenses décidées par les Exécutifs relativement aux nouvelles compétences qui ont été attribuées aux Communautés et aux Régions par la Constitution ou en vertu de celle-ci à partir de l'entrée en vigueur de la présente loi. &lt;L 2001-07-13/35, art. 48, 003; <b> En vigueur : </b> 01-01-2002&gt;
 Durant cette période, et à charge de crédits provisoires ouverts par la loi, l'Autorité Nationale est autorisée à verser aux Communautés et aux Régions des dotations égales à celles versées en 1988 et adaptées en fonction du taux de fluctuation de l'indice moyen des prix à la consommation pour l'exercice 1988.
 Les ressources à transférer en 1989, en vertu de la présente loi, à la Communauté ou à la Région concernée, sont réduites à concurrence du montant des dépenses visées à l'alinéa 1er et des versements visés à l'alinéa 2.
 Les modalités d'exercice de l'autorisation visée à l'alinéa 1er sont définies par convention entre le Gouvernement et chaque Exécutif. La convention est immédiatement communiquée au (Parlement compétent). Cette autorisation cesse ses effets dès l'entrée en vigueur du décret ou de l'ordonnance portant approbation du budget de la Communauté ou de la Région à laquelle l'Exécutif concerné appartient. &lt;L 2006-03-27/33, art. 12, 005; <b> En vigueur : </b> 21-04-2006&gt;
 (§ 2. Sans préjudice de l'article 75 et durant l'année 2002, l'autorité fédérale est autorisée à procéder, pour le compte des gouvernements de communauté et de région, à charge des crédits ouverts par la loi aux engagements, ordonnancements et liquidations des dépenses décidées par les gouvernements relativement aux nouvelles compétences qui ont été attribuées aux communautés et aux régions par la Constitution ou en vertu de celle-ci à partir du 1er janvier 2002.) &lt;L 2001-07-13/35, art. 48, 003; <b> En vigueur : </b> 01-01-2002&gt;
+[<sup>1</sup> § 3. A titre transitoire, durant la période du 1er juillet 2014 au 31 décembre 2014, et par dérogation à l'article 75, l'autorité fédérale procède, pour le compte des communautés, des régions et de la Commission communautaire commune, à charge des crédits ouverts par la loi, aux engagements, ordonnancements et liquidations des dépenses qui résultent de l'application des lois, des règlements ou de décisions, relativement aux nouvelles compétences qui ont été attribuées aux communautés, aux régions et à la Commission communautaire commune par la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat.
+Aucun décret, aucune règle visée à l'article 134 de la Constitution, aucun arrêté et aucune décision dont la réalisation est de nature à entraîner une répercussion directe ou indirecte sur les dépenses qui sont prises en charge par l'autorité fédérale conformément à l'alinéa 1er ou par une institution fédérale rendue compétente par les lois et règlements visés à l'alinéa 1er, ne peut entrer en vigueur avant le 1er janvier 2015, s'il n'a pas été préalablement soumis pour rapport à l'inspecteur des Finances accrédité auprès du ministre fédéral ou de l'institution fédérale compétent pour ces dépenses. Dans son rapport, qu'il remet dans les quinze jours à dater de la réception de la demande, l'inspecteur des Finances évalue le montant de la répercussion directe ou indirecte qu'aura le décret, la règle visée à l'article 134 de la Constitution, l'arrêté ou la décision sur ces dépenses telles que prévues au budget de l'autorité fédérale ou de l'institution fédérale concernée.
+L'avis visé à l'alinéa 2 est communiqué au gouvernement concerné ou au Collège réuni de la Commission communautaire commune, ainsi qu'au ministre fédéral qui a le Budget dans ses attributions et au ministre fédéral qui a les Finances dans ses attributions. Le ministre du Budget et le ministre des Finances, après concertation avec le gouvernement concerné ou le Collège réuni de la Commission communautaire commune, établissent, sur la base du rapport de l'inspecteur des Finances, le montant provisionnel, en plus ou en moins, selon le cas, qui est imputé sur les acomptes visés à l'article 54 encore à verser pour l'année 2014 à l'entité concernée.
+Au terme de l'exercice budgétaire 2014, le montant de l'impact des mesures prises conformément à l'alinéa 2 sur cet exercice budgétaire est fixé par arrêté royal délibéré en Conseil des ministres sur la base du rapport de l'inspecteur des Finances, après concertation avec le gouvernement concerné ou le Collège réuni de la Commission communautaire commune. Ce montant, déduction faite du montant provisionnel visé à l'alinéa 3, est pris en compte, en plus ou moins, dans le solde, visé à l'article 54, du produit de l'impôt attribué à l'entité concernée.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 72, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.78" href="#Art.77">Art.</a> <a href="#Art.79"> 78</a>. &lt;disposition modificative du titre VI de la loi spéciale du 8 août 1980 de réformes institutionnelles&gt;
 
 <a name="Art.79" href="#Art.78">Art.</a> <a href="#Art.80"> 79</a>. Les articles 2, 3, 4, § 2, et 8 de la loi du 5 mars 1984 relative aux soldes et aux charges du passé des Communautés et des Régions et aux secteurs économiques nationaux, restent d'application.
 
-<a name="Art.80" href="#Art.79">Art.</a> <a href="#Art.81"> 80</a>. Par arrêté délibéré en Conseil des Ministres, pris de l'accord des Exécutifs des Communautés et des Régions, le Roi peut coordonner, en tout ou en partie, les dispositions législatives adoptées à la majorité prévue à l'article 1er, dernier alinéa de la Constitution, prise en vertu des articles 59bis, 107ter, 107quater, 108ter et 115, dernier alinéa, de la Constitution.
+<a name="Art.80" href="#Art.79">Art.</a> <a href="#Art.81"> 80</a>.[<sup>1</sup> Par arrêté délibéré en Conseil des ministres et après concertation avec les gouvernements des régions et des communautés, le Roi peut coordonner, en tout ou en partie, les dispositions de cette loi.
 A cette fin, Il peut :
-1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner;
-2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
-3° modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en unifier la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
-Les coordinations porteront l'intitulé suivant : " Lois relatives aux institutions régionales et communautaires, coordonnées le .... ".
+1° modifier l'ordre, la numérotation et, en général, la présentation des dispositions à coordonner;
+2° mettre en concordance les références qui seraient contenues dans les dispositions à coordonner avec la numérotation nouvelle;
+3° modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en unifier la terminologie sans porter atteinte aux principes inscrits dans ces dispositions;
+4° remplacer les formules et les principes exprimés qui ont mené à un montant de base ou un pourcentage de base, par le montant de base numérique ou le pourcentage de base numérique, sans pour autant modifier le résultat.
+La coordination portera l'intitulé suivant : "Loi spéciale relative au financement des communautés et des régions".
+Elle entrera en vigueur à la date de sa confirmation par une loi adoptée à la majorité prévue à l'article 4, dernière alinéa, de la Constitution.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 73, 008; En vigueur : 01-07-2014&gt;
 
 <a name="Art.81" href="#Art.80">Art.</a> <a href="#Art.81bis"> 81</a>. Les décisions qui, du 1er janvier 1989 au jour de la publication de la présente loi au Moniteur belge, sont prises par des organes de l'autorité nationale relativement à des matières qui, à partir de entrée en vigueur de la présente loi, ont été attribuées aux Communautés et aux Régions par la Constitution ou en vertu de celle-ci sont réputées avoir été prises par les organes des Communautés et des Régions devenus compétents en ces matières, chacun en ce qui le concerne.
 Les ressources qui, en 1989, sont transférées à chaque Communauté et à chaque Région en vertu de la présente loi, sont réduites à concurrence du montant des dépenses correspondantes effectuées en application de l'alinéa précédent, à moins qu'il ne s'agisse de dépenses qui, en vertu de la présente loi, restent à charge de l'autorité nationale. Le Roi fixe ces réductions, par arrêté délibéré en Conseil des Ministres, après concertation avec les Exécutifs concernés.
 
-<a name="Art.81bis" href="#Art.81">Art.</a> <a href="#Art.82"> 81bis</a>. &lt;inséré par L 1993-07-16/30, art. 120, 002; <b> En vigueur : </b> 1993-07-30&gt; Les décisions qui, du 1er janvier 1993 au jour de la publication de la présente loi au Moniteur belge, sont prises par des organes de l'autorité nationale relativement à des matières qui, à partir de l'entrée en vigueur de la présente loi, ont été attribuées aux Régions par la Constitution ou en vertu de celle-ci sont réputées avoir été prises par les organes des Régions devenus compétents en ces matières, chacun en ce qui le concerne.
+<a name="Art.81bis" href="#Art.81">Art.</a> <a href="#Art.81ter"> 81bis</a>. &lt;inséré par L 1993-07-16/30, art. 120, 002; <b> En vigueur : </b> 1993-07-30&gt; Les décisions qui, du 1er janvier 1993 au jour de la publication de la présente loi au Moniteur belge, sont prises par des organes de l'autorité nationale relativement à des matières qui, à partir de l'entrée en vigueur de la présente loi, ont été attribuées aux Régions par la Constitution ou en vertu de celle-ci sont réputées avoir été prises par les organes des Régions devenus compétents en ces matières, chacun en ce qui le concerne.
 Les ressources qui, en 1993, sont transférées à chaque Région en vertu de la présente loi, sont réduites à concurrence du montant des dépenses correspondantes effectuées en application de l'alinéa précédent, à moins qu'il ne s'agisse de dépenses, qui, en vertu de la présente loi, restent à charge de l'autorité nationale. Le Roi fixe ces réductions, par arrête délibéré en Conseil des ministres, après concertation avec les Exécutifs concernés.
 
-<a name="Art.82" href="#Art.81bis">Art.</a> 82. La présente loi entre en vigueur le 1er janvier 1989.
+<a name="Art.81ter" href="#Art.81bis">Art.</a> <a href="#Art.81quater"> 81ter</a>. [<sup>1</sup> La Cour des comptes rédige :
+1° un rapport pour le 31 décembre 2016 reprenant le montant des dépenses fiscales visées à l'article 5/5, § 4, ainsi que leur répartition par région et ce pour l'exercice d'imposition 2015 exprimées à politique inchangée et constatées au terme du délai d'imposition fixé à l'article 359 du Code des impôts sur les revenus 1992 sur la base des informations qui lui sont transmises à cet effet par le ministre des Finances pour le 31 octobre 2016 au plus tard;
+2° un rapport pour le 30 avril 2017 reprenant le montant du dénominateur visé à l'article 5/2, § 1er, alinéa 3, sur la base des informations qui lui sont transmises à cet effet par le ministre des Finances pour le 1er mars 2017 au plus tard.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 74, 008; En vigueur : 01-07-2014&gt;
+
+<a name="Art.81quater" href="#Art.81ter">Art.</a> <a href="#Art.81quinquies"> 81quater</a>. [<sup>1</sup> Pour l'exercice d'imposition 2015 et les suivants, les règles suivantes sont applicables jusqu'à ce que les régions auront établi leurs propres règles en matière de centimes additionnels régionaux, ainsi que pour chaque augmentation, diminution, réduction ou crédit d'impôt régional :
+1° les centimes additionnels régionaux sont égaux à la fraction dont le numérateur est le facteur d'autonomie fixé à l'article 5/2, § 1er, et le dénominateur est le facteur 1 moins le facteur d'autonomie. Les centimes additionnels régionaux sont exprimés en pourcent et arrondis à la troisième décimale supérieure ou inférieure selon que le chiffre de la quatrième décimale atteint ou non 5;
+2° les réductions et crédits d'impôt régionaux relatifs aux dépenses visées à l'article 5/5, § 4, sont les réductions et crédits tels qu'ils sont repris dans la législation fiscale au 30 juin 2014;
+3° en application de l'article 5/3, § 1er, 2°, le solde des diminutions et réductions d'impôt régionales qui ne peut être imputé sur les centimes additionnels régionaux et les augmentations d'impôt régionales, est imputable sur le solde de l'impôt fédéral après imputation des réductions d'impôt fédérales.
+Chaque région met le système fiscal relatif aux dépenses visées à l'article 5/5, § 4, alinéa 1er, 1°, qui sont liées à des contrats conclus à partir du 1er janvier 2015, en conformité avec le principe de progressivité visé à l'article 5/6, § 1er. Les réductions d'impôt existantes qui ne satisfont pas aux règles visées à l'article 5/6, § 1er et § 3, et qui ne sont pas mises en conformité avec ces règles par une région avant le 1er janvier 2015, sont à cette date converties dans la région concernée en une réduction d'impôt au taux de 45 %.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 75, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.81quinquies" href="#Art.81quater">Art.</a> <a href="#Art.82"> 81quinquies</a>. [<sup>1</sup> § 1er. Pour l'année budgétaire 2014 les montants suivants sont déduits de leurs moyens respectifs :
+1° 104.835.061 euros pour la Région flamande;
+2° 53.325.028 euros pour la Région wallonne;
+3° 17.728.103 euros pour la Région de Bruxelles-Capitale;
+4° 46.331.615 euros pour la Communauté flamande;
+5° 25.259.550 euros pour la Communauté française;
+6° 2.067.211 euros pour la Commission communautaire commune.".
+Le montants visés à l'alinéa 1er sont portés en déduction à partir du 1er juillet 2014 :
+1° pour les régions : des moyens accordés à la région concernée et visés au titre IV, chapitre II, section 2;
+2° pour les communautés : des moyens accordés à la communauté concernée et visés au titre IV, chapitre III, section 3, sous-section 2;
+3° pour la Commission communautaire commune : des moyens accordés à celle-ci visés à l'article 65.
+§ 2. A partir de l'année budgétaire 2015, les moyens de la Communauté flamande visés à l'article 40quinquies, sont diminués d'un montant de 1 205 046 euros.
+A partir de l'année budgétaire 2016, le montant visé à l'alinéa 1er, est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée selon les modalités définies à l'article 38, § 3.
+Il sera mis un terme définitif à la diminution des moyens dès que les membres du personnel du centre fermé pour jeunes de Tongres ne seront plus entièrement ou partiellement utilisés en tant que membres du personnel fédéral dans ce centre fermé et au plus tard le 31 décembre 2018. Le Roi peut déterminer, par arrêté délibéré en Conseil des ministres et après concertation avec le gouvernement de l'autorité visée à l'alinéa 1er, qu'il est mis fin à cette diminution au cours d'une autre année budgétaire et, le cas échéant, fixer un montant pro rata temporis pour cette année budgétaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 76, 008; En vigueur : 01-01-2014&gt;
+
+<a name="Art.82" href="#Art.81quinquies">Art.</a> <a href="#LNK0031"> 82</a>. La présente loi entre en vigueur le 1er janvier 1989.
+
+<a name="LNK0031" href="#LNKR0031">ANNEXE</a>
+
+<a name="Art.N" href="#Art.82">Art.</a> N.[<sup>1</sup> Trajectoires pour la période du 1er janvier 2015 au 31 décembre 2030, visées à l'article 65quater, § 2, alinéa 2
+Objectifs de réductions d'émissions de gaz à effet de serre dans les bâtiments des secteurs résidentiels et tertiaires (en kilo-tonnes de CO<sub>2</sub>) .
+
+<table border="1"><tr><td>Années</td><td>2015</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td><td>2020</td></tr><tr><td>Région flamande</td><td>14206</td><td>14081</td><td>13956</td><td>13830</td><td>13705</td><td>13580</td></tr><tr><td>Région wallonne</td><td>7119</td><td>7089</td><td>7059</td><td>7029</td><td>6999</td><td>6969</td></tr><tr><td>Région de Bruxelles-Capitale</td><td>2325</td><td>2317</td><td>2309</td><td>2301</td><td>2293</td><td>2285</td></tr></table>
+
+<table border="1"><tr><td>Années</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td><td>2030</td></tr><tr><td>Région flamande</td><td>13339</td><td>13098</td><td>12858</td><td>12617</td><td>12376</td><td>12136</td><td>11895</td><td>11655</td><td>11414</td><td>11173</td></tr><tr><td>Région wallonne</td><td>6845</td><td>6722</td><td>6598</td><td>6475</td><td>6351</td><td>6228</td><td>6104</td><td>5981</td><td>5857</td><td>5734</td></tr><tr><td>Région de Bruxelles-Capitale</td><td>2244</td><td>2204</td><td>2163</td><td>2123</td><td>2082</td><td>2042</td><td>2001</td><td>1961</td><td>1920</td><td>1880</td></tr></table>
+
+]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010648" target="_blank">2014-01-06/48</a>, art. 77, 008; En vigueur : 01-07-2014&gt;
