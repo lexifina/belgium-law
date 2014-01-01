@@ -121,7 +121,13 @@ Cette cellule dispose d'un cadre organique et linguistique distinct de celui de 
 <a name="Art.7" href="#Art.6bis">Art.</a> <a href="#Art.8"> 7</a>. § 1er. Par dérogation (...) à l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, le Roi peut, par arrêté délibéré en Conseil des Ministres et après l'avis du Conseil national du travail, charger l'Office national de sécurité sociale d'effectuer la perception et le recouvrement des cotisations, majorations de cotisations et des intérêts de retard, prévus par ces arrêtés-lois. &lt;L 1996-04-29/32, art. 132, 011; <b> En vigueur : </b> 01-01-1999&gt;
 § 2. Dans ce cas, le Roi détermine les conditions techniques et administratives dans lesquelles l'Office national de sécurité sociale accomplit la mission qui lui est ainsi confiée, ces conditions pouvant déroger aux dispositions de ces arrêtés-lois, sauf en ce qui cOncerne les taux de cotisations qui y sont prévus ainsi que la base de calcul des cotisations.
 
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0004"> 8</a>. (abrogé) &lt;L 1994-03-30/31, art. 2, 009; <b> En vigueur : </b> indéterminée &gt;
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0004"> 8</a>.[<sup>1</sup> La Caisse spéciale de compensation pour allocations familiales en faveur des travailleurs occupés dans les entreprises de batellerie est autorisée à réclamer à l'Office national de Sécurité sociale annuellement une subvention afin de couvrir les frais d'administration de la Caisse spéciale.
+La limite de la réserve administrative de la section Sécurité sociale est limitée à six mois de frais d'administration.
+Si le résultat de l'exercice comptable conduit à un dépassement de la limite de la réserve administrative, cette intervention est diminuée du montant du dépassement.
+La subvention de l'Office national de Sécurité sociale s'élève à 25 % des frais d'administration et est augmentée pour l'année 2013 et pour l'année 2014 à 45 % des frais d'administration.
+Le Ministre des Affaires sociales peut modifier le montant de la subvention. ]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122157" target="_blank">2013-12-21/57</a>, art. 3, 052; En vigueur : 01-01-2013&gt;
 
 <a name="LNK0004" href="#LNKR0004">Section 2.</a> - Organisation.
 
@@ -369,7 +375,7 @@ Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 pe
 § 10. Le présent article n'est pas applicable au commettant-personne physique qui fait exécuter des travaux visés au § 1er, à des fins strictement privées.
 § 11. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement, dation en paiement ou d'action directe visée à l'article 1798 du Code Civil [<sup>3</sup> ...]<sup>3</sup>.
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009122304" target="_blank">2009-12-23/04</a>, art. 67, 039; En vigueur : indéterminée &gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009122304" target="_blank">2009-12-23/04</a>, art. 67, 039; En vigueur : 01-04-2014, voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014021105" target="_blank">2014-02-11/05</a>, art. 18, L1&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 51, 041; En vigueur : 01-07-2011&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013052715" target="_blank">2013-05-27/15</a>, art. 47, 047; En vigueur : 01-08-2013&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 19, 043; En vigueur : 01-09-2012&gt;
