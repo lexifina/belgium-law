@@ -267,7 +267,7 @@ Dans les limites du mandat conclu avec l'employeur, ils se chargent d'accompagne
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 49, 086; En vigueur : 01-01-2010&gt;
 
-<a name="Art.31quater" href="#Art.31ter">Art.</a> <a href="#LNK0004"> 31quater</a>. [<sup>1</sup> § 1er. Entre l'employeur et son mandataire, un contrat écrit est conclu qui détermine, entre autres, l'objet du mandat, tout en respectant les conditions énoncées ci-après.
+<a name="Art.31quater" href="#Art.31ter">Art.</a> <a href="#LNK0004"> 31quater</a>.[<sup>1</sup> § 1er. Entre l'employeur et son mandataire, un contrat écrit est conclu qui détermine, entre autres, l'objet du mandat, tout en respectant les conditions énoncées ci-après.
 Le mandat peut s'appliquer à la totalité des obligations en matière de sécurité sociale ou à une partie de celles-ci.
 Le Roi peut fixer les obligations en matière de sécurité sociale pour lesquelles un seul mandataire doit être compétent.
 § 2. Avant que celui-ci ne prenne cours, le mandat est notifié à l'Office national de Sécurité sociale ou à l'Office national de Sécurité sociale des administrations provinciales et locales au moyen de l'envoi d'une procuration.
@@ -279,8 +279,23 @@ L'ancien mandataire est soumis à une obligation d'information vis-à-vis du nou
 En cas d'interruption ou de suspension de la prescription, l'obligation d'information reste intacte.
 L'obligation d'information implique que l'ancien mandataire est tenu de fournir au nouveau mandataire à sa demande tous les renseignements disponibles, nécessaires aux transactions techniques, portant sur des trimestres ayant relevé de sa gestion.
 § 5. Un contrat conclu entre l'employeur et le nouveau mandataire doit obligatoirement préciser dans quelle mesure le mandataire précédent garde le mandat de procéder encore effectivement à des transactions techniques liées aux trimestres et aux obligations en matière de droit de la sécurité sociale ayant relevé de son mandat.]<sup>1</sup>
+[<sup>2</sup> § 6. En cas de transfert de la clientèle d'un secrétariat social agréé, tel que défini à l'article 31ter, § 2, 2°, ainsi que des droits et obligations y liés, à un autre secrétariat social agréé, les procurations liant les employeurs affiliés à l'ancien secrétariat social peuvent être automatiquement transférées et reprises par le nouveau secrétariat social, par dérogation à la procédure prévue au § 2.
+Si un secrétariat social agréé opte pour ce système de transfert automatique, les procurations ne doivent pas être envoyées à l'Office national de sécurité sociale ou à l'Office national de Sécurité sociale des administrations provinciales et locales comme prescrit par le § 2.
+Un transfert automatique n'est possible que pour autant que les conditions décrites ci-dessous soient remplies :
+1° le nouveau et l'ancien secrétariat social informent ensemble l'Office national de sécurité sociale ou l'Office national de Sécurité sociale des administrations provinciales et locales de la décision relative au transfert de la clientèle et ce, au plus tard avant le début du deuxième trimestre précédent le transfert effectif;
+2° au plus tard avant le début du deuxième trimestre précédent le transfert effectif, le nouveau et l'ancien secrétariat social informent ensemble par lettre recommandée les employeurs affiliés à l'ancien secrétariat social au sujet des éléments suivants :
+a) la date fixée ou proposée du transfert;
+b) le fait que le contenu et les conditions du mandat et du contrat avec l'ancien secrétariat social sont repris intégralement par le nouveau secrétariat social;
+c) les principes du transfert, notamment en ce qui concerne les paiements et autres accords concernant le passé;
+d) la possibilité pour l'employeur, s'il ne souhaite pas s'affilier au nouveau secrétariat social, de s'opposer au transfert automatique de son mandat au moyen d'une notification expresse à l'ancien secrétariat social avant la fin du deuxième mois du deuxième trimestre précédent le transfert;
+e) la responsabilité de l'employeur en matière de preuve de l'envoi de la notification visée au point d) et en matière de la continuité de l'administration sociale.
+3° avant le début du trimestre précédent le transfert effectif, le nouveau secrétariat social notifie à l'Office national de Sécurité sociale ou à l'Office national de sécurité sociale des administrations provinciales et locales, sous la forme d'une déclaration signée, la liste des numéros ONSS des employeurs qui lui sont transférés, sous la forme d'une déclaration signée;
+4° avant le début du trimestre précédent le transfert effectif, l'ancien secrétariat social notifie à l'Office national de Sécurité sociale ou à l'Office national de sécurité sociale des administrations provinciales et locales, sous la forme d'une déclaration signée, la liste des numéros ONSS des employeurs qui ont refusé le transfert vers le nouveau secrétariat social;
+5° le nouveau secrétariat social tient à jour pour chaque employeur auquel il s'est adressé dans le cadre de la procédure mentionnée ci-dessus un dossier, dans lequel toute communication au sujet du transfert, comme indiqué dans les points précités 1° à 4°, est notée.
+Ce dossier est à la première demande des institutions mentionnées au point 1° soumis pour consultation.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 50, 086; En vigueur : 01-01-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122158" target="_blank">2013-12-21/58</a>, art. 2, 102; En vigueur : 01-04-2013&gt;
 
 <a name="LNK0004" href="#LNKR0004">CHAPITRE IV.</a> - Dispositions finales et transitoires
 
