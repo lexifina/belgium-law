@@ -6,3 +6,4 @@ La cour d'appel connaît des recours visés à:
 (5° l'article 2 de la loi du 8 décembre 2006 organisant une voie de recours contre l'amende infligée dans le cadre de l'application de la loi du 8 décembre 2006 établissant un prélèvement visant à lutter contre la non-utilisation d'un site de production d'électricité par un producteur.)
 6° l'article 66/1 de la loi du 4 décembre 2006 relative à l'utilisation de l'infrastructure ferroviaire;
 7° l'article 14/5 de la loi du 19 décembre 2006 relative à la sécurité d'exploitation ferroviaire;
+8° l'article 43 de la loi du 15 décembre 2013 en matière de dispositifs médicaux.
