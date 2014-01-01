@@ -260,7 +260,9 @@ Le Roi détermine également les conditions dans lesquelles l'organisme percepte
 <a name="LNK0011" href="#LNKR0011">Section 2bis.</a> - &lt;L 04-08-1978, art. 61&gt; Paiement par un responsable solidaire.
 
 <a name="Art.30bis" href="#Art.30">Art.</a> <a href="#Art.30ter"> 30bis</a>.&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042735" target="_blank">2007-04-27/35</a>, art. 55, 031; <b> En vigueur : </b> 01-01-2008&gt; § 1er. Pour l'application du présent article, il faut entendre par :
-1° [<sup>4</sup> Travaux : les activités visées à l'article 20, § 2, de l'arrêté royal n° 1 du 29 décembre 1992, relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée;]<sup>4</sup>
+1° [<sup>7</sup> travaux :
+a) les activités visées à l'article 20, § 2, de l'arrêté royal n° 1 du 29 décembre 1992 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée;
+b) en outre, pour l'application des §§ 7 à 9, les autres travaux qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;]<sup>7</sup>
 2° commettant : quiconque donne ordre d'exécuter ou de faire exécuter des travaux pour un prix;
 3° entrepreneur :
 - quiconque s'engage, pour un prix, à exécuter ou à faire exécuter des travaux pour un commettant;
@@ -303,14 +305,19 @@ Le Roi peut déterminer sous quelles conditions la majoration peut être réduit
 A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-traitant, doit préalablement en avertir, par écrit, l'entrepreneur et lui fournir les informations exactes necessaires destinées à l'Office national précité telles que définies par le Roi.
 [<sup>1</sup> L'entrepreneur informe l'Office national précité de la date de début et de fin des travaux. Le Roi définit ce que l'on entend par date de début et de fin des travaux.]<sup>1</sup>
 De même, lorsque l'intervention d'un sous-traitant, qui avait été déclarée à l'Office national précité, est annulée, l'entrepreneur en informe l'Office national précité [<sup>1</sup> ...]<sup>1</sup>.
-Pour l'application du présent paragraphe, est assimilé à l'entrepreneur toute personne qui effectue ou fait effectuer pour son propre compte des travaux visés au § 1er, 1°, afin d'aliéner ensuite en tout ou en partie ce bien immobilier.
+[<sup>7</sup> Pour l'application du présent paragraphe, est assimilé à l'entrepreneur :
+a) tout entrepreneur qui est son propre commettant, c'est-à-dire qui effectue ou fait effectuer pour son propre compte des travaux visés au § 1er, 1°, a), afin d'aliéner ensuite en tout ou en partie ce bien immobilier;
+b) tout entrepreneur qui effectue pour son propre compte des travaux visés au § 1er, 1°, a);
+c) pour les travaux visés au § 1er, 1°, b), la personne qui doit faire une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.]<sup>7</sup>
 L'Office national précité met une copie électronique des déclarations reçues à la disposition du service compétent du Service public fédéral des Finances.
 Ces déclarations sont mises à la disposition des services d'inspection visés à l'[<sup>2</sup> article 16, 1°, du Code pénal social]<sup>2</sup>, qui le demandent.
 § 8. L'entrepreneur ou celui qui y est assimilé qui ne se conforme pas aux obligations du § 7, alinéa 1er, est redevable à l'Office national précité d'une somme équivalente à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qui n'ont pas été déclarés à l'Office national. La somme qui est réclamée à l'entrepreneur est diminuée à concurrence du montant qui a été payé effectivement à l'Office national par le sous-traitant en application de la disposition de l'alinéa suivant.
 Le sous-traitant qui ne se conforme pas aux dispositions du § 7, alinéa 2, est redevable à l'Office national d'une somme égale à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qu'il a confiés à son ou à ses sous-traitants.
 [<sup>1</sup> ...]<sup>1</sup>
-§ 9. Le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il n'a pas été fait appel à un sous-traitant.
-Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 peut être réduite ou exonérée.
+§ 9. [<sup>7</sup> Le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il n'a pas été fait appel à un sous-traitant.
+De même le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il a été fait appel à un seul sous-traitant.
+Les limitations visées aux alinéas 1er et 2 ne sont pas d'application pour les travaux visés au § 1er, 1°, b), qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.
+Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 peut être réduite ou l'exonération du paiement de la somme peut être accordée.]<sup>7</sup>
 § 10. Le présent article n'est pas applicable au commettant-personne physique qui fait exécuter des travaux visés au § 1er, à des fins strictement privées.
 § 11. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement, dation en paiement ou d'action directe visée à l'article 1798 du Code Civil [<sup>3</sup> ...]<sup>3</sup>.
 ----------
@@ -320,6 +327,7 @@ Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 pe
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 19, 043; En vigueur : 01-09-2012&gt;
 (<font color="red">5</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 61, 044; En vigueur : 16-04-2012&gt;
 (<font color="red">6</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 38, 046; En vigueur : 10-01-2013&gt;
+(<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013120807" target="_blank">2013-12-08/07</a>, art. 2, 049; En vigueur : 01-01-2014&gt;
 
 <a name="Art.30ter" href="#Art.30bis">Art.</a> <a href="#Art.30quater"> 30ter</a>.[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
 1° activités : les travaux ou services définis par le Roi après avis unanime des commissions ou sous-commissions paritaires compétentes. Cet avis peut toutefois être donné par le Conseil national du Travail lorsque les activités relèvent de la compétence de plusieurs commissions paritaires. A défaut d'une commission ou sous-commission paritaire compétente ou effective, cet avis est donné par le Conseil national du travail. L'organe consulté communique son avis dans les deux mois après que le ministre compétent lui en a fait la demande. A défaut d'un avis unanime, le Roi précise les travaux ou les services par arrêté délibéré en Conseil des Ministres.
