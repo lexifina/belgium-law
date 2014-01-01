@@ -18,6 +18,6 @@ Le montant du remboursement dû par le travailleur en cas de non respect de la p
 - 50 % du coût de la formation en cas de départ du travailleur dans la période comprise entre 1/3 et 2/3 au plus tard de la période convenue;
 - 20 % du coût de la formation en cas de départ du travailleur au delà de 2/3 de la période convenue.
 Toutefois, ce montant ne peut en aucun cas excéder 30 % de la rémunération annuelle du travailleur.
-§ 6. La clause d'écolage ne produit pas ses effets s'il est mis fin au contrat, soit pendant la période d'essai, soit après cette période par l'employeur sans motif grave, ou par le travailleur pour motif grave.
+§ 6. La clause d'écolage ne produit pas ses effets s'il est mis fin au contrat, soit durant les six premiers mois à partir du début du contrat, soit après cette période par l'employeur sans motif grave, ou par le travailleur pour motif grave.
 La clause d'écolage ne produit pas ses effets dans le cas où le contrat de travail prend fin dans le cadre d'une restructuration telle que visée par la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations et ses arrêtés d'exécution.
 § 7. Le travailleur reste titulaire de ses diplômes ou certificats et doit disposer de l'original ou d'une copie certifiée conforme par l'instance responsable pour la formation, que la clause d'écolage sorte ou non ses effets.
