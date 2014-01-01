@@ -1,21 +1,27 @@
-§ 1er. Sans préjudice de l'application de l'article 56, § 1er, alinéa 3, du présent Code, le juge d'instruction peut ordonner, dans l'intérêt de l'instruction, qu'il soit procédé à un prélèvement d'échantillon de cellules humaines sur une personne aux fins d'une analyse ADN de comparaison, si le fait pour lequel il est saisi est une infraction pour laquelle est prévue une peine maximale de cinq ans d'emprisonnement ou une peine plus lourde.
-Le prélèvement ne peut être ordonné que si le juge d'instruction dispose d'indices que la personne visée présente un lien direct avec la réalisation des faits.
-Le juge d'instruction ne peut ordonner un tel prélèvement que si au moins une trace de cellules humaines a été découverte et recueillie dans le cadre de l'affaire dont il est saisi.
-L'accord de l'intéressé n'est pas requis pour l'exécution de la mesure.
-Cette mesure fait préalablement l'objet d'une ordonnance motivée du juge d'instruction qu'il communique au procureur du Roi.
-§ 2. Avant d'ordonner une analyse ADN, le juge d'instruction entend la personne qui en fait l'objet.
-Le juge d'instruction l'informe des circonstances de l'affaire et du fait que son profil ADN pourra être relié, dans la banque de données " Criminalistique ", aux profils d'autres traces découvertes dans le cadre d'autres affaires pénales.
-Les motifs de l'éventuel refus du prélèvement ou l'accord de l'intéressé à cette mesure sont actés dans le procès-verbal du juge d'instruction.
-§ 3. Le juge d'instruction requiert un officier de police judiciaire, officier auxiliaire du procureur du Roi ou un médecin pour le frottis buccal ou le prélèvement de bulbes pileux.
-Pour effectuer un prélèvement de sang, il ne peut requérir qu'un médecin.
-La personne chargée du prélèvement d'échantillon en prélève une quantité suffisante pour permettre une contre-expertise.
-L'officier de police judiciaire, officier auxiliaire du procureur du Roi dresse un procès-verbal de l'opération de prélèvement.
-Si la mesure doit être exécutée sous la contrainte physique, celle-ci est exercée par des fonctionnaires de police sous l'ordre de l'officier de police judiciaire. Dans ce cas, le prélèvement de sang est interdit.
-Le juge d'instruction désigne un expert attaché à un laboratoire agréé par le Roi pour établir le profil ADN de l'échantillon prélevé et effectuer une analyse ADN de comparaison.
-L'expert chargé de l'analyse ADN de comparaison transmet son rapport dans les nonante jours de la réception de la requête du juge d'instruction.
-Celui-ci peut toutefois accorder un délai d'analyse supplémentaire sur demande motivée de l'expert.
-§ 4. Le résultat de l'analyse ADN est, conformément aux modalités fixées par le Roi, porté à la connaissance de la personne concernée. Cette dernière peut, dans un délai de quinze jours à compter de la notification, requérir du juge d'instruction qu'il fasse procéder à une contre-expertise par un expert désigné par l'intéressé attaché à un laboratoire agréé par le Roi. L'expert présente un rapport motivé au juge d'instruction qui en informe l'intéressé conformément aux modalités fixées par le Roi.
-La contre-expertise s'effectue sur la base d'un nouvel échantillon de cellules humaines prélevé sur l'intéressé et sur la base de la partie de la trace de cellules humaines qui n'a pas été utilisée lors de la première expertise. Si le rapport relatif à la première expertise révèle que la quantité de traces de cellules humaines découverte est insuffisante pour dresser un nouveau profil ADN, la contre-expertise s'effectue sur la base d'un nouvel échantillon de cellules humaines prélevé sur l'intéressé et sur la base du profil ADN de la trace découverte établi par le premier expert.
-Les frais de la contre-expertise, qui sont limités au montant fixé par un arrêté royal délibéré en Conseil des ministres, sont à charge de la personne qui a demandé la contre-expertise. Si la contre-expertise ne confirme pas le résultat de la première analyse, le montant avancé par l'intéressé lui est remboursé par l'Etat.
-§ 5. L'expert détruit l'échantillon de cellules prélevé dès qu'il est informé par le ministère public soit de l'absence d'une contre-expertise, soit du fait que le résultat de la contre-expertise a été porté à la connaissance de l'intéressé.
-Dans le mois suivant cette communication par le ministère public, l'expert informe ce dernier que l'échantillon de cellules prélevé a été détruit.
+¹ Art. 90undecies. § 1er. Sans préjudice de l'application de l'article 56, § 1er, alinéa 3, du présent Code, le juge d'instruction peut ordonner le prélèvement sous la contrainte d'un échantillon de référence sur une personne contre laquelle il existe des indices de culpabilité dans la commission des faits dont il est saisi, si les faits sont punissables d'une peine maximale de cinq ans d'emprisonnement ou d'une peine plus lourde.
+Dans son ordonnance motivée, qu'il communique au procureur du Roi, le juge d'instruction indique:
+1° les circonstances de l'affaire dans le cadre de laquelle le prélèvement est ordonné;
+2° l'existence d'indices de sa culpabilité dans la commission des faits dont il est saisi;
+3° la nécessité de recourir à la contrainte;
+4° le cas échéant, la comparaison du profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+5° la comparaison unique du profil ADN avec les profils ADN enregistrés dans les banques nationales de données ADN;
+6° en cas de lien positif avec un des profils ADN visés au 4° ou au 5°, l'enregistrement de son profil ADN dans la banque de données ADN " Criminalistique ";
+7° en cas d'enregistrement du profil ADN, la comparaison systématique de son profil ADN avec les profils ADN enregistrés dans les banques nationales et étrangères de données ADN;
+8° en cas de lien positif avec un des profils visés au 7°, de l'enregistrement de ce lien;
+Avant d'ordonner le prélèvement sous la contrainte, le juge d'instruction entend la personne qui doit en faire l'objet, et il l'informe des 1° à 8° énumérés à l'alinéa 2.
+Les motifs de l'éventuel refus de prélèvement ou l'accord de l'intéressé à cette mesure sont actés par le juge d'instruction dans le procès-verbal d'audition.
+§ 2. Le juge d'instruction requiert un officier de police judiciaire, auxiliaire du procureur du Roi, ou un médecin pour effectuer le frottis buccal ou le prélèvement de bulbes pileux.
+Pour le prélèvement de sang, il ne peut requérir qu'un médecin.
+L'officier de police judiciaire, auxiliaire du procureur du Roi, dresse un procès-verbal de l'opération de prélèvement.
+Si la mesure doit être exécutée sous la contrainte physique, celle-ci est exercée par des fonctionnaires de police sous l'ordre d'un officier de police judiciaire, auxiliaire du procureur du Roi. Dans ce cas, le prélèvement de sang est interdit.
+§ 3. Si la personne visée au § 1er n'a pas atteint l'âge de dix-huit ans, elle doit, pour l'application des §§ 1er et 2 se faire accompagner par au moins un de ses parents, par un avocat ou par une autre personne majeure de son choix.
+§ 4. Le juge d'instruction désigne un expert attaché à un laboratoire, pour:
+1° établir le profil ADN de l'échantillon de référence;
+2° effectuer, le cas échéant, une comparaison de ce profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+§ 5. L'expert transmet au juge d'instruction un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
+Le juge d'instruction peut toutefois accorder un délai d'analyse supplémentaire sur demande motivée de l'expert.
+§ 6. Sauf décision contraire motivée du juge d'instruction, l'expert qui a été chargé d'établir le profil ADN de l'échantillon de référence en application du § 4, 1°, communique d'office, dans les quinze jours suivant la transmission de son rapport, le profil ADN de l'échantillon de référence au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 2 à 4, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa.
+§ 7. Sans préjudice du § 6, et sauf décision contraire motivée du juge d'instruction, l'expert qui a été chargé d'effectuer la comparaison visée au § 4, 2°, et qui a établi un lien positif, communique d'office, dans les quinze jours après la transmission de son rapport, le profil ADN de l'échantillon de référence au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3 et 4, de la loi précitée.
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa de la même loi.
+§ 8. La notification des résultats à la personne concernée, la contre-expertise, ainsi que la destruction de l'échantillon de référence et des échantillons qui en dérivent contenant de l'ADN, sont effectués conformément à l'article 44quinquies, §§ 6 et 9.

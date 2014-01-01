@@ -1,0 +1,4 @@
+Le tribunal peut, dans l'intérêt de la manifestation de la vérité, sur réquisition du procureur du Roi, sur requête d'une des parties ou d'office, inviter le procureur du Roi à requérir un juge d'instruction aux fins:
+1° d'établir le profil ADN des traces découvertes et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 44quater;
+2° de procéder au prélèvement d'un échantillon de référence sur le prévenu, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 90undecies;
+3° de procéder au prélèvement d'un échantillon de référence sur une autre personne, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 90duodecies.
