@@ -332,23 +332,32 @@ Le Roi fixe par arrêté délibéré en Conseil des Ministres les conditions et 
 
 <a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0022"> 43</a>. Elle est égale à 100 % du montant du revenu d'intégration pour une période maximale de cinq ans lorsqu'il est octroyé à un bénéficiaire inscrit dans le registre des étrangers et ce jusqu'au jour de son inscription dans le registre de population.
 
-<a name="LNK0022" href="#LNKR0022">Section 5.</a> - Modalités.
+<a name="LNK0022" href="#LNKR0022">Section 4/1.</a> [<sup>1</sup> - Subventions particulières.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122609" target="_blank">2013-12-26/09</a>, art. 16, 015; En vigueur : 10-01-2014&gt;
 
-<a name="Art.44" href="#Art.43">Art.</a> <a href="#LNK0023"> 44</a>. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités relatives au paiement des subventions ainsi qu'au paiement d'avances.
+<a name="Art.43/1" href="#Art.43">Art.</a> <a href="#LNK0023"> 43/1</a>. [<sup>1</sup> Pour l'année 2014, est octroyé au centre, une subvention particulière de 49,12 EUR par dossier qui a été pris en compte en 2012 pour les remboursements par l'Etat.
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, le montant de cette subvention pour les années ultérieures ainsi que l'année de référence prise en compte.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122609" target="_blank">2013-12-26/09</a>, art. 16, 015; En vigueur : 10-01-2014&gt;
+
+<a name="LNK0023" href="#LNKR0023">Section 5.</a> - Modalités.
+
+<a name="Art.44" href="#Art.43/1">Art.</a> <a href="#LNK0024"> 44</a>. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités relatives au paiement des subventions ainsi qu'au paiement d'avances.
 Par dérogation aux dispositions des articles 28, alinéa 2, et 57 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, les montants des subventions versés en trop aux centres et relatifs à des années antérieures à l'année en cours sont considérés comme une avance sur la subvention de l'année en cours.
 
-<a name="LNK0023" href="#LNKR0023">Section 6.</a> - Sanctions à l'égard du centre.
+<a name="LNK0024" href="#LNKR0024">Section 6.</a> - Sanctions à l'égard du centre.
 
 <a name="Art.45" href="#Art.44">Art.</a> <a href="#Art.46"> 45</a>. Par décision motivée, le ministre peut refuser de payer la subvention ou décider de la diminuer :
 - si le rapport établi à la suite de l'enquête sociale, visée à l'article 19, ne mentionne pas que les différentes conditions d'octroi du revenu d'intégration ou de réalisation de l'emploi sont remplies;
 - si le centre n'a pas respecté les dispositions de la présente loi relatives à la récupération du revenu d'intégration.
 
-<a name="Art.46" href="#Art.45">Art.</a> <a href="#LNK0024"> 46</a>. Si le centre s'est indûment déclaré incompétent pour intervenir et est condamné par décision judiciaire coulée en force de chose jugée à l'octroi du revenu d'intégration, le ministre peut, par décision motivée, refuser de payer la subvention ou décider de la réduire quand cela se produit à plusieurs reprises. Cette sanction prend cours à la date de la demande d'aide et se termine au plus tard trois ans après la date de la décision judiciaire.
+<a name="Art.46" href="#Art.45">Art.</a> <a href="#LNK0025"> 46</a>. Si le centre s'est indûment déclaré incompétent pour intervenir et est condamné par décision judiciaire coulée en force de chose jugée à l'octroi du revenu d'intégration, le ministre peut, par décision motivée, refuser de payer la subvention ou décider de la réduire quand cela se produit à plusieurs reprises. Cette sanction prend cours à la date de la demande d'aide et se termine au plus tard trois ans après la date de la décision judiciaire.
 Un recours contre la décision du ministre est ouvert dans les trente jours de sa notification auprès du Conseil d'Etat.
 
-<a name="LNK0024" href="#LNKR0024">CHAPITRE VII.</a> - Recours.
+<a name="LNK0025" href="#LNKR0025">CHAPITRE VII.</a> - Recours.
 
-<a name="Art.47" href="#Art.46">Art.</a> <a href="#LNK0025"> 47</a>. § 1. L'intéressé ou le ministre, ou son délégué, peuvent introduire un recours contre la décision du centre en matière de droit à l'intégration sociale auprès du tribunal du travail du domicile de l'intéressé. L'intéressé peut aussi introduire un recours contre l'absence de décision du centre en cette matière.
+<a name="Art.47" href="#Art.46">Art.</a> <a href="#LNK0026"> 47</a>. § 1. L'intéressé ou le ministre, ou son délégué, peuvent introduire un recours contre la décision du centre en matière de droit à l'intégration sociale auprès du tribunal du travail du domicile de l'intéressé. L'intéressé peut aussi introduire un recours contre l'absence de décision du centre en cette matière.
 Ce recours doit, à peine de déchéance, être introduit dans les trois mois par une requête déposée ou envoyée par lettre recommandée au greffe du tribunal de travail.
 Le délai de trois mois commence à courir, selon le cas, à partir :
 - de la notification de la décision, visée à l'article 21, § 4;
@@ -358,7 +367,7 @@ Le délai de trois mois commence à courir, selon le cas, à partir :
 § 4. Lorsqu'un centre impliqué dans l'affaire conteste sa compétence territoriale, le tribunal du travail le cas échéant, en dérogation à l'article 811 du Code Judiciaire, convoque d'office le centre présumé compétent par pli judiciaire afin que celui-ci comparaisse à la prochaine audience utile.
 Si l'incompétence du centre est soulevée lors de l'audience introductive, le greffier peut noter sur la feuille d'audience la décision de convoquer d'office.
 
-<a name="LNK0025" href="#LNKR0025">CHAPITRE VIII.</a> - Dispositions finales et abrogatoires.
+<a name="LNK0026" href="#LNKR0026">CHAPITRE VIII.</a> - Dispositions finales et abrogatoires.
 
 <a name="Art.48" href="#Art.47">Art.</a> <a href="#Art.49"> 48</a>. § 1. L'article 580, 8°, c) du Code judiciaire est complété par l'alinéa suivant :
 " la loi du... instaurant le droit à l'intégration sociale, en ce qui concerne les contestations relatives à l'octroi, à la révision, au refus et au remboursement par le bénéficiaire de l'intégration sociale et à l'application des sanctions administratives prévues par la législation en la matière. "
@@ -378,9 +387,9 @@ Ce centre public d'aide sociale demeure compétent pour toute la durée ininterr
 
 <a name="Art.53" href="#Art.52">Art.</a> <a href="#Art.54"> 53</a>. Le Roi peut, par arrêté délibéré en Conseil des Ministres, mettre la terminologie des dispositions légales en vigueur, modifiées tacitement par la présente loi, en concordance avec celle de la présente loi.
 
-<a name="Art.54" href="#Art.53">Art.</a> <a href="#LNK0026"> 54</a>. La loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence est abrogée.
+<a name="Art.54" href="#Art.53">Art.</a> <a href="#LNK0027"> 54</a>. La loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence est abrogée.
 
-<a name="LNK0026" href="#LNKR0026">CHAPITRE IX.</a> - Dispositions transitoires.
+<a name="LNK0027" href="#LNKR0027">CHAPITRE IX.</a> - Dispositions transitoires.
 
 <a name="Art.55" href="#Art.54">Art.</a> <a href="#Art.56"> 55</a>. En dérogation à l'article 52 de la présente loi, le centre qui, au moment de l'entrée en vigueur de la présente loi, octroyait un minimum de moyens d'existence à une personne visée à l'article 11, § 2, a, reste compétent jusqu'à ce que l'intéressé ait terminé ses études.
 
@@ -395,14 +404,3 @@ Ce centre public d'aide sociale demeure compétent pour toute la durée ininterr
 <a name="Art.59" href="#Art.58">Art.</a> <a href="#Art.60"> 59</a>. Pour l'application de l'article 32, §§ 2, 3, 4 et 5 sont également pris en compte jusqu'au 31 décembre 2005 les bénéficiaires du minimum de moyens d'existence conformément à la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence.
 
 <a name="Art.60" href="#Art.59">Art.</a> 60. La présente loi entre en vigueur à une date que le Roi fixe, et au plus tard le 1er octobre 2002, à l'exception de l'article 40 qui produit ses effets à partir du 1er janvier 2002.
-Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
-Donné à Bruxelles, le 26 mai 2002.
-ALBERT
-Par le Roi :
-La Ministre de l'Emploi,
-Mme L. ONKELINX
-Le Ministre de l'Intégration sociale,
-L. VANDE LANOTTE
-Scellé du sceau de l'Etat :
-Le Ministre de la Justice,
-M. VERWILGHEN
