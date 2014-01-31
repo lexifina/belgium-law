@@ -1,0 +1,1 @@
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut attribuer, pour la région bilingue de Bruxelles-Capitale, à la Région de Bruxelles-Capitale, des compétences non dévolues aux communautés dans les matières visées à l'article 127, § 1er, alinéa premier, 1°, et, pour ce qui concerne ces matières, le 3°.
