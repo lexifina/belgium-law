@@ -1,0 +1,1 @@
+Een wet aangenomen met de in artikel 4, laatste lid, bepaalde meerderheid kan, voor het tweetalige gebied Brussel-Hoofdstad, aan het Brusselse Hoofdstedelijke Gewest bevoegdheden toewijzen die niet zijn toegewezen aan de gemeenschappen voor de aangelegenheden bedoeld in artikel 127, § 1, eerste lid, 1°, en, voor wat deze aangelegenheden betreft, 3°.
