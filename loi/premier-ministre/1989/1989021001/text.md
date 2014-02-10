@@ -36,9 +36,11 @@ Si le recours est introduit par le Conseil des Ministres, par l'Exécutif d'une 
 Si le recours est introduit ou l'intervention est faite par une personne morale, cette partie produit, à la première demande, la preuve, (de la décision d'intenter ou de poursuivre le recours ou d'intervenir et, lorsque ses statuts doivent faire l'objet d'une publication aux annexes du Moniteur belge, une copie de cette publication.) &lt;L 2003-03-09/47, art. 4, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
 <a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0004"> 8</a>.Si le recours est fondé, la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> annule, en tout ou en partie, la loi, le décret ou la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+[<sup>2</sup> Lorsque la Cour annule, en tout ou en partie, un décret ou une règle visée à l'article 134 de la Constitution, adopté conformément à l'article 92bis/1 de la loi spéciale du 8 août 1980 de réformes institutionnelles, elle annule également les dispositions correspondantes figurant dans le ou les décrets, ou la ou les règles visées à l'article 134 de la Constitution, adoptés conjointement.]<sup>2</sup>
 Si la Cour l'estime nécessaire, elle indique, par voie de disposition générale, ceux des effets des dispositions annulées qui doivent être considérés comme définitifs ou maintenus provisoirement pour le délai qu'elle détermine.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 9, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010652" target="_blank">2014-01-06/52</a>, art. 4, 010; En vigueur : 10-02-2014&gt;
 
 <a name="LNK0004" href="#LNKR0004">Section II.</a> - Des effets des arrêts d'annulation.
 
