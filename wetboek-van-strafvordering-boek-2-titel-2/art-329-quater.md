@@ -1,0 +1,2 @@
+De voorzitter van het hof van assisen overhandigt aan de gezworenen de vragen waarop zij behoren afzonderlijk en de ene na de andere te antwoorden, vooreerst op het hoofdfeit, daarna op elke verzwarende omstandigheid.
+De gezworenen antwoorden elk afzonderlijk en de ene na de andere op elke vraag die aldus wordt gesteld en, desnoods op elke vraag die in de bij artikel 325 bepaalde gevallen wordt gesteld.
