@@ -3,7 +3,7 @@ En vue de permettre l'écoute, la prise de connaissance ou l'enregistrement dire
 La mesure de surveillance ne peut être ordonnée qu'à l'égard soit de personnes soupçonnées, sur la base d'indices précis, d'avoir commis l'infraction, soit à l'égard des moyens de communication ou de télécommunication régulièrement utilisés par un suspect, soit à l'égard des lieux présumés fréquentés par celui-ci. Elle peut l'être également à l'égard de personnes présumées, sur la base de faits précis, être en communication régulière avec un suspect.
 § 2. Les infractions pouvant justifier une mesure de surveillance sont celles qui sont visées:
 1° aux articles 101 à 110 du Code pénal;
-1°bis. Les articles 136bis, 136ter, 136quater, 136sexies et 136septies du même Code;
+1°bis. Les articles 136bis, 136ter, 136quater, 136sexies et 136septies du même Code et l'article 41 de la loi du 29 mars 2004 concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux;
 1°ter aux articles 137, 140 et 141 du même Code;
 1°quater à l'article 210bis du même Code;
 1°quinquies aux articles 246, 247, 248, 249, 250 et 251 du même Code;
