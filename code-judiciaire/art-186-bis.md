@@ -1,3 +1,1 @@
-Pour l'application du présent titre, à l'exception du chapitre Vquinquies, le président du tribunal de première instance agit en qualité de chef de corps des juges de paix, des juges au tribunal de police, des juges de paix de complément et des juges de complément au tribunal de police de son arrondissement judiciaire.
-Pour l'application du présent titre pour le calcul des délais, les dispositions des articles 50, alinéa 1er, 52, alinéa 1er, 53 et 54 sont d'application.
-(Les délais des procédures en vue d'une nomination visée à l'article 58bis, 1°, d'une désignation visée à l'article 58bis, 2°, ainsi que d'une désignation comme magistrat fédéral (, comme magistrat de liaison en matière de jeunesse) ou comme magistrat d'assistance, sont suspendus du 15 juillet au 15 août.)
+[La source ne donne pas le texte en vigueur à cette date.]

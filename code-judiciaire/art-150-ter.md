@@ -1,0 +1,4 @@
+Un comité de coordination, composé respectivement des procureurs du Roi et des auditeurs du travail de l'arrondissement judiciaire de Bruxelles, est créé afin d'assurer la coordination entre le parquet et l'auditorat du travail de Bruxelles et le parquet et l'auditorat du travail de Hal-Vilvorde.
+Selon des modalités fixées par le Roi par arrêté délibéré en Conseil des ministres, ce comité a pour mission d'assurer la concertation entre les deux parquets et auditorats du travail en matière d'information, d'instruction judiciaire, d'exercice de l'action publique et d'application des peines dans l'arrondissement judiciaire de Bruxelles, en particulier en ce qui concerne le rôle des magistrats visés à l'article 150, § 3.
+Le comité se réunit au moins une fois par mois, et peut également être convoqué à la demande du procureur général.
+Le comité peut se faire assister, dans l'exécution de ses missions, par des membres du ministère public de Hal-Vilvorde et de Bruxelles.
