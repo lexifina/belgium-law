@@ -1,0 +1,3 @@
+Le personnel judiciaire qui est chargé d'exercer ses fonctions dans une autre division ou un autre tribunal que celle ou celui dans lequel il a été nommé ou désigné à titre principal, peut introduire un recours en annulation contre cette délégation, désignation ou mission auprès du comité de direction de la cour d'appel, de la cour du travail en ce qui concerne les membres du personnel des tribunaux du travail, ou du parquet général en ce qui concerne les membres du personnel du ministère public.
+Le recours n'est pas suspensif.
+Le comité de direction prend, dans un délai d'un mois, sa décision à la majorité après avoir entendu la personne concernée. En cas de parité des voix, la voix du chef de corps est prépondérante.

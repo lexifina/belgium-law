@@ -1,6 +1,1 @@
-Un service d'appui commun est créé au service du collège des procureurs généraux visé à l'article 143bis, du conseil des procureurs du Roi visé à l'article 150bis et du conseil des auditeurs du travail visé à l'article 152bis.
-Ce service d'appui est placé sous l'autorité du procureur général qui assure la présidence du collège des procureurs généraux.
-Il fournit un appui dans différents domaines parmi lesquels l'aide juridique et administrative, la gestion informatique, les bâtiments et l'équipement matériel.
-Il communique l'ordre du jour et les rapports des réunions du collège et des conseils visés à l'alinéa 1er au ministre de la Justice, aux membres, au procureur fédéral ainsi que l'ordre du jour et les rapports des réunions du collège des procureurs généraux au président du comité de direction du Service public fédéral Justice et au conseiller général à la politique criminelle.
-Le même statut que celui des membres du personnel visés au chapitre V, titre III, livre premier, deuxième partie, s'applique aux membres du personnel du service d'appui commun.
-Sur avis du procureur général qui assure la présidence du collège des procureurs généraux, le Roi fixe les modalités concernant le fonctionnement et l'organisation du service d'appui et le nombre d'emplois.
+(Abrogé)

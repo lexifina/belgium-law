@@ -1,1 +1,2 @@
-Le Roi détermine, après avis du Conseil supérieur de la Justice, la manière dont est enregistrée la charge de travail du juge et du ministère public ainsi que la manière dont ces données enregistrées sont évaluées.
+Le Roi détermine, après avis du Collège des cours et tribunaux ou du Collège du ministère public, la manière dont est enregistrée la charge de travail du juge et du ministère public ainsi que la manière dont ces données enregistrées sont évaluées. La mesure de la charge de travail se calcule sur la base des normes de temps nationales pour chaque catégorie de juridiction et parquet.
+La mesure de la charge de travail est organisée tous les cinq ans pour chaque type de juridiction ou parquet.
