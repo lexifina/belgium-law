@@ -1,0 +1,1 @@
+Les obligations en relation avec l'enregistrement de présences, qui, en application de la présente section, reposent sur l'employeur, sont, conformément à l'article 19 de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, à charge de l'utilisateur.
