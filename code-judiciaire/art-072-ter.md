@@ -1,0 +1,1 @@
+Pour les tribunaux de police et les justices de paix dont le siège est établi dans l'arrondissement judiciaire d'Eupen, les missions du président des juges de paix et des juges au tribunal de police visé au présent chapitre sont remplies par le président du tribunal de première instance de l'arrondissement.

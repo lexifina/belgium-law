@@ -1,0 +1,3 @@
+En fonction des nécessités du service, un juge au tribunal de première instance ou un juge au tribunal de commerce, nommé dans le ressort, peut, avec son consentement, être délégué par le premier président de la cour d'appel pour exercer ses fonctions à la cour d'appel.
+En fonction des nécessités du service, un juge au tribunal du travail nommé dans le ressort peut, avec son consentement, être délégué par le premier président de la cour du travail pour exercer ses fonctions à la cour du travail.
+L'ordonnance indique les motifs pour lesquels il s'impose de faire appel à un juge et précise les modalités de la délégation.

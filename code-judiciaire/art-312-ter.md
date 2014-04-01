@@ -1,6 +1,8 @@
 Dans les tribunaux de police, il est tenu une liste de rang. Celle-ci s'établit comme suit:
+- le président des juges de paix et des juges au tribunal de police;
+- le vice-président des juges de paix et des juges au tribunal de police;
 - les juges, dans l'ordre de leur nomination;
-- les juges de complément dans le même ordre;
+- ...;
 - les juges suppléants, dans le même ordre;
 - le personnel judiciaire de niveau A, dans l'ordre de leur nomination dans sa classe;
 Membres du greffe:
