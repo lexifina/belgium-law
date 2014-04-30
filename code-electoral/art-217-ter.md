@@ -1,0 +1,2 @@
+§ 1er. Le lendemain du vote, le greffier du Sénat calcule par groupe linguistique, sur la base des tableaux récapitulatifs visés à l'article 217bis, le chiffre électoral total obtenu par chaque formation politique et le nombre de sièges qui revient à chaque formation politique.
+§ 2. Seules les listes qui ont déposé une déclaration de correspondance sont prises en considération pour la répartition des sièges des sénateurs cooptés.
