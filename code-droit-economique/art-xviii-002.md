@@ -1,0 +1,10 @@
+§ 1er. Lorsque des circonstances ou des événements imprévus mettent ou sont susceptibles de mettre en péril tout ou partie du bon fonctionnement de l'économie, le ministre peut, pour faire face à une nécessité collective urgente et en l'absence de tout autre moyen raisonnable à sa disposition dans un délai utile, procéder ou faire procéder à la réquisition contre paiement des produits, pour les mettre à la disposition soit de l'Etat, soit des administrations ou des services publics, soit de personnes ou établissement privés.
+Le ministre peut, moyennant rétribution, imposer toutes obligations utiles pour l'exécution de ces réquisitions.
+§ 2. La réquisition de biens prévue au paragraphe 1er peut porter soit sur les objets eux-mêmes, soit sur l'établissement ou le matériel destiné à les produire, les transformer, les transporter, les mettre en vente ou les détenir.
+§ 3. A peine de nullité, l'ordre de réquisition est formulé par écrit et est signé par le ministre ou son délégué.
+Il mentionne la nature, la durée de la réquisition, les conditions dans lesquelles la réquisition doit être exécutée et, le cas échéant, la quantité de produits concernée.
+L'ordre de réquisition est notifié avec accusé de réception par les agents prévus à l'article XV.2 à la personne physique ou morale ou possesseur, à quel titre que ce soit, des biens requis.
+En cas de nécessité, l'ordre de réquisition peut être formulé verbalement et fait l'objet d'une confirmation ultérieure par le ministre, conformément à l'alinéa 1er.
+§ 4. L'arrêté ministériel par lequel le ministre procède ou fait procéder aux réquisitions visées aux paragraphes précédents, est confirmé le plus vite possible par un arrêté royal, délibéré en Conseil des ministres.
+Si cet arrêté n'est pas confirmé par le Roi, il est présumé n'avoir jamais eu d'effet.
+§ 5. Les réquisitions dont il est question au présent titre ne sont pas soumises à la loi du 5 mars 1935 concernant les citoyens appelés par engagement volontaire ou par réquisition à assurer le fonctionnement des services publics en temps de guerre ni aux règlements pris sur base de cette loi.

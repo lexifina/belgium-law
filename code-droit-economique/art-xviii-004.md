@@ -1,0 +1,1 @@
+Lors de l'application des dispositions du présent livre, les producteurs et distributeurs ne peuvent refuser de satisfaire, dans la mesure de leurs possibilités et dans des conditions conformes aux usages commerciaux, aux demandes de produits, de prestations de services faites par les distributeurs ou les consommateurs lorsqu'elles ne présentent aucun caractère anormal.
