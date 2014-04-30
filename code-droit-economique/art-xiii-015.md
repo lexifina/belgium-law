@@ -1,0 +1,1 @@
+Dans l'exercice de ses compétences, une commission consultative spéciale peut entendre des tiers et désigner des experts, de la manière et selon les règles déterminées par son règlement d'ordre intérieur.

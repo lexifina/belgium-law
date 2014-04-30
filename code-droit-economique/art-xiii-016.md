@@ -1,0 +1,2 @@
+Le secrétariat du Conseil central de l'économie est habilité, à la demande d'une commission consultative spéciale, à réunir auprès des entreprises relevant de sa compétence, des renseignements d'ordre individuel sur des points particuliers examinés à l'occasion de la préparation d'un avis ou d'une proposition.
+Ces renseignements d'ordre individuel ne peuvent toutefois être portés à la connaissance de la commission consultative spéciale que sous forme de résultats globaux, à l'exclusion de tout renseignement particulier émanant d'une entreprise déterminée.

@@ -1,0 +1,1 @@
+Une commission consultative spéciale ne peut délibérer valablement que lorsque la moitié au moins de ses membres est présente. Après une deuxième convocation, elle peut valablement délibérer, quel que soit le nombre des membres présents.

@@ -1,0 +1,2 @@
+La présidence de chaque commission consultative spéciale est assurée par une personnalité étrangère à l'administration et aux organisations qui sont représentées en son sein.
+Pour les commissions consultatives spéciales visées au Chapitre 4, instituées par le Conseil central de l'économie, le président est nommé par le Conseil central de l'économie, après concertation avec la commission concernée.
