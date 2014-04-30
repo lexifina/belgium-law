@@ -1,0 +1,2 @@
+Le Roi peut intégrer, par arrêté royal délibéré en Conseil des Ministres, les commissions consultatives, ayant pour compétence d'émettre des avis à portée générale en matière économique, au sein du Conseil central de l'économie, sous forme d'une commission consultative spéciale telle que visée aux articles XIII.6 à XIII.16, après avis du Conseil central de l'économie et de la commission consultative concernée.
+A cette fin, le Roi peut abroger, modifier, compléter ou remplacer les dispositions légales existantes.

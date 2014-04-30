@@ -1,0 +1,8 @@
+Le Conseil central de l'économie est composé d'un président et de membres effectifs dont le nombre, fixé par arrêté royal, ne peut excéder cinquante-six.
+Les membres effectifs sont nommés en nombre égal parmi les candidats présentés:
+1° d'une part, par les organisations les plus représentatives de l'industrie, des services, de l'agriculture, du commerce et de l'artisanat et du secteur non marchand, qui établissent à cet effet des listes doubles de candidats dont un certain nombre représentent les petites entreprises ainsi que les entreprises familiales;
+2° d'autre part, par les organisations les plus représentatives des travailleurs, telles que visées à l'article 2, § 4, alinéa 2 de la loi du 29 mai 1952 organique du Conseil national du Travail, qui établissent à cet effet des listes doubles de candidats dont un certain nombre représentant les coopératives de consommation.
+Les membres désignés en vertu de l'alinéa 2 proposent, sur des listes doubles, six personnalités réputées pour leur valeur scientifique ou technique.
+Le Conseil central de l'économie compte autant de membres suppléants que d'effectifs. Les uns et les autres sont désignés suivant les mêmes modalités et nommés par arrêté royal.
+Des représentants des administrations publiques ou services d'intérêt public peuvent être invités à donner leur avis au Conseil central de l'économie chaque fois que leur consultation s'avère opportune.
+Le Conseil central de l'économie est présidé par une personnalité étrangère à l'administration et aux organisations qui sont représentées en son sein et désignée par arrêté royal après consultation du Conseil central de l'économie.

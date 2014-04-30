@@ -1,0 +1,1 @@
+Le Conseil central de l'économie fixe le nombre, la durée du mandat et précise les modalités de présentation des membres effectifs et suppléants et du président et vice-président de chaque commission consultative spéciale, ainsi que ses modalités de fonctionnement.
