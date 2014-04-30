@@ -1,0 +1,1 @@
+La répartition des sièges pour les sénateurs désignés par le Parlement flamand, le Parlement de la Communauté française, le Parlement wallon et le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale est arrêtée par le greffier du Sénat.
