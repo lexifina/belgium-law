@@ -1,0 +1,1 @@
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les normes de qualité auxquelles doivent répondre les services rendus par les guichets d'entreprises, les heures d'ouverture minimales, ainsi que les règles particulières relatives à la gestion, à la comptabilité et aux comptes annuels des guichets d'entreprises.

@@ -1,0 +1,1 @@
+Le ministre peut d'office, par décision et selon les modalités fixées par le Roi, suspendre ou retirer l'agrément si les dispositions du présent titre, ses arrêtés d'exécution ou les conditions d'agrément ne sont pas respectées.

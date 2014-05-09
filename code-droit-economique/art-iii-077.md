@@ -1,0 +1,1 @@
+Les informations visées aux articles III.74 et III.76 sont mises à disposition ou communiquées de manière claire et non ambiguë, et en temps utile avant la conclusion du contrat, ou avant la livraison du produit ou de la prestation du service lorsqu'il n'y a pas de contrat écrit.

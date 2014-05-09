@@ -1,0 +1,2 @@
+Le Roi désigne, par arrêté délibéré en Conseil des Ministres, les personnes qui, en temps de guerre, dans des circonstances y assimilées en vertu de l'article 7 de la loi du 12 mai 1927 sur les réquisitions militaires ou pendant l'occupation du territoire national par l'ennemi, sont chargées de détruire les banques de données de la Banque-Carrefour des Entreprises.
+Le Roi fixe les conditions et modalités de cette destruction.

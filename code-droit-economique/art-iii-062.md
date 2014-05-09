@@ -1,0 +1,6 @@
+§ 1er. La demande d'agrément est adressée au ministre par lettre recommandée ou en contrepartie d'un reçu.
+§ 2. La demande doit être accompagnée d'un plan d'exploitation et de tous les documents requis par les conditions d'agrément.
+Dans le plan d'exploitation, il faut clairement indiquer de quelle manière l'activité de guichet d'entreprise sera financée, comment les compétences professionnelles requises seront organisées et quelle zone géographique le guichet d'entreprises entend couvrir. Ces conditions sont également requises pour chaque unité d'établissement du guichet.
+§ 3. Les institutions publiques peuvent agir comme mandataire au nom de leurs clients auprès d'un guichet d'entreprises.
+§ 4. Le ministre peut agréer un guichet d'entreprises organisé par une association sans but lucratif financée principalement ou exclusivement par des moyens publics et exerçant des activités d'information, d'accompagnement ou de conseil aux créateurs d'entreprise s'il s'avère que, dans une zone géographiquement identifiée par les autorités européennes ou régionales comme une zone devant bénéficier de discrimination positive, il n'y a pas de guichet d'entreprises opérationnel.
+Lors de l'application de l'alinéa précédent, les conditions d'agrément visées à l'article III.61, § 1er, 2° et § 2, ne sont pas d'application.

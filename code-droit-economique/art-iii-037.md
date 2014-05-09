@@ -1,0 +1,1 @@
+Dès qu'une donnée est communiquée à et enregistrée dans la Banque-Carrefour des Entreprises, les services habilités à consulter ces données ne peuvent plus, si ces données ne leurs sont pas communiquées directement, en imputer la faute à l'intéressé.

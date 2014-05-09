@@ -1,0 +1,1 @@
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, les modalités et la nature des inscriptions et des modifications, qui peuvent directement être communiquées sous forme électronique sécurisée par les entreprises visées à l'article III.16 à la Banque-Carrefour des Entreprises.

@@ -1,0 +1,1 @@
+Les procédures et formalités d'autorisation doivent être facilement accessibles et les charges qui peuvent en découler pour les demandeurs doivent être raisonnables et proportionnées aux coûts des procédures d'autorisation.

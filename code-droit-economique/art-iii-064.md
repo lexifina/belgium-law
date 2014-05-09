@@ -1,0 +1,1 @@
+L'agrément est accordé ou refusé par le ministre dans un délai de trois mois à dater de la notification du caractère complet du dossier de demande d'agrément. Cette décision est notifiée au demandeur par envoi recommandé.
