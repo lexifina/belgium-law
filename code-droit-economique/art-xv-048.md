@@ -1,0 +1,1 @@
+Le présent chapitre ne porte pas préjudice à la coopération en matière d'information résultant de la mise en oeuvre de la Directive 96/71/CE du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services.

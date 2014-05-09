@@ -1,0 +1,1 @@
+Lorsque le service de gestion constate que la donnée erronée ou l'absence de la donnée résulte d'une erreur ou d'une omission du service qui initie cette donnée, il communique à ce dernier la demande d'adaptation. Le service effectue, après vérification, l'adaptation éventuelle dans un délai de trente jours, à dater de la réception de la demande.

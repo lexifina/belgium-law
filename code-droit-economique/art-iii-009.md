@@ -1,0 +1,4 @@
+L'autorité compétente octroie l'autorisation après qu'un examen approprié a établi que les conditions pour son octroi sont remplies.
+Si aucun délai n'est prévu par la réglementation concernant le délai à l'issue duquel la décision sur la demande d'autorisation doit être rendue, celle-ci est rendue au plus tard trente jours ouvrables à compter de la date de l'accusé de réception ou, si le dossier est incomplet, à compter de la date à laquelle le demandeur a fourni les documents supplémentaires requis.
+Lorsque la complexité du dossier le justifie, le délai peut être prolongé une seule fois et pour une durée limitée. La prolongation ainsi que sa durée doivent être notifiées au demandeur avant l'expiration du délai initial.
+Sans préjudice des régimes légaux ou réglementaires particuliers justifiés par une raison impérieuse d'intérêt général, en l'absence de réponse dans le délai prévu par la loi ou le règlement, l'autorisation est considérée comme octroyée.

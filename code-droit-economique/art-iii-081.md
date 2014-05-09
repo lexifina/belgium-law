@@ -1,0 +1,2 @@
+Les clients ne sont pas soumis à des exigences discriminatoires fondées sur la nationalité ou le lieu de résidence.
+Les conditions générales d'accès à un service, qui sont mises à la disposition du public par l'entreprise, ne contiennent pas de conditions discriminatoires en raison de la nationalité ou du lieu de résidence du client, sans que cela ne porte atteinte à la possibilité de prévoir des différences dans les conditions d'accès lorsque ces conditions sont directement justifiées par des critères objectifs.

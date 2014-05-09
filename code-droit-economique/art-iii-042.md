@@ -1,0 +1,16 @@
+§ 1er. Par dérogation à la procédure prévue à l'article III.39, le service de gestion de la Banque-Carrefour des Entreprises peut procéder sans frais:
+1° à la radiation d'office des activités, qualités, autorisations et unités d'établissement des entreprises personnes physiques dont le fondateur est décédé, selon les données du Registre national des personnes physiques, depuis au moins six mois;
+2° à la radiation d'office des activités, qualités, autorisations et unités d'établissement des entreprises personnes morales dont la clôture de liquidation a été prononcée depuis au moins trois mois;
+3° à la radiation d'office des activités, qualités, autorisations et unités d'établissement des entreprises personnes morales lorsque, depuis au moins trois mois, la clôture de faillite a été prononcée conformément à la loi du 8 août 1997 sur les faillites.
+4° à la radiation d'office des sociétés, telles que visées à l'article 2 du Code des sociétés, qui, d'après les données de la Banque Nationale de Belgique, n'ont pas respecté l'obligation de dépôt de leurs comptes annuels conformément aux articles 98 et 100 du Code des sociétés et ce, pour au moins 3 exercices comptables consécutifs. Cette radiation n'est pas d'application pour les sociétés visées à l'article 97 du Code des sociétés. Le service de gestion procède au retrait de la radiation après le dépôt à la Banque nationale de Belgique des comptes non déposés;
+5° à la radiation d'office des sociétés, telles que visées à l'article 2 du Code des sociétés qui ne sont pas visées par le 4°, et qui répondent aux critères cumulatifs suivants:
+a) elles ne disposent, depuis au moins trois ans, ni de qualités, ni d'activités, ni d'unités d'établissement actives inscrites dans la Banque-Carrefour des Entreprises;
+b) elles sont inscrites dans la Banque-Carrefour des Entreprises comme ayant un statut actif;
+c) elles ne disposent pas de demandes d'autorisation ou de qualité, en cours, inscrites dans la Banque-Carrefour des Entreprises;
+d) elles n'ont effectué, depuis 7 ans, aucune modification relative aux données inscrites dans la Banque-Carrefour des Entreprises;
+e) elles n'ont effectué, depuis 7 ans, aucune publication, autre que celle des comptes annuels, dans les Annexes du Moniteur belge ou au sein du Moniteur belge;
+Pour l'application de l'alinéa 1er, 5°, les qualités, activités ou unités d'établissement commerciales actives dont les dates de début sont antérieures au 1er juillet 2003 ne constituent pas un critère utile.
+Le service de gestion de la Banque-Carrefour des Entreprises procède au retrait de la radiation lorsqu'un des critères visés à l'alinéa 1er, 5°, a) à e), n'est plus rempli.
+Le service de gestion de la Banque-Carrefour des Entreprises procède également au retrait de la radiation en cas d'erreur manifeste constatée par une administration ou un service.
+§ 2. Les radiations ainsi que les retraits visés au paragraphe 1er, alinéa 1er, 4° et 5°, et alinéas 3 et 4, sont publiés gratuitement aux Annexes du Moniteur belge à l'initiative du service de gestion de la Banque-Carrefour des Entreprises.
+§ 3. Afin de garantir et d'améliorer la qualité des données dans la Banque Carrefour des Entreprises, le Roi peut, par arrêté délibéré en Conseil des ministres, élargir ou modifier les cas prévus au paragraphe 1er.

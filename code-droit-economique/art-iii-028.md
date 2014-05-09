@@ -1,0 +1,1 @@
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, étendre les obligations visées aux articles III.25 et III.26 à d'autres catégories d'entreprises enregistrées dans la Banque-Carrefour des Entreprises.

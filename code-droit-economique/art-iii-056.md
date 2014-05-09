@@ -1,0 +1,1 @@
+Le refus d'inscription, de modification ou de radiation à la Banque-Carrefour des Entreprises est réputé définitif à moins que le demandeur n'introduise une nouvelle demande qui remplisse les conditions ou un recours auprès du Conseil d'Etablissement dans les 30 jours ouvrables à dater du refus d'inscription.

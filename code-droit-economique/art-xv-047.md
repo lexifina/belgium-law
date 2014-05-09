@@ -1,0 +1,8 @@
+§ 1er. L'autorité belge compétente qui envisage d'adopter des mesures pour assurer la sécurité des services prestés en Belgique en application de l'article XV.46, § 1er, adresse une demande à l'autorité compétente de l'Etat membre d'établissement en fournissant toutes les informations pertinentes sur le service en cause et les circonstances de l'espèce via le système électronique d'échange d'informations.
+§ 2. Après réception de la réponse de l'Etat membre d'établissement ou en l'absence de réponse dans un délai raisonnable, l'autorité belge compétente communique le cas échéant, son intention d'adopter des mesures à la Commission européenne et à l'Etat membre d'établissement via le système électronique d'échange d'informations, ainsi qu'au coordinateur fédéral.
+La communication précise:
+1° les raisons pour lesquelles l'autorité compétente estime que les mesures proposées ou adoptées par l'Etat membre d'établissement sont insuffisantes;
+2° les raisons pour lesquelles elle estime que les mesures envisagées respectent les conditions prévues à l'article XV.46, § 1er.
+§ 3. Les mesures ne peuvent être adoptées que quinze jours ouvrables après qu'une notification, conformément au paragraphe 2, ait été adressée à l'Etat membre d'établissement et à la Commission européenne.
+§ 4. En cas d'urgence, l'autorité belge compétente peut déroger aux paragraphes 1er, 2 et 3. Dans ce cas, les mesures adoptées sont notifiées à la Commission européenne et à l'Etat membre d'établissement, en indiquant les raisons pour lesquelles l'autorité estime qu'il y a urgence.
+§ 5. La procédure décrite ci-dessus s'applique sans préjudice des procédures judiciaires.

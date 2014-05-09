@@ -1,0 +1,2 @@
+Le Roi désigne, par arrêté délibéré en Conseil des Ministres, les autorités, administrations et services qui sont chargés, en ce qui concerne les catégories d'entreprises qu'Il détermine et selon la répartition fonctionnelle qu'Il fixe, de la collecte unique et de la tenue à jour des données visées à l'article III.18.
+Dans l'exercice de cette mission, les autorités, les administrations et les services sont soumis aux dispositions légales et réglementaires permettant la collecte originale des données visées à l'article III.18.

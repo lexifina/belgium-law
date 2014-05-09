@@ -1,0 +1,1 @@
+Une autorité belge compétente ne peut, concernant un prestataire non établi en Belgique, procéder d'initiative à des vérifications, inspections et enquêtes en Belgique que si ces dernières sont non-discriminatoires, ne sont pas motivées par le fait qu'il s'agit d'un prestataire ayant son établissement dans un autre Etat membre et sont proportionnées.

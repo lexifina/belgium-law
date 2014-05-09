@@ -1,0 +1,1 @@
+Les informations demandées en application des articles XV.36. et XV.37. ou les résultats des vérifications, inspections ou enquêtes, sont communiqués, dans les plus brefs délais et via le système électronique d'échange d'informations.

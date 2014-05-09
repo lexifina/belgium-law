@@ -1,0 +1,4 @@
+§ 1er. L'autorité belge compétente communique, dans la limite de ses compétences, à l'autorité compétente d'un autre Etat membre qui lui en fait la demande motivée, toute information pertinente dont elle dispose concernant un prestataire et/ou ses services.
+Elle communique les informations demandées concernant notamment l'établissement et la légalité des activités prestées.
+§ 2. L'autorité belge compétente effectue, dans la limite de ses compétences, les vérifications, inspections, enquêtes concernant un prestataire de services ou ses services, qui lui sont demandées par l'autorité compétente d'un autre Etat membre par le biais d'une demande motivée.
+Elle peut décider des mesures les plus appropriées à prendre dans chaque cas d'espèce pour répondre à la demande d'une autorité compétente d'un autre Etat membre.

@@ -1,0 +1,1 @@
+Les autorités, administrations et services qui sont habilités à consulter les données de la Banque-Carrefour des Entreprises, ne peuvent plus réclamer directement ces données aux entreprises visées à l'article III.16 ou aux mandataires de ces dernières.

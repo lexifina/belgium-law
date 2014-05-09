@@ -1,0 +1,2 @@
+§ 1er. L'autorité belge compétente qui désire qu'une autorité compétente d'un autre Etat membre lui communique des informations ou procède à des vérifications, inspections ou enquêtes concernant un prestataire ou ses services, lui adresse une demande motivée, via le système électronique d'échange d'informations.
+§ 2. Si l'autorité compétente de l'autre Etat membre ne satisfait pas à la demande et qu'aucune solution ne peut être trouvée, l'autorité belge compétente en informe le coordinateur fédéral.
