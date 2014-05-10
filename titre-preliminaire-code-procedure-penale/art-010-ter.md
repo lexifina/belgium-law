@@ -1,6 +1,6 @@
 Pourra être poursuivie en Belgique toute personne qui aura commis hors du territoire du Royaume:
 1° une des infractions prévues aux articles 379, 380, 381 383bis, §§ 1er et 3, 433sexies, 433septies et 433octies du Code pénal;
-2° une des infractions prévues aux articles 372 à 377 et 409, du même Code si le fait a été commis sur la personne d'un mineur;
+2° une des infractions prévues aux articles 372 à 377, 377quater et 409, du même Code si le fait a été commis sur la personne d'un mineur;
 3° une des infractions prévues aux articles 77ter, 77quater et 77quinquies, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et par les articles 10 à 13 de la loi du 9 mars 1993 tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial.
 4° une des infractions prévues aux articles 137, 140 et 141 du Code pénal commise contre un ressortissant ou une institution belge, ou contre une institution de l'Union européenne ou d'un organisme créé conformément au traité instituant la Communauté européenne ou au traité sur l'Union européenne et qui a son siège dans le Royaume.
 Si l'inculpé n'est pas trouvé en Belgique, les poursuites, en ce compris l'instruction, ne peuvent être engagées, lorsque l'infraction a été commise par un étranger contre une personne qui, au moment des faits, est un ressortissant belge ou contre une institution visée à l'alinéa 1er, qu'à la requête du procureur fédéral ou du procureur du Roi, qui apprécie les plaintes éventuelles.
