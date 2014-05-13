@@ -1,0 +1,1 @@
+Il est institué un service public autonome ayant la personnalité juridique, dénommé le "Service de Médiation pour le consommateur", qui consiste en un point de contact et un service pour le règlement extrajudiciaire des litiges de consommation.
