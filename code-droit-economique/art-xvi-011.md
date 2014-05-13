@@ -1,0 +1,3 @@
+Le Service de médiation pour le consommateur, en vue de l'accomplissement de ses missions visées à l'article XVI.6, est financé par:
+1° une partie des "contributions aux frais de médiation" légales ou réglementaires qui sont prélevées afin de financer les médiateurs visés à l'article XVI.8, § 1er, pour le financement de la mission visée à l'article XVI.6, 1°. Chacun des services de médiation concernés budgétise au pro rata la part du point de contact visée à l'article XVI.13, qu'il entend utiliser et verse cette part au Service de médiation pour le consommateur;
+2° une subvention à charge du budget général des dépenses.

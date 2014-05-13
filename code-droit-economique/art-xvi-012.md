@@ -1,0 +1,1 @@
+Le Service public fédéral Economie, P.M.E., Classes moyennes et Energie, met des moyens logistiques et matériels à la disposition du Service de médiation pour le consommateur. A cette fin, un contrat de prestation de services sera conclu entre le Service de médiation pour le consommateur, les secteurs concernés et le Service public fédéral Economie, ratifié par le Roi.
