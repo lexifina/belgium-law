@@ -1,2 +1,1 @@
-Sans préjudice de l'application de l'article 329bis, le ministre de la Justice peut déléguer à d'autres fonctions égales ou supérieures, dans leur parquet, le parquet fédéral, un autre parquet, un service d'appui, dans des services publics fédéraux, des commissions, organismes ou offices gouvernementaux, des membres et membres du personnel de niveau A ainsi que des secrétaires. L'article 327bis peut leur être applique conformément à une disposition légale ou réglementaire particulière.
-Sans préjudice de l'application de l'article 375, le personnel judiciaire de niveau A ainsi que les secrétaires ainsi délégués continuent à jouir de leur traitement et des augmentations et avantages y afférents.
+[La source ne donne pas le texte en vigueur à cette date.]
