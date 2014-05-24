@@ -1,1 +1,2 @@
 Ingeval de terbeschikkingstelling van de strafuitvoeringsrechtbank niet wettelijk verplicht is, worden de procedures betreffende de misdrijven die als grondslag voor de herhaling gelden, bij het dossier der vervolging gevoegd en de gronden van de beslissing worden erin omschreven.
+Indien de misdrijven die als grondslag voor de herhaling gelden vastgesteld zijn in een veroordeling uitgesproken in een andere lidstaat van de Europese Unie, wordt in alle gevallen een voor eensluidend verklaard afschrift van de beslissing bij het dossier der vervolging gevoegd.
