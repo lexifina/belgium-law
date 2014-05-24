@@ -19,9 +19,9 @@ La durée de la formation suivie dans les cinq ans qui ont précédé la demande
 a) a atteint l'âge de dix-huit ans;
 b) et séjourne légalement en Belgique depuis cinq ans;
 c) et apporte la preuve de la connaissance d'une des trois langues nationales;
-d) et est marié avec une personne de nationalité belge, si les époux ont vécu ensemble en Belgique pendant au moins trois ans, ou est le parent d'un enfant belge mineur ou mineur non émancipé;
+d) et est marié avec une personne de nationalité belge, si les époux ont vécu ensemble en Belgique pendant au moins trois ans, ou est l'auteur ou l'adoptant d'un enfant belge qui n'a pas atteint l'âge de dix-huit ans ou n'est pas émancipé avant cet âge;
 e) et prouve son intégration sociale:
-- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement fondé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement organisé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
 - ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente, et en ayant travaillé, au cours des cinq dernières années, pendant au moins 234 journées comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique ou en ayant payé en Belgique, dans le cadre d'une activité professionnelle indépendante à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins trois trimestres;
 - ou bien en ayant suivi un cours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame son cours d'intégration;
 4° l'étranger qui:
