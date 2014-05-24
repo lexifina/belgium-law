@@ -1,6 +1,6 @@
 En temps de paix, des magistrats du ministère public peuvent accompagner les troupes belges lors des opérations militaires à l'étranger lorsque les Ministres de la Justice et de la Défense décident en concertation, suite à un rapport motivé des autorités militaires, que des circonstances particulières le justifient.
 A cet effet, une liste de magistrats du ministère public est arrêtée par le Roi après avis du chef de corps et sur proposition du Collège des procureurs généraux. Ils sont choisis parmi les magistrats du ministère public nommés depuis un an au moins qui répondent à l'appel aux candidats.
-Les désignations des magistrats repris dans la liste sont valables pour une période de trois ans renouvelable.
+Les désignations des magistrats repris dans la liste sont valables pour une période de cinq ans renouvelable.
 Lorsque l'envoi d'un magistrat pour accompagner les troupes est justifié conformément à l'alinéa 1er, ce magistrat est choisi par le procureur fédéral soit parmi les magistrats fédéraux soit parmi les magistrats figurant sur la liste arrêtée par le Roi. Dans ce dernier cas, le magistrat est délégué de plein droit au parquet fédéral pour la durée de sa mission.
 Le magistrat exerce cette mission sous la direction et la surveillance immédiate du procureur fédéral.
 Le magistrat accompagnant les troupes doit être titulaire d'un brevet en techniques militaires délivré par le Ministère de la Défense depuis moins de cinq ans.
