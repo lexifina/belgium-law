@@ -23,9 +23,8 @@ Chaque (commission de recours) est composée:
 2° d'un bâtonnier ou ancien bâtonnier. Il est secrétaire de la commission;
 3° d'un professeur actif ou émérite enseignant le droit dans une université belge, qui ne peut être avocat.
 § 8. En cas de refus du candidat à l'admission à l'épreuve d'aptitude en langue allemande, le candidat peut introduire un recours en langue allemande.
-Le président peut ordonner la traduction de tout ou partie des pièces.
-Ces frais sont à charge du candidat.
+Le président peut ordonner la traduction de tout ou partie des pièces. Ces frais sont à charge du candidat.
 § 9. (Les membres magistrats et les membres professeurs sont désignés par le Ministre de la Justice. Les membres bâtonniers ou anciens bâtonniers sont désignés par le Ministre de la Justice sur proposition de (l'Ordre des barreaux francophones et germanophone ou de l'Orde van Vlaamse balies).)
 Dans le cas où le recours est introduit en langue allemande, le membre bâtonnier ou ancien bâtonnier doit provenir du barreau d'Eupen.
 Les membres ont chacun deux suppléants désignés de la même façon.
-§ 10. (...)
+§ 10. Les décisions prononcées par les commissions de recours visées au paragraphe 6 peuvent faire l'objet d'un pourvoi en cassation conformément aux dispositions de la quatrième partie, livre III, titre IVbis, du présent Code.
