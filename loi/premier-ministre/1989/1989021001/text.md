@@ -130,6 +130,42 @@ Il a effet à dater de sa publication.
 <a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0006"> 25</a>. La Cour rend son arrêt sur la demande principale dans les trois mois du prononcé de l'arrêt ordonnant la suspension. Ce délai ne peut être prorogé.
 Si l'arrêt sur la demande principale n'est pas rendu dans ce délai, la suspension cesse immédiatement ses effets.
 
+<a name="LNK0037" href="#LNKR0037">Section IV.</a> - [<sup>1</sup> Des recours contre des décisions de la Commission de contrôle en matière de contrôle des dépenses électorales engagées pour les élections de la Chambre des représentants]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 2, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025bis." href="#LNK0029">Art.</a> <a href="#Art.%2025ter.">25bis</a>. [<sup>1</sup> La Cour statue, par voie d'arrêt, sur les recours en annulation pour violation des formes soit substantielles soit prescrites à peine de nullité, excès ou détournement de pouvoir, formés contre les décisions de la Commission de contrôle visées à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques.
+Dans le cadre de l'examen de ce recours, la Cour dispose des compétences qui lui sont conférés à l'article 26, § § 1er et 1erbis.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 3, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025ter." href="#Art.%2025bis.">Art.</a> <a href="#Art.%2025quater.">25ter</a>. [<sup>1</sup> Les recours visés à l'article 25bis sont introduits par le candidat élu faisant l'objet de la décision de sanction de la Commission de contrôle.
+Ces recours ne sont recevables que s'ils sont introduits dans un délai de trente jours suivant la notification de la décision de la Commission de contrôle. Le délai de prescription pour les recours visés au présent article ne prend cours que si la notification par la Commission de contrôle de sa décision de sanction indique l'existence de ce recours ainsi que les formes et les délais à respecter. Lorsque cette condition n'est pas remplie, le délai de prescription prend cours quatre mois après que l'intéressé a pris connaissance de la décision de la Commission de contrôle.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 4, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025quater." href="#Art.%2025ter.">Art.</a> <a href="#Art.%2025quinquies.">25quater</a>. [<sup>1</sup> La Cour est saisie d'un recours en annulation par une requête signée par le candidat élu visé à l'article 25ter ou son avocat.
+La requête est datée. Elle indique l'objet du recours et contient un exposé des faits et moyens.
+Sans préjudice des articles 70 à 73, la Cour statue dans les trois mois du dépôt du recours en annulation par un arrêt motivé, les parties entendues.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 5, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025quinquies." href="#Art.%2025quater.">Art.</a> <a href="#Art.%2025sexies.">25quinquies</a>. [<sup>1</sup> La partie requérante joint à sa requête une copie de la décision de la Commission de contrôle visée à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques qui fait l'objet du recours et, le cas échéant, de ses annexes.
+Le greffier notifie la requête au président de la Chambre des représentants. Dans les dix jours de la réception de la notification par le greffier, le président de la Chambre des représentants transmet à la Cour le dossier qui a donné lieu à la décision contestée.
+Dans les trente jours de la réception de la notification par le greffier, la Commission de contrôle peut adresser un mémoire à la Cour. Le mémoire qui n'a pas été introduit dans le délai prévu est écarté des débats. Le greffier transmet une copie du mémoire à la partie requérante. Celle-ci dispose de quinze jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réplique. Ces délais peuvent être abrégés ou prolongés par ordonnance motivée du président.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 6, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025sexies." href="#Art.%2025quinquies.">Art.</a> <a href="#Art.%2025septies.">25sexies</a>. [<sup>1</sup> Si le recours est fondé, la Cour annule la décision de la Commission de contrôle qui fait l'objet du recours.
+Le greffier notifie les arrêts aux parties et au président de la Chambre des représentants.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 7, 011; En vigueur : 25-05-2014&gt;
+
+<a name="Art.%2025septies." href="#Art.%2025sexies.">Art.</a> <a href="#Art.100">25septies</a>. [<sup>1</sup> Les articles 74, 76, 78, 80, 85 à 89bis et 113 ne sont pas applicables aux recours contre les décisions de la Commission de contrôle. Si toutefois la Cour est appelée à appliquer ses compétences conformément à l'article 26, le Conseil des ministres en est averti par le greffier. Dans ce cas, le Conseil des ministres dispose d'un délai de quinze jours pour déposer un mémoire auprès de la Cour.
+L'article 90 est applicable au recours visé à l'article 25bis moyennant le remplacement du délai prévu par l'article 89 par le délai de quinze jours prévu à l'article 25quinquies, alinéa 3, le cas échéant abrégé ou prolongé.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 8, 011; En vigueur : 25-05-2014&gt;
+
 <a name="LNK0006" href="#LNKR0006">CHAPITRE II.</a> - Des questions préjudicielles.
 
 <a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>.
@@ -386,9 +422,12 @@ Dans les actes et déclarations :
 4° les présidents des Chambres législatives, le président du (Le Parlement de la Région de Bruxelles-Capitale) et le président de l'assemblée réunie des groupes linguistiques (Le Parlement de la Région de Bruxelles-Capitale) utilisent le français et le néerlandais;
 5° les présidents du (Le Parlement de la Communauté française) et du (le Parlement wallon) utilisent le français, le président du (Parlement de la Communauté germanophone) l'allemand, et le président du (Parlement flamand) le néerlandais; &lt;L 2006-03-27/33, art. 17, 007; <b> En vigueur : </b> 21-04-2006&gt;
 6° les personnes ayant à justifier d'un intérêt utilisent la langue de leur choix, hormis le cas où elles sont soumises à la législation sur l'emploi des langues en matière administrative, auquel cas elles utilisent la langue qui est déterminée par les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
+[<sup>2</sup> 7° le candidat élu qui introduit un recours contre une décision de la Commission de contrôle utilise la langue dans laquelle il a prêté serment;
+8° la Commission de contrôle utilise la langue utilisée par le requérant en cas de recours contre l'une de ses décisions.]<sup>2</sup>
 La Cour constate d'office que les actes et les déclarations du Conseil des Ministres, des Exécutifs, des présidents des assemblées législatives et des personnes soumises à la législation sur l'emploi des langues en matière administrative, qui ne sont pas adressés à la Cour dans la langue prescrite par l'alinéa 2, sont nuls.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 44, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 9, 011; En vigueur : 25-05-2014&gt;
 
 <a name="Art.63" href="#Art.62">Art.</a> <a href="#Art.64"> 63</a>. § 1. Sous réserve des dispositions des §§ 2 et 3, l'instruction de l'affaire a lieu dans la langue (de l'acte qui saisit la Cour). &lt;L 2003-03-09/47, art. 13, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Si l'affaire est introduite en allemand, ou à la fois en français et en néerlandais, la Cour décide si l'instruction est faite en français ou en néerlandais.
@@ -570,7 +609,7 @@ La procédure est reprise lorsque la juridiction qui a posé la question préjud
 Le Conseil des Ministres et les Exécutifs régionaux et de Communauté joignent à la communication qu'ils font de cette décision à la Cour une copie certifiée conforme de la délibération par laquelle le désistement a été décidé.
 S'il y a lieu, la Cour décrète le désistement, les autres parties entendues.
 
-<a name="Art.99" href="#Art.98">Art.</a> <a href="#LNK0029"> 99</a>. Le désistement, accepté ou admis devant la juridiction qui a posé la question préjudicielle, met fin à la procédure devant la Cour.
+<a name="Art.99" href="#Art.98">Art.</a> <a href="#Art.%2025septies."> 99</a>. Le désistement, accepté ou admis devant la juridiction qui a posé la question préjudicielle, met fin à la procédure devant la Cour.
 La juridiction transmet une expédition de sa décision à la Cour.
 
 <a name="LNK0029" href="#LNKR0029">Section IV.</a> - De la connexité.
@@ -619,8 +658,10 @@ La Cour indique les délais dans lesquels les parties sont appelées à déposer
 
 <a name="Art.108" href="#Art.107">Art.</a> <a href="#Art.109"> 108</a>. Les délibérations de la Cour sont secrètes.
 
-<a name="Art.109" href="#Art.108">Art.</a> <a href="#Art.110"> 109</a>. Sans préjudice de l'article 25 (et de l'article 6, § 1, VIII, 5°, de la loi spéciale du 8 août 1980 de réformes institutionnelles), les arrêts sont rendus dans les six mois du dépôt du recours en annulation ou de la réception (de la décision) de renvoi. &lt;L 2003-03-09/47, art. 25, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.109" href="#Art.108">Art.</a> <a href="#Art.110"> 109</a>.Sans préjudice de l'article 25 [<sup>1</sup> , de l'article 25quater, alinéa 3,]<sup>1</sup> (et de l'article 6, § 1, VIII, 5°, de la loi spéciale du 8 août 1980 de réformes institutionnelles), les arrêts sont rendus dans les six mois du dépôt du recours en annulation ou de la réception (de la décision) de renvoi. &lt;L 2003-03-09/47, art. 25, 006; <b> En vigueur : </b> 21-04-2003&gt;
 Néanmoins, dans le cas où une affaire n'est pas en état d'être jugée à l'expiration de ce délai, la Cour peut, par une décision motivée, le proroger dans la mesure qui s'impose. La prorogation peut, en cas de nécessité, être renouvelée sans que la durée totale des prorogations puisse excéder (six mois). &lt;L 2003-03-09/47, art. 25, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 10, 011; En vigueur : 25-05-2014&gt;
 
 <a name="Art.110" href="#Art.109">Art.</a> <a href="#Art.111"> 110</a>. Tout arrêt est prononcé en audience publique.
 Lorsqu'un juge de la Cour est légitimement empêché d'assister au prononcé de l'arrêt en délibéré duquel il a participé, le président en exercice peut désigner un autre juge pour le remplacer au moment du prononcé.
