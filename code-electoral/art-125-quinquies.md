@@ -1,3 +1,1 @@
-Dans les deux jours de la décision définitive du bureau qui écarte les candidats n'ayant pas satisfait au prescrit de l'article 116, § 4, alinéa 5, deuxième phrase, un recours auprès du Conseil d'Etat peut être introduit par un candidat écarté ou par tout autre candidat à la même élection.
-Selon le cas, une chambre française ou néerlandaise du Conseil d'Etat statue au plus tard le vingtième jour avant l'élection, à 10 heures du matin, même si ce jour est un jour férié. Le dispositif de l'arrêt est porté immédiatement à la connaissance du président du bureau principal de collège par les soins du premier président. L'arrêt n'est susceptible d'aucun recours.
-Le Roi fixe la procédure à suivre par le Conseil d'Etat.
+(Abrogé)

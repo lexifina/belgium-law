@@ -16,7 +16,7 @@ La demande doit être introduite auprès du bourgmestre du domicile au plus tard
 § 2. Peut être désigné comme mandataire tout autre électeur.
 Chaque mandataire ne peut disposer que d'une procuration.
 § 3. La procuration est rédigée sur un formulaire dont le modèle est fixé par le Roi et qui est délivré gratuitement au secrétariat communal.
-La procuration mentionne: les élections pour lesquelles elle est valable; les nom, prénoms, date de naissance et adresse du mandant et du mandataire.
+La procuration mentionne: l'élection pour laquelle elle est valable; les nom, prénoms, date de naissance et adresse du mandant et du mandataire.
 Le formulaire de procuration est signé par le mandant et par le mandataire.
 § 4. Pour être reçu à voter, le mandataire remet au président du bureau de vote où le mandant aurait dû voter, la procuration ainsi que l'un des certificats mentionnés au § 1, et lui présente sa carte d'identité et sa convocation sur laquelle le président mentionne " a voté par procuration ".
 § 5. Les procurations sont jointes au relevé visé à l'article 146, alinéa 1, et transmises, avec ce relevé, au juge de paix du canton.

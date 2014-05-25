@@ -1,1 +1,1 @@
-Les présidents des bureaux principaux visés aux articles 94, 94bis et 95 communiquent par voie digitale leurs coordonnées au Ministre de l'Intérieur au plus tard à la date fixée à l'article 10 pour l'arrêt de la liste des électeurs.
+Les présidents des bureaux principaux visés aux articles 94 ... et 95 communiquent par voie digitale leurs coordonnées au Ministre de l'Intérieur au plus tard à la date fixée à l'article 10 pour l'arrêt de la liste des électeurs.
