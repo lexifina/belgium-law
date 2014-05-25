@@ -1,0 +1,1 @@
+Pour la répartition des sièges des sénateurs cooptés qui appartiennent au groupe linguistique néerlandais, le chiffre électoral visé à l'article 166 des listes dans les circonscriptions électorales de Flandre orientale, de Flandre occidentale, du Limbourg, d'Anvers, du Brabant flamand et de Bruxelles-Capitale, qui appartiennent à une même formation politique, est additionné.
