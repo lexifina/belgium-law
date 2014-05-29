@@ -1,0 +1,3 @@
+§ 1er. Les paiements sont effectués dans la devise convenue par les parties.
+§ 2. Lorsqu'un service de conversion monétaire est proposé avant l'initiation de l'opération de paiement par un tiers au contrat-cadre et lorsque ce service de conversion monétaire est proposé au point de vente ou par le bénéficiaire, la partie qui le propose au payeur est tenue d'informer celui-ci de tous les frais appliqués, ainsi que du taux de change qui sera utilisé aux fins de la conversion de l'opération de paiement.
+Le payeur accepte le service de conversion monétaire offert sur cette base.

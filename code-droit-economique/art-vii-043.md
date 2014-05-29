@@ -1,0 +1,5 @@
+§ 1er. La présente section s'applique:
+1° aux opérations de paiement effectuées en euros;
+2° aux opérations de paiement entraînant une seule conversion entre l'euro et la devise officielle d'un état membre ne relevant pas de la zone euro, à condition que la conversion requise soit effectuée dans l'Etat membre ne relevant pas de la zone euro et que, en cas d'opérations de paiement transfrontalières, le transfert transfrontalier s'effectue en euros.
+§ 2. La présente section s'applique aux autres opérations de paiement, à moins que l'utilisateur de services de paiement et son prestataire de services de paiement n'en conviennent autrement, à l'exception de l'article VII. 47, auquel les parties ne peuvent déroger.
+Lorsque l'utilisateur de services de paiement et son prestataire de services de paiement conviennent d'un délai plus long que ceux fixés à l'article VII. 44 pour les opérations de paiement intracommunautaires au sein de l'EEE, ce délai ne peut pas dépasser quatre jours ouvrables à compter du moment de réception tel que défini à l'article VII. 39.

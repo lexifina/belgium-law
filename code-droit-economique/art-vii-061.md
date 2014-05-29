@@ -1,0 +1,13 @@
+§ 1er. Les émetteurs de monnaie électronique remboursent, à la demande du détenteur de monnaie électronique, à tout moment et à la valeur nominale, la valeur monétaire de la monnaie électronique détenue.
+§ 2. Le contrat conclu entre l'émetteur de monnaie électronique et le détenteur de monnaie électronique établit clairement et de façon bien visible les conditions de remboursement, y compris les frais éventuels y afférents, et le détenteur de monnaie électronique est informé de ces conditions avant qu'il ne soit lié par un contrat ou une offre.
+§ 3. Le remboursement ne peut donner lieu au prélèvement de frais que si le contrat le prévoit conformément au § 2 et uniquement dans un des cas suivants:
+1° le remboursement est demandé avant l'expiration du contrat;
+2° le contrat spécifie une date d'expiration et le détenteur de monnaie électronique a mis fin au contrat avant cette date, ou
+3° le remboursement est demandé plus d'un an après la date d'expiration du contrat.
+Le montant des frais doit être proportionné et en rapport avec les coûts réels supportés par l'émetteur de monnaie électronique.
+Le Roi peut déterminer les critères permettant d'établir les coûts réels supportés par l'émetteur de monnaie électronique.
+§ 4. Lorsque le remboursement est demandé avant l'expiration du contrat, le détenteur de monnaie électronique peut demander le remboursement de la monnaie électronique en tout ou en partie.
+§ 5. Lorsque le remboursement est demandé par le détenteur de monnaie électronique à la date d'expiration du contrat ou dans un délai d'un an après celle-ci:
+1° la valeur monétaire totale de la monnaie électronique détenue est remboursée ou
+2° lorsque l'établissement de monnaie électronique exerce une ou plusieurs activités conformément à l'article 77, § 1er, de la loi du 21 décembre 2009 et que la proportion des fonds qui seront utilisés sous forme de monnaie électronique n'est pas connue à l'avance, tous les fonds dont le remboursement est demandé par le détenteur de monnaie électronique sont remboursés.
+§ 6. Nonobstant les §§ 3 à 5, le droit au remboursement des personnes, autres que les consommateurs, qui acceptent de la monnaie électronique est soumis à l'accord contractuel entre les émetteurs de monnaie électronique et ces personnes.

@@ -1,0 +1,3 @@
+En cas de non-respect par l'émetteur de monnaie électronique des obligations qui découlent de l'article VII. 61 et sans préjudice des sanctions de droit commun:
+1° le détenteur de monnaie électronique est dispensé de plein droit du paiement des frais éventuels liés au remboursement;
+2° le détenteur de monnaie électronique peut résilier sans délai et sans frais ni pénalité, par lettre recommandée à la poste et motivée, le contrat de monnaie électronique et, le cas échéant, le contrat-cadre en matière de services de paiement, à partir du moment où il a connaissance ou aurait dû avoir connaissance du non-respect de ces obligations.

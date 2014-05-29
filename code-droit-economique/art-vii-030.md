@@ -1,0 +1,4 @@
+§ 1er. L'utilisateur de services de paiement habilité à utiliser un instrument de paiement a les obligations suivantes:
+1° il utilise l'instrument de paiement conformément aux conditions régissant l'émission et l'utilisation de cet instrument de paiement;
+2° lorsqu'il a connaissance de la perte, du vol, du détournement ou de toute utilisation non autorisée de son instrument de paiement, il en informe sans délai son prestataire de services de paiement ou l'entité indiquée par celui-ci.
+§ 2. En application du § 1er, 1°, l'utilisateur de services de paiement prend, dès qu'il reçoit un instrument de paiement, toutes les mesures raisonnables afin de préserver la sécurité de l'instrument de paiement et de ses dispositifs de sécurité personnalisés.

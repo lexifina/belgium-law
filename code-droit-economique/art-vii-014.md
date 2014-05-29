@@ -1,0 +1,1 @@
+Au cours de la durée contractuelle, l'utilisateur de services de paiement a, à tout moment, le droit de recevoir, sur demande, les termes contractuels du contrat-cadre, ainsi que les informations et conditions visées à l'article VII. 13, sur support durable.

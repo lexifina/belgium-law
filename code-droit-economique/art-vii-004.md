@@ -1,0 +1,1 @@
+Les dispositions du présent titre ne portent pas atteinte à d'autres dispositions légales contenues au sein du titre 4 du présent livre desquelles découleraient des exigences supplémentaires relatives à l'information préalable ou à des conditions, droits et obligations spécifiques en matière d'octroi de crédit aux consommateurs.

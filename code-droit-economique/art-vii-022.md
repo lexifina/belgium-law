@@ -1,0 +1,2 @@
+Lorsque, aux fins de l'utilisation d'un instrument de paiement donné, le bénéficiaire demande des frais ou offre une réduction, il en informe le payeur avant l'initiation de l'opération de paiement.
+Lorsque, aux fins de l'utilisation d'un instrument de paiement donné, un prestataire de services de paiement ou un tiers demande des frais, il en informe l'utilisateur de services de paiement avant l'initiation de l'opération de paiement.
