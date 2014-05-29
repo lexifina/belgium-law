@@ -1,0 +1,3 @@
+§ 1er. Pour le compte de paiement du bénéficiaire, la date valeur du crédit n'est pas postérieure à celle du jour ouvrable au cours duquel le montant de l'opération de paiement est crédité sur le compte du prestataire de services de paiement du bénéficiaire.
+Le prestataire de services de paiement du bénéficiaire veille à ce que le montant de l'opération de paiement soit à la disposition du bénéficiaire immédiatement après que ce montant ait été crédité sur le compte du prestataire de services de paiement du bénéficiaire.
+§ 2. Pour le compte de paiement du payeur, la date valeur du débit n'est pas antérieure au moment où le montant de l'opération de paiement est débité de ce compte de paiement.

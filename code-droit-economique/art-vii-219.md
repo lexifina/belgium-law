@@ -1,0 +1,1 @@
+Le Roi exerce les pouvoirs à Lui confiés par les dispositions des articles VII. 3, VII. 64, VII. 86, § 3, alinéa 2, VII. 90, § 1er, alinéa 3, VII. 94, VII. 95, VII. 101, VII. 120 à VII. 122, sur la proposition conjointe des Ministres qui ont l'Economie et les Finances dans leurs attributions, après consultation de la Banque.

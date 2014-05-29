@@ -1,0 +1,1 @@
+Lorsqu'un contrat relatif aux services de paiement est conclu à distance, les informations visées aux articles VII. 7, VII. 8, VII. 12 et VII. 13, remplacent les informations visées à l'article VI. 55, § 1er, du Code de droit économique, à l'exception du 2°, c) à g), 3°, a), d) et e), et 4°, b).

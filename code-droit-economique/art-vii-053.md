@@ -1,0 +1,1 @@
+La responsabilité visée aux articles VII.27 à VII.52 ne s'applique pas en cas de de force majeure ni lorsque le prestataire de services de paiement est lié par d'autres obligations légales prévues par des législations nationales ou par l'Union européenne.
