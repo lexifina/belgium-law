@@ -1,0 +1,1 @@
+Toute publicité pour des consommateurs concernant les biens préemballés en quantités préétablies qui fait état d'un prix, mentionne les quantités nominales du contenu des emballages, conformément aux dispositions du présent chapitre.

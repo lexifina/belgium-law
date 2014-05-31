@@ -1,0 +1,10 @@
+L'utilisation de la dénomination "Liquidation", "Uit-verkoop" ou "Ausverkauf" ou de toute autre dénomination équivalente pour l'offre en vente ou la vente de biens n'est autorisée que dans l'un des cas suivants et moyennant le respect des autres conditions de la présente section:
+1° la vente a lieu en exécution d'une décision judiciaire;
+2° les héritiers ou ayants cause d'une personne défunte qui exploitait une entreprise offrent en vente la totalité ou une partie du stock de cette entreprise recueilli par eux;
+3° une entreprise reprend le commerce d'une autre entreprise et offre en vente la totalité ou une partie du stock cédé;
+4° une entreprise qui renonce à son activité offre en vente la totalité de son stock et n'a pas liquidé des biens similaires, pour le même motif, au cours des trois années précédentes;
+5° une entreprise procède, dans les locaux où a lieu habituellement l'offre en vente au consommateur, à des transformations ou des travaux de remise en état d'une durée de plus de 20 jours ouvrables, à condition que ces travaux rendent la vente impossible et que l'entreprise n'ait pas liquidé des biens similaires, pour le même motif, au cours des trois années précédentes;
+6° une entreprise transfère l'établissement où a lieu habituellement l'offre en vente au consommateur vers un autre endroit, ou elle ferme son établissement, à condition qu'elle ait exploité l'établissement depuis un an au moins avant le début de la vente en liquidation;
+7° un sinistre a occasionné des dégâts graves à la totalité ou à une partie importante du stock des biens de l'entreprise;
+8° par suite d'un cas de force majeure, une entrave importante est apportée à l'activité;
+9° la personne physique qui exploite une entreprise renonce à toute activité professionnelle pour cause d'admission à la pension pour autant, toutefois, qu'elle n'ait pas procédé à une vente en liquidation au cours de l'année précédente, pour le motif visé au 4° ou pour le motif de fermeture de l'établissement visé au 6°.

@@ -1,0 +1,8 @@
+§ 1er. Pendant le délai de rétractation, l'exécution du contrat ne peut commencer qu'après l'accord du consommateur.
+Lorsque le consommateur exerce le droit de rétractation visé à l'article VI.58, § 1er, il ne peut être tenu qu'au paiement, dans les meilleurs délais, du service financier effectivement fourni par le fournisseur en vertu du contrat à distance.
+Le montant à payer ne peut:
+- excéder un montant proportionnel à l'importance du service déjà fourni par rapport à l'ensemble des prestations prévues par le contrat à distance;
+- en aucun cas être si élevé qu'il puisse être interprété comme une pénalité.
+§ 2. Le fournisseur ne peut exiger le paiement par le consommateur sur base du paragraphe 1er que s'il peut prouver que le consommateur a été dûment informé du montant dû, conformément à l'article VI.55, § 1er, 3°, a. Il ne peut en aucun cas exiger le paiement s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation prévu à l'article VI.58, § 1er, sans demande préalable du consommateur.
+§ 3. Le fournisseur est tenu de rembourser au consommateur, dans les meilleurs délais et au plus tard dans les trente jours calendrier, toutes les sommes qu'il a perçues de celui-ci conformément au contrat à distance, à l'exception du montant visé au paragraphe 1er. Ce délai commence à courir le jour où le fournisseur reçoit la notification de la rétractation.
+§ 4. Le consommateur restitue au fournisseur, dans les meilleurs délais et au plus tard dans les trente jours calendrier, toute somme et/ou tout bien qu'il a reçu(s) de ce dernier. Ce délai court à compter du jour où le consommateur envoie la notification de rétractation.

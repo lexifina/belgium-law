@@ -1,0 +1,1 @@
+Il est interdit de créer, exploiter ou promouvoir un système de promotion pyramidale dans lequel une entreprise verse une participation en échange de la possibilité de percevoir une contrepartie provenant plutôt de l'entrée de nouvelles entreprises dans le système que de la vente ou de la consommation de produits.

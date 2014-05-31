@@ -1,0 +1,1 @@
+La charge de la preuve du respect des conditions fixées pour les offres en ventes et ventes sous les dénominations visées à l'article VI.25, § 1er, incombe à l'entreprise qui procède à de telles ventes.

@@ -1,0 +1,1 @@
+Pour l'application du présent chapitre, il y a lieu d'entendre par "opérateur" et par "abonné", un opérateur et un abonné tels que définis à l'article 2, 11° et 15° de la loi du 13 juin 2005 relative aux communications électroniques.

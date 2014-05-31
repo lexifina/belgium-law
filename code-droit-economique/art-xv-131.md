@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+En cas de condamnation pour une infraction aux Livres VI, VIII et IX les cours et tribunaux peuvent ordonner l'affichage du jugement, de l'arrêt ou du résumé qu'ils en rédigent pendant le délai qu'ils déterminent, aussi bien à l'extérieur qu'à l'intérieur des établissements du contrevenant et aux frais de celui-ci, de même que la publication du jugement, de l'arrêt ou du résumé aux frais du contrevenant dans des journaux ou de toute autre manière.
