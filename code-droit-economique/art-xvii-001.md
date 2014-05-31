@@ -1,0 +1,2 @@
+Le président du tribunal de commerce constate l'existence et ordonne la cessation d'un acte, même pénalement réprimé, constituant une infraction aux dispositions du présent Code, sous réserve des actions particulières aux livres VI, XI, XII et XIV, visées aux chapitres 3, 4, 5 et 5/1 du présent titre.
+A l'encontre des personnes exerçant une profession libérale et dans la mesure où une infraction aux dispositions du livre XIV est concernée, la compétence prévue par le présent chapitre est exercée par le président du tribunal de première instance.

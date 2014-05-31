@@ -1,0 +1,1 @@
+A l'encontre des personnes exerçant une profession libérale et dans la mesure où une infraction aux dispositions du livre XIV est concernée, la compétence prévue par le présent chapitre est exercée par le président du tribunal de première instance.
