@@ -1,0 +1,2 @@
+L'accès à l'activité d'un prestataire de services de la société de l'information et l'exercice de celle-ci ne sont soumis à aucune autorisation préalable, ni à aucune autre exigence ayant un effet équivalent.
+L'alinéa 1er est sans préjudice des régimes d'autorisation qui ne visent pas spécifiquement et exclusivement les services de la société de l'information ou qui sont régis par les régimes d'autorisation prévus par le Titre III de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.

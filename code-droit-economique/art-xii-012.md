@@ -1,0 +1,5 @@
+Sans préjudice des autres exigences légales et réglementaires en matière d'information, les publicités qui font partie d'un service de la société de l'information ou qui constituent un tel service répondent aux principes suivants:
+1° dès sa réception, la publicité, étant donné son effet global et y compris sa présentation, est clairement identifiable comme telle. A défaut, elle comporte la mention "publicité "de manière lisible, apparente et non équivoque;
+2° la personne physique ou morale pour le compte de laquelle la publicité est faite est clairement identifiable;
+3° les offres promotionnelles, telles que les annonces de réduction de prix et offres conjointes, sont clairement identifiables comme telles et les conditions pour en bénéficier sont aisément accessibles et présentées de manière précise et non équivoque;
+4° les concours ou jeux promotionnels sont clairement identifiables comme tels et leurs conditions de participation sont aisément accessibles et présentées de manière précise et non équivoque.

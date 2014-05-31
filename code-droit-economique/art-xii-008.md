@@ -1,0 +1,1 @@
+Avant la passation de la commande, le prestataire met à la disposition du destinataire du service les moyens techniques appropriés lui permettant d'identifier les erreurs commises dans la saisie des données et de les corriger.
