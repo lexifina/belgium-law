@@ -1,0 +1,7 @@
+L'action fondée sur l'article XVII.1er est formée à la demande:
+1° des intéressés;
+2° du ministre compétent pour la matière concernée ou du directeur général de la direction générale Contrôle et Médiation du Service public fédéral Economie, P.M.E., Classes moyennes et Energie, sauf lorsque la demande porte sur un acte visé à l'article VI. 104;
+3° d'une autorité professionnelle, d'un groupement professionnel ou interprofessionnel ayant la personnalité civile;
+4° d'une association ayant pour objet la défense des intérêts des consommateurs et jouissant de la personnalité civile, pour autant qu'elle soit représentée au Conseil de la consommation ou qu'elle soit agréée par le ministre, suivant des critères déterminés par arrêté royal délibéré en Conseil des Ministres, sauf lorsque la demande porte sur un acte visé à l'article VI. 104.
+Par dérogation aux dispositions des articles 17 et 18 du Code judiciaire, les associations et groupements visés à l'alinéa premier, 3° et 4°, peuvent agir en justice pour la défense de leurs intérêts collectifs statutairement définis.
+A l'encontre des personnes exerçant une profession libérale, l'action visée à l'alinéa 1er peut également être formée à la demande d'une mutuelle ou d'une union nationale. L'alinéa 2 est applicable.

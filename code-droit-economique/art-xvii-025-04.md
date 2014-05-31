@@ -1,0 +1,1 @@
+L'action en cessation des actes interdits par l'article XIV. 51 peut être dirigée, séparément ou conjointement, contre plusieurs titulaires de professions libérales du même secteur ou leurs associations qui utilisent ou recommandent l'utilisation des mêmes clauses contractuelles générales, ou de clauses similaires.
