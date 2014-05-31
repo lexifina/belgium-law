@@ -1,0 +1,1 @@
+L'action en cessation des actes interdits par l'article VI. 84 peut être dirigée, séparément ou conjointement, contre plusieurs entreprises du même secteur économique ou leurs associations qui utilisent ou recommandent l'utilisation des mêmes clauses contractuelles générales, ou de clauses similaires.

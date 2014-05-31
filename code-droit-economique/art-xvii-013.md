@@ -1,0 +1,4 @@
+L'entreprise est tenue d'apporter, dans un délai d'un mois maximum, les preuves concernant l'exactitude matérielle des données factuelles qu'elle communique dans le cadre d'une pratique commerciale, lorsqu'une action en cessation est intentée par:
+1° le ministre et, le cas échéant, le ministre compétent visé à l'article XVII.8;
+2° les autres personnes visées aux articles XVII.7, pour autant que, compte tenu des intérêts légitimes de l'entreprise et de toute autre partie à la procédure, le président du tribunal de commerce estime qu'une telle exigence est appropriée au vu des circonstances du cas d'espèce.
+Si les preuves exigées en vertu de l'alinéa 1er ne sont pas apportées ou sont jugées insuffisantes, le président du tribunal de commerce peut considérer les données factuelles comme inexactes.
