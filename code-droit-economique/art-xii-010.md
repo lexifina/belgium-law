@@ -1,0 +1,2 @@
+Les parties qui ne sont pas des consommateurs peuvent déroger conventionnellement aux dispositions de l'article XII.6, § 1er, 8°, ainsi que des articles XII.7, § 1er, XII.8 et XII.9.
+Les dispositions de l'article XII.6, § 1er, 8°, de l'article XII.7, § 1er, de l'article XII.8 et de l'article XII.9, 1° et 2°, ne sont pas applicables aux contrats conclus exclusivement au moyen d'un échange de courriers électroniques.

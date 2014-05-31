@@ -1,0 +1,3 @@
+La fourniture de services de la société de l'information par un prestataire établi sur le territoire belge doit être conforme aux exigences applicables en Belgique.
+La libre circulation, sur le territoire belge, des services de la société de l'information fournis par un prestataire établi dans un autre Etat membre n'est pas restreinte en raison des exigences applicables en Belgique ou dans d'autres pays.
+Les alinéas 1er et 2 visent les exigences, spécifiques ou générales, relatives aux services de la société de l'information et aux prestataires de ces services. Ils ne visent pas les exigences relatives aux biens en tant que tels, à leur livraison physique ou aux services qui ne sont pas fournis par voie électronique.
