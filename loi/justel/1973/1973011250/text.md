@@ -11,8 +11,7 @@
 (§ 4. Le président de la Chambre ou le président du Sénat est également tenu de demander l'avis sur les projets de loi, les propositions de loi ou les amendements, adoptés lors d'un premier vote, à des projets ou propositions de loi, lorsque la demande en est faite conformément à l'article 16 de la loi du 6 avril 1995 organisant la commission parlementaire de concertation prévue à l'article 82 de la Constitution et modifiant les lois coordonnées sur le Conseil d'Etat.) &lt;L 1995-04-06/46, art. 17, 2°, 004; <b> En vigueur : </b> 08-06-1995&gt;
 
 <a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.3bis"> 3</a>. &lt;L 09-08-1980, art. 18&gt; § 1er. (Hors les cas d'urgence spécialement motivés et les projets relatifs aux budgets, aux comptes, aux emprunts, aux opérations domaniales et au contingent de l'armée exceptés, les Ministres, (les membres des gouvernements communautaires ou régionaux, les membres du Collège de la Commission communautaire française et les membres du Collège réuni visés respectivement aux alinéas 2 et 4 de l'article 60) de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, chacun pour ce qui le concerne, soumettent à l'avis motivé de la section de législation, le texte de tous avant-projets de loi, de décret, d'ordonnance ou de projets d'arrêtés réglementaires. L'avis et l'avant-projet sont annexés à l'exposé des motifs des projets de loi, de décret ou d'ordonnance. L'avis est annexé aux rapports au Roi, (au Gouvernement, au Collège de la Commission communautaire française) et au Collège réuni. &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt;
-(La demande d'avis mentionne le nom du délégué ou du fonctionnaire que le ministre désigne afin de donner à la section de législation les explications utiles.) &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt;
-Ne sont pas soumis à l'avis de la section de législation, les projets de règlements et d'arrêtés (du Gouvernement) de la Région de Bruxelles-Capitale ou du Collège réuni qui concernent respectivement les attributions de l'agglomération bruxelloise, les attributions de la Commission communautaire française et celles de la Commission communautaire flamande.) L 04-07-1989, art. 1&gt; &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt;
+(La demande d'avis mentionne le nom du délégué ou du fonctionnaire que le ministre désigne afin de donner à la section de législation les explications utiles.) &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt; Ne sont pas soumis à l'avis de la section de législation, les projets de règlements et d'arrêtés (du Gouvernement) de la Région de Bruxelles-Capitale ou du Collège réuni qui concernent respectivement les attributions de l'agglomération bruxelloise, les attributions de la Commission communautaire française et celles de la Commission communautaire flamande.) L 04-07-1989, art. 1&gt; &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt;
 (En ce qui concerne le Collège de la Commission communautaire française, seuls les arrêtés qui concernent des matières transférées en application de l'article 138 de la Constitution sont soumis à l'avis de la section de législation.) &lt;L 1996-08-04/60, art. 3, 005; <b> En vigueur : </b> 1996-10-01&gt;
 § 2. Lorsque l'urgence est invoquée à propos d'un (avant-projet de loi, de décret ou d'ordonnance), l'avis de la section de législation est néanmoins requis et porte sur le point de savoir si l'avant-projet a pour objet des matières qui relèvent, selon le cas, de la compétence de l'Etat, de la Communauté ou de la Région. &lt;L 16-06-1989, art. 10&gt;
 (Lorsque l'urgence est invoquée à propos d'un avant-projet de loi, l'avis de la section de législation porte également sur le point de savoir si le texte concerné a pour objet des matières visées à l'article 74, à l'article 77 ou à l'article 78 de la Constitution.) &lt;L 1995-04-06/46, art. 17, 3°, 004; <b> En vigueur : </b> 08-06-1995&gt;
@@ -67,7 +66,7 @@ L'article 159 de la Constitution s'applique également [<sup>2</sup> aux actes e
 § 3. Lorsqu'une autorité administrative est tenue de statuer et qu'à l'expiration d'un délai de quatre mois prenant cours à la mise en demeure de statuer qui lui est notifiée par un intéressé, il n'est pas intervenu de décision, le silence de l'autorité est réputé constituer une décision de rejet susceptible de recours. Cette disposition ne préjudicie pas aux dispositions spéciales qui établissent un délai différent ou qui attachent des effets différents au silence de l'autorité administrative.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022102" target="_blank">2010-02-21/02</a>, art. 12, 023; En vigueur : 08-03-2010&gt;
-(<font color="red">2</font>)&lt;L 2014-01-20/13 , art. 2, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">2</font>)&lt;L 2014-01-20/13, art. 2, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.14bis" href="#Art.14">Art.</a> <a href="#Art.14ter"> 14bis</a>. &lt;Inséré par L 16-06-1989, art. 14&gt; Pour l'application de l'article 14 des mêmes lois coordonnées, sont considérées comme des formes substantielles, les concertations, les associations, les transmissions d'informations, les avis, les avis conformes, les accords, les accords communs, à l'exception des accords de coopération visés à l'article 92bis de la loi spéciale du 8 août 1980 de réformes institutionnelles, et les propositions qui concernent les relations entre l'Etat, les Communautés et les Régions et qui sont prévus par ou en vertu des lois prises en exécution des (articles 39, 127, § 1er, 128, § 1er, 129, § 1er, 130, § 1er, 135, 136, alinéa 1er, 140, (...), 175, 176 et 177 de la Constitution) &lt;L 1996-08-04/60, art. 9, 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L 1997-09-08/43, art. 2, 008; <b> En vigueur : </b> 26-10-1997&gt;
 Toutefois, les personnes physiques et les personnes morales, à l'exception de l'Etat, des Communautés, des Régions et de la Commission communautaire commune en ce qui concerne les matières visées à l'article 63 de la loi spéciale du 12 janvier 1989 relatives aux institutions bruxelloises, ne peuvent invoquer la violation des formes visées à l'alinéa précédent.
@@ -75,11 +74,11 @@ Toutefois, les personnes physiques et les personnes morales, à l'exception de l
 <a name="Art.14ter" href="#Art.14bis">Art.</a> <a href="#Art.15"> 14ter</a>.[<sup>1</sup> A la demande d'une partie adverse ou intervenante, et si la section du contentieux administratif l'estime nécessaire, elle indique ceux des effets des actes individuels annulés ou, par voie de disposition générale, ceux des effets des règlements annulés, qui doivent être considérés comme définitifs ou maintenus provisoirement pour le délai qu'elle détermine.
 La mesure visée à l'alinéa 1er ne peut être ordonnée que pour des raisons exceptionnelles justifiant de porter atteinte au principe de la légalité, par une décision spécialement motivée sur ce point et après un débat contradictoire. Cette décision peut tenir compte des intérêts des tiers.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 3, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 3, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="Art.15" href="#Art.14ter">Art.</a> <a href="#Art.16"> 15</a>.Les juridictions administratives saisies par renvoi du Conseil d'Etat après un arrêt [<sup>1</sup> de cassation]<sup>1</sup> se conforment à cet arrêt sur le point du droit qu'il juge.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 4, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 4, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.16bis"> 16</a>.La section statue par voie d'arrêts :
 1° (sur les recours en dernier ressort, prévus en matière électorale, (par le titre IV de la loi du 19 octobre 1921 organique des élections provinciales et) par les titres V et VI de la loi électorale communale et par les dispositions qui s'y réfèrent) (ainsi que par l'article 33 de la loi du 26 juillet 1971 organisant les agglomérations et les fédérations de communes.); &lt;L 05-07-1976, art. 147&gt; &lt;L 1994-07-07/34, art. 36, 003; <b> En vigueur : </b> 16-07-1994&gt; &lt;L 21-08-1987, art. 29&gt;
@@ -92,13 +91,13 @@ La mesure visée à l'alinéa 1er ne peut être ordonnée que pour des raisons e
 [<sup>1</sup> 8° sur tout autre recours de pleine juridiction attribué au Conseil d'Etat.]<sup>1</sup>
 [<sup>1</sup> L'arrêt de la section du contentieux administratif peut réformer la décision prise par l'autorité ou la juridiction administrative. Dans ce cas, l'arrêt se substitue à cette décision.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 5, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 5, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.16bis" href="#Art.16">Art.</a> <a href="#LNK0006"> 16bis</a>. (Abrogé) &lt;L 2005-02-17/62, art. 3, 016; <b> En vigueur : </b> 13-10-2005&gt;
 
 <a name="LNK0006" href="#LNKR0006">CHAPITRE III.</a> - LE REFERE ADMINISTRATIF.
 
-<a name="LNK0007" href="#LNKR0007">SECTION 1.</a> &lt;Abrogé par L 2014-01-20/13 , art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
+<a name="LNK0007" href="#LNKR0007">SECTION 1.</a> &lt;Abrogé par L 2014-01-20/13, art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
 
 <a name="Art.17" href="#Art.16bis">Art.</a> <a href="#LNK0008"> 17</a>.[<sup>1</sup> § 1er. La section du contentieux administratif est seule compétente pour ordonner par arrêt, les parties entendues ou dûment appelées, la suspension de l'exécution d'un acte ou d'un règlement susceptible d'être annulé en vertu de l'article 14, §§ 1er et 3, et pour ordonner toutes les mesures nécessaires afin de sauvegarder les intérêts des parties ou des personnes qui ont intérêt à la solution de l'affaire.
 Cette suspension ou ces mesures provisoires peuvent être ordonnées à tout moment :
@@ -121,13 +120,11 @@ La suspension et les mesures provisoires qui ont été ordonnées avant l'introd
 Si l'assemblée générale n'annule pas l'acte ou le règlement attaqué, la suspension ou les mesures provisoires cessent immédiatement leurs effets. Dans ce cas, l'affaire est renvoyée pour examen d'autres moyens éventuels, à la chambre qui en était initialement saisie.
 § 10. Si la chambre compétente pour statuer au fond n'annule pas l'acte ou le règlement qui fait l'objet du recours, elle lève la suspension ordonnée ainsi que les mesures provisoires.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 6, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 6, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
-<a name="LNK0008" href="#LNKR0008">SECTION 2.</a>
-&lt;Abrogé par L 2014-01-20/13 , art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
+<a name="LNK0008" href="#LNKR0008">SECTION 2.</a> &lt;Abrogé par L 2014-01-20/13, art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
 
-<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0009"> 18</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0009"> 18</a>.&lt;Abrogé par L 2014-01-20/13, art. 38,1°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
 
 <a name="LNK0009" href="#LNKR0009">TITRE IV.</a> - (...). &lt;L 28-06-1983, art. 107&gt;
 
@@ -142,19 +139,21 @@ Si l'assemblée générale n'annule pas l'acte ou le règlement attaqué, la sus
 (Un recours en cassation ne peut être introduit sans l'assistance d'une personne visée à l'[<sup>1</sup> alinéa 4]<sup>1</sup> , qui doit signer la requête.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 7, 018; <b> En vigueur : </b> 01-12-2006&gt;
 [<sup>1</sup> Sauf preuve contraire, l'avocat est présumé avoir été mandaté par la personne capable qu'il prétend représenter.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 7, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 7, 026; En vigueur : 03-02-2014&gt;
 
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 8, 018; <b> En vigueur : </b> 01-12-2006&gt; § 1er. Le recours en cassation, visé à l'article 14, § 2, n'est traité que lorsqu'il est déclaré admissible en application du § 2.
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>.&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 8, 018; <b> En vigueur : </b> 01-12-2006&gt; § 1er. Le recours en cassation, visé à l'article 14, § 2, n'est traité que lorsqu'il est déclaré admissible en application du § 2.
 § 2. Chaque recours en cassation est, dès qu'il est porté au rôle, et sur le vu de la requête et du dossier de la procédure, immédiatement soumis à la procédure d'admission.
 Les recours en cassation pour lesquels le Conseil d'Etat est incompétent ou sans juridiction ou qui sont sans objet ou manifestement irrecevables ne sont pas déclarés admissibles.
 Sont seuls déclarés admissibles les recours en cassation qui invoquent une violation de la loi ou la violation d'une règle de forme, soit substantielle, soit prescrite à peine de nullité, pour autant que le moyen invoqué par le recours ne soit pas manifestement non fondé et que cette violation soit effectivement de nature telle qu'elle peut conduire à la cassation de la décision querellée et a pu influencer la portée de la décision.
-Sont également déclarés admissibles, les recours en cassation pour lesquels le Conseil d'Etat n'est pas incompétent ou sans pouvoir de juridiction pour statuer sur le recours en cassation ou qui ne sont pas sans objet ou manifestement irrecevables et dont l'examen par la section s'avère nécessaire pour assurer l'unité de la jurisprudence.
+Sont également déclarés admissibles, les recours en cassation pour lesquels le Conseil d'Etat n'est pas incompétent ou sans pouvoir de juridiction pour statuer sur le recours en cassation ou qui ne sont pas sans objet ou manifestement irrecevables et dont l'examen par la section s'avère nécessaire pour assurer l'unité de la jurisprudence [<sup>1</sup> au sein de la juridiction administrative visée à l'article 14, § 2, ou du Conseil d'Etat]<sup>1</sup>.
 § 3. Le premier président, le président, le président de chambre ou le conseiller d'Etat ayant au moins trois années d'ancienneté de grade, désigné par le chef de corps qui est responsable de la (section du contentieux administratif), se prononce, par voie d'ordonnance, dans les huit jours à compter de la réception du dossier de la juridiction, sur l'admissibilité du recours en cassation, sans audience et sans entendre les parties. Aussitôt après réception de la requête, le greffier en chef demande communication du dossier de la juridiction à la juridiction administrative dont la décision est contestée par un recours en cassation. Cette juridiction communique le dossier dans les deux jours ouvrables suivant la demande de communication au Conseil d'Etat. &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 L'ordonnance qui refuse l'admissibilité du recours motive succinctement le refus.
 L'ordonnance est directement signifiée aux parties en cassation selon les modalités fixées par un arrêté royal délibéré en Conseil des Ministres. Cet arrêté royal peut également déterminer les cas dans lesquels une notification aux autorités administratives en cause visées à l'article 14, § 2, du dispositif ainsi que de l'objet suffit, ainsi que la forme et les conditions selon lesquelles cette notification est faite et la manière dont ces ordonnances sont intégralement accessibles à cette partie.
 Aucune opposition, ni tierce opposition ne peut être formée contre les ordonnances prononcées en vertu de la présente disposition, lesquelles ne sont pas davantage susceptibles de révision.
 § 4. La procédure en cassation est engagée lorsque le recours en cassation est déclaré admissible en application de la présente disposition. La chambre devant laquelle le recours est pendant se prononce sur le recours en cassation dans un délai de six mois suivant l'ordonnance visée au § 3.
 § 5. Le Roi détermine, par un arrêté délibéré en Conseil des Ministres, la procédure relative à l'examen de l'admissibilité en cassation visé dans le présent article.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014041068" target="_blank">2014-04-10/68</a>, art. 13, 027; En vigueur : 31-05-2014&gt;
 
 <a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.21bis"> 21</a>.[<sup>1</sup> Les délais dans lesquels les parties doivent transmettre leurs mémoires, leur dossier administratif ou les documents ou renseignements demandés par la section du contentieux administratif sont fixés par arrêté royal délibéré en Conseil des ministres.
 Lorsque la partie requérante ne respecte pas les délais prévus pour l'envoi du mémoire en réplique ou du mémoire ampliatif, la section statue sans délai, les parties entendues à leur demande, en constatant l'absence de l'intérêt requis.
@@ -164,12 +163,12 @@ D'office ou à la demande du membre de l'auditorat désigné ou à la demande d'
 Les mémoires introduits par la partie adverse sont écartés d'office des débats lorsqu'ils ne sont pas introduits dans les délais fixés conformément à l'alinéa 1er.
 Il existe dans le chef de la partie requérante, une présomption de désistement d'instance lorsqu'elle n'introduit aucune demande de poursuite de la procédure dans un délai de trente jours à compter de la notification du rapport de l'auditeur ou lors de la communication selon laquelle l'article 30, § 1er, alinéa 3, est appliqué et dans laquelle est proposé le rejet ou la déclaration d'irrecevabilité du recours.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 8, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 8, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="Art.21bis" href="#Art.21">Art.</a> <a href="#Art.22"> 21bis</a>.[<sup>1</sup> Ceux qui ont intérêt à la solution de l'affaire peuvent y intervenir. La chambre peut, d'office ou à la demande du membre de l'auditorat désigné ou d'une partie, appeler en intervention ceux dont la présence est nécessaire à la cause.
 L'intervenant à l'appui de la requête ne peut soulever d'autres moyens que ceux qui ont été formulés dans la requête introductive d'instance.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 9, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 9, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="Art.22" href="#Art.21bis">Art.</a> <a href="#Art.23"> 22</a>. L'instruction a lieu par écrit.
 Néanmoins, la section peut convoquer et entendre les parties. (...). &lt;L 1994-03-24/42, art. 3, 002; <b> En vigueur : </b> 27-05-1994&gt;
@@ -177,8 +176,7 @@ Néanmoins, la section peut convoquer et entendre les parties. (...). &lt;L 1994
 <a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>. (La (section du contentieux administratif) correspond directement par courrier avec toutes les autorités et administrations qu'elle estime nécessaires.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 11, 018; <b> En vigueur : </b> 01-12-2006&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 Elle a le droit de se faire communiquer par ces autorités et administrations tous documents et renseignements relatifs aux affaires sur lesquelles elle est appelée à statuer.
 
-<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. (Après l'accomplissement des mesures préalables, un membre de l'auditorat rédige un rapport sur l'affaire. Ce rapport, daté et signé, est transmis à la chambre dans un délai de six mois prenant cours à la date à laquelle le membre de l'auditorat reçoit le dossier complet de l'affaire.
-A la demande de l'auditeur général, ce délai peut être prorogé pour une seule période de six mois, par ordonnance motivée de la chambre saisie.
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. (Après l'accomplissement des mesures préalables, un membre de l'auditorat rédige un rapport sur l'affaire. Ce rapport, daté et signé, est transmis à la chambre dans un délai de six mois prenant cours à la date à laquelle le membre de l'auditorat reçoit le dossier complet de l'affaire. A la demande de l'auditeur général, ce délai peut être prorogé pour une seule période de six mois, par ordonnance motivée de la chambre saisie.
 Lorsque la chambre ordonne le dépôt d'un rapport complémentaire, les délais prévus à l'alinéa premier sont réduits à trois mois.
 En cas d'urgence, le président de la chambre saisie peut, par ordonnance motivée, après avoir recueilli l'avis de l'auditeur général, abréger les délais prévus aux alinéas précédents.) &lt;L 1996-08-04/60, art. 15, 006; <b> En vigueur : </b> 5555-55-55&gt;
 (Le cas échéant, le rapport peut se limiter à la fin de non-recevoir ou au moyen de fond qui permet la solution du litige.) (Dans ce cas, la (section du contentieux administratif) statue par voie d'arrêt sur les conclusions du rapport.) L 17-10-1990, art. 3&gt; &lt;L 1996-08-04/60, art. 16, 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
@@ -192,7 +190,8 @@ ou :
 ou :
 "Ich schwöre auf Ehre und Gewissen, die ganze Wahrheit und nur die Wahrheit zu sagen".) &lt;L 27-05-1974, art. 13&gt;
 Les témoins sont cités par lettre recommandée à la poste. Toute personne citée pour être entendue en témoignage par application du présent article sera tenue de comparaître et de satisfaire à la citation. Le refus de comparaître, de prêter serment ou de déposer sera puni d'une amende de vingt-six à cent (euros). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 13, 018; <b> En vigueur : </b> 01-12-2006&gt;
-Procès-verbal relatif à la non-comparution ou au refus de témoigner sous serment sera dressé et transmis au procureur du Roi de l'arrondissement dans lequel le témoin devait être entendu. Les dispositions du Code pénal relatives au faux témoignage en matière civile ainsi qu'à la subornation de témoins sont applicables à la procédure d'enquête prévue par le présent article.
+Procès-verbal relatif à la non-comparution ou au refus de témoigner sous serment sera dressé et transmis au procureur du Roi de l'arrondissement dans lequel le témoin devait être entendu.
+Les dispositions du Code pénal relatives au faux témoignage en matière civile ainsi qu'à la subornation de témoins sont applicables à la procédure d'enquête prévue par le présent article.
 
 <a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.26bis"> 26</a>. Dans les cas où une affaire n'est pas en état à l'expiration du délai réglementaire dans lequel l'arrêt ou l'avis doit intervenir, la (section du contentieux administratif) peut, par une décision motivée, proroger ce délai dans la mesure qui s'impose. Cette prorogation peut, en cas de nécessité, être renouvelée sans toutefois que la durée totale des prorogations puisse excéder le double du délai déterminé dans l'arrêté organique. &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 
@@ -211,9 +210,8 @@ Le Conseil d'Etat en assure la publication dans les cas, les formes et les condi
 
 <a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. L'article 258 du Code pénal relatif au déni de justice est applicable aux membres du Conseil d'Etat dans les matières prévues (aux articles (...) 11, 12, 13, 14, 16, 17, 18 et 36). &lt;L 1996-08-04/60, art. 19, 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 16, 018; <b> En vigueur : </b> 01-12-2006&gt;
 (Les principes qui régissent la récusation des juges et conseillers de l'Ordre judiciaire sont applicables aux membres de la (section du contentieux administratif) et de l'auditorat. En outre, ceux-ci ne peuvent connaître des demandes d'annulation, de suspension et de mesures provisoires concernant des arrêtés et règlements sur le texte desquels ils ont donné leur avis comme membre de la Section de Législation ou à propos desquels ils sont intervenus dans ladite section.) &lt;L 1999-05-25/44, art. 8, 010; <b> En vigueur : </b> 02-07-1999&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
-En outre, ceux-ci ne peuvent connaître des demandes d'annulation d'arrêté et de règlement sur le texte desquels ils ont donné leur avis comme membre de la section de législation.
 
-<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.30/1"> 30</a>.&lt;L 17-10-1990, art. 4&gt; [§ 1er.] [La procédure à suivre devant la [section du contentieux administratif] dans les cas visés aux [<sup>2</sup> articles 11, 12, 13, 14, 14ter, 16, 17, 30/1, 36 et 38]<sup>2</sup> sera déterminée par un arrêté royal délibéré en Conseil des ministres.] &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1996080460" target="_blank">1996-08-04/60</a>, art. 20, 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2000041831" target="_blank">2000-04-18/31</a>, art. 2, 011; <b> En vigueur : </b> 30-05-2000&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.30/1"> 30</a>.&lt;L 17-10-1990, art. 4&gt; [§ 1er.] [La procédure à suivre devant la [section du contentieux administratif] dans les cas visés aux [<sup>2</sup> articles 11, [<sup>4</sup> 11bis,]<sup>4</sup> 12, 13, 14, 14ter, 16, 17, 30/1, 36 et 38]<sup>2</sup> sera déterminée par un arrêté royal délibéré en Conseil des ministres.] &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1996080460" target="_blank">1996-08-04/60</a>, art. 20, 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2000041831" target="_blank">2000-04-18/31</a>, art. 2, 011; <b> En vigueur : </b> 30-05-2000&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 [<sup>2</sup> L'arrêté royal visé à l'alinéa premier détermine notamment les délais de prescription pour l'introduction des demandes et recours prévus aux articles 11 et 14, ces délais devant être de soixante jours au moins; il fixe les conditions d'exercice des interventions, oppositions et tierces oppositions, ainsi que des recours en révision; il fixe un montant au-delà duquel aucune astreinte n'est encourue; il fixe l'affectation des moyens attribués au fonds budgétaire visé à l'article 36, § 5; il fixe les tarifs des frais, dépens et droits, ces droits ne pouvant pas dépasser un montant de 225 euros; il prévoit l'octroi aux indigents du bénéfice de l'aide juridique de deuxième ligne; il fixe les modalités pour acquitter les frais, dépens et droits; il détermine les cas dans lesquels les parties ou leurs avocats peuvent décider conjointement que la cause ne doit pas être traitée en séance publique.]<sup>2</sup>
 [<sup>2</sup> L'arrêté royal visé à l'alinéa premier détermine les modalités spécifiques de la procédure d'examen d'une requête en annulation après que la suspension a été ordonnée et les cas où, après qu'il a été statué par arrêt sur la demande de suspension, le membre de l'auditorat désigné ne doit pas établir de nouveau rapport, ainsi que les règles qui doivent être suivies à cet égard.]<sup>2</sup>
 Si, en application de l'alinéa 2, la cause n'est pas traitée en séance publique, l'Auditorat ne rendra pas d'avis;) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 17, 018; <b> En vigueur : </b> 01-06-2007; 01-12-2006 en ce qui concerne les recours visés à l'article 14, § 2, des lois coordonnées&gt;
@@ -247,8 +245,9 @@ Lorsque le Conseil d'Etat est saisi d'une demande de suspension et d'une requêt
 § 9. [<sup>3</sup> ...]<sup>3</sup>
 ----------
 (<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011030301" target="_blank">2011-03-03/01</a>, art. 331 et 344, 024; En vigueur : 01-04-2011&gt;
-(<font color="red">2</font>)&lt;L 2014-01-20/13 , art. 10,1°-10,6°, 026; En vigueur : 03-02-2014&gt;
-(<font color="red">3</font>)&lt;L 2014-01-20/13 , art. 10,7°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014013002" target="_blank">2014-01-30/02</a>, art. 19, 1°&gt;
+(<font color="red">2</font>)&lt;L 2014-01-20/13, art. 10,1°-10,6°, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">3</font>)&lt;L 2014-01-20/13, art. 10,7°, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014013002" target="_blank">2014-01-30/02</a>, art. 19, 1°&gt;
+(<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014041068" target="_blank">2014-04-10/68</a>, art. 29, 027; En vigueur : 01-07-2014&gt;
 
 <a name="Art.30/1" href="#Art.30">Art.</a> <a href="#Art.31"> 30/1</a>. [<sup>1</sup> § 1er. La section du contentieux administratif peut accorder une indemnité de procédure qui est une intervention forfaitaire dans les frais et honoraires d'avocat de la partie ayant obtenu gain de cause.
 Après avoir pris l'avis de l'Ordre des barreaux francophones et germanophone et de "l'Orde van Vlaamse Balies", le Roi établit par arrêté délibéré en Conseil des Ministres, les montants de base, minima et maxima de l'indemnité de procédure, en fonction notamment de la nature de l'affaire et de l'importance du litige.
@@ -260,7 +259,7 @@ Si la partie succombante bénéficie de l'aide juridique de deuxième ligne, l'i
 Lorsque plusieurs parties bénéficient de l'indemnité de procédure à charge d'une ou de plusieurs parties succombantes, son montant est au maximum le double de l'indemnité de procédure maximale à laquelle peut prétendre le bénéficiaire qui est fondé à réclamer l'indemnité la plus élevée. Elle est répartie entre les parties par la section du contentieux administratif.
 Aucune partie ne peut être tenue au paiement d'une indemnité pour l'intervention de l'avocat d'une autre partie au-delà du montant de l'indemnité de procédure. Les parties intervenantes ne peuvent être tenues au paiement ou bénéficier de cette indemnité.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13 , art. 11, 026; En vigueur : indéterminée et au plus tard le 01-03-2014&gt;
+(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13, art. 11, 026; En vigueur : indéterminée et au plus tard le 01-03-2014&gt;
 
 <a name="Art.31" href="#Art.30/1">Art.</a> <a href="#Art.31bis"> 31</a>. Les arrêts contradictoires peuvent seuls faire l'objet de révision. Le recours en révision n'est recevable que si depuis l'arrêt il a été recouvré des pièces décisives qui auraient été retenues par le fait de l'adversaire ou si l'arrêt a été rendu sur pièces reconnues ou déclarées fausses.
 Le délai du recours s'ouvre à partir du jour de la découverte de la fausseté de la pièce ou de l'existence de la pièce retenue.
@@ -282,11 +281,11 @@ Lorsque la Cour casse l'arrêt (ou l'ordonnance visée à l'article 20, § 3) (p
 
 <a name="LNK0013" href="#LNKR0013">CHAPITRE III.</a> - [<sup>1</sup> De l'exécution des arrêts et de l'astreinte]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 12, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 12, 026; En vigueur : 01-03-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014012802" target="_blank">2014-01-28/02</a>, art. 51, 1°&gt;
 
 <a name="Art.35/1" href="#Art.35">Art.</a> <a href="#Art.36"> 35/1</a>.[<sup>1</sup> A la demande d'une des parties au plus tard dans le dernier mémoire, la section du contentieux administratif précise, dans les motifs de son arrêt d'annulation, les mesures à prendre pour remédier à l'illégalité ayant conduit à cette annulation.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13 , art. 12, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13, art. 12, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="Art.36" href="#Art.35/1">Art.</a> <a href="#LNK0014"> 36</a>.[<sup>1</sup> § 1er. Lorsque l'arrêt implique que l'autorité concernée prenne une nouvelle décision, la section du contentieux administratif, saisie d'une demande en ce sens, peut ordonner par cet arrêt que cette décision intervienne dans un délai déterminé. Elle peut l'ordonner par un arrêt ultérieur, pour autant que la partie à la requête de laquelle l'annulation a été prononcée ait, au préalable et par une lettre recommandée, mis l'autorité en demeure de prendre une nouvelle décision et qu'au moins trois mois se soient écoulés depuis la notification de l'arrêt en annulation.
 Lorsque la nouvelle décision à prendre résulte d'une compétence liée de la partie adverse, l'arrêt se substitue à celle-ci.
@@ -299,7 +298,7 @@ La partie à la requête de laquelle une astreinte a déjà été imposée peut 
 § 5. L'astreinte visée au paragraphe 2 est exécutée à la demande de la partie à la requête de laquelle elle a été imposée et à l'intervention du ministre de l'Intérieur. Elle est affectée pour moitié à un fonds budgétaire au sens de la loi organique du 27 décembre 1990 créant des fonds budgétaires. Ce fonds est dénommé "Fonds de gestion des astreintes". L'autre moitié est versée à la partie à la requête de laquelle l'astreinte a été imposée.
 Les moyens attribués à ce fonds sont utilisés pour la modernisation de l'organisation de la jurisprudence administrative.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 12, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 12, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="LNK0014" href="#LNKR0014">CHAPITRE IV.</a> - (DE L'AMENDE POUR RECOURS MANIFESTEMENT ABUSIF) &lt;L 2002-02-17/43, art. 2, <b> En vigueur : </b> 26-03-2002&gt;
 
@@ -327,7 +326,7 @@ Les autres parties peuvent, dans un délai de quinze jours à compter du moment 
 Si la section du contentieux administratif constate que le vice n'a pas été complètement corrigé ou que la correction est entachée de nouveaux vices, l'acte ou le règlement corrigé, ou, le cas échéant, le nouvel acte ou le nouveau règlement, est annulé.
 Si le vice a été complètement corrigé, la boucle administrative opère avec effets rétroactifs et le recours est rejeté.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;Rétabli par L 2014-01-20/13 , art. 13, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
+(<font color="red">1</font>)&lt;Rétabli par L 2014-01-20/13, art. 13, 026; En vigueur : 01-03-2014; voir AR 2014-01-28/02, art. 51, 1°&gt;
 
 <a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0015"> 39</a>. (Abrogé) &lt;L 28-06-1983, art. 107&gt;
 
@@ -473,7 +472,7 @@ Les conseillers d'Etat [<sup>2</sup> de chaque rôle linguistique]<sup>2</sup> s
 § 4. (Les conseillers d'Etat sont nommés à vie. Le premier président, le président et les présidents de chambre sont désignés dans ces fonctions parmi les conseillers d'Etat aux conditions et de la façon déterminées par les présentes lois.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 26, 018; <b> En vigueur : </b> 01-12-2006&gt;
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022102" target="_blank">2010-02-21/02</a>, art. 13, 023; En vigueur : 08-03-2010&gt;
-(<font color="red">2</font>)&lt;L 2014-01-20/13 , art. 14, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">2</font>)&lt;L 2014-01-20/13, art. 14, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>. § 1er. (Les auditeurs adjoints et les référendaires adjoints sont nommés par le Roi sur une liste indiquant l'ordre de leur classement à un concours dont le Conseil d'Etat détermine les conditions. Le jury chargé d'examiner les candidats comprend deux membres du Conseil d'Etat, l'auditeur général ou l'auditeur général adjoint et un premier auditeur désigné par lui ainsi qu'une personne étrangère à l'institution. Les membres du Conseil d'Etat et la personne étrangère à l'institution sont désignés par l'assemblée générale du Conseil d'Etat. Les membres de l'auditorat sont désignés par l'auditeur général ou l'auditeur général adjoint, selon le cas. La durée de validité du concours est de trois ans.
 Pour être admis au concours visé à l'alinéa 1er, le candidat doit avoir 27 ans accomplis, être docteur, licencié ou master en droit et avoir acquis ensuite une expérience professionnelle utile de nature juridique de trois ans. En cas de contestation, le jury décide de l'admission à l'examen.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 27, 018; <b> En vigueur : </b> 01-12-2006&gt;
@@ -509,7 +508,7 @@ Par dérogation à la condition fixée à l'alinéa précédent, 3°, le greffie
 § 3. (abroge) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 28, 018; <b> En vigueur : </b> 01-12-2006&gt;
 § 4. Les membres du greffe peuvent être suspendus et révoqués par le Roi, le Conseil d'Etat entendu.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 15, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 15, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.73" href="#Art.72">Art.</a> <a href="#Art.73/1"> 73</a>.§ 1er. Le président doit justifier par son diplôme qu'il a passé l'examen de docteur en droit dans la langue, française ou néerlandaise, autre que celle du premier président.
 (L'auditeur général adjoint doit justifier, par son diplôme, qu'il a passé l'examen de docteur ou de licencié en droit dans la langue, française ou néerlandaise, autre que celle de l'auditeur général.) &lt;L 1996-08-04/60, art. 25, 005; <b> En vigueur : </b> 1996-10-01&gt;
@@ -523,7 +522,7 @@ Pour les titulaires de fonctions au Conseil d'Etat et pour les membres du person
 § 3. (Il y aura au moins un membre du Conseil d'Etat [<sup>1</sup> , deux auditeurs]<sup>1</sup> et un membre du greffe qui devront en outre justifier de la connaissance suffisante de la langue allemande. Un arrêté royal déterminera le mode de justification de la connaissance suffisante de la langue allemande.
 [<sup>1</sup> ...]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 16, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 16, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.73/1" href="#Art.73">Art.</a> <a href="#Art.74"> 73/1</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 29; <b> En vigueur : </b> 01-12-2006&gt; Le premier président détermine, en concertation avec le président, s'il prend la responsabilité de la section de législation et du Bureau de Coordination ou de la (section du contentieux administratif), de façon à ce qu'un chef de corps justifiant de la connaissance de la langue française et néerlandaise ait toujours la responsabilité de la section de législation. L'autre titulaire du mandat de chef de corps a donc la responsabilité de l'autre section. Les deux chefs de corps se concertent pour déterminer si l'exercice de leurs compétences distinctes en la matière ont une influence sur leurs compétences respectives. &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 La désignation des membres du personnel administratif ainsi que la répartition des moyens mis à disposition est réalisée par le premier président conformément à son plan de gestion, en étroite concertation avec le président et les chefs de corps de l'Auditorat.
@@ -567,7 +566,7 @@ g) l'examen au grade de recrutement d'attaché, qualification "juriste", pour le
 Au moment de l'ouverture effective du mandat adjoint, le candidat doit avoir au moins trois ans de moins que la limite d'âge visée à l'article 104. Cette limite d'âge n'est pas applicable en cas de renouvellement du mandat adjoint.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022102" target="_blank">2010-02-21/02</a>, art. 14, 023; En vigueur : 08-03-2010&gt;
-(<font color="red">2</font>)&lt;L 2014-01-20/13 , art. 17, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">2</font>)&lt;L 2014-01-20/13, art. 17, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0028" href="#LNKR0028">Sous-section II.</a> - Procédure de désignation des mandats. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 30; <b> En vigueur : </b> 01-12-2006&gt;
 
@@ -596,7 +595,7 @@ Si, au moment de la vacance effective du mandat de premier président ou d'audit
 Si la vacance effective du mandat visé à l'alinéa précédent concerne le mandat de président ou d'auditeur général adjoint, il sera remplacé par le président de chambre ou par le premier auditeur chef de section en fonction de l'ordre d'ancienneté de service du même rôle linguistique.
 Le remplacement visé aux alinéas 3 et 4 prend fin de plein droit au moment de la désignation d'un nouveau titulaire de mandat.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 18, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 18, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.74/4" href="#Art.74/3">Art.</a> <a href="#Art.74/5"> 74/4</a>.&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 30; <b> En vigueur : </b> 01-12-2006&gt; § 1er. Les titulaires d'un mandat adjoint sont désignés comme suit :
 1° les présidents de chambre sont désignés par l'assemblée générale parmi ses membres;
@@ -610,7 +609,7 @@ Si aucun titulaire de fonction n'a été désigné au mandat de greffier en chef
 § 4. Avant l'expiration du terme du mandat, le titulaire de celui-ci peut le mettre à disposition par lettre recommandée à la poste ou adressée au Ministre de l'Intérieur contre accuse de réception. Il n'est toutefois mis fin au mandat qu'à l'expiration d'un délai de neuf mois à compter de la réception de la mise à disposition. Ce délai peut être réduit par le Roi sur demande motivée de l'intéressé.
 Les dispositions du § 3 sont d'application pour le titulaire de fonction qui met son mandat à disposition avant l'expiration du terme et qui n'assume pas d'autre mandat.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 19, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 19, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.74/5" href="#Art.74/4">Art.</a> <a href="#LNK0029"> 74/5</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 30; <b> En vigueur : </b> 01-12-2006&gt; L'exercice d'un mandat de chef de corps est incompatible avec l'exercice d'un mandat adjoint.
 Si le titulaire d'un mandat adjoint reprend un mandat de chef de corps au cours de son mandat, son mandat adjoint devient effectivement vacant le jour de la reprise du mandat de chef de corps.
@@ -653,34 +652,34 @@ En cas de mention "insuffisant", l'intéressé fait l'objet d'une nouvelle éval
 § 8. Les dossiers d'évaluation sont conservés par le premier président en ce qui concerne les membres du Conseil, du bureau de coordination et du greffe, et par l'auditeur général en ce qui concerne les membres de l'auditorat. Les évaluations sont confidentielles et peuvent être consultées à tout moment par les intéressés. Elles sont conservées pendant au moins dix ans.
 Lors de chaque nomination, présentation ou renouvellement de mandat, le dossier d'évaluation des six dernières années de l'intéressé est joint à l'attention de l'autorité investie du pouvoir de nomination.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 20, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 20, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0032" href="#LNKR0032">Sous-section II.</a> - L'évaluation périodique. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.74/8" href="#Art.74/7">Art.</a> <a href="#LNK0033"> 74/8</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38, 3°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38, 3°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0033" href="#LNKR0033">Sous-section III.</a> - L'évaluation des mandats adjoints. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.74/9" href="#Art.74/8">Art.</a> <a href="#LNK0034"> 74/9</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,3°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,3°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0034" href="#LNKR0034">Section 4.</a> - L'évaluation des membres du greffe. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="LNK0035" href="#LNKR0035">Sous-section Ire.</a> - L'évaluation du greffier en chef. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.74/10" href="#Art.74/9">Art.</a> <a href="#LNK0036"> 74/10</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,3°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,3°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0036" href="#LNKR0036">Sous-section II.</a> - L'évaluation des greffiers. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.74/11" href="#Art.74/10">Art.</a> <a href="#LNK0037"> 74/11</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,3°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,3°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0037" href="#LNKR0037">Sous-section 3.</a> - La procédure d'évaluation du greffier en chef et du greffier. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 31; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.74/12" href="#Art.74/11">Art.</a> <a href="#LNK0038"> 74/12</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,3°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,3°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0038" href="#LNKR0038">Section 5.</a> - Dispositions spécifiques concernant l'Auditorat. &lt;Intitulé de section inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 32; <b> En vigueur : </b> 01-12-2006&gt;
 
@@ -697,7 +696,7 @@ L'auditeur général, l'auditeur général adjoint, les premiers auditeurs-chefs
 § 2. Les membres de l'auditorat sont chargés de tenir à jour, de conserver et de mettre à disposition, sous la forme de fichiers automatisés, la documentation relative à la jurisprudence (et aux avis) du Conseil d'Etat. &lt;L 2003-04-02/40, art. 3, 015; <b> En vigueur : </b> 24-05-2003&gt;
 § 3. [<sup>1</sup> ...]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 21, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 21, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0039" href="#LNKR0039">Section 6.</a> - Disposition spécifique concernant le Bureau de Coordination. &lt;Intitulé de section inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 34; <b> En vigueur : </b> 01-12-2006&gt;
 
@@ -709,7 +708,7 @@ L'auditeur général, l'auditeur général adjoint, les premiers auditeurs-chefs
 [<sup>1</sup> 5° d'assurer l'élaboration et la diffusion des principes de la technique législative.]<sup>1</sup>
 Le bureau de coordination est placé sous l'autorité et la direction du premier président ou le président s'il est responsable de la section de législation.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 22, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 22, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0040" href="#LNKR0040">Section 7.</a> - Disposition spécifique concernant les membres du greffe. &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 36; <b> En vigueur : </b> 01-12-2006&gt;
 
@@ -744,9 +743,11 @@ Deux des chambres comprennent chacune deux membres justifiant de la connaissance
 <a name="Art.82" href="#Art.81">Art.</a> <a href="#Art.83"> 82</a>. La section peut appeler en consultation sur des questions spéciales des personnes particulièrement qualifiées.
 (Elle peut, pendant toute la procédure, poser des questions ou entendre soit le fonctionnaire délégué ou le représentant du ministre, soit le délégué du président de l'assemblée concernée s'il s'agit d'une proposition de loi, de décret ou d'ordonnance, désigné par le ministre ou le président de l'assemblée dans la demande d'avis.) &lt;L 2003-04-02/40, art. 5, 015; <b> En vigueur : </b> 24-05-2003&gt;
 
-<a name="Art.83" href="#Art.82">Art.</a> <a href="#Art.84"> 83</a>. (Le premier président reçoit les demandes visées aux articles 2 à 6 et en règle la distribution entre les quatre chambres selon un système défini dans son plan de gestion.) Chacune de celles-ci délibère dans la langue qui lui est propre. Sauf lorsqu'ils concernent des projets qui, légalement, ne sont rédigés qu'en français ou en néerlandais, les avis sont traduits dans l'autre langue et la concordance entre la version française et la version néerlandaise est vérifiée par les (...) membres de la chambre qui justifie de la connaissance des deux langues. &lt;L 06-05-1982, art. 8&gt; &lt;L 1996-08-04/60, art. 33 , 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 42, 018; <b> En vigueur : </b> 01-12-2006&gt;
-(Toutefois, pour les demandes d'avis rédigées en langue allemande, les avis sont traduits en allemand sous le contrôle d'un membre de l'auditorat ayant justifié de la connaissance approfondie de la langue allemande.) &lt;L 31-12-1983, art. 64&gt;
+<a name="Art.83" href="#Art.82">Art.</a> <a href="#Art.84"> 83</a>.(Le premier président reçoit les demandes visées aux articles 2 à 6 et en règle la distribution entre les quatre chambres selon un système défini dans son plan de gestion.) Chacune de celles-ci délibère dans la langue qui lui est propre. Sauf lorsqu'ils concernent des projets qui, légalement, ne sont rédigés qu'en français ou en néerlandais, les avis sont traduits dans l'autre langue et la concordance entre la version française et la version néerlandaise est vérifiée par les (...) membres de la chambre qui justifie de la connaissance des deux langues. &lt;L 06-05-1982, art. 8&gt; &lt;L 1996-08-04/60, art. 33 , 005; <b> En vigueur : </b> 1996-10-01&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 42, 018; <b> En vigueur : </b> 01-12-2006&gt;
+(Toutefois, pour les demandes d'avis rédigées en langue allemande, les avis sont traduits en allemand sous le contrôle d'un membre de l'auditorat ayant justifié de la connaissance [<sup>1</sup> suffisante]<sup>1</sup> de la langue allemande.) &lt;L 31-12-1983, art. 64&gt;
 (Les avis sont traduits dans un délai ne pouvant excéder quinze jours à dater de la communication de l'avis dans une seule langue.) &lt;L 2003-04-02/40, art. 6, 015; <b> En vigueur : </b> 14-06-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014041068" target="_blank">2014-04-10/68</a>, art. 30, 027; En vigueur : 31-05-2014&gt;
 
 <a name="Art.84" href="#Art.83">Art.</a> <a href="#Art.84bis"> 84</a>.&lt;L 2003-04-02/40, art. 7, 015; <b> En vigueur : </b> 14-06-2003&gt; § 1er. L'examen des affaires s'ouvre dans l'ordre de leur inscription au rôle, excepté :
 [<sup>1</sup> 1° lorsque l'autorité qui saisit la section de législation réclame la communication de l'avis dans un délai de soixante jours, prorogé à septante-cinq jours dans le cas où l'avis est donné par l'assemblée générale en application de l'article 85 ou par les chambres réunies en application de l'article 85bis;]<sup>1</sup>
@@ -761,18 +762,18 @@ Lorsque l'avis est demandé dans un délai visé au paragraphe 1er, alinéa 1er,
 § 4. Lorsque la demande d'avis porte sur un avant-projet ou une proposition de loi, de décret ou d'ordonnance ou sur un amendement à un tel projet ou à une telle proposition, la section de législation est tenue de communiquer, dans les délais visés au paragraphe 1er, alinéa 1er, [<sup>1</sup> ...]<sup>1</sup> , ou dans un délai supplémentaire accordé par le demandeur d'avis avant l'expiration de ceux-ci, un avis portant au moins sur les trois points visés au paragraphe 3, alinéa 1er.
 Lorsque la demande d'avis porte sur un projet d'arrêté réglementaire et que la section de législation n'a pas communiqué d'avis dans les délais visés au paragraphe 1er, alinéa 1er, [<sup>1</sup> ...]<sup>1</sup> , ou dans un délai supplémentaire accordé par le demandeur d'avis avant l'expiration de ceux-ci, le Conseil d'Etat est dessaisi de la demande et celle-ci est rayée du rôle. Dans le préambule de l'arrêté, il est fait mention de l'absence de la communication de l'avis dans le délai.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 23, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 23, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.84bis" href="#Art.84">Art.</a> <a href="#Art.84ter"> 84bis</a>.&lt;Inséré par L 1999-05-25/44, art. 23; <b> En vigueur : </b> 02-07-1999&gt; Dès réception d'une demande d'avis qui n'est pas assortie d'un délai en application de l'article 84, (paragraphe 1er, alinéa 1er, [<sup>1</sup> ...]<sup>1</sup> ), la Chambre saisie examine si les formalités préalables requises par l'avant-projet ou la proposition qui lui est soumis ont été accomplies. &lt;L 2003-04-02/40, art. 8, 015; <b> En vigueur : </b> 14-06-2003&gt;
 Dans les quinze jours qui suivent la réception de la demande visée à l'alinéa 1er, elle signale, s'il échet, à l'autorité, par écrit, les formalités préalables qui n'auraient pas été accomplies.
 Au cas où la Chambre saisie constate dans les formes et délais prescrits par l'alinéa 2 que le dossier n'est pas en état d'être examiné, celle-ci peut décider, par dérogation à l'article 84, (paragraphe 1er, alinéa 1er, phrase introductive), de procéder à l'examen de l'affaire qui suit immédiatement dans l'ordre de l'inscription au rôle. &lt;L 2003-04-02/40, art. 8, 015; <b> En vigueur : </b> 14-06-2003&gt;
 L'affaire dont l'examen est suspendu en application de l'alinéa précédent est omise du rôle et inscrite dans un rôle d'attente. L'examen en est repris au plus tôt après que le président de la Chambre a constaté le complet accomplissement des formalités.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 24, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 24, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.84ter" href="#Art.84bis">Art.</a> <a href="#Art.85"> 84ter</a>.&lt;Inséré par L 2003-04-02/40, art. 9; <b> En vigueur : </b> 14-06-2003&gt; L'auditeur qui, lors de l'examen d'une demande d'avis visée à l'article 84, § 1er, alinéa 1er, [<sup>1</sup> 1° et 2°]<sup>1</sup>, estime qu'une formalité prescrite n'a pas été accomplie, en informe immédiatement le fonctionnaire délégué ou le délégué du ministre.
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 25, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 25, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.85" href="#Art.84ter">Art.</a> <a href="#Art.85bis"> 85</a>. La section de législation siège en assemblée générale chaque fois que le président de l'une des Chambres législatives ou le ministre par qui elle est consultée lui en fait la demande.
 Prennent part à l'assemblée générale et y ont voix délibérative, les membres du Conseil d'Etat désignés (...) pour faire partie de la section de législation ainsi que les assesseurs. &lt;L 06-05-1982, art. 9&gt;
@@ -810,17 +811,21 @@ Par dérogation à l'alinéa 2, le président de chambre peut, si le requérant 
 Lorsque le titulaire d'un mandat de président de chambre estime que, pour assurer l'unité de la jurisprudence dans la chambre, une cause doit être traitée par trois juges, il ordonne le renvoi à une chambre composée de trois membres.
 Afin d'assurer l'unité de la jurisprudence, le titulaire d'un mandat de président de chambre informe immédiatement le premier président ou le président selon le cas, des affaires qui, selon lui, doivent être traitées par les chambres réunies de la (section du contentieux administratif). &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 26, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 26, 026; En vigueur : 03-02-2014&gt;
 
 <a name="LNK0044" href="#LNKR0044">CHAPITRE IV.</a> - (DE L'ASSEMBLEE GENERALE DE LA (SECTION DU CONTENTIEUX ADMINISTRATIF)) &lt;L L 16-06-1989, art. 21&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 
 <a name="Art.91" href="#Art.90">Art.</a> <a href="#Art.92"> 91</a>. Dans tous les cas où une chambre reconnaît y avoir lieu à révision ou à annulation du chef de détournement de pouvoir, le renvoi à l'assemblée générale de la section est de droit.
 
-<a name="Art.92" href="#Art.91">Art.</a> <a href="#Art.93"> 92</a>. &lt;L 1996-08-04/60, art. 39, 005; <b> En vigueur : </b> 1996-10-01&gt; (§ 1.) Lorsque, après avoir pris l'avis du conseiller d'Etat, chargé du rapport à l'audience, (le premier président ou le président) estime que, pour assurer l'unité de la jurisprudence, une affaire doit être traitée en assemblée générale de la (section du contentieux administratif), il en ordonne le renvoi à cette assemblée. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 48, 018; <b> En vigueur : </b> 01-12-2006&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
+<a name="Art.92" href="#Art.91">Art.</a> <a href="#Art.93"> 92</a>.&lt;L 1996-08-04/60, art. 39, 005; <b> En vigueur : </b> 1996-10-01&gt; (§ 1.) Lorsque, après avoir pris l'avis du conseiller d'Etat, chargé du rapport à l'audience, (le premier président ou le président) estime que, pour assurer l'unité de la jurisprudence, une affaire doit être traitée en assemblée générale de la (section du contentieux administratif), il en ordonne le renvoi à cette assemblée. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 48, 018; <b> En vigueur : </b> 01-12-2006&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 (Si le premier président et le président n'estiment pas nécessaire de convoquer l'assemblée générale, le président de chambre informe la chambre de l'affaire. Si la chambre, après délibération, demande la convocation de l'assemblée générale, le premier président ou le président s'il est responsable de la (section du contentieux administratif), est tenu d'y donner suite.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 48, 018; <b> En vigueur : </b> 01-12-2006&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 Lorsque, après avoir pris l'avis de l'auditeur, chargé du rapport, l'auditeur général estime, pour la même raison, qu'une affaire doit être traitée en assemblée générale de la (section du contentieux administratif), le premier président en ordonne le renvoi à cette assemblée. &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
-(§ 2. Lorsque le premier président ou le président, après avoir pris l'avis du membre du Conseil chargé de l'examen de l'admissibilité du recours en cassation au sens de l'article 20, estime que cet examen doit, pour assurer l'unité de la jurisprudence, être traité par les chambres réunies de la (section du contentieux administratif), il en ordonne le renvoi aux chambres réunies. S'il estime que l'intérêt de l'affaire l'exige, il peut décider, par dérogation à ce qui précède, de renvoyer l'affaire à l'assemblée générale de la (section du contentieux administratif). &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
+(§ 2. Lorsque le premier président ou le président, après avoir pris l'avis du membre du Conseil chargé de l'examen de l'admissibilité du recours en cassation au sens de l'article 20 [<sup>1</sup> ou de l'examen de ce recours]<sup>1</sup>, estime que cet examen doit, pour assurer l'unité de la jurisprudence, être traité par les chambres réunies de la (section du contentieux administratif), il en ordonne le renvoi aux chambres réunies. [<sup>1</sup> ...]<sup>1</sup> &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
 Si le premier président et le président n'estiment pas nécessaire de convoquer les chambres réunies, le président de chambre informe la chambre de l'affaire. Si la chambre, après délibération, demande la convocation des chambres réunies, le premier président ou le président s'il est responsable de la (section du contentieux administratif), est tenu d'y donner suite.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 48, 018; <b> En vigueur : </b> 01-12-2006&gt; &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042532" target="_blank">2007-04-25/32</a>, art. 99, 020; <b> En vigueur : </b> 01-06-2007&gt;
+[<sup>1</sup> Si le recours en cassation au sens de l'article 20 est déclaré admissible, le premier président ou le président, s'il est responsable de la section du contentieux administratif, en ordonne le renvoi en chambres réunies de la section du contentieux administratif chaque fois que la décision attaquée a été rendue par la juridiction administrative en assemblée générale ou en chambres réunies. Il en fait de même lorsque, après avoir pris l'avis de l'auditeur, chargé du rapport, l'auditeur général estime que, pour assurer l'unité de la jurisprudence, l'affaire doit être traitée par les chambres réunies.
+S'il estime que l'intérêt de l'affaire l'exige, le premier président ou le président s'il est responsable de la section du contentieux administratif peut décider, par dérogation à ce qui précède, de renvoyer l'affaire à l'assemblée générale de la section du contentieux administratif. Il en fait de même lorsque, après avoir pris l'avis de l'auditeur, chargé du rapport, l'auditeur général estime que, pour assurer l'unité de la jurisprudence, l'affaire doit être traitée par l'assemblée générale.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014041068" target="_blank">2014-04-10/68</a>, art. 14, 027; En vigueur : 31-05-2014&gt;
 
 <a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>.[<sup>1</sup> § 1er. Par dérogation aux articles 17, § 1er, alinéa 2, § 3, alinéa 5, §§ 4 et 7, 18, alinéas 2 à 4, 52, alinéa 2, et 61, les demandes, difficultés, recours en annulation ou recours en cassation, visés aux articles 11, 12, 13, 14, 16, 1° à [<sup>2</sup> 8°]<sup>2</sup>, 17, 18 et 36 ainsi que les oppositions, tierces oppositions et recours en révision, qui sont portés par une personne qui est établie dans une des communes visées à l'article 7 des lois coordonnées du 18 juillet 1966 sur l'emploi des langues en matière administrative sont traités à la demande de cette personne par l'assemblée générale de la section du contentieux administratif, lorsque les conditions suivantes sont cumulativement remplies :
 1° l'objet de la demande, de la difficulté ou du recours est localisé ou localisable dans ces communes;
@@ -842,7 +847,7 @@ Les articles 21, alinéa 6, et 30, § 3, ne sont d'application que si les deux m
 § 7. Les articles 21bis, § 2, et 30, § 2 et § 2bis, alinéa 3, première phrase, ne sont pas applicables aux affaires qui, en vertu des §§ 1er et 4, sont traitées par l'assemblée générale.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Rétabli par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012071934" target="_blank">2012-07-19/34</a>, art. 2, 025; En vigueur : 14-10-2012. Champ d'application temporel : art. 5&gt;
-(<font color="red">2</font>)&lt;L 2014-01-20/13 , art. 27, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">2</font>)&lt;L 2014-01-20/13, art. 27, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.95"> 94</a>. &lt;L 16-06-1989, art. 23&gt; L'assemblée générale est composée des membres du Conseil d'Etat visés à l'article 89, alinéa 1er. Elle siège en nombre pair qui ne peut être inférieur à huit, y compris celui qui la préside.
 Elle est composée en nombre égal de membres du Conseil d'Etat ayant justifié par leur diplôme qu'ils ont passé l'examen de docteur ou de licencié en droit dans la langue française d'une part et dans la langue néerlandaise d'autre part. Le cas échéant, il est fait application de l'article 89, alinéa 2.
@@ -873,7 +878,7 @@ Ce délai peut être prorogé, sans que la durée totale des prorogations puisse
 
 <a name="LNK0045" href="#LNKR0045">CHAPITRE V.</a> - [<sup>1</sup> De l'assemblée générale du Conseil d'Etat et du collège des chefs de corps]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 28, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 28, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.99" href="#Art.98">Art.</a> <a href="#Art.100"> 99</a>. L'assemblée générale du Conseil d'Etat se compose du premier président, du président, des présidents de chambre et des conseillers d'Etat. Elle est présidée par le premier président ou, à son défaut, par le président du Conseil d'Etat; à leur défaut, la présidence est exercée par le plus ancien des présidents de chambre ou, le cas échéant, des conseillers d'Etat présents.
 L'auditeur général est convoqué à toutes les assemblées générales. Il y est entendu chaque fois qu'il le demande.
@@ -884,9 +889,11 @@ Ils ont voix délibérative en ce qui concerne ces objets.
 <a name="Art.101" href="#Art.100">Art.</a> <a href="#Art.101/1"> 101</a>. (Le règlement d'ordre intérieur est arrêté par l'assemblée générale du Conseil d'Etat sur avis de l'auditeur général et de l'auditeur général adjoint. Il est approuvé par le Roi.) &lt;L 1996-08-04/60, art. 41, 005; <b> En vigueur : </b> 1996-10-01&gt;
 Les assesseurs de la section de législation (...) participent avec voix délibérative à l'élaboration des dispositions dudit règlement qui ont trait à la section à laquelle ils appartiennent. &lt;L 28-06-1983, art. 107&gt;
 
-<a name="Art.101/1" href="#Art.101">Art.</a> <a href="#Art.102"> 101/1</a>. [<sup>1</sup> Le collège des chefs de corps se compose du premier président, de l'auditeur général, du président et de l'auditeur général adjoint. Le greffier en chef et l'administrateur assistent aux réunions du collège avec voix consultative lorsqu'il est question de leurs attributions.]<sup>1</sup>
+<a name="Art.101/1" href="#Art.101">Art.</a> <a href="#LNK0046"> 101/1</a>. [<sup>1</sup> Le collège des chefs de corps se compose du premier président, de l'auditeur général, du président et de l'auditeur général adjoint. Le greffier en chef et l'administrateur assistent aux réunions du collège avec voix consultative lorsqu'il est question de leurs attributions.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13 , art. 29, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;Inséré par L 2014-01-20/13, art. 29, 026; En vigueur : 03-02-2014&gt;
+
+<a name="LNK0046" href="#LNKR0046">CHAPITRE VI.</a> - PERSONNEL ADMINISTRATIF
 
 <a name="Art.102" href="#Art.101/1">Art.</a> <a href="#Art.102bis"> 102</a>. La nomination et la révocation des membres du personnel administratif appartiennent à l'assemblée générale du Conseil d'Etat, qui peut déléguer tout ou partie de ce pouvoir au premier président.
 (Alinéa 2 abrogé) &lt;L 19-12-1974, art. 22&gt;
@@ -902,9 +909,9 @@ Sans préjudice de l'article 102, le premier président peut confier à l'admini
 [<sup>1</sup> ...]<sup>1</sup>
 Sans préjudice des dispositions de la présente loi, les dispositions réglant le régime administratif et pécuniaire du personnel des ministères sont applicables à l'administrateur. (Le Roi détermine le statut pécuniaire de l'administrateur.) L'administrateur doit justifier de la connaissance de la langue française ou néerlandaise, autre que celle de son diplôme. &lt;L 2006-09-15/71, art. 52, 4°, 018; <b> En vigueur : </b> 17-04-2007&gt;
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 30, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 30, 026; En vigueur : 03-02-2014&gt;
 
-<a name="Art.102ter" href="#Art.102bis">Art.</a> <a href="#LNK0046"> 102ter</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 53; <b> En vigueur : </b> 01-12-2006&gt; Le Roi, sur avis de l'assemblée générale du Conseil d'Etat, de l'auditeur général et de l'administrateur, nomme le titulaire du mandat-adjoint de directeur d'encadrement du personnel et de l'organisation et le titulaire du mandat-adjoint de directeur d'encadrement du budget et de la gestion, pour une période de cinq ans renouvelable, qui coïncide avec le début et la fin de la période durant laquelle l'administrateur exerce son mandat.
+<a name="Art.102ter" href="#Art.102bis">Art.</a> <a href="#LNK0047"> 102ter</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 53; <b> En vigueur : </b> 01-12-2006&gt; Le Roi, sur avis de l'assemblée générale du Conseil d'Etat, de l'auditeur général et de l'administrateur, nomme le titulaire du mandat-adjoint de directeur d'encadrement du personnel et de l'organisation et le titulaire du mandat-adjoint de directeur d'encadrement du budget et de la gestion, pour une période de cinq ans renouvelable, qui coïncide avec le début et la fin de la période durant laquelle l'administrateur exerce son mandat.
 Avant l'expiration du terme, le titulaire du mandat peut mettre son mandat à disposition par lettre recommandée à la poste ou contre accusé de réception, adressée au Ministre de l'Intérieur. Il n'est toutefois mis fin au mandat qu'au moment ou le nouveau directeur d'encadrement reprend le mandat sans que ce délai puisse excéder neuf mois à compter de la réception de la mise à disposition. Ce délai peut être réduit par le Roi sur demande motivée de l'intéressé. La durée du mandat de la personne qui est désignée directeur d'encadrement dans le mandat qui a pris fin anticipativement, par dérogation aux dispositions du 1er alinéa, est limitée à la durée restante du mandat qui a pris fin anticipativement.
 Personne ne peut être nommé titulaire du mandat-adjoint de directeur d'encadrement du personnel et de l'organisation ou titulaire du mandat-adjoint de directeur d'encadrement du budget et de la gestion s'il :
 1° n'a pas 27 ans accomplis;
@@ -913,7 +920,7 @@ Personne ne peut être nommé titulaire du mandat-adjoint de directeur d'encadre
 Les titulaires des mandats-adjoints de directeur d'encadrement du personnel et de l'organisation et de directeur d'encadrement du budget et de la gestion exercent leurs attributions sous l'autorité et la direction de l'administrateur.
 Sans préjudice des dispositions de la présente loi, les dispositions réglant le régime administratif et pécuniaire du personnel des ministères sont applicables aux titulaires des mandats-adjoints de directeur d'encadrement du personnel et de l'organisation et de directeur d'encadrement du budget et de la gestion. Le Roi détermine leur statut pécuniaire. Les titulaires des mandats-adjoints doivent justifier de la connaissance de la langue néerlandaise ou française, autre que celle de leur diplôme. Le directeur d'encadrement doit justifier l'obtention d'un diplôme dans une autre langue, néerlandaise ou française, que celui de l'autre directeur d'encadrement.
 
-<a name="LNK0046" href="#LNKR0046">CHAPITRE VII.</a> - DES REMUNERATIONS ET DES PENSIONS.
+<a name="LNK0047" href="#LNKR0047">CHAPITRE VII.</a> - DES REMUNERATIONS ET DES PENSIONS.
 
 <a name="Art.103" href="#Art.102ter">Art.</a> <a href="#Art.104"> 103</a>. Une loi fixe les traitements, majorations et indemnités alloués aux membres du Conseil d'Etat, aux membres de l'auditorat, du bureau de coordination et du greffe, ainsi que les indemnités revenant aux assesseurs de la section de législation.
 Les magistrats nommés assesseurs de la section de législation touchent les indemnités au même titre que les autres assesseurs.
@@ -928,24 +935,24 @@ L'assemblée générale du Conseil d'Etat se prononce sur la suite à donner à 
 Quinze jours au moins avant la date fixée pour l'assemblée générale, l'intéressé est informé du jour et de l'heure de la séance au cours de laquelle il pourra être entendu à sa demande, et est invité à fournir ses observations par écrit.
 La décision de l'assemblée générale est notifiée au ministre de l'Intérieur dans les quinze jours de son prononcé.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 31, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 31, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.104/3" href="#Art.104/2">Art.</a> <a href="#Art.104/4"> 104/3</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,4°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.104/4" href="#Art.104/3">Art.</a> <a href="#Art.104/5"> 104/4</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,4°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.104/5" href="#Art.104/4">Art.</a> <a href="#Art.104/6"> 104/5</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,4°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.104/6" href="#Art.104/5">Art.</a> <a href="#Art.105"> 104/6</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,4°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.105" href="#Art.104/6">Art.</a> <a href="#Art.106"> 105</a>. Les articles 391, 392, 393, 395, 396 et 397 du Code judiciaire sont applicables aux membres du Conseil d'Etat, de l'auditorat et du bureau de coordination, ainsi qu'au greffier en chef (...). &lt;L 17-10-1990, art. 14&gt;
 (Pour l'application de l'article 8, § 1, alinéas 2 et 4, de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, les désignations visées à l'article 74/1 sont assimilées à des nominations définitives.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 60, 018; <b> En vigueur : </b> 01-12-2006&gt;
 
-<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0047"> 106</a>. § 1. Les greffiers et les membres du personnel administratif sont mis à la retraite lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions ou lorsqu'ils ont atteint l'âge de 65 ans.
+<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0048"> 106</a>. § 1. Les greffiers et les membres du personnel administratif sont mis à la retraite lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions ou lorsqu'ils ont atteint l'âge de 65 ans.
 La loi générale sur les pensions civiles leur est applicable.
 § 2. Les greffiers et les membres du personnel administratif qui, à l'âge de 65 ans révolus ne réunissent pas les conditions légales de service pour obtenir une pension de retraite, sont placés dans la position de disponibilité selon le même régime que celui qui est prévu pour les agents de l'Etat.
 Toutefois, dans le cas où ils ne compteraient pas dix années de service, ils sont maintenus en activité jusqu'à ce que le minimum légal du temps de service leur soit acquis.
@@ -953,7 +960,7 @@ Toutefois, dans le cas où ils ne compteraient pas dix années de service, ils s
 Le Roi statue sur le maintien en activité des greffiers sur avis des Ministres réunis en Conseil. Il autorise, de la même manière, le maintien en activité des membres du personnel administratif.
 Le maintien en activité n'a effet que pour un an; il peut être renouvelé.
 
-<a name="LNK0047" href="#LNKR0047">CHAPITRE VIII.</a> - DES INCOMPATIBILITES ET DE LA DISCIPLINE.
+<a name="LNK0048" href="#LNKR0048">CHAPITRE VIII.</a> - DES INCOMPATIBILITES ET DE LA DISCIPLINE.
 
 <a name="Art.107" href="#Art.106">Art.</a> <a href="#Art.108"> 107</a>. Les fonctions des membres du Conseil d'Etat, de l'auditorat, du bureau de coordination et du greffe sont incompatibles avec les fonctions judiciaires, avec l'exercice d'un mandat public conféré par élection, avec toute fonction ou charge publique rémunérée d'ordre politique ou administratif, avec les charges de notaire et d'huissier de justice, avec la profession d'avocat, avec l'état militaire et l'état ecclésiastique.
 Il peut être dérogé à l'alinéa 1er :
@@ -1000,9 +1007,9 @@ Les titulaires des fonctions conférées pour assurer des remplacements sont nom
 
 <a name="Art.114" href="#Art.113">Art.</a> <a href="#Art.115"> 114</a>. Les parents et alliés, jusqu'au degré d'oncle et de neveu inclusivement, ne peuvent être simultanément membres du Conseil d'Etat sans une dispense du Roi; ils ne peuvent siéger simultanément, sauf aux assemblées générales.
 
-<a name="Art.115" href="#Art.114">Art.</a> <a href="#LNK0048"> 115</a>. Tout membre du Conseil d'Etat qui a manqué à la dignité de ses fonctions ou aux devoirs de son état peut, suivant le cas, être déclaré déchu ou suspendu de ses fonctions par arrêt rendu en assemblée générale par la Cour de cassation sur réquisitoire du procureur général près cette Cour.
+<a name="Art.115" href="#Art.114">Art.</a> <a href="#LNK0049"> 115</a>. Tout membre du Conseil d'Etat qui a manqué à la dignité de ses fonctions ou aux devoirs de son état peut, suivant le cas, être déclaré déchu ou suspendu de ses fonctions par arrêt rendu en assemblée générale par la Cour de cassation sur réquisitoire du procureur général près cette Cour.
 
-<a name="LNK0048" href="#LNKR0048">TITRE VIII.</a> - (DISPOSITIONS DIVERSES.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 66; <b> En vigueur : </b> 01-12-2006&gt;
+<a name="LNK0049" href="#LNKR0049">TITRE VIII.</a> - (DISPOSITIONS DIVERSES.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 66; <b> En vigueur : </b> 01-12-2006&gt;
 
 <a name="Art.116" href="#Art.115">Art.</a> <a href="#Art.117"> 116</a>. Les (recours en annulation, recours en cassation, requêtes ou demandes) prévus aux articles 11, 14 et 16 ne seront pas accueillis, si la contestation est antérieure à la promulgation de la loi du 23 décembre 1946 portant création d'un Conseil d'Etat. &lt;L 1999-05-25/44, art. 26, 010; <b> En vigueur : </b> 02-07-1999&gt;
 
@@ -1018,17 +1025,17 @@ Ce rapport contient, notamment :
 4° les informations relatives à la gestion du Conseil d'Etat et de son infrastructure ainsi que l'impact de l'évolution de la charge de travail sur les moyens mis à la disposition du Conseil d'Etat et un exposé de toutes les mesures pouvant avoir un impact budgétaire. Ces informations sont présentées selon une division entre la gestion des services centraux, des services de l'auditorat et du siège. Les informations relatives à la gestion du Conseil d'Etat incluent, à tout le moins, celles relatives à l'évolution des affaires pendantes et de l'arriéré judiciaire, y compris la procédure d'admissibilité des recours en cassation, et celles relatives au cadre du personnel et à l'occupation des effectifs.
 Ce rapport est communiqué, le cas échéant par voie électronique, au ministre de l'Intérieur, aux présidents des Assemblées législatives, à l'assemblée générale du Conseil d'Etat et aux membres de l'auditorat au plus tard le 31 décembre.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 32, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 32, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.120" href="#Art.119">Art.</a> <a href="#Art.121"> 120</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,5°, 026; En vigueur : 03-02-2014&gt;
+&lt;Abrogé par L 2014-01-20/13, art. 38,5°, 026; En vigueur : 03-02-2014&gt;
 
-<a name="Art.121" href="#Art.120">Art.</a> <a href="#LNK0049"> 121</a>.
-&lt;Abrogé par L 2014-01-20/13 , art. 38,5°, 026; En vigueur : 03-02-2014&gt;
+<a name="Art.121" href="#Art.120">Art.</a> <a href="#LNK0050"> 121</a>.
+&lt;Abrogé par L 2014-01-20/13, art. 38,5°, 026; En vigueur : 03-02-2014&gt;
 
-<a name="LNK0049" href="#LNKR0049">TITRE IX.</a> - Mesures en vue de résorber (l'arriéré juridictionnel) [<sup>1</sup> et de faire face à l'augmentation du nombre de demandes d'avis]<sup>1</sup>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 68; <b> En vigueur : </b> 01-12-2006. Noter qu'il existait déjà un titre IX; voir plus bas&gt; &lt;L 2006-12-27/33, art. 145, 019; <b> En vigueur : </b> 01-12-2006&gt;
+<a name="LNK0050" href="#LNKR0050">TITRE IX.</a> - Mesures en vue de résorber (l'arriéré juridictionnel) [<sup>1</sup> et de faire face à l'augmentation du nombre de demandes d'avis]<sup>1</sup>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 68; <b> En vigueur : </b> 01-12-2006. Noter qu'il existait déjà un titre IX; voir plus bas&gt; &lt;L 2006-12-27/33, art. 145, 019; <b> En vigueur : </b> 01-12-2006&gt;
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 33, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 33, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.122" href="#Art.121">Art.</a> <a href="#Art.123"> 122</a>.[<sup>1</sup> § 1er. Afin de pouvoir résorber ou prévenir le retard dans la section du contentieux administratif ou faire face à la charge de travail dans la section de législation, le nombre fixé à l'article 69, 1°, est porté respectivement de 44 à 50 et de 28 à 34, soit augmenté de trois conseillers d'Etat par rôle linguistique.
 Ces titulaires de fonction sont prioritairement chargés de contribuer à la résorption ou à la prévention du retard de la section du contentieux administratif, ou à la prise en charge du travail à la section de législation, dans les domaines juridiques où ce retard, existant ou à prévoir, ainsi que la charge de travail sont les plus importants. Ces domaines juridiques sont désignés par le premier président ou le président, selon la section concernée, après concertation avec les présidents des chambres concernées. Sans préjudice de l'application éventuelle de l'article 86, alinéa 2, le premier président ou le président affecte ces titulaires de fonction à une ou plusieurs chambres en fonction des besoins de ces chambres.
@@ -1037,7 +1044,7 @@ Il est mis fin à l'augmentation temporaire visée à l'alinéa 1er le 31 décem
 § 3. Ceux à qui une fonction de conseiller d'Etat est conférée par application de cet article, sont nommés dans cette fonction et l'occupent en surnombre. Ils accèdent de plein droit aux emplois visés à l'article 69, 1°, lorsque ceux-ci sont vacants, pour autant qu'ils démontrent la connaissance linguistique requise pour occuper l'emploi devenu vacant.
 En fonction des nécessités du service, le premier président désigne, en concertation avec le président, les conseillers d'Etat en surnombre pour la durée qu'il détermine dans une chambre d'une des deux sections du Conseil d'Etat.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 34, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 34, 026; En vigueur : 03-02-2014&gt;
 
 <a name="Art.123" href="#Art.122">Art.</a> <a href="#Art.124"> 123</a>.[<sup>1</sup> § 1er. Afin de pouvoir résorber ou prévenir le retard dans la section du contentieux administratif ou faire face à la charge de travail dans la section de législation, le nombre fixé à l'article 69, 2°, est porté de 64 à 76, soit augmenté de six premiers auditeurs, auditeurs ou auditeurs adjoints par rôle linguistique.
 Ces titulaires de fonction sont prioritairement chargés de contribuer à la résorption ou à la prévention du retard de la section du contentieux administratif, ou à la prise en charge du travail à la section de législation, dans les domaines juridiques où ce retard, existant ou à prévoir, ainsi que la charge de travail sont les plus importants. Ces domaines juridiques sont désignés par l'auditeur général ou l'auditeur général adjoint, chacun en ce qui concerne ses compétences, après concertation avec les premiers auditeurs-chefs de section concernés.
@@ -1046,24 +1053,24 @@ Il est mis fin à l'augmentation temporaire visée à l'alinéa 1er le 31 décem
 § 3. Ceux à qui une fonction de membre de l'auditorat est conférée par application de cet article, sont nommés dans cette fonction et l'occupent en surnombre. Ils accèdent de plein droit aux emplois visés à l'article 69, 2°, lorsque ceux-ci sont vacants, pour autant qu'ils apportent la preuve de la connaissance linguistique requise pour occuper l'emploi devenu vacant.
 En fonction des nécessités du service, l'auditeur général ou l'auditeur général adjoint, chacun en ce qui le concerne, affecte les membres de l'auditorat nommés en surnombre dans la section de l'auditorat qu'il détermine.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 35, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 35, 026; En vigueur : 03-02-2014&gt;
 
-<a name="Art.124" href="#Art.123">Art.</a> <a href="#LNK0050"> 124</a>.[<sup>1</sup> § 1er. Afin de pouvoir résorber ou prévenir le retard dans la section du contentieux administratif ou faire face à la charge de travail dans la section de législation, le nombre fixé à l'article 69, 4°, est porté de 25 à 31, soit augmenté de trois greffiers par rôle linguistique.
+<a name="Art.124" href="#Art.123">Art.</a> <a href="#LNK0051"> 124</a>.[<sup>1</sup> § 1er. Afin de pouvoir résorber ou prévenir le retard dans la section du contentieux administratif ou faire face à la charge de travail dans la section de législation, le nombre fixé à l'article 69, 4°, est porté de 25 à 31, soit augmenté de trois greffiers par rôle linguistique.
 Il est mis fin à l'augmentation temporaire visée à l'alinéa 1er le 31 décembre 2015. Toutefois, sur la proposition motivée de l'ensemble des chefs de corps, le nombre de greffiers visés à l'article 69, 4°, peut, si besoin en est, être augmenté par arrêté royal délibéré en Conseil des Ministres, au maximum à concurrence de trois greffiers par rôle linguistique, pour une période renouvelable de deux ans au maximum.
 § 2. Ceux à qui une fonction de greffier est conférée par application de cet article, sont nommés dans cette fonction et l'occupent en surnombre. Ils accèdent de plein droit aux emplois visés à l'article 69, 4°, lorsque ceux-ci sont vacants, pour autant qu'ils démontrent la connaissance linguistique requise pour occuper l'emploi devenu vacant.
 En fonction des nécessités du service, le premier président désigne en concertation avec le président les greffiers en surnombre pour la durée qu'il détermine dans une chambre d'une des deux sections du Conseil d'Etat.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L 2014-01-20/13 , art. 36, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">1</font>)&lt;L 2014-01-20/13, art. 36, 026; En vigueur : 03-02-2014&gt;
 
-<a name="LNK0050" href="#LNKR0050">TITRE IX.</a> - DISPOSITIONS TRANSITOIRES. (NOTE : alors que le présent titre IX existait déjà, la L 2006-09-15/71, art. 68, a complété les présentes lois coordonnées par un titre IX que Justel a placé plus haut.)
+<a name="LNK0051" href="#LNKR0051">TITRE IX.</a> - DISPOSITIONS TRANSITOIRES. (NOTE : alors que le présent titre IX existait déjà, la L 2006-09-15/71, art. 68, a complété les présentes lois coordonnées par un titre IX que Justel a placé plus haut.)
 
-<a name="LNK0051" href="#LNKR0051">CHAPITRE I.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 23 DECEMBRE 1946. &lt;Pour le texte, voir articles 60 et 63 de la L 23-12-1946, M.B. 09-01-1947&gt;
+<a name="LNK0052" href="#LNKR0052">CHAPITRE I.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 23 DECEMBRE 1946. &lt;Pour le texte, voir articles 60 et 63 de la L 23-12-1946, M.B. 09-01-1947&gt;
 
-<a name="LNK0052" href="#LNKR0052">CHAPITRE II.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 15 AVRIL 1958. &lt;Pour le texte, voir article 17 de la L 15-04-1958, M.B. 25-04-1958&gt;
+<a name="LNK0053" href="#LNKR0053">CHAPITRE II.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 15 AVRIL 1958. &lt;Pour le texte, voir article 17 de la L 15-04-1958, M.B. 25-04-1958&gt;
 
-<a name="LNK0053" href="#LNKR0053">CHAPITRE III.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 3 juin 1971. &lt;Pour le texte, voir articles 47 à 51 de la L 03-06-1971, M.B. 19-06-1971&gt;
+<a name="LNK0054" href="#LNKR0054">CHAPITRE III.</a> - DISPOSITIONS TRANSITOIRES DE LA LOI DU 3 juin 1971. &lt;Pour le texte, voir articles 47 à 51 de la L 03-06-1971, M.B. 19-06-1971&gt;
 
-<a name="LNK0054" href="#LNKR0054">Annexes.</a>
+<a name="LNK0055" href="#LNKR0055">Annexes.</a>
 
 <a name="Art.N1" href="#Art.124">Art.</a> <a href="#Art.1N1"> N1</a>. DISPOSITIONS NON REPRISES DANS LA COORDINATION.
 
