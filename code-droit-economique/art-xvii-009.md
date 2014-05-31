@@ -1,0 +1,1 @@
+Le président du tribunal de commerce peut ordonner l'interdiction des pratiques du marché visées aux articles VI. 92 à VI. 109 du présent Code lorsqu'elles n'ont pas encore débuté, mais qu'elles sont imminentes.
