@@ -1,0 +1,1 @@
+Le Roi peut adapter les dispositions énumérées à l'article XVII. 26 pour tenir compte des modifications éventuelles de l'annexe de la Directive 2009/22/CE du Parlement européen et du Conseil du 23 avril 2009 relative aux actions en cessation en matière de protection des intérêts des consommateurs.
