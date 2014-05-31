@@ -1,0 +1,1 @@
+Les personnes sont tenues à la confidentialité des informations qu'elles obtiennent en vue de la conclusion d'un accord de partenariat commercial et ne peuvent les utiliser, directement ou indirectement, en dehors de l'accord de partenariat commercial à conclure.

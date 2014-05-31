@@ -1,0 +1,1 @@
+Les clauses de l'accord de partenariat commercial et les données du document particulier visé à l'article X.28, sont rédigées de manière claire et compréhensible. En cas de doute sur le sens d'une clause ou d'une donnée, l'interprétation la plus favorable pour la personne qui obtient le droit prévaut.

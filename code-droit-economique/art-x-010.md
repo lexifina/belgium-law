@@ -1,0 +1,1 @@
+L'agent commercial n'a pas droit à la commission visée à l'article X.8 si celle-ci, en vertu de l'article X.9, est due à l'agent commercial précédent, à moins qu'il ne résulte des circonstances qu'il est équitable de partager la commission entre les agents commerciaux.

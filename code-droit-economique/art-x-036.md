@@ -1,0 +1,2 @@
+Lorsqu'une concession de vente soumise au présent titre est accordée pour une durée indéterminée il ne peut, hors le manquement grave d'une des parties à ses obligations, y être mis fin que moyennant un préavis raisonnable ou une juste indemnité à déterminer par les parties au moment de la dénonciation du contrat.
+A défaut d'accord des parties, le juge statue en équité, et, le cas échéant, en tenant compte des usages.
