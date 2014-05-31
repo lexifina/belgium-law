@@ -1,0 +1,4 @@
+§ 1er. L'exercice du droit de rétractation a pour effet d'éteindre l'obligation des parties:
+1° d'exécuter le contrat à distance, ou
+2° de conclure le contrat à distance, dans les cas où le consommateur a fait une offre.
+§ 2. Sans préjudice de l'article 24, alinéa 1er et 2, de la loi du 12 juin 1991 relative au crédit à la consommation, l'exercice par le consommateur de son droit de rétractation d'un contrat à distance conformément aux articles XIV. 29 à XIV. 34, § 1er, a pour effet de mettre automatiquement fin à tout contrat accessoire, sans frais pour le consommateur, à l'exception de ceux visés à l'article XIV. 32, § 2, et à l'article XIV. 33.

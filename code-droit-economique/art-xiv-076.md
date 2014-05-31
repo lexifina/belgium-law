@@ -1,0 +1,1 @@
+Il est interdit de créer, exploiter ou promouvoir un système de promotion pyramidale dans lequel une personne exerçant une profession libérale verse une participation en échange de la possibilité de percevoir une contrepartie provenant plutôt de l'entrée de nouvelles personnes exerçant une profession libérale dans le système que de la vente ou de la consommation de produits.

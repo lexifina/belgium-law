@@ -1,0 +1,1 @@
+Est interdit, tout acte contraire aux pratiques professionnelles honnêtes par lequel une personne exerçant une profession libérale porte atteinte ou peut porter atteinte aux intérêts professionnels d'une ou de plusieurs autres personnes exerçant une profession libérale ou d'une ou plusieurs autres entreprises.

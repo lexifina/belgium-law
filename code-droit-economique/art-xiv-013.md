@@ -1,0 +1,2 @@
+Le Roi désigne les biens, les services ou les catégories de biens ou de services pour lesquels les annonces visées à l'article XIV. 10, alinéa 1er, sont interdites, et fixe les modalités et les périodes d'application de ces interdictions.
+Avant de proposer un arrêté en application du précédent alinéa, le ministre consulte le Conseil de la consommation et le Conseil supérieur des indépendants et des P.M.E. et fixe le délai raisonnable dans lequel l'avis doit être donné. Passé ce délai, l'avis n'est plus requis.
