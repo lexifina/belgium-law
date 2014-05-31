@@ -1,0 +1,3 @@
+§ 1er. Tout appel téléphonique pour des raisons de marketing direct vers un numéro de téléphone qui est repris dans le fichier visé à l'article XIV. 78, § 2, est interdit.
+Pour tout appel téléphonique pour des raisons de marketing direct, l'appelant vérifie préalablement si le numéro concerné n'est pas repris dans ce fichier.
+§ 2. L'interdiction visée au § 1er ne s'applique pas aux appels vers des numéros de téléphone d'abonnés qui ont donné leur accord exprès aux personnes qui font des appels téléphoniques pour des raisons de marketing direct ou au nom desquelles de tels appels sont faits, pour utiliser leurs données personnelles à de telles fins.

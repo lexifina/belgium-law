@@ -1,0 +1,1 @@
+Sans préjudice de réglementations particulières qui l'autorisent expressément, il est interdit à toute personne exerçant une profession libérale de faire signer par le consommateur une lettre de change pour se faire promettre ou se faire garantir le paiement des engagements de celui-ci.

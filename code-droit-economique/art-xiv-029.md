@@ -1,0 +1,8 @@
+§ 1er. Sans préjudice de l'article XIV. 35, le consommateur dispose d'un délai de 14 jours pour se rétracter d'un contrat à distance, sans avoir à motiver sa décision et sans encourir d'autres coûts que ceux prévus à l'article XIV. 32, § 2, et à l'article XIV. 33.
+§ 2. Sans préjudice de l'article XIV. 30, le délai de rétractation visé au paragraphe 1er expire après une période de 14 jours à compter:
+1° en ce qui concerne les contrats de service du jour de la conclusion du contrat;
+2° en ce qui concerne les contrats de vente, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du bien ou:
+a) dans le cas de biens multiples commandés par le consommateur dans une seule commande et livrés séparément, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier bien;
+b) dans le cas de la livraison d'un bien composé de lots ou de pièces multiples, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier lot ou de la dernière pièce;
+c) dans le cas des contrats portant sur la livraison régulière de biens pendant une période de temps définie, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du premier bien.
+3° en ce qui concerne les contrats portant sur la fourniture d'eau, de gaz et d'électricité lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain, du jour de la conclusion du contrat.

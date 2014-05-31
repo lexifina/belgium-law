@@ -1,0 +1,1 @@
+En cas d'utilisation d'un moyen de paiement, il est interdit à la personne exerçant une profession libérale de facturer au consommateur des frais supérieurs aux coûts qu'elle supporte pour l'utilisation de ces mêmes moyens.
