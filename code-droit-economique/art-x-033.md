@@ -1,0 +1,1 @@
+La phase précontractuelle de l'accord de partenariat commercial relève de la loi belge et de la compétence des tribunaux belges, lorsque la personne qui reçoit le droit exerce l'activité à laquelle se rapporte l'accord principalement en Belgique.

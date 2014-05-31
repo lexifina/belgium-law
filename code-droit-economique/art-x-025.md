@@ -1,0 +1,1 @@
+Sous réserve de l'application des conventions internationales auxquelles la Belgique est partie et nonobstant des clauses contraires dans le contrat d'agence commerciale, toute activité d'un agent commercial ayant son établissement principal en Belgique relève de la loi belge et de la compétence des tribunaux belges.

@@ -1,0 +1,9 @@
+Après la cessation du contrat d'agence commerciale, l'agent commercial a droit à une indemnité d'éviction lorsqu'il a apporté de nouveaux clients au commettant ou a développé sensiblement les affaires avec la clientèle existante, pour autant que cette activité puisse encore procurer des avantages substantiels au commettant.
+Si le contrat d'agence commerciale prévoit une clause de non-concurrence, le commettant est réputé, sauf preuve contraire, recevoir des avantages substantiels.
+Le montant de l'indemnité d'éviction est fixé en tenant compte tant de l'importance du développement des affaires que de l'apport de clientèle.
+L'indemnité d'éviction ne peut dépasser le montant d'une année de rémunération, calculé d'après la moyenne des cinq dernières années, ou, si la durée du contrat d'agence commerciale est inférieure à cinq ans, d'après la moyenne des années précédentes.
+L'indemnité d'éviction n'est pas due:
+1° si le commettant a mis fin au contrat d'agence commerciale en raison d'un manquement grave prévu à l'article X.17, alinéa 1er, imputable à l'agent;
+2° si l'agent a mis fin au contrat d'agence commerciale, à moins que cette cessation ne soit due à un motif prévu à l'article X.17, alinéa 1er, imputable au commettant ou qui soit la conséquence de l'âge, l'infirmité ou la maladie de l'agent commercial en raison desquels la poursuite de ses activités ne peut raisonnablement plus être exigée de lui;
+3° lorsque, selon un accord avec le commettant, l'agent commercial ou ses héritiers cèdent à un tiers les droits et obligations qu'ils détiennent en vertu du contrat d'agence commerciale.
+L'agent perd le droit à l'indemnité d'éviction s'il n'a pas notifié au commettant, dans un délai d'un an à compter de la cessation du contrat d'agence commerciale, qu'il veut faire valoir ses droits.

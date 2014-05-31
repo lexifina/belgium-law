@@ -1,0 +1,1 @@
+Les actions naissant du contrat, mentionné à l'article I.11, 1°, sont prescrites un an après la cessation de celui-ci ou cinq ans après le fait qui a donné naissance à l'action, sans que ce dernier délai puisse excéder un an après la cessation du contrat.
