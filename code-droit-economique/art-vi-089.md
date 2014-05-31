@@ -1,0 +1,8 @@
+§ 1er. Toute entreprise qui fournit des services au consommateur est tenue de délivrer gratuitement au consommateur qui en fait la demande un document justificatif. Cette obligation est levée lorsque le prix du service a été communiqué conformément à l'article VI.3, § 2, ou lorsqu'est délivré un devis ou une facture comprenant les mentions visées au paragraphe 2.
+N'entrent pas dans le champ d'application du présent article, les contrats conclus sous la dénomination "forfait" ou sous toute autre dénomination équivalente, ayant pour objet la prestation d'un service pour un prix global fixe, convenu préalablement à la prestation et couvrant la totalité de ce service.
+§ 2. Le Roi:
+- détermine, soit de façon générale, soit pour les services ou catégories de services qu'Il désigne, les mentions qui doivent figurer sur le document justificatif;
+- peut dispenser les services ou catégories de services qu'Il désigne de l'application de la présente section;
+- peut désigner les biens ou catégories de biens auxquels la présente section s'appliquera;
+- peut, par dérogation au paragraphe 1er, pour les services ou catégories de services qu'Il détermine, imposer à l'entreprise de délivrer gratuitement au consommateur un document justificatif dont Il détermine les mentions et les modalités.
+§ 3. Les arrêtés pris en application du paragraphe 2, quatrième tiret, sont soumis par le ministre à l'avis du Conseil de la consommation et à l'avis du Conseil supérieur des indépendants et des P.M.E. Le ministre fixe le délai raisonnable dans lequel l'avis doit être rendu. A défaut d'avoir été émis dans le délai prévu, l'avis n'est plus requis.

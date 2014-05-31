@@ -1,0 +1,1 @@
+Le Roi, par arrêté délibéré en Conseil des ministres, peut, sur avis unanime du Conseil de la consommation, imposer à l'ensemble d'un secteur l'application d'un accord collectif de consommation dont le champ d'application est national.

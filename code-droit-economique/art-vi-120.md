@@ -1,0 +1,1 @@
+Les conditions contractuelles générales déterminées dans les accords collectifs de consommation doivent être soumises préalablement pour avis à la Commission des clauses abusives, qui rend son avis dans les trois mois. Passé ce délai, l'accord collectif de consommation peut être conclu.

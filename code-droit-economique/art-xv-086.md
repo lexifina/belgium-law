@@ -1,0 +1,1 @@
+Sont punis d'une sanction de niveau 6, ceux qui commettent une infraction aux articles VI. 100, 12°, 14°, 16° et 17°, et VI. 103, 1°, 2° et 8° relatifs aux pratiques commerciales déloyales et à l'article VI. 109.

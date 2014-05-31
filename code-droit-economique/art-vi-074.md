@@ -1,0 +1,1 @@
+L'offre en vente et la vente de produits au moyen d'activités ambulantes n'est permise que dans la mesure où elle respecte la législation relative à ces activités. Pour le surplus, les dispositions du présent livre lui sont applicables.

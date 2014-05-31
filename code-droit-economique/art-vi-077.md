@@ -1,0 +1,1 @@
+Le Roi peut, pour des biens déterminés, autoriser des dérogations à la disposition de l'article VI.76, § 1er, lorsque l'offre en vente ou la vente de ces biens par d'autres procédés de vente s'avère difficile ou impossible.

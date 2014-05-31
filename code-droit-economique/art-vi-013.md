@@ -1,0 +1,2 @@
+Lorsque la quantité nominale n'a pas été indiquée conformément aux dispositions de l'article VI.11, § 1er, l'entreprise ne peut offrir en vente les biens au consommateur qu'après avoir indiqué cette quantité exprimée en unités de mesure, de manière lisible, apparente et non équivoque, sur l'emballage ou, à défaut de celui-ci, sur le bien même ou sur un écriteau placé à proximité du bien.
+La quantité ne doit pas être mentionnée pour les biens vendus en vrac.

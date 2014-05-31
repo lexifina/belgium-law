@@ -1,0 +1,3 @@
+En cas de manquement aux dispositions du livre VI, titre 3, chapitre 4, les agents visés à l'article XV.2 et les officiers de police judiciaire peuvent dresser procès-verbal. Une copie de ce procès-verbal est remise ou notifiée à l'organisateur ou à son préposé par lettre recommandée.
+Les agents précités peuvent, dans cette hypothèse, ordonner verbalement et sur place l'interdiction de procéder à la vente des biens visés au procès-verbal ou l'arrêt de cette vente.
+Ils peuvent procéder, à titre conservatoire, à la saisie des biens faisant l'objet de l'infraction, conformément aux dispositions de l'article XV.4.

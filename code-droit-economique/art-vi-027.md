@@ -1,0 +1,1 @@
+L'entreprise peut faire de la publicité pour les offres en ventes et ventes sous les dénominations visées à l'article VI.25, § 1er, avant le début des périodes visées à l'article VI.25, à condition que cette publicité mentionne la date à partir de laquelle elle prend effet.

@@ -1,0 +1,8 @@
+En cas de communication par téléphonie vocale, l'identité de l'entreprise et le but commercial de l'appel doivent être indiqués clairement et explicitement au début de toute conversation avec le consommateur.
+Sous réserve de l'accord formel du consommateur, seules les informations ci-après doivent être fournies:
+a) l'identité et la qualité de la personne en contact avec le consommateur et son lien avec le fournisseur;
+b) une description des principales caractéristiques du service financier;
+c) le prix total dû par le consommateur à l'entreprise pour le service financier, y compris l'ensemble des rémunérations, charges et dépenses y afférentes et tous les impôts et taxes à acquitter par l'intermédiaire de l'entreprise ou, lorsqu'un prix exact ne peut être indiqué, la base de calcul du prix, permettant au consommateur de le vérifier;
+d) l'indication de l'existence éventuelle d'autres taxes, impôts et/ou frais qui ne sont pas acquittés par l'intermédiaire de l'entreprise ou imposés par elle;
+e) l'existence ou l'absence du droit de rétractation prévu à l'article VI.58 et, si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer sur la base de l'article VI.59, § 1er, ainsi que les conséquences découlant de l'absence d'exercice de ce droit.
+L'entreprise informe le consommateur que d'autres informations peuvent être fournies sur demande et l'informe de la nature de ces informations. En tout état de cause, l'entreprise fournit des informations complètes lorsqu'elle remplit ses obligations en vertu de l'article VI.57.

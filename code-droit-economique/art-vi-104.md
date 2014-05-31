@@ -1,0 +1,1 @@
+Est interdit, tout acte contraire aux pratiques honnêtes du marché par lequel une entreprise porte atteinte ou peut porter atteinte aux intérêts professionnels d'une ou de plusieurs autres entreprises.

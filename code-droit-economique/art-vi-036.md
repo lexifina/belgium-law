@@ -1,0 +1,3 @@
+§ 1er. La Commission pour l'étiquetage et la publicité écologiques est chargée d'émettre des avis et des recommandations, au sujet de la publicité et de l'étiquetage, relatifs aux effets sur l'environnement et au sujet de l'élaboration d'un code de la publicité écologique.
+§ 2. Après avis de la Commission et à l'initiative conjointe du ministre et du ministre ayant l'Environnement dans ses attributions, le Roi peut imposer un code de la publicité écologique.
+§ 3. Le Roi détermine la composition de la Commission. Celle-ci doit compter, parmi ses membres, au moins deux représentants d'associations de protection de l'environnement.

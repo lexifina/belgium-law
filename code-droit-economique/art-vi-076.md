@@ -1,0 +1,2 @@
+§ 1er. Les offres en vente et ventes publiques au sens de l'article VI.75 ne sont autorisées que lorsqu'elles portent sur des biens usagés.
+§ 2. Est réputé usagé, tout bien qui présente des signes apparents d'usage, sauf si les signes apparents d'usage sont le résultat exclusif d'un traitement de vieillissement artificiel, ainsi que tout bien dont l'entreprise peut prouver qu'il a déjà été utilisé d'une manière normale.

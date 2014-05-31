@@ -1,0 +1,9 @@
+Sans préjudice d'autres dispositions légales ou réglementaires, est interdite toute publicité d'une entreprise qui:
+1° tous les éléments pris en compte, d'une manière quelconque, y compris sa présentation ou l'omission d'informations, induit en erreur ou est susceptible d'induire en erreur la personne à laquelle elle s'adresse ou qu'elle touche, notamment sur:
+a) les caractéristiques des biens ou services, telles que leur disponibilité, leur nature, leur exécution, leur composition, le mode et la date de fabrication ou de prestation, les effets sur l'environnement, leur caractère approprié, leurs utilisations, leur quantité, leurs spécifications, leur origine géographique ou commerciale, les résultats qui peuvent être attendus de leur utilisation, les résultats et les caractéristiques essentiels des tests ou contrôles effectués sur les biens ou les services;
+b) le prix ou son mode d'établissement et les conditions de fourniture des biens ou de prestation des services;
+c) la nature, les qualités, les qualifications et les droits d'une entreprise, tels que son identité, son patrimoine, ses compétences et ses droits de propriété industrielle, commerciale ou intellectuelle ou les prix qu'elle a reçus et ses distinctions;
+et qui, pour ces raisons, est susceptible d'affecter son comportement économique ou qui, pour ces raisons, porte préjudice ou est susceptible de porter préjudice à une entreprise;
+2° comporte des éléments dénigrants à l'égard d'une autre entreprise, de ses biens, de ses services ou de son activité;
+3° permet sans motif légitime d'identifier une ou plusieurs autres entreprises;
+4° favorise un acte qui doit être considéré comme un manquement au présent livre ou comme une infraction en application des articles XV. 83 à 86 et XV. 126.

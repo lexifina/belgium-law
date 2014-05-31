@@ -1,0 +1,1 @@
+Il incombe à l'entreprise de fournir la preuve qu'elle a satisfait aux obligations concernant l'information du consommateur, le respect des délais, le consentement du consommateur à la conclusion du contrat et, le cas échéant, à son exécution pendant le délai de rétractation.

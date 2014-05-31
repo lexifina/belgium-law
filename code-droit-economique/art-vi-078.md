@@ -1,0 +1,3 @@
+Les offres en vente et ventes publiques au sens de l'article VI.75 ne peuvent avoir lieu que dans des locaux exclusivement destinés à cet usage, sauf dérogation accordée, en cas de nécessité, par le ministre ou le fonctionnaire désigné par lui à cet effet.
+Tout organisateur d'une offre en vente ou d'une vente publique est responsable du respect des dispositions de l'alinéa 1er et de l'article VI.76.
+L'organisateur mentionne, d'une manière lisible, son nom, prénom ou sa dénomination sociale, son domicile ou son siège social et son numéro d'entreprise dans toute annonce, publicité ou tout document se rapportant à l'offre en vente et à la vente publique.

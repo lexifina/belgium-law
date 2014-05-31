@@ -1,0 +1,2 @@
+§ 1er. Le fournisseur est responsable vis-à-vis du consommateur du respect des obligations résultant des articles VI.55 à VI.57.
+§ 2. En cas de non-respect des obligations résultant des articles VI.55, § 1er, 2° et 3°, VI.56 et VI.57, le consommateur peut résilier le contrat sans frais ni pénalités, par lettre recommandée à la poste et motivée, dans un délai raisonnable à partir du moment où il a connaissance ou aurait dû avoir connaissance du non-respect de ces obligations.

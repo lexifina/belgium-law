@@ -1,0 +1,7 @@
+§ 1er. Les dénominations enregistrées sont protégées contre toute:
+a) utilisation commerciale directe ou indirecte d'une dénomination enregistrée pour des produits non couverts par l'enregistrement, dans la mesure où ces produits sont comparables à ceux enregistrés sous cette dénomination ou dans la mesure où cette utilisation permet de profiter de la réputation de la dénomination protégée;
+b) usurpation, imitation ou évocation, même si l'origine véritable du produit est indiquée ou si la dénomination protégée est traduite ou accompagnée d'une expression telle que "genre", "type", "méthode", "façon", "imitation" ou d'une expression similaire;
+c) autre indication fausse ou fallacieuse quant à la provenance, l'origine, la nature ou les qualités substantielles du produit figurant sur le conditionnement ou l'emballage, sur la publicité ou sur des documents afférents au produit concerné, ainsi que contre l'utilisation pour le conditionnement d'un récipient de nature à créer une impression erronée sur l'origine;
+d) autre pratique susceptible d'induire le consommateur en erreur quant à la véritable origine du produit.
+Lorsqu'une dénomination enregistrée contient en elle-même le nom d'un produit considéré comme générique, l'utilisation de ce nom générique sur les produits n'est pas considérée comme contraire à l'alinéa 1er, a) ou b).
+§ 2. Les dénominations enregistrées ne peuvent pas devenir génériques.
