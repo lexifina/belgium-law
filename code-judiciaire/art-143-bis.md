@@ -1,6 +1,6 @@
 § 1er. Les procureurs généraux près les cours d'appel forment ensemble un collège, appelé collège des procureurs généraux, qui est placé sous l'autorité du ministre de la Justice. La compétence du collège s'étend à l'ensemble du territoire du Royaume et ses décisions engagent (tous les procureurs généraux près les cours d'appel, le procureur fédéral et tous les membres du ministère public placés (sous leur autorité ou sous leur surveillance et direction)).
 § 2. Le collège des procureurs généraux décide, par consensus, de toutes les mesures utiles en vue:
-1° de la mise en oeuvre cohérente et de la coordination de la politique criminelle déterminée par les directives visées à l'article 143ter, et dans le respect de leur finalité;
+1° de la mise en oeuvre cohérente et de la coordination de la politique criminelle déterminée par les directives visées à l'article 143quater, et dans le respect de leur finalité;
 2° du bon fonctionnement général et de la coordination du ministère public.
 Si aucun consensus ne peut être dégagé au sein du collège, et si l'exécution des directives du ministre relatives à la politique criminelle est ainsi mise en péril, le ministre de la Justice prend les mesures nécessaires pour assurer leur application.
 § 3. Le collège des procureurs généraux est en outre chargé d'informer le ministre de la Justice et de lui donner avis, d'initiative ou à sa demande, sur toute question en rapport avec les missions du ministère public.
@@ -13,7 +13,7 @@ Ces réseaux veillent, sous l'autorité du collège des procureurs généraux et
 § 4. (Pour l'exécution de ses missions, le Collège est assisté de manière permanente par des magistrats d'assistance, dont le nombre est déterminé par la loi.
 Pour l'exécution de ses missions, le Collège peut, âpres avis du chef de corps concerné, faite appel temporairement à des membres du ministère public, à l'exception de ceux qui exercent les fonctions du ministère public près la Cour de cassation.)
 § 5. Le collège des procureurs généraux se réunit au moins une fois par mois, de sa propre initiative ou à la demande du ministre de la Justice.
-Le ministre de la Justice, ou en cas d'empêchement, son délégué, assiste aux réunions du collège lorsqu'elles portent sur des compétences visées à l'article 143ter et lorsque le collège se réunit à sa demande dans le cadre de l'exercice des compétences mentionnées au § 2.
+Le ministre de la Justice, ou en cas d'empêchement, son délégué, assiste aux réunions du collège lorsqu'elles portent sur des compétences visées à l'article 143quater et lorsque le collège se réunit à sa demande dans le cadre de l'exercice des compétences mentionnées au § 2.
 Le ministre préside les réunions du collège auxquelles il assiste.
 Pour l'exercice des compétences du collège, et après concertation avec celui-ci, le Roi peut confier à chacun de ses membres des tâches spécifiques.
 (Sauf si le Collège se réunit dans le cadre du § 3, troisième alinéa, le procureur fédéral peut participer aux réunions du Collège.)

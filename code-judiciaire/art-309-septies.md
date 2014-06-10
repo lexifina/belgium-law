@@ -1,0 +1,2 @@
+§ 1er. Les membres du personnel judiciaire peuvent être autorisés par le Roi, sur l'avis du chef de corps, greffier en chef ou secrétaire en chef compétent, à accomplir une mission internationale confiée par décision du conseil des ministres dans le cadre de la coopération au développement, des missions de paix, de la recherche scientifique ou de l'aide humanitaire.
+§ 2. Le Roi peut, par arrêté délibéré en Conseil de ministres, fixer une indemnité de poste ainsi que les conditions dans lesquelles les missions internationales peuvent être exercées.

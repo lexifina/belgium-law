@@ -1,5 +1,5 @@
 Peuvent en outre porter le titre d'avocat et en exercer la profession, les ressortissants d'un Etat membre de l'Union européenne qui satisfont aux conditions suivantes:
-1° être titulaire d'un diplôme, certificat ou autre titre visé par l'article 1er, a, de la Directive européenne du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, et dont il résulte que le titulaire possède les qualifications professionnelles pour accéder à la profession d'avocat dans un Etat membre de l'Union européenne;
+1° être titulaire d'un diplôme, certificat ou autre titre visé dans la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, et dont il résulte que le titulaire possède les qualifications professionnelles pour accéder à la profession d'avocat dans un Etat membre de l'Union européenne;
 2° présenter:
 a) une preuve relative à l'honorabilité et à la moralité;
 b) et une preuve relative à l'absence de faillite;
