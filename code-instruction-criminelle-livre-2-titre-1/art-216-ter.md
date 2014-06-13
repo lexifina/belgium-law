@@ -1,7 +1,7 @@
 § 1. Le procureur du Roi peut, sans préjudice des pouvoirs que lui attribue l'article 216bis, convoquer l'auteur d'une infraction et, pour autant que le fait ne paraisse pas être de nature à devoir être puni d'un emprisonnement correctionnel principal de plus de deux ans ou d'une peine plus lourde, l'inviter à indemniser ou réparer le dommage causé par l'infraction et à lui en fournir la preuve. Le cas échéant, le procureur du Roi convoque également la victime et organise une médiation sur l'indemnisation ainsi que sur ses modalités.
 Lorsque l'auteur de l'infraction invoque comme cause de l'infraction la circonstance d'une maladie ou d'une assuétude à l'alcool ou aux stupéfiants, le procureur du Roi peut l'inviter à suivre un traitement médical ou tout autre thérapie adéquate, et à en fournir périodiquement la preuve durant un délai qui ne peut excéder six mois.
-Il peut également inviter l'auteur de l'infraction à exécuter un travail d'intérêt général ou à suivre une formation déterminée d'une durée de 120 heures au plus dans le délai qu'il fixe. Ce délai est d'au moins un mois et de six mois au plus.
-(...).
+Il peut également inviter l'auteur de l'infraction à exécuter un travail d'intérêt général ou à suivre une formation déterminée d'une durée de 120 heures au plus dans le délai qu'il fixe. Ce délai est d'au moins un mois et de six mois au plus. LT}W 2006-12-27/33, art. 37, 1°, 032;
+(...)
 (...).
 Le travail d'intérêt général est effectué gratuitement par l'auteur de l'infraction pendant le temps laissé libre par ses éventuelles activités scolaires ou professionnelles.
 Le travail d'intérêt général ne peut être effectué qu'auprès des services publics de l'Etat, des communes, des provinces, des communautés et des régions ou auprès d'associations sans but lucratif ou de fondations à but social, scientifique ou culturel.
