@@ -1,6 +1,5 @@
 <inséré par § 1er. Toute personne lésée par un acte d'instruction relatif à ses biens peut en demander la levée au juge d'instruction.
-§ 2. La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile. Elle est adressée ou déposée au au greffe du tribunal de première instance et est inscrite dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi.
-Celui-ci prend les réquisitions qu'il juge utiles.
+§ 2. La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile. Elle est adressée ou déposée au au greffe du tribunal de première instance et est inscrite dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi. Celui-ci prend les réquisitions qu'il juge utiles.
 Le juge d'instruction statue au plus tard dans les quinze jours de l'inscription de la requête dans le registre
 L'ordonnance est communiquée par le greffier au procureur du Roi et est notifiée au requérant et, le cas échéant, à son conseil par télécopie ou par lettre recommandée à la poste dans un délai de huit jours à dater de la décision.
 § 3. Le juge d'instruction peut rejeter la requête s'il estime que les nécessités de l'instruction le requièrent, lorsque la levée de l'acte compromet la sauvegarde des droits des parties ou des tiers, lorsque la levée de l'acte présente un danger pour les personnes ou les biens, ou dans les cas où la loi prévoit la restitution ou la confiscation desdits biens.
