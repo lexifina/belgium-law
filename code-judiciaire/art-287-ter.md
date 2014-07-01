@@ -1,30 +1,19 @@
-§ 1er. Il est établi un bulletin d'évaluation de tous les membres du personnel des niveaux A, B, C et D.
-L'alinéa 1er s'applique au personnel engagé dans les liens d'un contrat de travail.
-1° En ce qui concerne les membres du personnel de niveau A près les cours et tribunaux et les greffiers en chef:
-Dans le bulletin d'évaluation, le chef de corps, le juge au tribunal de police le plus ancien ou le juge de paix de la juridiction, selon le cas, exprime son opinion quant à la valeur et l'attitude de ces membres du personnel, au moyen de formules descriptives, conformément aux indications apportées.
-2° En ce qui concerne les membres du personnel de niveau A près les parquets et les secrétaires en chef:
-dans le bulletin d'évaluation, le procureur général, le procureur fédéral, le procureur du Roi ou l'auditeur du travail, selon le cas, exprime son opinion quant à la valeur et à l'attitude de ces membres du personnel, au moyen de formules descriptives, conformément aux indications apportées.
-3° En ce qui concerne les attachés visés à l'article 136:
-dans le bulletin d'évaluation, le magistrat-chef de corps de la juridiction exprime son opinion quant à la valeur et à l'attitude des attachés, au moyen de formules descriptives, conformément aux indications apportées.
-4° En ce qui concerne les membres du personnel des greffes et secrétariats de parquet:
-dans le bulletin d'évaluation, le greffier en chef ou le secrétaire en chef, selon le cas, expriment leur opinion quant à la valeur et à l'attitude de ces membres du personnel, au moyen de formules descriptives, conformément aux indications apportées.
-5° En ce qui concerne les membres du personnel des services d'appui:
-dans le bulletin d'évaluation, le magistrat-chef de corps de la juridiction ou du parquet exprime son opinion quant à la valeur et à l'attitude de ces membres du personnel, au moyen de formules descriptives, conformément aux indications apportées.
-§ 2. L'évaluation se traduit par l'une des mentions suivantes: " très bon ", " bon " ou " insuffisant ". Le Roi détermine les modalités d'application des présentes dispositions.
-Le chef de service peut déléguer ses compétences conformément aux modalités déterminées par le Roi.
-§ 3. En ce qui concerne les greffiers en chef et les attachés visés à l'article 136, le chef de corps, le juge du tribunal de police le plus ancien ou le juge de paix de la juridiction, selon le cas, établit une évaluation provisoire et en informe le procureur général, le procureur du Roi ou l'auditeur du travail, selon le cas. Ce magistrat y joint son avis. Le chef de corps, le juge du tribunal de police le plus ancien ou le juge de paix, selon le cas, établit ensuite une évaluation définitive.
-En ce qui concerne les membres des greffes, le greffier en chef établit une évaluation provisoire et en informe le procureur général, le procureur du Roi ou l'auditeur du travail, selon le cas. Ce magistrat y joint son avis. Il invite, selon le cas, le chef de corps, le juge au tribunal de police le plus ancien ou le juge de paix de la juridiction où le membre du greffe exerce ses fonctions à faire de même et transmet ensuite le bulletin d'évaluation et, le cas échéant, les avis en retour au greffier en chef qui établit une évaluation définitive.
-En ce qui concerne les membres des secrétariats de parquet, le secrétaire en chef établit une évaluation provisoire, en informe le procureur général, le procureur fédéral, le procureur du Roi ou l'auditeur du travail, selon le cas. Ce magistrat ajoute son avis. Le secrétaire en chef établit ensuite l'évaluation définitive.
-§ 4. Le bulletin d'évaluation définitive est notifié par son auteur au membre du personnel concerné.
-L'intéresse dispose d'un délai de dix jours pour introduire une réclamation auprès de la chambre de recours compétente et demander à être entendu. Il adresse, par même courrier, une copie de sa requête au rédacteur du bulletin d'évaluation. Celui-ci transmet le bulletin d'évaluation, éventuellement accompagné d'une justification écrite supplémentaire, à la chambre de recours dans les quarante-huit heures qui suivent la réception de cette copie.
-La chambre de recours transmet sa décision dans les quarante jours de la réception de la réclamation à l'auteur de l'évaluation et le notifie par lettre recommandée au membre du personnel concerné.
-Cette décision est définitive et est jointe au bulletin d'évaluation.
-Le membre du personnel intéressé peut former contre la décision de la chambre de recours un recours en annulation conformément à l'article 14 des lois coordonnées sur le Conseil d'Etat.
-§ 5. Le bulletin d'évaluation est établi dans les cas suivants:
-1° entre le neuvième et le douzième mois qui suivent l'entrée en fonction du membre du personnel;
-2° entre le neuvième et le douzième mois qui suivent le jour où le membre du personnel exerce une autre fonction que celle dans laquelle un bulletin d'évaluation définitif lui a été attribué, soit par nomination, soit par contrat ou en application des articles 328, 329, 329bis, 330, 330bis ou 330ter;
-3° si, depuis l'établissement du dernier bulletin d'évaluation, des faits ou constatations favorables ou défavorables sont susceptibles d'améliorer ou d'aggraver le bulletin d'évaluation du membre du personnel;
-4° si le membre du personnel en fait la demande, au plus tôt un an après l'établissement du bulletin d'évaluation précédent.
-L'évaluation porte sur la période révolue depuis l'entrée en fonction, depuis la date de début d'exercice des nouvelles fonctions ou depuis le bulletin d'évaluation précédent.
-Le bulletin d'évaluation est conservé par son auteur dans un dossier confidentiel ouvert au nom de chaque membre du personnel. Il communique directement au ministre de la Justice la mention définitive attribuée.
-§ 6. Sans préjudice de ses conséquences disciplinaires, l'évaluation d'un membre du personnel qui porte la mention " insuffisant " entraîne, au niveau pécuniaire, la privation, pendant un an, de l'effet de la première augmentation intercalaire qui suit la date d'attribution de la mention.
+§ 1er. Tous les membres du personnel nommés à titre définitif et tous les membres du personnel contractuels de niveau A, B, C et D sont soumis à un cycle d'évaluation.
+En ce qui concerne les greffiers en chef et les secrétaires en chef, l'évaluateur est le chef de corps visé à l'article 58bis, 2°. En ce qui concerne les autres membres du personnel l'évaluateur est le supérieur hiérarchique du membre du personnel ou le chef fonctionnel auquel le supérieur hiérarchique a délégué la tâche d'évaluation.
+Le supérieur hiérarchique est le membre du personnel nommé à titre définitif qui a la responsabilité d'un service ou d'une équipe et qui exerce de ce fait l'autorité directe sur les membres du personnel de ce service ou de cette équipe. Le chef fonctionnel est le membre du personnel statutaire ou contractuel qui, sous la responsabilité du supérieur hiérarchique d'un membre du personnel, a un lien d'autorité directe sur ce dernier dans l'exercice quotidien de ses fonctions.
+§ 2. La période d'évaluation a une durée d'un an sauf exceptions prévues par le Roi et débute par un entretien de fonction lorsque le membre du personnel est nommé à titre définitif, est engagé, ou change de fonction Un entretien de fonction est aussi tenu lorsque la fonction connaît des changements significatifs.
+Un entretien de planification a lieu dès le début de la nouvelle période d'évaluation, le cas échéant immédiatement après l'entretien de fonction. Au cours de cet entretien de planification, l'évaluateur et le membre du personnel conviennent des objectifs de prestations et, éventuellement, de développement personnel.
+Pendant la période d'évaluation, chaque fois que c'est nécessaire, un entretien de fonctionnement est tenu entre l'évaluateur et le membre du personnel.
+A la fin de la période d'évaluation, l'évaluateur invite le membre du personnel à un entretien d'évaluation.
+§ 3. L'évaluation se fonde principalement sur les éléments suivants:
+1° la réalisation des objectifs de prestation fixés lors l'entretien de planification et éventuellement adaptés lors des entretiens de fonctionnement;
+2° le développement des compétences du membre du personnel utiles à sa fonction;
+3° le cas échéant, la qualité des évaluations réalisées par le membre du personnel, si celui-ci en est chargé.
+L'évaluation se fonde également sur les éléments suivants:
+- la contribution du membre du personnel aux prestations de l'équipe dans laquelle il fonctionne;
+- la disponibilité du membre du personnel à l'égard des usagers du service, qu'ils soient internes ou externes.
+Le rapport d'évaluation se conclut par une des mentions suivantes: exceptionnel, répond aux attentes, à améliorer, insuffisant.
+Il produit ses effets à la fin de la période d'évaluation.
+§ 4. Si dans les trois ans qui suivent l'attribution de la première mention "insuffisant" une seconde mention "insuffisant" est donnée, même si elle n'est pas consécutive à la première mention "insuffisant", elle conduit au licenciement pour inaptitude professionnelle du membre du personnel.
+Une indemnité de départ est accordée au membre du personnel licencié pour inaptitude professionnelle. Cette indemnité est équivalente à douze fois la dernière rémunération mensuelle si le membre du personnel compte au moins vingt ans d'ancienneté, à huit fois ou six fois cette rémunération selon qu'il compte dix ans ou moins de dix ans de service.
+§ 5. Le Roi détermine les modalités d'application de ces dispositions concernant la procédure d'évaluation, sa durée et les personnes visées
