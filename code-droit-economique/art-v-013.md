@@ -1,0 +1,1 @@
+Préalablement aux décisions et aux modalités qu'il prend en application du présent chapitre, le ministre consulte la Commission des prix des Médicaments dont le Roi fixe le statut, la composition et les modalités de fonctionnement. Le ministre fixe également le délai raisonnable dans lequel l'avis doit être donné. Passé ce délai, l'avis n'est plus requis.
