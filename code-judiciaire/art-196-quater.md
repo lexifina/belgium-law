@@ -2,7 +2,8 @@
 - du premier président de la cour d'appel du ressort dans lequel est situé le tribunal de l'application des peines dans lequel l'assesseur exerce ses fonctions;
 - du directeur du service d'encadrement Personnel et Organisation du service public fédéral Justice ou de son représentant désigné par le ministre de la Justice;
 - du directeur général de la direction générale Exécution des Peines et Mesures du service public fédéral Justice ou de son représentant désigné par le ministre de la Justice.
-Nul ne peut siéger dans un comité s'il ne justifie pas de la connaissance de la langue des assesseurs.
+- du fonctionnaire dirigeant des Maisons de justice ou du service qui en reprend les missions.
+Nul ne peut siéger dans un comité s'il ne justifie pas de la connaissance de la langue des assesseurs. Le comité d'évaluation est composé pour le ressort de la Cour d'appel de Liège, du fonctionnaire dirigeant francophone et germanophone des Maisons de justice ou du service qui en reprend les missions.
 § 2. L'assesseur en application des peines effectif ou suppléant est soumis à une évaluation écrite motivée au plus tard quatre mois avant la fin de chaque période renouvelable pour laquelle le mandat a été octroyé.
 L'évaluation est effectuée dans les trente jours suivant le délai prévu à l'alinéa 1er.
 L'évaluation du mandat peut donner lieu à la mention " bon " ou " insuffisant ".
