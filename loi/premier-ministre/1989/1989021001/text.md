@@ -12,24 +12,41 @@
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 8, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Les recours visés à l'article 1er sont introduits :
+<a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>.Les recours visés à l'article 1er sont introduits :
 1° par le Conseil des Ministres, par l'exécutif d'une Communauté ou d'une Région;
 2° par toute personne physique ou morale justifiant d'un intérêt; ou
 3° par les présidents des assemblées législatives à la demande de deux tiers de leurs membres.
+[<sup>1</sup> Les dispositions de la présente loi qui concernent les Gouvernements de communauté ou de région s'appliquent au Collège réuni de la Commission communautaire commune et au Collège de la Commission communautaire française.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 2, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.3bis"> 3</a>. § 1. Sans préjudice du paragraphe 2 et de l'article 4, les recours tendant à l'annulation, en tout ou en partie, d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) ne sont recevables que s'ils sont introduits dans un délai de six mois suivant la publication de la loi, du décret, ou de la règle visée à l'article 26bis de la Constitution. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Les recours tendant à l'annulation en tout ou en partie d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) par lesquels un traité reçoit l'assentiment, ne sont recevables que s'ils sont introduits dans un délai de soixante jours suivant la publication de la loi, du décret ou de la règle visée à l'article 26bis de la Constitution. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
 <a name="Art.3bis" href="#Art.3">Art.</a> <a href="#Art.4"> 3bis</a>. &lt;Inséré par L 2001-07-13/35, art. 53; <b> En vigueur : </b> 01-01-2002&gt; Pour les recours tendant à l'annulation d'un décret ou d'une règle visée à l'article 134 de la Constitution qui sont fondés sur la violation des articles 6, § 2, et 9, § 1er, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, le délai de six mois prévu à l'article 3 ne commence à courir qu'à l'expiration du délai d'enrôlement prévu, par l'article 359 du Code de l'impôt sur les revenus 1992.
 
-<a name="Art.4" href="#Art.3bis">Art.</a> <a href="#Art.5"> 4</a>. Un nouveau délai de six mois est ouvert pour l'introduction d'un recours en annulation d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) par le Conseil des Ministres ou par l'Exécutif d'une Communauté ou d'une Région, lorsque : &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
-1° un recours est exercé contre une norme qui a le même objet et qui a été prise par un législateur autre que celui qui a adopté la loi, le décret ou la règle visée à (l'article 134 de la Constitution). Le délai prend cours à la date de la publication de la mention visée à l'article 74; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
-(2°) la Cour a annulé une norme qui avait, en tout ou en partie, le même objet et qui avait été prise par un législateur autre que celui qui a adopté la loi, le décret ou la règle visée à (l'article 134 de la Constitution). Le délai prend cours à la date de la notification de l'arrêt rendu par la Cour, selon le cas, au Premier Ministre et aux présidents des Exécutifs. &lt;L 2003-03-09/47, art. 3, 006; <b> En vigueur : </b> 21-04-2003&gt; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
-(Un nouveau délai de six mois est ouvert pour l'introduction d'un recours en annulation d'une loi, d'un décret ou d'une règle visée à l'article 134 de la Constitution par le Conseil des Ministres, par le Gouvernement d'une Communauté ou d'une Région, par les présidents des assemblées législatives à la demande de deux tiers de leurs membres ou par toute personne physique ou morale justifiant d'un intérêt, lorsque la Cour, statuant sur une question préjudicielle, a déclaré que cette loi, ce décret ou cette règle visée à l'article 134 de la Constitution viole une des règles ou un des articles de la Constitution visés à l'article 1. Le délai prend cours, respectivement, à la date de la notification de l'arrêt rendu par la Cour, selon le cas, au Premier Ministre et aux présidents des Gouvernements et aux président des assemblées législatives, ou à la date de la publication de l'arrêt au Moniteur belge.) &lt;L 2003-03-09/47, art. 3, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.4" href="#Art.3bis">Art.</a> <a href="#Art.5"> 4</a>.Un nouveau délai de six mois est ouvert pour l'introduction d'un recours en annulation d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) par le Conseil des Ministres ou par l'Exécutif d'une Communauté ou d'une Région, lorsque : &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+1° un recours est exercé contre une norme qui a le même objet et qui a été prise par un législateur autre que celui qui a adopté la loi, le décret ou la règle visée à (l'article 134 de la Constitution). Le délai prend cours [<sup>1</sup> le lendemain de la date]<sup>1</sup> de la publication de la mention visée à l'article 74; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+(2°) la Cour a annulé une norme qui avait, en tout ou en partie, le même objet et qui avait été prise par un législateur autre que celui qui a adopté la loi, le décret ou la règle visée à (l'article 134 de la Constitution). Le délai prend cours [<sup>1</sup> le lendemain de la date de la publication de l'arrêt au Moniteur belge]<sup>1</sup>. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 3, 006; <b> En vigueur : </b> 21-04-2003&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+(Un nouveau délai de six mois est ouvert pour l'introduction d'un recours en annulation d'une loi, d'un décret ou d'une règle visée à l'article 134 de la Constitution par le Conseil des Ministres, par le Gouvernement d'une Communauté ou d'une Région, par les présidents des assemblées législatives à la demande de deux tiers de leurs membres ou par toute personne physique ou morale justifiant d'un intérêt, lorsque la Cour, statuant sur une question préjudicielle, a déclaré que cette loi, ce décret ou cette règle visée à l'article 134 de la Constitution viole une des règles ou un des articles de la Constitution visés à l'article 1. [<sup>1</sup> Le délai prend cours le lendemain de la date de la publication de l'arrêt au Moniteur belge.]<sup>1</sup> ) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 3, 006; <b> En vigueur : </b> 21-04-2003&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 3, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. La Cour est saisie d'un recours en annulation par une requête signée, selon le cas, par le Premier Ministre, par un membre de l'Exécutif que celui-ci désigne, par le président d'une assemblée législative ou par la personne justifiant d'un intérêt ou leur avocat.
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>.La Cour est saisie d'un recours en annulation par une requête signée, selon le cas, par le Premier Ministre, par un membre de l'Exécutif que celui-ci désigne, par le président d'une assemblée législative ou par la personne justifiant d'un intérêt ou leur avocat.
 
-<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. La requête est datée. Elle indique l'objet du recours et contient un exposé des faits et moyens.
+DROIT FUTUR
+
+<i>Art. 5. [<sup><font color="red">1</font></sup> La Cour est saisie d'un recours en annulation par une requête qui émane du premier ministre, d'un membre du gouvernement que celui-ci désigne, du président d'une assemblée législative ou de la personne justifiant d'un intérêt ou leur avocat.]<sup><font color="red">1</font></sup></i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 4, 013; En vigueur : indéterminée &gt;
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>.La requête est datée. Elle indique l'objet du recours et contient un exposé des faits et moyens.
+
+DROIT FUTUR
+
+<i>Art. 6. La requête [<sup><font color="red">1</font></sup> ...]<sup><font color="red">1</font></sup> indique l'objet du recours et contient un exposé des faits et moyens.</i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 5, 013; En vigueur : indéterminée &gt;
 
 <a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. La partie requérante joint à sa requête une copie de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours et, le cas échéant, de ses annexes. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 Si le recours est introduit par le Conseil des Ministres, par l'Exécutif d'une Communauté ou d'une Région ou par le président d'une assemblée législative, la partie requérante joint en outre à sa requête une copie certifiée conforme de la délibération par laquelle elle a décidé d'intenter le recours.
@@ -61,26 +78,28 @@ Le droit de demander la rétractation appartient en outre :
 3° si le condamné ou, le cas échéant, celui qui a fait l'objet d'une décision ordonnant la suspension du prononcé de la condamnation est décédé, si son interdiction a été prononcée ou s'il se trouve en état d'absence déclarée, à son conjoint, à ses descendants, à ses ascendants, à ses frères et soeurs;
 4° à la partie déclarée civilement responsable pour le condamné ou, le cas échéant, pour celui qui a fait l'objet d'une décision ordonnant la suspension du prononcé de la condamnation.
 
-<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>.
-§ 1. La juridiction compétente est saisie, soit par le réquisitoire du ministère public, soit par une requête spécifiant la cause de la rétractation.
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>.§ 1. La juridiction compétente est saisie, soit par le réquisitoire du ministère public, soit par une requête spécifiant la cause de la rétractation.
 A peine de nullité, la demande est formée dans les six mois à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge.
 § 2. Au vu du réquisitoire ou de la requête, la juridiction saisie, si le condamné est décédé, absent ou interdit, nomme un curateur à sa défense, lequel le représentera dans la procédure en rétractation.
 § 3. Le ministère public fait signifier la requête à toutes les parties en cause dans la décision entreprise. La signification contient citation à comparaître devant la juridiction qui a rendu la décision entreprise et reproduit le texte des articles 10 à 12 de la présente loi.
 La décision par laquelle il est statué définitivement sur la rétractation est réputée contradictoire à l'égard de la partie civile régulièrement citée, même si celle-ci n'est pas intervenue avant la clôture des débats dans l'instance en rétractation.
 § 4. Le dossier sur le fondement duquel la décision a été rendue est mis à la disposition des parties pendant un délai de quinze jours au moins.
-§ 5. La juridiction saisie peut, si le condamné est détenu en vertu de la décision dont la rétractation est demandée, ordonner sa mise en liberté provisoire, selon la procédure prévue à l'article 7, alinéas deux, trois et quatre, de la loi du 20 avril 1874 relative à la détention préventive.
+§ 5. La juridiction saisie peut, si le condamné est détenu en vertu de la décision dont la rétractation est demandée, ordonner sa mise en liberté provisoire, selon la procédure prévue [<sup>2</sup> à l'article 27, § 3, de la loi du 20 juillet 1990 relative à la détention préventive]<sup>2</sup>.
 Cette juridiction peut également, si les moyens invoqués paraissent sérieux et de nature à justifier la rétractation demandée, ordonner qu'il sera sursis à toute mesure d'exécution ou d'application de la décision susceptible d'être rétractée.
 § 6. Le juge peut, à la demande d'une personne visée à l'article 11 , 1° à 4°, ordonner que sa décision de rétractation soit publiée par extrait dans un quotidien qu'il désigne.
 § 7. Les frais de la procédure sont à charge de l'Etat.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 12, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 6, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. § 1. Dans les limites où elle est prononcée, la rétractation rend non avenues les condamnations pénales fondées sur une loi, un décret ou une règle visée à l'article 26bis de la Constitution annulés, ou sur un règlement pris en exécution d'une telle loi, d'un tel décret ou d'une telle règle visée à (l'article 134 de la Constitution), ainsi que les décisions de suspension du prononcé de telles condamnations. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>.§ 1. Dans les limites où elle est prononcée, la rétractation rend non avenues les condamnations pénales fondées sur une loi, un décret ou une règle visée à l'article 26bis de la Constitution annulés, ou sur un règlement pris en exécution d'une telle loi, d'un tel décret ou d'une telle règle visée à (l'article 134 de la Constitution), ainsi que les décisions de suspension du prononcé de telles condamnations. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Lorsque par la décision entreprise, il n'a été prononcé qu'une seule peine du chef de plusieurs infractions, dont l'une au moins était une infraction à une disposition non annulée, le juge peut, sur les réquisitions du ministère public et pourvu que l'action publique ne soit pas prescrite, soit maintenir intégralement la condamnation, soit diminuer la peine, soit suspendre le prononcé de la condamnation, soit prononcer un jugement d'acquittement.
 § 3. Si les faits qui ont donné lieu au jugement rétracté demeurent punissables en vertu de dispositions redevenues applicables par l'effet de l'annulation, le juge saisi de la demande de rétractation peut, sur les réquisitions du ministère public et pourvu que l'action publique ne soit pas prescrite, prononcer de nouvelles condamnations, sans toutefois qu'il puisse s'ensuivre une aggravation des peines.
-§ 4. Le juge ordonne le remboursement de l'amende percue indûment, augmentée des intérêts légaux depuis la perception.
-L'article 28 de la loi du 20 avril 1874 relative à la détention préventive, est applicable au condamné qui a été détenu indûment en exécution du jugement rétracté.
+§ 4. Le juge ordonne le remboursement de l'amende perçue indûment, augmentée des intérêts légaux depuis la perception.
+L'article 28 de la loi [<sup>1</sup> du 13 mars 1973 relative à l'indemnité en cas de détention préventive inopérante]<sup>1</sup>, est applicable au condamné qui a été détenu indûment en exécution du jugement rétracté.
 § 5. Si, par suite de la rétractation, le juge a cessé d'être compétent pour statuer sur l'action civile, il renvoie celle-ci devant le juge compétent. Les articles 660 à 663 du Code judiciaire et l'article 16, §§ 1er et 2, de la présente loi sont applicables à ce renvoi.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 7, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Sont susceptibles de rétractation, conformément aux articles 10 à 13, les décisions ordonnant l'internement des inculpés et accusés en état de démence, de déséquilibre mental ou de débilité mentale, prononcées en vertu de la loi de défense sociale, à l'égard des anormaux et des délinquants d'habitude.
 
@@ -130,46 +149,45 @@ Il a effet à dater de sa publication.
 <a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0006"> 25</a>. La Cour rend son arrêt sur la demande principale dans les trois mois du prononcé de l'arrêt ordonnant la suspension. Ce délai ne peut être prorogé.
 Si l'arrêt sur la demande principale n'est pas rendu dans ce délai, la suspension cesse immédiatement ses effets.
 
-<a name="LNK0037" href="#LNKR0037">Section IV.</a> - [<sup>1</sup> Des recours contre des décisions de la Commission de contrôle en matière de contrôle des dépenses électorales engagées pour les élections de la Chambre des représentants]<sup>1</sup>
+<a name="LNK0006" href="#LNKR0006">Section IV.</a> - [<sup>1</sup> Des recours contre des décisions de la Commission de contrôle en matière de contrôle des dépenses électorales engagées pour les élections de la Chambre des représentants]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 2, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025bis." href="#LNK0029">Art.</a> <a href="#Art.%2025ter.">25bis</a>. [<sup>1</sup> La Cour statue, par voie d'arrêt, sur les recours en annulation pour violation des formes soit substantielles soit prescrites à peine de nullité, excès ou détournement de pouvoir, formés contre les décisions de la Commission de contrôle visées à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques.
+<a name="Art.25bis" href="#Art.25">Art.</a> <a href="#Art.25ter"> 25bis</a>. [<sup>1</sup> La Cour statue, par voie d'arrêt, sur les recours en annulation pour violation des formes soit substantielles soit prescrites à peine de nullité, excès ou détournement de pouvoir, formés contre les décisions de la Commission de contrôle visées à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques.
 Dans le cadre de l'examen de ce recours, la Cour dispose des compétences qui lui sont conférés à l'article 26, § § 1er et 1erbis.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 3, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025ter." href="#Art.%2025bis.">Art.</a> <a href="#Art.%2025quater.">25ter</a>. [<sup>1</sup> Les recours visés à l'article 25bis sont introduits par le candidat élu faisant l'objet de la décision de sanction de la Commission de contrôle.
+<a name="Art.25ter" href="#Art.25bis">Art.</a> <a href="#Art.25quater"> 25ter</a>. [<sup>1</sup> Les recours visés à l'article 25bis sont introduits par le candidat élu faisant l'objet de la décision de sanction de la Commission de contrôle.
 Ces recours ne sont recevables que s'ils sont introduits dans un délai de trente jours suivant la notification de la décision de la Commission de contrôle. Le délai de prescription pour les recours visés au présent article ne prend cours que si la notification par la Commission de contrôle de sa décision de sanction indique l'existence de ce recours ainsi que les formes et les délais à respecter. Lorsque cette condition n'est pas remplie, le délai de prescription prend cours quatre mois après que l'intéressé a pris connaissance de la décision de la Commission de contrôle.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 4, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025quater." href="#Art.%2025ter.">Art.</a> <a href="#Art.%2025quinquies.">25quater</a>. [<sup>1</sup> La Cour est saisie d'un recours en annulation par une requête signée par le candidat élu visé à l'article 25ter ou son avocat.
+<a name="Art.25quater" href="#Art.25ter">Art.</a> <a href="#Art.25quinquies"> 25quater</a>. [<sup>1</sup> La Cour est saisie d'un recours en annulation par une requête signée par le candidat élu visé à l'article 25ter ou son avocat.
 La requête est datée. Elle indique l'objet du recours et contient un exposé des faits et moyens.
 Sans préjudice des articles 70 à 73, la Cour statue dans les trois mois du dépôt du recours en annulation par un arrêt motivé, les parties entendues.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 5, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025quinquies." href="#Art.%2025quater.">Art.</a> <a href="#Art.%2025sexies.">25quinquies</a>. [<sup>1</sup> La partie requérante joint à sa requête une copie de la décision de la Commission de contrôle visée à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques qui fait l'objet du recours et, le cas échéant, de ses annexes.
+<a name="Art.25quinquies" href="#Art.25quater">Art.</a> <a href="#Art.25sexies"> 25quinquies</a>. [<sup>1</sup> La partie requérante joint à sa requête une copie de la décision de la Commission de contrôle visée à l'article 14/1 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques qui fait l'objet du recours et, le cas échéant, de ses annexes.
 Le greffier notifie la requête au président de la Chambre des représentants. Dans les dix jours de la réception de la notification par le greffier, le président de la Chambre des représentants transmet à la Cour le dossier qui a donné lieu à la décision contestée.
 Dans les trente jours de la réception de la notification par le greffier, la Commission de contrôle peut adresser un mémoire à la Cour. Le mémoire qui n'a pas été introduit dans le délai prévu est écarté des débats. Le greffier transmet une copie du mémoire à la partie requérante. Celle-ci dispose de quinze jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réplique. Ces délais peuvent être abrégés ou prolongés par ordonnance motivée du président.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 6, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025sexies." href="#Art.%2025quinquies.">Art.</a> <a href="#Art.%2025septies.">25sexies</a>. [<sup>1</sup> Si le recours est fondé, la Cour annule la décision de la Commission de contrôle qui fait l'objet du recours.
+<a name="Art.25sexies" href="#Art.25quinquies">Art.</a> <a href="#Art.25septies"> 25sexies</a>. [<sup>1</sup> Si le recours est fondé, la Cour annule la décision de la Commission de contrôle qui fait l'objet du recours.
 Le greffier notifie les arrêts aux parties et au président de la Chambre des représentants.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 7, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.%2025septies." href="#Art.%2025sexies.">Art.</a> <a href="#Art.100">25septies</a>. [<sup>1</sup> Les articles 74, 76, 78, 80, 85 à 89bis et 113 ne sont pas applicables aux recours contre les décisions de la Commission de contrôle. Si toutefois la Cour est appelée à appliquer ses compétences conformément à l'article 26, le Conseil des ministres en est averti par le greffier. Dans ce cas, le Conseil des ministres dispose d'un délai de quinze jours pour déposer un mémoire auprès de la Cour.
+<a name="Art.25septies" href="#Art.25sexies">Art.</a> <a href="#LNK0007"> 25septies</a>. [<sup>1</sup> Les articles 74, 76, 78, 80, 85 à 89bis et 113 ne sont pas applicables aux recours contre les décisions de la Commission de contrôle. Si toutefois la Cour est appelée à appliquer ses compétences conformément à l'article 26, le Conseil des ministres en est averti par le greffier. Dans ce cas, le Conseil des ministres dispose d'un délai de quinze jours pour déposer un mémoire auprès de la Cour.
 L'article 90 est applicable au recours visé à l'article 25bis moyennant le remplacement du délai prévu par l'article 89 par le délai de quinze jours prévu à l'article 25quinquies, alinéa 3, le cas échéant abrégé ou prolongé.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 8, 011; En vigueur : 25-05-2014&gt;
 
-<a name="LNK0006" href="#LNKR0006">CHAPITRE II.</a> - Des questions préjudicielles.
+<a name="LNK0007" href="#LNKR0007">CHAPITRE II.</a> - Des questions préjudicielles.
 
-<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>.
-§ 1. La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, par voie d'arrêt, sur les questions relatives à :
+<a name="Art.26" href="#Art.25septies">Art.</a> <a href="#Art.27"> 26</a>.§ 1. La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, par voie d'arrêt, sur les questions relatives à :
 1° la violation par une loi, un décret ou une règle visée à (l'article 134 de la Constitution), des règles qui sont établies par la Constitution ou en vertu de celle-ci pour déterminer les compétences respectives de l'Etat, des Communautés et des Régions; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 2° sans préjudice du 1°, tout conflit entre décrets ou entre règles visées à (l'article 134 de la Constitution) émanant de législateurs distincts et pour autant que le conflit résulte de leur champ d'application respectif; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (3° la violation par une loi, un décret ou une règle visée à l'article 134 de la Constitution, des articles du titre II " Des Belges et de leurs droits ", et des articles 170, 172 et 191 de la Constitution.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
@@ -180,7 +198,7 @@ Toutefois, la juridiction n'y est pas tenue :
 2° lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> a déjà statué sur une question ou un recours ayant un objet identique.
 La juridiction, dont la décision est susceptible, selon le cas, d'appel, d'opposition, de pourvoi en cassation ou de recours en annulation au Conseil d'Etat, n'y est pas tenue non plus si la loi, le décret ou la règle visée à l'article 134 de la Constitution ne viole manifestement pas une règle ou un article de la Constitution visés au § 1 ou lorsque la juridiction estime que la réponse à la question préjudicielle n'est pas indispensable pour rendre sa décision.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (§ 3. Sauf s'il existe un doute sérieux quant à la compatibilité d'une loi, d'un décret ou d'une règle visée à l'article 134 de la Constitution avec une des règles ou un des articles de la Constitution visées au § 1 et qu'il n'y a pas de demande ou de recours ayant le même objet qui soit pendant devant la Cour, une juridiction n'est pas tenue de poser une question préjudicielle ni lorsque la demande est urgente et que le prononcé au sujet de cette demande n'a qu'un caractère provisoire, ni au cours d'une procédure d'appréciation du maintien de la détention préventive.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
-[<sup>1</sup> § 4. Lorsqu'il est invoqué devant une juridiction qu'une loi, un décret ou une règle visée à l'article 134 de la Constitution viole un droit fondamental garanti de manière totalement ou partiellement analogue par une disposition du titre II de la Constitution ainsi que par une disposition de droit européen ou de droit international, la juridiction est tenue de poser d'abord à la Cour constitutionnelle la question préjudicielle sur la compatibilité avec la disposition du titre II de la Constitution.
+[<sup>1</sup> § 4. [<sup>2</sup> Lorsqu'est invoquée devant une juridiction la violation, par une loi, un décret ou une règle visée à l'article 134 de la Constitution, d'un droit fondamental garanti de manière totalement ou partiellement analogue par une disposition du titre II de la Constitution ainsi que par une disposition de droit européen ou de droit international, la juridiction est tenue de poser d'abord à la Cour constitutionnelle une question préjudicielle sur la compatibilité avec la disposition du titre II de la Constitution. Lorsqu'est uniquement invoquée devant la juridiction la violation de la disposition de droit européen ou de droit international, la juridiction est tenue de vérifier, même d'office, si le titre II de la Constitution contient une disposition totalement ou partiellement analogue. Ces obligations ne portent pas atteinte à la possibilité, pour la juridiction, de poser aussi, simultanément ou ultérieurement, une question préjudicielle à la Cour de justice de l'Union européenne.]<sup>2</sup>
 Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicielle à la Cour constitutionnelle ne s'applique pas :
 1° dans les cas visés aux paragraphes 2 et 3;
 2° lorsque la juridiction estime que la disposition du titre II de la Constitution n'est manifestement pas violée;
@@ -188,6 +206,7 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 4° lorsque la juridiction estime qu'un arrêt de la Cour constitutionnelle fait apparaître que la disposition du titre II de la Constitution est manifestement violée.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009071210" target="_blank">2009-07-12/10</a>, art. 2, 008; En vigueur : 10-08-2009&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 8, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>.
 § 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
@@ -205,35 +224,44 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 21, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0007"> 30</a>.La décision de poser une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> suspend la procédure et les délais de procédure et de prescription depuis la date de cette décision jusqu'à celle à laquelle l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est notifié à la juridiction qui a posé la question préjudicielle. Une copie en sera adressée aux parties.
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0008"> 30</a>.La décision de poser une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> suspend la procédure et les délais de procédure et de prescription depuis la date de cette décision jusqu'à celle à laquelle l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est notifié à la juridiction qui a posé la question préjudicielle. Une copie en sera adressée aux parties.
+[<sup>2</sup> Toutefois, la juridiction peut, même d'office, prendre les mesures provisoires nécessaires notamment afin d'assurer la protection des droits conférés par l'ordre juridique de l'Union européenne.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 22, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 9, 013; En vigueur : 25-04-2014&gt;
 
-<a name="LNK0007" href="#LNKR0007">CHAPITRE III.</a> &lt;Inséré par L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b>
-21-04-2003&gt; - Dispositions communes.
+<a name="LNK0008" href="#LNKR0008">CHAPITRE III.</a> &lt;Inséré par L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt; - Dispositions communes.
 
-<a name="Art.30bis" href="#Art.30">Art.</a> <a href="#LNK0008"> 30bis</a>. (ancien 124bis) &lt;Inséré par L 1989-01-16/30, art. 68; <b> En vigueur : </b> 1989-01-01&gt; Pour l'application des articles 1er et 26, § 1er, sont considérées comme règles visées au 1° de ces deux dispositions, la concertation, l'association, la transmission d'informations, les avis, les avis conformes, les accords, les accords communs et les propositions prévus par la loi spéciale du 8 août 1980 de réformes institutionnelles, à l'exception des accords de coopération visés à l'article 92bis de ladite loi, ainsi que par la loi spéciale (du 16 janvier 1989) sur le financement des communautés et Régions ou par toute autre loi prise en exécution des (articles 39, 127, § 1, 128, § 1, 129, § 1, 130, § 1, 135, 136, 137, 140, 166, 175, 176 et 177 de la Constitution). &lt;L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.30bis" href="#Art.30">Art.</a> <a href="#LNK0009"> 30bis</a>. (ancien 124bis) &lt;Inséré par L 1989-01-16/30, art. 68; <b> En vigueur : </b> 1989-01-01&gt; Pour l'application des articles 1er et 26, § 1er, sont considérées comme règles visées au 1° de ces deux dispositions, la concertation, l'association, la transmission d'informations, les avis, les avis conformes, les accords, les accords communs et les propositions prévus par la loi spéciale du 8 août 1980 de réformes institutionnelles, à l'exception des accords de coopération visés à l'article 92bis de ladite loi, ainsi que par la loi spéciale (du 16 janvier 1989) sur le financement des communautés et Régions ou par toute autre loi prise en exécution des (articles 39, 127, § 1, 128, § 1, 129, § 1, 130, § 1, 135, 136, 137, 140, 166, 175, 176 et 177 de la Constitution). &lt;L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="LNK0038" href="#LNKR0038">CHAPITRE IV.</a> [<sup>1</sup> Du contrôle des consultations populaires]<sup>1</sup>
+<a name="LNK0009" href="#LNKR0009">CHAPITRE IV.</a> [<sup>1</sup> Du contrôle des consultations populaires]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 2, 012; En vigueur : 01-07-2014&gt;
 
-<a name="Art.%2030ter.%20" href="#LNK0024">Art.</a> <a href="#Art.79">30ter</a>. [<sup>1</sup> La Cour constitutionnelle statue, par voie de décision, sur chaque consultation populaire régionale, préalablement à son organisation, en vérifiant le respect des normes visées à l'article 1er, ainsi que des conditions et modalités fixées par ou en vertu de l'article 39bis de la Constitution.
+<a name="Art.30ter" href="#Art.30bis">Art.</a> <a href="#LNK0010"> 30ter</a>. [<sup>1</sup> La Cour constitutionnelle statue, par voie de décision, sur chaque consultation populaire régionale, préalablement à son organisation, en vérifiant le respect des normes visées à l'article 1er, ainsi que des conditions et modalités fixées par ou en vertu de l'article 39bis de la Constitution.
 La demande est introduite par le président du Parlement de région. Cette demande est datée, indique l'objet de la consultation populaire et la compétence régionale à laquelle celui-ci se rattache, et contient l'énoncé de la question qui sera posée, le nom de l'initiateur de la consultation populaire ou, s'il y plusieurs initiateurs, le nom de leur représentant, les observations éventuelles du président du Parlement de région ainsi que le dossier administratif. Ce dossier administratif est transmis avec un inventaire des pièces qui le composent.
 La Cour constitutionnelle statue dans un délai de soixante jours suivant l'introduction de la demande.
 Si la consultation populaire ne respecte pas une des normes, conditions ou modalités visées à l'alinéa 1er, ou si la Cour constitutionnelle n'est pas saisie, la consultation populaire n'est pas organisée. La consultation populaire ne peut pas davantage être organisée tant que la Cour constitutionnelle n'a pas statué.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 3, 012; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0008" href="#LNKR0008">TITRE II.</a> - DE L'ORGANISATION DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+<a name="LNK0010" href="#LNKR0010">CHAPITRE V.</a> [<sup>1</sup> - De la protection de la vie privée]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 10, 013; En vigueur : 25-04-2014&gt;
+
+<a name="Art.30quater" href="#Art.30ter">Art.</a> <a href="#LNK0011"> 30quater</a>. [<sup>1</sup> Le président peut décider, à tout stade de la procédure et même après le prononcé de l'arrêt, d'office ou sur simple demande d'une partie ou d'un tiers intéressé, que les mentions permettant de les identifier directement soient supprimées, dès le moment le plus opportun, dans toute publication à laquelle la Cour procéderait ou aurait procédé en vertu de la présente loi spéciale ou de sa propre initiative.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 11, 013; En vigueur : 25-04-2014&gt;
+
+<a name="LNK0011" href="#LNKR0011">TITRE II.</a> - DE L'ORGANISATION DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 23, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0009" href="#LNKR0009">CHAPITRE I.</a> - Des juges de la [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+<a name="LNK0012" href="#LNKR0012">CHAPITRE I.</a> - Des juges de la [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 24, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.31" href="#Art.30bis">Art.</a> <a href="#Art.32"> 31</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est composée de douze juges : six juges d'expression française qui forment le groupe linguistique français de la Cour et six juges d'expression néerlandaise qui forment le groupe linguistique néerlandais de la Cour.
+<a name="Art.31" href="#Art.30quater">Art.</a> <a href="#Art.32"> 31</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est composée de douze juges : six juges d'expression française qui forment le groupe linguistique français de la Cour et six juges d'expression néerlandaise qui forment le groupe linguistique néerlandais de la Cour.
 La qualité de juge d'expression française ou juge d'expression néerlandaise de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est déterminée en ce qui concerne les juges visés à l'article 34, § 1er, 1°, par la langue du diplôme et, en ce qui concerne les juges visés à l'article 34, § 1er, 2°, par le groupe linguistique parlementaire dont ils faisaient partie en dernier lieu.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 25, 009; En vigueur : 08-03-2010&gt;
@@ -246,29 +274,34 @@ Chaque présentation fait l'objet d'une publication au Moniteur belge; la nomina
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 26, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0010"> 34</a>.
-§ 1. Pour pouvoir être nommé juge de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0013"> 34</a>.§ 1. Pour pouvoir être nommé juge de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :
 1° avoir, en Belgique et pendant au moins cinq ans, occupé la fonction :
 a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de cassation;
 b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat;
 c) soit de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
 d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge.
-2° (avoir été pendant cinq ans au moins, membre du Sénat, de la Chambre des représentants ou d'(un Parlement de Communauté ou de Région.) &lt;L 1993-07-16/30, art. 126, § 1, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2006-03-27/33, art. 15, 007; <b> En vigueur : </b> 21-04-2006&gt;
+2° (avoir été pendant cinq ans au moins, membre du Sénat, de la Chambre des représentants ou d'(un Parlement de Communauté ou de Région.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 1, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006032733" target="_blank">2006-03-27/33</a>, art. 15, 007; <b> En vigueur : </b> 21-04-2006&gt;
 § 2. La Cour compte, parmi ses juges d'expression française comme parmi ses juges d'expression néerlandaise, autant de juges répondant aux conditions fixées au § 1er, 1°, que de juges répondant à la condition fixée au § 1er, 2°.
-Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au moins doit satisfaire à la condition visée au a), (ou à la condition visée au b)), (un juge au moins doit satisfaire à la condition visée au c) et un juge au moins doit satisfaire à la condition visée sous d)). &lt;L 1993-07-16/30, art. 126, § 2, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L 2003-03-09/47, art. 11, 006; <b> En vigueur : </b> 21-04-2003&gt;
+Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au moins doit satisfaire à la condition visée au a), (ou à la condition visée au b)), (un juge au moins doit satisfaire à la condition visée au c) et un juge au moins doit satisfaire à la condition visée sous d)). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 2, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 3. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu de la condition fixée au § 1er, 2°.
 Un candidat dont la présentation est fondée sur la condition fixée au § 1er, 2°, ne peut être présenté en vertu des conditions fixées au § 1er, 1°.
 § 4. Un juge, au moins, comptant parmi les juges qui répondent aux conditions fixées au § 1er, 1°, doit justifier d'une connaissance suffisante de l'allemand. Le Roi détermine le mode de justification de la connaissance de l'allemand.
-(§ 5. La Cour est composée de juges de sexe différent.) &lt;L 2003-03-09/47, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;
+(§ 5. La Cour est composée de juges de sexe différent.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;
+
+DROIT FUTUR
+
+<i>Art. 34. § 1. Pour pouvoir être nommé juge de la [<sup><font color="red">1</font></sup> Cour constitutionnelle]<sup><font color="red">1</font></sup>, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :<br>  1° avoir, en Belgique et pendant au moins cinq ans, occupé la fonction :<br>  a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de cassation;<br>  b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat;<br>  c) soit de référendaire à la [<sup><font color="red">1</font></sup> Cour constitutionnelle]<sup><font color="red">1</font></sup>;<br>  d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge.<br>  2° (avoir été pendant cinq ans au moins, membre du Sénat, de la Chambre des représentants ou d'(un Parlement de Communauté ou de Région.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 1, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006032733" target="_blank">2006-03-27/33</a>, art. 15, 007; <b> En vigueur : </b> 21-04-2006&gt;<br>  § 2. La Cour compte, parmi ses juges d'expression française comme parmi ses juges d'expression néerlandaise, autant de juges répondant aux conditions fixées au § 1er, 1°, que de juges répondant à la condition fixée au § 1er, 2°.<br>  Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au moins doit satisfaire à la condition visée au a), (ou à la condition visée au b)), (un juge au moins doit satisfaire à la condition visée au c) et un juge au moins doit satisfaire à la condition visée sous d)). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 2, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> 21-04-2003&gt;<br>  § 3. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu de la condition fixée au § 1er, 2°.<br>  Un candidat dont la présentation est fondée sur la condition fixée au § 1er, 2°, ne peut être présenté en vertu des conditions fixées au § 1er, 1°.<br>  § 4. Un juge, au moins, comptant parmi les juges qui répondent aux conditions fixées au § 1er, 1°, doit justifier d'une connaissance suffisante de l'allemand. Le Roi détermine le mode de justification de la connaissance de l'allemand.<br>  (§ 5. [<sup><font color="red">2</font></sup> La Cour se compose de juges de sexe différent, tant en ce qui concerne les juges visés au § 1er, 1°, que ceux visés au § 1er, 2°.<br>   Elle compte au moins un tiers de juges de chaque sexe.]<sup><font color="red">2</font></sup> ) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;</i>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 27, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 12, 013; En vigueur : indéterminée ; voir aussi L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 38&gt;
 
-<a name="LNK0010" href="#LNKR0010">CHAPITRE II.</a> - Des référendaires.
+<a name="LNK0013" href="#LNKR0013">CHAPITRE II.</a> - Des référendaires.
 
-<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est assistée par (vingt-quatre) référendaires au maximum, dont la moitié est d'expression française et l'autre d'expression néerlandaise, selon la langue du diplôme et qui ont justifié d'une connaissance suffisante de la seconde langue nationale devant un jury constitué par le Secrétaire permanent au Recrutement. &lt;L 2003-03-09/47, art. 12, 006; <b> En vigueur : </b> 21-04-2003&gt;
-Un référendaire d'expression française et un référendaire d'expression néerlandaise, au moins, doivent justifier d'une connaissance suffisante de l'allemand, devant un jury constitué par le Secrétaire permanent au recrutement.
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> est assistée par (vingt-quatre) référendaires au maximum, dont la moitié est d'expression française et l'autre d'expression néerlandaise, selon la langue du diplôme et qui ont justifié d'une connaissance suffisante de la seconde langue nationale devant un jury constitué par [<sup>2</sup> l'administrateur délégué du Bureau de sélection de l'Administration fédérale]<sup>2</sup>. &lt;L 2003-03-09/47, art. 12, 006; <b> En vigueur : </b> 21-04-2003&gt;
+Un référendaire d'expression française et un référendaire d'expression néerlandaise, au moins, doivent justifier d'une connaissance suffisante de l'allemand, devant un jury constitué par [<sup>2</sup> l'administrateur délégué du Bureau de sélection de l'Administration fédérale]<sup>2</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 28, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 13, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.36" href="#Art.35">Art.</a> <a href="#Art.37"> 36</a>. Nul ne peut être nommé référendaire s'il n'est âgé de vingt-cinq ans et s'il n'est docteur ou licencié en droit.
 Il ne peut être procédé aux nominations qu'après que la place est devenue vacante et quinze jours au moins après la publication de la vacance au Moniteur belge. Cette publication pourra avoir lieu au plus tôt trois mois avant la vacance.
@@ -281,12 +314,12 @@ Le concours est, quant à ses effets, assimilé aux concours donnant accès dans
 <a name="Art.38" href="#Art.37">Art.</a> <a href="#Art.39"> 38</a>. Les référendaires sont nommés par la Cour pour un stage de trois ans selon le classement du concours prévu à l'article 37.
 Au terme de ces trois ans, la nomination devient définitive sauf décision contraire prise par la Cour durant la troisième année du stage.
 
-<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0011"> 39</a>.Les fonctions de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont assimilées aux fonctions judiciaires pour ce qui concerne les conditions de nomination prévues aux articles 70 et 71 des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, et aux articles 187 et suivants du Code judiciaire.
+<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0014"> 39</a>.Les fonctions de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont assimilées aux fonctions judiciaires pour ce qui concerne les conditions de nomination prévues aux articles 70 et 71 des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, et aux articles 187 et suivants du Code judiciaire.
 Les années accomplies en tant que référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> entrent en ligne de compte pour le calcul de l'ancienneté dans toute fonction administrative ou judiciaire, ou dans une fonction au Conseil d'Etat ou à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> que les référendaires pourraient exercer par la suite.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 29, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0011" href="#LNKR0011">CHAPITRE III.</a> - Des greffiers.
+<a name="LNK0014" href="#LNKR0014">CHAPITRE III.</a> - Des greffiers.
 
 <a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.41"> 40</a>.
 § 1. Le Roi nomme deux greffiers sur deux listes comprenant chacune deux candidats et présentées l'une par le groupe linguistique français et l'autre par le groupe linguistique néerlandais de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
@@ -295,7 +328,7 @@ L'article 32, alinéas deux et trois, est applicable à ces présentations.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 30, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.41" href="#Art.40">Art.</a> <a href="#LNK0012"> 41</a>.(Pour pouvoir être nommé greffier de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit :
+<a name="Art.41" href="#Art.40">Art.</a> <a href="#LNK0015"> 41</a>.(Pour pouvoir être nommé greffier de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, le candidat doit :
 1° être âgé de trente ans accomplis;
 2° avoir réussi l'un des examens suivants :
 a) le concours de référendaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>;
@@ -310,7 +343,7 @@ g) l'examen au grade de recrutement d'attaché, qualification " juriste ", pour 
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 31, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0012" href="#LNKR0012">CHAPITRE IV.</a> - Du personnel administratif.
+<a name="LNK0015" href="#LNKR0015">CHAPITRE IV.</a> - Du personnel administratif.
 
 <a name="Art.42" href="#Art.41">Art.</a> <a href="#Art.43"> 42</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> dispose d'un personnel propre. Elle fixe le cadre organique et le cadre linguistique du personnel, dans le respect de la parité linguistique par niveau; elle nomme et révoque les membres du personnel.
 Le Roi approuve les cadres visés à l'alinéa premier.
@@ -318,13 +351,13 @@ Sauf décision contraire de la Cour, nécessitée par le bon fonctionnement de s
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 32, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0013"> 43</a>. La Cour décide des délégations, des empêchements et des remplacements, des absences, congés et vacances des membres du personnel administratif.
+<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0016"> 43</a>. La Cour décide des délégations, des empêchements et des remplacements, des absences, congés et vacances des membres du personnel administratif.
 La Cour peut déléguer tout ou partie de ce pouvoir à une commission du personnel, composée des deux présidents, deux juges du groupe linguistique français et deux juges du groupe linguistique néerlandais, désignés par la Cour pour une durée de quatre ans. Ils sont rééligibles.
 
-<a name="LNK0013" href="#LNKR0013">CHAPITRE V.</a> - Incompatibilites.
+<a name="LNK0016" href="#LNKR0016">CHAPITRE V.</a> - Incompatibilités.
 
-<a name="Art.44" href="#Art.43">Art.</a> <a href="#Art.45"> 44</a>. Les fonctions de juge, de référendaire et de greffier, sont incompatibles avec les fonctions judiciaires, avec l'exercice d'un mandat public confére par élection, avec toute fonction ou charge publique d'ordre politique ou administratif, avec les charges de notaire et d'huissier de justice, avec la profession d'avocat, avec l'état de militaire et avec la fonction de ministre d'un culte reconnu.
-Il peut être derogé par le Roi, sur avis favorable et motivé de la Cour, à l'alinéa 1er :
+<a name="Art.44" href="#Art.43">Art.</a> <a href="#Art.45"> 44</a>. Les fonctions de juge, de référendaire et de greffier, sont incompatibles avec les fonctions judiciaires, avec l'exercice d'un mandat public conféré par élection, avec toute fonction ou charge publique d'ordre politique ou administratif, avec les charges de notaire et d'huissier de justice, avec la profession d'avocat, avec l'état de militaire et avec la fonction de ministre d'un culte reconnu.
+Il peut être dérogé par le Roi, sur avis favorable et motivé de la Cour, à l'alinéa 1er :
 1° lorsqu'il s'agit de l'exercice de fonctions de professeur, chargé de cours, maître de conférence ou assistant dans les établissements d'enseignement supérieur, pour autant que ces fonctions ne s'exercent pas pendant plus de cinq heures par semaine ni en plus de deux demi-jours par semaine;
 2° lorsqu'il s'agit de l'exercice de fonctions de membre d'un jury d'examen;
 3° lorsqu'il s'agit de la participation à une commission, à un conseil ou comité consultatif, pour autant que le nombre de charges ou fonctions rémunérées soit limité à deux et que l'ensemble de leurs rémunérations ne soit pas supérieur au dixième du traitement brut annuel de la fonction principale à la Cour.
@@ -338,19 +371,19 @@ Il peut être derogé par le Roi, sur avis favorable et motivé de la Cour, à l
 
 <a name="Art.47" href="#Art.46">Art.</a> <a href="#Art.48"> 47</a>. Les parents et alliés, jusqu'au troisième degré inclusivement, ne peuvent être simultanément président ou juge et référendaire sans une dispense du Roi.
 
-<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0014"> 48</a>.
+<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0017"> 48</a>.
 § 1. L'article 44, alinéa premier, et l'article 46, 1° et 2°, sont applicables aux membres du personnel administratif de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 § 2. Des dérogations peuvent leur être accordées par la Cour dans les cas où les dispositions applicables aux agents de l'Etat permettent à ceux-ci ou à leur conjoint l'exercice de certaines occupations complémentaires.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 34, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0014" href="#LNKR0014">CHAPITRE VI.</a> - De la discipline.
+<a name="LNK0017" href="#LNKR0017">CHAPITRE VI.</a> - De la discipline.
 
 <a name="Art.49" href="#Art.48">Art.</a> <a href="#Art.50"> 49</a>.Les présidents et les juges qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent être destitués ou suspendus de leurs fonctions par arrêt rendu par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 35, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0015"> 50</a>.
+<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0018"> 50</a>.
 § 1. Les référendaires et les greffiers qui manquent à leurs devoirs, sont avertis et réprimandés par le président, suspendus et démis par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>. La suspension comporte la privation du traitement, avec les répercussions qui lui sont inhérentes, tant en matière de pensions que pour l'octroi des augmentations ultérieures de traitement.
 § 2. Aucune sanction n'est infligée sans que la personne concernée ait été entendue ou dûment appelée.
 § 3. Lorsqu'ils sont poursuivis pour un crime ou un délit ou dans le cas de poursuites disciplinaires, les référendaires et les greffiers peuvent, lorsque l'intérêt du service le requiert, être suspendus de leurs fonctions par mesure d'ordre par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, pendant la durée des poursuites et jusqu'à la décision finale.
@@ -358,7 +391,7 @@ La suspension par mesure d'ordre est prononcée pour un mois; elle peut être pr
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 36, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0015" href="#LNKR0015">CHAPITRE VII.</a> - Dispositions diverses.
+<a name="LNK0018" href="#LNKR0018">CHAPITRE VII.</a> - Dispositions diverses.
 
 <a name="Art.51" href="#Art.50">Art.</a> <a href="#Art.52"> 51</a>. § 1. Les présidents et les juges prêtent entre les mains du Roi le serment prescrit par l'article 2 du décret du 20 juillet 1831.
 § 2. Les référendaires et les greffiers prêtent ce serment entre les mains du président.
@@ -370,11 +403,11 @@ Il règle la préséance et les honneurs.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 37, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0016"> 53</a>.Le Roi crée un service de concordance auprès de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+<a name="Art.53" href="#Art.52">Art.</a> <a href="#LNK0019"> 53</a>.Le Roi crée un service de concordance auprès de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 38, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0016" href="#LNKR0016">TITRE III.</a> - DU FONCTIONNEMENT DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+<a name="LNK0019" href="#LNKR0019">TITRE III.</a> - DU FONCTIONNEMENT DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 39, 009; En vigueur : 08-03-2010&gt;
 
@@ -389,7 +422,7 @@ Toute décision est prise à la majorité des voix des membres.
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 40, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.56" href="#Art.55">Art.</a> <a href="#Art.57"> 56</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> se réunit en séance plénière pour prendre les décisions en application des articles 37, 38, 42, 43, 44, 49, 50, 100 et 122.
-Lorsqu'il l'estime necessaire, chacun des présidents peut soumettre une affaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière. Les présidents y sont tenus lorsque, parmi les sept juges qui, conformément à l'article 55, composent le siège, deux juges en font la demande.
+Lorsqu'il l'estime nécessaire, chacun des présidents peut soumettre une affaire à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière. Les présidents y sont tenus lorsque, parmi les sept juges qui, conformément à l'article 55, composent le siège, deux juges en font la demande.
 En séance plénière, la Cour ne peut statuer que si au moins dix juges et autant de juges d'expression française que de juges d'expression néerlandaise sont présents. Si cette dernière condition n'est pas remplie, le juge le dernier nommé ou, le cas échéant, le juge le plus jeune du groupe linguistique le plus nombreux doit s'abstenir pour chaque décision.
 Lorsque la Cour statue en séance plénière, la voix du président est prépondérante en cas de parité des voix. Lorsque le président est absent ou empêché, il est remplacé par le juge le plus ancien ou, le cas échéant, le plus âgé du même groupe linguistique.
 ----------
@@ -399,7 +432,9 @@ Lorsque la Cour statue en séance plénière, la voix du président est prépond
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 42, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.58" href="#Art.57">Art.</a> <a href="#Art.59"> 58</a>. Le 1er septembre de chaque année, les présidents établissent, pour les besoins du service, une liste des juges de leur groupe linguistique. Y est porté le premier un juge nommé sur base de l'article 34, § 1er, 2°, si le président lui-même était nommé sur la base du 1°, ou inversement. Figurent ensuite alternativement sur la liste les juges nommés sur la base du 1° et les juges nommés sur la base du 2°.
+<a name="Art.58" href="#Art.57">Art.</a> <a href="#Art.59"> 58</a>.Le 1er septembre de chaque année, les présidents établissent, pour les besoins du service, une liste des juges de leur groupe linguistique. [<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 14, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.59" href="#Art.58">Art.</a> <a href="#Art.60"> 59</a>. Les présidents siègent dans toutes les affaires.
 Pour chaque affaire, le président en exercice désigne les juges du siège en se conformant aux règles suivantes. Dans sa liste, il retient :
@@ -413,15 +448,15 @@ L'ordre des affaires est celui que détermine l'article 67.
 
 <a name="Art.60" href="#Art.59">Art.</a> <a href="#Art.60bis"> 60</a>. En cas d'absence ou d'empêchement d'un juge autre qu'un président, ce juge est remplacé par celui qui, nommé sur base de la même disposition, le suit sur la liste ou, s'il est le dernier de cette liste, par le premier.
 
-<a name="Art.60bis" href="#Art.60">Art.</a> <a href="#Art.61"> 60bis</a>. &lt;Inséré par L 2001-04-02/33, art. 2; <b> En vigueur : </b> 01-03-2001&gt; Les présidents et les juges admis à la retraite en raison de leur âge continuent d'exercer leurs fonctions dans les affaires dans lesquelles ils siégeaient a l'audience et qui ont été mises en délibéré avant la date de leur admission à la retraite et n'ont pas encore donné lieu à décision, sauf si le président en exercice les en dispense à leur demande.
+<a name="Art.60bis" href="#Art.60">Art.</a> <a href="#Art.61"> 60bis</a>. &lt;Inséré par L 2001-04-02/33, art. 2; <b> En vigueur : </b> 01-03-2001&gt; Les présidents et les juges admis à la retraite en raison de leur âge continuent d'exercer leurs fonctions dans les affaires dans lesquelles ils siégeaient à l'audience et qui ont été mises en délibéré avant la date de leur admission à la retraite et n'ont pas encore donné lieu à décision, sauf si le président en exercice les en dispense à leur demande.
 La prolongation de l'exercice des fonctions ne peut dépasser le délai de six mois.
 En vue de l'application de l'article 56, alinéa 1er, les présidents et les juges admis à la retraite en raison de leur âge siègent jusqu'au moment où leur successeur a prêté serment.
 
-<a name="Art.61" href="#Art.60bis">Art.</a> <a href="#LNK0017"> 61</a>. La Cour est assistée par le greffier dont la langue est celle de l'instruction.
+<a name="Art.61" href="#Art.60bis">Art.</a> <a href="#LNK0020"> 61</a>. La Cour est assistée par le greffier dont la langue est celle de l'instruction.
 
-<a name="LNK0017" href="#LNKR0017">TITRE IV.</a> - DE L'EMPLOI DES LANGUES.
+<a name="LNK0020" href="#LNKR0020">TITRE IV.</a> - DE L'EMPLOI DES LANGUES.
 
-<a name="LNK0018" href="#LNKR0018">CHAPITRE I</a>-De l'emploi des langues devant la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+<a name="LNK0021" href="#LNKR0021">CHAPITRE I</a>-De l'emploi des langues devant la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 43, 009; En vigueur : 08-03-2010&gt;
 
@@ -430,8 +465,8 @@ Dans les actes et déclarations :
 1° le Conseil des Ministres utilise le français ou le néerlandais selon les règles fixées à l'article 17, § 1er, des lois sur l'emploi des langues en matière administrative coordonnées le 18 juillet 1966;
 2° les Exécutifs utilisent leur langue administrative;
 3° les juridictions utilisent la langue ou les langues dans laquelle ou dans lesquelles elles doivent rédiger leur décision;
-4° les présidents des Chambres législatives, le président du (Le Parlement de la Région de Bruxelles-Capitale) et le président de l'assemblée réunie des groupes linguistiques (Le Parlement de la Région de Bruxelles-Capitale) utilisent le français et le néerlandais;
-5° les présidents du (Le Parlement de la Communauté française) et du (le Parlement wallon) utilisent le français, le président du (Parlement de la Communauté germanophone) l'allemand, et le président du (Parlement flamand) le néerlandais; &lt;L 2006-03-27/33, art. 17, 007; <b> En vigueur : </b> 21-04-2006&gt;
+4° les présidents des Chambres législatives, le président du (Le Parlement de la Région de Bruxelles-Capitale) et le président de l'assemblée réunie [<sup>3</sup> de la Commission communautaire commune]<sup>3</sup> utilisent le français et le néerlandais;
+5° [<sup>3</sup> les présidents du Parlement de la Communauté française, du Parlement wallon et de l'Assemblée de la Commission communautaire française utilisent le français, le président du Parlement de la Communauté germanophone l'allemand, et le président du Parlement flamand le néerlandais;]<sup>3</sup>
 6° les personnes ayant à justifier d'un intérêt utilisent la langue de leur choix, hormis le cas où elles sont soumises à la législation sur l'emploi des langues en matière administrative, auquel cas elles utilisent la langue qui est déterminée par les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
 [<sup>2</sup> 7° le candidat élu qui introduit un recours contre une décision de la Commission de contrôle utilise la langue dans laquelle il a prêté serment;
 8° la Commission de contrôle utilise la langue utilisée par le requérant en cas de recours contre l'une de ses décisions.]<sup>2</sup>
@@ -439,6 +474,7 @@ La Cour constate d'office que les actes et les déclarations du Conseil des Mini
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 44, 009; En vigueur : 08-03-2010&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 9, 011; En vigueur : 25-05-2014&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 15, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.63" href="#Art.62">Art.</a> <a href="#Art.64"> 63</a>. § 1. Sous réserve des dispositions des §§ 2 et 3, l'instruction de l'affaire a lieu dans la langue (de l'acte qui saisit la Cour). &lt;L 2003-03-09/47, art. 13, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Si l'affaire est introduite en allemand, ou à la fois en français et en néerlandais, la Cour décide si l'instruction est faite en français ou en néerlandais.
@@ -446,52 +482,57 @@ La Cour constate d'office que les actes et les déclarations du Conseil des Mini
 Le traitement des affaires jointes se poursuit dans la langue de l'affaire introduite en premier.
 § 4. Les dossiers à l'usage de la Cour seront traduits en français ou en néerlandais selon le cas.
 
-<a name="Art.64" href="#Art.63">Art.</a> <a href="#Art.65"> 64</a>. Les interventions orales à l'audience ont lieu en français, en neerlandais ou en allemand; elles font l'objet d'une traduction simultanée.
+<a name="Art.64" href="#Art.63">Art.</a> <a href="#Art.65"> 64</a>. Les interventions orales à l'audience ont lieu en français, en néerlandais ou en allemand; elles font l'objet d'une traduction simultanée.
 
-<a name="Art.65" href="#Art.64">Art.</a> <a href="#LNK0019"> 65</a>. &lt;L 2003-03-09/47, art. 14, 006; <b> En vigueur : </b> 21-04-2003&gt; Les arrêts de la Cour sont rédigés et prononcés en français et en néerlandais. Ils sont publiés au Moniteur belge de la manière déterminée à l'article 114, avec une traduction en allemand.
+<a name="Art.65" href="#Art.64">Art.</a> <a href="#LNK0022"> 65</a>. &lt;L 2003-03-09/47, art. 14, 006; <b> En vigueur : </b> 21-04-2003&gt; Les arrêts de la Cour sont rédigés et prononcés en français et en néerlandais. Ils sont publiés au Moniteur belge de la manière déterminée à l'article 114, avec une traduction en allemand.
 Les arrêts sont prononcés en néerlandais et en français par les présidents.
 Ils sont également prononcés et publiés en allemand lorsqu'il s'agit d'arrêts rendus sur recours en annulation ou lorsque l'affaire a été introduite en allemand.
 
-<a name="LNK0019" href="#LNKR0019">CHAPITRE II.</a> - De l'emploi des langues dans les services de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+<a name="LNK0022" href="#LNKR0022">CHAPITRE II.</a> - De l'emploi des langues dans les services de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 45, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.66" href="#Art.65">Art.</a> <a href="#LNK0020"> 66</a>.Les travaux administratifs de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et l'organisation de ses services sont régis par les dispositions de la législation sur l'emploi des langues en matière administrative, qui sont applicables aux services dont l'activité s'étend à tout le pays.
+<a name="Art.66" href="#Art.65">Art.</a> <a href="#LNK0023"> 66</a>.Les travaux administratifs de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et l'organisation de ses services sont régis par les dispositions de la législation sur l'emploi des langues en matière administrative, qui sont applicables aux services dont l'activité s'étend à tout le pays.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 46, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0020" href="#LNKR0020">TITRE V.</a> - PROCEDURE DEVANT LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
+<a name="LNK0023" href="#LNKR0023">TITRE V.</a> - PROCEDURE DEVANT LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 47, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0021" href="#LNKR0021">CHAPITRE I.</a> - De la mise au role et de la désignation des rapporteurs.
+<a name="LNK0024" href="#LNKR0024">CHAPITRE I.</a> - De la mise au rôle et de la désignation des rapporteurs.
 
 <a name="Art.67" href="#Art.66">Art.</a> <a href="#Art.68"> 67</a>. Le greffier inscrit les affaires au rôle de la Cour dans l'ordre de leur réception.
 
-<a name="Art.68" href="#Art.67">Art.</a> <a href="#LNK0022"> 68</a>. Pour chaque affaire, les rapporteurs sont les juges désignés en premier lieu sur chacune des listes visées à l'article 59.
+<a name="Art.68" href="#Art.67">Art.</a> <a href="#LNK0025"> 68</a>. Pour chaque affaire, les rapporteurs sont les juges désignés en premier lieu sur chacune des listes visées à l'article 59.
 Chaque rapporteur est chargé d'instruire le dossier et de faire rapport à l'audience.
 
-<a name="LNK0022" href="#LNKR0022">CHAPITRE II.</a> - De la procédure préliminaire.
+<a name="LNK0025" href="#LNKR0025">CHAPITRE II.</a> - De la procédure préliminaire.
 
 <a name="Art.69" href="#Art.68">Art.</a> <a href="#Art.70"> 69</a>. Il existe une chambre restreinte, composée du président et des deux rapporteurs.
 
-<a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>.Dès réception d'un recours en annulation ou d'une décision de renvoi, les rapporteurs examinent s'il apparaît, ou non, au vu de la requête ou de la décision de renvoi, que le recours ou la question est manifestement irrecevable (ou non fondé, que la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>) n'est manifestement pas compétente pour en connaître (ou qu'il semble que l'on peut mettre fin à l'affaire par un arrêt de réponse immédiate). &lt;L 2003-03-09/47, art. 15, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>.Dès réception d'un recours en annulation ou d'une décision de renvoi, les rapporteurs examinent s'il apparaît, ou non, au vu de la requête ou de la décision de renvoi, que le recours ou la question est manifestement irrecevable (ou non fondé, que la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>) n'est manifestement pas compétente pour en connaître (ou qu'il semble que l'on peut mettre fin à l'affaire par un arrêt [<sup>2</sup> rendu sur procédure préliminaire]<sup>2</sup>). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 15, 006; <b> En vigueur : </b> 21-04-2003&gt;
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 48, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 16, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>. Si le recours en annulation ou la question préjudicielle apparaît comme manifestement irrecevable ou comme ne relevant manifestement pas de la compétence de la Cour, les rapporteurs font rapport à ce sujet devant le président dans un délai de trente jours au maximum suivant la réception de la requête ou de la décision de renvoi; si la règle attaquée fait également l'objet d'une demande de suspension, ce délai est réduit à dix jours au maximum.
-Les conclusions des rapporteurs sont notifiées aux parties par le greffier dans le délai prévu à l'alinéa premier. Les parties disposent de quinze jours (...) a compter de la réception de la notification pour introduire un mémoire justificatif. &lt;L 2003-03-09/47, art. 16, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.71" href="#Art.70">Art.</a> <a href="#Art.72"> 71</a>.Si le recours en annulation ou la question préjudicielle apparaît comme manifestement irrecevable ou comme ne relevant manifestement pas de la compétence de la Cour, les rapporteurs font rapport à ce sujet devant le président dans un délai de trente jours au maximum suivant la réception de la requête ou de la décision de renvoi; si la règle attaquée fait également l'objet d'une demande de suspension, ce délai est réduit à [<sup>1</sup> quinze]<sup>1</sup> jours au maximum.
+Les conclusions des rapporteurs sont notifiées aux parties par le greffier dans le délai prévu à l'alinéa premier. Les parties disposent de quinze jours (...) à compter de la réception de la notification pour introduire un mémoire justificatif. &lt;L 2003-03-09/47, art. 16, 006; <b> En vigueur : </b> 21-04-2003&gt;
 La chambre restreinte peut alors décider, à l'unanimité des voix, de mettre fin à l'examen de l'affaire, sans autre acte de procédure, par un arrêt dans lequel le recours ou la question est déclaré irrecevable ou dans lequel il est constaté que la Cour n'est pas compétente.
 Si la proposition de prononcer un arrêt d'irrecevabilité ou d'incompétence n'est pas retenue, la chambre restreinte le constate par ordonnance.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 17, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.72" href="#Art.71">Art.</a> <a href="#Art.73"> 72</a>. &lt;L 2003-03-09/47, art. 17, 006; <b> En vigueur : </b> 21-04-2003&gt; Si les rapporteurs jugent que le recours en annulation est manifestement non fondé, que l'on doit manifestement répondre par la négative à la question préjudicielle ou que, de par la nature de l'affaire ou de par la simplicité relative des problemes qui y sont soulevés, on peut y mettre fin par un arrêt de réponse immédiate, ils font rapport à ce sujet à la Cour dans un délai de trente jours au maximum, après réception de la requête ou de la décision de renvoi; si la règle contestée fait également l'objet d'une demande en suspension, ce délai est réduit à dix jours au maximum.
-Les conclusions des rapporteurs sont notifiées aux parties par le greffier dans le délai prévu a l'alinéa 1. Si les conclusions des rapporteurs proposent de constater une violation des règles mentionnées aux articles 1 et 26, elles sont notifiées, de même que le recours en annulation ou la décision contenant la question préjudicielle, aux parties mentionnées à l'article 76. Les parties disposent de quinze jours à compter de la réception de la notification, pour introduire un mémoire justificatif.
-La Cour peut alors décider de mettre fin à l'examen de l'affaire, sans autre acte de procédure, par un arrêt de réponse immédiate dans lequel, selon le cas, le recours est déclaré non fondé ou la question reçoit une réponse négative.
-Si la proposition de prononcer un arrêt déclarant l'affaire non fondée ou un arrêt de réponse immédiate n'est pas retenue, la Cour le constate par ordonnance.
+<a name="Art.72" href="#Art.71">Art.</a> <a href="#Art.73"> 72</a>.&lt;L 2003-03-09/47, art. 17, 006; <b> En vigueur : </b> 21-04-2003&gt; Si les rapporteurs jugent que le recours en annulation est manifestement non fondé, que l'on doit manifestement répondre par la négative à la question préjudicielle ou que, de par la nature de l'affaire ou de par la simplicité relative des problèmes qui y sont soulevés, on peut y mettre fin par un arrêt [<sup>1</sup> rendu sur procédure préliminaire]<sup>1</sup>, ils font rapport à ce sujet à la Cour dans un délai de trente jours au maximum, après réception de la requête ou de la décision de renvoi; si la règle contestée fait également l'objet d'une demande en suspension, ce délai est réduit à [<sup>1</sup> quinze]<sup>1</sup> jours au maximum.
+Les conclusions des rapporteurs sont notifiées aux parties par le greffier dans le délai prévu à l'alinéa 1. Si les conclusions des rapporteurs proposent de constater une violation des règles mentionnées aux articles 1 et 26, elles sont notifiées, de même que le recours en annulation ou la décision contenant la question préjudicielle, aux parties mentionnées à l'article 76. Les parties disposent de quinze jours à compter de la réception de la notification, pour introduire un mémoire justificatif.
+[<sup>1</sup> La Cour peut alors décider de mettre fin à l'examen de l'affaire, sans autre acte de procédure, par un arrêt dans lequel, selon le cas, le recours est déclaré fondé ou non fondé ou la question reçoit une réponse positive ou négative.]<sup>1</sup>
+Si la proposition de prononcer un arrêt [<sup>1</sup> rendu sur procédure préliminaire]<sup>1</sup> n'est pas retenue, la Cour le constate par ordonnance.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 18, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.73" href="#Art.72">Art.</a> <a href="#LNK0023"> 73</a>. Les arrêts visés aux articles 71, alinéa trois, et 72 alinéa trois, sont notifiés aux parties.
+<a name="Art.73" href="#Art.72">Art.</a> <a href="#LNK0026"> 73</a>. Les arrêts visés aux articles 71, alinéa trois, et 72 alinéa trois, sont notifiés aux parties.
 
-<a name="LNK0023" href="#LNKR0023">CHAPITRE III.</a> - De la publication et de la notification des recours et des questions préjudicielles.
+<a name="LNK0026" href="#LNKR0026">CHAPITRE III.</a> - De la publication et de la notification des recours et des questions préjudicielles.
 
 <a name="Art.74" href="#Art.73">Art.</a> <a href="#Art.75"> 74</a>. Lorsqu'il n'a pas été fait application des articles 71 et 72 ou au vu de l'ordonnance visée à l'article 71, alinéa quatre, ou de l'ordonnance visée à l'article 72, alinéa quatre, le greffier fait publier au Moniteur belge, en français, en néerlandais et en allemand, un avis indiquant notamment l'auteur et l'objet du recours en annulation ou de la question préjudicielle.
 (La requête en annulation peut être consultée au greffe de la Cour durant un délai de trente jours à dater de la publication visée à l'alinéa premier.) &lt;L 2003-03-09/47, art. 18, 006; <b> En vigueur : </b> 21-04-2003&gt;
@@ -507,28 +548,57 @@ Le Roi organise les modalités de l'assistance.
 
 <a name="Art.77" href="#Art.76">Art.</a> <a href="#Art.78"> 77</a>. Le greffier notifie les décisions de renvoi au Conseil des Ministres, aux Exécutifs régionaux et de Communauté et aux présidents des assemblées législatives, ainsi qu'aux parties en cause devant la juridiction qui a pris la décision de renvoi.
 
-<a name="Art.78" href="#Art.77">Art.</a> <a href="#Art.%2030ter.%20"> 78</a>. Lorsqu'une même disposition fait l'objet d'un recours en annulation et d'une décision de renvoi antérieure, le greffier notifie le recours en annulation aux parties en cause devant la juridiction qui a posé la question préjudicielle. La notification fait mention du délai dans lequel elles peuvent déposer un mémoire, conformément à l'article 85.
+<a name="Art.78" href="#Art.77">Art.</a> <a href="#LNK0027"> 78</a>. Lorsqu'une même disposition fait l'objet d'un recours en annulation et d'une décision de renvoi antérieure, le greffier notifie le recours en annulation aux parties en cause devant la juridiction qui a posé la question préjudicielle. La notification fait mention du délai dans lequel elles peuvent déposer un mémoire, conformément à l'article 85.
 Sauf application de l'article 100, la Cour statue d'abord sur le recours en annulation.
 
-<a name="LNK0024" href="#LNKR0024">CHAPITRE IV.</a> - De l'instruction.
+<a name="LNK0027" href="#LNKR0027">CHAPITRE IIIbis.</a> [<sup>1</sup> - De la procédure électronique]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 19, 013; En vigueur : indéterminée &gt;
 
-<a name="Art.79" href="#Art.78">Art.</a> <a href="#Art.80"> 79</a>. L'instruction a lieu par écrit.
+<a name="Art.78bis" href="#Art.78">Art.</a> <a href="#LNK0028"> 78bis</a>. [<sup>1</sup> § 1er. La Cour met une plateforme électronique à disposition pour les communications requises dans le cadre des procédures devant la Cour constitutionnelle, et plus particulièrement pour l'introduction de requêtes, l'envoi de pièces de procédure et l'envoi de notifications, communications et convocations.
+Le Roi fixe le fonctionnement de la plateforme, y compris les conditions de gestion et de sécurisation de la plateforme. Ceci comprend notamment les parties qui y ont accès, la procédure d'enregistrement, les modalités d'utilisation, l'authentification de l'utilisateur, le format et la signature des documents. En ce qui concerne les parties qui y ont accès, le Roi peut, à peine d'irrecevabilité, rendre l'utilisation de la plateforme obligatoire pour certaines catégories de parties ou prévoir que certaines catégories de parties ne peuvent s'enregistrer sur la plateforme que lorsque le Roi a fixé les conditions à cet effet.
+La plateforme doit plus particulièrement remplir les conditions suivantes :
+1° les dates et heures d'envoi et de délivrance des pièces de procédure, notifications et communications doivent pouvoir être établies précisément;
+2° l'identité des parties concernées par la signification, la notification ou la communication doit pouvoir être vérifiée de manière précise;
+3° tous les échanges ayant eu lieu au moyen de la plateforme doivent être protégés contre les modifications au moyen de mesures de sécurisation technique et cryptographique appropriées;
+4° la confidentialité de toutes les données échangées au moyen de la plateforme doit être garantie.
+§ 2. Les données communiquées de manière régulière par voie électronique au moyen de la plateforme ont, jusqu'à preuve du contraire, la même force probante que les données communiquées sur papier.
+§ 3. Sauf preuve contraire, les données communiquées de manière régulière par voie électronique au moyen de la plateforme produisent leurs effets et la délivrance au destinataire est réputée avoir lieu au moment où ces données peuvent être consultées au moyen de la plateforme.
+§ 4. Lorsque la communication de données au moyen de la plateforme n'est pas possible pour des raisons de force majeure, et plus particulièrement en cas de dysfonctionnement de la plateforme, la communication peut se faire sur papier, au plus tard le jour qui suit l'échéance du délai prévu pour les envois sur papier, soit par envoi recommandé avec accusé de réception, soit par dépôt au greffe de la Cour, et peut être conservée et consultée en tant que telle.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 20, 013; En vigueur : indéterminée &gt;
+
+<a name="LNK0028" href="#LNKR0028">CHAPITRE IV.</a> - De l'instruction.
+
+<a name="Art.79" href="#Art.78bis">Art.</a> <a href="#Art.80"> 79</a>. L'instruction a lieu par écrit.
 
 <a name="Art.80" href="#Art.79">Art.</a> <a href="#Art.81"> 80</a>. Les notifications au Conseil des Ministres sont faites au cabinet du Premier Ministre.
 Les notifications aux Exécutifs des Communautés et des Régions sont faites au cabinet du Président de l'Exécutif.
 Les notifications aux présidents des assemblées législatives sont faites au greffe de l'assemblée.
 
-<a name="Art.81" href="#Art.80">Art.</a> <a href="#Art.82"> 81</a>. Toute partie, si elle n'est pas une autorité publique, indique dans la requête ou le mémoire son domicile ou son siège en Belgique ou le domicile qu'elle élit en Belgique.
+<a name="Art.81" href="#Art.80">Art.</a> <a href="#Art.82"> 81</a>.Toute partie, si elle n'est pas une autorité publique, indique dans la requête ou le mémoire son domicile ou son siège en Belgique ou le domicile qu'elle élit en Belgique.
 A défaut d'une telle indication, aucune notification ne doit être faite par le greffe et la procédure est réputée contradictoire.
 Toute notification est faite par le greffe au siège ou domicile indiqué, même en cas de décès de la partie.
 
-<a name="Art.82" href="#Art.81">Art.</a> <a href="#Art.83"> 82</a>. L'envoi à la Cour de toute pièce de procédure est fait sous pli recommandé à la poste.
+DROIT FUTUR
+
+<i>Art. 81. [<sup><font color="red">1</font></sup> Toute partie, si elle n'est pas une autorité publique et si elle n'est pas enregistrée sur la plateforme, indique dans la requête ou le mémoire son domicile ou son siège en Belgique ou le domicile ou le siège qu'elle élit en Belgique.<br>   A défaut d'une indication du domicile ou du siège ainsi que d'un enregistrement sur la plateforme, aucune notification ne doit être faite par le greffe et la procédure est réputée contradictoire.<br>   Toute notification est faite par le greffe :<br>   1° à l'adresse électronique d'une partie enregistrée sur la plateforme;<br>   2° pour les personnes qui ne sont pas enregistrées sur la plateforme, au domicile ou siège indiqué, même en cas de décès de la partie.]<sup><font color="red">1</font></sup></i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 21, 013; En vigueur : indéterminée &gt;
+
+<a name="Art.82" href="#Art.81">Art.</a> <a href="#Art.83"> 82</a>.L'envoi à la Cour de toute pièce de procédure est fait sous pli recommandé à la poste.
 L'envoi par la Cour de toute pièce, notification ou convocation est fait sous pli recommandé à la poste avec accusé de réception.
 Le délai accordé aux parties prend cours à la date de la réception du pli. Si le destinataire refuse le pli, le délai prend cours à dater du refus.
 La date de la poste fait foi tant pour l'envoi que pour la réception ou pour le refus.
 
-<a name="Art.83" href="#Art.82">Art.</a> <a href="#Art.84"> 83</a>. A toute requête ou mémoire sont jointes dix copies certifiées conformes par le signataire.
-La remise de copies supplémentaires peut être ordonnée.
+DROIT FUTUR
+
+<i>Art. 82. [<sup><font color="red">1</font></sup> L'envoi à la Cour de toute pièce de procédure par les parties enregistrées sur la plateforme se fait au moyen de la plateforme. L'envoi à la Cour de toute pièce de procédure par les parties qui ne sont pas enregistrées sur la plateforme se fait par envoi recommandé.<br>   L'envoi par la Cour de toute pièce, notification ou convocation aux parties enregistrées sur la plateforme se fait au moyen de cette dernière. L'envoi par la Cour de toute pièce, notification ou convocation aux parties qui ne sont pas enregistrées sur la plateforme se fait par envoi recommandé avec accusé de réception.<br>   La requête ou le mémoire sont signés et datés lorsqu'ils sont envoyés à la Cour par envoi recommandé.<br>   En cas d'envoi recommandé, le délai accordé aux parties prend cours le jour suivant la date de réception de l'envoi ou de l'avis selon lequel l'envoi peut être retiré, lorsque celui-ci ne peut être remis personnellement au destinataire ou à son mandataire. Si le destinataire refuse l'envoi, le délai prend cours à dater du jour suivant le refus.<br>   En cas de communication au moyen de la plateforme, le délai prend cours à compter du jour où les pièces, notifications et convocations visées peuvent être consultées au moyen de la plateforme.<br>   Ces dates font foi tant pour l'envoi que pour la réception ou pour le refus.]<sup><font color="red">1</font></sup></i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 22, 013; En vigueur : indéterminée &gt;
+
+<a name="Art.83" href="#Art.82">Art.</a> <a href="#Art.84"> 83</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 23, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.84" href="#Art.83">Art.</a> <a href="#Art.85"> 84</a>. Les requêtes et mémoires transmis à la Cour contiennent un inventaire des pièces à l'appui.
 Tout dossier est transmis avec un inventaire des pièces qui le composent.
@@ -537,26 +607,32 @@ Tout dossier est transmis avec un inventaire des pièces qui le composent.
 Lorsque l'affaire concerne un recours en annulation, ces mémoires peuvent formuler de nouveaux moyens. Subséquemment, les parties ne peuvent plus invoquer de nouveaux moyens.
 (Alinéa 3 abrogé) &lt;L 2003-03-09/47, art. 19, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="Art.86" href="#Art.85">Art.</a> <a href="#Art.87"> 86</a>. Les mémoires visés à l'article 85, qui n'ont pas été introduits dans les délais prévus par la loi, sont écartés des debats.
+<a name="Art.86" href="#Art.85">Art.</a> <a href="#Art.87"> 86</a>.[<sup>1</sup> Les mémoires visés aux articles 71, alinéa 2, 72, alinéa 2, 85, 87 et 89, qui n'ont pas été introduits dans les délais prévus par la présente loi, sont écartés des débats.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 24, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.87" href="#Art.86">Art.</a> <a href="#Art.88"> 87</a>.
-§ 1. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, sur les questions visées à l'article 26, toute personne justifiant d'un intérêt dans la cause devant la juridiction qui ordonne le renvoi, peut adresser un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est, de ce fait, réputée partie au litige.
-§ 2. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue sur les recours en annulation visés a l'article 1er, toute personne justifiant d'un intérêt peut adresser ses observations dans un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est de ce fait, réputée partie au litige.
+<a name="Art.87" href="#Art.86">Art.</a> <a href="#Art.88"> 87</a>.§ 1. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, à titre préjudiciel, sur les questions visées à l'article 26, toute personne justifiant d'un intérêt [<sup>2</sup> ...]<sup>2</sup> peut adresser un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est, de ce fait, réputée partie au litige.
+§ 2. Lorsque la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue sur les recours en annulation visés à l'article 1er, toute personne justifiant d'un intérêt peut adresser ses observations dans un mémoire à la Cour dans les trente jours de la publication prescrite par l'article 74. Elle est de ce fait, réputée partie au litige.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 49, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 25, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.88" href="#Art.87">Art.</a> <a href="#Art.89"> 88</a>. Toute personne qui, en application des articles 85 et 87, adresse un mémoire à la Cour, est tenue d'y joindre le dossier qu'elle détient.
 
-<a name="Art.89" href="#Art.88">Art.</a> <a href="#Art.89bis"> 89</a>. &lt;L 2003-03-09/47, art. 20, 006; <b> En vigueur : </b> 21-04-2003&gt; § 1. Lorsque la Cour statue, à titre préjudiciel, sur les questions visées à l'article 26, le greffier transmet une copie des mémoires déposés aux autres parties ayant introduit une requête ou déposé un mémoire. Elles disposent alors de trente jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en reponse. A l'expiration de ce délai, le greffier transmet aux autres parties ayant introduit une requête, une copie des mémoires de réponse déposés.
-§ 2. Lorsque la Cour statue sur les recours en annulation visés à l'article 1, le greffier transmet une copie des memoires déposés, à l'expiration des délais prévus par les articles 85 et 87, à la partie requérante. Celle-ci dispose alors de trente jours à dater du jour de la réception pour faire parvenir au greffe du mémoire en réponse. A l'expiration de ce délai, le greffier transmet une copie du mémoire en réponse introduit par la partie requérante aux autres parties ayant déposé un mémoire. Celles-ci disposent alors de trente jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réplique. A l'expiration de ce délai, le greffier transmet à la partie requérante une copie des mémoires introduits.
+<a name="Art.89" href="#Art.88">Art.</a> <a href="#Art.89bis"> 89</a>.&lt;L 2003-03-09/47, art. 20, 006; <b> En vigueur : </b> 21-04-2003&gt; § 1. Lorsque la Cour statue, à titre préjudiciel, sur les questions visées à l'article 26, le greffier transmet une copie des mémoires déposés aux autres parties ayant [<sup>1</sup> ...]<sup>1</sup> déposé un mémoire. Elles disposent alors de trente jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réponse. A l'expiration de ce délai, le greffier transmet aux [<sup>1</sup> ...]<sup>1</sup> parties ayant introduit une requête, une copie des mémoires de réponse déposés.
+§ 2. [<sup>1</sup> Lorsque la Cour statue sur les recours en annulation visés à l'article 1er, le greffier transmet une copie des mémoires déposés, à l'expiration des délais visés aux articles 85 et 87, à la partie requérante. Celle-ci dispose de trente jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réponse. A l'expiration de ce délai, le greffier transmet à chaque partie ayant déposé un mémoire une copie du mémoire en réponse introduit par la partie requérante et des mémoires introduits par les autres parties. Les destinataires de cette notification disposent de trente jours à dater du jour de la réception pour faire parvenir au greffe un mémoire en réplique. A l'expiration de ce délai, le greffier transmet à la partie requérante et aux autres parties ayant déposé un mémoire une copie des mémoires en réplique introduits.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 26, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.89bis" href="#Art.89">Art.</a> <a href="#Art.90"> 89bis</a>. &lt;Inséré par L 2003-03-09/47, art. 21, 006; <b> En vigueur : </b> 21-04-2003&gt; Les délais fixés aux articles 85, 87 et 89 peuvent être abrégés ou prorogés par ordonnance motivée du président.
 Lorsqu'un délai fixé à l'article 87 est abrégé ou prorogé conformément à l'alinéa 1, le greffier en fait mention dans l'avis visé à l'article 74, alinéa 1.
 
-<a name="Art.90" href="#Art.89bis">Art.</a> <a href="#Art.91"> 90</a>. A l'expiration du délai prévu par l'article 89, la Cour, les rapporteurs entendus, decide si l'affaire est ou non en état.
-L'ordonnance décidant que l'affaire est en état fixe le jour de l'audience (et énonce les questions soulevées lors de la mise en état, auxquelles les parties seront invitées à répondre, soit par un memoire complémentaire à introduire dans le délai fixé dans l'ordonnance, soit verbalement à l'audience.) &lt;L 2003-03-09/47, art. 22, 006; <b> En vigueur : </b> 21-04-2003&gt;
-L'ordonnance décidant que l'affaire n'est pas en état énonce les devoirs à accomplir par les rapporteurs ou par les greffiers, mentionne, le cas échéant, les moyens qui, en l'état de l'affaire, paraissent devoir être examines d'office et invite les parties à déposer un mémoire à cet égard dans le délai qu'elle fixe. Une fois ces devoirs accomplis, la Cour procède conformément aux alinéas premier et deux.
-Les ordonnances sont notifiées aux parties.
+<a name="Art.90" href="#Art.89bis">Art.</a> <a href="#Art.91"> 90</a>.[<sup>1</sup> A l'expiration des délais prévus par l'article 89, la Cour, les rapporteurs entendus, décide si l'affaire est ou non en état et si une audience est tenue.
+L'ordonnance décidant que l'affaire est en état fixe, le cas échéant, le jour de l'audience et énonce les moyens qui paraissent devoir être examinés d'office et les questions auxquelles les parties seront invitées à répondre, soit par un mémoire complémentaire à introduire dans le délai fixé dans l'ordonnance, soit verbalement à l'audience.
+L'ordonnance décidant que l'affaire n'est pas en état énonce les devoirs à accomplir par les rapporteurs ou par les greffiers et mentionne, le cas échéant, les moyens qui paraissent devoir être examinés d'office et les questions auxquelles les parties seront invitées à répondre par un mémoire complémentaire à introduire dans le délai fixé dans l'ordonnance. Une fois ces devoirs accomplis, la Cour procède conformément aux alinéas 1er et 2.
+Les ordonnances sont notifiées aux parties. Si aucune audience n'est fixée, chacune des parties peut introduire une demande en vue d'être entendue. Cette demande est introduite dans les sept jours qui suivent la notification de l'ordonnance visée à l'alinéa 2.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 27, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.91" href="#Art.90">Art.</a> <a href="#Art.92"> 91</a>. La Cour a les pouvoirs d'instruction et d'investigation les plus étendus.
 Elle peut notamment :
@@ -576,14 +652,14 @@ ou
 " Ich schwöre auf Ehre und Gewissen, die ganze Wahrheit und nur die Wahrheit zu sagen. "
 Toute personne convoquée sera tenue de comparaître et de satisfaire à la convocation. Le refus de comparaître, de prêter serment ou de déposer sera puni d'une amende de vingt-six à cent francs.
 Procès-verbal relatif à la non-comparution ou au refus de témoigner sous serment sera dressé et transmis au procureur du Roi de l'arrondissement dans lequel la personne devait être entendue.
-Les dispositions du Code pénal relatives au faux temoignage en matière civile ainsi qu'à la subornation des témoins sont applicables à la procédure d'enquête prévue par le présent article.
+Les dispositions du Code pénal relatives au faux témoignage en matière civile ainsi qu'à la subornation des témoins sont applicables à la procédure d'enquête prévue par le présent article.
 Le procès-verbal de l'audition est signé par le président ou par les juges de la Cour qui y ont procédé, par le greffier et par la personne entendue.
 
 <a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>. En cas de descente sur les lieux, les parties et leurs avocats sont convoqués.
 
-<a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.94bis"> 94</a>. La Cour détermine par ordonnance la mission des experts qu'elle commet et fixe le délai pour le dépôt de leur rapport. Le greffier notifie cette ordonnance aux experts et aux parties.
+<a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.94bis"> 94</a>.La Cour détermine par ordonnance la mission des experts qu'elle commet et fixe le délai pour le dépôt de leur rapport. Le greffier notifie cette ordonnance aux experts et aux parties.
 Les articles 966 à 970 du Code judiciaire sont d'application aux experts commis.
-Dans les huit jours qui suivent la notification prévue à l'alinéa 1er, les experts avisent par lettre recommandée à la poste chacune des parties des lieu, jour et heure où ils commenceront leurs operations.
+Dans les huit jours qui suivent la notification prévue à l'alinéa 1er, les experts avisent par lettre recommandée à la poste chacune des parties des lieu, jour et heure où ils commenceront leurs opérations.
 Les pièces nécessaires sont remises aux experts; les parties peuvent faire tels dires et réquisitoires qu'elles jugent convenables; il en est fait mention dans le rapport, dont les préliminaires sont portés à la connaissance des parties.
 Le rapport est signé par tous les experts, sauf empêchement constaté par le greffier au moment du dépôt du rapport. La signature des experts est précédée du serment :
 " Je jure que j'ai rempli ma mission en honneur et conscience, avec exactitude et probité ",
@@ -594,55 +670,65 @@ ou
 La minute du rapport est déposée au greffe. Le greffier en avise les parties.
 La Cour peut, pour des motifs graves et par une décision motivée, mettre fin à la mission des experts et pourvoir à leur remplacement après les avoir entendus. Le greffier notifie la décision aux experts et aux parties.
 
-<a name="Art.94bis" href="#Art.94">Art.</a> <a href="#LNK0025"> 94bis</a>. &lt;Inséré par L 2003-03-09/47, art. 23; <b> En vigueur : </b> 21-04-2003&gt; § 1. Lorsque la Cour est saisie d'une question préjudicielle formée par le Conseil d'Etat en vertu de l'article 6, § 1; VIII, 5°, de la loi spéciale du 8 août 1980 des réformes institutionnelles, le greffier notifie la décision de renvoi conformément à l'article 77.
+DROIT FUTUR
+
+<i>Art. 94. La Cour détermine par ordonnance la mission des experts qu'elle commet et fixe le délai pour le dépôt de leur rapport. Le greffier notifie cette ordonnance aux experts et aux parties.<br>  Les articles 966 à 970 du Code judiciaire sont d'application aux experts commis.<br>  Dans les huit jours qui suivent la notification prévue à l'alinéa 1er, les experts avisent [<sup><font color="red">1</font></sup> ...]<sup><font color="red">1</font></sup> chacune des parties des lieu, jour et heure où ils commenceront leurs opérations. [<sup><font color="red">1</font></sup> Cet avis se fait par envoi recommandé ou au moyen de la plateforme pour les parties enregistrées sur la plateforme.]<sup><font color="red">1</font></sup><br>  Les pièces nécessaires sont remises aux experts; les parties peuvent faire tels dires et réquisitoires qu'elles jugent convenables; il en est fait mention dans le rapport, dont les préliminaires sont portés à la connaissance des parties.<br>  Le rapport est signé par tous les experts, sauf empêchement constaté par le greffier au moment du dépôt du rapport. La signature des experts est précédée du serment :<br>  " Je jure que j'ai rempli ma mission en honneur et conscience, avec exactitude et probité ",<br>  ou<br>  " Ik zweer dat ik in eer en geweten, nauwgezet en eerlijk, mijn opdracht heb vervuld ",<br>  ou<br>  " Ich schwöre, dass ich den mir erteilten Auftrag auf Ehre und Gewissen, genau und erhlich erfullt habe ".<br>  La minute du rapport est déposée au greffe. Le greffier en avise les parties.<br>  La Cour peut, pour des motifs graves et par une décision motivée, mettre fin à la mission des experts et pourvoir à leur remplacement après les avoir entendus. Le greffier notifie la décision aux experts et aux parties. </i>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 28, 013; En vigueur : indéterminée &gt;
+
+<a name="Art.94bis" href="#Art.94">Art.</a> <a href="#LNK0029"> 94bis</a>. &lt;Inséré par L 2003-03-09/47, art. 23; <b> En vigueur : </b> 21-04-2003&gt; § 1. Lorsque la Cour est saisie d'une question préjudicielle formée par le Conseil d'Etat en vertu de l'article 6, § 1; VIII, 5°, de la loi spéciale du 8 août 1980 des réformes institutionnelles, le greffier notifie la décision de renvoi conformément à l'article 77.
 § 2. Dans les dix jours de la réception de la notification, le Conseil des Ministres, les Gouvernements, les présidents des assemblées législatives et les personnes destinataires de ces notifications peuvent adresser un mémoire à la Cour.
 § 3. A l'expiration du délai prévu au § 2, la Cour, les rapporteurs entendus, décide si l'affaire est ou non en état. L'ordonnance décidant que l'affaire est en état fixe le jour de l'audience. Elle est notifiée aux parties au moins trois jours avant la date de l'audience. Pendant le délai qui sépare la notification de l'ordonnance de fixation de l'audience, les parties peuvent consulter le dossier au greffe.
 
-<a name="LNK0025" href="#LNKR0025">CHAPITRE V.</a> - Des incidents.
+<a name="LNK0029" href="#LNKR0029">CHAPITRE V.</a> - Des incidents.
 
-<a name="LNK0026" href="#LNKR0026">Section I.</a> - De l'inscription en faux.
+<a name="LNK0030" href="#LNKR0030">Section I.</a> - De l'inscription en faux.
 
-<a name="Art.95" href="#Art.94bis">Art.</a> <a href="#LNK0027"> 95</a>. Lorsqu'une partie s'inscrit en faux contre une pièce produite, la Cour invite la partie qui l'a produite à déclarer sans délai si elle persiste dans son intention de s'en servir.
+<a name="Art.95" href="#Art.94bis">Art.</a> <a href="#LNK0031"> 95</a>. Lorsqu'une partie s'inscrit en faux contre une pièce produite, la Cour invite la partie qui l'a produite à déclarer sans délai si elle persiste dans son intention de s'en servir.
 Si la partie ne satisfait pas à cette demande ou si elle déclare qu'elle n'entend pas se servir de la pièce, celle-ci est rejetée.
-Si elle declare vouloir s'en servir et que la pièce est essentielle pour la solution du litige, la Cour surseoit à statuer jusqu'après le jugement de faux par la juridiction compétente; celle-ci statue toutes affaires cessantes. Si aucune juridiction n'a été saisie de la question, la Cour apprécie la force probante de la pièce.
+Si elle déclare vouloir s'en servir et que la pièce est essentielle pour la solution du litige, la Cour surseoit à statuer jusqu'après le jugement de faux par la juridiction compétente; celle-ci statue toutes affaires cessantes. Si aucune juridiction n'a été saisie de la question, la Cour apprécie la force probante de la pièce.
 S'il peut être statué sans tenir compte de la pièce arguée de faux, il est passé outre.
 
-<a name="LNK0027" href="#LNKR0027">Section II.</a> - De la reprise d'instance.
+<a name="LNK0031" href="#LNKR0031">Section II.</a> - De la reprise d'instance.
 
 <a name="Art.96" href="#Art.95">Art.</a> <a href="#Art.97"> 96</a>. Si, avant la clôture des débats, une personne justifiant d'un intérêt ayant introduit un recours en annulation ou une partie visée à l'article 87 vient à décéder, la procédure est poursuivie sans qu'il y ait lieu à reprise d'instance.
 
-<a name="Art.97" href="#Art.96">Art.</a> <a href="#LNK0028"> 97</a>. Si, avant la clôture des débats, l'une des parties au litige devant la juridiction qui a posé la question préjudicielle vient à décéder, la procédure devant la Cour est suspendue.
+<a name="Art.97" href="#Art.96">Art.</a> <a href="#LNK0032"> 97</a>.Si, avant la clôture des débats, l'une des parties au litige devant la juridiction qui a posé la question préjudicielle vient à décéder [<sup>1</sup> après être devenue partie devant la Cour]<sup>1</sup>, la procédure devant la Cour est suspendue.
 La procédure est reprise lorsque la juridiction qui a posé la question préjudicielle informe la Cour de la reprise d'instance.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 29, 013; En vigueur : 25-04-2014&gt;
 
-<a name="LNK0028" href="#LNKR0028">Section III.</a> - Du désistement.
+<a name="LNK0032" href="#LNKR0032">Section III.</a> - Du désistement.
 
-<a name="Art.98" href="#Art.97">Art.</a> <a href="#Art.99"> 98</a>. Le Conseil des Ministres, les Exécutifs régionaux et de Communauté, les présidents des assemblées législatives peuvent se désister de leur recours en annulation.
+<a name="Art.98" href="#Art.97">Art.</a> <a href="#Art.99"> 98</a>.[<sup>1</sup> Les parties requérantes]<sup>1</sup> peuvent se désister de leur recours en annulation.
 Le Conseil des Ministres et les Exécutifs régionaux et de Communauté joignent à la communication qu'ils font de cette décision à la Cour une copie certifiée conforme de la délibération par laquelle le désistement a été décidé.
 S'il y a lieu, la Cour décrète le désistement, les autres parties entendues.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 30, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.99" href="#Art.98">Art.</a> <a href="#Art.%2025septies."> 99</a>. Le désistement, accepté ou admis devant la juridiction qui a posé la question préjudicielle, met fin à la procédure devant la Cour.
+<a name="Art.99" href="#Art.98">Art.</a> <a href="#LNK0033"> 99</a>. Le désistement, accepté ou admis devant la juridiction qui a posé la question préjudicielle, met fin à la procédure devant la Cour.
 La juridiction transmet une expédition de sa décision à la Cour.
 
-<a name="LNK0029" href="#LNKR0029">Section IV.</a> - De la connexité.
+<a name="LNK0033" href="#LNKR0033">Section IV.</a> - De la connexité.
 
-<a name="Art.100" href="#Art.99">Art.</a> <a href="#LNK0030"> 100</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière peut joindre les recours en annulation ou les questions préjudicielles relatifs à une même norme, sur lesquels il y a lieu de statuer par un seul et même arrêt. Dans ce cas, les affaires sont examinées par le siège saisi le premier.
+<a name="Art.100" href="#Art.99">Art.</a> <a href="#LNK0034"> 100</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> réunie en séance plénière peut joindre les recours en annulation ou les questions préjudicielles relatifs à une même norme, sur lesquels il y a lieu de statuer par un seul et même arrêt. Dans ce cas, les affaires sont examinées par le siège saisi le premier.
 Le greffier notifie l'ordonnance de jonction aux parties.
 Lorsque deux ou plusieurs affaires ont été jointes, les rapporteurs sont ceux qui, conformément à l'article 68, sont désignés pour la première affaire dont la Cour a été saisie.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 50, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0030" href="#LNKR0030">Section V.</a> - De la récusation.
+<a name="LNK0034" href="#LNKR0034">Section V.</a> - De la récusation.
 
 <a name="Art.101" href="#Art.100">Art.</a> <a href="#Art.102"> 101</a>. Les juges de la Cour peuvent être récusés pour les causes qui donnent lieu à récusation aux termes des articles 828 et 830 du Code judiciaire.
-Le fait qu'un juge de la Cour a participé a l'elaboration de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours en annulation ou de la décision de renvoi, ne constitue pas en soi une cause de récusation. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+Le fait qu'un juge de la Cour a participé à l'élaboration de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui fait l'objet du recours en annulation ou de la décision de renvoi, ne constitue pas en soi une cause de récusation. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 Tout juge de la Cour qui sait une cause de récusation en sa personne est tenu de la déclarer à la Cour qui décide s'il doit s'abstenir.
 
-<a name="Art.102" href="#Art.101">Art.</a> <a href="#LNK0031"> 102</a>. Celui qui veut récuser doit le faire dès qu'il a connaissance de la cause de récusation.
+<a name="Art.102" href="#Art.101">Art.</a> <a href="#LNK0035"> 102</a>. Celui qui veut récuser doit le faire dès qu'il a connaissance de la cause de récusation.
 La récusation motivée est proposée par requête adressée à la Cour.
-Il est statue sans délai sur la recusation, le récusant et le juge récusé entendus.
+Il est statue sans délai sur la récusation, le récusant et le juge récusé entendus.
 Le juge récusé est remplace par un autre juge, tel qu'il est prévu à l'article 55, alinéa premier, à l'article 56 et à l'article 60, selon le cas.
 
-<a name="LNK0031" href="#LNKR0031">CHAPITRE VI.</a> - De l'audience.
+<a name="LNK0035" href="#LNKR0035">CHAPITRE VI.</a> - De l'audience.
 
 <a name="Art.103" href="#Art.102">Art.</a> <a href="#Art.104"> 103</a>. Les parties qui ont introduit une requête ou déposé un mémoire, leurs représentants et leurs avocats sont avisés de la date de l'audience quinze jours d'avance.
 (Le rapport des rapporteurs est communiqué aux parties en cause en même temps que la notification de la date de l'audience.) &lt;L 2003-03-09/47, art. 24, 006; <b> En vigueur : </b> 21-04-2003&gt;
@@ -654,18 +740,18 @@ Pendant (le délai visé à l'alinéa 1), ils peuvent consulter le dossier au gr
 Tout ce que le président ordonne pour le maintien de l'ordre est exécuté ponctuellement et à l'instant.
 La même disposition est observée dans les lieux où les juges exercent les fonctions de leur état.
 
-<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0032"> 106</a>. A l'audience, le rapporteur appartenant au groupe dont la langue est celle de l'instruction résume les faits de la cause et indique les questions juridiques que la Cour doit résoudre.
+<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0036"> 106</a>. A l'audience, le rapporteur appartenant au groupe dont la langue est celle de l'instruction résume les faits de la cause et indique les questions juridiques que la Cour doit résoudre.
 Le rapporteur appartenant à l'autre groupe linguistique peut, le cas échéant, faire un rapport complémentaire.
 La Cour, s'il échet, entend les personnes dont elle a décidé l'audition, ainsi que les experts.
 Ne sont admises aux débats que les parties ayant introduit une requête ou déposé un mémoire, ainsi que leurs avocats; elles ne peuvent que présenter des observations orales.
 Le président prononce ensuite la clôture des débats et met la cause en délibéré.
 
-<a name="LNK0032" href="#LNKR0032">CHAPITRE VII.</a> - De la réouverture des débats.
+<a name="LNK0036" href="#LNKR0036">CHAPITRE VII.</a> - De la réouverture des débats.
 
-<a name="Art.107" href="#Art.106">Art.</a> <a href="#LNK0033"> 107</a>. La Cour peut ordonner d'office la réouverture des débats. Elle doit l'ordonner avant d'accueillir une exception ou un moyen sur lesquels les parties n'ont pas été mises en mesures de s'expliquer.
+<a name="Art.107" href="#Art.106">Art.</a> <a href="#LNK0037"> 107</a>. La Cour peut ordonner d'office la réouverture des débats. Elle doit l'ordonner avant d'accueillir une exception ou un moyen sur lesquels les parties n'ont pas été mises en mesures de s'expliquer.
 La Cour indique les délais dans lesquels les parties sont appelées à déposer à cet égard un dernier mémoire.
 
-<a name="LNK0033" href="#LNKR0033">CHAPITRE VIII.</a> - De l'arrêt.
+<a name="LNK0037" href="#LNKR0037">CHAPITRE VIII.</a> - De l'arrêt.
 
 <a name="Art.108" href="#Art.107">Art.</a> <a href="#Art.109"> 108</a>. Les délibérations de la Cour sont secrètes.
 
@@ -674,32 +760,39 @@ Néanmoins, dans le cas où une affaire n'est pas en état d'être jugée à l'e
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010647" target="_blank">2014-01-06/47</a>, art. 10, 011; En vigueur : 25-05-2014&gt;
 
-<a name="Art.110" href="#Art.109">Art.</a> <a href="#Art.111"> 110</a>. Tout arrêt est prononcé en audience publique.
-Lorsqu'un juge de la Cour est légitimement empêché d'assister au prononcé de l'arrêt en délibéré duquel il a participé, le président en exercice peut désigner un autre juge pour le remplacer au moment du prononcé.
+<a name="Art.110" href="#Art.109">Art.</a> <a href="#Art.111"> 110</a>.[<sup>1</sup> Sauf si le président décide de prononcer l'arrêt en audience publique, sa publication sur le site web de la Cour vaut prononcé.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 31, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.111" href="#Art.110">Art.</a> <a href="#Art.112"> 111</a>. L'arrêt contient les motifs et le dispositif. Il porte mention :
-1° des nom, domicile, résidence ou siège de chacune des parties et, le cas échéant, des nom et qualité des personnes qui les représentent;
+<a name="Art.111" href="#Art.110">Art.</a> <a href="#Art.112"> 111</a>.[<sup>1</sup> L'arrêt contient les motifs et le dispositif. Il porte mention :
+1° du nom de chacune des parties et, le cas échéant, des nom et qualité des personnes qui les représentent ainsi que de leurs conseils;
 2° des dispositions sur l'emploi des langues dont il est fait application;
-3° de la convocation des parties et de leurs avocats, ainsi que de leur présence éventuelle à l'audience;
-4° du prononcé en audience publique, de la date de celui-ci et du nom des juges qui en ont délibéré.
+3° des mémoires introduits par les parties, ainsi que de la présence éventuelle des parties et de leurs conseils à l'audience;
+4° de la date de la signature de l'arrêt et du nom des juges qui en ont délibéré.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 32, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.112" href="#Art.111">Art.</a> <a href="#Art.113"> 112</a>. Les arrêts sont signés par le président et par le greffier.
 
-<a name="Art.113" href="#Art.112">Art.</a> <a href="#Art.114"> 113</a>. Les arrêts sont notifiés par le greffier :
-1° au Premier Ministre et aux présidents des Exécutifs;
-2° aux présidents des Chambres législatives, du (Parlement de la Communauté française), du (Parlement wallon), du (Parlement flamand), du (Parlement de la Communauté germanophone) et des assemblées législatives de la Region de Bruxelles-Capitale; &lt;L 2006-03-27/33, art. 17, 007; <b> En vigueur : </b> 21-04-2006&gt;
+<a name="Art.113" href="#Art.112">Art.</a> <a href="#Art.114"> 113</a>.Les arrêts sont notifiés par le greffier :
+1° [<sup>1</sup> ...]<sup>1</sup>
+2° [<sup>1</sup> ...]<sup>1</sup>
 3° aux parties;
 4° à la juridiction qui a posé la question préjudicielle.
+[<sup>1</sup> Ils sont communiqués par voie électronique :
+1° au premier ministre et aux présidents des gouvernements;
+2° aux présidents des Chambres législatives, du Parlement de la Communauté française, du Parlement wallon, du Parlement flamand, du Parlement de la Communauté germanophone et des Assemblées législatives de la Région de Bruxelles-Capitale.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 33, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.114" href="#Art.113">Art.</a> <a href="#Art.115"> 114</a>. (Les arrêts, rendus sur recours en annulation et sur des questions préjudicielles, sont publiés dans leur intégralité ou par extraits dans le Moniteur belge par les soins du greffier. L'extrait comporte les considérants et le dispositif.) &lt;L 2003-03-09/47, art. 26, 006; <b> En vigueur : </b> 21-04-2003&gt;
-La Cour en assure la publication dans un recueil officiel.
-Elle en communique, une copie aux juridictions qui lui en font la demande.
+<a name="Art.114" href="#Art.113">Art.</a> <a href="#Art.115"> 114</a>.[<sup>1</sup> Les arrêts sont publiés par les soins du greffier sur le site web de la Cour ainsi que, dans leur intégralité ou par extraits, dans le Moniteur belge. L'extrait comporte les motifs et le dispositif.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 34, 013; En vigueur : 25-04-2014&gt;
 
-<a name="Art.115" href="#Art.114">Art.</a> <a href="#Art.116"> 115</a>. Les arrêts sont exécutoires de plein droit. Le Roi en assure l'exécution. Le greffier appose sur les expéditions, à la suite du dispositif, et suivant le cas, l'une des formules exécutoires ci-après :
-" Les Ministres, les membres des Exécutifs des Régions et des Communautés et les autorités administratives, pour ce qui les concerne, sont tenus de pourvoir à l'exécution du présent arrêt. Les huissiers de justice à ce requis ont à y concourir en ce qui concerne les voies de droit commun. "
-" De Ministers, de leden van de Executieven van de Gemeenschappen en van de Gewesten en de administratieve overheden zijn, wat hen betreft, gehouden te zorgen voor de tenuitvoerlegging van dit arrest. De daartoe aangezochte gerechtsdeurwaarders zijn gehouden hun medewerking te verlenen wat betreft de dwangmiddelen van gemeen recht. "
-" Die Minister, die Mitglieder der Exekutiven der Gemeinschaften und der Regionen und die Verwaltungsbehörden haben, was sie anbetrifft, für die Vollkstreckung dieses Urteils zu sorgen. Die dazu angeforderten Gerichtsvollzieher haben betreffs der gemeinrechtlichen Zwangsmittel ihren Beistand zu leisten. "
-Les expéditions sont délivrées par le greffier qui les signe et les revêt du sceau de la Cour, dont le Roi détermine la forme.
+<a name="Art.115" href="#Art.114">Art.</a> <a href="#Art.116"> 115</a>.Les arrêts sont exécutoires de plein droit. [<sup>1</sup> ...]<sup>1</sup>
+[<sup>1</sup> ...]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 35, 013; En vigueur : 25-04-2014&gt;
 
 <a name="Art.116" href="#Art.115">Art.</a> <a href="#Art.117"> 116</a>. L'arrêt de la Cour est définitif et sans recours.
 
@@ -708,62 +801,68 @@ Les expéditions sont délivrées par le greffier qui les signe et les revêt du
 § 3. La Cour décide en chambre du conseil.
 § 4. La minute de l'ordonnance qui prescrit la rectification est annexée à la minute de l'arrêt rectifié. Mention de cette ordonnance est faite en marge de la minute de l'arrêt rectifié.
 
-<a name="Art.118" href="#Art.117">Art.</a> <a href="#LNK0034"> 118</a>. La Cour, a la demande des parties au recours en annulation ou de la juridiction qui lui a posé la question préjudicielle, interprète l'arrêt. La demande d'interprétation est introduite conformément à l'article 5 ou à l'article 27, selon le cas. Elle est communiquée à toutes les parties en cause.
+<a name="Art.118" href="#Art.117">Art.</a> <a href="#LNK0038"> 118</a>. La Cour, à la demande des parties au recours en annulation ou de la juridiction qui lui a posé la question préjudicielle, interprète l'arrêt. La demande d'interprétation est introduite conformément à l'article 5 ou à l'article 27, selon le cas. Elle est communiquée à toutes les parties en cause.
 Pour le surplus, la procédure prévue pour la requête en annulation ou pour la question préjudicielle est applicable.
 La minute de l'arrêt interprétatif est annexée à la minute de l'arrêt interprété. Mention de l'arrêt interprétatif est faite en marge de l'arrêt interprété.
 
-<a name="LNK0039" href="#LNKR0039">CHAPITRE VIIIbis.</a> [<sup>1</sup> De la procédure de contrôle des consultations populaires ]<sup>1</sup>
+<a name="LNK0038" href="#LNKR0038">CHAPITRE VIIIbis.</a> [<sup>1</sup> De la procédure de contrôle des consultations populaires ]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 4, 012; En vigueur : 01-07-2014&gt;
 
-<a name="Art.%20118bis." href="#LNK0039">Art.</a> <a href="#LNK0034">118bis</a>. [<sup>1</sup> Les articles 67, 79, 80 à 82, 91, alinéa 1er, alinéa 2, 1° à 4°, et alinéa 3, 92, 93, 95, 101, 102, 108 et 119, sont applicables à la procédure de contrôle des consultations populaires.
-Les articles 110, 111, 1°, 2° et 4°, 112, 113, 1° à 3°, 115 à 117, sont applicables, moyennant le remplacement à chaque fois du mot "arrêt" par le mot "décision".
+<a name="Art.118bis" href="#Art.118">Art.</a> <a href="#Art.118ter"> 118bis</a>.[<sup>1</sup> Les articles 67, 79, 80 à 82, 91, alinéa 1er, alinéa 2, 1° à 4°, et alinéa 3, 92, 93, 95, 101, 102, 108 et 119, sont applicables à la procédure de contrôle des consultations populaires.
+Les articles [<sup>2</sup> 110 à 117]<sup>2</sup> sont applicables, moyennant le remplacement à chaque fois du mot "arrêt" par le mot "décision".
 L'article 68 est applicable, moyennant la suppression à l'alinéa 2 des mots "à l'audience".
 L'article 98 est applicable, moyennant l'ajout à l'alinéa 1er des mots "et de leur demande" après les mots "recours en annulation".
-L'article 114 est également applicable moyennant l'ajout à l'alinéa 1er des mots ", ainsi que les décisions visées à l'article 30ter, " après les mots "sur des questions préjudicielles.]<sup>1</sup>
+[<sup>2</sup> ...]<sup>2</sup> ]<sup>1</sup>
+
+DROIT FUTUR
+
+<i>Art. 118bis. [<sup><font color="red">1</font></sup> Les articles 67, [<sup><font color="red">3</font></sup> 78bis,]<sup><font color="red">3</font></sup> 79, 80 à 82, 91, alinéa 1er, alinéa 2, 1° à 4°, et alinéa 3, 92, 93, 95, 101, 102, 108 et 119, sont applicables à la procédure de contrôle des consultations populaires.<br>   Les articles [<sup><font color="red">2</font></sup> 110 à 117]<sup><font color="red">2</font></sup> sont applicables, moyennant le remplacement à chaque fois du mot "arrêt" par le mot "décision".<br>   L'article 68 est applicable, moyennant la suppression à l'alinéa 2 des mots "à l'audience".<br>   L'article 98 est applicable, moyennant l'ajout à l'alinéa 1er des mots "et de leur demande" après les mots "recours en annulation".<br>   [<sup><font color="red">2</font></sup> ...]<sup><font color="red">2</font></sup> ]<sup><font color="red">1</font></sup><br>  </i>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 5, 012; En vigueur : 01-07-2014&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 36,2°-36,3°, 013; En vigueur : 25-04-2014&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 36,1°, 013; En vigueur : indéterminée &gt;
 
-<a name="Art.%20118ter." href="#Art.%20118bis.">Art.</a> <a href="#LNK0034">118ter</a>. [<sup>1</sup> Le greffier notifie immédiatement les demandes au Conseil des ministres, aux Gouvernements de communauté et de région, aux présidents des assemblées législatives autres que celle dont émane la demande, ainsi qu'à l'initiateur de la consultation populaire.]<sup>1</sup>
+<a name="Art.118ter" href="#Art.118bis">Art.</a> <a href="#Art.118quater"> 118ter</a>. [<sup>1</sup> Le greffier notifie immédiatement les demandes au Conseil des ministres, aux Gouvernements de communauté et de région, aux présidents des assemblées législatives autres que celle dont émane la demande, ainsi qu'à l'initiateur de la consultation populaire.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 6, 012; En vigueur : 01-07-2014&gt;
 
-<a name="Art.%20118quater." href="#Art.%20118ter.">Art.</a> <a href="#LNK0034">118quater</a>. [<sup>1</sup> Dans les dix jours de la réception des notifications faites par le greffier en vertu de l'article 118ter, le Conseil des ministres, les Gouvernements de communauté et de région, les présidents des assemblées législatives autres que celles dont émane la demande et l'initiateur de la consultation populaire peuvent adresser un mémoire à la Cour. Le mémoire contient un inventaire des pièces à l'appui.
+<a name="Art.118quater" href="#Art.118ter">Art.</a> <a href="#LNK0039"> 118quater</a>. [<sup>1</sup> Dans les dix jours de la réception des notifications faites par le greffier en vertu de l'article 118ter, le Conseil des ministres, les Gouvernements de communauté et de région, les présidents des assemblées législatives autres que celles dont émane la demande et l'initiateur de la consultation populaire peuvent adresser un mémoire à la Cour. Le mémoire contient un inventaire des pièces à l'appui.
 A toute demande ou mémoire sont jointes dix copies certifiées conformes par le signataire. La remise de copies supplémentaires peut être ordonnée.
 Les mémoires qui n'ont pas été introduits dans le délai visé à l'alinéa 1er, sont écartés des débats.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 7, 012; En vigueur : 01-07-2014&gt;
 
-<a name="LNK0034" href="#LNKR0034">CHAPITRE IX.</a> - Dispositions générales.
+<a name="LNK0039" href="#LNKR0039">CHAPITRE IX.</a> - Dispositions générales.
 
-<a name="Art.119" href="#Art.118">Art.</a> <a href="#Art.120"> 119</a>. Le jour de l'acte qui est le point de départ d'un délai n'y est pas compris.
+<a name="Art.119" href="#Art.118quater">Art.</a> <a href="#Art.120"> 119</a>. Le jour de l'acte qui est le point de départ d'un délai n'y est pas compris.
 Le jour de l'échéance est compté dans le délai.
 Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au plus prochain jour ouvrable.
 
-<a name="Art.120" href="#Art.119">Art.</a> <a href="#Art.121"> 120</a>. Les délais courent contre les mineurs, interdits et autres incapables. Toutefois, la Cour peut relever ceux-ci de la déchéance, lorsqu'il est établi que leur representation n'était pas assurée avant l'expiration des délais.
+<a name="Art.120" href="#Art.119">Art.</a> <a href="#Art.121"> 120</a>. Les délais courent contre les mineurs, interdits et autres incapables. Toutefois, la Cour peut relever ceux-ci de la déchéance, lorsqu'il est établi que leur représentation n'était pas assurée avant l'expiration des délais.
 
 <a name="Art.121" href="#Art.120">Art.</a> <a href="#Art.122"> 121</a>. Le greffe est ouvert tous les jours, à l'exception des samedis, dimanches et jours fériés légaux.
 Le Roi fixe les heures d'ouverture.
 
-<a name="Art.122" href="#Art.121">Art.</a> <a href="#LNK0035"> 122</a>. La Cour arrête son règlement d'ordre intérieur. Elle en assure la publication au Moniteur belge.
+<a name="Art.122" href="#Art.121">Art.</a> <a href="#LNK0040"> 122</a>. La Cour arrête son règlement d'ordre intérieur. Elle en assure la publication au Moniteur belge.
 
-<a name="LNK0035" href="#LNKR0035">TITRE VI.</a> - DISPOSITIONS FINALES.
+<a name="LNK0040" href="#LNKR0040">TITRE VI.</a> - DISPOSITIONS FINALES.
 
-<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0036"> 123</a>.
+<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0041"> 123</a>.
 § 1. Les crédits nécessaires au fonctionnement de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont inscrits au budget des Dotations.
 § 2. Les arrêtés royaux relatifs à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont délibérés en Conseil des Ministres.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 52, 009; En vigueur : 08-03-2010&gt;
 
-<a name="LNK0036" href="#LNKR0036">TITRE VII.</a> - DISPOSITIONS TRANSITOIRES.
+<a name="LNK0041" href="#LNKR0041">TITRE VII.</a> - DISPOSITIONS TRANSITOIRES.
 
 <a name="Art.124" href="#Art.123">Art.</a> <a href="#Art.124bis"> 124</a>. (Abrogé) &lt;L 2003-03-09/47, art. 28, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
 <a name="Art.124bis" href="#Art.124">Art.</a> <a href="#Art.125"> 124bis</a>. (devient l'article 30bis) &lt;L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="Art.125" href="#Art.124bis">Art.</a> <a href="#Art.126"> 125</a>. La nomination des reférendaires, recrutés par la Cour d'arbitrage sur base de la loi du 28 juin 1983 portant l'organisation, la compétence et le fonctionnement de la Cour d'arbitrage, devient définitive.
+<a name="Art.125" href="#Art.124bis">Art.</a> <a href="#Art.126"> 125</a>. La nomination des référendaires, recrutés par la Cour d'arbitrage sur base de la loi du 28 juin 1983 portant l'organisation, la compétence et le fonctionnement de la Cour d'arbitrage, devient définitive.
 
-<a name="Art.126" href="#Art.125">Art.</a> <a href="#Art.127"> 126</a>. La disposition de l'article 41, alinéa 1er, concernant la possession du diplôme de docteur ou licencié en droit n'est pas applicable aux greffiers en fonction au moment de l'entree en vigueur de la présente loi.
+<a name="Art.126" href="#Art.125">Art.</a> <a href="#Art.127"> 126</a>. La disposition de l'article 41, alinéa 1er, concernant la possession du diplôme de docteur ou licencié en droit n'est pas applicable aux greffiers en fonction au moment de l'entrée en vigueur de la présente loi.
 
 <a name="Art.127" href="#Art.126">Art.</a> <a href="#Art.128"> 127</a>. Sont abrogés :
 1° dans le Code judiciaire :
