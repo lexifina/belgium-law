@@ -1,0 +1,3 @@
+§ 1er. Le ministre peut fixer le prix de vente maximum ex-usine pour les catégories de médicaments et assimilés visés à l'article V.9, 1° et 2°, désignées par lui. Ces prix peuvent être inférieurs aux prix appliqués à la date de sa décision.
+§ 2. Le ministre peut fixer des marges maxima pour la distribution en gros ou la dispensation des médicaments et assimilés visés à l'article V.9, 1° et 2°, ainsi que, le cas échéant, les prix de vente au public maxima.
+Pour la fixation des marges maxima de distribution en gros et la délivrance des médicaments visés à l'article V.9, 1°, remboursables dans le cadre de l'assurance obligatoire soins de santé et indemnités, le ministre se concerte avec le ministre qui a les Affaires sociales dans ses attributions.
