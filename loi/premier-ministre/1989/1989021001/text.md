@@ -9,8 +9,10 @@
 <a name="Art.1"></a>Article <a href="#Art.2"> 1</a>.La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> statue, par voie d'arrêt, sur les recours en annulation, en tout ou en partie, d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution) pour cause de violation :
 1° des règles qui sont établies par la Constitution ou en vertu de celle-ci pour déterminer les compétences respectives de l'Etat, des Communautés et des Régions; ou &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (2° des articles du titre II " Des Belges et de leurs droits ", et des articles 170, 172 et 191 de la Constitution.) &lt;L 2003-03-09/47, art. 2, 006; <b> En vigueur : </b> 21-04-2003&gt;
+[<sup>2</sup> 3° de l'article 143, § 1er, de la Constitution.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 8, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010654" target="_blank">2014-01-06/54</a>, art. 47, 014; En vigueur : 01-07-2014&gt;
 
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>.Les recours visés à l'article 1er sont introduits :
 1° par le Conseil des Ministres, par l'exécutif d'une Communauté ou d'une Région;
@@ -191,6 +193,7 @@ L'article 90 est applicable au recours visé à l'article 25bis moyennant le rem
 1° la violation par une loi, un décret ou une règle visée à (l'article 134 de la Constitution), des règles qui sont établies par la Constitution ou en vertu de celle-ci pour déterminer les compétences respectives de l'Etat, des Communautés et des Régions; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 2° sans préjudice du 1°, tout conflit entre décrets ou entre règles visées à (l'article 134 de la Constitution) émanant de législateurs distincts et pour autant que le conflit résulte de leur champ d'application respectif; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (3° la violation par une loi, un décret ou une règle visée à l'article 134 de la Constitution, des articles du titre II " Des Belges et de leurs droits ", et des articles 170, 172 et 191 de la Constitution.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
+[<sup>3</sup> 4° la violation par une loi, un décret ou une règle visée à l'article 134 de la Constitution, de l'article 143, § 1er, de la Constitution.]<sup>3</sup>
 (§ 1bis. Sont exclus du champ d'application de cet article les lois, les décrets et les règles visées à l'article 134 de la Constitution par lesquels un traité constituant de l'Union européenne ou la Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales ou un Protocole additionnel à cette convention reçoit l'assentiment.) &lt;L 2003-03-09/47, art. 9, 006; <b> En vigueur : </b> 21-04-2003&gt;
 (§ 2. Lorsqu'une telle question est soulevée devant une juridiction, celle-ci doit demander à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> de statuer sur cette question.
 Toutefois, la juridiction n'y est pas tenue :
@@ -207,6 +210,7 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009071210" target="_blank">2009-07-12/10</a>, art. 2, 008; En vigueur : 10-08-2009&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 8, 013; En vigueur : 25-04-2014&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010654" target="_blank">2014-01-06/54</a>, art. 48, 014; En vigueur : 01-07-2014&gt;
 
 <a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>.
 § 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
