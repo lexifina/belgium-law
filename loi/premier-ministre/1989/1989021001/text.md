@@ -214,6 +214,17 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 
 <a name="Art.30bis" href="#Art.30">Art.</a> <a href="#LNK0008"> 30bis</a>. (ancien 124bis) &lt;Inséré par L 1989-01-16/30, art. 68; <b> En vigueur : </b> 1989-01-01&gt; Pour l'application des articles 1er et 26, § 1er, sont considérées comme règles visées au 1° de ces deux dispositions, la concertation, l'association, la transmission d'informations, les avis, les avis conformes, les accords, les accords communs et les propositions prévus par la loi spéciale du 8 août 1980 de réformes institutionnelles, à l'exception des accords de coopération visés à l'article 92bis de ladite loi, ainsi que par la loi spéciale (du 16 janvier 1989) sur le financement des communautés et Régions ou par toute autre loi prise en exécution des (articles 39, 127, § 1, 128, § 1, 129, § 1, 130, § 1, 135, 136, 137, 140, 166, 175, 176 et 177 de la Constitution). &lt;L 2003-03-09/47, art. 10, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
+<a name="LNK0038" href="#LNKR0038">CHAPITRE IV.</a> [<sup>1</sup> Du contrôle des consultations populaires]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 2, 012; En vigueur : 01-07-2014&gt;
+
+<a name="Art.%2030ter.%20" href="#LNK0024">Art.</a> <a href="#Art.79">30ter</a>. [<sup>1</sup> La Cour constitutionnelle statue, par voie de décision, sur chaque consultation populaire régionale, préalablement à son organisation, en vérifiant le respect des normes visées à l'article 1er, ainsi que des conditions et modalités fixées par ou en vertu de l'article 39bis de la Constitution.
+La demande est introduite par le président du Parlement de région. Cette demande est datée, indique l'objet de la consultation populaire et la compétence régionale à laquelle celui-ci se rattache, et contient l'énoncé de la question qui sera posée, le nom de l'initiateur de la consultation populaire ou, s'il y plusieurs initiateurs, le nom de leur représentant, les observations éventuelles du président du Parlement de région ainsi que le dossier administratif. Ce dossier administratif est transmis avec un inventaire des pièces qui le composent.
+La Cour constitutionnelle statue dans un délai de soixante jours suivant l'introduction de la demande.
+Si la consultation populaire ne respecte pas une des normes, conditions ou modalités visées à l'alinéa 1er, ou si la Cour constitutionnelle n'est pas saisie, la consultation populaire n'est pas organisée. La consultation populaire ne peut pas davantage être organisée tant que la Cour constitutionnelle n'a pas statué.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 3, 012; En vigueur : 01-07-2014&gt;
+
 <a name="LNK0008" href="#LNKR0008">TITRE II.</a> - DE L'ORGANISATION DE LA [<sup>1</sup> COUR CONSTITUTIONNELLE]<sup>1</sup>.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 23, 009; En vigueur : 08-03-2010&gt;
@@ -496,7 +507,7 @@ Le Roi organise les modalités de l'assistance.
 
 <a name="Art.77" href="#Art.76">Art.</a> <a href="#Art.78"> 77</a>. Le greffier notifie les décisions de renvoi au Conseil des Ministres, aux Exécutifs régionaux et de Communauté et aux présidents des assemblées législatives, ainsi qu'aux parties en cause devant la juridiction qui a pris la décision de renvoi.
 
-<a name="Art.78" href="#Art.77">Art.</a> <a href="#LNK0024"> 78</a>. Lorsqu'une même disposition fait l'objet d'un recours en annulation et d'une décision de renvoi antérieure, le greffier notifie le recours en annulation aux parties en cause devant la juridiction qui a posé la question préjudicielle. La notification fait mention du délai dans lequel elles peuvent déposer un mémoire, conformément à l'article 85.
+<a name="Art.78" href="#Art.77">Art.</a> <a href="#Art.%2030ter.%20"> 78</a>. Lorsqu'une même disposition fait l'objet d'un recours en annulation et d'une décision de renvoi antérieure, le greffier notifie le recours en annulation aux parties en cause devant la juridiction qui a posé la question préjudicielle. La notification fait mention du délai dans lequel elles peuvent déposer un mémoire, conformément à l'article 85.
 Sauf application de l'article 100, la Cour statue d'abord sur le recours en annulation.
 
 <a name="LNK0024" href="#LNKR0024">CHAPITRE IV.</a> - De l'instruction.
@@ -700,6 +711,28 @@ Les expéditions sont délivrées par le greffier qui les signe et les revêt du
 <a name="Art.118" href="#Art.117">Art.</a> <a href="#LNK0034"> 118</a>. La Cour, a la demande des parties au recours en annulation ou de la juridiction qui lui a posé la question préjudicielle, interprète l'arrêt. La demande d'interprétation est introduite conformément à l'article 5 ou à l'article 27, selon le cas. Elle est communiquée à toutes les parties en cause.
 Pour le surplus, la procédure prévue pour la requête en annulation ou pour la question préjudicielle est applicable.
 La minute de l'arrêt interprétatif est annexée à la minute de l'arrêt interprété. Mention de l'arrêt interprétatif est faite en marge de l'arrêt interprété.
+
+<a name="LNK0039" href="#LNKR0039">CHAPITRE VIIIbis.</a> [<sup>1</sup> De la procédure de contrôle des consultations populaires ]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 4, 012; En vigueur : 01-07-2014&gt;
+
+<a name="Art.%20118bis." href="#LNK0039">Art.</a> <a href="#LNK0034">118bis</a>. [<sup>1</sup> Les articles 67, 79, 80 à 82, 91, alinéa 1er, alinéa 2, 1° à 4°, et alinéa 3, 92, 93, 95, 101, 102, 108 et 119, sont applicables à la procédure de contrôle des consultations populaires.
+Les articles 110, 111, 1°, 2° et 4°, 112, 113, 1° à 3°, 115 à 117, sont applicables, moyennant le remplacement à chaque fois du mot "arrêt" par le mot "décision".
+L'article 68 est applicable, moyennant la suppression à l'alinéa 2 des mots "à l'audience".
+L'article 98 est applicable, moyennant l'ajout à l'alinéa 1er des mots "et de leur demande" après les mots "recours en annulation".
+L'article 114 est également applicable moyennant l'ajout à l'alinéa 1er des mots ", ainsi que les décisions visées à l'article 30ter, " après les mots "sur des questions préjudicielles.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 5, 012; En vigueur : 01-07-2014&gt;
+
+<a name="Art.%20118ter." href="#Art.%20118bis.">Art.</a> <a href="#LNK0034">118ter</a>. [<sup>1</sup> Le greffier notifie immédiatement les demandes au Conseil des ministres, aux Gouvernements de communauté et de région, aux présidents des assemblées législatives autres que celle dont émane la demande, ainsi qu'à l'initiateur de la consultation populaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 6, 012; En vigueur : 01-07-2014&gt;
+
+<a name="Art.%20118quater." href="#Art.%20118ter.">Art.</a> <a href="#LNK0034">118quater</a>. [<sup>1</sup> Dans les dix jours de la réception des notifications faites par le greffier en vertu de l'article 118ter, le Conseil des ministres, les Gouvernements de communauté et de région, les présidents des assemblées législatives autres que celles dont émane la demande et l'initiateur de la consultation populaire peuvent adresser un mémoire à la Cour. Le mémoire contient un inventaire des pièces à l'appui.
+A toute demande ou mémoire sont jointes dix copies certifiées conformes par le signataire. La remise de copies supplémentaires peut être ordonnée.
+Les mémoires qui n'ont pas été introduits dans le délai visé à l'alinéa 1er, sont écartés des débats.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010646" target="_blank">2014-01-06/46</a>, art. 7, 012; En vigueur : 01-07-2014&gt;
 
 <a name="LNK0034" href="#LNKR0034">CHAPITRE IX.</a> - Dispositions générales.
 
