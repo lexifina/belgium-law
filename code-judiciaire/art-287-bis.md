@@ -1,1 +1,1 @@
-Sont d'application aux membres du personnel revêtus du grade de greffier et de secrétaire, les dispositions applicables aux membres du personnel des niveaux B, C et D visées à l'article 177, § 2, en ce qui concerne les modalités de classement dans les familles de fonctions.
+(Abrogé)

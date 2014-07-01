@@ -1,0 +1,1 @@
+Le titulaire des fonctions de greffier en chef ou de secrétaire en chef visé à l'article 160, § 8, alinéa 3, est promu à l'échelle de traitement supérieure ou bénéficie des bonifications d'échelle dans la classe où il est nommé comme s'il y avait obtenu annuellement la mention "répond aux attentes".

@@ -1,13 +1,1 @@
-§ 1er. Le greffier ou le secrétaire qui réussit la formation certifiée 1 reçoit une allocation de compétences annuelle de 2 000 euros pendant la durée de validité de cette formation certifiée, visée à l'article 284, 2°.
-§ 2. Le greffier ou le secrétaire qui réussit la formation certifiée 2 reçoit une allocation de compétences annuelle de 2 000 euros pendant la durée de validité de cette formation certifiée, visée à l'article 284, 2°.
-§ 3. Le greffier ou le secrétaire qui ne réussit pas la formation certifiée 2 perd le bénéfice de l'allocation de compétences.
-Par dérogation à l'alinéa précédent, il reçoit, pendant une période de douze mois suivant la date de clôture du procès-verbal de la formation certifiée 2 et, au plus tôt, à l'expiration de la durée de validité de la formation certifiée précédente, la moitié de l'allocation de compétences visée au § 1er.
-§ 4. Le greffier ou le secrétaire rémunéré par l'échelle de traitement BJ2 qui réussit la formation certifiée 3 reçoit une allocation de compétences annuelle de 2 000 euros pendant la durée de validité de cette formation certifiée.
-§ 5. Le greffier ou le secrétaire qui ne réussit pas la formation certifiée 3 perd le bénéfice de l'allocation de compétences.
-Par dérogation à l'alinéa précédent, il reçoit, pendant une période de douze mois suivant la date de clôture du procès-verbal de la formation certifiée 3 et, au plus tôt, à l'expiration de la durée de validité de la formation certifiée précédente, la moitié de l'allocation de compétences visée au § 1er.
-§ 6. Le greffier ou le secrétaire qui réussit la formation certifiée 4 reçoit une allocation de compétences annuelle de 2 000 euros pendant la durée de validité de cette mesure de compétences.
-§ 7. Le greffier ou le secrétaire qui ne réussit pas la formation certifiée 4 perd le bénéfice de l'allocation de compétences.
-Par dérogation à l'alinéa précédent, il reçoit, pendant une période de douze mois suivant la date de clôture du procès-verbal de la formation certifiée 4, et, au plus tôt, à l'expiration de la durée de validité de la formation certifiée précédente, la moitié de l'allocation de compétences visée au § 1er.
-§ 8. Le greffier ou le secrétaire qui réussit la formation certifiée 5 reçoit une allocation de compétences annuelle de 2 000 euros pendant la durée de validité de cette formation certifiée.
-§ 9. Le greffier ou le secrétaire qui ne réussit pas la formation certifiée 5 perd le bénéfice de l'allocation de compétences.
-§ 10. Les dispositions relatives aux conditions et modalités de paiement des allocations de compétences applicables aux membres du personnel des niveaux B, C ou D, visées à l'article 177, § 2, s'appliquent également aux membres du personnel de niveau B, revêtus du grade de greffier ou de secrétaire.
+(Abrogé)
