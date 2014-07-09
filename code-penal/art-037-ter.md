@@ -1,4 +1,4 @@
-§ 1e r. Lorsqu'un fait est de nature à entraîner une peine de police ou une peine correctionnelle, le juge peut condamner à titre de peine principale à une peine de travail. Le juge prévoit, dans les limites des peines prévues pour l'infraction et par la loi en fonction de sa saisine, une peine d'emprisonnement ou une amende qui peut être applicable en cas de non-exécution de la peine de travail.
+§ 1er. Lorsqu'un fait est de nature à entraîner une peine de police ou une peine correctionnelle, le juge peut condamner à titre de peine principale à une peine de travail. Le juge prévoit, dans les limites des peines prévues pour l'infraction et par la loi en fonction de sa saisine, une peine d'emprisonnement ou une amende qui peut être applicable en cas de non-exécution de la peine de travail.
 La peine de travail ne peut être prononcée pour les faits visés:
 - à l'article 347bis;
 - aux articles 375 à 377;
