@@ -10,6 +10,12 @@ Pour pouvoir être nommé assesseur en application des peines spécialisé en r�
 3° être Belge;
 4° être âgé d'au moins trente ans et ne pas avoir plus de soixante-cinq ans;
 5° jouir des droits civils et politiques.
+Pour pouvoir être nommé assesseur en matière d'application des peines et d'internement spécialisé en matière de psychologie clinique, le candidat doit satisfaire aux conditions suivantes:
+1° posséder au moins cinq ans d'expérience professionnelle utile attestant d'une connaissance pratique des questions liées à la psychologie clinique;
+2° être titulaire d'un master en sciences psychologiques;
+3° être Belge;
+4° être âgé d'au moins trente ans et ne pas avoir plus de soixante-cinq ans;
+5° jouir des droits civils et politiques.
 § 2. Les fonctions d'assesseur en application des peines effectif sont exercées à temps plein.
 Les assesseurs en application des peines effectifs et suppléants sont nommés pour une période d'un an renouvelable, la première fois pour trois ans puis une seule fois pour quatre ans, après évaluation.
 § 3. L'assesseur qui, à la date de sa nomination, se trouve dans un lien statutaire avec l'Etat ou tout autre personne morale de droit public relevant de l'Etat, est mis à la disposition du tribunal de l'application des peines pour la durée de sa nomination.
