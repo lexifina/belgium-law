@@ -1,1 +1,1 @@
-. Sans préjudice de l'application des articles 184, 190 et 191 qui précèdent et de l'article 46 de la loi du 20 avril 1810 sur l'organisation de l'ordre judiciaire et l'administration de la justice, le ministère public peut se porter partie intervenante dans toute action en nullité de mariage.
+. Sans préjudice de l'application des articles 184, 190 et 191 qui précèdent et de les articles 138bis, § 1er, et 139 du Code judiciaire, le ministère public peut se porter partie intervenante dans toute action en nullité de mariage.
