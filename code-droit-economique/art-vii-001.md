@@ -1,0 +1,7 @@
+Le présent livre vise principalement la réglementation des services de paiement et des contrats de crédit.
+Il vise la transposition des dispositions:
+1° de la Directive 2007/64/CE du Parlement européen et du Conseil du 13 novembre 2007 concernant les services de paiement dans le marché intérieur, modifiant les directives 97/7/CE, 2002/65/CE, 2005/60/CE ainsi que 2006/48/CE et abrogeant la directive 97/5/CE;
+2° de la Directive 2008/48/CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil;
+3° du Règlement (CE) n° 924/2009 du Parlement européen et du Conseil du 16 septembre 2009 concernant les paiements transfrontaliers dans la Communauté et abrogeant le règlement (CE) n° 2560/2001;
+4° de la Directive 2011/90/UE de la Commission du 14 novembre 2011 modifiant l'annexe I, partie II, de la directive 2008/48/CE du Parlement européen et du Conseil énonçant les hypothèses supplémentaires nécessaires au calcul du taux annuel effectif global;
+5° du Règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009;
