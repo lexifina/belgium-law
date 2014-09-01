@@ -1,0 +1,3 @@
+§ 1er. Le liquidateur est choisi parmi les personnes qui figurent sur la liste établie par l'assemblée générale de la juridiction compétente pour connaître d'une action en réparation collective.
+Peuvent seuls être admis sur la liste visée à l'alinéa 1er, les avocats, les officiers ministériels ou les mandataires de justice dans l'exercice de leur profession ou de leur fonction, présentant des garanties de compétence en matière de procédures de règlement de préjudice.
+§ 2. Le liquidateur assure l'exécution correcte de l'accord homologué visé à l'article XVII. 49, § 2, ou de la décision sur le fond visé à l'article XVII. 54, § 1er.

@@ -1,0 +1,1 @@
+Le juge reste saisi jusqu'à l'exécution intégrale de la réparation prévue par l'accord homologué ou la décision sur le fond au bénéfice de tous les membres du groupe qui figurent sur la liste définitive dressée en application de l'article XVII. 58, § 5.
