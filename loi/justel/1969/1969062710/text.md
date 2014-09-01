@@ -624,13 +624,15 @@ Les actions intentées contre l'Office national de sécurité sociale en répét
 
 <a name="LNK0018" href="#LNKR0018">CHAPITRE VI.</a> - Dispositions diverses.
 
-<a name="Art.44" href="#Art.43">Art.</a> <a href="#Art.45"> 44</a>. § 1er. Les prestations fournies en tout ou en partie à l'aide des ressources de l'Office national de sécurité sociale (ou de l'Office national de sécurité sociale des administrations provinciales et locales) sont soumises aux dispositions suivantes: &lt;AR 1989-10-11/32, art. 1, 004; <b> En vigueur : </b> 01-01-1986&gt;
+<a name="Art.44" href="#Art.43">Art.</a> <a href="#Art.45"> 44</a>.§ 1er. Les prestations fournies en tout ou en partie à l'aide des ressources de l'Office national de sécurité sociale (ou de l'Office national de sécurité sociale des administrations provinciales et locales) sont soumises aux dispositions suivantes: &lt;AR 1989-10-11/32, art. 1, 004; <b> En vigueur : </b> 01-01-1986&gt;
 1° quel que soit le régime matrimonial, la travailleuse mariée dispose des prestations qui lui sont dues, comme de son salaire, ainsi qu'il est prévu par les lois relatives aux contrats de louage de travail;
 2° les prestations dues à un travailleur mineur d'âge lui sont remises valablement, sauf opposition du père, de la mere ou du tuteur;
-3° lorsque le conjoint du titulaire des prestations se plaint de ce qu'il les dilapide, le juge de paix peut décider qu'elles seront versées au plaignant;
-4° lorsque le titulaire est veuf, divorcé ou séparé de corps, le juge de paix peut, sur réquisition d'un tiers, décider que les prestations prévues au bénéfice de ses enfants seront versées à la personne physique ou morale qui en a la garde.
+3° lorsque le conjoint du titulaire des prestations se plaint de ce qu'il les dilapide, [<sup>1</sup> le tribunal de la famille]<sup>1</sup> peut décider qu'elles seront versées au plaignant;
+4° lorsque le titulaire est veuf, divorcé ou séparé de corps, [<sup>1</sup> le tribunal de la famille]<sup>1</sup> peut, sur réquisition d'un tiers, décider que les prestations prévues au bénéfice de ses enfants seront versées à la personne physique ou morale qui en a la garde.
 § 2. Jusqu'au jour de l'entrée en vigueur des dispositions de l'article 1410 du Code judiciaire, ces prestations sont incessibles et insaisissables, sauf le cas de récupération par l'organisme payeur, du montant des paiements indus.
 § 3. Les dispositions du présent article ne visent pas les prestations prévues par les lois relatives aux regimes visés aux 2°, 3°, 5°, de l'article 5, qui sont régis par les dispositions desdites lois.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013073023" target="_blank">2013-07-30/23</a>, art. 265, 054; En vigueur : 01-09-2014&gt;
 
 <a name="Art.45" href="#Art.44">Art.</a> <a href="#Art.46"> 45</a>.Tout employeur qui accorde volontairement à son personnel des avantages d'ordre social complémentaire de ceux qui résultent de la présente loi doit les accorder sans distinction à tous les travailleurs de son entreprise appartenant à une même catégorie.
 Dans les entreprises qui occupent plus de vingt travailleurs, ces avantages doivent être accordés suivant un règlement établi avec le concours de représentants du personnel qui seront designés selon une procédure fixée par arrêté royal.
