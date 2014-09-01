@@ -1,0 +1,2 @@
+§ 1er. Le liquidateur transmet au juge un rapport trimestriel détaillé sur l'exécution de cette mission.
+§ 2. Le défendeur s'acquitte de son obligation de réparation en nature sous le contrôle du liquidateur et, en cas de réparation par équivalent, lui verse l'indemnité fixée selon ce qui a été convenu dans l'accord homologué conformément à l'article XVII. 45, § 3, 6°, ou selon ce qui a été fixé par le juge conformément à l'article XVII. 54, § 1er, 7°.

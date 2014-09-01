@@ -1,0 +1,1 @@
+Lorsque le représentant du groupe et le défendeur n'ont pas réussi à conclure un accord de réparation collective avant l'expiration du délai fixé par le juge, le représentant du groupe en informe le juge sans délai. Il informe également le défendeur sans délai de la date de cette communication au juge.

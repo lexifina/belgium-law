@@ -1,0 +1,2 @@
+Le greffe communique la décision visée à l'article XVII. 61, § 2, aux services du Moniteur belge qui la publient intégralement dans les dix jours. Il la communique également au SPF Economie, P.M.E., Classes moyennes et Energie, qui la publie sur son site web.
+La publication au Moniteur belge fait courir le délai de prescription de l'action en responsabilité civile du représentant du groupe et du liquidateur.

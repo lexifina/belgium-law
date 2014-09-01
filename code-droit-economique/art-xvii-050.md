@@ -1,0 +1,2 @@
+Le greffe communique immédiatement après l'expiration du délai de recours, l'ordonnance d'homologation de l'accord de réparation collective et le texte de cet accord aux services du Moniteur belge qui assurent sa publication intégrale dans les dix jours. Copie est également transmise au SPF Economie, P.M.E., Classes moyennes et Energie, qui publie ces documents intégralement sur son site web.
+Le délai visé l'article XVII. 45, § 3, 7°, commence à courir le lendemain de la publication au Moniteur belge.

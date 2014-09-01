@@ -1,0 +1,2 @@
+Le greffe communique immédiatement, après l'expiration du délai de recours, la décision du juge sur le fond aux services du Moniteur belge qui assurent sa publication intégrale dans les dix jours. Copie est également transmise au SPF Economie, P.M.E., Classes moyennes et Energie, qui publie cette décision intégralement sur son site web.
+Le délai visé à l'article XVII. 54, § 1er, 8°, commence à courir le lendemain de la publication de la décision au Moniteur belge.

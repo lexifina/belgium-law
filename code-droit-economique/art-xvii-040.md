@@ -1,0 +1,5 @@
+Le représentant du groupe satisfait tout au long de la procédure en réparation collective aux conditions visées à l'article XVII. 39.
+Au cas où il ne serait plus satisfait à une de ces conditions au cours de la procédure, le requérant perd sa qualité de représentant du groupe et le juge désigne un autre représentant du groupe, avec l'accord exprès de ce dernier.
+Au cas où aucun autre candidat à la représentation ne satisfait aux conditions de l'article XVII. 39 ou n'accepte la qualité de représentant du groupe, le juge constate la clôture de la procédure en réparation collective.
+Une copie de la décision juridictionnelle visée aux alinéas 2 et 3 est transmise au SPF Economie, PME, Classes moyennes et Energie, qui publie cette décision intégralement sur son site web.
+Les alinéas 2 et 3 sont également d'application lorsque l'action en réparation collective a été introduite par le service public autonome visé à l'article XVI. 5 du présent Code et que, suite à l'absence d'accord homologué, la phase de négociation a pris fin.
