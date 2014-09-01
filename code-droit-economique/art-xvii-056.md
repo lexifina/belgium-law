@@ -1,0 +1,1 @@
+A tout moment, au cours de la procédure sur le fond visée aux articles XVII. 51 à XVII. 54 et tant que le juge n'a pas rendu la décision visée à l'article XVII. 53, § 1er, les parties peuvent conclure un accord de réparation collective et le soumettre au juge en vue de son homologation. Celle-ci se déroule conformément aux articles XVII. 49 à XVII. 51.

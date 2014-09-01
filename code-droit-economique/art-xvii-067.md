@@ -1,0 +1,2 @@
+Le juge statue sur la recevabilité d'une action en réparation collective, sur l'homologation de l'accord de réparation d'un préjudice collectif ou sur le fond du litige nonobstant toute poursuite exercée devant une juridiction pénale pour les mêmes faits.
+Un consommateur qui se constitue partie civile devant une juridiction pénale n'est pas membre du groupe et ne bénéficiera pas de l'action en réparation collective, à moins qu'elle se désiste de sa constitution de partie civile avant l'expiration du délai d'option visé à l'article XVII. 43, § 2, 7°.
