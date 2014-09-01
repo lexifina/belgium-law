@@ -1,4 +1,1 @@
-. Du vivant des père et mère, la personne mise sous statut de minorité prolongée reste soumise à l'autorité parentale de ceux-ci. Toutefois, dans l'intérêt de la personne mise sous statut de minorité prolongée, le tribunal de première instance peut ordonner, sur requête des père et mère ou de l'un d'eux ou sur les réquisitions du procureur du Roi, que l'autorité parentale sera remplacée par la tutelle..
-Le tuteur et le subrogé tuteur sont désignés par le tribunal en tenant éventuellement compte d'une proposition conjointe des père et mère. A la diligence du ministère public, le jugement est notifié dans les dix jours du prononcé au juge de paix territorialement compétent.
-La tutelle ne peut être déférée à une personne attachée à l'établissement où l'arriéré mental se trouve hébergé.
-Les dispositions du présent article sont applicables à l'administration de la personne et des biens de celui qui est mis sous statut de minorité prolongé, lorsque l'un de ses auteurs est décédé ou lorsque la filiation n'est établie qu'à l'égard d'un de ses auteurs..
+(Abrogé)
