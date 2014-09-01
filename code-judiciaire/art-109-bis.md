@@ -1,7 +1,9 @@
 § 1er. Sont attribués aux chambres ne comprenant qu'un conseiller:
 1° les appels des jugements rendus par le juge au tribunal de la jeunesse;
+1/1° les appels des décisions rendues par le tribunal de la famille relatives à l'exercice de l'autorité parentale, à l'hébergement, au droit aux relations personnelles, à l'émancipation, à la levée de la prohibition du mariage entre mineurs et à son autorisation, à l'adoption de mineurs, à la tutelle officieuse et aux obligations alimentaires à l'égard de mineurs;
 2° les recours visés à l'article 603, 4°;
 3° les demandes fondées sur les articles 606 et 1718.
+4° le règlement à l'amiable.
 § 2. ... sont de même attribués aux chambres qui ne comprennent qu'un conseiller:
 1° les appels des décisions rendues en matière civile par une chambre du tribunal de première instance qui ne comprend qu'un juge;
 (1°bis les appels des décisions rendues par le tribunal de commerce;)
