@@ -1,0 +1,1 @@
+Les dispositions des articles 52 et 53 sont également d'application lorsque des missions spécifiques sont uniquement confiées aux membres représentant les travailleurs au sein du Comité en vertu des dispositions de la présente loi et de ses arrêtés d'exécution, à moins que la loi ou les arrêtés d'exécution le stipule expressément autrement.
