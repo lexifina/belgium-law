@@ -1,3 +1,1 @@
-. La demande de mise sous statut de minorité prolongée d'un mineur est introduite devant le tribunal de première instance de son domicile ou de sa résidence, par requête signée des père et mère ou de l'un d'eux, du tuteur ou de leur avocat, ou à défaut d'initiative de ceux-ci, par le procureur du Roi.
-La demande de mise sous statut de minorité prolongée d'un majeur est introduite devant le tribunal de première instance de son domicile ou de sa résidence, par requête signée par tout parent, par le tuteur du majeur interdit ou par leur avocat, ou par le procureur du Roi..
-A la requête est joint un certificat médical ne datant pas de plus de quinze jours et décrivant la déficience mentale.
+(Abrogé)
