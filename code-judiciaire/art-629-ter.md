@@ -1,0 +1,1 @@
+Le tribunal de la jeunesse compétent est celui visé à l'article 44 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait.

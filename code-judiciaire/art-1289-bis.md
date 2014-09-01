@@ -1,1 +1,1 @@
-Dans des circonstances exceptionnelles, le président du tribunal ou le juge qui en exerce les fonctions, après avoir pris connaissance de la requête et de ses annexes peut, par une ordonnance motivée, accorder dispense de la comparution personnelle prescrite aux articles 1289 et 1294 et autoriser l'un ou l'autre des époux à se faire représenter par un mandataire spécial, avocat ou notaire.
+(Abrogé)

@@ -1,0 +1,6 @@
+§ 1er. Sans préjudice des dispositions du présent chapitre, les demandes soumises au tribunal de la famille entre des parties qui, soit ont au moins un enfant mineur commun, soit sont ou ont été mariées, soit sont ou ont été cohabitants légaux sont jointes en un seul dossier appelé dossier familial.
+Sont elles aussi jointes au dossier familial visé à l'alinéa 1er, les causes relatives à un enfant dont la filiation n'est établie qu'à l'égard d'un seul parent, ainsi que les causes relatives aux relations personnelles visées à l'article 375bis du Code civil.
+§ 2. Le dossier familial est ouvert dès la première demande introduite au tribunal de la famille.
+Sous réserve des numéros de rôle attribués à toute cause conformément à l'article 720, il est attribué un numéro spécifique au dossier familial. Ce numéro est mentionné sur tous les actes introductifs d'instance, conclusions et autres pièces du dossier.
+Sous réserve des éléments visés à l'article 721, le dossier familial est composé de toutes les causes successives concernant les mêmes parties et leurs enfants communs nés ou à naître.
+En cas de renvoi d'un tribunal de la famille à un autre, conformément à l'article 629bis, § 7, le dossier familial complet est transféré sans délai.
