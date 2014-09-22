@@ -1,0 +1,9 @@
+§ 1er. En vue de son maintien en vigueur, toute demande de brevet ou tout brevet donne lieu au paiement de taxes annuelles. Le Roi peut fixer l'année à partir de laquelle les taxes annuelles sont dues pour la première fois. Les taxes annuelles sont dues au plus tôt au début de la troisième année et au plus tard au début de la cinquième année, à compter de la date de dépôt de la demande de brevet ainsi qu'au début de chacune des années suivantes.
+Pour la fixation de l'année à partir de laquelle les taxes annuelles sont dues pour la première fois, le Roi tient au moins compte des critères suivants:
+1° l'accès au système belge des brevets; et
+2° le rapport entre le coût de gestion pour l'Office de la taxe visée à l'alinéa 1er, et les recettes générées par cette taxe.
+Le paiement de la taxe annuelle vient à échéance le dernier jour du mois de la date anniversaire du dépôt de la demande de brevet. La taxe annuelle ne peut être valablement acquittée plus de six mois avant son échéance.
+Lorsque le paiement de la taxe annuelle n'a pas été effectué à son échéance, ladite taxe peut encore être acquittée, augmentée d'une surtaxe, dans un délai de grâce de six mois à compter de l'échéance de la taxe annuelle.
+Le montant de la taxe annuelle et de la surtaxe est fixé par le Roi, par arrêté délibéré en Conseil des ministres.
+§ 2. A défaut de paiement de la taxe annuelle et de la surtaxe dans le délai de grâce de six mois prévu au paragraphe précédent, le titulaire de la demande de brevet ou du brevet est déchu de plein droit de ses droits. La déchéance prend effet à la date de l'échéance de la taxe annuelle non acquittée. La déchéance est inscrite au registre.
+§ 3. En ce qui concerne les personnes visées à l'article XI.78, § 3, le montant de la taxe annuelle et de la surtaxe est réduit de 50 %. Le Roi fixe les modalités de demande de réduction du montant de la taxe annuelle et de la surtaxe visée au présent paragraphe.

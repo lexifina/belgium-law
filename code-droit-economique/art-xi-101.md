@@ -1,0 +1,5 @@
+§ 1er. En vue de son maintien en vigueur, toute demande de certificat ou tout certificat donne lieu au paiement de taxes annuelles. La première annuité est due à l'expiration de la durée légale du brevet de base.
+Le paiement de la taxe annuelle vient à échéance le dernier jour du mois de la date anniversaire du dépôt de la demande du brevet de base. La taxe annuelle ne peut être valablement acquittée plus de six mois avant son échéance.
+§ 2. Lorsque le paiement de la taxe annuelle n'a pas été effectué à son échéance, ladite taxe peut encore être acquittée, augmentée d'une surtaxe, dans un délai de grâce de six mois à compter de l'échéance de la taxe annuelle.
+§ 3. Le montant de la taxe annuelle et de la surtaxe est fixé par le Roi, par arrêté délibéré en Conseil des ministres.
+§ 4. A défaut de paiement de la taxe annuelle dans le délai de grâce de six mois prévu au paragraphe 2, le titulaire de la demande de certificat ou du certificat est déchu de plein droit de ses droits. La déchéance prend effet à la date de l'échéance de la taxe annuelle non acquittée. La déchéance est inscrite au registre.

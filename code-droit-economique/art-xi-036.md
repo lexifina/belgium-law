@@ -1,0 +1,3 @@
+§ 1er. Toute personne qui avant la date de dépôt ou de priorité d'un brevet, utilisait ou possédait de bonne foi sur le territoire belge l'invention, objet du brevet, a le droit, à titre personnel, d'exploiter l'invention malgré l'existence du brevet.
+§ 2. Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet accomplis sur le territoire belge après que ce produit a été mis dans le commerce en Belgique par la personne qui jouit du droit visé au paragraphe 1er.
+§ 3. Les droits reconnus par le présent article ne peuvent être transmis qu'avec l'entreprise à laquelle ils sont attachés.

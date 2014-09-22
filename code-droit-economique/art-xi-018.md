@@ -1,0 +1,6 @@
+§ 1er. La demande de brevet doit contenir une description de l'invention suffisamment claire et complète pour qu'un homme du métier puisse la mettre en oeuvre.
+Lorsqu'une invention porte sur de la matière biologique non accessible au public et ne pouvant être décrite dans la demande de brevet pour permettre à une personne du métier de réaliser l'invention ou implique l'utilisation d'une telle matière, la description, pour l'application du droit des brevets, n'est réputée suffisante que si la matière biologique a été déposée au plus tard le jour du dépôt de la demande de brevet auprès d'une institution de dépôt reconnue et si les exigences fixées par le Roi sont remplies.
+Si des séquences de nucléotides ou d'acides aminés sont exposées dans la demande de brevet, la description doit contenir une liste de ces séquences. Le Roi peut fixer la forme dans laquelle ces séquences doivent être décrites.
+§ 2. La ou les revendications définissent l'objet de la protection demandée. Elles doivent être claires et concises et se fonder sur la description.
+§ 3. Des dessins sont joints s'ils sont nécessaires à l'intelligence de l'invention.
+§ 4. L'abrégé accompagné, si nécessaire, d'un dessin sert exclusivement à des fins d'information technique; il ne peut être pris en considération pour aucune autre fin. Il peut être soumis au contrôle de l'Office.

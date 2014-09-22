@@ -1,0 +1,5 @@
+§ 1er. Sans préjudice du paragraphe 2, le Roi est l'autorité compétente au sens de l'article 2.4. du Règlement (CE) N° 816/2006 du Parlement européen et du Conseil du 17 mai 2006 concernant l'octroi de licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique.
+Les décisions relatives à l'octroi, à la révision, au rejet et au retrait d'une licence obligatoire sont prises par arrêté délibéré en Conseil des ministres.
+§ 2. Le Roi peut désigner les autorités belges compétentes pour mettre en oeuvre les articles 6.1, 7, 14, 16.1, alinéa 2, 16.3 et 16.4 du Règlement (CE) N° 816/2006.
+§ 3. Le Roi est habilité à fixer des exigences purement formelles ou administratives nécessaires pour le traitement efficace des demandes de licence obligatoire visées par le Règlement (CE) N° 816/2006.
+§ 4. Les articles XI.37, XI.38 et XI.40 à XI.46 ne s'appliquent pas à la licence obligatoire visée au présent article. Les dispositions du présent article ne s'appliquent pas aux licences obligatoires visées aux articles XI.37, XI.38 et XI.40 à XI.46.

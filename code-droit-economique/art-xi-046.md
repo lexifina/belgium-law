@@ -1,0 +1,2 @@
+Le titulaire d'une licence obligatoire ne peut transférer par cession ou sous-licence à des tiers les droits attachés à la licence qu'avec la partie de l'entreprise ou du fonds de commerce affectée à l'exploitation de la licence et sous réserve que les licences octroyées par application de l'article XI.37, § 1er, 2°, ne sont cessibles qu'avec le brevet dépendant.
+L'article XI.51 est applicable par analogie.

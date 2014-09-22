@@ -1,0 +1,1 @@
+Mention de la délivrance du certificat ou du rejet de la demande de certificat et mention de l'acceptation de la prorogation du certificat ou du rejet de la demande de prorogation du certificat sont publiées au registre.
