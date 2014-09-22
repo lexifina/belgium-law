@@ -1,0 +1,2 @@
+§ 1er. Le brevet s'éteint au terme de la vingtième année à compter du jour du dépôt de la demande, sous réserve du paiement des taxes annuelles visées à l'article XI.48.
+§ 2. Dans le cas prévu à l'article XI.23, § 8, la demande de brevet cesse de produire ses effets, sous réserve du paiement des taxes annuelles, à l'expiration du délai prescrit pour le paiement de la taxe de recherche, si cette taxe n'a pas été acquittée.

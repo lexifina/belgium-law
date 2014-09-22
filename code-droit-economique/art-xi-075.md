@@ -1,0 +1,1 @@
+En cas de décès d'un mandataire agréé ou d'impossibilité pour celui-ci d'exercer son activité de représentation, les missions qui lui étaient confiées auprès de l'Office peuvent être exécutées pendant six mois par un autre mandataire agréé sans que celui-ci doive justifier d'un mandat.

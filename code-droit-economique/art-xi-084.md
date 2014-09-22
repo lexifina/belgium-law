@@ -1,0 +1,1 @@
+Les dispositions des articles XI.82 et XI.83 n'affectent pas le droit des tribunaux nationaux d'exiger une traduction intégrale de la demande ou du brevet délivré dans la langue de la procédure judiciaire.

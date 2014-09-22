@@ -1,0 +1,1 @@
+La délivrance des certificats se fait sans examen des conditions fixées respectivement, pour les médicaments, à l'article 3, c et d, du règlement 469/2009 et, pour les produits phytopharmaceutiques, à l'article 3, § 1er, c et d, du règlement 1610/1996.

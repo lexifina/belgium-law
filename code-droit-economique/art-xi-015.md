@@ -1,0 +1,2 @@
+Sans préjudice de l'application des dispositions du chapitre 3 du présent titre, le dépôt de la demande de brevet est effectué à l'Office, soit en personne, soit par envoi postal, soit de toute autre manière déterminée par le Roi.
+Un récépissé, dressé sans frais par le fonctionnaire de l'Office délégué à cet effet par le ministre, constate chaque dépôt en énonçant le jour de la réception des pièces. Le récépissé est notifié au demandeur ou à son représentant selon les modalités déterminées par le Roi.

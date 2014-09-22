@@ -1,0 +1,11 @@
+§ 1er. Lorsqu'un demandeur de certificat ou de prorogation du certificat ou un titulaire de certificat n'a pas observé un délai fixé pour l'accomplissement d'un acte dans une procédure devant l'Office, et que cette inobservation a pour conséquence directe la perte des droits relatifs au certificat ou à la demande de certificat ou de prorogation du certificat, l'Office restaure les droits du demandeur ou du titulaire à l'égard du certificat ou de la demande de certificat ou de prorogation du certificat si:
+1° une requête à cet effet est présentée à l'Office conformément aux conditions et dans le délai fixés par le Roi;
+2° l'acte non accompli est accompli dans le délai de présentation de la requête visé sous 1°;
+3° la requête expose les motifs pour lesquels le délai fixé n'a pas été observé;
+4° l'Office constate que l'inobservation du délai est intervenue bien que la diligence requise en l'espèce ait été exercée.
+La requête en restauration est inscrite au registre.
+Une déclaration ou d'autres preuves à l'appui des motifs visés sous 3° sont fournis à l'Office dans un délai fixé par le Roi.
+La requête en restauration n'est traitée qu'après que la taxe de restauration prescrite pour cette requête ait été acquittée.
+§ 2. Une requête adressée en vertu du paragraphe 1er ne peut être intégralement ou partiellement rejetée sans que soit donnée à la partie requérante la possibilité de présenter, dans le délai fixé par le Roi, ses observations sur le refus envisagé.
+La décision de restauration ou de refus est inscrite au registre.
+§ 3. Quiconque, entre le moment de la déchéance des droits prévue à l'article XI.101, § 4, et celui où la restauration de ces droits sort ses effets conformément au paragraphe 2 du présent article, a de bonne foi utilisé en Belgique le produit, objet de la protection conférée par le certificat, ou pris à cette fin les mesures nécessaires peut continuer à utiliser ledit produit pour les besoins de sa propre entreprise. Le droit reconnu par le présent paragraphe ne peut être transmis qu'avec l'entreprise à laquelle il est attaché.

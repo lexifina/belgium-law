@@ -1,0 +1,1 @@
+Le Roi désigne les autorités nationales auxquelles l'Office européen peut s'adresser pour demander une coopération administrative et judiciaire en vertu de l'article 131 de la Convention sur le brevet européen.

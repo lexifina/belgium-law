@@ -1,0 +1,14 @@
+§ 1er. Sous réserve des dispositions du paragraphe 2 et du paragraphe 3, alinéa 1er, nul n'est tenu, en matière de brevets d'invention, de se faire représenter devant l'Office.
+§ 2. Les personnes physiques et morales qui souhaitent agir devant l'Office en matière de brevets d'invention par l'entremise d'un tiers, doivent avoir recours à un mandataire agréé.
+§ 3. Les personnes physiques et morales qui n'ont ni domicile ni établissement effectif dans un Etat membre de l'Union européenne doivent, pour agir devant l'Office en matière de brevets d'invention, être représentées par un mandataire agréé et agir par son entremise.
+Les personnes physiques et morales visées à l'alinéa 1er, peuvent agir elles-mêmes devant l'Office aux fins des procédures suivantes:
+1° le dépôt d'une demande aux fins de l'octroi d'une date de dépôt;
+2° le paiement d'une taxe;
+3° le dépôt de la copie d'une demande antérieure;
+4° la délivrance d'un récépissé ou d'une notification de l'Office dans le cadre d'une procédure visée sous 1°, 2° et 3°.
+§ 4. Toute personne peut acquitter les taxes annuelles.
+§ 5. Tout avocat inscrit au tableau de l'Ordre ou sur la liste des stagiaires, tout avocat et tout mandataire en brevets ayant la nationalité d'un Etat membre de l'Union européenne et habilités à exercer cette profession dans un Etat membre de celle-ci, ainsi que tout avocat autorisé à exercer cette profession en Belgique en vertu d'une loi ou d'une convention internationale, peuvent intervenir au même titre qu'un mandataire agréé auprès de l'Office.
+Le Roi prend les mesures qui, en matière de libre prestation de services d'un mandataire devant l'Office, sont nécessaires à l'exécution des obligations résultant du Traité sur l'Union européenne ou des dispositions édictées en vertu de ce Traité.
+§ 6. Les personnes physiques et morales qui ont leur domicile ou un établissement effectif dans un Etat membre de l'Union européenne peuvent agir devant l'Office, en matière de brevets d'invention, par l'entremise d'un de leurs employés; cet employé, qui doit disposer d'un pouvoir, n'est pas tenu d'être un mandataire agréé. Le Roi peut prévoir si et dans quelles conditions l'employé d'une personne morale visée au présent paragraphe peut également agir pour d'autres personnes morales qui ont un établissement effectif dans un Etat membre de l'Union européenne et ont des liens économiques avec elle.
+§ 7. Des dispositions particulières relatives à la représentation de parties agissant en commun peuvent être fixées par le Roi.
+§ 8. Pour l'application du présent chapitre, la langue de la procédure et la langue de correspondance avec l'Office est la langue qui doit être utilisée par le demandeur de brevet ou le titulaire de brevet conformément aux lois sur l'emploi des langues en matière administrative coordonnées le 18 juillet 1966.
