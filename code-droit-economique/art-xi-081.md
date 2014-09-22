@@ -1,0 +1,1 @@
+Le Roi détermine les modalités selon lesquelles les citoyens et les entreprises peuvent communiquer par voie électronique avec l'Office et lui transmettre des documents et des actes sous forme électronique.

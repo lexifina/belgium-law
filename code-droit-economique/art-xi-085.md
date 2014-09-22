@@ -1,0 +1,2 @@
+L'Office met à disposition les services d'ingénierie linguistique permettant la traduction automatique des informations relatives aux brevets, par le biais d'un site internet désigné par le Roi, sur lequel les demandes de brevet européen et les brevets européens délivrés peuvent être consultés dans les mêmes conditions, dans toutes les langues nationales.
+Le Roi peut préciser les modalités et les conditions de la mise à disposition des services d'ingénierie linguistique visés.

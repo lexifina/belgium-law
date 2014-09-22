@@ -1,0 +1,2 @@
+Le présent titre ne porte pas atteinte aux dispositions d'un traité ou d'une convention applicable en Belgique.
+Cela implique entre autres le plein respect des textes internationaux suivants: la Convention sur la diversité biologique conclue à Rio le 5 juin 1992, l'Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce conclu à Marrakech le 15 avril 1994, la Convention européenne des droits de l'homme du 4 novembre 1950 et l'Accord relatif à une juridiction unifiée du brevet du 19 février 2013.

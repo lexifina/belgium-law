@@ -1,0 +1,12 @@
+§ 1er. Une invention est considérée comme nouvelle si elle n'est pas comprise dans l'état de la technique.
+§ 2. L'état de la technique est constitué par tout ce qui a été rendu accessible au public avant la date de dépôt de la demande de brevet par une description écrite ou orale, un usage ou tout autre moyen.
+§ 3. Est également considéré comme compris dans l'état de la technique le contenu:
+1° des demandes de brevet belge;
+2° des demandes de brevet européen;
+3° ou des demandes internationales de brevet pour lesquelles l'Office européen des brevets est office désigné et pour lesquelles le demandeur a rempli dans les délais prescrits les conditions prévues à l'article 153(3) ou (4) de la Convention sur le brevet européen selon le cas, et à la règle 159(1) du règlement d'exécution de la Convention sur le brevet européen,
+telles qu'elles ont été déposées, qui ont une date de dépôt antérieure à celle mentionnée au paragraphe 2 et qui n'ont été publiées qu'à cette date ou à une date postérieure.
+§ 4. Les dispositions des paragraphes 2 et 3 n'excluent pas la brevetabilité d'une substance ou composition comprise dans l'état de la technique pour la mise en oeuvre d'une méthode visée à l'article XI.5, § 7, à condition que son utilisation pour l'une quelconque de ces méthodes ne soit pas comprise dans l'état de la technique.
+§ 5. Les dispositions des paragraphes 2 et 3 n'excluent pas non plus la brevetabilité d'une substance ou d'une composition visée au paragraphe 4 pour toute utilisation spécifique dans une méthode visée à l'article XI.5, § 7, à condition que cette utilisation ne soit pas comprise dans l'état de la technique.
+§ 6. Une divulgation de l'invention n'est pas prise en considération pour l'établissement de l'état de la technique si elle n'est pas intervenue plus tôt que six mois avant le dépôt de la demande de brevet et si elle résulte directement ou indirectement:
+a) d'un abus évident à l'égard du demandeur ou de son prédécesseur en droit, ou
+b) du fait que le demandeur ou son prédécesseur en droit a exposé l'invention dans des expositions officielles ou officiellement reconnues au sens de la Convention concernant les expositions internationales, signée à Paris le 22 novembre 1928, et à condition que le demandeur déclare, lors du dépôt de la demande, que l'invention a été réellement exposée et qu'il produise une attestation à l'appui de sa déclaration dans le délai et dans les conditions fixés par le Roi.
