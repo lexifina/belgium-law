@@ -1375,12 +1375,15 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 
 <a name="LNK0059" href="#LNKR0059">Section 2.</a> - La rémunération et les autres avantages patrimoniaux
 
-<a name="Art.162" href="#Art.161">Art.</a> <a href="#Art.163"> 162</a>. Le paiement de la rémunération des travailleurs
+<a name="Art.162" href="#Art.161">Art.</a> <a href="#Art.163"> 162</a>.[<sup>1</sup> Le payement de la rémunération des travailleurs
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui :
 1° n'a pas payé la rémunération du travailleur ou ne l'a pas payée à la date à laquelle elle est exigible;
 2° se fait rembourser par les membres de son personnel tout ou partie des cotisations supplémentaires dont l'employeur est redevable en application des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939;
 3° n'a pas payé les pécules de vacances dus ou ne les a pas payés dans les délais et selon les modalités réglementaires prescrites par les lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971.
-En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+Le minimum et le maximum de l'amende pénale ou de l'amende administrative sont multipliés par 12 lorsque d'une part la rémunération minimale applicable dans le secteur concerné n'est pas payé au travailleur - ou en cas de travail à temps partiel la partie de la rémunération minimale qui est proportionnellement due - ou n'a pas été payée à la date à laquelle la rémunération est exigible, et que, d'autre part, il y a concours de deux ou plusieurs infractions visées aux articles 138, 140 à 142, 156, 157, 163, 165 à 167 ou 169.
+En ce qui concerne les infractions visées par le présent article, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042523" target="_blank">2014-04-25/23</a>, art. 222, 012; En vigueur : 24-05-2014&gt;
 
 <a name="Art.163" href="#Art.162">Art.</a> <a href="#Art.164"> 163</a>. Les retenues sur la rémunération des travailleurs
 Est puni d'une sanction de niveau 2 :
