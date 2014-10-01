@@ -1681,7 +1681,7 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multiplié
 
 <a name="LNK0080" href="#LNKR0080">Section 3.</a> - Les entraves au fonctionnement des organes d'entreprises
 
-<a name="Art.191" href="#Art.190">Art.</a> <a href="#Art.192"> 191</a>. Les entraves au fonctionnement des organes d'entreprises
+<a name="Art.191" href="#Art.190">Art.</a> <a href="#Art.191/1"> 191</a>. Les entraves au fonctionnement des organes d'entreprises
 § 1er. Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 septembre 1948 portant organisation de l'économie, à ses arrêtés d'exécution ou aux conventions collectives de travail adoptées par le Conseil national du travail et qui ont été rendues obligatoires par le Roi :
 a) empêche le fonctionnement du conseil d'entreprise;
@@ -1711,7 +1711,12 @@ d) ne procède pas aux consultations obligatoires du conseil d'entreprise;
 3° ne transmet pas à cet organe les informations qu'il est tenu de lui donner;
 4° ne procède pas aux consultations de cet organe.
 
-<a name="Art.192" href="#Art.191">Art.</a> <a href="#LNK0081"> 192</a>. La communication et la divulgation abusives de renseignements
+<a name="Art.191/1" href="#Art.191">Art.</a> <a href="#Art.192"> 191/1</a>. [<sup>1</sup> L'absence de rapport d'analyse sur la structure de rémunération des travailleurs.
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à l'article 15, m), de la loi du 20 septembre 1948 portant organisation de l'économie, ne communique pas, tous les deux ans au conseil d'entreprise, ou à défaut à la délégation syndicale, un rapport d'analyse sur la structure de rémunération des travailleurs, en application de l'article 13/1 de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013071205" target="_blank">2013-07-12/05</a>, art. 12, 010; En vigueur : 01-07-2013&gt;
+
+<a name="Art.192" href="#Art.191/1">Art.</a> <a href="#LNK0081"> 192</a>. La communication et la divulgation abusives de renseignements
 Est puni d'une sanction de niveau 2, tout membre du Conseil central de l'économie, d'un conseil d'entreprise, d'un comité pour la prévention et la protection au travail ou d'une délégation syndicale qui, en contravention à la loi du 20 septembre 1948 portant organisation de l'économie ou à la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, communique ou divulgue abusivement des renseignements d'ordre individuel dont il a eu connaissance en raison de fonctions ou mandats exercés en vertu des dispositions des lois précitées ou qui communique ou divulgue abusivement des renseignements globaux de nature à porter préjudice à l'économie nationale, aux intérêts d'une branche économique ou d'une entreprise.
 La même sanction est applicable lorsque l'infraction est commise, en contravention à la loi du 23 avril 1998 portant des mesures d'accompagnement en ce qui concerne l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs, par un membre du groupe spécial de négociation du comité d'entreprise européen, un représentant des travailleurs exerçant ses missions dans le cadre d'une procédure d'information et de consultation qui, le cas échéant, tient lieu de comité d'entreprise européen ainsi que par un expert qui les assiste.
 La même sanction est applicable lorsque l'infraction est commise, en contravention à la convention collective de travail n° 84 du 6 octobre 2004, conclue au sein du Conseil national du travail, concernant l'implication des travailleurs dans la société européenne, par un membre du groupe spécial de négociation, par un membre de l'organe de représentation, par un représentant des travailleurs exerçant ses fonctions dans le cadre de la procédure d'information et de consultation des travailleurs, par un représentant des travailleurs siégeant dans l'organe de surveillance ou d'administration d'une société européenne, ainsi que par un expert qui les assiste.
