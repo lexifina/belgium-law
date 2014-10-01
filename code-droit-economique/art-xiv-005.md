@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Sans préjudice de l'article XIV. 8/1, le prix indiqué est le prix total à payer par le consommateur, en ce compris la taxe sur la valeur ajoutée, toutes autres taxes, ainsi que le coût de tous les services à payer obligatoirement en supplément par le consommateur.

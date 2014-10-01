@@ -1,5 +1,6 @@
 Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux dispositions:
 1° des articles VI. 3 à VI. 6 relatifs à l'indication des prix et des arrêtés pris en exécution de l'article VI. 7;
+1°/1. des articles VI. 7/1 et VI. 7/2 et des arrêtés pris en exécution de l'article VI. 7/2;
 2° de l'article VI. 8 relatif à la dénomination, à la composition et à l'étiquetage des produits et des arrêtés pris en exécution des articles VI. 9 et VI. 10;
 3° des articles VI. 11 à VI. 15 relatifs à l'indication de la quantité et des arrêtés pris en exécution de l'article VI. 16;
 4° des articles VI. 18 et VI. 19 relatifs à la référence à son propre prix appliqué précédemment et des arrêtés pris en exécution des articles VI. 20 et VI. 21;
