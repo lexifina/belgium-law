@@ -1,1 +1,1 @@
-Il n'y a pas de cohabitation légale non plus lorsque celle-ci est contractée sans le libre consentement des deux cohabitants légaux ou que le consentement d'au moins un des cohabitants légaux a été donné sous la violence ou la menace.
+Il n'y a pas de <cohabitation> légale non plus lorsque celle-ci est contractée sans le libre consentement des deux cohabitants légaux ou que le consentement d'au moins un des cohabitants légaux a été donné sous la violence ou la menace.
