@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2014:ARR.20141210.9",
+  "ecli": "ECLI:BE:CASS:2014:ARR.20141210.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2014-12-10",
+  "date_as_printed": "Jugement/arrêt du 10 décembre 2014",
+  "published_on_juportal": "2015-01-20",
+  "language": "fr",
+  "role_number": "P.14.1203.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Suspension",
+    "VERJARING - STRAFZAKEN - Strafvordering - Schorsing",
+    "Causes - Juridiction de jugement - Décision - Devoirs complémentaires - Remise de l'affaire - Loi du 14 janvier énonçant erronément \"juridiction d'instruction\" - Loi du 25 avril 2014 remplaçant les mots \"juridiction d'instruction\" par \"juridiction de jugement\" - Loi rectificative - Rétroactivité - Conséquence",
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - APPLICATION DANS LE TEMPS ET DANS L'ESPACE",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WERKING IN DE TIJD EN IN DE RUIMTE",
+    "Application dans le temps - Prescription - Matière répressive - Action publique - Suspension - Causes - Juridiction de jugement - Décision - Devoirs complémentaires - Remise de l'affaire - Loi du 14 janvier énonçant erronément \"juridiction d'instruction\" - Loi du 25 avril 2014 remplaçant les mots \"juridiction d'instruction\" par \"juridiction de jugement\" - Loi rectificative - Rétroactivité - Conséquence",
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Interruption",
+    "VERJARING - STRAFZAKEN - Strafvordering - Stuiting",
+    "Causes - Actes d'instruction ou de poursuite - Notion - Apostille d'un procureur du Roi à un autre",
+    "Gronden - Vonnisgerecht - Beslissing - Bijkomende onderzoekshandelingen - Uitstel van de zaak - Wet van 14 januari 2013 met de verkeerdelijke vermelding \"juridiction d'instruction\" - Wet van 25 april 2014 waarbij de woorden \"juridiction d'instruction\" worden vervangen door \"juridiction de jugement\" - Wijzigingswet - Terugwerkende kracht - Gevolg",
+    "Werking in de tijd - Verjaring - Strafzaken - Strafvordering - Schorsing - Gronden - Vonnisgerecht - Beslissing - Bijkomende onderzoekshandelingen - Uitstel van de zaak - Wet van 14 januari 2013 met de verkeerdelijke vermelding \"juridiction d'instruction\" - Wet van 25 april 2014 waarbij de woorden \"juridiction d'instruction\" worden vervangen door \"juridiction de jugement\" - Wijzigingswet - Terugwerkende kracht - Gevolg",
+    "Gronden - Daden van onderzoek of van vervolging - Begrip - Kantschrift van een procureur des Konings aan een andere"
+  ],
+  "fiche": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Suspension",
+    "Causes - Juridiction de jugement - Décision - Devoirs complémentaires - Remise de l'affaire - Loi du 14 janvier énonçant erronément \"juridiction d'instruction\" - Loi du 25 avril 2014 remplaçant les mots \"juridiction d'instruction\" par \"juridiction de jugement\" - Loi rectificative - Rétroactivité - Conséquence",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 24, al. 4 - 01 Lien ELI No pub 1878041750",
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - APPLICATION DANS LE TEMPS ET DANS L'ESPACE",
+    "Application dans le temps - Prescription - Matière répressive - Action publique - Suspension - Causes - Juridiction de jugement - Décision - Devoirs complémentaires - Remise de l'affaire - Loi du 14 janvier énonçant erronément \"juridiction d'instruction\" - Loi du 25 avril 2014 remplaçant les mots \"juridiction d'instruction\" par \"juridiction de jugement\" - Loi rectificative - Rétroactivité - Conséquence",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 24, al. 4 - 01 Lien ELI No pub 1878041750",
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Interruption",
+    "Causes - Actes d'instruction ou de poursuite - Notion - Apostille d'un procureur du Roi à un autre",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 22 - 01 Lien ELI No pub 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2014:ARR.20141210.9",
+  "source_sha256": "b8961c21c61ab0775b42202f93e58bacb3845caab502efe993ee800ed606ac59",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2014:ARR.20141210.9_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
