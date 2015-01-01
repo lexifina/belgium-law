@@ -1,0 +1,5 @@
+§ 1er. Une demande de droit d'obtenteur ou un droit d'obtenteur peut faire, en totalité ou en partie, l'objet de licences contractuelles. Ces licences peuvent être exclusives ou non exclusives.
+§ 2. Les licences doivent être délivrées par écrit à peine de nullité.
+§ 3. Le demandeur ou le titulaire notifie sans délai à l'Office, de la manière arrêtée par le Roi, les licences qu'il concède en Belgique.
+§ 4. Les licences n'ont d'effet à l'égard de l'Office et ne sont opposables aux tiers qu'à partir de la date de réception par l'Office de la notification visée au paragraphe 3 et sous réserve de son inscription au registre. Toutefois, avant son inscription au registre, une licence est opposable aux tiers qui ont acquis des droits après la date de la concession de la licence, mais qui avaient connaissance de celle-ci lors de l'acquisition de ces droits.
+§ 5. Le demandeur ou le titulaire peut invoquer les droits conférés par la demande ou par le droit d'obtenteur à l'encontre d'une personne détenant une licence qui enfreint l'une des conditions ou limitations attachées à sa licence.

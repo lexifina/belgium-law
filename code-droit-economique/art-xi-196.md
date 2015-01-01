@@ -1,0 +1,6 @@
+§ 1er. L'éditeur doit produire ou faire produire les exemplaires de l'oeuvre dans le délai convenu.
+A défaut d'avoir été fixé par contrat, ce délai sera déterminé conformément aux usages honnêtes de la profession.
+Si l'éditeur ne satisfait pas à son obligation dans les délais définis ci-avant sans pouvoir justifier d'une excuse légitime, l'auteur pourra reprendre ses droits cédés, après une mise en demeure, adressée par envoi recommandé avec accusé de réception, et restée sans effet pendant six mois.
+§ 2. L'éditeur s'engage à verser, sauf convention contraire, à l'auteur une rémunération proportionnelle aux recettes.
+Si l'auteur a cédé à l'éditeur les droits d'édition à de telles conditions que, compte tenu du succès de l'oeuvre, la rémunération forfaitaire convenue se trouve manifestement disproportionnée par rapport au profit tiré de l'exploitation de celle-ci, l'éditeur est tenu, à la demande de l'auteur, de consentir une modification de la rémunération pour accorder à l'auteur une participation équitable au profit. L'auteur ne peut renoncer anticipativement au bénéfice de ce droit.
+§ 3. L'éditeur ne peut céder son contrat sans l'assentiment du titulaire du droit d'auteur, sauf en cas de cession concomitante de tout ou partie de son entreprise.

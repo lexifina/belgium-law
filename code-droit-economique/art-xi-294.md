@@ -1,0 +1,1 @@
+Conformément à la directive 91/250/CEE du Conseil du 14 mai 1991 concernant la protection juridique des programmes d'ordinateur, les programmes d'ordinateur, en ce compris le matériel de conception préparatoire, sont protégés par le droit d'auteur et assimilés aux oeuvres littéraires au sens de la Convention de Berne.

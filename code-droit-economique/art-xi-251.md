@@ -1,0 +1,1 @@
+Les personnes qui assument la gestion ou l'administration d'une société de gestion des droits sont soumises aux dispositions des articles 527 et 528 du Code des Sociétés, étant entendu que la violation du chapitre 9 du présent titre et de ses arrêtés d'exécution est assimilée à la violation du Code des Sociétés.

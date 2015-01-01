@@ -1,0 +1,1 @@
+Sauf disposition contractuelle ou statutaire contraire, seul l'employeur est présumé cessionnaire des droits patrimoniaux relatifs aux programmes d'ordinateur créés par un ou plusieurs employés ou agents dans l'exercice de leurs fonctions ou d'après les instructions de leur employeur.

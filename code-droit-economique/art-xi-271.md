@@ -1,0 +1,3 @@
+§ 1er. Les sociétés de gestion établies en Belgique transmettent au Service de contrôle une copie de l'état comptable remis chaque semestre aux commissaires conformément à l'article 137, § 2, alinéa 3 du Code des Sociétés.
+Les sociétés de gestion établies dans un autre Etat membre de l'Union européenne transmettent au Service de contrôle au moins chaque semestre un état comptable relatif aux activités de leurs succursales établies en Belgique et établi selon le schéma du bilan et du compte de résultats.
+§ 2. Les sociétés de gestion transmettent au Service de contrôle une fois par an une version coordonnée et à jour de leurs règles de tarification, de perception et de répartition des droits.

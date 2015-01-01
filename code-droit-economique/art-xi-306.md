@@ -1,0 +1,3 @@
+Le droit des producteurs de bases de données s'applique aux bases de données quelle que soit leur forme dont l'obtention, la vérification ou la présentation du contenu atteste un investissement qualitativement ou quantitativement substantiel.
+Le droit des producteurs de bases de données s'applique indépendamment de toute protection de la base de données ou de son contenu au titre du droit d'auteur ou d'autres droits et est sans préjudice de tout droit existant sur les oeuvres, les données ou les autres éléments contenus dans la base de données.
+Le droit des producteurs de bases de données ne s'applique pas aux programmes d'ordinateur en tant que tels y compris ceux qui sont utilisés dans la fabrication ou le fonctionnement d'une base de données.

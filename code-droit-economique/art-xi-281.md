@@ -1,0 +1,1 @@
+Les agents des sociétés de gestion et toutes autres personnes appelées à participer à la perception des rémunérations dues en vertu des chapitres 5 à 9 sont tenus au secret professionnel pour tous les renseignements dont ils ont connaissance dans ou à l'occasion de l'exercice de leurs fonctions.

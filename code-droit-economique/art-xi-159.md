@@ -1,0 +1,3 @@
+§ 1er. Si le droit d'obtenteur a été octroyé à une personne non habilitée en vertu de l'article XI.111, la personne habilitée peut, sans préjudice de tous autres droits ou actions, revendiquer le transfert à son profit du droit d'obtenteur.
+§ 2. Si la personne lésée n'a droit qu'à une partie du droit d'obtenteur, elle peut, conformément aux dispositions du paragraphe 1er, revendiquer la reconnaissance en tant que cotitulaire.
+§ 3. Les actions visées aux paragraphes 1er et 2 sont également reconnues mutatis mutandis à la personne habilitée à l'égard de toute demande d'octroi de droit d'obtenteur introduite par un demandeur qui n'y avait pas droit ou qui n'était pas le seul à y avoir droit.

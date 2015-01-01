@@ -1,0 +1,7 @@
+§ 1er. Les citations, tirées d'une oeuvre licitement publiée, effectuées dans un but de critique, de polémique, de revue, d'enseignement, ou dans des travaux scientifiques, conformément aux usages honnêtes de la profession et dans la mesure justifiée par le but poursuivi, ne portent pas atteinte au droit d'auteur.
+Les citations visées à l'alinéa précédent devront faire mention de la source et du nom de l'auteur, à moins que cela ne s'avère impossible.
+§ 2. La confection d'une anthologie destinée à l'enseignement qui ne recherche aucun avantage commercial ou économique direct ou indirect requiert l'accord des auteurs dont des extraits d'oeuvres sont ainsi regroupés. Toutefois, après le décès de l'auteur, le consentement de l'ayant droit n'est pas requis à condition que le choix de l'extrait, sa présentation et sa place respectent les droits moraux de l'auteur et qu'une rémunération équitable soit payée, à convenir entre parties ou, à défaut, à fixer par le juge conformément aux usages honnêtes.
+§ 3. L'auteur ne peut pas interdire les actes de reproduction provisoires qui sont transitoires ou accessoires et constituent une partie intégrante et essentielle d'un procédé technique et dont l'unique finalité est de permettre:
+- une transmission dans un réseau entre tiers par un intermédiaire; ou
+- une utilisation licite,
+d'une oeuvre protégée, et qui n'ont pas de signification économique indépendante.

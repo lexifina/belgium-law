@@ -1,0 +1,4 @@
+Sans préjudice des dispositions des conventions internationales, les auteurs et les titulaires de droits voisins étrangers jouissent en Belgique des droits garantis par le présent titre sans que la durée de ceux-ci puisse excéder la durée fixée par la loi belge.
+Toutefois, si ces droits viennent à expirer plus tôt dans leur pays, ils cesseront au même moment d'avoir effet en Belgique.
+En outre, s'il est constaté que les auteurs belges et les titulaires belges de droits voisins jouissent dans un pays étranger d'une protection moins étendue, les ressortissants de ce pays ne pourront bénéficier que dans la même mesure des dispositions du présent titre.
+Nonobstant l'alinéa 1er, la réciprocité s'applique aux droits à rémunération des éditeurs, des artistes-interprètes ou exécutants et des producteurs de phonogrammes ou de premières fixations de films, visés aux articles XI.229, XI.235, XI.240 et XI.243, sans préjudice du Traité sur l'Union européenne.

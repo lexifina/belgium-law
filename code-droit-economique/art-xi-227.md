@@ -1,0 +1,2 @@
+Tout câblodistributeur est tenu, d'informer le Service de régulation visé à l'article XI.274 des montants correspondants aux droits d'auteur et aux droits voisins dont il est débiteur en raison de cette retransmission.
+Le Roi peut déterminer les modalités selon lesquelles le montant des droits d'auteur et des droits voisins doit être communiqué et détaillé au Service de régulation en vertu de l'alinéa 1er.

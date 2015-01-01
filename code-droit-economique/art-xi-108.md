@@ -1,0 +1,1 @@
+Une variété est considérée comme stable si l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété reste inchangée à la suite de multiplications successives ou, en cas de cycle particulier de multiplication, à la fin de chaque cycle.

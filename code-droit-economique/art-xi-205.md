@@ -1,0 +1,15 @@
+§ 1er. L'artiste-interprète ou exécutant a seul le droit de reproduire sa prestation ou d'en autoriser la reproduction, de quelque manière et sous quelque forme que ce soit, qu'elle soit directe ou indirecte, provisoire ou permanente, en tout ou en partie.
+Ce droit comprend notamment le droit exclusif d'en autoriser la location ou le prêt.
+Il a seul le droit de communiquer sa prestation au public par un procédé quelconque, y compris par la mise à disposition du public de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.
+Les droits de l'artiste-interprète ou exécutant comprennent notamment le droit exclusif de distribution, lequel n'est épuisé qu'en cas de première vente ou premier autre transfert de propriété, dans l'Union européenne, de la reproduction de sa prestation par l'artiste-interprète ou exécutant ou avec son consentement.
+Sont également considérés comme artistes-interprètes ou exécutants les artistes de variété et les artistes de cirque. Ne le sont pas les artistes de complément, reconnus comme tels par les usages de la profession.
+§ 2. Est présumé artiste-interprète ou exécutant, sauf preuve contraire, quiconque apparaît comme tel sur la prestation, sur une reproduction de la prestation, ou en relation avec une communication au public de celle-ci, du fait de la mention de son nom ou d'un sigle permettant de l'identifier.
+§ 3. A l'égard de l'artiste-interprète ou exécutant, tous les contrats se prouvent par écrit.
+Les dispositions contractuelles relatives aux droits de l'artiste-interprète ou exécutant et à leurs modes d'exploitation sont de stricte interprétation. La cession de l'objet qui incorpore une fixation de la prestation n'emporte pas le droit d'exploiter celle-ci.
+Le cessionnaire est tenu d'assurer l'exploitation de la prestation conformément aux usages honnêtes de la profession.
+Nonobstant toute disposition contraire, la cession des droits concernant des formes d'exploitation encore inconnues est nulle.
+La cession des droits patrimoniaux, relatifs à des prestations futures n'est valable que pour un temps limité et pour autant que les genres de prestations sur lesquelles porte la cession soient déterminés.
+§ 4. Lorsque des prestations sont effectuées par un artiste-interprète ou exécutant en exécution d'un contrat de travail ou d'un statut, les droits patrimoniaux peuvent être cédés à l'employeur pour autant que la cession des droits soit expressément prévue et que la prestation entre dans le champ du contrat ou du statut.
+Lorsque des prestations sont réalisées par un artiste-interprète ou exécutant en exécution d'un contrat de commande, les droits patrimoniaux peuvent être cédés à celui qui a passé la commande pour autant que l'activité de ce dernier relève de l'industrie non culturelle ou de la publicité, que la prestation soit destinée à cette activité et que la cession des droits soit expressément prévue.
+Dans ces cas, le paragraphe 3, alinéas 3 à 5 ne s'applique pas.
+Des accords collectifs peuvent déterminer l'étendue et les modalités du transfert.

@@ -1,0 +1,1 @@
+Le titulaire d'une variété initiale et l'obtenteur d'une variété essentiellement dérivée ont le droit d'obtenir la reconnaissance de l'identification des variétés concernées en tant que variété initiale et variété essentiellement dérivée.

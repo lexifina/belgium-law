@@ -1,0 +1,2 @@
+Nonobstant toute disposition contraire, les sociétés de gestion des droits communiquent au Service de contrôle au moins soixante jours avant leur examen par l'organe compétent, les projets de modification des statuts et des règles de tarification, de perception ou de répartition des droits.
+Le Service de contrôle peut exiger que les observations qu'il formule concernant ces projets soient portées à la connaissance de l'organe compétent de la société. Ces observations et les réponses qui y sont apportées doivent figurer au procès-verbal de l'organe compétent.

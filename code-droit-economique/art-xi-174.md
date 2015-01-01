@@ -1,0 +1,1 @@
+Ni l'auteur, ni le propriétaire d'un portrait, ni tout autre possesseur ou détenteur d'un portrait n'a le droit de le reproduire ou de le communiquer au public sans l'assentiment de la personne représentée ou celui de ses ayants droit pendant vingt ans à partir de son décès.

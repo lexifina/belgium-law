@@ -1,0 +1,3 @@
+Est puni d'une sanction de niveau 5, celui qui, avec une intention méchante ou frauduleuse, démarche en tous lieux des personnes physiques ou morales pour leur proposer:
+- soit d'effectuer l'inscription des droits visés à l'article XV.103, § 1, dans des registres ou des publications non officiels, en leur faisant croire que ladite inscription est nécessaire pour que ces droits produisent effet;
+- soit de souscrire un titre quelconque censé protéger des inventions ou créations mais qui ne bénéficie d'aucune reconnaissance ou garantie officielle, nationale ou internationale, en abusant de la confiance, de l'ignorance ou de la crédulité de ces personnes.

@@ -1,0 +1,3 @@
+Le titulaire du droit à la protection d'une topographie d'un produit semi-conducteur ne peut faire valoir le droit exclusif de reproduction et d'exploitation commerciale accordé par le présent titre à l'égard de:
+a) la reproduction effectuée uniquement aux fins d'analyse, d'évaluation ou d'enseignement de la topographie ou des concepts, procédés, systèmes ou techniques qui y sont incorporés;
+b) la topographie résultant d'analyses et d'évaluations d'une autre topographie effectuées conformément aux dispositions du point a), du moins dans la mesure où la nouvelle topographie résulte de l'effort intellectuel du créateur et n'est pas courante dans le secteur des semi-conducteurs.

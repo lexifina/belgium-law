@@ -1,0 +1,3 @@
+Indépendamment de toutes autres causes justifiant la résolution du contrat d'édition, l'auteur pourra réclamer celle-ci lorsque l'éditeur aura procédé à la destruction totale des exemplaires.
+En cas de résolution du contrat, l'auteur aura le droit d'acheter les exemplaires encore en stock moyennant un prix qui, en cas de désaccord entre l'éditeur et l'auteur, sera déterminé par le tribunal.
+Le fait pour l'auteur de réclamer la résolution du contrat ne pourra porter atteinte aux contrats d'exploitation valablement conclus par l'éditeur avec des tiers, l'auteur ayant contre ceux-ci une action directe en paiement de la rémunération éventuellement convenue, lui revenant de ce chef.

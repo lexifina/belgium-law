@@ -1,0 +1,2 @@
+§ 1er. En cas de prêt d'oeuvres littéraires, de bases de données, d'oeuvres photographiques ou de partitions d'oeuvres musicales dans les conditions définies à l'article XI.192, l'auteur et l'éditeur ont droit à une rémunération.
+§ 2. En cas de prêt d'oeuvres sonores ou audiovisuelles, dans les conditions définies aux articles XI.192 et XI.218, l'auteur, l'artiste-interprète ou exécutant et le producteur ont droit à une rémunération.

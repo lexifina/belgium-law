@@ -1,0 +1,2 @@
+Le producteur d'une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut empêcher l'utilisateur légitime de cette base d'extraire et/ou de réutiliser des parties, qualitativement ou quantitativement non substantielles, de son contenu à quelque fin que ce soit.
+Dans la mesure où l'utilisateur légitime est autorisé à extraire et/ou à réutiliser une partie seulement de la base de données, l'alinéa 1er s'applique à cette partie.

@@ -1,0 +1,3 @@
+§ 1er. L'action fondée sur l'article XVII.14, §§ 1er et 2, est formée à la demande des personnes habilitées à agir en contrefaçon selon les dispositions relatives au droit de propriété intellectuelle concerné.
+§ 2. En cas d'atteinte au droit d'auteur ou à un droit voisin, l'action fondée sur l'article XVII.14, § 3, est formée à la demande de tout intéressé, d'une société de gestion autorisée ou d'un groupement professionnel ou interprofessionnelle ayant la personnalité civile.
+En cas d'atteinte au droit du producteur de bases de données, l'action fondée sur l'article XVII.14, § 3, est formée à la demande des personnes habilitées à agir en contrefaçon selon les dispositions relatives au droit du producteur des bases de données.

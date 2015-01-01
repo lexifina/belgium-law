@@ -1,0 +1,10 @@
+La faillite du producteur, la mise en réorganisation judiciaire ou la mise en liquidation de son entreprise n'entraînent pas la résiliation des contrats avec les auteurs de l'oeuvre audiovisuelle.
+Lorsque la réalisation ou l'exploitation de l'oeuvre est continuée, le curateur ou le liquidateur, selon le cas, est tenu au respect de toutes les obligations du producteur à l'égard des auteurs.
+En cas de cession de tout ou partie de l'entreprise ou de sa liquidation, le liquidateur ou le curateur, selon le cas, est tenu d'établir un lot distinct pour chaque oeuvre audiovisuelle dont les droits d'exploitation peuvent faire l'objet d'une cession ou d'une vente aux enchères.
+Il a l'obligation d'aviser, à peine de nullité, chacun des autres producteurs de l'oeuvre, le réalisateur et les autres auteurs, par envoi recommandé avec accusé de réception à un mois au moins avant la cession ou avant toute autre procédure de vente ou de vente aux enchères.
+L'acquéreur est tenu des obligations du cédant.
+Le réalisateur et, à son défaut, les autres auteurs possèdent un droit de préférence sur l'oeuvre, sauf si l'un des coproducteurs s'en déclare acquéreur. A défaut d'accord, le prix d'achat est fixé par décision de justice.
+Si l'un des coproducteurs ne s'est pas déclaré acquéreur dans un délai d'un mois à partir de la notification qui lui a été faite, le réalisateur pourra exercer son droit de préférence pendant un délai d'un mois. Passé ce délai, les coauteurs disposent d'un mois pour exercer leur droit de préférence.
+L'exercice de ce droit se fait par exploit d'huissier ou par envoi recommandé avec accusé de réception adressé au curateur ou au liquidateur, selon le cas.
+Les bénéficiaires d'un droit de préférence peuvent y renoncer par exploit d'huissier ou par envoi recommandé avec accusé de réception adressé au curateur.
+Lorsque l'activité du producteur a cessé depuis plus de douze mois ou lorsque la liquidation est publiée sans qu'il ait été procédé à la vente de l'oeuvre audiovisuelle plus de douze mois après sa publication, chaque auteur de l'oeuvre audiovisuelle peut demander la résiliation de son contrat.
