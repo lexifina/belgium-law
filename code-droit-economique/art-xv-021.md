@@ -1,0 +1,1 @@
+Par dérogation au chapitre 1er, les agents visés à l'article XV.2 et XV.25/1, n'ont des compétences de recherche et de constatation des infractions au livre XI, que pour les infractions mentionnées dans le titre 3, chapitre 2, section 8, sous-section 1re.

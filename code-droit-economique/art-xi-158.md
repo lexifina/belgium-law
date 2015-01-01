@@ -1,0 +1,1 @@
+Les dispositions de droit civil visant à sanctionner les cas de contrefaçon du droit d'obtenteur belge sont applicables également aux cas de contrefaçon d'une protection communautaire des obtentions végétales octroyée en vertu du Règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 instituant un régime de protection communautaire des obtentions végétales.

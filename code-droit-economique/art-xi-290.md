@@ -1,0 +1,5 @@
+Les auteurs belges peuvent revendiquer l'application à leur profit en Belgique des dispositions:
+1° de la Convention de Berne, et
+2° du Traité de l'Organisation Mondiale de la Propriété Intellectuelle sur le droit d'auteur (WCT), adopté à Genève le 20 décembre 1996, dans tous les cas où ces dispositions seraient plus favorables que la loi belge.
+Les titulaires belges de droits voisins peuvent revendiquer l'application à leur profit en Belgique des dispositions de la Convention internationale sur la protection des artistes-interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion, faite à Rome le 26 octobre 1961, qui seraient plus favorables que la loi belge.
+Les artistes-interprètes ou exécutants et producteurs de phonogrammes belges peuvent revendiquer l'application à leur profit en Belgique des dispositions du Traité de l'Organisation Mondiale de la Propriété Intellectuelle sur les interprétations et exécutions et les phonogrammes (WPPT), adopté à Genève le 20 décembre 1996, dans tous les cas où ces dispositions seraient plus favorables que la loi belge.

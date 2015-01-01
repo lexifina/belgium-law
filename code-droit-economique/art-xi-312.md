@@ -1,0 +1,1 @@
+L'utilisateur légitime d'une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut effectuer des actes qui sont en conflit avec l'exploitation normale de cette base de données ou qui lèsent de manière injustifiée les intérêts légitimes du producteur de la base de données.

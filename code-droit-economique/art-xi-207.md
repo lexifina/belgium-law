@@ -1,0 +1,1 @@
+En cas d'interprétation vivante par un ensemble, l'autorisation est donnée par les solistes, chefs d'orchestre, metteurs en scène, ainsi que, pour les autres artistes-interprètes ou exécutants, par le directeur de leur troupe.

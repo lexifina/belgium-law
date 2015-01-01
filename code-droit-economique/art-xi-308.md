@@ -1,0 +1,1 @@
+Le droit des producteurs de bases de données est mobilier, cessible et transmissible, en tout ou en partie, conformément aux règles du Code civil. Il peut notamment faire l'objet d'une aliénation ou d'une licence simple ou exclusive.

@@ -1,0 +1,6 @@
+§ 1er. Une variété est considérée comme distincte si elle se distingue nettement, par référence à l'expression des caractères qui résulte d'un génotype ou d'une combinaison de génotypes donnés, de toute autre variété dont l'existence est notoirement connue à la date de dépôt de la demande déterminée conformément à l'article XI.133 ou, le cas échéant, à la date de priorité déterminée conformément à l'article XI.134.
+§ 2. L'existence d'une autre variété est notamment considérée comme notoirement connue si, à la date de dépôt de la demande déterminée conformément à l'article XI.133 ou, le cas échéant, à la date de priorité déterminée conformément à l'article XI.134:
+1° cette autre variété fait l'objet d'une protection des obtentions végétales ou est inscrite dans un registre officiel des variétés, dans tout Etat ou auprès de toute organisation intergouvernementale compétente dans ce domaine;
+2° une demande d'octroi d'une protection des obtentions végétales pour cette autre variété ou d'inscription dans un tel registre officiel est introduite, à condition qu'entre-temps la demande ait donné lieu à l'octroi de la protection ou à l'inscription dans le registre;
+3° la culture ou la commercialisation de cette autre variété est déjà en cours;
+4° cette autre variété est présente dans une collection de référence ou est décrite précisément dans une publication.

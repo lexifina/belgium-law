@@ -1,0 +1,5 @@
+Toute atteinte méchante ou frauduleuse portée au droit d'auteur et aux droits voisins constitue le délit de contrefaçon.
+Il en est de même de l'application méchante ou frauduleuse du nom d'un auteur ou d'un titulaire d'un droit voisin, ou de tout signe distinctif adopté par lui pour désigner son oeuvre ou sa prestation; de tels objets seront regardés comme contrefaits.
+Ceux qui sciemment, vendent, louent, mettent en vente ou en location, tiennent en dépôt pour être loués ou vendus, ou introduisent sur le territoire belge dans un but commercial les objets contrefaits, sont coupables du même délit.
+Les dispositions du chapitre XI de la loi du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée sont applicables aux infractions aux dispositions des chapitres 5 à 8 et à celles de leurs arrêtés d'application, le terme "taxe" étant remplacé par celui de "rémunération".
+Lorsque les faits soumis au tribunal font l'objet d'une action en cessation en application de l'article XVII.14, § 3, il ne peut être statué sur l'action pénale qu'après qu'une décision passée en force de chose jugée a été rendue relativement à l'action en cessation.

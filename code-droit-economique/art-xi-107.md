@@ -1,0 +1,1 @@
+Une variété est considérée comme homogène si elle est suffisamment homogène dans l'expression des caractères compris dans l'examen de la distinction et de tout autre caractère utilisé pour la description de la variété, sous réserve de la variation prévisible compte tenu des particularités de sa multiplication.

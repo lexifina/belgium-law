@@ -1,0 +1,1 @@
+Dans les trois ans qui suivent l'expiration du contrat, l'éditeur pourra procéder à l'écoulement, au prix normal, des exemplaires restant en stock, à moins que l'auteur ne préfère racheter ces exemplaires moyennant un prix qui, à défaut d'accord, sera fixé par le tribunal.

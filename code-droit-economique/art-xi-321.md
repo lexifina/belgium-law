@@ -1,0 +1,1 @@
+La protection organisée par le présent titre concerne uniquement la topographie proprement dite, à l'exclusion de tout concept, procédé, système, technique ou information codée qui sont incorporés dans cette topographie.

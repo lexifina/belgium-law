@@ -1,0 +1,1 @@
+Le titulaire peut exiger une indemnité raisonnable de la part de toute personne ayant accompli, pendant la période comprise entre la publication de la demande de droit d'obtenteur et l'octroi du droit d'obtenteur, un acte qui lui aurait été interdit après ladite période au titre du droit d'obtenteur.

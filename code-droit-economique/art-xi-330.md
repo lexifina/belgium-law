@@ -1,0 +1,1 @@
+Le droit exclusif visé à l'article XI.319 ne s'étend pas à l'exploitation commerciale d'une topographie ou d'un produit semi-conducteur après que celui-ci a été mis sur le marché dans un Etat membre de l'Union européenne par le titulaire du droit exclusif ou avec son consentement exprès.

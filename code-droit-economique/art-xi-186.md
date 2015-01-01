@@ -1,0 +1,2 @@
+Les bases de données qui, par le choix ou la disposition des matières, constituent une création intellectuelle propre à leur auteur sont protégées comme telle par le droit d'auteur.
+La protection des bases de données par le droit d'auteur ne s'étend pas aux oeuvres, aux données ou éléments eux-mêmes et est sans préjudice de tout droit existant sur les oeuvres, les données ou autres éléments contenus dans la base de données.

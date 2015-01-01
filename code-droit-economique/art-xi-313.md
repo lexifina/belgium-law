@@ -1,0 +1,1 @@
+L'utilisateur légitime d'une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut porter préjudice au titulaire d'un droit d'auteur ou d'un droit voisin portant sur des oeuvres ou des prestations contenues dans cette base de données.

@@ -1,0 +1,2 @@
+Un programme d'ordinateur est protégé s'il est original, en ce sens qu'il est une création intellectuelle propre à son auteur. Aucun autre critère ne s'applique pour déterminer s'il peut bénéficier d'une protection par le droit d'auteur.
+La protection accordée par le présent titre s'applique à toute forme d'expression d'un programme d'ordinateur. Les idées et principes à la base de tout élément d'un programme d'ordinateur, y compris ceux qui sont à la base de ses interfaces, ne sont pas protégés par le droit d'auteur.

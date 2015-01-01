@@ -1,0 +1,3 @@
+Lorsque le droit d'auteur est indivis, l'exercice de ce droit est réglé par les conventions. A défaut de conventions, aucun des auteurs ne peut l'exercer isolément, sauf aux tribunaux à se prononcer en cas de désaccord.
+Toutefois, chacun des auteurs reste libre de poursuivre, en son nom et sans l'intervention des autres, l'atteinte qui serait portée au droit d'auteur et de réclamer des dommages et intérêts pour sa part.
+Les tribunaux pourront toujours subordonner l'autorisation de publier l'oeuvre aux mesures qu'ils jugeront utiles de prescrire; ils pourront décider à la demande de l'auteur opposant, que celui-ci ne participera ni aux frais, ni aux bénéfices de l'exploitation ou que son nom ne figurera pas sur l'oeuvre.

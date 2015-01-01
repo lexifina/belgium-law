@@ -1,0 +1,2 @@
+En cas de démission du commissaire ou du réviseur dans la société de gestion, celle-ci en informe le Service de contrôle dans les cinq jours ouvrables qui suivent la notification de la démission.
+Dans les cinq jours ouvrables qui suivent la révocation par la société de gestion du mandat de commissaire ou de réviseur réalisée conformément aux dispositions du Code des Sociétés, la société de gestion porte cette révocation à la connaissance du Service de contrôle.

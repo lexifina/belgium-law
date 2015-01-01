@@ -1,0 +1,3 @@
+§ 1er. Le droit exclusif visé à l'article XI.319 naît lorsque la topographie est fixée ou codée pour la première fois.
+§ 2. Le droit exclusif vient à expiration après une période de dix ans à compter de la fin de l'année civile au cours de laquelle la topographie a fait l'objet d'une exploitation commerciale pour la première fois, où que ce soit dans le monde.
+§ 3. Lorsqu'une topographie n'a pas fait l'objet d'une exploitation commerciale où que ce soit dans le monde dans un délai de quinze ans à partir de la date à laquelle elle est fixée ou codée pour la première fois, le droit exclusif né en vertu du paragraphe 1er vient à expiration.

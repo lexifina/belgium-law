@@ -1,0 +1,16 @@
+§ 1er Les sociétés de gestion des droits ne peuvent pas établir leurs comptes annuels selon le schéma abrégé prévu à l'article 93 du Code des Sociétés du 7 mai 1999.
+Après concertation avec la Commission des Normes comptables, l'Institut des réviseurs d'entreprises et les sociétés de gestion des droits siégeant au sein du comité de concertation institué par l'article XI.282, le Roi complète et adapte les règles arrêtées en application de l'article 4, alinéa 6, de la loi du 17 juillet 1975 relative à la comptabilité des entreprises et les règles arrêtées en application de l'article 92 du Code des sociétés du 7 mai 1999 à ce que requiert le statut légal des sociétés de gestion.
+Le Roi peut différencier les règles qu'Il fixe en application de l'alinéa 2 en fonction des droits concernés.
+§ 2. Quelle que soit la forme juridique ou la taille de la société de gestion des droits, les administrateurs ou gérants des sociétés de gestion font un rapport de gestion dans lequel ils rendent compte de leur politique. Ce rapport de gestion contient les éléments prévus à l'article 96 du Code des Sociétés, ainsi que toutes les données qui selon ce titre doivent être inclus dans le rapport de gestion.
+Le premier alinéa s'applique aussi aux sociétés de gestion établies dans un autre Etat membre de l'Union européenne en ce qui concerne leurs succursales établies en Belgique. Le rapport de gestion est rédigé par la personne qui est, en Belgique, responsable pour l'administration de la succursale d'une société de gestion établie dans un autre Etat membre de l'Union européenne.
+§ 3. Sans préjudice des articles 95, 96 et 119 du Code des Sociétés, le rapport de gestion de la société de gestion reprend les informations suivantes:
+1° pour chaque rubrique de perception définie de manière homogène:
+a) le montant des droits perçus;
+b) le montant des charges directes liées à ces perceptions ainsi que le montant des charges indirectes de la société de gestion qui sont imputées à cette rubrique;
+c) le montant des droits répartis parmi les ayants droit, le montant des droits payés aux ayants droit, ainsi que le montant des droits encore à répartir.
+2° la rémunération que les ayants droit sont tenus de verser à la société de gestion en contrepartie des services de gestion prestés par la société de gestion des droits;
+3° les données financières sur base desquelles la rémunération visée au 2° est calculée;
+4° la détermination d'une part de l'ensemble des ressources de la société de gestion et d'autre part des droits perçus, et la concordance de ceux-ci avec leur utilisation respective.
+§ 4. Les sociétés de gestion des droits communiquent au Service de contrôle, pour chaque exercice comptable, dans les six mois de la clôture de l'exercice concerné, les informations visées au § 3.
+Dans le même délai, les informations visées au paragraphe 3, 1°, sont en outre reprises sur la page web de la société de gestion à un endroit clairement lisible et avec des renvois clairs au menu principal de la page web.
+§ 5. Après concertation avec la Commission des Normes comptables, l'Institut des réviseurs d'entreprises et les sociétés de gestion des droits siégeant au sein du comité de concertation institué par l'article XI.282, le Roi peut fixer des modalités selon lesquelles les données mentionnées au paragraphe 3 sont présentées.

@@ -1,0 +1,1 @@
+S'il estime que les résultats de l'examen technique suffisent pour statuer sur la demande et qu'aucun obstacle au sens des articles XI.139 et XI.141 ne s'y oppose, l'Office octroie le droit d'obtenteur et délivre un certificat d'obtenteur. La décision comporte la description officielle de la variété.

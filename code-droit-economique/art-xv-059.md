@@ -1,0 +1,6 @@
+§ 1er. Les autorités et services publics compétents se communiquent, d'initiative ou sur demande, les renseignements appropriés concernant la mise en oeuvre du titre 3, chapitre 2, section 8, sous-section 1re, et les activités qui peuvent mener à des initiatives en application de celui-ci.
+L'assistance fournie comprend en particulier la communication:
+1° des informations qui sont utiles afin de combattre, par des actions préventives et répressives, les opérations et pratiques contraires au titre 3, chapitre 2, section 8, sous section 1re;
+2° des renseignements concernant les nouvelles méthodes employées dans la réalisation d'opérations contraires au titre 3, chapitre 2, section 8, sous-section 1re, ou se rapportant à des activités et schémas d'activités illégaux;
+3° des renseignements concernant les observations réalisées par les autorités et services publics compétents et les résultats obtenus à la suite de l'application réussie de nouveaux moyens et techniques de lutte contre la contrefaçon et la piraterie de droits de propriété intellectuelle.
+§ 2. Le Roi fixe la nature des renseignements et informations visés au présent article ainsi que les modalités de leur échange entre les autorités et services publics compétents.
