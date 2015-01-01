@@ -1,0 +1,4 @@
+§ 1er. Le tribunal de commerce de Bruxelles connaît, même lorsque les parties ne sont pas commerçantes, de toutes les demandes en matière de brevet ou de certificat complémentaire de protection, quel que soit le montant de la demande.
+§ 2. Est nulle de plein droit toute convention contraire aux dispositions des paragraphes précédents.
+Les dispositions du présent article ne font toutefois pas obstacle à ce que les contestations relatives à la propriété d'une demande de brevet ou d'un brevet, à la validité ou à la contrefaçon d'un brevet ou à la fixation de l'indemnité visée à l'article XI.35 ainsi que celles relatives aux licences de brevets autres que les licences obligatoires soient portées devant les tribunaux arbitraux.
+§ 3. Les dispositions des paragraphes 1er à 2 s'appliquent mutatis mutandis aux certificats complémentaires de protection.
