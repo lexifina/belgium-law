@@ -1,0 +1,1 @@
+La date de dépôt de la demande de droit d'obtenteur est celle à laquelle une demande parvient à l'Office conformément à l'article XI.131, à condition que les conditions de l'article XI.132, § 1er, soient remplies et que la redevance due pour le dépôt en vertu de l'article XI.150, § 1er, alinéa 1er, soit payée.

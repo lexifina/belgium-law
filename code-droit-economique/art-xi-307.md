@@ -1,0 +1,3 @@
+Le producteur d'une base de données a le droit d'interdire l'extraction et/ou la réutilisation de la totalité ou d'une partie, qualitativement ou quantitativement substantielle, du contenu de cette base de données.
+Les extractions et/ou réutilisations répétées et systématiques de parties non substantielles du contenu de la base de données ne sont pas autorisées lorsqu'elles sont contraires à une exploitation normale de la base de données ou causent un préjudice injustifié aux intérêts légitimes du producteur de celle-ci.
+La première vente d'une copie d'une base de données dans l'Union européenne par le titulaire du droit ou avec son consentement, épuise le droit de contrôler la revente de cette copie dans l'Union européenne.

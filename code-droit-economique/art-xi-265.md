@@ -1,0 +1,1 @@
+Sans préjudice des dispositions spécifiques dérogatoires, les actions en paiement des droits perçus par les sociétés de gestion se prescrivent par dix ans à compter de la date de leur perception. Ce délai est suspendu à dater de leur perception jusqu'à la date de leur mise en répartition.

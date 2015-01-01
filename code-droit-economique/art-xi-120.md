@@ -1,0 +1,1 @@
+Le droit d'obtenteur s'éteint au terme de la vingt-cinquième année civile suivant celle de l'octroi du droit d'obtenteur; pour les variétés de vignes, d'arbres et de pommes de terre, il s'éteint au terme de la trentième année civile.

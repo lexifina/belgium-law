@@ -1,0 +1,3 @@
+Sans préjudice du droit de l'auteur lorsque la prestation d'un artiste-interprète ou exécutant est licitement reproduite ou radiodiffusée, l'artiste-interprète ou exécutant et le producteur ne peuvent s'opposer:
+1° à son exécution publique, à condition que cette prestation ne soit pas utilisée dans un spectacle et qu'un droit d'accès à ce lieu ou une contrepartie pour bénéficier de cette communication n'est pas perçue à charge du public;
+2° à sa radiodiffusion.

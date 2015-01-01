@@ -1,0 +1,1 @@
+Est puni d'une sanction de niveau 1 celui qui, avec une intention méchante ou frauduleuse, se prévaut indûment dans la vie des affaires de la qualité de titulaire ou de demandeur d'une marque de produit ou de service, d'un brevet d'invention, d'un certificat complémentaire de protection, d'un droit d'obtenteur, d'un dessin ou d'un modèle.

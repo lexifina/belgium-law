@@ -1,0 +1,2 @@
+§ 1er. Nonobstant l'article XI.113, § 2, les agriculteurs sont autorisés à utiliser, à des fins de multiplication dans leur propre exploitation, le produit de la récolte obtenu par la mise en culture, dans leur propre exploitation, d'une variété protégée ou d'une variété visée à l'article XI.114.
+§ 2. Les conditions permettant de donner effet à la dérogation prévue au paragraphe 1er et de sauvegarder les intérêts légitimes de l'obtenteur et de l'agriculteur sont fixées par le Roi.

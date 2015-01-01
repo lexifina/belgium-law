@@ -1,0 +1,2 @@
+Les dispositions du chapitre 9 et de la deuxième section du présent chapitre seront évaluées par l'Office au cours de la quatrième année après la date d'entrée en vigueur de la loi du 10 décembre 2009 modifiant, en ce qui concerne le statut et le contrôle des sociétés de gestion des droits, la loi du 30 juin 1994 relative au droit d'auteur et aux droits.
+Le rapport de cette évaluation est transmis à la Chambre des représentants par le ministre.

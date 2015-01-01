@@ -1,0 +1,4 @@
+§ 1. Dans l'exercice de leurs fonctions, les membres du Service de régulation agissent en toute indépendance et neutralité et ne peuvent recevoir d'instructions ou d'ordres de personne.
+§ 2. Le Roi fixe par arrêté délibéré en Conseil des ministres le statut administratif et pécuniaire des membres du Service de régulation. Le mandat des membres du Service de régulation est de cinq ans. Leur mandat est renouvelable.
+§ 3. Le Roi fixe les règles additionnelles d'organisation, de fonctionnement, de composition et de procédure qui s'appliquent au Service de régulation pour les différentes missions visées aux articles XI.275 à XI.277.
+Il fixe également le régime d'incompatibilités applicables aux membres du Service de régulation, en particulier aux personnes chargées d'une mission de médiation visée à l'article XI.277, de façon à garantir leur indépendance et leur autonomie fonctionnelle.

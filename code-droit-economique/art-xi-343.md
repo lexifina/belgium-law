@@ -1,0 +1,2 @@
+Les greffiers des cours et tribunaux ayant rendu un arrêt ou un jugement en vertu du présent livre communiquent gratuitement une copie dudit arrêt ou jugement à l'Office, au plus tard un mois après la date à laquelle l'arrêt ou le jugement a été passé en force de chose jugée ou après la date à laquelle appel a été interjeté ou opposition introduite. Il est fait mention du fait que la décision a été passée en force de chose jugée ou qu'elle a été frappée d'appel ou d'opposition.
+La même obligation vaut pour les tribunaux arbitraux.

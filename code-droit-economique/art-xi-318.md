@@ -1,0 +1,4 @@
+Toute atteinte méchante ou frauduleuse portée au droit des producteurs de bases de données constitue un délit de contrefaçon.
+Il en est de même de l'application méchante ou frauduleuse du nom d'un producteur de bases de données ou de tout signe distinctif adopté par lui pour désigner sa prestation; de telles prestations seront regardées comme étant contrefaites.
+Ceux qui, avec une intention méchante ou frauduleuse, réutilisent, mettent en dépôt pour être réutilisées ou introduisent sur le territoire belge, dans un but commercial, les bases de données contrefaites sont coupables du même délit.
+Lorsque les faits soumis au tribunal font l'objet d'une action en cessation en application de l'article XVII.14, XVII.15, XVII.18, XVII.19 en XVII.20, il ne peut être statué sur l'action pénale qu'après qu'une décision passée en force de chose jugée a été rendue relativement à l'action en cessation.

@@ -1,0 +1,2 @@
+Le Service de contrôle peut à tout moment demander au commissaire ou réviseur auprès d'une société de gestion une preuve que le commissaire ou réviseur ne fait pas l'objet d'une sanction disciplinaire.
+Le commissaire ou réviseur qui a fait l'objet d'une sanction disciplinaire informe le Service de contrôle ainsi que la société de gestion concernée de cette mesure disciplinaire dans les cinq jours ouvrables de la signification de cette mesure par l'Institut des réviseurs d'entreprises

@@ -1,0 +1,1 @@
+Sans préjudice de la section 1re, le Roi établit les dispositions et moyens propres à assurer une coordination et un suivi des actions de lutte contre la contrefaçon et la piraterie des droits de propriété intellectuelle.

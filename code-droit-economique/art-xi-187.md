@@ -1,0 +1,2 @@
+Sauf disposition contractuelle ou statutaire contraire, seul l'employeur est présumé cessionnaire des droits patrimoniaux relatifs aux bases de données créées, dans l'industrie non culturelle, par un ou plusieurs employés ou agents dans l'exercice de leurs fonctions ou d'après les instructions de leur employeur.
+Des accords collectifs peuvent déterminer l'étendue et les modalités de la présomption de cession.

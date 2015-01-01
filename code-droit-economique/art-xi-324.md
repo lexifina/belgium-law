@@ -1,0 +1,2 @@
+Le droit à la protection instauré par l'article XI.319 est accordé aux personnes physiques qui sont ressortissantes d'un Etat membre de l'Union européenne ou qui y ont leur résidence habituelle.
+Le droit à la protection accordé en vertu de l'article XI.322 est garanti aux personnes physiques visées à l'alinéa 1er et aux sociétés ou autres personnes morales qui ont un établissement industriel ou commercial effectif et sérieux sur le territoire d'un Etat membre de l'Union européenne.

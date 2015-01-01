@@ -1,0 +1,2 @@
+Sauf convention contraire, la cession d'une oeuvre d'art plastique ou graphique emporte au profit de l'acquéreur la cession du droit de l'exposer telle quelle, dans des conditions non préjudiciables à l'honneur ou à la réputation de l'auteur, mais non la cession des autres droits de l'auteur.
+Sauf convention ou usages contraires, la cession d'une oeuvre d'art plastique ou graphique emporte l'interdiction d'en réaliser d'autres exemplaires identiques.

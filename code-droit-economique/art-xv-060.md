@@ -1,0 +1,2 @@
+Tout jugement ou arrêt rendu par les cours et tribunaux en vertu du titre 3, chapitre 2, section 8, sous-section 1re, est communiqué gratuitement, par lettre ordinaire, à l'Office de la Propriété intellectuelle dans le mois du prononcé de la décision, et à la diligence du greffier de la juridiction compétente.
+Le greffier est également tenu d'aviser sans délai l'Office de la Propriété intellectuelle de tout recours introduit contre pareille décision.

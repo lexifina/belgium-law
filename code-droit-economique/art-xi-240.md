@@ -1,0 +1,3 @@
+Les auteurs et les éditeurs d'oeuvres ont droit à une rémunération en raison de la reproduction et de la communication de celles-ci dans les conditions fixées aux articles XI.190, 7° et 8° et XI.191, § 1er, 3°.
+Les auteurs de bases de données ont droit à une rémunération en raison de la communication de celles-ci dans les conditions fixées à l'article XI.191, § 1er, 4°.
+Les artistes-interprètes ou exécutants, les producteurs de phonogrammes et les producteurs de premières fixations de films ont droit à une rémunération en raison de la reproduction et de la communication de leurs prestations dans les conditions fixées à l'article XI.217, 5° et 6°.

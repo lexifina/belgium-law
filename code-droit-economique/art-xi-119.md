@@ -1,0 +1,4 @@
+§ 1er. Le titulaire ne peut utiliser un droit conféré en ce qui concerne une dénomination identique à la dénomination variétale pour entraver la libre utilisation de cette dénomination en relation avec cette variété, même après l'extinction du droit d'obtenteur.
+§ 2. Un tiers peut utiliser un droit conféré en ce qui concerne une dénomination identique à la dénomination variétale pour entraver la libre utilisation de cette dénomination uniquement si ce droit a été accordé avant l'attribution de la dénomination variétale conformément à l'article XI.143.
+§ 3. Lorsqu'une variété bénéficie d'un droit d'obtenteur, la dénomination qui lui a été attribuée ou toute autre dénomination avec laquelle elle pourrait être confondue ne peut être utilisée, sur le territoire de l'Union européenne, en relation avec une autre variété de la même espèce botanique ou d'une espèce voisine ou pour le matériel de cette autre variété.
+Le Roi définit les espèces considérées comme voisines.

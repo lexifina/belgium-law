@@ -1,0 +1,1 @@
+Les contrats de licence de droits conclus par les sociétés de gestion de droits et les utilisateurs d'oeuvres et de prestations protégées prévoient des critères objectifs et non-discriminatoires en particulier en ce qui concerne les tarifs convenus.
