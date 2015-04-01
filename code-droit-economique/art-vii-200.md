@@ -1,0 +1,2 @@
+En cas de non respect des dispositions visées aux articles VII. 106, § 4, VII. 86, §§ 2 à 4, et VII. 99, le consommateur est relevé de plein droit des intérêts et frais se rapportant à la période sur laquelle porte l'infraction.
+Si nonobstant, l'interdiction énoncée à l'article VII. 87, § 3, le consommateur a procédé à la reconstitution du capital du crédit, il peut exiger le remboursement immédiat du capital reconstitué, y compris les intérêts acquis ou bien le remboursement du crédit, à concurrence du capital reconstitué, y compris les intérêts acquis.

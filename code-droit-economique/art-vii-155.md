@@ -1,0 +1,1 @@
+La Banque est habilitée à demander aux personnes à qui les renseignements de la Centrale peuvent être fournis, le remboursement des frais qu'elle expose pour la collecte, l'enregistrement, la gestion, le contrôle et la diffusion des données de la Centrale.

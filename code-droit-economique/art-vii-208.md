@@ -1,0 +1,1 @@
+Aucune commission n'est due lorsque le contrat de crédit est résolu, résilié ou fait l'objet d'une déchéance du terme et que l'intermédiaire de crédit n'a pas respecté les dispositions de l'article VII. 114.

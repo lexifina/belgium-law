@@ -1,0 +1,1 @@
+S'il n'est pas satisfait à l'obligation contenue dans l'article VII. 135, alinéa 1er, les droits du prêteur et les obligations du consommateur sont réduits à la partie du capital effectivement payée en espèces ou en monnaie scripturale.

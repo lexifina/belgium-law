@@ -1,0 +1,3 @@
+Selon les modalités fixées par le Roi, chaque consommateur et chaque personne qui constitue une sûreté a accès, sans frais, aux données enregistrées à son nom et peut librement et sans frais demander la rectification des données erronées.
+En cas de demande de rectification, la Banque est tenue de la transmettre à la personne visée à l'article VII. 149, alinéas 1er et 3, qui a communiqué les données et qui est responsable du contenu exact. Le cas échéant, cette personne demande à la Centrale la correction des données enregistrées.
+En cas de rectification, la Banque est tenue de communiquer cette rectification aux personnes qui ont obtenu des renseignements de la Centrale et que la personne enregistrée indique.

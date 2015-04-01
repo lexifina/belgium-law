@@ -1,0 +1,5 @@
+§ 1er. Le Roi peut fixer le délai maximum de remboursement du crédit en fonction du montant emprunté et du type de crédit.
+§ 2. Les ouvertures de crédit à durée indéterminée ou à durée déterminée de plus de cinq ans doivent fixer un délai de zérotage dans lequel le montant total à rembourser doit être payé. Le Roi peut fixer un délai maximum de zérotage.
+§ 3. Si un contrat de crédit, remboursable par montants de terme constants, autorise la variabilité du taux débiteur, il stipule qu'en cas d'adaptation, le consommateur peut exiger le maintien du montant de terme, ainsi que la prolongation ou la réduction du délai de remboursement convenu. L'exercice de ce droit peut conduire au dépassement du délai maximum de remboursement visé au § 1er.
+Préalablement à la conclusion du contrat de crédit, le prêteur informe expressément le consommateur de ce droit.
+§ 4. Au plus tard deux mois avant l'expiration du délai de zérotage, le prêteur en avertit le consommateur au moyen de tout moyen de communication utile.

@@ -1,0 +1,12 @@
+§ 1er. Si le prêteur ne respecte pas les obligations ou interdictions contenues dans le titre 4, chapitre 2, ou dans ses arrêtés d'exécution, le consommateur peut rembourser le crédit à tout moment et sans indemnité quelconque à sa charge. Si le consommateur fait usage de ce droit et qu'il n'est pas possible de déterminer le taux débiteur parce que l'acte constitutif n'indique pas les éléments nécessaires, les intérêts courus sont calculés au taux légal.
+L'alinéa précédent ne s'applique pas lorsque le prêteur prouve que le non-respect visé ne porte pas préjudice au consommateur.
+§ 2. Le droit visé au paragraphe 1er ne porte pas préjudice aux autres droits et recours que le consommateur peut faire valoir.
+§ 3. Sans préjudice des sanctions de droit commun, les obligations de l'emprunteur sont réduites de plein droit au montant emprunté lorsqu'un contrat de crédit a été conclu:
+a) par un prêteur non inscrit, enregistré ou agréé conformément aux dispositions légales ou réglementaires applicables au moment de l'octroi du prêt hypothécaire;
+b) par un prêteur qui avait préalablement renoncé à cette inscription, enregistrement ou agrément;
+c) par un prêteur dont l'agrément, l'inscription ou l'enregistrement avait été préalablement retiré, radié, révoqué ou suspendu ou qui avait encouru une interdiction en vertu de l'article XV.67/3;
+d) par l'entremise d'un intermédiaire de crédit non inscrit, ou dont l'inscription avait été préalablement radiée ou suspendue ou qui avait encouru une interdiction en vertu de l'article XV.68.
+Dans ces cas, l'emprunteur conserve le bénéfice du terme et de l'échelonnement du remboursement.
+§ 4. Le paragraphe 3 n'est pas applicable:
+- lorsque le prêteur concerné est un établissement de crédit relevant du droit d'un autre Etat membre de l'EEE, ou un établissement financier visé à l'article 78 de la loi du 22 mars 1993 qui est habilité en vertu de son droit national à accorder des contrats de crédit hypothécaire dans son Etat membre d'origine, et qui exerce ses activités en Belgique par le biais de l'établissement d'une succursale ou de la libre prestation de services sans que les formalités imposées à cet effet par les directives européennes applicables n'aient été respectées;
+- lorsque l'intermédiaire concerné est un intermédiaire en crédit hypothécaire visé à l'article VII. 183, § 2, et que les formalités imposées par les directives européennes applicables n'ont pas été respectées.
