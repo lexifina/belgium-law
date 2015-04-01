@@ -1,0 +1,1 @@
+Aucune indemnité autre que celles prévues à l'article VII. 133, ni une rémunération de négociation quels qu'en soient la dénomination, la forme ou le bénéficiaire ne peuvent être mises à charge du demandeur de crédit ou du consommateur.

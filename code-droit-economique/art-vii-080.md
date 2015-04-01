@@ -1,0 +1,2 @@
+La durée du crédit-bail est déterminée. Le transfert de propriété ou la levée de l'option d'achat constitue le terme de l'opération de crédit.
+Le prêteur avertit le consommateur par lettre recommandée à la poste qu'il a la faculté de lever l'option d'achat un mois avant la dernière date convenue à cet effet. Lorsque l'option d'achat n'est pas levée ou lorsque le transfert de propriété ne se réalise pas, le crédit-bail ne peut être transformé en bail que moyennant la conclusion d'un contrat de bail.

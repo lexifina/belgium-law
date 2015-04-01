@@ -1,0 +1,3 @@
+Afin de compléter les informations obtenues lors de la consultation visée à l'article VII. 77, § 1er, alinéa 2:
+1° la Banque est habilitée à interroger pour compte des prêteurs le fichier des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, visé à l'article 1389bis/1 du Code judiciaire. Le Roi détermine les données qui peuvent être consultées;
+2° le Roi peut habiliter la Banque, aux conditions qu'Il détermine, à interroger pour compte des prêteurs d'autres fichiers centralisant des dettes impayées à charge des consommateurs. Dans ce cas, le Roi détermine les données qui peuvent être consultées;

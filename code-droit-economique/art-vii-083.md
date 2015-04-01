@@ -1,0 +1,11 @@
+§ 1er. Le consommateur a le droit de renoncer au contrat de crédit pendant un délai de quatorze jours, sans donner de motif. Le délai de ce droit de rétractation commence à courir:
+1° le jour de la conclusion du contrat de crédit, ou
+2° le jour où le consommateur reçoit les clauses et conditions contractuelles ainsi que les informations visées à l'article VII. 78, si cette date est postérieure à celle visée au 1° du présent alinéa.
+§ 2. Lorsque le consommateur exerce son droit de rétractation:
+1° il le notifie au prêteur, par lettre recommandée à la poste ou par tout autre support accepté par le prêteur conformément à l'article VII. 78, § 3, 11°. Le délai est réputé respecté si la notification a été envoyée avant l'expiration de celui-ci et
+2° en cas de contrat de crédit pour lequel, en vertu de ce contrat, des biens sont mis à la disposition du consommateur, il restitue, immédiatement après la notification de la rétractation, les biens qu'il a reçus et paie au prêteur les intérêts dus pour la période de prélèvement du crédit;
+3° pour les autres contrats de crédit, il paie au prêteur le capital et les intérêts cumulés sur ce capital depuis la date à laquelle le crédit a été prélevé jusqu'à la date à laquelle le capital est payé, sans retard indu et au plus tard trente jours calendaires après avoir envoyé la notification de la rétractation au prêteur.
+Les intérêts dus sont calculés sur base du taux débiteur convenu. Le prêteur n'a droit à aucune autre indemnité versée par le consommateur, excepté une indemnité pour les frais non récupérables que le prêteur aurait payés à une institution publique. Les paiements qui sont effectués après la conclusion du contrat de crédit sont remboursés au consommateur dans les trente jours suivant la rétractation.
+§ 3. La rétractation du contrat de crédit entraîne la résolution de plein droit des contrats de services accessoire.
+§ 4. Si le consommateur invoque le droit de rétractation visé au présent article, les articles VI. 58, VI. 59, et VI. 67, ne s'appliquent pas.
+§ 5. Le présent article ne s'applique pas aux contrats de crédit dont le présent livre exige qu'ils soient conclus par-devant notaire, pour autant que le notaire confirme que le consommateur jouit des droits visés aux articles VII.70, VII.74 et VII.78.

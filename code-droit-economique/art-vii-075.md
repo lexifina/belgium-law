@@ -1,0 +1,1 @@
+Le prêteur et l'intermédiaire de crédit sont tenus de rechercher, dans le cadre des contrats de crédit qu'ils offrent habituellement ou pour lesquels ils interviennent habituellement, le type et le montant du crédit les mieux adaptés, compte tenu de la situation financière du consommateur au moment de la conclusion du contrat et du but du crédit.

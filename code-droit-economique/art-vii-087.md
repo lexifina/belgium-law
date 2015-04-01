@@ -1,0 +1,5 @@
+§ 1er. Il est interdit au prêteur et à l'intermédiaire de crédit d'imposer au consommateur, dans le cadre de la conclusion d'un contrat de crédit, de souscrire un autre contrat auprès du prêteur, de l'intermédiaire de crédit ou auprès d'une tierce personne désignée par ceux-ci.
+La charge de la preuve que le consommateur a eu le libre choix en rapport avec la conclusion de tout contrat de service accessoire conclu en même temps que le contrat de crédit incombe au prêteur et à l'intermédiaire de crédit.
+§ 2. Il est également interdit au prêteur et à l'intermédiaire de crédit de stipuler à charge du consommateur, lors de la conclusion d'un contrat de crédit, l'obligation de mettre le capital emprunté, en tout ou en partie, en gage ou de l'affecter, en tout ou en partie, à la constitution d'un dépôt ou à l'achat de valeurs mobilières ou d'autres instruments financiers.
+§ 3. Le système de reconstitution du capital est interdit.
+§ 4. Toute clause contraire au présent article est réputée non écrite.

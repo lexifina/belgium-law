@@ -1,0 +1,2 @@
+L'octroi d'un crédit hypothécaire ne peut être subordonné directement ou indirectement à l'obligation de souscrire un contrat d'assurance ou de capitalisation ou à la constitution d'une épargne, si ce n'est par un contrat adjoint ou annexé visé par les articles VII. 125 et VII. 126.
+Lorsqu'un capital d'assurance, de capitalisation ou d'épargne est affecté à titre de garantie complémentaire, autrement que sur la base d'un contrat adjoint, il ne saurait s'ensuivre d'obligation de payer des primes ou d'effectuer des opérations d'épargne.

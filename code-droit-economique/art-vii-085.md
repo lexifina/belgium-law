@@ -1,0 +1,1 @@
+Est interdite et réputée non écrite toute clause figurant dans un contrat de crédit qui autorise le prêteur à réclamer une indemnité au consommateur, lorsqu'il n'a pas prélevé en tout ou en partie le montant du crédit octroyé.

@@ -1,0 +1,1 @@
+Lorsque, malgré l'interdiction visée à l'article VII. 90, § 1er, alinéa 1er, le prêteur ou l'intermédiaire de crédit verse une somme ou effectue une livraison d'un bien ou d'un service, le consommateur n'est pas tenu de restituer la somme versée, de payer le service ou le bien livré ni de restituer ce dernier.

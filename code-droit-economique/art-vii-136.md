@@ -1,0 +1,2 @@
+§ 1er. Lorsque le consommateur remet en gage, en tout ou en partie, le capital au prêteur, les sommes mises en gage portent intérêt au profit du consommateur au taux débiteur du crédit. En cas de remboursement du crédit, les sommes mises en gage et leurs intérêts compensent la créance du prêteur.
+§ 2. En cas de dissolution légale ou judiciaire ou de faillite du prêteur, les sommes mises en gage et leurs intérêts sont affectés par compensation à la réduction de la créance du prêteur sans qu'une indemnité soit due.

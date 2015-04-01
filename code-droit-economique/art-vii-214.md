@@ -1,0 +1,1 @@
+Lorsque, par suite d'inobservation de l'article VII. 140, § 2, les obligations résultant de l'adjonction ne sont pas indiquées dans le contrat adjoint, celui-ci perd ce caractère et le consommateur n'est tenu à aucune reconstitution.

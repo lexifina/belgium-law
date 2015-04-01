@@ -1,0 +1,1 @@
+La reprise du bien meuble corporel effectuée en infraction aux dispositions de l'article VII. 108 entraîne la résolution du contrat de crédit. Le prêteur est tenu de rembourser la totalité des sommes versées endéans les trente jours.

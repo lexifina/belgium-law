@@ -1,2 +1,1 @@
-§ 1er. Sont punis d'une sanction du niveau 2, ceux qui enfreignent les articles XVI.2 à XVI.4, §§ 1er et 2.
-§ 2. Sont punis d'une sanction du niveau 3, ceux qui, de mauvaise foi, enfreignent les articles XVI.2 à XVI.4, §§ 1er et 2.
+Le juge peut ordonner l'interdiction définitive ou temporaire de pratiquer, même pour le compte d'autrui, des opérations réglementées par le livre VII titre 4, chapitre 1er.

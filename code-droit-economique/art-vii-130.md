@@ -1,0 +1,3 @@
+En dehors des frais légaux inhérents à l'hypothèque et de ce qui pourrait être dû en vertu d'autres dispositions légales ou réglementaires, ne peuvent être mis à charge du demandeur de crédit ou du consommateur que des frais de constitution de dossier et des frais d'expertise des biens offerts en garantie.
+Les frais d'expertise ne sont dus que si l'expertise a eu lieu. Les frais de dossier ne sont dus qu'après que l'offre visée à l'article VII. 133 a été faite. Dans le cas contraire, toute avance doit être remboursée.
+Si les frais d'expertise sont mis à la charge du demandeur de crédit, ils lui sont communiqués au préalable. Il reçoit sans délai une copie du rapport d'expertise.

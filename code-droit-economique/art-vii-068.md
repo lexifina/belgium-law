@@ -1,0 +1,1 @@
+Il est interdit au vendeur de biens ou de services de lier une diminution de prix à un prélèvement de crédit, à l'utilisation d'une ouverture de crédit ou d'une carte ou instrument de paiement y liée.

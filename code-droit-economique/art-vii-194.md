@@ -1,0 +1,1 @@
+Sans préjudice des sanctions de droit commun, le juge annule le contrat ou réduit les obligations du consommateur au maximum jusqu'au prix du bien ou du service au comptant ou au montant emprunté, en conservant dans ce cas le bénéfice de l'échelonnement des paiements, lorsque le contrat de crédit a été conclu à la suite d'une méthode de vente illicite visée à l'article VII. 67.

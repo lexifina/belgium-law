@@ -1,0 +1,2 @@
+Tout intermédiaire de crédit doit informer le consommateur de sa qualité d'intermédiaire de crédit, ainsi que de la nature et de l'étendue de ses pouvoirs, tant dans sa publicité que sur les documents destinés à la clientèle. Cette information porte notamment sur la qualité de courtier de crédit ou d'agent lié.
+L'agent lié indique les éléments d'identification du prêteur dans tous les documents destinés à la clientèle.
