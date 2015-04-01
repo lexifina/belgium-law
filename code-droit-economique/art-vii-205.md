@@ -1,0 +1,1 @@
+Celui qui, en violation de l'article VII. 88, fait signer une lettre de change ou un billet à ordre ou accepte un chèque en paiement ou à titre de garantie du remboursement total ou partiel du montant du, est tenu de rembourser au consommateur le coût total du crédit pour le consommateur.

@@ -1,0 +1,1 @@
+En cas de cession ou de subrogation pour la créance résultant du contrat de crédit, le consommateur conserve à l'égard du cessionnaire ou du créancier subrogé les moyens de défense, en ce compris le recours à la compensation, qu'il peut opposer au cédant ou au subrogeant. Toute clause contraire est réputée non écrite.

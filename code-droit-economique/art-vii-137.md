@@ -1,0 +1,2 @@
+Il est interdit de subordonner directement ou indirectement un crédit hypothécaire à l'obligation d'acheter, d'échanger ou de souscrire, sous quelque forme que ce soit, des valeurs mobilières, telles que des obligations, des actions, des parts ou participations.
+L'interdiction visée à l'alinéa précédent ne s'applique pas à la souscription aux parts de la société coopérative ou mutuelle qui accorde le crédit, pour autant que le montant de l'inscription ou du versement n'excède pas deux pour cent du capital du crédit.

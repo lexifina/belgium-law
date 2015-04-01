@@ -1,0 +1,2 @@
+Le consommateur a le droit de rembourser en tout ou en partie et à tout moment le solde du capital restant dû par anticipation. Dans ce cas, il a droit à une réduction du coût total du crédit pour le consommateur, qui correspond aux intérêts et frais dus pour la durée résiduelle du contrat.
+Le consommateur qui souhaite rembourser, en tout ou en partie, anticipativement son crédit, avise le prêteur de son intention par lettre recommandée à la poste, au moins dix jours avant le remboursement.

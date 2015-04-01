@@ -15,5 +15,5 @@ Cela vaut notamment pour des services liés aux:
 - contrats d'échange ("swaps") sur taux d'intérêt ou sur devises et contrats d'échange sur des flux liés à des actions ou à des indices d'actions ("equity swaps");
 - options visant à acheter ou à vendre les instruments visés par le présent point, y compris les instruments équivalents donnant lieu à un règlement en espèces, en particulier les options sur devises et sur taux d'intérêt;
 2° aux contrats exécutés intégralement par les deux parties, à la demande expresse du consommateur, avant que ce dernier n'exerce son droit de rétractation;
-3° aux contrats de crédit hypothécaire soumis à la loi du 4 août 1992 relative au crédit hypothécaire.
+3° aux contrats de crédit hypothécaire soumis au livre VII, titre 4, chapitre 2.
 § 3. Si un autre contrat relatif à des services financiers prestés par un fournisseur ou un tiers sur la base d'un accord entre le tiers et l'entreprise a été adjoint à un contrat à distance portant sur un service financier donné, ce contrat additionnel est résilié, sans pénalité, si le consommateur exerce son droit de rétractation visé au paragraphe 1er.
