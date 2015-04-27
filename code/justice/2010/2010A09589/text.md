@@ -1427,9 +1427,11 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire, le liquidateur ou le curateur qui, en contravention à la loi du 26 juin 2002 relative aux fermetures d'entreprises, ne paye pas l'indemnité de fermeture dans les délais légaux et selon les conditions prescrites aux travailleurs qui remplissent les conditions d'octroi de l'indemnité.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.171" href="#Art.170">Art.</a> <a href="#Art.171/1"> 171</a>. La liaison de la rémunération à l'indice des prix à la consommation
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 30 mars 1994 portant des dispositions sociales, n'a pas respecté le mode d'indexation prescrit par la loi précitée du 30 mars 1994 et ses arrêtés d'exécution.
-L'amende est multipliée par le nombre de travailleurs concernés.
+<a name="Art.171" href="#Art.170">Art.</a> <a href="#Art.171/1"> 171</a>.[<sup>1</sup> La liaison de la rémunération à l'indice des prix à la consommation
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui n'a pas respecté le mode d'indexation prescrit par les articles 2 à 2quater de l'arrêté royal du 23 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays.
+L'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015042301" target="_blank">2015-04-23/01</a>, art. 6, 013; En vigueur : 27-04-2015&gt;
 
 <a name="Art.171/1" href="#Art.171">Art.</a> <a href="#Art.171/2"> 171/1</a>.[<sup>1</sup> Est puni d'une sanction de niveau 2, le responsable solidaire au sens du chapitre VI/1, [<sup>2</sup> section 1ère]<sup>2</sup> de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, qui, conformément au prescrit de l'article 35/3, § 1er, de cette même loi, a été sommé de payer la rémunération, mais qui ne procède pas au paiement dans un délai de cinq jours ouvrables suivant l'envoi de la sommation.]<sup>1</sup>
 ----------
