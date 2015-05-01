@@ -1456,11 +1456,15 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 
 <a name="LNK0061" href="#LNKR0061">Section 4.</a> - Le congé-éducation
 
-<a name="Art.173" href="#Art.172">Art.</a> <a href="#LNK0062"> 173</a>. Le congé-éducation
+<i>Section 4. - (REGION FLAMANDE)<br>  &lt;Abrogée par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015042405" target="_blank">2015-04-24/05</a>, art. 42, 014; En vigueur : 01-05-2015&gt; </i>
+
+<a name="Art.173" href="#Art.172">Art.</a> <a href="#LNK0062"> 173</a>.Le congé-éducation
 § 1er. Est punie d'une sanction de niveau 1, toute personne qui fournit des renseignements inexacts en vue de l'application des règles relatives au congé-éducation énoncées dans la section 6 du chapitre IV de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales et dans ses arrêtés d'exécution.
 L'amende est multipliée par le nombre de travailleurs concernés.
 § 2. Est puni d'une sanction de niveau 1, l'employeur, son préposé ou son mandataire qui, en violation de la section 6 du chapitre IV de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, refuse au travailleur qui a régulièrement introduit une demande de congé-éducation le droit de s'absenter pour suivre les cours.
 L'amende est multipliée par le nombre de travailleurs concernés.
+
+<i>Art. 173. (REGION FLAMANDE)<br>  &lt;Abrogé par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015042405" target="_blank">2015-04-24/05</a>, art. 42, 014; En vigueur : 01-05-2015&gt;</i>
 
 <a name="LNK0062" href="#LNKR0062">Section 5.</a> - Les règles en matière de sanctions disciplinaires
 
@@ -1541,10 +1545,12 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
 <a name="LNK0067" href="#LNKR0067">Section 3/1.</a> [<sup>1</sup> - Les titres-services]<sup>1</sup>
+
+<i>Section 3/1. (REGION FLAMANDE)<br>  &lt;Abrogée par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015042405" target="_blank">2015-04-24/05</a>, art. 43, 014; En vigueur : 01-05-2015&gt;</i>
 ----------
 (<font color="red">1</font>)&lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 15, 006; En vigueur : 24-12-2012&gt;
 
-<a name="Art.177/1" href="#Art.177">Art.</a> <a href="#LNK0068"> 177/1</a>. [<sup>1</sup> Les titres services
+<a name="Art.177/1" href="#Art.177">Art.</a> <a href="#LNK0068"> 177/1</a>.[<sup>1</sup> Les titres services
 § 1er. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité :
 1° effectue, dans le cadre de travaux ou de services de proximité, des activités qui ne sont pas autorisées par la décision d'agrément;
 2° accepte des titres-services en paiement d'activités qui ne sont pas des travaux ou des services de proximité;
@@ -1566,6 +1572,8 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 En ce qui concerne les infractions visées à l'alinéa 1er, 1°, 2° et 3°, l'amende est multipliée par le nombre de travailleurs concernés.
 § 4. Sont punis d'une sanction de niveau 3, l'utilisateur et le travailleur qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, ont participé sciemment et volontairement à une infraction visée aux §§ 1er ou 2 commise par un employeur, son préposé ou son mandataire.
 § 5. Sont punis d'une sanction de niveau 2, l'utilisateur et le travailleur qui, en contravention à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, ont participé sciemment et volontairement à une infraction visée au § 3 commise par un employeur, son préposé ou son mandataire.]<sup>1</sup>
+
+<i>Art. 177/1. (REGION FLAMANDE)<br>  &lt;Abrogé par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015042405" target="_blank">2015-04-24/05</a>, art. 43, 014; En vigueur : 01-05-2015&gt; </i>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 16, 006; En vigueur : 24-12-2012&gt;
 
