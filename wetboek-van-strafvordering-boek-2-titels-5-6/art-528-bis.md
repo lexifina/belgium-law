@@ -1,0 +1,1 @@
+De verzoeker tot regeling van rechtsgebied kan zijn zaak bepleiten zoals in burgerlijke zaken. Na het openbaar ministerie te hebben gehoord, doet het hof de einduitspraak of beveelt naar gelang van de omstandigheden bij een voorbereidend arrest, dat de memorie vooraf aan de tegenpartij zal worden meegedeeld.

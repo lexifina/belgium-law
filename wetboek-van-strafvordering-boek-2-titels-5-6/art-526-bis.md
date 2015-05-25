@@ -1,0 +1,1 @@
+Er is eveneens grond tot regeling van rechtsgebied door het Hof van Cassatie wanneer onderscheiden onderzoeksrechters kennis nemen van eenzelfde misdrijf of samenhangende misdrijven waarvoor de uitoefening van de strafvordering geschiedt door de federale procureur.
