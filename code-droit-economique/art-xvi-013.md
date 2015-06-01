@@ -1,0 +1,1 @@
+Le Service de médiation pour le consommateur institue un point de contact pour l'information sur les droits et obligations réciproques des consommateurs et des entreprises en particulier sur les procédures existantes de règlement extrajudiciaire des litiges de consommation.

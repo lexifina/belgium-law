@@ -1,0 +1,4 @@
+§ 1er. Le Service public fédéral Economie, P.M.E., Classes moyennes et Energie établit la liste des entités qui procèdent au règlement extrajudiciaire des litiges de consommation et qui répondent aux conditions visées à l'article XVI.25 et la publie sur son site web.
+Cette liste est communiquée à la Commission européenne.
+§ 2. L'entité qui souhaite figurer sur la liste visée au paragraphe 1er adresse une demande au Service public fédéral Economie, P.M.E., Classes moyennes et Energie. Cette demande contient toutes les données nécessaires à démontrer qu'il est satisfait aux conditions énumérées à l'article XVI.25, § 1er.
+§ 3. Lorsqu'une entité reprise sur la liste visée au paragraphe 1er ne satisfait plus aux conditions du présent titre, elle est rayée de la liste. L'entité est entendue avant d'être éventuellement retirée de la liste.
