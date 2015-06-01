@@ -1,0 +1,2 @@
+Les personnes qui sont en charge d'une procédure de règlement extrajudiciaire des litiges de consommation communiquent sans délai à l'entité qualifiée et/ou aux parties concernées toute circonstance susceptible d'affecter ou d'être considérée comme affectant leur indépendance et leur impartialité ou de donner lieu à un conflit d'intérêts avec l'une ou l'autre partie.
+Le Roi précise les règles d'application de l'alinéa précédent.

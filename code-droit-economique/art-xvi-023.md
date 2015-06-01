@@ -1,0 +1,3 @@
+§ 1er. Les membres du personnel qui sont associés aux procédures de règlement extrajudiciaire des litiges de consommation en application de l'article XVI.6, 2° et 3°, possèdent des connaissances suffisantes dans le domaine du règlement des litiges de consommation.
+Le Roi peut préciser les règles pour l'application de l'alinéa précédent.
+§ 2. Les membres du personnel visés au paragraphe 1er communiquent sans délai au Comité de direction visé à l'article XVI.8, § 1er, toute circonstance susceptible d'affecter ou d'être considérée comme affectant leur indépendance et leur impartialité ou de donner lieu à un conflit d'intérêts avec l'une ou l'autre partie à une procédure de règlement extrajudiciaire d'un litige de consommation à laquelle ils sont associés.
