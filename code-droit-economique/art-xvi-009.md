@@ -1,0 +1,2 @@
+Les membres informent le Comité de direction sans délai de toute circonstance susceptible d'affecter ou de pouvoir affecter leur indépendance ou leur impartialité ou de donner lieu à un conflit d'intérêts avec l'une ou l'autre partie à une procédure de règlement extrajudiciaire d'un litige de consommation dont ils sont chargés en application de l'article XVI.6, 3°.
+A cette fin, le membre concerné renonce à la participation à la délibération du Comité de direction ou ce dernier remplace le membre concerné par un autre membre.

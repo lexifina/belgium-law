@@ -1,0 +1,2 @@
+§ 1er. Le Service de médiation pour le consommateur peut, dans le cadre d'une demande introduite auprès de lui, prendre connaissance sur place des livres, correspondances, rapports et, en général, de tout document et écrit de l'entreprise concernée, qui ont un rapport direct avec l'objet de la demande. Il peut demander toute explication et information utiles aux administrateurs, agents et préposés de l'entreprise, et procéder à toute vérification utile pour l'enquête.
+§ 2. Le Service de médiation pour le consommateur peut se faire assister par des experts.
