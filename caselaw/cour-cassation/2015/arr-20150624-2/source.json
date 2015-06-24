@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2015:ARR.20150624.2",
+  "ecli": "ECLI:BE:CASS:2015:ARR.20150624.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2015-06-24",
+  "date_as_printed": "Jugement/arrêt du 24 juin 2015",
+  "published_on_juportal": "2015-07-13",
+  "language": "fr",
+  "role_number": "P.15.0284.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Interruption",
+    "VERJARING - STRAFZAKEN - Strafvordering - Stuiting",
+    "Actes interruptifs - Plusieurs infractions - Connexité intrinsèque - Conséquence",
+    "CONNEXITE",
+    "SAMENHANG",
+    "Matière répressive - Action publique - Prescription - Actes interruptifs - Plusieurs infractions - Connexité intrinsèque - Conséquence",
+    "Faits connexes - Actes interruptifs - Notion - Actes visant d'autres personnes que celle poursuivie ou s'avérant impuissants à fonder une condamnation - Effet",
+    "Matière répressive - Action publique - Prescription - Interruption - Faits connexes - Actes interruptifs - Notion - Actes visant d'autres personnes que celle poursuivie ou s'avérant impuissants à fonder une condamnation - Effet",
+    "Verjaringsstuitende daden - Verschillende misdrijven - Intrinsieke samenhang - Gevolg",
+    "Strafzaken - Strafvordering - Verjaring - Verjaringsstuitende daden - Verschillende misdrijven - Intrinsieke samenhang - Gevolg",
+    "Samenhangende feiten - Verjaringsstuitende daden - Begrip - Daden gericht op andere personen dan de vervolgde persoon of waarop geen veroordeling kan worden gegrond - Uitwerking",
+    "Strafzaken - Strafvordering - Verjaring - Stuiting - Samenhangende feiten - Verjaringsstuitende daden - Begrip - Daden gericht op andere personen dan de vervolgde persoon of waarop geen veroordeling kan worden gegrond - Uitwerking"
+  ],
+  "fiche": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Interruption",
+    "Actes interruptifs - Plusieurs infractions - Connexité intrinsèque - Conséquence",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 22 - 01 Lien ELI No pub 1878041750 Code d'instruction criminelle - 17-11-1808 - Art. 226 et 227 - 30 Lien ELI No pub 1808111701",
+    "CONNEXITE",
+    "Matière répressive - Action publique - Prescription - Actes interruptifs - Plusieurs infractions - Connexité intrinsèque - Conséquence",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 22 - 01 Lien ELI No pub 1878041750 Code d'instruction criminelle - 17-11-1808 - Art. 226 et 227 - 30 Lien ELI No pub 1808111701",
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Interruption",
+    "Faits connexes - Actes interruptifs - Notion - Actes visant d'autres personnes que celle poursuivie ou s'avérant impuissants à fonder une condamnation - Effet",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 22 - 01 Lien ELI No pub 1878041750 Code d'instruction criminelle - 17-11-1808 - Art. 226 et 227 - 30 Lien ELI No pub 1808111701",
+    "CONNEXITE",
+    "Matière répressive - Action publique - Prescription - Interruption - Faits connexes - Actes interruptifs - Notion - Actes visant d'autres personnes que celle poursuivie ou s'avérant impuissants à fonder une condamnation - Effet",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 22 - 01 Lien ELI No pub 1878041750 Code d'instruction criminelle - 17-11-1808 - Art. 226 et 227 - 30 Lien ELI No pub 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2015:ARR.20150624.2",
+  "source_sha256": "9f53413a036cca87a83c39f1caccdecf2b0a91af1f24e66c7b9c72478f3a4daf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2015:ARR.20150624.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
