@@ -7,5 +7,5 @@ Si une affaire ne peut être attribuée à un assesseur vice-président ou à un
 § 2. L'assesseur vice-président, qui est d'un autre rôle linguistique que le président, et les assesseurs, au nombre maximum de 20, sont nommés pour un mandat renouvelable de six ans par le Roi par arrêté délibéré en Conseil des Ministres.
 Ils sont répartis en deux listes de même nombre, par ordre alphabétique, selon le groupe linguistique néerlandais ou français, déterminé par la langue du diplôme de master, auquel ils appartiennent.
 Sur chaque liste, les diplômes des assesseurs seront mentionnés.
-§ 3. Pour pouvoir être nommé assesseur vice-président ou assesseur, le candidat doit satisfaire aux conditions de nominations fixées pour le président visé à l'article IV.17.
+§ 3. Pour pouvoir être nommé assesseur vice-président ou assesseur, le candidat doit satisfaire aux conditions de nomination fixées pour le président visé à l'article IV.17.
 § 4. L'assesseur vice-président et les assesseurs qui siègent dans une affaire ne peuvent accepter aucune instruction lors de la prise de décision en exécution des tâches que le présent livre leur confère et en particulier la section 2 de ce chapitre.

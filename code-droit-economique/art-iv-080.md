@@ -8,7 +8,8 @@ Le délai de prescription en ce qui concerne la procédure d'instruction et de d
 1° trois ans en ce qui concerne les infractions aux dispositions relatives aux demandes de renseignements ou à l'exécution de perquisitions;
 2° cinq ans en ce qui concerne les autres infractions.
 Le délai de prescription court à compter du jour où l'infraction a été commise. Toutefois, pour les infractions continues ou répétées, ce délai ne court qu'à compter du jour où la dernière infraction a pris fin.
-Le délai de prescription en matière d'imposition d'amendes ou d'astreintes est interrompu par tout acte de l'auditorat ou du Collège de la concurrence ou, s'agissant de l'application des articles 101 et 102 TFUE, d'une autorité de concurrence d'un Etat membre visant à l'instruction ou à la poursuite de l'infraction. L'interruption du délai de prescription prend effet le jour où l'acte est notifié à au moins une entreprise ou association d'entreprises ayant participé à l'infraction.
+Le délai de prescription en matière d'imposition d'amendes ou d'astreintes est interrompu par tout acte de l'auditorat ou du Collège de la concurrence ou, s'agissant de l'application des articles 101 et 102 Traité sur le fonctionnement de l'Union européenne (ci-après TFUE)
+, d'une autorité de concurrence d'un Etat membre visant à l'instruction ou à la poursuite de l'infraction. L'interruption du délai de prescription prend effet le jour où l'acte est notifié à au moins une entreprise ou association d'entreprises ayant participé à l'infraction.
 Constituent des actes interruptifs de ce délai:
 1° les demandes écrites de renseignements de l'auditorat ou de l'autorité de concurrence d'un Etat membre;
 2° les mandats écrits de perquisition délivrés à son personnel par l'auditorat ou par l'autorité de concurrence d'un Etat membre;

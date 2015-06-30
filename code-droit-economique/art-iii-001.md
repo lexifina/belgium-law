@@ -3,13 +3,13 @@
 1° des services d'intérêt général non économiques, en ce compris les services sociaux non visés au 11°;
 2° des services financiers;
 3° des services et réseaux de communication électronique ainsi que les ressources et services associés pour ce qui concerne les matières régies par la loi du 13 juin 2005 relative aux communications électroniques;
-4° des services dans le domaine des transports y compris les services portuaires, qui entrent dans le champ d'application du titre VI du TFUE;
+4° des services dans le domaine des transports y compris les services portuaires, qui entrent dans le champ d'application du titre VI du Traité sur le fonctionnement de l'Union européenne (ci-après TFUE);
 5° des services de notaires nommés par une décision de l'autorité publique;
 6° des services d'huissiers de justice nommés par une décision de l'autorité publique;
 7° des services des agences de travail intérimaire;
 8° des services de soins de santé, qu'ils soient ou non assurés dans le cadre d'établissement de soins et indépendamment de la manière dont ils sont organisés et financés ou de leur nature publique ou privée;
 9° des activités de jeux d'argent impliquant des mises ayant une valeur monétaire dans des jeux de hasard, y compris les loteries, les casinos et les conventions portant sur des paris;
-10° des activités participant à l'exercice de l'autorité publique conformément à l'article 51 du TFUE;
+10° des activités participant à l'exercice de l'autorité publique conformément à l'article 51 du Traité sur le fonctionnement de l'Union européenne (ci-après TFUE);
 11° sans préjudice de leur qualification en services d'intérêt général non économiques visée au 1° ou de leur qualification en services d'intérêt économique général, des services sociaux relatifs au logement social, à l'aide à l'enfance et à l'aide aux familles et aux personnes se trouvant de manière permanente ou temporaire dans une situation de besoin qui sont assurés directement ou indirectement par l'Etat fédéral;
 12° des services de sécurité privée.
 § 2. Le présent titre ne s'applique pas:
