@@ -8,10 +8,13 @@ b) les personnes auxquelles le Roi étend cette application en exécution de l'a
 2° aux employeurs :
 a) les personnes qui occupent au travail des apprentis;
 b) les personnes désignées par le Roi en exécution de l'article 2, § 1er, 1°.
+[<sup>1</sup> Le Roi détermine ce qu'il faut entendre par apprentis.]<sup>1</sup>
 § 2. La présente loi n'est pas applicable aux personnes assujetties aux régimes de sécurité sociale:
 1° (abrogé) &lt;L 2002-12-24/31, art. 149, 020; <b> En vigueur : </b> 01-01-2003&gt;
 2° des marins de la marine marchande.
 § 3. (Cette loi ne s'applique pas davantage aux institutions hospitalières créées par des personnes privées ou appartenant au secteur public, aux services d'orientation scolaire ou professionnelle, centre psycho-médico-sociaux et services de surveillance médicale scolaire, ainsi qu'aux médecins qui y sont occupés, si ces médecins sont également soumis à l'application du statut sociale des travailleurs indépendants (et si des cotisations complètes sont dues à ce régime en vertu de l'article 12, § 1er, de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants) pour raison d'exercice de la médecine en dehors de ces institutions, services et centres, à moins que ceux-ci ne leur octroient exclusivement qu'une rémunération fixe.) &lt;L 05-01-1976, art. 106&gt; &lt;L 1989-12-22/31, art. 4, 005; <b> En vigueur : </b> 09-01-1990&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014051502" target="_blank">2014-05-15/02</a>, art. 24, 056; En vigueur : 01-07-2015&gt;
 
 <a name="Art.1bis" href="#Art.1">Art.</a> <a href="#Art.2"> 1bis</a>.&lt;Inséré par L 2002-12-24/31, art. 170; <b> En vigueur : </b> 01-07-2003&gt; § 1er. [<sup>1</sup> La présente loi est également applicable aux personnes qui, ne pouvant être liées par un contrat de travail parce qu'un ou plusieurs des éléments essentiels à l'existence dudit contrat au sens de la loi du 3 juillet 1978 relative aux contrats de travail sont inexistants, fournissent des prestations ou produisent des oeuvres de nature artistique, contre paiement d'une rémunération pour le compte d'un donneur d'ordre, personne physique ou morale. Dans ce cas, le donneur d'ordre est assimilé à l'employeur et doit assumer les obligations visées aux articles 21 et suivants.
 Le caractère artistique de ces prestations ou oeuvres doit être attesté par le biais d'un visa artiste délivré par la commission Artistes.
