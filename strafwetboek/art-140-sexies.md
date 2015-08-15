@@ -1,0 +1,3 @@
+Onverminderd de toepassing van artikel 140, wordt gestraft met opsluiting van 5 jaar tot 10 jaar en met geldboete van honderd euro tot vijfduizend euro:
+1° iedere persoon die het nationaal grondgebied verlaat met het oog op het plegen, in België of in het buitenland, van een misdrijf bedoeld in de artikelen 137, 140 tot 140quinquies en 141, met uitzondering van het misdrijf bedoeld in artikel 137, § 3, 6°;
+2° iedere persoon die in het nationaal grondgebied binnenkomt met het oog op het plegen, in België of in het buitenland, van een misdrijf bedoeld in de artikelen 137, 140 tot 140quinquies en 141, met uitzondering van het misdrijf bedoeld in artikel 137, § 3, 6°.
