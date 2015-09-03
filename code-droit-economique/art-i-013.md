@@ -6,3 +6,4 @@ Les définitions suivantes sont applicables au livre XI:
 5° Office: l'Office de la Propriété Intellectuelle auprès du Service public fédéral Economie;
 6° base de données: un recueil d'oeuvres, de données ou d'autres éléments indépendants, disposés de manière systématique ou méthodique et individuellement accessibles par des moyens électroniques ou d'une autre manière;
 7° mesures techniques: toute technologie, dispositif ou composant qui dans le cadre normal de son fonctionnement est destiné à empêcher ou à limiter en ce qui concerne les oeuvres ou prestations ou bases de données, les actes non autorisés par les titulaires de droits d'auteur ou de droits voisins ou producteurs de bases de données.
+8° Office de l'harmonisation dans le marché intérieur: l'Office de l'harmonisation dans le marché intérieur institué par l'article 2 du règlement (CE) n° 207/2009 du Conseil du 26 février 2009 sur la marque communautaire.
