@@ -1,0 +1,16 @@
+§ 1er. Par dérogation à l'article 383, § 1er, à leur demande et sur avis motivé de leur chef de corps, les magistrats de l'ordre judiciaire peuvent être autorisés par le Roi à continuer d'exercer leurs fonctions jusqu'à ce qu'ils aient atteint l'âge de septante ans ou de septante-trois ans à la Cour de cassation.
+L'autorisation est valable pour un an et est renouvelable.
+Les chefs de corps ne sont pas autorisés à continuer à exercer leur mandat sur la base de la présente disposition.
+Les magistrats titulaires d'un mandat adjoint ou d'un mandat spécifique continuent à exercer ce mandat aux conditions prévues respectivement aux articles 259quinquies ou 259sexies.
+§ 2. Le magistrat qui souhaite être maintenu en service après avoir atteint l'âge de soixante-sept ans ou le magistrat à la Cour de cassation qui souhaite être maintenu en service après avoir atteint l'âge de septante ans, introduit à cet effet, au plus tôt dix-huit mois avant cette date et au plus tard neuf mois avant la date de cet anniversaire, une demande, au moyen du formulaire établi par le Roi, auprès de son chef de corps.
+Le magistrat qui souhaite introduire une demande de renouvellement après avoir atteint l'âge de soixante-sept ans ou de septante ans à la Cour de cassation, le fait au plus tard six mois avant l'échéance de la prolongation précédente.
+Le magistrat communique simultanément une copie de sa demande, ou le cas échéant de sa demande de renouvellement, au ministre de la Justice.
+Le chef de corps communique la demande ainsi que son avis motivé, au ministre de la Justice, dans un délai d'un mois.
+L'avis motivé porte à la fois sur l'opportunité pour la juridiction ou le parquet du maintien en service ainsi que sur la durée la plus opportune pour ce maintien.
+En cas d'absence d'avis dans le délai prévu, la procédure est poursuivie à l'initiative du ministre de la Justice.
+Les présidents des tribunaux de première instance et des tribunaux de commerce et les présidents des juges de paix et des juges au tribunal de police adressent la demande visée au § 2, alinéa 1er, au premier président de la cour d'appel. Les présidents des tribunaux du travail adressent cette demande au premier président de la cour du travail. Selon le cas, le premier président de la cour d'appel ou de la cour du travail adresse cette demande et son avis au ministre de la Justice.
+Les procureurs du Roi et les auditeurs du travail adressent cette demande au procureur général près la cour d'appel qui adresse cette demande et son avis au ministre de la Justice.
+Le premier président de la Cour de cassation, le procureur-général près la Cour de cassation, les premiers présidents des cours d'appel et des cours du travail, les procureurs généraux près les cours d'appel et le procureur fédéral adressent cette demande au ministre de la Justice qui émet un avis sur cette demande.
+Les magistrats visés aux alinéas 7 à 9 adressent leur demande de renouvellement au chef de corps de la juridiction ou du parquet dans lequel ils exercent leur fonction.
+Le Roi prend une décision dans les trois mois de la réception de la demande.
+§ 3. Les magistrats qui continuent à exercer leurs fonctions sur la base du paragraphe 1er continuent à percevoir leur traitement conformément aux dispositions prévues au titre III du Livre II, et conservent leur rang.
