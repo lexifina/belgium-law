@@ -1,0 +1,13 @@
+§ 1er. La présente sous-section vise les sociétés de droit étranger autres que celles visées à la sous-section 1.
+Les sociétés visées à la présente sous-section qui relèvent du droit d'un Etat tiers ne peuvent exercer l'activité de prêteur en Belgique, sans y être établies.
+§ 2. Les sections 1 et 2 et les articles VII. 180, § 2, et VII. 184, § 1er, alinéa 2, sont applicables aux prêteurs visés à la présente sous-section, à l'exception de l'article 165, § 2 qui ne s'applique pas aux prêteurs qui relèvent du droit d'autres Etats membres de l'Espace Economique Européen et qui exercent leur activité de prêteur en Belgique dans le cadre de la libre prestation de services.
+Les articles VII. 164 et VII. 169 s'appliquent à leur direction effective en Belgique, l'article VII. 165, § 1er, s'entend pour leur établissement belge, et l'article VII. 165, § 2, s'entend pour leurs opérations réalisées sur le territoire belge.
+L'article VII. 170 n'est pas applicable aux succursales de sociétés de droit étranger.
+§ 3. Les articles VII.161 à VII.164, et VII.167 à VII. 169 ne s'appliquent pas aux prêteurs suivants visés à la présente sous-section:
+1° les succursales d'établissements de crédit relevant du droit d'un Etat tiers, inscrites sur la liste visée à l'article 14 de la loi du 25 avril 2014;
+2° les succursales d'entreprises d'investissement relevant du droit d'un Etat tiers, inscrites sur la liste visée à l'article 53 de la loi du 6 avril 1995;
+3° les entreprises d'assurances relevant du droit d'un autre Etat membre de l'Espace économique européen qui exercent leurs activités en Belgique par la voie d'une succursale ou en libre prestation de services, inscrites sur la liste visée à l'article 66 de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
+4° les succursales d'entreprises d'assurances relevant du droit d'un Etat tiers, inscrites sur la liste visée à l'article 4 de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
+5° les établissements de monnaie électronique relevant du droit d'un autre Etat membre de l'Espace économique européen qui exercent leurs activités en Belgique par la voie d'une succursale ou en libre prestation de services, inscrits sur la liste visée à l'article 91 de la loi du 21 décembre 2009;
+6° les succursales d'établissements de monnaie électronique relevant du droit d'un Etat tiers, inscrites sur la liste visée à l'article 64 de la loi du 21 décembre 2009;
+7° les établissements de paiement relevant du droit d'un autre Etat membre de l'Espace économique européen qui exercent leurs activités en Belgique par la voie d'une succursale ou en libre prestation de services, inscrits sur la liste visée à l'article 39 de la loi du 21 décembre 2009.
