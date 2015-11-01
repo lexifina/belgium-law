@@ -1,0 +1,1 @@
+Les prêteurs sont constitués sous la forme de société commerciale, à l'exception de la forme de société privée à responsabilité limitée constituée par une seule personne, ou sous forme de personne morale pour les groupements d'intérêt économique qui ne sont pas des sociétés.

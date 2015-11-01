@@ -1,0 +1,1 @@
+Chaque prêteur est tenu de verser à la FSMA une rémunération en couverture des frais de contrôle. Le montant de cette rémunération, les cas où elle est due, et les délais dans lesquels elle doit être payée, sont déterminés par le Roi par application de l'article 56 de la loi du 2 août 2002.

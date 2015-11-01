@@ -1,1 +1,11 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+§ 1er. Lorsqu'il est constaté qu'un acte constitue une infraction visée à l'article XV.2, § 1er, ou qu'il peut donner lieu à une action en cessation, les agents visés à l'article XV.2 peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte.
+L'avertissement est notifié au contrevenant dans un délai de trente jours à dater du jour de la constatation des faits, par lettre recommandée avec accusé de réception ou par la remise d'une copie du procès-verbal de constatation des faits. L'avertissement peut également être communiqué par télécopie ou par courrier électronique. Si l'avertissement adressé par fax ou courrier électronique n'est suivi d'aucune réaction, il sera envoyé par lettre recommandée avec accusé de réception.
+Lorsque le contrevenant ne peut pas être identifié le jour de la constatation de l'infraction, le délai de trente jours commence à courir le jour où le contrevenant présumé de l'infraction a pu être identifié de façon certaine par les agents visés à l'article XV.2.
+L'avertissement mentionne:
+1° les faits imputés et la ou les dispositions légales ou réglementaires enfreintes visées à l'article XV.2, § 1er;
+2° le délai dans lequel il doit être mis fin aux faits et, en ce qui concerne les infractions au titre 3, chapitre 2, section 8, sous-section 1re, les modalités éventuelles pour y parvenir;
+3° qu'au cas où il n'est pas donné suite à l'avertissement, soit une action en cessation sera formée le cas échéant, soit le procureur du Roi sera avisé, soit la procédure de transaction visée au titre 2, chapitre 1er, sera appliquée, soit une sanction administrative sera imposée;
+4° que l'engagement du contrevenant de mettre fin à l'infraction peut être rendu public.
+§ 2. En cas d'application du paragraphe 1er, le procès-verbal visé à l'article XV.2 n'est remis au procureur du Roi que lorsqu'il n'a pas été donné suite à l'avertissement dans le délai visé au paragraphe 1er, quatrième alinéa, 2°, et lorsque qu'il n'est pas fait application de la procédure de transaction visée aux articles XV.61 et XV.62.
+§ 3. Sans préjudice des autres mesures prescrites dans le présent Code, les agents visés à l'article XV.2 peuvent rendre publique la promesse d'une entreprise de mettre fin à une infraction visée dans le présent Code ou dans ses arrêtés d'exécution.
+§ 4. Le présent article n'est pas applicable aux infractions aux dispositions du livre VII, titre 4, chapitre 4.
