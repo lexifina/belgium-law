@@ -1,0 +1,17 @@
+§ 1er. Toute demande d'agrément est envoyée à la FSMA dans les formes et dans les conditions fixées par le Roi.
+§ 2. L'agrément peut être demandé:
+1° soit comme prêteur en crédit hypothécaire;
+2° soit comme prêteur en crédit à la consommation.
+Dans sa demande, le demandeur précise quel type d'agrément il souhaite obtenir.
+Les deux agréments peuvent être cumulés par la même personne morale.
+§ 3. S'il s'agit d'une demande d'agrément comme prêteur en crédit à la consommation, le demandeur précise:
+1° s'il compte offrir des ventes ou des prêts à tempérament ou des contrats de crédit-bail, et s'il compte agir comme cessionnaire ou créancier subrogé immédiat pour ces contrats de crédit;
+2° s'il compte également offrir des ouvertures de crédit ou des contrats de crédit pour lesquels aucune règle particulière n'a été prévue par le présent livre ou en vertu de celui-ci, ainsi que s'il compte agir comme cessionnaire ou créancier subrogé immédiat pour ces contrats de crédit.
+§ 4. La demande d'agrément est accompagnée d'un dossier répondant aux conditions fixées par la FSMA et dans lequel sont notamment indiqués le genre et le volume des opérations envisagées, ainsi que la structure de l'organisation de l'établissement et ses liens étroits avec d'autres personnes. Le demandeur fournit tous renseignements nécessaires à l'appréciation de sa demande.
+Toute modification aux données figurant dans le dossier d'agrément est communiquée immédiatement à la FSMA, sans préjudice du droit de la FSMA de recueillir des informations auprès de l'intéressé ou de lui réclamer des documents probants.
+Le dossier d'agrément contient également la preuve que les modèles de contrats de crédit, en ce compris les tableaux d'amortissement, que le prêteur envisage d'utiliser, ont été approuvés préalablement par le SPF Economie.
+§ 5. Le SPF Economie examine si les modèles de contrat sont conformes à toutes les dispositions du présent livre et du livre VI, et de leurs arrêtés d'exécution. Les modèles sont remplis préalablement afin de permettre notamment la vérification du calcul du taux annuel effectif global.
+Toute modification aux modèles de contrat est soumise pour approbation préalable au SPF Economie.
+§ 6. La FSMA agrée les prêteurs répondant aux conditions fixées à la présente sous-section. Elle statue au plus tard dans les deux mois de la réception d'un dossier complet et, au plus tard, dans les six mois de l'introduction de la demande.
+Les décisions relatives à l'agrément sont communiquées au demandeur par lettre recommandée à la poste.
+La FSMA peut valablement notifier au demandeur ses décisions d'agrément ou de refus d'agrément, ainsi que de mise en demeure, d'interdiction, de suspension et de retrait de l'agrément au moyen de formulaires pré-imprimés, revêtus d'une signature reproduite par un procédé mécanographique.
