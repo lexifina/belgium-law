@@ -1,0 +1,6 @@
+L'agrément est subordonné à l'existence d'un capital minimum fixé selon les règles suivantes:
+1° 250.000 euros au moins par catégorie de contrat de crédit pour les prêteurs qui offrent des ventes ou des prêts à tempérament ou des contrats de crédit-bail, ainsi que pour les prêteurs qui agissent comme cessionnaire ou créancier subrogé immédiat pour ces contrats de crédit;
+2° 2.500.000 euros au moins lorsque le prêteur offre des ouvertures de crédit ou des contrats de crédit à la consommation pour lesquels aucune règle particulière n'a été prévue par la loi ou en vertu de celle-ci, ainsi que pour les prêteurs qui agissent comme cessionnaire ou créancier subrogé immédiat pour ces contrats de crédit;
+3° 2.500.000 euros au moins pour les prêteurs qui offrent des contrats de crédit hypothécaire, ainsi que pour les prêteurs qui agissent comme cessionnaire ou créancier subrogé immédiat pour ces contrats de crédit.
+Le capital est entièrement libéré à concurrence du montant minimum fixé par l'alinéa premier.
+En cas de préexistence de la société demanderesse, les primes d'émission, les réserves et le résultat reporté sont assimilés au capital. Celui-ci seul doit cependant s'élever à 175.000 euros au moins dans le cas visé à l'alinéa 1er, 1°, et de 2.000.000 euros au moins dans le cas visé à l'alinéa 1er, 2°, et être libéré à concurrence de ces montants.
