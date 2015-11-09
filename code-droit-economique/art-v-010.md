@@ -8,3 +8,4 @@ Si le nombre de demandes est exceptionnellement élevé, les délais peuvent êt
 § 5. En l'absence d'une décision de prix dans les délais visés au § 2, le demandeur est habilité à appliquer le prix ou la hausse de prix demandés.
 § 6. Le Roi peut, par arrêté délibéré en Conseil des ministres fixer les conditions dans lesquelles le ministre peut imposer des baisses de prix pour des médicaments et assimilés visés à l'article V.9, 1° et 2°, existants.
 § 7. Le ministre peut octroyer une délégation pour les décisions individuelles de prix visées au présent article.
+§ 8. Le ministre peut prescrire la communication sans déplacement aux agents commissionnés par lui de tous livres, registres et autres pièces comptables dont la tenue est prescrite par ou en vertu de dispositions légales.

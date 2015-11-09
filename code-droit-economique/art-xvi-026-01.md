@@ -1,0 +1,2 @@
+Lorsque l'entité qualifiée offre une procédure qui vise à régler un litige en proposant une solution ou en intervenant entre les parties afin qu'elles en trouvent une, les parties peuvent se retirer de la procédure à tout moment si elles ne sont pas satisfaites de son déroulement ou de son fonctionnement.
+Si la participation de l'entreprise est obligatoire en application de la loi, la faculté de retrait visée à l'alinéa 1er s'applique uniquement au bénéfice du consommateur.
