@@ -21,4 +21,4 @@ h) lorsque le traitement du litige entraverait gravement le fonctionnement effec
 12° l'entité garantit le caractère confidentiel des renseignements communiqués par les parties;
 13° chaque partie est informée par écrit ou sur support durable de l'issue de la procédure de façon motivée.
 § 2. Outre les conditions visées au paragraphe 1er, les entités qualifiées répondent aux dispositions des articles 1676 à 1723 du Code judiciaire lorsqu'elles appliquent une procédure arbitrale.
-§ 3. Le Roi peut préciser les conditions énumérées au paragraphe 1er afin de garantir l'accessibilité des entités qualifiées, leur compétence, leur indépendance, leur impartialité, leur transparence, leur efficacité et leur équité ainsi que la liberté des parties.
+§ 3. Le Roi peut préciser les conditions énumérées au paragraphe 1er afin de garantir l'accessibilité des entités qualifiées, leur compétence, leur indépendance, leur impartialité, leur transparence, leur efficacité, leur équité ainsi que la liberté des parties et la légalité des décisions rendues par une entité qualifiée imposées aux parties.

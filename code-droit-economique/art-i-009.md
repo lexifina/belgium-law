@@ -57,11 +57,8 @@ La personne qui fournit dans le cadre de son activité habituelle ou professionn
 a) présente ou propose des contrats de crédit aux consommateurs;
 b) assiste les consommateurs en réalisant pour des contrats de crédit des travaux préparatoires autres que ceux visés au point a);
 c) conclut des contrats de crédit avec des consommateurs pour le compte du prêteur. Est assimilé à celui-ci, la personne qui offre ou consent des contrats de crédit, lorsque ces contrats font l'objet d'une cession ou d'une subrogation immédiate au profit d'un autre prêteur agréé ou enregistré, désigné dans le contrat;
-36° agent lié: un intermédiaire de crédit agissant pour le compte et sous la responsabilité entière et inconditionnelle:
-a) d'un seul prêteur;
-b) d'un seul groupe de prêteurs, ou
-c) d'un nombre de prêteurs ou de groupes de prêteurs qui ne représente pas la majorité du marché;
-37° courtier de crédit: l'intermédiaire de crédit qui n'est pas un agent lié;
+36° agent lié: un intermédiaire de crédit agissant pour le compte et sous la responsabilité entière et inconditionnelle d'un seul prêteur;
+37° courtier de crédit: un intermédiaire de crédit, autre qu'un agent lié, un sous-agent ou un agent à titre accessoire, qui exerce ses activités d'intermédiation en dehors de tout contrat d'agence exclusive ou de tout autre engagement juridique lui imposant de placer la totalité ou une partie déterminée de sa production auprès d'un ou plusieurs prêteurs;
 38° groupe: un groupe de prêteurs qui doivent être consolidés aux fins de l'établissement de comptes consolidés, au sens de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises;
 39° contrat de crédit: tout contrat en vertu duquel un prêteur consent ou s'engage à consentir à un consommateur un crédit, sous la forme d'un délai de paiement, d'un prêt ou de toute autre facilité de paiement similaire;
 40° offre de crédit: l'émission définitive de la volonté du prêteur qui ne doit plus qu'être acceptée par le consommateur pour que le contrat de crédit soit formé;
@@ -110,12 +107,12 @@ b) ces deux contrats constituent, d'un point de vue objectif, une unité commerc
 66° montant total dû par le consommateur: la somme du montant du crédit et du coût total du crédit pour le consommateur y compris, en cas de crédit-bail, la valeur résiduelle du bien à payer à la levée de l'option d'achat;
 67° FSMA: l'Autorité des services et marchés financiers tel que visée par l'article 44 de la loi du 2 août 2002;
 68° Banque: la Banque nationale de Belgique;
-69° Centrale: la Centrale des Crédits aux Particuliers chargé des missions visées à l'article VII.127;
+69° Centrale: la Centrale des Crédits aux Particuliers chargé des missions visées à l'article VII.148;
 70° service accessoire: un service offert au consommateur conjointement avec le contrat de crédit ou le service de paiement;
-71° établissement de crédit: l'établissement de crédit tel que visé à l'article 1er, alinéa 2, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit;
+71° établissement de crédit: l'établissement de crédit tel que visé à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;
 72° entreprise d'assurances: l'entreprise d'assurances établie en Belgique visée à l'article 2, § 1er, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
 73° entreprise réglementée: une entreprise réglementée au sens de l'article 1er, 7°, de l'arrêté royal du 21 novembre 2005 organisant la surveillance complémentaire des établissements de crédit, des entreprises d'assurances, des entreprises d'investissement et des sociétés de gestion d'organismes de placement collectif, faisant partie d'un groupe de services financiers, et modifiant l'arrêté royal du22 février 1991 portant règlement général relatif au contrôle des entreprises d'assurances et l'arrêté royal du 12 août 1994 relatif au contrôle sur base consolidée des établissements de crédit;
-74° sous-agent: la personne physique ou morale qui, en tant qu'intermédiaire de crédit, agit pour le compte et sous la responsabilité entière et inconditionnelle d'un seul intermédiaire de crédit;
+74° sous-agent: la personne physique ou morale qui, en tant qu'intermédiaire de crédit, agit pour le compte et sous la responsabilité entière et inconditionnelle d'un seul intermédiaire de crédit, autre qu'un sous-agent;
 75° acte constitutif: l'ensemble des actes authentiques et sous seing privé ainsi que tout document contenant des dispositions régissant un même crédit;
 76° état membre d'origine:
 a) lorsque le prêteur ou l'intermédiaire de crédit est une personne physique, l'état membre dans lequel son administration centrale est située;
@@ -125,3 +122,5 @@ b) lorsque le prêteur ou l'intermédiaire de crédit est une personne morale, l
 79° personne en contact avec le public: les autres personnes d'un prêteur ou d'un intermédiaire de crédit qui, de quelque manière que ce soit, sont en contact avec le public en vue de proposer des contrats de crédit ou de fournir des informations à leur sujet;
 80° loi du 2 août 2002: loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers;
 81° agents à titre accessoire: les vendeurs de biens et de services à caractère non financier agissant en qualité d'intermédiaire en crédit à la consommation à titre accessoire et pour compte d'un ou plusieurs prêteurs.
+82° loi du 25 avril 2014: loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;
+83° loi du 6 avril 1995: loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement;

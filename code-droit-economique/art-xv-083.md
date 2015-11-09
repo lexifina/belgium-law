@@ -3,7 +3,7 @@ Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux di
 1°/1. des articles VI. 7/1 et VI. 7/2 et des arrêtés pris en exécution de l'article VI. 7/2;
 2° de l'article VI. 8 relatif à la dénomination, à la composition et à l'étiquetage des produits et des arrêtés pris en exécution des articles VI. 9 et VI. 10;
 3° des articles VI. 11 à VI. 15 relatifs à l'indication de la quantité et des arrêtés pris en exécution de l'article VI. 16;
-4° des articles VI. 18 et VI. 19 relatifs à la référence à son propre prix appliqué précédemment et des arrêtés pris en exécution des articles VI. 20 et VI. 21;
+4° ...;
 5° des articles VI. 22 et VI. 23 relatifs aux ventes en liquidation;
 6° des articles VI. 25 à VI. 29 relatifs aux ventes en soldes et à la période d'attente;
 7° de l'article VI. 39 relatif à la présentation au consommateur, pour signature, d'une lettre de change;

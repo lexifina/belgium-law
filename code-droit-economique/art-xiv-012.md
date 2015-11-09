@@ -1,1 +1,1 @@
-Le Roi peut, pour les biens et services ou les catégories de biens et services qu'Il désigne, prescrire des modalités particulières en ce qui concerne la référence aux propres prix appliqués précédemment.
+(Abrogé)
