@@ -1,1 +1,1 @@
-Les dispositions du Livre Ier du Code pénal sont applicables aux infractions visées par le présent Code sous réserve de l'application des dispositions spécifiques mentionnées ci-après.
+Les dispositions du Livre Ier du Code pénal, sans exception du chapitre VII et de l'article 85, sont applicables aux infractions visées par le présent Code sous réserve de l'application des dispositions spécifiques mentionnées ci-après.

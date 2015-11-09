@@ -1,7 +1,7 @@
 Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux dispositions:
 1° des articles XIV. 4 à XIV. 8 relatifs à l'indication des prix et des arrêtés pris en exécution de l'article XIV. 8;
 1°/1. des articles XIV. 8/1 et XIV. 8/2 et des arrêtés pris en exécution de l'article XIV. 8/2;
-2° des articles XIV. 10 et XIV. 11 relatifs à la référence à son propre prix appliqué précédemment et des arrêtés pris en exécution des articles XIV. 12 et XIV. 13;
+2° ...;
 3° de l'article XIV. 20 relatif à la présentation au consommateur, pour signature, d'une lettre de change;
 4° des articles XIV. 27 à XIV. 37 relatifs aux contrats à distance;
 5° des articles XIV. 39 à XIV. 47 relatifs aux contrats hors des lieux habituels d'exercice de la profession;

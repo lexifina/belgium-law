@@ -1,0 +1,1 @@
+L'entité qualifiée prend les mesures nécessaires pour garantir que le traitement des données à caractère personnel respecte la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.

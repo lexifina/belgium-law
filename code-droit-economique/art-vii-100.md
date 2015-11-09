@@ -1,4 +1,4 @@
-§ 1er. Lorsqu'un découvert se produit dans le cadre d'une ouverture de crédit alors que le prêteur a interdit explicitement tout découvert dépassant le montant du crédit autorisé, celui-ci suspend les prélèvements de crédit et exige le remboursement du montant en découvert non autorisé dans un délai de maximum quarante-cinq jours à dater du jour du découvert non autorisé.
+§ 1er. Lorsqu'un découvert se produit dans le cadre d'une ouverture de crédit ou un compte de paiement alors que le prêteur a interdit explicitement tout découvert dépassant le montant du crédit autorisé, celui-ci suspend les prélèvements de crédit et exige le remboursement du montant en découvert non autorisé dans un délai de maximum quarante-cinq jours à dater du jour du découvert non autorisé.
 Dans ce cas, seuls les intérêts de retard et les frais expressément convenus et autorisés par le présent Livre peuvent être réclamés. Les intérêts de retard sont calculés sur le montant du découvert non autorisé.
 Le prêteur informe le consommateur, sans délai, sur un support durable:
 1° du découvert non autorisé;
