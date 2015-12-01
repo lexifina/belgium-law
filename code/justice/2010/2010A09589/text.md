@@ -1309,6 +1309,14 @@ Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandatair
 Les infractions visées à l'alinéa 1er sont punies d'une sanction de niveau 4, lorsque l'employeur, son préposé ou son mandataire a, préalablement au procès-verbal constatant une des infractions visées à l'alinéa 1er, déjà reçu des inspecteurs sociaux par écrit pour cette infraction, l'avertissement ou le délai pour se mettre en règle visés à l'article 21.
 En ce qui concerne les infractions visées aux alinéas 1er et 2, l'amende est multipliée par le nombre de travailleurs concernés.
 
+<a name="LNK0103" href="#LNKR0103">Section 3/1.</a> [<sup>1</sup> - Travailleurs exerçant un flexi-job]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 1, 016; En vigueur : 01-12-2015&gt;
+
+<a name="Art.%20152/1." href="#Art.152">Art.</a> <a href="#LNK0053">152/1</a>. [<sup>1</sup> Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui occupe des travailleurs exerçant un flexi-job sans enregistrer ni tenir à jour le moment exact du début et de la fin de la prestation de travail au moyen d'un système tel que défini à l'article 24 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 28, 016; En vigueur : 01-12-2015&gt;
+
 <a name="LNK0053" href="#LNKR0053">Section 4.</a> - Le travail de nuit
 
 <a name="Art.153" href="#Art.152">Art.</a> <a href="#Art.154"> 153</a>. Le travail de nuit
