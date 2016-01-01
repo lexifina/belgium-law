@@ -470,6 +470,11 @@ Accidents du travail : 0,30 %;]<sup>22</sup>
 6° [<sup>22</sup> ...]<sup>22</sup>;
 7° [<sup>22</sup> ...]<sup>22</sup>;
 8° en ce qui concerne les travailleurs manuels (et les personnes soumises au régime de la sécurité sociale des travailleurs salariés en raison des prestations artistiques qu'elles fournissent et/ou des oeuvres artistiques qu'elles produisent), (16,27) p.c. de leur rémunération, destinés au régime des (vacances légales) des travailleurs manuels. Une part de (10,27) p.c. comprise dans cette cotisation n'est versée qu'annuellement dans le court de l'année qui suit l'exercice de vacances, à la date fixée par le Roi et suivant les modalités qu'Il détermine; &lt;L 2001-05-22/36, art. 9, 050; <b> En vigueur : </b> 01-01-2001&gt; &lt;AR 2001-06-10/58, art. 9, 052; <b> En vigueur : </b> 01-01-2003&gt; &lt;L 2002-12-24/31, art. 174, 058; <b> En vigueur : </b> 01-07-2003&gt;
+[<sup>26</sup> Le taux de cotisation de 16,27 p.c. visé à la première phrase est remplacé par les taux suivants :
+- 16,10 p.c. à partir du 2nd trimestre 2015;
+- 15,92 p.c. à partir du 1er trimestre 2016;
+- 15,88 p.c. à partir du 1er trimestre 2017;
+- 15,84 p.c. à partir du 1er trimestre 2018.]<sup>26</sup>
 [<sup>11</sup> Le Roi peut par arrêté délibéré en Conseil des Ministres réduire le taux de la cotisation visée à l'alinéa 1er, selon les modalités qu'Il détermine.]<sup>11</sup>
 9° [<sup>12</sup> 1,60 p.c. du montant de la rémunération du travailleur; cette cotisation est due par chaque employeur en ce qui concerne les travailleurs pour lesquels il est soumis aux lois relatives aux vacances annuelles des travailleurs salariés coordonnées le 28 juin 1971 [<sup>13</sup> à l'exception :
 1° des contractuels subventionnés visés au chapitre II du titre III de loi-programme du 30 décembre 1988.
@@ -703,6 +708,7 @@ DROIT FUTUR
 (<font color="red">23</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 54, 106; En vigueur : 01-01-2015&gt;
 (<font color="red">24</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 57, 106; En vigueur : 01-01-2015&gt;
 (<font color="red">25</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015052608" target="_blank">2015-05-26/08</a>, art. 1, 108; En vigueur : 01-01-2016&gt;
+(<font color="red">26</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015060703" target="_blank">2015-06-07/03</a>, art. 1, 109; En vigueur : 01-04-2015&gt;
 
 <a name="Art.38bis" href="#Art.38">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
 
