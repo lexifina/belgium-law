@@ -1,3 +1,1 @@
-Dans chaque arrondissement du ressort de la cour, le premier président de la cour du travail délègue par ordonnance, un juge au tribunal du travail du ressort de la cour du travail qui accepte cette délégation, pour siéger à titre complémentaire au sein d'une chambre correctionnelle spécialisée visée à l'article 76, § 2, alinéa 2.
-La délégation vaut pour une période d'un an renouvelable.
-Le juge au tribunal du travail dont la délégation auprès de la chambre correctionnelle spécialisée prend fin continue à siéger dans cette chambre dans les affaires en cours de débat ou en délibéré jusqu'au jugement définitif.
+(Abrogé)

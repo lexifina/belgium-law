@@ -1,5 +1,5 @@
-§ 1er. Dans les matières civiles, le ministère public intervient par voie d'action, de réquisition ou d'avis. Le ministère public agit d'office dans les cas spécifiés par la loi et en outre chaque fois que l'ordre public exige son intervention.
-§ 1er/1. Le tribunal de la famille statue après avoir entendu le ministère public en ses avis ou réquisitions sur:
+§ 1er. Dans les matières civiles, le ministère public intervient par voie d'action, de réquisition ou, lorsqu'il le juge convenable, par voie d'avis. Le ministère public agit d'office dans les cas spécifiés par la loi et en outre chaque fois que l'ordre public exige son intervention.
+§ 1er/1. Le tribunal de la famille statue après avoir communiqué la cause au ministère public en vue de ses éventuels avis ou réquisitions sur:
 1° toutes les demandes relatives à des mineurs;
 2° toutes les matières où la loi requiert son intervention.
 § 2. Pour les infractions aux lois et règlements qui relèvent de la compétence des juridictions du travail et qui touchent l'ensemble ou une partie des travailleurs d'une entreprise, l'auditeur du travail peut d'office, conformément aux formalités du présent Code, intenter une action auprès du tribunal du travail, afin de faire constater les infractions aux dites lois et aux dits règlements.

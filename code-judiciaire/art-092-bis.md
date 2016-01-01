@@ -1,1 +1,1 @@
-En matière d'application des peines, les affaires relatives aux condamnations à une peine privative de liberté de trente ans ou à une peine privative de liberté à perpétuité, assortie d'une mise à la disposition du tribunal de l'application des peines, conformément aux articles 34ter ou 34quater du Code pénal, sont attribuées à des chambres composées conformément à l'article 78, alinéa 6.
+[La source ne donne pas le texte en vigueur à cette date.]
