@@ -7,4 +7,4 @@ Avant que le consommateur ne soit lié par un contrat autre qu'un contrat à dis
 6° le cas échéant, la durée du contrat, ou, s'il s'agit d'un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
 7° le cas échéant, les fonctionnalités du contenu numérique, y compris les mesures de protection technique applicables;
 8° le cas échéant, toute interopérabilité pertinente du contenu numérique avec certains matériels ou logiciels et autres services dont la personne exerçant une profession libérale a ou devrait raisonnablement avoir connaissance.
-9° le cas échéant, le fait que, lors de la conclusion du contrat, le montant total à payer par le consommateur est arrondi au plus proche multiple de 5 cents si le consommateur paie en espèces.
+9° le cas échéant, le fait que, lors de la conclusion du contrat, le montant total à payer par le consommateur est arrondi au plus proche multiple de 5 cents conformément aux articles XIV.8/1 et XIV.8/2.

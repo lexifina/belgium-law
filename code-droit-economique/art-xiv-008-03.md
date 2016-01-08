@@ -1,0 +1,2 @@
+Le paiement du montant total à payer qui est arrondi en application de l'article XIV.8/2, libère le consommateur et la personne exerçant une profession libérale de leur dette.
+Par dérogation à l'article 1235 du Code civil, la différence entre le montant total arrondi et payé en application de l'article XIV.8/2, et le montant total avant l'arrondissement ne peut pas être exigée.
