@@ -14,7 +14,7 @@ Le registre mentionne pour chaque intermédiaire en crédit à la consommation:
 3° la catégorie dans laquelle il est inscrit;
 4° le cas échéant, la date de sa radiation;
 5° le nom des responsables de la distribution;
-6° pour les agents liés: le nom du prêteur en crédit à la consommation auxquels ils sont liés;
+6° pour les agents liés: le nom du ou des prêteurs en crédit à la consommation auxquels ils sont liés et, le cas échéant, le groupe dont ces prêteurs font partie;
 7° toute autre information que la FSMA estime utile pour une information correcte du public.
 La FSMA détermine les conditions auxquelles la mention de la radiation d'un intermédiaire est retirée du site web.
 § 6. Au moment de sa demande d'inscription, le demandeur indique dans quelle catégorie du registre il souhaite être inscrit. Un intermédiaire ne peut être inscrit que dans une seule catégorie du registre.

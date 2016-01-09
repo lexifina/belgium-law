@@ -1,5 +1,5 @@
 § 1er. Les comptes sont, après mise en concordance avec les données de l'inventaire, synthétisés dans un état descriptif constituant les comptes annuels.
-§ 2. Les entreprises qui ne sont pas soumises au Code des sociétés et à ses arrêtés d'exécution sont néanmoins tenues de s'y conformer en ce qui concerne la forme, le contenu, le contrôle et le dépôt des comptes annuels et du rapport de gestion.
+§ 2. Les entreprises qui ne sont pas soumises au Code des sociétés et à ses arrêtés d'exécution qui ne sont pas des entreprises au sens de l'article III.85 sont néanmoins tenues de s'y conformer en ce qui concerne la forme, le contenu, le contrôle et le dépôt des comptes annuels et du rapport de gestion.
 Le contenu et l'étendue de leurs obligations sont déterminés sur la base des critères relatifs au personnel occupé, au chiffre d'affaires annuel et au total du bilan prévus pour les entreprises soumises au Code des sociétés.
 Les comptes annuels des services publics visés à l'article I.5, 1°, c, sont déposés dans les sept mois de la date de clôture de l'exercice, même si la procédure de contrôle et d'approbation à laquelle les comptes annuels sont le cas échéant soumis, n'est pas encore terminée. Dans ce cas, il est explicitement signalé que la procédure en cause n'est pas encore terminée.
 Ce paragraphe ne s'applique pas:

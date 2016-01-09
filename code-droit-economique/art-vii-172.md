@@ -34,4 +34,6 @@ b. Etablissements financiers relevant du droit d'autres Etats membres de l'Espac
 c. Entreprises d'investissement relevant du droit d'autres Etats membres de l'Espace Economique Européen;
 d. Etablissement de monnaie électronique relevant du droit d'autres Etats membres de l'Espace Economique Européen;
 e. Etablissements de paiement relevant du droit d'autres Etats membres de l'Espace Economique Européen..
-La liste publiée par la FSMA indique pour chaque prêteur en crédit à la consommation, par référence à l'article VII.160, § 3, le type de crédits accordés.
+La liste publiée par la FSMA indique:
+- le cas échéant, le groupe dont le prêteur fait partie;
+- pour chaque prêteur en crédit à la consommation, par référence à l'article VII.160, § 3, le type de crédits accordés;
