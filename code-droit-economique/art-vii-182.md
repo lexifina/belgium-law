@@ -17,8 +17,8 @@ Le registre mentionne pour chaque intermédiaire en crédit hypothécaire:
 2° la date de son inscription;
 3° la catégorie dans laquelle il est inscrit;
 4° le nom des responsables de la distribution;
-5° pour les agents liés: le nom des prêteurs en crédit hypothécaire auxquels ils sont liés;
-6° pour les sous-agents: le nom des intermédiaires en crédit hypothécaire sous la responsabilité desquels ils exercent leurs activités;
+5° pour les agents liés: le nom du ou des prêteurs en crédit hypothécaire auxquels ils sont liés et, le cas échéant, le groupe dont ces prêteurs font partie;
+6° pour les sous-agents: le nom de l'intermédiaire en crédit hypothécaire sous la responsabilité duquel ils exercent leurs activités;
 7° le cas échéant la date de sa radiation;
 8° toute autre information que la FSMA estime utile pour une information correcte du public.
 La FSMA détermine les conditions auxquelles la mention de la radiation d'un intermédiaire est retirée du site web.
