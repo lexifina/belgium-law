@@ -224,13 +224,17 @@ En dérogation à l'alinéa 1, la révision produit ses effets le premier jour d
 
 <a name="LNK0014" href="#LNKR0014">Section 5.</a> - Paiement.
 
-<a name="Art.23" href="#Art.22">Art.</a> <a href="#LNK0015"> 23</a>. § 1. Le premier paiement du revenu d'intégration est effectué dans les quinze jours de la décision; si des avances ont été consenties, leur montant est défalqué des sommes allouées pour la période correspondante.
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#LNK0015"> 23</a>.§ 1. Le premier paiement du revenu d'intégration est effectué dans les quinze jours de la décision; si des avances ont été consenties, leur montant est défalqué des sommes allouées pour la période correspondante.
 Les autres paiements se font par semaine, par quinzaine ou par mois au choix du centre, tels que déterminés dans la décision.
 Le Roi peut préciser les modalités de ce paiement.
 § 2. En cas de retard de paiement, le revenu d'intégration porte intérêt de plein droit à partir de la date de son exigibilité, à savoir le seizième jour suivant la décision. Si cette décision est prise avec un retard imputable au centre, les intérêts sont dus à partir du quarante-sixième jour suivant l'introduction de la demande.
 Le Roi peut déterminer les modalités de calcul de l'intérêt. Il peut également fixer le taux d'intérêt sans que celui-ci puisse être inférieur au taux normal des avances en compte courant hors plafond fixé par la Banque nationale.
 § 3. Le Roi fixe les cas dans lesquels le paiement est suspendu à l'égard du bénéficiaire qui fait l'objet d'une mesure de détention ou d'emprisonnement.
 § 4. Le Roi détermine les bénéficiaires des arrérages échus et non encore payés, lors du décès du bénéficiaire du revenu d'intégration.
+[<sup>1</sup> § 5. Le bénéficiaire signale au centre compétent, avant son départ, tout séjour d'une période d'une semaine ou plus qu'il effectuera à l'étranger; il en précise la durée et en donne la justification. Le paiement du revenu d'intégration est garanti pour cette période, qui en totalité ne peut pas être supérieure à quatre semaines par année civile.
+Le paiement du revenu d'intégration est suspendu pour les séjours à l'étranger qui dépassent le total des quatre semaines par année civile, à moins que le centre n'en décide autrement en raison de circonstances exceptionnelles justifiant ce séjour.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015122603" target="_blank">2015-12-26/03</a>, art. 70, 017; En vigueur : 09-01-2016&gt;
 
 <a name="LNK0015" href="#LNKR0015">CHAPITRE IV.</a> - Des recouvrements.
 
@@ -285,6 +289,10 @@ Les règles de la procédure déterminée par les articles 20, 21, §§ 2, 3 et 
 Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 94, 011; En vigueur : 01-07-2011&gt;
+
+<a name="Art.%2031/1_REGION_FLAMANDE_(DROIT_FUTUR)" href="#Art.31">Art.</a> <a href="#LNK0017">31/1_REGION_FLAMANDE_(DROIT_FUTUR)</a>. {fut}<i>[<sup><font color="red">1</font></sup> La surveillance et le contrôle de l'exécution des articles 9, et 36 à 39 de la présente loi et des arrêtés d'exécution des dispositions précitées sont exécutés conformément au décret du 30 avril 2004 relatif au contrôle des lois sociales.]<sup><font color="red">1</font></sup></i>{/fut}
+----------
+(<font color="red">1</font>)&lt;Inséré par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016030412" target="_blank">2016-03-04/12</a>, art. 22; En vigueur : indéterminée &gt;
 
 <a name="LNK0017" href="#LNKR0017">CHAPITRE VI.</a> - De la subvention de l'Etat.
 
