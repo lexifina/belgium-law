@@ -1,7 +1,7 @@
 § 1er. Les poursuites en vue du recouvrement de biens confisqués, d'amendes et de frais de justice seront exercées au nom du ministère public par le fonctionnaire compétent du Service Public Fédéral Finances, selon les indications du directeur de l'Organe central pour la saisie et la confiscation.
 Ce fonctionnaire accomplit les actes et introduit les demandes nécessaires au recouvrement ou à la sauvegarde des droits reconnus au Trésor par le jugement ou l'arrêt.
 Il peut, en cas de condamnation à une confiscation d'une somme d'argent, une amende ou à des frais de justice, procéder à l'exécution sur les biens saisis conformément aux indications du ministère public ou du directeur de l'Organe central pour la saisie et la confiscation.
-A la demande du ministère public ou du directeur de l'Organe central pour la saisie et la confiscation, le fonctionnaire compétent du Service Public Fédéral Finances fait transcrire, par l'intermédiaire du président du comité d'acquisition compétent, les décisions judiciaires de confiscation de biens immeubles coulées en force de chose jugée au bureau des hypothèques de la situation du bien.
+A la demande du ministère public ou du directeur de l'Organe central pour la saisie et la confiscation, le fonctionnaire compétent du Service Public Fédéral Finances fait transcrire, sans frais les décisions judiciaires de confiscation de biens immeubles coulées en force de chose jugée au bureau des hypothèques de la situation du bien.
 L'introduction de la demande en justice est précédée d'une concertation avec le directeur de l'Organe central pour la saisie et la confiscation.
 § 2. Les poursuites pour le recouvrement de biens confisqués, d'amendes et de frais de justice dans le cadre de l'enquête pénale d'exécution menée par le directeur de l'Organe central pour la saisie et la confiscation seront exercées en son nom par un fonctionnaire du service public fédéral Finances spécialisé en matière de recouvrement de confiscation, désigné par le ministre des Finances.
 Le fonctionnaire spécialisé exerce toutes les compétences que les dispositions légales et réglementaires accordent au fonctionnaire visé au § 1er. Il peut poser les actes liés aux compétences de sa fonction sur tout le territoire du Royaume.
@@ -11,12 +11,14 @@ Le ministère public peut inviter le directeur de l'Organe central pour la saisi
 L'Organe de concertation est composé:
 1° de l'administrateur du recouvrement non fiscal du service public fédéral Finances ou du représentant qu'il désigne;
 2° du directeur de l'Organe central pour la saisie et la confiscation ou du représentant qu'il désigne;
-3° du directeur de la direction de la Lutte contre la criminalité économique et financière de la police fédérale ou du représentant qu'il désigne;
+3° du directeur général de la direction générale de la police judiciaire ou son représentant;
 4° d'un représentant du ministre ayant la Justice dans ses attributions;
 5° d'un représentant du ministre ayant les Finances dans ses attributions;
-6° d'un représentant du membre du gouvernement fédéral compétent pour la coordination de la lutte contre la fraude;
+6° d'un représentant du membre du gouvernement fédéral compétent pour ... la lutte contre la fraude;
 7° d'un représentant désigné par le Collège des procureurs généraux;
 8° d'un représentant désigné par le Conseil des procureurs du Roi.
+9° un représentant du Service Public Fédéral Justice;
+10° un représentant désigné par le Conseil des auditeurs de travail.
 L'Organe de concertation favorise la collaboration entre les autorités administratives et judiciaires visées à l'alinéa 2, dans le respect de leur compétences spécifiques, en vue d'une mise en oeuvre efficiente et effective des décisions judiciaires en matière pénale concernant les condamnations exécutoires au paiement de sommes d'argent confisquées, d'amendes pénales, de frais de justice et des contributions au Fonds d'aide aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels, visées à l'article 29 de la loi du 1er août 1985 portant des mesures fiscales et autres, en Belgique et à l'étranger.
 L'Organe de concertation peut formuler toutes les recommandations utiles en vue d'une coordination optimale de l'exécution des condamnations visées à l'alinéa 3. Le président de l'Organe de concertation transmet les recommandations aux ministres ayant la Justice et les Finances dans leurs attributions et au président du Collège des procureurs généraux.
 L'Organe de concertation établit son règlement d'ordre intérieur à la majorité simple des membres présents. Le règlement est approuvé par les ministres ayant la Justice et les Finances dans leurs attributions. L'Organe de concertation choisit à l'unanimité un président parmi ses membres pour une durée de deux ans. Le mandat est renouvelable.
