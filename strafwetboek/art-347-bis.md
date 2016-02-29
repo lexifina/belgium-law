@@ -3,5 +3,5 @@
 De straf is levenslange opsluiting indien de gijzelaar een minderjarige is of een persoon van wie de kwetsbare toestand ten gevolge van de leeftijd, zwangerschap, een ziekte dan wel een lichamelijk of geestelijk gebrek of onvolwaardigheid duidelijk was of de dader bekend was.
 § 3. Behalve in de in § 4 bedoelde gevallen is de straf opsluiting van vijftien jaar tot twintig jaar tot twintig jaar indien binnen vijf dagen na de aanhouding, de gevangenhouding of de ontvoering, de gijzelaar vrijwillig wordt vrijgelaten zonder dat aan het bevel of aan de voorwaarde is voldaan.
 § 4. De straf is levenslange opsluiting in de volgende gevallen:
-1° indien de aanhouding, de gevangenhouding of de ontvoering van de gijzelaar, hetzij een ongeneeslijk lijkende ziekte, hetzij blijvende fysieke of psychische ongeschiktheid, hetzij het volledige verlies van het gebruik van een orgaan, hetzij zware verminking, hetzij de dood ten gevolge heeft;
+1° indien de aanhouding, de gevangenhouding of de ontvoering van de gijzelaar, hetzij een ongeneeslijk lijkende ziekte, hetzij ongeschiktheid tot het verrichten van persoonlijke arbeid van meer dan vier maanden, hetzij het volledige verlies van het gebruik van een orgaan, hetzij zware verminking, hetzij de dood ten gevolge heeft;
 2° (indien de gijzelaars zijn onderworpen aan de handelingen bedoeld in artikel 417ter, eerste lid.)

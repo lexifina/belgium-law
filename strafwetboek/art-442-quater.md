@@ -2,7 +2,7 @@
 § 2. De straffen zijn gevangenisstraf van een maand tot vier jaar en geldboete van tweehonderd euro tot tweeduizend euro of een van deze straffen alleen in de volgende gevallen:
 1° indien de in § 1 bedoelde handeling of onthouding van een handeling voortvloeit uit een toestand van fysieke of psychische onderwerping door aanwending van zware of herhaalde druk of van specifieke technieken om het oordeelsvermogen te verstoren;
 2° indien het in § 1 bedoelde misbruik ten aanzien van een minderjarige is gepleegd;
-3° indien de in § 1 bedoelde handeling of onthouding van een handeling hetzij een ongeneeslijk lijkende ziekte, hetzij een blijvende ongeschiktheid tot het verrichten van persoonlijke arbeid, hetzij het volledig verlies van het gebruik van een orgaan, hetzij een zware verminking tengevolge heeft;
+3° indien de in § 1 bedoelde handeling of onthouding van een handeling hetzij een ongeneeslijk lijkende ziekte, hetzij een ongeschiktheid tot het verrichten van persoonlijke arbeid van meer dan vier maanden, hetzij het volledig verlies van het gebruik van een orgaan, hetzij een zware verminking tengevolge heeft;
 4° indien het in § 1 bedoelde misbruik een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging betreft.
 § 3. De straf is opsluiting van tien jaar tot vijftien jaar indien de handeling van de persoon of zijn onthouding van een handeling zijn dood heeft veroorzaakt.
 § 4. Met toepassing van de §§ 1 en 2 kan de rechtbank de veroordeelde gedurende een termijn van vijf jaar tot tien jaar geheel of ten dele ontzetten van de uitoefening van de in artikel 31, eerste lid, opgesomde rechten.
