@@ -1,1 +1,1 @@
-Les cours et tribunaux pourront interdire aux condamnés correctionnels l'exercice du droit visé à l'article 31, alinéa 2, pour un terme de cinq ans à dix ans.
+Sous réserve de l'application des articles 31 et 32, les cours et tribunaux pourront interdire aux condamnés correctionnels l'exercice du droit visé à l'article 31, alinéa 2, pour un terme de cinq ans à dix ans.
