@@ -1,0 +1,41 @@
+{
+  "ecli": "ECLI:BE:RVSCE:2016:ARR.234.175",
+  "court": "RVSCE",
+  "date": "2016-03-17",
+  "issued": "2016-04-06",
+  "language": "fr",
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2016:ARR.234.175",
+  "title": "Arrêt 234175 - Diplômes - 17/03/2016",
+  "creator_fr": "Conseil d'État",
+  "creator_nl": "",
+  "subject_fr": "Droit administratif",
+  "description_fr": "CONSEIL D'ETAT",
+  "reference_fr": "Numéro de rôle A. 212537/XI-20185",
+  "identifiers": [
+    {
+      "lang": "fr",
+      "type": "summarised",
+      "format": "text/html",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2016:ARR.234.175"
+    }
+  ],
+  "listing_source": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/11/04/sitemap_3.xml",
+  "index_source": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/11/04/sitemap_index_1.xml",
+  "source_sha256": "f0f7e414e732f0b89d9a787d35477d1573b9154bb2d392aac4679ca299297e5f",
+  "source_bytes": 35456,
+  "html_metadata": {
+    "No ECLI": "ECLI:BE:RVSCE:2016:ARR.234.175",
+    "No Rôle": "A. 212537/XI-20185",
+    "Affaire": "Arrêt 234175 - Diplômes - 17/03/2016",
+    "Domaine juridique": "Droit administratif",
+    "Date d'introduction": "2016-04-06",
+    "Consultations": "175 - dernière vue 2026-11-14 14:39",
+    "Thésaurus Cassation": "CONSEIL D'ETAT",
+    "Thésaurus UTU": "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "text_status": "official-anonymised-decision",
+  "source_type": "official-html"
+}
