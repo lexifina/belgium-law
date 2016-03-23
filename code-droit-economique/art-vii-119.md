@@ -1,6 +1,6 @@
 § 1er. Les données à caractère personnel ne peuvent être communiquées qu'aux personnes suivantes:
 1° les prêteurs agréés ou enregistrés;
-2° les personnes qui sont autorisées par le Roi à effectuer des opérations d'assurance-crédit en application de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
+2° les personnes qui sont autorisées ... à effectuer des opérations d'assurance-crédit en application de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance;
 3° la FSMA et la Banque dans le cadre de leurs missions;
 4° les prestataires de services de paiement, dans la mesure où ces personnes communiquent, sur base de règles de réciprocité, leurs données relatives aux services de paiement;
 5° les associations de personnes ou d'institutions visées aux 1°, 2°, et 4°, du présent alinéa, agréées à cet effet par le ministre ou son délégué sous les conditions suivantes:
