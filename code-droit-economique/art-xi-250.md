@@ -16,9 +16,10 @@ k) aux articles 4 et 5 de l'arrêté royal n° 71 du 30 novembre 1939 relatif au
 l) à l'article 31 de l'arrêté royal n° 72 du 30 novembre 1939 réglementant les bourses et les marchés à terme de marchandises et denrées, la profession des courtiers et intermédiaires s'occupant de ces marchés et le régime de l'exception de jeu;
 m) à l'article 29 de la loi du 9 juillet 1957 réglementant les ventes à tempérament et leur financement ou aux articles 101 et 102 de la loi du 12 juin 1991 relative au crédit à la consommation;
 n) à l'article 11 de l'arrêté royal n° 64 du 10 novembre 1967 organisant le statut des sociétés à portefeuille;
-o) aux articles 53 à 57 de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
+o) aux articles 83 à 87 de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;
 p) aux articles 11, 15, § 4, et 18 de la loi du 2 mars 1989 relative à la publicité des participations importantes dans les sociétés cotées en bourse et réglementant les offres publiques d'acquisition;
 q) à l'article 139 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre;
 r) à l'article XI.293, XI.303 et XI.304;
+s) à l'article 605 de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance;
 3° par les personnes qui ont été condamnées par une juridiction étrangère pour l'une des infractions spécifiées aux 1° et 2°; l'article 2 de l'arrêté royal n° 22 du 24 octobre 1934 précité est applicable dans ces cas.
 Le Roi peut adapter les dispositions du présent article pour les mettre en concordance avec les lois qui modifient les textes qui y sont énumérés.
