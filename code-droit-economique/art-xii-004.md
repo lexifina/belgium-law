@@ -1,4 +1,4 @@
-Par dérogation à l'article XII.3, les chapitres IIIbis, IIIter, Vbis et Vter de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances restent d'application.
+Par dérogation à l'article XII.3, le Livre II, Titre II, Chapitre V, Section 2 à 4, et le Livre III, Titre Ier de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance sont d'application.
 Par dérogation à l'article XII.3, la publicité pour la commercialisation des parts des organismes de placement collectif en valeurs mobilières visés à l'article 105 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers est soumise à la législation du pays de commercialisation.
 L'article XII.3 ne s'applique pas:
 1° à la liberté des parties de choisir le droit applicable à leur contrat;
