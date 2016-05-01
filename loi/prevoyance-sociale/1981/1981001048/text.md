@@ -275,7 +275,7 @@ La suspension débute avec l'acte introductif d'instance et se termine lorsque l
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009050603" target="_blank">2009-05-06/03</a>, art. 72, 083; En vigueur : 29-05-2009&gt;
 
-<a name="Art.31ter" href="#Art.31bis">Art.</a> <a href="#Art.31quater"> 31ter</a>. [<sup>1</sup> § 1er. Les employeurs ont la possibilité de désigner un mandataire dans le cadre de leur administration sociale.
+<a name="Art.31ter" href="#Art.31bis">Art.</a> <a href="#Art.31quater"> 31ter</a>.[<sup>1</sup> § 1er. Les employeurs ont la possibilité de désigner un mandataire dans le cadre de leur administration sociale.
 § 2. Il existe deux types de mandataires :
 1° les prestataires de services sociaux sont des mandataires qui, au nom et pour le compte d'employeurs, remplissent en relation directe avec les institutions de sécurité sociale, des formalités prévues en matière de sécurité sociale auxquelles les employeurs sont tenus à l'égard desdites institutions.
 Dans les limites du mandat conclu avec l'employeur, ils se chargent d'accompagner les employeurs dans leurs relations avec les institutions telles que définies à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, et de les informer dans ce contexte;
@@ -283,10 +283,11 @@ Dans les limites du mandat conclu avec l'employeur, ils se chargent d'accompagne
 § 3. Pour remplir les formalités prévues en matière de sécurité sociale pour ses employeurs affiliés, le mandataire reçoit un accès au réseau électronique de la sécurité sociale, pour autant qu' :
 1° il s'identifie dûment auprès des services de l'Office national de sécurité sociale ou auprès des services de l'Office national de sécurité sociale des administrations provinciales et locales;
 2° il se conforme aux instructions des administrations concernées;
-3° à la demande des administrations compétentes, il fournisse tous les renseignements ou transmette tout document pour la surveillance de l'application des lois sociales, conformément à la loi du 16 novembre 1972 concernant l'inspection du travail, pour autant que ces renseignements ou ces documents soient nécessaires pour l'exécution des missions du mandataire;
+3° à la demande des administrations compétentes, il fournisse tous les renseignements ou transmette tout document pour la surveillance de l'application des lois sociales, conformément [<sup>2</sup> au Code pénal social]<sup>2</sup>, pour autant que ces renseignements ou ces documents soient nécessaires pour l'exécution des missions du mandataire;
 4° il informe l'Office national de Sécurité sociale ou l'Office national de Sécurité sociale des administrations provinciales et locales, et l'Inspection sociale du Service public fédéral Sécurité sociale, endéans les 15 jours suivant l'événement, de la dénonciation ou de la suppression d'un employeur.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 49, 086; En vigueur : 01-01-2010&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 80, 116; En vigueur : 01-05-2016&gt;
 
 <a name="Art.31quater" href="#Art.31ter">Art.</a> <a href="#LNK0004"> 31quater</a>.[<sup>1</sup> § 1er. Entre l'employeur et son mandataire, un contrat écrit est conclu qui détermine, entre autres, l'objet du mandat, tout en respectant les conditions énoncées ci-après.
 Le mandat peut s'appliquer à la totalité des obligations en matière de sécurité sociale ou à une partie de celles-ci.
@@ -459,7 +460,7 @@ b) Par marins communautaires, il faut entendre tous les marins assujettis dans u
 
 <a name="Art.37sexies" href="#Art.37quinquies">Art.</a> <a href="#Art.38"> 37sexies</a>. (Abrogé) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042444" target="_blank">2014-04-24/44</a>, art. 25, 104; En vigueur : 01-01-2014&gt;
 
-<a name="Art.38" href="#Art.37sexies">Art.</a> <a href="#Art.%2038%20DROIT%20FUTUR.%20:%2001-01-2017."> 38</a>.&lt;ARN96 28-9-1982, art. 1.&gt;
+<a name="Art.38" href="#Art.37sexies">Art.</a> <a href="#Art.38%20DROIT%20FUTUR"> 38</a>.&lt;ARN96 28-9-1982, art. 1.&gt;
 § 1er.
 Les cotisations de sécurité sociale sont calculées sur base de la rémunération complète du travailleur, visée à l'article 23.
 
@@ -778,7 +779,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">30</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 16, 113; En vigueur : 01-12-2015&gt;
 (<font color="red">31</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015122604" target="_blank">2015-12-26/04</a>, art. 17, 114; En vigueur : 01-04-2016&gt;
 
-<a name="Art.%2038%20DROIT%20FUTUR.%20:%2001-01-2017." href="#Art.38">Art.</a> <a href="#Art.%2038%20DROIT%20FUTUR.">38 DROIT FUTUR</a>.{fut} AU 01-01-2017
+<a name="Art.38%20DROIT%20FUTUR" href="#Art.38">Art.</a> <a href="#Art.38%20DROIT%20FUTUR"> 38 DROIT FUTUR</a>.{fut} AU 01-01-2017
 &lt;ARN96 28-9-1982, art. 1.&gt;
 § 1er.
 Les cotisations de sécurité sociale sont calculées sur base de la rémunération complète du travailleur, visée à l'article 23.
@@ -1112,7 +1113,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">31</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015122604" target="_blank">2015-12-26/04</a>, art. 17, 114; En vigueur : 01-04-2016&gt;
 (<font color="red">32</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 66, 096; En vigueur : 01-01-2017&gt;
 
-<a name="Art.%2038%20DROIT%20FUTUR." href="#Art.%2038%20DROIT%20FUTUR.%20:%2001-01-2017.">Art.</a> <a href="#Art.38bis">38 DROIT FUTUR</a>.{fut} AU 01-01-2018
+<a name="Art.38%20DROIT%20FUTUR" href="#Art.38%20DROIT%20FUTUR">Art.</a> <a href="#Art.38bis"> 38 DROIT FUTUR</a>.{fut} AU 01-01-2018
 &lt;ARN96 28-9-1982, art. 1.&gt;
 § 1er.
 Les cotisations de sécurité sociale sont calculées sur base de la rémunération complète du travailleur, visée à l'article 23.
@@ -1448,7 +1449,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">32</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 66, 096; En vigueur : 01-01-2017&gt;
 (<font color="red">33</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015122604" target="_blank">2015-12-26/04</a>, art. 19, 114; En vigueur : 01-01-2018&gt;
 
-<a name="Art.38bis" href="#Art.38">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
+<a name="Art.38bis" href="#Art.38%20DROIT%20FUTUR">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
 
 <a name="Art.39" href="#Art.38bis">Art.</a> <a href="#Art.39bis"> 39</a>. &lt;AR 1989-03-01/36, art. 5, 2°, 015; <b> En vigueur : </b> 01-01-1989&gt; (§ 1er. Une retenue égale au total des taux de cotisations des travailleurs salariés fixés à l'article 38, § 2, est opérée sur la partie du pécule de vacances légal qui ne correspond pas à la rémunération normale pour les jours de vacances, à l'exception du double pécule de vacances légal à partir du troisième jour de la quatrième semaine de vacances.) &lt;L 2001-05-22/36, art. 10, 050; <b> En vigueur : </b> 01-01-2001&gt;
 § 2. La retenue prévue au § 1er est opérée par le débiteur du pecule de vacances au moment de son paiement.
