@@ -1,0 +1,275 @@
+C.13.0256.N
+
+Conclusie van advocaat-generaal Van Ingelgem:
+
+I. SITUERING
+
+1. Volgens de stukken waarop het Hof vermag acht te slaan werd de NV Elia System Operator (hierna "Elia") op federaal niveau aangewezen als transmissienetbeheerder in de zin van artikel 2, 8°, van de Wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt (hierna "Elektriciteitswet"), zodat zij instond voor het beheer van het transmissienet op het Belgische grondgebied.
+
+Op 30 juni 2011 diende Elia bij eiseres een tariefvoorstel in voor de reguleringsperiode 2012-2015. Bij beslissing van 24 november 2011 heeft eiseres dit tariefvoorstel verworpen.
+
+Op 13 december 2011 diende Elia een aangepast tariefvoorstel in, dat zeven soorten tarieven omvatte. Bij beslissing van 22 december 2011 heeft het directiecomité van eiseres dit aangepaste tariefvoorstel goedgekeurd.
+
+2. Op 20 en 23 januari 2012 tekenden verweersters hoger beroep aan tegen deze beslissing bij het hof van beroep te Brussel op grond van de artikelen 29bis en 29quater van de Elektriciteitswet. Zij vorderden zowel de schorsing als de vernietiging van de beslissing van eiseres.
+
+3. Bij arrest van 6 februari 2013 vernietigde het hof van beroep te Brussel de beslissing van eiseres, aangezien zij de taalwet in bestuurszaken schendt; zij op verkeerde rechtsgronden is genomen; zij niet afdoende gemotiveerd is; het goedgekeurde injectietarief onwettig is; het goedgekeurde tarief voor ondersteunende diensten onwettig is en de goedgekeurde "volume fee" onwettig is.
+
+4. Tegen deze beslissing voert eiseres zeven middelen tot cassatie aan.
+
+II. BESPREKING VAN DE MIDDELEN
+
+1. In het eerste middel komt eiseres op tegen de beslissing van de appelrechters dat de aangevochten beslissing van 22 december 2011 houdende goedkeuring van het tariefvoorstel nietig is wegens schending van de taalwet in bestuurszaken.
+
+1.1. In het eerste onderdeel voert eiseres in dat verband de schending aan van artikel 149 van de Grondwet en van de artikelen 40, tweede lid, 41, §2, en 42 van de Wet van 18 juli 1966 op het gebruik van de talen in bestuurszaken (hierna "Taalwet Bestuurszaken"). Volgens eiseres zouden de appelrechters de aangevochten beslissing de ene keer beschouwen als een document zoals bedoeld in artikel 42 Taalwet Bestuurszaken en de andere keer als een bericht of mededeling zoals bedoeld in artikel 40 van deze wet, zodat het bestreden arrest op een tegenstrijdige of minstens dubbelzinnige motivering zou berusten. Bovendien werpt eiseres op dat de aangevochten beslissing van 22 december 2011 geen bericht of mededeling is in de zin van artikel 40 Taalwet Bestuurszaken, maar een individuele beslissing in de zin van de artikelen 41, §2 en 42 van voormelde wet.
+
+In zoverre het onderdeel een tegenstrijdigheid of dubbelzinnigheid van het bestreden arrest aanvoert, lijkt het mij op een onjuiste lezing of interpretatie ervan te berusten en mitsdien feitelijke grondslag te missen, nu de appelrechters oordelen dat de bedoelde beslissing "valt onder de categorie ‘berichten en mededelingen' bedoeld in art. 40, tweede lid [Taalwet Bestuurszaken]" en dat het "daarbij duidelijk niet [gaat] om één van de administratieve akten die bedoeld worden in artikel 42" (r.o. 41).
+
+1.1.2. Krachtens artikel 40, tweede lid, Taalwet Bestuurszaken worden de berichten en mededelingen die de centrale diensten rechtstreeks aan het publiek richten in het Nederlands en in het Frans gesteld.
+
+Krachtens artikel 41, §1, Taalwet Bestuurszaken maken de centrale diensten voor hun betrekkingen met de particulieren gebruik van die van de drie talen waarvan de betrokkenen zich hebben bediend. Krachtens artikel 41, §2, Taalwet Bestuurszaken wordt aan de private bedrijven, die gevestigd zijn in een gemeente zonder speciale regeling uit het Nederlandse of uit het Franse taalgebied, echter in de taal van dat gebied geantwoord.
+
+Krachtens artikel 42 Taalwet Bestuurszaken stellen de centrale diensten de akten, getuigschriften, verklaringen, machtigingen en vergunningen in die van de drie talen waarvan de belanghebbende particulier het gebruik vraagt.
+
+Uit deze bepalingen volgt dat de berichten en mededelingen van de centrale diensten, waarvan sprake is in artikel 40 Taalwet Bestuurszaken, deze zijn die bestemd zijn voor het publiek in het algemeen. Zij worden zonder onderscheid des persoons en steeds op identieke wijze verspreid door een overheid. De eindcriteria zijn aldus de identieke aard van de vermeldingen en de min of meer ruime toegankelijkheid van de stukken(1). De akten en overige stukken waarvan sprake is in de artikelen 41 en 42 van voormelde wet zijn daarentegen van toepassing op de geïndividualiseerde betrekkingen van de overheid met particulieren en private bedrijven(2). Een akte vormt als zodanig in het algemeen een geschrift waarin een handeling wordt opgetekend en dat dient om die handeling te bewijzen(3).
+
+De appelrechters stellen onaantastbaar vast dat de eiseres een centrale dienst is waarvan de werkkring het ganse land bestrijkt in de zin van de vermelde taalwet (r.o. 41), dat de bestreden beslissing de goedkeuring inhoudt van het totale inkomen van Elia System Operator nv, die sedert 17 september 2002 op federaal niveau is aangewezen als netbeheerder, voor de gereguleerde periode 2012-2015, van een tariefvoorstel en van nettarieven die betrekking hebben op het gehele Belgische grondgebied (r.o. 8 jo 41) en dat de tarieven die door de bestreden beslissing worden vastgelegd de consument rechtstreeks raken en de eiseres verplicht is tot bekendmaking van deze beslissing ten behoeve van het publiek, opdat het kennis zou kunnen nemen van deze beslissing (r.o. 36).
+
+Krachtens artikel 37.16 van de Richtlijn 2009/72/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van Richtlijn 2003/54/EG (hierna "Derde Elektriciteitsrichtlijn") zijn de door de regulerende instantie genomen besluiten voor het publiek beschikbaar, waarbij de vertrouwelijkheid van commercieel gevoelige informatie behouden blijft.
+
+Krachtens artikel 29septies Elektriciteitswet zijn de definitieve versies van de beslissingen van het directiecomité van de Commissie openbaar en worden zij gepubliceerd op de website van de Commissie, waarbij de vertrouwelijkheid van de commercieel gevoelige informatie en/of persoonsgegevens wordt gevrijwaard.
+
+Krachtens artikel 23, §1, van het koninklijk besluit van 8 juni 2007 betreffende de regels met betrekking tot de vaststelling van en de controle op het totaal inkomen en de billijke winstmarge, de algemene tariefstructuur, het saldo tussen kosten en ontvangsten en de basisprincipes en procedures inzake het voorstel en de goedkeuring van de tarieven, van de rapportering en kostenbeheersing door de beheerder van het nationaal transmissienet, maakt de Commissie haar beslissing tot het goedkeuren of verwerpen van het tariefvoorstel voor de volgende regulatoire periode, alsook deze tot tariefhernieuwing of tariefactualisering onverwijld bekend in het Belgisch Staatsblad, alsook langs elektronische weg op haar internet website.
+
+In zoverre uit de vaststellingen van de appelrechters en het vereiste van publicatie in voormelde bepalingen aldus blijkt dat de bestreden beslissing van eiseres niet enkel gericht was tot de netbeheerder die het voorstel had ingediend, maar ook tot elke mogelijke gebruiker in welk taalgebied deze zich ook bevindt, zonder onderscheid des persoons, komt het mij voor dat de reeds hierboven gestelde criteria die berichten of mededelingen in de zin van artikel 40 Taalwet Bestuurszaken karakteriseren, namelijk de identieke aard van de vermeldingen en de ruime toegankelijkheid van de stukken, bijgevolg vervuld zijn.
+
+Naar mijn mening vermochten de appelrechters aldus naar recht te oordelen dat de bestreden beslissing van eiseres valt onder de categorie "berichten of mededelingen" zoals bedoeld in artikel 40, tweede lid, Taalwet Bestuurszaken.
+
+In zoverre het eerste onderdeel de schending aanvoert van de artikelen 40, tweede lid, 41, §2, en 42 Taalwet Bestuurszaken, kan het naar mijn mening niet worden aangenomen.
+
+1.2. In het tweede onderdeel voert eiseres de schending aan van artikel 58 Taalwet Bestuurszaken, doordat de appelrechters de in deze bepaling voorziene nietigheidssanctie toepassen. Volgens eiseres brengt een vermelding in een andere taal dan de door de Taalwet Bestuurszaken aangeduide taal niet noodzakelijk de nietigheid van de bestuurshandeling met zich mee, wanneer de passage in de wettelijke taal in substantie wordt weergegeven, met name door een vrije vertaling.
+
+In zoverre het onderdeel ervan uitgaat dat voor alle passages in het Frans een vrije vertaling in het Nederlands werd verstrekt in de bestreden beslissing, zodat alle passages in het Nederlands in substantie werden weergegeven, lijkt het naar mijn mening op een onvolledige lezing van het arrest te berusten en mitsdien feitelijke grondslag te missen (cf. r.o. 39 en 42).
+
+Krachtens artikel 58, eerste lid, Taalwet Bestuurszaken, zijn nietig alle administratieve handelingen en verordeningen, die naar vorm of naar inhoud, strijdig zijn met de bepalingen van deze gecoördineerde wetten.
+
+Krachtens het tweede lid van deze bepaling wordt de nietigheid van die handelingen en verordeningen vastgesteld op verzoek van iedere belanghebbende, hetzij, door de overheid van wie die handelingen en verordeningen uitgaan, hetzij naar gelang van het geval en de rangorde van hun respectieve bevoegdheden, door de toezichthoudende overheid, de hoven en rechtbanken of de Raad van State.
+
+De rechtsleer erkent dat uit de imperatieve bewoordingen van voormeld artikel 58, eerste lid, blijkt dat deze bepaling van openbare orde is. De rechter dient de nietigheidssanctie, naargelang het geval bij toepassing van artikel 159 van de Grondwet, dus toe te passen ongeacht het bestaan van enig geschaad belang. Dit betekent dat de rechter de nietigheid moet vaststellen, zodra hij tot de bevinding komt dat een handeling of akte strijdig is met de dwingende voorschriften van de wet(4).
+
+In dit verband oordeelde de Raad van State in een arrest van 16 maart 2006 dat artikel 58, tweede lid, Taalwet Bestuurszaken geenszins in een facultatieve bevoegdheid voorziet, maar de toezichthoudende overheid ertoe verplicht op verzoek van elke belanghebbende de handelingen te vernietigen die in strijd zijn met de Taalwet Bestuurszaken(5).
+
+Hieruit dient naar mijn mening te volgen dat, wanneer de rechter vaststelt dat bepaalde passages van een bericht of mededeling in de zin van artikel 40, tweede lid, Taalwet Bestuurszaken in het geheel niet werden vertaald in het Nederlands of het Frans, hij geen keuzemogelijkheid heeft. Hij is dan verplicht de nietigheid van de akte vast te stellen of uit te spreken.
+
+In zoverre het onderdeel ervan uitgaat dat beperkte vermeldingen in een andere taal dan de wettelijke taal niet de nietigheid van de volledige akte met zich meebrengen, faalt het naar mijn mening derhalve naar recht.
+
+1.3. In het derde onderdeel voert eiseres de schending aan van artikel 267 van het Verdrag betreffende de werking van de Europese Unie (hierna "VWEU"), doordat de appelrechters weigeren een prejudiciële vraag te stellen aan het Hof van Justitie van de Europese Unie op grond van hetgeen waarschijnlijk het standpunt van het Hof van Justitie zou zijn, terwijl het wettelijk criterium is dat er geen ruimte voor redelijke twijfel mag bestaan.
+
+Krachtens artikel 267, eerste alinea, VWEU, is het Hof van Justitie van de Europese Unie bevoegd, bij wijze van prejudiciële beslissing, een uitspraak te doen a) over de uitlegging van de Verdragen, b) over de geldigheid en de uitlegging van de handelingen van de instellingen, de organen of de instanties van de Unie.
+
+Luidens de tweede alinea van deze bepaling kan, indien een vraag te dien aanzien wordt opgeworpen voor een rechterlijke instantie van een der lidstaten, deze instantie, indien zij een beslissing op dit punt noodzakelijk acht voor het wijzen van haar vonnis, het Hof van Justitie verzoeken over deze vraag een uitspraak te doen.
+
+Luidens de derde alinea is, indien een vraag te dien aanzien wordt opgeworpen in een zaak aanhangig bij een nationale rechterlijke instantie waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, deze instantie gehouden zich tot het Hof te wenden.
+
+Uit de tweede alinea van voormeld artikel 267 VWEU volgt aldus dat een rechterlijke instantie waarvan de beslissing volgens het nationale recht nog vatbaar is voor hoger beroep, de mogelijkheid heeft om het Hof van Justitie een prejudiciële vraag te stellen over de uitlegging van het Unierecht, zonder dat zij daartoe verplicht is.(6) Het staat de nationale rechter in dat geval vrij om te beoordelen of het eventueel noodzakelijk is om het Hof van Justitie een prejudiciële uitleggingsvraag te stellen(7).
+
+Uit de derde alinea van deze bepaling blijkt daarentegen dat een rechterlijke instantie waarvan de beslissingen niet vatbaar zijn voor hoger beroep, de verplichting heeft om aan het Hof van Justitie een prejudiciële vraag te stellen over de uitlegging van het Unierecht(8). Deze regel wil voorkomen dat de hoogste rechtspraak in een lidstaat zich ontwikkelt in strijd met het Unierecht en daardoor andere rechterlijke instanties van die lidstaat in dezelfde zin dreigen te oordelen(9). Deze derde alinea viseert dus rechterlijke uitspraken waartegen geen rechtsmiddel openstaat. Het gaat om beslissingen van de hoogste rechters en andere beslissingen waartegen geen cassatieberoep kan worden ingesteld(10).
+
+In de arresten CILFIT en, recenter, Intermodal Transports heeft het Hof van Justitie nochtans drie uitzonderingen geformuleerd op de verplichting voor de hoogste rechtscolleges om een prejudiciële vraag te stellen. Een nationale rechterlijke instantie waarvan de beslissingen niet vatbaar zijn voor hoger beroep, is gehouden een vraag van Unierecht die voor haar rijst, naar het Hof van Justitie te verwijzen, tenzij zij heeft vastgesteld dat: (1) de opgeworpen vraag niet relevant is (d.w.z. dat zij een beslissing op dat punt niet noodzakelijk acht om tot een uitspraak te komen) of (2) de betrokken Uniebepaling door het Hof reeds is uitgelegd (dit betreft een "acte éclairé") of (3) de juiste toepassing van het Unierecht zo evident is, dat redelijkerwijze geen ruimte voor twijfel kan bestaan (dit betreft een "acte clair"). Bij de vraag of zulk geval zich voordoet, moet rekening worden gehouden met de eigen kenmerken van het Unierecht, de bijzondere moeilijkheden bij de uitlegging ervan en het gevaar van uiteenlopende rechtspraak binnen de Unie(11).
+
+Het criterium dat "er geen ruimte voor redelijke twijfel mag bestaan" opdat de nationale rechter overeenkomstig artikel 267 VWEU niet verplicht zou zijn een prejudiciële vraag te stellen, geldt aldus uitsluitend voor de nationale rechter tegen wiens beslissingen geen rechtsmiddel meer openstaat, maar niet voor de rechter tegen wiens beslissingen wel nog een rechtsmiddel openstaat. In casu geldt dit criterium dus niet voor de appelrechters, wier beslissing nog vatbaar is voor een cassatieberoep.
+
+Het onderdeel dat van een andere rechtsopvatting uitgaat, faalt naar mijn mening dan ook naar recht.
+
+2. In het tweede middel komt eiseres op tegen de beslissing van de appelrechters dat de aangevochten beslissing van 22 december 2011 houdende goedkeuring van het tariefvoorstel nietig is omdat zij op grond van verkeerde rechtsgronden is genomen.
+
+2.1. In het eerste onderdeel voert eiseres een schending aan van artikel 4, §3, van het Verdrag betreffende de Europese Unie (hierna "VEU"), artikel 288 VWEU en het algemeen rechtsbeginsel van de primauteit van bepalingen van het internationaal recht met een rechtstreekse werking op bepalingen van het nationale recht. De appelrechters oordelen dat de interpretatie van de Elektriciteitswet, zoals van toepassing vóór de wijziging bij wet van 8 januari 2012 (hierna "oude Elektriciteitswet") conform de Derde Elektriciteitsrichtlijn eiseres de nodige rechtsgrond verstrekte om over de goedkeuring van het tariefvoorstel te beslissen. Na het verstrijken van de omzettingstermijn van de Derde Elektriciteitsrichtlijn, zonder dat deze richtlijn werd omgezet in het Belgische recht, mocht eiseres de toepassing van de oude Elektriciteitswet niet zonder meer terzijde stellen en niet enkel de Derde Elektriciteitsrichtlijn in aanmerking nemen.
+
+Volgens eiseres is de beslissing van de appelrechters niet naar recht verantwoord, aangezien zij als overheidsinstantie de plicht had om het door de Derde Elektriciteitsrichtlijn beoogde resultaat te bereiken. Zij diende deze richtlijn bijgevolg als zodanig uit te voeren, ongeacht of de voorwaarden voor een rechtstreekse toepassing van deze richtlijn voorhanden waren of niet.
+
+Artikel 4, §3, eerste alinea, VEU bepaalt dat, krachtens het beginsel van loyale samenwerking de Unie en de lidstaten elkaar respecteren en steunen bij de vervulling van de taken die uit de Verdragen voortvloeien.
+
+Luidens de tweede alinea van deze bepaling treffen de lidstaten alle algemene en bijzondere maatregelen die geschikt zijn om de nakoming van de uit de Verdragen of uit de handelingen van de instellingen van de Unie voortvloeiende verplichtingen te verzekeren.
+
+De laatste alinea bepaalt dat de lidstaten de vervulling van de taak van de Unie vergemakkelijken en zich onthouden van alle maatregelen die de verwezenlijking van de doelstellingen van de Unie in gevaar kunnen brengen.
+
+Artikel 288, derde alinea, VWEU bepaalt dat een richtlijn verbindend is ten aanzien van het te bereiken resultaat voor elke lidstaat waarvoor zij bestemd is, doch aan de nationale instanties wordt de bevoegdheid gelaten vorm en middelen te kiezen.
+
+Uit deze beginselen vloeit voort dat, telkens wanneer de toepassing van een nationale norm dreigt te leiden tot een conflict met een norm van Unierecht, eerst moet worden onderzocht of de normen niet zodanig kunnen worden uitgelegd en toegepast dat een conflict wordt vermeden(12). De plicht tot EU-rechtsconforme interpretatie rust volgens het Hof van Justitie, krachtens het beginsel van loyale samenwerking vervat in artikel 4, §3, VEU, op alle nationale overheidsinstanties, dus ook op de rechterlijke instanties(13). Zo is de rechter, na het verstrijken van de omzettingstermijn van een richtlijn, steeds verplicht om het nationale recht richtlijnconform uit te leggen, zelfs nationale rechtsregels die niet specifiek ter omzetting van de richtlijn zijn uitgevaardigd(14).
+
+In deze zin oordeelde het Hof van Justitie in zijn arrest Dominguez van 24 januari 2012:
+
+" 23. (...) dat de vraag of een nationale bepaling voor zover zij indruist tegen het recht van de Unie buiten toepassing moet worden gelaten, zich slechts voordoet indien geen met het recht van de Unie strokende uitlegging van die bepaling mogelijk is.
+
+24. Dienaangaande is het vaste rechtspraak dat de nationale rechter bij de toepassing van het interne recht dit zo veel mogelijk moet uitleggen in het licht van de bewoordingen en het doel van de betrokken richtlijn teneinde het daarmee beoogde resultaat te bereiken en aldus aan artikel 288, derde alinea, VWEU te voldoen. Deze verplichting tot richtlijnconforme uitlegging is namelijk inherent aan het systeem van het VWEU, aangezien het de nationale rechter in staat stelt binnen het kader van zijn bevoegdheden de volle werking van het recht van de Unie te verzekeren bij de beslechting van de bij hem aanhangige geschillen (...)"(15).
+
+Slechts indien een EU-rechtsconforme interpretatie onmogelijk is, en een conflict dus onvermijdelijk lijkt, rijst de vraag naar de rechtstreekse werking van de EU-norm(16). Een richtlijn kan onder bepaalde voorwaarden rechtstreekse werking hebben, wanneer hij nog niet is omgezet in het nationale recht terwijl de termijn hiervoor verstreken is. Hiertoe is vereist dat de richtlijn "voldoende nauwkeurig" en "onvoorwaardelijk" is, d.w.z. dat hij geen tussenkomst vereist van een EU-instelling of een lidstaat(17).
+
+Wanneer deze voorwaarden vervuld zijn, kan een particulier de richtlijn voor de nationale rechter inroepen ten opzichte van een overheidsorgaan (d.i. uitsluitend in de verticale verhouding). Het begrip "overheidsorgaan" wordt ruim uitgelegd, namelijk als elk orgaan dat, ongeacht zijn rechtsvorm, krachtens een handeling van het openbaar gezag onder toezicht van dat gezag met de uitvoering van een dienst van openbaar belang is belast en daartoe over bevoegdheden beschikt die verder gaan dan de voor de betrekkingen tussen particulieren geldende regels(18).
+
+Uit het bovenstaande volgt dat, ingeval de toepassing van een nationale norm dreigt te leiden tot een conflict met een EU-norm, zoals bij niet-tijdige omzetting van een richtlijn, elke nationale overheidsinstantie, ook eiseres, krachtens het beginsel van loyale samenwerking neergelegd in artikel 4, §3, VEU, moet nagaan of het nationale recht zodanig kan worden geïnterpreteerd dat het bedoelde conflict wordt vermeden, met name door een richtlijnconforme uitlegging of toepassing.
+
+Eiseres diende bij het uitoefenen van haar bevoegdheden dus toepassing te maken van de nationale wetgeving, in casu de oude Elektriciteitswet, geïnterpreteerd conform de niet-tijdig omgezette EU-norm, namelijk de Derde Elektriciteitsrichtlijn.
+
+Het onderdeel dat van een andere rechtsopvatting uitgaat, faalt derhalve naar recht.
+
+2.2.1. In het tweede onderdeel, eerste subonderdeel, voert eiseres de schending aan van dezelfde wetsbepalingen als in het eerste onderdeel.
+
+Om dezelfde redenen als hierboven uiteengezet voor het eerste onderdeel, faalt dit onderdeel naar mijn mening dan ook naar recht.
+
+2.2.2. In het tweede subonderdeel voert eiseres een schending aan van de artikelen 14 en 19 van de Verordening nr. 714/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende de voorwaarden voor toegang tot het net voor grensoverschrijdende handel in elektriciteit en tot intrekking van Verordening nr. 1228/2003. De appelrechters oordelen dat eiseres haar beslissing niet mocht nemen op grond van voormelde artikelen 14 en 19, omdat het tariefvoorstel van Elia niet onder het toepassingsgebied van de Verordening nr. 714/2009 valt.
+
+Eiseres voert aan dat deze verordening strekt tot een geharmoniseerd kader inzake de toegang tot het netwerk en tarifering. De richtsnoeren in de vermelde artikelen 14 en 19 betreffende tarifering van de toegang tot het net dienen volgens eiseres dus als algemeen geldende richtsnoeren te worden beschouwd, die ook van toepassing zijn op het tariefvoorstel van Elia.
+
+Uit de titel, de rechtsoverwegingen (3), (6), (11), (13) en (30) en uit de artikelen 1, 13, 14 en 18 van de Verordening nr. 714/2009 blijkt dat deze verordening het verschaffen van een geharmoniseerd kader voor de grensoverschrijdende handel in elektriciteit viseert.
+
+Bijgevolg moeten de daarin gestelde regels tot harmonisatie van de toegang tot het netwerk en tarifering en de bevoegdheden die daartoe aan de nationale regulerende instanties worden toegekend, naar mijn mening aldus uitsluitend in het kader van de grensoverschrijdende handel worden beschouwd.
+
+De appelrechters stellen, na op deze doelstelling te hebben gewezen, vast dat "het tariefvoorstel van Elia evenwel het gebruik van haar transmissienet in de zin van de Elektriciteitswet betreft" (r.o. 58). Hierdoor stellen de appelrechters m.i. onaantastbaar vast dat dit tariefvoorstel ook betrekking heeft op de binnenlandse elektriciteitshandel.
+
+Door vervolgens te oordelen dat het tariefvoorstel "als zodanig niet overeenstemt met de toepassingssfeer van de Verordening" en dat "de beginselen aangegeven in de artikelen 14 en 19 van die Verordening op zich geen afdoende grond verstrekken voor het handelen van [eiseres] tot het door Elia ingediende tariefvoorstel" (r.o. 58-59), verantwoorden de appelrechters hun beslissing dan ook naar recht.
+
+Het subonderdeel kan naar mijn mening dan ook niet worden aangenomen.
+
+(...)
+
+4. In het vierde middel komt eiseres op tegen de beslissing van de appelrechters dat de aangevochten beslissing van 22 december 2011 onwettig is wat betreft het injectietarief, als onderdeel van het goedgekeurde tariefvoorstel van netbeheerder Elia.
+
+4.1. In het eerste onderdeel komt eiseres op tegen het oordeel van de appelrechters dat het goedgekeurde injectietarief in strijd is met de punten (2) en (3) van deel B van de Verordening nr. 838/2010 van de Commissie van 23 september 2010 betreffende de vaststelling van richtsnoeren met betrekking tot het vergoedingsmechanisme voor elektriciteitsstromen tussen transmissienetbeheerders en een gemeenschappelijke regelgevingsaanpak voor de transmissietarifering, aangezien het injectietarief werd berekend op grond van algemene in plaats van individuele "jaarlijkse gemiddelde transmissietarieven" en omdat dit tarief het maximum van de toegelaten vork tussen 0 en 0,5 euro per MWh overschreed.
+
+Artikel 2 van de Verordening nr. 838/2010 bepaalt dat de door netwerkbeheerders toegepaste tarieven voor toegang tot het transmissiesysteem in overeenstemming dienen te zijn met de in deel B van de bijlage gegeven richtsnoeren.
+
+Deze richtsnoeren bepalen in punt (2) dat de waarde van de door de producenten betaalde jaarlijkse gemiddelde transmissietarieven gelijk is aan de waarde van de door de producenten betaalde jaarlijkse totale transmissietarieven gedeeld door de waarde van de totale gemeten energie die jaarlijks door de producten in het transmissiesysteem van een lidstaat is ingebracht.
+
+In punt (3) schrijven de richtsnoeren voor dat de waarde van de door de producenten betaalde jaarlijkse gemiddelde transmissietarieven binnen een marge van 0 à 0,5 euro/MWh ligt.
+
+(...)
+
+4.1.2. In het tweede subonderdeel voert eiseres de schending aan van punt (3) van deel B van de Verordening nr. 838/2010, doordat de appelrechters op grond van deze bepaling afleiden dat een individueel gemiddelde dient te worden gehanteerd, terwijl deze bepaling volgens eiseres een berekening van het gemiddelde op grond van de globale sector vooropstelt.
+
+Daarnaast werpt eiseres een schending op van de artikelen 1349 en 1353 Burgerlijk Wetboek en een miskenning van de bewijskracht van de schriftelijke nota van eiseres, vervat in de artikelen 1319, 1320 en 1322 Burgerlijk Wetboek, doordat de appelrechters enkel de cijfers van eerste verweerster, Electrabel nv (hierna "Electrabel") in aanmerking nemen en niet die van Elia, terwijl eiseres de cijfers van Electrabel had betwist.
+
+Anders dan eiseres voorhoudt, leiden de appelrechters niet op grond van punt (3) van deel B van Verordening nr. 838/2010 af dat een individueel gemiddelde dient te worden gehanteerd bij de berekening van de in dit punt aangehaalde "door de producenten betaalde jaarlijkse gemiddelde transmissietarieven", maar op grond van het voorbereidende document, waarvan sprake in het eerste subonderdeel.
+
+Het subonderdeel lijkt mij in zoverre op een verkeerde lezing te berusten en mitsdien feitelijke grondslag te missen.
+
+De appelrechters oordelen dat "Elia in haar voorstel voor de berekening van het injectietarief en met name voor de becijfering van het plafond van 0.5 Eur/MWh [...] de totale jaarlijkse in het transmissienet geïnjecteerde elektriciteit als basis heeft genomen, zonder acht te slaan op de omvang van de elektriciteit van producenten die zij van een injectietarief vrijstelt.".
+
+Anders dan eiseres aanvoert, blijkt hieruit niet dat de appelrechters enkel de cijfers van Electrabel in aanmerking nemen.
+
+In zoverre lijkt het subonderdeel mij derhalve opnieuw op een verkeerde lezing te berusten en mitsdien feitelijke grondslag te missen.
+
+Verder leiden de appelrechters hierdoor m.i. niet een onbekend feit af uit een ander onbekend feit, noch miskennen zij de bewijskracht van de nota van de eiseres door het erin ontwikkelde verweer te verwerpen, zodat mij in zoverre lijkt dat het subonderdeel niet kan worden aangenomen.
+
+4.2. In het tweede onderdeel komt eiseres op tegen het oordeel van de appelrechters dat het goedgekeurde injectietarief discriminerend is en dus in strijd met artikel 32.1 Derde Elektriciteitsrichtlijn en artikel 12ter oude Elektriciteitswet, omdat dit tarief enkel wordt aangerekend aan de centrales die in dienst werden gesteld vóór 1 oktober 2002, terwijl de door de injectiekost gedekte dienst, namelijk de toegang tot het net, dezelfde is voor alle centrales en de aansluitingskost voor de centrales van na 1 oktober 2002 niet in verhouding staat tot de aan die centrales verleende vrijstelling van het injectietarief.
+
+4.2.1. In het eerste subonderdeel voert eiseres schending aan van de artikelen 36 en 37 Derde Elektriciteitsrichtlijn, bepaalde richtsnoeren van artikel 12, §§5 en 10, Elektriciteitswet, zoals gewijzigd bij wet van 8 januari 2012 (hierna "nieuwe Elektriciteitswet") en punt (3) van deel B van de Verordening nr. 838/2010, doordat de appelrechters hun beslissing op artikel 32.1 Derde Elektriciteitsrichtlijn steunen, dat in zeer algemene bewoordingen is opgesteld, terwijl de artikelen 36 en 37 van dezelfde richtlijn als specifiek kunnen worden gekwalificeerd en op artikel 32.1 dienen te primeren. Eiseres voert aan dat de nader bepaalde richtsnoeren van de artikelen 36 en 37 van de Derde Elektriciteitsrichtlijn, artikel 12, §§5 en 10, van de nieuwe Elektriciteitswet en punt (3) van deel B van de Verordening nr. 838/2010 haar een beleidsmarge toekennen die haar toelaat de door het injectietarief gedekte kosten niet toe te rekenen aan alle producenten die de kosten veroorzaken door injectie van elektriciteit in het net.
+
+Artikel 32.1 Derde Elektriciteitsrichtlijn bepaalt dat de lidstaten zorg dragen voor de invoering van een systeem voor toegang van derden tot de transmissie- en distributiesystemen, gebaseerd op bekendgemaakte tarieven die voor alle in aanmerking komende afnemers gelden en die objectief worden toegepast zonder onderscheid te maken tussen systeemgebruikers.
+
+De artikelen 36 en 37 Derde Elektriciteitsrichtlijn regelen de algemene doelstellingen, de taken en bevoegdheden van de regulerende instantie.
+
+Er ligt aldus een verschillende doelstelling ten grondslag aan voornoemde bepalingen: enerzijds betreft artikel 32.1 van de Derde Elektriciteitsrichtlijn de toegang van derden tot het transmissie- en distributiesysteem, gegrond op transparantie en non-discriminatie. Deze bepaling maakt deel uit van het hoofdstuk VIII betreffende de "Organisatie van de toegang tot het systeem". Anderzijds hebben de artikelen 36 en 37 van dezelfde richtlijn de algemene doelstelling, taak en bevoegdheden van de regulerende instantie tot voorwerp. Zij maken deel uit van het hoofdstuk IX over de nationale regulerende instanties.
+
+Uit deze onderscheiden doelstelling lijkt mij te volgen dat deze bepalingen zich niet als een lex generalis ten opzichte van een lex specialis verhouden, zodat hieruit niet kan worden afgeleid dat de artikelen 36 en 37 primeren op het artikel 32.1 van de richtlijn.
+
+In zoverre het subonderdeel uitgaat van een andere rechtsopvatting, faalt het naar mijn mening naar recht.
+
+Verder kunnen de in het subonderdeel aangevoerde bepalingen, waardoor een zekere beleidsmarge aan de regulator wordt toegestaan, er naar mijn mening niet toe leiden dat een injectietarief ingaat tegen de regels van niet-discriminatie en transparantie, opgelegd door de in het onderdeel aangevoerde bepalingen van de Derde Elektriciteitsrichtlijn en van de Elektriciteitswet.
+
+Ook in zoverre faalt het subonderdeel m.i. eveneens naar recht.
+
+(...)
+
+4.2.5. In het vijfde subonderdeel voert eiseres schending aan van de artikelen 36 en 37 Derde Elektriciteitsrichtlijn, en van bepaalde richtsnoeren van artikel 12, §5, nieuwe Elektriciteitswet, doordat de appelrechters het injectietarief als discriminerend beschouwen, terwijl de aangevoerde bepalingen eiseres toelaten om een beleid te voeren en het beginsel van niet-discriminatie enkel geldt "in het raam van klantgerichte systemen" en voor de "balanceringsdiensten".
+
+Zoals uiteengezet in het antwoord op het eerste subonderdeel van dit onderdeel , laat een zekere beleidsmarge aan de regulator niet toe dat een injectietarief ingaat tegen de regels van niet-discriminatie en transparantie, vervat in de Derde Elektriciteitsrichtlijn en de Elektriciteitswet.
+
+Zoals reeds hoger vermeld moeten krachtens artikel 32.1 van de Derde Elektriciteitsrichtlijn de bekendgemaakte tarieven voor alle in aanmerking komende afnemers gelden en objectief worden toegepast zonder onderscheid te maken tussen systeemgebruikers.
+
+Hieruit volgt naar mijn mening dat de verplichting voor de regulator om, binnen het kader van zijn beleid, het principe van niet-discriminatie na te leven, een algemene gelding heeft.
+
+Het onderdeel dat ervan uitgaat dat het beginsel van niet-discriminatie in het kader van het door eiseres te voeren beleid, slechts geldt "in het raam van klantgerichte systemen" en voor de "balanceringsdiensten" van de Derde Elektriciteitsrichtlijn, faalt m.i. dan ook naar recht.
+
+(...)
+
+4.2.7. In het zevende subonderdeel voert eiseres schending aan van artikel 3 van de Wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van bestuurshandelingen en artikel 37.16 Derde Elektriciteitsrichtlijn, doordat de appelrechters vereisen dat eiseres uitdrukkelijk motiveert waarom zij zich aansluit bij de motieven die Elia ter ondersteuning van haar tariefvoorstel heeft gegeven. Volgens eiseres dient zij, wanneer zij het tariefvoorstel van Elia goedkeurt, niet te motiveren waarom zij de argumentatie ter ondersteuning van dit voorstel bijtreedt, omdat dit een punt betreft waarvan Elia als indiener van het voorstel kennis heeft.
+
+Krachtens artikel 3 van de Wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van bestuurshandelingen moet de opgelegde motivering in de akte de juridische en feitelijke overwegingen vermelden die aan de beslissing ten grondslag liggen en moet de opgelegde motivering afdoende zijn.
+
+Volgens de vaststaande rechtspraak van de Raad van State houdt het afdoende karakter van de motivering in dat deze pertinent moet zijn, d.w.z. dat zij duidelijk te maken moet hebben met de beslissing(19). Zij moet daarenboven daadkrachtig zijn, d.w.z. dat de aangehaalde redenen moeten volstaan om de beslissing te schragen(20). De motivering moet de betrokkene ook in staat stellen om met nuttig gevolg te kunnen opkomen tegen de bestuurshandeling in kwestie en moet het de rechter mogelijk maken zijn legaliteitscontrole uit te oefenen(21).
+
+Zo oordeelde de Raad van State in een recent arrest van 8 november 2012 dat "de belangrijkste bestaansreden van de motiveringsplicht, zoals opgelegd door de motiveringswet, erin bestaat dat de betrokkene in de hem aanbelangende beslissing zelf de motieven moet kunnen aantreffen op grond waarvan ze werd genomen, derwijze dat blijkt, of minstens kan worden nagegaan of de overheid is uitgegaan van gegevens die in rechte en in feite juist zijn, of zij die gegevens correct heeft beoordeeld, en of zij op grond daarvan in redelijkheid tot haar beslissing is kunnen komen, opdat de betrokkene met kennis van zaken zou kunnen uitmaken of het aangewezen is de beslissing met een annulatieberoep te bestrijden"(22).
+
+Uit deze rechtspraak volgt aldus dat de motivering eenieder die gerechtigd is om op te komen tegen de bestuurshandeling, in staat moet stellen te beoordelen of hij dit met nuttig gevolg kan doen. Hiertoe moet hij zelf de motieven kunnen aantreffen op grond waarvan de bestreden beslissing werd genomen.
+
+Krachtens artikel 6 van de Wet 29 juli 1991 betreffende de uitdrukkelijke motivering van bestuurshandelingen is deze wet slechts van toepassing op de bijzondere regelingen waarbij de uitdrukkelijke motivering van bepaalde bestuurshandelingen is voorgeschreven, in zoverre deze regelingen minder strenge verplichtingen opleggen dan die bepaald in de voorafgaande artikelen.
+
+Uit deze bepaling volgt dat de strengste motiveringsplicht van toepassing moet zijn.
+
+Artikel 12, §7, nieuwe Elektriciteitswet bepaalt dat de commissie het tariefvoorstel onderzoekt, beslist over de goedkeuring van deze en haar gemotiveerde beslissing meedeelt aan de distributienetbeheerder met inachtneming van de invoerings- en goedkeuringsprocedure voor de tarieven.
+
+Aangezien de motiveringsverplichting opgelegd door vermeld artikel 12, §7, minstens dezelfde draagwijdte heeft als die vervat in artikel 3 van de Wet 29 juli 1991 betreffende de uitdrukkelijke motivering van bestuurshandelingen, is artikel 6 van deze wet van toepassing.
+
+In de rechtsleer wordt de opvatting verdedigd dat de beslissing van de regulator een ruime maatschappelijke relevantie heeft, zodat niet enkel de netbeheerder, maar ook elke netgebruiker - zoals de producenten en de consumenten - een belang kan aantonen om tegen goedkeuringsbeslissingen van de regulator op te komen(23).
+
+Uit de rechtspraak van de Raad van State en de rechtsleer volgt, naar mijn mening, dan ook dat de in artikel 12, §7, nieuwe Elektriciteitswet neergelegde verplichting voor de regulator om zijn gemotiveerde beslissing over het tariefvoorstel mede te delen aan de netbeheerder, niet enkel geldt ten aanzien van de netbeheerder, als indiener van het tariefvoorstel, en de rechter, maar tevens ten aanzien van elke betrokkene die tegen de bestuurshandeling kan opkomen.
+
+De rechtsleer bevestigt dat het in dit raam noodzakelijk is voor de regulator om zijn beslissingen inzake tarifaire voorwaarden en goedgekeurde tariefvoorstellen uitdrukkelijk te motiveren, in overeenstemming met de vereisten in de rechtspraak van de Raad van State: deze beslissingen moeten toegankelijk worden gemaakt, zodat de personen die er een belang bij hebben, volledig op de hoogte zijn van de redenen die de gemaakte keuzes gemotiveerd hebben en de garantie hebben van de onpartijdigheid waarmee de regulator zijn verplichtingen vervult en zijn bevoegdheden uitoefent(24).
+
+Deze opvatting dient naar mijn mening te worden onderschreven. Uit het vereiste, ontwikkeld in de rechtspraak van de Raad van State, dat de motivering eenieder die gerechtigd is om op te komen tegen de bestuurshandeling, in staat moet stellen te beoordelen of hij dit met nuttig gevolg kan doen, volgt dat het noodzakelijk is om de redenen uiteen te zetten waarom de argumentatie van de netbeheerder, als indiener van het tariefvoorstel, wordt bijgetreden.
+
+Het subonderdeel dat van een andere rechtsopvatting uitgaat, faalt m.i. derhalve naar recht.
+
+(...)
+
+III. CONCLUSIE: VERWERPING (evenals van de vordering tot bindendverklaring van de daartoe opgeroepen partijen).
+
+________________
+
+(1) T. DE PELSMAEKER, L. DERIDDER, F. JUDO, J. PROOT en F. VANDENDRIESSCHE, Taalgebruik in bestuurszaken, Brugge, die Keure, 2004, 42-43, nr. 102.
+
+(2) Ibid., 46, nr. 112.
+
+(3) R. RENARD, Talen in bestuurszaken, in de bedrijven en in de sociale betrekkingen in APR, Gent, Story-Scientia, 1983, 76, nr. 110.
+
+(4) T. DE PELSMAEKER, L. DERIDDER, F. JUDO, J. PROOT en F. VANDENDRIESSCHE, Taalgebruik in bestuurszaken, Brugge, die Keure, 2004, 240, nr. 824; R. RENARD, Talen in bestuurszaken, in de bedrijven en in de sociale betrekkingen in APR, Gent, Story-Scientia, 1983, 177, nr. 325.
+
+(5) RvS 16 maart 2006, arrest nr. 156.436, TBP 2007, 444.
+
+(6) HvJ 15 september 2005, zaak C-495/03, Intermodal Transports BV t. Staatssecretaris van Financiën, Jur. 2005, I-8151, r.o. 28; K. LENAERTS en P. VAN NUFFEL, Europees recht, Antwerpen, Intersentia, 2011, 645, nr. 839.
+
+(7) HvJ 15 september 2005, zaak C-495/03, Intermodal Transports, Jur. 2005, I-8151, r.o. 31; P. VAN NUFFEL, "Technieken van doorwerking van EU-recht in het Belgische privaatrecht" in I. SAMOY, V. SAGAERT EN E. TERRYN (eds.), Invloed van het Europese recht op het Belgische privaatrecht, Antwerpen, Intersentia, 2012, 11-12, nr. 14.
+
+(8) HvJ 15 september 2005, zaak C-495/03, Intermodal Transports, Jur. 2005, I-8151, r.o. 29; K. LENAERTS en P. VAN NUFFEL, Europees recht, Antwerpen, Intersentia, 2011, 645, nr. 840.
+
+(9) K. LENAERTS en P. VAN NUFFEL, Europees recht, Antwerpen, Intersentia, 2011, 646, nr. 840.
+
+(10) HvJ 15 september 2005, zaak C-495/03, Intermodal Transports, Jur. 2005, I-8151, r.o. 30; P. VAN NUFFEL, "Technieken van doorwerking van EU-recht in het Belgische privaatrecht" in I. SAMOY, V. SAGAERT EN E. TERRYN (eds.), Invloed van het Europese recht op het Belgische privaatrecht, Antwerpen, Intersentia, 2012, 12, nr. 14.
+
+(11) HvJ 6 oktober 1982, zaak 283/81, CILFIT, Jur. 1982, 3415, r.o. 13-21; HvJ 15 september 2005, zaak C-495/03, Intermodal Transports, Jur. 2005, I-8151, r.o. 33-45.
+
+(12) P. VAN NUFFEL, "Technieken van doorwerking van EU-recht in het Belgische privaatrecht" in I. SAMOY, V. SAGAERT EN E. TERRYN (eds.), Invloed van het Europese recht op het Belgische privaatrecht, Antwerpen, Intersentia, 2012, 18, nr. 23.
+
+(13) HvJ 13 november 1990, zaak C-106/89, Marleasing, Jur. 1990, I-4135, r.o. 8; HvJ 26 september 2000, zaak C-262/97, Engelbrecht, Jur. 2000, I-7321, r.o. 39.
+
+(14) K. LENAERTS en P. VAN NUFFEL, Europees recht, Antwerpen, Intersentia, 2011, 603, nr. 781.
+
+(15) HvJ 24 januari 2012, zaak C-282/10, Dominguez, r.o. 23-24.
+
+(16) P. VAN NUFFEL, "Technieken van doorwerking van EU-recht in het Belgische privaatrecht" in I. SAMOY, V. SAGAERT EN E. TERRYN (eds.), Invloed van het Europese recht op het Belgische privaatrecht, Antwerpen, Intersentia, 2012, 18, nr. 23.
+
+(17) K. LENAERTS en P. VAN NUFFEL, Europees recht, Antwerpen, Intersentia, 2011, 597-600, nrs. 774-777.
+
+(18) HvJ 12 juli 1990, zaak C-188/89, Foster, Jur. 1990, I-3313, r.o. 20; HvJ 19 april 2007, zaak C-356/05, Farrell, Jur. 2007, I-3067, r.o. 40; HvJ 24 januari 2012, zaak C-282/10, Dominguez, r.o. 39.
+
+(19) RvS 9 juni 1993, arrest nr. 43.259, RACE 1993, z.p.; RvS 30 maart 1998, arrest nr. 72.834, JT 1998, 573; RvS 2 september 2010, arrest nr. 207.663, D&T 2011, 407; RvS 8 november 2012, arrest nr. 221.287, T.Gem. 2013, 121.
+
+(20) RvS 3 maart 1993, arrest nr. 42.134, RACE 1993, z.p.; RvS 16 januari 1995, arrest nr. 51.142; RvS 18 april 1995, arrest nr. 52.975; RvS 8 november 2012, arrest nr. 221.287, T.Gem. 2013, 121; zie ook Cass. 10 januari 2013, AR F.12.0060.F ECLI:BE:CASS:2013:ARR.20130110.3, Pas. 2013, 58, met concl. van advocaat-generaal A. HENKES.
+
+(21) RvS 29 maart 1995, arrest nr. 52.580, APT 1995, 166; RvS 12 april 1995, arrest nr. 52.782, JT 1995, 682; A. MAST, J. DUJARDIN, M. VAN DAMME en J. VANDE LANOTTE, Overzicht van het Belgisch Administratief Recht, Mechelen, Kluwer, 2012, 794-795, nr. 885.
+
+(22) RvS 8 november 2012, arrest nr. 221.287, T.Gem. 2013, 121.
+
+(23) D. VERHOEVEN, "Régulation des tarifs de transport et de distribution d'électricité et de gaz naturel: éléments juridiques d'un jeu de quilles politico-économique" in D. RENDERS en R. BORN (eds.), Actualités du droit de l'énergie. La transposition du ‘troisième paquet énergie' européen dans les lois ‘électricité' et ‘gaz', Brussel, Bruylant, 2013, 283-284, 303-304 en 309-310.
+
+(24) C. DECLERCQ, "La régulation tarifaire" in D. RENDERS en R. BORN (eds.), Actualités du droit de l'énergie. La transposition du ‘troisième paquet énergie' européen dans les lois ‘électricité' et ‘gaz', Brussel, Bruylant, 2013, 247-248.
