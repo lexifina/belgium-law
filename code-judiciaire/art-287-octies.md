@@ -1,0 +1,2 @@
+La démission volontaire entraîne la cessation des fonctions. Dans ce cas, le membre du personnel visé aux chapitres Vsexies et VI ne peut abandonner son service qu'après avoir notifié sa démission, par lettre recommandée à la poste, au ministre de la Justice ou à son représentant.
+La notification visée à l'alinéa 1er précède la démission de trente jours au moins, prenant cours à la date d'envoi de la lettre recommandée. Ce délai peut être réduit de commun accord.

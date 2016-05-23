@@ -1,0 +1,1 @@
+Les greffiers en chef des tribunaux de première instance et les secrétaires en chef du ministère public doivent suivre une formation en matière de gestion budgétaire et de frais de justice dans les deux ans qui suivent l'année de leur nomination ou de leur désignation.

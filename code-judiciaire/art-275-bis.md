@@ -1,0 +1,2 @@
+Les lauréats postulant à une fonction s'engagent à entrer en service. Ceux qui, après la notification de la nomination, refusent d'entrer en service sont rayés de la réserve des lauréats.
+Avec la nomination, les membres du personnel épuisent les droits liés à leur résultat. Les membres du personnel démissionnaires perdent le bénéfice de leur résultat, même si le délai relatif à la sélection concernée n'a pas expiré.

@@ -1,12 +1,11 @@
-§ 1er. Par dérogation à l'article 287ter, chaque titulaire d'une fonction de greffier en chef ou de secrétaire en chef visée à l'article 160, § 8, alinéa 3, est évalué annuellement pendant la durée de son mandat par le chef de corps visé à l'article 58bis, 2°. Les quatre premiers cycles sont sanctionnés par une évaluation intermédiaire. Le dernier cycle se clôture avant la fin du mandat et se conclut par une évaluation finale.
+§ 1er. Par dérogation à l'article 287ter, chaque titulaire d'une fonction de greffier en chef ou de secrétaire en chef visée à l'article 160, § 8, alinéa 3, est évalué annuellement pendant la durée de son mandat par le chef de corps visé à l'article 58bis, 2°. Les quatre premiers cycles sont sanctionnés par une évaluation intermédiaire. Le dernier cycle se clôture six mois avant la fin du mandat et se conclut par une évaluation finale.
 § 2. Le titulaire du mandat est évalué sur la façon dont le service qu'il dirige a contribué à la réalisation des objectifs prévus dans le plan de gestion, visé à l'article 185/6, en tenant compte des domaines de résultats précisés dans son profil de fonction.
 Il est en outre évalué sur la façon dont il s'est acquitté de sa tâche d'évaluateur. Le contrôle sur cette tâche est effectué selon les modalités applicables aux greffiers en chef et secrétaires en chef qui ne sont pas titulaires d'un mandat.
 Le cas échéant, il n'est pas tenu compte des objectifs dont la non réalisation n'a dépendu en rien de la responsabilité de l'évalué. Dans tous les cas, l'évaluation de sa contribution personnelle tient compte de ce qui peut raisonnablement être attendu de l'évalué.
-§ 3. A la fin de chaque cycle d'évaluation, le chef de corps visé à l'article 58bis, 2°, invite le titulaire du mandat à un entretien d'évaluation.
+§ 3. A la fin de chaque cycle d'évaluation, le chef de corps visé à l'article 58bis, 2°, invite le titulaire du mandat à un entretien d'évaluation. Comme préparation à cet entretien, la personne à évaluer établit une auto-évaluation qu'elle transmet à l'évaluateur vingt jours calendriers avant l'entretien. Cette auto-évaluation écrite est jointe au dossier d'évaluation.
 Un membre du personnel chargé des ressources humaines peut assister à cet entretien en qualité de secrétaire.
 Dans tous les cas, le chef de corps visé à l'article 58bis, 2,° a un entretien de fonctionnement avec le titulaire du mandat à évaluer en vue de son évaluation.
 § 4. Après l'entretien d'évaluation, le chef de corps visé à l'article 58bis, 2°, finalise le rapport d'évaluation et le transmet, contre récépissé, à l'évalué dans les vingt jours calendrier qui suivent l'entretien d'évaluation.
-Le modèle du rapport d'évaluation est déterminé par le Roi.
 Le titulaire du mandat de greffier en chef ou de secrétaire en chef dont une évaluation intermédiaire donne lieu à la mention "insuffisant" ou dont l'évaluation finale ne donne pas lieu à la mention "répond aux attentes" ou à la mention "exceptionnel" peut introduire, par un envoi recommandé, un recours auprès de la commission de recours visée à l'article 287quater dans les quinze jours civils qui suivent la notification du rapport d'évaluation.
 Le recours est suspensif. Le cas échéant, le mandat est prolongé jusqu'au terme de la procédure de recours visée à l'article 287quater.
 § 5. Chaque évaluation se clôture par une des mentions suivantes: "exceptionnel", "répond aux attentes", "à améliorer" ou "insuffisant".
@@ -24,3 +23,14 @@ L'intéressé est remis à la disposition de son service d'origine.
 § 8. Si l'évaluation finale d'un titulaire d'un mandat de greffier en chef ou de secrétaire en chef visé à l'article 160, § 8, alinéa 3, conduit à une mention "répond aux attentes" ou " exceptionnel", son mandat est renouvelé de droit pour une nouvelle période de cinq ans.
 Si l'évaluation finale conduit à une mention "à améliorer", la désignation prend fin le premier jour du mois qui suit celui de l'attribution définitive de la mention.
 L'intéressé est remis à la disposition de son service d'origine.
+§ 9. Le dossier d'évaluation du titulaire d'un mandat de greffier en chef ou de secrétaire en chef visé à l'article 160, § 8, alinéa 3, se compose des éléments suivants:
+1° une fiche d'identification avec les données personnelles et l'arrêté de désignation;
+2° une description de fonction validée;
+3° le plan de gestion visé à l'article 185/6;
+4° le cas échéant, les rapports des entretiens de fonctionnement et/ou tout autre document permettant d'appréhender les accords, les arrangements et les ajustements par rapport aux objectifs à atteindre pris entre le titulaire du mandat évalué et son évaluateur;
+5° l'auto-évaluation du titulaire du mandat;
+6° les rapports d'évaluation;
+7° l'éventuel dossier du recours introduit.
+L'évalué peut faire ajouter des documents dans son dossier d'évaluation.
+Le dossier d'évaluation est conservé auprès du chef de corps visé à l'article 58bis.
+Le dossier d'évaluation individuel est à la disposition de l'évalué, de son évaluateur et du ministre de la Justice ou de son délégué.

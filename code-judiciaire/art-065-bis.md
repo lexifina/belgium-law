@@ -1,2 +1,2 @@
 Dans chaque arrondissement, à l'exception des arrondissements judiciaires de Bruxelles et d'Eupen, il y a un président et un vice-président des juges de paix et des juges au tribunal de police.
-La présidence est assurée en alternance par un juge de paix et un juge au tribunal de police. Le vice-président est respectivement juge de paix ou juge au tribunal de police, selon que le président est juge au tribunal de police ou juge de paix.
+La présidence est assurée ... par un juge de paix ou un juge au tribunal de police. Le vice-président est respectivement juge de paix ou juge au tribunal de police, selon que le président est juge au tribunal de police ou juge de paix.

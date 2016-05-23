@@ -48,3 +48,4 @@ Les fonctions de stagiaire judiciaire sont incompatibles avec toute autre foncti
 Lors de la nomination au stage, le traitement est fixé en prenant uniquement en considération une année au titre de l'expérience exigée, conformément au § 1er, alinéa 3, comme condition de participation au concours d'admission au stage.
 Le régime de mobilité applicable aux traitements du personnel s'applique également à la rémunération du stagiaire. Elle est rattachée à l'indice-pivot 138,01.
 Toute la législation concernant la sécurité sociale des travailleurs salariés, sauf celle relative aux vacances annuelles, est applicable au stagiaire judiciaire.)
+§ 9. Le Roi détermine l'assistance en justice des stagiaires judiciaires et l'indemnisation des dommages aux biens, encourus par eux, conformément aux dispositions en vigueur pour les agents de l'Etat.
