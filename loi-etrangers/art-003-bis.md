@@ -2,5 +2,8 @@ Sans préjudice d'autres dispositions de la présente loi, la preuve des moyens 
 La personne qui a signé l'engagement de prise en charge est, avec l'étranger, solidairement responsable du paiement des frais de soins de santé, de séjour et de rapatriement de ce dernier.
 Le bourgmestre de la commune dans le registre de la population ou des étrangers de laquelle la personne qui a signé l'engagement de prise en charge est inscrite, ou son délégué, est tenu de légaliser la signature apposée au bas de l'engagement de prise en charge, si les conditions de l'authentification de la signature sont remplies.
 Le bourgmestre ou son délégué peut indiquer, dans un avis adressé au Ministre ou à son délégué, si la personne qui a signé l'engagement de prise en charge dispose de ressources suffisantes. Cet avis n'est pas contraignant.
-Le Roi fixe les modalités de l'engagement de prise en charge et les modalités de la récupération des sommes à charge de la personne qui a signé cet engagement.
-Le Roi peut fixer les cas dans lesquels et les conditions auxquelles la validité de l'engagement de prise en charge est subordonnée à l'obligation de verser une somme auprès de la Caisse des dépôts et consignations ou de fournir une garantie bancaire.
+Le Roi, par arrêté délibéré en Conseil des ministres, peut préciser ou compléter les règles applicables à l'engagement de prise en charge dont notamment:
+1° les modalités de la récupération des sommes à charge de la personne qui a souscrit l'engagement;
+2° les conditions que doit remplir la personne qui souscrit l'engagement de prise en charge et les modalités de preuve de ces conditions;
+3° les cas dans lesquels la personne qui a souscrit l'engagement de prise en charge est déchargée de sa responsabilité anticipativement;
+4° les cas dans lesquels et les conditions auxquelles la validité de l'engagement de prise en charge est subordonnée à l'obligation de verser une somme auprès de la Caisse des dépôts et consignations ou de fournir une garantie bancaire.
