@@ -9,10 +9,10 @@ Le caractère durable et stable de cette relation est démontré:
 - ou bien si les partenaires prouvent qu'ils se connaissent depuis au moins deux ans précédant la demande et qu'ils fournissent la preuve qu'ils ont entretenu des contacts réguliers par téléphone, par courrier ordinaire ou électronique, et qu'ils se sont rencontrés trois fois durant les deux années précédant la demande et que ces rencontres comportent au total 45 jours ou davantage;
 - ou bien si les partenaires ont un enfant commun;
 b) venir vivre ensemble;
-c) être tous les deux âgés de plus de vingt et un ans;
+c) être tous les deux âgés de plus de vingt et un ans. L'âge minimum des partenaires est ramené à dix-huit ans lorsqu'ils apportent la preuve d'une cohabitation d'au moins un an avant l'arrivée de l'étranger rejoint dans le Royaume;
 d) être célibataires et ne pas avoir une relation de partenariat durable et stable avec une autre personne;
 e) ne pas être une des personnes visées aux articles 161 à 163 du Code civil;
-f) n'avoir fait ni l'un ni l'autre l'objet d'une décision sur la base de l'article 167 du Code civil, et ce, pour autant que la décision ou la nullité ait été coulée en force de chose jugée.
+f) n'avoir fait ni l'un ni l'autre l'objet d'une décision définitive de refus de célébration du mariage sur la base de l'article 167 du Code civil.
 3° les descendants et les descendants de son conjoint ou partenaire visé au 1° ou 2°, âgés de moins de vingt et un ans ou qui sont à leur charge, qui les accompagnent ou les rejoignent, pour autant que l'étranger rejoint, son conjoint ou le partenaire enregistré visé en ait le droit de garde et, en cas de garde partagée, à la condition que l'autre titulaire du droit de garde ait donné son accord;
 4° les ascendants et les ascendants de son conjoint ou partenaire visé au 1° ou 2°, qui sont à leur charge, qui les accompagnent ou les rejoignent;
 5° le père ou la mère d'un citoyen de l'Union européenne mineur d'âge visé à l'article 40, § 4, alinéa 1er, 2° pour autant que ce dernier soit à sa charge et qu'il en ait effectivement la garde.
