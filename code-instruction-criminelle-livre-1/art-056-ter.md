@@ -1,0 +1,1 @@
+Afin de permettre les mesures visées à l'article 46quater, § 1er, alinéa 1er, le juge d'instruction peut, par sollicitation spécifique et motivée, demander des informations au Point de contact central de la Banque Nationale de Belgique visé à l'article 322, § 3, alinéa 1er, du Code des impôts sur les revenus 1992.

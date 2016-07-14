@@ -1,0 +1,1 @@
+Le tribunal peut, dans l'intérêt de la manifestation de la vérité, d'office, inviter le procureur du Roi à demander des informations, par sollicitation spécifique et motivée, au Point de contact central de la Banque Nationale de Belgique visé à l'article 322, § 3, alinéa 1er, du Code des impôts sur les revenus 1992.
