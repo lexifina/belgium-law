@@ -5,5 +5,5 @@
 3° les recommandations de la Commission de l'Union européenne établissant des orientations concernant l'évaluation de la sécurité des produits;
 4° les codes de bonne conduite en matière de sécurité des produits en vigueur dans le secteur concerné;
 5° l'état actuel des connaissances et de la technique;
-6° la sécurité à laquelle les consommateurs peuvent raisonnablement s'attendre;
+6° la sécurité à laquelle les utilisateurs peuvent raisonnablement s'attendre;
 7° des normes internationales.
