@@ -1,3 +1,1 @@
-Lorsque conformément à l'article XI.275, le Service de régulation considère que des règles de perception, de tarification ou de répartition sont inéquitables ou discriminatoires et qu'il n'a pas été donné suite à l'avertissement visé à l'article XV.31/2, le Service de régulation peut saisir la Cour d'appel de Bruxelles, siégeant comme en référé, d'une action visant à se prononcer sur le caractère équitable et non discriminatoire des règles concernées.
-La Cour d'appel de Bruxelles est saisie du fond du litige et dispose d'une compétence de pleine juridiction.
-Le Code judiciaire est d'application en ce qui concerne la procédure, sauf si les dispositions du présent chapitre y dérogent.
+(Abrogé)

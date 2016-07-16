@@ -1,6 +1,5 @@
 § 1er. Il est créé un fonds organique pour la transparence du droit d'auteur et des droits voisins.
 Les recettes affectées au fonds visé à l'alinéa 1er, ainsi que les dépenses qui peuvent être affectées à sa charge sont mentionnées en regard dudit fonds au tableau annexé à la loi organique du 27 décembre 1990 créant des fonds budgétaires.
-Dans la loi contenant le budget général des dépenses, les allocations de base destinées, d'une part, au Service de contrôle, et, d'autre part, au Service de régulation, seront inscrites dans deux activités distinctes au sein d'un même programme, si bien que le coût de fonctionnement des deux services pourra être contrôlé de manière optimale. Pendant l'année budgétaire, le ministre ne pourra redistribuer les allocations de base entre les activités de ce même programme, que moyennant l'accord du ministre du Budget.
 § 2. Pour alimenter le fonds visé au paragraphe 1er et selon les modalités fixées par le Roi, toute société de gestion est tenue de payer une contribution annuelle.
 En cas de retrait d'autorisation en application du présent titre, la société de gestion reste soumise à l'obligation de contribution jusqu'au 31 décembre de l'année au cours de laquelle la décision de retrait entre en vigueur.
 La contribution est due de façon unique et indivisible.

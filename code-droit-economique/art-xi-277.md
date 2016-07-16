@@ -1,9 +1,1 @@
-§ 1er. Au titre de ses missions de médiation, le Service de régulation connaît des demandes de médiation portant sur les litiges ayant pour objet l'application du présent titre et des titres 6 et 7, à l'exception de l'article XI.293.
-§ 2. En exécution de ses missions de médiation, le Service de régulation est chargé de:
-1° accompagner, entendre et conseiller les parties afin d'aboutir à un règlement à l'amiable;
-2° au cas où un règlement à l'amiable ne peut être trouvé, formuler une recommandation aux parties;
-3° émettre, de sa propre initiative ou à la demande du ministre des avis dans le cadre de ses missions.
-Les demandes de médiation sont soumises d'un commun accord par les parties concernées.
-§ 3. Lorsqu'une demande de médiation portant sur un litige en matière de droit d'auteur et de droits voisins a été déclarée recevable par le Service de régulation, les délais de prescription de droit commun sont suspendus pendant la procédure de médiation portant sur ce litige, jusqu'à ce qu'une des parties ou le Service de régulation exprime la volonté de mettre fin à la procédure de médiation, avec un délai maximum de suspension de six mois.
-Le Service de régulation garantit le caractère confidentiel des renseignements que les parties communiquent dans le cadre d'une procédure de médiation portant sur un litige visé au paragraphe 1er. Ces données ne peuvent être utilisées d'aucune autre façon ou pour aucun autre but, à l'exception de leur traitement anonyme pour le rapport annuel visé à l'article XI.288.
-Le règlement à l'amiable d'un litige en matière de droit d'auteur et de droits voisins obtenu par le Service de régulation peut être soumis par les parties ou par l'une d'elles, pour homologation, au juge compétent, conformément aux articles 1025 à 1034 du Code judiciaire. La décision d'homologation sort les effets d'un jugement, au sens de l'article 1043 du Code judiciaire.
+(Abrogé)

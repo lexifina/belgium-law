@@ -1,2 +1,1 @@
-Afin d'informer les tiers de l'existence des contrats existants en matière de retransmission par câble et le paiement des droits d'auteur et des droits voisins, le Service de Régulation établit un registre des contrats autorisant la retransmission par câble. Le Roi peut déterminer les conditions et modalités de ce registre.
-A cet effet, les câblodistributeurs transmettent au Service de régulation les renseignements nécessaires dans un délai de trois mois à compter de la conclusion du contrat. Le Roi peut déterminer les modalités concernant les renseignements et la manière dont ces renseignements doivent être transmis au Service de régulation.
+(Abrogé)

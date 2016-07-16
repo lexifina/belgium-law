@@ -1,0 +1,1 @@
+Le Roi peut fixer pour les opérations par carte de débit des consommateurs effectuées au niveau national au sens du Règlement (UE) n° 2015/751 un pourcentage maximum et/ou un montant maximum de commissions d'interchange, conformément à l'article 3, paragraphes 2 et 3, du Règlement (UE) n° 2015/751.

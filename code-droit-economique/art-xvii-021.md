@@ -6,4 +6,3 @@ Elles peuvent être introduites par requête contradictoire conformément aux ar
 Il est statué sur l'action nonobstant toute poursuite exercée en raison des mêmes faits devant une juridiction pénale.
 Le président du tribunal compétent peut ordonner l'affichage du jugement ou du résumé qu'il en rédige pendant le délai qu'il détermine aussi bien à l'intérieur qu' à l'extérieur des établissements du défendeur et aux frais de celui-ci, de même que la publication du jugement ou du résumé aux frais du défendeur par la voie des journaux ou de toute autre manière.
 Le jugement est exécutoire par provision nonobstant toute voie de recours, et sans caution.
-Toute décision est, dans la huitaine, et à la diligence du greffier de la juridiction compétente, communiquée au ministre sauf si la décision a été rendue à sa requête. En outre, le greffier est tenu d'informer sans délai le ministre du recours introduit contre toute décision rendue en application du présent article.

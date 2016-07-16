@@ -1,2 +1,2 @@
-§ 1er. Sans préjudice de l'article XI.275, le Service de contrôle veille à l'application du présent titre et de ses arrêtés d'exécution par les sociétés de gestion des droits ainsi qu'à l'application de leurs statuts et de leurs règles de tarification, de perception et de répartition.
+§ 1er. Le Service de contrôle veille à l'application du présent titre et de ses arrêtés d'exécution par les sociétés de gestion des droits ainsi qu'à l'application de leurs statuts et de leurs règles de tarification, de perception et de répartition.
 § 2. Sans préjudice des attributions des officiers de police judiciaire, les agents du Service de contrôle, désignés à cet effet par le ministre, sont également compétents pour rechercher et constater les infractions visées à l'article XV.112.
