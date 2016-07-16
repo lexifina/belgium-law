@@ -8,7 +8,7 @@ c) de la présentation du produit, de son étiquetage, des avertissements et des
 d) des catégories d'utilisateurs qui courent un grand risque lors de l'utilisation du produit, en particulier des enfants et des personnes âgées;
 3° " produit dangereux ": tout produit qui ne répond pas à la définition de " produit sûr ";
 4° " produit destiné au consommateur ": tout produit destiné au consommateur ou dont on peut raisonnablement s'attendre à ce qu'il soit utilisé par les consommateurs, même s'il ne les vise pas spécifiquement. Sont uniquement exclus les produits destinés à des fins professionnelles dont l'étiquetage spécifie cet usage professionnel et qui ne sont normalement pas présents dans la distribution accessible aux consommateurs;
-5° " service ": toute mise à disposition des consommateurs d'un produit et toute utilisation par un prestataire de services d'un produit présentant des risques pour le consommateur, pour autant qu'il s'agisse d'un produit qui a un rapport direct avec la prestation de service;
+5° " service ": toute mise à disposition des utilisateurs d'un produit et toute utilisation par un prestataire de services d'un produit présentant des risques pour l'utilisateur, pour autant qu'il s'agisse d'un produit qui a un rapport direct avec la prestation de service;
 6° " service sûr ": tout service n'offrant que des produits sûrs qui ne présentent aucun risque pour l'utilisateur ou seulement des risques réduits compatibles avec la prestation de service et considérés comme acceptables dans le respect d'un niveau élevé de protection de la santé et de la sécurité;
 7° " service dangereux ": tout service qui ne répond pas à la définition de " service sûr ";
 8° " producteur ":

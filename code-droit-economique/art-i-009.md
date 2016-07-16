@@ -126,3 +126,4 @@ b) lorsque le prêteur ou l'intermédiaire de crédit est une personne morale, l
 81° agents à titre accessoire: les vendeurs de biens et de services à caractère non financier agissant en qualité d'intermédiaire en crédit à la consommation à titre accessoire et pour compte d'un ou plusieurs prêteurs.
 82° loi du 25 avril 2014: loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;
 83° loi du 6 avril 1995: loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement;
+93° Règlement (UE) n° 2015/751: Règlement (UE) 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte;

@@ -1,2 +1,3 @@
-La définition suivante est applicable au livre IV:
-- position dominante: la position permettant à une entreprise de faire obstacle au maintien d'une concurrence effective en lui fournissant la possibilité de comportements indépendants dans une mesure appréciable vis-à-vis de ses concurrents, clients ou fournisseurs.
+Les définitions suivantes sont applicables au livre IV:
+1° position dominante: la position permettant à une entreprise de faire obstacle au maintien d'une concurrence effective en lui fournissant la possibilité de comportements indépendants dans une mesure appréciable vis-à-vis de ses concurrents, clients ou fournisseurs;
+2° jours ouvrables: l'ensemble des jours calendrier, à l'exclusion des samedis, dimanches et jours fériés légaux, des jours de fermeture fixés par le ministre ayant la Fonction Publique dans ses attributions, des jours de fermeture fixés par le ministre ayant l'Economie dans ses attributions, du premier jour de l'année calendrier, des 2 et 15 novembre ainsi que les jours à partir du 26 décembre jusqu'au 31 décembre inclus;

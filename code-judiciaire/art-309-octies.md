@@ -1,0 +1,2 @@
+§ 1er. Les membres du personnel judiciaire peuvent, sur avis du chef de corps compétent, du directeur, du greffier en chef ou du secrétaire en chef, être autorisés par le Roi à accomplir des missions d'intérêt général auprès des institutions internationales, supranationales ou étrangères.
+§ 2. Le Roi peut fixer une indemnité de poste ainsi que les conditions dans lesquelles ces missions peuvent être exercées.
