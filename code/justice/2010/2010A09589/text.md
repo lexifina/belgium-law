@@ -78,7 +78,7 @@ Le secrétariat du Bureau est également celui de l'Assemblée générale des pa
 Ce comité de direction est chargé d'établir le plan stratégique et le plan opérationnel visés à l'article 2 ainsi que de veiller au suivi de ceux-ci.
 § 3. [<sup>1</sup> Le Bureau est composé :
 1° du directeur;
-2° du chef de service, désigné parmi un des membres mentionnés au 4° ;
+2° [<sup>2</sup> des experts chargés de soutenir le directeur dans l'élaboration et le suivi du plan stratégique et du plan opérationnel visés à l'article 2;]<sup>2</sup>
 3° d'un magistrat d'un auditorat du travail ou d'un auditorat général du travail;
 4° de membres du Service public fédéral Emploi, Travail et Concertation sociale, du Service public fédéral Sécurité sociale, des institutions publiques de sécurité sociale ou du Service public fédéral de programmation Intégration Sociale;
 5° d'un membre du Service public fédéral Finances;
@@ -87,6 +87,7 @@ Ce comité de direction est chargé d'établir le plan stratégique et le plan o
 § 4. Le Roi détermine le nombre de membres composant le Bureau.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 30, 007; En vigueur : 10-01-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 24, 020; En vigueur : 01-07-2016&gt;
 
 <a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.Les missions du Bureau
 Le Bureau est chargé :
@@ -117,34 +118,24 @@ A cette fin, les services d'inspection compétents pour lutter contre le travail
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 36, 009; En vigueur : 04-03-2013&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 3, 017; En vigueur : 01-05-2016&gt;
 
-<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.[<sup>1</sup> La désignation du directeur du Bureau
-La fonction du directeur du Bureau est exercée alternativement par les fonctionnaires dirigeants des services suivants :
-1° l'Inspection sociale du Service public fédéral Sécurité sociale;
-2° la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale;
-3° la direction générale Indépendants du Service public fédéral Sécurité sociale;
-4° la direction générale des services d'inspection de l'Office de Sécurité sociale;
-5° le Service d'inspection de l'Office national de l'Emploi;
-6° le Service d'Inspection de l'Institut national d'Assurances sociales pour Travailleurs indépendants.
-L'ordre suivant lequel les fonctionnaires dirigeants exercent ce mandat est l'ordre précité.
-Le mandat de directeur du Bureau est accordé pour une période de deux ans.
-Lors de l'exercice de son mandat, le directeur du Bureau est assisté par le fonctionnaire dirigeant du service qui va exercer le mandat de directeur dans la période suivante de deux ans et le fonctionnaire dirigeant qui a exercé le mandat de directeur dans la période précédente de deux ans.]<sup>1</sup>
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.[<sup>1</sup> La fonction du dirigeant, appelé le directeur du Bureau, les conditions de sa nomination et son statut
+Le directeur du Bureau doit être titulaire d'une fonction de management.
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les conditions de nomination et le statut pécuniaire et administratif du directeur.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 32, 007; En vigueur : 10-01-2013&gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 25, 020; En vigueur : 01-01-2017&gt;
 
 <a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9/1"> 9</a>.[<sup>1</sup> Les missions du directeur du Bureau
-Le directeur dirige le Bureau et exécute le plan opérationnel établi par le Bureau.
+Le directeur [<sup>2</sup> exerce la gestion journalière du Bureau]<sup>2</sup> et exécute le plan opérationnel établi par le Bureau.
 Le directeur du Bureau est membre du groupe de travail pour la modernisation de la sécurité sociale.
 Il présente le plan opérationnel visé à l'article 2 au groupe de travail pour la modernisation de la sécurité sociale pour le 15 septembre de chaque année.
 Il siège au sein de la commission de conventions de partenariat instituée au sein du Service public fédéral Emploi, Travail et Concertation sociale. Il communique les résultats des travaux de cette commission au Bureau et à l'Assemblée générale.
 Le directeur porte à la connaissance du procureur du Roi ou de l'auditeur du travail toute information susceptible de donner lieu à l'ouverture d'une procédure judiciaire.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 33, 007; En vigueur : 10-01-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 26, 020; En vigueur : 01-01-2017&gt;
 
-<a name="Art.9/1" href="#Art.9">Art.</a> <a href="#Art.10"> 9/1</a>. [<sup>1</sup> La fonction du chef de service
-Le chef de service exerce la gestion journalière du Bureau. Il est responsable de la gestion du budget et du personnel du Service d'Information et de Recherche sociale et de chaque mission qui lui est déléguée par le directeur du Bureau.
-Le Roi détermine les conditions de nomination et le statut pécuniaire et administratif du chef de service.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 34, 007; En vigueur : 10-01-2013&gt;
+<a name="Art.9/1" href="#Art.9">Art.</a> <a href="#Art.10"> 9/1</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 27, 020; En vigueur : 01-01-2017&gt;
 
 <a name="Art.10" href="#Art.9/1">Art.</a> <a href="#LNK0005"> 10</a>.Les pouvoirs des membres du Bureau, leur nomination et leur statut
 Pendant la durée de leur mandat, les inspecteurs sociaux, membres du Bureau, gardent leur qualité d'inspecteur social au sens du titre 2.
