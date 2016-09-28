@@ -1,0 +1,1 @@
+Sous réserve des exigences des articles 28, paragraphe 5, et 38, paragraphe 5, du règlement 910/2014, un prestataire de services de confiance qualifié qui délivre des certificats qualifiés peut mettre en place une procédure de suspension temporaire des certificats qu'il délivre.

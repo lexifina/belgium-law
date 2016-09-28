@@ -1,0 +1,1 @@
+L'article 13 du règlement 910/2014 s'applique au prestataire de service d'archivage électronique qualifié ou non en raison d'un manquement aux obligations prévues par le règlement 910/2014, le présent titre et son annexe I.
