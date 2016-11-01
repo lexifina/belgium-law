@@ -7,7 +7,7 @@
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. Toute personne a droit à l'intégration sociale. Ce droit peut, dans les conditions fixées par la présente loi, prendre la forme d'un emploi et/ou d'un revenu d'intégration, assortis ou non d'un projet individualisé d'intégration sociale.
 Les centres publics d'aide sociale ont pour mission d'assurer ce droit.
 
-<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.Pour pouvoir bénéficier du droit à l'intégration sociale, la personne doit simultanément et sans préjudice des conditions spécifiques prévues par cette loi :
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.3/1"> 3</a>.Pour pouvoir bénéficier du droit à l'intégration sociale, la personne doit simultanément et sans préjudice des conditions spécifiques prévues par cette loi :
 1° avoir sa résidence effective en Belgique, dans le sens à déterminer par le Roi;
 2° être majeure ou assimilée à une personne majeure en application des dispositions de la présente loi;
 3° appartenir à une des catégories de personnes suivantes :
@@ -16,13 +16,19 @@ Les centres publics d'aide sociale ont pour mission d'assurer ce droit.
 - soit être inscrite comme étranger au registre de la population;
 - soit être un apatride et tomber sous l'application de la Convention relative au statut des apatrides, signée à New-York le 28 septembre 1954 et approuvée par la loi du 12 mai 1960;
 - soit être un réfugié au sens de l'article 49 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+[<sup>2</sup> soit bénéficier de la protection subsidiaire au sens de l'article 49/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;]<sup>2</sup>
 4° ne pas disposer de ressources suffisantes, ni pouvoir y prétendre ni être en mesure de se les procurer, soit par ses efforts personnels, soit par d'autres moyens. Le centre calcule les ressources de la personne conformément aux dispositions du titre II, chapitre II;
 5° être disposée à travailler, à moins que des raisons de santé ou d'équité l'en empêchent.
 6° faire valoir ses droits aux prestations dont elle peut bénéficier en vertu de la législation sociale belge et étrangère.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013062804" target="_blank">2013-06-28/04</a>, art. 21, 014; En vigueur : 11-07-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 2, 021; En vigueur : 01-12-2016 (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°&gt;
 
-<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1. Il peut être imposé à l'intéressé de faire valoir ses droits à l'égard des personnes qui lui doivent des aliments, ces dernières étant limitées à : son conjoint ou, le cas échéant, son ex-conjoint; les ascendants et descendants du premier degré, l'adoptant et l'adopté.
+<a name="Art.3/1" href="#Art.3">Art.</a> <a href="#Art.4"> 3/1</a>. [<sup>1</sup> La disposition à travailler visée à l'article 3, 5°, peut être rencontrée par l'acceptation d'un service communautaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 3, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
+
+<a name="Art.4" href="#Art.3/1">Art.</a> <a href="#Art.5"> 4</a>. § 1. Il peut être imposé à l'intéressé de faire valoir ses droits à l'égard des personnes qui lui doivent des aliments, ces dernières étant limitées à : son conjoint ou, le cas échéant, son ex-conjoint; les ascendants et descendants du premier degré, l'adoptant et l'adopté.
 § 2. Les conventions relatives à une pension alimentaire ne sont pas opposables au centre.
 § 3. Le centre peut agir de plein droit au nom et en faveur de l'intéressé afin de faire valoir les droits visés aux articles 3, 6°, et 4, § 1.
 
@@ -34,9 +40,11 @@ Les centres publics d'aide sociale ont pour mission d'assurer ce droit.
 
 <a name="LNK0004" href="#LNKR0004">Section 1.</a> - Intégration sociale pour les personnes âgées de moins de 25 ans.
 
-<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. § 1. Toute personne majeure âgée de moins de 25 ans a droit à l'intégration sociale par l'emploi adapté à sa situation personnelle et à ses capacités dans les trois mois de sa demande lorsqu'elle remplit les conditions prévues aux articles 3 et 4.
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>.§ 1. Toute personne majeure âgée de moins de 25 ans a droit à l'intégration sociale par l'emploi adapté à sa situation personnelle et à ses capacités dans les trois mois de [<sup>1</sup> la décision du centre selon laquelle la personne]<sup>1</sup> remplit les conditions prévues aux articles 3 et 4.
 § 2. Le droit à l'intégration sociale par l'emploi peut faire l'objet soit d'un contrat de travail soit d'un projet individualisé d'intégration sociale menant, dans une période déterminée, à un contrat de travail.
 § 3. L'intéressé peut se faire assister par une personne de son choix lorsqu'il négocie avec le centre le contrat de travail proposé ou le projet individualisé d'intégration sociale. Il dispose également d'un délai de réflexion de 5 jours calendrier avant la signature du contrat de travail ou d'intégration sociale et peut demander à être entendu par le centre conformément aux dispositions prévues à l'article 20.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 4, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
 <a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Est assimilée à une personne majeure, la personne mineure d'âge qui soit est émancipée par mariage, soit a un ou plusieurs enfants à sa charge, soit prouve qu'elle est enceinte.
 
@@ -59,26 +67,43 @@ Ce droit à l'emploi lié à un contrat de travail reste maintenu tant que l'int
 ----------
 (<font color="red">1</font>)&lt;Inséré par ORD <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015070917" target="_blank">2015-07-09/17</a>, art. 36, 020; En vigueur : 01-08-2016 (ARR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016060915" target="_blank">2016-06-09/15</a>, art. 42, 1°)&gt;
 
-<a name="Art.10" href="#Art.9/1_REGION_BRUXELLES-CAPITALE">Art.</a> <a href="#Art.11"> 10</a>. Dans l'attente d'un emploi lié à un contrat de travail ou dans le cadre d'un projet individualisé d'intégration sociale, ou encore si la personne ne peut travailler pour des raisons de santé ou d'équité, elle a droit, aux conditions fixées par la présente loi, à un revenu d'intégration.
+<a name="Art.10" href="#Art.9/1_REGION_BRUXELLES-CAPITALE">Art.</a> <a href="#Art.11"> 10</a>.[<sup>1</sup> Dans l'attente d'un emploi dans le cadre d'un contrat de travail ou dans le cadre d'un projet individualisé d'intégration sociale, la personne a droit, aux conditions fixées par la présente loi, à un revenu d'intégration.
 Lorsque les revenus résultant d'une mise à l'emploi sont inférieurs au montant du revenu d'intégration auquel l'intéressé peut prétendre, le droit au revenu d'intégration est maintenu dans les conditions fixées par la présente loi.
+Si le centre établit par une décision motivée que la personne ne peut travailler pour des raisons de santé ou d'équité, elle a droit, aux conditions fixées par la présente loi, à un revenu d'intégration, assorti ou non d'un projet individualisé d'intégration sociale.
+Si le centre établit par une décision motivée que la personne ne peut participer à un projet individualisé d'intégration sociale, pour des raisons de santé ou d'équité, elle a droit, aux conditions fixées par la présente loi, à un revenu d'intégration.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 5, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
-<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0005"> 11</a>. § 1. L'octroi et le maintien du revenu d'intégration peuvent être assortis d'un projet individualisé d'intégration sociale, soit à la demande de l'intéressé lui-même, soit à l'initiative du centre.
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0005"> 11</a>.§ 1. L'octroi et le maintien du revenu d'intégration peuvent être assortis d'un projet individualisé d'intégration sociale, soit à la demande de l'intéressé lui-même, soit à l'initiative du centre.
 Le projet s'appuie sur les aspirations, les aptitudes, les qualifications et les besoins de la personne concernée et les possibilités du centre.
-Selon les besoins de la personne, le projet individualisé portera soit sur l'insertion professionnelle, soit sur l'insertion sociale.
+Selon les besoins de la personne, le projet individualisé portera [<sup>1</sup> de préférence sur l'insertion professionnelle, ou, à défaut, sur l'insertion sociale]<sup>1</sup>.
 Dans l'élaboration du projet individualisé d'intégration sociale, le centre veille à respecter une juste proportionnalité entre les exigences formulées à l'égard de l'intéressé et l'aide octroyée.
+[<sup>1</sup> Le projet individualisé d'intégration sociale peut avoir trait à un service communautaire, qui en fait alors partie intégrante. Le service communautaire consiste à exercer des activités sur une base volontaire qui constituent une contribution positive tant pour le parcours de développement personnel de l'intéressé que pour la société.]<sup>1</sup>
 § 2. Ce projet est obligatoire :
 a) lorsque le centre accepte, sur la base de motifs d'équité, qu'en vue d'une augmentation de ses possibilités d'insertion professionnelle, la personne concernée entame, reprenne ou continue des études de plein exercice dans un établissement d'enseignement agréé, organisé ou subventionné par les communautés;
 b) lorsqu'il s'agit d'un projet visé à l'article 6, § 2.
-§ 3. Le projet visé au § 1 fait l'objet d'un contrat écrit conclu conformément à l'article 6, § 3 entre la personne concernée et le centre. A la demande d'une des parties, un ou plusieurs tiers peuvent être partie au contrat. Le contrat peut être modifié à la demande de chacune des parties au cours de son exécution.
-Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles un contrat concernant un projet individualisé d'intégration sociale doit répondre, ainsi que les conditions spécifiques d'un contrat contenant un projet menant dans une période déterminée à un contrat de travail, d'un contrat d'études de plein exercice ou d'un contrat de formation.
+[<sup>1</sup> c) lorsque l'intéressé n'a pas bénéficié du droit à l'intégration sociale au cours des trois derniers mois.]<sup>1</sup>
+[<sup>1</sup> Toute personne a droit à un projet individualisé d'intégration sociale adapté à sa situation personnelle et à ses capacités dans les trois mois de la décision du centre selon laquelle la personne remplit les conditions prévues aux articles 3 et 4.]<sup>1</sup>
+§ 3. Le projet visé au § 1 fait l'objet d'un contrat écrit conclu conformément à l'article 6, § 3 entre la personne concernée et le centre. A la demande d'une des parties, un ou plusieurs tiers peuvent être partie au contrat. Le contrat peut être modifié [<sup>1</sup> à la demande de chacune des parties, de commun accord]<sup>1</sup> au cours de son exécution.
+Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles un contrat concernant un projet individualisé d'intégration sociale doit répondre[<sup>1</sup> ...]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 6, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
 <a name="LNK0005" href="#LNKR0005">Section 2.</a> - Intégration sociale pour les personnes à partir de l'âge de 25 ans.
 
 <a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Toute personne à partir de 25 ans a droit à l'intégration sociale lorsqu'elle remplit les conditions prévues aux articles 3 et 4.
 
-<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0006"> 13</a>. § 1. Le droit à l'intégration sociale peut être réalisé soit par l'octroi d'un revenu d'intégration, soit par un emploi lié à un contrat de travail tel que visé aux articles 8 et 9.
-§ 2. L'octroi et le maintien d'un revenu d'intégration peuvent être assortis d'un projet individualisé d'intégration sociale visé à l'article 11, §§ 1 et 3, soit à la demande de l'intéressé lui-même, soit à l'initiative du centre.
-§ 3. Les dispositions prévues à l'article 6, § 3, sont d'application lorsque dans le cadre de son droit à l'intégration sociale, l'intéressé se voit proposer un emploi ou un projet individualisé d'intégration sociale.
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0006"> 13</a>.[<sup>1</sup> § 1er. Le droit à l'intégration sociale peut être réalisé par un emploi dans le cadre d'un contrat de travail tel que visé aux articles 8 et 9 ou par l'octroi d'un revenu d'intégration assorti, lorsque l'intéressé n'a pas bénéficié du droit à l'intégration sociale au cours des trois derniers mois, d'un projet individualisé d'intégration sociale visé à l'article 11, § 1er. Le projet individualisé d'intégration sociale est facultatif lorsque le droit à l'intégration sociale est réalisé par un emploi complété par l'octroi d'un revenu d'intégration.
+§ 2. Toute personne a droit à un projet individualisé d'intégration sociale adapté à sa situation personnelle et à ses capacités dans les trois mois de la décision du centre selon laquelle la personne remplit les conditions prévues aux articles 3 et 4.
+§ 3. L'article 6, § 3, est d'application lorsque dans le cadre de son droit à l'intégration sociale, l'intéressé se voit proposer un emploi ou un projet individualisé d'intégration sociale.
+§ 4. Dans l'attente d'un emploi dans le cadre d'un contrat de travail ou dans le cadre d'un projet individualisé d'intégration sociale, la personne a droit, aux conditions fixées par la présente loi, à un revenu d'intégration.
+Lorsque les revenus résultant d'une mise à l'emploi sont inférieurs au montant du revenu d'intégration auquel l'intéressé peut prétendre, le droit au revenu d'intégration est maintenu dans les conditions fixées par la présente loi.
+Si le centre établit par une décision motivée que la personne ne peut pas travailler pour des raisons de santé ou d'équité, elle a droit, aux conditions fixées par la présente loi, à un revenu d'intégration, assortis ou non d'un projet individualisé d'intégration sociale.
+Si le centre établit par une décision motivée que la personne ne peut participer à un projet individualisé d'intégration sociale, pour des raisons de santé ou d'équité, elle a droit, aux conditions fixées par la présente loi, à un revenu d'intégration.
+§ 5. Le projet visé au § 1er fait l'objet d'un contrat écrit entre la personne concernée et le centre. A la demande d'une des parties, un ou plusieurs tiers peuvent être partie au contrat. A la demande de chacune des parties le contrat peut, de commun accord, être modifié au cours de son exécution.
+Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles un contrat concernant un projet individualisé d'intégration sociale répond.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 7, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
 <a name="LNK0006" href="#LNKR0006">TITRE II.</a> - Modalités d'application du droit à l'intégration sociale.
 
@@ -312,13 +337,17 @@ Aucune récupération ne doit être entreprise si les coûts ou les démarches i
 
 <a name="LNK0016" href="#LNKR0016">CHAPITRE V.</a> - Des sanctions.
 
-<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.31"> 30</a>. § 1. Si l'intéressé omet de déclarer des ressources dont il connaît l'existence, ou s'il fait des déclarations inexactes ou incomplètes ayant une incidence sur le montant du revenu d'intégration, le paiement de ce dernier peut être suspendu partiellement ou totalement pour une période de six mois au plus ou, en cas d'intention frauduleuse, de douze mois au plus.
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.31"> 30</a>.§ 1. Si l'intéressé omet de déclarer des ressources dont il connaît l'existence, ou s'il fait des déclarations inexactes ou incomplètes ayant une incidence sur le montant du revenu d'intégration, le paiement de ce dernier peut être suspendu partiellement ou totalement pour une période de six mois au plus ou, en cas d'intention frauduleuse, de douze mois au plus.
 En cas de récidive dans un délai de trois ans à compter du jour où la sanction pour une omission ou déclaration inexacte antérieure est devenue définitive, les périodes susvisées peuvent être doublées.
 Aucune sanction ne peut plus être prononcée lorsqu'un délai de deux ans s'est écoulé à compter du jour où l'omission a été commise ou la déclaration inexacte, faite. Aucune sanction ne peut plus être exécutée lorsqu'un délai de deux ans s'est écoulé à compter du jour où la sanction est devenue définitive.
 § 2. Après mise en demeure, si l'intéressé ne respecte pas sans motif légitime ses obligations prévues dans le contrat contenant un projet individualisé d'intégration sociale, visé aux articles 11 et 13, § 2, le paiement du revenu d'intégration peut, après avis du travailleur social ayant en charge le dossier, être suspendu partiellement ou totalement pour une période d'un mois au maximum. En cas de récidive dans un délai d'un an tout au plus, le paiement du revenu d'intégration peut être suspendu pour une période de trois mois au maximum.
-La sanction prévue à l'alinéa 1 prend cours le premier jour du deuxième mois suivant la décision du centre.
+[<sup>1</sup> La sanction prévue à l'alinéa 1er prend cours au plus tôt le jour suivant la notification de la décision du centre à l'intéressé et au plus tard le premier jour du troisième mois suivant la décision du centre.]<sup>1</sup>
 § 3. Les sanctions administratives visées aux §§ 1 et 2 sont prononcées par le centre compétent visé à l'article 18, § 1, et leur exécution peut, s'il y a lieu, être poursuivie par le centre qui devient ultérieurement compétent et ce pour la durée d'application de la sanction.
 Les règles de la procédure déterminée par les articles 20, 21, §§ 2, 3 et 4 et l'article 47 sont d'application.
+[<sup>1</sup> § 4. Les sanctions administratives visées au paragraphe 1er peuvent être assorties d'un sursis partiel ou complet.]<sup>1</sup>
+[<sup>1</sup> § 5. Les sanctions administratives visées au paragraphe 2 peuvent être assorties d'un sursis partiel ou complet. Si les conditions liées au sursis sont enfreintes dans la période visée au § 2, alinéa 2, la sanction est appliquée, et ce au plus tard le premier jour du sixième mois suivant la décision du centre par laquelle le sursis a été accordé.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 8, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
 <a name="Art.31" href="#Art.30">Art.</a> <a href="#Art.31/1_REGION_FLAMANDE"> 31</a>. [<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêté d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
 Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
@@ -342,12 +371,11 @@ La diminution de la subvention de 1 % par an n'est pas appliquée lorsque la ré
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014051535" target="_blank">2014-05-15/35</a>, art. 102, 016; En vigueur : 01-07-2014&gt;
 
-<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>.La subvention s'élève, pendant une durée maximale de six mois, à [<sup>1</sup> 75 % du montant]<sup>1</sup> du revenu d'intégration lorsque dans le cadre d'un contrat contenant un projet individualisé d'intégration sociale, passé en application des articles 11 et 13, § 2, le bénéficiaire suit une formation à raison de 10 h/semaine au moins ou preste dans le cadre d'une formation par le travail 10 h/semaine au moins et de 20 h/semaine au plus.
-La formation doit être organisée par un service public de formation des sans-emploi ou par un organisme de formation professionnelle conventionné avec le centre. La formation par le travail devra être exercé au sein des services ou établissements du centre ou au sein d'un service ou établissement visés à l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
-----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014051535" target="_blank">2014-05-15/35</a>, art. 103, 016; En vigueur : 01-07-2014&gt;
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 9, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
-<a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>. La subvention visée à l'article 32 est majorée de 10 % pendant la durée d'un contrat concernant un projet individualisé d'intégration sociale conclu en application de l'article 11, § 2, a, dans la mesure où le centre respecte les dispositions prévues aux articles 26 et 28.
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 9, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 
 <a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0019"> 35</a>. Par dérogation à l'article 55 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, le centre conserve les montants qu'il récupère en exécution de l'article 26 auprès des ascendants au premier degré, les adoptants, le conjoint ou, le cas échéant, l'ex-conjoint et les débiteurs de la pension alimentaire visés à l'article 336 du Code civil, lorsque le bénéficiaire est lié par un projet individualisé d'intégration sociale conclu en application de l'article 11, § 2, a.
 
@@ -395,14 +423,25 @@ Le Roi fixe par arrêté délibéré en Conseil des Ministres les conditions et 
 ----------
 (<font color="red">1</font>)&lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122609" target="_blank">2013-12-26/09</a>, art. 16, 015; En vigueur : 10-01-2014&gt;
 
-<a name="Art.43/1" href="#Art.43">Art.</a> <a href="#LNK0023"> 43/1</a>. [<sup>1</sup> Pour l'année 2014, est octroyé au centre, une subvention particulière de 49,12 EUR par dossier qui a été pris en compte en 2012 pour les remboursements par l'Etat.
+<a name="Art.43/1" href="#Art.43">Art.</a> <a href="#Art.43/2"> 43/1</a>. [<sup>1</sup> Pour l'année 2014, est octroyé au centre, une subvention particulière de 49,12 EUR par dossier qui a été pris en compte en 2012 pour les remboursements par l'Etat.
 Le Roi détermine, par arrêté délibéré en Conseil des ministres, le montant de cette subvention pour les années ultérieures ainsi que l'année de référence prise en compte.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122609" target="_blank">2013-12-26/09</a>, art. 16, 015; En vigueur : 10-01-2014&gt;
 
+<a name="Art.43/2" href="#Art.43/1">Art.</a> <a href="#LNK0023"> 43/2</a>. [<sup>1</sup> § 1er. Une subvention particulière de 10 % du montant octroyé du revenu d'intégration est due au centre pour les frais d'accompagnement et d'activation lorsqu'il existe un projet individualisé d'intégration sociale pour le bénéficiaire. La subvention particulière n'est octroyée qu'une seule fois pendant la vie du bénéficiaire, et ce pendant une année civile à compter du premier jour du mois au cours duquel le projet individualisé d'intégration sociale a été signé. Cette subvention peut être suivie ou précédée de la subvention particulière visée au § 2.
+§ 2. Par dérogation au § 1er, la subvention particulière de 10 % du montant octroyé du revenu d'intégration est due au centre pour les frais d'accompagnement et d'activation lorsqu'il existe un projet individualisé d'intégration sociale pour le bénéficiaire en application de l'article 11, § 2, alinéa 1er, (a), et ce pendant toute la période pour laquelle il existe un tel projet individualisé d'intégration sociale. La subvention particulière de 10 % est due à compter du premier jour du mois au cours duquel le projet individualisé d'intégration sociale a été signé.
+§ 3. Par dérogation au § 1er, la subvention particulière de 10 % du montant octroyé du revenu d'intégration reste due au centre pour les frais d'accompagnement et d'activation pendant une deuxième année civile pour les dossiers concernant des personnes particulièrement éloignées d'une intégration sociale ou socioprofessionnelle, et ce pour autant qu'il existe un projet individualisé d'intégration sociale.
+Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles doit satisfaire un dossier concernant des personnes particulièrement éloignées d'une intégration sociale ou socioprofessionnelle. Cette subvention peut être suivie ou précédée de la subvention particulière visée au paragraphe 2.
+§ 4. Par dérogation au § 1er, la subvention particulière de 10 % du montant octroyé du revenu d'intégration est due une deuxième fois au centre pour les frais d'accompagnement et d'activation pendant la vie de l'intéressé, et ce à condition qu'il existe un projet individualisé d'intégration sociale, à condition que l'intéressé soit particulièrement vulnérable et nécessite une attention particulière du centre et à condition que l'intéressé n'avait pas droit à l'intégration sociale pendant les douze mois précédents.
+Cette subvention particulière n'est pas due pour les dossiers pour lesquels un projet individualisé d'intégration sociale en application de l'article 11, § 2, alinéa 1er, (a), a déjà été subventionné dans le passé.
+Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles doit satisfaire un dossier afin qu'il soit question d'une personne particulièrement vulnérable et qui nécessite une attention particulière du centre.
+La subvention particulière est alors due à partir du premier jour du mois au cours duquel le projet individualisé d'intégration sociale a été signé.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 10, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
+
 <a name="LNK0023" href="#LNKR0023">Section 5.</a> - Modalités.
 
-<a name="Art.44" href="#Art.43/1">Art.</a> <a href="#LNK0024"> 44</a>. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités relatives au paiement des subventions ainsi qu'au paiement d'avances.
+<a name="Art.44" href="#Art.43/2">Art.</a> <a href="#LNK0024"> 44</a>. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités relatives au paiement des subventions ainsi qu'au paiement d'avances.
 Par dérogation aux dispositions des articles 28, alinéa 2, et 57 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, les montants des subventions versés en trop aux centres et relatifs à des années antérieures à l'année en cours sont considérés comme une avance sur la subvention de l'année en cours.
 
 <a name="LNK0024" href="#LNKR0024">Section 6.</a> - Sanctions à l'égard du centre.
