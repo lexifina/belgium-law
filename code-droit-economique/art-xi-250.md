@@ -2,8 +2,8 @@ Ne peuvent exercer de fait et/ou juridiquement au sein d'une société de gestio
 Les fonctions énumérées à l'alinéa 1er ne peuvent davantage être exercées:
 1° par les personnes qui ont été condamnées à une peine inférieure à trois mois d'emprisonnement ou à une peine d'amende pour une infraction prévue par l'arrêté royal n° 22 du 24 octobre 1934 précité;
 2° par les personnes qui ont été pénalement condamnées pour infraction:
-a) aux articles 148 et 149 de la loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement;
-b) aux articles 104 et 105 de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit;
+a) à l'article 107 de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement;
+b) aux articles 348 et 349 de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;
 c) aux articles 38, alinéa 4, et 42 à 45 de l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs;
 d) aux articles 31 à 35 des dispositions relatives aux caisses d'épargne privées, coordonnées le 23 juin 1962;
 e) aux articles 13 à 16 de la loi du 10 juin 1964 sur les appels publics à l'épargne;
