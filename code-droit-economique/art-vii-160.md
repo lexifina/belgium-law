@@ -13,5 +13,5 @@ Le dossier d'agrément contient également la preuve que les modèles de contrat
 § 5. Le SPF Economie examine si les modèles de contrat sont conformes à toutes les dispositions du présent livre et du livre VI, et de leurs arrêtés d'exécution. Les modèles sont remplis préalablement afin de permettre notamment la vérification du calcul du taux annuel effectif global.
 Toute modification aux modèles de contrat est soumise pour approbation préalable au SPF Economie.
 § 6. La FSMA agrée les prêteurs répondant aux conditions fixées à la présente sous-section. Elle statue au plus tard dans les deux mois de la réception d'un dossier complet et, au plus tard, dans les six mois de l'introduction de la demande.
-Les décisions relatives à l'agrément sont communiquées au demandeur par lettre recommandée à la poste.
+Les décisions relatives à l'agrément sont communiquées au demandeur par envoi recommandé.
 La FSMA peut valablement notifier au demandeur ses décisions d'agrément ou de refus d'agrément, ainsi que de mise en demeure, d'interdiction, de suspension et de retrait de l'agrément au moyen de formulaires pré-imprimés, revêtus d'une signature reproduite par un procédé mécanographique.

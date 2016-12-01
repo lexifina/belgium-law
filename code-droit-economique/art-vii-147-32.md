@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Sauf en cas de cession ou de subrogation intervenant conformément aux articles VII.147/17 et VII.147/18, les données à caractère personnel du consommateur ou de la personne qui constitue une sûreté traitées dans le cadre de la conclusion ou de l'exécution d'un contrat de crédit par le prêteur ne peuvent être transmises à un tiers en dehors des conditions cumulatives énumérées au sein de la présente section.

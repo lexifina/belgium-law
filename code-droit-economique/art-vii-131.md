@@ -1,9 +1,15 @@
-§ 1er. Le prêteur peut stipuler une indemnité pour le cas de remboursement anticipé total ou partiel.
-Cette indemnité doit être calculée, au taux débiteur du crédit, sur le montant du solde restant dû.
-Pour le calcul, lorsqu'il existe un contrat adjoint dont la valeur de rachat n'est pas affectée au remboursement, ce montant doit être diminué de cette valeur de rachat.
-En cas de remboursement partiel, ces règles sont appliquées proportionnellement.
-Cette indemnité ne peut excéder trois mois d'intérêt.
-Aucune indemnité n'est due dans le cas d'un remboursement consécutif au décès, en exécution d'un contrat annexé ou adjoint.
-§ 2. Dans le cas d'une ouverture de crédit, le prêteur peut stipuler une indemnité pour mise à disposition du capital.
-Cette indemnité est calculée sur la fraction non prélevée du crédit accordé.
-§ 3. Les indemnités visées aux §§ 1er et 2 doivent être mentionnées dans l'acte constitutif.
+§ 1er. Le prêteur et l'intermédiaire de crédit sont tenus de rechercher, dans le cadre des contrats de crédit qu'ils offrent habituellement ou pour lesquels ils interviennent habituellement, le type et le montant du crédit les mieux adaptés, compte tenu de la situation financière du consommateur au moment de la conclusion du contrat et du but du crédit.
+Le prêteur et l'intermédiaire de crédit, et exclusivement eux, offrent au consommateur des services de conseil. Outre les conditions et exigences fixées au présent article, le prêteur et l'intermédiaire de crédit respectent les articles VII.147/30, §§ 5 et 6, VII.164, § 1er, alinéa 2, VII.165, § 1er, alinéa 2, VII.180, § 2, 3° et VII.181, § 1er, 1° et 2°.
+§ 2. Le prêteur et l'intermédiaire de crédit indiquent explicitement au consommateur, dans le cadre d'une transaction donnée, qu'ils sont tenus de lui fournir des services de conseil.
+§ 3. Le prêteur et l'intermédiaire de crédit informent le consommateur sur un support durable avant la fourniture de services de conseil ou, le cas échéant, avant la conclusion d'un contrat relatif à la prestation de services de conseil, si la recommandation se fondera uniquement sur leur propre gamme de produits conformément au paragraphe 4, alinéa 2, ou sur une large gamme de produits provenant de l'ensemble du marché, conformément au paragraphe 4, alinéa 3, afin que le consommateur puisse connaître la base sur laquelle la recommandation est faite.
+Les informations visées au premier alinéa peuvent être fournies au consommateur sous la forme d'informations précontractuelles complémentaires.
+§ 4. Le prêteur et l'intermédiaire de crédit font en sorte de recueillir les informations nécessaires sur la situation personnelle et financière du consommateur et sur ses préférences et ses objectifs pour pouvoir lui recommander des contrats de crédit appropriés. Cette recommandation est fondée sur des informations à jour et prend en compte des hypothèses raisonnables quant aux risques pour la situation du consommateur pendant la durée du contrat de crédit proposé.
+Le prêteur, l'agent lié ou le sous-agent désigné par ce dernier, prennent en considération un nombre suffisamment important de contrats de crédit de leur gamme de produits et recommandent, parmi ceux-ci, un ou plusieurs contrats de crédit adaptés aux besoins et à la situation personnelle et financière du consommateur.
+Le courtier de crédit ou son sous-agent prennent en considération un nombre suffisamment important de contrats de crédit disponibles sur le marché et recommandent, parmi ceux-ci, un ou plusieurs contrats de crédit disponibles sur le marché qui sont adaptés aux besoins et à la situation personnelle et financière du consommateur.
+§ 5. Le prêteur et l'intermédiaire de crédit agissent au mieux des intérêts du consommateur:
+1° en s'informant des besoins et de la situation de celui-ci, et
+2° en recommandant des contrats de crédits adaptés conformément au paragraphe 4.
+Le prêteur et l'intermédiaire de crédit remettent le contenu de la recommandation rendue par eux sur un support durable.
+Le prêteur et l'intermédiaire de crédit avertissent le consommateur lorsque, compte tenu de sa situation financière, un contrat de crédit peut induire des risques spécifiques pour lui.
+§ 6. L'usage des termes "conseil" et "conseiller" ou de termes similaires est interdit lorsque les services de conseil sont fournis aux consommateurs par un prêteur ou un intermédiaire de crédit.
+§ 7. Il est interdit à toute personne physique ou morale, ayant la qualité de prêteur ou d'intermédiaire de crédit, de réclamer au consommateur quelque rémunération que ce soit, directement ou indirectement, pour ces services de conseil, y compris lorsqu'elle agit en dehors de toute intermédiation ou octroi de crédit.

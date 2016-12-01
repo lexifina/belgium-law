@@ -1,9 +1,9 @@
-§ 1er. Le consommateur a le droit d'effectuer à tout moment le remboursement total du capital.
-Sauf disposition contraire de l'acte constitutif, le consommateur a le droit d'effectuer à tout moment un remboursement partiel du capital. La disposition contraire ne peut exclure un remboursement partiel une fois par année civile, ni le remboursement d'un montant égal à un minimum de 10 % du capital.
-§ 2. En cas de reconstitution, le consommateur a, au moment du remboursement, le choix:
-1° lorsqu'il s'agit d'un remboursement total, d'y affecter totalement ou partiellement le capital reconstitué ou de ne pas l'affecter;
-2° lorsqu'il s'agit d'un remboursement d'une fraction du remboursement total, d'y affecter totalement ou partiellement une même fraction du capital reconstitué ou de ne pas l'affecter.
-En outre, le consommateur a le droit de faire prendre en considération la partie du contrat qui n'est plus adjointe, pour réduire les primes du contrat à ce qui est requis pour maintenir la partie adjointe.
-L'acte constitutif doit énoncer ces modalités.
-§ 3. Le prêteur ne peut stipuler à son bénéfice le rachat d'un contrat adjoint que pour le cas où le produit de la vente du bien immobilier donné en garantie ne lui permet pas d'obtenir le remboursement de son crédit.
-§ 4. Sont libératoires envers le prêteur les versements en capital et indemnité effectués en vertu de l'acte constitutif à un tiers, en vue d'un remboursement anticipé.
+Pour un crédit hypothécaire avec une destination immobilière, le consommateur peut demander au prêteur d'apporter des modifications aux conditions et/ou aux sûretés du contrat de crédit en cours. Le prêteur est libre d'accéder ou non à cette demande.
+Ces modifications ne peuvent seulement porter que sur:
+1° un nouveau taux périodique, la réduction ou la prolongation de la durée, le remplacement d'un mode de remboursement par un autre, la suspension temporaire du paiement des amortissements du capital ou des primes de reconstitution et, sans préjudice de l'application de l'article VII.143 et les restrictions y reprises, la variabilité du taux périodique;
+2° la radiation totale ou partielle de l'inscription sur les biens immobiliers donnés en hypothèque, le remplacement d'une sûreté par une autre, l'établissement d'une sûreté complémentaire, le renouvellement d'une sûreté, la libération du consommateur de ces obligations de crédit ou l'ajout d'un nouveau consommateur.
+Les modifications énumérées à l'alinéa 2 peuvent être complétées par un arrêté royal délibéré en Conseil des ministres.
+Si le prêteur donne suite à cette demande, il fournit au consommateur une offre de crédit, dont le contenu est limité aux modifications relatives au contrat de crédit en cours.
+L'article VII.133 s'applique par analogie.
+Pour les modifications aux contrats de crédit en cours ou si le consommateur demande des duplicata de documents déjà délivrés, le prêteur peut à cet effet imputer des frais de dossier en vertu du tarif en vigueur au moment de la demande du consommateur, après que le consommateur a accepté l'offre de crédit. Le prêteur renvoie dans son offre de crédit au tarif en vigueur. Le Roi peut déterminer la méthode de fixation des frais de dossier maximaux et, le cas échéant, d'adaptation de ces maxima.
+Le prêteur peut imputer des frais de dossier si le consommateur exerce des options contractuellement prévues à condition que le contrat de crédit prévoit l'imputation de ces frais. Le Roi peut déterminer la méthode de fixation des frais maximaux et, le cas échéant, d'adaptation de ces maxima.

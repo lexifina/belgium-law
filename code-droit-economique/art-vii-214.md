@@ -1,1 +1,1 @@
-Lorsque, par suite d'inobservation de l'article VII. 140, § 2, les obligations résultant de l'adjonction ne sont pas indiquées dans le contrat adjoint, celui-ci perd ce caractère et le consommateur n'est tenu à aucune reconstitution.
+En cas de non-respect des dispositions visées aux articles VII.143, §§ 2 à 4, VII.147/14 et VII. 147/22, § 4, le consommateur est relevé de plein droit des intérêts et frais se rapportant à la période sur laquelle porte l'infraction.

@@ -10,7 +10,7 @@
 - le montant, échu et impayé, du coût total du crédit pour le consommateur;
 - le montant de l'intérêt de retard convenu calculé sur le capital échu et impayé;
 - les frais convenus de lettres de rappel et de mise en demeure, à concurrence d'un envoi par mois. Ces frais se composent d'un montant forfaitaire maximum de 7,50 euros augmenté des frais postaux en vigueur au moment de l'envoi. Le Roi peut adapter ce montant forfaitaire selon l'indice des prix à la consommation.
-Lorsque le contrat de crédit est résilié conformément à l'article VII. 98, § 1er, ou a pris fin et que le consommateur ne s'est pas exécuté trois mois après le dépôt à la poste d'une lettre recommandée contenant mise en demeure, aucun paiement autre que ceux indiqués ci-dessous ne peut être réclamé au consommateur:
+Lorsque le contrat de crédit est résilié conformément à l'article VII. 98, § 1er, ou a pris fin et que le consommateur ne s'est pas exécuté trois mois après un envoi recommandé contenant mise en demeure, aucun paiement autre que ceux indiqués ci-dessous ne peut être réclamé au consommateur:
 - le capital échu et impayé;
 - le montant, échu et impayé, du coût total du crédit pour le consommateur;
 - le montant de l'intérêt de retard convenu calculé sur le capital échu et impayé;
