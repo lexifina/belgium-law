@@ -1,0 +1,1 @@
+Sauf l'exception prévue à l'article 991decies, seules les personnes qui, sur décision du ministre de la Justice, ont été inscrites au registre national des experts judiciaires sont autorisées à porter le titre d'expert judiciaire et peuvent accepter et accomplir des missions en tant qu'expert judiciaire.
