@@ -1,3 +1,2 @@
-Lorsque, par suite d'inobservation de l'article VII. 140:
-1° il n'est pas possible de déterminer les montants des versements amortissants, le consommateur n'est pas tenu d'effectuer de tels versements;
-2° il n'est pas possible de déterminer les époques et conditions auxquelles les charges périodiques, les intérêts ou les versements reconstitutifs sont dus, le consommateur n'est tenu de les payer qu'aux dates anniversaires du crédit.
+Lorsque des pénalités ou des dommages et intérêts non prévus par le présent livre sont réclamés au consommateur ou à la personne qui constitue une sûreté, ces derniers en sont entièrement relevés de plein droit.
+En outre, si le juge estime que les pénalités ou les dommages et intérêts convenus ou appliqués, notamment sous la forme de clause pénale, en cas d'inexécution de la convention, sont excessifs ou injustifiés, il peut d'office les réduire ou en relever entièrement le consommateur.

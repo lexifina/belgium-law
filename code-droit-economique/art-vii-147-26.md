@@ -1,0 +1,8 @@
+§ 1er. Le cautionnement et, le cas échéant, toute autre forme de sûreté accordée par des tiers-consommateurs des engagements nés d'un contrat de crédit précisent le montant qui est garanti. Les sûretés réclamées ne valent que pour ces montants éventuellement augmentés des intérêts de retard, à l'exclusion de toute autre pénalité ou frais d'inexécution. Le prêteur doit à cet effet remettre au préalable et gratuitement un exemplaire du contrat de crédit à la caution et le cas échéant, à la personne qui constitue une sûreté.
+§ 2. Chaque contrat de sûreté pour lequel la personne qui constitue la sûreté est enregistrée conformément à l'article VII.148, § 2, 1°, mentionne:
+1° la clause: "Le contrat de crédit pour lequel vous avez constitué cette sûreté fait l'objet d'un enregistrement à la Centrale des Crédits aux Particuliers où, conformément à l'article VII.148, § 2, 1°, vous êtes enregistré en tant que personne ayant constitué une sûreté";
+2° les finalités du traitement dans la Centrale;
+3° le nom de la Centrale;
+4° l'existence d'un droit d'accès, de rectification et de suppression des données ainsi que les délais de conservation de ces dernières.
+§ 3. Le prêteur informe toute personne qui constitue une sûreté, de la conclusion du contrat de crédit, ainsi que, de manière préalable, de toute modification du contrat.
+Pour les contrats de crédit conclus pour une durée indéterminée, un cautionnement ou une sûreté personnelle ne peut être réclamé par le prêteur que pour une période de cinq ans. Cette période ne peut être renouvelée que moyennant l'accord exprès, au terme de la période, de la caution ou de la personne qui constitue une sûreté personnelle.

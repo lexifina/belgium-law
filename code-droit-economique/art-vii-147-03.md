@@ -1,0 +1,5 @@
+§ 1er. Tant que le contrat de crédit n'a pas été signé par toutes les parties, aucun paiement ne peut être effectué, ni par le prêteur au consommateur ou pour le compte de celui-ci, ni par le consommateur au prêteur, sauf en ce qui concerne les frais d'expertise.
+Sauf disposition contraire dans le contrat de crédit, le prêteur met le montant du crédit immédiatement à disposition par virement sur le compte du consommateur ou sur celui d'un tiers désigné par le consommateur ou par chèque.
+Ni le montant du crédit ni le capital ne peut être lié à un index.
+La mise à disposition du montant du crédit en espèces ou en argent comptant peut uniquement se faire dans les cas indiqués par le Roi dans un arrêté délibéré en Conseil des Ministres, en tenant compte du montant du crédit, du type de crédit, du but et du moment de la conclusion du contrat de crédit.
+§ 2. Le prêteur continue de répondre des sommes qu'il a remises à l'intermédiaire de crédit, en exécution du contrat de crédit, jusqu'à ce qu'elles soient, dans leur totalité, mises à la disposition du consommateur ou d'un tiers désigné par lui.

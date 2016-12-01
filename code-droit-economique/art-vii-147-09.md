@@ -1,0 +1,4 @@
+§ 1er. Le Roi détermine la méthode de fixation et, le cas échéant, d'adaptation des taux annuels effectifs globaux maximaux. Il fixe le taux annuel effectif global maximum en fonction du type, du montant et éventuellement de la durée du crédit.
+§ 2. Lorsque le calcul du taux annuel effectif global nécessite l'utilisation d'hypothèses, le Roi peut également fixer conformément aux dispositions visées au § 1er, le coût maximum du crédit, à savoir notamment le taux débiteur maximum, et le cas échéant, les frais récurrents maximaux et les frais non récurrents maximaux liés à l'ouverture de crédit.
+§ 3. Les taux fixés en vertu de cet article restent applicables en tout état de cause jusqu'à leur révision.
+Toute baisse du taux annuel effectif global maximum et, le cas échéant, du coût maximum du crédit est d'application immédiate au contrat de crédit en cours qui prévoit, dans les limites du présent livre, la variabilité du taux annuel effectif global ou du taux débiteur.

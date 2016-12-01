@@ -1,0 +1,20 @@
+§ 1er. Sans préjudice de l'application de l'article VII.147/13, § 1er, toute clause qui prévoit une déchéance du terme ou une condition résolutoire expresse est interdite et réputée non écrite, à moins d'être stipulée:
+1° pour le cas où le consommateur serait en défaut de paiement d'au moins deux montants d'un terme, d'une somme équivalente à 20 p.c. du montant total dû par le consommateur ou des montants correspondants pour la reconstitution du capital, et ne se serait pas exécuté un mois après l'envoi recommandé d'une lettre contenant mise en demeure. Ces modalités doivent être rappelées par le prêteur au consommateur lors de la mise en demeure;
+2° pour le cas d'un crédit hypothécaire avec une destination mobilière où le consommateur aliénerait le bien mobilier financé avant le paiement du prix ou en ferait un usage contraire aux stipulations du contrat, alors que le prêteur s'en serait réservé la propriété;
+3° pour le cas d'un crédit hypothécaire avec une destination mobilière où le consommateur dépasserait le montant du crédit visé aux articles VII.147/15 et VII.147/16 et ne se serait pas exécuté un mois après l'envoi recommandé d'une lettre contenant mise en demeure;
+4° pour le cas où le consommateur est déclaré en faillite;
+5° lorsque par son fait le consommateur a diminué la sûreté hypothécaire qu'il avait donnée par le contrat de crédit dans les cas suivants:
+a) si le bien immobilier qui fait l'objet de la sûreté hypothécaire est partiellement ou totalement aliéné, vendu, échangé ou donné entre vifs;
+b) si le bien immobilier qui fait l'objet d'un mandat hypothécaire ou d'une promesse hypothécaire est grevé d'une hypothèque.
+§ 2. Le juge peut, sans préjudice des sanctions de droit commun et de l'application de l'article VII.134, § 4, ordonner la résolution du contrat aux torts du consommateur dans les cas suivants:
+1° si le bien immobilier, qui est grevé d'une sûreté hypothécaire, fait l'objet d'une saisie par un autre créancier;
+2° si l'inscription hypothécaire n'occupe pas le rang convenu avec le consommateur;
+3° en cas de diminution de la sûreté hypothécaire suite à une diminution substantielle de la valeur du bien immobilier imputable au consommateur: par une modification de la nature ou de la destination, par une altération grave, par une pollution grave, par la mise en location en dessous du prix normal de location ou par la mise en location pour une durée supérieure à neuf ans, sauf accord du prêteur;
+4° en cas de copropriété: de modification de l'acte de base approuvé par le consommateur avec pour conséquence une diminution de la valeur;
+5° au cas où le contrat d'assurance incendie, d'assurance solde restant dû ou d'assurance décès temporaire à capital constat convenu n'est pas annexé dans un délai de trois mois après le passage de l'acte authentique de crédit;
+6° si le consommateur a sciemment dissimulé de l'information au sens de l'article VII.126 ou a donné une information contraire à la vérité suite à quoi sa solvabilité a été mal évaluée;
+7° si un entrepreneur, un architecte, un maçon ou tout autre ouvrier a rédigé le procès-verbal visé à l'article 27, 5°, de la loi hypothécaire du 16 décembre 1851;
+8° si le bien immobilier financé par le contrat de crédit n'est pas totalement achevé et approprié pour une location dans les 24 mois de la signature de l'acte authentique de crédit ou si les travaux ne sont pas exécutés conformément aux plans et aux cahiers de charges ou aux permis délivrés;
+9° si le crédit est utilisé dans un autre but que celui indiqué par le consommateur.
+§ 3. Les modalités sont rappelées par le prêteur au consommateur lors de la mise en demeure.
+Sans préjudice de l'application de l'article VII.147/13, § 1er, toute clause qui prévoit que le prêteur peut à tout moment en cours de contrat, exiger le remboursement du montant du crédit prélevé est interdite et réputée non écrite. Les clauses d'exigibilité avant terme ou de résolution du contrat de crédit ne peuvent pas résulter d'un fait du prêteur.

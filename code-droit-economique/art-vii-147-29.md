@@ -1,0 +1,5 @@
+§ 1er. L'intermédiaire de crédit ne peut introduire de demande de crédit pour un consommateur si, compte tenu des informations dont il dispose ou devrait disposer, notamment sur base des renseignements visés à l'article VII.126, il estime que le consommateur ne sera manifestement pas à même de respecter les obligations découlant du contrat de crédit.
+§ 2. L'intermédiaire de crédit ne peut fractionner les demandes de crédit. Il doit communiquer au prêteur les informations nécessaires visées à l'article VII.69.
+§ 3. Quiconque agit en tant qu'intermédiaire de crédit doit communiquer à tous les prêteurs sollicités le montant des autres contrats de crédit qu'il a demandés ou reçus au bénéfice du même consommateur, au cours des deux mois précédant l'introduction de chaque nouvelle demande de crédit.
+§ 4. L'intermédiaire de crédit ne peut intervenir que pour des contrats de crédit avec des prêteurs agréés ou enregistrés.
+Le courtier de crédit ne peut pratiquer son activité que sous sa propre dénomination.

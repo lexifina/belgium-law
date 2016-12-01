@@ -1,0 +1,3 @@
+§ 1er. Lorsque le consommateur a déjà payé des sommes égales à au moins 40 % du prix au comptant d'un bien faisant l'objet, soit d'une clause de réserve de propriété, soit d'une promesse de gage avec mandat irrévocable, ce bien ne peut être repris qu'en vertu d'une décision judiciaire ou d'un accord écrit conclu après mise en demeure par envoi recommandé.
+Le prêteur doit, dans un délai de trente jours à compter de la date de la vente du bien financé, notifier le prix obtenu au consommateur et lui restituer le trop perçu.
+§ 2. En aucun cas, un mandat ou un accord conclu en vue de la reprise d'un bien financé par un contrat de crédit ne peut donner lieu à un enrichissement injustifié.

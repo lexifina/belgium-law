@@ -1,0 +1,1 @@
+Lorsque le consommateur a omis de communiquer les informations visées à l'article VII.126 ou a communiqué des informations fausses, le juge peut, sans préjudice des sanctions de droit commun, ordonner la résolution du contrat aux torts du consommateur.
