@@ -1,1 +1,1 @@
-Lorsque la publicité concerne tant le crédit à la consommation que le crédit hypothécaire ou également des contrats de crédits qui tombent en dehors du champ d'application du présent livre, et que le message publicitaire n'indique pas d'une manière claire, visible et, le cas échéant audible, quelle information concerne quel contrat de crédit, les dispositions de la présente sous-section s'appliquent alors à toute la publicité.
+(Abrogé)

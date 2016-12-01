@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Dans le cadre d'un contrat de crédit, il est interdit au consommateur, ou s'il échet à la personne qui constitue une sûreté, de promettre ou de garantir au moyen d'une lettre de change ou d'un billet à ordre le paiement des engagements qu'il a contractés en vertu d'un contrat de crédit. Il est également interdit de faire signer un chèque à titre de sûreté du remboursement total ou partiel du montant dû.

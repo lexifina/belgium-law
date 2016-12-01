@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Le prêteur communique à la caution et, le cas échéant, à la personne qui constitue une sûreté, le retard de paiement par le consommateur de deux échéances ou d'au moins un cinquième du montant total à rembourser. Il lui communique les facilités de paiement accordées et l'informe au préalable de toute modification apportée au contrat de crédit initial.

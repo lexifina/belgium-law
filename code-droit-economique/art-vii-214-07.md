@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+La reprise du bien meuble corporel effectuée en infraction aux dispositions de l'article VII.147/25 entraîne la résolution du contrat de crédit. Le prêteur est tenu de rembourser la totalité des sommes versées endéans les trente jours.

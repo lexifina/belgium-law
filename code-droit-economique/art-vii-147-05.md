@@ -1,1 +1,4 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Lorsque le contrat de crédit mentionne le bien ou la prestation de service financé ou que le montant du contrat de crédit est versé directement par le prêteur au vendeur ou prestataire de services, les obligations du consommateur ne prennent effet qu'à compter de la livraison du bien ou de la prestation du service; en cas de vente ou de prestation de services à exécution successive, elles prennent effet à compter du début de la livraison du produit ou de la prestation du service et cessent en cas d'interruption de celles-ci, sauf si le consommateur reçoit lui-même le montant du crédit et que l'identité du vendeur ou du prestataire de service n'est pas connue par le prêteur.
+Le montant du crédit ne peut être remis au vendeur ou au prestataire de services qu'après notification au prêteur de la livraison du bien ou de la prestation du service.
+La notification visée au deuxième alinéa est réalisée sur un support durable, notamment un document de livraison, daté et signé par le consommateur.
+L'intérêt dû en vertu du contrat de crédit ne prend cours qu'à la date de cette notification.

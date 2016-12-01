@@ -1,1 +1,2 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+En cas de défaut de paiement d'une somme due, le prêteur fait parvenir au consommateur, dans les trois mois de l'échéance, par envoi recommandé un avertissement reprenant les conséquences du non-paiement.
+En cas d'inobservation de cette obligation, la majoration contractuelle des taux d'intérêt pour retard de paiement visée aux articles VII.147/22 et VII.147/23 ne peut pas être appliquée sur ladite échéance; en outre, pour cette échéance, un délai de paiement de six mois sans frais ni intérêts complémentaires doit être accordé; ce délai prend cours le jour de l'échéance non payée.

@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Le manquement aux dispositions de l'article VII.139, alinéa 1er, confère au consommateur le droit de demander l'annulation du contrat de vente ou de prestation de service et d'exiger du vendeur ou du prestataire de service le remboursement des paiements qu'il a déjà effectués.

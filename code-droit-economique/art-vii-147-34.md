@@ -1,1 +1,6 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+§ 1er. Seules peuvent être traitées, à l'exclusion de toutes autres, les données relatives à l'identité du consommateur ou de la personne qui constitue une sûreté, le montant et la durée des crédits, la périodicité des paiements, les facilités de paiement éventuellement octroyées, les retards de paiement, ainsi que l'identité du prêteur. Cette dernière donnée n'est communiquée qu'au responsable du traitement et au consommateur exclusivement, sauf en ce qui concerne les retards de paiement.
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer le contenu des données visées à l'alinéa précédent.
+§ 2. Par dérogation aux dispositions du paragraphe 1er, alinéa 1er, le Roi peut, par arrêté délibéré en Conseil des ministres:
+1° déterminer les catégories de condamnations pénales prononcées à l'encontre du consommateur ou de la personne qui constitue une sûreté, qui peuvent être traitées pour autant que le consommateur ou la personne qui constitue une sûreté en ait été informé préalablement et par écrit;
+2° désigner les personnes physiques ou morales de droit public ou de droit privé autorisées à traiter les données visées au 1°;
+3° fixer les conditions particulières et les modalités relatives à ce traitement.

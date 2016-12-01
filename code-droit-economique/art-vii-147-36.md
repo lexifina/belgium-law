@@ -1,1 +1,6 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+§ 1er. Les données sont effacées lorsque leur maintien dans le fichier a cessé de se justifier. Le Roi peut fixer un délai pour la conservation des données ou des catégories de données.
+Les personnes qui ont reçu communication de données à caractère personnel dans le cadre de la conclusion ou la gestion de contrat de crédit, ne peuvent en disposer que le temps nécessaire pour la conclusion et l'exécution de contrats de crédit en tenant compte notamment des délais fixés, par le Roi en vertu du présent paragraphe, pour la conservation des données.
+§ 2. Le responsable du traitement est tenu de prendre toutes les mesures qui permettent de garantir la parfaite conservation des données à caractère personnel.
+Les personnes qui ont reçu communication de données à caractère personnel sont tenues de prendre les mesures qui permettent de garantir le caractère confidentiel de ces données ainsi que l'usage aux seules fins prévues par ou en vertu du présent livre, ou pour l'application de leurs obligations légales.
+§ 3. Le responsable du traitement est plus spécialement chargé de la supervision ou de l'échange automatisé des données à caractère personnel et doit notamment veiller à ce que les programmes de traitement ou d'échange automatisés soient exclusivement conçus et utilisés conformément au présent livre et ses arrêtés d'exécution.
+Le Roi peut fixer les règles suivant lesquelles le responsable du traitement doit exercer sa mission.

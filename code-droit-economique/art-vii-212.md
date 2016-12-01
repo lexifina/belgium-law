@@ -1,1 +1,1 @@
-Celui qui fait signer une lettre de change ou un billet à ordre en représentation d'un crédit hypothécaire ou présente un tel effet au paiement sans se conformer aux dispositions de l'article VII. 139, est tenu de rembourser à le consommateur les intérêts courus du contrat de crédit.
+Lorsque, malgré l'interdiction visée à l'article VII.147/3, § 1er, alinéa 1er, le prêteur ou l'intermédiaire de crédit verse une somme, le consommateur n'est pas tenu de restituer la somme versée, de payer le service ou le bien livré ni de restituer ce dernier.

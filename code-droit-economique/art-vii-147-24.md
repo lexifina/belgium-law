@@ -1,1 +1,4 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Toute exécution ou saisie à laquelle il est procédé en vertu d'un jugement ou d'un autre acte authentique est précédée, dans le cadre du présent chapitre, à peine de nullité, d'une tentative de conciliation devant le juge des saisies, qui doit être actée à la feuille d'audience.
+Toute demande de facilités de paiement par le consommateur, la caution et, le cas échéant, la personne qui constitue une sûreté personnelle est adressée au juge des saisies, à moins que cette demande a trait à un contrat de crédit visé à l'article VII.138, § 1er, auquel cas l'article VII.107 s'appliquera.
+Les articles 732 et 733 du Code judiciaire sont d'application.
+Par dérogation aux articles 2032, 4°, et 2039 du Code civil, la caution et, le cas échéant, toute personne qui constitue une sûreté personnelle doit respecter le plan des facilités de paiement octroyé par le juge des saisies au consommateur.
