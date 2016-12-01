@@ -14,7 +14,7 @@ e) l'émission et/ou l'acquisition d'instruments de paiement;
 f) les transmissions de fonds;
 g) l'exécution d'opérations de paiement, lorsque le consentement du payeur à une opération de paiement est donné au moyen de tout dispositif de télécommunication, numérique ou informatique et que le paiement est adressé à l'opérateur du système ou du réseau de télécommunication ou informatique, agissant uniquement en qualité d'intermédiaire entre l'utilisateur de services de paiement et le fournisseur de biens ou services;
 2° prestataire de services de paiement: toute personne morale qui fournit des services de paiement à un utilisateur de services de paiement et qui répond aux caractéristiques d'un des établissements énumérés ci-après:
-a) les établissements de crédit visés à l'article 1er, alinéa 2, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit;
+a) les établissements de crédit visés à l'article 1er, § 3, alinéa 1er de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;
 b) les établissements de monnaie électronique tels que visés à l'article 4, 31°, de la loi du 21 décembre 2009;
 c) la sociéte anonyme de droit public bpost;
 d) les établissements de paiement: les personnes morales qui sont habilitées à fournir des services de paiement conformément à la loi du 21 décembre 2009;
@@ -63,6 +63,7 @@ b) de plusieurs prêteurs faisant partie d'un même groupe;
 37° courtier de crédit: un intermédiaire de crédit, autre qu'un agent lié, un sous-agent ou un agent à titre accessoire, qui exerce ses activités d'intermédiation en dehors de tout contrat d'agence exclusive ou de tout autre engagement juridique lui imposant de placer la totalité ou une partie déterminée de sa production auprès d'un ou plusieurs prêteurs;
 38° groupe: un groupe de prêteurs qui doivent être consolidés aux fins de l'établissement de comptes consolidés, au sens de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises;
 39° contrat de crédit: tout contrat en vertu duquel un prêteur consent ou s'engage à consentir à un consommateur un crédit, sous la forme d'un délai de paiement, d'un prêt ou de toute autre facilité de paiement similaire;
+Le contrat par lequel une hypothèque est consentie pour sûreté d'un crédit ouvert tel que visé à l'article 80, alinéa 3, de la loi hypothécaire du 16 décembre 1851, n'est pas considéré comme un contrat de crédit au sens du présent livre, pour autant que ce contrat ne contienne pas de dispositions contraires au présent livre;
 40° offre de crédit: l'émission définitive de la volonté du prêteur qui ne doit plus qu'être acceptée par le consommateur pour que le contrat de crédit soit formé;
 41° coût total du crédit pour le consommateur: tous les coûts liés au contrat de crédit que le consommateur doit payer et qui sont connus par le prêteur, à l'exception des frais de notaire. Sont notamment inclus:
 a) les intérêts débiteurs;
@@ -70,13 +71,20 @@ b) les commissions et/ou rémunérations que l'intermédiaire de crédit perçoi
 c) les taxes;
 d) tous frais quelconques, notamment les frais d'enquête, les frais de constitution du dossier, les frais de consultation de fichiers, les frais de gestion, d'administration et d'encaissement, tous les frais liés à une carte, à l'exception de ce qui est visé sous f);
 e) les coûts relatifs aux services accessoires liés au contrat de crédit, notamment les primes d'assurance, si la conclusion de ce contrat de services est obligatoire pour l'obtention même du crédit ou en application des clauses et conditions commerciales;
-f) les frais de tenue d'un compte, dont un compte de paiement, lié à un contrat de crédit sur lequel sont portés tant les opérations de paiement que les prélèvements, les frais d'utilisation d'un instrument de paiement permettant d'effectuer à la fois des opérations de paiement et des prélèvements ainsi que d'autres frais relatifs à ces opérations de paiement, sauf si l'ouverture du compte est facultative et que les frais liés à ce compte ont été indiqués de manière claire et distincte dans le contrat de crédit ou tout autre contrat conclu avec le consommateur.
+f) les frais d'ouverture et de tenue d'un compte donné, d'utilisation d'un moyen de paiement permettant d'effectuer à la fois des opérations et des prélèvements à partir de ce compte ainsi que les autres frais liés aux opérations de paiement, dans tous les cas où l'ouverture ou la tenue d'un compte est obligatoire pour obtenir le crédit ou pour l'obtenir aux conditions annoncées. Quand bien même l'ouverture du compte serait facultative, les frais liés à ce compte doivent, pour un crédit à la consommation, être indiqués de manière claire et distincte dans le contrat de crédit ou tout autre contrat conclu avec le consommateur;
+g) les frais d'expertise du bien immobilier si cette expertise est obligatoire pour obtenir le crédit sollicité;
+h) les frais de sûretés.
 Le coût total du crédit pour le consommateur ne comprend pas:
 a) les frais et indemnités dont le consommateur est redevable en cas de non-exécution d'une de ses obligations figurant dans le contrat de crédit;
 b) les frais, autres que le prix d'achat, lui incombant lors de l'acquisition de biens ou de services, que cet achat soit effectué au comptant ou à crédit;
+c) les frais d'enregistrement et de transcription du transfert d'un bien immobilier;
 42° taux annuel effectif global: le taux qui exprime l'équivalence, sur une base annuelle, des valeurs actualisées de l'ensemble des engagements du prêteur (prélèvements) et du consommateur (remboursements et coût total du crédit pour le consommateur), existants ou futurs, et qui est calculé sur base des éléments indiqués par le Roi et selon le mode qu'Il détermine;
 43° publicité: toute communication telle que visée à l' article I. 8, 13°;
 44° taux débiteur: le taux d'intérêt exprimé en pourcentage fixe ou variable, appliqué sur une base annuelle sur la partie du capital prélevé et qui est calculé sur base des éléments indiqués par le Roi, par un arrêté délibéré en Conseil des ministres, et selon le mode qu'Il détermine, le cas échéant y compris la méthode de calcul des intérêts de retard y liés;
+Pour les crédits hypothécaires avec une destination immobilière, le taux débiteur sur base annuelle I est le résultat de la comparaison:
+(1 + i)n = (1 + I),
+dont i est le taux périodique et n le nombre de périodes comprises dans l'année;
+44/1° taux périodique: le taux, exprimé en pourcentage par période à partir duquel les intérêts pour la même période sont calculés;
 45° taux débiteur fixe: le taux débiteur prévu par une disposition du contrat de crédit en vertu de laquelle le prêteur et le consommateur conviennent d'un taux débiteur unique pour la totalité de la durée du contrat de crédit, ou de plusieurs taux débiteurs pour des périodes partielles en appliquant exclusivement un pourcentage fixe donné;
 46° vente à tempérament: tout contrat de crédit, quelle que soit sa qualification ou sa forme, qui doit normalement emporter l'acquisition de biens ou prestation de services, vendus par le prêteur ou l'intermédiaire de crédit, visé au 35°, c), dernière phrase, et dont le prix s'acquitte par versements périodiques;
 47° crédit-bail: tout contrat de crédit, quelle que soit sa qualification ou sa forme, par lequel une des parties s'engage à fournir à l'autre partie la jouissance d'un bien meuble corporel à un prix déterminé que cette dernière s'engage à payer périodiquement, et qui comporte, de manière expresse ou tacite, une offre d'achat. Pour l'application de la présente loi, le bailleur est considéré comme le prêteur ou l'intermédiaire de crédit visé au 35°, c), dernière phrase;
@@ -86,11 +94,17 @@ S'il n'est pas possible d'effectuer un nouveau prélèvement que moyennant l'acc
 50° contrat de crédit à distance: tout contrat de crédit conclu conformément à l'article I.8, 15° du présent Code;
 51° facilité de découvert: une ouverture de crédit explicite en vertu de laquelle un prêteur permet à un consommateur de disposer de fonds qui dépassent le solde disponible du compte de paiement y attaché;
 52° dépassement: une facilité de découvert tacitement acceptée et en vertu de laquelle un prêteur autorise un consommateur à disposer de fonds qui dépassent le solde disponible du compte de paiement du consommateur ou de la facilité de découvert convenue;
-53° crédit hypothécaire: le crédit ayant pour objet le financement de l'acquisition ou la conservation de droits réels immobiliers, consenti à un consommateur, et qui
-a) est soit garanti par une hypothèque ou un privilège sur un immeuble ou le nantissement d'une créance garantie de la même manière,
-b) soit constitue une créance résultant de la subrogation d'une ou plusieurs tierces personnes dans les droits d'un créancier privilégié sur un immeuble,
-c) soit est stipulé avec le droit de requérir une garantie hypothécaire, même si ce droit est stipulé dans un acte distinct,
-d) soit constitue une garantie hypothécaire stipulée au profit de la personne qui constitue une sûreté;
+53° sûreté hypothécaire: une sûreté qui peut revêtir les formes suivantes:
+a) une hypothèque ou un privilège sur un immeuble ou le nantissement d'une créance garantie de la même manière, ou
+b) la subrogation d'une ou plusieurs tierces personnes dans les droits d'un créancier privilégié sur un immeuble, ou
+c) le droit de requérir une garantie hypothécaire, même si ce droit est stipulé dans un acte distinct, ou
+d) la garantie hypothécaire stipulée au profit de la personne qui constitue une sûreté;
+53/1° crédit hypothécaire avec une destination immobilière: le contrat de crédit garanti par un droit lié à un bien immobilier à usage résidentiel ou une sûreté hypothécaire qui est destiné au financement de l'acquisition ou la conservation de droits réels immobiliers ainsi que les coûts et impôts y relatifs, ou le refinancement du même contrat de crédit.
+Est également considéré comme un crédit hypothécaire avec une destination immobilière:
+a) le contrat de crédit non garanti par une sûreté hypothécaire destiné au financement de l'acquisition ou la conservation de droits réels immobiliers, à l'exception de la rénovation d'un bien immobilier;
+b) le contrat de crédit destiné à l'acquisition ou la conservation d'un bâtiment tel que visé à l'article 2, alinéa 1er, de la loi du 26 mars 2012 concernant l'immatriculation des bâtiments de navigation intérieure autres que les bateaux de la navigation intérieure visés à l'article 271, du Livre II du Code de commerce;
+53/2° crédit hypothécaire avec une destination mobilière: le contrat de crédit garanti par un droit lié à un bien immobilier à usage résidentiel ou une sûreté hypothécaire qui n'est pas destiné à l'acquisition ou à la conservation de droits réels immobiliers ainsi que les coûts et impôts y relatifs, ou le refinancement du même contrat de crédit;
+53/3° crédit hypothécaire: le crédit qui peut constituer un crédit hypothécaire tant avec une destination mobilière que immobilière;
 54° crédit à la consommation: le crédit qui, quelle que soit sa qualification ou sa forme, est consenti à un consommateur et qui ne constitue pas un crédit hypothécaire;
 55° médiation de dettes: la prestation de services, à l'exclusion de la conclusion d'un contrat de crédit, en vue de réaliser un aménagement des modalités de paiement de la dette qui découle totalement ou partiellement d'un ou plusieurs contrats de crédit;
 56° traitement des données: le traitement de données à caractère personnel défini par l'article 1er, § 2, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel;
@@ -111,11 +125,11 @@ b) ces deux contrats constituent, d'un point de vue objectif, une unité commerc
 68° Banque: la Banque nationale de Belgique;
 69° Centrale: la Centrale des Crédits aux Particuliers chargé des missions visées à l'article VII.148;
 70° service accessoire: un service offert au consommateur conjointement avec le contrat de crédit ou le service de paiement;
-71° établissement de crédit: l'établissement de crédit tel que visé à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;
+71° établissement de crédit: l'établissement de crédit tel que visé à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;
 72° entreprise d'assurances: l'entreprise d'assurances établie en Belgique visée à l'article 5, alinéa 1er, 1°, de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance;
 73° entreprise réglementée: une entreprise réglementée au sens de l'article 1er, 7°, de l'arrêté royal du 21 novembre 2005 organisant la surveillance complémentaire des établissements de crédit, des entreprises d'assurances, des entreprises d'investissement et des sociétés de gestion d'organismes de placement collectif, faisant partie d'un groupe de services financiers, et modifiant l'arrêté royal du22 février 1991 portant règlement général relatif au contrôle des entreprises d'assurances et l'arrêté royal du 12 août 1994 relatif au contrôle sur base consolidée des établissements de crédit;
 74° sous-agent: la personne physique ou morale qui, en tant qu'intermédiaire de crédit, agit pour le compte et sous la responsabilité entière et inconditionnelle d'un seul intermédiaire de crédit, autre qu'un sous-agent;
-75° acte constitutif: l'ensemble des actes authentiques et sous seing privé ainsi que tout document contenant des dispositions régissant un même crédit;
+75° ...;
 76° état membre d'origine:
 a) lorsque le prêteur ou l'intermédiaire de crédit est une personne physique, l'état membre dans lequel son administration centrale est située;
 b) lorsque le prêteur ou l'intermédiaire de crédit est une personne morale, l'Etat membre dans lequel son siège statutaire est situé, ou, s'il n'a pas de siège statutaire en vertu de son droit national, l'état membre dans lequel son administration centrale est située;
@@ -124,6 +138,19 @@ b) lorsque le prêteur ou l'intermédiaire de crédit est une personne morale, l
 79° personne en contact avec le public: les autres personnes d'un prêteur ou d'un intermédiaire de crédit qui, de quelque manière que ce soit, sont en contact avec le public en vue de proposer des contrats de crédit ou de fournir des informations à leur sujet;
 80° loi du 2 août 2002: loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers;
 81° agents à titre accessoire: les vendeurs de biens et de services à caractère non financier agissant en qualité d'intermédiaire en crédit à la consommation à titre accessoire et pour compte d'un ou plusieurs prêteurs.
-82° loi du 25 avril 2014: loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;
-83° loi du 6 avril 1995: loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement;
+82° loi du 25 avril 2014: loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;
+83° loi du 25 octobre 2016: loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement;
+84° évaluation de la solvabilité: l'évaluation des perspectives de remboursement de la dette découlant du contrat de crédit;
+85° services de conseil: la fourniture de recommandations personnalisées à un consommateur en ce qui concerne une ou plusieurs opérations liées à des contrats de crédit;
+86° engagement conditionnel ou garantie: un contrat de crédit qui sert de garantie à une opération distincte, mais auxiliaire, et dans lequel le capital garanti par un bien immobilier n'est prélevé que si l'un ou plusieurs des événements mentionnés dans le contrat se produisent;
+87° contrat de crédit en fonds partagés: un contrat de crédit dont le capital remboursable est fondé sur un pourcentage, établi contractuellement, de la valeur du bien immobilier au moment du remboursement ou des remboursements du capital;
+88° vente liée: le fait de proposer ou de vendre, sous forme de lot, un contrat de crédit en même temps que d'autres produits ou services financiers distincts, lorsque le contrat de crédit n'est pas proposé au consommateur séparément;
+89° vente groupée: le fait de proposer ou de vendre, sous forme de lot, un contrat de crédit en même temps que d'autres produits ou services financiers distincts, le contrat de crédit étant aussi proposé au consommateur séparément, mais pas nécessairement aux mêmes conditions que lorsqu'il est proposé de manière groupée avec les services accessoires;
+90° contrat de crédit en monnaie étrangère: un contrat de crédit dans lequel le crédit est:
+a) libellé dans une monnaie autre que celle dans laquelle le consommateur reçoit les revenus ou détient les actifs sur la base desquels le crédit doit être remboursé; ou
+b) libellé dans une monnaie autre que celle de l'Etat membre où le consommateur réside;
+91° terme de paiement: la période comprise entre:
+a) le moment où le prêteur a mis à la disposition du consommateur une somme d'argent ou un pouvoir d'achat, ou encore le moment où a débuté l'octroi de la jouissance d'un bien ou la fourniture d'un tel bien ou la prestation d'un service et le moment où le consommateur doit avoir effectué le premier paiement;
+b) deux moments successifs où le consommateur doit avoir effectué un paiement;
+92° le montant d'un terme: le montant d'un paiement que le consommateur doit avoir effectué à la fin de chaque terme de paiement.
 93° Règlement (UE) n° 2015/751: Règlement (UE) 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte;
