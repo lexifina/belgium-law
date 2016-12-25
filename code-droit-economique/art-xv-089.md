@@ -20,4 +20,6 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 19° du Règlement (CE) n° 924/2009 du Parlement européen et du Conseil du 16 septembre 2009 concernant les paiements transfrontaliers dans la Communauté et abrogeant le Règlement (CE) n° 2560/2001;
 20° des articles VII. 60 à VII. 62 relatifs à l'activité d'émission de monnaie électronique, au caractère remboursable de la monnaie électronique et à l'interdiction d'octroyer des intérêts;
 21° des articles 3 et 5 à 9 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009;
+22° du Règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte, à l'exception de son article 7;
+23° de l'arrêté royal pris en exécution de l'article VII.63/1 et de l'article VII.63/2 de ce Code.
 Cette sanction n'est pas applicable à l'utilisateur de services de paiement qui agit en qualité de consommateur.
