@@ -1,4 +1,1 @@
-Le Roi crée une Commission des Normes Comptables; celle-ci a pour mission:
-1° de donner tout avis au gouvernement et au Parlement à la demande de ceux-ci ou d'initiative;
-2° de développer la doctrine comptable et de formuler les principes d'une comptabilité régulière, par la voie d'avis ou de recommandations.
-Les frais de fonctionnement de la Commission des normes comptables sont supportés par les entreprises visées à l'article I.5, 1°, tenues de publier leur compte annuel ou leur compte consolidé par dépôt à la Banque nationale de Belgique. Le Roi fixe le montant de cette contribution qui ne peut être supérieur à 3,72 euros indexé selon les mêmes règles que celles fixées pour l'indexation des traitements et salaires de la fonction publique. Celle-ci est perçue par la Banque nationale de Belgique en même temps que les frais de publicité des comptes annuels ou consolidés et versée par elle à la Commission.
+[La source ne donne pas le texte en vigueur à cette date.]
