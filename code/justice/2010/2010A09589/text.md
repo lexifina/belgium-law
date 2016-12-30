@@ -274,9 +274,11 @@ Sans préjudice du droit de réquisition du ministère public et du juge d'instr
 [<sup>1</sup> 4° /1 transmettre au donneur d'ordre, aux entrepreneurs ou aux sous-traitants visés à l'article 35/1 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, une notification écrite comme prévue à l'article 49/1;]<sup>1</sup>
 [<sup>2</sup> 4°/2. transmettre la notification écrite visée à l'article 49/2 du présent Code aux entrepreneurs et aux donneurs d'ordre visés aux articles 35/9 à 35/11 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs;]<sup>2</sup>
 5° dresser des procès-verbaux constatant les infractions aux dispositions du présent Code, des lois visées au livre II du présent Code et des autres lois dont ils sont chargés de surveiller le respect, ainsi qu'aux dispositions des arrêtés d'exécution du présent Code et des lois précitées.
+[<sup>3</sup> 4° /3. transmettre la notification écrite visée à l'article 49/3 du présent Code aux responsables solidaires visés aux articles 35/6/1 à 35/6/3 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.]<sup>3</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 73, 005; En vigueur : 16-04-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 28, 009; En vigueur : 04-03-2013&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 24, 021; En vigueur : 30-12-2016&gt;
 
 <a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0010"> 22</a>. La possibilité de requérir l'assistance de la police
 Les inspecteurs sociaux peuvent, dans l'exercice de leurs fonctions, requérir l'assistance de la police.
@@ -470,6 +472,25 @@ Cette notification mentionne :
 Une copie de cette notification est transmise par les inspecteurs sociaux à l'employeur qui a occupé les ressortissants de pays tiers en séjour illégal visés au point 1°.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 30, 009; En vigueur : 04-03-2013&gt;
+
+<a name="LNK0108" href="#LNKR0108">Section 3/3.</a> [<sup>1</sup> - La compétence spéciale des inspecteurs sociaux en ce qui concerne la responsabilité solidaire particulière du contractant direct, en cas d'activités dans le domaine de la construction.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 25, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2049/3." href="#LNK0108">Art.</a> <a href="#LNK0014">49/3</a>. [<sup>1</sup> Notification écrite en ce qui concerne la responsabilité solidaire particulière du contractant direct, en cas d'activités dans le domaine de la construction.
+Les inspecteurs sociaux peuvent informer par écrit les donneurs d'ordres visés à l'article 35/6/3, § 1er, de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, de ce que leur entrepreneur manque à son obligation de payer la rémunération due aux travailleurs de cet entrepreneur.
+Les inspecteurs sociaux peuvent informer par écrit, selon le cas, les entrepreneurs et les entrepreneurs intermédiaires visés à l'article 35/6/3, § 2, de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, de ce que leurs sous-traitants directs manquent à leur obligation de payer la rémunération due aux travailleurs de ces sous-traitants.
+Cette notification mentionne :
+1° le nombre et l'identité des travailleurs dont les inspecteurs sociaux ont constaté qu'ils ont fourni des prestations dans le cadre d'activités dans le domaine de la construction que, selon le cas :
+- le donneur d'ordres destinataire de la notification fait effectuer directement par le biais de son entrepreneur employeur desdits travailleurs;
+- l'entrepreneur ou l'entrepreneur intermédiaire destinataire de la notification fait effectuer directement par le biais de son sous-traitant employeur desdits travailleurs;
+2° l'identité et l'adresse, selon le cas, de l'entrepreneur employeur ou du sous-traitant employeur visés au 1° et qui ont manqué à leur obligation de payer la rémunération due à leurs travailleurs;
+3° la rémunération à laquelle les travailleurs concernés ont droit à charge de leur employeur, mais qui n'a pas été payée par cet employeur;
+4° le ou les lieux où sont exécutées les activités dans le domaine de la construction par les travailleurs visés au 1° ;
+5° l'identité et l'adresse du donneur d'ordres, de l'entrepreneur ou de l'entrepreneur intermédiaire, destinataires de la notification.
+Une copie de la présente notification est transmise à l'employeur concerné par cette notification.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 26, 021; En vigueur : 30-12-2016&gt;
 
 <a name="LNK0014" href="#LNKR0014">Section 4.</a> - La qualité d'officier de police judiciaire
 
@@ -718,16 +739,127 @@ L'administration compétente peut toutefois accorder au contrevenant, sur sa dem
 L'amende administrative est acquittée par versement ou virement au(x) compte(s) désigné(s) par le Roi.
 Le Roi peut déterminer les modalités de paiement des amendes administratives infligées.
 
-<a name="Art.89" href="#Art.88">Art.</a> <a href="#Art.90"> 89</a>. Le recouvrement
-Si le contrevenant demeure en défaut de payer l'amende administrative, soit dans le délai de trois mois prévu à l'article 88, soit après un jugement ou un arrêt coulé en force de chose jugée ou ne respecte pas le plan d'apurement qui lui a été accordé en vertu de l'article 88, l'administration compétente saisit l'administration du cadastre, de l'enregistrement et des domaines en vue du recouvrement du montant de cette amende.
+<a name="Art.89" href="#Art.88">Art.</a> <a href="#Art.90"> 89</a>.Le recouvrement
+Si le contrevenant demeure en défaut de payer l'amende administrative, soit dans le délai de trois mois prévu à l'article 88, soit après un jugement ou un arrêt coulé en force de chose jugée ou ne respecte pas le plan d'apurement qui lui a été accordé en vertu de l'article 88, l'administration compétente saisit [<sup>1</sup> l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales]<sup>1</sup> en vue du recouvrement du montant de cette amende.
 A cet effet, l'administration compétente transmet une copie de la décision administrative à l'administration du cadastre, de l'enregistrement et des domaines et, le cas échéant, du jugement ou de l'arrêt coulé en force de chose jugée.
-Les poursuites à intenter par l'administration du cadastre, de l'enregistrement et des domaines se déroulent conformément à la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral.
+Les poursuites à intenter par l'administration du cadastre, de l'enregistrement et des domaines se déroulent conformément [<sup>1</sup> aux articles 3 et suivants de la loi domaniale du 22 décembre 1949]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 27, 021; En vigueur : 30-12-2016&gt;
 
 <a name="Art.90" href="#Art.89">Art.</a> <a href="#Art.91"> 90</a>. La prescription de l'action en récupération
 L'action en récupération de l'amende administrative se prescrit par dix ans à dater du jour où la décision de l'administration compétente n'est plus susceptible de recours.
 
 <a name="Art.91" href="#Art.90">Art.</a> <a href="#LNK0031"> 91</a>. L'extinction de l'action de l'administration
 Le paiement de l'amende met fin à l'action de l'administration compétente.
+
+<a name="LNK0109" href="#LNKR0109">Section 7.</a> [<sup>1</sup> - Les dispositions particulières concernant l'exécution transfrontalière de sanctions et amendes administratives pécuniaires.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 28, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/1." href="#LNK0099">Art.</a> <a href="#Art.%2091/2.">91/1</a>. [<sup>1</sup> Notification d'une décision infligeant une amende administrative à un prestataire de services établi dans un autre Etat membre de l'Union européenne en raison du non-respect des règles applicables en Belgique en matière de détachement de travailleurs.
+§ 1er . L'administration compétente peut introduire une demande de notification de la décision infligeant une amende administrative auprès de l'instance compétente d'un autre Etat membre de l'Union européenne, conformément aux dispositions du Chapitre VI de la directive 2014/67/UE précitée du Parlement Européen et du Conseil du 15 mai 2014.
+Il doit être question d'une amende administrative qui :
+1. est infligée par l'administration compétente, conformément aux dispositions du présent code ou qui est, le cas échéant, confirmée par les juridictions du travail;
+2. qui ne peut être portée à la connaissance du prestataire de services établi dans un autre Etat membre de l'Union européenne par l'administration compétente, conformément à l'article 85 du présent code.
+§ 2. L'administration compétente n'introduit pas de demande de notification d'une décision infligeant une amende administrative, si et aussi longtemps que la décision d'infliger une amende administrative est contestée ou attaquée en Belgique.
+§ 3. L'administration compétente soumet, sans retard injustifié, la demande de notification via le système IMI au moyen d'un instrument uniforme et y indique au minimum les données suivantes :
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci;
+b) un résumé des faits et des circonstances de l'infraction, la nature de celle-ci et la réglementation applicable;
+c) l'instrument permettant l'exécution en Belgique et tout autre renseignement ou document pertinent - y compris les données ou documents de nature juridique - concernant la plainte correspondante et l'amende administrative;
+d) le nom, l'adresse et autres données de contact de l'administration compétente et;
+e) le but de la notification et le délai dans lequel la notification doit avoir lieu.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 29, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/2." href="#Art.%2091/1.">Art.</a> <a href="#Art.%2091/3.">91/2</a>. [<sup>1</sup> Recouvrement d'une amende administrative infligée à un prestataire de services établi dans un autre Etat membre de l'Union européenne en raison du non-respect des règles applicables en Belgique en matière de détachement de travailleurs.
+§ 1er. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales peut, conformément aux dispositions du Chapitre VI de la directive 2014/67/EU précitée du Parlement européen et du Conseil du 15 mai 2014, introduire une demande de recouvrement d'une décision infligeant une amende administrative auprès de l'instance compétente d'un autre Etat membre.
+Il doit être question d'une amende administrative :
+1. qui est infligée par l'administration compétente, conformément aux dispositions du présent code ou qui est, le cas échéant, confirmée par les juridictions du travail;
+2. qui n'est plus susceptible de recours;
+3. qui ne peut pas être exécutée par l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales auprès du prestataire de service établi dans un autre Etat membre de l'Union européenne, conformément à l'article 89, troisième alinéa.
+§ 2. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales n'introduit pas de demande de recouvrement d'une décision infligeant une amende administrative, si et aussi longtemps que la décision infligeant une amende administrative, de même que la plainte correspondante et/ou l'instrument qui permet l'exécution en Belgique, est contestée ou attaquée en Belgique.
+§ 3. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales soumet, sans retard injustifié, la demande de recouvrement via le système IMI au moyen d'un instrument uniforme, et y indique au minimum les données suivantes :
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci;
+b) un résumé des faits et des circonstances de l'infraction, la nature de celle-ci et la réglementation applicable;
+c) l'instrument permettant l'exécution en Belgique et tout autre renseignement ou document pertinent - y compris les données ou documents notamment de nature juridique - en ce qui concerne la plainte correspondante et l'amende administrative;
+d) le nom, l'adresse et autres données de contact de l'administration compétente et de l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales;
+e) la date à laquelle le jugement ou l'arrêt ou la décision est devenu exécutoire ou définitif, une description de la nature et du montant de l'amende administrative, toute donnée pertinente pour le processus d'exécution - y compris si et, dans l'affirmative, comment le jugement ou l'arrêt ou la décision a été signifié ou notifié au(x) défendeur(s) et/ou a été rendu par défaut, et la confirmation de l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales, que l'amende n'est plus susceptible d'appel - ainsi que la plainte correspondante sur base de laquelle la demande a été introduite et les différents éléments qui la composent.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 30, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/3." href="#Art.%2091/2.">Art.</a> <a href="#Art.%2091/4.">91/3</a>. [<sup>1</sup> Demande provenant d'un autre Etat membre de l'Union européenne et ayant pour objet la notification d'une décision infligeant une sanction administrative pécuniaire et/ou une amende administrative à un prestataire de services établi en Belgique en raison du non-respect des règles applicables dans l'Etat membre concerné en matière de détachement de travailleurs.
+§ 1er. Conformément aux dispositions du chapitre VI de la directive 2014/67/EU précitée du Parlement européen et du Conseil du 15 mai 2014, l'administration compétente prend connaissance de chaque demande provenant d'une instance compétente d'un autre Etat membre de l'Union européenne et ayant pour objet la notification d'une décision infligeant une sanction administrative pécuniaire et/ou une amende administrative à un prestataire de services établi en Belgique en raison du non-respect des règles applicables dans l'Etat membre concerné en matière de détachement de travailleurs.
+Il doit être question d'une sanction administrative pécuniaire et/ou d'une amende qui :
+1. est infligée conformément au droit et aux procédures de l'Etat membre requérant par les autorités compétentes ou confirmée par une instance administrative ou judiciaire ou, le cas échéant, par des juridictions du travail;
+2. ne peut pas être portée à la connaissance du prestataire de services établi en Belgique par l'instance requérante d'un autre Etat membre de l'Union européenne conformément à la législation, à la réglementation et aux pratiques administratives en vigueur dans cet Etat membre.
+§ 2. L'administration compétente vérifie si :
+1. la demande, reçue via le système IMI, est accompagnée des documents pertinents, y compris, si nécessaire, le jugement ou l'arrêt ou la décision en dernier ressort, éventuellement sous forme d'une copie certifiée;
+2. cette sanction et/ou amende administrative pécuniaire relève du champ d'application de la directive précitée;
+3. la demande est complète, conforme à la décision correspondante et mentionne les données visées à l'article 16, alinéas 1 et 2, de la directive précitée, à savoir :
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci;
+b) un résumé des faits et des circonstances de l'infraction, la nature de celle-ci et la réglementation applicable;
+c) l'instrument permettant l'exécution dans l'Etat membre requérant et tout autre renseignement ou document pertinent - y compris les données ou les documents de nature juridique - concernant la plainte correspondante, la sanction et/ou l'amende administrative pécuniaire;
+d) le nom, l'adresse et les coordonnées de l'autorité compétente chargée de l'évaluation de la sanction et/ou de l'amende administrative pécuniaire et, s'il est différent, de l'organisme compétent auprès duquel des informations complémentaires peuvent être obtenues concernant la sanction et/ou l'amende administrative pécuniaire et les possibilités de contestation de l'obligation de paiement ou de la décision qui inflige celle-ci, et le but de la notification et;
+e) le but de la notification et le délai dans lequel la notification doit avoir lieu.
+§ 3. Si tel est le cas, elle est chargée de la notification de la décision via un courrier recommandé transmis par la poste.
+L'administration compétente notifie la décision infligeant une sanction et/ou amende administrative pécuniaire, de même que les documents y afférant, au prestataire de service établi en Belgique dans le mois qui suit la réception de la demande de l'instance compétente d'un autre Etat membre de l'Union européenne.
+La décision qui a, dès lors, été portée à la connaissance du prestataire de service établi en Belgique par l'administration compétente, a force exécutoire. Elle est réputée produire les mêmes effets que si la notification était le fait de l'Etat membre requérant.
+§ 4. L'administration compétente peut refuser de donner suite à une demande de notification quand :
+1. la demande de l'autre Etat membre de l'Union européenne ne contient pas les données mentionnées dans le § 2, 3, points a) à e);
+2. la demande de l'autre Etat membre de l'Union européenne est incomplète;
+3. il est indéniable que la demande ne cadre pas avec la décision correspondante.
+§ 5. L'administration compétente informe aussi vite que possible l'instance requérante de l'autre Etat membre de l'Union européenne :
+1. de la suite donnée à sa demande de notification et, plus particulièrement, de la date de la notification au destinataire;
+2. des motifs de refus, au cas où elle refuserait de donner suite à une demande de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 31, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/4." href="#Art.%2091/3.">Art.</a> <a href="#Art.%2091/5.">91/4</a>. [<sup>1</sup> Demande provenant d'un autre Etat membre de l'UE et ayant pour objet l'exécution d'une décision infligeant une sanction et/ou une amende administrative pécuniaire infligée à un prestataire de service établi en Belgique en raison du non-respect des règles en vigueur dans l'Etat membre concerné en matière de détachement de travailleurs.
+§ 1er. Conformément aux dispositions du Chapitre VI de la directive 2014/67/UE précitée du Parlement européen et du Conseil du 15 mai 2014, l'administration compétente prend connaissance de chaque demande provenant d'une instance compétente d'un autre Etat membre de l'Union européenne et ayant pour objet l'exécution d'une sanction et/ou d'une amende administrative pécuniaire infligée à un prestataire de services établi en Belgique en raison du non-respect des règles en vigueur dans l'Etat membre concerné en matière de détachement de travailleurs.
+Il doit être question d'une sanction et/ou d'une amende administrative pécuniaire qui :
+1. est infligée par une autorité compétente ou confirmée par une instance administrative ou judiciaire ou, le cas échéant, par des juridictions du travail et ce, conformément aux lois et procédures de l'Etat membre requérant;
+2. ne peut plus faire l'objet d'un recours;
+3. ne peut pas être recouvrée par l'instance requérante d'un autre Etat membre de l'Union Européenne auprès du prestataire de service établi en Belgique, conformément aux dispositions légales et réglementaires nationales et aux usages administratifs en vigueur dans cet Etat membre de l'Union Européenne.
+§ 2. L'administration compétente vérifie si :
+1. la demande réceptionnée via le système IMI est accompagnée des documents pertinents relatifs au recouvrement de cette sanction et/ ou amende administrative pécuniaire, y compris, s'il y a lieu, le jugement ou l'arrêt ou la décision définitive, éventuellement sous forme d'une copie certifiée, constituant la base juridique et le titre exécutoire pour la demande d'exécution;
+2. la sanction ou l'amende pécuniaire à recouvrer se situe dans le champ d'application de la directive précitée;
+3. la demande est complète, si elle est conforme à la décision sous-jacente et si elle contient les données mentionnées à l'article 16, alinéas 1 et 2, de la directive précitée, à savoir :
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci;
+b) une synthèse des faits et circonstances de l'infraction, la nature de celle-ci et les règles applicables concernées;
+c) l'instrument permettant l'exécution dans l'Etat membre requérant et tout autre renseignement ou document pertinent, notamment de nature juridique, concernant la plainte correspondante et la sanction et/ou l'amende administrative pécuniaire;
+d) le nom, l'adresse et les coordonnées de l'instance compétente chargée de l'évaluation de la sanction et/ou de l'amende administrative et, s'il est différent, de l'instance compétente auprès de laquelle des informations complémentaires peuvent être obtenues concernant la sanction et/ou l'amende administrative pécuniaire et les possibilités de contestation de l'obligation de paiement ou de la décision qui inflige celle-ci, et;
+e) la date à laquelle le jugement ou l'arrêt ou la décision est devenu exécutoire ou définitif, une description de la nature et du montant de la sanction et/ou de l'amende administrative pécuniaire, toute donnée pertinente dans le cadre du processus d'exécution, - y compris si et, dans l'affirmative, comment le jugement ou l'arrêt ou la décision a été notifié ou signifié au(x) défendeur(s) et/ou a été rendu par défaut, et la confirmation, par l'autorité requérante que la sanction et/ou l'amende administrative pécuniaire n'est plus susceptible d'appel, ainsi que la plainte correspondante et les éléments qui la composent;
+4. le montant de cette amende et/ou sanction administrative pécuniaire est supérieure ou égal à 350 euros ou à l'équivalent de ce montant;
+§ 3. Si tel est le cas, elle soumet, conformément à l'article 89, alinéa 1er, une demande d'exécution à l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales en vue du recouvrement du montant de cette sanction et/ou de cette amende administrative pécuniaire.
+Ce recouvrement est exécuté sur base du titre prévu dans la directive précitée réceptionné via le système IMI.
+Ce recouvrement est exécuté conformément aux articles 3 et suivants de la loi domaniale du 22 décembre 1949.
+§ 4. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales notifie la demande d'exécution d'une sanction et/ou d'une amende administrative pécuniaire et les documents pertinents au prestataire de service établi en Belgique dans le mois à compter de la réception de cette demande provenant d'une instance compétente d'une autre Etat membre de l'Union européenne.
+§ 5. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales peut refuser de donner suite à la demande d'exécution si :
+1. la demande de l'autre Etat membre de l'Union européenne ne contient pas les informations visées au § 2, 3, a) à e);
+2. elle est incomplète;
+3. elle ne correspond manifestement pas à la décision qui la motive;
+4. le montant de cette amende et/ou sanction administrative pécuniaire est inférieur à 350 euros ou à l'équivalent de ce montant;
+5. il ressort clairement d'une enquête que les sommes ou ressources à mobiliser en vue d'exécuter l'amende sont disproportionnées par rapport au montant à recouvrer ou qu'il faudrait faire face à des difficultés considérables;
+6. les droits et libertés fondamentaux de la défense inscrits dans la Constitution belge et les principes juridiques qui s'y appliquent ne sont pas respectés.
+§ 6. L'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales informe, le plus rapidement possible, l'autorité requérante de l'autre Etat membre de l'Union européenne :
+1. des mesures prises suite à sa demande d'exécution et, plus particulièrement, de la date de la notification au destinataire;
+2. des motifs de refus, au cas où elle refuserait de donner suite à une demande d'exécution d'une sanction et/ou d'une amende administrative pécuniaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 32, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/5." href="#Art.%2091/4.">Art.</a> <a href="#Art.%2091/6.">91/5</a>. [<sup>1</sup> Suspension de la procédure de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire à un prestataire de service établi en Belgique et de la procédure d'exécution d'une sanction et/ou d'une amende administrative pécuniaire infligée à un prestataire de service établi en Belgique.
+Si, au cours de la procédure de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire qui est décrite dans l'article 91/3 ou au cours de la procédure d'exécution d'une sanction et/ou d'une amende administrative pécuniaire décrite dans l'article 91/4, le prestataire de services concerné ou une partie intéressée conteste ou introduit un recours à l'encontre de la sanction et/ou de l'amende administrative et/ou de la plainte correspondante, cette procédure est suspendue dans l'attente de la décision de l'instance ou l'organe compétent de l'Etat membre requérant.
+La contestation ou l'introduction d'un recours doit être effectuée auprès de l'instance ou de l'autorité compétente de l'Etat membre requérant.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 33, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%2091/6." href="#Art.%2091/5.">Art.</a> <a href="#Art.223">91/6</a>. [<sup>1</sup> Modalités pratiques de la procédure de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire à un prestataire de service établi en Belgique et de la procédure d'exécution d'une sanction et/ou d'une amende administrative pécuniaire infligée à un prestataire de service établi en Belgique.
+§ 1er. Les montants qui sont recouvrés dans le cadre de la procédure d'exécution d'une sanction et/ou d'une amende administrative pécuniaire qui est décrite à l'article 91/4 reviennent au Trésor public belge.
+Les montants dus sont récupérés en euros par l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales.
+Le cas échéant, l'administration du SPF Finances chargée de la perception et du recouvrement des créances non-fiscales convertit la sanction et/ou l'amende administrative pécuniaire en euros suivant le taux de change d'application à la date à laquelle la sanction et/ou l'amende administrative pécuniaire a été infligée.
+§ 2. La Belgique renonce à l'égard des autres Etats membre de l'Union européenne qui ont introduit une demande de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire ou une demande d'exécution d'une décision infligeant une sanction et/ou une amende administrative pécuniaire à l'indemnisation des frais résultant de la procédure de notification qui est décrite à l'article 91/3 et de la procédure d'exécution décrite à l'article 91/4.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 34, 021; En vigueur : 30-12-2016&gt;
 
 <a name="LNK0031" href="#LNKR0031">TITRE 5.</a> - Les dispositions particulières
 
@@ -1620,12 +1752,18 @@ L'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 76, 005; En vigueur : 16-04-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 31, 009; En vigueur : 04-03-2013&gt;
 
-<a name="Art.171/2" href="#Art.171/1">Art.</a> <a href="#Art.171/3"> 171/2</a>.[<sup>1</sup> Est puni d'une sanction de niveau 2, celui qui ne respecte pas l'obligation d'affichage telle que visée [<sup>2</sup> aux articles 35/4 et 35/12]<sup>2</sup> de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, qui lui incombe.]<sup>1</sup>
+<a name="Art.171/2" href="#Art.171/1">Art.</a> <a href="#Art.%20171/2/1."> 171/2</a>.[<sup>1</sup> Est puni d'une sanction de niveau 2, celui qui ne respecte pas l'obligation d'affichage telle que visée [<sup>3</sup> aux articles 35/4, 35/6/4 et 35/12]<sup>3</sup> de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, qui lui incombe.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 77, 005; En vigueur : 16-04-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 32, 009; En vigueur : 04-03-2013&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 35, 021; En vigueur : 30-12-2016&gt;
 
-<a name="Art.171/3" href="#Art.171/2">Art.</a> <a href="#LNK0063"> 171/3</a>. [<sup>1</sup> Le non-paiement de la rémunération par la personne solidairement responsable en cas d'occupation de ressortissants d'un pays tiers en séjour illégal
+<a name="Art.%20171/2/1." href="#Art.171/2">Art.</a> <a href="#Art.171/3">171/2/1</a>. [<sup>1</sup> Le non-paiement de la rémunération par le contractant direct solidairement responsable en cas d'activités dans le domaine de la construction.
+Sont punis d'une sanction de niveau 2, le donneur d'ordres, l'entrepreneur et l'entrepreneur intermédiaire, solidairement responsables visés par la section 1re/1 du chapitre VI/1 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs qui n'ont pas payé, la rémunération due pour le paiement de laquelle ils sont solidairement responsables conformément à la même section.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 36, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.171/3" href="#Art.%20171/2/1.">Art.</a> <a href="#LNK0063"> 171/3</a>. [<sup>1</sup> Le non-paiement de la rémunération par la personne solidairement responsable en cas d'occupation de ressortissants d'un pays tiers en séjour illégal
 Est puni d'une sanction de niveau 2, le responsable solidaire visé par la section 2 du chapitre VI/1 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs qui n'a pas payé la rémunération encore due pour laquelle il est solidairement responsable conformément à la même section.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 33, 009; En vigueur : 04-03-2013&gt;
@@ -1876,6 +2014,15 @@ L'alinéa 1er n'est pas applicable aux travailleurs qui perçoivent en même tem
 Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui n'a pas souscrit une assurance contre les accidents du travail auprès d'une entreprise d'assurances en application de la loi du 10 avril 1971 sur les accidents du travail.
 Lorsque l'infraction a été commise sciemment et volontairement, le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 
+<a name="LNK0110" href="#LNKR0110">CHAPITRE 5/1. </a> [<sup>1</sup> - La communication de la désignation d'une personne de liaison en cas de détachement de travailleurs en Belgique]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 37, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%20184/1.%20" href="#LNK0110">Art.</a> <a href="#LNK0076">184/1</a>. [<sup>1</sup> Le défaut de communication de la désignation d'une personne de liaison en cas de détachement de travailleurs en Belgique.
+Est puni d'une sanction de niveau 2, l'employeur au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci qui ne procède pas conformément à l'article 7/2 de cette loi, à la communication de la désignation de la personne de liaison aux fonctionnaires désignés par le Roi.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 38, 021; En vigueur : 30-12-2016&gt;
+
 <a name="LNK0076" href="#LNKR0076">CHAPITRE 6.</a> [<sup>1</sup> - Les infractions concernant les documents sociaux ou de type social]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 33, 017; En vigueur : 01-05-2016&gt;
@@ -1937,6 +2084,16 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 L'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 35, 017; En vigueur : 01-05-2016&gt;
+
+<a name="LNK0111" href="#LNKR0111">Section 6.</a> [<sup>1</sup> - Autres documents de type social demandés en cas de détachement de travailleurs]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 39, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%20188/2." href="#LNK0098">Art.</a> <a href="#Art.222">188/2</a>. [<sup>1</sup> Le défaut d'envoi de documents de type social demandés en cas de détachement de travailleurs.
+Est puni d'une sanction de niveau 2, l'employeur au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci qui n'envoie pas aux fonctionnaires désignés par le Roi les documents demandés par ceux-ci par ou en vertu de l'article 7/1 de ladite loi.
+En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 40, 021; En vigueur : 30-12-2016&gt;
 
 <a name="LNK0082" href="#LNKR0082">CHAPITRE 7.</a> - Les infractions concernant les relations collectives de travail
 
@@ -2257,7 +2414,7 @@ Sont punis d'une sanction de niveau 2, les Fonds de sécurité d'existence, leur
 
 <a name="LNK0097" href="#LNKR0097">Section 5.</a> - L'assujettissement frauduleux
 
-<a name="Art.221" href="#Art.220/1">Art.</a> <a href="#LNK0098"> 221</a>. L'assujettissement frauduleux
+<a name="Art.221" href="#Art.220/1">Art.</a> <a href="#Art.%20188/2."> 221</a>. L'assujettissement frauduleux
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui :
 1° a assujetti frauduleusement une ou plusieurs personnes à l'application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
 2° a assujetti frauduleusement une ou plusieurs personnes à l'application de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande.
@@ -2266,7 +2423,7 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 
 <a name="LNK0098" href="#LNKR0098">Section 6.</a> - Les relations entre les différentes institutions de sécurité sociale
 
-<a name="Art.222" href="#Art.221">Art.</a> <a href="#LNK0099"> 222</a>.[<sup>1</sup> Les relations entre les différentes institutions de sécurité sociale
+<a name="Art.222" href="#Art.221">Art.</a> <a href="#Art.%2091/6."> 222</a>.[<sup>1</sup> Les relations entre les différentes institutions de sécurité sociale
 Sont punis d'une sanction de niveau 1 :
 1° les entreprises d'assurances, les commissaires qui :
 a) n'ont pas transmis, de la manière et dans les délais fixés par le Roi, les éléments repris dans la déclaration d'accident et les éléments qui se rapportent au règlement de l'accident au Fonds des accidents du travail en application de la loi du 10 avril 1971 sur les accidents du travail;
