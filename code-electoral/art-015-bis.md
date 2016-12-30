@@ -1,1 +1,1 @@
-Pour ce qui concerne les communes de Fourons et de Comines-Warneton, deux exemplaires supplémentaires de la liste des électeurs classés dans l'ordre alphabétique sont transmis aux gouverneurs des provinces respectivement de Liège et de Flandre occidentale ou aux fonctionnaires que ceux-ci désignent, selon la même procédure et dans les mêmes délais que ceux prescrits à l'article 15.
+(Abrogé)
