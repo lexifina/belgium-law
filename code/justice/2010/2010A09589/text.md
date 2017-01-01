@@ -1848,6 +1848,9 @@ L'amende est multipliée par le nombre de travailleurs concernés.]<sup>2</sup>
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 16, 009; En vigueur : 04-03-2013&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 34, 009; En vigueur : 04-03-2013&gt;
 
+<a name="Art.%20175_REGION_FLAMANDE." href="#Art.175">Art.</a> <a href="#LNK0070">175_REGION_FLAMANDE</a>.
+&lt;Abrogé par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122367" target="_blank">2016-12-23/67</a>, art. 2, 023; En vigueur : 01-01-2017&gt;
+
 <a name="LNK0070" href="#LNKR0070">Section 2.</a> - Le travail intérimaire
 
 <a name="Art.176" href="#Art.175">Art.</a> <a href="#Art.176/1"> 176</a>.Le travail intérimaire
