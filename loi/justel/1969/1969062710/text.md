@@ -69,7 +69,7 @@ La présente disposition n'est toutefois pas applicable lorsque la personne four
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013111101" target="_blank">2013-11-11/01</a>, art. 2, 048; En vigueur : 01-10-2013&gt;
 
-<a name="Art.2/1" href="#Art.2">Art.</a> <a href="#Art.3"> 2/1</a>.[<sup>1</sup> § 1er. L'application de la loi est limitée au régime de l'assurance obligatoire contre la maladie et l'invalidité, au régime du chômage [<sup>2</sup> et au régime de pensions de retraite et de survie des travailleurs salariés]<sup>2</sup> en ce qui concerne les travailleurs occasionnels occupés chez un employeur ressortissant à la Commission paritaire pour les entreprises horticoles ou à la Commission paritaire de l'agriculture.
+<a name="Art.2/1" href="#Art.2">Art.</a> <a href="#Art.2/2"> 2/1</a>.[<sup>1</sup> § 1er. L'application de la loi est limitée au régime de l'assurance obligatoire contre la maladie et l'invalidité, au régime du chômage [<sup>2</sup> et au régime de pensions de retraite et de survie des travailleurs salariés]<sup>2</sup> en ce qui concerne les travailleurs occasionnels occupés chez un employeur ressortissant à la Commission paritaire pour les entreprises horticoles ou à la Commission paritaire de l'agriculture.
 Les cotisations de sécurité sociale sont calculés sur des forfaits. Le Roi peut, par un arrêté délibéré en Conseil des ministres, fixer le montant de ces forfaits.
 Au sens du présent article, est considéré comme travailleur occasionnel :
 1° en ce qui concerne les travailleurs manuels ressortissant à la Commission paritaire pour les entreprises horticoles, à l'exception des travailleurs manuels occupés au travail de la culture du chicon ou des champignons : le travailleur manuel occupé durant un maximum de 65 jours par année civile à moins que l'emploi ne consiste en la plantation et l'entretien de parcs et jardins;
@@ -113,7 +113,11 @@ Les arrêtés confirmés par la loi au sens du premier alinéa ne peuvent être 
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122608" target="_blank">2013-12-26/08</a>, art. 104, 050; En vigueur : 01-01-2014&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 2, 058; En vigueur : 01-09-2015&gt;
 
-<a name="Art.3" href="#Art.2/1">Art.</a> <a href="#Art.3bis"> 3</a>. Sans préjudice des dispositions des conventions internationales et des règlements internationaux de sécurité sociale et de l'article 13, alinéa 2, de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, la présente loi s'applique aux travailleurs occupés en Belgique au service d'un employeur établi en Belgique ou attachés à un siége d'exploitation établi en Belgique.
+<a name="Art.2/2" href="#Art.2/1">Art.</a> <a href="#Art.3"> 2/2</a>.[<sup>1</sup> L'application de la loi est étendue aux personnes qui effectuent des activités qui ressortent du champ d'application de la commission paritaire pour le nettoyage, sauf si celles-ci peuvent démontrer qu'elles ne travaillent pas habituellement et principalement pour un seul cocontractant et qu'elles exécutent lesdites activités à l'aide de leur propre matériel et facturent pour leur propre compte.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122501" target="_blank">2016-12-25/01</a>, art. 30, 064; En vigueur : 08-01-2017&gt;
+
+<a name="Art.3" href="#Art.2/2">Art.</a> <a href="#Art.3bis"> 3</a>. Sans préjudice des dispositions des conventions internationales et des règlements internationaux de sécurité sociale et de l'article 13, alinéa 2, de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, la présente loi s'applique aux travailleurs occupés en Belgique au service d'un employeur établi en Belgique ou attachés à un siége d'exploitation établi en Belgique.
 
 <a name="Art.3bis" href="#Art.3">Art.</a> <a href="#Art.4"> 3bis</a>. &lt;Inséré par AR 2001-06-10/58, art. 1; <b> En vigueur : </b> 01-01-2003&gt; Pour l'application de la présente loi et de ses arrêtés d'exécution, les définitions des données relatives au temps de travail sont celles déterminées par l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
 
@@ -166,7 +170,7 @@ c) les cas dans lesquels le Comité de gestion de l'Office peut décider d'une r
 [<sup>2</sup> Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de perception et de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 5, 062; En vigueur : 01-01-2016&gt;
-(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 2, 063; En vigueur : 01-01-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 2, 063; En vigueur : 01-01-2016&gt;
 
 <a name="Art.5/2" href="#Art.5/1">Art.</a> <a href="#Art.5/3"> 5/2</a>.[<sup>1</sup> § 1er. L'Office national de sécurité sociale est également chargé de la perception et du recouvrement des recettes visées à l'article 10, 1), 2) et 13) et à l'article 13, 1), tirets 3 et 4, de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives.
 § 2. L'Office national de sécurité sociale est également chargé de la retenue visée à l'article 39quater de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, pour les gouverneurs de province, les bourgmestres, les échevins et les présidents des Centres publics d'aide sociale.
@@ -174,12 +178,12 @@ c) les cas dans lesquels le Comité de gestion de l'Office peut décider d'une r
 [<sup>2</sup> § 4. Pour l'application du présent article, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de perception et de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 6, 062; En vigueur : 01-01-2017&gt;
-(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 3, 063; En vigueur : 01-01-2017&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 3, 063; En vigueur : 01-01-2017&gt;
 
 <a name="Art.5/3" href="#Art.5/2">Art.</a> <a href="#Art.6"> 5/3</a>.[<sup>1</sup> L'Office national de sécurité sociale est également chargé de percevoir les cotisations prévues par la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer et par ses arrêtés d'exécution [<sup>2</sup> , suivant les règles qui y sont précisées]<sup>2</sup>.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 7, 062; En vigueur : 01-01-2017&gt;
-(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 4, 063; En vigueur : 01-01-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 4, 063; En vigueur : 01-01-2016&gt;
 
 <a name="Art.6" href="#Art.5/3">Art.</a> <a href="#Art.6bis"> 6</a>. [<sup>1</sup> § 1er.]<sup>1</sup> L'Office national de sécurité sociale peut également être chargé de la perception et du recouvrement des cotisations établies en application de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence.
 Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de calcul, de perception de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.
@@ -227,10 +231,10 @@ L'Office récupère les interventions indues. A défaut de paiement dans les 60 
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 13, 062; En vigueur : 01-01-2017&gt;
 
 <a name="Art.8/3" href="#Art.8/2">Art.</a> <a href="#Art.8/4"> 8/3</a>.
-&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 5, 063; En vigueur : 01-01-2017&gt;
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 5, 063; En vigueur : 01-01-2017&gt;
 
 <a name="Art.8/4" href="#Art.8/3">Art.</a> <a href="#LNK0007"> 8/4</a>.
-&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 5, 063; En vigueur : 01-01-2017&gt;
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 5, 063; En vigueur : 01-01-2017&gt;
 
 <a name="LNK0007" href="#LNKR0007">Sous-section 3.</a> - [<sup>1</sup> Maribel social et fiscal.]<sup>1</sup>
 ----------
@@ -342,10 +346,10 @@ L'arrondissement au franc supérieur ou inférieur se fait sur le total du monta
 <a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>.[<sup>1</sup> L'Office national de sécurité sociale transfère au Service fédéral des Pensions, après perception des frais d'administration [<sup>2</sup> ...]<sup>2</sup> les cotisations perçues en application de l'article 5/2, § 1er. Le Service fédéral des Pensions transfère aux institutions de prévoyance les fonds qui sont destinés au paiement des pensions à charge du Fonds de pension solidarisé des administrations provinciales et locales et qui sont gérées par celles-ci.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 18, 062; En vigueur : 01-01-2017&gt;
-(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 6, 063; En vigueur : 01-01-2017&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 6, 063; En vigueur : 01-01-2017&gt;
 
 <a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0013"> 20</a>.
-&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 7, 063; En vigueur : 01-01-2017&gt;
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 7, 063; En vigueur : 01-01-2017&gt;
 
 <a name="LNK0013" href="#LNKR0013">CHAPITRE IV.</a> - Perception et recouvrement des cotisations.
 
@@ -436,7 +440,7 @@ Le Roi peut, par un arrêté délibéré en Conseil des Ministres, déterminer l
 Le Roi définit, par un arrêté délibéré en Conseil des Ministres, une procédure suivant laquelle les résultats sont communiqués au secrétariat social et au Comité de gestion de l'Office précité et détermine les suites qui doivent y être données.
 Le Roi peut, par un arrêté délibéré en Conseil des Ministres, également appliquer totalement ou partiellement le baromètre aux prestataires de services sociaux, tels que visés à l'article 31ter, § 2, 1°, de la loi précitée du 29 juin 1981, à l'exception du contrôle partiel 3° contrôles financiers.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 52, 040; En vigueur : indéterminée &gt;
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 52, 040; En vigueur : 20-02-2017 (AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017020212" target="_blank">2017-02-02/12</a>, art. 10)&gt;
 
 <a name="LNK0015" href="#LNKR0015">Section 2.</a> - Sanctions civiles.
 
@@ -784,8 +788,8 @@ Les actions intentées contre l'Office national de sécurité sociale en répét
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 10, 058; En vigueur : indéterminée ; entrera en vigueur le jour de l'entrée en vigueur de l'arrêté royal du 25 avril 2014 portant création de la direction générale P&amp;O Shared Service Center au sein du Service public fédéral Personnel et Organisation&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016051601" target="_blank">2016-05-16/01</a>, art. 8, 061; En vigueur : 01-01-2016&gt;
 (<font color="red">5</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 22, 062; En vigueur : 01-01-2017&gt;
-(<font color="red">6</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 8, 063; En vigueur : 01-01-2016&gt;
-(<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122002" target="_blank">2016-12-20/02</a>, art. 9, 063; En vigueur : 01-01-2017&gt;
+(<font color="red">6</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 8, 063; En vigueur : 01-01-2016&gt;
+(<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 9, 063; En vigueur : 01-01-2017&gt;
 
 <a name="LNK0022" href="#LNKR0022">CHAPITRE V.</a> - Dispositions générale.
 
