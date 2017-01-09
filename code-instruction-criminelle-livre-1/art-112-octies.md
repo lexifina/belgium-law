@@ -1,0 +1,2 @@
+Les procès-verbaux rédigés par quelque service de police ou d'enquête que ce soit ne peuvent mentionner aucun élément susceptible de compromettre la sécurité et l'anonymat des membres des services de police intervenant sous code.
+Le cas échéant, le procureur du Roi ou le juge d'instruction prend toutes les mesures pour tenir secrète l'identité du membre des services de police concerné. Il ordonne la suppression dans les procès-verbaux des mentions contraires à l'alinéa 1er.

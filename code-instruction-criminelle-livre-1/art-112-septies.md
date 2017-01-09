@@ -1,0 +1,2 @@
+L'identité et le code du membre des services de police visé aux articles 112quater ou 112quinquies sont consignés sans délai par l'officier dirigeant visé à ces articles dans un registre confidentiel et conservé au sein de ce service.
+Seul le procureur du Roi ou le juge d'instruction dans le cadre d'une instruction peut prendre connaissance de l'identité complète du membre des services de police doté d'un code et vérifier si les conditions prévues aux articles 112quater et 112quinquies sont remplies.

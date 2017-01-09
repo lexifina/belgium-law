@@ -1,4 +1,4 @@
 § 1er. Sauf s'il porte exclusivement sur des actions civiles ou s'il ne porte plus que sur pareilles actions, l'appel des décisions en matière pénale est attribué à une chambre à trois conseillers, le cas échéant, à la chambre spécifique visée à l'article 101, § 1er, alinéa 3.
-§ 2. ....
+§ 2. La Cour des marchés siège toujours au nombre de trois conseillers.
 § 3. Les autres causes sont attribuées à des chambres à un conseiller à la cour. Lorsque la complexité ou l'intérêt de l'affaire ou des circonstances spécifiques et objectives le requièrent, le premier président peut attribuer, d'autorité, au cas par cas, les affaires à une chambre à trois conseillers.
 § 4. Lorsque de plusieurs causes connexes, l'une d'elles au moins doit être portée devant une chambre composée de trois conseillers à la cour, le premier président les fixe toutes devant une telle chambre, même s'il y a lieu, à cette fin, de modifier leur distribution antérieure.

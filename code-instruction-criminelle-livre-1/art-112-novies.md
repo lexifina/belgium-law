@@ -1,0 +1,2 @@
+Par dérogation aux articles 75 et 75ter, et sans préjudice des dispositions du chapitre IV, section 3, les membres des services de police concernés qui sont entendus comme témoin indiquent uniquement leur qualité et le code qui leur a été attribué.
+En outre, le procureur du Roi ou le juge d'instruction prend toutes les mesures pour tenir secrète l'identité du membre des services de police concerné.
