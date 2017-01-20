@@ -63,8 +63,7 @@ Si la Cour l'estime nécessaire, elle indique, par voie de disposition général
 
 <a name="LNK0004" href="#LNKR0004">Section II.</a> - Des effets des arrêts d'annulation.
 
-<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>.
-§ 1. Les arrêts d'annulation rendus par la Cour d'arbitrage ont l'autorité absolue de la chose jugée à partir de leur publication au Moniteur belge.
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. § 1. Les arrêts d'annulation rendus par la Cour d'arbitrage ont l'autorité absolue de la chose jugée à partir de leur publication au Moniteur belge.
 § 2. Les arrêts rendus par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> portant rejet des recours en annulation sont obligatoires pour les juridictions en ce qui concerne les questions de droit tranchées par ces arrêts.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 10, 009; En vigueur : 08-03-2010&gt;
@@ -109,8 +108,7 @@ L'article 28 de la loi [<sup>1</sup> du 13 mars 1973 relative à l'indemnité en
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 13, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>.
-§ 1. Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle norme, les décisions passées en force de chose jugée rendues par les juridictions civiles peuvent être rétractées en tout ou en partie, à la demande de ceux qui y auront été parties ou dûment appelés. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. § 1. Dans la mesure où elles sont fondées sur une disposition d'une loi, d'un décret ou d'une règle visée à (l'article 134 de la Constitution), qui a ensuite été annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, ou d'un règlement pris en exécution d'une telle norme, les décisions passées en force de chose jugée rendues par les juridictions civiles peuvent être rétractées en tout ou en partie, à la demande de ceux qui y auront été parties ou dûment appelés. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 § 2. Dans les limites de la rétractation, le juge peut rendre une décision nouvelle en se fondant sur une autre cause ou sur une qualification juridique différente d'un fait ou d'un acte invoqué à l'appui de la décision entreprise.
 § 3. La demande en rétractation est portée devant la juridiction qui a rendu la décision entreprise et est introduite par une citation contenant l'énoncé des moyens, et signifiée à toutes les parties en cause dans la décision entreprise, le tout à peine de nullité.
 § 4. A peine de déchéance, la demande est formée dans les six mois, à dater de la publication de l'arrêt de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> au Moniteur belge.
@@ -130,8 +128,7 @@ Le délai de recours est de six mois à dater de la publication de l'arrêt de l
 
 <a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. A la demande de la partie requérante, la Cour peut, par une décision motivée, suspendre en tout ou en partie la loi, le décret ou la règle visée à (l'article 134 de la Constitution), qui fait l'objet d'un recours en annulation. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>.(Sans préjudice de l'article 16ter de la loi spéciale du 8 août 1980 de réformes institutionnelles et du l'article 5ter de loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, la suspension ne peut être décidée que :
-) &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>.(Sans préjudice de l'article 16ter de la loi spéciale du 8 août 1980 de réformes institutionnelles et du l'article 5ter de loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, la suspension ne peut être décidée que :) &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
 1° si des moyens sérieux sont invoqués et à la condition que l'exécution immédiate de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) faisant l'objet du recours risque de causer un préjudice grave difficilement réparable; &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 2° si un recours est exercé contre une norme identique (ou similaire) à une norme déjà annulée par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et qui a été adoptée par le même législateur. &lt;L 2003-03-09/47, art. 5, 006; <b> En vigueur : </b> 21-04-2003&gt;
 ----------
@@ -212,18 +209,18 @@ Par dérogation à l'alinéa 1er, l'obligation de poser une question préjudicie
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 8, 013; En vigueur : 25-04-2014&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014010654" target="_blank">2014-01-06/54</a>, art. 48, 014; En vigueur : 01-07-2014&gt;
 
-<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>.
-§ 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. § 1. La Cour est saisie des questions préjudicielles par la transmission d'une expédition de la décision de renvoi, signée par le président et par le greffier de la juridiction.
 § 2. La décision de renvoi indique les dispositions de la loi, du décret ou de la règle visée à (l'article 134 de la Constitution) qui font l'objet de la question; le cas échéant, elle précise, en outre, les articles pertinents de la Constitution ou des lois spéciales. Toutefois, la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> peut reformuler la question préjudicielle posée. &lt;L 2003-03-09/47, art. 27, 006; <b> En vigueur : </b> 21-04-2003&gt;
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 19, 009; En vigueur : 08-03-2010&gt;
 
 <a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>.La juridiction qui a posé la question préjudicielle, ainsi que toute autre juridiction appelée à statuer dans la même affaire sont tenues, pour la solution du litige à l'occasion duquel ont été posées les questions visées à l'article 26, de se conformer à l'arrêt rendu par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+[<sup>2</sup> Si la Cour l'estime nécessaire, elle indique, par voie de disposition générale, ceux des effets des dispositions ayant fait l'objet d'un constat d'inconstitutionnalité qui doivent être considérés comme définitifs ou maintenus provisoirement pour le délai qu'elle détermine.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 20, 009; En vigueur : 08-03-2010&gt;
+(<font color="red">2</font>)&lt;DIVERS <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122525" target="_blank">2016-12-25/25</a>, art. 2, 015; En vigueur : 20-01-2017&gt;
 
-<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>.
-§ 1. En tant qu'elle pose une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, la décision d'une juridiction n'est susceptible d'aucun recours.
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. § 1. En tant qu'elle pose une question préjudicielle à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, la décision d'une juridiction n'est susceptible d'aucun recours.
 § 2. La décision par laquelle une juridiction refuse de poser une question préjudicielle doit indiquer les motifs de refus. En tant qu'elle refuse de poser une telle question, la décision d'une juridiction n'est pas susceptible d'un recours distinct.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 21, 009; En vigueur : 08-03-2010&gt;
@@ -290,14 +287,11 @@ Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au
 § 3. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu de la condition fixée au § 1er, 2°.
 Un candidat dont la présentation est fondée sur la condition fixée au § 1er, 2°, ne peut être présenté en vertu des conditions fixées au § 1er, 1°.
 § 4. Un juge, au moins, comptant parmi les juges qui répondent aux conditions fixées au § 1er, 1°, doit justifier d'une connaissance suffisante de l'allemand. Le Roi détermine le mode de justification de la connaissance de l'allemand.
-(§ 5. La Cour est composée de juges de sexe différent.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;
-
-DROIT FUTUR
-
-<i>Art. 34. § 1. Pour pouvoir être nommé juge de la [<sup><font color="red">1</font></sup> Cour constitutionnelle]<sup><font color="red">1</font></sup>, le candidat doit être âgé de quarante ans accomplis et satisfaire à l'une des conditions suivantes :<br>  1° avoir, en Belgique et pendant au moins cinq ans, occupé la fonction :<br>  a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de cassation;<br>  b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat;<br>  c) soit de référendaire à la [<sup><font color="red">1</font></sup> Cour constitutionnelle]<sup><font color="red">1</font></sup>;<br>  d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge.<br>  2° (avoir été pendant cinq ans au moins, membre du Sénat, de la Chambre des représentants ou d'(un Parlement de Communauté ou de Région.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 1, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006032733" target="_blank">2006-03-27/33</a>, art. 15, 007; <b> En vigueur : </b> 21-04-2006&gt;<br>  § 2. La Cour compte, parmi ses juges d'expression française comme parmi ses juges d'expression néerlandaise, autant de juges répondant aux conditions fixées au § 1er, 1°, que de juges répondant à la condition fixée au § 1er, 2°.<br>  Parmi les juges qui répondent aux conditions fixées au § 1er, 1°, un juge au moins doit satisfaire à la condition visée au a), (ou à la condition visée au b)), (un juge au moins doit satisfaire à la condition visée au c) et un juge au moins doit satisfaire à la condition visée sous d)). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1993071630" target="_blank">1993-07-16/30</a>, art. 126, § 2, 003; <b> En vigueur : </b> 1993-07-30&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> 21-04-2003&gt;<br>  § 3. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu de la condition fixée au § 1er, 2°.<br>  Un candidat dont la présentation est fondée sur la condition fixée au § 1er, 2°, ne peut être présenté en vertu des conditions fixées au § 1er, 1°.<br>  § 4. Un juge, au moins, comptant parmi les juges qui répondent aux conditions fixées au § 1er, 1°, doit justifier d'une connaissance suffisante de l'allemand. Le Roi détermine le mode de justification de la connaissance de l'allemand.<br>  (§ 5. [<sup><font color="red">2</font></sup> La Cour se compose de juges de sexe différent, tant en ce qui concerne les juges visés au § 1er, 1°, que ceux visés au § 1er, 2°.<br>   Elle compte au moins un tiers de juges de chaque sexe.]<sup><font color="red">2</font></sup> ) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003030947" target="_blank">2003-03-09/47</a>, art. 11, 006; <b> En vigueur : </b> indéterminée &gt;</i>
+(§ 5. [<sup>2</sup> La Cour se compose de juges de sexe différent, tant en ce qui concerne les juges visés au § 1er, 1°, que ceux visés au § 1er, 2°.
+Elle compte au moins un tiers de juges de chaque sexe.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 27, 009; En vigueur : 08-03-2010&gt;
-(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 12, 013; En vigueur : indéterminée ; voir aussi L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 38&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040403" target="_blank">2014-04-04/03</a>, art. 12, 013; En vigueur : 25-04-2014&gt;
 
 <a name="LNK0013" href="#LNKR0013">CHAPITRE II.</a> - Des référendaires.
 
@@ -325,8 +319,7 @@ Les années accomplies en tant que référendaire à la [<sup>1</sup> Cour const
 
 <a name="LNK0014" href="#LNKR0014">CHAPITRE III.</a> - Des greffiers.
 
-<a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.41"> 40</a>.
-§ 1. Le Roi nomme deux greffiers sur deux listes comprenant chacune deux candidats et présentées l'une par le groupe linguistique français et l'autre par le groupe linguistique néerlandais de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+<a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.41"> 40</a>. § 1. Le Roi nomme deux greffiers sur deux listes comprenant chacune deux candidats et présentées l'une par le groupe linguistique français et l'autre par le groupe linguistique néerlandais de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 L'article 32, alinéas deux et trois, est applicable à ces présentations.
 § 2. Le rôle linguistique d'un greffier est déterminé par sa présentation par le groupe linguistique correspondant de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 ----------
@@ -375,8 +368,7 @@ Il peut être dérogé par le Roi, sur avis favorable et motivé de la Cour, à 
 
 <a name="Art.47" href="#Art.46">Art.</a> <a href="#Art.48"> 47</a>. Les parents et alliés, jusqu'au troisième degré inclusivement, ne peuvent être simultanément président ou juge et référendaire sans une dispense du Roi.
 
-<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0017"> 48</a>.
-§ 1. L'article 44, alinéa premier, et l'article 46, 1° et 2°, sont applicables aux membres du personnel administratif de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
+<a name="Art.48" href="#Art.47">Art.</a> <a href="#LNK0017"> 48</a>. § 1. L'article 44, alinéa premier, et l'article 46, 1° et 2°, sont applicables aux membres du personnel administratif de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>.
 § 2. Des dérogations peuvent leur être accordées par la Cour dans les cas où les dispositions applicables aux agents de l'Etat permettent à ceux-ci ou à leur conjoint l'exercice de certaines occupations complémentaires.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 34, 009; En vigueur : 08-03-2010&gt;
@@ -387,8 +379,7 @@ Il peut être dérogé par le Roi, sur avis favorable et motivé de la Cour, à 
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 35, 009; En vigueur : 08-03-2010&gt;
 
-<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0018"> 50</a>.
-§ 1. Les référendaires et les greffiers qui manquent à leurs devoirs, sont avertis et réprimandés par le président, suspendus et démis par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>. La suspension comporte la privation du traitement, avec les répercussions qui lui sont inhérentes, tant en matière de pensions que pour l'octroi des augmentations ultérieures de traitement.
+<a name="Art.50" href="#Art.49">Art.</a> <a href="#LNK0018"> 50</a>. § 1. Les référendaires et les greffiers qui manquent à leurs devoirs, sont avertis et réprimandés par le président, suspendus et démis par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>. La suspension comporte la privation du traitement, avec les répercussions qui lui sont inhérentes, tant en matière de pensions que pour l'octroi des augmentations ultérieures de traitement.
 § 2. Aucune sanction n'est infligée sans que la personne concernée ait été entendue ou dûment appelée.
 § 3. Lorsqu'ils sont poursuivis pour un crime ou un délit ou dans le cas de poursuites disciplinaires, les référendaires et les greffiers peuvent, lorsque l'intérêt du service le requiert, être suspendus de leurs fonctions par mesure d'ordre par la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, pendant la durée des poursuites et jusqu'à la décision finale.
 La suspension par mesure d'ordre est prononcée pour un mois; elle peut être prorogée de mois en mois jusqu'à la décision définitive. La [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> peut décider que cette mesure comportera, pendant tout ou partie de sa durée, retenue provisoire, totale ou partielle du traitement.
@@ -852,8 +843,7 @@ Le Roi fixe les heures d'ouverture.
 
 <a name="LNK0040" href="#LNKR0040">TITRE VI.</a> - DISPOSITIONS FINALES.
 
-<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0041"> 123</a>.
-§ 1. Les crédits nécessaires au fonctionnement de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont inscrits au budget des Dotations.
+<a name="Art.123" href="#Art.122">Art.</a> <a href="#LNK0041"> 123</a>. § 1. Les crédits nécessaires au fonctionnement de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont inscrits au budget des Dotations.
 § 2. Les arrêtés royaux relatifs à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> sont délibérés en Conseil des Ministres.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010022101" target="_blank">2010-02-21/01</a>, art. 52, 009; En vigueur : 08-03-2010&gt;
