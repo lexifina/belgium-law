@@ -1,4 +1,1 @@
-Les auteurs et les éditeurs ont droit à une rémunération pour la reproduction sur papier ou sur un support similaire de leurs oeuvres, y compris dans les conditions prévues aux articles XI.190, 5° et 6°, et XI.191, § 1er, 1° et 2°.
-La rémunération est versée par le fabricant, l'importateur ou l'acquéreur intracommunautaire d'appareils manifestement utilisés à des fins de reproduction sur papier ou sur un support similaire d'oeuvres, lors de la mise en circulation de ces appareils sur le territoire national.
-Selon les modalités prévues à l'article XI.239, le Roi détermine quels appareils sont manifestement utilisés pour la reproduction sur papier ou sur un support similaire d'oeuvres.
-Le Roi peut établir une liste des appareils qui ne sont pas manifestement utilisés pour la reproduction sur papier ou sur un support similaire d'oeuvres et qui ne sont pas soumis à la rémunération pour reprographie.
+Les auteurs ont droit à une rémunération pour la reproduction sur papier ou sur un support similaire de leurs oeuvres, lorsque cette reproduction est effectuée dans les conditions fixées par les articles XI.190, 5° et XI.191, § 1er, 1°.
