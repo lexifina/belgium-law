@@ -1,0 +1,4 @@
+§ 1er. A l'initiative du travailleur et avec son accord les limites fixées par ou en vertu de la présente section peuvent être dépassées de maximum 100 heures par année civile. Ce dépassement n'est possible que dans la mesure où l'employeur souhaite faire prester ces heures.
+Une convention collective de travail rendue obligatoire par le Roi peut porter ce nombre à 360 heures maximum.
+§ 2. L'accord du travailleur est constaté par écrit et ne peut être conclu que pour une durée de six mois renouvelable. L'accord doit être expressément et préalablement conclu avant la période visée.
+Une convention collective de travail conclue au sein d'un organe paritaire et déposée au greffe de la Direction générale Relations collectives de travail du Service public fédéral Emploi, Travail et Concertation sociale pour le 31 janvier 2017 au plus tard, peut déroger aux conditions fixées par ce paragraphe.

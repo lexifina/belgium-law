@@ -1,0 +1,19 @@
+§ 1er. Une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, ou le règlement de travail peut autoriser l'instauration d'un horaire flottant permettant le dépassement des limites fixées à l'article 19.
+L'horaire flottant comporte des périodes fixes pendant lesquelles le travailleur doit obligatoirement être présent et à la disposition de l'employeur au sens de l'article 19 et des périodes variables dans lesquelles le travailleur choisit lui-même le début et la fin de sa journée de travail et de ses pauses, sans préjudice de l'organisation de travail effective.
+§ 2. La convention collective de travail ou, le cas échéant, le règlement de travail indiquent au moins:
+1° la durée hebdomadaire moyenne de travail à respecter sur la période de référence, dont la durée est fixée à trois mois calendrier sauf si la convention collective de travail ou le règlement de travail fixent une autre durée qui ne peut toutefois excéder un an;
+2° l'horaire de présence obligatoire du travailleur dans l'entreprise, ci-après appelé plage fixe;
+3° l'horaire des périodes variables, ci-après appelées plages mobiles, pendant lesquelles le travailleur choisit lui-même son heure d'arrivée, de départ et ses pauses. La durée journalière de travail ne peut excéder neuf heures;
+4° le nombre d'heures qui pourront être prestées en deçà ou au-delà de la limite hebdomadaire moyenne de travail fixée dans l'entreprise, sans que la durée hebdomadaire de travail ne puisse excéder 45 heures;
+5° le nombre d'heures prestées en moins ou en plus par rapport à la durée hebdomadaire moyenne et qui, à la fin de la période de référence, pourront faire l'objet d'un report, sans que ce nombre puisse être supérieur à douze heures.
+Les douze heures prévues au 5° peuvent être augmentées par convention collective de travail.
+§ 3. Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés et les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail, comptent comme temps de travail pour le calcul de la durée du travail à respecter sur la période de référence; ces jours sont assimilés en tenant compte de la durée journalière moyenne de travail renseignée dans le règlement de travail;
+§ 4. Les limites fixées au § 2, 3° et 4°, peuvent être dépassées en cas d'application des articles 25, 25bis et 26.
+Si, à la fin de la période de référence, le travailleur a presté plus d'heures ou moins d'heures que la durée hebdomadaire moyenne de travail en raison de la survenance d'un cas de force majeure qui l'empêche de travailler pendant une partie de la période de référence, la récupération de ces heures pourra se faire dans les trois mois qui suivent la fin de la période de référence.
+§ 5. En cas d'application d'un horaire flottant l'employeur prévoit un système de suivi du temps qui pour chaque travailleur concerné comprend les mentions suivantes:
+- l'identité du travailleur;
+- par jour, la durée de ses prestations de travail;
+- et lorsqu'il s'agit d'un travailleur à temps partiel à horaire fixe, le début et la fin de ses prestations ainsi que ses pauses.
+Le système de suivi du temps conserve ces données pendant la période de référence en cours et doit pouvoir être consulté par chaque travailleur occupé sur la base d'un horaire flottant, ainsi que par le fonctionnaire désigné par le Roi.
+Les données consignées par le système de suivi du temps de travail doivent être conservées durant une période de cinq ans après la fin du jour auquel se rapportent les données.
+L'employeur doit veiller à ce que le travailleur, dans la période de référence visée au § 2, 1°, puisse prendre connaissance du nombre précis d'heures qu'il a prestées sur la base d'un horaire flottant, en plus ou en moins par rapport à la durée hebdomadaire moyenne de l'horaire flottant.
