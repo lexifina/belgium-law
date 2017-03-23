@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2017:ARR.20170323.1",
+  "ecli": "ECLI:BE:CASS:2017:ARR.20170323.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2017-03-23",
+  "date_as_printed": "Jugement/arrêt du 23 mars 2017",
+  "published_on_juportal": "2017-04-10",
+  "language": "fr",
+  "role_number": "C.15.0190.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "VOIRIE",
+    "WEGEN",
+    "Autoroutes et routes de l'état - Construction, aménagement et modernisation - Canalisations de gaz - Déplacement - Fonds des routes - Compétences",
+    "GAZ",
+    "GAS",
+    "Canalisations de gaz - Déplacement - Autoroutes et routes de l'état - Construction, aménagement et modernisation - Fonds des routes - Compétences",
+    "Autosnelwegen en rijkswegen - Aanleg, verbetering en modernisering - Gasleidingen - Verplaatsing - Wegenfonds - Bevoegdheden",
+    "Gasleidingen - Verplaatsing - Autosnelwegen en rijkswegen - Aanleg, verbetering en modernisering - Wegenfonds - Bevoegdheden"
+  ],
+  "fiche": [
+    "VOIRIE",
+    "Autoroutes et routes de l'état - Construction, aménagement et modernisation - Canalisations de gaz - Déplacement - Fonds des routes - Compétences",
+    "L. du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations - 12-04-1965 - Art. 9, al. 2 - 30 Lien ELI No pub 1965041214",
+    "GAZ",
+    "Canalisations de gaz - Déplacement - Autoroutes et routes de l'état - Construction, aménagement et modernisation - Fonds des routes - Compétences",
+    "L. du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations - 12-04-1965 - Art. 9, al. 2 - 30 Lien ELI No pub 1965041214"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20170323.1",
+  "source_sha256": "e6d66fb55fb191689628339bfc8dfbf0386c07d85d3fd91320293faabbfb6aca",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2017:ARR.20170323.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/10/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
