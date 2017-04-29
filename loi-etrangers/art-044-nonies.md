@@ -1,0 +1,2 @@
+Le ministre ou son délégué peut assortir les décisions visées aux articles 43, § 1er, alinéa 1er, 2°, et 44bis d'une interdiction d'entrée sur le territoire du Royaume dont la durée est déterminée par lui en tenant compte de toutes les circonstances propres à chaque cas.
+La durée de l'interdiction d'entrée ne peut pas dépasser cinq ans sauf si le citoyen de l'Union ou le membre de sa famille constitue une menace grave pour l'ordre public ou la sécurité nationale.

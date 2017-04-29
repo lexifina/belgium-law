@@ -1,2 +1,1 @@
-Le ministre ou son délégué peut mettre fin au séjour d'un citoyen de l'Union ou d'un membre de sa famille et l'éloigner du territoire du Royaume lorsqu'il a été fait usage d'informations fausses ou trompeuses ou de documents faux ou falsifiés, ou lorsqu'il a eu recours à la fraude ou à d'autres moyens illégaux qui ont contribué à la reconnaissance du séjour.
-Lorsque le ministre ou son délégué envisage de prendre une telle décision, il tient compte de la durée du séjour de l'intéressé dans le Royaume, de son âge, de son état de santé, de sa situation familiale et économique, de son intégration sociale et culturelle dans le Royaume et de l'intensité de ses liens avec son pays d'origine.
+(Abrogé)

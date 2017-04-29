@@ -1,1 +1,6 @@
-(Abrogé)
+§ 1er. Sans préjudice des paragraphes 2 et 3, le ministre ou son délégué peut mettre fin au séjour des citoyens de l'Union et des membres de leurs familles et leur donner l'ordre de quitter le territoire pour des raisons d'ordre public, de sécurité nationale ou de santé publique.
+§ 2. Le ministre peut mettre fin au séjour des citoyens de l'Union et des membres de leurs familles ayant acquis un droit de séjour permanent conformément aux articles 42quinquies et 42sexies et leur donner l'ordre de quitter le territoire uniquement pour des raisons graves d'ordre public ou de sécurité nationale.
+§ 3. Le ministre peut mettre fin au séjour des citoyens de l'Union suivants et leur donner l'ordre de quitter le territoire uniquement pour des raisons impérieuses de sécurité nationale:
+1° les citoyens de l'Union qui ont séjourné sur le territoire du Royaume pendant les dix années précédentes;
+2° les citoyens de l'Union qui sont mineurs d'âge sauf si la décision est nécessaire dans l'intérêt de l'enfant, comme prévu dans la Convention des Nations unies sur les droits de l'enfant du 20 novembre 1989.
+§ 4. Lorsque le ministre ou son délégué envisage de prendre une décision visée aux paragraphes 1er, 2 ou 3, il tient compte de la durée du séjour du citoyen de l'Union ou du membre de sa famille sur le territoire du Royaume, de son âge, de son état de santé, de sa situation familiale et économique, de son intégration sociale et culturelle dans le Royaume et de l'intensité de ses liens avec son pays d'origine.
