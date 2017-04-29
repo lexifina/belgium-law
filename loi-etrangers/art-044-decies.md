@@ -1,0 +1,6 @@
+§ 1er. Le citoyen de l'Union ou le membre de sa famille, qui fait l'objet d'une décision d'interdiction d'entrée sur le territoire du Royaume, peut en demander la suspension ou la levée après un délai raisonnable et en tout cas après trois ans à compter de son exécution.
+§ 2. La demande de suspension ou de levée de l'interdiction d'entrée doit être introduite auprès du ministre ou de son délégué à partir du pays d'origine ou de résidence du citoyen de l'Union ou du membre de sa famille.
+Le ministre ou son délégué dispose d'un délai de six mois pour se prononcer sur la demande.
+§ 3. Si la demande n'est pas introduite conformément au paragraphe 2, le ministre ou son délégué refuse de prendre la demande en considération.
+Si les moyens invoqués par le citoyen de l'Union ou le membre de sa famille établissent un changement matériel des circonstances qui avaient justifié la décision d'interdiction d'entrée sur le territoire du Royaume, le ministre ou son délégué suspend ou lève l'interdiction d'entrée. Dans le cas contraire, il refuse la demande de suspension ou de levée de l'interdiction d'entrée.
+§ 4. Pendant l'examen de sa demande de suspension ou de levée de l'interdiction d'entrée, le citoyen de l'Union ou le membre de sa famille n'a aucun droit d'accès ou de séjour sur le territoire du Royaume.
