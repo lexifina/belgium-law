@@ -4,6 +4,7 @@
 3° le citoyen de l'Union qu'ils ont accompagné ou rejoint décède;
 4° le mariage avec le citoyen de l'Union qu'ils ont accompagné ou rejoint est dissous ..., il est mis fin au partenariat enregistré visé à l'article 40bis, § 2, alinéa 1er, 1° ou 2°, ou il n'y a plus d'installation commune;
 5° les membres de la famille d'un citoyen de l'Union visé à l'article 40, § 4, alinéa 1er, 2° ou 3°, constituent une charge déraisonnable pour le système d'assistance sociale du Royaume;
+6° le ministre ou son délégué retire au citoyen de l'Union accompagné ou rejoint son séjour conformément à l'article 44;
 Pour l'application de l'alinéa 1er, 5°, afin de déterminer si les membres de famille d'un citoyen de l'Union, constituent une charge déraisonnable pour le système d'aide sociale du Royaume, il est tenu compte du caractère temporaire ou non de leurs difficultés, de la durée de son séjour dans le Royaume, de leur situation personnelle et du montant de l'aide qui leur est accordée.
 Lors de sa décision de mettre fin au séjour, le ministre ou son délégué tient compte de la durée du séjour de l'intéressé dans le Royaume, de son âge, de son état de santé, de sa situation familiale et économique, de son intégration sociale et culturelle dans le Royaume et de l'intensité de ses liens avec son pays d'origine.
 § 2. Les cas visés au § 1er, alinéa 1er, 2° et 3°, ne sont pas applicables aux enfants du citoyen de l'Union qui séjournent dans le Royaume et sont inscrits dans un établissement d'enseignement ni au parent qui a la garde des enfants jusqu'à la fin de leurs études.
