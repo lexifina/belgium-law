@@ -4,7 +4,7 @@
 1° le taux périodique doit fluctuer tant à la hausse qu'à la baisse;
 2° le taux périodique ne peut varier qu'à l'expiration de périodes déterminées, qui ne peuvent être inférieures à un an;
 3° la variation du taux périodique doit être liée aux fluctuations d'un indice de référence pris parmi une série d'indices de référence en fonction de la durée des périodes de variation du taux débiteur.
-La liste et le mode de calcul des indices de référence sont déterminés par le Roi, par arrêté délibéré en Conseil des ministres, pris sur avis de la Banque et de la FSMA après consultation, par ce dernier, de la Commission des Assurances;
+La liste et le mode de calcul des indices de référence sont déterminés par le Roi, par arrêté délibéré en Conseil des ministres, pris sur avis de la Banque ...;
 4° le taux périodique initial est le taux qui sert de base au calcul des intérêts dus par le consommateur lors du premier versement en intérêt;
 5° la valeur initiale de l'indice de référence est la valeur de l'indice de référence figurant sur la liste des tarifs des taux d'intérêt pour le type de crédit considéré et concerne la valeur du mois civil précédant la date de ce tarif;
 6° à l'expiration des périodes déterminées dans le contrat de crédit, le taux périodique afférent à la nouvelle période est égal au taux débiteur initial augmenté de la différence entre la valeur de l'indice de référence publiée dans le mois civil précédant la date de la variation et la valeur initiale de cet indice.

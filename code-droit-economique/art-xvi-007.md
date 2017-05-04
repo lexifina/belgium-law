@@ -1,2 +1,3 @@
-Le Service de médiation pour le consommateur dresse annuellement un rapport sur l'exécution de ses missions à l'attention du ministre.
-Le Roi fixe les modalités et le contenu du rapport.
+Le Service de médiation pour le consommateur fournit au ministre, à la demande de celui-ci, toute information relative à son fonctionnement et à l'accomplissement de ses missions.
+Le Service de médiation pour le consommateur fournit au ministre ayant le Budget dans ses attributions, à la demande de celui-ci, toute information relative au financement et à l'utilisation des moyens de fonctionnement.
+Lorsqu'il fournit les informations demandées, le Service de médiation pour le consommateur veille à ce que la confidentialité des demandes de règlement extrajudiciaire d'un litige de consommation soit respectée.
