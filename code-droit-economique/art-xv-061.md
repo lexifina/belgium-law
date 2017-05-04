@@ -1,4 +1,4 @@
-§ 1er. Lorsqu'ils constatent des infractions visées à l'article XV.2, § 1er, les agents désignés par le ministre peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique.
+§ 1er. Lorsque les agents visés à l'article XV.2 constatent des infractions visées à l'article XV.2, § 1er, les agents désignés par le ministre peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique.
 Dans ce cas, le contrevenant reçoit la possibilité de consulter préalablement chaque procès-verbal qui constate une infraction faisant l'objet de la proposition et de s'en faire remettre une copie.
 Les tarifs ainsi que les modalités de paiement et de perception de cette transaction sont arrêtés par le Roi.
 La somme prévue au premier alinéa ne peut être supérieure au maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, augmentée des décimes additionnels.
