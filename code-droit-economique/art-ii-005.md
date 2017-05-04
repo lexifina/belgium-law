@@ -1,0 +1,2 @@
+Pour les arrêtés résultant d'une simple transposition de mesures d'harmonisation sur le plan européen, les consultations des organes d'avis prévues par le présent Code, ne sont pas obligatoires, mais ceux-ci seront portées à la connaissance de ces organes d'avis.
+Les projets d'arrêté qui concrétisent la marge politique prévue par la mesure ou qui contiennent d'autres éléments qui dépassent la transposition de la mesure en tant que telle, doivent cependant être soumis pour avis.

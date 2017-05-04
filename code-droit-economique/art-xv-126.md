@@ -1,2 +1,2 @@
-Tout empêchement ou entrave volontaire à l'exercice des fonctions des agents visés à l'article XV.2 ou des fonctionnaires de police de la police locale et fédérale est, en application des dispositions du présent Code, puni d'une sanction du niveau 4.
+Tout empêchement ou entrave volontaire à l'exercice des fonctions des agents visés aux articles XV.2 et XV.30/2 ou des fonctionnaires de police de la police locale et fédérale est, en application des dispositions du présent Code, puni d'une sanction du niveau 4.
 Toute nouvelle infraction telle que visée à l'alinéa 1er commise avant que cinq années ne se soient écoulées depuis l'accomplissement de la peine ou de la prescription de celle-ci pour la même infraction, est punie d'une sanction du niveau 5.

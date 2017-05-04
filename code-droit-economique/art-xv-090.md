@@ -14,7 +14,7 @@ Sont punis d'une sanction du niveau 5, ceux qui:
 13° contreviennent aux dispositions de l'article VII. 68 relatives aux offres promotionnels;
 14° ne respectent pas l'obligation de remettre les documents visés aux articles VII.99, VII.106, § 4, VII.147/14 et VII.147/22, § 4;
 15° en tant que prêteur contreviennent aux dispositions des articles VII.78, VII.81, VII.109, § 2, VII.126, § 2 et VII.134;
-16° en infraction aux dispositions des articles VII. 77, § 2, alinéa 1er et VII.133, § 2, alinéa 1er en tant que prêteur, concluent sciemment un contrat de crédit dont ils doivent raisonnablement estimer que le consommateur ne sera pas à même de respecter les obligations en découlant;
+16° en infraction aux dispositions des articles VII. 77, § 2 ... et VII.133, § 2 ... en tant que prêteur, concluent sciemment un contrat de crédit dont ils doivent raisonnablement estimer que le consommateur ne sera pas à même de respecter les obligations en découlant;
 17° contreviennent aux articles VII.117 à VII.122 et VII.147/33 à VII.147/38;
 18° contreviennent aux articles VII.137, VII.138, VII.143, VII.146, VII.147 et 147/26, § 1er;
 19° en tant que prêteur ou intermédiaire de crédit ne fournit pas au consommateur l'ESIS visé aux articles VII.127 et VII.128, ou qui sciemment, en infraction aux articles VII.129 et VII.130, ne fournit pas l'information la mieux adaptée ou ne recherche pas le crédit le mieux adapté;
