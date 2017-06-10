@@ -7,3 +7,4 @@ L'expert visé à l'alinéa 1er porte le titre d'expert judiciaire uniquement po
 "Ik zweer dat ik mijn opdracht in eer en geweten, nauwgezet en eerlijk vervuld heb"; ou
 "Ich schwore, dass ich den mir erteilten Auftrag auf Ehre und Gewissen, genau und erlich erfüllt habe".
 Le cas échéant, cette procédure, les motifs et les nom et prénom de l'expert désigné sont actés dans la décision de désignation ou sur la feuille d'audience.
+Un extrait de la décision mentionnant l'identité de l'expert judiciaire ainsi que la motivation sont communiqués au service qui gère le registre national.

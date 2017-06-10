@@ -1,9 +1,10 @@
 Sont inscrites au registre national des experts judiciaires, les personnes physiques qui:
-1° justifient d'une expérience pertinente d'au moins cinq ans au cours des huit années précédant la demande d'enregistrement dans le domaine d'expertise et de spécialisation dans lequel elles se font enregistrer en qualité d'expert judiciaire;
+1° ...
 2° sont ressortissantes d'un Etat membre de l'Union européenne ou y résident légalement;
 3° présentent un extrait du casier judiciaire visé à l'article 595 du Code d'instruction criminelle, délivré par l'administration communale de leur domicile ou de leur résidence et datant de moins de trois mois; les personnes qui ne disposent pas d'un domicile ou d'une résidence en Belgique présentent un document similaire de l'Etat membre de l'Union européenne où elles ont leur domicile ou résidence;
 4° n'ont pas été condamnées, même avec sursis, à une quelconque peine correctionnelle ou criminelle consistant en une amende, une peine de travail ou une peine de prison, à l'exception des condamnations pour infraction à la réglementation relative à la police de la circulation routière et des condamnations dont le ministre de la Justice estime qu'elles ne font pas manifestement obstacle à la réalisation d'expertises dans le domaine d'expertise et de spécialisation dans lequel elles se font enregistrer en qualité d'expert judiciaire. Cette disposition s'applique par analogie aux personnes qui ont été condamnées à l'étranger à une peine de même nature par un jugement coulé en force de chose jugée;
 5° déclarent par écrit devant le ministre de la Justice qu'elles se tiennent à la disposition des autorités judiciaires, qui peuvent faire appel à leurs services;
 6° fournissent la preuve qu'elles disposent de l'aptitude professionnelle et des connaissances juridiques requises;
-7° déclarent par écrit devant le ministre de la Justice qu'elles adhèrent au code de déontologie établi par le Roi, lequel code prévoit au moins les principes d'indépendance et d'impartialité;
+6° /1. déclarent par écrit devant le ministre de la Justice qu'elles s'engagent à suivre des formations continues pertinentes, tant dans leur domaine d'expertise que dans celui des procédures judiciaires, selon les modalités fixées par le Roi;
+7° déclarent par écrit devant le ministre de la Justice qu'elles adhèrent au code de déontologie établi par le Roi, lequel code prévoit au moins les principes d'indépendance et d'impartialité, et qu'elles respecteront ce code;
 8° ont prêté le serment prescrit à l'article 991novies, § 1er.
