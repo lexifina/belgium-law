@@ -39,3 +39,4 @@ h) livre XIV - Pratiques du marché et protection du consommateur relatif aux pr
 30° le Règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le Règlement (CE) n° 2006/2004;
 31° la loi du 30 juillet 2013 relative à la revente de titres d'accès à des événements.
 32° la loi du 28 août 2011 relative à la protection des consommateurs en matière de contrats d'utilisation de biens à temps partagé, de produits de vacances à long terme, de revente et d'échange;
+33° l'article 101 et/ou l'article 102 du TFUE;

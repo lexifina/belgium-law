@@ -1,0 +1,8 @@
+Sans préjudice de l'article 1385bis du Code judiciaire, le juge peut infliger aux parties, à des tiers ou à leurs représentants légaux une amende de 1 000 à 10 000 000 euros, sans préjudice des dommages et intérêts qui seraient réclamés, dans les cas suivants:
+1° le non-respect d'une injonction de production de preuves émanant du juge ou le refus de s'y conformer;
+2° la destruction de preuves pertinentes;
+3° le non-respect des obligations imposées par une injonction du juge protégeant des informations confidentielles, ou le refus de s'y conformer;
+4° la violation des restrictions prévues dans le présent chapitre pour l'utilisation des preuves.
+L'amende doit être effective, proportionnée et dissuasive compte tenu de l'entreprise ou de la personne auxquelles elle est infligée et des circonstances concrètes du cas d'espèce, telles que le montant de la demande de dommages et intérêts, le caractère décisif de la preuve dont la production est ordonnée par le juge, sa valeur probante, la gravité de l'infraction procédurale et l'intention ou non de commettre l'infraction dans le chef d'une des parties, d'un tiers ou de leurs représentants légaux.
+Le recouvrement de l'amende est poursuivi par toutes voies de droit à la diligence de l'administration de l'Enregistrement et des Domaines.
+Lorsqu'un des cas mentionnés à l'alinéa 1er est imputable au comportement d'une partie, le juge peut, en outre, en tirer toute conséquence défavorable qu'il jugera appropriée, telle que présumer que le fait litigieux en question est avéré ou rejeter, en tout ou en partie, les demandes et moyens de défense. Il peut également prononcer une condamnation aux dépens.

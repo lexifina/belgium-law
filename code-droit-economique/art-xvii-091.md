@@ -1,0 +1,1 @@
+La résolution amiable des litiges, à l'exception de l'arbitrage, suspend les délais de prescription fixés pour introduire une action en dommages et intérêts pendant la durée de la procédure de cette résolution amiable des litiges. Cette suspension ne s'applique qu'à l'égard des parties qui participent ou ont participé à ladite procédure ou y ont été représentées.
