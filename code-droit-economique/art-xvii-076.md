@@ -1,0 +1,1 @@
+Préalablement à l'injonction de production de preuves en application des articles XVII.74 et XVII.75, le juge invite, selon les modalités et le délai qu'il fixe, la personne concernée par une demande de production de preuves à déposer des observations écrites. Elle peut également être entendue, si le juge l'y autorise.

@@ -1,0 +1,5 @@
+§ 1er. Lorsque le juge évalue, conformément à l'article XVII.74, § 2, la proportionnalité d'une injonction de production de preuves figurant dans le dossier d'une autorité de concurrence, il tient compte, en outre, des éléments suivants:
+1° si la demande de production de preuves a été formulée de façon spécifique quant à la nature, à l'objet ou au contenu des documents soumis à une autorité de concurrence ou détenus dans le dossier de celle-ci;
+2° si la partie qui demande la production de preuves le fait dans le cadre d'une action en dommages et intérêts et
+3° pour ce qui concerne l'article XVII.77, § 2, et XVII.79, § 1er, ou à la demande d'une autorité de concurrence en application du paragraphe 2 du présent article, la nécessité de préserver l'efficacité de la mise en oeuvre du droit de la concurrence par une autorité de concurrence ou une instance de recours.
+§ 2. Le juge invite, selon les modalités et le délai qu'il fixe, l'autorité de la concurrence concernée par une demande de production de preuves à déposer des observations écrites relatives à la proportionnalité de cette demande. Elle peut également être entendue, si le juge l'y autorise.

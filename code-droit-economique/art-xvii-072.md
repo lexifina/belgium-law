@@ -1,0 +1,1 @@
+Toute personne physique ou morale qui a subi un dommage causé par une infraction au droit de la concurrence a le droit de demander et obtenir la réparation intégrale du dommage, conformément au droit commun.
