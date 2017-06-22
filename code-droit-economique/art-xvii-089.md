@@ -1,0 +1,1 @@
+Sans préjudice de l'article 1682 du Code judiciaire, le juge saisi d'une action en dommages et intérêts peut suspendre la procédure pendant une période, non prorogeable, pouvant aller jusqu'à deux ans lorsque les parties à celle-ci participent à une procédure de résolution amiable des litiges concernant la demande couverte par l'action en dommages et intérêts.
