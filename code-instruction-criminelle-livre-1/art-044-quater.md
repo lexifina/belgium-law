@@ -3,9 +3,10 @@
 2° comparer, le cas échéant, les profils ADN des traces découvertes entre elles.
 L'expert veille à préserver une fraction suffisante de l'échantillon pour permettre une contre-expertise. Si cela s'avère impossible, il en fait état dans son rapport.
 Lorsque l'expert parvient à préserver une fraction suffisante de la trace découverte pour permettre une contre-expertise, il en assure la conservation pendant trente ans au maximum sauf si le magistrat compétent ordonne un autre délai de conservation.
+Le cas échéant, le procureur du Roi informe l'expert qu'il s'agit de traces de personnes disparues ou de dépouilles mortelles non identifiées dont le profil ADN sera enregistré dans la banque de données ADN "Personnes disparues".
 § 2. L'expert transmet au procureur du Roi un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
 Le procureur du Roi peut toutefois accorder un délai d'analyse supplémentaire, sur demande motivée de l'expert.
-§ 3. Dans les quinze jours suivant la transmission de son rapport et sauf décision contraire motivée du procureur du Roi, l'expert communique d'office les profils ADN obtenus au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3 et 4 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+§ 3. Dans les quinze jours suivant la transmission de son rapport et sauf décision contraire motivée du procureur du Roi, l'expert communique d'office les profils ADN obtenus au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3, 4 et 5 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
 Il communique également les données suivantes:
 1° le numéro de notice du dossier répressif;
 2° le nom et les coordonnées du magistrat chargé du dossier répressif;
