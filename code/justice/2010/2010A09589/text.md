@@ -30,7 +30,7 @@ L'Assemblée générale des partenaires est composée :
 3° du président du Comité de direction du Service public fédéral Sécurité sociale;
 4° des fonctionnaires dirigeants des services suivants :
 a) l'administration Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale;
-b) l'administration de l'Inspection sociale du Service public fédéral Sécurité sociale;
+b) [<sup>2</sup> le service d'inspection de l'Institut national d'assurances sociales pour travailleurs indépendants;]<sup>2</sup>
 c) le service d'inspection de l'Office national de Sécurité sociale;
 d) le service d'inspection de l'Office national de l'Emploi;
 [<sup>1</sup> e) l'administration Contrôle du bien-être au travail du Service public fédéral Emploi, Travail et Concertation sociale;
@@ -52,6 +52,7 @@ La présidence de l'Assemblée générale des partenaires est assurée par le di
 Il convoque les membres de l'Assemblée générale des partenaires au moins deux fois par an. Il leur fait part des lignes directrices de la politique en matière de lutte contre le travail illégal et la fraude sociale, arrêtée par le Conseil des ministres.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 2, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 17, 024; En vigueur : 01-07-2017&gt;
 
 <a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Les missions de l'Assemblée générale des partenaires
 L'Assemblée générale des partenaires est un organe de réflexion et d'avis dans le cadre de la lutte contre la fraude sociale et le travail illégal et sur le fonctionnement optimal des cellules d'arrondissement.
@@ -67,7 +68,7 @@ Le secrétariat du Bureau est également celui de l'Assemblée générale des pa
 § 2. Le bureau est géré par un comité de direction qui est composé :
 1° du directeur du Bureau visé à l'article 6, § 3, 1°;
 2° des fonctionnaires dirigeants :
-- de l'Inspection sociale du Service public fédéral Sécurité sociale;
+- [<sup>3</sup> ...]<sup>3</sup>
 - de la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale;
 - de la direction générale des Services d'Inspection de l'Office national de Sécurité sociale;
 - de l'Inspection de l'Office national de l'Emploi;
@@ -83,11 +84,12 @@ Ce comité de direction est chargé d'établir le plan stratégique et le plan o
 4° de membres du Service public fédéral Emploi, Travail et Concertation sociale, du Service public fédéral Sécurité sociale, des institutions publiques de sécurité sociale ou du Service public fédéral de programmation Intégration Sociale;
 5° d'un membre du Service public fédéral Finances;
 6° d'analystes et d'experts dans le domaine de la détection de la fraude et de la lutte contre celle-ci, qui collectent toute information utile à la détection et à l'analyse des phénomènes de fraude. A cette fin, chaque institution publique et chaque organisme fédéral fournit les renseignements demandés par les membres du Bureau;
-7° d'inspecteurs sociaux issus du Service public fédéral Sécurité sociale, du Service public fédéral Emploi, Travail et Concertation sociale, de l'Office national de Sécurité sociale et de l'Office national de l'Emploi, qui sont intégrés dans l'équipe de détection de la fraude informatique qui soutient les services d'inspection par son expertise en matière de technologie de l'information et de la communication.]<sup>1</sup>
+7° d'inspecteurs sociaux issus [<sup>3</sup> de l'Institut national d'assurances sociales pour travailleurs indépendants]<sup>3</sup>, du Service public fédéral Emploi, Travail et Concertation sociale, de l'Office national de Sécurité sociale et de l'Office national de l'Emploi, qui sont intégrés dans l'équipe de détection de la fraude informatique qui soutient les services d'inspection par son expertise en matière de technologie de l'information et de la communication.]<sup>1</sup>
 § 4. Le Roi détermine le nombre de membres composant le Bureau.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 30, 007; En vigueur : 10-01-2013&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 24, 020; En vigueur : 01-07-2016&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 17, 024; En vigueur : 01-07-2017&gt;
 
 <a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.Les missions du Bureau
 Le Bureau est chargé :
@@ -179,26 +181,29 @@ Le Bureau peut sur proposition d'un de ses membres décider d'une action nationa
 1° le président, auditeur du travail;
 2° le secrétaire de la cellule;
 3° un membre du Bureau visé à l'article [<sup>1</sup> 6, § 3, 4° ou 5° ]<sup>1</sup>;
-4° un représentant de l'Inspection sociale;
+4° [<sup>2</sup> un représentant de l'Institut national d'assurances sociales pour travailleurs indépendants]<sup>2</sup>;
 5° un représentant du Contrôle des lois sociales;
 6° un représentant du service d'inspection de l'Office national de sécurité sociale;
 7° un représentant de l'Office national de l'emploi.
 Le GIR peut inviter toute personne spécialement compétente pour la préparation et la réalisation des opérations programmées.
 Est associé au GIR, à sa demande, le représentant du service d'inspection régionale compétent en matière d'emploi en vertu de l'article 6, § 1er, IX, de la loi spéciale du 8 août 1980 de réformes institutionnelles.
-§ 3. Le secrétariat du GIR est assuré par un inspecteur social de l'un des quatre services d'inspection sociale (Inspection sociale, Contrôle des lois sociales, Office national de l'Emploi, Office national de Sécurité sociale) qui est désigné par le Bureau conformément au Protocole d'accord.
+§ 3. Le secrétariat du GIR est assuré par un inspecteur social de l'un des quatre services d'inspection sociale ([<sup>2</sup> l'Institut national d'assurances sociales pour travailleurs indépendants]<sup>2</sup>, Contrôle des lois sociales, Office national de l'Emploi, Office national de Sécurité sociale) qui est désigné par le Bureau conformément au Protocole d'accord.
 Cet inspecteur travaille en étroite collaboration avec le président et les autres membres du GIR afin :
 1° de préparer les réunions mensuelles du GIR;
 2° d'assurer la communication au Bureau des résultats des actions menées.
 Le procès-verbal de la réunion mensuelle du GIR est transmis au Bureau.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 37, 007; En vigueur : 10-01-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 17, 024; En vigueur : 01-07-2017&gt;
 
-<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Le secrétariat de la cellule
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>.Le secrétariat de la cellule
 Les cellules sont soutenues par un secrétariat qui est institué par cellule d'arrondissement.
-Le secrétariat est assuré soit par le Contrôle des lois sociales, soit par l'Inspection sociale, soit par l'Inspection de l'ONSS, soit par l'Inspection de l'ONEM, conformément au Protocole d'accord proposé par le Bureau.
+Le secrétariat est assuré soit par le Contrôle des lois sociales, [<sup>1</sup> soit par l'Inspection de l'Institut national d'assurances sociales pour travailleurs indépendants]<sup>1</sup>, soit par l'Inspection de l'ONSS, soit par l'Inspection de l'ONEM, conformément au Protocole d'accord proposé par le Bureau.
 Toutefois, un secrétariat est institué pour la Région de Bruxelles-Capitale et un secrétariat est institué pour l'arrondissement de Hal-Vilvorde.
 Le secrétariat est établi au siège local d'un des services visés à l'alinéa 2.
 Les procès-verbaux des réunions des cellules sont établis par le secrétariat et sont transmis au Bureau.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 17, 024; En vigueur : 01-07-2017&gt;
 
 <a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0006"> 15</a>. La commission de partenariat, sa composition et la convention de partenariat
 Il est institué une commission de partenariat qui a son siège au SPF Emploi, Travail et Concertation sociale. Elle est composée :
