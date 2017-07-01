@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent aux procédures relatives aux demandes de dommages et intérêts fondées sur une responsabilité sans faute, à l'exclusion des cas où l'établissement de cette responsabilité exige par ailleurs la détermination de la faute d'un tiers.

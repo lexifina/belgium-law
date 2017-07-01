@@ -1,0 +1,1 @@
+Par dérogation à l'article 4, alinéa 1er, deuxième phrase, de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale, l'action visée à l'article 1385quinquiesdecies n'est pas suspendue pendant le cours d'une action publique fondée en tout ou en partie sur les mêmes faits.
