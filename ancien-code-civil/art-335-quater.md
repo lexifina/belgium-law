@@ -1,0 +1,2 @@
+Par dérogation aux articles 335, §§ 1er et 3, et 335ter, §§ 1er et 2, le père et la mère ou la mère et la coparente, selon le cas, peuvent choisir le nom de l'enfant au moment de la déclaration de choix de la loi applicable visée à l'article 39, § 1er, alinéa 2, du Code de droit international privé. L'officier de l'état civil prend acte de ce choix.
+Mention de la déclaration est faite en marge de l'acte de naissance transcrit ou inscrit dans les registres de l'état civil et de tous les actes dressés ou reconnus qui les concernent.

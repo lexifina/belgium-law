@@ -1,11 +1,11 @@
-§ 1er. Celui qui, sachant qu'il n'y est pas autorisé, accède à un système informatique ou s'y maintient, est puni d'un emprisonnement de trois mois à un an et d'une amende de vingt-six euros à vingt-cinq mille euros ou d'une de ces peines seulement.
-Si l'infraction visée à l'alinéa 1er, est commise avec une intention frauduleuse, la peine d'emprisonnement est de six mois à deux ans.
-§ 2. Celui qui, avec une intention frauduleuse ou dans le but de nuire, outrepasse son pouvoir d'accès à un système informatique, est puni d'un emprisonnement de six mois à deux ans et d'une amende de vingt-six euros à vingt-cinq mille euros ou d une de ces peines seulement.
+§ 1er. Celui qui, sachant qu'il n'y est pas autorisé, accède à un système informatique ou s'y maintient, est puni d'un emprisonnement de six mois à deux ans et d'une amende de vingt-six euros à vingt-cinq mille euros ou d'une de ces peines seulement.
+Si l'infraction visée à l'alinéa 1er, est commise avec une intention frauduleuse, la peine d'emprisonnement est de six mois à trois ans.
+§ 2. Celui qui, avec une intention frauduleuse ou dans le but de nuire, outrepasse son pouvoir d'accès à un système informatique, est puni d'un emprisonnement de six mois à trois ans et d'une amende de vingt-six euros à vingt-cinq mille euros ou d une de ces peines seulement.
 § 3. Celui qui se trouve dans une des situations visées aux §§ 1er et 2 et qui:
 1° soit reprend, de quelque manière que ce soit, les données stockées, traitées ou transmises par le système informatique;
 2° soit fait un usage quelconque d'un système informatique appartenant à un tiers ou se sert du système informatique pour accéder au système informatique d'un tiers;
 3° soit cause un dommage quelconque, même non intentionnellement, au système informatique ou aux données qui sont stockées traitées ou transmises par ce système ou au système informatique d'un tiers ou aux données qui sont stockées, traitées ou transmises par ce système;
-est puni d'un emprisonnement de un à trois ans et d'une amende de vingt-six euros belges à cinquante mille euros ou d'une de ces peines seulement.
+est puni d'un emprisonnement de un à cinq ans et d'une amende de vingt-six euros belges à cinquante mille euros ou d'une de ces peines seulement.
 § 4. La tentative de commettre une des infractions visées aux §§ 1er et 2 est punie des mêmes peines.
 § 5. (Celui qui, indûment, possède, produit, vend, obtient en vue de son utilisation, importe, diffuse ou met à disposition sous une autre forme, un quelconque dispositif, y compris des données informatiques, principalement conçu ou adapté pour permettre la commission des infractions prévues au §§ 1er à 4, est puni d'un emprisonnement de six mois à trois ans et d'une amende de vingt-six euros à cent mille euros ou d'une de ces peines seulement.)
 § 6. Celui qui ordonne la commission d'une des infractions visées aux §§ 1er à 5 ou qui y incite, est puni d'un emprisonnement de six mois à cinq ans et d'une amende de cent euros à deux cent mille euros ou d'une de ces peines seulement.
