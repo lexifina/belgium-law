@@ -1,0 +1,1 @@
+De artikelen 458bis en 458ter zijn niet van toepassing op de advocaat voor wat betreft het meedelen van vertrouwelijke informatie van zijn cliënt wanneer die zijn cliënt mogelijk aan strafvervolging blootstelt.
