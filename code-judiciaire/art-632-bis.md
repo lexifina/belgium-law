@@ -1,0 +1,1 @@
+Les procédures de reconnaissance du statut d'apatride sont de la compétence du tribunal de la famille qui est établi au siège de la Cour d'appel dans le ressort duquel le demandeur a son domicile ou sa résidence ou, à défaut, le demandeur est présent. Toutefois, lorsque la procédure est en langue allemande, le tribunal de la famille d'Eupen est seul compétent.

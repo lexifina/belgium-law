@@ -1,1 +1,1 @@
-(Abrogé)
+Si la procédure est abandonnée, les conventions prévues à l'article 1288 lient les parties à titre provisoire, jusqu'à ce qu'il soit fait application de l'article 1280. Si les conventions ne revêtent pas la forme d'un titre exécutoire, la cause est, à la demande de la partie la plus diligente, fixée à la première audience utile réputée urgente visée à l'article 1256, alinéa 3. Si l'une des parties en fait la demande, le tribunal de la famille prononce une mesure provisoire, conforme aux conventions.

@@ -1,2 +1,2 @@
-Sauf lorsque la mesure a trait au respect d'une condition de recevabilité, le juge ne peut ordonner une mesure d'instruction qu'après que l'action concernée a été déclarée recevable.
 Le juge limite le choix de la mesure d'instruction et le contenu de cette mesure à ce qui est suffisant pour la solution du litige, à la lumière de la proportionnalité entre les coûts attendus de la mesure et l'enjeu du litige et en privilégiant la mesure la plus simple, la plus rapide et la moins onéreuse.
+Lorsque la recevabilité de l'action est contestée, le juge ne peut ordonner une mesure d'instruction qu'après que l'action concernée a été déclarée recevable, sauf lorsque la mesure a trait au respect de la condition de recevabilité invoquée.

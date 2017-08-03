@@ -1,11 +1,11 @@
 Sans préjudice des compétences spéciales reconnues au juge de paix et des législations particulières, le tribunal de la famille connaît:
-1° des demandes relatives à l'état des personnes;
+1° des demandes relatives à l'état des personnes, en ce compris des demandes relatives à la nationalité belge et à la reconnaissance du statut d'apatride;
 2° des demandes relatives à l'annulation de la cohabitation légale, et des recours contre le refus de l'officier de l'état civil d'acter la déclaration de cohabitation légale sans préjudice de la compétence attribuée au juge pénal par l'article 391octies du Code pénal et l'article 79quater de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
 3° des demandes des époux et cohabitants légaux relatives à l'exercice de leurs droits ou à leurs biens ainsi que des mesures provisoires qui s'y rapportent;
 4° des demandes relatives à l'exercice de l'autorité parentale, à l'hébergement ou aux droits aux relations personnelles à l'égard d'enfants mineurs;
 5° des constats de l'impossibilité durable d'exercer l'autorité parentale visés à l'article 389 du Code civil;
 6° des demandes visées aux articles 1322bis et 1322decies;
-7° des demandes liées aux obligations alimentaires, à l'exception de celles qui sont liées au droit au revenu d'intégration sociale;
+7° des demandes liées aux obligations alimentaires ...;
 8° des litiges relatifs à la détermination du ou des allocataire(s) des allocations familiales relatives à des enfants dont les parents ne vivent plus ensemble, ainsi que des requêtes en opposition au paiement à l'allocataire;
 9° des demandes relatives aux régimes matrimoniaux, aux successions, aux donations entre vifs ou aux testaments;
 10° des demandes en partage;

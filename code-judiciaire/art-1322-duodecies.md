@@ -1,3 +1,4 @@
 1322duodecies, § 1er. Pour l'application de l'article 11, 4, du Règlement du Conseil visé à l'article 1322bis, 3°, le ministère public saisit, à la demande de l'Autorité centrale belge, le tribunal de la famille du lieu de la résidence habituelle de l'enfant avant son déplacement ou son non-retour illicite.
 § 2. La décision rendue par le tribunal de la famille ainsi que les documents qui l'accompagnent doivent être communiqués à l'Autorité centrale belge dans les trois jours ouvrables du prononcé.
 § 3. Cette Autorité centrale est seule habilitée à assurer la transmission des pièces aux Autorités compétentes de l'Etat requérant.
+§ 4. Aucun recours ne peut être exercé à l'encontre d'une décision arrêtant des mesures protectionnelles en application de l'article 11, 4, du Règlement du Conseil visé à l'article 1322bis, 3°.
