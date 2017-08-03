@@ -1,0 +1,1 @@
+Les articles 458bis et 458ter ne sont pas applicables à l'avocat en ce qui concerne la communication d'informations confidentielles de son client lorsque ces informations sont susceptibles d'exposer son client à des poursuites pénales.
