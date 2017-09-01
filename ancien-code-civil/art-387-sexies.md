@@ -1,0 +1,3 @@
+Les parents ou le tuteur et les accueillants familiaux conviennent par écrit, à l'intervention de l'organe compétent en matière d'accueil familial, de la manière dont les parents ou le tuteur peuvent exercer leur droit aux relations personnelles prévu par l'article 387undecies, compte tenu des possibilités et des conditions de vie des parents.
+Conformément aux articles 1253ter/4 et 1253ter/6 du Code judiciaire, l'accord peut être soumis à l'homologation du tribunal de la famille. L'homologation peut uniquement être refusée si elle est contraire à l'intérêt de l'enfant.
+Si les parents ou le tuteur et les accueillants familiaux ne peuvent parvenir à un accord, le juge statue sur requête de la partie la plus diligente.

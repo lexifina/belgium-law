@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent au placement d'un enfant mineur non émancipé dans le cadre de l'accueil familial, conformément à la réglementation applicable en matière d'aide à la jeunesse et de protection de la jeunesse.
