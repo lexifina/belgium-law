@@ -1,0 +1,3 @@
+Durant la période de placement, les accueillants familiaux exercent le droit d'hébergement et le droit de prendre toutes les décisions quotidiennes relatives à l'enfant.
+Les parents gardent la compétence de prendre les décisions importantes relatives à la santé, à l'éducation, à la formation, aux loisirs et aux choix religieux ou philosophiques de l'enfant.
+Cette dernière compétence revient toutefois aux accueillants familiaux en cas d'extrême urgence. Dans pareil cas, ceux-ci font immédiatement part de leur décision aux parents ou, si les parents ne peuvent être contactés, à l'organe compétent en matière de placement familial.
