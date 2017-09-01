@@ -1,0 +1,1 @@
+Le tribunal de la famille peut, à la demande des père et mère, de l'un d'eux, du tuteur, des accueillants familiaux ou du procureur du Roi, ordonner, modifier ou mettre fin, dans l'intérêt de l'enfant, à toute décision relative à l'autorité parentale et ce conformément aux articles 1253ter/4 à 1253ter/6 du Code judiciaire.
