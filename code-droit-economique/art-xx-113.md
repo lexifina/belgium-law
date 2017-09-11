@@ -1,0 +1,2 @@
+Les droits d'hypothèque, de privilège et de sûreté mobilière valablement acquis peuvent être inscrits ou enregistrés jusqu'au jour du jugement déclaratif de la faillite.
+Néanmoins, les inscriptions ou enregistrements pris postérieurement à l'époque de la cessation de paiement, peuvent être déclarées inopposables s'il s'est écoulé plus de quinze jours entre la date de l'acte constitutif de l'hypothèque ou du privilège et celle de l'inscription ou de l'enregistrement.
