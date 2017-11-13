@@ -1,0 +1,1 @@
+De artikelen 173, 176 en 177 zijn zonder onderscheid van toepassing op de biljetten die reeds zijn uitgegeven en in omloop zijn gebracht als wettig betaalmiddel en op de biljetten die, hoewel zij bestemd zijn om in omloop te worden gebracht als wettig betaalmiddel, nog niet zijn uitgegeven.
