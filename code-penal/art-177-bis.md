@@ -1,0 +1,1 @@
+Les articles 173, 176 et 177 s'appliquent indistinctement aux billets qui ont déjà été émis et mis en circulation en tant que billet ayant cours légal et aux billets qui, bien que destinés à être mis en circulation en tant que billet ayant cours légal, n'ont pas encore été émis.
