@@ -1,0 +1,1 @@
+Les articles 160, 161, 162, 163, 168 et 169 s'appliquent indistinctement aux monnaies qui ont déjà été émises et mises en circulation en tant que monnaie ayant cours légal et aux monnaies qui, bien que destinées à être mises en circulation en tant que monnaie ayant cours légal, n'ont pas encore été émises.
