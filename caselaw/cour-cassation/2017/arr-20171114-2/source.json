@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171114.2",
+  "ecli": "ECLI:BE:CASS:2017:ARR.20171114.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2017-11-14",
+  "date_as_printed": "Vonnis/arrest van 14 november 2017",
+  "published_on_juportal": "2017-12-04",
+  "language": "nl",
+  "role_number": "P.16.1250.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Formulaire de griefs - Indication d'une demande, d'une exception ou d'une défense par l'appelant - Mission de la juridiction d'appel",
+    "MOTIFS DES JUGEMENTS ET ARRETS - DIVERS",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALLERLEI",
+    "Matière répressive - Refus d'octroyer le sursis ou le sursis probatoire - Motivation - Modalités",
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - DIVERS",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - ALLERLEI",
+    "Refus d'octroyer le sursis ou le sursis probatoire - Motivation - Modalités",
+    "Grievenformulier - Vermelding eis, exceptie of verweer door appellant - Taak appelrechter",
+    "Strafzaken - Weigering uitstel of probatieuitsel - Motivering - Wijze",
+    "Weigering uitstel of probatieuitsel - Motivering - Wijze"
+  ],
+  "fiche": [
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Grievenformulier - Vermelding eis, exceptie of verweer door appellant - Taak appelrechter",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALLERLEI",
+    "Strafzaken - Weigering uitstel of probatieuitsel - Motivering - Wijze",
+    "Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 8, § 1, vierde lid - 30 ELI link Pub nr 1964062906",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - ALLERLEI",
+    "Weigering uitstel of probatieuitsel - Motivering - Wijze",
+    "Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 8, § 1, vierde lid - 30 ELI link Pub nr 1964062906"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20171114.2",
+  "source_sha256": "96b0cc94e87aaccfe0d0a34947cc4954d724867c779eb36155f5970c14ce51c0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2017:ARR.20171114.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
