@@ -1,0 +1,12 @@
+Tout détenteur d'un droit ou d'un titre sur le bien occupé peut introduire, par requête contradictoire ou, en cas d'absolue nécessité, par requête unilatérale déposée au greffe de la justice de paix, une demande d'expulsion de lieux occupés sans droit ni titre.
+La requête contient à peine de nullité:
+1. l'indication des jour, mois et an;
+2. les nom, prénom, profession et domicile du requérant;
+3. sauf en cas d'introduction de la demande par une requête unilatérale, les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite;
+4. l'objet et l'exposé sommaire des moyens de la demande;
+5. la signature du requérant ou de son avocat ou, en cas d'introduction de la demande par une requête unilatérale, la signature de l'avocat.
+En cas d'introduction de la demande par une requête contradictoire, un certificat de domicile de la personne visée à l'alinéa 2, sous le 3 est annexé à la requête. Ce certificat est délivré par l'administration communale.
+En cas d'introduction de la demande par une requête contradictoire, les parties ou, en cas d'introduction de la demande par une requête unilatérale, la partie demanderesse sont convoquées par le greffier, sous pli judiciaire, à comparaître, respectivement dans les huit jours ou dans les deux jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge, sans préjudice de sa possibilité de réduire les délais à la demande d'un avocat ou d'un huissier de justice. En cas d'introduction de la demande par une requête contradictoire, une copie de la requête est annexée à la convocation.
+Lorsque les parties comparaissent, le juge tente de concilier les parties.
+Le juge de paix peut retenir l'affaire à l'audience d'introduction ou la remettre pour qu'elle soit plaidée à une date rapprochée, en fixant la durée des débats. Le jugement indique que les parties n'ont pu être conciliées.
+Par dérogation à l'article 747, en cas d'introduction de la demande d'expulsion par une requête contradictoire, les délais pour conclure sont fixés d'office et à une date rapprochée par le juge de paix à l'audience d'introduction. Les parties font valoir leurs observations au plus tard à l'audience d'introduction.

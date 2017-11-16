@@ -1,0 +1,3 @@
+§ 1er. Lors de la signification de tout jugement d'expulsion visé à l'article 1344decies, l'huissier de justice envoie, sauf opposition conformément au paragraphe 2, après un délai de quatre jours à partir de la signification du jugement, par simple lettre, une copie du jugement au Centre public d'action sociale du lieu où se situe le bien.
+§ 2. La personne dont l'expulsion est ordonnée peut, dans un délai de deux jours à partir de la signification du jugement, manifester son opposition à la communication du jugement au Centre public d'action sociale auprès de l'huissier de justice.
+§ 3. Le Centre publique d'action sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.
