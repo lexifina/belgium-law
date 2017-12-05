@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2017:ARR.20171205.4",
+  "ecli": "ECLI:BE:CASS:2017:ARR.20171205.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2017-12-05",
+  "date_as_printed": "Vonnis/arrest van 05 december 2017",
+  "published_on_juportal": "2017-12-21",
+  "language": "nl",
+  "role_number": "P.17.1167.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "EXTRADITION",
+    "UITLEVERING",
+    "Extradition passive - Etranger placé sous écrou extraditionnel - Demande de liberté provisoire - Procédure - Règles de droit applicables",
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen d'office",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Ambtshalve voorgedragen middel",
+    "Passieve uitlevering - Vreemdeling aangehouden met oog op uitlevering - Verzoek tot voorlopige invrijheidsstelling - Rechtspleging - Toepasselijke rechtsregels"
+  ],
+  "fiche": [
+    "UITLEVERING",
+    "Passieve uitlevering - Vreemdeling aangehouden met oog op uitlevering - Verzoek tot voorlopige invrijheidsstelling - Rechtspleging - Toepasselijke rechtsregels",
+    "Verdrag of internationale overeenkomst - 04-11-1950 - Art. 5.4 - 59 Link Justel databank 19501104-59 Wet - 15-03-1874 - Artt. 3 en 5, vierde lid - 30 ELI link Pub nr 1874031550",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Ambtshalve voorgedragen middel",
+    "Passieve uitlevering - Vreemdeling aangehouden met oog op uitlevering - Verzoek tot voorlopige invrijheidsstelling - Rechtspleging - Toepasselijke rechtsregels",
+    "Verdrag of internationale overeenkomst - 04-11-1950 - Art. 5.4 - 59 Link Justel databank 19501104-59 Wet - 15-03-1874 - Artt. 3 en 5, vierde lid - 30 ELI link Pub nr 1874031550"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2017:ARR.20171205.4",
+  "source_sha256": "e8832f948aa27f8a4f7025b85714e0fdd43522d25b0f92a41ab8befafed9152e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2017:ARR.20171205.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
