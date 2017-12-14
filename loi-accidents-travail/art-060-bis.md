@@ -1,7 +1,7 @@
-§ 1er. Le Fonds des accidents du travail ne peut récupérer des prestations payées indûment que dans les cas et aux conditions visés à l'article 17 de la loi du 10 avril 1995 visant à instituer la charte de l'assuré social.
+§ 1er. Fedris ne peut récupérer des prestations payées indûment que dans les cas et aux conditions visés à l'article 17 de la loi du 10 avril 1995 visant à instituer la charte de l'assuré social.
 La décision de récupération est notifiée par lettre recommandée à la victime ou à l'ayant droit, qui dispose d'un délai de trois mois à compter du troisième jour qui suit le dépôt de la lettre recommandée à la poste pour contester la décision devant le tribunal du travail compétent.
 La décision de récupération ne peut être exécutée qu'après l'expiration de ce délai. Le dépôt de la lettre recommandée à la poste ainsi que tous les actes de recouvrement interrompent la prescription.
 Le Roi définit les mentions que doit comporter la lettre recommandée visée à l'alinéa 2, à défaut desquelles le délai visé a l'alinéa 2 ne commence pas à courir.
-§ 2. Le Roi détermine dans quels cas et dans quelles conditions le Fonds des accidents du travail renonce totalement ou partiellement à la récupération de prestations payées indûment.
-Lorsque l'intéressé a introduit une demande de renonciation, la récupération est suspendue jusqu'à ce que le comité de gestion du Fonds des accidents du travail se soit prononcé sur cette demande.
-§ 3. Sans préjudice de son droit de citer en justice, le Fonds des accidents du travail peut recouvrer les prestations payées indûment dans les conditions et suivant les modalités fixées par le Roi.
+§ 2. Le Roi détermine dans quels cas et dans quelles conditions Fedris renonce totalement ou partiellement à la récupération de prestations payées indûment.
+Lorsque l'intéressé a introduit une demande de renonciation, la récupération est suspendue jusqu'à ce que le comité de gestion des accidents du travail se soit prononcé sur cette demande.
+§ 3. Sans préjudice de son droit de citer en justice, Fedris peut recouvrer les prestations payées indûment dans les conditions et suivant les modalités fixées par le Roi.
