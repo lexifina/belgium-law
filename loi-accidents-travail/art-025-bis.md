@@ -1,1 +1,1 @@
-Pour les accidents survenus avant le 1er janvier 1988, le Fonds des accidents du travail fixe et paie ces indemnités lorsque les aggravations temporaires visées à l'article 25, alinéa 3, se produisent après le délai fixé à l'article 72 en cas d'incapacité permanente de travail d'au moins 10 p.c.
+Pour les accidents survenus avant le 1er janvier 1988, Fedris fixe et paie ces indemnités lorsque les aggravations temporaires visées à l'article 25, alinéa 3, se produisent après le délai fixé à l'article 72 en cas d'incapacité permanente de travail d'au moins 10 p.c.
