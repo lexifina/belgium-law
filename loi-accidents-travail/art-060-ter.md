@@ -1,1 +1,1 @@
-Le Fonds des accidents du travail peut transiger.
+Fedris peut transiger.
