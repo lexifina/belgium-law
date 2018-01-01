@@ -265,9 +265,21 @@ Il s'agit :
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 17, 062; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0009" href="#LNKR0009">Section 2.</a> - Organisation.
+<a name="LNK0009" href="#LNKR0009">Section 1ter.</a> [<sup>1</sup> - Missions pour les marins.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017121717" target="_blank">2017-12-17/17</a>, art. 18, 068; En vigueur : 01-01-2018&gt;
 
-<a name="Art.9" href="#Art.8/7">Art.</a> <a href="#Art.10"> 9</a>. L'Office national de sécurité sociale est un établissement public, doté de la personnalité civile. Il est placé sous la garantie de l'Etat.
+<a name="Art.8/8" href="#Art.8/7">Art.</a> <a href="#LNK0010"> 8/8</a>. [<sup>1</sup> L'Office national de sécurité sociale est chargé des missions prévues aux articles 1 et 1bis de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande et est responsable en particulier pour :
+a) la perception et la répartition des cotisations en matière de sécurité sociale pour le secteur de la marine marchande, prévue par l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande;
+b) la gestion du régime de la capitalisation individuelle des marins de la marine marchande, prévue par la loi du 28 mai 1971 réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré.
+Tant pour les cotisations que pour les majorations et les intérêts, les façons de calcul, de perception, du recouvrement, d'exonération et de prescription sont les mêmes que celles prévues par la présente loi et ses arrêtés d'exécution.
+Pour l'application de cette loi et de ses arrêtés d'exécution, l'armateur, visé à l'article 2, § 1er, 2°, de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, est considéré comme l'employeur.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017121717" target="_blank">2017-12-17/17</a>, art. 19, 068; En vigueur : 01-01-2018&gt;
+
+<a name="LNK0010" href="#LNKR0010">Section 2.</a> - Organisation.
+
+<a name="Art.9" href="#Art.8/8">Art.</a> <a href="#Art.10"> 9</a>. L'Office national de sécurité sociale est un établissement public, doté de la personnalité civile. Il est placé sous la garantie de l'Etat.
 Son organisation et son fonctionnement sont réglés par le Roi.
 
 <a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. La gestion journalière de l'Office national de sécurité sociale est assumée par un administrateur général, assisté d'un administrateur général adjoint.
@@ -283,12 +295,12 @@ Les banques de données ont force probante pour l'application des lois dont le R
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 59, 044; En vigueur : 01-07-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016120122" target="_blank">2016-12-01/22</a>, art. 2, 065; En vigueur : 01-01-2017&gt;
 
-<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0010"> 13</a>. L'Office national de sécurité sociale peut créer un service mécanographique et le mettre à la disposition des organismes visés à l'article 19. Il peut également s'associer avec lesdits organismes en vue de sa création. Les charges du fonctionnement de ce service seront réparties entre ces différents organismes.
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0011"> 13</a>. L'Office national de sécurité sociale peut créer un service mécanographique et le mettre à la disposition des organismes visés à l'article 19. Il peut également s'associer avec lesdits organismes en vue de sa création. Les charges du fonctionnement de ce service seront réparties entre ces différents organismes.
 Cet Office peut également confier l'exécution de travaux mécanographiques à un établissement privé, à condition qu'il dispose auprès cet établissement d'un représentant permanent, chargé de la surveillance régulière des travaux effectués pour son compte. Le Comité de gestion dudit Office désigne, parmi les fonctionnaires dirigeants de celui-ci et avec l'approbation du Ministre qui a la Prévoyance sociale dans ses attributions ce représentant permanent. (...) &lt;L 1996-04-29/32, art. 133, 011; <b> En vigueur : </b> 01-01-1999&gt;
 
-<a name="LNK0010" href="#LNKR0010">CHAPITRE III.</a> - Cotisations de sécurité sociale.
+<a name="LNK0011" href="#LNKR0011">CHAPITRE III.</a> - Cotisations de sécurité sociale.
 
-<a name="LNK0011" href="#LNKR0011">Section 1.</a> - Calcul des cotisations.
+<a name="LNK0012" href="#LNKR0012">Section 1.</a> - Calcul des cotisations.
 
 <a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>.§ 1er. Les cotisations de sécurité sociale sont calculées sur base de la rémunération des travailleurs. Toutefois, le Roi peut, par arrêté délibéré en Conseil des Ministres, élargir ou restreindre la notion ainsi déterminée.
 § 2. La notion de rémunération est déterminée par l'article 2 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs. Toutefois, le Roi peut, par arrêtés délibéré en Conseil des Ministres, élargir ou restreindre la notion ainsi déterminée.
@@ -343,23 +355,23 @@ La cotisation de l'employeur est calculé e sur l'ensemble des rémunérations p
 Lorsque le Roi fait usage de ce pouvoir, il peut par le même arrêté réduire le taux des cotisations dans le calcul desquelles intervient la limite ainsi majorée.) &lt;L 24-12-1974, art. 2, 13°&gt;
 (§ 5. Le Roi peut, par arrêté délibéré en Conseil des ministres, dispenser les employeurs des secteurs qui occupent des travailleurs occasionnels au sens des arrêtés pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, soumis à l'ensemble des régimes visés à l'article 21, § 1er, de la loi du 29 juin 1981 et pour les catégories de travailleurs qu'Il détermine, du versement total ou partiel d'une ou plusieurs cotisations visées au § 2, 1°, de cet article.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042735" target="_blank">2007-04-27/35</a>, art. 43, 031; <b> En vigueur : </b> 01-04-2007&gt;
 
-<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0012"> 18</a>. Pour la détermination du montant des cotisations, les fractions de franc qui n'atteignent pas cinquante centimes sont négligées.
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0013"> 18</a>. Pour la détermination du montant des cotisations, les fractions de franc qui n'atteignent pas cinquante centimes sont négligées.
 Les fractions de franc atteignant ou dépassant cinquante centimes sont comptées pour un franc.
 L'arrondissement au franc supérieur ou inférieur se fait sur le total du montant à verser.
 
-<a name="LNK0012" href="#LNKR0012">Section 2.</a> - Répartition.
+<a name="LNK0013" href="#LNKR0013">Section 2.</a> - Répartition.
 
 <a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>.[<sup>1</sup> L'Office national de sécurité sociale transfère au Service fédéral des Pensions, après perception des frais d'administration [<sup>2</sup> ...]<sup>2</sup> les cotisations perçues en application de l'article 5/2, § 1er. Le Service fédéral des Pensions transfère aux institutions de prévoyance les fonds qui sont destinés au paiement des pensions à charge du Fonds de pension solidarisé des administrations provinciales et locales et qui sont gérées par celles-ci.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 18, 062; En vigueur : 01-01-2017&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 6, 063; En vigueur : 01-01-2017&gt;
 
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0013"> 20</a>.
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0014"> 20</a>.
 &lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 7, 063; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0013" href="#LNKR0013">CHAPITRE IV.</a> - Perception et recouvrement des cotisations.
+<a name="LNK0014" href="#LNKR0014">CHAPITRE IV.</a> - Perception et recouvrement des cotisations.
 
-<a name="LNK0014" href="#LNKR0014">Section Ier.</a> - Déclaration et paiement.
+<a name="LNK0015" href="#LNKR0015">Section Ier.</a> - Déclaration et paiement.
 
 <a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.21bis"> 21</a>. &lt;L 2003-02-24/35, art. 5, 021; <b> En vigueur : </b> 01-01-2003&gt; Tout employeur assujetti est tenu de se faire immatriculer à l'Office national de sécurité sociale et de faire parvenir à ce dernier une déclaration justificative du montant des cotisations dues.
 Cette déclaration est faite au moyen d'un procédé électronique approuvé par l'Office.
@@ -435,7 +447,7 @@ Le Comité de gestion visé à l'alinéa précédent définit les critères obje
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 20, 062; En vigueur : 01-01-2017&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 14, 066; En vigueur : 01-07-2017&gt;
 
-<a name="Art.27bis" href="#Art.27">Art.</a> <a href="#LNK0015"> 27bis</a>. [<sup>1</sup> Le Roi peut, sur avis du Comité de gestion de l'Office précité, élaborer, par un arrêté délibéré en Conseil des Ministres, un baromètre de qualité pour les secrétariats sociaux agréés. Celui-ci constitue un instrument destiné à améliorer la qualité du traitement des données et l'échange des données avec les institutions de sécurité sociale, nécessaires à la bonne gestion de la sécurité sociale, et doit permettre aux secrétariats sociaux agréés de disposer d'un outil leur permettant d'évaluer objectivement leurs performances dans les différents domaines qui font l'objet des contrôles partiels composant le baromètre et les aider à améliorer celles-ci pour autant que de besoin.
+<a name="Art.27bis" href="#Art.27">Art.</a> <a href="#LNK0016"> 27bis</a>. [<sup>1</sup> Le Roi peut, sur avis du Comité de gestion de l'Office précité, élaborer, par un arrêté délibéré en Conseil des Ministres, un baromètre de qualité pour les secrétariats sociaux agréés. Celui-ci constitue un instrument destiné à améliorer la qualité du traitement des données et l'échange des données avec les institutions de sécurité sociale, nécessaires à la bonne gestion de la sécurité sociale, et doit permettre aux secrétariats sociaux agréés de disposer d'un outil leur permettant d'évaluer objectivement leurs performances dans les différents domaines qui font l'objet des contrôles partiels composant le baromètre et les aider à améliorer celles-ci pour autant que de besoin.
 Dans le but d'objectiver le fonctionnement correct des secrétariats sociaux agréés, le baromètre se compose des types de contrôles partiels suivants :
 - contrôles silencieux
 - contrôles techniques
@@ -449,7 +461,7 @@ Le Roi peut, par un arrêté délibéré en Conseil des Ministres, également ap
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009123001" target="_blank">2009-12-30/01</a>, art. 52, 040; En vigueur : 20-02-2017 (AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017020212" target="_blank">2017-02-02/12</a>, art. 10)&gt;
 
-<a name="LNK0015" href="#LNKR0015">Section 2.</a> - Sanctions civiles.
+<a name="LNK0016" href="#LNKR0016">Section 2.</a> - Sanctions civiles.
 
 <a name="Art.28" href="#Art.27bis">Art.</a> <a href="#Art.29"> 28</a>.&lt;L 2005-12-27/30, art. 81, 026; <b> En vigueur : </b> 09-01-2006&gt; § 1er. L'employeur qui ne verse pas les cotisations dans les délais fixés par le Roi est redevable envers l'organisme percepteur des cotisations de sécurité sociale d'une majoration de cotisation et (d'un intérêt de retard fixé à 7 p.c. dont les conditions d'application sont fixées par arrêté royal). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008060830" target="_blank">2008-06-08/30</a>, art. 43, 1°, 035; <b> En vigueur : </b> 01-01-2009&gt;
 La majoration de cotisation ne peut toutefois être supérieure à 10 p.c. des cotisations dues (...). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008060830" target="_blank">2008-06-08/30</a>, art. 43, 2°, 035; <b> En vigueur : </b> 01-01-2009&gt;
@@ -468,13 +480,13 @@ Le Roi détermine également les conditions dans lesquelles l'organisme percepte
 <a name="Art.29bis" href="#Art.29">Art.</a> <a href="#Art.30"> 29bis</a>.
 &lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 5, 058; En vigueur : 01-09-2015&gt;
 
-<a name="Art.30" href="#Art.29bis">Art.</a> <a href="#LNK0016"> 30</a>.&lt;L 1999-01-25/32, art. 66, 016; <b> En vigueur : </b> 16-02-1999&gt; Indépendamment de l'indemnité forfaitaire prévue à l'article 28, § 1erbis, de l'indemnité forfaitaire prévue [<sup>1</sup> à l'article 29]<sup>1</sup>, ainsi que des majorations de cotisations et intérêts de retard prévus à l'article 28, § 1er, alinéa 1er, les mandataires des employeurs qui ne remplissent pas les obligations qui leur incombent en lieu et place de leurs mandants ou qui ne se conforment pas aux dispositions des arrêtés pris en exécution de la présente loi, sont redevables envers l'Office national de Sécurité sociale d'une indemnité forfaitaire dont le montant et les conditions d'application sont fixés par arrêté royal.
+<a name="Art.30" href="#Art.29bis">Art.</a> <a href="#LNK0017"> 30</a>.&lt;L 1999-01-25/32, art. 66, 016; <b> En vigueur : </b> 16-02-1999&gt; Indépendamment de l'indemnité forfaitaire prévue à l'article 28, § 1erbis, de l'indemnité forfaitaire prévue [<sup>1</sup> à l'article 29]<sup>1</sup>, ainsi que des majorations de cotisations et intérêts de retard prévus à l'article 28, § 1er, alinéa 1er, les mandataires des employeurs qui ne remplissent pas les obligations qui leur incombent en lieu et place de leurs mandants ou qui ne se conforment pas aux dispositions des arrêtés pris en exécution de la présente loi, sont redevables envers l'Office national de Sécurité sociale d'une indemnité forfaitaire dont le montant et les conditions d'application sont fixés par arrêté royal.
 (Le Roi détermine également les conditions dans lesquelles l'Office national de sécurité sociale peut accorder au mandataire de l'employeur l'exonération ou la réduction de l'indemnité forfaitaire visée à l'alinéa 1er.) &lt;L 2003-12-22/42, art. 243, 022; <b> En vigueur : </b> 01-01-2004&gt;
 [<sup>1</sup> Le recours contre cette décision de l'Office national de Sécurité sociale concernant l'exonération ou la réduction doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 6, 058; En vigueur : 01-09-2015; voir aussi L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 9&gt;
 
-<a name="LNK0016" href="#LNKR0016">Section 2bis.</a> - &lt;L 04-08-1978, art. 61&gt; Paiement par un responsable solidaire.
+<a name="LNK0017" href="#LNKR0017">Section 2bis.</a> - &lt;L 04-08-1978, art. 61&gt; Paiement par un responsable solidaire.
 
 <a name="Art.30bis" href="#Art.30">Art.</a> <a href="#Art.30ter"> 30bis</a>.&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042735" target="_blank">2007-04-27/35</a>, art. 55, 031; <b> En vigueur : </b> 01-01-2008&gt; § 1er. Pour l'application du présent article, il faut entendre par :
 1° [<sup>7</sup> travaux :
@@ -605,11 +617,11 @@ Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 pe
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 8, 058; En vigueur : 01-09-2015; voir aussi L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 9&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 39, 059; En vigueur : 01-07-2015&gt;
 
-<a name="Art.30quater" href="#Art.30ter">Art.</a> <a href="#LNK0017"> 30quater</a>. &lt;L 1990-12-29/30, art. 14, 006; <b> En vigueur : </b> indéterminée &gt; § 1. Sans préjudice des obligations imposées par cette loi a tout employeur, la personne qui, en vue d'échapper à l'assujettissement à la sécurité sociale des travailleurs salariés, a adhéré à tort en qualité d'associé actif d'une société coopérative au statut social des travailleurs indépendants, institué par l'arrêté royal n° 38 du 27 juillet 1967, est solidairement responsable du paiement de la part personnelle dans les cotisations de sécurité sociale augmentée des majorations et des intérêts qui ont trait aux activités exercées par elle durant l'adhésion au statut social précité des travailleurs indépendants.
+<a name="Art.30quater" href="#Art.30ter">Art.</a> <a href="#LNK0018"> 30quater</a>. &lt;L 1990-12-29/30, art. 14, 006; <b> En vigueur : </b> indéterminée &gt; § 1. Sans préjudice des obligations imposées par cette loi a tout employeur, la personne qui, en vue d'échapper à l'assujettissement à la sécurité sociale des travailleurs salariés, a adhéré à tort en qualité d'associé actif d'une société coopérative au statut social des travailleurs indépendants, institué par l'arrêté royal n° 38 du 27 juillet 1967, est solidairement responsable du paiement de la part personnelle dans les cotisations de sécurité sociale augmentée des majorations et des intérêts qui ont trait aux activités exercées par elle durant l'adhésion au statut social précité des travailleurs indépendants.
 § 2. Le Roi peut exclure certaines catégories de personnes du champ d'application du § 1er.
 § 3. Le Roi détermine la date d'entree en vigueur de la présente disposition.
 
-<a name="LNK0017" href="#LNKR0017">Section 3.</a> - Surveillance.
+<a name="LNK0018" href="#LNKR0018">Section 3.</a> - Surveillance.
 
 <a name="Art.31" href="#Art.30quater">Art.</a> <a href="#Art.32"> 31</a>.[<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
 Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
@@ -624,9 +636,9 @@ Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du C
 
 <a name="Art.33" href="#Art.32bis">Art.</a> <a href="#Art.34"> 33</a>. (abrogé) &lt;L 1989-12-22/31, art. 233, 005; <b> En vigueur : </b> 09-01-1990&gt;
 
-<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0018"> 34</a>. (abrogé) &lt;L 1989-12-22/31, art. 233, 005; <b> En vigueur : </b> 09-01-1990&gt;
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0019"> 34</a>. (abrogé) &lt;L 1989-12-22/31, art. 233, 005; <b> En vigueur : </b> 09-01-1990&gt;
 
-<a name="LNK0018" href="#LNKR0018">Section 4.</a> - Sanctions pénales.
+<a name="LNK0019" href="#LNKR0019">Section 4.</a> - Sanctions pénales.
 
 <a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>.[<sup>2</sup> abrogé]<sup>2</sup>
 ----------
@@ -645,11 +657,11 @@ Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du C
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
 
-<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0019"> 39</a>.[<sup>1</sup> abrogé]<sup>1</sup>
+<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0020"> 39</a>.[<sup>1</sup> abrogé]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010060606" target="_blank">2010-06-06/06</a>, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
 
-<a name="LNK0019" href="#LNKR0019">Section 5.</a> - Recouvrement.
+<a name="LNK0020" href="#LNKR0020">Section 5.</a> - Recouvrement.
 
 <a name="Art.40" href="#Art.39">Art.</a> <a href="#Art.40bis"> 40</a>.[<sup>1</sup> § 1er. L'Office national de sécurité sociale procède au recouvrement des sommes qui lui sont dues par voie de contrainte, sans préjudice de son droit de citer devant le juge.
 § 2. Les cotisations, majorations de cotisations, intérêts de retard, les indemnités forfaitaires y compris les majorations et sommes visées aux articles 30bis et 30ter peuvent être recouvrés par voie de contrainte à partir du moment où est rendu exécutoire le rôle spécial auquel ils sont mentionnés.
@@ -691,12 +703,12 @@ Cette responsabilité personnelle et solidaire peut être étendue aux autres di
 L'organisme de perception intente l'action en responsabilité personnelle et solidaire des dirigeants visée aux alinéas précédents devant le tribunal compétent.
 Pour le recouvrement de ces sommes dues, l'organisme de perception peut faire usage des modalités de recouvrement telles que prevues à l'article 40.
 
-<a name="Art.40quater" href="#Art.40ter">Art.</a> <a href="#LNK0020"> 40quater</a>. [<sup>1</sup> A défaut de paiement dans le délai fixé, les cotisations, les majorations de cotisations, les intérêts de retard, les indemnités forfaitaires et les cotisations à la suite de régularisation, dues à l'Office, peuvent être prélevés d'office, selon les modalités fixées par le Roi, du compte des administrations provinciales et locales affiliées ouvert auprès des institutions suivantes : BELFIUS, BNP PARIBAS FORTIS, bpost et la Banque Nationale de Belgique, successivement dans l'ordre précité.
+<a name="Art.40quater" href="#Art.40ter">Art.</a> <a href="#LNK0021"> 40quater</a>. [<sup>1</sup> A défaut de paiement dans le délai fixé, les cotisations, les majorations de cotisations, les intérêts de retard, les indemnités forfaitaires et les cotisations à la suite de régularisation, dues à l'Office, peuvent être prélevés d'office, selon les modalités fixées par le Roi, du compte des administrations provinciales et locales affiliées ouvert auprès des institutions suivantes : BELFIUS, BNP PARIBAS FORTIS, bpost et la Banque Nationale de Belgique, successivement dans l'ordre précité.
 L'arrêté royal n° 286 du 31 mars 1984 portant des mesures en vue d'améliorer la perception des cotisations de sécurité sociale et de solidarité est également d'application en ce qui concerne les montants dus à l'Office.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 21, 062; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0020" href="#LNKR0020">Section 6.</a> - (Privilèges et droits des organismes percepteurs de cotisations de sécurité sociale en matière de recouvrement) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005070346" target="_blank">2005-07-03/46</a>, art. 45, 025; <b> En vigueur : </b> 23-02-2007&gt;
+<a name="LNK0021" href="#LNKR0021">Section 6.</a> - (Privilèges et droits des organismes percepteurs de cotisations de sécurité sociale en matière de recouvrement) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005070346" target="_blank">2005-07-03/46</a>, art. 45, 025; <b> En vigueur : </b> 23-02-2007&gt;
 
 <a name="Art.41" href="#Art.40quater">Art.</a> <a href="#Art.41bis"> 41</a>. &lt;Disposition modificative.&gt;
 
@@ -765,7 +777,7 @@ Le certificat est soit délivré soit refusé dans un délai de trente jours à 
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013052715" target="_blank">2013-05-27/15</a>, art. 48, 047; En vigueur : 01-08-2013&gt;
 
-<a name="Art.41sexies" href="#Art.41quinquies">Art.</a> <a href="#LNK0021"> 41sexies</a>. [<sup>1</sup> § 1er. Les notaires requis de dresser un acte ou un certificat d'hérédité visé à l'article 1240bis du Code civil, sont personnellement responsables du paiement des dettes dont la débition est susceptible d'être notifiée conformément au paragraphe 5, qui sont dues par le de cujus, ses héritiers et légataires dont l'identité est mentionnée dans l'acte ou le certificat, ou les bénéficiaires d'une institution contractuelle consentie par le de cujus, s'ils n'en avisent pas par avis les organismes percepteurs de cotisations de sécurité sociale :
+<a name="Art.41sexies" href="#Art.41quinquies">Art.</a> <a href="#LNK0022"> 41sexies</a>. [<sup>1</sup> § 1er. Les notaires requis de dresser un acte ou un certificat d'hérédité visé à l'article 1240bis du Code civil, sont personnellement responsables du paiement des dettes dont la débition est susceptible d'être notifiée conformément au paragraphe 5, qui sont dues par le de cujus, ses héritiers et légataires dont l'identité est mentionnée dans l'acte ou le certificat, ou les bénéficiaires d'une institution contractuelle consentie par le de cujus, s'ils n'en avisent pas par avis les organismes percepteurs de cotisations de sécurité sociale :
 1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la Sécurité sociale;
 2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
 S'agissant de dettes dans le chef du de cujus, la responsabilité visée à l'alinéa 1er est limitée à la valeur de la succession.
@@ -801,9 +813,9 @@ Ces données doivent être conservées par l'expéditeur pendant une période de
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 35, 045; En vigueur : 01-07-2012&gt;
 
-<a name="LNK0021" href="#LNKR0021">Section 7.</a> - Prescription.
+<a name="LNK0022" href="#LNKR0022">Section 7.</a> - Prescription.
 
-<a name="Art.42" href="#Art.41sexies">Art.</a> <a href="#LNK0022"> 42</a>.(Les créances de l'Office national de sécurite sociale à charge des employeurs assujettis à la présente loi et des personnes visées [<sup>2</sup> aux articles 30bis et 30ter]<sup>2</sup>, se prescrivent par trois ans à partir de la date d'exigibilité des créances visées. Par dérogation à ce qui précède, le délai de prescription est porté à sept ans, si les créances de l'Office précite font suite à des régularisations d'office à la suite de la constatation, dans le chef de l'employeur, de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes.
+<a name="Art.42" href="#Art.41sexies">Art.</a> <a href="#LNK0023"> 42</a>.(Les créances de l'Office national de sécurite sociale à charge des employeurs assujettis à la présente loi et des personnes visées [<sup>2</sup> aux articles 30bis et 30ter]<sup>2</sup>, se prescrivent par trois ans à partir de la date d'exigibilité des créances visées. Par dérogation à ce qui précède, le délai de prescription est porté à sept ans, si les créances de l'Office précite font suite à des régularisations d'office à la suite de la constatation, dans le chef de l'employeur, de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes.
 Les actions intentées contre l'Office national de sécurité sociale en répétition de cotisations indues se prescrivent par trois ans à partir de la date du paiement.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122232" target="_blank">2008-12-22/32</a>, art. 74, 1°, 038; <b> En vigueur : </b> 01-01-2009&gt;
 (Les créances des organismes percepteurs des cotisations de sécurité sociale à charge des employeurs qui occupent des travailleurs payés par le service central des dépenses fixes, institue par l'arrêté royal du 13 mars 1952 organisant [<sup>8</sup> le Service public fédéral Stratégie et Appui, en ce qui concerne ses missions prévues à l'article 2, alinéa 1er, 10°, de l'arrêté royal du 22 février 2017 portant création du Service public fédéral Stratégie et Appui]<sup>8</sup> [<sup>3</sup> ou par P&amp;O Shared Service Center, institué par l'arrêté royal du 25 avril 2014 portant création de la direction générale P&amp;O Shared Service Center au sein du Service public fédéral Personnel et Organisation]<sup>3</sup>, se prescrivent par 7 ans.) &lt;L 2005-12-27/30, art. 93, 1°, 026; <b> En vigueur : </b> 09-01-2006&gt;
 (En cas d'assujettissement frauduleux à la sécurité sociale des travailleurs salariés, l'Office précité dispose d'un délai de sept ans à compter du premier jour du trimestre qui suit celui au cours duquel l'infraction a eu lieu pour procéder à l'annulation de ces assujettissements frauduleux ou à l'assujettissement d'office auprès de l'employeur réel. Conformément à l'alinéa 2, la restitution éventuelle de cotisations porte au maximum sur une période de trois ans.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122232" target="_blank">2008-12-22/32</a>, art. 74, 2°, 038; <b> En vigueur : </b> 01-01-2009&gt;
@@ -824,23 +836,23 @@ Les actions intentées contre l'Office national de sécurité sociale en répét
 (<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 9, 063; En vigueur : 01-01-2017&gt;
 (<font color="red">8</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 39, 066; En vigueur : 01-03-2017&gt;
 
-<a name="LNK0022" href="#LNKR0022">CHAPITRE V.</a> - Dispositions générale.
+<a name="LNK0023" href="#LNKR0023">CHAPITRE V.</a> - Dispositions générale.
 
-<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0023"> 43</a>. Lorsqu'une rémunération est payée à un travailleur à l'intervention d'un tiers, le Roi peut édicter des règles particulières dérogatoires aux articles 15 et 23, §§ 1er et 2. Il peut également considérer ce tiers comme employeur pour la réception et le recouvrement des cotisations dues.
+<a name="Art.43" href="#Art.42">Art.</a> <a href="#LNK0024"> 43</a>. Lorsqu'une rémunération est payée à un travailleur à l'intervention d'un tiers, le Roi peut édicter des règles particulières dérogatoires aux articles 15 et 23, §§ 1er et 2. Il peut également considérer ce tiers comme employeur pour la réception et le recouvrement des cotisations dues.
 
-<a name="LNK0023" href="#LNKR0023">CHAPITRE Vbis.</a> - [<sup>1</sup> Dispositions diverses budgétaires]<sup>1</sup>
+<a name="LNK0024" href="#LNKR0024">CHAPITRE Vbis.</a> - [<sup>1</sup> Dispositions diverses budgétaires]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 23, 062; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0024" href="#LNKR0024">Section 1re.</a> - [<sup>1</sup> Missions générales]<sup>1</sup>
+<a name="LNK0025" href="#LNKR0025">Section 1re.</a> - [<sup>1</sup> Missions générales]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 24, 062; En vigueur : 01-01-2017&gt;
 
-<a name="Art.43/1" href="#Art.43">Art.</a> <a href="#LNK0025"> 43/1</a>. [<sup>1</sup> Les autres ressources de l'Office national de sécurité sociale sont constituées par toutes les autres recettes liées à ses missions et à sa gestion.]<sup>1</sup>
+<a name="Art.43/1" href="#Art.43">Art.</a> <a href="#LNK0026"> 43/1</a>. [<sup>1</sup> Les autres ressources de l'Office national de sécurité sociale sont constituées par toutes les autres recettes liées à ses missions et à sa gestion.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 25, 062; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0025" href="#LNKR0025">Section 2.</a> - [<sup>1</sup> Missions en matière de sécurité sociale d'outre-mer et autres missions spécifiques visées à la section 1bis du chapitre II.]<sup>1</sup>
+<a name="LNK0026" href="#LNKR0026">Section 2.</a> - [<sup>1</sup> Missions en matière de sécurité sociale d'outre-mer et autres missions spécifiques visées à la section 1bis du chapitre II.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 26, 062; En vigueur : 01-01-2017&gt;
 
@@ -851,14 +863,14 @@ Les fonds mentionnés ci-avant conservent leur destination. Leur actif au 31 dé
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 27, 062; En vigueur : 01-01-2017&gt;
 
-<a name="Art.43/3" href="#Art.43/2">Art.</a> <a href="#LNK0026"> 43/3</a>. [<sup>1</sup> L'Office national de sécurité sociale reçoit annuellement les subventions suivantes :
+<a name="Art.43/3" href="#Art.43/2">Art.</a> <a href="#LNK0027"> 43/3</a>. [<sup>1</sup> L'Office national de sécurité sociale reçoit annuellement les subventions suivantes :
 1) les subventions visées aux articles 10 à 14 de la loi du 6 mai 2002 portant création du Fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale;
 2) la subvention visée à l'article 154, § 2, de la loi du 22 février 1998 portant des dispositions sociales;
 3) la prise en charge visée à l'article 58 de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer. ]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 28, 062; En vigueur : 01-01-2017&gt;
 
-<a name="LNK0026" href="#LNKR0026">CHAPITRE VI.</a> - Dispositions diverses.
+<a name="LNK0027" href="#LNKR0027">CHAPITRE VI.</a> - Dispositions diverses.
 
 <a name="Art.44" href="#Art.43/3">Art.</a> <a href="#Art.45"> 44</a>. § 1er. Les prestations fournies en tout ou en partie à l'aide des ressources de l'Office national de sécurité sociale [<sup>2</sup> ...]<sup>2</sup> sont soumises aux dispositions suivantes: &lt;AR 1989-10-11/32, art. 1, 004; <b> En vigueur : </b> 01-01-1986&gt;
 1° quel que soit le régime matrimonial, la travailleuse mariée dispose des prestations qui lui sont dues, comme de son salaire, ainsi qu'il est prévu par les lois relatives aux contrats de louage de travail;
@@ -885,9 +897,9 @@ Dans les entreprises qui occupent plus de vingt travailleurs, ces avantages doiv
 
 <a name="Art.48" href="#Art.47">Art.</a> <a href="#Art.49"> 48</a>. &lt;Disposition modificative.&gt;
 
-<a name="Art.49" href="#Art.48">Art.</a> <a href="#LNK0027"> 49</a>. Le Roi peut modifier les dispositions légales existantes afin de les mettre en concordance avec les dispositions de la présente loi et de ses arrêtés d'exécution.
+<a name="Art.49" href="#Art.48">Art.</a> <a href="#LNK0028"> 49</a>. Le Roi peut modifier les dispositions légales existantes afin de les mettre en concordance avec les dispositions de la présente loi et de ses arrêtés d'exécution.
 
-<a name="LNK0027" href="#LNKR0027">CHAPITRE VII.</a> - Dispositions transitoires et finales.
+<a name="LNK0028" href="#LNKR0028">CHAPITRE VII.</a> - Dispositions transitoires et finales.
 
 <a name="Art.50" href="#Art.49">Art.</a> <a href="#Art.51"> 50</a>. &lt;Disposition abrogatoire.&gt;
 
