@@ -5,4 +5,4 @@
 4° imposer l'emploi d'une dénomination déterminée pour les biens qui sont mis sur le marché;
 5° imposer l'adjonction aux dénominations sous lesquelles des biens sont mis sur le marché, de signes, de mots ou de locutions destinés à en préciser le sens;
 6° interdire l'adjonction de certains signes, mots ou locutions aux dénominations sous lesquelles des biens sont mis sur le marché.
-§ 2. Avant de proposer un arrêté en application du précédent paragraphe, le ministre consulte le Conseil de la consommation et le Conseil supérieur des indépendants et des P.M.E. et fixe le délai raisonnable dans lequel l'avis doit être donné. Passé ce délai, l'avis n'est plus requis.
+§ 2. Avant de proposer un arrêté en application du précédent paragraphe, le ministre consulte la Commission consultative spéciale Consommation et le Conseil supérieur des indépendants et des P.M.E. et fixe le délai raisonnable dans lequel l'avis doit être donné. Passé ce délai, l'avis n'est plus requis.
