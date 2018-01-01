@@ -1,3 +1,4 @@
-§ 1er. Les sociétés de gestion établies en Belgique transmettent au Service de contrôle une copie de l'état comptable remis chaque semestre aux commissaires conformément à l'article 137, § 2, alinéa 3 du Code des Sociétés.
-Les sociétés de gestion établies dans un autre Etat membre de l'Union européenne transmettent au Service de contrôle au moins chaque semestre un état comptable relatif aux activités de leurs succursales établies en Belgique et établi selon le schéma du bilan et du compte de résultats.
-§ 2. Les sociétés de gestion transmettent au Service de contrôle une fois par an une version coordonnée et à jour de leurs règles de tarification, de perception et de répartition des droits.
+Après concertation avec les sociétés de gestion, les organisations représentant les débiteurs de droits et les organisations représentant les consommateurs siégeant au sein du comité de concertation institué par l'article XI.282, le Roi fixe:
+1° les informations minimales que doivent contenir les documents relatifs à la perception des droits qui sont portés à la connaissance du public par les sociétés de gestion, sans préjudice d'autres dispositions légales;
+2° les informations minimales que doivent contenir les factures émanant des sociétés de gestion sans préjudice d'autres dispositions légales.
+Le Roi peut différencier les informations minimales visées à l'alinéa 1er, 1° et 2° en fonction des droits concernés.

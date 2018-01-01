@@ -1,19 +1,22 @@
 § 1er. Il est créé un fonds organique pour la transparence du droit d'auteur et des droits voisins.
 Les recettes affectées au fonds visé à l'alinéa 1er, ainsi que les dépenses qui peuvent être affectées à sa charge sont mentionnées en regard dudit fonds au tableau annexé à la loi organique du 27 décembre 1990 créant des fonds budgétaires.
-§ 2. Pour alimenter le fonds visé au paragraphe 1er et selon les modalités fixées par le Roi, toute société de gestion est tenue de payer une contribution annuelle.
-En cas de retrait d'autorisation en application du présent titre, la société de gestion reste soumise à l'obligation de contribution jusqu'au 31 décembre de l'année au cours de laquelle la décision de retrait entre en vigueur.
+§ 2. Pour alimenter le fonds visé au paragraphe 1er et selon les modalités fixées par le Roi, les sociétés de gestion, les organismes de gestion collective visés à l'article XI.246, § 1er, alinéa 2, les entités de gestion indépendante visées à l'article XI.246, § 1er, alinéas 3 et 4, sont tenus de payer une contribution annuelle.
+En cas de retrait d'autorisation en application du livre XV, la société de gestion et l'organisme de gestion collective restent soumis à l'obligation de contribution jusqu'au 31 décembre de l'année au cours de laquelle la décision de retrait entre en vigueur.
+En cas de radiation à la Banque Carrefour des entreprises de son siège social ou de sa succursale, l'entité de gestion indépendante reste soumise à l'obligation de contribution jusqu'au 31 décembre de l'année au cours de laquelle la radiation a lieu.
 La contribution est due de façon unique et indivisible.
-§ 3. La contribution de chaque société est calculée sur la base des droits d'auteur et des droits voisins qu'elle perçoit sur le territoire national et sur la base des droits d'auteur et des droits voisins qu'elle perçoit à l'étranger pour le compte de personnes résidant sur le territoire national.
-§ 4. La contribution due par chaque société de gestion des droits consiste en un pourcentage de la base de calcul définie au paragraphe 3.
-Ce pourcentage doit répondre aux conditions suivantes:
-1° sans préjudice de l'alinéa 3, être identique pour toutes les sociétés de gestion des droits;
-2° permettre au produit total des contributions de couvrir l'ensemble des frais résultant du contrôle exercé en vertu du présent chapitre;
-3° ne pas excéder 0,4 % de la base de calcul définie au § 3.
-Le Roi détermine le pourcentage de la base de calcul répondant aux conditions visées à l'alinéa précédent.
-Le pourcentage ne peut pas excéder 0,1 % de la base de calcul définie au paragraphe 3, pour la contribution due par les sociétés de gestion représentatives de l'ensemble des sociétés de gestion des droits, désignées par le Roi en application des articles XI.229, alinéa 5, XI.239, alinéa 7, XI.242, alinéa 3, et XI.244, alinéa 4, pour ce qui est des droits à rémunérations, perçus par ces sociétés, visés respectivement aux articles XI.229, XI.235, XI.236, XI.240 et XI.243.
-§ 5. Ne sont pas compris dans la base de calcul définie au paragraphe 3, les droits perçus par des sociétés de gestion pour autant que:
+§ 3. La contribution de chaque société de gestion, organisme de gestion collective et entité de gestion indépendante, visée au paragraphe 2, est calculée sur la base des droits d'auteur et des droits voisins qu'elle ou il perçoit sur le territoire national et sur la base des droits d'auteur et des droits voisins qu'elle ou il perçoit à l'étranger pour le compte de personnes résidant sur le territoire national.
+§ 4. La contribution due par chaque société de gestion, organisme de gestion collective et entité de gestion indépendante, visée au paragraphe 2, consiste en un pourcentage de la base de calcul définie au paragraphe 3.
+Sans préjudice de l'alinéa 3, le pourcentage doit répondre aux conditions suivantes:
+1° être identique pour toutes les sociétés de gestion;
+2° être identique pour tous les organismes de gestion collective visés à l'article XI.246, § 1er, alinéa 2;
+3° être identique pour toutes les entités de gestion indépendante visées à l'article XI.246, § 1er, alinéas 3 et 4;
+4° permettre au produit total des contributions de couvrir l'ensemble des frais résultant du contrôle exercé en vertu du présent chapitre;
+5° ne pas excéder 0,4 % de la base de calcul définie au paragraphe 3.
+Le Roi détermine le pourcentage de la base de calcul répondant aux conditions visées à l'alinéa précédent. Ce pourcentage peut être différent pour les sociétés de gestion, les organismes de gestion collective et les entités de gestion indépendante.
+Le pourcentage ne peut pas excéder 0,1 % de la base de calcul définie au paragraphe 3, pour la contribution due par les sociétés de gestion représentatives de l'ensemble des sociétés de gestion et des organismes de gestion collective, désignées par le Roi en application des articles XI.229, alinéa 5, XI.239, alinéa 8, XI.242, alinéa 3, et XI.244, alinéa 4, pour ce qui est des droits à rémunérations, perçus par ces sociétés, visés respectivement aux articles XI.229, XI.235, XI.236, XI.240 et XI.243.
+§ 5. Ne sont pas compris dans la base de calcul définie au paragraphe 3, les droits perçus par des sociétés de gestion, des organismes de gestion collective ou des entités de gestion indépendante visés au § 2 pour autant que:
 1° ces droits se rapportent exclusivement à des actes d'exploitation accomplis à l'étranger;
-2° ces droits doivent intégralement être reversés, le cas échéant après prélèvement d'une commission de gestion, par la société de gestion ayant le siège de son activité économique ou une succursale en Belgique à une ou plusieurs sociétés de gestion ayant le siège de leur activité économique à l'étranger, et
-3° seules la ou les sociétés de gestion visées au 2° qui ont le siège de leur activité économique à l'étranger effectuent la répartition de ces droits.
+2° ces droits doivent intégralement être reversés, le cas échéant après prélèvement d'une commission de gestion, par la société de gestion, l'organisme de gestion collective visé à l'article XI.246, § 1er, alinéa 2 ou l'entité de gestion indépendante visée à l'article XI.246, § 1er, alinéas 3 et 4, à un ou plusieurs sociétés de gestion, organismes de gestion collective ou entités de gestion indépendante à l'étranger; et,
+3° seuls la ou les sociétés de gestion, organismes de gestion collective et entités de gestion indépendante visés au 2° qui sont établis à l'étranger, effectuent la répartition de ces droits.
 § 6. Le fonds organique peut présenter un déficit pour autant que dans le courant du même exercice budgétaire cette situation soit apurée en fonction des recettes réalisées de façon à ce que l'exercice budgétaire puisse être clôturé avec un solde positif.
 § 7. Sans préjudice des autres sanctions prévues par le présent Code, le ministre des Finances peut charger à la demande du ministre, le Service public fédéral Finances du recouvrement des contributions dont le paiement est resté en souffrance.
