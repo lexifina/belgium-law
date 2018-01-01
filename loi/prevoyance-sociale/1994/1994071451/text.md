@@ -622,15 +622,17 @@ Le comité émet, sur demande du Conseil technique médical ou du Ministre, un a
 
 <a name="LNK0019" href="#LNKR0019">Section IXbis.</a> &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2001081049" target="_blank">2001-08-10/49</a>, art. 8; <b> En vigueur : </b> 01-01-2002&gt; Commission de remboursement des médicaments
 
-<a name="Art.29bis" href="#Art.29">Art.</a> <a href="#LNK0020"> 29bis</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2001081049" target="_blank">2001-08-10/49</a>, art. 8; <b> En vigueur : </b> 01-01-2002&gt; Il est créé au sein de l'Institut une Commission de remboursement des médicaments.
+<a name="Art.29bis" href="#Art.29">Art.</a> <a href="#LNK0020"> 29bis</a>.&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2001081049" target="_blank">2001-08-10/49</a>, art. 8; <b> En vigueur : </b> 01-01-2002&gt; Il est créé au sein de l'Institut une Commission de remboursement des médicaments.
 Cette Commission est composée d'experts qui travaillent dans une institution universitaire, de représentants des organismes assureurs, des organisations professionnelles des médecins et des pharmaciens, de représentants représentatifs de l'industrie du médicament et de représentants du ministre, du ministre ayant la Santé publique dans ses attributions, du ministre qui a les Affaires économiques dans ses attributions (, du ministre qui a le budget dans ses attributions en tant qu'observateur) et du (Service d'évaluation et de contrôle médicaux), qui y sont représentés dans les conditions à fixer par le Roi. Les représentants de l'industrie du médicament, du ministre, du ministre ayant la Santé publique dans ses attributions, du ministre qui a les Affaires économiques dans ses attributions (, du ministre qui a le budget dans ses attributions en tant qu'observateur) et du (Service d'évaluation et de contrôle médicaux) ont voix consultative. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2002122432" target="_blank">2002-12-24/32</a>, art. 33, 075; <b> En vigueur : </b> 15-02-2003&gt; &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006122730" target="_blank">2006-12-27/30</a>, art. 223, 124; <b> En vigueur : </b> 07-01-2007&gt;
-(La présidence de la Commission est assurée par un expert dans le domaine des médicaments, désigné pour une période de maximum 6 ans renouvelable par le Ministre qui a les affaires sociales dans ses attributions parmi les experts qui travaillent dans une institution universitaire. Cette fonction peut s'exercer soit à temps plein, soit à temps partiel.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005122731" target="_blank">2005-12-27/31</a>, art. 87, 116; <b> En vigueur : </b> 09-01-2006&gt;
+(La présidence de la Commission est assurée par un expert dans le domaine des médicaments, [<sup>1</sup> qui travaille dans une institution universitaire, désigné pour une période de maximum 6 ans renouvelable par le Roi]<sup>1</sup>. Cette fonction peut s'exercer soit à temps plein, soit à temps partiel.) [<sup>1</sup> Le président a le droit de vote.]<sup>1</sup> &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005122731" target="_blank">2005-12-27/31</a>, art. 87, 116; <b> En vigueur : </b> 09-01-2006&gt;
 La Commission de remboursement des médicaments est chargée :
 1° de formuler des propositions et d'exécuter les missions visées à l'article 35bis;
 2° de donner des avis, à la demande du ministre, sur les aspects de la politique en matière de remboursement des spécialités pharmaceutiques;
 3° de formuler au Comité de l'assurance des propositions de règles interprétatives concernant le remboursement de spécialités pharmaceutiques.
 (4° de formuler des propositions concernant les modalités de remboursement pour les médicaments visés à l'article 34, alinéa 1er, 5°, d).) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2003122242" target="_blank">2003-12-22/42</a>, art. 100, 089; <b> En vigueur : </b> 10-01-2004&gt;
 Le Roi détermine, sur la proposition du ministre, la composition détaillée et les règles de fonctionnement de la Commission. Les membres de la Commission sont nommés par le Roi.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121802" target="_blank">2016-12-18/02</a>, art. 4, 243; En vigueur : 31-12-2017&gt;
 
 <a name="LNK0020" href="#LNKR0020">Section IXter.</a> - De la Commission de remboursement des implants et des dispositifs médicaux invasifs &lt;Insérée par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006121335" target="_blank">2006-12-13/35</a>, art. 50; <b> En vigueur : </b> 01-03-2007&gt;
 
@@ -1404,7 +1406,8 @@ Ces tabacologues doivent être soit des licenciés en psychologie, soit des prof
 (<font color="red">23</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016062203" target="_blank">2016-06-22/03</a>, art. 20, 238; En vigueur : 01-07-2016&gt;
 (<font color="red">24</font>)&lt;DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071517" target="_blank">2016-07-15/17</a>, art. 4, 242; En vigueur : 01-01-2017&gt;
 
-<a name="Art.37bis" href="#Art.37_REGION_FLAMANDE">Art.</a> <a href="#Art.37ter"> 37bis</a>.&lt;Inséré par L 1994-12-21/31, art. 24; <b> En vigueur : </b> 01-10-1993 et 01-01-1994&gt; § 1er. L'intervention personnelle du bénéficiaire, à l'exception [<sup>16</sup> du bénéficiaire de l'intervention majorée de l'assurance prévue à l'article 37, § 19]<sup>16</sup>, dans les honoraires pour certaines prestations visées à l'annexe à arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, est fixée comme suit : &lt;AR 1997-04-16/33, art. 4, 024; <b> En vigueur : </b> 01-07-1997&gt;
+<a name="Art.37bis" href="#Art.37_REGION_FLAMANDE">Art.</a> <a href="#Art.37ter"> 37bis</a>.&lt;Inséré par L 1994-12-21/31, art. 24; <b> En vigueur : </b> 01-10-1993 et 01-01-1994&gt;
+§ 1er. L'intervention personnelle du bénéficiaire, à l'exception [<sup>16</sup> du bénéficiaire de l'intervention majorée de l'assurance prévue à l'article 37, § 19]<sup>16</sup>, dans les honoraires pour certaines prestations visées à l'annexe à arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, est fixée comme suit : &lt;AR 1997-04-16/33, art. 4, 024; <b> En vigueur : </b> 01-07-1997&gt;
 A. ([<sup>14</sup> pour les consultations du [<sup>20</sup> médecin généraliste]<sup>20</sup> et pour les suppléments d'urgence, visés [<sup>20</sup> à l'article 2]<sup>20</sup> de ladite annexe, l'intervention personnelle des bénéficiaires est fixée comme suit :
 1° 6,00 euros pour les prestations désignées par les numéros d'ordre 101010, 101032, 101054 et 101076;
 2° [<sup>20</sup> ...]<sup>20</sup>
@@ -1451,7 +1454,7 @@ La Commission nationale médico-mutualiste peut communiquer des instructions adm
 [<sup>9</sup> [<sup>20</sup> Toutefois, la diminution de l'intervention personnelle visée à l'alinéa précédent, ne s'applique pas pour les visites désignées par les numéros d'ordre 103110, 103213 et 103235 effectuées au(x) bénéficiaire(s) dans une maison de repos pour personnes âgées ou une maison de repos et de soins.]<sup>20</sup> ]<sup>9</sup>
 Les bénéficiaires qui conformément à l'article 2, A, précité, satisfont aux conditions fixées pour l'attestation [<sup>11</sup> des prestations 102771 et 102395]<sup>11</sup>, ne doivent pas payer d'intervention personnelle dans les honoraires en question.] [<sup>11</sup> Néanmoins, la suppression de l'intervention personnelle dans les honoraires de la prestation 102395 n'est autorisée que durant une période d'essai prédéterminée, de durée limitée, à savoir du 1er avril 2011 au 31 décembre [<sup>19</sup> 2013]<sup>19</sup> .]<sup>11</sup> &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2004021834" target="_blank">2004-02-18/34</a>, art. 1, 085; <b> En vigueur : </b> 01-01-2004&gt;
 (Les bénéficiaires qui, conformément à l'article 2, A, précité satisfont à la condition fixée pour l'attestation de la prestation 102852, ne doivent pas payer d'intervention personnelle dans l'honoraire en question.) &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005121340" target="_blank">2005-12-13/40</a>, art. 1, 113; <b> En vigueur : </b> 01-02-2006&gt;
-C. [<sup>25</sup> 1° 12 euros pour les consultations des médecins spécialistes et la majoration visées à l'article 2, B, de ladite annexe sous les numéros de codes : 102012, 102034, 102071, 102093, 102115, 102130, 102152, 102174, 102196, 102211, 102233, 102255, 102270, 102292, 102314, 102336, 102351, 102373, 102513, 102535, 102550, 102572, 102594, 102616, 102631, 102653, 102675, 102690, 102712, 102734, 102756, 102815, 102830, 102874, 102896, 102911, 102933, 102955, 102970, 102992, [<sup>30</sup> 103456, 103471]<sup>30</sup> [<sup>31</sup> , 101275, 101290]<sup>31</sup>;
+C. [<sup>25</sup> 1° 12 euros pour les consultations des médecins spécialistes et la majoration visées à l'article 2, B, de ladite annexe sous les numéros de codes : 102012, 102034, 102071, 102093, 102115, 102130, 102152, 102174, 102196, 102211, 102233, 102255, 102270, 102292, 102314, 102336, 102351, 102373, 102513, 102535, 102550, 102572, 102594, 102616, 102631, 102653, 102675, 102690, 102712, 102734, 102756, 102815, 102830, 102874, 102896, 102911, 102933, 102955, 102970, 102992, [<sup>30</sup> 103456, 103471]<sup>30</sup> [<sup>31</sup> , 101275, 101290]<sup>31</sup> [<sup>32</sup> 103250]<sup>32</sup>;
 2° 6 euros pour la majoration des consultations des médecins spécialistes visée à l'article 2, B, de ladite annexe sous le numéros de code 102491. ".
 3° 40 p.c., avec un maximum de 15,50 EUR par prestation, des honoraires pour les visites des médecins spécialistes visés à l'article 2, C, de ladite annexe sous les numéros de codes 103014, 103051 et 103073.]<sup>25</sup>
 D. 35 p.c. avec un maximum de (4,96 EUR) par prestation, des honoraires de surveillance des bénéficiaires hospitalisés visés à l'article 25, § 1, de ladite annexe. &lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2001121143" target="_blank">2001-12-11/43</a>, art. 1, 063; <b> En vigueur : </b> 01-01-2002&gt;
@@ -1524,6 +1527,7 @@ H. ( (7,44 EUR) pour les honoraires forfaitaires visés à l'article 24, § 2, d
 (<font color="red">29</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016092506" target="_blank">2016-09-25/06</a>, art. 1, 240; En vigueur : 01-11-2016&gt;
 (<font color="red">30</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016110905" target="_blank">2016-11-09/05</a>, art. 1, 241; En vigueur : 01-01-2017&gt;
 (<font color="red">31</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017072127" target="_blank">2017-07-21/27</a>, art. 1, 249; En vigueur : 01-09-2017&gt;
+(<font color="red">32</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017091908" target="_blank">2017-09-19/08</a>, art. 1, 252; En vigueur : 01-01-2018&gt;
 
 <a name="Art.37ter" href="#Art.37bis">Art.</a> <a href="#Art.37quater"> 37ter</a>. &lt;Inséré par L 1994-12-21/31, art. 25; <b> En vigueur : </b> 02-01-1995&gt; Les dispositions de l'article 37bis produisent leurs effets au 1er octobre 1993 à l'exception des dispositions du § 1, A, B et C qui produisent leurs effets au 1er janvier 1994.
 Le Roi peut apporter par arrêté royal délibéré en Conseil des ministres, des modifications aux dispositions de l'article 37bis susvisé.
@@ -2880,25 +2884,26 @@ Si la firme ne répond pas dans le délai imparti, ou si les éléments que la f
 
 <a name="Art.78" href="#Art.77octies">Art.</a> <a href="#Art.78bis"> 78</a>. &lt;L 2002-01-14/39, art. 30, 064; <b> En vigueur : </b> 01-06-2001&gt; Il est institué au sein de l'Institut, un Service des indemnités chargé de l'administration de l'assurance indemnités et de l'application des dispositions relatives aux pensions d'invalidité (comme déterminé par l'article 2, § 3bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés). &lt;L 2002-12-24/31, art. 158, 077; <b> En vigueur : </b> 01-01-2003&gt;
 
-<a name="Art.78bis" href="#Art.78">Art.</a> <a href="#LNK0074"> 78bis</a>. &lt;inséré par L 1996-04-29/32, art. 135, 032; <b> En vigueur : </b> 01-01-1999&gt; § 1er. (...) &lt;L 2004-12-27/30, art. 76, 101; <b> En vigueur : </b> 10-01-2005&gt;
-§ 2. Il est créé un Comité de gestion dénommé "Comité de gestion pour les ouvriers mineurs".
-Ce comité est composé, en nombre égal, de représentants des organisations représentatives de l'ensemble des travailleurs salariés et des employeurs.
-Le Roi détermine le nombre de mandats (...) et nomme les membres dudit comité. Il nomme le président. Il détermine les règles de fonctionnement du Comité de gestion. &lt;L 1999-01-25/32, art. 145, 038; <b> En vigueur : </b> 01-01-1999&gt;
-Deux commissaires du Gouvernement, nommés par le Roi sur présentation respectivement du Ministre qui a les Affaires sociales dans ses attributions et du Ministre qui a les Finances dans ses attributions, assistent aux réunions du comité avec voix consultative.
-(Alinéa 5 abrogé) &lt;L 2002-01-14/39, art. 31, 064; <b> En vigueur : </b> 01-06-2001&gt;
+<a name="Art.78bis" href="#Art.78">Art.</a> <a href="#LNK0074"> 78bis</a>.&lt;inséré par L 1996-04-29/32, art. 135, 032; <b> En vigueur : </b> 01-01-1999&gt;
+§ 1er. (...) &lt;L 2004-12-27/30, art. 76, 101; <b> En vigueur : </b> 10-01-2005&gt;
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
 § 3. (Abrogé) &lt;L 2002-01-14/39, art. 31, 064; <b> En vigueur : </b> 01-06-2001&gt;
 § 4. (Abrogé) &lt;L 2002-01-14/39, art. 31, 064; <b> En vigueur : </b> 01-06-2001&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 46, 251; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0074" href="#LNKR0074">Section II.</a> - Du comité de gestion.
 
-<a name="Art.79" href="#Art.78bis">Art.</a> <a href="#Art.80"> 79</a>. Le Service des indemnités est géré par un Comité de gestion compose en nombre égal de représentants des organismes représentatives de l'ensemble des travailleurs salariés et de l'ensemble des employeurs.
+<a name="Art.79" href="#Art.78bis">Art.</a> <a href="#Art.80"> 79</a>.Le Service des indemnités est géré par un Comité de gestion compose en nombre égal de représentants des organismes représentatives de l'ensemble des travailleurs salariés et de l'ensemble des employeurs.
 Le Comité de gestion comprend en outre des représentants des organismes assureurs compétents dans le cadre de l'assurance indemnités; chaque organisme assureur ayant droit à un représentant au moins.
-Seuls les membres du Comité de gestion visés à l'alinéa 1er ont voix délibérative sur l'objet visé à l'article 80, 2°.
+Seuls les membres du Comité de gestion visés à l'alinéa 1er ont voix délibérative [<sup>1</sup> en ce qui concerne les compétences visées à l'article 80, § 1er, 2°, et § 3]<sup>1</sup>.
 Le Roi détermine le nombre de ces représentants effectifs et suppléants et les nomme. Il nomme le président et les vice-présidents. Il fixe les règles de fonctionnement du Comité de gestion.
 Le Roi peut se substituer au Comité de gestion lorsque celui-ci, un mois après y être invité par le Ministre, n'a pas pris de décision valable dans l'exercice des missions qui lui sont confiées par cette loi coordonnée.
 Si le Comité de gestion n'a pas donné, un mois après y avoir été invité, les avis qu'il est appelé à émettre, ces avis sont censés avoir été émis.
 Trois commissaires du Gouvernement, nommés par le Roi sur présentation respectivement du Ministre qui a la Prévoyance sociale dans ses attributions, du Ministre qui a l'Emploi et le Travail dans ses attributions et du Ministre qui a le Budget dans ses attributions, assistent aux réunions du Comité.
 (Un représentant de l'Office de contrôle visé à l'article 49 de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités assiste aux réunions du Comité avec voix consultative.) &lt;L 2002-08-22/39, art. 24, 071; <b> En vigueur : </b> 10-09-2002&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 47, 251; En vigueur : 01-01-2018&gt;
 
 <a name="Art.80" href="#Art.79">Art.</a> <a href="#Art.80bis"> 80</a>.[<sup>5</sup> § 1er.]<sup>5</sup> Le Comité de gestion du Service des indemnités :
 1° arrête les comptes et établit le budget de l'assurance indemnités, ce budget et ces comptes comprennent séparément les indemnités d'incapacité primaire, les indemnités d'invalidité et les indemnités de maternité, des prévisions distinctes sont établies pour les indemnités d'incapacité de travail ou de maternité [<sup>3</sup> ...]<sup>3</sup>;
@@ -2911,29 +2916,25 @@ b) les modalités de calcul des indemnités;
 c) les modalités de payement des indemnités d'incapacité de travail ou de maternité [<sup>3</sup> ...]<sup>3</sup>;
 6° fixe les modalités suivant lesquelles les organismes assureurs introduisent et justifient leurs comptes auprès du Service des indemnités;
 7° [<sup>4</sup> examine les rapports qui lui sont transmis par le Conseil médical de l'invalidité en exécution de l'article 82, alinéa 1er, 6° et par le Service du contrôle administratif en exécution de l'article 161, § 2, 3°; il fait, dans les délais fixés par le Roi, rapport au Ministre sur les mesures qu'il a décidé de prendre ou qu'il propose;]<sup>4</sup>
-8° [<sup>4</sup> fixe les directives pour l'organisation du contrôle de l'incapacité de travail, sur base des propositions formulées par le Conseil médical de l'invalidité après avis du Conseil technique médical visé à l'article 85;]<sup>4</sup>
+8° [<sup>4</sup> fixe les directives pour l'organisation du contrôle de l'incapacité de travail, sur base des propositions formulées par le Conseil médical de l'invalidité après avis du [<sup>7</sup> Centre de connaissances de l'incapacité de travail visé à l'article 85]<sup>7</sup>;]<sup>4</sup>
 9° établit son règlement d'ordre intérieur et le soumet pour approbation au Roi;
-10° procède, sur avis conforme du (Comité du Service d'évaluation et de contrôle médicaux), a l'agréation et au retrait de l'agréation des services de contrôle médical organisés par un ou plusieurs employeurs et visés à l'article 91; &lt;L 2002-12-24/32, art. 34, 075; <b> En vigueur : </b> 15-02-2003&gt;
+10° procède, sur avis conforme du (Comité du Service d'évaluation et de contrôle médicaux), à l'agréation et au retrait de l'agréation des services de contrôle médical organisés par un ou plusieurs employeurs et visés à l'article 91; &lt;L 2002-12-24/32, art. 34, 075; <b> En vigueur : </b> 15-02-2003&gt;
 11° décide, en cas de reprise d'un travail non autorisé, dans quels cas dignes d'intérêt il peut être renoncé en tout ou en partie au montant à récupérer;
 12° propose au Comité général le budget des frais d'administration du Service des indemnités;
 13° (abrogé) &lt;L 1995-12-20/32, art. 62, 006; <b> En vigueur : </b> 02-01-1996&gt;
 [<sup>5</sup> § 2. Le Comité de gestion du service des indemnités peut conclure des conventions pour des études, des enquêtes ou le développement de formations visant à améliorer la connaissance en matière d'incapacité de travail, l'évaluation médicale et la réadaptation professionnelle. Les dépenses y afférentes sont à charge du budget de l'assurance indemnités.]<sup>5</sup>
+[<sup>6</sup> § 3. Le Comité de gestion du Service des indemnités est compétent pour l'application des dispositions rela-tives aux pensions d'invalidité au profit des ouvriers mineurs et assimilés, visées à l'article 5, 1°, h), de la loi du 27 juin 1969 et telle que confiée à l'Institut, conformément à l'article 2, § 3bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés. Dans ce cadre, il arrête les comptes et établit le budget. Il propose au Comité général le budget des frais d'administration du Service des indemnités pour ce qui concerne l'application des dispositions de cette pension d'invalidité.]<sup>6</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061701" target="_blank">2009-06-17/01</a>, art. 11, 162; En vigueur : 06-07-2009&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010051906" target="_blank">2010-05-19/06</a>, art. 10, §4, 176; En vigueur : 12-06-2010&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122706" target="_blank">2012-12-27/06</a>, art. 55, 198; En vigueur : 01-01-2013&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 6, 220; En vigueur : 01-01-2015&gt;
 (<font color="red">5</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015072013" target="_blank">2015-07-20/13</a>, art. 56, 231; En vigueur : 31-08-2015&gt;
+(<font color="red">6</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 48, 251; En vigueur : 01-01-2018&gt;
+(<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 52, 251; En vigueur : 01-01-2018&gt;
 
-<a name="Art.80bis" href="#Art.80">Art.</a> <a href="#LNK0075"> 80bis</a>.&lt;Inséré par L 1998-02-22/43, art. 120; <b> En vigueur : </b> 13-03-1998&gt; Le Comité de gestion pour les ouvriers mineurs :
-1° est compétent pour l'application des dispositions relatives aux pensions d'invalidité (comme déterminé par l'article 2, § 3bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés); &lt;L 2002-12-24/31, art. 159, 077; <b> En vigueur : </b> 01-01-2003&gt;
-2° arrête les comptes et établit le budget de la pension d'invalidité des ouvriers mineurs;
-3° [Abrogé] &lt;L 2002-01-14/39, art. 32, 064; <b> En vigueur : </b> 01-06-2001&gt;
-4° [<sup>1</sup> ...]<sup>1</sup>
-5° établit son règlement d'ordre intérieur et le soumet pour approbation au Roi;
-6° propose au Comité général le budget des frais d'administration (du Service des indemnités). &lt;L 2002-01-14/39, art. 32, 064; <b> En vigueur : </b> 01-06-2001&gt;
-----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009061701" target="_blank">2009-06-17/01</a>, art. 11, 162; En vigueur : 06-07-2009&gt;
+<a name="Art.80bis" href="#Art.80">Art.</a> <a href="#LNK0075"> 80bis</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 49, 251; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0075" href="#LNKR0075">Section III.</a> - Du Conseil médical de l'invalidité.
 
@@ -2946,7 +2947,7 @@ La composition et les règles de fonctionnement du Conseil médical de l'invalid
 1° remplit les missions qui lui sont fixées [<sup>3</sup> aux articles 90, alinéa 2, et 94]<sup>3</sup> et notifie ses décisions aux personnes et institutions désignées par le Roi dans les conditions et délai fixés par Lui;
 2° examine les questions relatives à la période d'invalidité qui lui sont soumises pour avis par le Ministre, le Comité de gestion ou le fonctionnaire-dirigeant du Service des indemnités, ainsi que par les organismes assureurs compétents dans le cadre de l'assurance indemnités;
 3° collabore avec le Collège des médecins-directeurs visé à l'article 23, § 1 en lui signalant tout titulaire susceptible de bénéficier d'une rééducation fonctionnelle [...] et en lui transmettant tous les renseignements qu'il demande pour l'exercice de sa mission. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006071368" target="_blank">2006-07-13/68</a>, art. 85, 120; <b> En vigueur : </b> 01-07-2009&gt;
-(4° fixe les directives et critères médicaux généraux, sur proposition du Conseil technique médical visé à l'article 85.) &lt;L 1998-02-22/43, art. 106, 033; <b> En vigueur : </b> 13-03-1998&gt;
+(4° fixe les directives et critères médicaux généraux, sur proposition du [<sup>4</sup> Centre de connaissances de l'incapacité de travail visé à l'article 85]<sup>4</sup>.) &lt;L 1998-02-22/43, art. 106, 033; <b> En vigueur : </b> 13-03-1998&gt;
 [<sup>2</sup> 5° examine les données relatives à l'incapacité de travail transmises par les organismes assureurs selon les modalités et dans le délai fixés par le Comité de gestion du Service des indemnités.]<sup>2</sup>
 [<sup>1</sup> 6° établit des rapports sur l'incapacité de travail et les transmet, accompagnés des suggestions que ses constatations lui ont inspirées, au Comité de gestion du service des indemnités.]<sup>1</sup>
 Le Roi détermine les conditions dans lesquelles le pouvoir de décision relatif [<sup>3</sup> à l'état d'incapacité de travail en exécution de l'alinéa 1er, 1°]<sup>3</sup> ou le pouvoir de notifier cette décision peut être exercé par un ou plusieurs médecins, membres de la commission supérieure ou [<sup>2</sup> d'une des sections de la commission supérieure]<sup>2</sup>. Le pouvoir de décision ne peut, en aucun cas, être exercé exclusivement par des médecins occupés par l'organisme assureur auquel le titulaire intéressé est affilié ou inscrit.
@@ -2954,6 +2955,7 @@ Le Roi détermine les conditions dans lesquelles le pouvoir de décision relatif
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 7, 220; En vigueur : 01-01-2015&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122157" target="_blank">2013-12-21/57</a>, art. 21, 214; En vigueur : 31-12-2015&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 8, 239; En vigueur : 01-07-2016&gt;
+(<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 53, 251; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0076" href="#LNKR0076">Section IV.</a> - Du Conseil technique intermutualiste.
 
@@ -2961,13 +2963,18 @@ Le Roi détermine les conditions dans lesquelles le pouvoir de décision relatif
 
 <a name="Art.84" href="#Art.83">Art.</a> <a href="#LNK0077"> 84</a>. Le Conseil technique intermutualiste a pour mission d'émettre des avis en vue de leur examen au Comité de gestion du Service des indemnités, sur des problèmes relatifs aux conditions d'octroi des indemnités et allocation visées au titre IV.
 
-<a name="LNK0077" href="#LNKR0077">Section V.</a> - De la Commission d'évaluation.
+<a name="LNK0077" href="#LNKR0077">Section V.</a> [<sup>1</sup> - Centre de connaissances de l'incapacité de travail]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 54, 251; En vigueur : 01-01-2018&gt;
 
-<a name="Art.85" href="#Art.84">Art.</a> <a href="#LNK0078"> 85</a>. &lt;L 1998-02-22/43, art. 107, 033; <b> En vigueur : </b> 13-03-1998&gt; Il est institué auprès du Service des indemnités un Conseil technique médical qui a pour mission :
+<a name="Art.85" href="#Art.84">Art.</a> <a href="#LNK0078"> 85</a>.&lt;L 1998-02-22/43, art. 107, 033; <b> En vigueur : </b> 13-03-1998&gt; Il est institué auprès du Service des indemnités un [<sup>1</sup> Centre de connaissances de l'incapacité de travail qui a pour mission]<sup>1</sup> :
 1° à la demande du Comité de gestion des Services des indemnités, du Conseil médical de l'invalidité ou de sa propre initiative, d'émettre des avis sur des problèmes médicaux concernant la détermination de l'incapacité de travail;
 2° de proposer des directives et critères médicaux généraux en vue de mieux résoudre les problèmes d'évaluation concernant l'incapacité de travail; ces directives et critères sont ensuite fixés par le Conseil médical de l'invalidité;
 3° à l'aide de données statistiques relatives à l'incapacité de travail, de procéder à des investigations portant sur le fonctionnement de l'assurance indemnités et d'émettre des avis sur des problèmes qui surgissent en la matière.
-La composition et les modalités de fonctionnement de ce Conseil sont fixées par le Roi, qui nomme également le président et les membres.
+[<sup>1</sup> 4° de faire exécuter des études en matière d'assurance indemnités, de les coordonner et de formuler des avis. Les dépenses y afférentes sont à charge du budget de l'assurance indemnités.]<sup>1</sup>
+La composition et les modalités de fonctionnement [<sup>1</sup> du Centre de connaissances de l'incapacité de travail]<sup>1</sup> sont fixées par le Roi, qui nomme également le président et les membres.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 55, 251; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0078" href="#LNKR0078">CHAPITRE II.</a> - Du champ d'application.
 
@@ -4251,8 +4258,8 @@ Pour faciliter l'expédition des affaires, les organes de gestion (des services 
 
 <a name="Art.181bis" href="#Art.181">Art.</a> <a href="#Art.182"> 181bis</a>. (Abrogé) &lt;L 2002-01-14/39, art. 35, 064; <b> En vigueur : </b> 01-06-2001&gt;
 
-<a name="Art.182" href="#Art.181bis">Art.</a> <a href="#Art.183"> 182</a>.&lt;L 1996-04-29/32, art. 129, 007; <b> En vigueur : </b> 01-03-1997&gt; § 1. (Le directeur général du Service des indemnités visé à l'article 177, alinéa 2, est chargé de l'exécution des décisions du Comité de gestion du Service des indemnités et du Comité de gestion pour les ouvriers mineurs, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181, alinéa 7.) &lt;L 2002-01-14/39, art. 34, 064; <b> En vigueur : </b> 01-06-2001&gt;
-(Il assiste aux séances du Comité de gestion du Service des indemnités et du Comité de gestion pour les ouvriers mineurs et en assure le secrétariat.) &lt;L 2002-01-14/39, art. 34, 064; <b> En vigueur : </b> 01-06-2001&gt;
+<a name="Art.182" href="#Art.181bis">Art.</a> <a href="#Art.183"> 182</a>.&lt;L 1996-04-29/32, art. 129, 007; <b> En vigueur : </b> 01-03-1997&gt; § 1. (Le directeur général du Service des indemnités visé à l'article 177, alinéa 2, est chargé de l'exécution des décisions du Comité de gestion du Service des indemnités [<sup>3</sup> ...]<sup>3</sup>, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181, alinéa 7.) &lt;L 2002-01-14/39, art. 34, 064; <b> En vigueur : </b> 01-06-2001&gt;
+(Il assiste aux séances du Comité de gestion du Service des indemnités [<sup>3</sup> ...]<sup>3</sup> et en assure le secrétariat.) &lt;L 2002-01-14/39, art. 34, 064; <b> En vigueur : </b> 01-06-2001&gt;
 Il assiste de droit aux séances des conseils et commissions qui fonctionnent au sein du Service ou il peut s'y faire représenter par le fonctionnaire qu'il désigne.
 En cas d'empêchement du directeur général précité du Service des indemnités,. ses pouvoirs sont exercés par un fonctionnaire dudit service désigné par le Comité général.
 § 2. Le directeur général du Service des soins de santé visé à l'article 177, alinéa 2, est chargé de l'exécution des décisions du Conseil général et du Comité de l'assurance du Service des soins de santé, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181 alinéa 7.
@@ -4267,6 +4274,7 @@ Il assiste de droit aux séances des conseils et commissions qui fonctionnent au
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013031903" target="_blank">2013-03-19/03</a>, art. 35, 203; En vigueur : 01-04-2013&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015071738" target="_blank">2015-07-17/38</a>, art. 31, 229; En vigueur : 27-08-2015&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 50, 251; En vigueur : 01-01-2018&gt;
 
 <a name="Art.183" href="#Art.182">Art.</a> <a href="#Art.184"> 183</a>.&lt;L 1996-04-29/32, art. 130, 007; <b> En vigueur : </b> 01-03-1997&gt; [<sup>1</sup> Le médecin directeur général du Service d'évaluation et de contrôle médicaux est chargé de l'exécution des décisions de son Comité, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181, alinéa 7. Il assiste aux séances de ce Comité et en assure le secrétariat.]<sup>1</sup>
 [<sup>1</sup> Le directeur général du Service du contrôle administratif est chargé de l'exécution des décisions du Comité général de gestion prises en exécution de l'article 12, 8° et 9°, conformément à l'autorisation qui lui a été accordée en vertu de l' article 181, alinéa 7.]<sup>1</sup>
