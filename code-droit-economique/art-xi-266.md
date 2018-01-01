@@ -1,8 +1,11 @@
-Sans préjudice de toutes informations qui doivent être communiquées en vertu des lois et des statuts, tout associé ou son mandataire peut obtenir, dans un délai d'un mois à compter du jour de sa demande, une copie des documents des trois dernières années, et relatifs:
-1° aux comptes annuels approuvés par l'assemblée général et a la structure financière de la société;
-2° à la liste actualisée des administrateurs;
-3° aux rapports fait à l'assemblée par le conseil d'administration et par le commissaire-reviseur;
-4° au texte et à l'exposé des motifs des résolutions proposées à l'assemblée générale et à tout renseignement relatif aux candidats au conseil d'administration;
-5° au montant global, certifié exact par le commissaire-réviseur, des rémunérations, des frais forfaitaires et des avantages de quelque nature que ce soit, versés aux administrateurs;
-6° aux tarifs actualisés de la société;
-7° à la destination des fonds qui, conformément aux articles XI.178, § 3, et XI.264, ont dû être redistribués.
+Sans préjudice d'autres dispositions légales, toute société de gestion publie sur son site internet, à un endroit clairement lisible et avec des renvois clairs au menu principal de la page web, au moins les informations suivantes et actualise celles-ci:
+1° ses statuts;
+2° les conditions d'affiliation et les conditions de résiliation ou de retrait des droits, si celles-ci ne figurent pas dans les statuts;
+3° des contrats de licence types et ses tarifs standards applicables, réductions comprises;
+4° la liste des personnes gérant les activités de la société de gestion;
+5° sa politique générale de répartition des sommes dues aux ayants droit;
+6° sa politique générale en matière de frais de gestion;
+7° sa politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les revenus provenant des droits et sur toute recette provenant de leur gestion, y compris les déductions effectuées à des fins sociales, culturelles ou éducatives;
+8° une liste des accords de représentation qu'elles ont conclus, et les noms des sociétés de gestion et des organismes de gestion collective avec lesquelles ou lesquels ces accords de représentation ont été conclus;
+9° sa politique générale de répartition des sommes qui, en vertu de l'article XI.254, sont réputées non répartissables;
+10° les procédures établies conformément aux articles XI.273/1 et XI.273/12, pour le traitement des plaintes et le règlement des litiges.

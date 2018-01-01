@@ -1,1 +1,1 @@
-Les contrats de licence de droits conclus par les sociétés de gestion de droits et les utilisateurs d'oeuvres et de prestations protégées prévoient des critères objectifs et non-discriminatoires en particulier en ce qui concerne les tarifs convenus.
+Les sociétés de gestion transmettent au Service de contrôle lors de modifications une version coordonnée et à jour de leurs règles de tarification, de perception et de répartition des droits.

@@ -1,4 +1,3 @@
-§ 1er. Les sociétés de gestion des droits ne peuvent consentir des crédits ou des prêts, de façon directe ou indirecte. Elles ne peuvent davantage se porter garantes de manière directe ou indirecte des engagements pris par un tiers.
-§ 2. Elles ne peuvent accorder des avances de droits que si chacune des conditions suivantes est remplie:
-- elles sont accordées sur la base de règles non discriminatoires. Ces règles constituent un élément essentiel des règles de répartition de la société de gestion;
-- l'octroi d'avances ne compromet pas le résultat de la répartition définitive.
+Les sociétés de gestion veillent à ce que les frais de gestion, au cours d'un exercice donné, soient raisonnables, en rapport avec les services de gestion correspondant et n'excédent pas les coûts justifiés et documentés supportés.
+Si les frais de gestion d'une société de gestion dépassent un plafond s'élevant à quinze pour cent de la moyenne des droits perçus au cours des trois derniers exercices, ce dépassement doit être motivé de manière complète, précise et détaillée dans le rapport de gestion visé à l'article XI.248/6. Le Roi peut adapter ce pourcentage, et le différencier sur base de critères objectifs et non discriminatoires.
+Les exigences en matière d'utilisation et de transparence dans l'utilisation des montants déduits ou compensés pour les frais de gestion s'appliquent à toute autre déduction effectuée afin de couvrir les frais découlant de la gestion du droit d'auteur et des droits voisins.

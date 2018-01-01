@@ -1,1 +1,3 @@
-Les sociétés ont la faculté, dans la limite de leurs compétences statutaires, de conclure des contrats généraux relatifs à l'exploitation des droits d'auteur et des droits voisins.
+Toute société de gestion met, en réponse à une demande dûment justifiée, au moins les informations suivantes, sans retard indu et par voie électronique, à la disposition de toute société de gestion ou de tout organisme de gestion collective pour le compte de laquelle ou duquel elle gère des droits au titre d'un accord de représentation, ou à la disposition de tout ayant droit ou de tout utilisateur:
+1° les oeuvres ou prestations qu'elle représente, les droits qu'elle gère, directement ou dans le cadre d'accords de représentation, et les territoires couverts, ou
+2° si, en raison du champ d'activité de la société de gestion, ces oeuvres ou prestations ne peuvent être déterminées, les types d'oeuvres ou de prestations qu'elle représente, les droits qu'elle gère et les territoires couverts.
