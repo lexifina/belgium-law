@@ -7,4 +7,4 @@ Cette mesure provisoire peut être transformée en mesure définitive conformém
 2° des obligations relatives à l'information de l'utilisateur.
 § 3. Le ministre ou son délégué consulte au préalable les producteurs ou une représentation du secteur sans toutefois pouvoir porter préjudice à l'intervention urgente requise par les circonstances. Si, en raison de l'urgence de la mesure, la consultation ne peut avoir lieu au préalable, les parties concernées en sont informées au plus tard quinze jours après que les mesures ont été prises.
 § 4. Pour les arrêtés qui transposent des mesures prises au niveau européen, ou qui en découlent, cette consultation n'est pas obligatoire.
-§ 5. Le ministre ou son délégué informe la Commission de la Sécurité des Consommateurs au plus tard quinze jours après l'entrée en vigueur de l'arrêté.
+§ 5. Le ministre ou son délégué informe la Commission consultative spéciale Consommation au plus tard quinze jours après l'entrée en vigueur de l'arrêté.
