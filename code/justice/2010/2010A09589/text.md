@@ -123,10 +123,11 @@ A cette fin, les services d'inspection compétents pour lutter contre le travail
 <a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.[<sup>1</sup> La fonction du dirigeant, appelé le directeur du Bureau, les conditions de sa nomination et son statut
 Le directeur du Bureau doit être titulaire d'une fonction de management.
 Le Roi détermine, par arrêté délibéré en Conseil des ministres, les conditions de nomination et le statut pécuniaire et administratif du directeur.]<sup>1</sup>
-[<sup>2</sup> Dans l'attente de la désignation du fonctionnaire dirigeant mandataire visé aux alinéas précédents, le fonctionnaire dirigeant de la direction générale Contrôle des lois sociales du service public fédéral Emploi, Travail et Concertation social, au 31 décembre 2016, continue à exercer cette fonction jusqu'au 1 juillet 2017.]<sup>2</sup>
+[<sup>3</sup> Dans l'attente de la désignation du fonctionnaire mandataire dirigeant visé aux alinéas précédents, le fonctionnaire dirigeant de la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, au 1er juillet 2017, continue à exercer la fonction du directeur du Bureau jusqu'au 1er juillet 2018. Le mandat de cette personne se termine toutefois si le fonctionnaire mandataire dirigeant est désigné avant le 1er juillet 2018.]<sup>3</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016070101" target="_blank">2016-07-01/01</a>, art. 25, 020; En vigueur : 01-01-2017&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122548" target="_blank">2016-12-25/48</a>, art. 43, 022; En vigueur : 01-01-2017&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 53, 026; En vigueur : 01-07-2017&gt;
 
 <a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9/1"> 9</a>.[<sup>1</sup> Les missions du directeur du Bureau
 Le directeur [<sup>2</sup> exerce la gestion journalière du Bureau]<sup>2</sup> et exécute le plan opérationnel établi par le Bureau.
@@ -249,9 +250,12 @@ c) sont également assimilés à l'employeur :
 16° " le Comité de gestion " : le Comité de gestion de la banque de données e-PV, visée à l'article 100/8;
 17° " l'e-PV " : le procès-verbal de constatation d'infractions qui est établi, enregistré et envoyé au moyen de l'application informatique conçue à cette fin conformément au modèle visé à l'article 100/2;
 18° " la banque de données e-PV " : la banque de données, visée à l'article 100/6 et dans laquelle sont intégrées et conservées les données des e-PV qui sont contenues dans le modèle visé à l'article 100/2 ainsi que les données contenues dans les annexes de ces e-PV;
-19° " la banque de données Ginaa " : la banque de données de l'administration compétente, qui contient les données relatives aux missions qui lui sont attribuées dans ou en vertu du livre 1er.]<sup>1</sup>
+19° " la banque de données Ginaa " : la banque de données de l'administration compétente, qui contient les données relatives aux missions qui lui sont attribuées dans ou en vertu du livre 1er;]<sup>1</sup>
+[<sup>2</sup> 20° "datamining" : la recherche de façon ponctuelle des liens dans des collectes de données afin d'établir des profils pour des recherches plus approfondies;
+21° "datamatching" : la comparaison l'un avec l'autre de deux sets de données rassemblées.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 85, 005; En vigueur : 16-04-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 30, 026; En vigueur : 01-04-2018&gt;
 
 <a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0008"> 17</a>. Les autorités chargées de la surveillance
 Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi, les fonctionnaires désignés par les autorités compétentes, ainsi que les inspecteurs sociaux surveillent le respect des dispositions du présent Code, des lois visées au Livre 2 du présent Code et des autres lois dont ils sont chargés de surveiller le respect, et le respect des dispositions des arrêtés d'exécution du présent Code et des lois précitées.
@@ -267,10 +271,13 @@ Les inspecteurs sociaux exercent les pouvoirs visés au présent chapitre en vue
 <a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. Le principe de proportionnalité
 Lors de l'exécution des pouvoirs visés au présent chapitre, les inspecteurs sociaux veillent à ce que les moyens qu'ils utilisent soient appropriés et nécessaires pour la surveillance du respect des dispositions du présent Code, des lois visées au Livre 2 du présent Code et des autres lois dont ils sont chargés de surveiller le respect ainsi que pour la surveillance du respect des dispositions des arrêtés d'exécution du présent Code et des lois précitées.
 
-<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. Le titre de légitimation
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>.Le titre de légitimation
 Les inspecteurs sociaux exercent leurs missions munis du titre de légitimation de leurs fonctions.
 Les inspecteurs sociaux doivent toujours présenter leur titre de légitimation.
 Le Roi détermine le modèle de ce titre de légitimation.
+[<sup>1</sup> Lorsque les inspecteurs sociaux agissent, en vue de la recherche et de la constatation des infractions relatives à la législation antidiscrimination et à ses arrêtés d'exécution, comme visé à l'article 42/1 du présent Code, le titre de légitimation ne doit pas être présenté et ils ne doivent pas non plus communiquer leur qualité.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 33, 026; En vigueur : 01-04-2018&gt;
 
 <a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>.Le pouvoir d'appréciation des inspecteurs sociaux
 Sans préjudice du droit de réquisition du ministère public et du juge d'instruction, visé aux articles 28ter, § 3 et 56, § 2, du Code d'instruction criminelle, les inspecteurs sociaux disposent d'un pouvoir d'appréciation pour :
@@ -407,6 +414,23 @@ Les inspecteurs sociaux peuvent, s'ils l'estiment nécessaire dans l'intérêt d
 Une action en cessation peut, conformément [<sup>1</sup> au livre XVII du Code de droit économique]<sup>1</sup>, être introduite auprès du président du tribunal de commerce par le fonctionnaire dirigeant le service d'inspection compétent pour les dispositions visées.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 56, 017; En vigueur : 01-05-2016&gt;
+
+<a name="LNK0112" href="#LNKR0112">Section 2/1.</a> [<sup>1</sup> - Les pouvoirs spécifiques des inspecteurs sociaux en matière de constatations relatives à la discrimination]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 31, 026; En vigueur : 01-04-2018&gt;
+
+<a name="Art.%2042/1." href="#LNK0112">Art.</a> <a href="#LNK0011">42/1</a>. [<sup>1</sup> Les pouvoirs particuliers en matière de discrimination
+§ 1er. En vue de la recherche et de la constatation des infractions relatives à la législation antidiscrimination et à ses arrêtés d'exécution, les inspecteurs sociaux ont le pouvoir en présence d'indications objectives de discrimination, à la suite d'une plainte ou d'un signalement, soutenues par des résultats de datamining et de datamatching, de se présenter comme des clients, des clients potentiels, des travailleurs ou des travailleurs potentiels, pour vérifier si une discrimination fondée sur un critère protégé légalement a été ou est commise.
+§ 2. Sans préjudice du paragraphe 3, il est interdit aux inspecteurs sociaux chargés d'exécuter les pouvoirs particuliers en matière de discrimination visés au § 1er, de commettre des faits punissables dans le cadre de leur mission.
+§ 3. Sont exemptés de peine, les inspecteurs sociaux qui, dans le cadre de leur mission et en vue de la réussite de celle-ci ou afin de garantir leur propre sécurité, commettent des faits punissables absolument nécessaires avec l'accord exprès et préalable de l'auditeur du travail ou du procureur du Roi.
+Ces faits punissables ne peuvent pas être plus graves que ceux pour lesquels la méthode de recherche est mise en oeuvre et ils doivent être nécessairement proportionnels à l'objectif visé.
+Le magistrat qui autorise un inspecteur social à commettre des faits punissables dans le cadre de l'exécution des pouvoirs particuliers en matière de discrimination visés au paragraphe 1er, est exempté de peine.
+§ 4. Il ne peut être procédé à l'exécution des pouvoirs particuliers en matière de discrimination visés au § 1er, qu'après l'accord préalable et écrit de l'auditeur du travail ou du procureur du Roi. Cet accord a trait également aux faits punissables absolument nécessaires et à l'autorisation de ceux-ci, comme visés au § 3.
+Toutes les actions entreprises lors de la recherche et leurs résultats doivent être consignés dans un rapport et communiqués à l'auditeur du travail ou au procureur du Roi.
+§ 5. La personne ou les personnes concernées faisant l'objet des constatations ne peuvent pas être provoquées au sens de l'article 30 du titre préliminaire du Code d'Instruction criminelle.
+La méthode de recherche doit se limiter à créer l'occasion de mettre à jour une pratique discriminatoire. Ce pouvoir peut uniquement être exercé s'il est nécessaire à l'exercice de la surveillance afin de pouvoir constater les circonstances qui sont d'application pour des clients habituels, des clients potentiels, des travailleurs ou des travailleurs potentiels et si ces constats ne peuvent pas être réalisés d'une autre façon. Il ne peut pas avoir pour effet de créer une pratique discriminatoire alors qu'il n'y avait aucun indice sérieux de pratiques qu'on puisse qualifier de discrimination directe ou indirecte.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 32, 026; En vigueur : 01-04-2018&gt;
 
 <a name="LNK0011" href="#LNKR0011">Section 3.</a> - Les pouvoirs des inspecteurs sociaux en matière de santé et de sécurité des travailleurs en particulier
 
