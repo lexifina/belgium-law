@@ -1775,6 +1775,12 @@ Est puni d'une sanction de niveau 2, le responsable solidaire visé par la secti
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 33, 009; En vigueur : 04-03-2013&gt;
 
+<a name="Art.%20171/4." href="#Art.171/3">Art.</a> <a href="#LNK0065">171/4</a>. [<sup>1</sup> La participation des travailleurs dans les bénéfices ou le capital.
+Est puni d'une sanction de niveau 2 l'employeur, son préposé ou son mandataire qui n'a pas agi conformément aux obligations prescrites par la loi du 22 mai 2001 relative à la participation des travailleurs au capital des sociétés et à l'établissement d'une prime bénéficiaire pour les travailleurs et à ses arrêtés d'exécution.
+L'amende est multipliée par le nombre des travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017122501" target="_blank">2017-12-25/01</a>, art. 53, 025; En vigueur : 01-01-2018&gt;
+
 <a name="LNK0065" href="#LNKR0065">Section 3.</a> - La transmission par l'employeur de documents permettant aux travailleurs de faire valoir leur droit aux indemnités en cas de fermeture d'entreprises
 
 <a name="Art.172" href="#Art.171/3">Art.</a> <a href="#LNK0066"> 172</a>. La transmission par l'employeur de documents permettant aux travailleurs de faire valoir leur droit aux indemnités en cas de fermeture d'entreprises
@@ -2622,12 +2628,13 @@ Lorsque l'infraction visée à l'alinéa 1er est commise par l'employeur, son pr
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 54, 017; En vigueur : 01-05-2016&gt;
 
-<a name="Art.236" href="#Art.236">Art.</a> <a href="#Art.237"> 236</a>. [<sup>1</sup> La restitution
-Lorsque les tiers lésés ne se sont pas constitués partie civile, le juge qui prononce la peine prévue aux articles 218, 219, 220, 223, § 1er, alinéa 1er, 1° et 234, § 1er, 3°, ou qui constate la culpabilité pour une infraction à ces dispositions, condamne d'office le débiteur des cotisations impayées ou partiellement payées à payer les arriérés de cotisations, les majorations de cotisations et les intérêts de retard.
+<a name="Art.236" href="#Art.236">Art.</a> <a href="#Art.237"> 236</a>.[<sup>1</sup> La restitution
+Lorsque les tiers lésés ne se sont pas constitués partie civile, le juge qui prononce la peine prévue aux articles [<sup>2</sup> 171/4,]<sup>2</sup> 218, 219, 220, 223, § 1er, alinéa 1er, 1° et 234, § 1er, 3°, ou qui constate la culpabilité pour une infraction à ces dispositions, condamne d'office le débiteur des cotisations impayées ou partiellement payées à payer les arriérés de cotisations, les majorations de cotisations et les intérêts de retard.
 Lorsque les tiers lésés ne se sont pas constitués partie civile, le juge qui prononce la peine prévue à l'article 233, § 1er, 3°, ou qui constate la culpabilité pour une infraction à cette disposition, condamne d'office le prévenu à restituer les sommes perçues indûment, augmentées des intérêts de retard.
 En l'absence de décompte relatif aux montants visés à l'alinéa 1er et à l'alinéa 2 ou lorsque le décompte est contesté et doit faire l'objet d'un complément d'information, le juge réserve à statuer sur la condamnation d'office.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 54, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017122501" target="_blank">2017-12-25/01</a>, art. 53, 025; En vigueur : 01-01-2018&gt;
 
 <a name="Art.237" href="#Art.236">Art.</a> 237.[<sup>1</sup> La notification par l'employeur du jugement constatant une infraction en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 décembre 2006 contenant diverses dispositions en matière de droit pénal social, omet sciemment et volontairement de notifier, à ses frais, le jugement constatant une infraction aux lois et règlements qui relèvent de la compétence des juridictions du travail en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire aux travailleurs concernés.]<sup>1</sup>
