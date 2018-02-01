@@ -1,6 +1,6 @@
 L'article III.13 ne s'applique pas:
 1° aux services d'intérêt économique général;
-2° aux matières couvertes par la loi du 5 mars 2002 transposant la directive 96/71/CE du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et instaurant un régime simplifié pour la tenue de documents sociaux, par les entreprises qui détachent des travailleurs en Belgique, et selon les règles que la loi du 5 mars 2002 détermine;
+2° aux matières couvertes par la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, et selon les règles que la loi du 5 mars 2002 détermine;
 3° aux matières couvertes par la partie II, Livre III, Titre Ierbis, Chapitre Ier du Code Judiciaire;
 4° aux activités de recouvrement judiciaire de dettes;
 5° aux matières couvertes par la loi du 12 février 2008 instaurant un nouveau cadre général pour la reconnaissance des qualifications professionnelles CE et des dispositions spécifiques prescrivant des exigences réservant une activité à une profession particulière;
