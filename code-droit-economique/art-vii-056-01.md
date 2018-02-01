@@ -1,0 +1,1 @@
+Lors de la demande, de l'accès ou de la détention d'un compte de paiement auprès de l'institution de crédit, le consommateur ne subit pas de discrimination fondée sur la nationalité, le lieu de résidence ou sur tout autre motif visés dans la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie.

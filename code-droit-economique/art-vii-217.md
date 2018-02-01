@@ -1,1 +1,1 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Les arrêtés royaux établis en vertu des articles VII. 3, VII.4/1 à VII.4/4, VII. 57 à VII. 59, VII.62/1 à VII.62/7, VII. 64, VII. 90, § 1, alinéa 3, VII. 94, VII. 95, VII. 86, § 3, alinéa 2, VII.101, VII.114, § 3, VII.124, VII.147/9, VII.147/10 et VII.147/30, § 3, du présent livre du présent livre sont soumis à l'avis de la Commission consultative spéciale Consommation par le ministre. Le ministre fixe le délai dans lequel l'avis est rendu. Passé ce délai, l'avis n'est plus requis.
