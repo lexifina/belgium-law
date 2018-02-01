@@ -1,3 +1,4 @@
-Le consommateur qui demande un service bancaire de base ne peut déjà bénéficier d'un service bancaire de base, d'un autre compte de paiement ou d'un compte dont le solde créditeur cumulé moyen annuel dépasse 6.000 euros.
-Pour la détermination de ce montant maximum, les garanties visées par l'article 10 du Code civil, Livre III, Titre VIII, Chapitre II, Section 2, ne sont pas prises en considération.
-Le Roi peut modifier ce montant.
+La demande d'ouverture d'un service bancaire de base se fait par la transmission d'un formulaire sur support durable à l'établissement de crédit, mis à disposition sur papier ou de manière électronique par l'établissement de crédit.
+Le formulaire de demande contient une confirmation du consommateur qu'il ne dispose pas encore d'un service bancaire de base ou d'un compte de paiement auprès d'un établissement de crédit situé en Belgique qui lui permet d'utiliser les services visés à l'article VII.57, § 1er, ou qu'il a été informé que ces comptes seront supprimés.
+Le Roi peut déterminer les mentions qui figurent sur le formulaire de demande.
+L'établissement de crédit ouvre le service bancaire de base ou rejette l'ouverture sans délai indu et au plus tard dans les dix jours ouvrables après la réception du formulaire de demande complet.

@@ -1,11 +1,16 @@
-§ 1er. Le service bancaire de base est un service de paiement qui comprend les services visés à l'article I. 9, 1°, a) à c), à l'exception de toute opération de paiement différée à l'aide d'un instrument de paiement, et l'inscription en compte des chèques.
-La possibilité de placer ou de retirer des espèces sur un compte de paiement ne vaut qu'en/pour la Belgique.
-Le Roi peut modifier et compléter la liste de ces services.
-§ 2. Tout établissement de crédit doit offrir le service bancaire de base. Tout consommateur a droit au service bancaire de base.
+§ 1er. Le service bancaire de base est un service de paiement disponible au sein de l'Union européenne qui comprend les services visés à l'article I. 9, 1°, a) à c), à l'exception de toute opération de paiement différée à l'aide d'un instrument de paiement, et l'inscription en compte des chèques.
+Les services permettant de placer ou de retirer des espèces sur un compte sont possibles au guichet ou aux distributeurs automatiques pendant les heures d'ouverture de l'établissement de crédit ou en dehors de celles-ci. Il est possible d'effectuer des opérations de paiement au moyen d'une carte de paiement, y compris les paiements électroniques. Il est possible d'effectuer les virements, y compris d'ordres permanents de paiement, lorsqu'ils sont disponibles, aux automates, aux guichets et par l'intermédiaire des services en ligne de l'établissement de crédit.
+Le service bancaire de base est au moins proposé en euros.
+Les alinéas 2 et 3 s'appliquent dans la mesure où l'établissement de crédit propose ces possibilités déjà au consommateur titulaire d'un compte de paiement autre qu'un compte de paiement dans le cadre du service bancaire de base.
+Le Roi peut étendre le service bancaire de base aux services supplémentaires qui sont jugés essentiels pour le consommateur compte tenu des pratiques courantes.
+§ 2. Tout établissement de crédit doit offrir le service bancaire de base. Tout consommateur résidant légalement dans un Etat membre a droit au service bancaire de base.
+Les conditions applicables à la détention d'un service bancaire de base ne sont en aucun cas discriminatoires.
 L'accès au service bancaire de base ne peut dépendre de la conclusion d'un contrat relatif à un service accessoire.
 § 3. Le forfait maximal pour le service bancaire de base ne peut excéder le montant de 12 euros par an.
-Le Roi détermine le nombre d'opérations compris dans ce forfait. Il peut adapter ce tarif.
-§ 4. En cas de dépassement du nombre d'opérations autorisées, l'établissement de crédit peut facturer ces opérations au prix habituellement pratiqué.
-Le Roi peut fixer un prix maximum par opération.
+Le Roi peut adapter le tarif en tenant au moins compte des niveaux des revenus nationaux et des frais moyens pour les services proposés en liaison avec un compte de paiement.
+Les frais facturés au consommateur en cas de non-respect des engagements qu'il a pris dans le contrat-cadre sont raisonnables.
+Le Roi peut déterminer ce que sont des frais raisonnables.
+§ 4. Le service bancaire de base offre au consommateur la possibilité d'effectuer un nombre illimité d'opérations en rapport avec les services visés au § 1er.
+Le Roi peut cependant déterminer qu'un nombre minimum d'opérations en rapport avec les services visés à l'article VII.57, § 1er, sont gratuites et qu'un nombre minimum de virements papier sont disponibles à un prix raisonnable, en veillant à ce que le nombre minimum d'opérations soit suffisant pour couvrir l'usage personnel du consommateur, en tenant compte du comportement de celui-ci et des pratiques commerciales courantes. Les frais facturés pour les opérations au-delà du nombre minimum d'opérations ne sont jamais plus élevés que ceux facturés dans le cadre de la politique tarifaire habituelle de l'établissement de crédit.
 § 5. L'établissement de crédit ne peut, ni expressément, ni tacitement, proposer ou accorder une ouverture de crédit associé à un service bancaire de base.
 Une opération de paiement dans le cadre d'un service bancaire de base, ne peut être exécutée si elle engendre un solde débiteur.
