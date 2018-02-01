@@ -1,5 +1,6 @@
 Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux dispositions:
-1° des articles VII. 7, VII. 8 et VII. 9, relatifs aux exigences en matière d'informations pour les opérations de paiement isolées;
+1° des articles VII.4/1 à VII.4/4 relatifs à la comparabilité des frais liés aux comptes de paiement;
+1° /1 des articles VII.7, VII.8 et VII.9 relatifs aux exigences en matière d'information pour les opérations de paiement isolées;
 2° des articles VII. 12 et VII. 13 relatifs aux exigences en matière d'informations des contrats-cadres concernant les services de paiement et de l'article VII. 15, relatif à l'accès aux informations et aux conditions du contrat-cadre;
 3° de l'article VII. 15, relatif à la modification des conditions du contrat-cadre;
 4° de l'article VII. 16, relatif à la résiliation du contrat-cadre et ses conséquences;
@@ -23,3 +24,4 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 22° du Règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte, à l'exception de son article 7;
 23° de l'arrêté royal pris en exécution de l'article VII.63/1 et de l'article VII.63/2 de ce Code.
 Cette sanction n'est pas applicable à l'utilisateur de services de paiement qui agit en qualité de consommateur.
+24° des articles VII.62/1 à VII.62/7 relatifs au service de changement de comptes de paiement.
