@@ -1,0 +1,3 @@
+L'exécution du contrat de travail est suspendue en cas de manque de travail résultant de causes économiques, tel que déterminé aux articles 51 et 77/1 à 77/8 de la présente loi.
+La cause du manque de travail visé à l'alinéa 1er doit être indépendante de la volonté de l'employeur, ce qui n'est pas le cas lorsqu'il sous-traite à des tiers les travaux qui auraient dû être effectués par les travailleurs pendant la durée de la suspension de l'exécution de leur contrat de travail.
+En cas de non-respect des dispositions de l'alinéa 2, l'employeur est tenu de payer au travailleur sa rémunération normale pour les jours pendant lesquels il a sous-traité à des tiers le travail habituellement exécuté par ce travailleur.
