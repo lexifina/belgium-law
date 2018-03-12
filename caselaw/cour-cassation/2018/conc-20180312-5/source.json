@@ -1,0 +1,29 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2018:CONC.20180312.5",
+  "ecli": "ECLI:BE:CASS:2018:CONC.20180312.5",
+  "court": "Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2018-03-12",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 12 maart 2018",
+  "published_on_juportal": "2018-04-10",
+  "language": "nl",
+  "role_number": "S.17.0077.N",
+  "case_name_as_published": "",
+  "subjects": [
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SOCIALE ZEKERHEID - WERKNEMERS",
+    "Uitbreiding - Hoedanigheid van lasthebber - Bevoegdheid Koning - Gevolg"
+  ],
+  "fiche": [
+    "SOCIALE ZEKERHEID - WERKNEMERS",
+    "Uitbreiding - Hoedanigheid van lasthebber - Bevoegdheid Koning - Gevolg"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2018:CONC.20180312.5",
+  "source_sha256": "da7eaadde62aa78ab037b2e436cf0a727fa0a7ed7d1a50cc5d46fb07d81d454e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2018:CONC.20180312.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
