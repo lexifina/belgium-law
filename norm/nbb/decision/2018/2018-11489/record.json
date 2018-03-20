@@ -1,0 +1,18 @@
+{
+  "title": "Décision de mise en équilibre tarifaire en application de l’article 504 Loi du 13 mars 2016 relative au contrôle des entreprises d’assurance ou de réassurance",
+  "issuer": "nbb",
+  "kind": "decision",
+  "in_force": "2018-03-20",
+  "in_force_basis": "Par décision du 20 mars 2018; cette mise en équilibre des tarifs imposée implique une augmentation immédiate.",
+  "source": "https://www.nbb.be/doc/cp/moniteur/2018/20180328_allianz.pdf",
+  "source_sha256": "960ff8d152f7204eb77ea5bec3d94884133136f691fe64bd58a4901628eb58da",
+  "source_listing": "https://www.nbb.be/en/financial-supervision/news/banque-nationale-de-belgique-decision-de-mise-en-equilibre-tarifaire-en-application-de-larticle-504",
+  "text_status": "as-enacted",
+  "languages": [
+    "nl",
+    "fr"
+  ],
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0
+}
