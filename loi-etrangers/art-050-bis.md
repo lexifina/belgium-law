@@ -1,3 +1,1 @@
-Le bénéficiaire de la protection temporaire visé à l'article 57/29, peut, à tout moment, (introduire une demande d'asile auprès de) l'une des autorités désignées par le Roi en exécution de l'article 50, alinéa 1.
-L'étranger qui a bénéficié d'une protection temporaire en vertu de l'article 57/29 et qui désire obtenir le statut de réfugié (ou le statut de protection subsidiaire, doit introduire une demande d'asile auprès de) l'une des autorités désignées par le Roi en exécution de l'article 50, alinéa 1, dans les huit jours ouvrables qui suivent la fin du régime de protection tempo raire dans un des cas prévus à l'article 57/36, § 1.
-(L'autorité auprès de laquelle l'étranger visé à l'alinéa 1er ou 2, introduit sa demande d'asile), lui en donne acte par écrit et la porte à la connaissance du ministre ou de son délégué, qui en informe immédiatement le Commissaire général aux réfugiés et aux apatrides.
+(Abrogé)

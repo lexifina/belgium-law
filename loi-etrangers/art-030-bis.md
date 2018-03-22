@@ -1,4 +1,4 @@
-§ 1er. Pour l'application du présent article, il y a lieu d'entendre par " prise de données biométriques ", la prise d'empreintes digitales et de photographies.
+§ 1er. Pour l'application du présent article, il y a lieu d'entendre par "prise de données biométriques", le relevé d'empreintes digitales et la capture de l'image faciale. Par "image faciale", on entend les images numériques du visage, d'une résolution et d'une qualité suffisantes pour servir à la mise en correspondance biométrique automatique.
 § 2. Peuvent être soumis à la prise de données biométriques:
 1° l'étranger qui demande un visa, une autorisation tenant lieu de visa ou une autorisation de séjour auprès d'un représentant diplomatique ou consulaire belge ou d'un représentant diplomatique ou consulaire qui représente les intérêts de la Belgique ...;
 2° l'étranger qui introduit dans le Royaume une demande d'autorisation de séjour de trois mois au maximum ou une demande en vue d'y être admis ou autorisé à un séjour de plus de trois mois ...;
