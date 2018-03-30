@@ -2073,18 +2073,22 @@ Est puni d'une sanction de niveau 2, l'employeur au sens de la loi du 5 mars 200
 Est punie d'une sanction de niveau 2, toute personne qui, en contravention à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, n'a pas tenu le document prescrit par le Roi et permettant de calculer la moyenne des travailleurs intérimaires occupés par un utilisateur en vue de la détermination des seuils d'institution d'un conseil d'entreprise et d'un comité pour la prévention et la protection au travail.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0081" href="#LNKR0081">Section 2.</a> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
+<a name="LNK0081" href="#LNKR0081">Section 2.</a> [<sup>1</sup> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle, l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité et le contrat de travail pour l'exécution de travail temporaire]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018033032" target="_blank">2018-03-30/32</a>, art. 18, 028; En vigueur : 01-01-2018&gt;
 
-<a name="Art.186" href="#Art.185">Art.</a> <a href="#LNK0082"> 186</a>. Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire
+<a name="Art.186" href="#Art.185">Art.</a> <a href="#LNK0082"> 186</a>.[<sup>1</sup> ...]<sup>1</sup>
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux :
-1° n'établit pas le contrat relatif à une occupation d'étudiants par écrit;
+1° n'établit pas le contrat relatif à une occupation d'étudiants [<sup>1</sup> et l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité]<sup>1</sup> par écrit;
 2° ne mentionne pas un travailleur qui est lié à l'employeur par le contrat relatif à une occupation d'étudiants dans le registre général du personnel, dans le registre spécial du personnel et dans le registre de présence;
-3° ne conserve pas le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire pendant la durée prescrite;
-4° omet de délivrer le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire aux travailleurs dans les délais imposés;
+3° ne conserve pas le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle [<sup>1</sup> , l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité]<sup>1</sup> et le contrat de travail pour l'exécution de travail temporaire pendant la durée prescrite;
+4° omet de délivrer le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle [<sup>1</sup> , l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité]<sup>1</sup> et le contrat de travail pour l'exécution de travail temporaire aux travailleurs dans les délais imposés;
 5° établit le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire de manière incomplète ou inexacte;
 6° ne prend pas les mesures nécessaires afin que le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle et le contrat de travail pour l'exécution de travail temporaire soient tenus en tout temps à la disposition des fonctionnaires et agents chargés de la surveillance;
 7° ne garde pas ou ne conserve pas le contrat relatif à une occupation d'étudiants au lieu indiqué.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018033032" target="_blank">2018-03-30/32</a>, art. 18, 028; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0082" href="#LNKR0082">Section 3.</a> - Le compte individuel
 
