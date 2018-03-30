@@ -2502,73 +2502,35 @@ Sont punis d'une sanction de niveau 2 :
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012021514" target="_blank">2012-02-15/14</a>, art. 4, 004; En vigueur : 18-03-2012&gt;
 
-<a name="LNK0106" href="#LNKR0106">Section 9/1</a> [<sup>1</sup> - Les obligations des employeurs, des organisateurs, des organismes de pensions et des personnes morales chargées de l'exécution de l'engagement de solidarité en matière de pensions complémentaires]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 44, 017; En vigueur : 01-05-2016&gt;
+<a name="LNK0106" href="#LNKR0106">Section 9/1</a>
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/1" href="#Art.225">Art.</a> <a href="#Art.225/2"> 225/1</a>. [<sup>1</sup> L'instauration d'un engagement de pension
-Est puni d'une sanction de niveau 2, l'organisateur ou l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution :
-1° octroie un engagement individuel de pension au profit d'un ou de plusieurs travailleurs et/ou de leur ayants droits sans qu'un régime de pension complémentaire existe dans l'entreprise pour tous les travailleurs;
-2° ne communique pas annuellement à l'Autorité des services et marchés financiers le nombre d'engagements de pension individuels par catégorie de travailleurs et la preuve qu'il existe dans l'entreprise un régime de pension complémentaire pour tous les travailleurs.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 45, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/1" href="#Art.225">Art.</a> <a href="#Art.225/2"> 225/1</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/2" href="#Art.225/1">Art.</a> <a href="#Art.225/3"> 225/2</a>. [<sup>1</sup> L'obligation de communication de documents
-Est puni d'une sanction de niveau 1, l'organisme de pension, l'organisateur ou l'employeur qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution :
-1° ne communique pas au moins une fois par an aux affiliés, à l'exception des rentiers, une fiche de pension qui contient les données prescrites par la loi précitée du 28 avril 2003;
-2° ne communique pas à l'affilié qui le demande un aperçu historique des réserves acquises et des prestations acquises;
-3° ne communique pas au moins tous les cinq ans à tous les affiliés à partir de l'âge de quarante-cinq ans le montant de la rente, sans déduction de l'impôt, à attendre à l'âge de soixante-cinq ans;
-4° lors du départ à la retraite ou lorsque d'autres prestations deviennent exigibles, n'informe pas le bénéficiaire ou ses ayants droits des prestations qui sont dues et des possibles options de paiement.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 46, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/2" href="#Art.225/1">Art.</a> <a href="#Art.225/3"> 225/2</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/3" href="#Art.225/2">Art.</a> <a href="#Art.225/4"> 225/3</a>. [<sup>1</sup> Les prestations versées en capital
-Est puni d'une sanction de niveau 1, l'organisateur ou l'employeur ou la personne désignée par une convention collective de travail ou le règlement de pension qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution :
-1° n'informe pas l'affilié de son droit de demander la transformation en rente de la prestation versée en capital deux mois avant la retraite ou dans les deux semaines après qu'il ait eu connaissance de la retraite anticipée;
-2° n'informe pas les ayants droits du droit visé au 1° dans les deux semaines après qu'il ait eu connaissance du décès de l'affilié.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 47, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/3" href="#Art.225/2">Art.</a> <a href="#Art.225/4"> 225/3</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/4" href="#Art.225/3">Art.</a> <a href="#Art.225/5"> 225/4</a>. [<sup>1</sup> La sortie d'un travailleur
-Est puni d'une sanction de niveau 2, l'organisateur ou l'employeur, son préposé ou son mandataire et l'organisme de pension, son préposé ou son mandataire qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution, ne respectent pas la procédure de sortie d'un travailleur.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 48, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/4" href="#Art.225/3">Art.</a> <a href="#Art.225/5"> 225/4</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/5" href="#Art.225/4">Art.</a> <a href="#Art.225/6"> 225/5</a>. [<sup>1</sup> Le changement d'organisme de pension et transferts
-Est puni d'une sanction de niveau 1, l'organisateur ou l'employeur ou la personne désignée par une convention collective de travail ou le règlement de pension qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution :
-1° n'informe pas les affiliés de tout changement d'organisme de pension et du transfert éventuel des réserves qui y fait suite;
-2° n'informe pas préalablement l'Autorité des services et marchés financiers du changement d'organisme de pension et du transfert éventuel des réserves.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 49, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/5" href="#Art.225/4">Art.</a> <a href="#Art.225/6"> 225/5</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/6" href="#Art.225/5">Art.</a> <a href="#Art.225/7"> 225/6</a>. [<sup>1</sup> La déclaration écrite sur les principes de la politique de placement et le rapport sur la gestion de l'engagement de pension
-Est puni d'une sanction niveau 1 :
-1° l'organisme de pension qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution :
-a) n'élabore pas une déclaration écrite sur les principes de sa politique de placement comportant les mentions prévues par la loi précitée du 28 avril 2003;
-b) ne revoit pas la déclaration écrite visée au a) au moins tous les trois ans et immédiatement après tout changement majeur de la politique de placement;
-c) ne communique pas dans le mois à l'Autorité des services et marchés financiers toute modification de la déclaration visée au a);
-2° l'organisme de pension ou la personne désignée par une convention collective de travail ou le règlement de pension qui, en contravention à la loi précitée du 28 avril 2003 et à ses arrêtés d'exécution :
-a) ne rédige pas de rapport sur la gestion de l'engagement de pension conforme à ce que prescrit la loi précitée du 28 avril 2003;
-b) ne met pas le rapport visé au a) à disposition de l'organisateur.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 50, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/6" href="#Art.225/5">Art.</a> <a href="#Art.225/7"> 225/6</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/7" href="#Art.225/6">Art.</a> <a href="#Art.225/8"> 225/7</a>. [<sup>1</sup> Le contrôle de l'Autorité des services et marchés financiers
-Sont punis d'une sanction de niveau 1 :
-1° les organismes de pension et les personnes morales concernées par l'exécution des engagements de solidarité qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution, ne communique pas à l'Autorité des services et marchés financiers la liste des engagements de pension et des engagements de solidarité qu'ils gèrent, les données d'identité des organisateurs concernés, ainsi que les renseignements relatifs aux engagements gérés que l'Autorité des services et marchés financiers détermine;
-2° les organismes de pension, les organisateurs ou les employeurs et les personnes morales concernées par l'exécution des engagements de solidarité qui, en contravention à la loi précitée du 28 avril 2003 et à ses arrêtés d'exécution, ne soumettent pas tous les renseignements et ne fournissent pas tous documents à la demande de l'Autorité des services et marchés financiers en vue du contrôle du respect des dispositions de la loi précitée du 28 avril 2003 et de ses arrêtés d'exécution.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 51, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/7" href="#Art.225/6">Art.</a> <a href="#Art.225/8"> 225/7</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/8" href="#Art.225/7">Art.</a> <a href="#Art.225/9"> 225/8</a>. [<sup>1</sup> Les déclarations inexactes
-Sont punis d'une sanction de niveau 4, les organismes de pension, leurs préposés ou leurs mandataires, les personnes morales concernées par l'exécution des engagements de solidarité, leurs préposés ou leurs mandataires, les organisateurs et les employeurs, leurs préposés ou leurs mandataires qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution, font sciemment et volontairement des déclarations inexactes à l'Autorité des services et marchés financiers ou à la personne mandatée par lui.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 52, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/8" href="#Art.225/7">Art.</a> <a href="#Art.225/9"> 225/8</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
-<a name="Art.225/9" href="#Art.225/8">Art.</a> <a href="#LNK0107"> 225/9</a>. [<sup>1</sup> Les engagements de pension illégaux
-Sont punis d'une sanction de niveau 2, les organismes de pension, leurs préposés ou leurs mandataires, les personnes morales concernées par l'exécution des engagements de solidarité, leurs préposés ou leurs mandataires, les organisateurs et les employeurs, leurs préposés ou leurs mandataires qui, en contravention à la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale et à ses arrêtés d'exécution, collaborent à l'exécution d'engagements de pensions qui sont contraires à la loi précitée du 28 avril 2003 et à ses arrêtés d'exécution.]<sup>1</sup>
-----------
-(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 53, 017; En vigueur : 01-05-2016&gt;
+<a name="Art.225/9" href="#Art.225/8">Art.</a> <a href="#LNK0107"> 225/9</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018021807" target="_blank">2018-02-18/07</a>, art. 48, 027; En vigueur : 30-03-2018&gt;
 
 <a name="LNK0107" href="#LNKR0107">Section 10.</a> - Le contrôle du chômage
 
