@@ -2435,7 +2435,7 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 6° n'a pas versé les différentes cotisations, assimilées à une cotisation de sécurité sociale, dues en application de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.219" href="#Art.218">Art.</a> <a href="#Art.220"> 219</a>. Le non-paiement des cotisations aux autres organismes relevant des différents régimes de sécurité sociale ou d'un secteur d'activité
+<a name="Art.219" href="#Art.218">Art.</a> <a href="#Art.220"> 219</a>.Le non-paiement des cotisations aux autres organismes relevant des différents régimes de sécurité sociale ou d'un secteur d'activité
 Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui :
 a) n'a pas versé le montant de la cotisation supplémentaire dans le mois qui suit le trimestre au cours duquel la cotisation a été réclamée par la caisse d'allocations familiales à laquelle il est affilié en application des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939;
@@ -2443,9 +2443,11 @@ b) n'a pas versé au Fonds des accidents du travail, dans les délais prescrits 
 c) n'a pas versé au Fonds des maladies professionnelles la cotisation de solidarité dont il est redevable en application des lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970;
 2° l'armateur, son préposé ou son mandataire qui :
 a) n'a pas payé ou n'a pas payé dans les délais la totalité de la cotisation obligatoire au Fonds des mousses en application de la loi du 23 septembre 1931 sur le recrutement du personnel de la pêche maritime;
-b) n'a pas versé à la Caisse de secours et de prévoyance en faveur des marins les cotisations de sécurité sociale dans les délais fixés par le Roi, en application de l'arrêté loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande et de ses arrêtés d'exécution;
+b) n'a pas versé à [<sup>1</sup> l'Office national de sécurité sociale]<sup>1</sup> les cotisations de sécurité sociale dans les délais fixés par le Roi, en application de [<sup>1</sup> la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et de ses arrêtés d'exécution]<sup>1</sup>;
 3° les personnes physiques ou morales ayant l'industrie ou le commerce du diamant comme activité principale ou accessoire et les personnes important du diamant brut qui n'ont pas payé respectivement la cotisation et la cotisation de compensation au Fonds de compensation interne pour le secteur du diamant selon les modalités et dans les délais définis par le Roi en application de la loi du 12 avril 1960 portant création d'un Fonds de compensation interne pour le secteur du diamant.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018051505" target="_blank">2018-05-15/05</a>, art. 5, 029; En vigueur : 01-01-2018&gt;
 
 <a name="Art.220" href="#Art.219">Art.</a> <a href="#Art.220/1"> 220</a>. Le non-paiement de cotisations au Fonds de sécurité d'existence
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence et aux dispositions d'une convention collective de travail rendue obligatoire par arrêté royal, n'a pas versé la cotisation au Fonds de sécurité d'existence dans les délais et selon les modalités prescrites par ses statuts.
@@ -2481,7 +2483,7 @@ b) n'ont pas prévenu le Fonds des accidents du travail dans les trente jours qu
 <a name="Art.223" href="#Art.222">Art.</a> <a href="#LNK0104"> 223</a>.La transmission de documents aux institutions par les employeurs
 § 1er. Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui n'a pas fait parvenir à l'Office national de sécurité sociale une déclaration justificative du montant des cotisations de sécurité sociale dues en application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
-2° l'armateur, son préposé ou son mandataire qui n'a pas fait parvenir à la Caisse de secours et de prévoyance en faveur des marins un état détaillé des retenues opérées et des versements dont il est redevable en application de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande;
+2° l'armateur, son préposé ou son mandataire qui n'a pas fait parvenir à [<sup>3</sup> L'Office national de sécurité sociale]<sup>3</sup> un état détaillé des retenues opérées et des versements dont il est redevable en application de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande;
 3° l'employeur, son préposé ou son mandataire qui n'a pas déclaré, de la manière et dans les délais fixés par le Roi, à l'assureur compétent [<sup>1</sup> ...]<sup>1</sup> tout accident qui peut donner lieu à l'application de la loi du 10 avril 1971 sur les accidents du travail.
 Lorsque les faits sont commis sciemment et volontairement, la sanction est de niveau 3.
 En ce qui concerne [<sup>2</sup> les infractions visées]<sup>2</sup> à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
@@ -2490,6 +2492,7 @@ En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multiplié
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 43, 017; En vigueur : 01-05-2016&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 68, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">3</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018051505" target="_blank">2018-05-15/05</a>, art. 5, 029; En vigueur : 01-01-2018&gt;
 
 <a name="LNK0104" href="#LNKR0104">Section 8.</a> - La délivrance au travailleur des documents en matière de soins de santé et indemnités
 
