@@ -4,3 +4,4 @@ Le président du tribunal du travail, saisi par voie de requête, statue sur:
 3° les demandes en cessation formées en vertu de l'article 18 de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie;
 4° les demandes en cessation formées en vertu de l'article 25 de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes;
 4°bis. les demandes formées en vertu de l'article 32decies, § § 2 et 3, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+5° les demandes formées en vertu des articles 165 et 166, §§ 3 et 4 du chapitre 13 en matière de régime de licenciement des délégués syndicaux et candidats-délégués syndicaux contractuels visés par la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.
