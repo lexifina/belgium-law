@@ -1,0 +1,2 @@
+Si, après déclaration de faillite et avant clôture de celle-ci, intervient la dissolution du régime matrimonial des époux, ni le conjoint du failli, ni les curateurs ne peuvent se prévaloir des avantages déterminés dans le contrat de mariage.
+Le paiement des dettes communes contractées par le failli dans l'exercice de son activité professionnelle et qui ne sont point réglées par la liquidation de la faillite, ne peut être poursuivi sur le patrimoine propre du conjoint du failli.

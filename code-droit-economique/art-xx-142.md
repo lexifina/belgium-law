@@ -1,0 +1,1 @@
+Les curateurs peuvent, nonobstant tout recours contre le jugement déclaratif de faillite et sur l'autorisation du juge-commissaire, vendre immédiatement les actifs sujets à dépérissement prochain, à dépréciation imminente, ou si le coût de la conservation des biens est trop élevé compte tenu des actifs de la faillite.

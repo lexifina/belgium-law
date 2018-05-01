@@ -1,0 +1,4 @@
+Sans préjudice de l'obligation d'information prévue à l'article XX.126 et pour autant que cette démarche permette d'éviter le conflit d'intérêts, le curateur demande, par voie de requête adressée au tribunal de l'insolvabilité, la désignation d'un curateur ad hoc. Le tribunal statue sur le rapport du juge-commissaire.
+Le tribunal peut également désigner d'office un curateur ad hoc. La procédure prévue à l'article XX.126, s'applique par analogie.
+Lorsqu'un curateur ad hoc est désigné en remplacement du curateur, il doit confirmer l'acceptation de sa mission par le biais du registre. Au terme de sa mission, le curateur ad hoc rédige un rapport de ses activités et fait chiffrer son état de frais et ses honoraires par le tribunal, qui statue après avoir entendu le juge-commissaire et le curateur.
+Le curateur fait figurer l'état de frais et honoraires du curateur ad hoc dans son décompte final au titre de frais de la faillite.

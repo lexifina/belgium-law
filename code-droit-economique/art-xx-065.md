@@ -1,0 +1,11 @@
+§ 1er. Lorsque la procédure de réorganisation judiciaire tend à la conclusion d'un ou plusieurs accords amiables, le débiteur poursuit cet objectif sous la surveillance du juge délégué et, le cas échéant, avec l'aide d'un médiateur d'entreprise ou d'un mandataire de justice désigné par application de l'article XX.31.
+§ 2. Les articles 1328 du Code civil, XX.111, 2° et 3°, et XX.112 ne sont applicables ni à un accord amiable ni aux actes accomplis en exécution de celui-ci.
+§ 3. En cas d'accord amiable, le tribunal, statuant sur requête contradictoire du débiteur et sur le rapport du juge délégué, homologue l'accord, lui confère un caractère exécutoire et clôture la procédure.
+Le cas échéant, le tribunal, sur requête contradictoire du débiteur, peut octroyer des délais modérés tels que visés à l'article 1244 du Code civil.
+§ 4. La décision d'homologation ou d'octroi de délais modérés peut proroger la mission du médiateur d'entreprise ou du mandataire de justice désigné par application de l'article XX.31 pour faciliter l'exécution de l'accord amiable ou des obligations du débiteur.
+§ 5. Ces décisions sont publiées selon les modalités prévues à l'article XX.48.
+§ 6. Le coût éventuel des formalités légales d'opposabilité aux tiers des droits conférés par l'accord amiable bénéficie du privilège prévu aux articles 17 et 19, 1°, de la loi hypothécaire du 16 décembre 1851 en cas de concours subséquent.
+Lorsqu'il constate la fin de la mission du médiateur d'entreprise ou du mandataire de justice désigné conformément à l'article XX.31, le président du tribunal arrête son état de frais et honoraires.
+La créance de ce chef bénéficie du privilège prévu aux articles 17 et 19, 1°, de la loi hypothécaire du 16 décembre 1851 dans un concours subséquent.
+§ 7. Le présent article laisse entières les obligations de consulter et d'informer les travailleurs ou leurs représentants conformément aux dispositions légales ou conventionnelles en vigueur.
+§ 8. La responsabilité des créanciers parties à un accord amiable ne peut être poursuivie par le débiteur, par un autre créancier ou par les tiers pour la seule raison que cet accord amiable n'a pas effectivement permis la continuité de tout ou partie des actifs ou des activités.

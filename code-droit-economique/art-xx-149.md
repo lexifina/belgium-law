@@ -1,0 +1,1 @@
+Lorsqu'un débiteur a été déclaré en faillite après son décès ou lorsque le failli décède après la déclaration de sa faillite, ses héritiers peuvent se présenter ou se faire représenter dans toutes les opérations de faillite. Ils ont un même droit d'accès au dossier de la faillite qu'avait le failli de son vivant.

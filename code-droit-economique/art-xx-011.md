@@ -1,0 +1,1 @@
+Quand les dispositions du présent livre prévoient qu'un acte est accompli par écrit, cette exigence est satisfaite si l'acte est déposé par voie électronique par une personne authentifiée via le registre et pourvu d'une signature électronique.

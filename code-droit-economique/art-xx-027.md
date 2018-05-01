@@ -1,0 +1,1 @@
+Conformément aux modalités fixées par le Roi, le tribunal peut échanger les données recueillies avec les organismes publics ou privés désignés ou agréés par l'autorité compétente pour assister les entreprises en difficulté.

@@ -1,0 +1,4 @@
+Le sursis ne fait pas obstacle au paiement volontaire de créances sursitaires par le débiteur dans la mesure où ce paiement est nécessaire à la continuité de l'entreprise.
+Les articles XX.111, 2°, et XX.112 ne sont pas applicables aux paiements faits au cours de la période de sursis.
+Les créances sursitaires ne sont pas prises en considération dans la réglementation sur les marchés publics pour établir si le débiteur respecte ou non les modalités de remboursement des créances concernées. L'Office National de la Sécurité Sociale ou l'administration des impôts ne font pas mention de ces créances dans les attestations qu'ils délivrent.
+L'action directe instituée par l'article 1798 du Code civil n'est pas entravée par le jugement qui a déclaré ouverte la réorganisation judiciaire de l'entrepreneur, ni par les décisions ultérieures prises par le tribunal au cours de celle-ci ou prises par application de l'article XX.84, § 2.

@@ -1,0 +1,1 @@
+Toute décision de refus d'inscription sur la liste des curateurs ou d'omission d'inscription peut faire l'objet d'un recours devant la Cour d'appel. Les débats se déroulent à huis clos si l'intéressé le demande. Le délai pour introduire le recours est d'un mois à partir du jour de la notification de la décision. La cour ordonne, le cas échéant, l'inscription sur la liste.

@@ -1,0 +1,4 @@
+A défaut de déclaration et d'affirmation de leurs créances, les défaillants connus ou inconnus ne sont pas compris dans les répartitions.
+Jusqu'à la convocation à l'assemblée visée à l'article XX.170, les défaillants ont le droit d'agir en admission sans que leur demande ne puisse suspendre les répartitions ordonnées. Ils ne peuvent prétendre à un dividende que sur l'actif non encore reparti. Les frais et dépenses auxquels la vérification et l'admission de leurs créances donnent lieu restent à leur charge.
+Le droit d'agir en admission se prescrit par un an à dater du jugement déclaratif de faillite, sauf pour la créance constatée dans le cadre d'une action en intervention ou garantie, poursuivie ou intentée en cours de liquidation.
+Le droit d'agir en admission d'une créance constatée pendant la liquidation par un autre tribunal que celui de la faillite se prescrit par six mois à dater du jugement définitif passé en force de chose jugée.

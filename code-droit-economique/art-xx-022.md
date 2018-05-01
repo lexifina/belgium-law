@@ -1,0 +1,1 @@
+Sans préjudice de l'article 1389bis/16 du Code judiciaire, les avis de protêt visés à l'article 1390quater/1 du même Code sont consultables au greffe du tribunal du ressort dans lequel se situe le centre des intérêts principaux du débiteur d'une lettre de change ou d'un billet à ordre.

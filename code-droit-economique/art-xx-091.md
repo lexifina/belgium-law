@@ -1,0 +1,3 @@
+La vente a lieu conformément au projet admis par le tribunal.
+Lorsque la vente porte sur des meubles et que le projet prévoit leur vente publique, le jugement désigne l'huissier de justice qui sera chargé de la vente et qui en recueillera le prix. Ce dernier est perçu par le mandataire de justice désigné par le tribunal et ensuite réparti dans le respect des causes légitimes de préférence.
+Le mandataire de justice invite tous les créanciers mentionnés sur la liste visée à l'article XX.41, § 2, 7°, à faire une déclaration dans le registre, à l'exception des créanciers dont il constate qu'ils n'entreront pas en ligne de compte pour une répartition.

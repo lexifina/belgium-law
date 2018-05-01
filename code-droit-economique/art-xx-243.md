@@ -1,0 +1,2 @@
+Une évaluation, par le ministre qui a la Justice dans ses compétences, du caractère approprié des procédures visées par le présent Livre pour les associations sans but lucratif telles que définies par la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations, est prévue deux ans après l'entrée en vigueur du présent Livre. Cette étude propose, le cas échéant, des pistes d'améliorations législatives.
+L'étude est transmise à la Chambre des représentants.

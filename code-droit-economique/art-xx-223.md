@@ -1,0 +1,1 @@
+Si à la fin de la procédure territoriale d'insolvabilité il subsiste un solde positif, le praticien de l'insolvabilité désigné dans cette procédure transfère sans délai le solde au praticien de l'insolvabilité de la procédure principale.

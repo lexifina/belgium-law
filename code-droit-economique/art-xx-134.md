@@ -1,0 +1,3 @@
+Dès leur entrée en fonction, les curateurs procèdent, sans désemparer et sous la surveillance du juge-commissaire, à l'inventaire des biens du failli, lequel est présent ou dûment appelé. Le juge-commissaire signe l'inventaire. L'inventaire signé est déposé dans le registre.
+L'inventaire décrit séparément tous les biens y compris ceux visés à l'article XX.110, § 3.
+Les curateurs peuvent, avec l'autorisation du juge-commissaire, se faire aider, sous leur responsabilité, pour la rédaction de l'inventaire comme pour l'estimation des objets, pour la conservation des actifs et pour leur réalisation, par qui ils jugent convenable.
