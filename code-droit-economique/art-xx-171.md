@@ -1,0 +1,4 @@
+Sur le rapport du juge-commissaire, le failli dûment appelé par pli judiciaire contenant le texte du présent article, le tribunal ordonne la clôture de la faillite, après avoir tranché le cas échéant les contestations relatives au compte et redressé celui-ci s'il y a lieu.
+Dans le mois du jugement ordonnant la clôture de la faillite, les curateurs transmettent à l'administration de la T.V.A. et à l'administration centrale de la fiscalité des entreprises et des revenus une copie du compte simplifié corrigé ainsi qu'un relevé des sommes qui ont été effectivement versées aux divers créanciers.
+Le jugement ordonnant la clôture de la faillite, fait l'objet par les soins du curateur d'une publication par extrait au Moniteur belge.
+La clôture de la faillite met fin à la mission des curateurs, sauf en ce qui concerne l'exécution de la clôture et comporte une décharge générale.
