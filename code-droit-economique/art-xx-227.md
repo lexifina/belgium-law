@@ -1,0 +1,10 @@
+§ 1er. En cas de faillite d'une entreprise et d'insuffisance d'actif, les administrateurs, gérants, délégués à la gestion journalière, membres du comité de direction ou du conseil de surveillance, actuels ou anciens, et toutes les autres personnes qui ont effectivement détenu le pouvoir de diriger l'entreprise, peuvent être déclarés personnellement obligés, avec ou sans solidarité, de tout ou partie des dettes sociales à l'égard de la masse, si:
+a) à un moment donné antérieur à la faillite, la personne concernée savait ou devait savoir qu'il n'y avait manifestement pas de perspective raisonnable pour préserver l'entreprise ou ses activités et d'éviter une faillite;
+b) la personne concernée avait à ce moment l'une des qualités visées ci-dessus; et
+c) la personne concernée n'a pas, au moment visé sous a), agi comme l'aurait fait un administrateur normalement prudent et diligent placé dans les mêmes circonstances.
+§ 2. L'action visée par cet article relève de la compétence exclusive du curateur.
+§ 3. L'indemnisation accordée par le tribunal en réparation d'une diminution ou d'une absence d'actif est répartie proportionnellement entre les créanciers en respectant les causes légitimes de préférences.
+L'indemnisation accordée par le tribunal en réparation d'une aggravation du passif est répartie proportionnellement entre tous les créanciers sans tenir compte des causes légitimes de préférences.
+Toute répartition s'effectue déduction faite des frais de la masse.
+§ 4. Lorsque la personne, visée au paragraphe 1er, qui est déclarée personnellement obligée est titulaire d'une profession libérale, le greffier notifie une copie du jugement à l'ordre ou à l'institut.
+§ 5. Le paragraphe 1er n'est pas applicable lorsque l'entreprise déclarée en faillite est une ASBL, AISBL et fondation qui tient une comptabilité simplifiée conformément aux articles 17, 37 et 53 de la loi du 27 juin 1921 sur les associations sans but lucratif, les fondations, les partis politiques européens et les fondations politiques européennes.

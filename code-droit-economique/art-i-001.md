@@ -1,5 +1,12 @@
-Sauf disposition contraire prévue au titre 2, pour l'application du présent Code, on entend par:
-1° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
+Sauf disposition contraire ..., pour l'application du présent Code, on entend par:
+1° entreprise: chacune des organisations suivantes:
+(a) toute personne physique qui exerce une activité professionnelle à titre indépendant;
+(b) toute personne morale;
+(c) toute autre organisation sans personnalité juridique.
+Nonobstant ce qui précède, ne sont pas des entreprises, sauf s'il en est disposé autrement dans les livres ci-dessous ou d'autres dispositions légales prévoyant une telle application:
+(a) toute organisation sans personnalité juridique qui ne poursuit pas de but de distribution et qui ne procède effectivement pas à une distribution à ses membres ou à des personnes qui exercent une influence décisive sur la politique de l'organisation;
+(b) toute personne morale de droit public qui ne propose pas de biens ou services sur un marché;
+(c) l'Etat fédéral, les régions, les communautés, les provinces, les zones de secours, les prézones, l'Agglomération bruxelloise, les communes, les zones pluricommunales, les organes territoriaux intracommunaux, la Commission communautaire française, la Commission communautaire flamande, la Commission communautaire commune et les centres publics d'action sociale;
 2° consommateur: toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
 3° ministre: le ministre qui a l'Economie dans ses attributions;
 4° produits: les biens et les services, les biens immeubles, les droits et les obligations;
@@ -11,5 +18,6 @@ Sauf disposition contraire prévue au titre 2, pour l'application du présent Co
 10° adresse: une adresse géographique et, le cas échéant, une adresse électronique;
 11° adresse électronique: un ensemble de données électroniques au moyen desquelles une personne peut être contactée;
 12° adresse géographique: l'ensemble des données géographiques comprenant, le cas échéant, le numéro de maison, la rue, le code postal et la commune où une personne a un établissement ou peut être contactée;
-13° SPF Economie: le Service public fédéral Economie, P.M.E., Classes moyennes et Energie."
+13° SPF Economie: le Service public fédéral Economie, P.M.E., Classes moyennes et Energie;
+14° titulaire d'une profession libérale: toute entreprise dont l'activité consiste principalement à effectuer de manière indépendante et sous sa propre responsabilité, des prestations intellectuelles pour lesquelles une formation préalable et permanente est nécessaire et qui est soumise à une déontologie dont le respect peut être imposé par une institution disciplinaire désignée par la loi ou en vertu de celle-ci;
 Le premier alinéa, 1°, 4°, 5° et 8°, ne s'applique pas au Livre XI.

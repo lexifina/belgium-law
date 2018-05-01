@@ -1,0 +1,3 @@
+Le tribunal examine d'office toutes les circonstances qui sont pertinentes pour la procédure d'insolvabilité et ordonne d'office toute mesure d'instruction utile. Il peut particulièrement à cette fin entendre des témoins et désigner des experts. Dans le cadre de ces mesures d'instruction, le tribunal tiendra compte des règles spécifiques qui régissent les entreprises visées à l'article I.1.14°, et appliquera, le cas échéant, l'article XX. 1er, § 3.
+Le juge peut fixer d'office, dans les procédures visées par le présent livre, la date de l'audience de plaidoirie sans être lié par des accords pris par les parties.
+Cette mesure n'est susceptible d'aucun recours.
