@@ -1,0 +1,3 @@
+Le conjoint du failli, l'ex-conjoint, le cohabitant légal ou l'ex-cohabitant légal du failli, qui est personnellement coobligé à la dette de celui-ci, contractée du temps du mariage ou de la cohabitation légale, est libéré de cette obligation par l'effacement.
+L'effacement ne peut profiter au cohabitant légal dont la déclaration de cohabitation légale a été faite dans les six mois précédant l'ouverture de la procédure de faillite.
+L'effacement est sans effet sur les dettes personnelles ou communes du conjoint, de l'ex-conjoint, du cohabitant légal ou de l'ex-cohabitant légal, nées d'un contrat conclu par eux, qu'elles aient été ou non contractées seul ou avec le failli, et qui sont étrangères à l'activité professionnelle du failli.

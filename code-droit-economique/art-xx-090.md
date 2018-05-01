@@ -1,0 +1,3 @@
+Le jugement qui autorise la vente est publié par extrait au Moniteur belge et communiqué aux créanciers par les soins du mandataire de justice chargé du transfert, avec indication du nom du notaire commis ou de l'huissier de justice désigné par le tribunal.
+L'affaire est examinée, en urgence, à l'audience d'introduction ou à une audience proche, le juge délégué entendu en son rapport. Le rapport du juge délégué peut toutefois également être formé par un écrit déposé au plus tard deux jours avant l'audience devant la Cour.
+Si l'acquéreur souhaite procéder à l'exécution de la vente nonobstant l'appel, le mandataire de justice y accorde son entière collaboration sans encourir la responsabilité visée à l'article 1398 du Code judiciaire.

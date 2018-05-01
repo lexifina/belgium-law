@@ -1,0 +1,1 @@
+En cas de déclaration de faillite après décès, lorsqu'il n'a point été fait d'inventaire antérieurement à cette déclaration, ou en cas de décès du failli avant l'ouverture de l'inventaire, il y est procédé immédiatement dans les formes de l'article XX.134, en présence des héritiers ou ceux-ci dûment appelés.

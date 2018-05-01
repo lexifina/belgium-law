@@ -1,0 +1,1 @@
+Le consentement préalable du conjoint d'un époux failli ou l'autorisation de justice prévus par les articles 215, § 1er, 1418 et 1420 du Code civil, ne doivent pas être obtenus par le curateur pour la vente des biens meubles et immeubles dépendant tant du patrimoine propre de l'époux failli que du patrimoine commun.

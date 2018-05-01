@@ -1,0 +1,1 @@
+Le juge-commissaire ordonne, s'il y a lieu, une répartition entre les créanciers et en fixe la quotité. Tout paiement effectué sur ordre du juge-commissaire ou avec son autorisation entraîne décharge pour les curateurs.

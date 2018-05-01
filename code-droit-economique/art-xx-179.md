@@ -1,0 +1,1 @@
+Si le créancier porteur d'engagements solidaires entre le failli et d'autres coobligés, ou garantis par une caution, a reçu, avant la faillite, un acompte sur sa créance, il n'est compris dans la masse que sous la déduction de cet acompte, et conserve, pour ce qui reste dû, ses droits contre les coobligés ou la caution.

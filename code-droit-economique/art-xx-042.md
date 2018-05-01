@@ -1,0 +1,3 @@
+Dans tous les cas, le président du tribunal désigne dès le dépôt de la requête, un juge délégué qui est, soit un juge au tribunal, le président excepté, soit un juge consulaire, pour faire rapport à la chambre du tribunal saisie de l'affaire sur la recevabilité et le fondement de la demande et sur tout élément utile à son appréciation.
+Le tribunal désigne un juge délégué dans le cas visé à l'article XX.84, avec la mission que cet article précise.
+Le juge délégué entend le débiteur et toute autre personne dont il estime l'audition utile. Il peut demander auprès du débiteur toute information requise pour apprécier sa situation.

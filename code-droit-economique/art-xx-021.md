@@ -1,0 +1,3 @@
+Les renseignements et données utiles concernant les débiteurs qui sont en difficultés financières telles que la continuité de leur activité économique peut être mise en péril, y compris ceux qui sont obtenus en application des dispositions du présent titre, sont collectés au greffe du tribunal du ressort dans lequel le débiteur a son centre des intérêts principaux.
+Le débiteur a le droit d'obtenir, par requête adressée au tribunal, la rectification des données qui le concernent.
+Conformément aux modalités fixées par le Roi, le tribunal peut également communiquer les données recueillies aux organismes publics ou privés désignés ou agréés par l'autorité compétente pour assister les entreprises en difficulté.

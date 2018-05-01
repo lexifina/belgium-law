@@ -1,0 +1,1 @@
+Par dérogation aux articles 1027 et 1029 du Code judiciaire, les requêtes unilatérales visées dans le Titre V du présent livre peuvent être signées par le débiteur seul ou par son avocat et les décisions du tribunal y relatives sont prononcées en audience publique.

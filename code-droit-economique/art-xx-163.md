@@ -1,0 +1,2 @@
+Au jour fixé pour les débats sur les contestations, le tribunal statue, sans citation préalable, s'il est possible par un même jugement, quant à toutes les contestations. Le jugement est rendu après avoir entendu, s'ils se présentent, les curateurs, le failli, les créanciers opposants et déclarants. Le jugement n'est pas susceptible d'opposition.
+Les contestations qui ne sont pas prises immédiatement en délibéré sont disjointes et ensuite traitées selon la procédure ordinaire, toutes affaires cessantes.

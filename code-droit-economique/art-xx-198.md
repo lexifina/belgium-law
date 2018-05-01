@@ -1,0 +1,1 @@
+Le revendiquant est tenu de rembourser préalablement à la reprise à la masse les acomptes par lui reçus, ainsi que toutes avances faites pour fret ou voiture, commission, assurance ou autres frais, et de payer les sommes qui seraient dues pour mêmes causes.

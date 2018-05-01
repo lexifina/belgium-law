@@ -1,0 +1,1 @@
+Le procureur du Roi et le débiteur peuvent à tout moment obtenir communication des données recueillies durant l'examen ainsi que du rapport visé à l'article XX.28. Le juge rapporteur ou le président de la chambre déterminent toutefois quels éléments ne peuvent être communiqués lorsque leur divulgation serait de nature à compromettre le secret professionnel du débiteur.

@@ -1,0 +1,1 @@
+Celui qui exécute une obligation au profit d'un débiteur soumis à une procédure d'insolvabilité ouverte alors qu'il aurait dû le faire au profit du praticien de l'insolvabilité de cette procédure, est libéré s'il ignorait l'ouverture de la procédure d'insolvabilité.

@@ -1,0 +1,1 @@
+Dans le cas prévu par les articles XX.197 et XX.199, et sous l'autorisation du juge-commissaire, les curateurs ont la faculté d'exiger la livraison des marchandises, en payant le prix convenu entre le vendeur et le failli.

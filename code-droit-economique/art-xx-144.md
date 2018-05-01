@@ -1,0 +1,3 @@
+Les curateurs recherchent et recouvrent sur leurs quittances, toutes les créances ou sommes dues au failli.
+Les deniers provenant des ventes et recouvrements faits par les curateurs sont versés à la Caisse des dépôts et consignations dans le mois de leur réception. Afin de financer les opérations courantes, le curateur peut conserver un montant limité sur un compte bancaire individualisé par faillite, sous la surveillance du juge-commissaire, qui fixe le montant maximum.
+En cas de retard, les curateurs sont redevables des intérêts de retard, équivalents aux intérêts légaux, sur les sommes qu'ils n'ont pas versées, sans préjudice de l'application de l'article XX.20.

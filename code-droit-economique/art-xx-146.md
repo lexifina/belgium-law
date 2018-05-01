@@ -1,0 +1,2 @@
+Le failli ou les gérants et administrateurs de la personne morale faillie, se rendent à toutes les convocations qui leurs sont faites, soit par le juge-commissaire, soit par les curateurs et fournissent au juge-commissaire et aux curateurs tous les renseignements requis.
+Le failli ou les gérants et administrateurs de la personne morale faillie sont tenus d'aviser les curateurs de tout changement d'adresse ou de toute nouvelle adresse électronique. A défaut, les convocations sont censées valablement faites à la dernière adresse que l'intéressé a communiquée aux curateurs.

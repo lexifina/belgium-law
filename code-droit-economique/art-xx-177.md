@@ -1,0 +1,1 @@
+Le créancier porteur d'engagements souscrits, endossés ou garantis solidairement par le failli et d'autres coobligés qui sont aussi en faillite, participe aux distributions dans toutes les masses, et y figure pour la valeur nominale de son titre jusqu'à entier paiement.

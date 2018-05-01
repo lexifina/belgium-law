@@ -1,0 +1,4 @@
+Lorsque les parties le demandent par requête conjointe, le président du tribunal peut homologuer l'accord amiable et, le cas échéant, conférer un caractère exécutoire à tout ou partie des créances qui y sont mentionnées. Le juge examine, aux fins de l'homologation, si l'accord répond aux conditions formelles énoncées à l'article XX.37.
+Cette décision n'est soumise ni à publication, ni à notification. Elle n'est pas susceptible d'appel.
+Le président du tribunal peut, le cas échéant, proroger la mission du médiateur d'entreprise en vue de faciliter l'exécution de l'accord amiable.
+Le coût des formalités légales nécessaires à l'opposabilité aux tiers des droits conférés par un accord amiable bénéficie du privilège prévu aux articles 17 et 19, 1°, de la loi hypothécaire du 16 décembre 1851 en cas de concours subséquent ou est traité comme une créance sursitaire extraordinaire dans le cadre d'un plan de réorganisation.
