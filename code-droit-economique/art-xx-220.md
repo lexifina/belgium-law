@@ -1,0 +1,6 @@
+§ 1er. Tant qu'il n'a pas été statué de manière irrévocable sur la demande de reconnaissance de la procédure d'insolvabilité étrangère, le tribunal peut, à la demande du praticien de l'insolvabilité étranger, d'un créancier ou du débiteur ordonner des mesures afin d'assurer la conservation des biens du débiteur et la protection des droits des créanciers.
+§ 2. Les mesures conservatoires visées au paragraphe 1er peuvent contenir toute mesure susceptible de contribuer à maintenir le patrimoine du débiteur et à protéger les intérêts des créanciers, comme:
+a) la suspension de l'exécution judiciaire sur n'importe quelle partie du patrimoine du débiteur;
+b) la perte ou la limitation de l'administration du débiteur sur ses biens se trouvant en Belgique, associée à la désignation d'un ou de plusieurs mandataires de justice ou praticiens de l'insolvabilité, ou
+c) l'audition de témoins sur la composition du patrimoine du débiteur.
+§ 3. Les mesures conservatoires peuvent être modifiées ou retirées jusqu'au moment où le juge statue sur la demande de reconnaissance de l'insolvabilité étrangère. Sauf si la décision relative à la demande de reconnaissance en dispose autrement, les mesures conservatoires prennent fin au moment où cette décision devient irrévocable.

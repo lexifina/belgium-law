@@ -1,0 +1,2 @@
+Les curateurs peuvent, avec l'autorisation du juge-commissaire, et le failli dûment appelé, transiger sur toutes les contestations qui intéressent la masse, même sur celles qui sont relatives à des actions et droits immobiliers.
+Quand l'objet d'une transaction excède 50 000 euros, la transaction n'est obligatoire qu'après avoir été homologuée, par le tribunal, sur rapport du juge-commissaire. Le failli est appelé à l'homologation.

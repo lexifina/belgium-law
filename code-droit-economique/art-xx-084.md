@@ -1,0 +1,11 @@
+§ 1er. Le transfert sous autorité de justice de tout ou partie des activités peut être ordonné par le tribunal en vue d'assurer leur maintien lorsque le débiteur y consent dans sa requête en réorganisation judiciaire ou ultérieurement au cours de la procédure.
+Si le débiteur consent au transfert sous autorité de justice au cours de la procédure, les représentants du personnel au sein du conseil d'entreprise ou, à défaut, du comité pour la prévention et la protection au travail, ou, à défaut, la délégation syndicale, ou, à défaut, une délégation du personnel, seront entendus.
+§ 2. Le même transfert peut être ordonné sur citation du procureur du Roi, d'un créancier ou de toute personne ayant un intérêt à acquérir tout ou partie de l'entreprise:
+1° lorsque le débiteur est en état de faillite sans avoir demandé l'ouverture d'une procédure de réorganisation judiciaire;
+2° lorsque le tribunal rejette la demande d'ouverture de la procédure par application de l'article XX.46, en ordonne la fin anticipée par application de l'article XX.62 ou révoque le plan de réorganisation par application de l'article XX.83;
+3° lorsque les créanciers n'approuvent pas le plan de réorganisation en application de l'article XX.78;
+4° lorsque le tribunal refuse l'homologation du plan de réorganisation en application de l'article XX.79.
+La demande de transfert peut être faite dans la citation tendant à mettre fin de manière anticipée à la procédure de réorganisation ou à révoquer le plan de réorganisation, ou dans un exploit distinct dirigé contre le débiteur.
+§ 3. Lorsqu'il ordonne le transfert par le même jugement que celui qui rejette la demande d'ouverture de la procédure de réorganisation judiciaire, en ordonne la fin anticipée, révoque le plan de réorganisation, ou refuse l'homologation, le tribunal statue sur le rapport du juge délégué et le charge de lui faire rapport sur l'exécution du transfert.
+Lorsqu'il ordonne le transfert par un autre jugement que celui qui met fin au sursis, le tribunal désigne un juge au tribunal, le président excepté, ou un juge consulaire pour faire rapport sur l'exécution du transfert.
+§ 4. Les dispositions du présent article laissent entières les obligations de consulter et d'informer les travailleurs ou leurs représentants conformément aux dispositions légales ou conventionnelles en vigueur.

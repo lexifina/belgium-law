@@ -1,0 +1,1 @@
+Si, avant la distribution du prix des immeubles, on procède à une ou plusieurs répartitions de deniers, les créanciers privilégiés sur les immeubles et les créanciers hypothécaires concourent à ces répartitions dans la proportion du montant total de leur créance, sans préjudice de la distraction ainsi qu'il est dit ci-après.

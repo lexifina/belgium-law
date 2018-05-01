@@ -1,0 +1,1 @@
+Si le gage n'est pas retiré par les curateurs, et s'il est vendu par le créancier pour un prix qui excède la créance, le surplus est recouvré par lesdits curateurs. Si le prix est moindre que la créance, le créancier nanti vient à contribution pour le surplus dans la masse comme créancier ordinaire.

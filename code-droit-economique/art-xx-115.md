@@ -1,0 +1,2 @@
+Dans le cas ou des lettres de change auraient été payées après l'époque fixée comme étant celle de la cessation de paiement et avant le jugement déclaratif de la faillite, l'action en rapport ne peut être intentée que contre celui pour le compte duquel la lettre de change a été fournie; s'il s'agit d'un billet à ordre, l'action ne peut être exercée que contre le premier endosseur.
+Dans l'un et l'autre cas, la preuve que celui à qui on demande le rapport avait connaissance de la cessation de paiement à l'époque de l'émission du titre, doit être fournie.

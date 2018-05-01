@@ -1,0 +1,1 @@
+La nomination du praticien de l'insolvabilité étranger est établie par la présentation d'une copie, certifiée conforme à l'original, de la décision qui le nomme, ou par tout autre certificat établi par la juridiction étrangère compétente. Une traduction de ces pièces peut être exigée.

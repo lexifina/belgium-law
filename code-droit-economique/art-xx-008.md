@@ -1,0 +1,4 @@
+Les personnes physiques qui ne sont pas assistées par un conseil ou les personnes morales dont le siège social est situé à l'étranger peuvent toujours déposer des actes sur un support papier au greffe ou, s'il s'agit d'une faillite, auprès du curateur.
+Le dépôt au greffe ou, s'il s'agit d'une faillite, auprès du curateur, sur un support papier est autorisé en cas de dysfonctionnement temporaire du registre.
+La conversion de pièces établies ou déposées sur un support matériel vers un dossier électronique s'effectue par un enregistrement dans le dossier électronique par lecture électronique et par une certification de la conformité avec le document électronique par le greffier, ou, le cas échéant, par le curateur.
+Le greffier délivre, si nécessaire, une copie des données électroniques sur un support papier.

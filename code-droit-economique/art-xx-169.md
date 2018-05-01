@@ -1,0 +1,1 @@
+S'il y a des créanciers dont les créances déclarées et affirmées dans le délai prescrit ont donné lieu à des contestations non encore définitivement jugées, il n'est procédé à aucune répartition qu'après la mise en réserve de la part correspondant à leurs créances telles qu'elles ont été déclarées ou affirmées.

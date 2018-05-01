@@ -1,0 +1,1 @@
+Le juge-commissaire est autorisé à entendre le failli, les travailleurs qu'il occupe et toute autre personne tant sur ce qui concerne la vérification des livres et écritures comptables, que sur les causes et circonstances de la faillite.

@@ -1,0 +1,3 @@
+Le failli et les créanciers peuvent fournir des contredits aux vérifications faites et à faire dans le mois qui suit la date ultime fixée à l'article XX.161 pour le dépôt du procès-verbal de vérification.
+Si le curateur dépose le procès-verbal de vérification plus tard que la date fixée à l'article XX.161, le délai ne prend cours qu'à la date du dépôt du procès-verbal.
+Le contredit est formé par exploit d'huissier signifié aux curateurs et au créancier dont la créance est contredite. L'exploit contient citation des curateurs et du créancier ainsi que du failli devant le tribunal aux fins d'entendre statuer sur la créance faisant l'objet du contredit. Le failli est averti par les curateurs, par invitation à comparaître.

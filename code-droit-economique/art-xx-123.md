@@ -1,0 +1,1 @@
+Le tribunal adjoint au curateur désigné, en tant que co-curateur, conformément à l'article XX.20, § 1er, lorsque le failli est titulaire d'une profession libérale, le titulaire d'une telle profession qui offre des garanties de compétence en matière de procédure de liquidation.

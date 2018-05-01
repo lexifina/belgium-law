@@ -1,0 +1,1 @@
+La procédure de faillite a pour but de mettre le patrimoine du débiteur sous la gestion d'un curateur, chargé d'administrer le patrimoine du failli, de le liquider et de répartir le produit de la liquidation entre les créanciers.

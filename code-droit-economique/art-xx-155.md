@@ -1,0 +1,10 @@
+§ 1er. Afin d'entrer en ligne de compte pour une distribution ou pouvoir bénéficier d'un quelconque droit de préférence, les créanciers de l'insolvabilité doivent déclarer leurs créances dans le registre au plus tard le jour prévu par le jugement déclaratif de faillite. Les titres sur lesquels reposent la créance doivent être annexés à la déclaration de créance. Lors de la déclaration, les éléments d'identification du créancier, ainsi que le fondement, le montant et les sûretés de la créance doivent être précisés.
+Les créanciers sont informés par l'avis déposé dans le registre et par une lettre circulaire que les curateurs envoient dans la mesure où les créanciers sont connus.
+L'avis et la lettre circulaire mentionnent le lieu, le jour et l'heure prévus pour le premier dépôt du procès-verbal de vérification de créances.
+Le registre donne au créancier, qui a déposé sa créance, un accusé de réception.
+§ 2. L'obligation de faire la déclaration de créance et de déposer les annexes dans le registre ne s'applique pas aux personnes physiques ou aux personnes morales qui sont établies à l'étranger, sauf si elles sont représentées par un tiers qui fournit l'assistance judiciaire à titre professionnel.
+La partie qui n'est pas obligée de déposer et qui ne procède pas au dépôt par voie électronique, dépose les pièces visées au paragraphe 1er par envoi recommandé ou contre récépissé à l'adresse du bureau du curateur telle que mentionnée dans le jugement. Le curateur convertit les documents en forme électronique et les déclare conformes.
+§ 3. Le Roi peut préciser sous quelle forme la déclaration de créance doit être effectuée.
+§ 4. Les déclarations de créance sont faites dans la langue du jugement déclaratif de faillite. Elles peuvent toutefois également être faites dans une autre langue nationale ou en anglais.
+Les annexes à la déclaration peuvent être jointes dans une autre langue au choix du déclarant.
+Le tribunal peut, demander la traduction de la déclaration et des annexes au déclarant qui en assumera les frais.

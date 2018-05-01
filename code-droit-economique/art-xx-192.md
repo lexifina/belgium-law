@@ -1,0 +1,1 @@
+Le montant de l'actif du failli, déduction faite des frais et dépens de l'administration de la faillite, des secours qui auraient été accordés au failli et à sa famille et des sommes payées aux créanciers privilégiés, est réparti entre tous les créanciers, au marc le franc de leurs créances.

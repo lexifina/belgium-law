@@ -1,0 +1,1 @@
+Le sursis n'affecte pas le gage sur créances spécifiquement gagées. Un gage portant sur un fonds de commerce, une exploitation agricole ou sur une universalité de biens comprenant des créances, ne constitue pas un gage portant spécifiquement sur créances.

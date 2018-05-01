@@ -1,0 +1,6 @@
+Au jour indiqué aux créanciers conformément à l'article XX.77, le tribunal entend le juge délégué en son rapport, qui a été déposé deux jours ouvrables à l'avance dans le registre, ainsi que le débiteur et les créanciers en leurs moyens.
+Le plan de réorganisation est tenu pour approuvé par les créanciers lorsqu'il recueille le vote favorable de la majorité de ceux-ci, représentant par leurs créances, la moitié de toutes les sommes dues en principal.
+Le créancier peut prendre part au vote en personne, par procuration écrite, déposée dans le registre, ou par l'intermédiaire de leur avocat qui peut agir sans procuration spéciale.
+La procuration écrite doit être déposée dans le registre, au moins deux jours ouvrables, avant l'audience fixée dans le jugement visé à l'article XX.47.
+Pour le calcul des majorités, sont pris en compte les créanciers et les montants dus repris sur la liste de créanciers déposée par le débiteur conformément à l'article XX.77, ainsi que les créanciers dont les créances ont par la suite été provisoirement admises en application des articles XX.68 et XX.69.
+Les créanciers qui n'ont pas participé au vote et les créances qu'ils détiennent ne sont pas pris en compte pour le calcul des majorités.

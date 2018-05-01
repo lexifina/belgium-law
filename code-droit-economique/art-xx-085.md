@@ -1,0 +1,4 @@
+Le jugement qui ordonne le transfert désigne un mandataire de justice chargé d'organiser et de réaliser le transfert au nom et pour compte du débiteur. Il détermine l'objet du transfert ou le laisse à l'appréciation du mandataire de justice.
+Si le transfert a trait à une entreprise définie à l'article I.1.14°, le tribunal désignera au moins un mandataire de justice qui est membre de l'Ordre ou de l'Institut, sur base de la liste visée à l'article XX.20, dont dépend le titulaire de la profession libérale visée par ledit transfert.
+Le tribunal peut, par le même jugement, ordonner un sursis complémentaire, n'excédant pas six mois à compter de sa décision, avec les effets énoncés aux articles XX.50 à XX.58.
+Le jugement est publié par extrait au Moniteur belge par les soins du mandataire de justice désigné.

@@ -1,0 +1,2 @@
+Les curateurs peuvent, avec l'autorisation du juge-commissaire, délivrer au failli, personne physique, et à sa famille des meubles et effets nécessaires à leur propre usage. Les curateurs dressent un inventaire de ces objets. Ils peuvent également, avec l'autorisation du juge-commissaire, attribuer des secours alimentaires au failli, personne physique, et à sa famille.
+Toute contestation relative à l'application du présent article est adressée par requête au tribunal.

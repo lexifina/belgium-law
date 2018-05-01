@@ -1,0 +1,2 @@
+Après la vente des immeubles et le règlement de l'ordre entre les créanciers hypothécaires et privilégiés, ceux d'entre eux qui viennent en ordre utile sur le prix des immeubles, pour la totalité de leur créance, ne touchent le montant de leur collocation hypothécaire que sous la déduction des sommes par eux reçues dans la masse chirographaire.
+Les sommes ainsi déduites ne restent point dans la masse hypothécaire, mais retournent à la masse chirographaire au profit de laquelle il en est fait distraction.
