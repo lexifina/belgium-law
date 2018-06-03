@@ -1,6 +1,6 @@
-Le président de la cour d'appel porte l'affaire au rôle d'audience de la première chambre de la cour d'appel du vingtième jour avant l'élection, à 10 heures du matin, même si ce jour est un jour férié.
+Le président de la cour d'appel porte l'affaire au rôle d'audience de la première chambre de la cour d'appel le quarante et unième jour avant le scrutin, à 10 heures du matin, dans les cas visés à l'article 105, ou le vingtième jour avant le scrutin, à 10 heures du matin, dans les cas visés à l'article 106, même si ce jour est un jour férié.
 La première chambre de la cour d'appel examine les affaires d'éligibilité toutes affaires cessantes.
 A l'audience publique, le président donne lecture des pièces du dossier. Il donne ensuite la parole à l'appelant et, éventuellement, à l'intimé; ceux-ci peuvent se faire représenter et assister d'un conseil.
 La cour, après avoir entendu le procureur général en son avis, statue séance tenante par un arrêt dont il est donné lecture en audience publique; cet arrêt n'est pas signifié à l'intéresse mais est déposé au greffe de la cour, où l'intéressé peut en prendre communication sans frais.
-Le dispositif de l'arrêt est porté télégraphiquement à la connaissance du président du bureau principal de la circonscription électorale ... intéressé, au lieu indiqué par celui-ci, par les soins du ministère public.
+Le dispositif de l'arrêt est porté par la voie digitale à la connaissance du président du bureau principal de la circonscription électorale ... intéressé, au lieu indiqué par celui-ci, par les soins du ministère public.
 Le dossier de la cour, accompagné d'une expédition de l'arrêt, est envoyé dans la huitaine au greffier de l'assemblée chargée d'examiner les pouvoirs des élus.

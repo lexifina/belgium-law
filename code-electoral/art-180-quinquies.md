@@ -1,5 +1,5 @@
 § 1er. Le poste consulaire de carrière sur la liste consulaire duquel l'électeur est inscrit envoie à la résidence de celui-ci, selon les modalités prescrites à l'article 107, une lettre de convocation au scrutin.
-§ 2. Au plus tard le douzième jour qui précède celui du scrutin, le président du bureau principal de circonscription, envoie les bulletins de vote nécessaires au Ministère des Affaires étrangères.
+§ 2. Au plus tard le vingt-quatrième jour qui précède celui du scrutin, dans les cas visés à l'article 105, ou au plus tard le douzième jour qui précède celui du scrutin dans les cas visés à l'article 106, le président du bureau principal de circonscription, envoie les bulletins de vote nécessaires au Ministère des Affaires étrangères.
 Dès leur réception, les bulletins de vote sont envoyés aux postes consulaires de carrière par le Service public fédéral Affaires étrangères.
 Les postes ... consulaires de carrière organisent le scrutin le mercredi précédant le jour de l'élection sur le territoire du Royaume, de 13 heures à 21 heures, heure locale.
 § 3. Alinéa 1er abrogé.
