@@ -1,5 +1,5 @@
 § 1er. ....
-Au plus tard le douzième jour qui précède celui du scrutin, le président du bureau principal de la circonscription électorale adresse aux électeurs belges résidant à l'étranger et ayant choisi de voter par correspondance, via le Service public fédéral Affaires étrangères, une enveloppe électorale comprenant:
+Au plus tard le vingt-quatrième jour qui précède celui du scrutin, dans les cas visés à l'article 105, ou au plus tard le douzième jour qui précède celui du scrutin dans les cas visés à l'article 106, le président du bureau principal de la circonscription électorale adresse aux électeurs belges résidant à l'étranger et ayant choisi de voter par correspondance, via le Service public fédéral Affaires étrangères, une enveloppe électorale comprenant:
 1° une enveloppe de renvoi A libellée à l'adresse du président du bureau principal de circonscription dont le Belge résidant à l'étranger relève;
 2° une enveloppe neutre B contenant un bulletin de vote de la circonscription électorale de rattachement dûment estampillé au verso au moyen d'un timbre portant la date de l'élection ainsi que la mention "vote des Belges à l'étranger";
 3° un formulaire que l'électeur est invité à signer après l'avoir complété par l'indication de ses nom, prénoms, date de naissance et adresse complète;
