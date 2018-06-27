@@ -1,0 +1,41 @@
+{
+  "ecli": "ECLI:BE:RVSCE:2018:ARR.241.963",
+  "court": "RVSCE",
+  "date": "2018-06-27",
+  "issued": "2018-07-05",
+  "language": "fr",
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2018:ARR.241.963",
+  "title": "Arrêt 241963 - Taxis - 27/06/2018",
+  "creator_fr": "Conseil d'État",
+  "creator_nl": "",
+  "subject_fr": "Droit administratif",
+  "description_fr": "CONSEIL D'ETAT",
+  "reference_fr": "Numéro de rôle A. 221180/XV-3286",
+  "identifiers": [
+    {
+      "lang": "fr",
+      "type": "summarised",
+      "format": "text/html",
+      "url": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2018:ARR.241.963"
+    }
+  ],
+  "listing_source": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/11/04/sitemap_4.xml",
+  "index_source": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/11/04/sitemap_index_1.xml",
+  "source_sha256": "2134d6ae6f1576192caba1c7da2f88484865b57ae5f790853e65bf0a1333b328",
+  "source_bytes": 18002,
+  "html_metadata": {
+    "No ECLI": "ECLI:BE:RVSCE:2018:ARR.241.963",
+    "No Rôle": "A. 221180/XV-3286",
+    "Affaire": "Arrêt 241963 - Taxis - 27/06/2018",
+    "Domaine juridique": "Droit administratif",
+    "Date d'introduction": "2018-07-05",
+    "Consultations": "152 - dernière vue 2026-11-14 14:43",
+    "Thésaurus Cassation": "CONSEIL D'ETAT",
+    "Thésaurus UTU": "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "text_status": "official-anonymised-decision",
+  "source_type": "official-html"
+}
