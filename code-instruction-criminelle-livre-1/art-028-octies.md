@@ -1,6 +1,7 @@
 § 1er. D'office ou à la demande de l'Organe central pour la Saisie et la Confiscation, le procureur du Roi qui estime devoir maintenir la saisie sur des avoirs patrimoniaux, peut:
 1° autoriser leur aliénation par l'Organe central, afin de leur subroger le produit obtenu;
 2° les restituer à la personne saisie moyennant le paiement d'une somme d'argent dont il fixe le montant, afin de leur subroger cette somme.
+3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.
 § 2. L'autorisation d'aliéner porte sur des avoirs patrimoniaux remplaçables, de valeur aisément déterminable et dont la conservation en nature peut entraîner une dépréciation, un dommage ou des frais disproportionnés au regard de leur valeur.
 § 3. Par une notification recommandée ou par télécopieur, qui contient le texte du présent article, le procureur du Roi informe de sa décision visée au § 1er:
 1° les personnes à charge et entre les mains desquelles la saisie a été opérée, pour autant que leurs adresses soient connues et leurs avocats;

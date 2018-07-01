@@ -1,7 +1,7 @@
-Les magistrats peuvent introduire un recours devant une commission de recours contre la mention définitive "insuffisant" obtenue dans le cadre de leur évaluation dans les trente jours qui suivent la notification de cette mention.
-Le Collège des cours et tribunaux désigne par rôle linguistique et pour trois ans six membres issus des juridictions de premier degré et six membres issus des cours.
-Le Collège du ministère public désigne par rôle linguistique et pour trois ans six membres issus des parquets du procureur du Roi et des auditorats du travail et six membres issus des parquets généraux et des auditorats généraux.
-Pour l'application du présent article, les membres de et près la Cour de cassation sont respectivement assimilés à des membres des cours et des parquets généraux.
-Pour l'application du présent article les membres du parquet fédéral sont assimilés aux membres des parquets généraux.
-Selon que le requérant appartient au siège ou au ministère public, le recours est adressé respectivement au président du Collège des cours et tribunaux ou au président du Collège du ministère public qui compose la commission de recours dans les cinq jours.
-La commission de recours est composée respectivement de trois magistrats du ministère public du même rôle linguistique que le requérant désignés par le président du Collège du ministère public ou de trois magistrats du siège du même rôle linguistique que le requérant désignés par le président du Collège des cours et tribunaux.
+§ 1er. Durant l'exercice de leurs activités pour l'Organe central pour la saisie et la confiscation, le directeur, le directeur adjoint et les magistrats de liaison de l'Organe central sont soumis à une évaluation écrite motivée.
+L'article 259novies, §§ 1er à 8, leur est applicable, à l'exception des dérogations prévues au paragraphe 2.
+§ 2. Le directeur, le directeur adjoint et les magistrats de liaison de l'Organe central sont évalués par le Collège des procureurs généraux, qui exécute également les tâches attribuées au chef de corps par les paragraphes 2 à 8 de l'article 259novies.
+Le directeur rend un avis pour l'évaluation du directeur adjoint et des magistrats de liaison. L'évaluation du directeur et du directeur adjoint porte également sur leurs capacités de management.
+L'évaluation a lieu une fois à la moitié de leur mission et une fois au terme de celle-ci.
+L'évaluation peut donner lieu à une mention "bon" ou "insuffisant". Si les prestations du magistrat sont jugées "insuffisantes", le ministre qui a la Justice dans ses attributions met d'office un terme à la mission en question.
+Sur proposition du Collège des procureurs généraux, le Roi fixe les critères d'évaluation et la pondération de ces critères en tenant compte de la spécificité des missions concernées.

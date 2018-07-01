@@ -1,1 +1,3 @@
-(Abrogé).
+Dans des cas exceptionnels, le ministre qui a la Justice dans ses attributions peut, sur proposition conjointe du directeur et du procureur général, du procureur du Roi ou de l'auditeur du travail concerné, confier à titre temporaire une mission au sein de l'Organe central pour la Saisie et la Confiscation à un membre d'un parquet général, d'un auditorat général près la cour du travail, d'un parquet du procureur du Roi ou d'un auditorat du travail près le tribunal du travail.
+Le magistrat ne peut se voir confier la mission qu'après avoir été entendu.
+Dans ces cas, les magistrats précités exercent cette tâche sous la direction et la surveillance immédiates du directeur de l'Organe central. Ils continuent à exercer leurs autres tâches sous la direction et la surveillance immédiates de leur chef de corps.
