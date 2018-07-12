@@ -1,0 +1,4 @@
+Est puni d'une amende de deux cents euros à vingt mille euros:
+1° celui qui agit professionnellement en tant que médiateur au sens du Code judiciaire, sans figurer sur la liste des médiateurs agréés visée à l'article 1727 et sans être dispensé de l'agrément à l'exception de celui qui agit professionnellement en tant que médiateur au sens du Code judiciaire dans des litiges entre entreprises.
+2° celui qui, sans y être autorisé, s'attribue publiquement le titre professionnel de médiateur agréé et celui qui porte un titre ou ajoute à celui qu'il porte une mention pouvant prêter à confusion avec le titre professionnel de médiateur agréé.
+Est puni de la même peine quiconque apporte sa collaboration à un tiers ou lui prête son nom dans le but de le soustraire à la peine qui sanctionne le port illégal du titre de médiateur agréé ou l'exercice illégal de la profession de médiateur agréé.
