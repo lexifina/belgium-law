@@ -1,2 +1,2 @@
-Les inscriptions portées dans les registres des conservateurs des hypothèques en exécution des articles précédents, valent pour six mois à moins que l'ordonnance n'ait fixé une autre durée.
+Les inscriptions portées dans les registres de la publicité hypothécaire en exécution des articles précédents, valent pour six mois à moins que l'ordonnance n'ait fixé une autre durée.
 Elles cessent en tout ou en partie leurs effets à la suite d'une ordonnance ou d'un arrêt modificatif; elles peuvent être radiées du consentement de l'époux ou de ses ayants cause ou par décision de justice, conformément aux articles 92 à 95 de la loi hypothécaire du 16 décembre 1851.
