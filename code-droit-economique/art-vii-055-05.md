@@ -1,0 +1,1 @@
+Les prestataires de services de paiement sont redevables, à l'égard de leurs utilisateurs de services de paiement respectifs, des frais dont ils sont responsables et des intérêts supportés par ces utilisateurs de services de paiement du fait de la non-exécution ou de la mauvaise exécution, y compris l'exécution tardive, de l'opération de paiement.
