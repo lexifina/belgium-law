@@ -1,1 +1,3 @@
-Le présent chapitre s'applique aux opérations de paiement couvertes par un contrat-cadre.
+Lorsque, aux fins de l'utilisation d'un instrument de paiement donné, le bénéficiaire demande des frais ou offre une réduction, il en informe le payeur avant l'initiation de l'opération de paiement.
+Lorsque, aux fins de l'utilisation d'un instrument de paiement donné, un prestataire de services de paiement ou une autre partie intervenant dans l'opération demande des frais, il en informe l'utilisateur de services de paiement avant l'initiation de l'opération de paiement.
+Le payeur n'est tenu d'acquitter les frais visés aux alinéas 1er et 2 que s'il a eu connaissance de leur montant total avant l'initiation de l'opération de paiement.

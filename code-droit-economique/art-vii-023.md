@@ -1,1 +1,1 @@
-Lorsqu'un contrat relatif aux services de paiement est conclu à distance, les informations visées aux articles VII. 7, VII. 8, VII. 12 et VII. 13, remplacent les informations visées à l'article VI. 55, § 1er, du Code de droit économique, à l'exception du 2°, c) à g), 3°, a), d) et e), et 4°, b).
+Au cours de la durée contractuelle, l'utilisateur de services de paiement a, à tout moment, le droit de recevoir, sur demande, les termes contractuels du contrat-cadre, ainsi que les informations et conditions visées à l'article VII.22, sur support durable.

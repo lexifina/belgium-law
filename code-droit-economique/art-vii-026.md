@@ -1,1 +1,4 @@
-Les parties peuvent convenir de ne pas appliquer, en tout ou en partie, les dispositions du présent titre, sauf si l'utilisateur des services de paiement est un consommateur.
+Pour toute opération de paiement individuelle relevant d'un contrat-cadre et initiée par le payeur, le prestataire de services de paiement fournit, à la demande du payeur et préalablement à cette transaction de paiement, des informations explicites sur:
+1° son délai d'exécution maximal;
+2° sur les frais qui doivent être payés par le payeur et;
+3° le cas échéant, la ventilation des montants de ces frais.
