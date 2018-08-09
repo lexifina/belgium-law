@@ -1,8 +1,6 @@
-§ 1er. Après que le montant d'une opération de paiement individuelle ait été débité du compte du payeur ou, lorsque le payeur n'utilise pas de compte de paiement, après réception de l'ordre de paiement, le prestataire de services de paiement du payeur fournit à celui-ci, sans tarder et selon les modalités visées à l'article VII.12, § 1er, les informations suivantes:
-1° une référence permettant au payeur d'identifier chaque opération de paiement et, le cas échéant, les informations relatives au bénéficiaire;
-2° le montant de l'opération de paiement exprimé dans la devise dans laquelle le compte de paiement du payeur est débité ou dans la devise utilisée dans l'ordre de paiement;
-3° le montant de tous les frais appliqués à l'opération de paiement et, le cas échéant, leur ventilation, ou l'intérêt dû par le payeur;
-4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du payeur et le montant de l'opération de paiement après cette conversion monétaire;
-5° la date valeur du débit ou la date de réception de l'ordre de paiement.
-§ 2. Un contrat-cadre peut prévoir une condition selon laquelle les informations visées au § 1er sont fournies ou mises à disposition périodiquement, au moins une fois par mois, et selon des modalités convenues qui permettent au payeur de stocker les informations et de les reproduire à l'identique, de façon à lui permettre de suivre raisonnablement l'état de ses dépenses.
-§ 3. Le Roi peut, par dérogation au § 2 et selon les modalités qu'il détermine, par arrêté délibéré en Conseil des ministres, prescrire que le prestataire de services de paiement doit fournir gratuitement à la demande du payeur les informations visées au § 1er sur support papier une fois par mois.
+Immédiatement après avoir reçu l'ordre de paiement, le prestataire de services de paiement du payeur fournit au payeur ou met à sa disposition, selon les modalités visées à l'article VII.14, § 1er, l'ensemble des données suivantes en ce qui concerne ses propres services:
+1° une référence permettant au payeur d'identifier l'opération de paiement et, le cas échéant, les informations relatives au bénéficiaire;
+2° le montant de l'opération de paiement exprimé dans la devise utilisée dans l'ordre de paiement;
+3° le montant des frais imputables au payeur pour l'opération de paiement et, le cas échéant, la ventilation des montants de ces frais;
+4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du payeur ou une référence à ce taux, lorsqu'il est différent du taux de change fourni conformément à l'article VII.15, § 1er, 4°, et le montant de l'opération de paiement après cette conversion monétaire;
+5° la date de réception de l'ordre de paiement.

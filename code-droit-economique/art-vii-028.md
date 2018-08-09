@@ -1,12 +1,8 @@
-§ 1er. La réalisation de la domiciliation nécessite l'octroi d'un mandat par le payeur à, selon le cas, l'une ou plusieurs des personnes suivantes:
-1° le bénéficiaire;
-2° le prestataire de services de paiement du bénéficiaire;
-3° le prestataire de services de paiement du payeur.
-Un exemplaire sur support durable doit être remis au payeur.
-§ 2. Même si le mandat visé au § 1er, alinéa 1er n'est pas repris dans le même instrumentum que le contrat principal dont il garantit l'exécution, le mandat répond au moins aux conditions suivantes:
-1° un consentement exprès et la signature du payeur;
-2° la procuration à donner doit se référer expressément au contrat sous-jacent qui a son tour détermine la portée des créances domiciliées en ce qui concerne la nature, l'échéance et, si possible, le montant juste.
-La domiciliation ne peut se réaliser valablement que si le payeur a été précédemment informé du contrat sous-jacent.
-§ 3. Sans préjudice de l'application de l'article VII. 37, § 3, si le montant juste ou la date de débit n'est pas déterminée lors de la conclusion de la domiciliation, le bénéficiaire en fait part au payeur à la date convenue, dans un délai raisonnable précédant l'initiation de chaque opération de paiement.
-§ 4. Une domiciliation et le mandat y attaché peuvent être résiliés par chaque partie, à tout moment, par la notification au cocontractant.
-La résiliation de la domiciliation par le payeur est valable et opposable à tous ses mandataires lorsque le payeur la notifie soit à son créancier, soit à son prestataire de services de paiement si cette dernière possibilité a été expressément convenue.
+§ 1er. Après avoir exécuté une opération de paiement individuelle, le prestataire de services de paiement du bénéficiaire fournit à celui-ci, sans tarder et selon les modalités prévues à l'article VII.21, § 1er, les informations suivantes:
+1° une référence permettant au bénéficiaire d'identifier l'opération de paiement et le payeur, ainsi que toute information communiquée lors de l'opération de paiement;
+2° le montant de l'opération de paiement exprimé dans la devise dans laquelle le compte de paiement du bénéficiaire est crédité;
+3° le montant de tous les frais appliqués à l'opération de paiement et, le cas échéant, la ventilation des montants de ces frais, ou l'intérêt dû par le bénéficiaire;
+4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du bénéficiaire et le montant de l'opération de paiement avant cette conversion monétaire;
+5° la date valeur du crédit.
+§ 2. Le contrat-cadre peut prévoir une condition selon laquelle les informations visées au paragraphe 1er doivent être fournies ou mises à disposition périodiquement, au moins une fois par mois, et selon des modalités convenues qui permettent au bénéficiaire de stocker les informations et de les reproduire à l'identique, de façon à lui permettre de suivre raisonnablement l'état de ses dépenses.
+§ 3. Le Roi peut, par dérogation au paragraphe 2 et selon les modalités qu'Il détermine, par arrêté délibéré en Conseil des ministres, prescrire que le prestataire de services de paiement doit fournir gratuitement à la demande du bénéficiaire les informations visées au paragraphe 1er sur un support durable une fois par mois.

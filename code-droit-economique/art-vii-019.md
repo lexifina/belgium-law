@@ -1,8 +1,6 @@
-§ 1er. Après avoir exécuté une opération de paiement individuelle, le prestataire de services de paiement du bénéficiaire fournit à celui-ci, sans tarder et selon les modalités prévues à l'article VII. 12, § 1er, les informations suivantes:
-1° une référence permettant au bénéficiaire d'identifier l'opération de paiement et, le cas échéant, le payeur, ainsi que toute information communiquée lors de l'opération de paiement;
-2° le montant de l'opération de paiement exprimé dans la devise dans laquelle le compte de paiement du bénéficiaire est crédité;
-3° le montant de tous les frais appliqués à l'opération de paiement et, le cas échéant, leur ventilation, ou l'intérêt dû par le bénéficiaire;
-4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du bénéficiaire et le montant de l'opération de paiement avant cette conversion monétaire;
+Immédiatement après l'exécution de l'opération de paiement, le prestataire de services de paiement du bénéficiaire fournit à celui-ci ou met à sa disposition, selon les modalités visées à l'article VII.14, § 1er, l'ensemble des données suivantes en ce qui concerne ses propres services:
+1° une référence permettant au bénéficiaire d'identifier l'opération de paiement et, le cas échéant, le payeur, ainsi que toute information transmise lors de l'opération de paiement;
+2° le montant de l'opération de paiement, dans la devise dans laquelle les fonds sont à la disposition du bénéficiaire;
+3° le montant des frais imputables au bénéficiaire pour l'opération de paiement et, le cas échéant, la ventilation des montants de ces frais;
+4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du bénéficiaire, et le montant de l'opération de paiement avant cette conversion monétaire;
 5° la date valeur du crédit.
-§ 2. Un contrat-cadre peut prévoir une condition selon laquelle les informations visées au § 1er doivent être fournies ou mises à disposition périodiquement, au moins une fois par mois, et selon des modalités convenues qui permettent au bénéficiaire de stocker les informations et de les reproduire à l'identique, de façon à lui permettre de suivre raisonnablement l'état de ses dépenses.
-§ 3. Le Roi peut, par dérogation au § 2 et selon les modalités qu'il détermine, par arrêté délibéré en Conseil des ministres, prescrire que le prestataire de services de paiement doit fournir gratuitement à la demande du bénéficiaire les informations visées au § 1er sur support papier une fois par mois.

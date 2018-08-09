@@ -1,0 +1,2 @@
+Le prestataire de services de paiement qui propose des services de paiement en Belgique met en place et applique des procédures appropriées et efficaces pour le règlement des plaintes des utilisateurs de services de paiement concernant les droits et obligations qui découlent du présent titre 3.
+Ces procédures de traitement des plaintes sont proposées dans la langue officielle du lieu dans lequel le service de paiement est proposé ou, si le consommateur et le prestataire de services de paiement le décident d'un commun accord, dans une autre langue.

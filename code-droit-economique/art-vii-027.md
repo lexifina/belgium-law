@@ -1,6 +1,8 @@
-§ 1er. Une opération de paiement est réputée autorisée si le payeur a donné son consentement à l'exécution de l'ordre de paiement.
-Une opération de paiement peut être préalablement autorisée par le payeur ou postérieurement à son exécution si le payeur et son prestataire de services de paiement en ont convenu ainsi.
-§ 2. Le consentement à l'exécution d'une opération de paiement ou d'une série d'opérations de paiement est donné sous la forme convenue entre le payeur et son prestataire de services de paiement et conformément à la procédure convenue.
-En l'absence d'un tel consentement, l'opération de paiement est réputée non autorisée.
-§ 3. Le consentement peut à tout moment être retiré par le payeur, mais en aucun cas après le moment d'irrévocabilité visé à l'article VII. 41.
-Le consentement à l'exécution d'une série d'opérations de paiement peut aussi être retiré avec pour effet que toute opération de paiement postérieure doit être réputée non autorisée.
+§ 1er. Après que le montant d'une opération de paiement individuelle ait été débité du compte du payeur ou, lorsque le payeur n'utilise pas de compte de paiement, après réception de l'ordre de paiement, le prestataire de services de paiement du payeur fournit à celui-ci, sans tarder et selon les modalités visées à l'article VII.21, § 1er, les informations suivantes:
+1° une référence permettant au payeur d'identifier chaque opération de paiement et, le cas échéant, les informations relatives au bénéficiaire;
+2° le montant de l'opération de paiement exprimé dans la devise dans laquelle le compte de paiement du payeur est débité ou dans la devise utilisée dans l'ordre de paiement;
+3° le montant de tous les frais appliqués à l'opération de paiement et, le cas échéant, la ventilation des montants de ces frais, ou l'intérêt dû par le payeur;
+4° le cas échéant, le taux de change appliqué à l'opération de paiement par le prestataire de services de paiement du payeur et le montant de l'opération de paiement après cette conversion monétaire;
+5° la date valeur du débit ou la date de réception de l'ordre de paiement.
+§ 2. Le contrat-cadre prévoit une condition selon laquelle le payeur peut demander que les informations visées au paragraphe 1er sont fournies ou mises à disposition périodiquement, au moins une fois par mois, gratuitement et selon des modalités convenues qui permettent au payeur de stocker les informations et de les reproduire à l'identique, de façon à lui permettre de suivre raisonnablement l'état de ses dépenses.
+§ 3. Le Roi peut, par dérogation au paragraphe 2 et selon les modalités qu'Il détermine, par arrêté délibéré en Conseil des ministres, prescrire que le prestataire de services de paiement doit fournir gratuitement à la demande du payeur les informations visées au paragraphe 1er sur support durable une fois par mois.
