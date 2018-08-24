@@ -1,0 +1,2 @@
+Lorsqu'il ordonne la cessation, le président peut ordonner les mesures prévues à l'article XI.336/3, § 1er, 2° à 6°, §§ 2 et 3, pour autant que ces mesures soient de nature à contribuer à la cessation de l'utilisation ou de la divulgation illicite du secret d'affaires ou de leurs effets, à l'exclusion des mesures de réparation du préjudice causé par cette atteinte.
+L'article XI.336/4, §§ 1er et 2, s'applique par analogie.
