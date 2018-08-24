@@ -1,0 +1,2 @@
+Sans préjudice de l'application de l'article XI.342/3, les mesures de publicité ne peuvent toutefois être autorisées que si elles sont de nature à contribuer à la cessation de l'acte incriminé ou de ses effets.
+Le président fixe le montant que la partie à qui une mesure de publicité a été accordée conformément au premier alinéa et qui a exécuté la mesure malgré un recours introduit à temps contre le jugement, devra payer à la partie au détriment de laquelle la mesure de publicité a été prononcée, si celle-ci est annulée suite à ce recours.

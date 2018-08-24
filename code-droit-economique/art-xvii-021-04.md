@@ -1,0 +1,1 @@
+L'action fondée sur l'article XVII.21/1, § 1er, est formée à la demande des personnes habilitées à agir contre l'obtention, l'utilisation ou la divulgation illicite d'un secret d'affaires, conformément à l'article XI.336/2.
