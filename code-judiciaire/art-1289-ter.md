@@ -1,3 +1,5 @@
-Le procureur du Roi émet un avis écrit sur les conditions de forme, sur l'admissibilité du divorce et sur le contenu des conventions entre les époux relatives aux enfants mineurs.
-L'avis déposé au greffe au plus tard la veille de la comparution des époux visée à l'article 1289, §§ 2 et 3 à moins qu'en raison des circonstances de la cause il ne soit émis sur-le-champ, par écrit ou verbalement à l'audience de la comparution des époux; dans ce cas, il en est fait mention (sur la feuille d'audience).
+Le procureur du Roi peut déposer dans un délai de trente jours suivant l'inscription de la cause au rôle, un avis écrit au greffe sur les conditions de forme, sur l'admissibilité du divorce et sur le contenu des conventions entre les époux relatives aux enfants mineurs.
+En cas d'application de l'article 1289, §§ 2 et 3, lorsqu'il est émis dans les temps impartis, l'avis est déposé au greffe au plus tard la veille de la comparution des époux à moins qu'en raison des circonstances de la cause il ne soit émis sur-le-champ, par écrit ou verbalement à l'audience de la comparution des époux. Dans ce cas, il en est fait mention sur la feuille d'audience.
 Si l'avis ne peut être donné en temps utile, le tribunal de la famille en est avisé au plus tard la veille de l'audience et il est fait mention de la cause du retard sur (le procès-verbal d'audience).
+Le procureur du Roi avertit le tribunal qu'il n'entend pas remettre d'avis.
+Lorsque l'avis écrit n'est pas émis dans le délai visé à l'alinéa 1er, il est réputé favorable.

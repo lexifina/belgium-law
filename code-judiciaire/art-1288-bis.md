@@ -1,5 +1,5 @@
 § 1er. La demande est introduite par voie de requête.
-Elle est déposée au greffe du tribunal de première instance choisi par les époux.
+Elle est déposée au greffe du tribunal de première instance ....
 Outre les autres mentions obligatoires, (la requête renvoie, à peine de nullité, aux conventions y annexées) exigées aux articles 1287 et 1288.
 Sont déposés en annexe à la requête:
 1° les conventions dressées en vertu des articles 1287 et 1288;
