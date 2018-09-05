@@ -17,9 +17,11 @@ h) livre XIV - Pratiques du marché et protection du consommateur relatif aux pr
 8° la Partie 4 de la loi du 4 avril 2014 relative aux assurances;
 9° la loi du 9 mars 1993 tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial;
 10° la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel;
+10° /1 le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
 11° l'article 21, 5°, du Code des impôts sur les revenus;
 12° la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines;
 13° la loi du 16 février 1994 régissant le contrat d'organisation de voyages et le contrat d'intermédiaire de voyages;
+13° /1 la loi du 21 novembre 2017 relative à la vente de voyages à forfait, de prestations de voyage liées et de services de voyage;
 14° le Règlement 2027/97 (CE) du Conseil du 9 octobre 1997 relatif à la responsabilité des transporteurs aériens en cas d'accident;
 15° la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
 16° la loi du 29 avril 1999 relative à l'organisation du marché du gaz et au statut fiscal des producteurs d'électricité;
