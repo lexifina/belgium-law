@@ -2456,8 +2456,10 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 
 <a name="LNK0097" href="#LNKR0097">Section 1re.</a> - Les atteintes à la confidentialité des données
 
-<a name="Art.212" href="#Art.211">Art.</a> <a href="#Art.213"> 212</a>. Les atteintes à la confidentialité des données en cas d'accident du travail
-Sont punis d'une sanction de niveau 2, les membres du Comité de gestion et des Comités techniques du Fonds des accidents du travail, les personnes habilitées en vertu d'une disposition légale ou réglementaire à participer aux réunions du Comité de gestion et des Comités techniques, les inspecteurs sociaux compétents, les personnes ayant exercé auparavant lesdites fonctions qui ont divulgué des informations confidentielles concernant les entreprises d'assurances dont ils ont eu connaissance de par leur mission, à l'exception des dérogations prévues par la loi du 10 avril 1971 sur les accidents du travail.
+<a name="Art.212" href="#Art.211">Art.</a> <a href="#Art.213"> 212</a>.Les atteintes à la confidentialité des données en cas d'accident du travail
+Sont punis d'une sanction de niveau 2, [<sup>1</sup> les membres du comité de gestion pour les accidents du travail, des comités techniques pour les accidents du travail et du comité technique pour la prévention auprès de Fedris]<sup>1</sup>, les personnes habilitées en vertu d'une disposition légale ou réglementaire à participer aux [<sup>1</sup> réunions du comité de gestion pour les accidents du travail, des comités techniques pour les accidents du travail et du comité technique pour la prévention auprès de Fedris]<sup>1</sup>, les inspecteurs sociaux compétents, les personnes ayant exercé auparavant lesdites fonctions qui ont divulgué des informations confidentielles concernant les entreprises d'assurances dont ils ont eu connaissance de par leur mission, à l'exception des dérogations prévues par la loi du 10 avril 1971 sur les accidents du travail.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090613" target="_blank">2018-09-06/13</a>, art. 3, 031; En vigueur : 01-01-2017&gt;
 
 <a name="Art.213" href="#Art.212">Art.</a> <a href="#Art.214"> 213</a>.Les atteintes à la confidentialité des données à caractère personnel et les mesures de préservation de la confidentialité de ces données
 Sont punis d'une sanction de niveau 2 :
@@ -2534,8 +2536,8 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 Est puni d'une sanction de niveau 2 :
 1° l'employeur, son préposé ou son mandataire qui :
 a) n'a pas versé le montant de la cotisation supplémentaire dans le mois qui suit le trimestre au cours duquel la cotisation a été réclamée par la caisse d'allocations familiales à laquelle il est affilié en application des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939;
-b) n'a pas versé au Fonds des accidents du travail, dans les délais prescrits par le Roi, les cotisations et les primes dont il est redevable en application de la loi du 10 avril 1971 sur les accidents du travail;
-c) n'a pas versé au Fonds des maladies professionnelles la cotisation de solidarité dont il est redevable en application des lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970;
+b) n'a pas versé [<sup>2</sup> à Fedris]<sup>2</sup>, dans les délais prescrits par le Roi, les cotisations et les primes dont il est redevable en application de la loi du 10 avril 1971 sur les accidents du travail;
+c) n'a pas versé [<sup>3</sup> à Fedris]<sup>3</sup> la cotisation de solidarité dont il est redevable en application des lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970;
 2° l'armateur, son préposé ou son mandataire qui :
 a) n'a pas payé ou n'a pas payé dans les délais la totalité de la cotisation obligatoire au Fonds des mousses en application de la loi du 23 septembre 1931 sur le recrutement du personnel de la pêche maritime;
 b) n'a pas versé à [<sup>1</sup> l'Office national de sécurité sociale]<sup>1</sup> les cotisations de sécurité sociale dans les délais fixés par le Roi, en application de [<sup>1</sup> la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et de ses arrêtés d'exécution]<sup>1</sup>;
@@ -2543,6 +2545,8 @@ b) n'a pas versé à [<sup>1</sup> l'Office national de sécurité sociale]<sup>
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 ----------
 (<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018051505" target="_blank">2018-05-15/05</a>, art. 5, 029; En vigueur : 01-01-2018&gt;
+(<font color="red">2</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090613" target="_blank">2018-09-06/13</a>, art. 4, 031; En vigueur : 01-01-2017&gt;
+(<font color="red">3</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090613" target="_blank">2018-09-06/13</a>, art. 5, 031; En vigueur : 01-01-2017&gt;
 
 <a name="Art.220" href="#Art.219">Art.</a> <a href="#Art.220/1"> 220</a>. Le non-paiement de cotisations au Fonds de sécurité d'existence
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence et aux dispositions d'une convention collective de travail rendue obligatoire par arrêté royal, n'a pas versé la cotisation au Fonds de sécurité d'existence dans les délais et selon les modalités prescrites par ses statuts.
@@ -2567,11 +2571,13 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 <a name="Art.222" href="#Art.221">Art.</a> <a href="#LNK0103"> 222</a>.[<sup>1</sup> Les relations entre les différentes institutions de sécurité sociale
 Sont punis d'une sanction de niveau 1 :
 1° les entreprises d'assurances, les commissaires qui :
-a) n'ont pas transmis, de la manière et dans les délais fixés par le Roi, les éléments repris dans la déclaration d'accident et les éléments qui se rapportent au règlement de l'accident au Fonds des accidents du travail en application de la loi du 10 avril 1971 sur les accidents du travail;
-b) n'ont pas prévenu le Fonds des accidents du travail dans les trente jours qui suivent la réception de la déclaration d'accident de leur refus de prendre l'accident en charge ou du doute qu'ils ont quant à l'application à l'accident de la loi précitée du 10 avril 1971;
+a) n'ont pas transmis, de la manière et dans les délais fixés par le Roi, les éléments repris dans la déclaration d'accident et les éléments qui se rapportent au règlement de l'accident [<sup>2</sup> à Fedris]<sup>2</sup> en application de la loi du 10 avril 1971 sur les accidents du travail;
+b) n'ont pas prévenu [<sup>3</sup> Fedris]<sup>3</sup> dans les trente jours qui suivent la réception de la déclaration d'accident de leur refus de prendre l'accident en charge ou du doute qu'ils ont quant à l'application à l'accident de la loi précitée du 10 avril 1971;
 2° le débiteur de la réparation qui, en contravention à la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, omet d'informer l'organisme assureur qu'il va indemniser le bénéficiaire.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 42, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090613" target="_blank">2018-09-06/13</a>, art. 6, 031; En vigueur : 01-01-2017&gt;
+(<font color="red">3</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090613" target="_blank">2018-09-06/13</a>, art. 7, 031; En vigueur : 01-01-2017&gt;
 
 <a name="LNK0103" href="#LNKR0103">Section 7.</a> - La transmission de documents aux institutions par les employeurs
 
