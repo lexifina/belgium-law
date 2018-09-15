@@ -7,7 +7,7 @@ Le prêteur et, le cas échéant l'intermédiaire de crédit précise de manièr
 Le questionnaire a au moins trait au but du crédit, aux revenus, aux personnes à charge, aux engagements financiers en cours comprenant entre autres le nombre et le montant débiteur des crédits en cours. Le Roi peut compléter cette liste dans le cas où le montant du crédit dépasse les 3.000 euros.
 Le questionnaire mentionne les fichiers qui, conformément à l'article VII.137, seront consultés.
 § 3. Les formulaires de demande visé à l'alinéa 1er du paragraphe 2 doivent au minimum contenir les données suivantes:
-1° le tarif des frais réclamés par l'entreprise hypothécaire;
+1° le tarif des frais réclamés par le prêteur;
 2° une référence au prospectus qui est d'application et l'indication du lieu où il est disponible;
 3° si les tarifs des taux sont ajoutés au prospectus sous forme d'un document séparé, la date desdits tarifs.
 § 4. Les informations sont vérifiées de façon appropriée, en se référant notamment et si nécessaire, à des documents vérifiables de manière indépendante.

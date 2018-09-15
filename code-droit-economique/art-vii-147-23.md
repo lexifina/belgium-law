@@ -3,7 +3,7 @@
 - les intérêts de retard qui sont devenus exigibles conformément au § 2;
 - les intérêts et frais échus et non payés qui sont devenus exigibles conformément au § 2;
 - une indemnité au maximum égale à l'indemnité de remploi visée à l'article VII.147/12, § 1er, calculée sur le solde restant dû.
-§ 2. En cas de simple retard de paiement d'un contrat de crédit hypothécaire avec une destination mobilière, qui n'entraîne ni la résolution du contrat, ni la déchéance du terme, aucun paiement autre que ceux indiqués ci-dessous ne peut être réclamé au consommateur:
+§ 2. En cas de simple retard de paiement d'un contrat de crédit hypothécaire avec une destination immobilière, qui n'entraîne ni la résolution du contrat, ni la déchéance du terme, aucun paiement autre que ceux indiqués ci-dessous ne peut être réclamé au consommateur:
 1° le capital échu et impayé;
 2° les frais et intérêts échus et impayés;
 3° les intérêts de retard à concurrence de 0,5 % sur base annuelle calculés comme suit:
