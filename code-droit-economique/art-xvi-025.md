@@ -19,6 +19,6 @@ h) lorsque le traitement du litige entraverait gravement le fonctionnement effec
 10° un éventuel seuil tel que visé au point 7°, f), ne peut pas être de nature à exclure un nombre déraisonnable de litiges de consommation;
 11° la procédure offre à chaque partie la possibilité d'exprimer son point de vue et de prendre connaissance des arguments et des faits avancés;
 12° l'entité garantit le caractère confidentiel des renseignements communiqués par les parties;
-13° chaque partie est informée par écrit ou sur support durable de l'issue de la procédure de façon motivée.
+13° chaque partie est informée sur un support durable de l'issue de la procédure de façon motivée.
 § 2. Outre les conditions visées au paragraphe 1er, les entités qualifiées répondent aux dispositions des articles 1676 à 1723 du Code judiciaire lorsqu'elles appliquent une procédure arbitrale.
 § 3. Le Roi peut préciser les conditions énumérées au paragraphe 1er afin de garantir l'accessibilité des entités qualifiées, leur compétence, leur indépendance, leur impartialité, leur transparence, leur efficacité, leur équité ainsi que la liberté des parties et la légalité des décisions rendues par une entité qualifiée imposées aux parties.
