@@ -1,5 +1,5 @@
 § 1er. Dans les 90 jours calendrier qui suivent la réception de la demande complète, le Service de médiation pour le consommateur communique l'issue du règlement du litige aux parties.
 A titre exceptionnel, ce délai est prolongeable, une seule fois, pour une durée équivalente à condition que les parties en soient informées avant l'écoulement du délai initial et que cette prolongation soit motivée par la complexité du litige.
-§ 2. Lorsque le Service de médiation pour le consommateur a obtenu un règlement amiable du litige, il clôture le dossier et envoie une confirmation par écrit ou sur un autre support durable aux parties.
-Si un règlement amiable ne peut pas être obtenu, le Service de médiation pour le consommateur en informe les parties par écrit ou sur un autre support durable et peut en même temps formuler une recommandation à l'entreprise concernée, avec copie au demandeur.
+§ 2. Lorsque le Service de médiation pour le consommateur a obtenu un règlement amiable du litige, il clôture le dossier et envoie une confirmation sur un support durable aux parties.
+Si un règlement amiable ne peut pas être obtenu, le Service de médiation pour le consommateur en informe les parties sur un support durable et peut en même temps formuler une recommandation à l'entreprise concernée, avec copie au demandeur.
 Si l'entreprise concernée ne suit pas cette recommandation, elle dispose d'un délai de trente jours calendrier pour faire connaître sa position motivée au Service de médiation pour le consommateur et au demandeur.
