@@ -1,0 +1,33 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2018:CONC.20181024.2",
+  "ecli": "ECLI:BE:CASS:2018:CONC.20181024.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2018-10-24",
+  "date_as_printed": "Conclusions du Ministère public du 24 octobre 2018",
+  "published_on_juportal": "2018-11-07",
+  "language": "fr",
+  "role_number": "P.18.0936.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - GENERALITES",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - ALGEMEEN",
+    "Sursis - Condamnation antérieure formant obstacle juridique à l'octroi du sursis - Condition",
+    "Uitstel - Eerdere veroordeling die een juridisch beletsel vormt voor de toekenning van het uitstel - Voorwaarde"
+  ],
+  "fiche": [
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - GENERALITES",
+    "Sursis - Condamnation antérieure formant obstacle juridique à l'octroi du sursis - Condition",
+    "L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 8, § 1er, al. 1er - 30 Lien ELI No pub 1964062906"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2018:CONC.20181024.2",
+  "source_sha256": "38ed4a8c2db3274ed5b9fa4313ecd06ec022fdadede8fcd8a7480dc217230b9c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2018:CONC.20181024.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
