@@ -1,0 +1,1 @@
+Si celui qui a été involontairement et accidentellement dépossédé d'une lettre de change, qu'elle soit acceptée ou non, ne peut représenter la deuxième, troisième, quatrième, etc., il peut demander le paiement de la lettre de change adirée et l'obtenir en vertu de l'ordonnance du président du tribunal de l'entreprise, en justifiant de sa propriété et en donnant caution.

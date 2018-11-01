@@ -1,0 +1,1 @@
+Il est délivré, contre remise des bagages à l'expédition, un bulletin numéroté et daté, indiquant les points de départ et de destination, le nombre et le poids total des colis, le prix perçu et, le cas échéant, les déclarations d'intérêt à la livraison. Le bulletin peut être délivré électroniquement sous la forme et selon les modalités déterminées par le Roi.

@@ -1,10 +1,1 @@
-Le consommateur ne peut exercer le droit de rétractation prévu à l'article XIV. 41 pour:
-1° les contrats de service après que le service a été pleinement exécuté si l'exécution a commencé avec l'accord préalable exprès du consommateur, lequel a également reconnu qu'il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par la personne exerçant une profession libérale;
-2° la fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle de la personne exerçant une profession libérale et susceptibles de se produire pendant le délai de rétractation;
-3° la fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés;
-4° la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement;
-5° la fourniture de biens scellés ne pouvant être renvoyés pour des raisons de protection de la santé ou d'hygiène et qui ont été descellés par le consommateur après la livraison;
-6° la fourniture de biens qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d'autres articles;
-7° les contrats dans lesquels le consommateur a expressément demandé à la personne exerçant une profession libérale de lui rendre visite afin d'effectuer des travaux urgents d'entretien ou de réparation. Si, à l'occasion de cette visite, la personne exerçant une profession libérale fournit des services venant s'ajouter à ceux spécifiquement requis par le consommateur ou des biens autres que les pièces de rechange indispensables aux travaux d'entretien ou de réparation, le droit de rétractation s'applique à ces services ou biens supplémentaires;
-8° la fourniture d'un contenu numérique non fourni sur un support matériel si l'exécution a commencé avec l'accord préalable exprès du consommateur, lequel a également reconnu qu'il perdra ainsi son droit de rétractation;
-9° les contrats portant sur la construction d'immeubles neufs et la transformation importante d'immeubles existants.
+(Abrogé)

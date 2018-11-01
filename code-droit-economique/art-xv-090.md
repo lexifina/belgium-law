@@ -18,3 +18,7 @@ Sont punis d'une sanction du niveau 5, ceux qui:
 17° contreviennent aux articles VII.117 à VII.122 et VII.147/33 à VII.147/38;
 18° contreviennent aux articles VII.137, VII.138, VII.143, VII.146, VII.147 et 147/26, § 1er;
 19° en tant que prêteur ou intermédiaire de crédit ne fournit pas au consommateur l'ESIS visé aux articles VII.127 et VII.128, ou qui sciemment, en infraction aux articles VII.129 et VII.130, ne fournit pas l'information la mieux adaptée ou ne recherche pas le crédit le mieux adapté;
+20°: a) sciemment et volontairement émettent un chèque ou tout autre titre assimilé au chèque par le présent Code, sans provision préalable, suffisante et disponible; soit
+b) cèdent un de ces titres sachant que la provision n'est pas suffisante et disponible; soit
+c) comme tireur, retirent sciemment et volontairement tout ou partie de la provision d'un de ces titres au cours du délai de présentation; soit
+d) comme tireur, dans une intention frauduleuse ou à dessein de nuire, révoquent un de ces titres, ou en rendent indisponible tout ou partie de la provision, ou, après l'expiration du délai de présentation, en retirent tout ou partie de la provision.

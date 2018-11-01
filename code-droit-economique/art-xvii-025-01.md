@@ -1,1 +1,1 @@
-Le président du tribunal de première instance peut ordonner l'interdiction des pratiques du marché visées aux articles XIV.59 à XIV.76 du présent Code lorsqu'elles n'ont pas encore débuté, mais qu'elles sont imminentes.
+(Abrogé)

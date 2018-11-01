@@ -1,1 +1,1 @@
-La présente section s'applique aux pratiques professionnelles déloyales des personnes exerçant une profession libérale vis-à-vis des consommateurs avant, pendant et après l'offre en vente et la vente de produits.
+(Abrogé)

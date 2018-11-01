@@ -1,4 +1,4 @@
-Le présent livre vise principalement la réglementation des services de paiement et des contrats de crédit.
+Le présent livre vise principalement la réglementation des services de paiement et des contrats de crédit ainsi que celle des effets de commerce et du chèque.
 Il vise la transposition des dispositions:
 1° de la directive 2015/2366/UE du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur, modifiant les directives 2002/65/CE, 2009/110/CE et 2013/36/UE et le règlement (UE) n° 1093/2010, et abrogeant la directive 2007/64/CE;
 2° de la Directive 2008/48/CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil;

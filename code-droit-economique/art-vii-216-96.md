@@ -1,0 +1,1 @@
+Indépendamment des formalités prescrites pour l'exercice des droits de recours, le porteur d'une lettre de change protestée faute de paiement peut, en obtenant la permission du juge des saisies, saisir conservatoirement les effets mobiliers des tireurs, accepteurs et endosseurs.

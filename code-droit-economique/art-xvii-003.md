@@ -1,1 +1,1 @@
-Le président du tribunal de commerce peut accorder au contrevenant un délai pour mettre fin à l'infraction, lorsque la nature de l'infraction le nécessite. Il peut accorder la levée de la cessation lorsqu'il a été mis fin à l'infraction.
+Le président du tribunal de l'entreprise peut accorder au contrevenant un délai pour mettre fin à l'infraction, lorsque la nature de l'infraction le nécessite. Il peut accorder la levée de la cessation lorsqu'il a été mis fin à l'infraction.

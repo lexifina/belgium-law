@@ -1,4 +1,4 @@
-§ 1er. Le présent livre ne s'applique pas aux:
+§ 1er. Les titres 1er à 7 du présent livre ne s'appliquent pas aux:
 1° opérations de paiement exclusivement effectuées en espèces et allant directement du payeur au bénéficiaire, sans l'intervention du moindre intermédiaire;
 2° opérations de paiement allant du payeur au bénéficiaire, par l'intermédiaire d'un agent commercial habilité par contrat à négocier ou à conclure la vente ou l'achat de biens ou de services pour le compte du payeur ou du bénéficiaire uniquement;
 3° transport physique de billets de banque et de pièces à titre professionnel, y compris leur collecte, leur traitement et leur remise;
@@ -6,8 +6,8 @@
 5° services pour lesquels des espèces sont fournies par le bénéficiaire au bénéfice du payeur dans le cadre d'une opération de paiement, à la demande expresse de l'utilisateur de services de paiement formulée juste avant l'exécution de l'opération de paiement via un paiement pour l'achat de biens ou de services;
 6° aux opérations de change espèces contre espèces pour lesquelles les fonds ne sont pas détenus sur un compte de paiement;
 7° opérations de paiement fondées sur l'un des documents suivants, tiré sur le prestataire de services de paiement en vue de mettre des fonds à la disposition du bénéficiaire:
-a) un chèque papier visé à l'article 1er de la loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et son entrée en vigueur ou toute autre forme similaire de chèque papier, tel que le chèque postal visé par la loi du 2 mai 1956 sur le chèque postal, un chèque circulaire ou toute autre chèque qui, quelque soit sa dénomination, emporte les mêmes conséquences juridiques;
-b) une lettre de change papier visée à l'article 1er des lois coordonnées du 31 décembre 1955 sur la lettre de change et le billet à ordre et toute autre forme similaire de lettre de change papier qui, quelque soit sa dénomination, emporte les mêmes conséquences juridiques;
+a) sans préjudice des articles VII.88, VII.90, VII.147/1, VII.147/3, VII.205 et VII.214/5, un chèque papier visé au titre 6/1 et un chèque papier similaire à celui visé au titre 6/1, tel que le chèque postal, un chèque circulaire et le chèque régi par le droit d'un Etat non partie à la convention de Genève du 19 mars 1931 portant loi uniforme sur les chèques ou tout autre chèque;
+b) sans préjudice des articles VII.147/1, VII.205 et VII.214/5, une lettre de change et un billet à ordre sur support papier visé au titre 6/1, ainsi qu'une traite sur support papier similaire à ces documents et régie par le droit d'un Etat non partie à la convention de Genève du 7 juin 1930 portant loi uniforme sur les lettres de change et les billets à ordre;
 c) un titre de service sur support papier dont le titre-service papier visé par l'article 2, 1°, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, et les chèques repas papier;
 d) un chèque de voyage sur support papier;
 e) un mandat postal sur support papier émis et/ou payé en espèces au guichet d'un bureau de poste, ou d'un autre point de service postal;
@@ -50,3 +50,4 @@ b) le consommateur ne serait ainsi pas soumis à des dispositions moins favorabl
 § 4. Sans préjudice des dispositions des paragraphes 1er, 2 et 3, le Roi peut déterminer que certains articles du présent livre, désignés par Lui, ne s'appliquent pas:
 1° aux contrats de crédit qui sont accordés par un employeur à ses salariés à titre accessoire, sans intérêt ou à des taux annuels effectifs globaux inférieurs à ceux pratiqués sur le marché et qui ne sont pas proposés au public en général;
 2° aux contrats de crédit accordés, dans un but d'intérêt général, par des institutions publiques ou par des institutions privées agréées à cet effet par l'autorité compétente, à un public restreint et à un taux d'intérêt inférieur à celui pratiqué sur le marché, ou sans intérêt, ou à d'autres conditions qui sont plus favorables au consommateur que celles en vigueur sur le marché et à des taux d'intérêt qui ne sont pas supérieurs à ceux pratiqués sur le marché.
+§ 5. Le présent livre ne s'applique pas aux chèques postaux qui restent soumis à la législation applicable.

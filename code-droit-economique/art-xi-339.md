@@ -1,2 +1,2 @@
-Les tribunaux de commerce connaissent, même lorsque les parties ne sont pas commerçantes, de toutes les demandes relatives à l'application du titre 3, quel que soit le montant de la demande.
+Les tribunaux de l'entreprise connaissent ... de toutes les demandes relatives à l'application du titre 3, quel que soit le montant de la demande.
 Si la contestation est née au cours de l'instruction administrative de la demande d'octroi du droit d'obtenteur, l'Office peut, à la demande d'une partie à l'instance judiciaire, suspendre l'octroi du droit jusqu'à ce que le tribunal ait statué.

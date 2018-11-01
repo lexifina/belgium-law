@@ -1,4 +1,4 @@
-Le président du tribunal de commerce constate l'existence et ordonne également la cessation des infractions visées ci-dessous:
+Le président du tribunal de l'entreprise constate l'existence et ordonne également la cessation des infractions visées ci-dessous:
 1° l'exercice d'une activité en méconnaissance des dispositions du livre III du présent Code;
 2° le non-respect des dispositions légales et réglementaires relatives à la tenue des documents sociaux et à l'application de la taxe sur la valeur ajoutée;
 3° l'occupation de travailleurs sans être inscrit à l'Office national de Sécurité sociale, sans avoir introduit les déclarations requises ou sans payer les cotisations, les augmentations de cotisation ou intérêts moratoires;

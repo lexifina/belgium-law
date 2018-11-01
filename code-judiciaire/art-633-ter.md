@@ -1,1 +1,1 @@
-Le tribunal de commerce de Bruxelles et, en degré d'appel, la cour d'appel de Bruxelles, sont seuls compétents pour les actions en réparation collective visées au Titre 2 du Livre XVII du Code de droit économique.
+Le tribunal de l'entreprise de Bruxelles et, en degré d'appel, la cour d'appel de Bruxelles, sont seuls compétents pour les actions en réparation collective visées au Titre 2 du Livre XVII du Code de droit économique.

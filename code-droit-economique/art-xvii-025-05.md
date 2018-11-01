@@ -1,4 +1,1 @@
-Le titulaire d'une profession libérale est tenu d'apporter, dans un délai d'un mois maximum, les preuves concernant l'exactitude matérielle des données factuelles qu'il communique dans le cadre d'une pratique, lorsqu'une action en cessation est intentée par:
-1° le ministre et, le cas échéant, le ministre compétent visé à l'article XVII.8;
-2° les autres personnes visées à l'article XVII.7, pour autant que, compte tenu des intérêts légitimes du titulaire de la profession libérale et de toute autre partie à la procédure, le président du tribunal de première instance estime qu'une telle exigence est appropriée au vu des circonstances du cas d'espèce.
-Si les preuves exigées en vertu de l'alinéa 1er ne sont pas apportées ou sont jugées insuffisantes, le président du tribunal de première instance peut considérer les données factuelles comme inexactes.
+(Abrogé)

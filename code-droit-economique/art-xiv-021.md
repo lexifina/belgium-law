@@ -1,1 +1,1 @@
-Il est interdit à la personne exerçant une profession libérale de facturer des appels téléphoniques pour lesquels le consommateur paie le contenu du message, en plus du tarif d'appel, lorsque ces appels concernent l'exécution d'un contrat déjà conclu.
+(Abrogé)

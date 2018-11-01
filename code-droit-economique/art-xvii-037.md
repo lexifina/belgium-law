@@ -7,7 +7,7 @@ d) livre VII - Services de paiement et de crédit;
 e) livre IX - La sécurité des produits et des services;
 f) livre XI - Propriété intellectuelle;
 g) livre XII - Droit de l'économie électronique;
-h) livre XIV - Pratiques du marché et protection du consommateur relatif aux professions libérales;
+h) ...
 2° la loi du 25 mars 1964 sur les médicaments;
 3° la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations;
 4° la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction;

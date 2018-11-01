@@ -2,8 +2,8 @@
 1° permettre, via leur infrastructure, aux prestataires:
 a) d'accomplir les procédures et formalités nécessaires à l'accès à la profession de leurs activités de services telles que visées par les articles 1er et 2 de la directive services, en particulier toutes les déclarations, notifications ou demandes nécessaires en vue d'autorisation auprès des autorités compétentes, y compris les demandes d'inscription dans les registres, les rôles, les bases de données ou d'un ordre ou d'une association professionnelle;
 b) d'accomplir les demandes d'autorisation nécessaires à l'exercice des activités de services, telles que visées par la directive services;
-2° inscrire les entreprises commerciales et artisanales et les entreprises non-commerciales de droit privé, dans ces qualités, dans la Banque-Carrefour des Entreprises;
-3° vérifier dans les cas fixés par le Roi si les entreprises commerciales et artisanales et les entreprises non-commerciales de droit privé remplissent les conditions d'inscription, imposées en vertu des lois et règlements spéciaux;
+2° inscrire les entreprises soumises à inscription, dans cette qualité, dans la Banque-Carrefour des Entreprises;
+3° vérifier dans les cas fixés par le Roi si les entreprises soumises à inscription remplissent les conditions d'inscription, imposées en vertu des lois et règlements spéciaux;
 4° garantir l'accès aux données relatives aux inscriptions visées en 2°, selon les modalités et conditions fixées par le Roi;
 5° conserver les archives relatives aux conditions et inscriptions visées en 2° et 3°, selon les modalités fixées par le Roi;
 6° effectuer des formalités administratives, en exécution du présent livre ou d'autres lois, ou en vertu de celles-ci, selon les modalités fixées par le Roi;

@@ -1,0 +1,6 @@
+La réception des objets transportés éteint toute action contre le voiturier et le commissionnaire, sauf le cas de réserves spéciales ou d'avaries occultes.
+Les réserves ou réclamations doivent être formulées par écrit et adressées au voiturier le surlendemain, au plus tard, de la réception, pour les dommages apparents et les pertes, et dans un délai ne dépassant pas sept jours, non compris celui de la réception, pour les retards.
+Toutefois, le destinataire sera tenu d'admettre immédiatement la vérification des objets transportés, si l'avarie ou la perte partielle est signalée par le voiturier au moment de la livraison.
+Dans le cas d'avarie occulte ou de manquant à l'intérieur des objets transportés, la réclamation du destinataire pourra encore être admise, si elle est formulée par écrit et adressée au voiturier dans un délai ne dépassant pas sept jours, non compris celui de la réception, et s'il est prouvé que l'avarie ou le manquant est antérieur à la livraison.
+L'exception prévue dans le cas d'avarie occulte ou de manquant à l'intérieur des objets transportés, n'est pas applicable si la vérification de la marchandise a été offerte, au moment de la livraison, au destinataire ou à son fondé de pouvoir.
+L'action ne reste ouverte que relativement aux points qui ont fait l'objet d'une réserve ou d'une réclamation spéciale.

@@ -1,0 +1,1 @@
+La Société nationale des chemins de fer belges est tenue d'effectuer tout transport de personnes en service intérieur compatible avec les moyens de transports normaux permettant de satisfaire aux besoins réguliers du trafic, dans les conditions prévues au contrat de gestion.
