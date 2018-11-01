@@ -1,0 +1,1 @@
+Il est responsable de l'avarie ou de la perte des choses, ainsi que des accidents survenus aux voyageurs, s'il ne prouve pas que l'avarie, la perte ou les accidents proviennent d'une cause étrangère qui ne peut lui être imputée.

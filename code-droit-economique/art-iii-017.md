@@ -1,1 +1,1 @@
-Toute entreprise ou unité d'établissement visée à l'article III.16 est enregistrée, dans la Banque-Carrefour des Entreprises, et se voit attribuer un numéro d'entreprise ou d'unité d'établissement lors de son inscription. Ce numéro constitue le numéro d'identification unique.
+Toute entité enregistrée ou unité d'établissement visée à l'article III.16 est enregistrée, dans la Banque-Carrefour des Entreprises, et se voit attribuer un numéro d'entreprise ou d'unité d'établissement lors de son inscription. Ce numéro constitue le numéro d'identification unique.

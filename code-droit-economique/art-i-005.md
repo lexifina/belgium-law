@@ -1,8 +1,2 @@
-Les définitions suivantes sont applicables au livre III, titre 3, chapitre 2:
-1° entreprise:
-a) les personnes physiques ayant la qualité de commerçant;
-b) les sociétés commerciales ou à forme commerciale, à l'exception des organismes administratifs publics visés à l'article 2 de la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral, et les groupements européens d'intérêt économique;
-c) les organismes publics qui exercent une mission statutaire à caractère commercial, financier ou industriel;
-d) les organismes, non visés aux b) et c), dotés ou non d'une personnalité juridique propre qui exercent avec ou sans but de lucre une activité à caractère commercial, financier ou industriel, auxquels les dispositions du présent chapitre sont, par catégories d'organismes, rendues applicables par arrêté royal.
-Les personnes physiques qui n'ont pas leur domicile en Belgique, les entreprises de droit étranger visées aux b), c) et d) de l'alinéa 1er ainsi que les groupements européens d'intérêt économique ayant leur siège à l'étranger, ne sont soumis aux dispositions du présent chapitre qu'en ce qui concerne les succursales et sièges d'opération qu'ils ont établis en Belgique. L'ensemble de leurs succursales et sièges d'opérations dans le pays est considéré comme une entreprise. Les livres, comptes et pièces justificatives relatifs à ces sièges et succursales sont conservés en Belgique.
-Les arrêtés qui rendent les dispositions du présent chapitre applicables à des entreprises visées au d) du premier alinéa, adaptent les obligations résultant, pour les entreprises concernées, des dispositions des arrêtés pris en exécution du livre III, titre 3, à ce que requièrent la nature particulière des activités et le statut légal des entreprises en cause.
+La définition suivante est applicable au livre III, titre 3, chapitre 2:
+1° entreprise soumise à obligation comptable: une entreprise au sens de l'article III.82;

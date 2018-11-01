@@ -1,0 +1,1 @@
+Le Roi est autorisé à soumettre l'exploitation des moyens de transport des personnes et des marchandises aux mesures qu'Il jugera nécessaire pour assurer le maintien du bon ordre et la sécurité des voyageurs.

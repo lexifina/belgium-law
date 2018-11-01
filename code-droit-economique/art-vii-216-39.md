@@ -1,0 +1,2 @@
+Le porteur d'une lettre de change payable à jour fixe ou à un certain délai de date ou de vue doit la présenter au paiement le jour de l'échéance. L'inobservation de cette prescription ne peut donner lieu qu'à des dommages-intérêts.
+La présentation d'une lettre de change à une chambre de compensation désignée par le gouvernement ou à une institution habilitée à cette fin par lui, équivaut à une présentation au paiement.

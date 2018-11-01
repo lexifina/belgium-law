@@ -1,0 +1,1 @@
+Le commissionnaire ou le voiturier est tenu d'inscrire sur son livre-journal, d'après les déclarations de l'expéditeur, la nature, la quantité et, s'il en est requis, la valeur des objets à transporter.

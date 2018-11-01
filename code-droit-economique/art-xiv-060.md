@@ -1,5 +1,1 @@
-Une pratique professionnelle est déloyale lorsqu'elle:
-a) est contraire aux exigences de la diligence professionnelle
-et
-b) altère ou est susceptible d'altérer de manière substantielle le comportement économique du consommateur moyen qu'elle touche ou auquel elle s'adresse, ou si elle s'adresse à un groupe de consommateurs déterminé, le comportement économique du membre moyen de ce groupe, par rapport au produit concerné.
-Une pratique professionnelle qui est susceptible d'altérer de manière substantielle le comportement économique d'un seul groupe clairement identifiable de consommateurs, parce que ceux-ci sont particulièrement vulnérables à la pratique utilisée ou au produit qu'elle concerne en raison d'une infirmité mentale ou physique, de leur âge ou de leur crédulité, alors que l'on pourrait raisonnablement attendre des personnes exerçant une profession libérale qu'elle prévoie cette conséquence, est évaluée du point de vue du membre moyen de ce groupe. Cette disposition est sans préjudice de la pratique publicitaire courante et légitime consistant à formuler des déclarations exagérées ou des déclarations qui ne sont pas destinées à être comprises au sens littéral.
+(Abrogé)

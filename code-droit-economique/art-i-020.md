@@ -5,4 +5,7 @@ Les définitions suivantes sont applicables au livre XV:
 4° coordinateur fédéral: la personne physique désignée au sein du Service public fédéral Economie, pour être, dans le cadre de la coopération administrative prévue aux articles XV.35 à XV.48, le point de contact entre la Commission européenne et les autorités belges compétentes;
 5° coordinateur d'alerte: la personne ou les personnes physiques désignées au niveau fédéral qui sont chargées d'assurer l'information des Etats membres et de la Commission européenne de circonstances ou de faits graves et précis en rapport avec une activité de service susceptibles de causer un préjudice grave à la santé ou à la sécurité des personnes ou à l'environnement;
 6° Banque: la Banque nationale de Belgique;
+7° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
+8° entreprise soumise à inscription: toute entité tenue de s'inscrire en vertu de l'article III.49;
 (2)
+(3)

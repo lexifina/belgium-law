@@ -1,0 +1,1 @@
+Le tiré ne peut plus se dessaisir de la provision si le porteur lui en fait défense. Cette défense pourra être faite par simple lettre missive, qui devra être suivie d'assignation dans les quinze jours de l'échéance. Le protêt faute de paiement vaut défense.

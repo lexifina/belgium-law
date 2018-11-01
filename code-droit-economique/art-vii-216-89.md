@@ -1,0 +1,1 @@
+Si la lettre de change adirée est revêtue de l'acceptation, le paiement ne peut en être exigé sur une deuxième, troisième, quatrième, etc., que par ordonnance du président du tribunal de l'entreprise et en donnant caution.

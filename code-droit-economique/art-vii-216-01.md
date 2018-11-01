@@ -1,0 +1,1 @@
+Dans le présent titre, le terme "banquier" recouvre les institutions de crédit établies en Belgique qui relèvent de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse.

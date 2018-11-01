@@ -1,13 +1,9 @@
 § 1er. Sont inscrites dans la Banque-Carrefour des Entreprises, des informations relatives:
-1° aux personnes morales de droit belge;
-2° aux établissements, organismes et services de droit belge qui effectuent des missions d'intérêt général ou liées à l'ordre public et qui disposent d'une autonomie financière et comptable distincte de celle de la personne morale de droit public belge dont ils relèvent;
-3° aux personnes morales de droit étranger ou international qui disposent d'un siège en Belgique ou qui doivent se faire enregistrer en exécution d'une obligation imposée par la législation belge;
-4° à toute personne physique qui comme entité autonome:
-a) exerce une activité économique et professionnelle, en Belgique, de manière habituelle, à titre principal ou à titre complémentaire;
-b) ou doit se faire enregistrer en exécution d'une obligation imposée par la législation belge autre que celle visée par le présent titre;
-5° aux associations sans personnalité juridique qui doivent se faire enregistrer en exécution d'une obligation imposée par la législation belge autre que celle visée par le présent titre;
-6° aux unités d'établissement des entreprises visées ci-dessus.
-§ 2. Pour l'application du paragraphe 1er, exerce notamment une activité économique et professionnelle de manière habituelle, toute entreprise qui, en Belgique:
-1° soit est soumise à la sécurité sociale en tant qu'employeur;
-2° soit est soumise à la taxe sur la valeur ajoutée.
-§ 3. Pour l'inscription dans la Banque-Carrefour des Entreprises des personnes et associations visées au paragraphe 1er, 1°, 3°, 4° et 5°, les modalités seront déterminées par le Roi.
+1° à toute personne physique qui est une entreprise en Belgique, hormis les personnes physiques visées à l'article III.49, § 2, 6° et 9°;
+2° à toute personne morale de droit belge;
+3° à toute personne morale de droit étranger ou international possédant un siège ou une succursale en Belgique;
+4° à toute autre organisation sans personnalité juridique qui, en Belgique, soit est soumise à la sécurité sociale en tant qu'employeur, soit est soumise à la taxe sur la valeur ajoutée soit doit soit peut s'inscrire conformément à l'article III.49;
+5° à tout établissement, toute instance ou tout service de droit belge qui exerce des missions d'utilité publique ou liées à l'ordre public et qui possède une autonomie financière et comptable, distincte de celle des personnes morales de droit public belge dont ils dépendent;
+6° à toute personne physique, personne morale de droit étranger ou international ou à toute autre organisation sans personnalité juridique tenue de s'enregistrer en exécution de la législation particulière belge;
+7° à toute unité d'établissement des entités enregistrées précitées.
+§ 2. Le Roi fixe les modalités de l'inscription dans la Banque-Carrefour des Entreprises des entités visées au paragraphe 1er, à l'exception des entités visées au 5°.

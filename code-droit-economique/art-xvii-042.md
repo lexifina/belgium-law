@@ -1,4 +1,4 @@
-§ 1er. Sans préjudice des articles 1034bis et suivants du Code judiciaire, la requête ayant pour objet une réparation collective est adressée ou déposée au greffe du tribunal ... du commerce et contient:
+§ 1er. Sans préjudice des articles 1034bis et suivants du Code judiciaire, la requête ayant pour objet une réparation collective est adressée ou déposée au greffe du tribunal de l'entreprise et contient:
 1° la preuve qu'il est satisfait aux conditions de recevabilité visées à l'article XVII. 36;
 2° la description du préjudice collectif qui fait l'objet de l'action en réparation collective;
 3° le système d'option proposé et les motifs de ce choix;

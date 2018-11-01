@@ -1,1 +1,1 @@
-L'action en cessation peut être intentée contre le titulaire d'une profession libérale pour des pratiques de son agent utilisées en dehors des locaux de cet agent, lorsque l'agent n'a pas fait connaître clairement son identité et que son identité ne pouvait pas non plus être raisonnablement connue par celui qui intente l'action en cessation.
+(Abrogé)

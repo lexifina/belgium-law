@@ -1,0 +1,1 @@
+La validité des engagements souscrits en matière de lettres de change et de billets à ordre par un Belge à l'étranger n'est reconnue en Belgique que si, d'après la législation belge, il possédait la capacité requise pour les prendre.

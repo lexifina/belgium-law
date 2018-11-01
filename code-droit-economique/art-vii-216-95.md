@@ -1,0 +1,3 @@
+L'endossement d'une lettre de change ou d'un billet à ordre transfère au bénéficiaire de l'endos les sûretés personnelles et réelles, notamment les privilèges et l'hypothèque, qui en garantissent le paiement.
+Sauf dispositions contraires du contrat d'ouverture de crédit, les porteurs des lettres de change et billets à ordre créés ou endossés conformément aux stipulations de ce contrat profitent des sûretés qui garantissent l'ouverture de crédit, à concurrence du montant qui restera dû en vertu de celle-ci.
+Si les sûretés sont insuffisantes pour couvrir le créditeur et les tiers porteurs des lettres de change et des billets à ordre, ces tiers seront payés par préférence au créditeur et, le cas échéant, au marc le franc.

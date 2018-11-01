@@ -1,14 +1,15 @@
-§ 1er. Avant de démarrer leurs activités, les entreprises commerciales, artisanales et non commerciales de droit privé sont tenues de se faire inscrire à la Banque-Carrefour des Entreprises, respectivement en qualité d'entreprise commerciale, artisanale et non commerciale de droit privé, auprès du guichet d'entreprises de leur choix.
-Cette obligation est d'application tant au moment de la création de l'entreprise qu'au moment de la création d'une nouvelle unité d'établissement.
-§ 2. L'inscription, à la Banque-Carrefour des Entreprises, en qualité d'entreprise commerciale ou artisanale vaut, sauf preuve contraire, présomption de la qualité de commerçant ou d'artisan, selon la nature de l'inscription.
-§ 3. Par dérogation au paragraphe 1er, les associés en nom collectif et les associés commandités ne doivent pas, bien que commerçants, être enregistrés à la Banque-Carrefour des Entreprises de façon distincte.
-§ 4. Par dérogation au paragraphe 1er, ne sont pas tenues de s'inscrire en qualité d'entreprise non-commerciale de droit privé:
-a) les personnes physiques qui ne sont inscrites à la Banque-Carrefour des Entreprises qu'en leur seul qualité d'employeur de personnel domestique;
-b) les unions professionnelles;
-c) les associations de copropriétaires;
-d) les organisations représentatives des travailleurs;
-e) les entreprises de droit étranger ou international qui n'exercent pas d'activité en Belgique mais qui doivent néanmoins se faire enregistrer en exécution d'une obligation imposée par la législation belge;
-f) les unités T.V.A.;
-g) les associations sans personnalité juridique;
-h) les associations sans but lucratif;
-i) les pouvoirs organisateurs de l'enseignement subventionné.
+§ 1er. Les entreprises suivantes sont tenues de s'inscrire avant de démarrer leurs activités, en qualité d'entreprise soumise à inscription, dans la Banque-Carrefour des Entreprises auprès du guichet d'entreprises de leur choix:
+1° toute entreprise de droit belge, au sens de l'article I.1(b) et (c);
+2° toute entreprise qui possède en Belgique un siège, une succursale ou une unité d'établissement;
+§ 2. Par dérogation au paragraphe 1er, ne sont pas tenues de s'inscrire en qualité d'entreprises soumises à inscription:
+1° les associés à responsabilité illimitée d'une société dépourvue de personnalité juridique, d'une société en nom collectif ou d'une société en commandite simple, pour l'activité professionnelle de la société, à condition que la société concernée soit elle-même inscrite;
+2° les personnes physiques qui ne sont inscrites à la Banque-Carrefour des Entreprises qu'en leur seule qualité d'employeur de personnel domestique;
+3° les unions professionnelles;
+4° les pouvoirs organisateurs de l'enseignement subventionné;
+5° les personnes morales de droit public qui n'ont pas pris la forme d'une société ou une autre forme de personne morale de droit privé;
+6° la personne physique dont l'activité professionnelle à titre indépendant consiste en l'exercice d'un ou de plusieurs mandats d'administration;
+7° les associations de copropriétaires;
+8° les organisations représentatives des travailleurs;
+9° les personnes physiques qui exercent en Belgique une activité qui génère des revenus visés à l'article 90, alinéa 1er, 1° bis, du Code des impôts sur les revenus 1992, pour l'activité liée avec ces revenus, dans la mesure où ces revenus ne remplissent pas les conditions visées à l'article 37bis, § 2, du Code des impôts sur les revenus 1992;
+10° d'autres entreprises déterminées par le Roi.
+§ 3. L'inscription à la Banque-Carrefour des Entreprises en qualité d'entreprise soumise à inscription vaut, sauf preuve contraire, présomption de la qualité d'entreprise.
