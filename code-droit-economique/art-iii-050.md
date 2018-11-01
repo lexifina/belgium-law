@@ -1,3 +1,4 @@
-§ 1er. Le Roi fixe le montant du droit d'inscription à la Banque-Carrefour des Entreprises, en tant qu'entreprise commerciale, artisanale ou non commerciale de droit privé.
+§ 1er. Le Roi fixe le montant du droit d'inscription à la Banque-Carrefour des Entreprises, en tant qu'entreprise soumise à inscription.
 Il peut établir une distinction sur la base de la nature juridique de l'entreprise.
 Les montants ainsi fixés peuvent être adaptés au 1er janvier au taux de fluctuation de l'indice moyen des prix à la consommation pour autant que le montant indexé soit supérieur d'au moins 0,5 euros par rapport au montant applicable. Le montant de l'augmentation est arrondi vers le bas à un multiple de 0,5 euros.
+§ 2. Par dérogation au paragraphe 1er, les associations sans but lucratif, les associations internationales sans but lucratif et les fondations, visées dans la loi du 27 juin 1921 sur les associations sans but lucratif, les fondations, les partis politiques européens et les fondations politiques européennes, sont dispensées du paiement du droit d'inscription à la Banque-Carrefour des Entreprises.

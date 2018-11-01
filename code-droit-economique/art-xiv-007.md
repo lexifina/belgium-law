@@ -1,1 +1,1 @@
-Toute publicité pour les consommateurs faisant état d'un prix l'indique conformément aux prescriptions des articles XIV. 5 et XIV. 6, et des dispositions prises en application de l'article XIV. 8, 1°.
+(Abrogé)

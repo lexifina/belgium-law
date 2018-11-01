@@ -1,2 +1,2 @@
-Le numéro d'entreprise et le numéro d'unité d'établissement attribués au moment de l'inscription dans la Banque-Carrefour des Entreprises sont, immédiatement après leur attribution, communiqués à l'entreprise par les autorités, administrations et services désignés en vertu de l'article III.19, alinéa 1er.
+Le numéro d'entreprise et le numéro d'unité d'établissement attribués au moment de l'inscription dans la Banque-Carrefour des Entreprises sont, immédiatement après leur attribution, communiqués à l'entité enregistrée par les autorités, administrations et services désignés en vertu de l'article III.19, alinéa 1er.
 Le Roi fixe les règles d'attribution, les modalités de délivrance ainsi que la composition du numéro d'entreprise et du numéro d'unité d'établissement.

@@ -1,3 +1,3 @@
 § 1er. Tout exploit de signification d'une décision de nullité totale ou partielle d'un brevet ou d'un certificat complémentaire de protection sur la base de l'article XI.57 est immédiatement communiqué en copie par l'huissier instrumentant à l'Office.
-§ 2. L'Office peut demander au greffe du tribunal de commerce de Bruxelles si cette décision peut encore faire l'objet d'une opposition, d'un appel ou d'un pourvoi en cassation.
+§ 2. L'Office peut demander au greffe du tribunal de l'entreprise de Bruxelles si cette décision peut encore faire l'objet d'une opposition, d'un appel ou d'un pourvoi en cassation.
 Si le procureur général confirme qu'une opposition, un appel ou un pourvoi en cassation n'est plus possible, l'Office inscrit, dans le mois suivant la réception de cette confirmation, le dispositif de cette décision dans le dossier du brevet et fait mention d'un extrait dans le registre.

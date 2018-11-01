@@ -96,7 +96,7 @@ g) conclure un bail à ferme ou un bail commercial, ainsi que renouveler un bail
 h) transiger;
 i) acheter un bien immeuble.
 Le juge de paix est saisi par simple requête. Il s'entoure de tous les renseignements utiles; il peut notamment recueillir l'avis de la personne protégée et de toute personne qu'il estime apte à le renseigner, sans préjudice des articles 1186 et 1193bis du Code judiciaire, en matière de vente d'immeubles.
-Le commerce de la personne protégée est continué par son administrateur provisoire, si le juge de paix l'estime utile et aux conditions qu'il détermine. La direction peut en être confiée à un administrateur spécial sous la surveillance de l'administrateur provisoire. L'administrateur spécial est désigné par le tribunal de commerce à la demande du juge de paix.
+Le commerce de la personne protégée est continué par son administrateur provisoire, si le juge de paix l'estime utile et aux conditions qu'il détermine. La direction peut en être confiée à un administrateur spécial sous la surveillance de l'administrateur provisoire. L'administrateur spécial est désigné par le tribunal de l'entreprise à la demande du juge de paix.
 § 4. Le logement de la personne protégée et les meubles meublants dont il est garni doivent rester à sa disposition aussi longtemps que possible.
 S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée, spécialement en cas d'hospitalisation ou d'hébergement de longue durée, de disposer des droits y afférents, il faudra une autorisation du juge de paix visée au § 3.
 Cette autorisation est accordée suivant la procédure prévue à l'article 488bis, f, § 3.

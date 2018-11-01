@@ -1,1 +1,1 @@
-Le président du tribunal de commerce peut ordonner l'interdiction de la publicité visée à l'article XII. 21, 3°, lorsqu'elle n'a pas encore été portée à la connaissance du public, mais que sa publication est imminente.
+Le président du tribunal de l'entreprise peut ordonner l'interdiction de la publicité visée à l'article XII. 21, 3°, lorsqu'elle n'a pas encore été portée à la connaissance du public, mais que sa publication est imminente.

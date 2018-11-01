@@ -1,0 +1,1 @@
+Il y a provision si, à l'échéance, le tiré est en possession d'une valeur ou d'une garantie suffisante pour le couvrir complètement et qui est destinée par le tireur ou le donneur d'ordre à assurer le paiement de la lettre de change.

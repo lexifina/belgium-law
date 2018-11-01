@@ -1,4 +1,1 @@
-Le Roi exerce les pouvoirs à Lui confiés par les dispositions du livre XIV, titres 1er, 2, 3, 4, chapitres 1er et 3, sur la proposition du ministre.
-Le Roi exerce les pouvoirs à Lui confiés par les dispositions du livre XIV, titre 4, chapitre 2, sur la proposition du ministre.
-Lorsque des mesures à prendre en exécution du livre XIV, concernent des biens ou services qui, dans les domaines visés par les titres 1er à 4 sont réglementés ou susceptibles d'être réglementés à l'initiative d'autres Ministres, ces mesures doivent porter dans leur préambule, référence à l'accord des ministres intéressés. Le cas échéant, ces mesures sont proposées conjointement par les ministres intéressés et exécutées par eux, d'un commun accord, chacun en ce qui le concerne.
-Il en est de même lorsque, dans les domaines visés par les titres 1er à 4, des mesures à prendre, à l'initiative d'autres ministres que le ministre, concernent des biens ou des services réglementés ou susceptibles d'être réglementés en exécution du présent livre.
+(Abrogé)

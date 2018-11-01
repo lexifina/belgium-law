@@ -1,0 +1,1 @@
+A défaut de présentation de la lettre de change au paiement dans le délai fixé par l'article VII.216/39, tout débiteur a la faculté d'en remettre le montant en dépôt à l'autorité compétente, désignée par le gouvernement, aux frais, risques et périls du porteur.

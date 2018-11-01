@@ -1,7 +1,1 @@
-§ 1er. L'utilisation de systèmes automatisés d'appel sans intervention humaine et de télécopieurs à des fins de prospection directe est interdite sans le consentement préalable, libre, spécifique et informé du destinataire des messages.
-La personne qui a donné son consentement peut le retirer à tout moment, sans donner de motifs et sans qu'aucun frais puisse être mis à sa charge.
-La charge de la preuve du fait que la communication effectuée au moyen d'une technique mentionnée au présent paragraphe, ou déterminée en application de celui-ci a été sollicitée, incombe à l'émetteur.
-Le Roi peut, par arrêté délibéré en Conseil des ministres, étendre l'interdiction visée à l'alinéa 1er à d'autres techniques de communication que celles y mentionnées, compte tenu de leur évolution.
-§ 2. Sans préjudice de l'article XII.13, les communications non sollicitées à des fins de prospection directe, effectuées par d'autres techniques que celles mentionnées au paragraphe 1er ou déterminées en application de celui-ci, ne sont autorisées qu'en l'absence d'opposition manifeste du destinataire, personne physique ou morale et, pour ce qui concerne les abonnés, moyennant le respect des dispositions prévues aux articles XIV.78 à XIV.82.
-§ 3. Aucun frais ne peut être imputé au destinataire en raison de l'exercice de son droit d'opposition.
-§ 4. Lors de l'envoi de toute publicité au moyen d'une technique de communication visée au paragraphe 2, il est interdit de dissimuler l'identité de la personne exerçant une profession libérale au nom de laquelle la communication est faite.
+(Abrogé)

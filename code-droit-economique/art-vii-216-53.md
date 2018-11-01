@@ -1,0 +1,3 @@
+Toute personne ayant le droit d'exercer un recours, peut, sauf stipulation contraire, se rembourser au moyen d'une nouvelle lettre (retraite), tirée à vue sur l'un des garants et payable au domicile de celui-ci.
+La retraite comprend, outre les sommes indiquées dans les articles VII.216/49 et VII.216/50 un droit de courtage et le cas échéant, les taxes.
+Si la retraite est tirée par le porteur, le montant en est fixé d'après le cours d'une lettre de change à vue, tirée du lieu où la lettre primitive était payable sur le lieu du domicile du garant. Si la retraite est tirée par un endosseur, le montant en est fixé d'après le cours d'une lettre à vue tirée du lieu où le tireur de la retraite a son domicile sur le lieu du domicile du garant.

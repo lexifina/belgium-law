@@ -1,0 +1,1 @@
+Il est interdit au transporteur ferroviaire d'insérer dans ses tarifs ou règlements des stipulations qui modifient, en ce qui concerne les accidents survenus aux voyageurs, la responsabilité qui lui incombe d'après le droit commun.
