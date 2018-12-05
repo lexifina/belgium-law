@@ -1,0 +1,1 @@
+La responsabilité du transporteur ferroviaire en transport intérieur de marchandises est soumise aux dispositions reprises dans le titre IV des Règles uniformes concernant le contrat de transport international ferroviaire des marchandises (C.I.M.) de l'appendice B à la "Convention relative aux transports internationaux ferroviaires" approuvée par la loi du 25 avril 1983.
