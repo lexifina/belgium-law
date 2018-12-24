@@ -1937,6 +1937,7 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 <a name="LNK0075" href="#LNKR0075">Section 1re.</a> - La main-d'oeuvre étrangère
 
 <a name="Art.175" href="#Art.174">Art.</a> <a href="#Art.175_REGION_FLAMANDE"> 175</a>.La main-d'oeuvre étrangère
+[<sup>3</sup> <i>NOTE : abrogé, sauf en ce qui concerne les jeunes au pair visés à l'article 3, 4° de la loi du 9 mai 2018 relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour.</i>]<sup>3</sup>
 § 1er. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 30 avril 1999 relative à l'occupation de travailleurs étrangers, a fait ou laissé travailler un ressortissant étranger qui n'est pas admis ou autorisé à séjourner plus de trois mois en Belgique ou à s'y établir.
 L'amende est multipliée par le nombre de travailleurs concernés.
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
@@ -1975,9 +1976,48 @@ L'amende est multipliée par le nombre de travailleurs concernés.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 16, 009; En vigueur : 04-03-2013&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013021113" target="_blank">2013-02-11/13</a>, art. 34, 009; En vigueur : 04-03-2013&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018050910" target="_blank">2018-05-09/10</a>, art. 3, 034; En vigueur : 24-12-2018&gt;
 
 <a name="Art.175_REGION_FLAMANDE" href="#Art.175">Art.</a> <a href="#LNK0076"> 175_REGION_FLAMANDE</a>.
 &lt;Abrogé par DCFL <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016122367" target="_blank">2016-12-23/67</a>, art. 55, 023; En vigueur : 01-01-2017&gt;
+
+<a name="Art.%20175/1." href="#Art.175_REGION_FLAMANDE">Art.</a> <a href="#LNK0076">175/1</a>. [<sup>1</sup> Les travailleurs étrangers autorisés à travailler sur la base d'une situation particulière de séjour
+§ 1er. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 9 mai 2018 relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour, a fait ou laissé travailler un ressortissant étranger qui n'est pas admis ou autorisé à séjourner plus de trois mois en Belgique ou à s'y établir.
+L'amende est multipliée par le nombre de travailleurs concernés.
+Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
+§ 2. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 9 mai 2018 relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour, lors de l'occupation d'un ressortissant d'un pays tiers :
+1° n'a pas vérifié au préalable que celui-ci dispose d'un titre de séjour ou d'une autre autorisation de séjour valable;
+2° n'a pas tenu à la disposition des services d'inspection compétents une copie ou les données de son titre de séjour ou de son autre autorisation de séjour, au moins pendant la durée de la période d'occupation;
+3° n'a pas déclaré son entrée et sa sortie de service conformément aux dispositions légales et réglementaires.
+Au cas où le titre de séjour ou l'autre autorisation de séjour présenté par le ressortissant étranger est un faux, la sanction visée à l'alinéa 1er est applicable s'il est prouvé que l'employeur savait que ce document était un faux.
+L'amende est multipliée par le nombre de travailleurs concernés.
+Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
+§ 3. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 9 mai 2018 relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour :
+1° a fait ou laissé travailler un ressortissant étranger dont le titre de séjour ou l'autorisation de séjour valable mentionne explicitement que le détenteur de ce titre ou de cette autorisation n'est pas autorisé à travailler;
+2° a fait ou laissé travailler un ressortissant étranger dont le titre de séjour ou l'autorisation de séjour valable mentionne explicitement que le détenteur de ce titre ou de cette autorisation n'est autorisé à travailler que sous certaines conditions ou dans certaines limites, si ces conditions ou limites ne sont pas respectées;
+3° a fait ou laissé travailler un ressortissant étranger dont le titre de séjour ou l'autorisation de séjour l'autorisant à travailler a été retiré.
+L'amende est multipliée par le nombre de travailleurs concernés.
+Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
+§ 4. Est puni d'une sanction de niveau 4, quiconque, en contravention à la loi du 9 mai 2018 relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour :
+1° a fait entrer en Belgique un ressortissant étranger ou a favorisé l'entrée en Belgique de celui-ci en vue d'y être occupé, sauf s'il s'agit d'un ressortissant étranger possédant un document valable l'autorisant à travailler et à l'exception du ressortissant étranger pour lequel l'employeur peut obtenir une autorisation postérieurement à son entrée en Belgique en vue d'y être occupé;
+2° a promis à un ressortissant étranger, moyennant une rétribution sous une forme quelconque, soit de lui chercher un emploi, soit de lui procurer un emploi, soit d'accomplir des formalités en vue de son occupation en Belgique;
+3° a réclamé ou reçu d'un ressortissant étranger, une rétribution sous une forme quelconque, soit pour lui chercher un emploi, soit pour lui procurer un emploi, soit pour accomplir des formalités en vue de son occupation en Belgique;
+4° a servi d'intermédiaire entre un ressortissant étranger et un employeur ou les autorités chargées de l'application des dispositions de la loi précitée du 9 mai 2018 ou de ses arrêtés d'exécution ou encore entre un employeur et ces mêmes autorités, en accomplissant des actes susceptibles d'induire en erreur, soit ce ressortissant étranger, soit l'employeur, soit lesdites autorités.
+L'amende est multipliée par le nombre de travailleurs concernés.
+Le juge peut, en outre, prononcer les peines prévues aux articles 106 et 107.
+§ 5. Est puni d'une sanction de niveau 4, l'entrepreneur, en l'absence d'une chaîne de sous-traitants, ou l'entrepreneur intermédiaire, en cas d'existence d'une telle chaîne, quand leur sous-traitant direct commet une infraction visée au paragraphe 2.
+Par dérogation à l'alinéa 1er, l'entrepreneur et l'entrepreneur intermédiaire ne sont pas punis d'une sanction de niveau 4, s'ils sont en possession d'une déclaration écrite dans laquelle leur sous-traitant direct certifie qu'il n'occupe pas et n'occupera pas de ressortissant d'un pays tiers en séjour illégal.
+Par dérogation à l'alinéa 2, l'entrepreneur et l'entrepreneur intermédiaire qui sont en possession de la déclaration écrite sont punis d'une sanction de niveau 4 s'ils ont, préalablement à l'infraction visée à l'alinéa 1er, connaissance du fait que leur sous-traitant direct occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal. La preuve de cette connaissance peut être la notification visée à l'article 49/2.
+L'amende est multipliée par le nombre de travailleurs concernés.
+§ 6. Sont punis d'une sanction de niveau 4, l'entrepreneur principal et l'entrepreneur intermédiaire, en cas d'existence d'une chaîne de sous-traitants, quand leur sous-traitant indirect commet une infraction visée au paragraphe 2, s'ils ont préalablement à l'infraction commise par eux, connaissance du fait que leur sous-traitant indirect occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal. La preuve de cette connaissance peut être la notification visée à l'article 49/2.
+L'amende est multipliée par le nombre de travailleurs concernés.
+§ 7. Est puni d'une sanction de niveau 4:
+1° le donneur d'ordre, en l'absence d'une relation de sous-traitance, quand son entrepreneur commet une des infractions visées au paragraphe 2, si le donneur d'ordre a, préalablement à l'infraction qu'il a commise, connaissance du fait que son entrepreneur occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal. La preuve de cette connaissance peut être la notification visée à l'article 49/2.
+2° le donneur d'ordre, en cas d'existence d'une relation de sous-traitance, quand le sous-traitant intervenant directement ou indirectement après son entrepreneur commet une infraction visée au paragraphe 2, si le donneur d'ordre a, préalablement à l'infraction qu'il a commise, connaissance du fait que le sous-traitant intervenant directement ou indirectement après son entrepreneur occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal. La preuve de cette connaissance peut être la notification visée à l'article 49/2.
+L'amende est multipliée par le nombre de travailleurs concernés.
+§ 8. Par dérogation à l'article 42, 1°, du Code pénal, la confiscation spéciale, imposée par le juge, peut également être appliquée aux biens meubles et aux biens immeubles par incorporation ou par destination, qui ont formé l'objet d'une infraction au présent article ou qui ont servi ou qui étaient destinés à commettre cette infraction, même lorsque ces biens n'appartiennent pas en propriété au contrevenant.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018050910" target="_blank">2018-05-09/10</a>, art. 4, 034; En vigueur : 24-12-2018&gt;
 
 <a name="LNK0076" href="#LNKR0076">Section 2.</a> - Le travail intérimaire
 
