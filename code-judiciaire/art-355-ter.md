@@ -1,3 +1,3 @@
-Le traitement des assesseurs effectifs au tribunal de l'application des peines et d'internement est identique au traitement fixé par l'article 355 pour les juges au tribunal de première instance. Les articles 360, alinéa 1er, 360ter, alinéas 3 et 4, 362, 363 et 377 leur sont applicables.
+Le traitement des assesseurs effectifs au tribunal de l'application des peines est identique au traitement fixé par l'article 355 pour les juges au tribunal de première instance. Les articles 360, alinéa 1er, 360ter, alinéas 3 et 4, 362, 363 et 377 leur sont applicables.
 L'expérience exigée comme condition de nomination entre en compte pour le calcul de l'ancienneté à concurrence d'une durée maximale de six ans. Toutes les périodes durant lesquelles la fonction d'assesseur au tribunal de l'application des peines a été exercée entrent en compte pour le calcul de l'ancienneté pécuniaire.
-Le ministre de la Justice détermine le montant de l'indemnité allouée aux assesseurs suppléants au tribunal de l'application des peines et d'internement.
+Le ministre de la Justice détermine le montant de l'indemnité allouée aux assesseurs suppléants au tribunal de l'application des peines.

@@ -1,20 +1,14 @@
-§ 1er. Pour pouvoir être nommé assesseur en matière d'application des peines et d'internement spécialisé en matière pénitentiaire effectif ou suppléant, le candidat doit satisfaire aux conditions suivantes:
+§ 1er. Pour pouvoir être nommé assesseur en application des peines spécialisé en matière pénitentiaire effectif ou suppléant, le candidat doit satisfaire aux conditions suivantes:
 1° posséder cinq ans au moins d'expérience professionnelle utile attestant d'une connaissance pratique des questions liées à la matière pénitentiaire;
 2° être titulaire d'un master;
 3° être Belge;
 4° être âgé d'au moins trente ans;
 5° jouir des droits civils et politiques.
-Pour pouvoir être nommé assesseur en matière d'application des peines et d'internement spécialisé en réinsertion sociale effectif ou suppléant, le candidat doit satisfaire aux conditions suivantes:
+Pour pouvoir être nommé assesseur en application des peines et internement spécialisé en réinsertion sociale effectif ou suppléant, le candidat doit satisfaire aux conditions suivantes:
 1° posséder cinq ans au moins d'expérience professionnelle utile attestant d'une connaissance pratique des questions liées à la matière de la réinsertion sociale;
 2° être titulaire d'un master;
 3° être Belge;
 4° être âgé d'au moins trente ans;
-5° jouir des droits civils et politiques.
-Pour pouvoir être nommé assesseur en matière d'application des peines et d'internement spécialisé en matière de psychologie clinique, le candidat doit satisfaire aux conditions suivantes:
-1° posséder au moins cinq ans d'expérience professionnelle utile attestant d'une connaissance pratique des questions liées à la psychologie clinique;
-2° être titulaire d'un master en sciences psychologiques;
-3° être Belge;
-4° être âgé d'au moins trente ans et ne pas avoir plus de soixante-cinq ans;
 5° jouir des droits civils et politiques.
 Pour pouvoir être nommé assesseur en internement spécialisé en psychologie clinique effectif ou suppléant, le candidat doit satisfaire aux conditions suivantes:
 1° posséder au moins cinq ans d'expérience professionnelle utile attestant d'une connaissance pratique des questions liées à la psychologie clinique;

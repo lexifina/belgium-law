@@ -1,5 +1,5 @@
 § 1er.L'évaluation des assesseurs au tribunal de l'application des peines effectifs et suppléants est effectuée, après avis du président de la chambre du tribunal de l'application des peines dans laquelle siège l'assesseur, par le président du tribunal de première instance au sein duquel l'assesseur exerce ses fonctions.
-§ 2. L'assesseur au tribunal de l'application des peines et d'internement effectif ou suppléant est soumis à une évaluation écrite motivée au plus tard quatre mois avant la fin de chaque période ... pour laquelle le mandat a été octroyé.
+§ 2. L'assesseur au tribunal de l'application des peines effectif ou suppléant est soumis à une évaluation écrite motivée au plus tard quatre mois avant la fin de chaque période ... pour laquelle le mandat a été octroyé.
 L'évaluation est effectuée dans les trente jours suivant le délai prévu à l'alinéa 1er.
 L'évaluation du mandat peut donner lieu à la mention " bon " ou " insuffisant ".
 Le mandat n'est renouvelé que si l'assesseur effectif ou suppléant obtient la mention " bon ".
