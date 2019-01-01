@@ -1,3 +1,3 @@
-Sous réserve des conventions internationales, la rémunération visée à l'article XI.213 est répartie par les sociétés de gestion et/ou les organismes de gestion collective par moitié entre les artistes-interprètes ou exécutants et les producteurs. Cette clé de répartition est impérative.
+Sous réserve des conventions internationales, la rémunération visée à l'article XI.213 est répartie par les sociétés de gestion et/ou les organismes de gestion collective par moitié entre les artistes-interprètes ou exécutants et les producteurs de phonogrammes. Cette clé de répartition est impérative.
 La part de la rémunération, visée à l'article XI.213, à laquelle les artistes-interprètes ou exécutants ont droit, est incessible.
-Les droits à rémunération prévus à l'article XI.213 ont des durées respectivement identiques à celles prévues aux articles XI.208, alinéas 1er, 2 et 3 et XI.209, § 1er, alinéas 5, 6 et 7.
+Les droits à rémunération prévus à l'article XI.213 ont des durées respectivement identiques à celles prévues aux articles XI.208, alinéas 1er, 2 et 3 et XI.209, § 1er, alinéas ... 6 et 7.
