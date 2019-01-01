@@ -2,3 +2,11 @@
 § 2. Sans préjudice de dispositions plus favorables, le Roi peut, après avis du Conseil national du Travail, augmenter d'une manière générale le nombre de jours prévus au § 1er.
 A partir du 1er janvier 2008, le Roi augmente, après avis du Conseil national du travail, le nombre de jours prévus au § 1er, à maximum 10 par année civile et par famille.
 Le Roi détermine également, après avis du Conseil national du Travail, ce qu'on entend par parent d'accueil et famille d'accueil et fixe les modalités pour l'exercice de ce droit, notamment le type de placement et le type d'obligations, missions et situations liées au placement qui peuvent ainsi être prises en compte, et la manière et le délai dans lequel l'employeur doit être averti. Le Roi peut également adapter le nombre de jours prévus au § 1er pour certaines catégories de travailleurs.
+§ 3. En cas de placement familial de longue durée, le travailleur qui, dans le cadre d'un placement familial de longue durée, accueille un enfant dans sa famille, a droit, pour prendre soin de cet enfant, à un congé parental d'accueil pendant une période ininterrompue de maximum six semaines. Le congé parental d'accueil de six semaines par parent est allongé de la manière suivante pour le parent d'accueil ou pour les deux parents d'accueil ensemble:
+1° d'une semaine à partir du 1er janvier 2019;
+2° de deux semaines à partir du 1er janvier 2021 au plus tard;
+3° de trois semaines à partir du 1er janvier 2023 au plus tard;
+4° de quatre semaines à partir du 1er janvier 2025 au plus tard;
+5° de cinq semaines à partir du 1er janvier 2027 au plus tard.
+Les modalités d'exercice de ce droit ainsi que les indemnités sont identiques à celles applicables au congé d'adoption prévu à l'article 30ter.
+Un placement de longue durée est un placement à propos duquel il est clair dès le début que l'enfant séjournera au minimum six mois au sein de la même famille d'accueil auprès des mêmes parents d'accueil.
