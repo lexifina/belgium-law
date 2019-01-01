@@ -1,4 +1,4 @@
-L'utilisation de prestations, conformément à l'article XI.212, donne droit, quel que soit le lieu de fixation, à une rémunération équitable au profit des artistes-interprètes ou exécutants et des producteurs.
+L'utilisation de prestations, conformément à l'article XI.212, donne droit à une rémunération équitable au profit des artistes-interprètes ou exécutants et des producteurs de phonogrammes, quel que soit le lieu de fixation.
 Le Roi détermine le montant de la rémunération équitable qui peut être différencié en fonction des secteurs concernés. Il peut déterminer les modalités selon lesquelles l'exécution de prestations doit être effectuée afin de revêtir un caractère public au sens de l'article XI.212, 1°.
 Le Roi fixe les modalités de perception, de répartition et de contrôle de la rémunération ainsi que le moment où celle-ci est due.
 La rémunération est versée par les personnes procédant aux actes prévus à l'article XI.212 aux sociétés de gestion et /ou aux organismes de gestion collective qui gèrent en Belgique la rémunération équitable visée à l'alinéa 1er, visées au chapitre 9 du présent titre.
