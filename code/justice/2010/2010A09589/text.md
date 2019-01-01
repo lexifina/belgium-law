@@ -1680,9 +1680,14 @@ Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandatair
 3° n'a pas accordé au travailleur qui en fait la demande le congé de paternité qui lui est reconnu, en tant que père, parce que la mère est hospitalisée ou décédée.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="Art.148" href="#Art.147">Art.</a> <a href="#Art.149"> 148</a>. L'absence du travail en vue de fournir des soins d'accueil
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi-programme du 27 avril 2007, n'a pas accordé au travailleur le droit de s'absenter du travail en vue de fournir des soins d'accueil.
-L'amende est multipliée par le nombre de travailleurs concernés.
+<a name="Art.148" href="#Art.147">Art.</a> <a href="#Art.149"> 148</a>.[<sup>1</sup> Le congé d'adoption, l'absence en vue de fournir des soins d'accueil et le congé parental d'accueil
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 juillet 1978 relative aux contrats de travail :
+1° n'a pas accordé au travailleur qui y a droit le congé d'adoption;
+2° n'a pas accordé au travailleur désigné comme parent d'accueil le droit de s'absenter du travail en vue de fournir des soins d'accueil;
+3° n'a pas accordé au travailleur qui y a droit le congé parental d'accueil.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090612" target="_blank">2018-09-06/12</a>, art. 3/2, 035; En vigueur : 01-01-2019&gt;
 
 <a name="Art.149" href="#Art.148">Art.</a> <a href="#Art.150"> 149</a>. L'entrave au droit au crédit-temps et à l'interruption de carrière
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui n'accorde pas au travailleur le droit à la suspension ou à la réduction des prestations de travail en contravention à la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, aux arrêtés royaux pris en exécution de la loi précitée, ainsi qu'aux conventions collectives de travail d'application en cette matière.
