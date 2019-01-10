@@ -5,6 +5,8 @@ Dans les causes où les parties ont plusieurs enfants mineurs communs dont les d
 § 2/1. Les actions relatives à la filiation sont portées devant le tribunal de la famille du domicile ou à défaut, de la résidence habituelle de l'enfant.
 En l'absence de domicile ou de résidence habituelle de l'enfant, le tribunal de la famille de Bruxelles est compétent pour connaître de la demande.
 La notion de "résidence habituelle" s'entend au sens de l'article 4, § 2, du Code de droit international privé.
+§ 2/2. Les demandes de levée de la prohibition de contracter un mariage visées aux articles 164 et 353-13 du Code civil sont portées devant le tribunal de la famille du domicile ou, à défaut, de la résidence d'un des futurs conjoints.
+En l'absence de domicile ou de résidence des futurs conjoints en Belgique, le tribunal de la famille de Bruxelles est compétent pour connaître de la demande.
 § 3. Les causes relatives aux actes de l'état civil, celles visées aux articles 633sexies et 633septies, celles relatives à une adoption ou relatives aux successions, testaments et donations sont portées devant le tribunal de la famille compétent selon le présent Code.
 § 4. A l'exception de celles prévues au § 2, les demandes relatives aux pensions alimentaires visées à l'article 572bis, 7°, peuvent être portées devant le tribunal de la famille du domicile du demandeur, à l'exception des demandes tendant à réduire ou à supprimer ces pensions alimentaires.
 § 5. A l'exception de celles relatives aux §§ 1er à 4, les demandes sont portées devant le tribunal de la famille du domicile du défendeur ou du lieu de la dernière résidence conjugale ou de la dernière résidence commune des cohabitants légaux.
