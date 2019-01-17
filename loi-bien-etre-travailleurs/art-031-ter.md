@@ -15,7 +15,7 @@ Le système d'enregistrement, visé à l'alinéa 1er, 1°, comprend:
 6° le moment de l'enregistrement.
 Les données visées au présent article sont des données sociales à caractère personnel visées à l'article 2, alinéa 1er, 6°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale.
 Les données sont envoyées à une base de données qui est tenue par l'autorité désignée par le Roi.
-Le Service public fédéral Emploi, Travail et Concertation sociale est le responsable du traitement des données visé à l'article 1er, § 4, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+Le Service public fédéral Emploi, Travail et Concertation sociale est le responsable du traitement visé à l'article 4, 7), du règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
 Le système d'enregistrement garantit que les données ne peuvent plus être modifiées imperceptiblement après leur envoi et que leur intégrité est maintenue.
 § 3. Après avis de la Commission de la protection de la vie privée, le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités auxquelles doit répondre le système d'enregistrement et notamment:
 1° les caractéristiques du système;
