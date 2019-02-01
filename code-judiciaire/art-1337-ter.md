@@ -1,6 +1,6 @@
 § 1er. (La requête mentionne :)
 1°) l'indication des jour, mois et année;
-2°) les nom, prénom, profession et domicile du requérant ainsi que, le cas échéant, les nom, prénom, domicile et qualité de ses représentants légaux;
+2°) les nom, prénom ... et domicile du requérant ainsi que, le cas échéant, son numéro de registre national et les nom, prénom, domicile et qualité de ses représentants légaux;
 3°) les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite ou, si la demande est introduite contre une personne morale, l'indication de son siège social ou administratif;
 4°) l'objet et l'exposé sommaire des moyens de la demande;
 5°) la signature du requérant ou de son avocat.
