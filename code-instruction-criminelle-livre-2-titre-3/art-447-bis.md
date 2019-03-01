@@ -1,1 +1,1 @@
-Sont susceptibles de revision, conformément aux articles 443 à 447, les décisions ordonnant l'internement des inculpés et accusés en état de démence, de déséquilibre mental ou de débilité mentale, prononcées en vertu de la loi de défense sociale à l'égard des anormaux et des délinquants d'habitude.
+Sont susceptibles de révision, conformément aux articles 443 à 447, les décisions ordonnant l'internement d'inculpés et d'accusés.
