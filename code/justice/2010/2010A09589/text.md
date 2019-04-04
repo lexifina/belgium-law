@@ -91,9 +91,10 @@ Les coordinateurs SIRS sont chargés du soutien des cellules d'arrondissement. I
 <a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>.[<sup>1</sup> La fonction du dirigeant, appelé le directeur du SIRS, les conditions de sa nomination et son statut
 Le directeur du SIRS doit être titulaire d'une fonction de management.
 Le Roi détermine, par un arrêté délibéré en Conseil des ministres, les conditions de nomination et le statut pécuniaire et administratif du directeur.
-Dans l'attente de la désignation du fonctionnaire mandataire dirigeant visé aux alinéas précédents, le fonctionnaire dirigeant de la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, au 1er juillet 2017, continue à exercer la fonction du directeur du SIRS jusqu'au 1er juillet 2018.]<sup>1</sup>
+[<sup>2</sup> Dans l'attente de la désignation du fonctionnaire mandataire dirigeant visé aux alinéas 1er et 2, le fonctionnaire qui, à la date du 1er juillet 2017 dirige la direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, poursuit l'exercice de la fonction du directeur du Bureau. Le mandat de cette personne se termine au moment où le fonctionnaire mandataire dirigeant est désigné.]<sup>2</sup>]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018122149" target="_blank">2018-12-21/49</a>, art. 69, 036; En vigueur : 01-01-2019&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019040706" target="_blank">2019-04-07/06</a>, art. 18, 040; En vigueur : 01-01-2019&gt;
 
 <a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.9/1"> 9</a>.[<sup>1</sup> Les tâches du directeur du SIRS
 Le directeur du SIRS :
