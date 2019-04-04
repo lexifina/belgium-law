@@ -1017,35 +1017,39 @@ Le Roi peut déterminer les modalités pour l'archivage de l'e-PV pour autant qu
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 91, 005; En vigueur : 16-04-2012&gt;
 
-<a name="Art.100/6" href="#Art.100/5">Art.</a> <a href="#Art.100/7"> 100/6</a>. [<sup>1</sup> La création de la banque de données e-PV
+<a name="Art.100/6" href="#Art.100/5">Art.</a> <a href="#Art.100/7"> 100/6</a>.[<sup>1</sup> La création de la banque de données e-PV
 Une banque de données e-PV est créée.
-L'Etat belge, représenté par le ministre compétent pour l'emploi, par le ministre compétent pour les affaires sociales et par le ministre compétent pour la justice, est responsable pour le traitement des données visées à l'alinéa 4, dans le sens de l'article 1er, § 4, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+L'Etat belge, représenté par le ministre compétent pour l'emploi, par le ministre compétent pour les affaires sociales [<sup>2</sup> , par le ministre compétent pour l'économie]<sup>2</sup> et par le ministre compétent pour la justice, est responsable pour le traitement des données visées à l'alinéa 4, dans le sens de l'article 1er, § 4, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
 Le stockage et le fait de tenir à jour les données visées à l'alinéa 4 poursuivent les objectifs suivants :
 1° la collecte de l'information utile pour permettre aux acteurs de la lutte contre le travail illégal et la fraude sociale de combattre de manière adéquate le travail illégal et la fraude sociale;
 2° la collecte de l'information utile pour permettre aux acteurs de la lutte contre le travail illégal et la fraude sociale d'effectuer leurs missions légales;
-3° l'élaboration de statistiques internes et externes.
-La banque de données e-PV contient des données qui sont reprises dans le modèle d'e-PV visé à l'article 100/2, à propos des personnes suivantes :
+3° l'élaboration de statistiques internes et externes;
+[<sup>2</sup> 4° la collecte de l'information nécessaire pour permettre aux agents visés à l'article 3 de la loi du 17 mars 2019 portant l'introduction du procès-verbal électronique pour les services d'inspection du SPF Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social d'effectuer leurs missions légales.]<sup>2</sup>
+La banque de données e-PV contient des données qui sont reprises dans le modèle d'e-PV visé à l'article 100/2 [<sup>2</sup> et à l'article 3, § 1er, alinéa 1er, de la loi du 17 mars 2019 portant l'introduction du procès-verbal électronique pour les services d'inspection du SPF Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social]<sup>2</sup>, à propos des personnes suivantes :
 1° toute personne suspectée d'être (co)auteur d'une infraction;
 2° toute personne qui est civilement tenue responsable pour une infraction;
 3° tout travailleur ou personne qui est concerné ou considéré comme étant concerné par une infraction;
 4° toute autre personne mentionnée dans l'e-PV dont la reprise des données dans l'e-PV est nécessaire pour une bonne compréhension des faits constatés dans l'e-PV.
 Pour autant qu'elles concernent une personne physique qui est ou peut être identifiée, les données visées à l'alinéa 4 sont les données sociales à caractère personnel au sens de l'article 2, alinéa 1er, 6°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la Sécurité sociale.]<sup>1</sup>
+[<sup>2</sup> L'alinéa 5 ne s'applique pas aux données de la banque de données e-PV qui portent sur les procès-verbaux visés à l'article 3 de la loi du 17 mars 2019 portant l'introduction du procès-verbal électronique pour les services d'inspection du Service Public Fédéral Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social .]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 92, 005; En vigueur : 16-04-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031701" target="_blank">2019-03-17/01</a>, art. 6, 038; En vigueur : 04-04-2019&gt;
 
 <a name="Art.100/7" href="#Art.100/6">Art.</a> <a href="#Art.100/8"> 100/7</a>. [<sup>1</sup> Le financement de la banque de données e-PV
 Les crédits qui sont requis pour la création et le fonctionnement de la banque de données e-PV sont inscrits au budget du Service public fédéral Emploi, Travail et Concertation sociale.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 93, 005; En vigueur : 16-04-2012&gt;
 
-<a name="Art.100/8" href="#Art.100/7">Art.</a> <a href="#Art.100/9"> 100/8</a>. [<sup>1</sup> Le Comité de gestion de la banque de données e-PV
+<a name="Art.100/8" href="#Art.100/7">Art.</a> <a href="#Art.100/9"> 100/8</a>.[<sup>1</sup> Le Comité de gestion de la banque de données e-PV
 § 1er. Un Comité de gestion de la banque de données e-PV est créé.
 Le Comité de gestion est composé :
 1° du président, le fonctionnaire dirigeant l'administration compétente;
 2° des fonctionnaires dirigeant des services d'inspection sociale visés à l'article 100/2;
 3° du directeur du Bureau fédéral d'orientation du Service d'information et de recherche sociale;
 4° du procureur général désigné par le Collège des procureurs généraux;
-5° d'un fonctionnaire dirigeant la Banque-Carrefour de la Sécurité sociale.
+5° d'un fonctionnaire dirigeant la Banque-Carrefour de la Sécurité sociale;
+[<sup>2</sup> 6° des fonctionnaires dirigeants des services d'inspection du Service public fédéral Economie, P.M.E., Classes moyennes et Energie.]<sup>2</sup>
 Le Comité de gestion est établi à l'adresse du Service public fédéral Emploi, Travail et Concertation sociale.
 Le Comité de gestion se réunit au moins deux fois par an.
 Le secrétariat est assuré par le Service public fédéral Emploi, Travail et Concertation sociale.
@@ -1061,14 +1065,16 @@ Le secrétariat est assuré par le Service public fédéral Emploi, Travail et C
 9° établir un règlement d'ordre intérieur dans lequel sont entre autres fixées les règles pour le remplacement des membres.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 94, 005; En vigueur : 16-04-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031701" target="_blank">2019-03-17/01</a>, art. 7, 038; En vigueur : 04-04-2019&gt;
 
-<a name="Art.100/9" href="#Art.100/8">Art.</a> <a href="#Art.100/10"> 100/9</a>. [<sup>1</sup> La surveillance du traitement des données dans le cadre de la banque de données e-PV
+<a name="Art.100/9" href="#Art.100/8">Art.</a> <a href="#Art.100/10"> 100/9</a>.[<sup>1</sup> La surveillance du traitement des données dans le cadre de la banque de données e-PV
 Sans préjudice des missions et des compétences que la Commission de la protection de la vie privée, dénommée ci-après Commission, tire de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, elle est chargée, afin de garantir la protection de la vie privée et le respect du secret de l'enquête pénale, de surveiller que le contenu de la banque de données e-PV et le traitement des données et des informations dans le cadre de cette banque de données correspondent aux dispositions des articles 54 à 56 du présent chapitre, de la loi précitée du 8 décembre 1992 et des articles 28quinquies, § 1er, et 57 du Code d'instruction criminelle.
-La Commission émet des avis et des recommandations au sujet de l'application du présent chapitre, aussi bien d'initiative que sur demande, en particulier du ministre compétent pour l'emploi, du ministre compétent pour les affaires sociales ou du Ministre compétent pour la justice ou des autorités judiciaires.
+La Commission émet des avis et des recommandations au sujet de l'application du présent chapitre, aussi bien d'initiative que sur demande, en particulier du ministre compétent pour l'emploi, du ministre compétent pour les affaires sociales [<sup>2</sup> , du ministre compétent pour l'économie]<sup>2</sup> ou du Ministre compétent pour la justice ou des autorités judiciaires.
 Les articles 29, 30, 32, § 1er, et 33 de la loi précitée du 8 décembre 1992 sont pleinement applicables.
 Les personnes désignées à cette fin par la Commission parmi ses membres disposent, en vue de l'exécution de leurs missions, d'un droit d'accès illimité à toutes les informations et données conservées dans la banque de données e-PV.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 95, 005; En vigueur : 16-04-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031701" target="_blank">2019-03-17/01</a>, art. 8, 038; En vigueur : 04-04-2019&gt;
 
 <a name="Art.100/10" href="#Art.100/9">Art.</a> <a href="#Art.100/11"> 100/10</a>.[<sup>1</sup> L'accès à la banque de données e-PV
 § 1er. Sans préjudice des articles 54 et 55 et moyennant l'autorisation de [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup>, les catégories de fonctionnaires habilités par le Roi des services d'inspection sociale fédéraux désignés par le Roi ont accès aux données suivantes de la banque de données e-PV :
@@ -1086,11 +1092,14 @@ L'autorisation de [<sup>2</sup> la chambre sécurité sociale et santé du comit
 L'autorisation de [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup>, visée à l'alinéa 1er, n'est pas requise pour l'accès aux données des procès-verbaux qui ont été dressés par leur propre service d'inspection.
 § 3. Moyennant l'autorisation de [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup>, les fonctionnaires de l'administration compétente ont accès à toutes les données de la banque de données e-PV, pour autant que ces données présentent un intérêt pour eux dans l'exercice de leur mission légale. Cet accès inclut l'accès aux données reprises dans les procès-verbaux qui sont établis durant l'exécution des devoirs prescrits par l'autorité judiciaire, sans que l'autorisation de cette dernière doive être sollicitée.
 § 4. Le ministère public, près les cours et tribunaux et les juges d'instruction ont accès aux données de la banque de données e-PV dans le cadre de l'exercice de leur mission légale. Par dérogation aux dispositions de l'article 15 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la Sécurité sociale, cet accès n'est pas subordonné à l'autorisation de [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup>.
-§ 5. Après avis du Comité de gestion, [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup> peut étendre, en tout ou en partie, l'accès aux données de la banque de données e-PV, y compris les données qui sont reprises dans les procès-verbaux établis durant l'exercice des devoirs prescrits par l'autorité judiciaire, à d'autres catégories de personnes parmi les acteurs de la lutte contre le travail illégal et la fraude sociale que celles visées aux §§ 1er et 4, et à l'Office des Etrangers et ce, aux conditions et suivant les modalités qu'elle détermine. Les données qui sont reprises dans un procès-verbal établi durant l'exercice des devoirs prescrits par l'autorité judiciaire ne sont en aucun cas accessibles sans l'autorisation expresse de cette dernière.
+§ 5. Après avis du Comité de gestion, [<sup>2</sup> la chambre sécurité sociale et santé du comité de sécurité de l'information]<sup>2</sup> peut étendre, en tout ou en partie, l'accès aux données de la banque de données e-PV, y compris les données qui sont reprises dans les procès-verbaux établis durant l'exercice des devoirs prescrits par l'autorité judiciaire, à d'autres catégories de personnes parmi les acteurs de la lutte contre le travail illégal et la fraude sociale que celles visées aux §§ 1er et 4, [<sup>3</sup> aux services d'inspection du Service public fédéral Economie, P.M.E., Classes moyennes et Energie]<sup>3</sup> et à l'Office des Etrangers et ce, aux conditions et suivant les modalités qu'elle détermine. Les données qui sont reprises dans un procès-verbal établi durant l'exercice des devoirs prescrits par l'autorité judiciaire ne sont en aucun cas accessibles sans l'autorisation expresse de cette dernière.
 § 6. Par dérogation aux §§ 1er, 2 et 5, le ministère public peut retarder à l'égard des personnes visées dans ces §§, à l'exception de l'auteur de l'e-PV, l'accès aux données contenues dans un e-PV déterminé lorsque et tant que le magistrat compétent est d'avis que cet accès peut constituer un danger pour l'exercice de l'action pénale ou pour la sécurité d'une personne.]<sup>1</sup>
+[<sup>3</sup> § 7. Les paragraphes 1er à 6 du présent article ne s'appliquent pas aux procès-verbaux visés à l'article 3 de la loi du 17 mars 2019 portant l'introduction du procès-verbal électronique pour les services d'inspection du SPF Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social.
+L'accès à la banque de données e-PV pour ce qui concerne les procès-verbaux visés à l'alinéa 1er est réglé exclusivement par l'article 4 de la loi du 17 mars 2019 portant l'introduction du procès-verbal électronique pour les services d'inspection du SPF Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social.]<sup>3</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 96, 005; En vigueur : 16-04-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090501" target="_blank">2018-09-05/01</a>, art. 57, 030; En vigueur : 10-09-2018&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031701" target="_blank">2019-03-17/01</a>, art. 9, 038; En vigueur : 04-04-2019&gt;
 
 <a name="Art.100/11" href="#Art.100/10">Art.</a> <a href="#Art.100/12"> 100/11</a>. [<sup>1</sup> Le traitement des données à caractère personnel dans la banque de données Ginaa
 En ce qui concerne la banque de données Ginaa visée à l'article 16, 19°, le Service public fédéral Emploi, Travail et Concertation sociale est le responsable pour le traitement des données visées à l'alinéa 3, dans le sens de l'article 1er, § 4, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
