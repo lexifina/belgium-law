@@ -1,1 +1,5 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+§ 1er. Dans le cadre de la recherche des infractions terroristes visées au livre II, titre Ierter, du Code pénal, le procureur du Roi peut, par une décision motivée et écrite, requérir toutes les institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et à l'article 2, alinéa 1er, 2°, de la loi du 11 avril 1995 visant à instituer "la charte" de l'assuré social de lui fournir les renseignements administratifs qu'il juge nécessaires.
+Dans sa décision, le procureur du Roi décrit précisément les renseignements qu'il demande, et spécifie la forme sous laquelle ils lui seront communiqués.
+§ 2. En application de l'exception visée à l'article 458 du Code pénal et par dérogation à toutes dispositions contraires, les institutions de sécurité sociale visées au paragraphe 1er, alinéa 1er, communiquent sans délai les renseignements qui y sont visés.
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+Toute personne refusant de communiquer les renseignements sera punie d'une amende de vingt-six euros à dix mille euros.
