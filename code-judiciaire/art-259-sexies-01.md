@@ -5,4 +5,4 @@ Les candidatures aux mandats de juge au tribunal disciplinaire et de conseiller 
 Les présidents des tribunaux de première instance et les premiers présidents des cours d'appel transmettent le nom des juges et des conseillers désignés au ministre de la Justice dans les septante cinq jours suivant l'appel aux candidats.
 Le Roi fixe le quota des juges qui peuvent siéger au tribunal disciplinaire et des conseillers qui peuvent siéger au tribunal disciplinaire d'appel.
 Les chefs de corps et les membres du Conseil supérieur de la Justice ne peuvent pas être désignés pour siéger au sein des juridictions disciplinaires.
-Le mandat de juge au tribunal disciplinaire et de conseiller au tribunal disciplinaire d'appel s'achève lorsque l'intéressé accepte une mission visée aux articles 308, 323bis, 327 et 327bis. Le mandat prend fin d'office lorsqu'une sanction disciplinaire lui est infligée.
+Le mandat de juge au tribunal disciplinaire et de conseiller au tribunal disciplinaire d'appel s'achève lorsque l'intéressé accepte une mission visée aux articles 308, 309/2, 323bis, 327 et 327bis. Le mandat prend fin d'office lorsqu'une sanction disciplinaire lui est infligée.
