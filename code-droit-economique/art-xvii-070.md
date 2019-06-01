@@ -1,1 +1,1 @@
-Sans préjudice des dispositions de ce titre, les dispositions du livre XVII, titre 3, s'appliquent aux actions en réparation collective pour les infractions au droit de la concurrence introduites par le présent titre, à l'exception des articles XVII.83 et XVII.89.
+Sans préjudice des dispositions de ce titre, les dispositions du livre XVII, titre 3, s'appliquent aux actions en réparation collective pour les infractions au droit de la concurrence introduites par le présent titre, à l'exception de l'article XVII.89.

@@ -1,9 +1,9 @@
-§ 1er. Le titulaire d'un brevet peut à tout moment révoquer celui-ci, en tout ou en partie, par une déclaration écrite et signée adressée au ministre, sans préjudice de la responsabilité civile du déclarant. La déclaration de révocation est inscrite au registre.
-Si la révocation est effectuée au cours d'une procédure judiciaire relative au brevet, le titulaire doit déposer, au préalable, à l'Office la déclaration visée à l'alinéa 1er. Le brevet ainsi modifié sert de base à la procédure judiciaire.
+§ 1er. Le titulaire d'un brevet peut à tout moment révoquer celui-ci, en tout ou en partie, par une requête écrite et signée adressée au ministre, sans préjudice de la responsabilité civile du déclarant. La requête en révocation est inscrite au registre.
+Si la révocation est effectuée au cours d'une procédure judiciaire relative au brevet, le titulaire doit déposer, au préalable, à l'Office la requête visée à l'alinéa 1er. Le brevet ainsi modifié sert de base à la procédure judiciaire.
 Le brevet ne peut être modifié par la voie d'une révocation d'une manière telle que son objet s'étende au-delà du contenu de la demande telle qu'elle a été déposée.
 Le brevet ne peut être modifié par la voie d'une révocation de façon à étendre la protection qu'il confère en application de la dernière version en vigueur du brevet.
 § 2. La révocation partielle est effectuée par une modification des revendications et, le cas échéant, de la description ou des dessins. La révocation peut être limitée à une ou plusieurs revendications du brevet ou à une partie d'une revendication ou de plusieurs revendications. La révocation partielle entraîne la déchéance, à la date de dépôt de la demande de brevet, des droits attachés à la revendication ou aux revendications, ou aux parties de celles-ci, qui font l'objet de la révocation.
-§ 3. La déclaration de révocation partielle du brevet doit être accompagnée de:
+§ 3. La requête en révocation partielle du brevet doit être accompagnée de:
 1° la ou les revendication(s) ou la partie de celle(s)-ci que le titulaire du brevet déclare révoquer;
 2° le cas échéant, du texte complet de la ou des revendication(s) modifiée(s) que le titulaire du brevet souhaite maintenir ainsi que, le cas échéant, de la description et des dessins tels que modifiés.
 La révocation du brevet est opposable aux tiers à compter de la date de son inscription au registre, sans préjudice de la responsabilité du déclarant.
