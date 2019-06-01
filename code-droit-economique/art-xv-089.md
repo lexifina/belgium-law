@@ -1,5 +1,6 @@
 Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux dispositions:
-1° de l'article VII.6 relatif aux informations dans le cadre d'un contrat de services de paiement conclu à distance;
+1° des articles VII.4/1 à VII.4/4 relatifs à la comparabilité des frais liés aux comptes de paiement;
+1° /1 de l'article VII.6 relatif aux informations dans le cadre d'un contrat de services de paiement conclu à distance;
 2° de l'article VII.7, relatif aux frais d'information;
 3° de l'article VII.9 relatif aux exigences en matière d'informations pour les instruments de paiement relatifs à des montants faibles et pour la monnaie électronique;
 4° de l'article VII.11 relatif aux exigences en matière d'informations pour frais supplémentaires ou réductions pour l'utilisation d'un instrument de paiement donné;
@@ -8,7 +9,7 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 7° de l'article VII.24 relatif à la modification des conditions du contrat-cadre;
 8° de l'article VII.25 relatif à la résiliation du contrat-cadre et ses conséquences;
 9° des articles VII.26, VII.27 et VII.28 relatifs aux exigences en matière d'informations pour les opérations de paiement individuelles dans le cadre du contrat-cadre;
-10° de l'article VII.30, §§ 1er et 2, relatif aux frais appliqués par le prestataire de services de paiement, de l'article VII.30, § 3, relatif aux frais supplémentaires ou aux réductions pour l'utilisation d'un instrument de paiement donné appliqués par le bénéficiaire et de l'article VII.30, § 4, relatif aux frais au titre de l'utilisation d'instruments de paiement pour lesquels les commissions d'interchange sont réglementées par le chapitre II du règlement (UE) 2015/751;
+10° de l'article VII.30, §§ 1er et 2, relatif aux frais appliqués par le prestataire de services de paiement, de l'article VII.30, § 3, relatif aux frais supplémentaires ... pour l'utilisation d'un instrument de paiement donné appliqués par le bénéficiaire ...;
 11° de l'article VII.31 relatif aux exigences et à la responsabilité en matière d'instruments de paiement relatifs à des montants faibles et de monnaie électronique;
 12° de l'article VII.32 relatif à l'autorisation des opérations de paiement et de l'article VII.33, relatif à la domiciliation;
 13° des articles VII.35 et VII.36 relatifs aux règles relatives à l'accès aux comptes de paiement et aux données des comptes de paiement et à l'utilisation de ces données;
@@ -25,6 +26,7 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 24° des articles VII.55/13 à VII.56 relatifs au règlement des litiges;
 25° du règlement (CE) n° 924/2009 du Parlement européen et du Conseil du 16 septembre 2009 concernant les paiements transfrontaliers dans la Communauté et abrogeant le règlement (CE) n° 2560/2001;
 26° des articles VII. 60 à VII. 62 relatifs à l'activité d'émission de monnaie électronique, au caractère remboursable de la monnaie électronique et à l'interdiction d'octroyer des intérêts;
+26° /1 des articles VII.62/1 à VII.62/7 relatifs au service de changement de comptes de paiement;
 27° des articles 3 et 5 à 9 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009;
 28° du règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte, à l'exception de son article 7;
 29° de l'arrêté royal pris en exécution de l'article VII.63/1 et de l'article VII.63/2 de ce Code.

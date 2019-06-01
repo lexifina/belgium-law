@@ -1,1 +1,1 @@
-En cas d'utilisation d'un moyen de paiement, il est interdit à l'entreprise de facturer au consommateur des frais supérieurs aux coûts qu'elle supporte pour l'utilisation de ces mêmes moyens.
+Sans préjudice des articles VII.3, § 1er, 11°, et VII.30, § 3, en cas d'utilisation de moyen de paiement, il est interdit à l'entreprise de facturer au consommateur des frais supérieurs aux coûts qu'elle supporte pour l'utilisation de ces mêmes moyens.
