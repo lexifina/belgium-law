@@ -9,7 +9,7 @@ La reproduction et la communication au public de l'oeuvre à l'occasion de compt
 6° ...;
 7° ...;
 8° ...;
-9° la reproduction d'oeuvres, à l'exception des partitions musicales, effectuée dans le cercle de famille et réservée à celui-ci;
+9° la reproduction d'oeuvres, à l'exception des partitions musicales, effectuée par une personne physique pour un usage privé et à des fins non directement ou indirectement commerciales;
 10° la caricature, la parodie ou la pastiche, compte tenu des usages honnêtes;
 11° ...;
 12° la reproduction limitée à un nombre de copies déterminé en fonction de et justifié par le but de préservation du patrimoine culturel et scientifique, effectuée par des bibliothèques accessibles au public, des musées ou par des archives, qui ne recherchent aucun avantage commercial ou économique direct ou indirect, pour autant que cela ne porte pas atteinte à l'exploitation normale de l'oeuvre ni ne cause un préjudice injustifié aux intérêts légitimes de l'auteur.

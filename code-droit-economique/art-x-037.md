@@ -1,4 +1,4 @@
-Si la concession de vente visée à l'article X.35 est résiliée par le concédant pour d'autres motifs que la faute grave du concessionnaire, ou si ce dernier met fin au contrat en raison d'une faute grave du concédant, le concessionnaire peut prétendre à une indemnité complémentaire équitable.
+Si la concession de vente visée à l'article X.36 est résiliée par le concédant pour d'autres motifs que la faute grave du concessionnaire, ou si ce dernier met fin au contrat en raison d'une faute grave du concédant, le concessionnaire peut prétendre à une indemnité complémentaire équitable.
 Cette indemnité est évaluée, selon le cas, en fonction des éléments suivants:
 1° La plus-value notable de clientèle apportée par le concessionnaire et qui reste acquise au concédant après la résiliation du contrat;
 2° Les frais que le concessionnaire a exposés en vue de l'exploitation de la concession de vente et qui profiteraient au concédant après l'expiration du contrat;

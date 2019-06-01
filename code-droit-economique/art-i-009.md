@@ -24,7 +24,7 @@ f) les autorités fédérales, régionales et locales belges pour autant qu'elle
 La personne qui fournit dans le cadre de son activité habituelle ou professionnelle des services de paiement à un utilisateur de services de paiement ou remet de la monnaie électronique à un détenteur de monnaie électronique sans disposer d'un agrément ou d'une autorisation nécessaire reste néanmoins soumis aux dispositions impératives de la présente loi;
 3° utilisateur de services de paiement: la personne physique ou morale qui utilise un service de paiement en qualité de payeur, de bénéficiaire ou les deux;
 4° payeur: la personne physique ou morale qui est titulaire d'un compte de paiement et qui autorise un ordre de paiement à partir de ce compte de paiement, ou, la personne physique ou morale qui, en l'absence de compte de paiement, donne un ordre de paiement;
-5° bénéficiaire: la personne physique ou morale qui est le destinataire prévu de fonds ayant fait l'objet d'une opération de paiement;
+5° ...
 6° opération de paiement: une action, initiée par le payeur ou par le payeur ou le bénéficiaire, consistant à verser, transférer ou retirer des fonds, indépendamment de toute obligation sous-jacente entre le payeur et le bénéficiaire;
 7° ordre de paiement: toute instruction d'un payeur ou d'un bénéficiaire à son prestataire de services de paiement demandant l'exécution d'une opération de paiement;
 8° compte de paiement: un compte qui est détenu au nom d'un ou de plusieurs utilisateurs de services de paiement et qui est utilisé aux fins de l'exécution d'opérations de paiement;;

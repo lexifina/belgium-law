@@ -1,9 +1,9 @@
-§ 1er. Le titulaire d'un brevet peut à tout moment y renoncer, en tout ou en partie, par une déclaration écrite et signée adressée au ministre. La déclaration de renonciation est inscrite au registre.
+§ 1er. Le titulaire d'un brevet peut à tout moment y renoncer, en tout ou en partie, par une requête écrite et signée adressée au ministre. La requête en renonciation est inscrite au registre.
 Le brevet ne peut être modifié par la voie d'une renonciation d'une manière telle que son objet s'étende au-delà du contenu de la demande telle qu'elle a été déposée.
 Le brevet ne peut être modifié par la voie d'une renonciation de façon à étendre la protection qu'il confère en application de la dernière version en vigueur du brevet.
-§ 2. La renonciation totale entraîne la déchéance du brevet à la date de l'inscription de la déclaration au registre. Toutefois si, à cette date, la taxe annuelle n'a pas encore été acquittée, la déchéance du brevet prend effet au terme de la période couverte par la dernière taxe annuelle acquittée.
-§ 3. La renonciation peut être limitée à une ou plusieurs revendications du brevet ou à une partie d'une revendication ou de plusieurs revendications. La renonciation partielle entraîne la déchéance, à la date de l'inscription de la déclaration au registre, des droits attachés à la revendication ou aux revendications, ou aux parties de celles-ci, auxquelles il est renoncé.
-§ 4. La déclaration de renonciation au brevet doit être accompagnée de:
+§ 2. La renonciation totale entraîne la déchéance du brevet à la date de l'inscription de la requête au registre. Toutefois si, à cette date, la taxe annuelle n'a pas encore été acquittée, la déchéance du brevet prend effet au terme de la période couverte par la dernière taxe annuelle acquittée.
+§ 3. La renonciation peut être limitée à une ou plusieurs revendications du brevet ou à une partie d'une revendication ou de plusieurs revendications. La renonciation partielle entraîne la déchéance, à la date de l'inscription de la requête au registre, des droits attachés à la revendication ou aux revendications, ou aux parties de celles-ci, auxquelles il est renoncé.
+§ 4. La requête en renonciation au brevet doit être accompagnée de:
 1° la ou les revendication(s) ou la partie de celle(s)-ci auxquelles le titulaire du brevet déclare renoncer;
 2° le cas échéant, du texte complet de la ou des revendication(s) modifiée(s) que le titulaire du brevet souhaite maintenir ainsi que, le cas échéant, de la description et des dessins tels que modifiés.
 La déclaration de renonciation ne peut viser qu'un seul brevet.

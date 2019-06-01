@@ -1,7 +1,8 @@
 § 1er. Ne sont pas brevetables:
 1° les variétés végétales et les races animales;
 2° les procédés essentiellement biologiques pour l'obtention de végétaux ou d'animaux;
-§ 2. Les inventions portant sur des végétaux ou des animaux sont brevetables si la faisabilité technique de l'invention n'est pas limitée à une variété végétale ou à une race animale déterminée.
+3° les végétaux ou animaux exclusivement obtenus par les procédés visés au 2°, y compris les parties de ces végétaux ou animaux constituant du matériel de reproduction.
+§ 2. Sans préjudice du paragraphe 1er, les inventions portant sur des végétaux ou des animaux sont brevetables si la faisabilité technique de l'invention n'est pas limitée à une variété végétale ou à une race animale déterminée.
 § 3. Le paragraphe 1er, 2°, n'affecte pas la brevetabilité d'inventions ayant pour objet un procédé microbiologique, ou d'autres procédés techniques, ou un produit obtenu par ces procédés.
 § 4. Ne sont pas brevetables les inventions dont l'exploitation commerciale serait contraire à l'ordre public ou aux bonnes moeurs, y compris pour protéger la santé et la vie des personnes et des animaux ou préserver les végétaux, ou pour éviter de graves atteintes à l'environnement, la mise en oeuvre d'une invention ne pouvant être considérée comme telle du seul fait qu'elle est interdite par une disposition légale ou réglementaire.
 § 5. Au titre du paragraphe 4, ne sont notamment pas brevetables:

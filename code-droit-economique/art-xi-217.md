@@ -5,7 +5,7 @@ Les articles XI.205, XI.209, XI.213 et XI.215 ne sont pas applicables lorsque le
 4° ...;
 5° ...;
 6° ...;
-7° la reproduction sur tout support autre que sur papier ou support similaire, de prestations, effectuée dans le cercle de famille et réservée à celui-ci;
+7° la reproduction de prestations, effectuée par une personne physique pour un usage privé et à des fins non directement ou indirectement commerciales;
 8° les actes de reproduction provisoires qui sont transitoires ou accessoires et constituent une partie intégrante et essentielle d'un procédé technique et dont l'unique finalité est de permettre:
 - une transmission dans un réseau entre tiers par un intermédiaire;
 ou
