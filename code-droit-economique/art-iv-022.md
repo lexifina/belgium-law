@@ -1,11 +1,7 @@
-§ 1er. Le Collège de la concurrence est composé:
-1° du président ou de l'assesseur vice-président;
-2° de deux assesseurs désignés sur les listes alphabétiques d'assesseurs.
-La désignation des assesseurs est effectuée par ordre alphabétique dans les listes visées au paragraphe 2, à tour de rôle compte tenu de la langue de la procédure.
-Au sein du Collège de la concurrence siège au moins un juriste doté d'une expérience dans la résolution de litiges; si possible un membre au moins dispose d'un autre diplôme.
-Si une affaire ne peut être attribuée à un assesseur vice-président ou à un assesseur du groupe linguistique correspondant à la langue de la procédure sans créer de conflit d'intérêts, la désignation est effectuée sur la base de la liste de l'autre groupe linguistique.
-§ 2. L'assesseur vice-président, qui est d'un autre rôle linguistique que le président, et les assesseurs, au nombre maximum de 20, sont nommés pour un mandat renouvelable de six ans par le Roi par arrêté délibéré en Conseil des Ministres.
-Ils sont répartis en deux listes de même nombre, par ordre alphabétique, selon le groupe linguistique néerlandais ou français, déterminé par la langue du diplôme de master, auquel ils appartiennent.
-Sur chaque liste, les diplômes des assesseurs seront mentionnés.
-§ 3. Pour pouvoir être nommé assesseur vice-président ou assesseur, le candidat doit satisfaire aux conditions de nomination fixées pour le président visé à l'article IV.17.
-§ 4. L'assesseur vice-président et les assesseurs qui siègent dans une affaire ne peuvent accepter aucune instruction lors de la prise de décision en exécution des tâches que le présent livre leur confère et en particulier la section 2 de ce chapitre.
+§ 1er. L'assesseur vice-président, qui appartient à l'autre groupe linguistique que le président, et les assesseurs, ensemble au nombre maximum de 20, sont nommés par le Roi par arrêté délibéré en Conseil des ministres pour un mandat renouvelable de six ans.
+Ils sont répartis en deux listes d'un nombre identique, par ordre alphabétique, selon le groupe linguistique néerlandophone ou francophone auquel ils appartiennent, déterminé par la langue du diplôme de master ou de licence.
+Les diplômes des assesseurs seront mentionnés sur chaque liste.
+§ 2. Pour pouvoir être nommé assesseur vice-président ou assesseur, le candidat doit satisfaire aux conditions de nomination fixées pour le président, visées à l'article IV.17, § 3.
+L'assesseur vice-président et les assesseurs sont admis par arrêté royal à la retraite lorsqu'une infirmité grave et permanente ne leur permet plus de remplir correctement leurs fonctions, et ce, dans le respect de l'article 117 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier.
+§ 3. L'assesseur vice-président et les assesseurs qui siègent dans une affaire ne peuvent recevoir aucune instruction quant aux décisions qu'ils prennent dans cette affaire en exécution des missions que le présent livre leur confère.
+§ 4. Le président, l'assesseur vice-président et les assesseurs établissent, sous la présidence du président, le règlement d'ordre intérieur du Collège de la concurrence.

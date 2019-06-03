@@ -1,0 +1,1 @@
+Le Roi peut fixer les modalités en ce qui concerne la composition des dossiers, le dépôt des observations écrites et pièces, la communication et la notification des décisions et documents ainsi que les modalités des procédures visées dans le présent livre.
