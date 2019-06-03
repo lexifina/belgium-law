@@ -1,6 +1,8 @@
-§ 1er. Un auditorat est institué au sein de l'Autorité belge de concurrence.
-L'auditorat est composé des membres du personnel de l'Autorité belge de concurrence affectés par le Comité de direction à ce service étant entendu que le président de l'Autorité belge de concurrence peut faire appel à ceux-ci à concurrence du taux de disponibilité fixé par le Comité de direction.
-§ 2. L'auditeur général désigne pour chaque affaire que l'Autorité belge de concurrence décide de traiter conformément aux articles IV.26, § 2, alinéa 2, 3°, et IV.41, § 1er, et pour chaque notification de concentration, un membre du personnel de l'auditorat qui est chargé comme auditeur de la direction journalière de l'instruction.
-L'auditeur qui est chargé de la direction journalière d'une équipe d'instruction ne peut recevoir d'instructions que de l'auditeur général.
-§ 3. L'auditeur général désigne pour chaque affaire visée au paragraphe 2 une équipe de membres du personnel de l'auditorat chargée de l'instruction sous la surveillance et sous la direction de l'auditeur qui est chargé de la direction journalière de l'instruction.
-Les membres du personnel de l'auditorat, qui font partie d'une équipe d'instruction, ne peuvent recevoir d'instructions à propos de celle-ci que de l'auditeur général ou de l'auditeur qui est chargé de la direction journalière de l'instruction.
+§ 1er. Un auditorat est institué au sein de l'Autorité belge de la concurrence.
+L'auditorat est composé des membres du personnel de l'Autorité belge de la concurrence affectés par le Comité de direction à ce service.
+§ 2. L'auditeur général désigne pour chaque affaire un membre du personnel de l'auditorat qui est chargé en tant qu'auditeur de la direction journalière de l'instruction.
+L'auditeur ne peut recevoir d'instructions à propos de l'instruction que de l'auditeur général.
+§ 3. L'auditeur général désigne pour chaque affaire une équipe de membres du personnel de l'auditorat chargée de l'instruction sous sa direction générale et la direction journalière de l'auditeur.
+Les membres de l'équipe d'instruction ne peuvent recevoir d'instructions à propos de l'instruction que de l'auditeur général et de l'auditeur.
+§ 4. L'auditeur général désigne pour chaque affaire un membre du personnel de l'auditorat qui en tant qu'auditeur-conseiller fournit des avis à l'auditeur chaque fois que les dispositions du titre 2, chapitre 1er, section 2, du présent livre prévoient un tel avis.
+L'auditeur-conseiller ne peut pas être ou avoir été membre de l'équipe d'instruction dans l'affaire et peut uniquement être remplacé en cas de conflit d'intérêts ou d'indisponibilité motivée.

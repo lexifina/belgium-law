@@ -1,1 +1,4 @@
-Tous les documents et données échangés entre l'auditorat et l'entreprise ou l'association d'entreprises concernée sont confidentiels.
+Lorsqu'une ou plusieurs parties concernées indiquent qu'elles sont disposées à mener des discussions en vue de parvenir à une transaction, l'auditeur général peut décider d'ouvrir une procédure de transaction à leur égard.
+L'auditeur communique à la partie ou aux parties concernées les griefs sur lesquels il croit pouvoir s'appuyer et leur donne accès à toutes les versions non confidentielles des documents et données auxquels il fait référence dans ses griefs ou auxquels il a l'intention de se référer, ainsi qu'à l'inventaire du dossier d'instruction.
+L'auditeur peut donner accès à une partie concernée aux versions non confidentielles d'autres documents et données faisant partie du dossier d'instruction que la partie concernée désigne, sur demande motivée de celle-ci.
+L'auditeur communique également le montant de l'amende éventuelle qu'il envisage de proposer au Collège de la concurrence.
