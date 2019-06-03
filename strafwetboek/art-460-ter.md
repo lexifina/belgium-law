@@ -1,1 +1,1 @@
-Elk gebruik ... van door de inzage of het nemen van een afschrift van het dossier verkregen inlichtingen, dat tot doel en tot gevolg heeft het verloop van het gerechtelijk onderzoek te hinderen, inbreuk te maken op het privéleven, de fysieke of, morele integriteit of de goederen van een in het dossier genoemde persoon, wordt gestraft met gevangenisstraf van acht dagen tot één jaar of met geldboete van zesentwintig euro tot vijfhonderd euro.
+[De bron geeft de tekst die op deze datum van kracht is niet.]
