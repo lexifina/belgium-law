@@ -1,0 +1,2 @@
+§ 1er. En vue de la recherche des personnes visées à l'article 520bis, § 1er, le ministère public compétent peut faire procéder à tout acte d'information autorisé dans le cadre de l'information visée à l'article 28bis par le service de police requis, à l'exception des mesures prévues aux articles 47sexies et 47octies.
+§ 2. Les actes de recherche visés au paragraphe 1er ne peuvent être appliqués que s'il a été satisfait aux conditions mentionnées aux articles relatifs à ces actes de recherche.

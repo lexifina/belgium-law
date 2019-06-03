@@ -1,0 +1,13 @@
+Le Service pour la protection des fonctionnaires menacés vérifie au moins tous les six mois, à la demande du chef hiérarchique de la personne menacée, du Centre de Crise du Service Public Fédéral Intérieur, du directeur général des Etablissements pénitentiaires, de la personne menacée ou d'office, s'il y a des raisons de modifier ou de retirer les mesures de protection ainsi que les aides financières éventuellement octroyées.
+Les mesures de protection octroyées peuvent être modifiées si elles ne suffisent pas ou si des mesures moins importantes suffisent à assurer la protection de la personne menacée, des membres de sa famille ou d'autres parents et dans les cas où elles peuvent être retirées.
+Les mesures de protection octroyées à une personne peuvent être retirées si:
+1° elle est soupçonnée d'avoir commis un délit ou un crime après l'octroi des mesures de protection;
+2° après l'octroi des mesures de protection, elle est déclarée coupable d'un fait pouvant donner lieu à une peine d'emprisonnement d'un an ou à une peine plus lourde, ou si l'action publique est éteinte à son égard pour un fait semblable en application de l'article 216bis ou 216ter;
+3° elle a posé un quelconque acte portant préjudice aux mesures de protection qui lui ont été octroyées;
+4° les dispositions du mémorandum ne sont pas respectées.
+Les mesures de protection octroyées à une personne sont en tout cas retirées lorsque la personne n'est plus en danger, pour autant qu'il soit prévu par la loi que le fait d'être en danger est une condition d'octroi des mesures de protection.
+Les aides financières octroyées à la personne menacée peuvent être modifiées si elles ne suffisent pas ou si un montant moins important suffit à subvenir aux besoins de la personne menacée, des membres de sa famille qui sont protégés avec elle et d'autres parents, et dans les cas où elles peuvent être retirées. La Commission de protection tient compte de la situation spécifique de la personne concernée.
+Les aides financières octroyées à la personne menacée peuvent être retirées:
+1° si la personne menacée peut subvenir elle-même à ses propres besoins ainsi qu'à ceux des membres de sa famille et d'autres parents qui ont été déplacés avec elle ou qu'elle aurait dû être capable d'y subvenir mais que son comportement fautif ou négligeant l'en a empêchée;
+2° lorsque des parties de l'allocation mensuelle ou d'une contribution financière spéciale destinées à des fins spécifiques ont été utilisées à d'autres fins que celles fixées par la Commission de protection;
+3° lorsque la personne menacée est décédée et les membres de sa famille ainsi que les autres parents qui ont été déplacés avec lui peuvent subvenir à leurs propres besoins.

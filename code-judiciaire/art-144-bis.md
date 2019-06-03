@@ -1,4 +1,5 @@
 (§ 1er. Le procureur fédéral est chargé de la direction du parquet fédéral, qui est composé de magistrats fédéraux, placés sous sa direction et sa surveillance immédiates. Leurs missions s'étendent à l'ensemble du territoire du Royaume.
+Le procureur fédéral peut, en vue de son fonctionnement adéquat et efficace, doter le parquet fédéral d'une structure d'organisation interne, qu'il porte à la connaissance du ministre qui a la Justice dans ses attributions et du Collège des procureurs généraux. A cette fin, il peut notamment désigner des adjoints parmi les magistrats fédéraux qui font partie de son comité de direction, et ce pour la période équivalente à son mandat. La parité linguistique est garantie lors de ces désignations.
 § 2. Le procureur fédéral est chargé des missions suivantes:
 1° exercer l'action publique conformément à l'article 144ter;
 2° assurer la coordination de l'exercice de l'action publique et faciliter la coopération internationale conformément à l'article 144quater;

@@ -1,1 +1,1 @@
-Le ministre de la Justice détermine l'indemnité qui peut être allouée aux membres de la cour d'appel admis à la retraite qui sont délégués pour présider la cour d'assises, conformément à l'article 120, alinéa 1er.
+Le ministre de la Justice détermine l'indemnité qui peut être allouée aux membres des cours d'appel et des tribunaux admis à la retraite qui sont délégués pour siéger à la cour d'assises, conformément aux articles 120, alinéa 1er et 3, 121, alinéa 2 et 122, alinéa 2.

@@ -1,0 +1,7 @@
+Pour l'application du présent chapitre, on entend par:
+1° personne menacée: une personne qui court un danger sérieux pour son intégrité physique ou psychique à la suite de l'exercice d'une fonction publique et:
+a) qui est ou était chargée de la recherche, de la constatation, de l'instruction, de la poursuite ou du jugement d'infractions ou de l'exécution des peines;
+b) qui est ou était chargée de la police administrative visée à l'article 14 de la loi du 5 août 1992 sur la fonction de police;
+c) qui est ou était un agent tel que visé à l'article 3, 2° de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité.
+2° membres de la famille: le conjoint de la personne menacée ou la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, les parents vivant sous le même toit de la personne menacée, de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfants adoptifs vivant sous le même toit et les parents de leurs adoptants et enfants adoptifs vivant sous le même toit;
+3° autres parents: les parents de la personne menacée jusqu'au troisième degré ne vivant pas sous le même toit, les parents de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfants adoptifs ne vivant pas sous le même toit et les parents des adoptants et enfants adoptifs jusqu'au deuxième degré ne vivant pas sous le même toit.

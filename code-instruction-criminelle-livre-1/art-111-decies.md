@@ -1,0 +1,2 @@
+§ 1er. La décision de retirer les mesures de protection octroyées à la personne menacée entraîne de plein droit l'extinction des mesures de protection octroyées aux membres de sa famille, à ses autres parents et aux autres personnes visées à l'article 111quinquies, § 1er, alinéa 4.
+§ 2. La décision de retirer les mesures de protection spéciales octroyées à la personne menacée entraîne de plein droit l'extinction du droit à bénéficier d'une assistance psychologique et d'une aide dans la recherche d'un emploi.
