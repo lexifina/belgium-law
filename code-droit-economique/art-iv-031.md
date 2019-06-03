@@ -1,2 +1,1 @@
-L'auditorat est assisté par un secrétariat.
-Ce secrétariat est également chargé d'accomplir les tâches d'un greffe pour l'ensemble des procédures devant le Collège de la concurrence et le président.
+La Cour des marchés peut, sur requête du procureur général près la cour d'appel de Bruxelles, infliger, de manière motivée, un rappel à l'ordre, un blâme ou une retenue de traitement comme sanction disciplinaire au président, à l'assesseur vice-président, aux assesseurs, à l'auditeur général, au directeur des affaires économiques et au directeur des affaires juridiques. La cour peut aussi les déclarer déchus ou suspendus de leurs fonctions.

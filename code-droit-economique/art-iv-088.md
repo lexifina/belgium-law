@@ -1,0 +1,5 @@
+§ 1er. L'Autorité belge de la concurrence peut, d'office ou à la demande de la juridiction saisie, dans les délais fixés par la juridiction saisie, déposer des observations écrites au sujet de l'application des articles IV.1 et IV.2 ou des articles 101 et 102 TFUE.
+Avec l'autorisation de la juridiction saisie, elle peut aussi présenter des observations orales.
+Afin de lui permettre de formuler ses observations, et à cette fin uniquement, l'Autorité belge de la concurrence peut solliciter la juridiction saisie afin qu'elle lui transmette ou fasse transmettre toute pièce nécessaire à l'appréciation de l'affaire.
+Lorsque l'Autorité belge de la concurrence dépose des observations, les autres parties doivent avoir l'occasion de répondre à ces observations.
+§ 2. L'Autorité belge de la concurrence peut, dans le cadre d'une procédure relative à une action en dommages et intérêts pour infraction au droit de la concurrence, à la demande d'une juridiction nationale au sens de l'article 267 TFUE, offrir son assistance à cette juridiction pour la détermination du montant du dommage si elle estime une telle assistance appropriée.

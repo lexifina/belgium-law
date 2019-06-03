@@ -1,2 +1,4 @@
-Quand il apparaît à l'auditorat qu'après discussions ultérieures une transaction est possible, et après avoir pris connaissance des documents et renseignements visés ci-avant, l'auditorat peut fixer un délai endéans lequel l'entreprise ou l'association d'entreprises concernée peut s'engager à fournir une déclaration de transaction. Dans cette déclaration, elles doivent reconnaître leur participation à l'infraction citée et leur responsabilité et accepter la sanction présentée.
-L'auditorat n'est pas obligé de prendre en considération les déclarations de transaction reçues après l'expiration du délai. L'auditorat peut mettre fin à la procédure de transaction à tout moment.
+L'auditeur général peut rouvrir la procédure d'instruction et de décision, sur demande ou de sa propre initiative:
+1° si l'un des faits sur lesquels la décision repose subit un changement important;
+2° si les parties concernées contreviennent à leurs engagements; ou
+3° si la décision repose sur des renseignements incomplets, inexacts ou dénaturés fournis par les parties concernées.

@@ -1,10 +1,7 @@
-§ 1er. L'auditorat est chargé:
-1° de classer éventuellement les plaintes;
-2° de l'application de la section 2, sous-section 4.
-§ 2. Nonobstant l'article IV.28, les auditeurs sont chargés:
-1° de diriger et d'organiser l'instruction;
-2° à la demande des personnes physiques ou morales intéressées ou de leur propre initiative, de se prononcer sur le caractère confidentiel des données fournies à l'Autorité belge de la concurrence ou à l'auditorat au cours de la procédure;
-3° d'établir et de déposer le projet de décision motivé au Collège de la concurrence;
-4° de délivrer les ordres de mission, y compris ceux visés à l'article IV.41, § 3, alinéa 8, sauf quand les membres du personnel de l'Autorité belge de la concurrence assistent les fonctionnaires de la Commission européenne pour une inspection ordonnée par la Commission européenne en application du Règlement (CE) 1/2003 relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du Traité;
-5° d'appliquer l'article IV.63.
-§ 3. Les auditeurs peuvent accomplir tous les actes relatifs à l'accomplissement de leur mission, sauf ceux réservés par le présent livre à l'auditorat.
+Le président, l'assesseur vice-président, les assesseurs désignés pour une affaire, l'auditeur général et l'auditeur peuvent être récusés pour les causes énoncées à l'article 828 du Code judiciaire.
+Celui qui sait cause de récusation en sa personne est tenu de s'abstenir.
+La récusation est introduite par requête motivée déposée au secrétariat. Elle contient les moyens et est signée par la partie requérante ou par son mandataire particulier ayant une procuration spéciale, laquelle est le cas échéant annexée à la requête.
+La requête en récusation est remise dans les vingt-quatre heures par le secrétariat à la personne récusée.
+Celle-ci donne au bas de la requête, dans les deux jours, sa déclaration écrite portant son acquiescement à la récusation ou son refus de s'abstenir, avec ses réponses aux moyens de récusation.
+En cas de refus de s'abstenir, la Cour des marchés statue sur la demande de récusation, sur requête de la partie récusante. La partie récusante introduit sa requête motivée au greffe de la Cour d'appel de Bruxelles dans les deux jours ouvrables suivant la notification par le secrétariat de la déclaration de la personne récusée. La partie récusante et la personne récusée sont entendues. La Cour des marchés statue selon la procédure comme en référé toutes affaires cessantes. Cet arrêt n'est pas susceptible d'un pourvoi distinct en cassation.
+La procédure et les délais sont suspendus à partir de l'introduction de la requête en récusation auprès du secrétariat jusqu'au jour où la personne récusée communique son abstention ou est confirmée ou remplacée suite à un arrêt de la Cour des marchés.
