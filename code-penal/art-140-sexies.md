@@ -1,3 +1,3 @@
 Sans préjudice de l'application de l'article 140, sera punie de la réclusion de cinq ans à dix ans et d'une amende de cent euros à cinq mille euros:
-1° toute personne qui quitte le territoire national en vue de la commission, en Belgique ou à l'étranger, d'une infraction visée aux articles 137, 140 à 140quinquies et 141, à l'exception de l'infraction visée à l'article 137, § 3, 6°;
-2° toute personne qui entre sur le territoire national en vue de la commission, en Belgique ou à l'étranger, d'une infraction visée aux articles 137, 140 à 140quinquies et 141, à l'exception de l'infraction visée à l'article 137, § 3, 6°.
+1° toute personne qui quitte le territoire national en vue de la commission ou de la contribution à la commission, en Belgique ou à l'étranger, d'une infraction visée aux articles 137, 140 à 140quinquies et 141, à l'exception de l'infraction visée à l'article 137, § 3, 6°;
+2° toute personne qui entre sur le territoire national en vue de la commission ou de la contribution à la commission, en Belgique ou à l'étranger, d'une infraction visée aux articles 137, 140 à 140quinquies et 141, à l'exception de l'infraction visée à l'article 137, § 3, 6°.
