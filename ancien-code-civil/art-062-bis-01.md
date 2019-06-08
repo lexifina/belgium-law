@@ -1,6 +1,0 @@
-§ 1er. L'acte de modification de l'enregistrement du sexe ne modifie ni les liens de filiation à l'égard d'enfants déjà nés, ni les droits, pouvoirs et obligations qui en découlent.
-Toutes les actions concernant ces liens de filiation et celles relatives aux droits, pouvoirs et obligations qui en découlent peuvent encore être intentées après l'établissement de l'acte de modification de l'enregistrement du sexe.
-§ 2. Si l'intéressé donne naissance à un enfant après la modification de l'enregistrement du sexe féminin en sexe masculin dans l'acte de naissance, le livre I, titre VII, chapitre 1, est d'application par analogie, ainsi que les chapitres 3, 4 et 5.
-Si, l'intéressé conçoit un enfant ou a consenti à la conception de l'enfant conformément à la loi du 6 juillet 2007 relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes, et que l'enfant est né après la modification de l'enregistrement du sexe masculin en sexe féminin sur l'acte de naissance, le livre I, titre VII, chapitre 2, est d'application par analogie, ainsi que les chapitres 3, 4 et 5.
-La personne dont la filiation est établie conformément aux dispositions de l'alinéa 2 est mentionnée comme coparente sur l'acte de naissance.
-Dans tous les autres cas, l'application du livre I, titre VII, du Code civil est fondée sur le nouveau sexe.
