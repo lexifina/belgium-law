@@ -1,0 +1,4 @@
+Met opsluiting van vijf jaar tot tien jaar en met geldboete van zevenhonderdvijftig euro tot vijfenzeventigduizend euro wordt gestraft hij die, met kennis van zaken:
+1° een orgaan dat is weggenomen in strijd met artikel 433novies/2 of dat is weggenomen in een andere Staat onder de voorwaarden bedoeld in artikel 433novies/2, voorbereidt, preserveert, opslaat, vervoert, overbrengt, ontvangt of uitvoert;
+2° een orgaan dat is weggenomen in een andere Staat onder de voorwaarden bedoeld in artikel 433novies/2 invoert of laat doorvoeren.
+De in België of een andere lidstaat van de Europese Unie weggenomen organen worden geacht niet te zijn weggenomen in strijd met artikel 433novies/2 of onder de in voornoemd artikel bedoelde voorwaarden, tot bewijs van het tegendeel, indien zij werden toegewezen door een openbare of private non-profitorganisatie die zich bezighoudt met binnenlandse en grensoverschrijdende orgaanuitwisselingen.

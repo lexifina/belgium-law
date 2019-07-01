@@ -1,0 +1,7 @@
+Met opsluiting van vijf jaar tot tien jaar en met geldboete van zevenhonderdvijftig euro tot vijfenzeventigduizend euro wordt gestraft hij die een orgaan wegneemt bij een persoon in de volgende gevallen:
+1° wanneer het wegnemen bij een levende gebeurt zonder zijn vrije, geïnformeerde en specifieke toestemming, of wanneer het wegnemen bij een overledene gebeurt in strijd met de in de wet bedoelde voorwaarden inzake toestemming of verzet;
+2° wanneer, in ruil voor het wegnemen van het orgaan, die persoon of een derde, rechtstreeks of onrechtstreeks, een profijt of een vergelijkbaar voordeel werd voorgesteld, aangeboden, beloofd of heeft verkregen, zulks zelfs indien de persoon heeft toegestemd in het wegnemen;
+3° wanneer het wegnemen gebeurt door een persoon die daartoe niet is gemachtigd door de wet, of buiten een door de wet gemachtigde verzorgingsinrichting.
+Vormen geen "profijt of vergelijkbaar voordeel" in de zin van het eerste lid, 2°:
+1° de vergoeding van de rechtstreekse en onrechtstreekse kosten, bedoeld in artikel 4, § 2, van de wet van 13 juni 1986 betreffende het wegnemen en transplanteren van organen, en in artikel 6, § 2, van de wet van 19 december 2008 inzake het verkrijgen en het gebruik van menselijk lichaamsmateriaal met het oog op de geneeskundige toepassing op de mens of het wetenschappelijk onderzoek;
+2° de vergoeding van de inkomstenderving die met de orgaandonatie verband houdt.
