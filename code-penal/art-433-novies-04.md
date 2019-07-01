@@ -1,0 +1,4 @@
+Sera puni de la réclusion de cinq ans à dix ans et d'une amende de sept cent cinquante euros à septante-cinq mille euros, quiconque, en connaissance de cause:
+1° prépare, préserve, stocke, transporte, transfère, réceptionne ou exporte un organe prélevé en violation de l'article 433novies/2 ou prélevé dans un autre Etat dans les conditions visées à l'article 433novies/2;
+2° importe ou fait transiter un organe prélevé dans un autre Etat dans les conditions visées à l'article 433novies/2.
+Les organes prélevés en Belgique ou dans un autre Etat membre de l'Union européenne sont présumés ne pas avoir été prélevés en violation de l'article 433novies/2 ou dans les conditions visées à l'article précité, jusqu'à preuve du contraire, s'ils ont été alloués par une organisation à but non lucratif, publique ou privée, se consacrant aux échanges nationaux et transfrontaliers d'organes.
