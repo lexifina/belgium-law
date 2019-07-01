@@ -1,0 +1,1 @@
+Sera puni de la réclusion de cinq ans à dix ans et d'une amende de sept cent cinquante euros à septante-cinq mille euros, quiconque sollicite ou recrute un candidat donneur d'organes ou receveur, en vue d'obtenir, directement ou indirectement, un profit ou un avantage comparable pour lui-même ou pour un tiers.

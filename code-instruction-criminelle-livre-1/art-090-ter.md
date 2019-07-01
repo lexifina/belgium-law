@@ -28,6 +28,7 @@ La mesure visée au présent paragraphe ne peut être ordonnée que pour recherc
 20° aux articles 428 et 429 du même Code;
 21° à l'article 433bis/1 du même Code;
 22° aux articles 433quinquies à 433octies du même Code;
+22/1°. aux articles 433novies/2 à 433novies/10 du même Code;
 23° à l'article 434 du même Code;
 24° aux articles 468, 470, 471 et 472 du même Code;
 25° à l'article 475 du même Code;
