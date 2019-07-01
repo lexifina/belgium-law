@@ -1,1 +1,1 @@
-(Abrogé)
+Conformément aux chapitres qui précèdent et selon les modalités définies ci-après, l'auteur et les titulaires de droits voisins disposent du droit exclusif d'autoriser la communication au public par injection directe de leurs oeuvres ou de leurs prestations.
