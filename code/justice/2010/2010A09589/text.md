@@ -442,9 +442,10 @@ Les inspecteurs sociaux peuvent :
 Les inspecteurs sociaux peuvent, s'ils l'estiment nécessaire dans l'intérêt des travailleurs, des bénéficiaires ou des assurés sociaux, établir ou délivrer tout document remplaçant ceux visés par la législation dont ils exercent la surveillance.
 
 <a name="Art.42" href="#Art.41">Art.</a> <a href="#LNK0012"> 42</a>.L'action en cessation
-Une action en cessation peut, conformément [<sup>1</sup> au livre XVII du Code de droit économique]<sup>1</sup>, être introduite auprès du président du tribunal de commerce par le fonctionnaire dirigeant le service d'inspection compétent pour les dispositions visées.
+Une action en cessation peut, conformément [<sup>1</sup> au livre XVII du Code de droit économique]<sup>1</sup>, être introduite auprès du président du [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup> par le fonctionnaire dirigeant le service d'inspection compétent pour les dispositions visées.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 56, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018041514" target="_blank">2018-04-15/14</a>, art. 252, 043; En vigueur : 01-11-2018&gt;
 
 <a name="LNK0012" href="#LNKR0012">Section 2/1.</a> [<sup>1</sup> - Les pouvoirs spécifiques des inspecteurs sociaux en matière de constatations relatives à la discrimination]<sup>1</sup>
 ----------
