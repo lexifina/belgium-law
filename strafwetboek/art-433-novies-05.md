@@ -1,0 +1,1 @@
+Met opsluiting van vijf jaar tot tien jaar en met geldboete van zevenhonderdvijftig euro tot vijfenzeventigduizend euro wordt gestraft hij die een kandidaat orgaandonor of ontvanger benadert of werft teneinde rechtstreeks of onrechtstreeks een profijt of een vergelijkbaar voordeel voor zichzelf of voor een derde te verkrijgen.
