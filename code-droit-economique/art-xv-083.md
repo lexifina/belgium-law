@@ -13,8 +13,9 @@ Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux di
 11° des articles VI. 88 et VI. 89 relatifs au bon de commande et aux documents justificatifs et des arrêtés pris en exécution des articles VI. 88 et VI. 89;
 12° des arrêtés pris en exécution de l'article VI. 118 relatif aux accords collectifs de consommation;
 13° des articles VI. 95, VI. 100 et VI. 103 relatifs aux pratiques commerciales déloyales à l'égard des consommateurs, à l'exception des articles VI.97, 4°, VI. 100, 12°, 14°, 16° et 17°, et VI. 103, 1°, 2° et 8°;
+13° /1 de l'article VI.104/1, 1° et 2°, sur les pratiques déloyales du marché entre entreprises;
 14° de l'article VI. 107 relatif à l'interdiction de pratiques du marché déloyales visant à prospecter des annonceurs;
-15° de l'article VI. 108 relatif aux achats forcés à l'égard des entreprises;
+15° de l'article VI.109/3 relatif aux achats forcés;
 16° des articles VI. 110 à VI. 115 relatif aux communications non souhaitées;
 17° des arrêtés pris en exécution de l'article VI. 1, § 2;
 18° des règlements de l'Union européenne qui remplacent les dispositions du livre VI ou de ses arrêtés d'exécution.
