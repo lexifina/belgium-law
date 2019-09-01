@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent sans préjudice des dispositions pertinentes de l'acquis de Schengen relatives aux franchissements des frontières et au court séjour, en particulier le Code frontières Schengen, le Code des visas et la Convention de Schengen.
