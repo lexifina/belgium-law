@@ -1,0 +1,5 @@
+§ 1. Het Hof van Cassatie neemt kennis van de aanvragen tot heropening.
+§ 2. De aanvraag wordt bij het Hof aanhangig gemaakt, hetzij bij een vordering van de procureur-generaal bij het Hof van Cassatie, hetzij bij een verzoekschrift dat getekend is door een advocaat die meer dan tien jaar bij de balie is ingeschreven. De vordering of het verzoekschrift bevat een omstandige opgave van de feiten en vermeldt de grond tot heropening.
+De aanvraag wordt ingediend binnen zes maanden te rekenen vanaf de datum waarop het arrest van het Europees Hof voor de Rechten van de Mens definitief geworden is.
+De aanvraag is niet ontvankelijk indien niet voldaan is aan de in de vorige leden gestelde voorwaarden.
+§ 3. Indien de veroordeelde overleden is, indien hij onbekwaam of afwezig verklaard is, benoemt het Hof van Cassatie een curator voor zijn verdediging, die hem vertegenwoordigt. Het Hof van Cassatie of de rechter waarnaar de zaak verwezen is stelt eveneens een curator aan indien de verzoeker tijdens de behandeling van de zaak overlijdt.

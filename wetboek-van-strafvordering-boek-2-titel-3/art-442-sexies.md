@@ -1,0 +1,4 @@
+§ 1. Nadat het Hof van Cassatie de heropening van de rechtspleging heeft bevolen, trekt het de bestreden beslissing in, voor zover het deze beslissing zelf heeft gewezen, en doet het opnieuw uitspraak over het oorspronkelijk cassatieberoep, binnen de grenzen van de door het Europees Hof voor de Rechten van de Mens vastgestelde schending.
+In de andere gevallen vernietigt het Hof van Cassatie de bestreden beslissing en verwijst het de zaak naar een gerecht van dezelfde rang als het gerecht dat de vernietigde beslissing heeft genomen, of vernietigt het de bestreden beslissing zonder verwijzing.
+De verjaringstermijn van de strafvordering begint opnieuw te lopen vanaf het arrest dat de heropening beveelt.
+§ 2. Het arrest van het Hof van Cassatie, gewezen overeenkomstig § 1, heeft dezelfde gevolgen als een arrest gewezen op een cassatieberoep.
