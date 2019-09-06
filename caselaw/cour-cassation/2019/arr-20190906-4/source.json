@@ -1,0 +1,45 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2019:ARR.20190906.4",
+  "ecli": "ECLI:BE:CASS:2019:ARR.20190906.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2019-09-06",
+  "date_as_printed": "Jugement/arrêt du 06 septembre 2019",
+  "published_on_juportal": "2019-09-17",
+  "language": "fr",
+  "role_number": "C.19.0007.F",
+  "case_name_as_published": "L. contra L.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Charge de la preuve. Liberté d'appréciation",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "Demande en réparation fondée sur une infraction - Charge de la preuve - Objet de la preuve",
+    "Demande en réparation fondée sur une infraction - Cause de justification - Notion - Conséquence - Charge de la preuve",
+    "RESPONSABILITE HORS CONTRAT - FAIT - Faute",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - DAAD - Fout",
+    "Cause de justification - Notion - Conséquence - Charge de la preuve",
+    "Herstelvordering gegrond op een misdrijf - Bewijslast - Voorwerp van het bewijs",
+    "Herstelvordering gegrond op een misdrijf - Rechtvaardigingsgrond - Begrip - Gevolg - Bewijslast",
+    "Rechtvaardigingsgrond - Begrip - Gevolg - Bewijslast"
+  ],
+  "fiche": [
+    "PREUVE - MATIERE CIVILE - Charge de la preuve. Liberté d'appréciation",
+    "Demande en réparation fondée sur une infraction - Charge de la preuve - Objet de la preuve",
+    "ancien Code Civil - 21-03-1804 - Art. 1315 et 1382 - 30 Lien ELI No pub 1804032150 Code Judiciaire - 10-10-1967 - Art. 870 - 01 Lien ELI No pub 1967101052",
+    "PREUVE - MATIERE CIVILE - Charge de la preuve. Liberté d'appréciation",
+    "Demande en réparation fondée sur une infraction - Cause de justification - Notion - Conséquence - Charge de la preuve",
+    "ancien Code Civil - 21-03-1804 - Art. 1315 et 1382 - 30 Lien ELI No pub 1804032150 Code Judiciaire - 10-10-1967 - Art. 870 - 01 Lien ELI No pub 1967101052",
+    "RESPONSABILITE HORS CONTRAT - FAIT - Faute",
+    "Cause de justification - Notion - Conséquence - Charge de la preuve",
+    "ancien Code Civil - 21-03-1804 - Art. 1315 et 1382 - 30 Lien ELI No pub 1804032150 Code Judiciaire - 10-10-1967 - Art. 870 - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2019:ARR.20190906.4",
+  "source_sha256": "123bb0f1b484ef61a9720159abba70e5852a45beab2ad2a257050a55175fd58c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2019:ARR.20190906.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
