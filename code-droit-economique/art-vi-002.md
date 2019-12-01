@@ -8,4 +8,4 @@ Avant que le consommateur ne soit lié par un contrat autre qu'un contrat à dis
 7° le cas échéant, les conditions de vente compte tenu du besoin d'information exprimé par le consommateur et compte tenu de l'usage déclaré par le consommateur ou raisonnablement prévisible;
 8° le cas échéant, les fonctionnalités du contenu numérique, y compris les mesures de protection technique applicables;
 9° le cas échéant, toute interopérabilité pertinente du contenu numérique avec certains matériels ou logiciels et autres services dont l'entreprise a ou devrait raisonnablement avoir connaissance.
-10° le cas échéant, le fait que lors de la conclusion du contrat, le montant total à payer par le consommateur est arrondi au plus proche multiple de 5 cents conformément aux articles VI.7/1 et VI.7/2.
+10° ...
