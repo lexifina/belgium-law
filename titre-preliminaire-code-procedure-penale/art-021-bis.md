@@ -1,2 +1,3 @@
-Dans les cas visés à l'article 21, alinéa 1er, 2°, second tiret, le délai de prescription de l'action publique ne commence à courir qu'à partir du jour où la victime atteint l'âge de dix-huit ans.
-Le délai de prescription des infractions visées à l'article 376, alinéa 1er, du Code pénal et l'article 21, alinéa 1er, 2°, second tiret, qui constituent l'exécution successive et continue d'une même intention délictueuse ne commence à courir qu'à partir du jour où la plus jeune des victimes atteint l'âge de dix-huit ans, sauf si le délai entre deux de ces infractions consécutives dépasse le délai de prescription.
+L'action publique ne se prescrit pas:
+1° dans les cas visés aux articles 136bis, 136ter et 136quater du Code pénal;
+2° dans les cas visés aux articles 371/1 à 377, 377quater, 379, 380, 383bis, § 1er, 409 et 433quinquies, § 1er, alinéa 1er, 1°, du Code pénal, ni en cas de tentative de commission de cette dernière infraction si elle visait une personne âgée de moins de dix-huit ans.
