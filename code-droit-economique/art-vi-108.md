@@ -1,4 +1,1 @@
-Il est interdit à toute entreprise de faire parvenir à une autre personne, sans demande préalable de sa part, un bien quelconque, en l'invitant à acquérir ce bien contre paiement de son prix, à le conserver ou à le renvoyer à son expéditeur, même sans frais.
-Il est également interdit à toute entreprise de fournir à une autre personne, sans demande préalable de sa part, un service quelconque en l'invitant à accepter ce service contre paiement de son prix.
-Le ministre peut accorder des dérogations à ces interdictions pour les offres faites dans un but philanthropique. Dans ce cas, le numéro d'autorisation obtenu et la mention suivante "Le destinataire n'a aucune obligation, ni de paiement, ni de renvoi" doivent figurer de manière lisible, apparente et non équivoque sur les documents relatifs à l'offre.
-En aucun cas, le destinataire n'est tenu de payer le service fourni ou le bien envoyé ni de restituer ce dernier, l'absence de réponse du destinataire concernant la prestation de service ou la fourniture du bien ne valant pas consentement de celui-ci.
+(Transféré dans art. VI.109/3 par L 2019-04-04/53, art. 31, 2°, 080; En vigueur: 01-09-2019)
