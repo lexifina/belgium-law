@@ -10,7 +10,7 @@ Les personnes visées dans ce paragraphe doivent s'abstenir d'émettre un avis c
 § 2. Les avis sont transmis ... au Ministre de la Justice par les instances consultatives dans un délai de trente jours à compter de la demande d'avis visée au § 1er. Une copie est communiquée (dans le même délai) au candidat concerné par voie électronique contre accusé de réception. ....
 Sans préjudice de l'application de l'article 259bis-19, § 2bis, en l'absence d'avis dans le délai prescrit ou à défaut d'utilisation du formulaire type, il est passé outre à cet avis; au plus tard huit jours après le terme de ce délai, le candidat concerné en est informé par le ministre de la Justice par voie électronique contre accusé de réception.
 Les candidats disposent à peine de déchéance d'un délai de quinze jours à compter de la notification des avis pour communiquer leurs observations voie électronique au Ministre de la Justice. En l'absence d'un ou plusieurs avis dans le délai prescrit, ils disposent pour le faire d'un délai de quatre-vingt jours à dater de la publication visée au § 1er.
-(Le dossier de nomination se compose, selon le cas, exclusivement des documents suivants:
+(Le dossier de nomination se compose, selon le cas et sans préjudice de l'application de l'article 259bis-6, § 4, exclusivement des documents suivants:
 a) la candidature et les pièces justificatives visées à l'article 287sexies, alinéa 3 ou 8, concernant les études et l'expérience professionnelle;;
 b) le curriculum vitae;
 c) les avis écrits visés au § 1er et, le cas échéant, les observations du candidat, ainsi que les pièces prouvant la réception de ces avis par le candidat;

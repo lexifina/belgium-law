@@ -1,0 +1,1 @@
+Les juges sociaux reçoivent au cours des deux années qui suivent leur nomination une formation théorique et pratique dont le contenu et la durée sont fixés par l'Institut de formation judiciaire. Cette formation obligatoire comprend une formation en matière de déontologie.
