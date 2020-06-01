@@ -1,5 +1,5 @@
 Les définitions suivantes sont applicables au Livre XVII, Titre 3:
-1° "infraction au droit de la concurrence": une infraction à l'article 101 ou à l'article 102 du Traité sur le fonctionnement de l'Union européenne (ci-après "TFUE") et/ou à l'article IV.1 ou à l'article IV.2;
+1° "infraction au droit de la concurrence": une infraction à l'article 101 ou à l'article 102 du Traité sur le fonctionnement de l'Union européenne (ci-après "TFUE") et/ou à l'article IV.1, à l'article IV.2 ou à l'article IV.2/1;
 2° "auteur de l'infraction": l'entreprise ou l'association d'entreprises qui a commis une infraction au droit de la concurrence;
 3° "action en dommages et intérêts": une action introduite en vertu de l'article XVII.72 et par laquelle une juridiction est saisie d'une demande de dommages et intérêts par une partie qui s'estime lésée, par une personne agissant au nom d'une ou de plusieurs parties qui s'estiment lésées, ou par une personne physique ou morale qui a succédé dans les droits de la partie qui s'estime lésée, y compris la personne qui a racheté la demande de dommages et intérêts;
 4° "demande de dommages et intérêts": une demande de réparation pour le dommage causé par une infraction au droit de la concurrence;
