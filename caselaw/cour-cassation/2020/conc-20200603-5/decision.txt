@@ -1,0 +1,48 @@
+ERROR GetNoECLIfromNoROLE - iubel_id arret NOT FOUND ECLI:BE:CASS:2020:ARR.20200603.5 2020-06-03
+ERROR GetNoECLIfromNoROLE - iubel_id arret NOT FOUND ECLI:BE:CASS:2020:ARR.20200603.5 2020-06-03
+ERROR GetNoECLIfromNoROLE - iubel_id arret NOT FOUND ECLI:BE:CASS:2020:ARR.20200603.5 2020-06-03
+ERROR GetNoECLIfromNoROLE - iubel_id arret NOT FOUND ECLI:BE:CASS:2020:ARR.20200603.5 2020-06-03
+
+P.20.0499.F
+
+L'avocat général D. Vandermeersch a dit en substance:
+
+Le premier moyen est pris de la violation des articles 5, 6 et 13 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, 14.3, d, du Pacte international relatif aux droits civils et politiques, 149 de la Constitution et 41, 47 et 48 de la Charte des droits fondamentaux de l'Union européenne, ainsi que du principe général du droit relatif au respect des droits de la défense.
+
+Le demandeur soutient qu'en statuant par défaut à son égard alors qu'il avait clairement exprimé son souhait de comparaître à l'audience, les juges d'appel ont violé les dispositions et principes généraux visés au moyen. Il soutient également qu'en se retranchant derrière une ordonnance prise par le premier président de la cour d'appel qui n'a pas force de loi et qui ne peut déroger aux dispositions visées au moyen, la cour d'appel n'a pas valablement motivé sa décision.
+
+En cas de recours d'un étranger devant les juridictions d'instruction conformément à l'article 71 de la loi du 15 décembre 1980, l'article 72, al. 4, de cette loi dispose qu'il est procédé conformément aux dispositions légales relatives à la détention préventive sauf celles relatives au mandat d'arrêt, au juge d'instruction, à l'interdiction de communiquer, à l'ordonnance de prise de corps, à la mise en liberté provisoire ou sous caution et au droit de prendre communication du dossier administratif.
+
+Conformément aux articles 23, 2° et 30, § 3, al. 3, de la loi du 20 juillet 1990 relative à la détention préventive, l'inculpé comparaît en personne devant la juridiction d'instruction ou peut faire le choix d'être représenté par un avocat à l'audience. Mais, dans cette dernière hypothèse, la chambre du conseil peut ordonner la comparution en personne de l'inculpé au moins trois jours avant la comparution. Si l'inculpé ou son avocat ne comparaît pas, il est statué en leur absence et la décision de la chambre du conseil n'est pas susceptible d'opposition.
+
+Il me semble résulter de ces dispositions mais aussi de l'article 5.4 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales lu en combinaison avec l'article 6 de cette convention que l'étranger qui exerce un recours auprès du pouvoir judiciaire contre la mesure de rétention dont il fait l'objet a le droit de comparaître à l'audience, d'être entendu et de se défendre en personne devant la juridiction d'instruction.
+
+Par ailleurs, comme le soutient le demandeur dans son mémoire, une ordonnance rendue par le premier président d'une cour d'appel n'a pas force de loi et ne peut suspendre ce droit ni le restreindre indûment.
+
+Dès lors, à mon sens, seul le cas de force majeure dûment constaté par la juridiction d'instruction pourrait justifier qu'il ne soit pas satisfait au droit de comparaître de l'étranger.
+
+La Cour a jugé ainsi que la procédure relative au maintien de la détention préventive exige, en principe, la comparution personnelle de l'inculpé devant la juridiction d'instruction. Toutefois si l'inculpé est dans l'impossibilité de se présenter à l'audience, la juridiction d'instruction autorise l'avocat à le représenter et si l'avocat, dûment avisé, ne demande pas l'autorisation de le représenter, elle peut statuer en l'absence de l'inculpé. La Cour ajoute toutefois que pour pouvoir statuer en matière de détention préventive en l'absence d'un inculpé qui se trouve dans l'impossibilité de comparaître en raison d'une grève des surveillants de la prison et qui n'est pas régulièrement représenté par son avocat, la décision par laquelle la détention est maintenue doit constater qu'il n'est pas possible à la juridiction d'instruction de se déplacer à la prison (1).
+
+Il me semble résulter de cette jurisprudence que pour pouvoir statuer par défaut dans une telle situation, la juridiction d'instruction doit constater l'impossibilité pour l'étranger de comparaître ainsi que l'impossibilité pour la juridiction d'instruction de se déplacer au centre de rétention où se trouver l'étranger.
+
+Suivant la Cour, le juge du fond apprécie souverainement les faits dont il déduit l'existence ou non d'un cas de force majeure, la Cour se bornant à vérifier si, de ses constatations, il a pu légalement déduire cette décision (2).
+
+En l'espèce, la chambre des mises en accusation a statué en l'absence du demandeur, privé de liberté, alors qu'il ressort des pièces auxquelles la Cour peut avoir égard que son conseil avait sollicité la délivrance d'un ordre d'extraction.
+
+L'arrêt se réfère d'abord à une ordonnance du 16 mars 2020 du premier président de la cour d'appel, laquelle décide que, « en considération de la pandémie actuelle, pour les affaires mettant en cause des détenus, pour éviter la présence trop importante aux audiences et soulager le personnel de sécurité, il est, en concertation avec le parquet général et monsieur le Bâtonnier de l'ordre des avocats, mis fin aux transferts de détenus. Les avocats sont invités à représenter leurs clients ». Ensuite, les juges d'appel énoncent qu'en raison de la pandémie actuelle, la chambre des mises en accusation est dans l'impossibilité de se rendre au centre fermé de Vottem.
+
+La question est donc de savoir si la situation de pandémie telle qu'elle existait au moment de l'arrêt attaqué, soit le 28 avril 2020, pouvait être considérée par les juges d'appel comme un cas de force majeure justifiant la double impossibilité, celle pour l'inculpé de comparaître et celle pour la juridiction d'instruction de se déplacer.
+
+La question est délicate.
+
+Il est vrai que la situation de la pandémie que nous traversons actuellement a créé une situation inédite. Si nous pouvons nous réjouir de l'évolution positive actuelle de la pandémie, et encore, il y a lieu de rester vigilant et de ne pas se réjouir trop vite, il ne faut pas oublier qu'il y a peu de temps encore, les scientifiques faisaient état d'un risque énorme de propagation et de contagion si les mesures les plus strictes n'étaient pas prises pour limiter drastiquement les déplacements et les contacts de tout ordre. Comme les autorités sanitaires et politiques, le pouvoir judiciaire doit évaluer la situation au jour le jour au regard de l'évolution de la pandémie.
+
+Dans un arrêt du 27 mai 2020 (RG P.20.0525.F), la Cour a considéré que lorsque la chambre des mises en accusation a constaté que, compte tenu des délais stricts prescrits par la loi du 20 juillet 1990 relative à la détention préventive, des nécessités de l'administration de la Justice et des mesures visées à l'arrêté ministériel du 18 mars 2020 portant des mesures d'urgence pour limiter la propagation du coronavirus covid-19, notamment la limitation des déplacements, il était impossible à la cour d'appel de se rendre elle-même au sein de l'établissement pénitentiaire dans lequel le demandeur est détenu, ces motifs, qui impliquent également l'impossibilité du transfert du demandeur à l'audience de la chambre des mises en accusation, suffisent à justifier la légalité de la décision de la chambre des mises en accusation qu'il y avait lieu de poursuivre l'examen de la cause en l'absence du demandeur et après le retrait de son conseil, qui a refusé de le représenter.
+
+Si votre Cour estime dans le cas présent que les juges d'appel ont pu déduire légalement de la situation de pandémie, l'impossibilité pour le demandeur de comparaître et celle de la cour d'appel de se déplacer, il y a lieu de considérer le moyen comme non fondé. Dans l'hypothèse contraire, il y aurait lieu de casser avec renvoi l'arrêt attaqué.
+
+_____________________
+
+(1)	Cass. 7 mai 2003, RG P.03.0607.F, Pas. 2003, n° 279.
+
+(2)	Voy. Cass. 29 avril 2015, RG P.15.0158.F, Pas. 2015, n° 284.
