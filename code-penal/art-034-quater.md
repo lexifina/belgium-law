@@ -1,5 +1,5 @@
 Les cours et tribunaux peuvent prononcer une mise à la disposition du tribunal de l'application des peines pour une période de cinq ans minimum et de quinze ans maximum, prenant cours à l'expiration de la peine principale ..., dans le cadre des condamnations suivantes:
 1° les condamnations à l'égard de personnes qui, après avoir été condamnées à une peine d'au moins cinq ans d'emprisonnement ou à une peine équivalente prise en compte conformément à l'article 99bis, pour des faits ayant causé intentionnellement de grandes souffrances ou des atteintes graves à l'intégrité physique ou à la santé physique ou mentale, sont à nouveau condamnées pour des faits similaires dans un délai de dix ans à compter du moment où la condamnation est passée en force de chose jugée;
 2° les condamnations sur la base des articles 136bis à 136septies, 347bis, § 4, 1°, in fine, 393 à 397, 417quater, alinéa 3, 2°, 433octies, 1°, 475, 518, alinéa 3, et 532;
-3° les condamnations sur la base des articles 371/1, alinéas 2 et 3, 372, 373, alinéas 2 et 3, 375, 376, alinéas 2 et 3, 377, alinéas 1er, 2, 4 et 6.
+3° les condamnations sur la base des articles 371/1, § 3, et 371/2, 372, 373, alinéas 2 et 3, 375, 376, alinéas 2 et 3, 377, alinéas 1er, 2, 4 et 6.
 4° en cas d'application des articles 62 ou 65, les condamnations sur la base d'infractions concurrentes non visées aux 1° à 3°.
