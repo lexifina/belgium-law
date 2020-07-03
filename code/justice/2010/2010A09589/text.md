@@ -270,9 +270,21 @@ c) sont également assimilés à l'employeur :
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012032908" target="_blank">2012-03-29/08</a>, art. 85, 005; En vigueur : 16-04-2012&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018011502" target="_blank">2018-01-15/02</a>, art. 30, 026; En vigueur : 01-04-2018&gt;
 
-<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0009"> 17</a>. Les autorités chargées de la surveillance
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0009"> 17</a>.[<sup>1</sup> § 1.]<sup>1</sup> Les autorités chargées de la surveillance
 Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi, les fonctionnaires désignés par les autorités compétentes, ainsi que les inspecteurs sociaux surveillent le respect des dispositions du présent Code, des lois visées au Livre 2 du présent Code et des autres lois dont ils sont chargés de surveiller le respect, et le respect des dispositions des arrêtés d'exécution du présent Code et des lois précitées.
 Le Roi désigne les lois et les arrêtés d'exécution pour lesquels les services dont les inspecteurs sociaux relèvent sont compétents.
+[<sup>1</sup> § 2. Sans préjudice de la compétence des fonctionnaires de police, sont chargés de surveiller dans les entreprises le respect des obligations prévues dans le cadre des mesures d'urgence prises par le Ministre de l'Intérieur pour limiter la propagation du coronavirus COVID-19, visées à l'article 238 du présent Code, les inspecteurs sociaux des services ou institutions suivants :
+- la Direction générale Contrôle des Lois Sociales du Service Public Fédéral Emploi, Travail et Concertation sociale;
+- la Direction générale Contrôle du Bien-être au Travail du Service Public Fédéral Emploi, Travail et Concertation sociale;
+- l'Office national de Sécurité sociale;
+- l'Office national de l'Emploi;
+- FEDRIS;
+- l'Institut national d'assurance maladie-invalidité;
+- l'Institut national d'assurances sociales pour travailleurs indépendants.
+Pour l'application du présent article, on entend par " entreprises " les " lieux de travail " tels que définis à l'article 16, 10°, du présent Code.
+Pour exercer la surveillance visée à l'alinéa 1er, les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 42 et 43 à 49 du présent Code.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AR 37 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 14, 045; En vigueur : 03-07-2020&gt;
 
 <a name="LNK0009" href="#LNKR0009">CHAPITRE 2.</a> - Les pouvoirs des inspecteurs sociaux et la qualité d'officier de police judiciaire
 
@@ -2928,7 +2940,18 @@ En l'absence de décompte relatif aux montants visés à l'alinéa 1er et à l'a
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 54, 017; En vigueur : 01-05-2016&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017122501" target="_blank">2017-12-25/01</a>, art. 53, 025; En vigueur : 01-01-2018&gt;
 
-<a name="Art.237" href="#Art.236">Art.</a> 237.[<sup>1</sup> La notification par l'employeur du jugement constatant une infraction en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire
+<a name="Art.237" href="#Art.236">Art.</a> <a href="#LNK0121"> 237</a>. [<sup>1</sup> La notification par l'employeur du jugement constatant une infraction en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 décembre 2006 contenant diverses dispositions en matière de droit pénal social, omet sciemment et volontairement de notifier, à ses frais, le jugement constatant une infraction aux lois et règlements qui relèvent de la compétence des juridictions du travail en application de l'article 138bis, § 2, alinéa 1er, du Code judiciaire aux travailleurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 54, 017; En vigueur : 01-05-2016&gt;
+
+<a name="LNK0121" href="#LNKR0121">CHAPITRE 12.</a> [<sup>1</sup> Les obligations prévues dans le cadre des [<sup>2</sup> mesures lors d'une situation d'urgence épidémique]<sup>2</sup>]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 16, 045; En vigueur : 03-07-2020&gt;
+
+<a name="Art.238" href="#Art.237">Art.</a> 238.[<sup>1</sup> Les obligations prévues dans le cadre des mesures d'urgence pour limiter la propagation du coronavirus COVID-19
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou mandataire, ou quiconque qui, dans les entreprises, n'a pas respecté les obligations prévues à l'article 15 de l'arrêté de pouvoirs spéciaux n° 37 pris en exécution des articles 2 et 5 de la loi du 27 mars 2020 accordant des pouvoirs au Roi afin de prendre des mesures dans la lutte contre la propagation du coronavirus COVID-19(II) visant à soutenir les travailleurs.
+Pour l'application du présent article, on entend par " entreprises " les " lieux de travail " tels que définis à l'article 16, 10°, du présent Code.
+En ce qui concerne les infractions visées à l'alinéa 1er, commises par l'employeur, son préposé ou mandataire, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par AR 37 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 17, 045; En vigueur : 03-07-2020&gt;
