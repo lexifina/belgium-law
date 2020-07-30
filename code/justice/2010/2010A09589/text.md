@@ -1289,10 +1289,13 @@ Le chapitre V du Livre 1er, du Code pénal n'est pas applicable aux infractions 
 <a name="Art.109" href="#Art.108">Art.</a> <a href="#Art.110"> 109</a>. La participation à l'infraction
 Le chapitre VII du Livre 1er du Code pénal est applicable aux infractions visées par le Livre 2.
 
-<a name="Art.110" href="#Art.109">Art.</a> <a href="#LNK0050"> 110</a>. Les circonstances atténuantes
+<a name="Art.110" href="#Art.109">Art.</a> <a href="#LNK0050"> 110</a>.Les circonstances atténuantes
 S'il existe des circonstances atténuantes, l'amende peut être réduite au-dessous du montant minimum porté par la loi, sans qu'elle puisse toutefois être inférieure à 40 pour-cent du montant minimum prescrit.
 L'amende infligée à l'assuré social peut être réduite en dessous du montant minimum porté par la loi conformément à l'article 85 du Code pénal si sa situation financière le justifie en raison du fait qu'il est également passible d'une diminution, d'une suspension ou d'une exclusion totale ou partielle du droit à un avantage social visé à l'article 230.
 S'il existe des circonstances atténuantes, la peine d'emprisonnement peut être réduite conformément à l'article 85 du Code pénal.
+[<sup>1</sup> En cas de non-respect des conditions de travail, de rémunération et d'emploi, prévues par des dispositions légales ou réglementaires sanctionnées pénalement ou par des dispositions conventionnelles rendues obligatoires par le Roi conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, et qui sont applicables conformément à l'article 5 de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, si le site internet national officiel unique au sens de l'article 5 de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et modifiant le règlement (UE) n° 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur ("règlement IMI") n'indiquait pas d'informations sur les conditions de travail, de rémunération et d'emploi précitées, pareille absence d'informations est prise en compte lors de la détermination de la sanction, dans le respect des alinéas 1er et 3 du présent article.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 18, 046; En vigueur : 30-07-2020&gt;
 
 <a name="LNK0050" href="#LNKR0050">CHAPITRE 4.</a> - Les règles applicables aux amendes administratives
 
@@ -1311,9 +1314,12 @@ Quand l'administration compétente constate que des infractions ayant antérieur
 <a name="Art.114" href="#Art.113">Art.</a> <a href="#Art.115"> 114</a>. L'effacement de l'amende administrative
 Pour la détermination du montant de l'amende administrative, il ne peut être tenu compte d'une décision infligeant une amende administrative ou déclarant la culpabilité adoptée trois ans ou plus avant les faits. Ce délai de trois ans commence à courir au moment où la décision est devenue exécutoire ou lorsque la décision judiciaire statuant sur le recours du contrevenant est coulée en force de chose jugée.
 
-<a name="Art.115" href="#Art.114">Art.</a> <a href="#Art.116"> 115</a>. Les circonstances atténuantes
+<a name="Art.115" href="#Art.114">Art.</a> <a href="#Art.116"> 115</a>.Les circonstances atténuantes
 S'il existe des circonstances atténuantes, l'amende administrative peut être réduite au-dessous du montant minimum porté par la loi, sans qu'elle puisse être inférieure à 40 pour-cent du montant minimum prescrit.
 L'amende administrative infligée à l'assuré social peut être réduite en dessous du montant minimum porté par la loi sans qu'elle puisse être inférieure à un euro si sa situation financière le justifie en raison du fait qu'il est également passible d'une diminution, d'une suspension ou d'une exclusion totale ou partielle du droit à un avantage social visé à l'article 230.
+[<sup>1</sup> En cas de non-respect des conditions de travail, de rémunération et d'emploi, prévues par des dispositions légales ou réglementaires sanctionnées pénalement ou par des dispositions conventionnelles rendues obligatoires par le Roi conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, et qui sont applicables conformément à l'article 5 de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, si le site internet national officiel unique au sens de l'article 5 de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et modifiant le règlement (UE) n° 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur ("règlement IMI") n'indiquait pas d'informations sur les conditions de travail, de rémunération et d'emploi précitées, pareille absence d'informations est prise en compte lors de la détermination de l'amende administrative, dans le respect de l'alinéa 1er du présent article.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 19, 046; En vigueur : 30-07-2020&gt;
 
 <a name="Art.116" href="#Art.115">Art.</a> <a href="#LNK0051"> 116</a>.Le sursis
 § 1er. L'administration compétente peut décider qu'il sera sursis à l'exécution de la décision infligeant une amende administrative, en tout ou en partie, pour autant que le contrevenant ne s'est pas vu infliger une amende administrative de niveau 2, 3 ou 4 ou n'a pas été condamné à une sanction pénale de niveau 2, 3 ou 4 durant les cinq années qui précèdent la nouvelle infraction.
@@ -2145,10 +2151,13 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 § 3. Est puni d'une sanction de niveau 2, l'utilisateur, son préposé ou son mandataire qui, en contravention à la loi précitée du 24 juillet 1987 :
 1° a occupé un intérimaire en dehors des cas où la loi l'autorise ou sans respecter la procédure prévue par la loi ou une convention collective de travail du Conseil national du travail rendue obligatoire par le Roi;
 2° a occupé un intérimaire dans des catégories professionnelles ou des branches d'activité où le travail intérimaire n'est pas autorisé par le Roi;
-[<sup>1</sup> 3° fournit à l'entreprise de travail intérimaire des renseignements inexacts en ce qui concerne la commission paritaire dont il relève ou en ce qui concerne les salaires des travailleurs permanents.]<sup>1</sup>
+[<sup>1</sup> 3° fournit à l'entreprise de travail intérimaire des renseignements inexacts en ce qui concerne la commission paritaire dont il relève ou en ce qui concerne les salaires des travailleurs permanents;]<sup>1</sup>
+[<sup>2</sup> 4° n'a pas communiqué, par écrit ou par voie électronique, à l'entreprise de travail intérimaire l'information, visée à l'article 18 de la loi précitée du 24 juillet 1987;
+5° n'a pas communiqué à l'entreprise de travail intérimaire, avant le début de l'exécution des prestations de travail visées à l'article 20quater de la loi précitée du 24 juillet 1987, par écrit ou par voie électronique, l'information visée à ce même article 20quater.]<sup>2</sup>
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 27, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 20, 046; En vigueur : 30-07-2020&gt;
 
 <a name="Art.176/1" href="#Art.176">Art.</a> <a href="#LNK0079"> 176/1</a>. [<sup>1</sup> La responsabilité pénale de l'utilisateur d'intérimaires
 Pendant la période où l'intérimaire travaille chez l'utilisateur, celui-ci est considéré comme l'employeur pour l'application des dispositions du présent Code, en cas d'infraction aux dispositions dont l'application relève de sa responsabilité en vertu de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs et qui concernent la durée du travail, les jours fériés, le repos du dimanche, le travail des femmes, la protection de la maternité, la protection des mères allaitantes, le travail des jeunes, le travail de nuit, les règlements de travail, les dispositions ayant trait au contrôle des prestations des travailleurs à temps partiel, la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail.]<sup>1</sup>
@@ -2157,12 +2166,18 @@ Pendant la période où l'intérimaire travaille chez l'utilisateur, celui-ci es
 
 <a name="LNK0079" href="#LNKR0079">Section 3.</a> - La mise à disposition
 
-<a name="Art.177" href="#Art.176/1">Art.</a> <a href="#LNK0080"> 177</a>. La mise à disposition
-Est puni d'une sanction de niveau 3 :
+<a name="Art.177" href="#Art.176/1">Art.</a> <a href="#LNK0080"> 177</a>.La mise à disposition
+[<sup>1</sup> § 1er.]<sup>1</sup> Est puni d'une sanction de niveau 3 :
 1° toute personne qui, en contravention à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, met un travailleur qu'elle a engagé à la disposition d'un tiers qui l'utilise et exerce sur lui une part quelconque de l'autorité appartenant à l'employeur, en dehors des règles relatives au travail intérimaire;
 2° tout utilisateur occupant un travailleur mis à sa disposition par une entreprise et qui exerce sur lui une part quelconque de l'autorité appartenant à l'employeur, en dehors des règles relatives au travail intérimaire prescrites par la loi précitée du 24 juillet 1987.
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+[<sup>1</sup> § 2. Est puni d'une sanction de niveau 2, l'utilisateur, son préposé ou sans mandataire qui:
+1° en contravention à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, n'a pas communiqué, par écrit ou par voie électronique, avant le début de l'exécution des prestations de travail visées, selon le cas, par les articles 32, paragraphe 5, et 32bis, paragraphe 8, de la loi précitée du 24 juillet 1987, à l'employeur du travailleur mis à sa disposition, l'information visée à ces mêmes articles 32, paragraphe 5, et 32bis, paragraphe 8;
+2° en contravention à la loi du 12 août 2000 portant des dispositions sociales, budgétaires et diverses, n'a pas communiqué, par écrit ou par voie électronique, avant le début de l'exécution des prestations de travail visées par l'article 192/1, alinéa 1er, de la loi précitée du 12 août 2000, au groupement d'employeurs qui a mis le travailleur à sa disposition, l'information visée à ce même article 192/1, alinéa 1er, de la loi précitée du 12 août 2000.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 21, 046; En vigueur : 30-07-2020&gt;
 
 <a name="LNK0080" href="#LNKR0080">Section 3/1.</a> [<sup>1</sup> - Les titres-services]<sup>1</sup>
 
