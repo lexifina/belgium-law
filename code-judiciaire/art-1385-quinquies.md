@@ -1,2 +1,3 @@
 Le juge qui a ordonné l'astreinte peut en prononcer la suppression, en suspendre le cours durant le délai qu'il indique ou la réduire, à la demande du condamné, si celui-ci est dans l'impossibilité définitive ou temporaire, totale ou partielle de satisfaire à la condamnation principale.
 Dans la mesure où l'astreinte était acquise avant que l'impossibilité se fut produite, le juge ne peut la supprimer ni la réduire.
+La partie à la requête de laquelle une astreinte a déjà été imposée peut demander au juge de prononcer une astreinte supplémentaire ou d'augmenter l'astreinte prononcée au cas où le condamné reste de manière persistante en défaut de satisfaire à la condamnation principale.
