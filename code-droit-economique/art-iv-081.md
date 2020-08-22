@@ -1,1 +1,2 @@
-Le Collège de la concurrence peut infliger l'astreinte visée à l'article IV.79, § 1er, alinéa 1er, afin de faire respecter les mesures provisoires visées à l'article IV.71.
+§ 1er. Le Collège de la concurrence peut infliger l'astreinte visée à l'article IV.79, § 1er, alinéa 1er, afin de faire respecter les mesures provisoires visées à l'article IV.71.
+§ 2. Par dérogation au paragraphe 1er, lorsque les mesures provisoires concernent un abus de position de dépendance économique au sens de l'article IV.2/1, l'astreinte visée à l'article IV.79, § 2, est d'application.
