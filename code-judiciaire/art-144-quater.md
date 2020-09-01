@@ -1,1 +1,1 @@
-Pour les infractions visées au livre II, titre Ibis, du Code pénal et aux articles 3 et 4 de la loi du 30 décembre 2009 relative la lutte contre la piraterie maritime, seul le procureur fédéral exerce l'action publique.
+Pour les infractions visées au livre II, titre Ibis, du Code pénal et les articles 4.5.1.1. et 4.5.2.2. du Code belge de la Navigation, seul le procureur fédéral exerce l'action publique.
