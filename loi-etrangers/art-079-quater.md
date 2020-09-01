@@ -12,7 +12,7 @@ Le greffier en avertit immédiatement les parties.
 § 5. Lorsque la nullité de la cohabitation légale a été prononcée par un jugement ou un arrêt coulé en force de chose jugée, un extrait reprenant le dispositif du jugement ou de l'arrêt et la mention du jour où celui-ci a acquis force de chose jugée est, sans délai, adressé par le greffier à l'officier de l'état civil du lieu où la déclaration de cohabitation légale a été faite et à l'Office des étrangers.
 Le greffier en avertit les parties.
 L'officier de l'état civil inscrit sans délai l'annulation de la cohabitation légale dans le registre de la population.
-§ 6. Lorsque la nullité de la reconnaissance a été prononcée par un jugement ou un arrêt coulés en force de chose jugée, le greffier transmet immédiatement les données du jugement ou de l'arrêt à la BAEC, avec mention du jour où la décision judiciaire a acquis force de chose jugée.
-Sur la base de celles-ci, la BAEC établit un signalement et l'associe à l'acte de reconnaissance et à l'acte de naissance de l'enfant.
+§ 6. Lorsque la nullité de la reconnaissance a été prononcée par une décision judiciaire coulée en force de chose jugée, le greffier transmet immédiatement, via la BAEC, à l'officier de l'état civil compétent les données nécessaires à l'établissement de l'acte d'annulation et des actes modifiés de l'état civil de l'enfant et de ses descendants à la suite de la décision judiciaire, en mentionnant le jour où elle a acquis force de chose jugée.
+L'officier de l'état civil compétent établit sur cette base l'acte d'annulation, l'associe à l'acte de reconnaissance et modifie les actes de l'état civil de l'enfant et de ses descendants, conformément à la section 6 du livre Ier, titre II, chapitre Ier, du Code civil.
 La BAEC notifie immédiatement la décision judiciaire à l'Office des étrangers avec mention de la date à laquelle celui-ci a acquis force de chose jugée.
 Le greffier en avertit immédiatement les parties.
