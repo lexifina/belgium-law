@@ -1,0 +1,1 @@
+La limitation de la responsabilité des propriétaires de navires, comme prévu dans la section 2 du chapitre 2 du titre 3 du livre 2 et le chapitre 3 du titre 3 du Livre 3 du Code belge de la Navigation, n'est pas d'application aux créances qui découlent de la présente loi pour un employé occupé à bord d'un navire.

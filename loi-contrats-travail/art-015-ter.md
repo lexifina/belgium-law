@@ -1,0 +1,1 @@
+Les créances de l'employé occupé à bord d'un navire qui découlent du contrat de travail sont privilégiées sur le navire sous les conditions déterminées dans le chapitre 5 du titre 2 du Livre 2 du Code belge de la Navigation.
