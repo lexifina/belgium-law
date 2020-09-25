@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2020:ARR.20200925.1N.1",
+  "ecli": "ECLI:BE:CASS:2020:ARR.20200925.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2020-09-25",
+  "date_as_printed": "Vonnis/arrest van 25 september 2020",
+  "published_on_juportal": "2022-03-18",
+  "language": "nl",
+  "role_number": "F.18.0003.N",
+  "case_name_as_published": "BELGISCHE STAAT FOD FINANCIEN contra H.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Rectification de la déclaration par l'administration",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "Avis de rectification - Motivation - Procédure judiciaire - Nouveaux fondements juridiques invoqués par l'administration - Mission du juge",
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE",
+    "Législation fiscale - Avis de rectification - Motivation - Procédure judiciaire - Nouveaux fondements juridiques invoqués par l'administration - Mission du juge",
+    "Bericht van wijziging - Motivering - Gerechtelijke procedure - Nieuwe rechtsgronden aangevoerd door de administratie - Taak van de rechter",
+    "Fiscale wetgeving - Bericht van wijziging - Motivering - Gerechtelijke procedure - Nieuwe rechtsgronden aangevoerd door de administratie - Taak van de rechter"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "Bericht van wijziging - Motivering - Gerechtelijke procedure - Nieuwe rechtsgronden aangevoerd door de administratie - Taak van de rechter",
+    "OPENBARE ORDE",
+    "Fiscale wetgeving - Bericht van wijziging - Motivering - Gerechtelijke procedure - Nieuwe rechtsgronden aangevoerd door de administratie - Taak van de rechter"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2020:ARR.20200925.1N.1",
+  "source_sha256": "b4056cc8aa3a5070afd6d0e1f5d65e418c9fd1c4afa815cdd329f81e051900e6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2020:ARR.20200925.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
