@@ -1,4 +1,4 @@
-§ 1er. Les unités de mesure légales doivent être employées dans les actes authentiques, dans les actes émanant des pouvoirs publics, dans les actes sous seing privé ainsi que dans les écrits établis dans l'exercice d'une profession, d'un métier ou d'un négoce.
+§ 1er. Les unités de mesure légales doivent être employées dans les actes authentiques, dans les actes émanant des pouvoirs publics, dans les actes sous signature privée ainsi que dans les écrits établis dans l'exercice d'une profession, d'un métier ou d'un négoce.
 § 2. Il est interdit d'employer d'autres unités de mesure que les unités légales pour exprimer la quantité de biens ou l'ampleur de services:
 1° à l'occasion d'opérations commerciales ou de fournitures de biens qui se font de manière habituelle;
 2° pour la détermination de la rémunération ou du prix des services;
