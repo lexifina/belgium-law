@@ -24,4 +24,4 @@ Nonobstant ce qui précède, ne sont pas des entreprises, sauf s'il en est dispo
 16° chiffre d'affaires pour les entreprises qui tiennent une comptabilité simplifiée en application de l'article III.85, le montant des recettes autres que non récurrente;
 17° total du bilan pour les entreprises qui tiennent une comptabilité simplifiée en application de l'article III.85, le plus grand des deux montants figurant sous les avoirs et les dettes;
 Lorsque l'expression "support durable" figure dans une disposition légale ou réglementaire, il y a lieu de considérer que la notion est définie conformément à la définition du 15° de l'alinéa 1er.
-Le premier alinéa, 1°, 4°, 5° et 8°, ne s'applique pas au Livre XI.
+Le premier alinéa, 1°, 4°, 5°, ne s'applique pas au livre XI. Le premier alinéa, 8°, ne s'applique pas au livre XI, titres 3 à 8.

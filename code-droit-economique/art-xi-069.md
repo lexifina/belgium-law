@@ -1,3 +1,3 @@
-La demande d'inscription au registre des mandataires agréés est adressée au ministre. Celui-ci la transmet pour avis à la Commission. L'avis est remis au ministre en même temps que le dossier.
+La demande d'inscription au registre des mandataires agréés est adressée au ministre. Celui-ci la transmet pour avis à la Commission d'agrément des mandataires visée à l'article XI.75/1. L'avis est remis au ministre en même temps que le dossier.
 Si le demandeur remplit les conditions requises, le ministre fait procéder à son inscription au registre des mandataires agréés dans le mois qui suit la réception de l'avis. Si le demandeur ne remplit pas ces conditions, le ministre rejette la demande dans le même délai. Dans les deux cas, le ministre en informe sans retard l'intéressé.
 La décision par laquelle le ministre déroge à l'avis de la Commission et celle par laquelle il rejette la demande doivent être motivées.
