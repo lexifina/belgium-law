@@ -1,5 +1,5 @@
 § 1er. La publicité comparative est licite dès lors que les conditions suivantes sont satisfaites, en ce qui concerne la comparaison:
-1° elle n'est pas trompeuse au sens des articles VI.97 à VI.100 et de l'article VI.105, 1°;
+1° elle n'est pas trompeuse au sens des articles VI.97 à VI.100 et des articles VI.105 à VI.109;
 2° elle compare des biens ou services répondant aux mêmes besoins ou ayant le même objectif;
 3° elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de ces biens et services, dont le prix peut faire partie;
 4° elle n'engendre pas de confusion parmi les entreprises entre l'annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes distinctifs, biens ou services de l'annonceur et ceux d'un concurrent;
