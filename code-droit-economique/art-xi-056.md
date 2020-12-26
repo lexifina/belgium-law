@@ -7,7 +7,7 @@ Le brevet ne peut être modifié par la voie d'une révocation de façon à éte
 1° la ou les revendication(s) ou la partie de celle(s)-ci que le titulaire du brevet déclare révoquer;
 2° le cas échéant, du texte complet de la ou des revendication(s) modifiée(s) que le titulaire du brevet souhaite maintenir ainsi que, le cas échéant, de la description et des dessins tels que modifiés.
 La révocation du brevet est opposable aux tiers à compter de la date de son inscription au registre, sans préjudice de la responsabilité du déclarant.
-La déclaration de révocation ne peut viser qu'un seul brevet.
+La requête en révocation ne peut viser qu'un seul brevet.
 § 4. En cas de copropriété, la révocation, totale ou partielle, doit être effectuée par tous les copropriétaires.
 § 5. Si des droits d'usufruit, de gage ou de licence ont été inscrits au registre, le brevet ne peut être révoqué, en totalité ou en partie, qu'avec l'accord des titulaires de ces droits.
 § 6. Le brevet qui fait l'objet d'une revendication de propriété, d'une saisie ou d'une décision d'octroi de licence obligatoire ne peut être révoqué, en totalité ou en partie.
