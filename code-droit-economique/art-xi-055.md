@@ -6,7 +6,7 @@ Le brevet ne peut être modifié par la voie d'une renonciation de façon à ét
 § 4. La requête en renonciation au brevet doit être accompagnée de:
 1° la ou les revendication(s) ou la partie de celle(s)-ci auxquelles le titulaire du brevet déclare renoncer;
 2° le cas échéant, du texte complet de la ou des revendication(s) modifiée(s) que le titulaire du brevet souhaite maintenir ainsi que, le cas échéant, de la description et des dessins tels que modifiés.
-La déclaration de renonciation ne peut viser qu'un seul brevet.
+La requête en renonciation ne peut viser qu'un seul brevet.
 § 5. En cas de copropriété, la renonciation, totale ou partielle, doit être effectuée par tous les copropriétaires.
 § 6. Si des droits d'usufruit, de gage ou de licence sont inscrits au registre, il ne peut être renoncé au brevet, en totalité ou en partie, qu'avec l'accord des titulaires de ces droits.
 § 7. Il ne peut être renoncé, en totalité ou en partie, à un brevet qui fait l'objet d'une revendication de propriété, à un brevet saisi ou à un brevet ayant fait l'objet d'une décision d'octroi de licence obligatoire.
