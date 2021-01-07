@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20210107.1F.5",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210107.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-07",
+  "date_as_printed": "Jugement/arrêt du 07 janvier 2021",
+  "published_on_juportal": "2021-02-04",
+  "language": "fr",
+  "role_number": "C.20.0258.F",
+  "case_name_as_published": "KIA MOTORS BELGIUM s.a. contra AUTO CITY LIEGE s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "CONVENTION - FIN",
+    "OVEREENKOMST - EINDE",
+    "Concession de vente à durée indéterminée - Résiliation unilatérale - Justification - Absence de motif - Action en résolution pour inexécution fautive",
+    "Verkoopconcessie van onbepaalde duur - Eenzijdige beëindiging - Verantwoording - Gebrek aan motivering - Vordering tot ontbinding wegens foutieve niet-uitvoering"
+  ],
+  "fiche": [
+    "CONVENTION - FIN",
+    "Concession de vente à durée indéterminée - Résiliation unilatérale - Justification - Absence de motif - Action en résolution pour inexécution fautive",
+    "ancien Code Civil - 21-03-1804 - Art. 1184 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210107.1F.5",
+  "source_sha256": "002f10bcfcba5763eae2e4d64f1e8822ffa523e9d76e28ebced2de6ebcd28159",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210107.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
