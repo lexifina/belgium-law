@@ -464,10 +464,11 @@ La subvention particulière est alors due à partir du premier jour du mois au c
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016112115" target="_blank">2016-11-21/15</a>, art. 3, 022; En vigueur : 01-01-2016&gt;
 
-<a name="Art.%2043/4." href="#Art.43/3">Art.</a> <a href="#LNK0023">43/4</a>. [<sup>1</sup> Une subvention complémentaire de 15% du montant subventionné du revenu d'intégration est due au centre public d'action sociale lorsque le revenu d'intégration a été octroyé à un bénéficiaire du revenu d'intégration dont la demande a été introduite entre le 1er juin et le 31 décembre 2020 et qui n'a pas bénéficié du revenu d'intégration au cours des trois derniers mois précédant sa demande.
-Cette subvention complémentaire ne vaut que pour les montants de revenu d'intégration octroyés entre le 1er juin et le 31 décembre 2020.]<sup>1</sup>
+<a name="Art.%2043/4." href="#Art.43/3">Art.</a> <a href="#LNK0023">43/4</a>.[<sup>1</sup> Une subvention complémentaire de 15% du montant subventionné du revenu d'intégration est due au centre public d'action sociale lorsque le revenu d'intégration a été octroyé à un bénéficiaire du revenu d'intégration dont [<sup>2</sup> la demande a été introduite entre le 1er juin 2020 et le 31 mars 2021]<sup>2</sup> et qui n'a pas bénéficié du revenu d'intégration au cours des trois derniers mois précédant sa demande.
+Cette subvention complémentaire ne vaut que pour les montants de revenu d'intégration octroyés [<sup>2</sup> entre le 1er juin 2020 et le 31 mars 2021]<sup>2</sup>.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par AR 43 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062615" target="_blank">2020-06-26/15</a>, art. 1, 026; En vigueur : 01-06-2020&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020122010" target="_blank">2020-12-20/10</a>, art. 20, 027; En vigueur : 09-01-2021&gt;
 
 <a name="LNK0023" href="#LNKR0023">Section 5.</a> - Modalités.
 
