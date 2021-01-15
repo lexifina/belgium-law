@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210115.1N.17",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210115.1N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-15",
+  "date_as_printed": "Vonnis/arrest van 15 januari 2021",
+  "published_on_juportal": "2021-12-06",
+  "language": "nl",
+  "role_number": "C.20.0174.N",
+  "case_name_as_published": "V. contra HOF TER LINT",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - LEGALITE DES ARRETES ET REGLEMENTS",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WETTIGHEID VAN BESLUITEN EN VERORDENINGEN",
+    "Décret communal - Habitants agissant au nom de la commune - Annulation de la disposition abrogatoire - Conséquence",
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "Annulation - Arrêt de la Cour constitutionnelle - Publication au Moniteur belge - Conséquence",
+    "Gemeentedecreet - Optreden van inwoners namens de gemeente - Vernietiging opheffingsbepaling - Gevolg",
+    "Vernietiging - Arrest van het Grondwettelijk Hof - Bekendmaking in het Belgisch Staatsblad - Gevolg"
+  ],
+  "fiche": [
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WETTIGHEID VAN BESLUITEN EN VERORDENINGEN",
+    "Gemeentedecreet - Optreden van inwoners namens de gemeente - Vernietiging opheffingsbepaling - Gevolg",
+    "Gemeentedecreet 15 juli 2005 - 15-07-2005 - Art. 194 - 51 ELI link Pub nr 2005036063 Decr. 22 december 2017 over het lokaal bestuur - 22-12-2017 - Art. 577, 50° - 55 ELI link Pub nr 2018030427 Bijzondere wet op het Arbitragehof van 6 januari 1989 - 06-01-1989 - Art. 9, § 1 - 30 ELI link Pub nr 1989021001",
+    "VORDERING IN RECHTE",
+    "Vernietiging - Arrest van het Grondwettelijk Hof - Bekendmaking in het Belgisch Staatsblad - Gevolg",
+    "Gemeentedecreet 15 juli 2005 - 15-07-2005 - Art. 194 - 51 ELI link Pub nr 2005036063 Decr. 22 december 2017 over het lokaal bestuur - 22-12-2017 - Art. 577, 50° - 55 ELI link Pub nr 2018030427 Bijzondere wet op het Arbitragehof van 6 januari 1989 - 06-01-1989 - Art. 9, § 1 - 30 ELI link Pub nr 1989021001",
+    "Nieuw Juridisch Weekblad [NJW] - 2021, nr. 403, p. 402-404. - JUDO, Frank; Noot'Nooit is nooit: het absoluut gezag van gewijsde van een vernietigingsarrest'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210115.1N.17",
+  "source_sha256": "4e25e366a9d7e432ab28a11dc22a6855e57095d200cbf9b1844899cf27a11ea4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210115.1N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
