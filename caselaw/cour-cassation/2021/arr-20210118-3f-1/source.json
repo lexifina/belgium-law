@@ -1,0 +1,43 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20210118.3F.1",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210118.3F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-18",
+  "date_as_printed": "Jugement/arrêt du 18 janvier 2021",
+  "published_on_juportal": "2021-11-03",
+  "language": "fr",
+  "role_number": "C.18.0417.F",
+  "case_name_as_published": "COMMUNE DE LA ROCHE-EN-ARDENNE c. ANMC",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Généralités",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - SCHADE - Algemeen",
+    "Organisme assureur - Assurance obligatoire - Obligations légales ou réglementaires - Soins de santé et indemnités - Paiement des prestations - Conséquences",
+    "ASSURANCE MALADIE-INVALIDITE - GENERALITES",
+    "ZIEKTE- EN INVALIDITEITSVERZEKERING - ALGEMEEN",
+    "Responsabilité hors contrat - Dommage - Organisme assureur - Assurance obligatoire - Obligations légales ou réglementaires - Soins de santé et indemnités - Paiement des prestations - Conséquences",
+    "Verzekeringsinstelling - Verplichte verzekering - Wettelijke of reglementaire verplichtingen - Geneeskundige verzorging en uitkeringen - Betaling van de prestaties - Gevolgen",
+    "Aansprakelijkheid buiten overeenkomst - Schade - Verzekeringsinstelling - Verplichte verzekering - Wettelijke of reglementaire verplichtingen - Geneeskundige verzorging en uitkeringen - Betaling van de prestaties - Gevolgen"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Généralités",
+    "Organisme assureur - Assurance obligatoire - Obligations légales ou réglementaires - Soins de santé et indemnités - Paiement des prestations - Conséquences",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "ASSURANCE MALADIE-INVALIDITE - GENERALITES",
+    "Responsabilité hors contrat - Dommage - Organisme assureur - Assurance obligatoire - Obligations légales ou réglementaires - Soins de santé et indemnités - Paiement des prestations - Conséquences",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "Journal des tribunaux [JT] - 2021, n° 6858, p. 372-375. - DE CONINCK, Bertrand; Note'Ni l'assureur, ni la mutuelle ne disposent d'un recours direct en réparation d'un dommage propre constitué par ses débours' Revue de jurisprudence de Liège, Mons et Bruxelles [JLMB] - 2021, n° 22, p. 978-980. - DEVOS, Bruno; SIMAR, Noël; Note'L'assureur maladie-invalidité-absence de recours direct'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210118.3F.1",
+  "source_sha256": "c0d2026b485c1a86bc02b96a597b75ebe72453aae1776a68675fd8aedb857283",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210118.3F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
