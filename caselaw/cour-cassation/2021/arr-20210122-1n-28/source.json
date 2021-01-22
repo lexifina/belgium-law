@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210122.1N.28",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210122.1N.28",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2021",
+  "published_on_juportal": "2021-06-21",
+  "language": "nl",
+  "role_number": "C.20.0039.N",
+  "case_name_as_published": "D. contra D.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "DONATIONS ET TESTAMENTS",
+    "SCHENKINGEN EN TESTAMENTEN",
+    "Masse fictive - Composition - Donation - Estimation de la valeur - Possibilités de développement futures - Conséquence",
+    "SUCCESSION",
+    "ERFENISSEN",
+    "Fictieve massa - Samenstelling - Schenking - Raming van de waarde - Toekomstige ontwikkelingsmogelijkheden - Gevolg"
+  ],
+  "fiche": [
+    "SCHENKINGEN EN TESTAMENTEN",
+    "Fictieve massa - Samenstelling - Schenking - Raming van de waarde - Toekomstige ontwikkelingsmogelijkheden - Gevolg",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 922 - 30 ELI link Pub nr 1804032150",
+    "ERFENISSEN",
+    "Fictieve massa - Samenstelling - Schenking - Raming van de waarde - Toekomstige ontwikkelingsmogelijkheden - Gevolg",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 922 - 30 ELI link Pub nr 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210122.1N.28",
+  "source_sha256": "1c2f81cca6bb014ed5bb65c9d84d312c76bd0313b3d617abbf9128bb45ea127b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210122.1N.28_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_20.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
