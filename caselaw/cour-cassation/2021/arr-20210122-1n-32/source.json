@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210122.1N.32",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210122.1N.32",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2021",
+  "published_on_juportal": "2021-06-21",
+  "language": "nl",
+  "role_number": "C.19.0121.N",
+  "case_name_as_published": "A. contra VLAAMS GEWEST",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "LOGEMENT",
+    "HUISVESTING",
+    "Arrêté du Gouvernement flamand du 12 octobre 2007 - Société de logement social - Registre d'inscription - Candidat locataire - Revenu à prendre en considération - Portée",
+    "Société de logement social - Intervention dans le loyer pour les locataires nécessiteux d'un logement - Arrêt - Montant maximum - Portée",
+    "Kaderbesluit Sociale Huur - Sociale huurmaatschappij - Inschrijvingsregister - Kandidaat-huurder - In aanmerking te nemen inkomen - Draagwijdte",
+    "Sociale huurmaatschappij - Tegemoetkoming in de huurprijs voor woonbehoeftige huurders - Stopzetting - Maximumbedrag - Draagwijdte"
+  ],
+  "fiche": [
+    "HUISVESTING",
+    "Kaderbesluit Sociale Huur - Sociale huurmaatschappij - Inschrijvingsregister - Kandidaat-huurder - In aanmerking te nemen inkomen - Draagwijdte",
+    "Besluit van de Vlaamse Regering van 4 mei 2012 tot instelling van een tegemoetkoming voor kandidaat-huurders - 04-05-2012 - Artt. 1, eerste lid, 6°, en 9, eerste lid, 6° - 07 ELI link Pub nr 2012035542 Besluit van de Vlaamse Regering 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode - 12-10-2007 - Artt. 1, 25°, 3, § 1, eerste lid, 2°, en § 3, tweede lid, en 8 - 49 ELI link Pub nr 2007036959",
+    "Artt. 1, eerste lid, 6°, en 9, eerste lid, 6° B.Vl.Reg. 4 mei 2012, in zijn versie voor de wijziging ervan bij B.Vl.Reg. 5 april 2019.",
+    "HUISVESTING",
+    "Sociale huurmaatschappij - Tegemoetkoming in de huurprijs voor woonbehoeftige huurders - Stopzetting - Maximumbedrag - Draagwijdte",
+    "Besluit van de Vlaamse Regering van 4 mei 2012 tot instelling van een tegemoetkoming voor kandidaat-huurders - 04-05-2012 - Artt. 2, derde lid, 3°, en 9, eerste lid, 6° - 07 ELI link Pub nr 2012035542 Besluit van de Vlaamse Regering 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders - 02-02-2007 - Art. 5, § 1, eerste lid - 45 ELI link Pub nr 2007035284",
+    "Artt 2, derde lid, 3°, en 9, eerste lid, 6° B.Vl.Reg. 4 mei 2012, in zijn versie voor de wijziging ervan bij B.Vl.Reg. 5 april 2019."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210122.1N.32",
+  "source_sha256": "0bc6b523f6b7e4b20fe9ca4e2e16e9ca2d0a7c2b4db45956f6d0e76ddc4b9b32",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210122.1N.32_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_20.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
