@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210122.1N.29",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210122.1N.29",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2021",
+  "published_on_juportal": "2022-01-10",
+  "language": "nl",
+  "role_number": "C.20.0143.N",
+  "case_name_as_published": "BNP Paribas Fortis n.v. contra K.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PRIVILEGES ET HYPOTHEQUES - HYPOTHEQUES",
+    "VOORRECHTEN EN HYPOTHEKEN - HYPOTHEKEN",
+    "Bien immobilier - Hypothèque - Extinction du titre sous-jacent - Effet rétroactif - Créancier hypothécaire - Confiance légitime - Conséquence",
+    "VENTE",
+    "KOOP",
+    "Bien immobilier - Annulation du contrat de vente - Effet rétroactif - Créancier hypothécaire - Confiance légitime - Conséquence",
+    "Onroerend goed - Hypotheek - Tenietgaan van de onderliggende titel - Terugwerkende kracht - Hypothecaire schuldeiser - Gewettigd vertrouwen - Gevolg",
+    "Onroerend goed - Vernietiging van de koopovereenkomst - Terugwerkende kracht - Hypothecaire schuldeiser - Gewettigd vertrouwen - Gevolg"
+  ],
+  "fiche": [
+    "VOORRECHTEN EN HYPOTHEKEN - HYPOTHEKEN",
+    "Onroerend goed - Hypotheek - Tenietgaan van de onderliggende titel - Terugwerkende kracht - Hypothecaire schuldeiser - Gewettigd vertrouwen - Gevolg",
+    "Burgerlijk Wetboek - Boek III - Titel XVIII: Voorrechten en hypotheken. - Hypotheekwet - 16-12-1851 - Art. 74 - 01 ELI link Pub nr 1851121650",
+    "KOOP",
+    "Onroerend goed - Vernietiging van de koopovereenkomst - Terugwerkende kracht - Hypothecaire schuldeiser - Gewettigd vertrouwen - Gevolg",
+    "Burgerlijk Wetboek - Boek III - Titel XVIII: Voorrechten en hypotheken. - Hypotheekwet - 16-12-1851 - Art. 74 - 01 ELI link Pub nr 1851121650",
+    "Rechtskundig weekblad [RW] - 2020-21, nr. 34, p. 1335-1342. - VERHEYE, Benjamin; Noot'De (beperkte) theorie van onroerende schineigendom naar Belgisch recht' Tijdschrift voor Belgisch handelsrecht [TBH] - 2021, nr. 6, p. 784-789. - VAN DE LOOVERBOSCH, Marc; Noot'Vertrouwensbeginsel beschermt derde-hypotheekhouder te goeder trouw' RDC-Revue de droit commercial belge - 2023, n° 4, p. 552-559. - XHEBEXHIA, Kevin; POLLEFEYT, Florian; Note'La théorie de l'apparence en matière immobilière: innovation de l'arrêt de cassation du 22 janvier 2021 toujours applicable à la suite...'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210122.1N.29",
+  "source_sha256": "3e2aab5d35d8e2507b60fcbff9aae5775ce5836e2bdd6220d3bd74316fd677b8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210122.1N.29_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
