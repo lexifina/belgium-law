@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210129.1N.17",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210129.1N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-01-29",
+  "date_as_printed": "Vonnis/arrest van 29 januari 2021",
+  "published_on_juportal": "2022-03-30",
+  "language": "nl",
+  "role_number": "F.18.0140.N",
+  "case_name_as_published": "ENGIE CC cvba contra BELGISCHE STAAT, FINANCIEN",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "LANGUES (EMPLOI DES) - MATIERE JUDICIAIRE (LOI DU 15 JUIN 1935) - En appel - Autres matières",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In hoger beroep - Andere zaken",
+    "Citation dans une autre langue - Expression \"At arm's length\" - Expression généralement connue dans le langage juridique",
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Procédure - Mission du juge - Décision - Motifs - Attente des parties - Possibilité de contredire",
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Divers",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Allerlei",
+    "Centre de coordination - Avantages anormaux ou bénévoles - Notion",
+    "Aanhaling in een andere taal - Uitdrukking \"At arm's length\" - In de rechtstaal algemeen gekende uitdrukking",
+    "Rechtspleging - Taak van de rechter - Beslissing - Redenen - Verwachting van de partijen - Mogelijkheid tot tegenspraak",
+    "Coördinatiecentrum - Abnormale of goedgunstige voordelen - Begrip"
+  ],
+  "fiche": [
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In hoger beroep - Andere zaken",
+    "Aanhaling in een andere taal - Uitdrukking \"At arm's length\" - In de rechtstaal algemeen gekende uitdrukking",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 24 - 01 ELI link Pub nr 1935061501",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Rechtspleging - Taak van de rechter - Beslissing - Redenen - Verwachting van de partijen - Mogelijkheid tot tegenspraak",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Allerlei",
+    "Coördinatiecentrum - Abnormale of goedgunstige voordelen - Begrip",
+    "KB nr. 187 van 30 december 1982 betreffende de oprichting van coördinatiecentra - 187 - 30-12-1982 - Art. 5 - 69 ELI link Pub nr 1983021381",
+    "BJS-Bulletin juridique social - 2021, n° 681, p. 13. - WATELET, Sébastien; Note'Recette indue taxable à l'ISoc?'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210129.1N.17",
+  "source_sha256": "2f98ca8b9c44fc1d5ad80d1493bf983c920375a2876bf3fa228e57b1338b0567",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210129.1N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
