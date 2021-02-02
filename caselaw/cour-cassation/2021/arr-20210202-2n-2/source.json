@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210202.2N.2",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210202.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-02-02",
+  "date_as_printed": "Vonnis/arrest van 02 februari 2021",
+  "published_on_juportal": "2021-02-04",
+  "language": "nl",
+  "role_number": "P.20.0862.N",
+  "case_name_as_published": "S.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Concours entre appel et opposition - Opposition déclarée non avenue - Conséquence",
+    "OPPOSITION",
+    "VERZET",
+    "Matière répressive - Concours entre appel et opposition - Conséquence",
+    "Samenloop tussen hoger beroep en verzet - Ongedaan verklaard verzet - Gevolg",
+    "Strafzaken - Samenloop tussen hoger beroep en verzet - Gevolg"
+  ],
+  "fiche": [
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Samenloop tussen hoger beroep en verzet - Ongedaan verklaard verzet - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 187, §§ 4, 5, 6 en 7 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 204 - 30 ELI link Pub nr 1808111701",
+    "VERZET",
+    "Strafzaken - Samenloop tussen hoger beroep en verzet - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 187, §§ 4, 5, 6 en 7 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 204 - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210202.2N.2",
+  "source_sha256": "92a9280832ebf6e79981ebafed539b1a9e77a698467c0c9d205057b6e6eb7cad",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210202.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
