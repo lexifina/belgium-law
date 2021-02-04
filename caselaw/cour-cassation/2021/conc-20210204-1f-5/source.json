@@ -1,0 +1,38 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2021:CONC.20210204.1F.5",
+  "ecli": "ECLI:BE:CASS:2021:CONC.20210204.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-02-04",
+  "date_as_printed": "Conclusions du Ministère public du 04 février 2021",
+  "published_on_juportal": "2022-10-18",
+  "language": "fr",
+  "role_number": "C.20.0032.F-C.20.0033.F",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 8",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 8",
+    "Nuisances sonores liées à l'exploitation d'un aéroport - Atteinte au droit au respect de la vie privée et familiale",
+    "Environnement - Application - Nuisances sonores liées à l'exploitation d'un aéroport - Responsabilité de l'Etat - Pouvoirs légaux - Absence de mise en oeuvre",
+    "Geluidshinder die gepaard gaat met de exploitatie van een luchthaven - Aantasting van het recht op eerbiediging van het privé- en gezinsleven",
+    "Milieu - Toepassing - Geluidshinder die gepaard gaat met de exploitatie van een luchthaven - Aansprakelijkheid van de Staat - Wettelijke bevoegdheden - Geen uitvoering"
+  ],
+  "fiche": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 8",
+    "Nuisances sonores liées à l'exploitation d'un aéroport - Atteinte au droit au respect de la vie privée et familiale",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 8 - 30 Lien DB Justel 19501104-30",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 8",
+    "Environnement - Application - Nuisances sonores liées à l'exploitation d'un aéroport - Responsabilité de l'Etat - Pouvoirs légaux - Absence de mise en oeuvre",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 8 - 30 Lien DB Justel 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:CONC.20210204.1F.5",
+  "source_sha256": "dd841ff25e63de8ebc5f5be5ed8f4d5add4aa183b4706a456be9dff01acdfef6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:CONC.20210204.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_26.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
