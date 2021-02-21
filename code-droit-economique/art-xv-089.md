@@ -4,6 +4,9 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 2° de l'article VII.7, relatif aux frais d'information;
 3° de l'article VII.9 relatif aux exigences en matière d'informations pour les instruments de paiement relatifs à des montants faibles et pour la monnaie électronique;
 4° de l'article VII.11 relatif aux exigences en matière d'informations pour frais supplémentaires ou réductions pour l'utilisation d'un instrument de paiement donné;
+4° /1 de l'article VII.11/1 relatif à l'obligation d'information de la documentation européenne;
+4° /2 de l'article VII.11/2 relatif à l'obligation d'information des agents ou succursales agissant pour le compte des établissements de paiement;
+22° /1 de l'article VII.55/10, alinéa 2, relatif à l'obligation d'information du prestataire de services de paiement quant aux répercussions des incidents;
 5° des articles VII.14, VII.15, VII.16, VII.18 et VII.19 relatifs aux exigences en matière d'informations pour les opérations de paiement isolées;
 6° des articles VII.21 et VII.22 relatifs aux exigences en matière d'informations des contrats-cadres concernant les services de paiement et de l'article VII.24, relatif à l'accès aux informations et aux conditions du contrat-cadre;
 7° de l'article VII.24 relatif à la modification des conditions du contrat-cadre;
