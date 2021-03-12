@@ -1,0 +1,33 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2021:CONC.20210312.1N.7",
+  "ecli": "ECLI:BE:CASS:2021:CONC.20210312.1N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-03-12",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 12 maart 2021",
+  "published_on_juportal": "2022-09-14",
+  "language": "nl",
+  "role_number": "F.18.0060.N",
+  "case_name_as_published": "BELGIAN FRUIT FORWARDING COMPANY c. BELGISCHE STAAT",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Assujetti non établi en Belgique - Représentant responsable - Responsabilité solidaire quant à l'amende administrative infligée - Nature",
+    "Niet in België gevestigde belastingplichtige - Aansprakelijke vertegenwoordiger - Hoofdelijke gehoudenheid voor opgelegde administratieve boete - Aard"
+  ],
+  "fiche": [
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Niet in België gevestigde belastingplichtige - Aansprakelijke vertegenwoordiger - Hoofdelijke gehoudenheid voor opgelegde administratieve boete - Aard",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 55 - 32 Link Justel databank 19690703-32"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:CONC.20210312.1N.7",
+  "source_sha256": "38d3c88c3709717eff234c4f0067b82b294f944a86086b4dadd6d31429592a0f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:CONC.20210312.1N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
