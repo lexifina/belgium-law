@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20210315.3F.2",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210315.3F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-03-15",
+  "date_as_printed": "Jugement/arrêt du 15 mars 2021",
+  "published_on_juportal": "2021-07-08",
+  "language": "fr",
+  "role_number": "S.18.0090.F",
+  "case_name_as_published": "ETAT BELGE ASILE ET MIGRATION contra T.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INTERVENTION",
+    "TUSSENKOMST",
+    "Matière civile (y compris les matières commerciale et sociale) - Demande en déclaration d'une décision judiciaire commune - Objet - Recevabilité",
+    "Matière civile (y compris les matières commerciale et sociale) - Demande en déclaration d'une décision judiciaire commune - Caractère - Pouvoir du juge",
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Jugement ordonnant une expertise - Appel en déclaration de jugement commun - Recevabilité - Effet",
+    "PRINCIPES GENERAUX DU DROIT",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Droits de la défense - Matière civile (y compris les matières commerciale et sociale) - Jugement ordonnant une expertise - Appel en déclaration de jugement commun - Recevabilité - Effet",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Vordering tot bindendverklaring van een rechterlijke beslissing - Voorwerp - Ontvankelijkheid",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Vordering tot bindendverklaring van een rechterlijke beslissing - Aard - Bevoegdheid van de rechter",
+    "Vonnis dat een deskundigenonderzoek beveelt - Oproeping tot bindendverklaring van het vonnis - Ontvankelijkheid - Uitwerking",
+    "Recht van verdediging - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Vonnis dat een deskundigenonderzoek beveelt - Oproeping tot bindendverklaring van het vonnis - Ontvankelijkheid - Uitwerking"
+  ],
+  "fiche": [
+    "INTERVENTION",
+    "Matière civile (y compris les matières commerciale et sociale) - Demande en déclaration d'une décision judiciaire commune - Objet - Recevabilité",
+    "Code Judiciaire - 10-10-1967 - Art. 15, 16, 17, 18 et 812 - 01 Lien ELI No pub 1967101052",
+    "INTERVENTION",
+    "Matière civile (y compris les matières commerciale et sociale) - Demande en déclaration d'une décision judiciaire commune - Caractère - Pouvoir du juge",
+    "Code Judiciaire - 10-10-1967 - Art. 812 - 01 Lien ELI No pub 1967101052",
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "Jugement ordonnant une expertise - Appel en déclaration de jugement commun - Recevabilité - Effet",
+    "Principe général du droit relatif au respect des droits de la défense",
+    "PRINCIPES GENERAUX DU DROIT",
+    "Droits de la défense - Matière civile (y compris les matières commerciale et sociale) - Jugement ordonnant une expertise - Appel en déclaration de jugement commun - Recevabilité - Effet",
+    "Principe général du droit relatif au respect des droits de la défense"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210315.3F.2",
+  "source_sha256": "7eb2bab32644416837fd22731cfd19b0b5c1dbf9394e19d0eb31f64f2fd04fb7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210315.3F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
