@@ -1,0 +1,42 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2021:CONC.20210318.1F.3",
+  "ecli": "ECLI:BE:CASS:2021:CONC.20210318.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-03-18",
+  "date_as_printed": "Conclusions du Ministère public du 18 mars 2021",
+  "published_on_juportal": "2021-09-29",
+  "language": "fr",
+  "role_number": "C.20.0261.F",
+  "case_name_as_published": "COMMUNE DE SCHAERBEEK c. PROXIMUS s.a. de droit public",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE",
+    "Loi du 19 juillet 1930 - Régie des Télégraphes et Téléphones - Exemption d'impôts ou taxes - Conséquence",
+    "CONVENTION - ELEMENTS CONSTITUTIFS - Objet",
+    "OVEREENKOMST - BESTANDDELEN - Voorwerp",
+    "Objet illicite - Maintien d'une situation contraire à l'ordre public - Nature pécuniaire de l'engagement - Incidence",
+    "Wet 19 juli 1930 - Regie van telegraaf en telefoon - Vrijstelling van belastingen of taksen - Gevolg",
+    "Ongeoorloofd voorwerp - Behoud van een toestand die in strijd is met de openbare orde - Geldelijke aard van de verbintenis - Invloed"
+  ],
+  "fiche": [
+    "ORDRE PUBLIC",
+    "Loi du 19 juillet 1930 - Régie des Télégraphes et Téléphones - Exemption d'impôts ou taxes - Conséquence",
+    "ancien Code Civil - 21-03-1804 - Art. 2 - 30 Lien ELI No pub 1804032150 L. du 19 juillet 1930 créant la BELGACOM - 19-07-1930 - Art. 25 - 30 Lien DB Justel 19300719-30",
+    "CONVENTION - ELEMENTS CONSTITUTIFS - Objet",
+    "Objet illicite - Maintien d'une situation contraire à l'ordre public - Nature pécuniaire de l'engagement - Incidence",
+    "Code Judiciaire - 10-10-1967 - Art. 1108 - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:CONC.20210318.1F.3",
+  "source_sha256": "89e84642b4f1453878023c246b9c893ccc4e2b8a52c0b6823beb3a53144c567e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:CONC.20210318.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/25/sitemap_27.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
