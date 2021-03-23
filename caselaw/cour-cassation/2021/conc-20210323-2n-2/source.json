@@ -1,0 +1,33 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2021:CONC.20210323.2N.2",
+  "ecli": "ECLI:BE:CASS:2021:CONC.20210323.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-03-23",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 23 maart 2021",
+  "published_on_juportal": "2021-03-25",
+  "language": "nl",
+  "role_number": "P.20.1189.N",
+  "case_name_as_published": "T.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - CONCOURS - Concours idéal",
+    "STRAF - SAMENLOOP - Eéndaadse",
+    "Infraction collective ou continue - Unité d'intention - Application de la peine la plus forte - Portée - Peine accessoire plus forte du chef d'une prévention moins grave - Interdiction de certains droits en raison d'une condamnation du chef de viol - Condamnation du chef d'un crime passible d'une peine plus forte - Conséquence",
+    "Collectief of voortgezet misdrijf - Eenheid van opzet - Toepassing van de zwaarste straf - Draagwijdte - Strengere bijkomende straf voor een minder zware telastlegging - Ontzetting uit bepaalde rechten wegens een veroordeling van verkrachting - Veroordeling wegens een misdaad waarop een zwaardere straf staat - Gevolg"
+  ],
+  "fiche": [
+    "STRAF - SAMENLOOP - Eéndaadse",
+    "Collectief of voortgezet misdrijf - Eenheid van opzet - Toepassing van de zwaarste straf - Draagwijdte - Strengere bijkomende straf voor een minder zware telastlegging - Ontzetting uit bepaalde rechten wegens een veroordeling van verkrachting - Veroordeling wegens een misdaad waarop een zwaardere straf staat - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 65, eerste lid - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 382bis, eerste lid - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:CONC.20210323.2N.2",
+  "source_sha256": "f7862c3fbe6efba7800b6d9735e20ec0796cdf091e508a81f2e8f0ce44a5aa32",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:CONC.20210323.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/08/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
