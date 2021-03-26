@@ -1,5 +1,5 @@
 § 1er. Le débiteur qui sollicite l'ouverture d'une procédure de réorganisation judiciaire adresse une requête au tribunal.
-§ 2. A peine d'irrecevabilité, il joint à sa requête:
+§ 2. Il joint à sa requête:
 1° un exposé des événements sur lesquels est fondée sa demande et dont il ressort qu'à son estime, la continuité de son entreprise est menacée à bref délai ou à terme;
 2° l'indication de l'objectif ou des objectifs pour lesquels il sollicite l'ouverture de la procédure de réorganisation judiciaire;
 3° l'indication d'une adresse électronique à laquelle il peut être joint tant que dure la procédure de réorganisation judiciaire et à partir de laquelle il peut accuser réception des communications;
@@ -13,5 +13,9 @@
 11° une copie des commandements et exploits de saisie-exécution mobilières et immobilières, tels qu'ils apparaissent au fichier central des avis de saisie, de délégation, de cession et de règlement collectif de dettes, dans l'hypothèse où il sollicite la suspension des opérations de vente sur saisie exécution immobilière conformément aux articles XX.44, §§ 2 et 3 et XX.51, §§ 2 et 3.
 En outre, le débiteur peut joindre à sa requête toutes autres pièces qu'il juge utiles pour l'étayer. Il doit lors du dépôt des pièces s'assurer que les pièces ne contiennent pas d'éléments pouvant nuire au respect du secret professionnel et joint, le cas échéant, une note aux pièces justifiant le fait que certaines pièces ne pouvaient être déposées de ce fait.
 § 3. La requête est signée par le débiteur ou par son avocat. Elle est déposée avec les pièces nécessaires dans le registre comme précisé à l'article XX.15.
+§ 3/1. Si le débiteur n'est pas en mesure de joindre, à sa requête, les documents visés au paragraphe 2, alinéa 1er, 5° à 9°, il les dépose dans le registre au plus tard deux jours avant l'audience visée à l'article XX.46.
+Si malgré ce délai le débiteur n'est pas en mesure d'apporter les documents requis, il dépose dans le registre dans le même délai une note indiquant de façon circonstanciée les motifs pour lesquels il n'a pu y pourvoir.
+Le tribunal statue en considération des éléments qui lui ont été soumis.
+§ 3/2. Si la requête tend à obtenir le transfert de l'entreprise dans les circonstances visées au titre 5, chapitre 4, du présent livre, la requête contient les éléments visés au paragraphe 2, alinéa 1er, à l'exception des éléments repris sous les 6° et 8°. Elle peut être complétée à tout moment d'initiative par le débiteur ou à la suite d'une décision du juge délégué.
 § 4. Dans les quarante-huit heures du dépôt de la requête, le greffier en avise le procureur du Roi, qui pourra assister à toutes les opérations de la procédure. Dans ce même délai, le greffier avisera l'Ordre ou l'Institut dont dépend le titulaire de profession libérale, si la requête a été déposée par une entreprise visée par l'article I.1.14°.
 Le tribunal peut joindre le rapport établi par la chambre des entreprises en difficulté conformément à l'article XX.28 au dossier de la réorganisation judiciaire.
