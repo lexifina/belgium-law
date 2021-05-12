@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20210512.2F.14",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210512.2F.14",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-05-12",
+  "date_as_printed": "Jugement/arrêt du 12 mai 2021",
+  "published_on_juportal": "2021-05-18",
+  "language": "fr",
+  "role_number": "P.21.0619.F",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen imprécis",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Onduidelijk middel",
+    "Moyen invoquant le défaut de réponse aux conclusions déposées devant les juges d‘appel - Défaut de précision - Conséquence",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Juridictions d'instruction - Absolue nécessité pour la sécurité publique - Motivation - Circonstances de fait de la cause et celles liées à la personnalité - Prise en compte de faits nouveaux - Légalité",
+    "Middel dat een gebrek aan antwoord op de neergelegde conclusie aanvoert voor de appelrechters - Gebrek aan precisering - Gevolg",
+    "Onderzoeksgerechten - Volstrekte noodzakelijkheid voor de openbare veiligheid - Motivering - Feitelijke omstandigheden van de zaak en omstandigheden die eigen zijn aan de persoonlijkheid - In aanmerking nemen van nieuwe feiten - Wettigheid"
+  ],
+  "fiche": [
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen imprécis",
+    "Moyen invoquant le défaut de réponse aux conclusions déposées devant les juges d‘appel - Défaut de précision - Conséquence",
+    "Code d'instruction criminelle - 17-11-1808 - Art. 429, al. 1er - 30 Lien ELI No pub 1808111701",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Juridictions d'instruction - Absolue nécessité pour la sécurité publique - Motivation - Circonstances de fait de la cause et celles liées à la personnalité - Prise en compte de faits nouveaux - Légalité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 6, 23, 4°, et 30, § 4 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210512.2F.14",
+  "source_sha256": "ddeddcf23973809394788f66eee01ee88f655224505b12b9b077107edfbe5b2e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210512.2F.14_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
