@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20210520.1F.5",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210520.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-05-20",
+  "date_as_printed": "Jugement/arrêt du 20 mai 2021",
+  "published_on_juportal": "2021-09-30",
+  "language": "fr",
+  "role_number": "C.20.0440.F",
+  "case_name_as_published": "TILMAN s.a. contra UNILEVER SUPPLY CHAIN COMPANY AG",
+  "subjects": [
+    "Droit international privé",
+    "Internationaal privaatrecht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "COMPETENCE ET RESSORT - COMPETENCE INTERNATIONALE",
+    "BEVOEGDHEID EN AANLEG - INTERNATIONALE BEVOEGDHEID",
+    "Contrat international - Clause attributive de juridiction - Convention de Lugano II - Article 23 - Application - Question préjudicielle",
+    "UNION EUROPEENNE - GENERALITES",
+    "EUROPESE UNIE - ALGEMEEN",
+    "Convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale du 30 octobre 2007 (Lugano II) - Article 23 - Contrat international - Clause attributive de juridiction - Acceptation des conditions générales - Renvoi à un lien hypertexte - Demande d'interprétation",
+    "Internationale overeenkomst - Beding tot aanwijzing van de bevoegde rechter - Lugano II-verdrag - Artikel 23 - Toepassing - Prejudiciële vraag",
+    "Verdrag van 30 oktober 2007 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (Lugano II) - Artikel 23 - Internationale overeenkomst - Beding tot aanwijzing van de bevoegde rechter - Aanvaarding van de algemene voorwaarden - Verwijzing naar een hyperlink - Vraag om uitlegging"
+  ],
+  "fiche": [
+    "COMPETENCE ET RESSORT - COMPETENCE INTERNATIONALE",
+    "Contrat international - Clause attributive de juridiction - Convention de Lugano II - Article 23 - Application - Question préjudicielle",
+    "Convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale - 30-10-2007 - Art. 23",
+    "UNION EUROPEENNE - GENERALITES",
+    "Convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale du 30 octobre 2007 (Lugano II) - Article 23 - Contrat international - Clause attributive de juridiction - Acceptation des conditions générales - Renvoi à un lien hypertexte - Demande d'interprétation",
+    "Convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale - 30-10-2007 - Art. 23"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210520.1F.5",
+  "source_sha256": "fdc1eaf51e102f4ed5096f506489a664158789b9e79ea4c99d0bb5829fd9ca9a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210520.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
