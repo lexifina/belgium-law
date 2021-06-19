@@ -1,0 +1,1 @@
+Le présent chapitre s'applique aux mesures visées aux chapitres Ier et II et au placement d'un enfant mineur non émancipé dans le cadre de l'aide à la jeunesse et de la protection de la jeunesse, à l'exception des placements faisant suite à la commission d'un fait qualifié infraction.
