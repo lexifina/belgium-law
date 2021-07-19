@@ -2,4 +2,4 @@
 En particulier, ils mettent en place une organisation leur permettant de s'assurer du respect par leurs agents liés et par les employés et les sous-agents de ces derniers, des obligations légales et réglementaires qui leur sont applicables en vertu du présent Livre et des arrêtés et règlements pris pour son exécution, et notamment des dispositions applicables en matière de connaissances professionnelles.
 Ils disposent d'une comptabilité permettant de donner les renseignements exigés par les réglementations d'ordre statistique.
 Les prêteurs en crédit hypothécaire tiennent des archives appropriées sur les types de biens immobiliers acceptés en garantie, ainsi que sur la politique d'acceptation des demandes d'octroi de prêts hypothécaires.
-§ 2. L'administration centrale des prêteurs doit être établie en Belgique.
+§ 2. L'administration centrale et le siège statutaire des prêteurs doivent être établis en Belgique.
