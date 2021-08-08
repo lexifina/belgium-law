@@ -457,22 +457,24 @@ Cette subvention particulière n'est pas due pour les dossiers pour lesquels un 
 Le Roi fixe par arrêté délibéré en Conseil des ministres les conditions minimales et les modalités auxquelles doit satisfaire un dossier afin qu'il soit question d'une personne particulièrement vulnérable et qui nécessite une attention particulière du centre.
 La subvention particulière est alors due à partir du premier jour du mois au cours duquel le projet individualisé d'intégration sociale a été signé.]<sup>1</sup>
 [<sup>2</sup> § 5. Par dérogation aux paragraphes précédents, le montant de la subvention particulière prévue aux paragraphes précédents s'élève à 20 % du montant octroyé du revenu d'intégration lorsque le bénéficiaire a moins de 25 ans ou qu'il relève de l'article 11, § 2, alinéa 1er, a.
-Cette dérogation n'est applicable qu'au montant du revenu d'intégration octroyé entre le 1er avril 2021 et le 30 juin 2021.]<sup>2</sup>
+Cette dérogation n'est applicable qu'au montant du revenu d'intégration octroyé [<sup>3</sup> entre le 1er avril 2021 et le 30 septembre 2021]<sup>3</sup>.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016072108" target="_blank">2016-07-21/08</a>, art. 10, 021; En vigueur : 01-11-2016, (L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016100303" target="_blank">2016-10-03/03</a>, art. 10, 1°)&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021040210" target="_blank">2021-04-02/10</a>, art. 68, 028; En vigueur : 23-04-2021&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021071803" target="_blank">2021-07-18/03</a>, art. 18, 029; En vigueur : 08-08-2021&gt;
 
 <a name="Art.43/3" href="#Art.43/2">Art.</a> <a href="#Art.43/4"> 43/3</a>. [<sup>1</sup> § 1er. Pour 2016 et 2017, une subvention complémentaire de 10 % du montant subventionné du revenu d'intégration est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois en 2016 ou en 2017 le revenu d'intégration en qualité de réfugié reconnu au sens de l'article 49 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
 § 2. Entre le 1er décembre 2016 et le 31 décembre 2017, une subvention complémentaire de 10 % du montant subventionné du revenu d'intégration est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, pendant cette période, le revenu d'intégration en qualité de bénéficiaire de la protection subsidiaire au sens de l'article 49/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016112115" target="_blank">2016-11-21/15</a>, art. 3, 022; En vigueur : 01-01-2016&gt;
 
-<a name="Art.43/4" href="#Art.43/3">Art.</a> <a href="#LNK0023"> 43/4</a>.[<sup>1</sup> Une subvention complémentaire de 15% du montant subventionné du revenu d'intégration est due au centre public d'action sociale lorsque le revenu d'intégration a été octroyé à un bénéficiaire du revenu d'intégration dont [<sup>3</sup> la demande a été introduite entre le 1er juin 2020 et le 30 juin 2021]<sup>3</sup> et qui n'a pas bénéficié du revenu d'intégration au cours des trois derniers mois précédant sa demande.
-Cette subvention complémentaire ne vaut que pour les montants de revenu d'intégration octroyés [<sup>3</sup> entre le 1er juin 2020 et le 30 juin 2021]<sup>3</sup>.]<sup>1</sup>
+<a name="Art.43/4" href="#Art.43/3">Art.</a> <a href="#LNK0023"> 43/4</a>.[<sup>1</sup> Une subvention complémentaire de 15% du montant subventionné du revenu d'intégration est due au centre public d'action sociale lorsque le revenu d'intégration a été octroyé à un bénéficiaire du revenu d'intégration dont [<sup>4</sup> la demande a été introduite entre le 1er juin 2020 et le 30 septembre 2021]<sup>4</sup> et qui n'a pas bénéficié du revenu d'intégration au cours des trois derniers mois précédant sa demande.
+Cette subvention complémentaire ne vaut que pour les montants de revenu d'intégration octroyés [<sup>4</sup> entre le 1er juin 2020 et le 30 septembre 2021]<sup>4</sup>.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par AR 43 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062615" target="_blank">2020-06-26/15</a>, art. 1, 026; En vigueur : 01-06-2020&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020122010" target="_blank">2020-12-20/10</a>, art. 20, 027; En vigueur : 09-01-2021&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021040210" target="_blank">2021-04-02/10</a>, art. 67, 028; En vigueur : 23-04-2021&gt;
+(<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021071803" target="_blank">2021-07-18/03</a>, art. 17, 029; En vigueur : 08-08-2021&gt;
 
 <a name="LNK0023" href="#LNKR0023">Section 5.</a> - Modalités.
 
