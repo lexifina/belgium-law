@@ -1,0 +1,30 @@
+{
+  "id": "2021042779",
+  "title": "19 AOUT 2021. - Arrêté royal portant exécution de la loi-programme du 21 juin 2021",
+  "source_title": "19 AOUT 2021. - Arrêté royal portant exécution de la loi-programme du 21 juin 2021",
+  "act": "arrete/justice/2021/2021042779",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-08-23&numac_search=2021042779&page=52&lg_txt=F&caller=list&2021042779=22&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "c8d54932e08980c9a4966b8c97460991d4cdc2cebbde24fef882ca90df6c8a2c",
+  "source_issuer": "Justice",
+  "made": "2021-08-19",
+  "published": "2021-08-23",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 août 2021; own clause: Article 1er. Le chapitre unique \" L'imposition de redevances administratives pour des infractions \" du titre 4 de la loi-programme du 21 juin 2021 entre en vigueur le même jour que le présent arrêté. | Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "23 août 2021",
+    "Numéro": "2021042779",
+    "page": "90582",
+    "Dossier numéro": "2021-08-19/01",
+    "Entrée en vigueur": "23 août 2021",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 74,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-08-23"
+}
