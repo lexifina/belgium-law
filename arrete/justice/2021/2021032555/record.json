@@ -1,0 +1,30 @@
+{
+  "id": "2021032555",
+  "title": "30 AOUT 2021. - Arrêté royal fixant l'intervention financière de l'Etat fédéral pour la maison de transition d'Enghien",
+  "source_title": "30 AOUT 2021. - Arrêté royal fixant l'intervention financière de l'Etat fédéral pour la maison de transition d'Enghien",
+  "act": "arrete/justice/2021/2021032555",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-09-02&numac_search=2021032555&page=50&lg_txt=F&caller=list&2021032555=3&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "101accb31fa423e8247b628b73c1b986f734bc946fdf2495c52b94b9d00c1ae4",
+  "source_issuer": "Justice",
+  "made": "2021-08-30",
+  "published": "2021-09-02",
+  "in_force": "2021-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2021; own clause: Art. 8. Cet arrêté entre en vigueur le 1er septembre 2021.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "2 septembre 2021",
+    "Numéro": "2021032555",
+    "page": "93832",
+    "Dossier numéro": "2021-08-30/05",
+    "Entrée en vigueur": "1 septembre 2021",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 681,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-09-01"
+}
