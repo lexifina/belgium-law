@@ -1,0 +1,30 @@
+{
+  "id": "2021010041",
+  "title": "25 AOUT 2021. - Arrêté ministériel modifiant l'arrêté ministériel du 28 octobre 2020 portant des mesures d'urgence pour limiter la propagation du coronavirus COVID-19",
+  "source_title": "25 AOUT 2021. - Arrêté ministériel modifiant l'arrêté ministériel du 28 octobre 2020 portant des mesures d'urgence pour limiter la propagation du coronavirus COVID-19",
+  "act": "arrete/interieur/2021/2021010041",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-08-26&numac_search=2021010041&page=52&lg_txt=F&caller=list&2021010041=4&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "b1dd5b872d5703c85432276d9a8843f38989f3b056d63331580c04e48ed3be4f",
+  "source_issuer": "Intérieur",
+  "made": "2021-08-25",
+  "published": "2021-08-26",
+  "in_force": "2021-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2021; own clause: Art. 20. Le présent arrêté entre en vigueur le 1er septembre 2021.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "26 août 2021",
+    "Numéro": "2021010041",
+    "page": "91536",
+    "Dossier numéro": "2021-08-25/01",
+    "Entrée en vigueur": "1 septembre 2021",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 4826,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-09-01"
+}
