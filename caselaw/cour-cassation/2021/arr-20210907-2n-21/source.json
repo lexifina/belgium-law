@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210907.2N.21",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210907.2N.21",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-07",
+  "date_as_printed": "Vonnis/arrest van 07 september 2021",
+  "published_on_juportal": "2021-09-20",
+  "language": "nl",
+  "role_number": "P.21.1125.N",
+  "case_name_as_published": "B. contra R.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RENVOI D'UN TRIBUNAL A UN AUTRE - MATIERE REPRESSIVE",
+    "VERWIJZING VAN EEN RECHTBANK NAAR EEN ANDERE - STRAFZAKEN",
+    "Requête visant le renvoi d'une cause à un autre tribunal - Suspicion légitime - Relations professionnelles et sociales entre juges d'une même juridiction - Décision sur des faits ayant trait au fonctionnement du tribunal et dont un ou plusieurs juges sont potentiellement lésés - Conséquence",
+    "Verzoek tot verwijzing van een zaak naar een andere rechtbank - Gewettigde verdenking - Professionele en sociale relaties tussen de rechters van eenzelfde rechtscollege - Uitspraak betreffende feiten die verband houden met de werking van de rechtbank en waarbij één of meerdere rechters mogelijke benadeelde zijn - Gevolg"
+  ],
+  "fiche": [
+    "VERWIJZING VAN EEN RECHTBANK NAAR EEN ANDERE - STRAFZAKEN",
+    "Verzoek tot verwijzing van een zaak naar een andere rechtbank - Gewettigde verdenking - Professionele en sociale relaties tussen de rechters van eenzelfde rechtscollege - Uitspraak betreffende feiten die verband houden met de werking van de rechtbank en waarbij één of meerdere rechters mogelijke benadeelde zijn - Gevolg"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210907.2N.21",
+  "source_sha256": "d4919935ea051d7e3c6967289fc47650ee4b02470fcb999082c24eb1145573d3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210907.2N.21_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
