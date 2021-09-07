@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210907.2N.5",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210907.2N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-07",
+  "date_as_printed": "Vonnis/arrest van 07 september 2021",
+  "published_on_juportal": "2021-09-20",
+  "language": "nl",
+  "role_number": "P.21.0561.N",
+  "case_name_as_published": "CO&CA NV",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - CONCOURS - Concours idéal",
+    "STRAF - SAMENLOOP - Eéndaadse",
+    "Unité d'intention - Jugement distinct - Demande de report de la cause en vue de présenter des éléments concernant d'autres faits punissables - Appréciation",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Concours - Unité d'intention - Jugement distinct - Demande de report de la cause en vue de présenter des éléments concernant d'autres faits punissables - Appréciation",
+    "Unité d'intention - Poursuites engagées du chef de faits punissables devant différents juges - Limite",
+    "Eenheid van opzet - Gescheiden berechting - Verzoek tot uitstel van de zaak voor het aanbrengen van gegevens over andere strafbare feiten - Beoordeling",
+    "Samenloop - Eenheid van opzet - Gescheiden berechting - Verzoek tot uitstel van de zaak voor het aanbrengen van gegevens over andere strafbare feiten - Beoordeling",
+    "Eenheid van opzet - Vervolging van strafbare feiten voor verschillende rechters - Grens"
+  ],
+  "fiche": [
+    "STRAF - SAMENLOOP - Eéndaadse",
+    "Eenheid van opzet - Gescheiden berechting - Verzoek tot uitstel van de zaak voor het aanbrengen van gegevens over andere strafbare feiten - Beoordeling",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Strafwetboek 1867 - 08-06-1867 - Art. 65, eerste lid - 01 ELI link Pub nr 1867060850",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Samenloop - Eenheid van opzet - Gescheiden berechting - Verzoek tot uitstel van de zaak voor het aanbrengen van gegevens over andere strafbare feiten - Beoordeling",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Strafwetboek 1867 - 08-06-1867 - Art. 65, eerste lid - 01 ELI link Pub nr 1867060850",
+    "STRAF - SAMENLOOP - Eéndaadse",
+    "Eenheid van opzet - Vervolging van strafbare feiten voor verschillende rechters - Grens",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 65, eerste lid - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210907.2N.5",
+  "source_sha256": "a8e41d937e0c2811191cee9b6d5f32b4480643a5a2d48eb6882f4fb6cf85a322",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210907.2N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
