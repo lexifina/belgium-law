@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210914.2N.5",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210914.2N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2021",
+  "published_on_juportal": "2021-09-22",
+  "language": "nl",
+  "role_number": "P.21.0560.N",
+  "case_name_as_published": "K.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 37",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 37",
+    "Article 37/1 - Ethylotest antidémarrage - Pas de condition d'alcoolisme - Conditions",
+    "Artikel 37/1 - Alcoholslot - Geen vereiste van een alcoholverslaving - Voorwaarden"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 37",
+    "Artikel 37/1 - Alcoholslot - Geen vereiste van een alcoholverslaving - Voorwaarden",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 37/1, § 1 - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210914.2N.5",
+  "source_sha256": "fc91fbd3cf7b14cfb3406fef1403a14588bd00a32716fcb67fc4420805cbde27",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210914.2N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
