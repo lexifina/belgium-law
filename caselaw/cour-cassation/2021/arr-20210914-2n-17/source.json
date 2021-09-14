@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210914.2N.17",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210914.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2021",
+  "published_on_juportal": "2021-09-22",
+  "language": "nl",
+  "role_number": "P.20.0199.N",
+  "case_name_as_published": "G. contra F.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INSTRUCTION EN MATIERE REPRESSIVE - INSTRUCTION - Règlement de la procédure",
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regeling van de rechtspleging",
+    "Arrêt ordonnant des actes d'instruction complémentaires - Non-lieu - Appel - Plénitude de juridiction - Possibilité de statuer sur le règlement de la procédure - Changement de circonstances - Conséquence",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Règlement de la procédure - Arrêt ordonnant des actes d'instruction complémentaires - Non-lieu - Appel - Plénitude de juridiction - Possibilité de statuer sur le règlement de la procédure - Changement de circonstances - Conséquence",
+    "Arrest waarbij bijkomende onderzoekshandelingen worden bevolen - Buitenvervolgingstelling - Hoger beroep - Rechtsmacht - Mogelijkheid om uitspraak te doen over de regeling van rechtspleging - Gewijzigde omstandigheden - Gevolg",
+    "Regeling van de rechtspleging - Arrest waarbij bijkomende onderzoekshandelingen worden bevolen - Buitenvervolgingstelling - Hoger beroep - Rechtsmacht - Mogelijkheid om uitspraak te doen over de regeling van rechtspleging - Gewijzigde omstandigheden - Gevolg"
+  ],
+  "fiche": [
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regeling van de rechtspleging",
+    "Arrest waarbij bijkomende onderzoekshandelingen worden bevolen - Buitenvervolgingstelling - Hoger beroep - Rechtsmacht - Mogelijkheid om uitspraak te doen over de regeling van rechtspleging - Gewijzigde omstandigheden - Gevolg",
+    "Gerechtelijk Wetboek - Eerste deel: ALGEMENE BEGINSELEN. (art. 1 tot 57) - 10-10-1967 - Art. 19, tweede lid - 01 ELI link Pub nr 1967101052 Wetboek van Strafvordering - eerste boek (Art. 8 tot en met 136ter), zoals gewijzigd door de Wet van 11 juli 1994 betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernizering van de strafrechtspleging - 17-11-1808 - Art. 61quinquies - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - eerste boek (Art. 8 tot en met 136ter), zoals gewijzigd door de Wet van 11 juli 1994 betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernizering van de strafrechtspleging - 17-11-1808 - Art. 127 - 30 ELI link Pub nr 1808111701",
+    "ONDERZOEKSGERECHTEN",
+    "Regeling van de rechtspleging - Arrest waarbij bijkomende onderzoekshandelingen worden bevolen - Buitenvervolgingstelling - Hoger beroep - Rechtsmacht - Mogelijkheid om uitspraak te doen over de regeling van rechtspleging - Gewijzigde omstandigheden - Gevolg",
+    "Gerechtelijk Wetboek - Eerste deel: ALGEMENE BEGINSELEN. (art. 1 tot 57) - 10-10-1967 - Art. 19, tweede lid - 01 ELI link Pub nr 1967101052 Wetboek van Strafvordering - eerste boek (Art. 8 tot en met 136ter), zoals gewijzigd door de Wet van 11 juli 1994 betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernizering van de strafrechtspleging - 17-11-1808 - Art. 61quinquies - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - eerste boek (Art. 8 tot en met 136ter), zoals gewijzigd door de Wet van 11 juli 1994 betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernizering van de strafrechtspleging - 17-11-1808 - Art. 127 - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210914.2N.17",
+  "source_sha256": "fdac51051216a47077e41d528824ca1247ecf6e1acfacb0ae3c3d3d5bd7cb779",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210914.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
