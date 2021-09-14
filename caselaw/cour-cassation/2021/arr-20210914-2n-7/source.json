@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210914.2N.7",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210914.2N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2021",
+  "published_on_juportal": "2021-09-22",
+  "language": "nl",
+  "role_number": "P.21.0530.N",
+  "case_name_as_published": "R.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Taux de la peine - Circonstances factuelles portant sur la gravité des faits et la personnalité de l'auteur - Faits qualifiés infraction - Présomption d'innocence - Limite",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 2",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.2",
+    "Taux de la peine - Circonstances factuelles portant sur la gravité des faits et la personnalité de l'auteur - Faits qualifiés infraction - Présomption d'innocence - Portée",
+    "Straftoemeting - Feitelijke omstandigheden omtrent de ernst van de feiten en de persoonlijkheid van de dader - Feiten als een misdrijf omschreven - Vermoeden van onschuld - Grens",
+    "Straftoemeting - Feitelijke omstandigheden omtrent de ernst van de feiten en de persoonlijkheid van de dader - Feiten als een misdrijf omschreven - Vermoeden van onschuld - Draagwijdte"
+  ],
+  "fiche": [
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Straftoemeting - Feitelijke omstandigheden omtrent de ernst van de feiten en de persoonlijkheid van de dader - Feiten als een misdrijf omschreven - Vermoeden van onschuld - Grens",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.2",
+    "Straftoemeting - Feitelijke omstandigheden omtrent de ernst van de feiten en de persoonlijkheid van de dader - Feiten als een misdrijf omschreven - Vermoeden van onschuld - Draagwijdte"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210914.2N.7",
+  "source_sha256": "2bbbcde859e798577d88e9e4bff05886036989b27a7286b55f7cc1e41143e0ee",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210914.2N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
