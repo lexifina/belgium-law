@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210914.2N.16",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210914.2N.16",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2021",
+  "published_on_juportal": "2021-09-22",
+  "language": "nl",
+  "role_number": "P.21.0872.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Demande visant la suspension ou le sursis à l'exécution - Motivation - Portée",
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Demande visant la suspension ou le sursis à l'exécution - Obligation de motivation - Portée",
+    "Verzoek om opschorting of uitstel van de tenuitvoerlegging - Motivering - Draagwijdte",
+    "Verzoek om opschorting of uitstel van de tenuitvoerlegging - Motiveringsplicht - Draagwijdte"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Verzoek om opschorting of uitstel van de tenuitvoerlegging - Motivering - Draagwijdte",
+    "Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 3, vierde lid - 30 ELI link Pub nr 1964062906 Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 8, vierde lid - 30 ELI link Pub nr 1964062906 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 195 - 30 ELI link Pub nr 1808111901",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Verzoek om opschorting of uitstel van de tenuitvoerlegging - Motiveringsplicht - Draagwijdte",
+    "Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 3, vierde lid - 30 ELI link Pub nr 1964062906 Wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie - 29-06-1964 - Art. 8, vierde lid - 30 ELI link Pub nr 1964062906 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 195 - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210914.2N.16",
+  "source_sha256": "27e6cef4262312eb55758089569c10c894d3a93eb6bd3a5b2599c55512b87af5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210914.2N.16_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
