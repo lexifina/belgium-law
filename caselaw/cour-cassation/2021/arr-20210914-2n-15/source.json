@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210914.2N.15",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210914.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-14",
+  "date_as_printed": "Vonnis/arrest van 14 september 2021",
+  "published_on_juportal": "2021-09-22",
+  "language": "nl",
+  "role_number": "P.21.0685.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 38",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Déchéance du droit de conduire - Conditions",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 30",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 30",
+    "Article 30, § 2 - Déchéance du droit de conduire à titre de peine accessoire - Conditions",
+    "Verval van het recht tot sturen - Voorwaarden",
+    "Artikel 30, § 2 - Verval van het recht tot sturen als bijkomende straf - Voorwaarden"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Verval van het recht tot sturen - Voorwaarden",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 30, § 2 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 30",
+    "Artikel 30, § 2 - Verval van het recht tot sturen als bijkomende straf - Voorwaarden",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 30, § 2 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210914.2N.15",
+  "source_sha256": "3e9207f65c3ca5d1cbd6bc851e4372f1b3be477640caccfecca2ff195342dd9f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210914.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
