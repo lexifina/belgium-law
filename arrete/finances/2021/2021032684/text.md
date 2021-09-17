@@ -1,0 +1,7 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 2 de l'arrêté royal du 22 octobre 2017 portant exécution, en ce qui concerne la Région wallonne, de l'article 16 de la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance, les modifications suivantes sont apportées :
+1) au paragraphe 1er, alinéa 2, les mots "période d'application de six ans" sont remplacés par les mots "période d'application de sept ans et six mois" et les mots "au plus tard le 31 octobre 2023" sont remplacés par les mots "au plus tard le 30 avril 2025" ;
+2) au paragraphe 2, alinéa 2, les mots "période d'application de six ans" sont remplacés par les mots "période d'application de sept ans et six mois", et les mots "au plus tard le 31 octobre 2023" sont remplacés par les mots "au plus tard le 30 avril 2025" ;
+3) au paragraphe 3, alinéa 2, les mots "période d'application de six ans" sont remplacés par les mots "période d'application de sept ans et six mois", et les mots "au plus tard le 31 octobre 2023" sont remplacés par les mots "au plus tard le 30 avril 2025" ;
+4) au paragraphe 4, alinéa 2, les mots "période d'application de six ans" sont remplacés par les mots "période d'application de sept ans et six mois", et les mots "au plus tard le 31 octobre 2023" sont remplacés par les mots "au plus tard le 30 avril 2025".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
