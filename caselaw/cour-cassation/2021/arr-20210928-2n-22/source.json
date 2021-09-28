@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20210928.2N.22",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20210928.2N.22",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-09-28",
+  "date_as_printed": "Vonnis/arrest van 28 september 2021",
+  "published_on_juportal": "2021-10-08",
+  "language": "nl",
+  "role_number": "P.21.1204.N",
+  "case_name_as_published": "F.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "VOORLOPIGE HECHTENIS - VONNISGERECHT",
+    "Requête de mise en liberté provisoire d'un prévenu en détention - Modalité de la surveillance électronique - Conditions",
+    "CONSTITUTION - GENERALITES",
+    "GRONDWET - ALGEMEEN",
+    "Principe d'égalité - Lacune dans la loi dont la Cour constitutionnelle a constaté l'inconstitutionnalité - Mission du juge de remédier aux lacunes de la loi pour la rendre conforme aux articles 10 et 11 de la Constitution - Détention préventive - Règlement de la procédure - Maintien de la détention préventive sous la modalité de l'exécution en prison - Requête de mise en liberté provisoire - Modalité de la surveillance électronique - Conditions",
+    "Verzoekschrift tot voorlopige invrijheidstelling van een aangehouden beklaagde - Modaliteit van elektronisch toezicht - Voorwaarden",
+    "Gelijkheidsbeginsel - Leemte in de wet waarvan het Grondwettelijk Hof de ongrondwettigheid heeft vastgesteld - Taak van de rechter om leemten in de wet te verhelpen om ze in overeenstemming te brengen met de artikelen 10 en 11 Grondwet - Voorlopige hechtenis - Regeling van de rechtspleging - Handhaving van de voorlopige hechtenis onder de modaliteit van uitvoering in de gevangenis - Verzoekschrift tot voorlopige invrijheidstelling - Modaliteit van elektronisch toezicht - Voorwaarden"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - VONNISGERECHT",
+    "Verzoekschrift tot voorlopige invrijheidstelling van een aangehouden beklaagde - Modaliteit van elektronisch toezicht - Voorwaarden",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 26, § 3 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 27, § 1 - 35 ELI link Pub nr 1990099963",
+    "GRONDWET - ALGEMEEN",
+    "Gelijkheidsbeginsel - Leemte in de wet waarvan het Grondwettelijk Hof de ongrondwettigheid heeft vastgesteld - Taak van de rechter om leemten in de wet te verhelpen om ze in overeenstemming te brengen met de artikelen 10 en 11 Grondwet - Voorlopige hechtenis - Regeling van de rechtspleging - Handhaving van de voorlopige hechtenis onder de modaliteit van uitvoering in de gevangenis - Verzoekschrift tot voorlopige invrijheidstelling - Modaliteit van elektronisch toezicht - Voorwaarden",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 26, § 3 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 27, § 1 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20210928.2N.22",
+  "source_sha256": "3cfa8cf706c6df456dc7e58ab451d89f4706fd76c46e1a40141e985c81420b45",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20210928.2N.22_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
