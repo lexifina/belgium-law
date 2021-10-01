@@ -1,0 +1,30 @@
+{
+  "id": "2021033203",
+  "title": "24 SEPTEMBRE 2021. - Arrêté ministériel maintenant dans le second canton judiciaire d'Eupen-Saint-Vith un lieu d'audience à Saint-Vith",
+  "source_title": "24 SEPTEMBRE 2021. - Arrêté ministériel maintenant dans le second canton judiciaire d'Eupen-Saint-Vith un lieu d'audience à Saint-Vith",
+  "act": "arrete/justice/2021/2021033203",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-09-30&numac_search=2021033203&page=40&lg_txt=F&caller=list&2021033203=24&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "5e0a9f46a254fcc0ac8ffdb78e35fddb09165918ebbe3cb775b4f4e380ea23b7",
+  "source_issuer": "Justice",
+  "made": "2021-09-24",
+  "published": "2021-09-30",
+  "in_force": "2021-10-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 octobre 2021; own clause: Art. 2. Le présent arrêté entre en vigueur le 1er octobre 2021 et cesse d'être en vigueur le 31 décembre 2023.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "30 septembre 2021",
+    "Numéro": "2021033203",
+    "page": "104275",
+    "Dossier numéro": "2021-09-24/01",
+    "Entrée en vigueur": "1 octobre 2021",
+    "Fin de validit&eacute": "31 décembre 2023"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 95,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-10-01"
+}
