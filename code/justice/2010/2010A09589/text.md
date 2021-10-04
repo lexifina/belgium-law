@@ -273,7 +273,7 @@ c) sont également assimilés à l'employeur :
 <a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0009"> 17</a>.[<sup>1</sup> § 1.]<sup>1</sup> Les autorités chargées de la surveillance
 Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi, les fonctionnaires désignés par les autorités compétentes, ainsi que les inspecteurs sociaux surveillent le respect des dispositions du présent Code, des lois visées au Livre 2 du présent Code et des autres lois dont ils sont chargés de surveiller le respect, et le respect des dispositions des arrêtés d'exécution du présent Code et des lois précitées.
 Le Roi désigne les lois et les arrêtés d'exécution pour lesquels les services dont les inspecteurs sociaux relèvent sont compétents.
-[<sup>1</sup> § 2. Sans préjudice de la compétence des fonctionnaires de police, sont chargés de surveiller dans les entreprises le respect des obligations prévues dans le cadre des mesures d'urgence prises par le Ministre de l'Intérieur pour limiter la propagation du coronavirus COVID-19, visées à l'article 238 du présent Code, les inspecteurs sociaux des services ou institutions suivants :
+[<sup>1</sup> § 2. Sans préjudice de la compétence des fonctionnaires de police, sont chargés de surveiller dans les entreprises le respect des obligations prévues dans le cadre [<sup>2</sup> des mesures nécessaires en vue de prévenir ou de limiter les conséquences de la situation d'urgence épidémique pour la santé publique, prises en application des articles 4 et 5 de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique]<sup>2</sup>, visées à l'article 238 du présent Code, les inspecteurs sociaux des services ou institutions suivants :
 - la Direction générale Contrôle des Lois Sociales du Service Public Fédéral Emploi, Travail et Concertation sociale;
 - la Direction générale Contrôle du Bien-être au Travail du Service Public Fédéral Emploi, Travail et Concertation sociale;
 - l'Office national de Sécurité sociale;
@@ -285,6 +285,7 @@ Pour l'application du présent article, on entend par " entreprises " les " lieu
 Pour exercer la surveillance visée à l'alinéa 1er, les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 42 et 43 à 49 du présent Code.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;AR 37 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 14, 045; En vigueur : 03-07-2020&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021081401" target="_blank">2021-08-14/01</a>, art. 13, 050; En vigueur : 04-10-2021&gt;
 
 <a name="LNK0009" href="#LNKR0009">CHAPITRE 2.</a> - Les pouvoirs des inspecteurs sociaux et la qualité d'officier de police judiciaire
 
@@ -2977,11 +2978,13 @@ Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandatair
 <a name="LNK0121" href="#LNKR0121">CHAPITRE 12.</a> [<sup>1</sup> Les obligations prévues dans le cadre des [<sup>2</sup> mesures lors d'une situation d'urgence épidémique]<sup>2</sup>]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 16, 045; En vigueur : 03-07-2020&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021081401" target="_blank">2021-08-14/01</a>, art. 14, 050; En vigueur : 04-10-2021&gt;
 
-<a name="Art.238" href="#Art.237">Art.</a> 238.[<sup>1</sup> Les obligations prévues dans le cadre des mesures d'urgence pour limiter la propagation du coronavirus COVID-19
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou mandataire, ou quiconque qui, dans les entreprises, n'a pas respecté les obligations prévues à l'article 15 de l'arrêté de pouvoirs spéciaux n° 37 pris en exécution des articles 2 et 5 de la loi du 27 mars 2020 accordant des pouvoirs au Roi afin de prendre des mesures dans la lutte contre la propagation du coronavirus COVID-19(II) visant à soutenir les travailleurs [<sup>2</sup> ou à l'article 29 de la loi du 4 juillet 2021 portant des mesures de soutien temporaires en raison de la pandémie de COVID-19]<sup>2</sup>.
+<a name="Art.238" href="#Art.237">Art.</a> 238.[<sup>1</sup> Les obligations prévues dans le cadre des [<sup>3</sup> mesures lors d'une situation d'urgence épidémique]<sup>3</sup>
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou mandataire, ou quiconque qui, dans les entreprises, n'a pas respecté [<sup>3</sup> les mesures nécessaires en vue de prévenir ou de limiter les conséquences de la situation d'urgence épidémique pour la santé publique, prises en application des articles 4 et 5 de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique]<sup>3</sup> [<sup>2</sup> ou à l'article 29 de la loi du 4 juillet 2021 portant des mesures de soutien temporaires en raison de la pandémie de COVID-19]<sup>2</sup>. [<sup>3</sup> Les obligations imposées dans le cadre des mesures prises en application de l'article 4 de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique doivent être respectées dans les entreprises comme mesures de prévention pour assurer la protection de la santé et de la sécurité des travailleurs.]<sup>3</sup>
 Pour l'application du présent article, on entend par " entreprises " les " lieux de travail " tels que définis à l'article 16, 10°, du présent Code.
 En ce qui concerne les infractions visées à l'alinéa 1er, commises par l'employeur, son préposé ou mandataire, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par AR 37 <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 17, 045; En vigueur : 03-07-2020&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070403" target="_blank">2021-07-04/03</a>, art. 30, 048; En vigueur : 13-07-2021&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021081401" target="_blank">2021-08-14/01</a>, art. 15, 050; En vigueur : 04-10-2021&gt;
