@@ -1,0 +1,12 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans le Règlement d'ordre intérieur du Comité de direction du SPF Justice publié au Moniteur belge du 8 avril 2003, dont la dernière modification est publiée au Moniteur belge du 21 septembre 2020, l'article 23bis, remplacé par la modification du Règlement d'ordre intérieur publiée au Moniteur belge du 16 mai 2018 et modifié par la modification du Règlement d'ordre intérieur publiée au Moniteur belge du 2 juillet 2019, est remplacé par ce qui suit:
+" Art.23bis. § 1. Le Comité de direction examine la procédure suivie ainsi que la recevabilité des candidatures.
+§ 2. En vue de l'évaluation des titres et mérites des candidats, les compétences techniques et/ou génériques ainsi que la motivation et la vision des candidats sont évaluées dans le cadre d'une ou plusieurs épreuves selon les modalités stipulées dans l'avis de vacance d'emploi.
+Sans préjudice des éléments repris dans le dossier personnel des candidats, les propositions de nomination sont établies sur base du classement issu des résultats de l'évaluation devant le jury de sélection. A cette fin, le Comité de direction procède à un vote au scrutin secret sur la proposition de nomination qui lui est soumise par le Service d'encadrement Personnel et Organisation à l'issue de la phase d'évaluation.
+§ 3. Les cinq premiers candidats sont présentés au Ministre.
+Aux fins d'informer le Ministre, les autres candidats sont ajoutés à la liste, et ce classés par ordre alphabétique.
+§ 4. En cas de prise en considération de la réclamation motivée d'un candidat contre la proposition du Comité de Direction dans une procédure de promotion à la classe supérieure, le Comité de Direction procèdera à un réexamen du dossier en tenant compte des motifs invoqués dans sa lettre de réclamation.
+§ 5. Les dispositions du présent chapitre sont également applicables pour la désignation par mandat (A5) pour la fonction de Directeur régional-Etablissements pénitentiaires. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les procédures de promotion qui sont en cours à la date d'entrée en vigueur de la présente modification du Règlement d'ordre intérieur restent régies par les dispositions en vigueur avant cette date.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. La présente modification du Règlement d'ordre intérieur entre en vigueur le jour de sa publication au Moniteur belge.
