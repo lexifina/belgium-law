@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0001"> 2</a>. Assentiment est donné à l'accord de coopération visant à la modification d'accord de coopération du 14 juillet 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement des données liées au certificat COVID numérique de l'UE et au COVID Safe Ticket, le PLF et le traitement des données à caractère personnel des travailleurs salariés et des travailleurs indépendants vivant ou résidant à l'étranger qui effectuent des activités en Belgique, conclu à Bruxelles, le 27 septembre 2021, annexé à la présente loi.
+
+<a name="LNK0001" href="#LNKR0001">ANNEXE.</a>
+
+<a name="Art.N" href="#Art.2">Art.</a> N. Accord de coopération du 27 septembre 2021 visant à la modification d'accord de coopération du 14 juillet 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement des données liées au certificat COVID numérique de l'UE et au COVID Safe Ticket, le PLF et le traitement des données à caractère personnel des travailleurs salariés et des travailleurs indépendants vivant ou résidant à l'étranger qui effectuent des activités en Belgique
+(NOTE : pour l'Accord de coopération, voir )
