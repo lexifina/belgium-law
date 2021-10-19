@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211019.2N.25",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211019.2N.25",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-10-19",
+  "date_as_printed": "Vonnis/arrest van 19 oktober 2021",
+  "published_on_juportal": "2021-10-22",
+  "language": "nl",
+  "role_number": "P.21.1235.N",
+  "case_name_as_published": "N.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MISE EN LIBERTE PROVISOIRE",
+    "VOORLOPIGE HECHTENIS - VOORLOPIGE INVRIJHEIDSTELLING",
+    "Loi du 20 juillet 1990 relative à la détention préventive, article 27, § 4 - Nouvelle requête - Délai - Recours - Portée - Recevabilité",
+    "Artikel 27, § 4, Voorlopige Hechteniswet - Nieuw verzoekschrift - Termijn - Rechtsmiddelen - Draagwijdte - Ontvankelijkheid"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - VOORLOPIGE INVRIJHEIDSTELLING",
+    "Artikel 27, § 4, Voorlopige Hechteniswet - Nieuw verzoekschrift - Termijn - Rechtsmiddelen - Draagwijdte - Ontvankelijkheid",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 27, § 4 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211019.2N.25",
+  "source_sha256": "f1e5258762fbc19394c935440767b58bbb94a9b5a0ab8ca21f32c9efc3c54c2a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211019.2N.25_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/23/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
