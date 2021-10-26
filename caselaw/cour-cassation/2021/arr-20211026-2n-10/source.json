@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211026.2N.10",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211026.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-10-26",
+  "date_as_printed": "Vonnis/arrest van 26 oktober 2021",
+  "published_on_juportal": "2021-11-08",
+  "language": "nl",
+  "role_number": "P.21.1098.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - IMMATRICULATION DES VEHICULES",
+    "WEGVERKEER - INSCHRIJVING VAN VOERTUIGEN",
+    "Obligation générale d'immatriculation - Plaques commerciales - Conditions",
+    "Algemene inschrijvingsplicht - Commerciële kentekenplaten - Voorwaarden"
+  ],
+  "fiche": [
+    "WEGVERKEER - INSCHRIJVING VAN VOERTUIGEN",
+    "Algemene inschrijvingsplicht - Commerciële kentekenplaten - Voorwaarden",
+    "KB 20 juli 2001 betreffende de inschrijving van voertuigen - 20-07-2001 - Art. 2 - 35 ELI link Pub nr 2001014153 KB 8 januari 1996 tot regeling van de inschrijving van de commerciële kentekenplaten voor motorvoertuigen en aanhangwagens - 08-01-1996 - Art. 3 - 44 Link Justel databank 19960108-44"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211026.2N.10",
+  "source_sha256": "e7b3a25f0812de3e723cf9d763fc792d396808c970875d4f68c43819b420e9d3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211026.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
