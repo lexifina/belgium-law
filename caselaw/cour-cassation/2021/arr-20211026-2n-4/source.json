@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211026.2N.4",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211026.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-10-26",
+  "date_as_printed": "Vonnis/arrest van 26 oktober 2021",
+  "published_on_juportal": "2021-11-08",
+  "language": "nl",
+  "role_number": "P.21.0982.N",
+  "case_name_as_published": "R.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Formes - Forme et délai de signification et-ou de dépôt",
+    "CASSATIEBEROEP - STRAFZAKEN - Vormen - Vorm en termijn van betekening en-of neerlegging",
+    "Saisie pénale dans le cadre d'une demande d'entraide judiciaire internationale - Requête en levée de la saisie - Décision de la chambre des mises en accusation - Personne poursuivie - Exigence de signification - Mémoire - Notification - Conséquences",
+    "ENTRAIDE JUDICIAIRE INTERNATIONALE",
+    "INTERNATIONALE RECHTSHULP",
+    "Saisie pénale en Belgique - Requête en levée de la saisie - Décision de la chambre des mises en accusation - Pourvoi en cassation - Personne poursuivie - Exigence de signification du pourvoi - Mémoire - Notification - Conséquences",
+    "Strafrechtelijk beslag in het kader van een internationaal rechtshulpverzoek - Verzoek tot opheffing van het beslag - Beslissing Kamer van Inbeschuldigingstelling - Vervolgde persoon - Vereiste van betekening - Memorie - Kennisgeving - Gevolgen",
+    "Strafrechtelijk beslag in België - Verzoek tot opheffing van het beslag - Beslissing Kamer van Inbeschuldigingstelling - Cassatieberoep - Vervolgde persoon - Vereiste van betekening van het cassatieberoep - Memorie - Kennisgeving - Gevolgen"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Vormen - Vorm en termijn van betekening en-of neerlegging",
+    "Strafrechtelijk beslag in het kader van een internationaal rechtshulpverzoek - Verzoek tot opheffing van het beslag - Beslissing Kamer van Inbeschuldigingstelling - Vervolgde persoon - Vereiste van betekening - Memorie - Kennisgeving - Gevolgen",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 427, eerste lid - 30 ELI link Pub nr 1808121050 Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 429 - 30 ELI link Pub nr 1808121050",
+    "INTERNATIONALE RECHTSHULP",
+    "Strafrechtelijk beslag in België - Verzoek tot opheffing van het beslag - Beslissing Kamer van Inbeschuldigingstelling - Cassatieberoep - Vervolgde persoon - Vereiste van betekening van het cassatieberoep - Memorie - Kennisgeving - Gevolgen",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 427, eerste lid - 30 ELI link Pub nr 1808121050 Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 429 - 30 ELI link Pub nr 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211026.2N.4",
+  "source_sha256": "825e64c521caf11ec02b533eab79404538ee2145002d7bfbea54fa6f81fcf3e1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211026.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
