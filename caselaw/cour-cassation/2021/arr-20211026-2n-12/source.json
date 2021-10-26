@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211026.2N.12",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211026.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-10-26",
+  "date_as_printed": "Vonnis/arrest van 26 oktober 2021",
+  "published_on_juportal": "2021-11-08",
+  "language": "nl",
+  "role_number": "P.21.0959.N",
+  "case_name_as_published": "C. contra DE LAGE LANDEN LEASING NV",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Appel - Aggravation de la peine - Unanimité - Peine d'emprisonnement principale - Diminution - Peines accessoires - Conséquences",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Aggravation de la peine - Unanimité - Peine d'emprisonnement principale - Diminution - Peines accessoires - Conséquences",
+    "Hoger beroep - Strafverzwaring - Eenstemmigheid - Hoofdgevangenisstraf - Verlaging - Bijkomende straffen - Gevolgen",
+    "Strafverzwaring - Eenstemmigheid - Hoofdgevangenisstraf - Verlaging - Bijkomende straffen - Gevolgen"
+  ],
+  "fiche": [
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Hoger beroep - Strafverzwaring - Eenstemmigheid - Hoofdgevangenisstraf - Verlaging - Bijkomende straffen - Gevolgen",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 211bis - 30 ELI link Pub nr 1808111901",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Strafverzwaring - Eenstemmigheid - Hoofdgevangenisstraf - Verlaging - Bijkomende straffen - Gevolgen",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 211bis - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211026.2N.12",
+  "source_sha256": "0b9a420334dcd1afa6e5d06fd8c8e1a160499c98c16d13e013e9033368f02f24",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211026.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
