@@ -1,0 +1,39 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2021:ARR.20211029.1F.3",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211029.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-10-29",
+  "date_as_printed": "Jugement/arrêt du 29 octobre 2021",
+  "published_on_juportal": "2021-11-29",
+  "language": "fr",
+  "role_number": "C.21.0007.F",
+  "case_name_as_published": "B. contra ELECTRABEL s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "Action des marchands pour les marchandises vendues à des particuliers non marchands - Délai - Un an - Fondement - Condition",
+    "Action des marchands pour les marchandises vendues à des particuliers non marchands - Délai - Cinq ans - Fondement - Condition",
+    "Rechtsvordering van kooplieden wegens de koopwaren die zij verkopen aan personen die geen koopman zijn - Termijn - Een jaar - Grond - Voorwaarde",
+    "Rechtsvordering van kooplieden wegens de koopwaren die zij verkopen aan personen die geen koopman zijn - Termijn - Vijf jaar - Grond - Voorwaarde"
+  ],
+  "fiche": [
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "Action des marchands pour les marchandises vendues à des particuliers non marchands - Délai - Un an - Fondement - Condition",
+    "ancien Code Civil - 21-03-1804 - Art. 2272 - 30 Lien ELI No pub 1804032150",
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "Action des marchands pour les marchandises vendues à des particuliers non marchands - Délai - Cinq ans - Fondement - Condition",
+    "ancien Code Civil - 21-03-1804 - Art. 2272 - 30 Lien ELI No pub 1804032150",
+    "BJS-Bulletin juridique social - 2022, n° 687, p. 3. - BEDORET, Christophe; Note'La courte prescription et l'écrit qui émane du créancier' JJP-Journal des juges de paix (et de police) - 2022, n° 11-12, p. 581-582. - BIQUET-MATHIEU, Christine; Note'Prescription présomptive de paiement, facture et fourniture d'énergie'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211029.1F.3",
+  "source_sha256": "b4f89e23fe1cfbe137b511b7ed8fb9aaa5682f0074ec141cee8cd44b1116f56f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211029.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/23/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
