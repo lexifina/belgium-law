@@ -1,0 +1,21 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La loterie à billets " Winners Club " est une loterie organisée par la Loterie Nationale. Elle est organisée conformément à l'arrêté royal du 27 avril 2018 fixant les modalités générales d'émission des loteries publiques organisées par la Loterie Nationale sous forme de loteries à billets.
+Par dérogation à l'article 1, alinéa 1er, de l'arrêté royal visé à l'alinéa 1er, " Winners Club " est une loterie à billets dont les lots sont exclusivement attribués sans tirage au sort par l'indication sur le billet, selon une répartition déterminée par le hasard, qu'un certain lot est obtenu.
+Le nombre de billets de chaque émission est fixé par la Loterie Nationale soit à 825.000, soit en multiples de 825.000.
+Le prix de vente d'un billet est fixé à 3 euros.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Par quantité de 825.000 billets émis, le nombre de lots est fixé à 825.000, lesquels se répartissent selon le tableau reproduit ci-dessous:
+
+<table border="1"><tr><td valign="top">Nombre de lots Aantal loten </td><td valign="top">Montant des lots (euros) Bedrag van de loten (euro) </td><td valign="top">Montant total des lots (euros) - Totaal bedrag van de loten (euro) </td><td valign="top">1 chance de gain sur 1 winstkans op </td></tr><tr><td valign="top">1 </td><td valign="top">10.000 </td><td valign="top">10.000 </td><td valign="top">825.000 </td></tr><tr><td valign="top">20 </td><td valign="top">500 </td><td valign="top">10.000 </td><td valign="top">41.250 </td></tr><tr><td valign="top">125 </td><td valign="top">250 </td><td valign="top">31.250 </td><td valign="top">6.600 </td></tr><tr><td valign="top">250 </td><td valign="top">100 </td><td valign="top">25.000 </td><td valign="top">3.300 </td></tr><tr><td valign="top">1.000 </td><td valign="top">25 </td><td valign="top">25.000 </td><td valign="top">825 </td></tr><tr><td valign="top">4.000 </td><td valign="top">10 </td><td valign="top">40.000 </td><td valign="top">206,25 </td></tr><tr><td valign="top">8.000 </td><td valign="top">5 </td><td valign="top">40.000 </td><td valign="top">103,13 </td></tr><tr><td valign="top">811.604 </td><td valign="top">2 </td><td valign="top">1.623.208 </td><td valign="top">1,02 </td></tr><tr><td valign="top">TOTAL-TOTAAL 825.000 </td><td valign="top"> </td><td valign="top">TOTAL<br>  TOTAAL 1.804.458 </td><td valign="top">TOTAL<br>  TOTAAL 1,00</td></tr></table>
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er. Le recto du billet présente une zone de jeu, recouverte d'une pellicule opaque à gratter par le joueur.
+Au-dessus de la pellicule opaque de la zone de jeu est imprimée la mention " GAIN-WINST-GEWINN ".
+§ 2. Après grattage de la pellicule opaque recouvrant la zone de jeu apparaît la mention "GAIN-WINST-GEWINN" et un montant de lot en chiffres arabes précédé du symbole "€" qui est sélectionné parmi les lots visés à l'article 2.
+Le joueur gagne le montant de lot en chiffres arabes précédé du symbole "€" mentionné dans la zone de jeu. Chaque billet est gagnant, étant donné que chaque billet attribue un lot d'au moins 2 euros.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Pour l'application du processus qui garantit une répartition harmonieuse des billets attribuant des lots de petite valeur sur l'ensemble des billets imprimés, les lots de petite valeur sont fixés à un montant unitaire ne dépassant pas 10 euros. La somme des lots de petite valeur attribués aux billets contenus dans un même paquet emballé sous cellophane correspond à un montant qui, fixé par la Loterie Nationale, ne peut être inférieur à 50 euros.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. L'arrêté royal du 16 octobre 2015 fixant les modalités d'émission de la loterie à billets, appelée "Winners Club", loterie publique organisée par la Loterie Nationale, est abrogé.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Le ministre qui a la Loterie Nationale dans ses attributions est chargé de l'exécution du présent arrêté.
