@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'Institut wallon de l'évaluation, de la prospective et de la statistique institué par le décret du 4 décembre 2003 de la Région wallonne relatif à la création de l'Institut wallon de l'évaluation, de la prospective et de la statistique a, via une connexion sécurisée, accès à l'échantillon représentatif permanent visé à l'article 278, alinéa 5, de la loi-programme (I) du 24 décembre 2002.
+L'accès visé à l'alinéa 1er est soumis aux conditions fixées par l'article 278 de la loi-programme (I) du 24 décembre 2002 et par l'arrêté royal du 9 mai 2007 portant exécution de l'article 278 de la loi-programme (I) du 24 décembre 2002 ainsi qu'aux décisions de de Commission technique instituée par l'article 278 susvisé.
+L'organisme visé à l'alinéa 1er paye, à l'agence intermutualiste une indemnisation forfaitaire annuelle de 2 600 euros pour la mise à disposition de l'échantillon représentatif permanent, ainsi que pour le soutien technique qui y est attaché.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le Ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
