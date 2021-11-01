@@ -1,0 +1,6 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le § 12bis, 3, d), de l'article 27 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, modifié en dernier lieu par l'arrêté royal du 1er décembre 2020, est remplacé par :
+"d) A chaque délivrance de bas élastiques thérapeutiques pour la jambe, les mesures du bénéficiaire doivent être prises. Le prestataire doit conserver dans le dossier du bénéficiaire les mensurations et adaptations et tous les éléments relatifs aux prescriptions médicales successives. Le dossier peut être demandé par le médecin-conseil. La confection sur mesure est utilisée pour les bénéficiaires présentant de grandes différences de mesures et/ou des formes anormales qui ne correspondent à aucun schéma d'une confection préfabriquée, comme un décalage entre les mesures de tour ou de longueur de la partie inférieure et supérieure de la jambe. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui au cours duquel il aura été publié au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
