@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. La proposition concernant la fixation du montant de la cotisation annuelle des membres de l'Institut des mandataires en brevets à 300 euros pour les deux années 2021 et 2022, ensemble, est approuvée.
