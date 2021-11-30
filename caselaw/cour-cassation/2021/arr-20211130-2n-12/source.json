@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211130.2N.12",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211130.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-11-30",
+  "date_as_printed": "Vonnis/arrest van 30 november 2021",
+  "published_on_juportal": "2021-12-08",
+  "language": "nl",
+  "role_number": "P.21.0743.N",
+  "case_name_as_published": "ARRAS (Groep Argenta) nv contra V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE REPRESSIVE - Action publique - Délais",
+    "VERJARING - STRAFZAKEN - Strafvordering - Termijnen",
+    "Délit contraventionnalisé - Poursuites pour délit d'homicide involontaire à la suite d'un accident de roulage. - Infliction d'une amende pour contravention - Conséquence",
+    "COUPS ET BLESSURES. HOMICIDE - INVOLONTAIRES",
+    "SLAGEN EN VERWONDINGEN. DODEN - ONOPZETTELIJK TOEBRENGEN VAN VERWONDINGEN EN ONOPZETTELIJK DODEN",
+    "Poursuites pour délit d'homicide involontaire à la suite d'un accident de roulage - Infliction d'une amende pour contravention - Délai de prescription - Conséquence",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Des moyens d'office",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Ambtshalve voorgedragen middelen",
+    "Poursuites pour délit d'homicide involontaire à la suite d'un accident de roulage. - Infliction d'une amende pour contravention - Conséquence",
+    "Gecontraventionaliseerd wanbedrijf - Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Gevolg",
+    "Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Verjaringstermijn - Gevolg",
+    "Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Gevolg"
+  ],
+  "fiche": [
+    "VERJARING - STRAFZAKEN - Strafvordering - Termijnen",
+    "Gecontraventionaliseerd wanbedrijf - Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Artt. 38, eerste lid, 418 en 419, tweede lid - 01 ELI link Pub nr 1867060850 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 21, eerste lid, 5° - 01 ELI link Pub nr 1878041750",
+    "SLAGEN EN VERWONDINGEN. DODEN - ONOPZETTELIJK TOEBRENGEN VAN VERWONDINGEN EN ONOPZETTELIJK DODEN",
+    "Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Verjaringstermijn - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Artt. 38, eerste lid, 418 en 419, tweede lid - 01 ELI link Pub nr 1867060850 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 21, eerste lid, 5° - 01 ELI link Pub nr 1878041750",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Ambtshalve voorgedragen middelen",
+    "Vervolging wegens het wanbedrijf onopzettelijke doding ten gevolge van een verkeersongeval - Opleggen van een geldboete toepasselijk voor een overtreding - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Artt. 38, eerste lid, 418 en 419, tweede lid - 01 ELI link Pub nr 1867060850 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 21, eerste lid, 5° - 01 ELI link Pub nr 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211130.2N.12",
+  "source_sha256": "95614a1166bcd97b48ddcaac0975e5ca913f544c737b5fd6f30ae5842da985d9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211130.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
