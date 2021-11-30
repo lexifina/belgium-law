@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211130.2N.23",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211130.2N.23",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-11-30",
+  "date_as_printed": "Vonnis/arrest van 30 november 2021",
+  "published_on_juportal": "2021-12-06",
+  "language": "nl",
+  "role_number": "P.21.1483.N",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Ordonnance de prise de corps - Modalité de la surveillance électronique - Conversion vers la modalité d'exécution en prison - Recevabilité du pourvoi",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Détention préventive - Ordonnance de prise de corps - Modalité de la surveillance électronique - Conversion vers la modalité d'exécution en prison",
+    "Bevel tot gevangenneming - Modaliteit van elektronisch toezicht - Omzetting naar de modaliteit van uitvoering in de gevangenis - Ontvankelijkheid van het cassatieberoep",
+    "Voorlopige hechtenis - Bevel tot gevangenneming - Modaliteit van elektronisch toezicht - Omzetting naar de modaliteit van uitvoering in de gevangenis"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Bevel tot gevangenneming - Modaliteit van elektronisch toezicht - Omzetting naar de modaliteit van uitvoering in de gevangenis - Ontvankelijkheid van het cassatieberoep",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 24bis - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 26, § 3 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31 - 35 ELI link Pub nr 1990099963",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Voorlopige hechtenis - Bevel tot gevangenneming - Modaliteit van elektronisch toezicht - Omzetting naar de modaliteit van uitvoering in de gevangenis",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 24bis - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 26, § 3 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211130.2N.23",
+  "source_sha256": "77fc12feb133a829583f5d03c585f125186215a7d3305b61e64c06c7b98a9618",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211130.2N.23_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
