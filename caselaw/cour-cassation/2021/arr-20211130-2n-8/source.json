@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211130.2N.8",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211130.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-11-30",
+  "date_as_printed": "Vonnis/arrest van 30 november 2021",
+  "published_on_juportal": "2021-12-06",
+  "language": "nl",
+  "role_number": "P.21.1045.N",
+  "case_name_as_published": "Philip Morris Benelux B.V.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POLICE SANITAIRE - POLICE SANITAIRE DE L'HOMME",
+    "GEZONDHEIDSPOLITIE - OVER DE MENS",
+    "Produits du tabac - Interdiction de publicité pour les produits de tabac - Affiches à l'intérieur et sur la devanture de magasins de journaux qui vendent des produits de tabac - Accords entre fabricant ou distributeur de produits du tabac et détaillants sur la visibilité des produits - Appréciation",
+    "Tabakswaren - Verbod op reclame voor tabaksproducten - Affiches in en aan krantenwinkels die tabaksproducten verkopen - Afspraken tussen de fabrikant of verdeler van tabakswaren en de detailhandelaars over de zichtbaarheid van de producten - Beoordeling"
+  ],
+  "fiche": [
+    "GEZONDHEIDSPOLITIE - OVER DE MENS",
+    "Tabakswaren - Verbod op reclame voor tabaksproducten - Affiches in en aan krantenwinkels die tabaksproducten verkopen - Afspraken tussen de fabrikant of verdeler van tabakswaren en de detailhandelaars over de zichtbaarheid van de producten - Beoordeling",
+    "Wet 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere produkten - 24-01-1977 - Art. 7, § 2bis, 1° en 2°, derde streepje - 31 ELI link Pub nr 1977012405"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211130.2N.8",
+  "source_sha256": "486bfa70ff13dc6c5f848e5b721420e3f86ea7cb144db525942d90ae55eb6b05",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211130.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_33.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
