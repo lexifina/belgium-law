@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211130.2N.11",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211130.2N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-11-30",
+  "date_as_printed": "Vonnis/arrest van 30 november 2021",
+  "published_on_juportal": "2021-12-06",
+  "language": "nl",
+  "role_number": "P.21.0742.N",
+  "case_name_as_published": "V. contra L.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - CODE DE LA ROUTE DU 01-12-1975 - DISPOSITIONS REGLEMENTAIRES - Article 1er",
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 1",
+    "Voie publique - Notion",
+    "Voie publique - Allée d'une habitation privée - Appréciation",
+    "Openbare weg - Begrip",
+    "Openbare weg - Oprit tot een private woning - Beoordeling"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 1",
+    "Openbare weg - Begrip",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 1, eerste lid - 31 ELI link Pub nr 1975120109 KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 8.3, tweede lid - 31 ELI link Pub nr 1975120109 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 29, § 1, derde lid - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 1",
+    "Openbare weg - Oprit tot een private woning - Beoordeling",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 1, eerste lid - 31 ELI link Pub nr 1975120109"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211130.2N.11",
+  "source_sha256": "5d807242d8c4351251065bad932ca38ff1a5c4a970388895a87cd03914872457",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211130.2N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_30.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
