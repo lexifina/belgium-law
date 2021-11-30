@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211130.2N.17",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211130.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-11-30",
+  "date_as_printed": "Vonnis/arrest van 30 november 2021",
+  "published_on_juportal": "2021-12-06",
+  "language": "nl",
+  "role_number": "P.21.1146.N",
+  "case_name_as_published": "L.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - CODE DE LA ROUTE DU 01-12-1975 - DISPOSITIONS REGLEMENTAIRES - Article 21",
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 21",
+    "Interdiction de faire marche arrière sur les autoroutes - Marche arrière sur la bande d'arrêt d'urgence d'une autoroute - Notion d'autoroute",
+    "Verbod achteruit rijden op autosnelwegen - Achteruit rijden op de pechstrook van de autosnelweg - Begrip autosnelweg"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 21",
+    "Verbod achteruit rijden op autosnelwegen - Achteruit rijden op de pechstrook van de autosnelweg - Begrip autosnelweg",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Artt. 2.3, 9.7 en 21.4, 3° - 31 ELI link Pub nr 1975120109"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211130.2N.17",
+  "source_sha256": "fb3db57b90b1ceee28f5b75dc05c1719d379ada7c4435e4bf8be60d6eb0d9f83",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211130.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/12/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
