@@ -1,0 +1,41 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211202.1N.3",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211202.1N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2021",
+  "published_on_juportal": "2022-01-06",
+  "language": "nl",
+  "role_number": "C.21.0052.N",
+  "case_name_as_published": "FLINTERSTAR III bv contra BELGISCHE STAAT",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CASSATION - ETENDUE - Généralités",
+    "CASSATIE - VERNIETIGING. OMVANG - Algemeen",
+    "Conséquences - Titre exécutoire - Restitution",
+    "SAISIE - GENERALITES",
+    "BESLAG - ALGEMEEN",
+    "Juge des saisies - Juridiction - Commandement de payer - Validité",
+    "Gevolgen - Uitvoerbare titel - Restitutie",
+    "Beslagrechter - Rechtsmacht - Bevel tot betalen - Rechtsgeldigheid"
+  ],
+  "fiche": [
+    "CASSATIE - VERNIETIGING. OMVANG - Algemeen",
+    "Gevolgen - Uitvoerbare titel - Restitutie",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 1494 - 01 ELI link Pub nr 1967101052",
+    "BESLAG - ALGEMEEN",
+    "Beslagrechter - Rechtsmacht - Bevel tot betalen - Rechtsgeldigheid",
+    "Gerechtelijk Wetboek - 10-10-1967 - Artt. 1395, eerste lid, en 1498 - 01 ELI link Pub nr 1967101052",
+    "RW-Rechtskundig weekblad - 2022-23, nr. 6, p. 222-225. - CLAUS, Lauranne; Noot'Het cassatiearrest vormt niet langer de titel tot terugvordering bij een verbintenis om (niet) te doen'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211202.1N.3",
+  "source_sha256": "b26ae897e935f4760850e7fc3944e84f84b7138850499c5e981fca3ecdee39bf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211202.1N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
