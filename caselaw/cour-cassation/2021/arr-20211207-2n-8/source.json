@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2021:ARR.20211207.2N.8",
+  "ecli": "ECLI:BE:CASS:2021:ARR.20211207.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2021-12-07",
+  "date_as_printed": "Vonnis/arrest van 07 december 2021",
+  "published_on_juportal": "2021-12-14",
+  "language": "nl",
+  "role_number": "P.21.0882.N",
+  "case_name_as_published": "C.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - GENERALITES",
+    "WEGVERKEER - WEGVERKEERSWET - ALGEMEEN",
+    "Analyse de l'haleine - Explication pour demander une deuxième analyse de l'haleine - Mentions dans le procès-verbal - Portée",
+    "PREUVE - MATIERE REPRESSIVE - Administration de la preuve",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Roulage - Analyse de l'haleine - Explication pour demander une deuxième analyse de l'haleine - Mentions dans le procès-verbal - Portée",
+    "Ademanalyse - Uitleg om tweede ademanalyse te vragen - Vermeldingen in het proces-verbaal - Draagwijdte",
+    "Wegverkeer - Ademanalyse - Uitleg om tweede ademanalyse te vragen - Vermeldingen in het proces-verbaal - Draagwijdte"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - ALGEMEEN",
+    "Ademanalyse - Uitleg om tweede ademanalyse te vragen - Vermeldingen in het proces-verbaal - Draagwijdte",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 62, eerste lid - 31 ELI link Pub nr 1968031601 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Art. 26 - 40 ELI link Pub nr 2007014149",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Wegverkeer - Ademanalyse - Uitleg om tweede ademanalyse te vragen - Vermeldingen in het proces-verbaal - Draagwijdte",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 62, eerste lid - 31 ELI link Pub nr 1968031601 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Art. 26 - 40 ELI link Pub nr 2007014149"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2021:ARR.20211207.2N.8",
+  "source_sha256": "823032e2785d3e4dc1b92c0828236b125dbd761965adabc4827bdedcf54899cf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2021:ARR.20211207.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/26/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
