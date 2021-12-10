@@ -1,0 +1,30 @@
+{
+  "id": "2021034054",
+  "title": "28 NOVEMBRE 2021. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme",
+  "source_title": "28 NOVEMBRE 2021. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme",
+  "act": "loi/justice/2021/2021034054",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-11-30&numac_search=2021034054&page=21&lg_txt=F&caller=list&2021034054=8&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "8a4329bf998f63d3edce5e498a229fea3c612ff559016f4b1911596424cbe95f",
+  "source_issuer": "Justice",
+  "made": "2021-11-28",
+  "published": "2021-11-30",
+  "in_force": "2021-12-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 décembre 2021; own clause: Art. 143. Les articles 92, 136 et 137 entrent en vigueur le jour de la publication de la présente loi au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "30 novembre 2021",
+    "Numéro": "2021034054",
+    "page": "115153",
+    "Dossier numéro": "2021-11-28/01",
+    "Entrée en vigueur": "10 décembre 2021",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 16419,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-12-10"
+}
