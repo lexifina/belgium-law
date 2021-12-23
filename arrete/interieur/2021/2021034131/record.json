@@ -1,0 +1,30 @@
+{
+  "id": "2021034131",
+  "title": "23 NOVEMBRE 2021. - Arrêté royal concernant l'organisation du temps de travail de certains membres du personnel du SPF Intérieur",
+  "source_title": "23 NOVEMBRE 2021. - Arrêté royal concernant l'organisation du temps de travail de certains membres du personnel du SPF Intérieur",
+  "act": "arrete/interieur/2021/2021034131",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2021-12-13&numac_search=2021034131&page=24&lg_txt=F&caller=list&2021034131=1&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "d739983b74483c65dcf4332f6451b358bcb2bfa6f5ba104bb8188f989b0ed693",
+  "source_issuer": "Intérieur",
+  "made": "2021-11-23",
+  "published": "2021-12-13",
+  "in_force": "2021-12-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 décembre 2021; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "13 décembre 2021",
+    "Numéro": "2021034131",
+    "page": "118153",
+    "Dossier numéro": "2021-11-23/07",
+    "Entrée en vigueur": "23 décembre 2021",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 319,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2021-12-23"
+}
