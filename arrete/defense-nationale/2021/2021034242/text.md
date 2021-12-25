@@ -1,0 +1,23 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté est applicable au militaire qui pose sa candidature pour un transfert interne conformément à l'article 142 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les articles 3, 4, 5, 14, alinéa 4, 15, alinéas 1er et 3, 15bis, 16, 17, 18, 19, 20, 21 et 23, de l'arrêté royal du 12 juin 2006 organisant l'acquisition par le militaire de la qualité d'agent de l'Etat par transfert, s'appliquent aux militaires visés à l'article 1er.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Pour l'application, dans le cadre du présent arrêté, de l'article 3 de l'arrêté royal du 12 juin 2006 précité, on entend par "aux sélections comparatives", "au transfert interne".
+Pour l'application, dans le cadre du présent arrêté, de l'article 4 de l'arrêté royal du 12 juin 2006 précité, on entend par "la candidature d'un militaire à une sélection comparative de transfert", "la candidature d'un militaire pour un transfert interne".
+Pour l'application, dans le cadre du présent arrêté, de l'article 5 de l'arrêté royal du 12 juin 2006 précité, on entend par "la sélection comparative de transfert visée à l'article 2", "la candidature pour un transfert interne".
+Pour l'application, dans le cadre du présent arrêté, de l'article 15bis de l'arrêté royal du 12 juin 2006 précité, on entend par "la date de la mise à disposition", "la date du transfert interne".
+Pour l'application, dans le cadre du présent arrêté, de l'article 16 de l'arrêté royal du 12 juin 2006 précité, on entend par "la durée des services admissibles comme militaire avant la mise à disposition", "la durée des services admissibles comme militaire avant le transfert interne".
+Pour l'application, dans le cadre du présent arrêté, des articles 17 jusqu'à 21 inclus, de l'arrêté royal du 12 juin 2006 précité, on entend par "le jour de leur mise à disposition", "le jour précédant le jour de leur transfert interne".
+Pour l'application, dans le cadre du présent arrêté, de l'article 23 de l'arrêté royal du 12 juin 2006 précité, on entend par "avant sa mise à disposition", "avant son transfert interne".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Pour l'application du présent arrêté et en dérogation à l'article 18 de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, il n'y a pas de sélection comparative et pas de période de mise à la disposition pour le militaire visé à l'article 1er.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le militaire visé à l'article 1er, à qui une ou plusieurs fonctions sont proposées, comme visées à l'article 2, alinéa 1er, 2°, de l'arrêté royal du 14 octobre 2013 relatif au transfert interne de certains militaires déclarés définitivement inaptes sur le plan médical comme agent de l'Etat vers le Ministère de la Défense, est soumis à:
+1° une évaluation des compétences nécessaires à la fonction vers laquelle le militaire pourrait être transféré, qui est organisée par le conseil de direction du Ministère de la Défense;
+2° un examen médical par un médecin du travail du Ministère de la Défense, afin de déterminer si le militaire est médicalement apte à exercer la fonction vers laquelle il peut être transféré, le cas échéant en adaptant raisonnablement le poste de travail.
+Le conseil de direction du Ministère de la Défense peut décider de faire appel à la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui pour l'évaluation visée à l'alinéa 1er, 1°.
+L'examen médical visé à l'alinéa 1er, 2°, doit être considéré comme l'évaluation de santé préalable par le conseiller en prévention-médecin du travail prévue dans la loi du 28 janvier 2003 relative aux examens médicaux dans le cadre des relations de travail et dans le code du bien-être au travail.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Dans l'article 2, alinéa 2, de l'arrêté royal du 14 octobre 2013 précité, les mots "classe de métiers" sont remplacés par le mot "classe".
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Le ministre qui a la Défense dans ses attributions est chargé de l'exécution du présent arrêté.
