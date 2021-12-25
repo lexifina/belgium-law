@@ -7,5 +7,7 @@ Les définitions suivantes sont applicables au livre XV:
 6° Banque: la Banque nationale de Belgique;
 7° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
 8° entreprise soumise à inscription: toute entité tenue de s'inscrire en vertu de l'article III.49;
+9° plaignant de la chaîne d'approvisionnement agricole et alimentaire: tout fournisseur de produits agricoles et alimentaires, toute organisation de producteurs, toute organisation de fournisseurs, toute organisation dont un producteur ou un fournisseur est membre, toute association d'organisations dont un fournisseur est membre et toute autre organisation ayant un intérêt légitime à représenter les fournisseurs pour autant qu'il s'agisse d'une personne morale indépendante sans but lucratif, qui est confronté à un acheteur de produits agricoles et alimentaires soupçonné de commettre une infraction aux dispositions visées à l'article XV.83, 15° /1;
 (2)
 (3)
+(4)

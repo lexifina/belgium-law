@@ -16,6 +16,7 @@ Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux di
 13° /1 de l'article VI.104/1, 1° et 2°, sur les pratiques déloyales du marché entre entreprises;
 14° de l'article VI. 107 relatif à l'interdiction de pratiques du marché déloyales visant à prospecter des annonceurs;
 15° de l'article VI.109/3 relatif aux achats forcés;
+15° /1 des articles VI.109/5 et VI.109/6 relatifs aux pratiques du marché déloyales dans les relations interentreprises au sein de la chaîne d'approvisionnement agricole et alimentaire;
 16° des articles VI. 110 à VI. 115 relatif aux communications non souhaitées;
 17° des arrêtés pris en exécution de l'article VI. 1, § 2;
 18° des règlements de l'Union européenne qui remplacent les dispositions du livre VI ou de ses arrêtés d'exécution.
