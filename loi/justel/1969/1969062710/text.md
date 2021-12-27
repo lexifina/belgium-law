@@ -24,7 +24,7 @@ b) les personnes désignées par le Roi en exécution de l'article 2, § 1er, 1�
 - les institutions publiques qui dépendent des agglomérations et des fédérations de communes;
 - les zones de police locales instituées sur la base de la loi du 7 décembre 1998 portant organisation d'un service de police intégrée, structuré à deux niveaux;
 - les zones de secours instituées sur la base de la loi du 15 mai 2007 relative à la sécurité civile;
-- la Commission communautaire française et la Commission communautaire flamande;
+- la Commission communautaire française et la Commission communautaire flamande [<sup>5</sup> , à l'exception de leurs assemblées visées à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises]<sup>5</sup>;
 - les organismes économiques régionaux visés aux chapitres II et III de la loi-cadre du 15 juillet 1970 portant organisation de la planification et de la décentralisation économique modifiée par le décret du 25 mai 1983 du Conseil régional wallon, l'ordonnance du 20 mai 1999 de la Région de Bruxelles-Capitale et le décret du Conseil flamand du 27 juin 1985;
 - "Bruxelles-Propreté, Agence régionale pour la Propreté";
 - le "Service d'Incendie et d'Aide médicale urgente de la Région de Bruxelles-Capitale";
@@ -43,6 +43,7 @@ Pour l'application de la présente loi, il y a lieu d'entendre par :
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071003" target="_blank">2016-07-10/03</a>, art. 3, 062; En vigueur : 01-01-2017&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018071803" target="_blank">2018-07-18/03</a>, art. 29, 070; En vigueur : 20-02-2018&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020122408" target="_blank">2020-12-24/08</a>, art. 45, 078; En vigueur : 01-01-2021&gt;
+(<font color="red">5</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021120908" target="_blank">2021-12-09/08</a>, art. 2, 079; En vigueur : 27-12-2021&gt;
 
 <a name="Art.1bis" href="#Art.1">Art.</a> <a href="#Art.1ter"> 1bis</a>.&lt;Inséré par L 2002-12-24/31, art. 170; <b> En vigueur : </b> 01-07-2003&gt; § 1er. [<sup>1</sup> La présente loi est également applicable aux personnes qui, ne pouvant être liées par un contrat de travail parce qu'un ou plusieurs des éléments essentiels à l'existence dudit contrat au sens de la loi du 3 juillet 1978 relative aux contrats de travail sont inexistants, fournissent des prestations ou produisent des oeuvres de nature artistique, contre paiement d'une rémunération pour le compte d'un donneur d'ordre, personne physique ou morale. Dans ce cas, le donneur d'ordre est assimilé à l'employeur et doit assumer les obligations visées aux articles 21 et suivants.
 [<sup>2</sup> Par "la fourniture de prestations et/ou la production d'oeuvres de nature artistique", il y a lieu d'entendre "la création et/ou l'exécution ou l'interprétation d'oeuvres artistiques dans les secteurs de l'audiovisuel et des arts plastiques, de la musique, de la littérature, du spectacle, du théâtre et de la chorégraphie ".
