@@ -1,0 +1,10 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er, 4°, de l'arrêté ministériel du 15 mars 2013 fixant le tarif des rétributions à charge des communes pour la délivrance des cartes d'identité électroniques pour les Belges, des documents d'identité électroniques pour enfants belges de moins de douze ans et des documents de séjour électroniques délivrés aux étrangers séjournant légalement sur le territoire du Royaume, remplacé par l'arrêté ministériel du 28 octobre 2019, est complété par les j), k) et l), rédigés comme suit :
+" j) la carte pour petit trafic frontalier pour bénéficiaires de l'accord de retrait, établie conformément au modèle figurant à l'annexe 55, de l'arrêté royal du 8 octobre 1981 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ;
+k) la carte de séjour pour bénéficiaires de l'accord de retrait, établie conformément au modèle figurant à l'annexe 53, de l'arrêté royal du 8 octobre 1981 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ;
+l) la carte de séjour permanent pour bénéficiaires de l'accord de retrait, établie conformément au modèle figurant à l'annexe 54 de l'arrêté royal du 8 octobre 1981 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'annexe du même arrêté, remplacée par l'arrêté ministériel du 28 octobre 2019, les modifications suivantes sont apportées:
+1° au point " A. Procédure normale ", les mots " visés à l'article 1er, alinéa 1er, 4°, f) à i) " sont remplacés par les mots " visés à l'article 1er, alinéa 1er, 4°, f) à l) " ;
+2° au point " C. Procédure d'urgence avec livraison de la carte et des codes PIN/PUK dans les communes ", les mots " à l'article 1er, alinéa 1er, 4°, f) à i) " sont remplacés par les mots " à l'article 1er, alinéa 1er, 4°, f) à l) ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
