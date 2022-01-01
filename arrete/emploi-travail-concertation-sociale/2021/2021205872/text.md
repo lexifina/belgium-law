@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 7, § 2, de l'arrêté royal du 12 décembre 2001 pris en exécution du chapitre IV de la loi du 10 août 2001 relative à la conciliation entre l'emploi et la qualité de vie concernant le système du crédit-temps, la diminution de carrière et la réduction des prestations de travail à mi-temps, remplacé par l'arrêté royal du 8 juin 2007 et modifié en dernier lieu par l'arrêté royal du 18 juillet 2019, la disposition sous 1° est modifiée comme suit :
+- Après le mot " district ", les mots " ou de conseiller d'un centre public d'aide sociale " sont remplacés par les mots ", de conseiller d'un centre public d'action sociale ou de membre du comité spécial pour le service social en vertu du décret Flamand sur l'administration locale du 22 décembre 2017; ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 17, § 1er, de l'arrêté royal du 10 juin 2002 relatif à l'octroi d'allocations d'interruption aux membres du personnel des entreprises publiques qui ont obtenu une autonomie de gestion en application de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, modifié en dernier lieu par l'arrêté royal du 18 juillet 2019, la disposition sous 1° est modifiée comme suit :
+- Après le mot " communal ", les mots " ou conseiller d'un centre public d'aide sociale " sont remplacés par les mots " , de conseiller d'un centre public d'action sociale ou de membre du comité spécial pour le service social en vertu du décret Flamand sur l'administration locale du 22 décembre 2017; ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le premier jour du mois suivant sa publication au Moniteur Belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
