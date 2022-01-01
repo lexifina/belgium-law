@@ -1,0 +1,29 @@
+{
+  "id": "2022040022",
+  "title": "27 DECEMBRE 2021. - Arrêté royal fixant l'intervention financière de l'Etat fédéral pour la maison de transition de Malines",
+  "source_title": "27 DECEMBRE 2021. - Arrêté royal fixant l'intervention financière de l'Etat fédéral pour la maison de transition de Malines",
+  "act": "arrete/justice/2021/2022040022",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-01-20&numac_search=2022040022&page=1&lg_txt=F&caller=list&2022040022=26&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "4df67a18a25474ba130bf7f3bdb6ca6aa46191bae84949dd5573b2dcae168f58",
+  "source_issuer": "Justice",
+  "made": "2021-12-27",
+  "published": "2022-01-20",
+  "in_force": "2022-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2022; own clause: Art. 8. Cet arrêté entre en vigueur le 1er janvier 2022.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "20 janvier 2022",
+    "Numéro": "2022040022",
+    "page": "2544",
+    "Dossier numéro": "2021-12-27/17",
+    "Entrée en vigueur": "1 janvier 2022"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 660,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-01-01"
+}
