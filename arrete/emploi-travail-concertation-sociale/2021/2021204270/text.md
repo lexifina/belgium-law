@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Est rendue obligatoire la convention collective de travail n° 159 du 15 juillet 2021, reprise en annexe, conclue au sein du Conseil national du Travail, établissant un régime de suspension totale de l'exécution du contrat de travail et/ou un régime de travail à temps réduit en cas de manque de travail résultant de causes économiques pour les employés en conséquence de la situation socioéconomique à la suite de la crise du coronavirus.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
