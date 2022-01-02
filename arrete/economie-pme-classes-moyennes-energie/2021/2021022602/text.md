@@ -1,0 +1,35 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 4 de l'arrêté royal du 22 décembre 2010 concernant l'accès radioélectrique dans la bande de fréquences 2500-2690 MHz, les modifications suivantes sont apportées :
+1° dans le paragraphe 1er, les modifications suivantes sont apportées :
+a) les mots " six blocs " sont remplacés par les mots " quatorze blocs " ;
+b) les 1° à 6° sont remplacés par ce qui suit :
+" 1° 2500-2505 MHz et 2620-2625 MHz
+2° 2505-2510 MHz et 2625-2630 MHz
+3° 2510-2515 MHz et 2630-2635 MHz
+4° 2515-2520 MHz et 2635-2640 MHz
+5° 2520-2525 MHz et 2640-2645 MHz
+6° 2525-2530 MHz et 2645-2650 MHz
+7° 2530-2535 MHz et 2650-2655 MHz
+8° 2535-2540 MHz et 2655-2660 MHz
+9° 2540-2545 MHz et 2660-2665 MHz
+10° 2545-2550 MHz et 2665-2670 MHz
+11° 2550-2555 MHz et 2670-2675 MHz
+12° 2555-2560 MHz et 2675-2680 MHz
+13° 2560-2565 MHz et 2680-2685 MHz
+14° 2565-2570 MHz et 2685-2690 MHz " ;
+2° le paragraphe 2 est abrogé ;
+3° le paragraphe 6 est complété par un alinéa rédigé comme suit :
+" En dérogation à l'alinéa 1er, si lors d'une procédure d'octroi des droits d'utilisation, le nombre de candidats jugés recevables conformément à l'article 17 est tel que la totalité du spectre disponible ne peut être octroyé, un groupe pertinent par rapport à un opérateur d'accès radioélectrique ne peut détenir que 30 MHz duplex au maximum dans les bandes de fréquences 2500-2570 et 2620-2690 MHz. ".
+4° l'article est complété par un paragraphe 7 rédigé comme suit :
+" § 7. L'Institut peut, après avoir entendu les parties concernées, modifier la répartition des fréquences attribuées, sans modifier la quantité de spectre attribuée à chaque opérateur, dans des cas objectivement justifiés en vue de favoriser l'utilisation efficace, efficiente et coordonnée du spectre radioélectrique, dans des délais et dans des proportions raisonnables. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 6, § 2, du même arrêté est abrogé.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. L'article 9 du même arrêté est abrogé.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 23, § 2, alinéa 2, du même arrêté, les mots " article 28 " sont remplacés par les mots " article 27 ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 24 du même arrêté, les paragraphes 4 et 5 sont abrogés.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'annexe du même arrêté est abrogée.
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Le ministre qui a les Télécommunications dans ses attributions est chargé de l'exécution du présent arrêté.
