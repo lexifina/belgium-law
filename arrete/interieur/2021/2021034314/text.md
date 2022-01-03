@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, on entend par " périmètre ", le périmètre tel que visé à l'article 2, 9°, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, modifiée par la loi du 10 mars 2003, la loi du 27 décembre 2004, la loi du 25 avril 2007, la loi du 14 avril 2011, la loi du 27 juin 2016, la loi du 21 juillet 2016 et la loi du 3 juin 2018, inséré par la loi du 10 mars 2003.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour le stade du KFC Voorde-Appelterre, à savoir le site `Molenveld', situé Molenveldweg à 9400 Appelterre-Eichem, le périmètre est délimité par : la Kapittelstraat à partir du croisement avec la Tabakslaan (N45) jusqu'au croisement avec l'Eichemstraat et la Paardeveldestraat, la Paardeveldestraat jusqu'au croisement avec la Hellestraat, la Hellestraat jusqu'au croisement avec la Wilderstraat, la Wilderstraat jusqu'au croisement avec la Botermelkstraat, la Botermelkstraat jusqu'au croisement avec la Neerstraat, la Neerstraat jusqu'au croisement avec le Breeweg et la Holstraat, la Holstraat jusqu'au croisement avec la J.B. Van Langenhaeckestraat, la J.B. Van Langenhaeckestraat jusqu'au croisement avec la Tabakslaan (N45), la Tabakslaan (N45) jusqu'au croisement avec la Kapittelstraat.
+Tous les croisements du périmètre susmentionné avec les autres voies publiques et privées sont compris dans ce périmètre.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Notre Ministre de l'Intérieur est chargé de l'exécution du présent arrêté.
