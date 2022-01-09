@@ -15,5 +15,5 @@ A défaut d'avis rendu dans le délai prescrit, il est passé outre à cet avis.
 Le candidat dispose d'un délai de quinze jours à compter de la notification de l'avis pour communiquer ses observations à la commission de nomination et de désignation.
 (Les délais de procédure sont suspendus du 15 juillet au 15 août.)
 Le demandeur dont la commission de nomination et de désignation compétente estime, à la majorité des trois quarts des voix, qu'il a réussi l'examen oral d'évaluation est autorisé à se porter candidat à une nomination.
-§ 3. L'autorisation délivrée par la commission de nomination et de désignation est valable pendant trois ans à compter de la date de délivrance de l'autorisation.
-Si le candidat n'a pas réussi l'examen oral d'évaluation, il en est averti par écrit motivé transmis par voie électronique. Dans ce cas, l'intéressé peut introduire une nouvelle demande au plus tôt trois ans après cette notification. Une version actualisée du curriculum vitae est le cas échéant jointe à la demande.
+§ 3. L'autorisation délivrée par la commission de nomination et de désignation est valable pendant sept ans à compter de la date de délivrance de l'autorisation.
+Si le candidat n'a pas réussi l'examen oral d'évaluation, il en est averti par écrit motivé transmis par voie électronique. Les candidats qui ont échoué cinq fois à l'examen oral d'évaluation sont exclus de toute participation ultérieure à cet examen. En cas de nouvelle demande, une version actualisée du curriculum vitae est le cas échéant jointe à la demande.
