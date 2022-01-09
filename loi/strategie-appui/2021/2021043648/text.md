@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'article 2, dernier alinéa, de la loi du 15 septembre 2013 relative à la dénonciation d'une atteinte suspectée à l'intégrité au sein d'une autorité administrative fédérale par un membre de son personnel, modifié par la loi du 8 mai 2019, les mots "par un fonctionnaire de police" sont remplacés par les mots "par un membre du personnel de la police intégrée ou de l'Inspection générale de la police fédérale et de la police locale".
