@@ -1,0 +1,30 @@
+{
+  "id": "2022020003",
+  "title": "17 DECEMBRE 2021. - Arrêté royal modifiant l'arrêté royal du 18 septembre 2015 fixant un cadre pour la définition des exigences de biodégradabilité et de désintégrabilité des produits conçus pour être évacués dans les toilettes",
+  "source_title": "17 DECEMBRE 2021. - Arrêté royal modifiant l'arrêté royal du 18 septembre 2015 fixant un cadre pour la définition des exigences de biodégradabilité et de désintégrabilité des produits conçus pour être évacués dans les toilettes",
+  "act": "arrete/sante-publique-securite-chaine-alimentaire-envir/2021/2022020003",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-01-14&numac_search=2022020003&page=8&lg_txt=F&caller=list&2022020003=26&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "acc8f4a3a970271f64dc63fab36264b08c0413937480656ca4179836489d217e",
+  "source_issuer": "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement",
+  "made": "2021-12-17",
+  "published": "2022-01-14",
+  "in_force": "2022-01-24",
+  "in_force_basis": "Justel: Entrée en vigueur : 24 janvier 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement",
+    "Publication": "14 janvier 2022",
+    "Numéro": "2022020003",
+    "page": "1372",
+    "Dossier numéro": "2021-12-17/12",
+    "Entrée en vigueur": "24 janvier 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 206,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-01-24"
+}
