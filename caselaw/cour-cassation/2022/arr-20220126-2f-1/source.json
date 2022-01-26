@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2022:ARR.20220126.2F.1",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220126.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-01-26",
+  "date_as_printed": "Jugement/arrêt du 26 janvier 2022",
+  "published_on_juportal": "2022-02-01",
+  "language": "fr",
+  "role_number": "P.21.1255.F",
+  "case_name_as_published": "Procureur général de Liège contra P.",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "FONCTIONNAIRE - DIVERS",
+    "AMBTENAAR - ALLERLEI",
+    "Prise d'intérêt - Notion",
+    "INFRACTION - DIVERS",
+    "MISDRIJF - ALLERLEI",
+    "Belangenneming - Begrip"
+  ],
+  "fiche": [
+    "FONCTIONNAIRE - DIVERS",
+    "Prise d'intérêt - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 245 - 01 Lien ELI No pub 1867060850",
+    "INFRACTION - DIVERS",
+    "Prise d'intérêt - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 245 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220126.2F.1",
+  "source_sha256": "7aee5c660c97f010d9d6ab312af9e4dffab8cce40e3d666af0f2b95d512f8732",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220126.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_28.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
