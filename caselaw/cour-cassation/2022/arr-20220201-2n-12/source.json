@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220201.2N.12",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220201.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-01",
+  "date_as_printed": "Vonnis/arrest van 01 februari 2022",
+  "published_on_juportal": "2022-02-08",
+  "language": "nl",
+  "role_number": "P.21.1286.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droit à un procès équitable - Information donnée quant au droit de garder le silence et de ne pas s'incriminer - Audition d'un suspect laissé en liberté sans que cette information lui ait été donnée - Auditions menées antérieurement à l'entrée en vigueur de l'article 47bis, § 6, du Code d'instruction criminelle - Déclarations utilisées pour corroborer d'autres éléments de preuve - Admissibilité",
+    "Recht op een eerlijk proces - Verwittiging van het recht te zwijgen en het recht zichzelf niet te beschuldigen - Verhoor van een in vrijheid gelaten verdachte zonder deze verwittiging - Verhoren afgenomen vóór de inwerkingtreding van artikel 47bis, §6 Wetboek van Strafvordering - Gebruik van de verklaringen als steunbewijs - Toelaatbaarheid"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Recht op een eerlijk proces - Verwittiging van het recht te zwijgen en het recht zichzelf niet te beschuldigen - Verhoor van een in vrijheid gelaten verdachte zonder deze verwittiging - Verhoren afgenomen vóór de inwerkingtreding van artikel 47bis, §6 Wetboek van Strafvordering - Gebruik van de verklaringen als steunbewijs - Toelaatbaarheid",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.3.c - 30 Link Justel databank 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220201.2N.12",
+  "source_sha256": "2e39315e9a53915c582953e96e2394e122fc0585a70c5be375475865da599fc4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220201.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_41.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
