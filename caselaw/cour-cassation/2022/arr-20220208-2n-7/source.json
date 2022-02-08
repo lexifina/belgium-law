@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.7",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1677.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "OPPOSITION",
+    "VERZET",
+    "Opposition non avenue - Appel formé contre le jugement déclarant l'opposition non avenue - Saisine de la juridiction d'appel - Etendue",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Appel formé contre le jugement déclarant l'opposition non avenue - Etendue",
+    "Ongedaan verzet - Hoger beroep tegen het vonnis van ongedaan verzet - Saisine van het appelgerecht - Omvang",
+    "Hoger beroep ingesteld tegen een vonnis van ongedaan verzet - Omvang"
+  ],
+  "fiche": [
+    "VERZET",
+    "Ongedaan verzet - Hoger beroep tegen het vonnis van ongedaan verzet - Saisine van het appelgerecht - Omvang",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187, § 9 - 30 ELI link Pub nr 1808111901",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Hoger beroep ingesteld tegen een vonnis van ongedaan verzet - Omvang",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187, § 9 - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.7",
+  "source_sha256": "f79c36177521ab6f6f4c26b94f317cb1463b5fc5f662f942bc6bc089e24515bf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_47.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
