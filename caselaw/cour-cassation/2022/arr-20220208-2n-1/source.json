@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.1",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1515.N",
+  "case_name_as_published": "GARAGE PIERRE N.V. contra GUSTAAF CUYLAERTS B.V.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CASSATION - GENERALITES. MISSION ET RAISON D'ETRE DE LA COUR DE CASSATION. NATURE DE L'INSTANCE EN CASSATION",
+    "CASSATIE - ALGEMEEN. OPDRACHT EN BESTAANSREDEN VAN HET HOF. AARD VAN HET CASSATIEGEDING",
+    "Requête en rétractation d'un arrêt de la Cour - Formalités",
+    "AVOCAT A LA COUR DE CASSATION",
+    "ADVOCAAT BIJ HET HOF VAN CASSATIE",
+    "Verzoekschrift tot intrekking van een arrest van het Hof - Vormvereisten"
+  ],
+  "fiche": [
+    "CASSATIE - ALGEMEEN. OPDRACHT EN BESTAANSREDEN VAN HET HOF. AARD VAN HET CASSATIEGEDING",
+    "Verzoekschrift tot intrekking van een arrest van het Hof - Vormvereisten",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1080 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1114, eerste lid - 04 ELI link Pub nr 1967101055",
+    "ADVOCAAT BIJ HET HOF VAN CASSATIE",
+    "Verzoekschrift tot intrekking van een arrest van het Hof - Vormvereisten",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1080 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1114, eerste lid - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.1",
+  "source_sha256": "f8badca93a516a0a36d5de39297bcc45e8d46fae8e4f36fdff4b3589c34d5194",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_49.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
