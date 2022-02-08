@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.9",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1527.N",
+  "case_name_as_published": "G.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - CONCOURS - Jugement distinct",
+    "STRAF - SAMENLOOP - Gescheiden berechting",
+    "Unité d'intention - Condamnation passée en force de chose jugée - Faits pendants antérieurs à la condamnation - Taux de la peine - Peine complémentaire - Peine de travail - Admissibilité",
+    "PEINE - AUTRES PEINES - Peine de travail",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "Eenheid van opzet - In kracht van gewijsde gegane veroordeling - Aanhangige feiten die aan de veroordeling voorafgaan - Straftoemeting - Aanvullende bestraffing - Werkstraf - Toelaatbaarheid"
+  ],
+  "fiche": [
+    "STRAF - SAMENLOOP - Gescheiden berechting",
+    "Eenheid van opzet - In kracht van gewijsde gegane veroordeling - Aanhangige feiten die aan de veroordeling voorafgaan - Straftoemeting - Aanvullende bestraffing - Werkstraf - Toelaatbaarheid",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 7, vierde lid - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 65, tweede lid - 01 ELI link Pub nr 1867060850",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "Eenheid van opzet - In kracht van gewijsde gegane veroordeling - Aanhangige feiten die aan de veroordeling voorafgaan - Straftoemeting - Aanvullende bestraffing - Werkstraf - Toelaatbaarheid",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 7, vierde lid - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 65, tweede lid - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.9",
+  "source_sha256": "b804d090807e15fba1d61b156419ad3cc3cb19f4fd72461061a02d6e038db750",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_45.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
