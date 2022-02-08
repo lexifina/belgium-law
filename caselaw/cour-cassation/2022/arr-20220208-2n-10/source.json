@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.10",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1447.N",
+  "case_name_as_published": "A. contra D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Appel formé tardivement - Force majeure - Conditions",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Appel du prévenu - Appel formé tardivement - Délai - Appel formé tardivement - Force majeure - Appréciation",
+    "Laattijdig ingesteld hoger beroep - Overmacht - Voorwaarden",
+    "Hoger beroep van de beklaagde - Laattijdig ingesteld hoger beroep - Termijn - Laattijdig ingesteld hoger beroep - Overmacht - Beoordeling"
+  ],
+  "fiche": [
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Laattijdig ingesteld hoger beroep - Overmacht - Voorwaarden",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 202 - 30 ELI link Pub nr 1808111901 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 203 - 30 ELI link Pub nr 1808111901",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Hoger beroep van de beklaagde - Laattijdig ingesteld hoger beroep - Termijn - Laattijdig ingesteld hoger beroep - Overmacht - Beoordeling",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 202 - 30 ELI link Pub nr 1808111901 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 203 - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.10",
+  "source_sha256": "513727873247047f605b37eecdc7de265f4ad2051fb3a8faac2498b94225f0b7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_44.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
