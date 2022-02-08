@@ -1,0 +1,37 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.2",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1330.N",
+  "case_name_as_published": "V. contra Baloise NV",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INSTRUCTION EN MATIERE REPRESSIVE - INSTRUCTION - Règlement de la procédure",
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regeling van de rechtspleging",
+    "Non-lieu - Autorité de la chose jugeé non acquise définitivement - Portée",
+    "Non-lieu - Nouvelles charges - Réquisition du ministère public - Moment de l'appréciation des nouvelles charges - Constatations de nouvelles charges dans une pièce de la procédure - Droit au contradictoire - Conditions",
+    "Buitenvervolgingstelling - Voorlopig gezag van gewijsde - Draagwijdte",
+    "Buitenvervolgingstelling - Nieuwe bezwaren - Vordering van het openbaar ministerie - Moment van beoordeling van de nieuwe bezwaren - Vaststelling van de nieuwe bezwaren in een processtuk - Recht op tegenspraak - Voorwaarden"
+  ],
+  "fiche": [
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regeling van de rechtspleging",
+    "Buitenvervolgingstelling - Voorlopig gezag van gewijsde - Draagwijdte",
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regeling van de rechtspleging",
+    "Buitenvervolgingstelling - Nieuwe bezwaren - Vordering van het openbaar ministerie - Moment van beoordeling van de nieuwe bezwaren - Vaststelling van de nieuwe bezwaren in een processtuk - Recht op tegenspraak - Voorwaarden",
+    "Wetboek van Strafvordering - eerste boek (Art. 8 tot en met 136ter), zoals gewijzigd door de Wet van 11 juli 1994 betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernizering van de strafrechtspleging - 17-11-1808 - Art. 130 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - Boek II, Titel II (Art. 217 tot en met 406) - 09-12-1808 - Art. 246 - 30 ELI link Pub nr 1808120950 Wetboek van Strafvordering - Boek II, Titel II (Art. 217 tot en met 406) - 09-12-1808 - Art. 247 - 30 ELI link Pub nr 1808120950"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.2",
+  "source_sha256": "85a3db95c930422320f7d66cb3d5288fe36c1e9dce14be5053abe954664707d0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_48.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
