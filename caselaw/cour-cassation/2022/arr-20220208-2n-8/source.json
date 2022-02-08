@@ -1,0 +1,45 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220208.2N.8",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220208.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-08",
+  "date_as_printed": "Vonnis/arrest van 08 februari 2022",
+  "published_on_juportal": "2022-02-10",
+  "language": "nl",
+  "role_number": "P.21.1555.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 4",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 4",
+    "Article 4, § 1er - Force obligatoire des injonctions des agents qualifiés - Obligation d'obtempérer immédiatement aux injonctions des agents qualifiés - Notion d'agents qualifiés - Injonctions ne visant pas simplement le règlement de la circulation - Injonction de ranger son véhicule sur le côté - Injonction de couper le moteur du véhicule - Application",
+    "POLICE",
+    "POLITIE",
+    "Roulage - Agents qualifiés pour surveiller l'application du code de la route - Notion d'agents qualifiés - Injonctions adressées aux usagers de la route qui enfreignent le code de la route - Injonctions ne visant pas simplement le règlement de la circulation - Injonction de ranger son véhicule sur le côté - Injonction de couper le moteur du véhicule - Application",
+    "Article 4.2 - Injonctions considérées particulièrement comme des injonctions émanant d'agents qualifiés - Injonctions non énumérées à l'article 4.2 du code de la route",
+    "Artikel 4.1 - Bindende kracht van de bevelen van de bevoegde personen - Plicht onmiddellijk gevolg te geven aan bevelen van de bevoegde personen - Begrip bevoegde personen - Bevelen die niet louter gericht zijn op het regelen van het verkeer - Bevel het voertuig aan de kant te zetten - Bevel de motor van het voertuig af te zetten - Toepassing",
+    "Wegverkeer - Bevoegde personen voor toezicht op het Wegverkeersreglement - Begrip bevoegde personen - Bevelen aan weggebruikers die het Wegverkeersreglement overtreden - Bevelen die niet louter gericht zijn op het regelen van het verkeer - Bevel het voertuig aan de kant te zetten - Bevel de motor van het voertuig af te zetten - Toepassing",
+    "Artikel 4.2 - Bevelen die inzonderheid worden beschouwd als bevelen van bevoegde personen - Bevelen die niet in artikel 4.2 Wegverkeersreglement zijn vermeld"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 4",
+    "Artikel 4.1 - Bindende kracht van de bevelen van de bevoegde personen - Plicht onmiddellijk gevolg te geven aan bevelen van de bevoegde personen - Begrip bevoegde personen - Bevelen die niet louter gericht zijn op het regelen van het verkeer - Bevel het voertuig aan de kant te zetten - Bevel de motor van het voertuig af te zetten - Toepassing",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 11 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 62, eerste lid - 31 ELI link Pub nr 1968031601 KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 4.1 - 31 ELI link Pub nr 1975120109",
+    "POLITIE",
+    "Wegverkeer - Bevoegde personen voor toezicht op het Wegverkeersreglement - Begrip bevoegde personen - Bevelen aan weggebruikers die het Wegverkeersreglement overtreden - Bevelen die niet louter gericht zijn op het regelen van het verkeer - Bevel het voertuig aan de kant te zetten - Bevel de motor van het voertuig af te zetten - Toepassing",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 11 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 62, eerste lid - 31 ELI link Pub nr 1968031601 KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 4.1 - 31 ELI link Pub nr 1975120109",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 4",
+    "Artikel 4.2 - Bevelen die inzonderheid worden beschouwd als bevelen van bevoegde personen - Bevelen die niet in artikel 4.2 Wegverkeersreglement zijn vermeld",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 4.2 - 31 ELI link Pub nr 1975120109"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220208.2N.8",
+  "source_sha256": "521de04163fa1611c2e117c8c133ff74d0db2852f400b4c668ada7d90451f0ab",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220208.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_46.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
