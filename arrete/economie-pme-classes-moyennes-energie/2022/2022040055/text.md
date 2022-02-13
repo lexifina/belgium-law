@@ -1,0 +1,63 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Définitions
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Pour l'application du présent arrêté, l'on entend par :
+1° " règlement 2019/945 " : le règlement délégué (UE) 2019/945 de la Commission du 12 mars 2019 relatif aux systèmes d'aéronefs sans équipage à bord et aux exploitants, issus de pays tiers, de systèmes d'aéronefs sans équipage à bord ;
+2° " ministre " : le ministre qui a la protection de la sécurité des consommateurs dans ses attributions ;
+3° " délégué du ministre " : le directeur général de la Direction générale Qualité et Sécurité du Service public fédéral Economie, P.M.E., Classes Moyennes et Energie ;
+4° " service public " : la Direction générale Qualité et Sécurité du Service public fédéral Economie, P.M.E., Classes Moyennes et Energie ;
+5° " surveillance du marché " : activités et mesures prises par les autorités publiques pour garantir que les produits sont conformes aux exigences légales définies dans la législation de l'Union européenne applicable ;
+6° " autorité de surveillance du marché " : l'autorité ou les autorités d'un Etat membre, responsable pour effectuer la surveillance du marché sur son propre territoire ;
+7° " UAS " : système d'aéronef sans équipage à bord qui tombe sous le champ d'application du règlement 2019/945.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Notification des organismes d'évaluation de la conformité
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les organismes notifiés autorisés à effectuer des tâches d'évaluation de la conformité, satisfont aux exigences visées aux articles 3 et 4 du présent arrêté et à l'article 22 du règlement 2019/945.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Un organisme d'évaluation de la conformité est accrédité conformément au Règlement (CE) n° 765/2008 du Parlement Européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n° 339/93 du Conseil pour les tâches d'évaluation de la conformité qu'il exécute.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#LNK0003"> 4</a>. Conformément à l'article 22, paragraphe 9, du règlement 2019/945, les organismes d'évaluation de la conformité souscrivent une assurance couvrant leur responsabilité civile.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Procédure de notification
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Un organisme d'évaluation de la conformité soumet une demande de notification au délégué du ministre.
+La demande de notification est accompagnée d'une description des activités d'évaluation de la conformité, de la ou des procédures d'évaluation de la conformité et des types d'UAS pour lesquels cet organisme se déclare compétent ainsi que d'un certificat d'accréditation délivré par l'organisme belge d'accréditation BELAC ou par un organisme d'accréditation ayant signé l'accord de reconnaissance mutuelle (MLA - MultiLateral Agreements) d'accréditation de l'EA (European co-operation for Accreditation) qui atteste que l'organisme d'évaluation de la conformité remplit les exigences énoncées à l'article 3.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#LNK0004"> 6</a>. § 1er. La demande de notification est examinée par le service public. Cet examen est basé sur les pièces jointes au dossier de demande, sur toute information disponible ainsi que sur toute enquête sur place jugée nécessaire.
+Le service public examine dans les trente jours après la réception de la demande de notification la recevabilité et la complétude de la demande et en informe le demandeur. Il lui communique si besoin est quels sont les documents et les informations qui manquent encore.
+Dans les soixante jours après constatation de la complétude du dossier, le délégué du ministre prend une décision de notifier ou pas le demandeur comme organisme notifié auprès de la Commission européenne. Cette décision ne prend effet que quinze jours après la notification auprès de la Commission européenne conformément au paragraphe 2 et pour autant que la Commission européenne ou les autres Etats membres n'aient émis aucune objection dans les deux semaines qui suivent la notification.
+§ 2. Dans le cas d'une décision positive, le délégué du ministre notifie l'organisme agréé sans délai auprès de la Commission européenne.
+Le délégué du ministre informe l'organisme concerné de sa décision et de l'introduction d'objections par la Commission européenne ou les autres Etats membres dans les deux semaines après la notification.
+Dans le cas d'une décision négative, le délégué du ministre informe l'organisme concerné sans délai de sa décision.
+§ 3. Pour l'application du présent arrêté, les organismes qui ont été notifiés à la Commission européenne par un des Etats membres conformément au règlement 2019/945 sont assimilés aux organismes notifiés conformément au paragraphe 2.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Obligations opérationnelles des organismes notifiés
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Les organismes d'évaluation de la conformité notifiés conformément à l'article 6, dénommés ci-après " organismes notifiés ", sont tenus de se conformer aux instructions que le ministre ou son délégué leur donnent par rapport aux tâches pour lesquelles ils ont été notifiés.
+Ces instructions contiennent en tout cas mais pas exclusivement la participation des organismes notifiés aux travaux du groupe de coordination des organismes notifiés établi par la Commission européenne, et ce directement ou par l'intermédiaire de mandataires.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Les organismes notifiés communiquent au délégué du ministre les informations visées à l'article 32 du règlement 2019/945.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0005"> 9</a>. Conformément à l'article 24 du règlement 2019/945, en cas de sous-traitance ou de recours à une filiale, l'organisme notifié informe le délégué du ministre et tient à la disposition de celui-ci les documents pertinents.
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE 5.</a> - Surveillance des organismes notifiés, sanctions et recours
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Les organismes notifiés autorisent le libre accès de leurs locaux aux fonctionnaires du service public qui ont été chargés par le délégué du ministre d'effectuer une enquête ou un audit pour contrôler si le fonctionnement de l'organisme notifié est conforme aux dispositions du présent arrêté et pour contrôler que les conditions d'agrément sont respectées. Ils mettent à la disposition de ces fonctionnaires tous les documents et données nécessaires pour que ceux-ci puissent exécuter leur mission. A la demande de ces fonctionnaires, l'organisme notifié leur confie ces documents ou une copie de ces documents.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Sans préjudice des modalités de contrôle qui sont prévues par l'arrêté royal du 27 avril 2007 déterminant les critères de fonctionnement et les modalités de contrôle du fonctionnement des organismes intervenants, le ministre peut restreindre, suspendre ou retirer l'agrément lorsqu'il est constaté que l'une des exigences de l'article 22 du règlement 2019/945 n'est plus respectée ou lorsque l'organisme notifié ne s'acquitte pas de ses obligations. Le ministre prend la décision de restreindre, de suspendre ou de retirer les agréments sur la base de la gravité de la non satisfaction à ces exigences ou au non-respect de ces obligations.
+Le ministre peut également restreindre ou retirer l'agrément si, après une période de trois ans à compter de la date de notification visée à l'article 6, il apparaît que l'organisme n'a exercé aucune activité dans le domaine couvert par l'agrément ou que ces activités sont négligeables.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Les décisions prises en exécution des dispositions de l'article 11 sont notifiées à l'organisme concerné.
+Si la décision a pour effet la restriction, la suspension ou le retrait de l'agrément, elle entre en vigueur à la date de notification.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. L'agrément est retiré d'office lorsque l'accréditation visée à l'article 3 a été retirée par l'organisme d'accréditation ou n'est pas renouvelée. Le retrait de l'agrément entre en vigueur lorsque, à l'issue de la procédure faisant suite à un recours éventuel de l'organisme auprès de l'organisme d'accréditation, celui-ci confirme le retrait ou le non renouvellement de l'accréditation.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0006"> 14</a>. Le délégué du ministre modifie sans délai la notification auprès de la Commission européenne pour mettre celle-ci en conformité avec la restriction, la suspension ou le retrait en exécution des articles 11 à 13, et en informe immédiatement la Commission et les autres Etats-Membres.
+En cas de restriction, de suspension ou de retrait d'une notification, ou lorsque l'organisme notifié a cessé ses activités, le délégué du ministre peut ordonner que les dossiers de cet organisme notifié soient traités par un autre organisme notifié ou tenus à disposition, d'une autre manière, pour l'information des autorités notifiantes et des autorités de surveillance du marché compétentes qui en font la demande.
+
+<a name="LNK0006" href="#LNKR0006">CHAPITRE 6.</a> - Déclaration UE de conformité
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0007"> 15</a>. La déclaration UE de conformité visée à l'article 14 du règlement 2019/945 est rédigée ou traduite au moins en français, néerlandais ou allemand pour les UAS destinés à être mis à disposition sur le marché belge.
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 7.</a> - Disposition finale
+
+<a name="Art.16" href="#Art.15">Art.</a> 16. Le ministre qui a la Protection de la Sécurité des Consommateurs dans ses attributions est chargé de l'exécution du présent arrêté.
