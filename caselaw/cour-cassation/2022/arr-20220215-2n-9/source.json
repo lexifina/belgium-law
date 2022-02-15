@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220215.2N.9",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220215.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-15",
+  "date_as_printed": "Vonnis/arrest van 15 februari 2022",
+  "published_on_juportal": "2022-02-17",
+  "language": "nl",
+  "role_number": "P.21.1397.N",
+  "case_name_as_published": "V.N.W.TRANSPORT N.V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - CODE DE LA ROUTE DU 01-12-1975 - DISPOSITIONS REGLEMENTAIRES - Article 45",
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 45",
+    "Article 45bis - Chargement des véhicules - Responsabilités des acteurs du processus de chargement - Obligations du transporteur - Portée",
+    "Article 45bis - Chargement des véhicules - Système d'arrimage du chargement - Résistance aux forces g prévues par la loi - Preuve - Modalités",
+    "PREUVE - MATIERE REPRESSIVE - Administration de la preuve",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Roulage - Code de la route du 01-12-1975 - Article 45bis - Chargement des véhicules - Système d'arrimage du chargement - Modalités",
+    "Artikel 45bis - Lading van voertuigen - Aansprakelijkheden van de actoren van het laadproces - Verplichtingen van de vervoerder - Draagwijdte",
+    "Artikel 45bis - Lading van voertuigen - Ladingverzekeringssysteem - Het weerstaan van de wettelijk voorziene g-krachten - Bewijs - Wijze",
+    "Wegverkeer - Wegverkeersreglement van 01-12-1975 - Artikel 45bis - Lading van voertuigen - Ladingverzekeringssysteem - Wijze"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 45",
+    "Artikel 45bis - Lading van voertuigen - Aansprakelijkheden van de actoren van het laadproces - Verplichtingen van de vervoerder - Draagwijdte",
+    "WEGVERKEER - WEGVERKEERSREGLEMENT VAN 01-12-1975 - REGLEMENTSBEPALINGEN - Artikel 45",
+    "Artikel 45bis - Lading van voertuigen - Ladingverzekeringssysteem - Het weerstaan van de wettelijk voorziene g-krachten - Bewijs - Wijze",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 45bis - 31 ELI link Pub nr 1975120109",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Wegverkeer - Wegverkeersreglement van 01-12-1975 - Artikel 45bis - Lading van voertuigen - Ladingverzekeringssysteem - Wijze",
+    "KB van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg - 01-12-1975 - Art. 45bis - 31 ELI link Pub nr 1975120109"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220215.2N.9",
+  "source_sha256": "749c60282942d24ae57e92a1a6602c15bed94cb0d180686eca830a5e62456416",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220215.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_31.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
