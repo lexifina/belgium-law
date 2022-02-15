@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220215.2N.13",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220215.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-15",
+  "date_as_printed": "Vonnis/arrest van 15 februari 2022",
+  "published_on_juportal": "2022-02-17",
+  "language": "nl",
+  "role_number": "P.21.1418.N",
+  "case_name_as_published": "P. contra J.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Audition d'un témoin à charge - Prise en considération d'une déclaration à titre de preuve - Condition - Conséquences",
+    "PREUVE - MATIERE REPRESSIVE - Preuve testimoniale",
+    "BEWIJS - STRAFZAKEN - Getuigen",
+    "Juge du fond - Audition d'un témoin à charge - Prise en considération d'une déclaration à titre de preuve - Condition - Conséquences",
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Preuve testimoniale - Juge du fond - Audition d'un témoin à charge - Prise en considération d'une déclaration à titre de preuve - Condition - Conséquences",
+    "Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen",
+    "Rechter ten gronde - Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen",
+    "Getuigen - Rechter ten gronde - Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen",
+    "BEWIJS - STRAFZAKEN - Getuigen",
+    "Rechter ten gronde - Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Getuigen - Rechter ten gronde - Horen van getuige à charge - In aanmerking nemen van verklaring als bewijs - Voorwaarde - Gevolgen",
+    "T.Strafr.-Tijdschrift voor strafrecht: jurisprudentie, nieuwe wetgeving en doctrine voor de praktijk2 - 2022, nr. 3, p. 165-166. - MEGANCK, B.; Noot'Het niet-horen van een getuige à charge met wiens verklaring de rechter geen rekening houdt'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220215.2N.13",
+  "source_sha256": "3b25fa984ab5c4f608b6a8ef540c1f9f1693c32c5a251beaa29fd189604268b3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220215.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_32.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
