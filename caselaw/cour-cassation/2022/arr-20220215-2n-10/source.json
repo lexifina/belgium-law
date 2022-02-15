@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220215.2N.10",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220215.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-15",
+  "date_as_printed": "Vonnis/arrest van 15 februari 2022",
+  "published_on_juportal": "2022-02-17",
+  "language": "nl",
+  "role_number": "P.21.1572.N",
+  "case_name_as_published": "V. contra C.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INDEMNITE DE PROCEDURE",
+    "RECHTSPLEGINGSVERGOEDING",
+    "Matière répressive - Partie ayant obtenu gain de cause - Assurance protection juridique - Conséquences",
+    "Strafzaken - De in het gelijk gestelde partij - Rechtsbijstandverzekering - Gevolgen"
+  ],
+  "fiche": [
+    "RECHTSPLEGINGSVERGOEDING",
+    "Strafzaken - De in het gelijk gestelde partij - Rechtsbijstandverzekering - Gevolgen",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 162bis, eerste lid - 30 ELI link Pub nr 1808111701 Gerechtelijk Wetboek - 10-10-1967 - Art. 1022, eerste lid - 01 ELI link Pub nr 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220215.2N.10",
+  "source_sha256": "20fa1c148367d4e9dd80eabd1785426917e0d92f095bfedfe6bdccc145416af1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220215.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_34.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
