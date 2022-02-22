@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220222.2N.12",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220222.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-22",
+  "date_as_printed": "Vonnis/arrest van 22 februari 2022",
+  "published_on_juportal": "2022-02-24",
+  "language": "nl",
+  "role_number": "P.21.1448.N",
+  "case_name_as_published": "PROCUREUR-GENERAAL HOF VAN BEROEP BRUS. contra A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Grief d'ordre public soulevé d'office - Code d'instruction criminelle, article 210, alinéa 2 - Cause d'irrecevabilité de l'action publique - Minorité du prévenu - Portée",
+    "Grief d'ordre public soulevé d'office - Cause d'irrecevabilité de l'action publique - Code d'instruction criminelle, article 210, alinéa 3 - Audition des parties sur le moyen soulevé d'office - Ministère public - Portée",
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE",
+    "Matière répressive - Appel - Compétence du juge - Grief d'ordre public soulevé d'office - Cause d'irrecevabilité de l'action publique - Code d'instruction criminelle, article 210, alinéa 3 - Audition des parties sur le moyen soulevé d'office - Portée",
+    "Ambtshalve opwerping van een grief van openbare orde - Artikel 210, tweede lid, Wetboek van Strafvordering - Grond van niet-ontvankelijkheid van de strafvordering - Minderjarigheid van de beklaagde - Draagwijdte",
+    "Ambtshalve opwerping van een grief van openbare orde - Grond van niet-ontvankelijkheid van de strafvordering - Artikel 210, derde lid, Wetboek van Strafvordering - Horen van de partijen over het ambtshalve opgeworpen middel - Openbaar ministerie - Draagwijdte",
+    "Strafzaken - Hoger beroep - Bevoegdheid van de rechter - Ambtshalve opwerping van een grief van openbare orde - Grond van niet-ontvankelijkheid van de strafvordering - Artikel 210, derde lid, Wetboek van Strafvordering - Horen van de partijen over het ambtshalve opgeworpen middel - Draagwijdte"
+  ],
+  "fiche": [
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Ambtshalve opwerping van een grief van openbare orde - Artikel 210, tweede lid, Wetboek van Strafvordering - Grond van niet-ontvankelijkheid van de strafvordering - Minderjarigheid van de beklaagde - Draagwijdte",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 210, tweede en derde lid - 30 ELI link Pub nr 1808111901",
+    "Ambtshalve opwerping van een grief van openbare orde - Grond van niet-ontvankelijkheid van de strafvordering - Artikel 210, derde lid, Wetboek van Strafvordering - Horen van de partijen over het ambtshalve opgeworpen middel - Openbaar ministerie - Draagwijdte",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 210, tweede en derde lid - 30 ELI link Pub nr 1808111901",
+    "OPENBAAR MINISTERIE",
+    "Strafzaken - Hoger beroep - Bevoegdheid van de rechter - Ambtshalve opwerping van een grief van openbare orde - Grond van niet-ontvankelijkheid van de strafvordering - Artikel 210, derde lid, Wetboek van Strafvordering - Horen van de partijen over het ambtshalve opgeworpen middel - Draagwijdte",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 210, tweede en derde lid - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220222.2N.12",
+  "source_sha256": "4ac6623eed5a8d77674231062ee175004f4a14bda1cc40f89f6be08d1136cd8a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220222.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_54.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
