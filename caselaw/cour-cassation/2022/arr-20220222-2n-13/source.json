@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220222.2N.13",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220222.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-02-22",
+  "date_as_printed": "Vonnis/arrest van 22 februari 2022",
+  "published_on_juportal": "2022-02-24",
+  "language": "nl",
+  "role_number": "P.21.1433.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 34",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 34",
+    "Article 34, § 2, 1° - Conduite en état d'imprégnation alcoolique d'un véhicule dans un lieu public - Constatation des verbalisateurs - Conditions de la constatation - Portée - Conséquence",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 35",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 35",
+    "Conduite en état d'ivresse d'un véhicule dans un lieu public - Constatation des verbalisateurs - Conditions de la constatation - Portée - Conséquence",
+    "INSTRUCTION EN MATIERE REPRESSIVE - INFORMATION - Actes d'information",
+    "ONDERZOEK IN STRAFZAKEN - OPSPORINGSONDERZOEK - Opsporingshandelingen",
+    "Constatation des verbalisateurs - Roulage - Constatation de l'état d'imprégnation alcoolique ou d'ivresse en conduisant un véhicule dans un lieu public - Conditions de la constatation - Portée - Conséquence",
+    "Artikel 34, § 2, 1° - Besturen van een voertuig op een openbare plaats in een toestand van alcoholintoxicatie - Vaststelling door de verbalisanten - Voorwaarden van de vaststelling - Draagwijdte - Gevolg",
+    "Besturen van een voertuig op een openbare plaats in staat van dronkenschap - Vaststelling door de verbalisanten - Voorwaarden van de vaststelling - Draagwijdte - Gevolg",
+    "Vaststelling door de verbalisanten - Wegverkeer - Vaststelling van de toestand van alcoholintoxicatie of dronkenschap bij het besturen van een voertuig op een openbare plaats - Voorwaarden van de vaststelling - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 34",
+    "Artikel 34, § 2, 1° - Besturen van een voertuig op een openbare plaats in een toestand van alcoholintoxicatie - Vaststelling door de verbalisanten - Voorwaarden van de vaststelling - Draagwijdte - Gevolg",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 34, § 2, 1° - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 35 - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 35",
+    "Besturen van een voertuig op een openbare plaats in staat van dronkenschap - Vaststelling door de verbalisanten - Voorwaarden van de vaststelling - Draagwijdte - Gevolg",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 34, § 2, 1° - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 35 - 31 ELI link Pub nr 1968031601",
+    "ONDERZOEK IN STRAFZAKEN - OPSPORINGSONDERZOEK - Opsporingshandelingen",
+    "Vaststelling door de verbalisanten - Wegverkeer - Vaststelling van de toestand van alcoholintoxicatie of dronkenschap bij het besturen van een voertuig op een openbare plaats - Voorwaarden van de vaststelling - Draagwijdte - Gevolg",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 34, § 2, 1° - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 35 - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220222.2N.13",
+  "source_sha256": "1b0e5e10aafe6e893492273cb55bff9c509531709106e869d034a7ce0d9ee9bb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220222.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_51.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
