@@ -1,0 +1,17 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 8<sup>1</sup> de l'arrêté royal n° 4, du 29 décembre 1969, relatif aux restitutions en matière de taxe sur la valeur ajoutée, remplacé par l'arrêté royal du 14 avril 1993 et modifié en dernier lieu par l'arrêté royal du 27 décembre 2021, les modifications suivantes sont apportées :
+1° le paragraphe 2, alinéa 1er, est complété par le 5° rédigé comme suit :
+"5° la somme due par l'Etat après le dépôt de la déclaration mensuelle visée à l'article 53, § 1er, alinéa 1er, 2°, du Code par l'assujetti, autre qu'un assujetti visé à l'article 55, § 3, alinéa 2, du Code, si elle atteint 50 euros, lorsque l'assujetti a bénéficié d'un excédent :
+a) d'au moins 12.000 euros au cours de l'année civile précédente ou, pour la première année civile au cours de laquelle cet assujetti est tenu de remplir des obligations de service public, d'au moins 1.000 euros pour la période de déclaration concernée;
+b) provenant de déductions générées au cours de la même période pour au moins trente pour cent par les achats de biens et de services qu'il a effectués en vertu d'une ou plusieurs obligations de service public à sa charge.";
+2° dans le paragraphe 2, l'alinéa 2 est remplacé par ce qui suit :
+"La restitution visée à l'alinéa 1er, 1°, est subordonnée à la condition que toutes les déclarations relatives aux opérations de l'année civile soient déposées au plus tard le 20 janvier de l'année suivante. Pour la restitution visée à l'alinéa 1er, 2° à 5°, toutes les déclarations relatives aux opérations de l'année en cours sont déposées au plus tard le vingtième jour du mois qui suit, selon le cas, le trimestre ou le mois à l'expiration duquel la somme due par l'Etat est constatée. Pour la restitution visée à l'alinéa 1er, 3° à 5°, ces déclarations sont en outre déposées selon les modalités fixées à l'article 18, § 4, de l'arrêté royal n° 1, du 29 décembre 1992, relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée.";
+3° dans le paragraphe 3, alinéa 3, les mots "paragraphe 2, alinéa 1er, 3° et 4° " sont remplacés par les mots "paragraphe 2, alinéa 1er, 3° à 5° ";
+4° dans le paragraphe 5, l'alinéa 1er est remplacé par ce qui suit :
+"La restitution prévue au paragraphe 2, alinéa 1er, 3° et 5°, est, en outre, subordonnée à la délivrance d'une autorisation par le service compétent de l'administration en charge de la taxe sur la valeur ajoutée dont l'assujetti relève. Cette autorisation est demandée par une lettre comportant tous les éléments et accompagnée de tous les documents de nature à établir que l'assujetti remplit les conditions particulières requises pour cette restitution.";
+5° dans le paragraphe 5, alinéa 5, les mots "la période visée au § 2, alinéa 1er, 3° " sont remplacés par les mots "l'année civile visée au paragraphe 2, alinéa 1er, 3° et 5° ";
+6° dans le paragraphe 5, l'alinéa 7 est remplacé par ce qui suit :
+"Si l'administration constate que l'assujetti ne satisfait plus aux conditions visées au paragraphe 2, alinéa 1er, 3° et 5°, elle peut, par décision motivée, retirer à tout moment l'autorisation.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté est applicable aux demandes de restitution relatives à une période de déclaration qui débute au plus tôt le 1er janvier 2022.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.(1)
