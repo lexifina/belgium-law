@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'utilité publique exige, en vue de la construction d'un établissement regroupant les services de la Police fédérale et de la Zone de Police Weser/Göhl à Eupen, la prise de possession immédiate par la Régie des Bâtiments de la parcelle connue au cadastre sous Eupen, Deuxième division, Section G, Parcelle n° 30 V 8.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. La parcelle visée à l'article 1er et nécessaire à l'implantation dudit bâtiment sera, à défaut de cession amiable, acquise et occupée conformément à la loi du 26 juillet 1962, modifiée par la loi du 6 avril 2000, relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Notre Ministre de l'Intérieur, des Réformes institutionnelles et du Renouveau démocratique et notre Secrétaire d'Etat à la Digitalisation, chargé de la Simplification administrative, de la Protection de la vie privée et de la Régie des Bâtiments, adjoint au Premier ministre sont chargés de l'exécution du présent arrêté.
