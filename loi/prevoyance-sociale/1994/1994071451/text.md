@@ -3667,10 +3667,11 @@ Toutefois, pendant les trente premiers jours de l'incapacité de travail, le tau
 Si le titulaire cesse d'être en incapacité primaire au sens de l'article 100, pendant une période comptant moins de quatorze jours, cette période non indemnisée n'interrompt pas le cours de la période d'incapacité primaire.
 Les périodes de protection de la maternité visées aux articles 114 et 114bis, qui surviennent dans le courant d'une période d'incapacité primaire, suspendent le cours de ladite période.
 Pour les travailleurs qui peuvent prétendre à la pension d'invalidité accordée aux ouvriers mineurs et assimilés, le droit à l'indemnité d'incapacité primaire expire à la fin du sixième mois d'incapacité de travail. Toutefois, les droits de ces travailleurs pendant les six premiers mois qui suivent la période fixée ci-dessus sont déterminés par le Roi. Le Roi détermine également les modalités suivant lesquelles le sixième mois de l'incapacité de travail est prolongé ou écourté jusqu'à la fin du mois civil.
-(Le Roi fixe le taux de l'indemnité d'incapacité primaire. Il fixe également le montant minimum de l'indemnité qui peut être accordée aux différentes catégories de titulaires déterminées conformément aux articles (93, 93bis et 93ter) , ainsi que les conditions d'octroi en ce compris le moment à partir duquel ledit minimum peut être accordé.) &lt;L 2002-12-24/31, art. 250, 077; <b> En vigueur : </b> 01-01-2003&gt; &lt;L 2006-12-27/30, art. 134, 124; <b> En vigueur : </b> 01-01-2007&gt;
+(Le Roi fixe le taux de l'indemnité d'incapacité primaire. Il fixe également le montant minimum de l'indemnité qui peut être accordée aux différentes catégories de titulaires déterminées conformément aux [<sup>3</sup> articles 93 et 93bis]<sup>3</sup> , ainsi que les conditions d'octroi en ce compris le moment à partir duquel ledit minimum peut être accordé.) &lt;L 2002-12-24/31, art. 250, 077; <b> En vigueur : </b> 01-01-2003&gt; &lt;L 2006-12-27/30, art. 134, 124; <b> En vigueur : </b> 01-01-2007&gt;
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014121907" target="_blank">2014-12-19/07</a>, art. 158, 227; En vigueur : 01-01-2015. Voir également l'art. 169&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017093001" target="_blank">2017-09-30/01</a>, art. 61, 251; En vigueur : 26-10-2017&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 34, 296; En vigueur : 01-01-2021&gt;
 
 <a name="Art.88" href="#Art.87">Art.</a> <a href="#Art.89"> 88</a>. Le Comite de gestion du Service des indemnités fixe les règles et les délais suivant lesquels le titulaire avise le médecin-conseil de son organisme assureur de toute incapacité de travail.
 Il fixe également les règles qui doivent être observées en vue de la prolongation d'une période d'incapacité de travail reconnue.
@@ -3805,7 +3806,7 @@ A cet égard, le Comité prend notamment en considération les éléments suivan
 
 <a name="Art.103" href="#Art.102">Art.</a> <a href="#Art.104"> 103</a>.§ 1er. Le travailleur ne peut prétendre aux indemnités :
 1° pour la période pour laquelle il a droit à une rémunération. La notion de rémunération est déterminée par l'article 2 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.
-Toutefois, le Roi peut étendre ou limiter la notion ainsi définie;
+[<sup>3</sup> Le Roi peut étendre ou limiter la notion de rémunération visée à l'alinéa 1er, ainsi que déterminer de quelle manière est fixée la période qui est couverte par l'indemnité non exprimée en temps de travail octroyée en raison de la résiliation du contrat de travail;]<sup>3</sup>
 2° pour la période couverte par la période de vacances. Le Roi détermine ce qu'il y a lieu d'entendre par "période couverte par le pécule de vacances";
 3° (pour la période pour laquelle il peut prétendre à une indemnité due à la suite de la rupture irrégulière du contrat de travail, de la rupture unilatérale du contrat de travail pour les délégués du personnel, de la rupture unilatérale du contrat de travail pour les délégués syndicaux ou de la cessation du contrat de travail de commun accord) [<sup>1</sup> , ou à une indemnité en compensation du licenciement visée dans l'article 7, § 1er, alinéa 3, zf), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs]<sup>1</sup>; &lt;AR 2002-11-05/43, art. 14, 072; <b> En vigueur : </b> 01-01-2003&gt;
 4° pour la période pendant laquelle il reçoit une indemnité garantie par une loi belge ou étrangère pour interruption temporaire ou définitive de son activité professionnelle habituelle, qui est ou risque d'être nuisible à sa santé.
@@ -3818,6 +3819,7 @@ Pour la récupération des indemnités qu'il aura payées en application de la p
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013122608" target="_blank">2013-12-26/08</a>, art. 109, 210; En vigueur : 01-01-2014&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018122149" target="_blank">2018-12-21/49</a>, art. 37, 262; En vigueur : 27-01-2019&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 31, 296; En vigueur : 01-01-2021&gt;
 
 <a name="Art.104" href="#Art.103">Art.</a> <a href="#Art.104bis"> 104</a>. Le Roi détermine dans quelles conditions et dans quelle mesure les indemnités sont accordées :
 1° lorsque au cours de l'incapacité de travail elles viennent à être cumulées avec un revenu professionnel;
@@ -3900,7 +3902,7 @@ En cas de naissance multiple, la période de repos postnatal de neuf semaines, �
 [<sup>6</sup> ...]<sup>6</sup> [<sup>5</sup> Lorsque la titulaire accouche d'un enfant sans vie, les alinéas 1er à 3 s'appliquent, pour autant que la grossesse ait duré un minimum de cent-quatre-vingts jours à dater de la conception.]<sup>5</sup> &lt;L 2006-07-20/39, art. 149, 118; <b> En vigueur : </b> 01-09-2006&gt;
 Lorsque l'enfant nouveau né doit rester hospitalisé après les sept premiers jours à compter de la naissance, la période de repos postnatal peut, à la demande de la titulaire, être prolongée d'une durée égale à la période d'hospitalisation de l'enfant qui excède ces sept premiers jours. La durée de cette prolongation ne peut dépasser vingt-quatre semaines. A cet effet, la titulaire remet à son organisme assureur un certificat de l'institution hospitalière attestant la durée d'hospitalisation de l'enfant.
 (La travailleuse visée à l'article 86, § 1er, 1°, a), à l'exclusion de la travailleuse qui bénéficie d'une indemnité suite à la rupture du contrat de travail, a la faculté de prolonger la période de repos de maternité en reprenant une partie de ses activités professionnelles dans les conditions visées à l'article 39, alinéa 3, de la loi du 16 mars 1971 sur le travail.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122232" target="_blank">2008-12-22/32</a>, art. 111, 155; <b> En vigueur : </b> 01-04-2009; voir également l'art. 13&gt;
-[<sup>2</sup> Lors du décès ou d'hospitalisation de la mère, une partie de la période de repos postnatal peut être convertie, dans les conditions et suivant les modalités déterminées par le Roi, en un congé en faveur du titulaire visé à l'article 86, § 1er, qui satisfait aux conditions prévues par les [<sup>4</sup> articles 116/1 à 116/4 et 131]<sup>4</sup> et à celles prévues [<sup>3</sup> par l'article 30, § 2, alinéas 1er à 5]<sup>3</sup>, de la loi du 3 juillet 1978 relative aux contrats de travail [<sup>3</sup> ...]<sup>3</sup>. L'indemnité accordée auxdits titulaires est déterminée par le Roi.]<sup>2</sup>
+[<sup>2</sup> Lors du décès ou d'hospitalisation de la mère, une partie de la période de repos postnatal peut être convertie, dans les conditions et suivant les modalités déterminées par le Roi, en un congé en faveur du titulaire visé à l'article 86, § 1er, qui satisfait aux conditions prévues par les [<sup>4</sup> articles 116/1 à 116/4 et 131]<sup>4</sup> et à celles prévues [<sup>3</sup> par l'article 30, § 2,[<sup>7</sup> alinéas 1er à 6]<sup>7</sup>]<sup>3</sup>, de la loi du 3 juillet 1978 relative aux contrats de travail [<sup>3</sup> ...]<sup>3</sup>. L'indemnité accordée auxdits titulaires est déterminée par le Roi.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009050603" target="_blank">2009-05-06/03</a>, art. 54, 161; En vigueur : 01-03-2009&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011041309" target="_blank">2011-04-13/09</a>, art. 6, 183; En vigueur : 20-05-2011&gt;
@@ -3908,6 +3910,7 @@ Lorsque l'enfant nouveau né doit rester hospitalisé après les sept premiers j
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014121907" target="_blank">2014-12-19/07</a>, art. 159, 227; En vigueur : 01-05-2017&gt;
 (<font color="red">5</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018121931" target="_blank">2018-12-19/31</a>, art. 3, 266; En vigueur : 31-03-2019&gt;
 (<font color="red">6</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061206" target="_blank">2020-06-12/06</a>, art. 6, 281; En vigueur : 01-03-2020&gt;
+(<font color="red">7</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 35, 296; En vigueur : 01-01-2021&gt;
 
 <a name="Art.114bis" href="#Art.114">Art.</a> <a href="#Art.115"> 114bis</a>. &lt;inséré par L 1996-08-04/03, art. 8, <b> En vigueur : </b> 06-10-1996&gt; Constitue également une période de protection de la maternité, la période pendant laquelle la travailleuse enceinte, accouchée ou allaitante bénéficie d'une mesure visée aux articles 42, § 1, 43 ou 43bis de la loi du 16 mars 1971 sur le travail.
 
@@ -3918,7 +3921,9 @@ La condition visée à l'alinéa 1er ne s'applique pas :
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 5, 220; En vigueur : 16-06-2014&gt;
 
-<a name="LNK0095" href="#LNKR0095">CHAPITRE V.</a> - Des conditions d'octroi. - Disposition particulière à l'assurance maternité.
+<a name="LNK0095" href="#LNKR0095">CHAPITRE V.</a> - Des conditions d'octroi. - [<sup>1</sup> Dispositions particulières]<sup>1</sup> à l'assurance maternité.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 36, 296; En vigueur : 19-03-2022&gt;
 
 <a name="Art.116" href="#Art.115">Art.</a> <a href="#Art.116/1"> 116</a>.[<sup>1</sup> Pour obtenir le droit aux prestations prévues au titre V, les titulaires visés à l'article 112 doivent satisfaire aux conditions prévues par les articles 116/1 à 116/4 et 131.
 Le Roi peut, après avis du Comité de gestion du Service des indemnités, pour les catégories de titulaires qu'Il définit, soit dispenser des conditions de [<sup>2</sup> stage d'attente]<sup>2</sup> prévues à l'article 116/1, soit les adapter.]<sup>1</sup>
@@ -3962,6 +3967,13 @@ La travailleuse visées à l'alinéa 1er doit avoir la qualité de titulaire de 
 Les heures qui correspond aux pauses d'allaitement sont assimilées à des heures de travail et sont prises en considération pour l'accomplissement des conditions d'assurance visées [<sup>1</sup> aux articles 116/1 à 116/4 et aux articles 128 à 132.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014121907" target="_blank">2014-12-19/07</a>, art. 165, 227; En vigueur : 01-05-2017&gt;
+
+<a name="Art.%20116/6." href="#Art.116/5">Art.</a> <a href="#LNK0096">116/6</a>. [<sup>1</sup> Le Roi détermine le montant de l'indemnité octroyée aux titulaires visés à l'article 112 qui ne sont pas liés par un contrat de travail au sens de la loi du 3 juillet 1978 relative aux contrats de travail:
+1° s'ils bénéficient d'un congé de paternité ou de naissance conformément à la réglementation du travail qui leur est applicable et qui prévoit un tel congé dans les mêmes conditions qu'à l'article 30, § 2, de la loi précitée du 3 juillet 1978;
+2° s'ils bénéficient d'un congé d'adoption conformément à la réglementation du travail qui leur est applicable et qui prévoit un tel congé dans les mêmes conditions qu'à l'article 30ter de la loi précitée du 3 juillet 1978;
+3° s'ils bénéficient d'un congé parental d'accueil conformément à la réglementation du travail qui leur est applicable et qui prévoit un tel congé dans les mêmes conditions qu'à l'article 30sexies de la loi précitée du 3 juillet 1978.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 32, 296; En vigueur : 01-01-2021&gt;
 
 <a name="LNK0096" href="#LNKR0096">CHAPITRE VI.</a> - Disposition générale.
 
