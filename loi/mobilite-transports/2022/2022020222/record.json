@@ -1,0 +1,30 @@
+{
+  "id": "2022020222",
+  "title": "24 JANVIER 2022. - Loi relative à l'actualisation de la règlementation en matière d'interdiction des appareils de communication électronique au volant",
+  "source_title": "24 JANVIER 2022. - Loi relative à l'actualisation de la règlementation en matière d'interdiction des appareils de communication électronique au volant",
+  "act": "loi/mobilite-transports/2022/2022020222",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-02-21&numac_search=2022020222&page=119&lg_txt=F&caller=list&2022020222=20&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "7e1c12b613238c735faf566bf8c571da0cb643cad9b4b2fba96523e22484570c",
+  "source_issuer": "Mobilité et Transports",
+  "made": "2022-01-24",
+  "published": "2022-02-21",
+  "in_force": "2022-03-03",
+  "in_force_basis": "Justel: Entrée en vigueur : 3 mars 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Mobilité et Transports",
+    "Publication": "21 février 2022",
+    "Numéro": "2022020222",
+    "page": "14163",
+    "Dossier numéro": "2022-01-24/04",
+    "Entrée en vigueur": "3 mars 2022",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 374,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-03-03"
+}
