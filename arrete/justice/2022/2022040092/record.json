@@ -1,0 +1,30 @@
+{
+  "id": "2022040092",
+  "title": "27 JANVIER 2022. - Arrêté royal modifiant l'arrêté royal du 10 novembre 2009 fixant le cadre organique du personnel judiciaire de niveau A",
+  "source_title": "27 JANVIER 2022. - Arrêté royal modifiant l'arrêté royal du 10 novembre 2009 fixant le cadre organique du personnel judiciaire de niveau A",
+  "act": "arrete/justice/2022/2022040092",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-02-28&numac_search=2022040092&page=118&lg_txt=F&caller=list&2022040092=14&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "ec2267682c8216af59ec61b98d0c05d3bb09f9b94a015385735149525706f169",
+  "source_issuer": "Justice",
+  "made": "2022-01-27",
+  "published": "2022-02-28",
+  "in_force": "2022-03-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 mars 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "28 février 2022",
+    "Numéro": "2022040092",
+    "page": "16880",
+    "Dossier numéro": "2022-01-27/24",
+    "Entrée en vigueur": "10 mars 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 62,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-03-10"
+}
