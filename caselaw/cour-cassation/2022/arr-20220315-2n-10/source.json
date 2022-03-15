@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220315.2N.10",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220315.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-15",
+  "date_as_printed": "Vonnis/arrest van 15 maart 2022",
+  "published_on_juportal": "2022-03-18",
+  "language": "nl",
+  "role_number": "P.21.1413.N",
+  "case_name_as_published": "S. contra H.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - INFRACTIONS EN RELATION AVEC LA FAILLITE. INSOLVABILITE FRAUDULEUSE",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - MISDRIJVEN IN VERBAND MET FAILLISSEMENT, BEDRIEGLIJK ONVERMOGEN",
+    "Infractions en relation avec l'insolvabilité - Code pénal, article 489bis, 4° - Omission de faire l'aveu de la faillite - Elément moral - Preuve",
+    "FAILLITE ET CONCORDATS - NOTIONS. CONDITIONS DE LA FAILLITE",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - BEGRIP. VEREISTEN VAN HET FAILLISSEMENT",
+    "INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE D'INTENTION",
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "Elément moral - Infractions en relation avec l'insolvabilité - Code pénal, article 489bis, 4° - Omission de faire l'aveu de la faillite - Preuve",
+    "Misdrijven die verband houden met insolventie - Artikel 489bis, 4°, Strafwetboek - Verzuim om aangifte te doen van het faillissement - Moreel bestanddeel - Bewijs",
+    "Moreel bestanddeel - Misdrijven die verband houden met insolventie - Artikel 489bis, 4°, Strafwetboek - Verzuim om aangifte te doen van het faillissement - Bewijs"
+  ],
+  "fiche": [
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - MISDRIJVEN IN VERBAND MET FAILLISSEMENT, BEDRIEGLIJK ONVERMOGEN",
+    "Misdrijven die verband houden met insolventie - Artikel 489bis, 4°, Strafwetboek - Verzuim om aangifte te doen van het faillissement - Moreel bestanddeel - Bewijs",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 489bis, 4° - 01 ELI link Pub nr 1867060850 WETBOEK VAN KOOPHANDEL BOEK III - Faillissementswet - 08-08-1997 - Art. 9 - 80 ELI link Pub nr 1997009766 Wetboek van economisch recht - 28-02-2013 - thans art. XX.102 - 19 ELI link Pub nr 2013A11134",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - BEGRIP. VEREISTEN VAN HET FAILLISSEMENT",
+    "Misdrijven die verband houden met insolventie - Artikel 489bis, 4°, Strafwetboek - Verzuim om aangifte te doen van het faillissement - Moreel bestanddeel - Bewijs",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 489bis, 4° - 01 ELI link Pub nr 1867060850 WETBOEK VAN KOOPHANDEL BOEK III - Faillissementswet - 08-08-1997 - Art. 9 - 80 ELI link Pub nr 1997009766 Wetboek van economisch recht - 28-02-2013 - thans art. XX.102 - 19 ELI link Pub nr 2013A11134",
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "Moreel bestanddeel - Misdrijven die verband houden met insolventie - Artikel 489bis, 4°, Strafwetboek - Verzuim om aangifte te doen van het faillissement - Bewijs",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 489bis, 4° - 01 ELI link Pub nr 1867060850 WETBOEK VAN KOOPHANDEL BOEK III - Faillissementswet - 08-08-1997 - Art. 9 - 80 ELI link Pub nr 1997009766 Wetboek van economisch recht - 28-02-2013 - thans art. XX.102 - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220315.2N.10",
+  "source_sha256": "ecdf38c663e9b0d77c3f134e402740ff0af5982f401e596d3dd5d2515444e94f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220315.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
