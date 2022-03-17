@@ -4,4 +4,5 @@
 Il peut être dérogé aux paragraphes 1er et 2:
 1° lorsqu'il s'agit de l'exercice de fonction de membre d'un jury d'examen;
 2° lorsqu'il s'agit de la participation à une commission, à un conseil ou à un comité consultatif, pour autant que le nombre de missions ou de fonctions soit limité à deux et qu'il s'agisse de charges ou fonctions non rémunérées;
+3° lorsqu'il s'agit d'une fonction ou charge publique rémunérée d'ordre administratif qui ne bénéficie pas directement ou indirectement des décisions et prises de position que peut prendre l'Autorité belge de la concurrence, pour autant que cette fonction ou cette charge ne s'exerce pas pendant plus de deux demi-journées par semaine.
 Les dérogations visées aux alinéas 1er et 2 sont accordées par le président ou, si la demande le concerne, par le ministre.

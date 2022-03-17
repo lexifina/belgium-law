@@ -5,8 +5,8 @@ Le Collège de la concurrence entend également les tiers qui justifient d'un in
 Le directeur des affaires juridiques et le directeur des affaires économiques sont entendus à leur demande.
 Le défaut de comparution des parties ou personnes convoquées ou de leur mandataire n'affecte pas la validité de la procédure.
 § 3. Le président du Collège de la concurrence peut décider d'organiser plus d'une audience dans le délai maximum visé au paragraphe 1er. Si une audience supplémentaire ne s'avère pas nécessaire, le Collège de la concurrence peut, dans sa décision, constater la clôture des débats.
-§ 4. Une partie concernée peut offrir des engagements qui sont de nature à répondre aux préoccupations du Collège de la concurrence, au plus tard le troisième jour ouvrable suivant la première audience. Le Collège de la concurrence peut demander à l'auditeur de déposer des observations écrites sur les engagements offerts. Dans ce cas, la partie concernée peut répondre par écrit à ces observations écrites.
-L'auditeur peut appliquer l'article IV.40, § 1er, pour préparer ses observations écrites.
+§ 4. Une partie concernée peut offrir des engagements qui sont de nature à répondre aux préoccupations du Collège de la concurrence, au plus tard le troisième jour ouvrable suivant la première audience. Le cas échéant, le Collège de la concurrence demande à l'auditeur de consulter de manière formelle ou informelle les acteurs du marché et éventuellement de déposer des observations écrites sur les engagements offerts. Dans ce cas, la partie concernée peut répondre par écrit à ces observations écrites.
+L'auditeur peut appliquer l'article IV.40 pour préparer ses observations écrites.
 Le Collège de la concurrence fixe les délais pour le dépôt des observations écrites et de la réponse.
 Le Collège de la concurrence peut décider d'entendre la partie concernée et l'auditeur.
-En cas d'application de l'alinéa 1er, le président du Collège de la concurrence peut prolonger le délai maximum de deux mois visé au paragraphe 1er d'une durée maximale d'un mois.
+En cas d'application de l'alinéa 1er, le président du Collège de la concurrence peut prolonger le délai maximum de deux mois visé au paragraphe 1er d'une durée maximale de deux mois.

@@ -6,7 +6,7 @@ Les missions de l'auditeur sont notamment les suivantes:
 5° classer les plaintes, requêtes et injonctions;
 6° mettre fin à l'instruction;
 7° prendre les décisions de transaction;
-8° établir les griefs dans les affaires de pratiques restrictives de concurrence;
-9° établir une proposition de décision dans les affaires de pratiques restrictives de concurrence et dans les affaires de concentration;
+8° établir les griefs dans les affaires de d'infractions au droit de la concurrence;
+9° établir une proposition de décision dans les affaires de d'infractions au droit de la concurrence et dans les affaires de concentration;
 10° demander l'autorisation de perquisition préalable auprès du juge d'instruction compétent.
 L'auditeur peut accomplir tous les actes relatifs à l'accomplissement de sa mission, sauf ceux que le présent livre réserve à l'auditeur général.

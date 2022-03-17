@@ -1,2 +1,1 @@
 Si les discussions en vue d'une transaction offrent des perspectives de prise d'une décision de transaction, l'auditeur rédige un avant-projet de décision de transaction.
-En cas de l'application simultanée de l'article 101 ou de l'article 102 du TFUE, l'auditeur informe la Commission européenne de l'avant-projet de décision conformément à de l'article 11, paragraphe 4, du Règlement (CE) n° 1/2003.
