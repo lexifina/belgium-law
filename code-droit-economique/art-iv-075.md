@@ -3,3 +3,4 @@
 Les décisions de classement et les décisions de mettre fin à une instruction sont publiées conformément à l'alinéa 1er, sauf décision contraire de l'auditeur général.
 § 3. Les décisions de la Cour des marchés et de la Cour de cassation qui font application du présent livre ou sont prononcées en appel contre des décisions en vertu du présent livre sont publiées sur le site web de l'Autorité belge de la concurrence, tenant compte de l'intérêt légitime des entreprises à ce que leurs secrets d'affaires et autres informations confidentielles ne soient pas publiés.
 § 4. Les lignes directrices et les communications visées à l'article IV.25, 2°, sont publiées au Moniteur belge et sur le site web de l'Autorité belge de la concurrence.
+§ 5. Le rapport d'activités annuel visé à l'article IV.25, 5°, est communiqué au ministre et est publié sur le site web de l'Autorité belge de la concurrence.

@@ -8,7 +8,8 @@ Le délai de prescription en ce qui concerne la procédure d'instruction et de d
 1° trois ans en ce qui concerne les infractions aux dispositions relatives aux demandes de renseignements ou à l'exécution de perquisitions;
 2° cinq ans en ce qui concerne les autres infractions.
 Le délai de prescription court à compter du jour où l'infraction a été commise. Toutefois, pour les infractions continues ou répétées, ce délai ne court qu'à compter du jour où la dernière infraction a pris fin.
-Le délai de prescription relatif à l'imposition d'amendes ou d'astreintes n'est interrompu que par les actes d'instruction et de décision de l'Autorité belge de la concurrence ou, s'agissant de l'application des articles 101 et 102 TFUE, de la Commission européenne ou d'une autorité de concurrence d'un Etat membre visant à l'instruction ou à la poursuite de l'infraction. L'interruption du délai de prescription prend effet le jour où l'acte est notifié à au moins une entreprise ou association d'entreprises ayant participé à l'infraction.
+Le délai de prescription relatif à l'imposition d'amendes ou d'astreintes n'est interrompu que par les actes d'instruction et de décision de l'Autorité belge de la concurrence ou, s'agissant de l'application des articles 101 et 102 du TFUE, de la Commission européenne ou d'une autorité nationale de concurrence visant à l'instruction ou à la poursuite d'une infraction concernant le même accord, la même décision d'une association d'entreprises, la même pratique concertée ou une autre conduite interdite par l'article 101 ou 102 du TFUE.
+L'interruption du délai de prescription prend effet le jour où l'acte est notifié à au moins une entreprise ou association d'entreprises ayant participé à l'infraction.
 Constituent des actes interruptifs de la prescription entre autres:
 1° les demandes écrites de renseignements;
 2° les mandats écrits de perquisition;
@@ -16,7 +17,8 @@ Constituent des actes interruptifs de la prescription entre autres:
 4° la communication de griefs et le dépôt de la proposition de décision;
 5° l'ouverture d'une procédure de transaction.
 L'interruption du délai de prescription vaut à l'égard de toutes les entreprises et associations d'entreprises ayant participé à l'infraction.
-Un nouveau délai de prescription commence à courir à partir de chaque interruption. Toutefois, la prescription est acquise au plus tard le jour où un délai égal au double du délai de prescription arrive à expiration sans que le Collège de la concurrence ait prononcé une amende ou astreinte. Ce délai est prorogé de la période pendant laquelle la prescription est suspendue conformément à l'alinéa suivant.
+Un nouveau délai de prescription commence à courir à partir de chaque interruption. ...
+Toutefois, l'interruption prend fin le jour où l'autorité de concurrence clôt sa procédure en adoptant une décision ou d'une autre manière. En outre, la prescription est acquise au plus tard le jour où un délai égal au double du délai de prescription arrive à expiration sans que le Collège de la concurrence ait prononcé une amende ou astreinte. Ce délai est prorogé de la période pendant laquelle la prescription est suspendue conformément à l'alinéa 9.
 Le délai de prescription en matière d'imposition d'amendes et d'astreintes est suspendu aussi longtemps qu'une procédure est pendante dans l'affaire devant la Cour des marchés ou la Cour de cassation.
 § 4. Le pouvoir d'exécuter les décisions d'imposer des amendes ou des astreintes se prescrit par cinq ans.
 Ce délai court à compter du jour où la décision est devenue définitive.
