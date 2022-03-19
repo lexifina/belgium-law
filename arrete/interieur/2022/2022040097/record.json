@@ -1,0 +1,30 @@
+{
+  "id": "2022040097",
+  "title": "6 FEVRIER 2022. - Arrêté royal modifiant les règles relatives au comptable spécial des zones de secours et à son indemnité",
+  "source_title": "6 FEVRIER 2022. - Arrêté royal modifiant les règles relatives au comptable spécial des zones de secours et à son indemnité",
+  "act": "arrete/interieur/2022/2022040097",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-03-09&numac_search=2022040097&page=113&lg_txt=F&caller=list&2022040097=9&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "531eb7466c9c3f42603281ea8ef9f4df2bb011cb72a3da19be3120dee9131834",
+  "source_issuer": "Intérieur",
+  "made": "2022-02-06",
+  "published": "2022-03-09",
+  "in_force": "2022-03-19",
+  "in_force_basis": "Justel: Entrée en vigueur : 19 mars 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "9 mars 2022",
+    "Numéro": "2022040097",
+    "page": "18952",
+    "Dossier numéro": "2022-02-06/06",
+    "Entrée en vigueur": "19 mars 2022",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 334,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-03-19"
+}
