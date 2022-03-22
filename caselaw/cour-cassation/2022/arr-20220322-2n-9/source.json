@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220322.2N.9",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220322.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-22",
+  "date_as_printed": "Vonnis/arrest van 22 maart 2022",
+  "published_on_juportal": "2022-03-24",
+  "language": "nl",
+  "role_number": "P.21.1614.N",
+  "case_name_as_published": "W.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INSTRUCTION EN MATIERE REPRESSIVE - INSTRUCTION - Régularité de la procédure",
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regelmatigheid van de procedure",
+    "Nullité, cause d'irrecevabilité ou d'extinction de l'action publique - Contrôle d'office par la chambre des mises en accusation - Droit à la contradiction - Conditions",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "Plainte avec constitution de partie civile - Non-lieu - Appel de la partie civile - Régularité de la procédure - Nullité, cause d'irrecevabilité ou d'extinction de l'action publique - Contrôle d'office par la chambre des mises en accusation - Droit à la contradiction - Conditions",
+    "Nietigheid, grond van niet-ontvankelijkheid of van verval van de strafvordering - Ambtshalve toezicht door de kamer van inbeschuldigingstelling - Recht op tegenspraak - Voorwaarden",
+    "Klacht met burgerlijke partijstelling - Buitenvervolgingstelling - Hoger beroep van de burgerlijke partij - Regelmatigheid van de procedure - Nietigheid, grond van niet-ontvankelijkheid of van verval van de strafvordering - Ambtshalve toezicht door de kamer van inbeschuldigingstelling - Recht op tegenspraak - Voorwaarden"
+  ],
+  "fiche": [
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Regelmatigheid van de procedure",
+    "Nietigheid, grond van niet-ontvankelijkheid of van verval van de strafvordering - Ambtshalve toezicht door de kamer van inbeschuldigingstelling - Recht op tegenspraak - Voorwaarden",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 235bis, §§ 1 en 3 - 30 ELI link Pub nr 1808111701",
+    "STRAFVORDERING",
+    "Klacht met burgerlijke partijstelling - Buitenvervolgingstelling - Hoger beroep van de burgerlijke partij - Regelmatigheid van de procedure - Nietigheid, grond van niet-ontvankelijkheid of van verval van de strafvordering - Ambtshalve toezicht door de kamer van inbeschuldigingstelling - Recht op tegenspraak - Voorwaarden",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 235bis, §§ 1 en 3 - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220322.2N.9",
+  "source_sha256": "07b91a83e2f99919e2357d48a38d5e1a6394a13fe67c7febe930c28072548030",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220322.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
