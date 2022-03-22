@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220322.2N.12",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220322.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-22",
+  "date_as_printed": "Vonnis/arrest van 22 maart 2022",
+  "published_on_juportal": "2022-03-24",
+  "language": "nl",
+  "role_number": "P.21.1487.N",
+  "case_name_as_published": "IMMO YAMAN contra BOUWGROEP PROBUILD",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "FAUX ET USAGE DE FAUX",
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Faux en écritures - Ecrit protégé - Ecrit qui s'impose à la confiance publique - Notion",
+    "Faux en écritures - Ecrit protégé - État d'avancement de travaux de construction - Possibilité de contrôle des prestations mentionnées - Contestation de l'état des travaux devant le juge civil - Incidence de la procédure civile sur la condition de l'écrit qui s'impose à la confiance publique - Limite",
+    "Valsheid in geschriften - Beschermd geschrift - Geschrift dat zich opdringt aan het openbaar vertrouwen - Begrip",
+    "Valsheid in geschriften - Beschermd geschrift - Staat van de vordering van bouwwerken - Mogelijkheid van controle op de vermelde prestaties - Betwisting van de staat van de werken voor de burgerlijke rechter - Invloed van het burgerlijk geding op de voorwaarde van het geschrift dat zich opdringt aan het openbaar vertrouwen - Grens"
+  ],
+  "fiche": [
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Valsheid in geschriften - Beschermd geschrift - Geschrift dat zich opdringt aan het openbaar vertrouwen - Begrip",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 193 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 196 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 214 - 01 ELI link Pub nr 1867060850",
+    "Valsheid in geschriften - Beschermd geschrift - Staat van de vordering van bouwwerken - Mogelijkheid van controle op de vermelde prestaties - Betwisting van de staat van de werken voor de burgerlijke rechter - Invloed van het burgerlijk geding op de voorwaarde van het geschrift dat zich opdringt aan het openbaar vertrouwen - Grens",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 193 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 196 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 214 - 01 ELI link Pub nr 1867060850",
+    "T.Strafr.-Tijdschrift voor strafrecht: jurisprudentie, nieuwe wetgeving en doctrine voor de praktijk - 2023, nr. 3, p. 155-158. - SPRIET, Bart; Noot'Strafbare valsheid en strafbaar gebruik vereisen een door de wet beschermd geschrift'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220322.2N.12",
+  "source_sha256": "be9b5586743ca7093967c98983f8fce9335b5ab9212ebad49a285259c41844b4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220322.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_36.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
