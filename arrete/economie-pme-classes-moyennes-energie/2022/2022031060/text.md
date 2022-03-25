@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La proposition de liste des utilisateurs significatifs de réseau de haute priorité dans le cadre du plan de défense du réseau et les modalités y associées et de la proposition de liste des utilisateurs significatifs de réseau de haute priorité dans le cadre du plan de reconstitution du réseau et les modalités y associées sont approuvées.
+Le changement d'adresse du Centre pour l'Information et la Communication 101 et de la centrale d'urgence 112 de Liège, communiqué après l'introduction des listes par le gestionnaire de réseau, est traité par les gestionnaires du réseau de distribution et est présumé faire partie de la liste visée à l'alinéa 1er.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Une expédition certifiée conforme du présent arrêté est adressée à Elia Transmission Belgium SA et à la Commission de Régulation de l'Electricité et du Gaz.
