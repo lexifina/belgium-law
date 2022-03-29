@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220329.2N.28",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220329.2N.28",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-29",
+  "date_as_printed": "Vonnis/arrest van 29 maart 2022",
+  "published_on_juportal": "2022-04-01",
+  "language": "nl",
+  "role_number": "P.22.0390.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "LANGUES (EMPLOI DES) - MATIERE JUDICIAIRE (LOI DU 15 JUIN 1935) - Jugements et arrêts. Nullités - Matière répressive",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - Vonnissen en arresten. Nietigheden - Strafzaken",
+    "Caractère unilingue d'un acte - Reproduction d'une inscription mentionnée dans une autre langue - Conséquences",
+    "Eéntaligheid van de akte - Citeren van een in andere taal vermeld opschrift - Gevolgen"
+  ],
+  "fiche": [
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - Vonnissen en arresten. Nietigheden - Strafzaken",
+    "Eéntaligheid van de akte - Citeren van een in andere taal vermeld opschrift - Gevolgen",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 40 - 01 ELI link Pub nr 1935061501"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220329.2N.28",
+  "source_sha256": "858acfc11c43294971b7e9ec26d9958bb4da0f32cf2958821137047aeaf50c50",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220329.2N.28_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_41.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
