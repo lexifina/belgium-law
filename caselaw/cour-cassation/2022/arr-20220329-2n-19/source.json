@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220329.2N.19",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220329.2N.19",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-29",
+  "date_as_printed": "Vonnis/arrest van 29 maart 2022",
+  "published_on_juportal": "2022-04-01",
+  "language": "nl",
+  "role_number": "P.21.1628.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "RECEL",
+    "HELING",
+    "Blanchiment - Première infraction de blanchiment - Objet de l'infraction de blanchiment - Avantage patrimonial tiré de l'infraction de blanchiment - Notions",
+    "INFRACTION - DIVERS",
+    "MISDRIJF - ALLERLEI",
+    "Witwassen - Eerste witwasmisdrijf - Voorwerp van het witwasmisdrijf - Vermogensvoordeel verkregen uit het witwasmisdrijf - Begrippen"
+  ],
+  "fiche": [
+    "HELING",
+    "Witwassen - Eerste witwasmisdrijf - Voorwerp van het witwasmisdrijf - Vermogensvoordeel verkregen uit het witwasmisdrijf - Begrippen",
+    "Strafwetboek 1867 - 08-06-1867 - Artt. 42, 1° en 3°, en 505, eerste lid, 2°, en zevende lid - 01 ELI link Pub nr 1867060850",
+    "MISDRIJF - ALLERLEI",
+    "Witwassen - Eerste witwasmisdrijf - Voorwerp van het witwasmisdrijf - Vermogensvoordeel verkregen uit het witwasmisdrijf - Begrippen",
+    "Strafwetboek 1867 - 08-06-1867 - Artt. 42, 1° en 3°, en 505, eerste lid, 2°, en zevende lid - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220329.2N.19",
+  "source_sha256": "8be8951366e10a043d7d0c53a7840b65969de010f5873b7a1e364b4a863a7257",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220329.2N.19_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_42.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
