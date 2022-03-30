@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2022:ARR.20220330.2F.5",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220330.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-03-30",
+  "date_as_printed": "Jugement/arrêt du 30 mars 2022",
+  "published_on_juportal": "2022-04-12",
+  "language": "fr",
+  "role_number": "P.22.0220.F",
+  "case_name_as_published": "PROCUREUR GENERAL COUR DE CASSATION contra A.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "CASSATIE - VORDERINGEN TOT VERNIETIGING. CASSATIEBEROEP IN HET BELANG VAN DE WET",
+    "Code d'instruction criminelle, article 441 - Condamnation d'une personne décédée",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "Extinction par la mort de l'inculpé ou du prévenu - Condamnation ultérieure - Annulation",
+    "Artikel 441, Wetboek van Strafvordering - Veroordeling van een overleden persoon",
+    "Verval door de dood van de inverdenkinggestelde of beklaagde - Latere veroordeling - Nietigverklaring"
+  ],
+  "fiche": [
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "Code d'instruction criminelle, article 441 - Condamnation d'une personne décédée",
+    "Code d'instruction criminelle - 17-11-1808 - Art. 441 - 30 Lien ELI No pub 1808111701 L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 20 - 01 Lien ELI No pub 1878041750",
+    "ACTION PUBLIQUE",
+    "Extinction par la mort de l'inculpé ou du prévenu - Condamnation ultérieure - Annulation",
+    "Code d'instruction criminelle - 17-11-1808 - Art. 441 - 30 Lien ELI No pub 1808111701 L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 20 - 01 Lien ELI No pub 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220330.2F.5",
+  "source_sha256": "c9cda7d485e9efd6daf8cba169a1bd91c67253516c75108cc6535cbd03d649b5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220330.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_43.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
