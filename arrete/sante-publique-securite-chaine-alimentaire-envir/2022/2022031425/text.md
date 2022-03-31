@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 3 de l'arrêté ministériel du 21 septembre 2020 portant agrément des établissements, des centres et les médecins qui dispensent la formation visée à l'article 3, 4°, de l'arrêté royal du 21 septembre 2020 autorisant des personnes qui ne sont pas légalement qualifiées pour exercer l'art de guérir à accomplir certaines analyses de laboratoire dans le cadre de l'épidémie de coronavirus COVID-19, modifié par l'arrêté ministériel du 10 septembre 2021, les mots `le 1er avril 2022' sont remplacés par les mots `le 1er octobre 2022'.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le 31 mars 2022.
