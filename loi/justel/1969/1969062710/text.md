@@ -172,7 +172,10 @@ Pour ces travailleurs, un enregistrement du temps de travail est obligatoire en 
 
 <a name="Art.3bis" href="#Art.3">Art.</a> <a href="#Art.4"> 3bis</a>. &lt;Inséré par AR 2001-06-10/58, art. 1; <b> En vigueur : </b> 01-01-2003&gt; Pour l'application de la présente loi et de ses arrêtés d'exécution, les définitions des données relatives au temps de travail sont celles déterminées par l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
 
-<a name="Art.4" href="#Art.3bis">Art.</a> <a href="#LNK0002"> 4</a>. Les employeurs ne peuvent, en vue d'écarter l'application de la présente loi, se prévaloir de la nullité du contrat conclu avec le travailleur.
+<a name="Art.4" href="#Art.3bis">Art.</a> <a href="#LNK0002"> 4</a>.Les employeurs ne peuvent, en vue d'écarter l'application de la présente loi, se prévaloir de la nullité du contrat conclu avec le travailleur.
+[<sup>1</sup> Les institutions de sécurité sociale et les tiers au contrat de travail ne peuvent, en vue d'écarter l'application de la présente loi, se prévaloir de la nullité du contrat d'un travailleur qui se prostitue.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022106" target="_blank">2022-02-21/06</a>, art. 5, 082; En vigueur : 31-03-2022&gt;
 
 <a name="LNK0002" href="#LNKR0002">CHAPITRE II.</a> - L'Office national de sécurité sociale.
 
