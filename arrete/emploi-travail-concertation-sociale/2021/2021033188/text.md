@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Est rendue obligatoire la convention collective de travail n° 50/4 du 15 juillet 2021, reprise en annexe, conclue au sein du Conseil national du Travail, modifiant la convention collective de travail n° 50 du 29 octobre 1991 relative à la garantie d'un revenu minimum mensuel moyen aux travailleurs âgés de moins de 21 ans, modifiée par les conventions collectives de travail n° 50bis du 28 mars 2013 et n° 50ter du 26 mai 2015.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
