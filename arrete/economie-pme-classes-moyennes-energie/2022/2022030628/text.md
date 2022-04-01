@@ -1,0 +1,39 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'arrêté royal du 18 octobre 2013 relatif au droit à rémunération pour copie privée, l'article 1er, modifié par les arrêtés royaux des 11 décembre 2016 et 29 août 2019, dont le texte actuel formera le paragraphe 1er, est complété par un paragraphe 2, rédigé comme suit :
+" § 2. Pour l'application du présent arrêté, il faut entendre par :
+1° imprimante grand public : un appareil permettant la reproduction, dans un format A3 au maximum, d'oeuvres numériques protégées et d'éditions sur papier ou support similaire, utilisant une technologie autre que les technologies laser, thermiques, LED, matricielle ou latex ;
+2° imprimante grand public multifonctions : un appareil qui permet la reproduction, dans un format A3 au maximum, d'oeuvres protégées et d'éditions, utilisant une technologie autre que les technologies laser, thermiques, LED, matricielle ou latex, et qui combine la fonction d'imprimante avec différentes fonctions, telles que les fonctions de numérisation et/ou de télécopie (fax) et/ou de photocopie ;
+3° set-top-box : décodeur qui, d'une part, relie un écran de télévision à des sources externes et décode le signal de ces sources et, d'autre part, permet l'enregistrement et la restitution d'oeuvres protégées dans le but de répondre à un ordre spécifique de l'utilisateur. Le set-top-box peut être équipé d'une mémoire externe amovible et/ou d'une mémoire intégrée de manière permanente et/ou permettre l'enregistrement à distance via une connexion réseau ;
+4° baladeur audio numérique : dispositif portable spécialement conçu pour l'enregistrement et la restitution d'oeuvres sonores, reconnaissant le format MP3 ou un format similaire tout en pouvant être équipé de fonctions annexes ;
+5° baladeur multimédia : dispositif portable équipé d'un écran couleur et spécialement développé pour l'enregistrement et la restitution d'oeuvres audiovisuelles et sonores, reconnaissant le format MP4 ou un format similaire tout en pouvant être équipé de fonctions annexes ;
+6° téléphone portable avec fonction multimédia : téléphone de type GSM équipé d'une capacité de stockage disponible pour l'utilisateur, d'une fonction multimédia, qui permet l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+7° clé USB : unité de mémoire externe se connectant via un port USB sur laquelle des oeuvres protégées peuvent être copiées, qui peut servir de source à un périphérique de lecture externe et qui permet l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+8° carte mémoire : unité de mémoire externe sur laquelle des oeuvres protégées et des éditions peuvent être copiées et qui peut servir de source à un périphérique de lecture externe et qui permet l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+9° disque dur externe : unité de mémoire externe disposant de son propre boîtier, sans possibilité de lecture propre, qui peut servir de source à un périphérique de lecture externe et permettant d'enregistrer et de restituer les oeuvres protégées et les éditions ;
+10° tablette : appareil informatique multifonctionnel portable doté d'un écran tactile avec ou sans clavier physique détachable et sans clavier physique non-détachable, muni d'un système d'exploitation pour terminaux mobiles ou d'un système d'exploitation propre, équipé d'une capacité de stockage interne disponible pour l'utilisateur, qui permet notamment l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+11° ordinateur grand public : appareil dédié en premier lieu à un usage privé, équipé d'un système d'exploitation, d'une capacité de stockage interne d'au moins 4GB disponible pour l'utilisateur et d'un clavier physique détachable ou non, permettant l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+12° liseuse électronique : appareil portable doté d'un écran facilitant la lecture, conçu principalement pour l'enregistrement et la restitution d'oeuvres protégées et d'éditions, en particulier de livres numériques ;
+13° appareil de salon intégrant un support : appareil disposant d'une mémoire interne avec une capacité de stockage disponible pour l'utilisateur, qui n'est pas intégrable dans un autre appareil ou une automobile, et qui permet l'enregistrement et la restitution d'oeuvres protégées et d'éditions ;
+14° appareil reconditionné (" refurbished "): appareil repris dans la liste des appareils définis au présent paragraphe qui a été utilisé et qui est ensuite réparé, renouvelé, rétabli et/ou contrôlé afin de le mettre à nouveau en circulation sur le territoire national conformément à l'article 3.
+Les appareils reconditionnés dans le délai et dans les termes d'une garantie de remplacement d'un appareil défectueux, ne sont pas soumis à la rémunération pour copie privée. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 2 du même arrêté, modifié par l'arrêté royal du 29 août 2019, est remplacé par ce qui suit :
+" Art. 2. § 1er. La rémunération pour copie privée applicable aux appareils et supports manifestement utilisés pour la reproduction privée d'oeuvres, de prestations et d'éditions est fixée par unité comme suit :
+1° 2,50 euros pour les baladeurs audio numériques et les baladeurs multimédias ;
+2° 4,00 euros pour les téléphones portables avec une fonction multimédia ;
+3° 4,00 euros pour les tablettes ;
+4° 5,00 euros pour les disques dur externes ;
+5° 4,00 euros pour les ordinateurs grand public ;
+6° 1,00 euro pour les clés USB ;
+7° 1,00 euro pour les cartes mémoires ;
+8° 1,00 euro pour les liseuses électroniques ;
+9° 2,50 euros pour les imprimantes grand public et les imprimantes multifonctions grand public ;
+10° 6,00 euros pour les appareils de salon intégrant un support ;
+11° 4,00 euros pour les set-top-box ;
+12° 0,10 euros pour les CD ;
+13° 0,20 euros pour les DVD.
+§ 2. La rémunération pour les appareils sans support intégré, les audiocassettes, audiotapes, videocassettes de 8mm et les cassettes vidéos est de 0,00 euro.
+§ 3. Lorsqu'un appareil reconditionné est concerné, le montant de la rémunération est de soixante pour cent du montant visé au paragraphe 1er. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a l'Economie dans ses attributions est chargé de l'exécution du présent arrêté.
