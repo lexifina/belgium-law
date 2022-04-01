@@ -1,0 +1,23 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Au 1er avril 2022, à l'article 3 de la convention collective de travail n° 43du 2 mai 1988 relative à la garantie d'un revenu minimum mensuel moyen, modifié en dernier lieu par la convention collective de travail n° 43/15 du 15 juillet 2021, sont apportées les modifications suivantes :
+1° A l'alinéa 1er, le montant de 1.625,72 EUR est remplacé par le montant de 1.806,16 EUR.
+2° Les alinéas 2 et 3 de la même disposition sont abrogés.
+3° A l'alinéa 4 de la même disposition, les mots " en application des alinéas 1, 2 et 3 " sont remplacés par les mots " en application de l'alinéa 1er " et les mots " en vigueur le 1er mars 2020 (chiffre-indice de février 2020) " sont remplacés par les mots " en vigueur le 1er mars 2022 (chiffre-indice de février 2022) ".
+
+Commentaire
+La présente disposition a pour objet d'exécuter la première étape du cadre d'accords conclu le 25 juin 2021 par le Groupe des dix, laquelle a pour objet d'augmenter de 76,28 EUR brut, au 1er avril 2022, le montant du revenu minimum mensuel moyen garanti.
+Le montant du revenu minimum mensuel moyen garanti, en ce compris le complément d'augmentation a été adapté à l'indice des prix à la consommation, conformément à l'avis n° 2.277 du 9 mars 2022 émis par le Conseil national du Travail, afin de tenir compte des trois dépassements de l'indice intervenus dans la période du 1er juillet 2021 au 31 mars 2022.
+En parallèle, cette première étape a également pour objet de porter, le revenu minimum mensuel moyen garanti, à un montant unique avec pour effet de supprimer les conditions d'âge et d'ancienneté actuelles de la présente disposition. En conséquence, les alinéas 2 et 3 de l'article 3 de la convention collective n° 43sont abrogés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0001"> 2</a>. La présente convention est conclue pour une durée indéterminée. Elle entre en vigueur le 1er avril 2022.
+Elle pourra être révisée ou dénoncée, en tout ou en partie, à la demande de la partie signataire la plus diligente, moyennant le respect d'un délai de préavis de six mois.
+L'organisation qui prend l'initiative de la révision ou de la dénonciation doit indiquer, par lettre ordinaire adressée au Président du Conseil national du Travail, les motifs et déposer des propositions d'amendements que les autres organisations s'engagent à discuter au sein du Conseil national du Travail dans le délai d'un mois de leur réception.
+Conformément à l'article 14 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, en ce qui concerne la signature de cette convention collective de travail, les signatures des personnes qui la concluent au nom des organisations de travailleurs d'une part et au nom des organisations d'employeurs d'autre part, sont remplacées par le procès-verbal de la réunion, approuvé par les membres et signé par le président et le secrétaire.
+
+<a name="LNK0001" href="#LNKR0001">ANNEXE.</a>
+
+<a name="Art.N" href="#Art.2">Art.</a> N. MODIFICATION DU COMMENTAIRE DE LA CONVENTION COLLECTIVE DE TRAVAIL N° 43DU 2 MAI 1988 RELATIVE A LA GARANTIE D'UN REVENU MINIMUM MENSUEL MOYEN
+Le 9 mars 2022, les organisations d'employeurs et de travailleurs représentées au Conseil national du Travail ont conclu une convention collective de travail n° 43/16 modifiant la convention collective de travail n° 43 du 2 mai 1988 relative à la garantie d'un revenu minimum mensuel moyen, telle que modifiée et complétée par les conventions collectives de travail n° 43bis du 16 mai 1989, n° 43ter du 19 décembre 1989, n° 43quater du 26 mars 1991, n° 43quinquies du 13 juillet 1993, n° 43sexies du 5 octobre 1993, n° 43septies du 2 juillet 1996, n° 43octies du 23 novembre 1998, n° 43nonies du 30 mars 2007, n° 43decies du 20 décembre 2007, n° 43undecies du 10 octobre 2008, n° 43duodecies du 28 mars 2013, n° 43terdecies du 28 mars 2013, n° 43quater decies du 26 mai 2015 et n° 43/15 du 15 juillet 2021.
+Les organisations d'employeurs et de travailleurs ont également estimé nécessaire d'actualiser les dispositions du commentaire pour ce qui concerne la référence à l'indice des prix à la consommation applicable, comme suit :
+En ce qui concerne l'article 3 de la convention collective de travail n° 43
+Dans l'alinéa 1er du point a) du commentaire de l'article 3, les mots " 1er mars 2020 " sont remplacés par les mots " 1er mars 2022 " et les mots " février 2020 " sont remplacés par les mots " février 2022 ".
+Dans le deuxième alinéa du point a) du même commentaire, les mots " 1er mars 2020 " sont remplacés par les mots " 1er mars 2022 ".
