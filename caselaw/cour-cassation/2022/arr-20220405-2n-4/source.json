@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220405.2N.4",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220405.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-04-05",
+  "date_as_printed": "Vonnis/arrest van 05 april 2022",
+  "published_on_juportal": "2022-04-12",
+  "language": "nl",
+  "role_number": "P.22.0194.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Taux de la peine - Mention des dispositions de la loi dont il est fait application - Mention limitée à la disposition légale applicable qui fixe la peine principale - Condition",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 29",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 29",
+    "Amende - Mention de la disposition de la loi dont il est fait application - Déchéance du droit de conduire - Examens en vue de la réintégration - Absence de mention de la disposition légale appliquée qui fixe la peine accessoire ou la mesure de sûreté - Conséquence",
+    "Straftoemeting - Vermelding van de toegepaste wetsbepalingen - Vermelding van alleen de toegepaste wetsbepaling over de hoofdstraf - Voorwaarde",
+    "Straftoemeting - Vermelding van de toegepaste westbepalingen - Vermelding van alleen de toegepaste wetsbepaling over de hoofdstraf - Voorwaarde",
+    "Geldboete - Vermelding van de toegepaste wetsbepaling - Rijverbod - Herstelexamens - Geen vermelding van de toegepaste wetsbepaling van de bijkomende straf en beveiligingsmaatregel - Gevolg"
+  ],
+  "fiche": [
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Straftoemeting - Vermelding van de toegepaste wetsbepalingen - Vermelding van alleen de toegepaste wetsbepaling over de hoofdstraf - Voorwaarde",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 163, eerste lid, 195, eerste lid, en 211 - 30 ELI link Pub nr 1808111701 Wet betreffende de politie over het wegverkeer, gecoördineerd bij Koninklijk besluit van 16 maart 1968 - 16-03-1968 - Artt. 29 en 38 - 31 ELI link Pub nr 1968031601",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Straftoemeting - Vermelding van de toegepaste westbepalingen - Vermelding van alleen de toegepaste wetsbepaling over de hoofdstraf - Voorwaarde",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 163, eerste lid, 195, eerste lid, en 211 - 30 ELI link Pub nr 1808111701 Wet betreffende de politie over het wegverkeer, gecoördineerd bij Koninklijk besluit van 16 maart 1968 - 16-03-1968 - Artt. 29 en 38 - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 29",
+    "Geldboete - Vermelding van de toegepaste wetsbepaling - Rijverbod - Herstelexamens - Geen vermelding van de toegepaste wetsbepaling van de bijkomende straf en beveiligingsmaatregel - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 163, eerste lid, 195, eerste lid, en 211 - 30 ELI link Pub nr 1808111701 Wet betreffende de politie over het wegverkeer, gecoördineerd bij Koninklijk besluit van 16 maart 1968 - 16-03-1968 - Artt. 29 en 38 - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220405.2N.4",
+  "source_sha256": "61692481335d8b3299eb6113e15419f03697e66faf94284ae266953f327382b5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220405.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_48.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
