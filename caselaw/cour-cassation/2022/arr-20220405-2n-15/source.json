@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220405.2N.15",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220405.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-04-05",
+  "date_as_printed": "Vonnis/arrest van 05 april 2022",
+  "published_on_juportal": "2022-04-12",
+  "language": "nl",
+  "role_number": "P.22.0406.N",
+  "case_name_as_published": "K.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MANDAT D'ARRET EUROPEEN",
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Expiration du délai de quinze jours pour statuer sur l'exécution du mandat - Mise en liberté de la personne concernée - Appel interjeté par le ministère public - Mission d'instruction de la chambre des mises en accusation - Absence de décision sur l'exécution du mandat - Conséquence",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Chambre des mises en accusation - Mandat d'arrêt européen - Expiration du délai de quinze jours pour statuer sur l'exécution du mandat - Mise en liberté de la personne concernée - Appel interjeté par le ministère public - Mission d'instruction de la chambre des mises en accusation - Absence de décision sur l'exécution du mandat - Conséquence",
+    "Verstrijken van de termijn van 15 dagen voor de uitspraak over de tenuitvoerlegging van het bevel - Invrijheidstelling van de betrokkene - Hoger beroep van het openbaar ministerie - Onderzoeksopdracht van de kamer van inbeschuldigingstelling - Ontbreken van een beslissing over de tenuitvoerlegging van het bevel - Gevolg",
+    "Kamer van inbeschuldigingstelling - Europees aanhoudingsbevel - Verstrijken van de termijn van 15 dagen voor de uitspraak over de tenuitvoerlegging van het bevel - Invrijheidstelling van de betrokkene - Hoger beroep door openbaar ministerie - Onderzoeksopdracht van de kamer van inbeschuldigingstelling - Ontbreken van een beslissing over de tenuitvoerlegging van het bevel - Gevolg"
+  ],
+  "fiche": [
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Verstrijken van de termijn van 15 dagen voor de uitspraak over de tenuitvoerlegging van het bevel - Invrijheidstelling van de betrokkene - Hoger beroep van het openbaar ministerie - Onderzoeksopdracht van de kamer van inbeschuldigingstelling - Ontbreken van een beslissing over de tenuitvoerlegging van het bevel - Gevolg",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Artt. 16, § 5, en 17 - 32 ELI link Pub nr 2003009950",
+    "ONDERZOEKSGERECHTEN",
+    "Kamer van inbeschuldigingstelling - Europees aanhoudingsbevel - Verstrijken van de termijn van 15 dagen voor de uitspraak over de tenuitvoerlegging van het bevel - Invrijheidstelling van de betrokkene - Hoger beroep door openbaar ministerie - Onderzoeksopdracht van de kamer van inbeschuldigingstelling - Ontbreken van een beslissing over de tenuitvoerlegging van het bevel - Gevolg",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Artt. 16, § 5, en 17 - 32 ELI link Pub nr 2003009950"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220405.2N.15",
+  "source_sha256": "1a122f4e72220f27311fa20df75ce5145130c8e283bfd349f3ed7b02c97c9ed0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220405.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/04/30/sitemap_49.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
