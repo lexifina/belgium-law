@@ -1,0 +1,21 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 4 de l'arrêté royal du 23 décembre 2021 fixant les modalités relatives au forfait unique visé à l'article 4 de la loi du 15 décembre 2021 portant des mesures en vue de la hausse des prix de l'énergie en 2021 et confirmant l'arrêté royal du 22 décembre 2020 portant modifications de l'arrêté royal du 24 mars 2003 fixant les modalités de la cotisation fédérale destinée au financement de certaines obligations de service public et des coûts liés à la régulation et au contrôle du marché de l'électricité, les mots " le 31 mai 2022 " sont remplacés chaque fois par les mots " le 31 décembre 2022 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 5 du même arrêté, les modifications suivantes sont apportées :
+1° dans l'alinéa 1er les mots " 30 avril 2022 " sont remplacés par les mots " 30 juin 2022 " ;
+2° l'alinéa 2 est remplacé par ce qui suit :
+" Les fournisseurs peuvent introduire en 2023 par lettre recommandée avec accusé de réception auprès de la commission, avec la déclaration de créance visée à l'article 6 de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises d'électricité et les règles d'intervention pour leur prise en charge, une déclaration de créance complémentaire en ce qui concerne le solde restant des coûts du paiement du forfait unique. " ;
+3° dans l'alinéa 3, 2°, les mots " en vertu de l'article 2, § 2 et l'article 6, § 1er " sont insérés entre le mot " CREG " et les mots " et le solde positif ou négatif ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 6 du même arrêté, les modifications suivantes sont apportées :
+1° au paragraphe 1er les modifications suivantes sont apportées :
+a) dans l'alinéa 1er les mots " 31 mai 2022 " sont remplacés par les mots " 31 juillet 2022 " ;
+b) dans l'alinéa 2 les mots " 30 juin 2022 " sont remplacés par les mots " 31 août 2022 " ;
+c) dans l'alinéa 3 la phrase " Ce paiement est réalisé pour solde de tout compte. " est abrogée ;
+2° au paragraphe 2 les modifications suivantes sont apportées :
+a) dans l'alinéa 1er les mots " et compare celle-ci avec la déclaration visée à l'article 5, alinéa 1er " sont insérés entre les mots " du solde de créance déclaré " et les mots " Le contrôle du statut social " ;
+b) dans l'alinéa 1er les mots " le 31 juillet 2022 " sont remplacés par les mots " dans les trente jours " ;
+c) dans l'alinéa 2 les mots " 31 août 2022 " sont remplacés par les mots " 31 mai 2023 ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a l'Economie dans ses attributions et le ministre qui a l'Energie dans ses attributions, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
