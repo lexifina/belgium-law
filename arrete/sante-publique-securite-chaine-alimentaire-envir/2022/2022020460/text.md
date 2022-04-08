@@ -1,0 +1,10 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. En application de l'article 6 de l'arrêté royal du 30 mai 2021 concernant la mise dans le commerce de nutriments et de denrées alimentaires auxquelles des nutriments ont été ajoutés, une délégation de signature est accordée au Directeur général de la Direction générale Animaux, Végétaux et Alimentation du Service Public Fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement en ce qui concerne les demandes de dérogations en matière de mise dans le commerce de nutriments et de denrées alimentaires auxquelles des nutriments ont été ajoutés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. En application de l'article 3, § 2, alinéa 4, de l'arrêté royal du 31 août 2021 relatif à la fabrication et au commerce de denrées alimentaires composées ou contenant des plantes ou préparations de plantes, une délégation de signature est accordée au Directeur général de la Direction générale Animaux, Végétaux et Alimentation du Service Public Fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement en ce qui concerne les demandes de dérogations en matière de fabrication et de mise dans le commerce de préparations de plantes obtenues à partir de plantes mentionnées dans la liste 1 de l'annexe à l'arrêté précité du 31 août 2021 en tant que denrées alimentaires ou composants incorporés à des denrées alimentaires.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Les délégations accordées suite au présent arrêté sont également accordées au fonctionnaire qui est chargé du remplacement de la fonction du titulaire ou qui le remplace en cas d'absence temporaire ou d'empêchement.
+En cas d'absence temporaire ou d'empêchement, le fonctionnaire concerné appose au-dessus de sa signature la formule "Pour le Directeur général, absent".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Une copie conforme du présent arrêté est transmise pour information au fonctionnaire intéressé.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
