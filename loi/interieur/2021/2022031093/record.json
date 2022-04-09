@@ -1,0 +1,30 @@
+{
+  "id": "2022031093",
+  "title": "12 DECEMBRE 2021. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen en vue de fixer l'âge d'éligibilité à dix-huit ans",
+  "source_title": "12 DECEMBRE 2021. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen en vue de fixer l'âge d'éligibilité à dix-huit ans",
+  "act": "loi/interieur/2021/2022031093",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-03-30&numac_search=2022031093&page=14&lg_txt=F&caller=list&2022031093=8&trier=promulgation&ddd=2021-01-01&ddf=2021-12-31&fr=f",
+  "source_sha256": "102bb4dfb2f4a7a7ac0dad912a13cbae91983562c68ff9688a7e7d105bfc3817",
+  "source_issuer": "Intérieur",
+  "made": "2021-12-12",
+  "published": "2022-03-30",
+  "in_force": "2022-04-09",
+  "in_force_basis": "Justel: Entrée en vigueur : 9 avril 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "30 mars 2022",
+    "Numéro": "2022031093",
+    "page": "25773",
+    "Dossier numéro": "2021-12-12/14",
+    "Entrée en vigueur": "9 avril 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 136,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-04-09"
+}
