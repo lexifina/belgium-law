@@ -1,0 +1,29 @@
+{
+  "id": "2022040600",
+  "title": "23 MARS 2022. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne les élections médicales",
+  "source_title": "23 MARS 2022. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne les élections médicales",
+  "act": "loi/securite-sociale/2022/2022040600",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-04-12&numac_search=2022040600&page=97&lg_txt=F&caller=list&2022040600=7&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "3776edb7b9c68fc61a859cfe3da35ab99c2516cd4c5e277f1030ba59c6d346dd",
+  "source_issuer": "Sécurité sociale",
+  "made": "2022-03-23",
+  "published": "2022-04-12",
+  "in_force": "2022-04-22",
+  "in_force_basis": "Justel: Entrée en vigueur : 22 avril 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Sécurité sociale",
+    "Publication": "12 avril 2022",
+    "Numéro": "2022040600",
+    "page": "33932",
+    "Dossier numéro": "2022-03-23/09",
+    "Entrée en vigueur": "22 avril 2022"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 175,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-04-22"
+}
