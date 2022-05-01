@@ -1,0 +1,24 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 25 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, modifié en dernier lieu par l'arrêté royal du 29 novembre 2019, les modifications suivantes sont apportées :
+1° l'intitulé de la Section 12 est remplacé par ce qui suit :
+" SECTION 12. - Surveillance, examen, et permanence pour les bénéficiaires admis à l'hôpital ou à l'hôpital de jour, et prestations délivrées dans les locaux d'une fonction reconnue de soins urgents spécialisés. " ;
+2° après la prestation 596540 et la règle d'application qui la suit, un paragraphe 1erbis rédigé comme suit est inséré :
+" Art. 25. § 1erbis. Honoraires de surveillance du bénéficiaire séjournant en hôpital de jour, quelle que soit la qualification du médecin auquel ils sont dus : " ;
+3° après la prestation 598581 et la règle d'application qui la suit, les prestations et les règles d'application suivantes sont insérées :
+" 597354
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste en médecine interne, porteur du titre professionnel particulier en hématologie clinique, ou le médecin spécialiste en pédiatrie, porteur du titre professionnel particulier en hématologie et oncologie pédiatriques . . . . . C 16
+597376
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste accrédité en médecine interne, porteur du titre professionnel particulier en hématologie clinique, ou le médecin spécialiste accrédité en pédiatrie, porteur du titre professionnel particulier en hématologie et oncologie pédiatriques . . . . . C 16 + Q 30
+Les prestations 597354 et 597376 peuvent uniquement être attestées pour la surveillance des bénéficiaires qui subissent une chimio- ou immunothérapie dans le cadre d'une maladie hématologique maligne.
+597273
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste en oncologie médicale, ou le médecin spécialiste porteur de la qualification professionnelle particulière en oncologie . . . . . C 16
+597294
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste accrédité en oncologie médicale, ou le médecin spécialiste accrédité porteur de la qualification professionnelle particulière en oncologie . . . . . C 16 + Q 30
+Les prestations 597273 et 597294 peuvent uniquement être facturées pour la surveillance des patients qui subissent une chimio- ou immunothérapie.
+597310
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste en rhumatologie en vue d'un traitement d'une maladie auto-immunitaire complexe avec un immunosuppressif de la classe ATC L01XC par perfusion intraveineuse . . . . . C 16
+597332
+Honoraires de surveillance pour le séjour d'un bénéficiaire dans une fonction " hospitalisation non chirurgicale de jour ", visée à l'arrêté royal du 10 février 2008 fixant les normes auxquelles la fonction " hospitalisation non chirurgicale de jour " doit répondre pour être agréée, pour le médecin spécialiste accrédité en rhumatologie en vue d'un traitement d'une maladie auto-immunitaire complexe avec un immunosuppressif de la classe ATC L01XC par perfusion intraveineuse . . . . . C 16 + Q 30 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
