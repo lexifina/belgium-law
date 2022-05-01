@@ -1,5 +1,5 @@
 § 1er. L'organisme de radiodiffusion a seul le droit d'autoriser:
-a) la réémission simultanée ou différée de ses émissions y compris la retransmission par câble et la communication au public par satellite;
+a) la réémission simultanée ou différée de ses émissions y compris la retransmission par câble et/ou la retransmission et la communication au public par satellite;
 b) la reproduction de ses émissions par quelque procédé que ce soit, qu'elle soit directe ou indirecte, provisoire ou permanente, en tout ou en partie, en ce compris la distribution de fixations de ses émissions;
 c) la communication de ses émissions faite dans un endroit accessible au public moyennant un droit d'entrée;
 d) la mise à disposition du public de la fixation de ses émissions de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.

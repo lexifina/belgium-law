@@ -1,1 +1,1 @@
-Conformément aux chapitres qui précèdent et sous les modalités définies ci-après, l'auteur et les titulaires de droits voisins disposent du droit exclusif d'autoriser la retransmission par câble de leurs oeuvres ou de leurs prestations.
+Conformément aux chapitres qui précèdent et sous les modalités définies ci-après, l'auteur et les titulaires de droits voisins disposent du droit exclusif d'autoriser la retransmission par câble et/ou la retransmission de leurs oeuvres ou de leurs prestations.
