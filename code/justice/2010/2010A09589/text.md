@@ -1703,20 +1703,23 @@ Est puni d'une sanction de niveau 1, le travailleur visé à l'article 5, 1°, d
 
 <a name="LNK0060" href="#LNKR0060">Section 1re.</a> - Les temps de travail et les temps de repos
 
-<a name="Art.138" href="#Art.137/2">Art.</a> <a href="#Art.139"> 138</a>. Les limites quotidienne et hebdomadaire de la durée du travail
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail ou de la loi du 16 mai 1938 portant réglementation de la durée du travail dans l'industrie diamantaire :
+<a name="Art.138" href="#Art.137/2">Art.</a> <a href="#Art.139"> 138</a>.Les limites quotidienne et hebdomadaire de la durée du travail
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail [<sup>1</sup> ...]<sup>1</sup> :
 1° a fait ou laissé travailler un travailleur ou un jeune travailleur plus de huit heures par jour ou plus de quarante heures par semaine, ou a fait ou laissé dépasser des durées maximales plus courtes fixées par la loi ou par une convention collective rendue obligatoire par arrêté royal;
 2° alors qu'il se trouve dans une hypothèse où la loi autorise le dépassement de la durée quotidienne de huit heures ou de la durée hebdomadaire de quarante heures, a fait ou laissé travailler au-delà de la durée quotidienne ou hebdomadaire maximale autorisée par la disposition dérogatoire;
 3° n'a pas octroyé au travailleur ou au jeune travailleur le repos compensatoire que la loi impose en cas de dépassement de la durée maximale de travail autorisée.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022040108" target="_blank">2022-04-01/08</a>, art. 5, 052; En vigueur : 07-05-2022&gt;
 
-<a name="Art.139" href="#Art.138">Art.</a> <a href="#Art.140"> 139</a>. Les règles relatives à certaines catégories de travailleurs
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mai 1938 portant réglementation de la durée du travail dans l'industrie diamantaire, a fait ou laissé travailler un travailleur avant 8 heures ou après 16 heures 30 ou le samedi.
-L'amende est multipliée par le nombre de travailleurs concernés.
+<a name="Art.139" href="#Art.138">Art.</a> <a href="#Art.140"> 139</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022040108" target="_blank">2022-04-01/08</a>, art. 6, 052; En vigueur : 07-05-2022&gt;
 
-<a name="Art.140" href="#Art.139">Art.</a> <a href="#Art.141"> 140</a>. La durée minimale de travail
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail ou à la loi du 16 mai 1938 portant réglementation de la durée du travail dans l'industrie diamantaire, a fait ou laissé travailler un travailleur ou un jeune travailleur en ne respectant pas la durée minimale de trois heures pour chaque période de travail.
+<a name="Art.140" href="#Art.139">Art.</a> <a href="#Art.141"> 140</a>.La durée minimale de travail
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail [<sup>1</sup> ...]<sup>1</sup>, a fait ou laissé travailler un travailleur ou un jeune travailleur en ne respectant pas la durée minimale de trois heures pour chaque période de travail.
 L'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022040108" target="_blank">2022-04-01/08</a>, art. 7, 052; En vigueur : 07-05-2022&gt;
 
 <a name="Art.141" href="#Art.140">Art.</a> <a href="#Art.142"> 141</a>. Le repos hebdomadaire
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail :
