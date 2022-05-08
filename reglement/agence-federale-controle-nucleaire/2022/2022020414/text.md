@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les niveaux d'intervention pour les travailleurs et le personnel d'intervention pour les situations d'urgence radiologique non couvertes par le champ d'application de l'arrêté royal du 1er mars 2018 portant fixation du plan d'urgence nucléaire et radiologique pour le territoire belge, sont les mêmes et suivent les mêmes principes, dispositions et modalités d'utilisation que les niveaux de référence fixés dans l'article 6.2.2 de ce même arrêté royal.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le règlement technique de l'Agence fédérale de Contrôle nucléaire du 17 octobre 2003 fixant les niveaux-guides d'intervention pour les situations d'urgence radiologique est abrogé.
