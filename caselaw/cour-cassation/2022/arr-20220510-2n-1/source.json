@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220510.2N.1",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220510.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-05-10",
+  "date_as_printed": "Vonnis/arrest van 10 mei 2022",
+  "published_on_juportal": "2022-05-12",
+  "language": "nl",
+  "role_number": "P.22.0196.N",
+  "case_name_as_published": "Y. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "REVISION - GENERALITES",
+    "HERZIENING - ALGEMEEN",
+    "Sommation d'intervention adressée aux parties civiles - Portée - Partie civile n'obtenant pas de dommages et intérêts - Intérêt - Conséquence",
+    "Aanmaning tot tussenkomst van de burgerlijke partij - Draagwijdte - Burgerlijke partij waaraan geen schadevergoeding is toegekend - Belang - Gevolg"
+  ],
+  "fiche": [
+    "HERZIENING - ALGEMEEN",
+    "Aanmaning tot tussenkomst van de burgerlijke partij - Draagwijdte - Burgerlijke partij waaraan geen schadevergoeding is toegekend - Belang - Gevolg",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 444, vijfde lid - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220510.2N.1",
+  "source_sha256": "6109ac0940f866e496246ab7506fbb17f7f9b479322845f0a5881814bb1bdb35",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220510.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/05/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
