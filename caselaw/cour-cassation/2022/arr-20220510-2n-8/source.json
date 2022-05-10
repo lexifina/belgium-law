@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220510.2N.8",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220510.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-05-10",
+  "date_as_printed": "Vonnis/arrest van 10 mei 2022",
+  "published_on_juportal": "2022-05-12",
+  "language": "nl",
+  "role_number": "P.22.0100.N",
+  "case_name_as_published": "W.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Généralités - Délai raisonnable - Dépassement - Sanction - Réduction de la peine - Portée",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Examen dans un délai raisonnable - Dépassement du délai raisonnable - Sanction - Réduction de la peine - Portée",
+    "Algemeen - Redelijke termijn - Overschrijding - Sanctie - Strafvermindering - Draagwijdte",
+    "Onderzoek binnen een redelijke termijn - Overschrijding van de redelijke termijn - Sanctie - Strafvermindering - Draagwijdte"
+  ],
+  "fiche": [
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Algemeen - Redelijke termijn - Overschrijding - Sanctie - Strafvermindering - Draagwijdte",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 21ter - 01 ELI link Pub nr 1878041750 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Onderzoek binnen een redelijke termijn - Overschrijding van de redelijke termijn - Sanctie - Strafvermindering - Draagwijdte",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 21ter - 01 ELI link Pub nr 1878041750 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220510.2N.8",
+  "source_sha256": "b7cf6ab70ffe4d30f5de56e71d868b1e53acf68cac8bf63eb6caba732cb355f1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220510.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/05/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
