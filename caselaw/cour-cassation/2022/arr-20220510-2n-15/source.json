@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220510.2N.15",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220510.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-05-10",
+  "date_as_printed": "Vonnis/arrest van 10 mei 2022",
+  "published_on_juportal": "2022-05-12",
+  "language": "nl",
+  "role_number": "P.22.0600.N",
+  "case_name_as_published": "T. contra P.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RECUSATION",
+    "WRAKING",
+    "Matière répressive - Requête en récusation - Rejet de la requête en récusation - Dépôt d'une nouvelle requête en récusation - Conditions - Portée - Conséquence",
+    "Strafzaken - Verzoek tot wraking - Verwerping van het verzoek tot wraking - Neerlegging van een nieuw verzoek tot wraking - Voorwaarden - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "WRAKING",
+    "Strafzaken - Verzoek tot wraking - Verwerping van het verzoek tot wraking - Neerlegging van een nieuw verzoek tot wraking - Voorwaarden - Draagwijdte - Gevolg",
+    "Gerechtelijk Wetboek - 10-10-1967 - Artt. 835 en 842 - 01 ELI link Pub nr 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220510.2N.15",
+  "source_sha256": "7b0e64d4c47e5aafc334b54be8998b3c572a13c54e2556732cb86d29330d1bb7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220510.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/05/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
