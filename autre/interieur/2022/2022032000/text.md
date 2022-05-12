@@ -1,0 +1,68 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans les Règles de participation de Vikinglotto, le Chapitre 1/1 est inséré :
+" CHAPITRE 1/1 - Participation dans les centres on line
+Art. 5/1. La prise de participation peut également s'effectuer selon la méthode de traitement " on-line ", c'est-à-dire en temps réel par un réseau de terminaux et de distributeurs automatiques directement reliés à un système informatique géré par la Loterie Nationale et communiquant à celui-ci pour enregistrement, les éléments de participation qui figurent sur les bulletins visés à l'article 5/2 ou qui résultent de la procédure spéciale visée à l'article 6. Toutefois, seule la procédure spéciale visée à l'article 6 s'applique aux distributeurs automatiques.
+Les terminaux et distributeurs automatiques sont installés par la Loterie Nationale dans les centres on-line (points de vente) avec lesquels elle a conclu une convention à ce sujet.
+Art. 5/2. § 1er. Les joueurs choisissent leurs combinaisons de jeu au moyen d'un bulletin sans préjudice de l'article 5/5.
+Les éléments apportés sur les bulletins par les joueurs n'ont qu'une valeur indicative et ne constituent pas une preuve de participation.
+§ 2. Les joueurs disposent d'un type de bulletin utilisable pour la prise de participation pour 1, 2, 3, 4 ou 5 tirages, selon le choix du joueur. La Loterie Nationale peut modifier ce nombre pour des raisons d'organisation.
+Dans le cadre d'actions ponctuelles ou permanentes, la Loterie Nationale peut émettre des documents de participation spécifiques qui contiennent les paramètres de jeu nécessaires.
+La prise de participation pour un tirage se rapporte au tirage dont la date est mentionnée sur le ticket de jeu ou la communication visés à l'article 5/6, pour autant que les éléments de participation enregistrés soient, avant le tirage, retranscrits sur un support informatique, conformément à l'arrêté royal du 17 novembre 2020 portant le règlement du Vikinglotto, loterie publique organisée par la Loterie Nationale, et des dispositions générales concernant ses jeux.
+La prise de participation pour 2, 3, 4 ou 5 tirages se rapporte aux 2, 3, 4 ou 5 tirages successifs dont les dates sont mentionnées sur le ticket de jeu ou la communication visés à l'article 5/6, pour autant que les éléments de participation enregistrés soient, avant le premier des tirages successifs, retranscrits sur un support informatique, conformément à l'arrêté royal du 17 novembre 2020 portant le règlement du Vikinglotto, loterie publique organisée par la Loterie Nationale, et des dispositions générales concernant ses jeux.
+La Loterie Nationale peut prévoir la possibilité pour le joueur de choisir le(s) tirage(s) futur(s) au(x)quel(s) il souhaite participer. Le nombre maximal de tirages futurs est 5, étant entendu que si le joueur choisit d'omettre un certain nombre de tirages, le nombre maximal de tirages futurs (5) est diminué avec le nombre de tirages omis. La Loterie Nationale détermine si ces tirages doivent être successifs ou non, et le dernier tirage auquel il peut être participé.
+§ 3. Les bulletins peuvent porter un numéro préimprimé qui, composé de 2 groupes de 3 chiffres variables, sert exclusivement à leur gestion.
+§ 4. Seuls les bulletins émanant de la Loterie Nationale sont valables pour la prise des participations. Ils sont à la disposition des joueurs dans les centres on-line et/ou par tout autre canal jugé utile par la Loterie Nationale. La Loterie Nationale peut autoriser la vente des bulletins au prix qu'elle fixe.
+Les bulletins peuvent comporter des mentions :
+1° informatives, explicatives ou réglementaires destinées aux joueurs;
+2° publicitaires en faveur de la Loterie Nationale et/ou, moyennant contrepartie financière ou autre, en faveur de tiers avec lesquels la Loterie Nationale estime commercialement opportun de collaborer pour promouvoir ses activités.
+Art. 5/3. § 1er. Une combinaison de jeu (2 euros) est constituée de 6 numéros et d'un numéro Viking. Une participation au jeu (10 euros) comporte 5 combinaisons de jeu, qui contiennent toutes la même combinaison de 6 numéros. Chaque combinaison a un autre numéro Viking, de sorte que le joueur reçoit tous les numéros Viking.
+Le bulletin comporte 3 couples de grilles. Chaque couple est composé d'une grille supérieure, appelée " grille des numéros " et d'une grille inférieure appelée " grille Super Viking ". Chaque grille des numéros comporte 48 cases numérotées de 1 à 48. Chaque grille Super Viking comporte 5 numéros Viking, représentés dans des casques Viking numérotés de 1 à 5.
+Le joueur doit sélectionner 6 numéros de la grille des numéros et 1 numéro Viking favori (" Super Viking ") parmi les 5 numéros Viking. Dans une participation au jeu, les 5 numéros Viking sont attribués automatiquement.
+§ 2. Le joueur remplit 1, 2 ou 3 couples de grilles.
+Sur le bulletin figurent en outre 5 cases distinctes où sont mentionnés respectivement les nombres 1, 2, 3, 4 et 5. Elles permettent au joueur de choisir sa participation à 1, 2, 3, 4 ou 5 tirages. Le joueur exprime son choix en marquant d'une croix la case appropriée.
+§ 3. Le montant de la mise globale due pour la participation au Vikinglotto correspond à celui résultant de la multiplication des trois paramètres que sont la mise de 10 euros, le nombre de couples de grilles remplies et le nombre de tirages choisi.
+Il est fixé à :
+1° un minimum de 10 euros pour la participation à un tirage avec un couple de grilles;
+2° un maximum de 150 euros pour la participation à 5 tirages avec 3 couples de grilles.
+Art. 5/4. Toutes les croix tracées sur les bulletins doivent se situer à l'intérieur des cases concernées. Elles doivent être tracées au stylo à bille, en noir ou en bleu.
+Les bulletins présentés pour enregistrement ne peuvent être ni pliés, ni maculés, ni froissés, ni déchirés.
+Les centres on line peuvent, au moyen du terminal et sur indication du joueur, rectifier les éléments d'un bulletin incorrectement rempli en vue de permettre l'enregistrement des éléments de participation.
+Art. 5/5. § 1. La prise de participation à Vikinglotto peut se réaliser sans recours à un bulletin moyennant la formule appelée "Quick Pick".
+En optant pour cette formule, le joueur renonce à la faculté de choisir les combinaisons de jeu Vikinglotto et accepte que celles-ci lui soient attribuées, de façon aléatoire, par le système informatique géré par la Loterie Nationale.
+Les possibilités de jeu s'offrant au choix du joueur pour Vikinglotto correspondent à celles du bulletin visé à l'article 5/3, § 1, alinéa 2. La Loterie Nationale peut toutefois élargir les possibilités offertes par ce bulletin en permettant une participation avec un nombre de combinaisons de jeu qui ne peut dépasser un plafond de 20.
+La formule " Quick Pick " s'applique également aux tickets de jeu ou les communications sur le support physique ou électronique officiel délivrés par des distributeurs automatiques. Les possibilités offertes doivent toutefois s'inscrire dans les mêmes limites que celles visées à l'alinéa 3 et sont rendues publiques par tous moyens jugés utiles par la Loterie Nationale.
+La Loterie Nationale rend publiques, par tous moyens jugés utiles, les modalités liées aux possibilités de participation offertes par la formule "Quick Pick", étant entendu que la mise due correspond toujours au résultat de la multiplication des trois paramètres que sont la mise de 10 euros, le nombre de combinaisons jouées et le nombre de tirages concerné par la participation.
+Un Quick Pick peut également être proposé en combinaison avec une autre loterie. La Loterie Nationale donne à cette possibilité de combinaison un nom commercial de son choix. La Loterie Nationale détermine les formules et les prix de ces combinaisons.
+§ 2. La prise de participation peut également s'effectuer au moyen de la formule qui, appelée " Replay ", permet au joueur de participer à Vikinglotto avec des paramètres de jeu identiques à ceux imprimés sur son ticket de jeu ou communiqués sur son support physique ou électronique officiel.
+La formule " Replay " repose sur les modalités suivantes :
+1° l'emploi de cette formule concerne exclusivement les tickets de jeu ou les communications sur un support physique ou électronique officiel délivrés sous l'empire du présent règlement ;
+2° un ticket de jeu ou une communication sur un support physique ou électronique officiel délivré par la formule " Replay " peut servir d'appui à la délivrance d'un nouveau ticket de jeu ou une nouvelle communication sur un support physique ou électronique officiel " Replay " ;
+3° la délivrance d'un ticket de jeu " Replay " ou une communication sur un support physique ou électronique officiel " Replay " n'est possible que lorsque les tirages Vikinglotto mentionnés sur le ticket de jeu ou sur la communication sur un support physique ou électronique officiel lui servant d'appui ont tous été effectués ;
+4° le caractère identique des paramètres de jeu figurant sur un ticket de jeu " Replay " ou sur une communication sur un support physique ou électronique officiel " Replay " concerne le nombre de tirages Vikinglotto auxquels il est participé, la mise due pour Vikinglotto et les combinaisons de jeu Vikinglotto participantes ;
+5° un ticket de jeu ou une communication sur un support physique ou électronique officiel à l'appui duquel est sollicitée la délivrance d'un ticket de jeu " Replay " n'est plus utilisable après un délai qui, fixé et rendu public par la Loterie Nationale, ne peut être supérieur à un délai de 20 semaines à compter de la date du dernier tirage Vikinglotto auquel il a participé ;
+6° un ticket de jeu " Replay " ou une communication sur un support physique ou électronique officiel peut comporter la mention distinctive " Replay ".
+Art. 5/6. Après paiement de la mise globale, en espèces ou par tout autre moyen de paiement agréé par la Loterie Nationale, le joueur reçoit un ticket de jeu délivré par l'imprimante connectée au terminal ou intégrée au distributeur automatique, ou une communication sur un support physique ou électronique officiel.
+Ce ticket de jeu ou cette communication mentionne :
+1° le logo " Vikinglotto " ;
+2° la date et l'heure de la prise de participation ;
+3° la date du tirage lorsqu'il s'agit d'une participation à un tirage ou les dates des tirages lorsqu'il s'agit d'une participation à plusieurs tirages ;
+4° par prise de participation de 10 euros, les 6 numéros enregistrés de la grille des numéros, tous les numéros Viking et le Super Viking enregistré de la grille Super Viking ;
+5° la mention " Quick Pick " en cas d'utilisation de cette formule de participation ;
+6° une série de numéros de code, ou autre mention, destinés à des fins de contrôle, d'identification et de gestion ;
+7° le montant total de la mise payée ;
+8° un code à barres ;
+9° éventuellement toutes les indications explicatives, informatives ou réglementaires jugées utiles par la Loterie Nationale ;
+10° éventuellement des images ou textes publicitaires en faveur de la Loterie Nationale et/ou, moyennant contrepartie financière ou autre, en faveur de tiers avec lesquels la Loterie Nationale estime commercialement opportun de collaborer pour promouvoir ses activités.
+En acceptant le ticket de jeu ou la communication sur le support physique ou électronique officiel, le participant adhère à l'ensemble des éléments de participation qui y figurent.
+La Loterie Nationale peut en tout cas prévoir des mises globales maximales pour les joueurs individuels, qui sont communiquées par tous les moyens que la Loterie Nationale juge utiles.
+Art. 5/7. Les éléments de participation figurant sur le ticket de jeu ou la communication sur le support physique ou électronique officiel visé à l'article 5/6 sont transcrits sur un support informatique avant le tirage concerné. Seulement après cette transcription, la participation est effective. Quelle que soit la nature du support informatique choisi par la Loterie Nationale, la garantie de l'intégrité et de l'inaltérabilité des données transcrites qu'il contient fait l'objet d'un constat établi par un huissier de justice à l'issue de la clôture de la période durant laquelle ont eu lieu les transcriptions précitées. En cas d'absence accidentelle de l'huissier de justice, le constat précité est établi par l'administrateur délégué de la Loterie Nationale ou son délégué. Le tirage ne peut avoir lieu qu'après l'établissement de ce constat.
+Si, pour quelque raison que ce soit, la transcription visée à l'alinéa 1er n'a pas été opérée dans les conditions fixées par celui-ci, les mises sont restituées sur remise du ticket de jeu. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le titre du Chapitre 2 des Règles de participation de Vikinglotto est remplacé comme suit :
+" CHAPITRE 2 - Participation par d'autres canaux digitaux ou physiques "
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. L'article 6 des Règles de participation de Vikinglotto est remplacé comme suit :
+" Art.6. La Loterie Nationale peut déterminer d'autres canaux digitaux ou physiques de participation, qu'elle rendra publics par les moyens qu'elle estime utiles.
+La Loterie Nationale peut proposer la participation par d'autres canaux digitaux ou physiques, éventuellement en collaboration avec un tiers. La participation peut avoir lieu via un formulaire digital ou physique ou via un Quick Pick, avec des mises libres ou déterminées à l'avance par la Loterie Nationale.
+Le joueur reçoit une confirmation des paramètres de jeu choisis et de la mise y afférente. "
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Ce règlement modificatif est d'application à partir de sa publication au Moniteur belge.
