@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 8, alinéa 1er, de l'arrêté royal du 3 juillet 2020 relatif aux rétributions auxquelles donnent lieu les prestations du Registre national des personnes physiques, les mots " Les tarifs des transactions et des travaux " sont remplacés par les mots " Les tarifs, rétributions, rétributions forfaitaires annuelles et montants annuels maximum des transactions mentionnés aux articles 3 à 6 et les tarifs des travaux mentionnés à l'article 7 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a l'Intérieur dans ses attributions est chargé de l'exécution du présent arrêté.
