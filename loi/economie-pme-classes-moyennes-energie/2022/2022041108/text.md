@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'article 6, § 7, alinéa 1er, de la loi du 1er avril 2022 portant exécution du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l'égard de la chaîne d'approvisionnement pour les importateurs de l'Union qui importent de l'étain, du tantale et du tungstène, leurs minerais et de l'or provenant de zones de conflit ou à haut risque, les mots "XV.60/13 et XV.60/14, XV.60/16 à XV.60/19" sont remplacés par les mots "XV.60/13 à XV.60/19".
