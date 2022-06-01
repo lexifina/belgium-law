@@ -1,0 +1,4 @@
+Evaluation multidisciplinaire.
+§ 1er. La Chambre des représentants est chargée d'évaluer l'application des dispositions du présent chapitre, deux ans après leur entrée en vigueur et, par la suite, tous les quatre ans.
+L'évaluation est multidisciplinaire et s'appuie notamment sur l'expertise de représentants des acteurs de la justice et de la police, de représentants d'organismes publics spécialisés, de représentants d'organisations de la société civile et d'experts académiques. Les domaines d'expertise représentés par les trois dernières catégories doivent inclure au moins la lutte contre la traite des êtres humains, le soutien aux personnes prostituées, l'égalité entre les femmes et les hommes, la défense des droits économiques et sociaux des travailleurs et l'accès à la santé.
+§ 2. La loi fixe, pour le 31 décembre 2022, les modalités de cette évaluation.
