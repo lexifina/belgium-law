@@ -1,3 +1,1 @@
-La confiscation spéciale visée à l'article 42, 1°, est appliquée même si la propriété des choses sur lesquelles elle porte n'appartient pas au condamné, sans que cette confiscation puisse cependant porter préjudice aux droits des tiers sur les biens susceptibles de faire l'objet de la confiscation. Elle doit également être appliquée, dans les mêmes circonstances, au bien meuble, à la partie de celui-ci, au bien immeuble, à la chambre ou à tout autre espace.
-Elle peut également être appliquée à la contre-valeur de ces meubles ou immeubles aliénés entre la commission de l'infraction et la décision judiciaire définitive.
-En cas de saisie d'un bien immeuble, il est procédé conformément aux formalités de l'article 35bis du Code d'instruction criminelle.
+(Abrogé)
