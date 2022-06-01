@@ -1,8 +1,8 @@
 (oud art. 37ter vernummerd tot nieuw art. 37quinquies) § 1. Indien een feit van die aard is om door een politiestraf of een correctionele straf gestraft te worden, kan de rechter als hoofdstraf een werkstraf opleggen. Binnen de perken van de op het misdrijf gestelde straffen, alsook van de wet op grond waarvan de zaak voor hem werd gebracht, voorziet de rechter in een gevangenisstraf of in een geldboete die van toepassing kan worden ingeval de werkstraf niet wordt uitgevoerd.
 De werkstraf mag niet worden uitgesproken voor de feiten:
 1° die strafbaar zouden zijn met een maximumstraf van meer dan twintig jaar opsluiting als ze niet in wanbedrijven werden omgezet;
-2° die bedoeld zijn in de artikelen 375 tot 377;
-3° die bedoeld zijn in de artikelen 379 tot 387, indien de feiten zijn gepleegd op of met behulp van minderjarigen;
+2° die bedoeld zijn in de artikelen 417/12 tot 417/22;
+3° die bedoeld zijn in de artikelen 417/25 tot 417/41, 417/44 tot 417/47, 417/52 en 417/54, indien de feiten zijn gepleegd op of met behulp van minderjarigen;
 4° die bedoeld zijn in de artikelen 393 tot 397.
 § 2. De duur van een werkstraf bedraagt minstens twintig uren en ten hoogste driehonderd uren. Een werkstraf van vijfenveertig uren of minder is een politiestraf. Een werkstraf van meer dan vijfenveertig uren is een correctionele straf.
 De werkstraf moet worden uitgevoerd binnen twaalf maanden na de dag waarop de rechterlijke beslissing in kracht van gewijsde is gegaan. De probatiecommissie kan die termijn ambtshalve of op verzoek van de veroordeelde verlengen.

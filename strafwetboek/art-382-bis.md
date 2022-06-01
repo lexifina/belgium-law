@@ -1,6 +1,1 @@
-Onverminderd de toepassing van artikel 382 kan elke veroordeling wegens feiten bedoeld in de artikelen 371/1 tot 377, 377quater, 379 tot 380ter, 381 en 383 tot 387, gepleegd op de persoon van een minderjarige of met zijn deelneming, de ontzetting meebrengen van het recht om, voor een termijn van een jaar tot twintig jaar:
-1° in welke hoedanigheid ook deel te nemen aan onderwijs in een openbare of particuliere instelling die minderjarigen opvangt;
-2° deel uit te maken, als vrijwilliger, als lid van het statutair of contractueel personeel of als lid van de organen van bestuur en beheer, van elke rechtspersoon of feitelijke vereniging waarvan de activiteit in hoofdzaak op minderjarigen gericht is;
-3° een activiteit toegewezen te krijgen die de veroordeelde in een vertrouwens- of een gezagsrelatie tegenover minderjarigen plaatst, als vrijwilliger, als lid van het statutair of contractueel personeel of als lid van de organen van bestuur en beheer, van elke rechtspersoon of feitelijke vereniging.
-4° te wonen, te verblijven of zich te op te houden in de door de bevoegde rechter bepaalde aangewezen zone. De oplegging van die maatregel moet met bijzondere redenen worden omkleed en rekening houden met de ernst van de feiten en met de reclasseringsmogelijkheden voor de veroordeelde.
-Artikel 389 is van toepassing op deze bepaling.
+(Opgeheven)

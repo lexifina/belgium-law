@@ -1,3 +1,1 @@
-De in artikel 42, 1°, bedoelde bijzondere verbeurdverklaring wordt toegepast zelfs wanneer de zaken waarop zij betrekking heeft, niet het eigendom van de veroordeelde zijn, zonder dat deze verbeurdverklaring evenwel afbreuk kan doen aan de rechten van de derden op de goederen die verbeurd zouden kunnen worden verklaard. Zij moet in dezelfde omstandigheden ook worden toegepast op het roerend goed, het deel ervan, het onroerend goed, de kamer of enige andere ruimte.
-Ze kan ook worden toegepast op de tegenwaarde van deze roerende of onroerende goederen die werden vervreemd tussen het tijdstip waarop het misdrijf werd gepleegd en de definitieve rechterlijke beslissing.
-In geval van beslag op een onroerend goed, wordt gehandeld overeenkomstig de vormvoorschriften van artikel 35bis van het Wetboek van strafvordering.
+(Opgeheven)
