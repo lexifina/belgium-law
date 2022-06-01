@@ -29,7 +29,7 @@ h) ...
 18° la loi du 20 décembre 2002 relative au recouvrement amiable des dettes du consommateur;
 19° le Règlement (CE) n° 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol, et abrogeant le Règlement (CEE) n° 295/91;
 20° la loi du 11 juin 2004 réprimant la fraude relative au kilométrage des voitures;
-21° la loi du 1er septembre 2004 relative à la protection des consommateurs en cas de vente de biens de consommation;
+21° la loi du 20 mars 2022 modifiant les dispositions de l'ancien Code civil relatives aux ventes aux consommateurs, insérant un nouveau titre VIbis dans le livre III de l'ancien Code civil et modifiant le Code de droit économique;
 22° la loi du 13 juin 2005 relative aux communications électroniques;
 23° le Règlement (CE) n° 2111/2005 du Parlement européen et du Conseil du 14 décembre 2005 concernant l'établissement d'une liste communautaire des transporteurs aériens qui font l'objet d'une interdiction d'exploitation dans la Communauté et l'information des passagers du transport aérien sur l'identité du transporteur aérien effectif, et abrogeant l'article 9 de la directive 2004/36/CE;
 24° le Règlement (CE) n° 1107/2006 du Parlement européen et du Conseil du 5 juillet 2006 concernant les droits des personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens;

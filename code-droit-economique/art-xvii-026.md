@@ -10,5 +10,5 @@ b) soit aux dispositions figurant dans la législation suivante:
 7° loi du 28 août 2011 relative à la protection des consommateurs en matière de contrats d'utilisation de biens à temps partagé, de produits de vacances à long terme, de revente et d'échange, et ses arrêtés d'exécution;
 8° livre XII, titre 1er, du présent Code et ses arrêtés d'exécution;
 9° dispositions prises par les autorités compétentes à cet effet pour transposer la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur;
-10° loi du 1er septembre 2004 relative à la protection des consommateurs en cas de vente de biens de consommation;
+10° les articles 1649bis à 1649nonies et 1701/1 à 1701/19 de l'ancien Code civil;
 c) soit aux dispositions d'un Etat membre ayant transposé les directives citées dans l'annexe Ire de la Directive 2009/22/CE du Parlement européen et du Conseil du 23 avril 2009 relative aux actions en cessation en matière de protection des intérêts des consommateurs.

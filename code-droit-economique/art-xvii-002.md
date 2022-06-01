@@ -15,3 +15,4 @@ Le président du tribunal de l'entreprise constate l'existence et ordonne égale
 14° le non-respect des dispositions de la loi du 15 mai 2007 relative à la protection des consommateurs en ce qui concerne les services de radiotransmission et de radiodistribution;
 15° le non-respect des dispositions des règlements de l'Union européenne qui ont trait à des matières relevant du livre VI;
 16° le non-respect des dispositions de l'article 18, §§ 2/1 à 2/3, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, insérées par la loi du 25 août 2012 et de l'article 15/5bis, §§ 11/1 à 11/3, de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, insérées par la loi du 25 août 2012;
+17° tout acte ou omission contraire aux articles 1649bis à 1649nonies et 1701/1 à 1701/19 de l'ancien Code civil et qui a porté, porte ou est susceptible de porter atteinte aux intérêts collectifs des consommateurs;
