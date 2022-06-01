@@ -3,8 +3,8 @@ Een autonome probatiestraf bestaat uit de verplichting bijzondere voorwaarden na
 De rechter voorziet, binnen de perken van de op het misdrijf gestelde straffen, alsook van de wet op grond waarvan de zaak voor hem werd gebracht, in een gevangenisstraf of in een geldboete die van toepassing kan worden ingeval de autonome probatiestraf niet wordt uitgevoerd.
 De autonome probatiestraf mag niet worden uitgesproken voor de feiten:
 1° die strafbaar zouden zijn met een maximumstraf van meer dan twintig jaar opsluiting als ze niet in wanbedrijven werden omgezet;
-2° die bedoeld zijn in de artikelen 375 tot 377;
-3° die bedoeld zijn in de artikelen 379 tot 387, indien de feiten zijn gepleegd op of met behulp van minderjarigen;
+2° die bedoeld zijn in de artikelen 417/12 tot 417/22;
+3° die bedoeld zijn in de artikelen 417/25 tot 417/41, 417/44 tot 417/47, 417/52 en 417/54, indien de feiten zijn gepleegd op of met behulp van minderjarigen;
 4° die bedoeld zijn in de artikelen 393 tot 397.
 § 2. De duur van de autonome probatiestraf bedraagt minstens zes maanden en ten hoogste twee jaar. Een autonome probatiestraf van twaalf maanden of minder is een politiestraf. Een autonome probatiestraf van een jaar of meer is een correctionele straf.
 § 3. Indien een autonome probatiestraf door de rechter wordt overwogen, door het openbaar ministerie wordt gevorderd of door de beklaagde wordt gevraagd, licht de rechter deze laatste voor de sluiting van de debatten in over de draagwijdte van een dergelijke straf en hoort hij hem in zijn opmerkingen. De rechter kan hierbij eveneens rekening houden met de belangen van de eventuele slachtoffers. De rechter kan de autonome probatiestraf slechts uitspreken als de beklaagde op de terechtzitting aanwezig of vertegenwoordigd is en nadat hij, hetzij in persoon, hetzij via zijn raadsman, zijn instemming heeft gegeven.

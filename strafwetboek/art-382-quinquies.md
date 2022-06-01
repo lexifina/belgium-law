@@ -1,1 +1,1 @@
-De publicatie en de verspreiding van teksten, tekeningen, foto's, enigerlei beelden of geluidsfragmenten waaruit de identiteit kan blijken van het slachtoffer van een in dit hoofdstuk genoemd misdrijf zijn verboden en strafbaar overeenkomstig artikel 378bis, tenzij met schriftelijke toestemming van het slachtoffer of met toestemming, ten behoeve van het opsporingsonderzoek of het gerechtelijk onderzoek, van de procureur des Konings of van de met het onderzoek belaste magistraat.
+(Opgeheven)

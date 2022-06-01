@@ -1,0 +1,5 @@
+Niet-naleving van een straf bestaande uit een verbod
+Niet-naleving van een straf bestaande uit een verbod is het overtreden van een van de volgende straffen:
+1° de sluiting van de inrichting, zoals bedoeld in artikel 433quater/5;
+2° de specifieke verboden, zoals bedoeld in artikel 433quater/6.
+Dit misdrijf wordt bestraft met gevangenisstraf van een jaar tot drie jaar en met geldboete van duizend euro tot vijfduizend euro of met een van die straffen alleen.

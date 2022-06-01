@@ -1,0 +1,4 @@
+Multidisciplinaire evaluatie.
+§ 1. De Kamer van volksvertegenwoordigers wordt ermee belast de toepassing van de bepalingen van dit hoofdstuk te evalueren, twee jaar na de inwerkingtreding ervan en vervolgens om de vier jaar.
+Die evaluatie is multidisciplinair en stoelt in het bijzonder op de expertise van vertegenwoordigers van het gerecht en van de politie, van vertegenwoordigers van openbare gespecialiseerde organen, van vertegenwoordigers van middenveldorganisaties, alsook van gespecialiseerde academici. De door de drie laatstgenoemde categorieën vertegenwoordigde expertisegebieden moeten minstens de volgende thema's omvatten: de bestrijding van mensenhandel, de steun aan mensen in de prostitutie, de gelijkheid tussen vrouwen en mannen, de verdediging van de economische en sociale rechten van de werknemers en de toegang tot gezondheid.
+§ 2. De wet bepaalt tegen 31 december 2022 de nadere regels van die evaluatie.

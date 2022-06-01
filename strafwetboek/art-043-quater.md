@@ -4,7 +4,7 @@ a) in de artikelen 136sexies en 136septies, 1°;
 b) in artikel 137, voor zover deze misdrijven worden bestraft met een van de straffen bedoeld in artikel 138, § 1, 4° tot 10°, en van dien aard zijn dat zij financieel gewin kunnen opleveren, in artikel 140, voor zover deze misdaad of dit wanbedrijf van dien aard is dat het financieel gewin kan opleveren, in de artikelen 140bis tot 140sexies, voor zover deze misdrijven van die aard zijn dat zij financieel gewin kunnen opleveren, in artikel 140septies, voor zover dit misdrijf wordt bestraft met een van de straffen bedoeld in artikel 140septies, § 1, derde en vierde streepje, en van die aard is dat het financieel gewin kan opleveren, en in artikel 141;
 c) in de artikelen 162, 163, 173, 180 en 186;
 d) in de artikelen 246 tot 250;
-e) in de artikelen 379 of 380 en 383bis;
+e) in de artikelen 417/25 tot 417/36, 417/38, 433quater/1 en 433quater/4;
 f) in de artikelen 433quinquies tot 433octies, 433undecies en 433duodecies;
 g) in de artikelen 504bis en 504ter;
 h) in artikel 505, met uitzondering van de zaken die gedekt zijn door artikel 42, 1°;

@@ -1,1 +1,1 @@
-(Voorheen art. 380quater) Met gevangenisstraf van acht dagen tot drie maanden en met geldboete van zesentwintig euro tot vijfhonderd euro wordt gestraft hij die in een openbare plaats door woorden, gebaren of tekens iemand tot ontucht aanzet. De straf wordt verdubbeld als het misdrijf tegenover een minderjarige wordt gepleegd.
+(Opgeheven)

@@ -1,1 +1,1 @@
-De meerderjarige die door middel van de informatie- en communicatietechnologie aan een minderjarige beneden de volle leeftijd van zestien jaar een voorstel doet tot ontmoeting met het oogmerk een misdrijf te plegen bepaald in dit hoofdstuk of in de hoofdstukken VI en VII van deze Titel, wordt, voor zover dit voorstel is gevolgd door materiële handelingen die tot een dergelijke ontmoeting leiden, gestraft met een gevangenisstraf van één jaar tot vijf jaar.
+(Opgeheven)
