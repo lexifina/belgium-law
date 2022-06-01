@@ -16,7 +16,7 @@ Les exceptions prévues au 2°, alinéa 2, s'appliquent également en ce qui con
 11° sans préjudice de l'article 1184 du Code civil, autoriser l'entreprise à mettre fin unilatéralement au contrat à durée indéterminée sans un délai de préavis raisonnable, hormis le cas de force majeure;
 12° en cas de force majeure, n'autoriser le consommateur à rompre le contrat que moyennant le paiement de dommages-intérêts;
 13° libérer l'entreprise de sa responsabilité du fait de son dol, de sa faute lourde ou de celle de ses préposés ou mandataires, ou, sauf en cas de force majeure, du fait de toute inexécution d'une obligation consistant en une des prestations principales du contrat;
-14° supprimer ou diminuer la garantie légale en matière de vices cachés, prévue par les articles 1641 à 1649 du Code civil, ou l'obligation légale de délivrance d'un bien conforme au contrat, prévue par les articles 1649bis à 1649octies du Code civil;
+14° supprimer ou diminuer la garantie légale en matière de vices cachés, prévue par les articles 1641 à 1649 du Code civil, ou l'obligation légale de délivrance d'un bien, d'un contenu numérique ou d'un service numérique conforme au contrat, prévue par les articles 1649bis à 1649nonies et 1701/1 à 1701/19 de l'ancien Code civil;
 15° fixer un délai déraisonnablement court pour signaler à l'entreprise des défauts dans le produit livré;
 16° interdire au consommateur de compenser sa dette envers l'entreprise par une créance qu'il aurait sur elle;
 17° déterminer le montant de l'indemnité due par le consommateur qui n'exécute pas ses obligations, sans prévoir une indemnité du même ordre à charge de l'entreprise qui n'exécute pas les siennes;

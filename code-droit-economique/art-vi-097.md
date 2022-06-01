@@ -5,4 +5,4 @@ Une pratique commerciale est réputée trompeuse si elle contient des informatio
 4° le prix ou le mode de calcul du prix, ou l'existence d'un avantage spécifique quant au prix;
 5° la nécessité d'un service, d'une pièce détachée, d'un remplacement ou d'une réparation;
 6° la nature, les qualités et les droits de l'entreprise ou de son intermédiaire, tels que son identité et son patrimoine, ses qualifications, son statut, son agrément, son affiliation ou ses liens et ses droits de propriété industrielle, commerciale ou intellectuelle ou ses récompenses et distinctions;
-7° les droits du consommateur, en particulier le droit de remplacement ou de remboursement en application des dispositions de la loi du 1er septembre 2004 relative à la protection des consommateurs en cas de vente de biens de consommation, ou les risques qu'il peut encourir.
+7° les droits du consommateur, en particulier le droit de remplacement ou de remboursement d'un bien, d'un contenu numérique ou d'un service numérique conformément aux articles 1649bis à 1649nonies et 1701/1 à 1701/19 de l'ancien Code civil, ou les risques qu'il peut encourir.

@@ -1,1 +1,16 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Les définitions suivantes sont applicables au livre XV:
+1° données à caractère personnel: informations concernant une personne physique identifiée ou identifiable, conformément à la définition prévue à l'article 1er, § 1er, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel;
+2° responsable du traitement: personne physique ou morale, association de fait ou administration publique qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement de données à caractère personnel;
+3° traitement: toute opération ou ensemble d'opérations effectuées ou non à l'aide de procédés automatisés et appliquées à des données à caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, ainsi que le verrouillage, l'effacement ou la destruction de données à caractère personnel;
+4° coordinateur fédéral: la personne physique désignée au sein du Service public fédéral Economie, pour être, dans le cadre de la coopération administrative prévue aux articles XV.35 à XV.48, le point de contact entre la Commission européenne et les autorités belges compétentes;
+5° coordinateur d'alerte: la personne ou les personnes physiques désignées au niveau fédéral qui sont chargées d'assurer l'information des Etats membres et de la Commission européenne de circonstances ou de faits graves et précis en rapport avec une activité de service susceptibles de causer un préjudice grave à la santé ou à la sécurité des personnes ou à l'environnement;
+6° Banque: la Banque nationale de Belgique;
+7° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
+8° entreprise soumise à inscription: toute entité tenue de s'inscrire en vertu de l'article III.49;
+9° plaignant de la chaîne d'approvisionnement agricole et alimentaire: tout fournisseur de produits agricoles et alimentaires, toute organisation de producteurs, toute organisation de fournisseurs, toute organisation dont un producteur ou un fournisseur est membre, toute association d'organisations dont un fournisseur est membre et toute autre organisation ayant un intérêt légitime à représenter les fournisseurs pour autant qu'il s'agisse d'une personne morale indépendante sans but lucratif, qui est confronté à un acheteur de produits agricoles et alimentaires soupçonné de commettre une infraction aux dispositions visées à l'article XV.83, 15° /1;
+10° atteinte aux intérêts collectifs des consommateurs: le préjudice réel ou potentiel à l'encontre des intérêts d'un certain nombre de consommateurs affectés par des infractions;
+11° infraction transfrontalière: les cas dans lesquels:
+a) l'infraction a son origine ou a lieu dans un autre pays que la Belgique;
+b) celui qui a subi un dommage suite à l'infraction se trouve dans un autre pays que la Belgique;
+c) l'entreprise qui commet l'infraction est établie dans un autre pays que la Belgique;
+d) des éléments de preuve ou des actifs de l'entreprise en rapport avec l'infraction peuvent être trouvés dans un autre pays que la Belgique;
