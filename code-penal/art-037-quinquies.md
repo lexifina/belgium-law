@@ -1,8 +1,8 @@
 (ancien art. 37ter renuméroté en nouvel art. 37quinquies) § 1er. Lorsqu'un fait est de nature à entraîner une peine de police ou une peine correctionnelle, le juge peut condamner à titre de peine principale à une peine de travail. Le juge prévoit, dans les limites des peines prévues pour l'infraction et par la loi en fonction de sa saisine, une peine d'emprisonnement ou une amende qui peut être applicable en cas de non-exécution de la peine de travail.
 La peine de travail ne peut être prononcée pour les faits:
 1° qui seraient punissables, s'ils n'étaient transmués en délits, d'une peine maximale supérieure à vingt ans de réclusion;
-2° visés aux articles 375 à 377;
-3° visés aux articles 379 à 387, si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
+2° visés aux articles 417/12 à 417/22;
+3° visés aux articles 417/25 à 417/41, 417/44 à 417/47, 417/52 et 417/54, si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
 4° visés aux articles 393 à 397.
 § 2. La durée d'une peine de travail ne peut être inférieure à vingt heures ni supérieure à trois cents heures. Une peine de travail égale ou inférieure à quarante-cinq heures constitue une peine de police. Une peine de travail de plus de quarante-cinq heures constitue une peine correctionnelle.
 La peine de travail doit être exécutée dans les douze mois qui suivent la date à laquelle la décision judiciaire est passée en force de chose jugée. La commission de probation peut d'office ou à la demande du condamné prolonger ce délai.

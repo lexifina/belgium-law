@@ -3,8 +3,8 @@ Une peine de probation autonome consiste en l'obligation de respecter des condit
 Le juge prévoit, dans les limites des peines prévues pour l'infraction et par la loi en fonction de sa saisine, une peine d'emprisonnement ou une amende qui peut être applicable en cas de non-exécution de la peine de probation autonome.
 La peine de probation autonome ne peut être prononcée pour les faits:
 1° qui seraient punissables, s'ils n'étaient transmués en délits, d'une peine maximale supérieure à vingt ans de réclusion;
-2° visés aux articles 375 à 377;
-3° visés aux articles 379 à 387, si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
+2° visés aux articles 417/12 à 417/22;
+3° visés aux articles 417/25 à 417/41, 417/44 à 417/47, 417/52 et 417/54, si les faits ont été commis sur des mineurs ou à l'aide de mineurs;
 4° visés aux articles 393 à 397.
 § 2. La durée de la peine de probation autonome ne peut être inférieure à six mois ni supérieure à deux ans. Une peine de probation autonome de douze mois ou inférieure à douze mois constitue une peine de police. Une peine de probation autonome d'un an ou supérieure à un an constitue une peine correctionnelle.
 § 3. Lorsqu'une peine de probation autonome est envisagée par le juge, requise par le ministère public ou demandée par le prévenu, le juge informe celui-ci, avant la clôture des débats, de la portée d'une telle peine et l'entend dans ses observations. Le juge peut également tenir compte, à cet égard, des intérêts des victimes éventuelles. Le juge ne peut prononcer la peine de probation autonome que si le prévenu est présent ou représenté à l'audience et après qu'il a donné, soit en personne, soit par l'intermédiaire de son conseil, son consentement.
