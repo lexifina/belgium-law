@@ -1,7 +1,7 @@
 Pourra être poursuivie en Belgique toute personne qui aura commis hors du territoire du Royaume:
-1° une des infractions prévues aux articles 379, 380, 381 383bis, §§ 1er et 3, 433quinquies à 433octies du Code pénal;
+1° une des infractions prévues aux articles 417/25 à 417/38, 417/44, 417/45, 433quater/1 et 433quater/4, 433quinquies à 433octies du Code pénal;
 1bis. une des infractions prévues aux articles 433novies/2 à 433novies/10, en cas de prélèvement d'organes pratiqué ou envisagé en échange d'un profit ou d'un avantage comparable;
-2° une des infractions prévues aux articles 371/1 à 377, 377quater et 409, du même Code si le fait a été commis sur la personne d'un mineur;
+2° une des infractions prévues aux articles 417/7 à 417/19, 417/21, 417/22, 417/24 et 417/56, et 409, du même Code si le fait a été commis sur la personne d'un mineur;
 3° une des infractions prévues aux articles 77bis à 77quinquies, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et par les articles 10 à 13 de la loi du 9 mars 1993 tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial.
 4° une des infractions prévues au livre II, titre Ierter, du Code pénal commise contre un ressortissant ou une institution belge, ou contre une institution de l'Union européenne ou d'un organisme créé conformément au traité instituant la Communauté européenne ou au traité sur l'Union européenne et qui a son siège dans le Royaume.
 Si l'inculpé n'est pas trouvé en Belgique, les poursuites, en ce compris l'instruction, ne peuvent être engagées, lorsque l'infraction a été commise par un étranger contre une personne qui, au moment des faits, est un ressortissant belge ou contre une institution visée à l'alinéa 1er, qu'à la requête du procureur fédéral ou du procureur du Roi, qui apprécie les plaintes éventuelles.

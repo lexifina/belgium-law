@@ -4,7 +4,7 @@ a) aux articles 136sexies et 136septies, 1°;
 b) à l'article 137, pour autant que ces infractions soient punies d'une des peines prévues à l'article 138, § 1er, 4° à 10°, et qu'elles soient de nature à générer des avantages patrimoniaux, à l'article 140, pour autant que ce crime ou ce délit soit de nature à générer des avantages patrimoniaux, aux articles 140bis à 140sexies, pour autant que ces infractions soient de nature à générer des avantages patrimoniaux, à l'article 140septies, pour autant que cette infraction soit punie d'une des peines prévues à l'article 140septies, § 1er, troisième et quatrième tiret, et qu'elle soit de nature à générer des avantages patrimoniaux, et à l'article 141;
 c) aux articles 162, 163, 173, 180 et 186;
 d) aux articles 246 à 250;
-e) aux articles 379 ou 380 et 383bis;
+e) aux articles 417/25 à 417/36, 417/38, 433quater/1 et 433quater/4;
 f) aux articles 433quinquies à 433octies, 433undecies et 433duodecies;
 g) aux articles 504bis et 504ter;
 h) à l'article 505, à l'exception des choses couvertes par l'article 42, 1°;
