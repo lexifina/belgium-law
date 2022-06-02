@@ -12,3 +12,4 @@ a) le consommateur n'a pas donné son accord préalable exprès pour que l'exéc
 b) le consommateur n'a pas reconnu perdre son droit de rétractation en donnant son accord, ou
 c) l'entreprise n'a pas satisfait aux obligations visées à l'article VI.65, § 2.
 § 5. Sauf disposition contraire de l'article VI.70, § 2, et du présent article, le consommateur n'encourt aucune responsabilité du fait de l'exercice du droit de rétractation.
+§ 6. En cas de rétractation du contrat, le consommateur s'abstient d'utiliser le contenu numérique ou le service numérique et de le rendre accessible à des tiers.

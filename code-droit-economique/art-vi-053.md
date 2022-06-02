@@ -1,5 +1,5 @@
 Le consommateur ne peut exercer le droit de rétractation prévu à l'article VI.47 pour:
-1° les contrats de service après que le service a été pleinement exécuté si l'exécution a commencé avec l'accord préalable exprès du consommateur, lequel a également reconnu qu'il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par l'entreprise;
+1° les contrats de service après que le service a été pleinement exécuté mais, si le contrat soumet le consommateur à une obligation de payer, seulement si l'exécution a commencé avec l'accord préalable exprès du consommateur et qu'il a reconnu qu'il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par l'entreprise;
 2° la fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle de l'entreprise et susceptibles de se produire pendant le délai de rétractation;
 3° la fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés;
 4° la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement;
@@ -11,5 +11,8 @@ Le consommateur ne peut exercer le droit de rétractation prévu à l'article VI
 10° la fourniture d'un journal, d'un périodique ou d'un magazine sauf pour les contrats d'abonnement à ces publications;
 11° les contrats conclus lors d'une enchère publique;
 12° la prestation de services d'hébergement autres qu'à des fins résidentielles, de transport, de location de voitures, de restauration ou de services liés à des activités de loisirs si le contrat prévoit une date ou une période d'exécution spécifique;
-13° la fourniture d'un contenu numérique non fourni sur un support matériel si l'exécution a commencé avec l'accord préalable exprès du consommateur, lequel a également reconnu qu'il perdra ainsi son droit de rétractation;
+13° les contrats de fourniture de contenus numériques non fournis sur un support matériel, si l'exécution a commencé et, si le contrat soumet le consommateur à une obligation de payer, lorsque:
+a) le consommateur a donné son consentement préalable exprès pour que l'exécution commence pendant le délai de rétractation;
+b) le consommateur a reconnu qu'il perdra ainsi son droit de rétractation; et
+c) l'entreprise a fourni une confirmation conformément à l'article VI.46, § 7.
 14° les contrats de services de paris et de loteries.
