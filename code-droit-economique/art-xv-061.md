@@ -6,3 +6,10 @@ La somme prévue au premier alinéa ne peut être supérieure au maximum de l'am
 § 3 Le paiement effectué dans le délai indiqué éteint l'action publique sauf si auparavant, une plainte a été adressée au procureur du Roi, le juge d'instruction a été requis d'instruire ou le tribunal a été saisi du fait. Dans ces cas, les sommes payées sont restituées au contrevenant.
 (...)
 § 4. La décision de proposer une somme telle que visée au paragraphe 1er peut, pour ce qui concerne les infractions visées à l'article XV.83, 15° /1, être rendue publique. Le cas échéant, la publication est non nominative si son intérêt ne l'emporte pas sur la protection de la vie privée ou si elle risque de compromettre une enquête ou procédure pénale en cours ou de causer un préjudice disproportionné aux personnes ou entreprises concernées.
+§ 5. Les critères suivants, non exhaustifs et indicatifs, sont pris en considération pour la détermination de la somme visée au paragraphe 1er, le cas échéant:
+1 la nature, la gravité, l'ampleur et la durée de l'infraction;
+2 toute mesure prise par l'entreprise pour atténuer ou réparer les dommages subis par les consommateurs;
+3 les infractions antérieures commises par l'entreprise;
+4 les avantages financiers obtenus ou les pertes évitées par l'entreprise du fait de l'infraction, si les données concernées sont disponibles;
+5 les sanctions infligées à l'entreprise pour la même infraction dans d'autres Etats membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le règlement (UE) 2017/2394 du Parlement européen et du Conseil;
+6 toute autre circonstance aggravante ou atténuante applicable au cas concerné.

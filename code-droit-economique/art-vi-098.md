@@ -3,3 +3,4 @@ Est également réputée trompeuse, une pratique commerciale qui, dans son conte
 2° le non-respect par l'entreprise d'engagements contenus dans un code de conduite par lequel elle s'est engagée à être liée, dès lors:
 a) que ces engagements ne sont pas des déclarations d'intention, mais sont fermes et vérifiables, et
 b) que l'entreprise, dans le cadre d'une pratique commerciale, indique qu'elle est liée par le code;
+3° toute activité de marketing concernant un bien, dans un Etat membre, comme identique à un bien commercialisé dans d'autres Etats membres, alors que ce bien a une composition ou des caractéristiques sensiblement différentes, à moins que cela ne soit justifié par des facteurs légitimes et objectifs.

@@ -1,1 +1,1 @@
-(Abrogé)
+Par dérogation à l'article VI.18, § 1er, alinéa 2, le prix antérieur est le prix sans réduction de prix, avant l'application de la première réduction de prix, lorsque la réduction de prix est progressivement augmentée pendant une période ininterrompue de trente jours maximum.

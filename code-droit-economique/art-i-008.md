@@ -46,9 +46,19 @@ d) conclu pendant une excursion organisée par l'entreprise ayant pour but ou po
 a) tout site commercial immeuble où l'entreprise exerce son activité en permanence; ou
 b) tout site commercial meuble où l'entreprise exerce son activité de manière habituelle;
 33° contrat de vente: tout contrat en vertu duquel l'entreprise transfère ou s'engage à transférer la propriété des biens au consommateur et le consommateur paie ou s'engage à payer le prix de ceux-ci, y compris les contrats ayant à la fois pour objet des biens et des services;
-34° contrat de service: tout contrat autre qu'un contrat de vente en vertu duquel l'entreprise fournit ou s'engage à fournir un service au consommateur et le consommateur paie ou s'engage à payer le prix de celui-ci;
-35° ...
+34° contrat de service: tout contrat autre qu'un contrat de vente en vertu duquel l'entreprise fournit ou s'engage à fournir un service au consommateur, y compris un service numérique et le consommateur paie ou s'engage à payer le prix de celui-ci;
+35° contenu numérique: des données produites et fournies sous forme numérique;
 36° enchère publique: une méthode de vente selon laquelle l'entreprise propose aux consommateurs des biens ou services au moyen d'une procédure de mise en concurrence transparente dirigée par un officier ministériel chargé de procéder aux opérations de la vente publique, à laquelle les consommateurs assistent ou peuvent assister en personne, et au terme de laquelle l'adjudicataire est tenu d'acquérir ledit bien ou service;
 37° garantie commerciale: tout engagement de l'entreprise ou d'un producteur à l'égard du consommateur, en plus de ses obligations légales tenant à la garantie de conformité, en vue du remboursement du prix d'achat, du remplacement ou de la réparation du bien ou de la prestation de tout autre service en relation avec le bien si ce dernier ne répond pas aux spécifications ou à d'autres éléments éventuels non liés à la conformité énoncés dans la déclaration de garantie ou dans la publicité correspondante faite au moment de la conclusion du contrat ou avant celle-ci;
 38° contrat accessoire: un contrat en vertu duquel le consommateur acquiert des biens ou services afférents à un contrat, ces biens ou services étant fournis par l'entreprise ou un tiers sur la base d'un accord conclu entre ce dernier et l'entreprise;
 39° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
+40° service numérique:
+a) un service permettant au consommateur de créer, de traiter ou de stocker des données sous forme numérique, ou d'y accéder; ou
+b) un service permettant le partage ou toute autre interaction avec des données sous forme numérique qui sont téléversées ou créées par le consommateur ou d'autres utilisateurs de ce service;
+41° place de marché en ligne: un service utilisant un logiciel, y compris un site internet, une partie de site internet ou une application, exploité par l'entreprise ou pour son compte qui permet aux consommateurs de conclure des contrats à distance avec d'autres entreprises ou consommateurs;
+42° fournisseur de place de marché en ligne: toute entreprise qui fournit une place de marché en ligne aux consommateurs;
+43° compatibilité: la capacité du contenu numérique ou du service numérique à fonctionner avec du matériel informatique ou des logiciels avec lesquels des contenus numériques ou des services numériques de même type sont normalement utilisés, sans qu'il soit nécessaire de convertir le contenu numérique ou le service numérique;
+44° fonctionnalité: la capacité du contenu numérique ou du service numérique à remplir ses fonctions eu égard à sa finalité;
+45° interopérabilité: la capacité du contenu numérique ou du service numérique à fonctionner avec du matériel informatique ou des logiciels différents de ceux avec lesquels des contenus numériques ou des services numériques de même type sont normalement utilisés;
+46° classement: la priorité relative accordée aux produits, tels qu'ils sont présentés, organisés ou communiqués par l'entreprise, quelle que soit la technologie utilisée pour une telle présentation, organisation ou communication;
+47° produit: tout bien ou service, y compris les biens immobiliers, les services numériques et les contenus numériques, ainsi que les droits et les obligations;
