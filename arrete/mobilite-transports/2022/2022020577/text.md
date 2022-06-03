@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Il est interdit de pêcher à la ligne, de pêcher avec des chaluts, de relâcher ou de repêcher à côté de l'épave G-88 Proue, dans un cercle avec un rayon de 150 mètres autour du coordinat 51° 27,355' N et 003° 03,980' E.
