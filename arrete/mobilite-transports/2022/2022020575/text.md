@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Il est interdit de pêcher à la ligne, de pêcher avec des chaluts, de relâcher ou de repêcher à côté de l'épave A-19 Proue, dans un cercle avec un rayon de 150 mètres autour du coordinat 51° 13,835' N et 002° 38,046' E.
