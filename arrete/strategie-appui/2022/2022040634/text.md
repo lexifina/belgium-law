@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1<sup>ier</sup>, 3° l'arrêté royal du 7 décembre 2018 relatif à l'application du travail intérimaire dans certains services fédéraux, dans les entreprises publiques et HR Rail en exécution de l'article 48 de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs est complété comme suit :
+" [- l'Agence fédérale de Contrôle nucléaire à l'exception des membres du personnel désignés en vertu de l'article 9 de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisant et relative à l'Agence fédérale de Contrôle nucléaire ]. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. La Ministre de la Fonction publique et la Ministre de l'Intérieur sont chargées, chacune en ce qui la concerne, de l'exécution du présent arrêté.
