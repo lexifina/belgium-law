@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220607.2N.11",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220607.2N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-06-07",
+  "date_as_printed": "Vonnis/arrest van 07 juni 2022",
+  "published_on_juportal": "2022-06-14",
+  "language": "nl",
+  "role_number": "P.22.0246.N",
+  "case_name_as_published": "L. contra K.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Disparition d'éléments de preuve - Conséquence - Appréciation - Réparation d'une éventuelle méconnaissance des droits de la défense - Application",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droits de la défense - Disparition d'éléments de preuve - Réparation d'une éventuelle méconnaissance des droits de la défense - Application",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Matière répressive - Droits de la défense - Disparition d'éléments de preuve - Conséquence - Appréciation - Réparation d'une éventuelle méconnaissance des droits de la défense - Application",
+    "Verdwenen bewijsstukken - Gevolg - Beoordeling - Herstel van eventuele miskenning van het recht van verdediging - Toepassing",
+    "Recht van verdediging - Verdwenen bewijsstukken - Herstel van eventuele miskenning van het recht van verdediging - Toepassing",
+    "Strafzaken - Recht van verdediging - Verdwenen bewijsstukken - Gevolg - Beoordeling - Herstel van eventuele miskenning van het recht van verdediging - Toepassing"
+  ],
+  "fiche": [
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Verdwenen bewijsstukken - Gevolg - Beoordeling - Herstel van eventuele miskenning van het recht van verdediging - Toepassing",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Recht van verdediging - Verdwenen bewijsstukken - Herstel van eventuele miskenning van het recht van verdediging - Toepassing",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Strafzaken - Recht van verdediging - Verdwenen bewijsstukken - Gevolg - Beoordeling - Herstel van eventuele miskenning van het recht van verdediging - Toepassing"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220607.2N.11",
+  "source_sha256": "50ba33354d1607c186a1a6fbb2ab822a51718c25c3b086dbd013fcdee18ff714",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220607.2N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
