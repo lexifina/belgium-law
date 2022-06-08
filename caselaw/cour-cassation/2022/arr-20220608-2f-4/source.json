@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2022:ARR.20220608.2F.4",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220608.2F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-06-08",
+  "date_as_printed": "Jugement/arrêt du 08 juin 2022",
+  "published_on_juportal": "2022-06-14",
+  "language": "fr",
+  "role_number": "P.22.0682.F",
+  "case_name_as_published": "PROCUREUR GÉNÉRAL COUR DE CASSATION contra B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 38",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Article 38, § 2bis - Déchéance du droit de conduire - Exécution le week-end et les jours fériés - Réintégration dans le droit de conduire subordonnée à la réussite d'un examen théorique - Incompatibilité des décisions",
+    "Artikel 38, § 2bis - Verval van het recht tot sturen - Uitvoering tijdens het weekend en de feestdagen - Herstel in het recht tot sturen afhankelijk van het slagen voor een theoretisch onderzoek - Onverenigbaarheid van de beslissingen"
+  ],
+  "fiche": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 38",
+    "Article 38, § 2bis - Déchéance du droit de conduire - Exécution le week-end et les jours fériés - Réintégration dans le droit de conduire subordonnée à la réussite d'un examen théorique - Incompatibilité des décisions",
+    "Loi du 16 mars 1968 relative à la police de la circulation routière - 16-03-1968 - Art. 38, § 2bis - 31 Lien ELI No pub 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220608.2F.4",
+  "source_sha256": "7eff570036240b347f02612ffd4cb90dbbf7420c12e199ac90c4e3f9ebea9d17",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220608.2F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/22/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
