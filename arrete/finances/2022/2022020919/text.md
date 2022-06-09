@@ -1,0 +1,106 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 95<sup>2</sup>, de l'AR/CIR 92, inséré par l'arrêté royal du 22 août 2006 et modifié en dernier lieu par l'arrêté royal de 14 mars 2021, les modifications suivantes sont apportées :
+a) au paragraphe 1er, alinéa 3, le 5° est remplacé par ce qui suit :
+"5° a) les entreprises visées à l'article 275<sup>5</sup>, § 1er, du même Code, où s'effectue un travail en équipe ;
+b) les entreprises visées à l'article 275<sup>5</sup>, § 2, du même Code, où s'effectue un travail de nuit ;
+c) les entreprises visées à l'article 275<sup>5</sup>, § 3, du même Code, où s'effectue un travail en équipe dans un système de travail en continu ;
+d) les entreprises visées à l'article 275<sup>5</sup>, § 4, du même Code, où s'effectue de travaux sous un régime de navigation en système ;
+e) les entreprises visées à l'article 275<sup>5</sup>, § 5, du même Code, qui exécutent des travaux immobiliers en équipe sur place ;" ;
+b) au paragraphe 3, alinéa 1er, c), le 7° est remplacé par ce qui suit :
+"7° pour les redevables visés au § 1er, alinéa 3, 5°, a) : un montant négatif égal au plus petit des deux montants suivants :
+- 22,8 p.c. des rémunérations imposables des travailleurs visés à l'article 275<sup>5</sup>, § 1er, du même Code, déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du même Code, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le précompte professionnel qui a été retenu sur les rémunérations visées au précédent tiret, dans la mesure où celui-ci serait effectivement versé au Trésor sans l'application de l'article 275<sup>5</sup>, § 1er, du même Code ;" ;
+c) au paragraphe 3, alinéa 1er, c), le 7° /1, 7° /2, 7° /3 et 7° /4, sont insérés, rédigés comme suit :
+"7° /1 pour les redevables visés au § 1er, alinéa 3, 5°, b) : un montant négatif égal au plus petit des deux montants suivants :
+- 22,8 p.c. des rémunérations imposables des travailleurs visés à l'article 275<sup>5</sup>, § 2, du même Code, déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du même Code, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le précompte professionnel qui a été retenu sur les rémunérations visées au précédent tiret, dans la mesure où celui-ci serait effectivement versé au Trésor sans l'application de l'article 275<sup>5</sup>, § 2, du même Code ;
+7° /2 pour les redevables visés au § 1er, alinéa 3, 5°, c) : un montant négatif égal au plus petit des deux montants suivants :
+- 25 p.c. des rémunérations imposables des travailleurs visés à l'article 275<sup>5</sup>, § 3, du même Code, déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du même Code, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le précompte professionnel qui a été retenu sur les rémunérations visées au précédent tiret, dans la mesure où celui-ci serait effectivement versé au Trésor sans l'application de l'article 275<sup>5</sup>, § 3, du même Code ;
+7° /3 pour les redevables visés au § 1er, alinéa 3, 5°, d) : un montant négatif égal au plus petit des deux montants suivants :
+- 22,8 p.c. des rémunérations imposables des travailleurs visés à l'article 275<sup>5</sup>, § 4, du même Code, déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du même Code, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le précompte professionnel qui a été retenu sur les rémunérations visées au précédent tiret, dans la mesure où celui-ci serait effectivement versé au Trésor sans l'application de l'article 275<sup>5</sup>, § 4, du même Code ;
+7° /4 pour les redevables visés au § 1er, alinéa 3, 5°, e) : un montant négatif égal au plus petit des deux montants :
+- 18 p.c. des rémunérations imposables des travailleurs visés à l'article 275<sup>5</sup>, § 5, du même Code, déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du même Code, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le précompte professionnel qui a été retenu sur les rémunérations visées au précédent tiret, dans la mesure où celui-ci serait effectivement versé au Trésor sans l'application de l'article 275<sup>5</sup>, § 5, du même Code ;".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'annexe IIIbis du même arrêté, insérée par l'arrêté royal du 22 août 2006, et modifiée en dernier lieu par l'arrêté royal de 17 décembre 2021, les modifications suivantes sont apportées :
+a) le code "06 primes d'équipe et de travail de nuit (art. 275<sup>5</sup>, CIR 92)" est abrogé ;
+b) le code "53 primes d'équipe et de travail de nuit (art. 275<sup>5</sup>, § 3, CIR 92) est remplacé par le code "53 travail en équipe en continu (art. 275<sup>5</sup>, § 3, CIR 92)" ;
+c) le code "57 primes d'équipe pour travaux immobiliers (art. 275<sup>5</sup>, § 5, CIR 92)" est remplacé par le code "57 travail en équipe pour travaux immobiliers (art. 275<sup>5</sup>, § 5, CIR 92)" ;
+d) le code "63 primes d'équipe pour la navigation en système (art. 275<sup>5</sup>, § 4, CIR 92)")" est remplacé par le code "63 travail en équipe pour la navigation en système (art. 275<sup>5</sup>, § 4, CIR 92)" ;
+e) entre le code "64 formation des travailleurs (art. 275<sup>12</sup>, § 1er, CIR 92) et le code 80 zone d'aide (Art. 275<sup>8</sup>, § 1er, alinéa 5, CIR 92), deux codes sont insérés, rédigés comme suit :
+"74 travail en équipe (art. 275<sup>5</sup>, § 1er, CIR 92)
+75 travail de nuit (art. 275<sup>5</sup>, § 2, CIR 92)" ;
+f) le code "80 zone d'aide (Art. 275<sup>8</sup>, § 1er, alinéa 5, CIR 92)" est remplacé par le code "80 zone d'aide - non-maintien du poste de travail pendant la période de maintien minimale (art. 275<sup>8</sup>, § 1er, alinéa 6, CIR 92)" ;
+g) le code "90 zone d'aide (Art. 275<sup>9</sup>, § 1er, alinéa 5, CIR 92)" est remplacé par le code "90 zone d'aide - non-maintien du poste de travail pendant la période de maintien minimale (art. 275<sup>9</sup>, § 1er, alinéa 6, CIR 92)".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'annexe IIIter du même arrêté, insérée par l'arrêté royal du 22 août 2006, et modifiée en dernier lieu par l'arrêté royal de 14 mars 2021, les modifications suivantes sont apportées :
+a) le point I est remplacé par ce qui suit :
+"I. Redevables visés à l'article 95<sup>2</sup>, § 1er, alinéa 3, 1° :
+Ces redevables doivent tenir à la disposition de l'administration une liste nominative contenant pour chaque travailleur, l'identité complète, le nombre d'heures de travail supplémentaire qui, conformément à l'article 29 de la loi sur le travail du 16 mars 1971 ou à l'article 7 de l'arrêté royal n° 213 du 26 septembre 1983 relatif à la durée du travail dans les entreprises ressortissant à la commission paritaire de la construction donne droit à un sursalaire légal, la base de calcul pour établir ce sursalaire et la période de l'année pendant laquelle ce travailleur a effectué du travail supplémentaire." ;
+b) le point II, 1, deuxième tiret, 2° est complété par le f), rédigé comme suit :
+"f) le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations ;" ;
+c) dans le point II, 1, deuxième tiret, le 3° est remplacé par ce qui suit :
+"3° en ce qui concerne le secteur du dragage ou du remorquage, toute information utile d'où il ressort que le travailleur concerné était occupé, durant la période relative à la déclaration au précompte professionnel, sur un bateau ou un navire de mer automoteur immatriculé dans un état membre de l'Espace économique européen, qui est conçu pour le transport d'un chargement par mer ou pour prêter assistance en mer et dont au moins 50 p.c. des activités, au cours de la même période, consistent en des activités opérationnelles en mer visés à l'article 275<sup>2</sup>, § 4, alinéas 3 et 4, du même Code ;" ;
+d) dans le point II, 1, deuxième tiret, le 4° est abrogé ;
+e) au point III, le g/1 est inséré, rédigé comme suit :
+"g/1) le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations ;" ;
+f) le point V est remplacé par ce qui suit :
+"V. Redevables visés à l'article 95<sup>2</sup>, § 1er, alinéa 3, 5°, a) et c) :
+Ces redevables doivent tenir à la disposition de l'administration une liste nominative contenant pour chaque travailleur qui a effectué un travail en équipe :
+- l'identité complète ;
+- le nombre d'heures de travail effectivement prestées en travail en équipe pour lesquelles le travailleur a également obtenu une prime d'équipe ;
+- le cas échéant, le nombre d'heures pour lesquelles l'exécution du contrat de travail a été suspendue et pour lesquelles le salaire a été maintenu par l'employeur s'il peut être démontré que le travailleur concerné, conformément à son règlement de travail, aurait travaillé en travail en équipe et aurait également obtenu pour cela une prime d'équipe ;
+- le nombre total d'heures de travail effectivement prestées ;
+- le cas échéant, le nombre total d'heures pour lesquelles l'exécution du contrat de travail a été suspendue mais avec maintien du salaire ;
+- les rémunérations imposables déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du Code des impôts sur les revenus 1992, payées ou attribuées au travailleur, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le montant du précompte professionnel retenu sur ces rémunérations ;
+- le montant de la prime d'équipe payée ou attribuée pour le travail effectué au cours de ce mois." ;
+g) entre le point V et le point VI, les points V/1, V/2 et V/3 sont insérés, rédigés comme suit :
+"V/1. Redevables visés à l'article 95<sup>2</sup>, § 1er, alinéa 3, 5°, b :
+Ces redevables doivent tenir à la disposition de l'administration une liste nominative contenant pour chaque travailleur qui a effectué un travail de nuit :
+- l'identité complète ;
+- le nombre d'heures de travail effectivement prestées en travail de nuit pour lesquelles le travailleur a également reçu une prime de nuit ;
+- le nombre d'heures pour lesquelles l'exécution du contrat de travail a été suspendue et pour lesquelles le salaire a été maintenu par l'employeur, s'il peut être démontré que le travailleur concerné, conformément à son règlement de travail, aurait travaillé en travail de nuit et aurait également obtenu pour cela une prime de nuit ;
+- le nombre total d'heures de travail effectivement prestées ;
+- le nombre total d'heures pour lesquelles l'exécution du contrat de travail a été suspendue mais avec maintien du salaire ;
+- les rémunérations imposables déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du Code des impôts sur les revenus 1992, payées ou attribuées au travailleur, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le montant du précompte professionnel retenu sur ces rémunérations ;
+- le montant de la prime de nuit payée ou attribuée pour le travail effectué au cours de ce mois.
+V/2. Redevables visés à l'article 95<sup>2</sup>, § 1er, alinéa 3, 5°, d) :
+Ces redevables doivent tenir à la disposition de l'administration une liste nominative contenant pour chaque travailleur qui a travaillé sous un régime de navigation en système :
+- l'identité complète ;
+- le pourcentage de leur durée de travail dans le régime de la navigation en système ;
+- les rémunérations imposables déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du Code des impôts sur les revenus 1992, payées ou attribuées au travailleur, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le montant du précompte professionnel retenu sur ces rémunérations ;
+- le montant de la prime de navigation en système, payée ou attribuée pour le travail effectué au cours de ce mois.
+V/3. Redevables visés à l'article 95<sup>2</sup>, § 1er, alinéa 3, 5°, e) :
+Ces redevables doivent tenir à la disposition de l'administration une liste nominative contenant pour chaque travailleur qui exécutent des travaux immobiliers en équipe sur place :
+- l'identité complète ;
+- le nombre d'heures de travail effectivement prestées en exécutant des travaux immobiliers en équipe sur place ;
+- le cas échéant, le nombre d'heures pour lesquelles l'exécution du contrat de travail a été suspendue et pour lesquelles le salaire a été maintenu par l'employeur, s'il peut être démontré que le travailleur concerné, conformément à son règlement de travail, aurait travaillé en exécutant des travaux immobiliers en équipe sur place ;
+- le nombre total d'heures de travail effectivement prestées ;
+- le cas échéant, le nombre total d'heures pour lesquelles l'exécution du contrat de travail a été suspendue mais avec maintien du salaire ;
+- l'identification de l'endroit ou des endroits où le travailleur a exécuté les travaux immobiliers en équipe sur place ;
+- les rémunérations imposables déterminées conformément à l'article 31, alinéa 2, 1° et 2°, du Code des impôts sur les revenus 1992, payées ou attribuées au travailleur, à l'exclusion du double pécule de vacances, de la prime de fin d'année et des arriérés de rémunérations ;
+- le montant du précompte professionnel retenu sur ces rémunérations ;
+- le montant du salaire horaire brut payé ou attribué, avant retenue des cotisations personnelles de sécurité sociale.
+Ces redevables tiennent à la disposition de l'administration pour chaque place ou les travaux immobiliers en équipe sont exécutés, la preuve que :
+- soit la déclaration à l'Office national de sécurité sociale a été faite conformément à l'article 30bis de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ;
+- soit l'article 30bis de la loi du 27 juin 1969 précitée n'impose pas de déclaration." ;
+h) le point VI, 1° est complété par un tiret, rédigé comme suit :
+"- le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations ;" ;
+i) le point VI, 2°, est complété par un tiret, rédigé comme suit :
+"- le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations." ;
+j) le point VIII, alinéa 2, est complété par les d), e) et f), rédigés comme suit :
+"d) le montant des rémunérations brutes imposables visées à l'article 275<sup>8</sup>, § 4, du même Code, payées ou attribuées ;
+e) le montant du précompte professionnel retenu sur ces rémunérations ;
+f) le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations." ;
+k) dans le point VIII, alinéa 3, le a) est abrogé ;
+l) le point IX, alinéa 1er est complété par un tiret, rédigé comme suit :
+"- le cas échéant, le montant du précompte professionnel qui est retenu complémentairement en sus du minimum réglementaire du précompte professionnel dû sur ces rémunérations.".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Les articles 1, 2, b) à d) et f) à g) et 3, b) à l) du présent arrêté sont applicables aux rémunérations payées ou attribuées à partir du 1er avril 2022.
+L'article 2, a) et e) du présent arrêté sont applicables aux rémunérations payées ou attribuées à partir du 1er juillet 2022.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
