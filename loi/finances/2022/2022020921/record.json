@@ -1,0 +1,30 @@
+{
+  "id": "2022020921",
+  "title": "18 MAI 2022. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2017",
+  "source_title": "18 MAI 2022. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2017",
+  "act": "loi/finances/2022/2022020921",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-05-30&numac_search=2022020921&page=78&lg_txt=F&caller=list&2022020921=18&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "77a7580d21543c9e005f37d68fb8889618b133f9439c3e5df1c0be43f5fe1f3a",
+  "source_issuer": "Finances",
+  "made": "2022-05-18",
+  "published": "2022-05-30",
+  "in_force": "2022-06-09",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2017 9 juin 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Finances",
+    "Publication": "30 mai 2022",
+    "Numéro": "2022020921",
+    "page": "45147",
+    "Dossier numéro": "2022-05-18/05",
+    "Entrée en vigueur": "1 janvier 2017 9 juin 2022",
+    "Fin de validit&eacute": "31 décembre 2017"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1714,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-06-09"
+}
