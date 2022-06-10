@@ -12,7 +12,7 @@ Le Roi peut, sur proposition de l'organe paritaire compétent, modifier ou compl
 - lorsque la rémunération annuelle ne dépasse pas 16 100 euros;
 - lorsque il ne s'agit pas d'une formation spécifique permettant d'acquérir de nouvelles compétences professionnelles pouvant, le cas échéant, être valorisées également en dehors de l'entreprise;
 - lorsque la formation dispensée au travailleur se situe dans le cadre réglementaire ou légal requis pour l'exercice de la profession pour laquelle le travailleur a été engagé;
-- lorsque la formation n'atteint pas une durée de 80 heures ou une valeur égale au double du revenu minimum mensuel moyen garanti, tel que fixé, pour les travailleurs de 21 ans ou plus, par convention collective de travail conclue au sein du Conseil national du Travail.
+- lorsque la formation n'atteint pas une durée de 80 heures ou une valeur égale au double du revenu minimum mensuel moyen garanti, tel que fixé, pour les travailleurs de 18 ans ou plus, par convention collective de travail conclue au sein du Conseil national du Travail.
 § 5. La durée de validité de la clause d'écolage ne peut excéder trois ans et doit être fixée en tenant compte du coût et de la durée de la formation.
 Le montant du remboursement dû par le travailleur en cas de non respect de la période convenue dans la clause d'écolage ne peut excéder:
 - 80 % du coût de la formation en cas de départ du travailleur avant 1/3 de la période convenue;
