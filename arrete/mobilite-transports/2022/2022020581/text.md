@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Il est interdit de pêcher à la ligne, de pêcher avec des chaluts, de relâcher ou de repêcher à côté de l'épave PARAGON, dans un cercle avec un rayon de 150 mètres autour du coordinat 51° 15,956' N et 002° 56,181' E.
