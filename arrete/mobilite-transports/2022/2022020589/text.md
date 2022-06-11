@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Il est interdit de pêcher à la ligne, de pêcher avec des chaluts, de relâcher ou de repêcher à côté de l'épave VORPOSTENBOOT FRIGG, dans un cercle avec un rayon de 150 mètres autour du coordinat 51° 25,933' N et 003° 09,702' E.
