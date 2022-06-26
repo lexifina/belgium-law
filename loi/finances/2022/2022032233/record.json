@@ -1,0 +1,29 @@
+{
+  "id": "2022032233",
+  "title": "6 JUIN 2022. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2016",
+  "source_title": "6 JUIN 2022. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2016",
+  "act": "loi/finances/2022/2022032233",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-06-16&numac_search=2022032233&page=73&lg_txt=F&caller=list&2022032233=10&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "dbbb977ffd3e49a874302448600769a954072a13e57544532a8c95adb6808c8a",
+  "source_issuer": "Finances",
+  "made": "2022-06-06",
+  "published": "2022-06-16",
+  "in_force": "2022-06-26",
+  "in_force_basis": "Justel: Entrée en vigueur : 26 juin 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Finances",
+    "Publication": "16 juin 2022",
+    "Numéro": "2022032233",
+    "page": "50945",
+    "Dossier numéro": "2022-06-06/01",
+    "Entrée en vigueur": "26 juin 2022"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1463,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-06-26"
+}
