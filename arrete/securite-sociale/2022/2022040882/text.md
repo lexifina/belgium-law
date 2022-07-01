@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Au chapitre V de l'annexe à l'arrêté Royal du 10 janvier 1991 établissant la nomenclature des prestations de rééducation visée à l'article 23, § 2, alinéa 2 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, portant fixation des honoraires et prix de ces prestations et portant fixation du montant de l'intervention de l'assurance dans ces honoraires et prix inséré par l'Arrêté royal du 22 octobre 2010 et remplacé par l'Arrêté royal du 1er mars 2018, le point 2, B, b est remplacé par les dispositions suivantes :
+" il a conclu un contrat trajet de soins pour le diabète de type 2 qui est valable à la date de la prescription visée au point 4.2, B ou qui entre en vigueur dans les 3 mois qui suivent cette date ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le point 4.2, C du chapitre V de l'annexe au même arrêté est complété par les dispositions suivantes :
+" Pour un bénéficiaire pour lequel le contrat trajet de soins entre en vigueur dans un délai maximum de 3 mois qui suit la date de la prescription, un maximum de 5 prestations d'éducation peut être remboursé à partir de la date de la prescription jusqu'à la date de l'entrée en vigueur du contrat trajet de soins. Les prestations d'éducation qui sont réalisées pendant cette période de 3 mois maximum comptent également dans le nombre maximum de prestations d'éducation remboursables prévu au présent point C. "
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté royal entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
