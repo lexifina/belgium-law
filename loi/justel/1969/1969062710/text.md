@@ -907,7 +907,7 @@ Le certificat est soit délivré soit refusé dans un délai de trente jours à 
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013052715" target="_blank">2013-05-27/15</a>, art. 48, 047; En vigueur : 01-08-2013&gt;
 
-<a name="Art.41sexies" href="#Art.41quinquies">Art.</a> <a href="#LNK0022"> 41sexies</a>. [<sup>1</sup> § 1er. Les notaires requis de dresser un acte ou un certificat d'hérédité visé à l'article 1240bis du Code civil, sont personnellement responsables du paiement des dettes dont la débition est susceptible d'être notifiée conformément au paragraphe 5, qui sont dues par le de cujus, ses héritiers et légataires dont l'identité est mentionnée dans l'acte ou le certificat, ou les bénéficiaires d'une institution contractuelle consentie par le de cujus, s'ils n'en avisent pas par avis les organismes percepteurs de cotisations de sécurité sociale :
+<a name="Art.41sexies" href="#Art.41quinquies">Art.</a> <a href="#LNK0022"> 41sexies</a>.[<sup>1</sup> § 1er. Les notaires requis de dresser un acte ou un certificat d'hérédité visé à l'article [<sup>2</sup> 4.59]<sup>2</sup> du Code civil, sont personnellement responsables du paiement des dettes dont la débition est susceptible d'être notifiée conformément au paragraphe 5, qui sont dues par le de cujus, ses héritiers et légataires dont l'identité est mentionnée dans l'acte ou le certificat, ou les bénéficiaires d'une institution contractuelle consentie par le de cujus, s'ils n'en avisent pas par avis les organismes percepteurs de cotisations de sécurité sociale :
 1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la Sécurité sociale;
 2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
 S'agissant de dettes dans le chef du de cujus, la responsabilité visée à l'alinéa 1er est limitée à la valeur de la succession.
@@ -942,6 +942,7 @@ Ces données doivent être conservées par l'expéditeur pendant une période de
 § 14. Les paragraphes 1er à 13 sont applicables à toute personne ou service habilité à établir un certificat d'hérédité visé à l'article 1240bis du Code civil.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012062202" target="_blank">2012-06-22/02</a>, art. 35, 045; En vigueur : 01-07-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022011918" target="_blank">2022-01-19/18</a>, art. 45, 085; En vigueur : 01-07-2022&gt;
 
 <a name="LNK0022" href="#LNKR0022">Section 7.</a> - Prescription.
 
