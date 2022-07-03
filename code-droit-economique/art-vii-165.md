@@ -1,5 +1,10 @@
-§ 1er. Les prêteurs disposent d'une organisation leur permettant de s'acquitter à tout moment des obligations légales et réglementaires qui leur sont applicables en vertu du présent livre et des arrêtés et règlements pris pour son exécution.
+§ 1er. Les prêteurs disposent d'une organisation, en ce compris des mesures de surveillance, leur permettant de s'acquitter à tout moment des obligations légales et réglementaires qui leur sont applicables en vertu du présent livre et des arrêtés et règlements pris pour son exécution.
 En particulier, ils mettent en place une organisation leur permettant de s'assurer du respect par leurs agents liés et par les employés et les sous-agents de ces derniers, des obligations légales et réglementaires qui leur sont applicables en vertu du présent Livre et des arrêtés et règlements pris pour son exécution, et notamment des dispositions applicables en matière de connaissances professionnelles.
+Cette organisation repose notamment sur:
+1° une structure de gestion adéquate basée, au plus haut niveau, sur une distinction claire entre la direction effective de l'entreprise d'une part, et le contrôle sur cette direction d'autre part, et prévoyant, au sein de l'entreprise, une séparation adéquate des fonctions et un dispositif d'attribution des responsabilités qui est bien défini, transparent et cohérent;
+2° une organisation administrative et comptable et un contrôle interne adéquats;
+3° des procédures efficaces d'identification, de mesure, de gestion, de suivi et de reporting interne des risques importants auxquels l'entreprise est susceptible d'être exposée, y compris la prévention des conflits d'intérêts.
+Les dispositifs organisationnels visés à l'alinéa 3 sont appropriés à la nature, à l'échelle et à la complexité des risques inhérents au modèle d'entreprise et aux activités du prêteur.
 Ils disposent d'une comptabilité permettant de donner les renseignements exigés par les réglementations d'ordre statistique.
 Les prêteurs en crédit hypothécaire tiennent des archives appropriées sur les types de biens immobiliers acceptés en garantie, ainsi que sur la politique d'acceptation des demandes d'octroi de prêts hypothécaires.
 § 2. L'administration centrale et le siège statutaire des prêteurs doivent être établis en Belgique.
