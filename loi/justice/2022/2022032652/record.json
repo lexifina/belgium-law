@@ -1,0 +1,29 @@
+{
+  "id": "2022032652",
+  "title": "17 JUIN 2022. - Loi modifiant l'article 805, alinéa 2, du Code judiciaire en ce qui concerne le défaut",
+  "source_title": "17 JUIN 2022. - Loi modifiant l'article 805, alinéa 2, du Code judiciaire en ce qui concerne le défaut",
+  "act": "loi/justice/2022/2022032652",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-06-30&numac_search=2022032652&page=69&lg_txt=F&caller=list&2022032652=25&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "077c815d623b4640fc09771110ba0b92bb2155acdf1ec8bdd26745a970ffd448",
+  "source_issuer": "Justice",
+  "made": "2022-06-17",
+  "published": "2022-06-30",
+  "in_force": "2022-07-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 juillet 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "30 juin 2022",
+    "Numéro": "2022032652",
+    "page": "53677",
+    "Dossier numéro": "2022-06-17/09",
+    "Entrée en vigueur": "10 juillet 2022"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 69,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-07-10"
+}
