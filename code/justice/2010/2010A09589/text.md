@@ -2309,12 +2309,13 @@ Lorsque l'infraction a été commise sciemment et volontairement, le juge peut e
 <a name="Art.182" href="#Art.181/1">Art.</a> <a href="#Art.183"> 182</a>.La déclaration préalable pour les travailleurs salariés et indépendants détachés
 § 1er. Est puni d'une sanction de niveau 4 :
 1° l'employeur, son préposé ou son mandataire qui, en contravention au chapitre VIII du titre IV de la loi-programme (I) du 27 décembre 2006 et de ses arrêtés d'exécution, n'a pas effectué de déclaration auprès de l'Office national de sécurité sociale préalablement à l'occupation d'un travailleur salarié détaché sur le territoire belge selon les modalités déterminées par la Roi;
-2° [<sup>1</sup> ...]<sup>1</sup>
-3° [<sup>1</sup> ...]<sup>1</sup>
-En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs [<sup>1</sup> ...]<sup>1</sup> concernés.
+2° [<sup>2</sup> l'employeur établi dans un Etat membre de l'Union européenne ou établi au Royaume-Uni et qui, en violation de l'article 7/1/2, § 1er, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, n'a pas soumis préalablement à l'occupation d'un conducteur sur le territoire belge dans le cadre d'activités dans le domaine du transport routier, de déclaration de détachement aux fonctionnaires désignés par le Roi au moyen du formulaire standard multilingue de l'interface publique connectée au système d'information du marché intérieur institué par le règlement (UE) n° 1024/2012;]<sup>2</sup>
+3° [<sup>2</sup> l'employeur établi dans un Etat qui n'est pas membre de l'Union européenne et qui n'est pas le Royaume-Uni, et qui, en violation de l'article 7/1/2, § 2, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, n'a pas soumis préalablement à l'occupation d'un conducteur sur le territoire belge dans le cadre d'activités dans le domaine du transport routier une déclaration de détachement aux fonctionnaires désignés par le Roi;]<sup>2</sup>
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs [<sup>2</sup> ou de conducteurs]<sup>2</sup> [<sup>1</sup> ...]<sup>1</sup> concernés.
 § 2. Est puni d'une sanction de niveau 3, le travailleur indépendant détaché qui, en contravention au chapitre VIII du titre IV de la loi précitée du 27 décembre 2006 et de ses arrêtés d'exécution, n'a pas effectué de déclaration auprès de l'Institut national d'assurances sociales pour travailleurs indépendants préalablement à l'exercice de l'activité professionnelle en qualité de travailleur indépendant détaché sur le territoire belge selon les modalités déterminées par le Roi.
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013111103" target="_blank">2013-11-11/03</a>, art. 11, 011; En vigueur : 01-07-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 29, 054; En vigueur : 11-07-2022&gt;
 
 <a name="Art.183" href="#Art.182">Art.</a> <a href="#LNK0084"> 183</a>.Les obligations des utilisateurs finaux ou des commanditaires
 Est punie d'une sanction de niveau 3 :
@@ -2346,10 +2347,35 @@ Lorsque l'infraction a été commise sciemment et volontairement, le juge peut e
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 37, 021; En vigueur : 30-12-2016&gt;
 
-<a name="Art.184/1" href="#Art.184">Art.</a> <a href="#LNK0087"> 184/1</a>. [<sup>1</sup> Le défaut de communication de la désignation d'une personne de liaison en cas de détachement de travailleurs en Belgique.
-Est puni d'une sanction de niveau 2, l'employeur au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci qui ne procède pas conformément à l'article 7/2 de cette loi, à la communication de la désignation de la personne de liaison aux fonctionnaires désignés par le Roi.]<sup>1</sup>
+<a name="Art.184/1" href="#Art.184">Art.</a> <a href="#LNK0087"> 184/1</a>.[<sup>1</sup> [<sup>2</sup> Le défaut de communication de la désignation de la personne à désigner ou des coordonnées de la personne désignée en cas de détachement de travailleurs en Belgique]<sup>2</sup>.
+Est puni d'une sanction de [<sup>2</sup> niveau 4]<sup>2</sup>, l'employeur au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci qui ne procède pas conformément à [<sup>2</sup> l'article 7/2, § 1er, alinéa 1er]<sup>2</sup> de cette loi, à la communication de la désignation de la personne de liaison aux fonctionnaires désignés par le Roi.]<sup>1</sup>
+[<sup>2</sup> Est puni d'une sanction de niveau 4, l'employeur qui, préalablement à l'occupation de conducteurs en Belgique, dans le cadre d'activités dans le domaine du transport routier, ne procède pas à la communication des coordonnées du gestionnaire de transport ou de toute autre personne de contact dans l'Etat d'établissement de l'employeur, chargé, pour le compte de l'employeur, d'assurer la liaison avec les fonctionnaires désignés par le Roi, conformément à l'article 7/2, § 2, alinéa 2, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 38, 021; En vigueur : 30-12-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 30, 054; En vigueur : 11-07-2022&gt;
+
+<a name="LNK0122" href="#LNKR0122">CHAPITRE 5/2.</a> [<sup>1</sup> - Des obligations spécifiques dans le domaine du transport routier]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 31, 054; En vigueur : 11-07-2022&gt;
+
+<a name="Art.%20184/1/1." href="#LNK0122">Art.</a> <a href="#LNK0087">184/1/1</a>. [<sup>1</sup> L'information préalable au conducteur de son détachement dans le domaine du transport routier.
+Est puni d'une sanction de niveau 4, l'employeur, qui, en contravention à la loi du 19 juin 2022 portant diverses dispositions concernant le détachement de conducteurs dans le domaine du transport routier, n'a pas communiqué à son conducteur, avant de le détacher, les informations mentionnées dans l'article 4 de la loi précitée du 19 juin 2022 et selon les modalités prévues par ce même article.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de conducteurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 32, 054; En vigueur : 11-07-2022&gt;
+
+<a name="Art.%20184/1/2." href="#Art.%20184/1/1.">Art.</a> <a href="#LNK0087">184/1/2</a>. [<sup>1</sup> La coresponsabilité en cas d'exécution de services de transport routier.
+§ 1er. Pour l'application du présent article, on entend par :
+1° " le donneur d'ordres " : toute personne physique ou morale qui, dans le cadre d'un contrat d'entreprise, commande ou fait commander, pour un prix, l'exécution de services de transport routier.
+Le destinataire du contrat de transport est dans ce cadre assimilé au donneur d'ordres;
+2° " le commissionnaire de transport " : toute personne physique ou morale qui, moyennant rémunération, s'engage à effectuer un transport de marchandises et fait exécuter ce transport en son propre nom par des tiers;
+3° " le commissionnaire-expéditeur " : toute personne physique ou morale qui, moyennant rémunération, s'engage à faire transporter des marchandises, en son propre nom mais pour le compte de son commettant, et à exécuter ou à faire exécuter une ou plusieurs opérations connexes à ces transports telles que la réception, la remise à des tiers transporteurs, l'entreposage, l'assurance et le dédouanement.
+Le présent article n'est pas applicable au donneur d'ordres qui est une personne physique et qui commande l'exécution de services de transport routier à des fins exclusivement privées.
+§ 2. Est puni d'une sanction de niveau 4, le donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur, qui commande ou fait commander à un employeur l'exécution de services de transport routier alors que ledit donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur sait ou aurait dû savoir, compte tenu de toutes les circonstances pertinentes, que dans le cadre d'une telle exécution, l'employeur qui exécute le transport viole les obligations prévues à l'article 7/1/1 de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.
+§ 3. Est puni d'une sanction de niveau 4, le donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur, qui commande ou fait commander à un employeur l'exécution de services de transport routier alors que ledit donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur sait ou aurait dû savoir, compte tenu de toutes les circonstances pertinentes, que dans le cadre d'une telle exécution, l'employeur qui exécute le transport viole les obligations prévues à l'article 15ter de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.
+§ 4. Est puni d'une sanction de niveau 4, le donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur, qui commande ou fait commander à un employeur l'exécution de services de transport routier alors que ledit donneur d'ordres, le commissionnaire de transport ou le commissionnaire-expéditeur sait ou aurait dû savoir, compte tenu de toutes les circonstances pertinentes, que dans le cadre d'une telle exécution, l'employeur qui exécute le transport n'a pas effectué la déclaration de détachement prévue à l'article 7/1/2 de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 33, 054; En vigueur : 11-07-2022&gt;
 
 <a name="LNK0087" href="#LNKR0087">CHAPITRE 6.</a> [<sup>1</sup> - Les infractions concernant les documents sociaux ou de type social]<sup>1</sup>
 ----------
@@ -2428,6 +2454,25 @@ Est puni d'une sanction de niveau 2, l'employeur au sens de la loi du 5 mars 200
 En ce qui concerne l'infraction visée à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016121103" target="_blank">2016-12-11/03</a>, art. 40, 021; En vigueur : 30-12-2016&gt;
+
+<a name="Art.%20188/2/1." href="#Art.188/2">Art.</a> <a href="#LNK0094">188/2/1</a>. [<sup>1</sup> La mise à disposition de documents par l'employeur au conducteur dans le domaine du transport routier.
+Est puni d'une sanction de niveau 4, l'employeur qui ne met pas à disposition de son conducteur, soit sous format papier, soit sous format électronique, les documents visés à l'article 7/1/1, § 1er, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de conducteurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 34, 054; En vigueur : 11-07-2022&gt;
+
+<a name="Art.%20188/2/2." href="#Art.%20188/2/1.">Art.</a> <a href="#LNK0094">188/2/2</a>. [<sup>1</sup> La communication de documents par le conducteur dans le domaine du transport routier.
+Est puni d'une sanction de niveau 4, le conducteur visé à l'article 7/1/1, § 1er, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci qui, lors d'un contrôle sur route, ne fournit pas, aux fonctionnaires désignés par le Roi, soit sous format papier, soit sous format électronique les documents visés à l'article 7/1/1, § 1er, de la loi précitée du 5 mars 2002 et qui ont été mis à sa disposition par son employeur.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 35, 054; En vigueur : 11-07-2022&gt;
+
+<a name="Art.%20188/2/3." href="#Art.%20188/2/2.">Art.</a> <a href="#LNK0094">188/2/3</a>. [<sup>1</sup> La fourniture de documents par l'employeur dans le domaine du transport routier.
+§ 1er. Est puni d'une sanction de niveau 4, l'employeur au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, qui ne fournit pas aux fonctionnaires désignés par le Roi, après la période de détachement et dans le délai prévu, les documents visés à l'article 7/1/1, § 2, de la loi précitée du 5 mars 2002 et demandés par ces fonctionnaires.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de conducteurs concernés.
+§ 2. Est puni d'une sanction de niveau 4, l'employeur au sens de l'article 15ter de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs qui ne fournit pas aux fonctionnaires désignés par le Roi, après la période de détachement et dans le délai prévu, les documents visés à l'article 15ter précité et demandés par ces fonctionnaires.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de conducteurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022061901" target="_blank">2022-06-19/01</a>, art. 36, 054; En vigueur : 11-07-2022&gt;
 
 <a name="LNK0094" href="#LNKR0094">Section 6/1.</a> [<sup>1</sup> - Le contrat d'engagement pour la pêche maritime et le registre matricule des marins pêcheurs]<sup>1</sup>
 ----------
