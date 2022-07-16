@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le SPF Mobilité et Transports est chargé de la mise en oeuvre de la loi du 20 mai 2022 portant aide au post-équipement des wagons pour réduire les nuisances sonores du transport ferroviaire de marchandise.
+En application de l'article 8, alinéa 2, de la loi du 20 mai 2022 portant aide au post-équipement des wagons pour réduire les nuisances sonores du transport ferroviaire de marchandise, pour la première année d'exécution du système d'aide, seuls les wagons enregistrés au registre de l'administration au 16 août 2022 sont pris en compte pour le décompte et pour le versement de l'aide.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a le transport ferroviaire dans ses attributions est chargé de l'exécution du présent arrêté.
