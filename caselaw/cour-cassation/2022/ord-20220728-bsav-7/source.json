@@ -1,0 +1,47 @@
+{
+  "title": "Beschikking ECLI:BE:CASS:2022:ORD.20220728.BSAV.7",
+  "ecli": "ECLI:BE:CASS:2022:ORD.20220728.BSAV.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-07-28",
+  "date_as_printed": "Beschikking van 28 juli 2022",
+  "published_on_juportal": "2022-07-29",
+  "language": "nl",
+  "role_number": "P.22.0814.N",
+  "case_name_as_published": "I. contra D.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action civile - Durée, point de départ et fin",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Burgerlijke rechtsvordering - Duur, begin en einde",
+    "Décision attaquée rendue par défaut à l'égard du prévenu et contradictoirement à l'égard de la partie intervenue volontairement - Pourvoi en cassation formé par la partie civile contre la décision rendue à l'égard de la partie intervenue volontairement avant l'expiration du délai ordinaire d'opposition ouvert au prévenu - Pourvoi prématuré",
+    "Décision attaquée rendue par défaut à l'égard du prévenu et contradictoirement à l'égard de la partie intervenue volontairement - Pourvoi en cassation formé par la partie civile contre la décision rendue à l'égard de la partie intervenue volontairement avant l'expiration du délai ordinaire d'opposition ouvert au prévenu - Pourvoi prématuré - Portée de l'irrecevabilité",
+    "ASSURANCES - DIVERS",
+    "VERZEKERING - ALLERLEI",
+    "Décision attaquée rendue par défaut à l'égard du prévenu et contradictoirement à l'égard de la partie intervenue volontairement - Condamnation de la partie intervenue volontairement - Pourvoi en cassation formé par la partie civile contre la décision rendue à l'égard de la partie intervenue volontairement avant l'expiration du délai ordinaire d'opposition ouvert au prévenu - Pourvoi prématuré - Portée de l'irrecevabilité",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid - Draagwijdte van de onontvankelijkheid",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Veroordeling van de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid - Draagwijdte van de onontvankelijkheid"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Burgerlijke rechtsvordering - Duur, begin en einde",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 424 - 30 ELI link Pub nr 1808111701",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Burgerlijke rechtsvordering - Duur, begin en einde",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid - Draagwijdte van de onontvankelijkheid",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 420 en 424 - 30 ELI link Pub nr 1808111701",
+    "VERZEKERING - ALLERLEI",
+    "Bestreden beslissing gewezen bij verstek inzake de beklaagde en op tegenspraak inzake de vrijwillig tussengekomen partij - Veroordeling van de vrijwillig tussengekomen partij - Cassatieberoep ingesteld door de burgerlijke partij tegen de beslissing met betrekking tot de beklaagde vóór het verstrijken van zijn gewone verzetstermijn - Voorbarigheid - Draagwijdte van de onontvankelijkheid",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 420 en 424 - 30 ELI link Pub nr 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ORD.20220728.BSAV.7",
+  "source_sha256": "7b1d1f1ff4c57f5b4ae5eaed534c1206b451b81bc3ebbc87c5f7c1ff1cc87fca",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ORD.20220728.BSAV.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/06/05/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
