@@ -1,0 +1,15 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. § 1er. Pour être revêtu de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi, en application de l'article 338quater § 1er, du Code des impôts sur les revenus 1992 et de l'article 63ter, § 1er, du Code de la taxe sur la valeur ajoutée, le fonctionnaire doit satisfaire aux conditions suivantes :
+1° pouvoir justifier d'au moins quatre années d'expérience pertinente dans la recherche, la constatation et la sanction administrative de la fraude fiscale ;
+2° pouvoir prouver une connaissance de base de la procédure pénale.
+§ 2. Les fonctionnaires souhaitant entrer en ligne de compte pour être revêtus de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi constituent un dossier dans lequel ils démontrent qu'ils satisfont aux conditions visées au paragraphe 1er, 1° et 2°.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le ministre des Finances ou son délégué désigne les fonctionnaires qui sont revêtus de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi sur la proposition de l'Administrateur général de l'Administration Générale de l'Inspection Spéciale des Impôts.
+Parmi les fonctionnaires qui satisfont aux conditions visées à l'article 1er, § 1er, l'Administrateur général de l'Administration Générale de l'Inspection Spéciale des Impôts établit une liste des agents en fondant sa décision sur l'intérêt du service. Il la motive sur la base de raisons organisationnelles et opérationnelles. La désignation des fonctionnaires par le ministre des Finances ou son délégué a lieu selon l'ordre de cette liste.
+Les fonctionnaires désignés conformément à l'article 2, alinéa 1er, sont revêtus de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi pour une durée de 5 années. Cette désignation est renouvelable.
+Le ministre des Finances détermine également les mentions devant figurer sur la carte de légitimation des fonctionnaires des administrations fiscales, désignés conformément à l'article 2, alinéa 1er, qui prêtent leur concours à des équipes mixtes d'enquête multidisciplinaire.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Les éventuelles autorisations de cumul octroyées, telles que visées à l'article 12 de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, doivent de nouveau être évaluées dès qu'un agent est revêtu de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le fonctionnaires fiscal revêtu de la qualité d'Officier de Police Judiciaire Auxiliaire du Procureur du Roi qui prête son concours à des équipes mixtes d'enquête multidisciplinaire, est muni de sa carte de légitimation prouvant sa qualité d'Officier de Police Judiciaire.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Finances dans ses attributions, chargé de la Coordination de la lutte contre la fraude, est chargé de l'exécution du présent arrêté.
