@@ -1,0 +1,54 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Dispositions générales
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0002"> 2</a>. La présente loi transpose partiellement la directive 2011/70/Euratom du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Modifications de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 179, § 2, de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, modifié en dernier lieu par la loi du 7 novembre 2021, est inséré le 6° /1 rédigé comme suit:
+"6° /1 L'Organisme formule, dans l'inventaire, des recommandations à l'attention des ministres ayant l'Economie et l'Energie dans leurs attributions, portant notamment sur le développement du cadre légal et réglementaire organisant la couverture des coûts nucléaires.
+Sur la base de l'inventaire transmis par l'Organisme, les ministres ayant l'Economie et l'Energie dans leurs attributions, chargent, le cas échéant, l'Organisme d'établir des propositions à l'attention des ministres compétents, en vue de mettre en oeuvre les recommandations figurant dans l'inventaire.".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. A l'article 179, § 2, 11°, de la même loi, modifié en dernier lieu par la loi du 3 juin 2014, l'alinéa 2 est remplacé par ce qui suit:
+"Les coûts suivants sont couverts par des redevances mises à charge des exploitants des installations nucléaires et des détenteurs de substances radioactives, ou, à défaut, de leurs propriétaires, des bénéficiaires des prestations de l'Organisme ou des personnes morales ou physiques qui succèdent à leurs droits et obligations:
+a) les coûts liés à l'établissement et à la tenue à jour de l'inventaire visé au 6° ;
+b) les coûts liés à la mise en oeuvre des tâches dont les ministres ayant l'Economie et l'Energie dans leurs attributions ont chargé l'Organisme sur la base des recommandations formulées dans l'inventaire visé au 6° ;
+c) les coûts liés aux missions suivantes:
+i. l'établissement des propositions de Politiques nationales en matière de gestion des déchets radioactifs et du combustible usé, visées au paragraphe 6;
+ii. le développement et la mise en oeuvre des mesures destinées à assurer une participation effective du public au processus de prise de décision relatif à la gestion du combustible usé et des déchets radioactifs, visées au paragraphe 6, notamment en vue d'instituer et maintenir les Politiques nationales visées au même paragraphe;
+iii. le secrétariat du Comité du Programme national chargé de proposer aux ministres ayant l'Economie et l'Energie dans leurs attributions, le Programme national de gestion du combustible usé et des déchets radioactifs et ses mises à jour, visés au paragraphe 8;
+iv. la coordination des activités d'établissement et de notification du rapport sur la mise en oeuvre de la directive 2011/70/Euratom, visé au paragraphe 9, 1.;
+v. les autoévaluations et les évaluations internationales par les pairs du Programme national et de sa mise en oeuvre, visées au paragraphe 9, 2. et 3.".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0003"> 5</a>. A l'article 179, § 6, de la même loi, inséré par la loi du 3 juin 2014, les modifications suivantes sont apportées:
+1° l'alinéa 1er est remplacé par ce qui suit:
+"Tenant compte de la nécessité d'une participation effective du public au processus de prise de décision, le Roi institue et maintient, par arrêté délibéré en Conseil des ministres, sur proposition de l'Organisme et après avis de l'autorité de réglementation compétente, des Politiques nationales en matière de gestion des déchets radioactifs et du combustible usé, en fonction des caractéristiques physiques, chimiques et radiologiques des déchets et du combustible usé, reposant au minimum sur les principes généraux suivants:
+1° la production de déchets radioactifs est maintenue au niveau le plus bas qu'il est raisonnablement possible d'atteindre en termes d'activités et de volume, au moyen de mesures de conception appropriées et de pratiques d'exploitation et de démantèlement, y compris le retraitement et la réutilisation des substances;
+2° l'interdépendance des différentes étapes de la production et de la gestion du combustible usé et des déchets radioactifs est prise en considération;
+3° le combustible usé et les déchets radioactifs sont gérés de manière sûre, la sûreté à long terme d'une installation de stockage reposant notamment sur des dispositifs de sûreté qui doivent pouvoir devenir passifs à long terme;
+4° les mesures sont mises en oeuvre selon une approche graduée;
+5° les coûts de gestion du combustible usé et des déchets radioactifs sont supportés par ceux qui ont produit ces substances;
+6° un processus décisionnel documenté et fondé sur des données probantes régit toutes les étapes de la gestion du combustible usé et des déchets radioactifs.";
+2° entre l'alinéa 2 et l'alinéa 3, un alinéa est inséré, rédigé comme suit:
+"Le Roi fixe sur proposition de l'Organisme les mécanismes de participation effective du public au processus de prise de décision relatif à la gestion du combustible usé et des déchets radioactifs.".
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Modifications de la loi-programme du 30 décembre 2001
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'article 89 de la loi-programme du 30 décembre 2001 est abrogé.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0004"> 7</a>. L'article 93 de la loi-programme du 30 décembre 2001 est remplacé par ce qui suit:
+"Art. 93. Tous les cinq ans et chaque fois qu'une adaptation du montant des redevances se justifie pour couvrir l'ensemble des coûts passés et futurs, visés à l'article 179, § 2, 11°, alinéa 2, de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, l'Organisme établit un rapport contenant:
+1° les montants perçus à titre de redevances pendant les cinq années précédentes;
+2° les dépenses visées à l'article 179, § 2, 11°, alinéa 2, susvisé, supportées pendant les cinq années précédentes;
+3° une description des travaux et activités exécutés les cinq années précédentes;
+4° une évaluation des montants fixés à l'article 90 au regard des coûts passés et futurs de l'Organisme;
+5° des recommandations visant à adapter le montant des redevances.
+L'Organisme adresse ce rapport à ses ministres de tutelle qui le communiquent au Conseil des ministres.
+L'Organisme transmet, pour information, une copie de ce rapport au Comité technique permanent.".
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Entrée en vigueur
+
+<a name="Art.8" href="#Art.7">Art.</a> 8. Le Roi détermine la date d'entrée en vigueur de l'article 5.
+
+<i>(NOTE : Entrée en vigueur de l'article 5 fixée au 02-12-2022 par AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022102809" target="_blank">2022-10-28/09</a>, art. 9)</i>
