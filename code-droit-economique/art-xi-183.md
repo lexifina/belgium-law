@@ -1,2 +1,2 @@
 § 1er. Sauf pour les oeuvres audiovisuelles relevant de l'industrie non culturelle ou de la publicité, les auteurs de l'oeuvre audiovisuelle, ont droit à une rémunération distincte pour chaque mode d'exploitation.
-§ 2. Le montant de la rémunération est, sauf stipulation contraire, proportionnel aux recettes résultant de l'exploitation de l'oeuvre audiovisuelle. Dans ce cas, le producteur fait parvenir à l'auteur au moins une fois l'an, un relevé des recettes qu'il a perçues selon chaque mode d'exploitation.
+§ 2. ...

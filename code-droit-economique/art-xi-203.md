@@ -1,2 +1,2 @@
 Les dispositions du présent chapitre ne portent pas atteinte aux droits de l'auteur. Aucune d'entre elles ne peut être interprétée comme une limite à l'exercice du droit d'auteur.
-Les droits voisins reconnus au présent chapitre sont mobiliers, cessibles et transmissibles, en tout ou en partie, conformément aux règles du Code civil. Ils peuvent notamment faire l'objet d'une aliénation ou d'une licence simple ou exclusive.
+Les droits voisins reconnus au présent chapitre sont mobiliers, cessibles et transmissibles, en tout ou en partie, conformément aux règles du Code civil. Ils peuvent notamment faire l'objet d'une cession ou d'une licence simple ou exclusive.
