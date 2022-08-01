@@ -1,8 +1,5 @@
-§ 1er. L'éditeur doit produire ou faire produire les exemplaires de l'oeuvre dans le délai convenu.
-A défaut d'avoir été fixé par contrat, ce délai sera déterminé conformément aux usages honnêtes de la profession.
-Si l'éditeur ne satisfait pas à son obligation dans les délais définis ci-avant sans pouvoir justifier d'une excuse légitime, l'auteur pourra reprendre ses droits cédés, après une mise en demeure, adressée par envoi recommandé avec accusé de réception, et restée sans effet pendant six mois.
-§ 2. L'éditeur s'engage à verser, sauf convention contraire, à l'auteur une rémunération proportionnelle aux recettes.
-Si l'auteur a cédé à l'éditeur les droits d'édition à de telles conditions que, compte tenu du succès de l'oeuvre, la rémunération forfaitaire convenue se trouve manifestement disproportionnée par rapport au profit tiré de l'exploitation de celle-ci, l'éditeur est tenu, à la demande de l'auteur, de consentir une modification de la rémunération pour accorder à l'auteur une participation équitable au profit. L'auteur ne peut renoncer anticipativement au bénéfice de ce droit.
+§ 1er. L'éditeur doit produire ou faire produire les exemplaires de l'oeuvre dans le délai visé à l'article XI.167/4 et, dans le cas d'une édition numérique, proposer l'oeuvre dans un format techniquement exploitable dans son catalogue d'éditions numériques et/ou le mettre à la disposition du public par divers canaux numériques.
+§ 2. ...
 § 2/1. L'auteur d'un article scientifique issu d'une recherche financée pour au moins la moitié par des fonds publics conserve, même si, conformément à l'article XI.167, il a cédé ses droits à un éditeur d'un périodique ou les a placés sous une licence simple ou exclusive, le droit de mettre le manuscrit gratuitement à la disposition du public en libre accès après un délai de douze mois pour les sciences humaines et sociales et six mois pour les autres sciences, après la première publication, dans un périodique, moyennant mention de la source de la première publication.
 Le contrat d'édition peut prévoir un délai plus court que celui fixé à l'alinéa 1er.
 Le Roi peut prolonger le délai fixé à l'alinéa 1er.
