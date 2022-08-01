@@ -4,7 +4,7 @@ Sans préjudice des compétences spéciales reconnues au juge de paix et au trib
 3° des demandes des époux et cohabitants légaux relatives à l'exercice de leurs droits ou à leurs biens ainsi que des mesures provisoires qui s'y rapportent;
 4° des demandes relatives à l'exercice de l'autorité parentale, à l'hébergement ou aux droits aux relations personnelles à l'égard d'enfants mineurs;
 5° des constats de l'impossibilité durable d'exercer l'autorité parentale visés à l'article 389 du Code civil;
-6° des demandes visées aux articles 1322bis et 1322decies;
+6° des demandes visées à l'article 1322bis;
 7° des demandes liées aux obligations alimentaires ...;
 8° des litiges relatifs à la détermination du ou des allocataire(s) des allocations familiales relatives à des enfants dont les parents ne vivent plus ensemble, ainsi que des requêtes en opposition au paiement à l'allocataire;
 9° des demandes relatives aux régimes matrimoniaux, aux successions, aux donations entre vifs ou aux testaments;

@@ -1,0 +1,1 @@
+Le tribunal peut, à tout stade de la procédure, examiner si des contacts entre l'enfant et la personne qui demande le retour de l'enfant devraient être organisés, compte tenu de l'intérêt supérieur de l'enfant.

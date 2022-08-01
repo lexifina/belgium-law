@@ -1,2 +1,3 @@
-Sans préjudice de l'article 1322decies, § 4, alinéas 2 à 6, le tribunal de la famille qui est établi au siège de la cour d'appel dans le ressort de laquelle l'enfant avait sa résidence habituelle avant son déplacement ou son non-retour illicite, est seul compétent pour connaître des demandes visées à l'article 1322decies.
+Les demandes visées à l'article 1322bis, 3°, sont portées devant le tribunal visé à l'article 629bis, § 1er.
+A défaut, elles sont portées devant le tribunal visé à l'article 629bis, § 2, en tenant compte de la résidence habituelle de l'enfant avant son déplacement ou son non-retour illicite.
 Toutefois, lorsque la procédure est en langue allemande, le tribunal de la famille d'Eupen est seul compétent.
