@@ -1,0 +1,24 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté royal, l'on entend par " adjudicateur ", l'adjudicateur au sens de l'article 2, 5°, de la loi du 17 juin 2016 relative aux marchés publics, l'adjudicateur au sens de l'article 2, 5°, de la loi du 17 juin 2016 relative aux contrats de concession et le pouvoir adjudicateur, l'entreprise publique et l'entité adjudicatrice, respectivement, au sens de l'article 2, 1°, 2° et 3° de la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'autorité compétente visée au paragraphe 2 de l'article 5 duodecies du Règlement (UE) n° 833/2014 du Conseil du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine, est le Premier Ministre.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Sauf pour les marchés visés à l'article 9 et sans préjudice de l'article 8, toute demande d'autorisation pour l'attribution ou à la poursuite de l'exécution d'un marché public ou d'un contrat de concession visé à l'article 5duodecies du Règlement (UE) n° 833/2014 du Conseil du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine est adressée au Service public fédéral Chancellerie du Premier Ministre.
+La demande visée à l'alinéa 1er provient de l'adjudicateur.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. La demande est envoyée par envoi recommandé.
+§ 2. La demande doit mentionner l'objet du marché concerné et les motifs pour lesquels l'attribution ou la poursuite de l'exécution du marché public ou du contrat de concession devrait être accordée. Les documents du marché ou de concession doivent être joints.
+La demande doit également comprendre toute information relative au soumissionnaire ou à l'adjudicataire du marché public ou du contrat de concession, ainsi que toutes les informations qui permettent de vérifier si le candidat ou le soumissionnaire fait l'objet des sanctions visées à l'article 5 duodecies, paragraphe 1er, du Règlement (UE) n° 833/2014 du Conseil du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le Premier Ministre statue dans les trente jours ouvrables de la réception de la demande.
+Pour les marchés publics et contrats de concession conclus avant le 9 avril 2022, le Premier Ministre statue avant le 10 octobre 2022 pour autant que la demande de dérogation ait été introduite avant le 6 septembre 2022.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le Premier Ministre peut demander l'avis d'un ou de plusieurs Gouvernements régionaux et/ou Communautaires.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le Premier Ministre rejette la demande de dérogation lorsqu'elle ne relève pas d'un des cas visés au paragraphe 2 de l'article 5 duodecies du Règlement (UE) n° 833/2014 du Conseil du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine.
+Le Premier Ministre rejette la demande, même lorsqu'elle relève d'un des cas visés au paragraphe 2 de l'article 5 duodecies du Règlement (UE) n° 833/2014, s'il constate que l'intérêt du demandeur d'obtenir la dérogation, notamment par rapport à la continuité du service public, ne l'emporte pas sur la nécessité de préserver l'efficacité des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le Premier Ministre peut étendre la portée de l'autorisation d'attribuer ou de poursuivre un ou plusieurs marchés publics ou contrats de concession à tous les adjudicateurs, pour autant qu'il s'agisse de marchés publics ou de contrats de concession ayant un objet et des conditions similaires. Une telle autorisation est publiée au Moniteur belge.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Pour les marchés publics relatifs à l'achat, à l'importation ou au transport de gaz naturel visés à l'article 5duodecies.2, e) du Règlement (UE) n° 833/2014 du Conseil du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine, l'attribution ou la poursuite d'un tel marché public est autorisée, pour autant que les conditions de l'article 5 duodecies, paragraphe 2, e) précité soient réunies. Aucune demande ne doit dès lors être introduite pour ces marchés.
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. Le présent arrêté royal entre en vigueur le jour de sa publication au Moniteur belge.
