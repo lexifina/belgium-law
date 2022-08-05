@@ -14,3 +14,4 @@ a) l'infraction a son origine ou a lieu dans un autre pays que la Belgique;
 b) celui qui a subi un dommage suite à l'infraction se trouve dans un autre pays que la Belgique;
 c) l'entreprise qui commet l'infraction est établie dans un autre pays que la Belgique;
 d) des éléments de preuve ou des actifs de l'entreprise en rapport avec l'infraction peuvent être trouvés dans un autre pays que la Belgique;
+12° Règlement sur la cybersécurité: règlement (UE) 2019/881 du Parlement européen et du Conseil du 17 avril 2019 relatif à l'ENISA (Agence de l'Union européenne pour la cybersécurité) et à la certification de cybersécurité des technologies de l'information et des communications, et abrogeant le règlement (UE) n° 526/2013;
