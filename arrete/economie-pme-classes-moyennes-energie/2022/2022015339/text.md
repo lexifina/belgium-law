@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 1er, § 3, de l'arrêté royal du 28 février 2007 portant délimitation des zones à risque visées à l'article 129, § 1er, de la loi du 4 avril 2014 relative aux assurances, remplacé par l'arrêté royal du 20 septembre 2017 et modifié par l'arrêté royal du 30 mai 2021, les mots " cartographies des risques d'inondation " sont remplacés par les mots " cartographies des zones soumises à l'aléa d'inondation ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Assurances dans ses attributions est chargé de l'exécution du présent arrêté.
