@@ -1,0 +1,30 @@
+{
+  "id": "2022015330",
+  "title": "3 JUILLET 2022. - Arrêté royal modifiant l'arrêté royal du 30 novembre 2011 portant prescriptions de sûreté des installations nucléaires",
+  "source_title": "3 JUILLET 2022. - Arrêté royal modifiant l'arrêté royal du 30 novembre 2011 portant prescriptions de sûreté des installations nucléaires",
+  "act": "arrete/interieur/2022/2022015330",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-08-02&numac_search=2022015330&page=64&lg_txt=F&caller=list&2022015330=5&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "bad43a67e534c3ae6f626097e7acbdcb732049f9baaa77576201d623082813e5",
+  "source_issuer": "Intérieur",
+  "made": "2022-07-03",
+  "published": "2022-08-02",
+  "in_force": "2022-08-12",
+  "in_force_basis": "Justel: Entrée en vigueur : 12 août 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "2 août 2022",
+    "Numéro": "2022015330",
+    "page": "60365",
+    "Dossier numéro": "2022-07-03/09",
+    "Entrée en vigueur": "12 août 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 361,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-08-12"
+}
