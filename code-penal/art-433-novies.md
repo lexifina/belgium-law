@@ -1,5 +1,5 @@
 § 1er. Dans les cas visés aux articles 433quinquies à 433octies, les coupables seront en outre condamnés à l'interdiction des droits énoncés à l'article 31, alinéa 1er.
-§ 2. Les tribunaux pourront prononcer les interdictions visées aux articles 417/59, § 2 et 433quater/6 à l'encontre des personnes condamnées pour des faits visés aux articles 433quinquies à 433octies, pour un terme d'un an à vingt ans.
+§ 2. Les tribunaux pourront prononcer les interdictions visées aux articles 417/58, 417/59, § 2 et 433quater/6 à l'encontre des personnes condamnées pour des faits visés aux articles 433quinquies à 433octies, pour un terme d'un an à vingt ans.
 § 3. L'article 417/62 s'applique aux personnes condamnées pour des faits visés aux articles 433quinquies à 433octies.
 § 4. Sans avoir égard à la qualité de personne physique ou morale de l'exploitant, propriétaire, locataire ou gérant, le tribunal peut ordonner la fermeture temporaire ou définitive, partielle ou totale de l'entreprise dans laquelle les infractions visées aux articles 433quinquies à 433octies ont été commises, conformément aux modalités prévues aux articles 417/57 et 433quater/5.
 § 5. Les articles 417/59, § 3, 417/60, 433quater/6, § 3, 433quater/7 s'applique aux paragraphes 1er, 2 et 4.
