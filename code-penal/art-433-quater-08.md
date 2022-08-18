@@ -1,4 +1,4 @@
-Evaluation multidisciplinaire.
-§ 1er. La Chambre des représentants est chargée d'évaluer l'application des dispositions du présent chapitre, deux ans après leur entrée en vigueur et, par la suite, tous les quatre ans.
-L'évaluation est multidisciplinaire et s'appuie notamment sur l'expertise de représentants des acteurs de la justice et de la police, de représentants d'organismes publics spécialisés, de représentants d'organisations de la société civile et d'experts académiques. Les domaines d'expertise représentés par les trois dernières catégories doivent inclure au moins la lutte contre la traite des êtres humains, le soutien aux personnes prostituées, l'égalité entre les femmes et les hommes, la défense des droits économiques et sociaux des travailleurs et l'accès à la santé.
-§ 2. La loi fixe, pour le 31 décembre 2022, les modalités de cette évaluation.
+La confiscation de l'instrument de l'infraction
+Par dérogation à l'article 42, 1°, les choses qui ont servi ou qui ont été destinées à commettre les infractions décrites dans la présente sous-section sont confisquées, même si la propriété n'en appartient pas au condamné, sans que cette confiscation ne porte toutefois préjudice aux droits que les tiers peuvent faire valoir sur ces biens.
+La confiscation est également appliquée, dans les mêmes circonstances, aux immeubles ou parties d'immeuble qui ont servi ou qui ont été destinés à commettre l'infraction.
+Elle peut également être appliquée à la contre-valeur des meubles ou immeubles visés aux alinéas 1er ou 2 et qui ont été aliénés entre la commission de l'infraction et la décision judiciaire définitive.
