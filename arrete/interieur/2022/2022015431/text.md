@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le transfert numérique visé à l'article 11, § 2, alinéa 5, de l'arrêté royal du 20 juillet 2005 réglant les modalités de la gestion des billets à l'occasion des matches de football consiste en un transfert d'un fichier d'identité obtenu par la lecture du document d'identité.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. La copie de la carte d'identité mentionnée à l'article 11, § 2, alinéa 6, de l'arrêté royal du 20 juillet 2005 réglant les modalités de la gestion des billets à l'occasion des matches de football concerne une copie barrée de la carte d'identité des personnes non présentes, avec l'indication du destinataire et du but de l'utilisation de la copie.
