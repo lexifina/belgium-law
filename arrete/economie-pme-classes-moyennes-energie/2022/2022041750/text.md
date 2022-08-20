@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er de l'arrêté royal du 3 février 2003 dispensant certaines catégories d'étrangers de l'obligation d'être titulaires d'une carte professionnelle pour l'exercice d'une activité professionnelle indépendante est complété par le 15° rédigé comme suit :
+" 15° les personnes autorisées à séjourner en tant que bénéficiaires de la protection temporaire visée à l'article 57/29 de la loi du 15 décembre 1980, ainsi que les personnes autorisées à séjourner en application de l'article 57/34 de la même loi, par le ministre qui a l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers dans ses compétences ou par son délégué. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Classes Moyennes dans ses attributions est chargé de l'exécution du présent arrêté.
