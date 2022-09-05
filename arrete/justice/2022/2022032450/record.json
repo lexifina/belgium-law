@@ -1,0 +1,30 @@
+{
+  "id": "2022032450",
+  "title": "18 MAI 2022. - Arrêté royal modifiant l'arrêté royal du 10 janvier 2002 relatif à la gestion des sommes, titres et valeurs au porteur reçus par un notaire et au contrôle de la comptabilité des notaires",
+  "source_title": "18 MAI 2022. - Arrêté royal modifiant l'arrêté royal du 10 janvier 2002 relatif à la gestion des sommes, titres et valeurs au porteur reçus par un notaire et au contrôle de la comptabilité des notaires",
+  "act": "arrete/justice/2022/2022032450",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-08-26&numac_search=2022032450&page=79&lg_txt=F&caller=list&2022032450=4&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "b46fa9d031e7ab653b77b9fb6b9dbfdbb0e7ebc5117a61b62030b440b880aa1b",
+  "source_issuer": "Justice",
+  "made": "2022-05-18",
+  "published": "2022-08-26",
+  "in_force": "2022-09-05",
+  "in_force_basis": "Justel: Entrée en vigueur : 5 septembre 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "26 août 2022",
+    "Numéro": "2022032450",
+    "page": "63969",
+    "Dossier numéro": "2022-05-18/22",
+    "Entrée en vigueur": "5 septembre 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 3309,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-09-05"
+}
