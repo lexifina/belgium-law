@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220906.2N.6",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220906.2N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-09-06",
+  "date_as_printed": "Vonnis/arrest van 06 september 2022",
+  "published_on_juportal": "2022-09-13",
+  "language": "nl",
+  "role_number": "P.22.0023.N",
+  "case_name_as_published": "T. contra GEWESTELIJK STEDENBOUWKUNDIG INSPECTEUR",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Urbanisme - Condamnation définitive en matière pénale - Remise de la cause pour l'évaluation de la plus-value acquise par le bien à la suite de l'infraction - Demande en reprise d'instance - Réouverture des débats - Fixation de délais pour conclure",
+    "URBANISME - REMISE EN ETAT DES LIEUX. PAIEMENT D'UNE PLUS-VALUE",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE",
+    "Condamnation définitive en matière pénale - Remise de la cause pour l'évaluation de la plus-value acquise par le bien à la suite de l'infraction - Demande en reprise d'instance - Réouverture des débats - Fixation de délais pour conclure - Recevabilité du pourvoi en cassation",
+    "Stedenbouw - Definitieve veroordeling op strafgebied - Uitstel van behandeling voor het ramen van de meerwaarde die het goed verkreeg door het misdrijf - Verzoek tot gedinghervatting - Heropening van de debatten - Bepalen van conclusietermijnen",
+    "Definitieve veroordeling op strafgebied - Uitstel van behandeling voor het ramen van de meerwaarde die het goed verkreeg door het misdrijf - Verzoek tot gedinghervatting - Heropening van de debatten - Bepalen van conclusietermijnen - Ontvankelijkheid van het cassatieberoep"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Stedenbouw - Definitieve veroordeling op strafgebied - Uitstel van behandeling voor het ramen van de meerwaarde die het goed verkreeg door het misdrijf - Verzoek tot gedinghervatting - Heropening van de debatten - Bepalen van conclusietermijnen",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420 - 30 ELI link Pub nr 1808121050",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE",
+    "Definitieve veroordeling op strafgebied - Uitstel van behandeling voor het ramen van de meerwaarde die het goed verkreeg door het misdrijf - Verzoek tot gedinghervatting - Heropening van de debatten - Bepalen van conclusietermijnen - Ontvankelijkheid van het cassatieberoep",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420 - 30 ELI link Pub nr 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220906.2N.6",
+  "source_sha256": "13355efe445117ec67c5b055a50c6fb03a723c0d3a22ea308aa4d6fe52c707e4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220906.2N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
