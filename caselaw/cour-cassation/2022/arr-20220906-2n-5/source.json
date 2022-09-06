@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220906.2N.5",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220906.2N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-09-06",
+  "date_as_printed": "Vonnis/arrest van 06 september 2022",
+  "published_on_juportal": "2022-09-13",
+  "language": "nl",
+  "role_number": "P.22.0601.N",
+  "case_name_as_published": "V. contra B.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Action civile - Demande en réparation d'un dommage ne figurant que dans les motifs de conclusions - Principe dispositif - Appréciation des conclusions dans leur ensemble.",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Demande en réparation d'un dommage ne figurant que dans les motifs de conclusions - Principe dispositif - Appréciation des conclusions dans leur ensemble.",
+    "Burgerlijke rechtsvordering - Vordering tot schadevergoeding opgenomen in alleen de motieven van een conclusie - Beschikkingsbeginsel - Beoordeling van de conclusie in haar geheel",
+    "Vordering tot schadevergoeding opgenomen in alleen de motieven van een conclusie - Beschikkingsbeginsel - Beoordeling van de conclusie in haar geheel"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Burgerlijke rechtsvordering - Vordering tot schadevergoeding opgenomen in alleen de motieven van een conclusie - Beschikkingsbeginsel - Beoordeling van de conclusie in haar geheel",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1138, 2° - 04 ELI link Pub nr 1967101055",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Vordering tot schadevergoeding opgenomen in alleen de motieven van een conclusie - Beschikkingsbeginsel - Beoordeling van de conclusie in haar geheel",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1138, 2° - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220906.2N.5",
+  "source_sha256": "4b483c9d1f30d1cc99b90378a7cb7ac19311480cc1340487f1374dad1968eb13",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220906.2N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
