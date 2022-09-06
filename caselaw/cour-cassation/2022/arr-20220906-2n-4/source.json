@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220906.2N.4",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220906.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-09-06",
+  "date_as_printed": "Vonnis/arrest van 06 september 2022",
+  "published_on_juportal": "2022-09-13",
+  "language": "nl",
+  "role_number": "P.22.0507.N",
+  "case_name_as_published": "V. contra V.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INDEMNITE DE PROCEDURE",
+    "RECHTSPLEGINGSVERGOEDING",
+    "Matière répressive - Caractère d'office",
+    "Strafzaken - Ambtshalve karakter"
+  ],
+  "fiche": [
+    "RECHTSPLEGINGSVERGOEDING",
+    "Strafzaken - Ambtshalve karakter",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 ELI link Pub nr 1967101055 KB 26 oktober 2007 tot vaststelling van het tarief van de rechtsplegingsvergoeding bedoeld in artikel 1022 van het Gerechtelijk Wetboek en tot vaststelling van de datum van inwerkingtreding van de artikelen 1 tot 13 van de wet van 21 april 2007 ... - 26-10-2007 - Art. 1 - 35 ELI link Pub nr 2007009900"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220906.2N.4",
+  "source_sha256": "6994db7dcd3bfa7ffb42c8575c26d0170590b70ef4ff86334ac9778c7ef2e4af",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220906.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
