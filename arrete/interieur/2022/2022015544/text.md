@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Dans l'annexe à l'arrêté ministériel du 3 décembre 2015 fixant le siège social des zones de secours, dans la colonne " siège social ", les mots " Parc des Collines - Bâtiment Archimède, Place du Brabant Wallon 1 " sont remplacés par les mots " Chaussée des Collines 52 bte 5 ".
