@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique - L'article 3 de l'arrêté ministériel du 15 septembre 2005 portant désignation des membres de l'autorité et de leurs suppléants au sein du Comité de concertation de base est abrogé.
