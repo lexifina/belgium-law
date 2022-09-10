@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté vise à transposer la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, modifiée en dernier lieu par la Directive 2013/55/UE du Parlement Européen et du Conseil du 20 novembre 2013.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. A l'article 11 de l'arrêté ministériel du 23 avril 2014 fixant les critères généraux d'agrément des médecins spécialistes, des maîtres de stage et des services de stage les modifications suivantes sont apportées :
+1° Le paragraphe 1er est remplacé par la disposition suivante :
+" Le candidat spécialiste pour tous les titres de niveau 3 peut accomplir son stage partiellement ou totalement dans un autre Etat membre de l'Union européenne, dans un Etat membre de l'Espace économique européen non membre de l'Union européenne, ou dans un Etat avec lequel l'Union européenne et ses Etats membres ont conclu un accord d'association qui est entré en vigueur et qui stipule que, dans le cadre de l'accès à et de l'exercice d'une activité professionnelle, leurs ressortissants ne peuvent pas être discriminés en raison de leur nationalité. " ;
+2° Au paragraphe 2, les mots " pour tous les titres de niveau 2 " sont insérés entre les mots " Le candidat spécialiste " et les mots " peut accomplir un tiers au maximum " ;
+3° Il est inséré un nouveau paragraphe 5, rédigé comme suit : " En l'absence de législation spécifique concernant l'agrément pour la supervision des formations dans le pays d'accueil, il est possible de déroger au paragraphe 3, 1°, moyennant :
+- une confirmation de l'absence de législation spécifique pour la discipline médicale concernée par les autorités compétentes du pays d'accueil, laquelle doit être soumise aux autorités belges compétentes,
+- un avis préalable du Conseil supérieur des médecins spécialistes et des médecins généralistes. ".
