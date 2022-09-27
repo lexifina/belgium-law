@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220927.2N.18",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220927.2N.18",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-09-27",
+  "date_as_printed": "Vonnis/arrest van 27 september 2022",
+  "published_on_juportal": "2022-09-29",
+  "language": "nl",
+  "role_number": "P.22.1176.N",
+  "case_name_as_published": "L.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DEFENSE SOCIALE - CHAMBRE DE PROTECTION SOCIALE",
+    "BESCHERMING VAN DE MAATSCHAPPIJ - KAMER VOOR BESCHERMING VAN DE MAATSCHAPPIJ",
+    "Internement - Loi du 5 mai 2014 sur l'internement - Article 29, § 2, alinéa 1er - Examen à la première audience utile - Délai de trois mois - Non-respect du délai - Sanction - Portée - Conséquence",
+    "DEFENSE SOCIALE - INTERNEMENT",
+    "BESCHERMING VAN DE MAATSCHAPPIJ - INTERNERING",
+    "Loi du 5 mai 2014 sur l'internement - Article 29, § 2, alinéa 1er - Examen à la première audience utile de la chambre de protection sociale - Délai de trois mois - Non-respect du délai - Sanction - Portée - Conséquence",
+    "Internering - Interneringswet - Artikel 29, § 2, eerste lid - Behandeling op de eerst nuttige zitting - Termijn van drie maanden - Niet-naleving van de termijn - Sanctie - Draagwijdte - Gevolg",
+    "Interneringswet - Artikel 29, § 2, eerste lid - Behandeling op de eerst nuttige zitting van de kamer voor bescherming van de maatschappij - Termijn van drie maanden - Niet-naleving van de termijn - Sanctie - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "BESCHERMING VAN DE MAATSCHAPPIJ - KAMER VOOR BESCHERMING VAN DE MAATSCHAPPIJ",
+    "Internering - Interneringswet - Artikel 29, § 2, eerste lid - Behandeling op de eerst nuttige zitting - Termijn van drie maanden - Niet-naleving van de termijn - Sanctie - Draagwijdte - Gevolg",
+    "Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 29, § 2, eerste lid - 11 ELI link Pub nr 2014009316",
+    "BESCHERMING VAN DE MAATSCHAPPIJ - INTERNERING",
+    "Interneringswet - Artikel 29, § 2, eerste lid - Behandeling op de eerst nuttige zitting van de kamer voor bescherming van de maatschappij - Termijn van drie maanden - Niet-naleving van de termijn - Sanctie - Draagwijdte - Gevolg",
+    "Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 29, § 2, eerste lid - 11 ELI link Pub nr 2014009316"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220927.2N.18",
+  "source_sha256": "cbb5a3c2f3e99815bab7e96980c2e7ce2a18ee610698c1416eb3d4768cc64466",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220927.2N.18_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
