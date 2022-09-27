@@ -1,0 +1,50 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20220927.2N.1",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20220927.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-09-27",
+  "date_as_printed": "Vonnis/arrest van 27 september 2022",
+  "published_on_juportal": "2022-09-29",
+  "language": "nl",
+  "role_number": "P.22.0411.N",
+  "case_name_as_published": "S. contra B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "FAUX ET USAGE DE FAUX",
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Eléments constitutifs - Notion d'écrit protégé - Ecrit qui s'impose à la confiance publique - Écrit qui ne s'impose pas à la confiance publique - Possibilité de contrôle de l'écrit par le destinataire - Portée - Conséquence",
+    "ESCROQUERIE",
+    "OPLICHTING",
+    "Eléments constitutifs - Intention frauduleuse - Portée",
+    "Eléments constitutifs - Utilisation de faux noms ou de fausses qualités - Utilisation de manœuvres frauduleuses - Caractère suffisant d'un de ces comportements",
+    "Eléments constitutifs - Utilisation de manœuvres frauduleuses - Agissements extrinsèques - Actes positifs - Abstentions ou dissimulations - Portée - Conséquence",
+    "Constitutieve bestanddelen - Begrip beschermd geschrift - Geschrift dat zich opdringt aan het openbaar vertrouwen - Geschrift dat zich niet opdringt aan het openbaar vertrouwen - Controlemogelijkheid van het geschrift door de bestemmeling - Draagwijdte - Gevolg",
+    "Constitutieve bestanddelen - Bedrieglijk opzet - Draagwijdte",
+    "Constitutieve bestanddelen - Gebruik van valse namen of valse hoedanigheden - Aanwenden van listige kunstgrepen - Volstaan van één van die gedragingen",
+    "Constitutieve bestanddelen - Gebruik van listige kunstgrepen - Uitwendige handelingen - Positieve daden - Onthoudingen of verzwijgingen - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Constitutieve bestanddelen - Begrip beschermd geschrift - Geschrift dat zich opdringt aan het openbaar vertrouwen - Geschrift dat zich niet opdringt aan het openbaar vertrouwen - Controlemogelijkheid van het geschrift door de bestemmeling - Draagwijdte - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 193 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 196 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 214 - 01 ELI link Pub nr 1867060850",
+    "OPLICHTING",
+    "Constitutieve bestanddelen - Bedrieglijk opzet - Draagwijdte",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 496 - 01 ELI link Pub nr 1867060850",
+    "OPLICHTING",
+    "Constitutieve bestanddelen - Gebruik van valse namen of valse hoedanigheden - Aanwenden van listige kunstgrepen - Volstaan van één van die gedragingen",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 496 - 01 ELI link Pub nr 1867060850",
+    "OPLICHTING",
+    "Constitutieve bestanddelen - Gebruik van listige kunstgrepen - Uitwendige handelingen - Positieve daden - Onthoudingen of verzwijgingen - Draagwijdte - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 496 - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20220927.2N.1",
+  "source_sha256": "2d8a52677178f18371b92de9ff973297a064bfd2a746cfe5b266256df592c64f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20220927.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
