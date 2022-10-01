@@ -1,0 +1,11 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>.Dans l'article 11, § 2 de la convention collective de travail n° 103 du 27 juin 2012 instaurant un système de crédit-temps, de diminution de carrière et d'emplois de fin de carrière, modifiée par les conventions collectives de travail n° 103 bis du 27 avril 2015, n° 103 ter du 20 décembre 2016, n° 103/4 du 29 janvier 2018 et n° 103/5 du 7 octobre 2020, le point 1) est remplacé par ce qui suit :
+" 1) Ne sont pas prises en compte, pour le calcul des 12 ou 24 mois visés à l'article 4, § 5 et à l'article 10, § 1er, les périodes de suspension du contrat de travail, de diminution des prestations de travail ou d'adaptation des modalités de travail prévues en application :
+- de l'arrêté royal du 22 mars 1995 relatif au congé pour soins palliatifs, portant exécution de l'article 100 bis, § 4 de la loi de redressement du 22 janvier 1985 concernant des dispositions sociales et modifiant l'arrêté royal du 2 janvier 1991 relatif à l'octroi d'allocations d'interruption;
+- de la convention collective de travail n° 64 du 29 avril 1997 instituant un droit au congé parental;
+- de l'arrêté royal du 29 octobre 1997 relatif à l'introduction d'un droit au congé parental dans le cadre d'une interruption de la carrière professionnelle;
+- de l'arrêté royal du 10 août 1998 instaurant un droit à l'interruption de carrière pour l'assistance ou l'octroi de soins à un membre du ménage ou de la famille gravement malade;
+- de la convention collective de travail n° 162 du 27 septembre 2022 instituant un droit à demander des formules souples de travail. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. La présente convention collective de travail entre en vigueur le 1er octobre 2022.
+Elle est conclue pour une durée indéterminée. Elle pourra être révisée ou dénoncée, en tout ou en partie, à la demande de la partie signataire la plus diligente, moyennant un préavis de six mois.
+L'organisation qui prend l'initiative de la révision ou de la dénonciation doit indiquer, par lettre ordinaire adressée au Président du Conseil national du Travail, les motifs et déposer des propositions d'amendements que les autres organisations s'engagent à discuter au sein du Conseil national du Travail dans le délai d'un mois de leur réception.
