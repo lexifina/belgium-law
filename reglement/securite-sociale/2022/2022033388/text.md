@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.3">1er</a>. Dans l'article 6, du règlement du 28 juillet 2003 portant exécution de l'article 22, 11° de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonné le 14 juillet 1994, modifié en dernier lieu par le règlement du 16 mars 2020 est inséré un § 3ter mentionnant :
+" § 3ter. Lorsqu'une prestation de l'article 5 de la nomenclature est effectuée par un hygiéniste bucco-dentaire selon les modalités de l'article 6, § 18bis, le praticien de l'art dentaire porte en compte les soins sur son attestation de soins en mentionnant dans la partie identification du dispensateur son propre nom et son numéro INAMI mais également le nom et numéro INAMI de l'hygiéniste qui a effectué l'acte. "
+
+<a name="Art.3" href="#Art.1er">Art.</a> 3. Le présent arrêté entre en vigueur le 1er octobre 2022.
