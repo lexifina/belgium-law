@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221004.2N.13",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221004.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-04",
+  "date_as_printed": "Vonnis/arrest van 04 oktober 2022",
+  "published_on_juportal": "2022-10-14",
+  "language": "nl",
+  "role_number": "P.22.0582.N",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "fiche": [
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Wetboek van Strafvordering - 17-11-1808 - Artt. 203, 204 en 210, tweede lid - 30 ELI link Pub nr 1808111701",
+    "STRAFVORDERING",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221004.2N.13",
+  "source_sha256": "b18fa6b5dbbc972e8e2b6f4ef63246d65b4b85b24e71f19a922f38b65c8afb69",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221004.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/08/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
