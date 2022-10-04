@@ -1,0 +1,31 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221004.2N.12",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221004.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-04",
+  "date_as_printed": "Vonnis/arrest van 04 oktober 2022",
+  "published_on_juportal": "2022-10-14",
+  "language": "nl",
+  "role_number": "P.22.0234.N",
+  "case_name_as_published": "GEWESTELIJK STEDENBOUWKUNDIGE INSPECTEUR contra V.",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "URBANISME - REMISE EN ETAT DES LIEUX. PAIEMENT D'UNE PLUS-VALUE",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE"
+  ],
+  "fiche": [
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE",
+    "Besluit van de Vlaamse Regering 15 mei 2009 houdende coördinatie van de decreetgeving op de ruimtelijke ordening - 15-05-2009 - Art. 6.3.1 - 36 ELI link Pub nr 2009A35738",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221004.2N.12",
+  "source_sha256": "8124a8b6bc72dea0652f1bfd360ab92de4528d7130c47251a798878b3780f477",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221004.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/08/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
