@@ -1,0 +1,30 @@
+{
+  "id": "2022042069",
+  "title": "11 SEPTEMBRE 2022. - Loi visant à introduire des règles générales de déclassification des pièces classifiées (nouvel intitulé)",
+  "source_title": "11 SEPTEMBRE 2022. - Loi visant à introduire des règles générales de déclassification des pièces classifiées (nouvel intitulé)",
+  "act": "loi/interieur/2022/2022042069",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-09-27&numac_search=2022042069&page=43&lg_txt=F&caller=list&2022042069=21&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "a1db499039b2ec296d24c32e5976c9f72f8475bb145eb609eb8f5cfd09f2d0ac",
+  "source_issuer": "Intérieur",
+  "made": "2022-09-11",
+  "published": "2022-09-27",
+  "in_force": "2022-10-07",
+  "in_force_basis": "Justel: Entrée en vigueur : 7 octobre 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "27 septembre 2022",
+    "Numéro": "2022042069",
+    "page": "70386",
+    "Dossier numéro": "2022-09-11/04",
+    "Entrée en vigueur": "7 octobre 2022",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1707,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-10-07"
+}
