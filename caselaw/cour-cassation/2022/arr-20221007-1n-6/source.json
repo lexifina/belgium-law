@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221007.1N.6",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221007.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-07",
+  "date_as_printed": "Vonnis/arrest van 07 oktober 2022",
+  "published_on_juportal": "2022-10-20",
+  "language": "nl",
+  "role_number": "C.22.0072.N",
+  "case_name_as_published": "IMMO-BASILIX contra REDEVCO BELGIUM",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "SAISIE - SAISIE-EXECUTION",
+    "BESLAG - GEDWONGEN TENUITVOERLEGGING",
+    "Titre exécutoire - Calcul de la créance - Mission du juge des saisies",
+    "Uitvoerbare titel - Becijfering van de schuldvordering - Taak van de beslagrechter"
+  ],
+  "fiche": [
+    "BESLAG - GEDWONGEN TENUITVOERLEGGING",
+    "Uitvoerbare titel - Becijfering van de schuldvordering - Taak van de beslagrechter",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 793, tweede lid - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1494, eerste lid - 05 ELI link Pub nr 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221007.1N.6",
+  "source_sha256": "2eaff7e3e3b9b94517847681a9c9bd504436402d1b11c188af065aa1d83ac0c8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221007.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/27/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
