@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221011.2N.2",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221011.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-11",
+  "date_as_printed": "Vonnis/arrest van 11 oktober 2022",
+  "published_on_juportal": "2022-10-14",
+  "language": "nl",
+  "role_number": "P.22.0652.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droit à un procès équitable - Matière répressive - Condamnation par défaut - Opposition - Information sur l'opposition lors de la signification de la décision par défaut - Portée",
+    "OPPOSITION",
+    "VERZET",
+    "Matière répressive - Information sur l'opposition lors de la signification de la décision par défaut - Portée",
+    "Recht op een eerlijk proces - Strafzaken - Veroordeling bij verstek - Verzet - Informatie over het verzet bij de betekening van de verstekbeslissing - Draagwijdte",
+    "Strafzaken - Informatie over het verzet bij de betekening van de verstekbeslissing - Draagwijdte"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Recht op een eerlijk proces - Strafzaken - Veroordeling bij verstek - Verzet - Informatie over het verzet bij de betekening van de verstekbeslissing - Draagwijdte",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187 - 30 ELI link Pub nr 1808111901",
+    "VERZET",
+    "Strafzaken - Informatie over het verzet bij de betekening van de verstekbeslissing - Draagwijdte",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187 - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221011.2N.2",
+  "source_sha256": "ea32778a4fe86db597305b11738c8bb3c552874795ae81a68177d7eb82d4f14c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221011.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/28/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
