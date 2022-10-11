@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221011.2N.18",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221011.2N.18",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-11",
+  "date_as_printed": "Vonnis/arrest van 11 oktober 2022",
+  "published_on_juportal": "2022-10-14",
+  "language": "nl",
+  "role_number": "P.22.1137.N",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Pourvoi prématuré (pas de décision définitive)",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Voorbarig cassatieberoep (geen eindbeslissing)",
+    "Emploi des langues en matière judiciaire - Demande de renvoi de la cause devant une juridiction d'une autre région linguistique - Appel interjeté contre le rejet de la demande - Décision déclarant l'appel non fondé et renvoyant la cause au premier juge - Pourvoi immédiat - Admissibilité",
+    "LANGUES (EMPLOI DES) - MATIERE JUDICIAIRE (LOI DU 15 JUIN 1935) - En première instance - Matière répressive",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In eerste aanleg - Strafzaken",
+    "Demande de renvoi de la cause devant une juridiction d'une autre région linguistique - Appel interjeté contre le rejet de la demande - Décision déclarant l'appel non fondé et renvoyant la cause au premier juge - Pourvoi immédiat - Admissibilité",
+    "Taalgebruik in gerechtszaken - Verzoek tot verzending van de zaak naar een rechtscollege van een ander taalgebied - Hoger beroep tegen de afwijzing van het verzoek - Beslissing van een ongegrond hoger beroep en verwijzing van de zaak naar de eerste rechter - Onmiddellijk cassatieberoep - Toelaatbaarheid",
+    "Verzoek tot verzending van de zaak naar een rechtscollege van een ander taalgebied - Hoger beroep tegen de afwijzing van het verzoek - Beslissing van een ongegrond hoger beroep en verwijzing van de zaak naar de eerste rechter - Onmiddellijk cassatieberoep - Toelaatbaarheid"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Voorbarig cassatieberoep (geen eindbeslissing)",
+    "Taalgebruik in gerechtszaken - Verzoek tot verzending van de zaak naar een rechtscollege van een ander taalgebied - Hoger beroep tegen de afwijzing van het verzoek - Beslissing van een ongegrond hoger beroep en verwijzing van de zaak naar de eerste rechter - Onmiddellijk cassatieberoep - Toelaatbaarheid",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420 - 30 ELI link Pub nr 1808121050 Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23 - 01 ELI link Pub nr 1935061501",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In eerste aanleg - Strafzaken",
+    "Verzoek tot verzending van de zaak naar een rechtscollege van een ander taalgebied - Hoger beroep tegen de afwijzing van het verzoek - Beslissing van een ongegrond hoger beroep en verwijzing van de zaak naar de eerste rechter - Onmiddellijk cassatieberoep - Toelaatbaarheid",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420 - 30 ELI link Pub nr 1808121050 Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23 - 01 ELI link Pub nr 1935061501"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221011.2N.18",
+  "source_sha256": "e6e1d8702fdbf46b82556be1c936f56ff2480ae9e4e451dd1e65d979dc73374e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221011.2N.18_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/28/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
