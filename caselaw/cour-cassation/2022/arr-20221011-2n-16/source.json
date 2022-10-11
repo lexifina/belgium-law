@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221011.2N.16",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221011.2N.16",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-10-11",
+  "date_as_printed": "Vonnis/arrest van 11 oktober 2022",
+  "published_on_juportal": "2022-10-14",
+  "language": "nl",
+  "role_number": "P.22.0349.N",
+  "case_name_as_published": "H.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 59",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 59",
+    "Analyse de l'haleine - Prescriptions de précision - Écart requis pour une troisième analyse de l'haleine",
+    "Analyse de l'haleine - Prescriptions de précision - Arrondissage des résultats au centième près après la virgule - Admissibilité",
+    "Ademanalyse - Nauwkeurigheidsvoorschriften - Vereiste afwijking voor een derde ademanalyse",
+    "Ademanalyse - Nauwkeurigheidsvoorschriften - Afronding van de resultaten per honderdsten na de komma - Toelaatbaarheid"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 59",
+    "Ademanalyse - Nauwkeurigheidsvoorschriften - Vereiste afwijking voor een derde ademanalyse",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 59, § 3 - 31 ELI link Pub nr 1968031601 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Art. 26 - 40 ELI link Pub nr 2007014149 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Bijlage 2 - 40 ELI link Pub nr 2007014149",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 59",
+    "Ademanalyse - Nauwkeurigheidsvoorschriften - Afronding van de resultaten per honderdsten na de komma - Toelaatbaarheid",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 59, § 3 - 31 ELI link Pub nr 1968031601 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Art. 26 - 40 ELI link Pub nr 2007014149 KB 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen - 21-04-2007 - Bijlage 2, punten 3.7 en 4.3.4 - 40 ELI link Pub nr 2007014149"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221011.2N.16",
+  "source_sha256": "021b85a23a07f13c693c8b0c3e5ca5fb8edd1c0aecfeb2ede58d4863170c78a3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221011.2N.16_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/28/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
