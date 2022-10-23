@@ -1,0 +1,29 @@
+{
+  "id": "2022042099",
+  "title": "13 SEPTEMBRE 2022. - Arrêté royal modifiant les articles 225, 228, 229 et introduisant un article 228/1 dans l'AR/CIR92",
+  "source_title": "13 SEPTEMBRE 2022. - Arrêté royal modifiant les articles 225, 228, 229 et introduisant un article 228/1 dans l'AR/CIR92",
+  "act": "arrete/finances/2022/2022042099",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-10-13&numac_search=2022042099&page=43&lg_txt=F&caller=list&2022042099=4&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "76ba9ee15548a9b2e158dc56c4ead50edb62ec9edccc8413a879b19aad4b7b1c",
+  "source_issuer": "Finances",
+  "made": "2022-09-13",
+  "published": "2022-10-13",
+  "in_force": "2022-10-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 octobre 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Finances",
+    "Publication": "13 octobre 2022",
+    "Numéro": "2022042099",
+    "page": "72951",
+    "Dossier numéro": "2022-09-13/06",
+    "Entrée en vigueur": "23 octobre 2022"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 992,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-10-23"
+}
