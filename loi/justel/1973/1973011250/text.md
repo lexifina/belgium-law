@@ -485,11 +485,16 @@ Au besoin et notamment à la demande de l'une des parties, il est fait appel a u
 
 <a name="LNK0025" href="#LNKR0025">Section 1re.</a> Dispositions générales. &lt;Intitulé ajouté par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 24; <b> En vigueur : </b> 01-12-2006&gt;
 
-<a name="Art.69" href="#Art.68">Art.</a> <a href="#Art.70"> 69</a>. &lt;L 1996-08-04/60, art. 22, 005; <b> En vigueur : </b> 1996-10-01&gt; Le Conseil d'Etat est composé :
-(1° de quarante-quatre membres, étant un premier président, un président, quatorze présidents de chambre et vingt-huit conseillers d'Etat;) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 25, 018; <b> En vigueur : </b> 01-12-2006&gt;
-(2° de l'auditorat, comprenant un auditeur général, un auditeur général adjoint, quatorze premiers auditeurs chefs de section et soixante-quatre premiers auditeurs, auditeurs ou auditeurs adjoints;
+<a name="Art.69" href="#Art.68">Art.</a> <a href="#Art.70"> 69</a>.&lt;L 1996-08-04/60, art. 22, 005; <b> En vigueur : </b> 1996-10-01&gt; Le Conseil d'Etat est composé :
+(1° de [<sup>1</sup> cinquante-huit]<sup>1</sup> membres, étant un premier président, un président, quatorze présidents de chambre et [<sup>1</sup> quarante-deux]<sup>1</sup> conseillers d'Etat;) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 25, 018; <b> En vigueur : </b> 01-12-2006&gt;
+(2° de l'auditorat, comprenant un auditeur général, un auditeur général adjoint, quatorze premiers auditeurs chefs de section et [<sup>1</sup> nonante-six]<sup>1</sup> premiers auditeurs, auditeurs ou auditeurs adjoints;
 3° du bureau de coordination, comprenant deux premiers référendaires chefs de section et deux premiers référendaires, référendaires ou référendaires adjoints;
-4° du greffe, comprenant un greffier en chef et vingt-cinq greffiers, dont un greffier informaticien.) &lt;L 2003-04-02/40, art. 2, 015; <b> En vigueur : </b> 24-05-2003&gt;
+4° du greffe, comprenant un greffier en chef et [<sup>1</sup> trente-deux]<sup>1</sup> greffiers, dont un greffier informaticien.) &lt;L 2003-04-02/40, art. 2, 015; <b> En vigueur : </b> 24-05-2003&gt;
+[<sup>1</sup> En fonction des nécessités du service :
+1° le nombre des présidents de chambre peut être augmenté d'une ou deux unités. Dans ce cas, le nombre des conseillers d'Etat est diminué d'autant ;
+2° le nombre des premiers auditeurs chefs de section peut être augmenté d'une ou deux unités. Dans ce cas, le nombre des premiers auditeurs, auditeurs ou auditeurs adjoints est diminué d'autant.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022090605" target="_blank">2022-09-06/05</a>, art. 2, 036; En vigueur : 27-10-2022&gt;
 
 <a name="Art.70" href="#Art.69">Art.</a> <a href="#Art.71"> 70</a>.§ 1er. (Les conseillers d'Etat sont nommés par le Roi sur une liste de trois noms formellement motivée, présentée par le Conseil d'Etat après qu'il a examiné la recevabilité des candidatures et comparé les titres et mérites respectifs des candidats.
 (L'assemblée générale du Conseil d'Etat peut organiser une épreuve de sélection selon les modalités qu'elle détermine.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 26, 018; <b> En vigueur : </b> 01-12-2006&gt;
