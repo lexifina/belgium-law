@@ -1,0 +1,30 @@
+{
+  "id": "2022033515",
+  "title": "31 MAI 2022. - Loi modifiant la loi du 10 juillet 2006 relative à l'analyse de la menace",
+  "source_title": "31 MAI 2022. - Loi modifiant la loi du 10 juillet 2006 relative à l'analyse de la menace",
+  "act": "loi/interieur/2022/2022033515",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-10-19&numac_search=2022033515&page=75&lg_txt=F&caller=list&2022033515=26&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "4b7b8fb04ec28fbed42af364c6fc170946f9eef6eb2c11721bb4799723306b60",
+  "source_issuer": "Intérieur",
+  "made": "2022-05-31",
+  "published": "2022-10-19",
+  "in_force": "2022-10-29",
+  "in_force_basis": "Justel: Entrée en vigueur : 29 octobre 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "19 octobre 2022",
+    "Numéro": "2022033515",
+    "page": "73905",
+    "Dossier numéro": "2022-05-31/06",
+    "Entrée en vigueur": "29 octobre 2022",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 2731,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-10-29"
+}
