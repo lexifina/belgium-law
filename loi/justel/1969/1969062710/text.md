@@ -173,7 +173,9 @@ Pour ces travailleurs, un enregistrement du temps de travail est obligatoire en 
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018122149" target="_blank">2018-12-21/49</a>, art. 49, 072; En vigueur : 01-04-2019&gt;
 
-<a name="Art.3" href="#Art.2/4">Art.</a> <a href="#Art.3bis"> 3</a>. Sans préjudice des dispositions des conventions internationales et des règlements internationaux de sécurité sociale et de l'article 13, alinéa 2, de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, la présente loi s'applique aux travailleurs occupés en Belgique au service d'un employeur établi en Belgique ou attachés à un siége d'exploitation établi en Belgique.
+<a name="Art.3" href="#Art.2/4">Art.</a> <a href="#Art.3bis"> 3</a>.Sans préjudice des dispositions [<sup>1</sup> des règlements européens ou conventions internationales portant, entre autres, sur la sécurité sociale et par lesquelles la Belgique est liée]<sup>1</sup> et de l'article 13, alinéa 2, de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, la présente loi s'applique aux travailleurs occupés en Belgique au service d'un employeur établi en Belgique ou attachés à un siége d'exploitation établi en Belgique.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022120506" target="_blank">2022-12-05/06</a>, art. 4, 087; En vigueur : 01-01-2021&gt;
 
 <a name="Art.3bis" href="#Art.3">Art.</a> <a href="#Art.4"> 3bis</a>. &lt;Inséré par AR 2001-06-10/58, art. 1; <b> En vigueur : </b> 01-01-2003&gt; Pour l'application de la présente loi et de ses arrêtés d'exécution, les définitions des données relatives au temps de travail sont celles déterminées par l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
 
