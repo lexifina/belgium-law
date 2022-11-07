@@ -1,0 +1,33 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2022:CONC.20221107.3N.4",
+  "ecli": "ECLI:BE:CASS:2022:CONC.20221107.3N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-07",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 07 november 2022",
+  "published_on_juportal": "2023-01-16",
+  "language": "nl",
+  "role_number": "S.22.0004.N",
+  "case_name_as_published": "E. contra BEOBANK NVSA",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "REGLEMENT COLLECTIF DE DETTES",
+    "COLLECTIEVE SCHULDENREGELING",
+    "Créancier - Créance - Non-déclaration - Renonciation - Conditions",
+    "Schuldeiser - Schuldvordering - Niet-aangifte - Afstand - Voorwaarden"
+  ],
+  "fiche": [
+    "COLLECTIEVE SCHULDENREGELING",
+    "Schuldeiser - Schuldvordering - Niet-aangifte - Afstand - Voorwaarden",
+    "Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1675/9, § 3 - 05 ELI link Pub nr 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:CONC.20221107.3N.4",
+  "source_sha256": "daf23142ae98a8b518a7cdfbd090a782755d779da71a3ffc247876999bba4d64",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:CONC.20221107.3N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_64.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
