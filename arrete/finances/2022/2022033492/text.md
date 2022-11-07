@@ -1,0 +1,14 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 3 de l'arrêté royal du 5 janvier 2020 fixant les modalités spécifiques d'émission de la loterie à billets, appelée " Bingo 3 euros ", loterie publique organisée par la Loterie Nationale, modifié par l'arrêté royal du 7 janvier 2021, les modifications suivantes sont apportées :
+1° au § 1er, alinéa 1er, le mot " GEWINNNUMMERN " est remplacé par le mot " GEWINNZAHLEN " ;
+2° au § 1er, alinéas 2, 3 et 4, le chiffre " 55 " est chaque fois remplacé par le chiffre " 60 " ;
+3° au § 1er, les alinéas 5 et 6 sont remplacés comme suit :
+" La rangée supérieure de la carte Bingo contient deux cases, les deux rangées suivantes 4 cases, les quatre rangées suivantes 6 cases, les deux rangées suivantes 8 cases et la dernière rangée inférieure 10 cases.
+La carte Bingo est divisée en deux par une colonne qui contient de haut en bas les montants de lot suivants sur chacun des 10 niveaux, choisis parmi les lots visés à l'article 2 : 3 €, 5 €, 10 €, 15 €, 25 €, 50 €, 500 €, 10.000 €, 25.000 €, 100.000 €. "
+4° § 3, alinéa 2, est remplacé comme suit :
+" Le lot qui est attribué est mentionné dans la colonne sur le niveau correspondant de la rangée horizontale gagnante. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les billets " Bingo 3 euros " émis avant le 7 novembre 2022 restent soumis aux règles énoncées dans l'arrêté royal du 5 janvier 2020 fixant les modalités spécifiques d'émission de la loterie à billets, appelée " Bingo 3 euros ", loterie publique organisée par la Loterie Nationale, telles qu'en vigueur au jour précédant la date d'entrée en vigueur du présent arrêté.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a la Loterie Nationale dans ses attributions est chargé de l'exécution du présent arrêté.
