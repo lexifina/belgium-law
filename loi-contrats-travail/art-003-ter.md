@@ -1,6 +1,4 @@
-§ 1er. Dans le cadre de la relation individuelle de travail entre employeur et travailleur, les documents suivants peuvent être envoyés et archivés sous format électronique:
-- le document visé à l'article 20bis de la présente loi;
-- les documents visés à l'article 21 de la présente loi.
+§ 1er. Dans le cadre de la relation individuelle de travail entre employeur et travailleur, les documents visés à l'article 21 de la présente loi peuvent être envoyés et archivés sous format électronique.
 § 2. Le travailleur et l'employeur déterminent, par le biais d'un accord mutuel pouvant également être conclu par voie électronique, quels documents visés au paragraphe précédent sont envoyés et archivés par voie électronique. L'accord mutuel doit au moins s'appliquer pour l'année calendrier en cours.
 Après l'expiration de l'année calendrier en cours visée à l'alinéa précédent, tant le travailleur que l'employeur peuvent, de manière unilatérale, revenir sur l'accord mutuel visé à l'alinéa précédent en portant à la connaissance de l'autre partie, de manière claire et explicite, qu'un ou plusieurs documents liés à leur relation individuelle de travail doivent être à nouveau communiqués sous format papier.
 La communication sous format papier des documents visés au paragraphe précédent prend cours au premier jour du deuxième mois suivant la notification visée à l'alinéa précédent.
