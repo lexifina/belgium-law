@@ -1770,16 +1770,28 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail, a fait ou laissé travailler un travailleur ou un jeune travailleur en dehors du temps de travail fixé dans le règlement de travail ou dans l'avis affiché dans les locaux de l'établissement en cas de surcroît extraordinaire de travail, sauf dans les cas où la loi l'autorise.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0061" href="#LNKR0061">Section 2.</a> - Le repos de maternité et de paternité, l'absence du travail en vue de fournir des soins d'accueil, l'entrave au droit au crédit-temps et à l'interruption de carrière, la fourniture de renseignements inexacts en matière de crédit-temps et d'interruption de carrière
+<a name="LNK0061" href="#LNKR0061">Section 2.</a> [<sup>1</sup> - Le repos de maternité et le congé de maternité converti, le congé de naissance, l'absence du travail en vue de fournir des soins d'accueil, le congé d'aidant, l'entrave au droit au crédit-temps et à l'interruption de carrière, la fourniture de renseignements inexacts en matière de crédit-temps et d'interruption de carrière]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100708" target="_blank">2022-10-07/08</a>, art. 1, 055; En vigueur : 10-11-2022&gt;
 
-<a name="Art.147" href="#Art.146">Art.</a> <a href="#Art.148"> 147</a>. Le repos de maternité et de paternité
+<a name="Art.147" href="#Art.146">Art.</a> <a href="#Art.%20147/1."> 147</a>.[<sup>1</sup> Le repos de maternité et le congé de maternité converti]<sup>1</sup>
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail :
 1° a fait ou laissé travailler une travailleuse durant le repos de maternité obligatoire;
 2° n'a pas accordé à la travailleuse qui en fait la demande le congé de maternité facultatif auquel elle peut prétendre;
-3° n'a pas accordé au travailleur qui en fait la demande le congé de paternité qui lui est reconnu, en tant que père, parce que la mère est hospitalisée ou décédée.
+3° [<sup>1</sup> n'a pas accordé au travailleur qui en fait la demande le congé de maternité converti auquel il a droit parce que la mère est hospitalisée ou décédée.]<sup>1</sup>
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100708" target="_blank">2022-10-07/08</a>, art. 30, 055; En vigueur : 10-11-2022&gt;
 
-<a name="Art.148" href="#Art.147">Art.</a> <a href="#Art.149"> 148</a>.[<sup>1</sup> Le congé d'adoption, l'absence en vue de fournir des soins d'accueil et le congé parental d'accueil
+<a name="Art.%20147/1." href="#Art.147">Art.</a> <a href="#Art.148">147/1</a>. [<sup>1</sup> Le congé de naissance
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 juillet 1978 relative aux contrats de travail:
+1° n'a pas accordé le congé de naissance au travailleur qui y a droit;
+2° n'a pas respecté la durée ou les conditions du congé de naissance prévues par la loi précitée du 3 juillet 1978.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100708" target="_blank">2022-10-07/08</a>, art. 31, 055; En vigueur : 10-11-2022&gt;
+
+<a name="Art.148" href="#Art.%20147/1.">Art.</a> <a href="#Art.%20148/1."> 148</a>.[<sup>1</sup> Le congé d'adoption, l'absence en vue de fournir des soins d'accueil et le congé parental d'accueil
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 juillet 1978 relative aux contrats de travail :
 1° n'a pas accordé au travailleur qui y a droit le congé d'adoption;
 2° n'a pas accordé au travailleur désigné comme parent d'accueil le droit de s'absenter du travail en vue de fournir des soins d'accueil;
@@ -1788,9 +1800,19 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018090612" target="_blank">2018-09-06/12</a>, art. 3/2, 035; En vigueur : 01-01-2019&gt;
 
-<a name="Art.149" href="#Art.148">Art.</a> <a href="#Art.150"> 149</a>. L'entrave au droit au crédit-temps et à l'interruption de carrière
-Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui n'accorde pas au travailleur le droit à la suspension ou à la réduction des prestations de travail en contravention à la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, aux arrêtés royaux pris en exécution de la loi précitée, ainsi qu'aux conventions collectives de travail d'application en cette matière.
+<a name="Art.%20148/1." href="#Art.148">Art.</a> <a href="#Art.149">148/1</a>. [<sup>1</sup> Le congé d'aidant
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 juillet 1978 relative aux contrats de travail:
+1° n'a pas accordé au travailleur qui y a droit le congé afin de fournir des soins personnels ou une aide personnelle à un membre du ménage ou à un membre de la famille qui nécessite de soins ou une aide considérables pour une raison médicale grave;
+2° n'a pas respecté la durée ou les conditions du congé d'aidant prévues par la loi précitée du 3 juillet 1978.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100708" target="_blank">2022-10-07/08</a>, art. 32, 055; En vigueur : 10-11-2022&gt;
+
+<a name="Art.149" href="#Art.%20148/1.">Art.</a> <a href="#Art.150"> 149</a>.L'entrave au droit au crédit-temps et à l'interruption de carrière
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui n'accorde pas au travailleur le droit à la suspension ou à la réduction des prestations de travail [<sup>1</sup> ou qui n'en respecte pas la durée ou les conditions]<sup>1</sup> en contravention à la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, aux arrêtés royaux pris en exécution de la loi précitée, ainsi qu'aux conventions collectives de travail d'application en cette matière.
 L'amende est multipliée par le nombre de travailleurs concernés.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100708" target="_blank">2022-10-07/08</a>, art. 33, 055; En vigueur : 10-11-2022&gt;
 
 <a name="Art.150" href="#Art.149">Art.</a> <a href="#LNK0062"> 150</a>. La fourniture de renseignements inexacts en matière de crédit-temps et d'interruption de carrière
 Est puni d'une sanction de niveau 1, l'employeur qui fournit, en contravention à la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, aux arrêtés royaux pris en exécution de la loi précitée, ainsi qu'aux conventions collectives de travail d'application en cette matière, à l'Office national de l'emploi des renseignements inexacts ou omet de lui fournir les renseignements nécessaires au sujet d'un de ses travailleurs bénéficiant d'une suspension ou à la réduction des prestations de travail.
