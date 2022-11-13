@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le règlement de l'autorité des services et des marchés financiers du 4 octobre 2022 subordonnant à des conditions restrictives la commercialisation auprès des consommateurs de certains contrats d'assurance portant sur des appareils multimédias, joint en annexe au présent arrêté, est approuvé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2.Le ministre qui a l'Economie dans ses attributions, le ministre qui a les Finances dans ses attributions et le ministre qui a la Protection des consommateurs dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
