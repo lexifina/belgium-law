@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221115.2N.15",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221115.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-15",
+  "date_as_printed": "Vonnis/arrest van 15 november 2022",
+  "published_on_juportal": "2022-11-17",
+  "language": "nl",
+  "role_number": "P.22.0952.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INFRACTION - PARTICIPATION",
+    "MISDRIJF - DEELNEMING",
+    "Vol - Vol d'électricité et d'eau dans le cadre de la culture et de la vente de cannabis - Absence d'actes actifs du prévenu dans le cadre de la soustraction d'électricité et d'eau - Portée - Conséquence",
+    "STUPEFIANTS",
+    "VERDOVENDE MIDDELEN",
+    "Culture et vente de cannabis - Vol d'électricité et d'eau dans le cadre de la culture et de la vente de cannabis - Absence d'actes actifs du prévenu dans le cadre de la soustraction d'électricité et d'eau - Portée - Conséquence",
+    "VOL ET EXTORSION",
+    "DIEFSTAL EN AFPERSING",
+    "Diefstal - Diefstal van elektriciteit en water in het kader van de teelt en verkoop van cannabis - Geen actieve handelingen van de beklaagde in het kader van de ontvreemding van elektriciteit en water - Draagwijdte - Gevolg",
+    "Teelt en verkoop van cannabis - Diefstal van elektriciteit en water in het kader van de teelt en verkoop van cannabis - Geen actieve handelingen van de beklaagde in het kader van de ontvreemding van elektriciteit en water - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "MISDRIJF - DEELNEMING",
+    "Diefstal - Diefstal van elektriciteit en water in het kader van de teelt en verkoop van cannabis - Geen actieve handelingen van de beklaagde in het kader van de ontvreemding van elektriciteit en water - Draagwijdte - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66, derde lid - 01 ELI link Pub nr 1867060850 Wet 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende ... - 24-02-1921 - Art. 2bis - 01 ELI link Pub nr 1921022450",
+    "VERDOVENDE MIDDELEN",
+    "Teelt en verkoop van cannabis - Diefstal van elektriciteit en water in het kader van de teelt en verkoop van cannabis - Geen actieve handelingen van de beklaagde in het kader van de ontvreemding van elektriciteit en water - Draagwijdte - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66, derde lid - 01 ELI link Pub nr 1867060850 Wet 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende ... - 24-02-1921 - Art. 2bis - 01 ELI link Pub nr 1921022450",
+    "DIEFSTAL EN AFPERSING",
+    "Diefstal - Diefstal van elektriciteit en water in het kader van de teelt en verkoop van cannabis - Geen actieve handelingen van de beklaagde in het kader van de ontvreemding van elektriciteit en water - Draagwijdte - Gevolg",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66, derde lid - 01 ELI link Pub nr 1867060850 Wet 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende ... - 24-02-1921 - Art. 2bis - 01 ELI link Pub nr 1921022450",
+    "RW-Rechtskundig weekblad - 2023-24, nr. 2, p. 58-62. - MELIS, Sara; Noot'Mededaderschap aan elektriciteitsdiefstal bij cannabisplantages: enkel 'weten' volstaat niet'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221115.2N.15",
+  "source_sha256": "24bc92ed111c62ac7deeb03bcc1526390d1fceb2c0c300bbfc083b68237bfc63",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221115.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
