@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221115.2N.12",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221115.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-15",
+  "date_as_printed": "Vonnis/arrest van 15 november 2022",
+  "published_on_juportal": "2022-11-17",
+  "language": "nl",
+  "role_number": "P.22.0636.N",
+  "case_name_as_published": "L. contra D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Production de pièces à l'audience - Dépôt - Portée - Conséquence",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droit à un procès équitable - Production de pièces à l'audience - Dépôt - Portée - Conséquence",
+    "PREUVE - MATIERE REPRESSIVE - Administration de la preuve",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Tonen van stukken op de rechtszitting - Neerlegging - Draagwijdte - Gevolg",
+    "Recht op een eerlijk proces - Tonen van stukken op de rechtszitting - Neerlegging - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Tonen van stukken op de rechtszitting - Neerlegging - Draagwijdte - Gevolg",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Recht op een eerlijk proces - Tonen van stukken op de rechtszitting - Neerlegging - Draagwijdte - Gevolg",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Tonen van stukken op de rechtszitting - Neerlegging - Draagwijdte - Gevolg",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221115.2N.12",
+  "source_sha256": "050429bde033a0cb5ea2058e5d901e4dc1efc41c035a5a911c841800fe29e67a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221115.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
