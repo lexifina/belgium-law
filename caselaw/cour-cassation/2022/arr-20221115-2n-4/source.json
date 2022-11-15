@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221115.2N.4",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221115.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-15",
+  "date_as_printed": "Vonnis/arrest van 15 november 2022",
+  "published_on_juportal": "2022-11-17",
+  "language": "nl",
+  "role_number": "P.22.1097.N",
+  "case_name_as_published": "PROCUREUR GENERAAL TE GENT contra P.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "REHABILITATION",
+    "HERSTEL IN EER EN RECHTEN",
+    "Condition - Code d'instruction criminelle, article 623, alinéa 1er - Obligation d'indemnisation - Portée - Conséquence",
+    "Condition - Code d'instruction criminelle, article 624, alinéa 3 - Obligation d'indemnisation - Portée - Conséquence",
+    "Voorwaarde - Artikel 623, eerste lid, Wetboek van Strafvordering - Schadevergoedingsplicht - Draagwijdte - Gevolg",
+    "Voorwaarde - Artikel 624, derde lid, Wetboek van Strafvordering - Schadevergoedingsplicht - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "HERSTEL IN EER EN RECHTEN",
+    "Voorwaarde - Artikel 623, eerste lid, Wetboek van Strafvordering - Schadevergoedingsplicht - Draagwijdte - Gevolg",
+    "Wetboek van Strafvordering - Boek II, Titel VII (Art. 589 tot en met 648) - 16-12-1808 - Art. 623, eerste lid - 30 ELI link Pub nr 1808121650",
+    "HERSTEL IN EER EN RECHTEN",
+    "Voorwaarde - Artikel 624, derde lid, Wetboek van Strafvordering - Schadevergoedingsplicht - Draagwijdte - Gevolg",
+    "Wetboek van Strafvordering - Boek II, Titel VII (Art. 589 tot en met 648) - 16-12-1808 - Art. 624, derde lid - 30 ELI link Pub nr 1808121650"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221115.2N.4",
+  "source_sha256": "e57b451b06e62075ad7d8986c4028dc5aa687120df9d12c9bdd1e10be311fa67",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221115.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
