@@ -2450,9 +2450,9 @@ Le présent article n'est pas applicable au donneur d'ordres qui est une personn
 Est punie d'une sanction de niveau 2, toute personne qui, en contravention à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, n'a pas tenu le document prescrit par le Roi et permettant de calculer la moyenne des travailleurs intérimaires occupés par un utilisateur en vue de la détermination des seuils d'institution d'un conseil d'entreprise et d'un comité pour la prévention et la protection au travail.
 L'amende est multipliée par le nombre de travailleurs concernés.
 
-<a name="LNK0093" href="#LNKR0093">Section 2.</a> [<sup>1</sup> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle, l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité, l'accord portant sur le budget mobilité en application de la loi du 17 mars 2019 concernant l'instauration d'un budget mobilité et le contrat de travail pour l'exécution de travail temporaire]<sup>1</sup>
+<a name="LNK0093" href="#LNKR0093">Section 2.</a> [<sup>1</sup> - Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle, l'accord portant sur le budget mobilité en application de la loi du 17 mars 2019 concernant l'instauration d'un budget mobilité, le contrat de travail pour l'exécution de travail temporaire, la demande et la convention exigées pour l'application du régime de travail visé à l'article 20bis/1 de la loi du 16 mars 1971 sur le travail et la demande et la (ou les) convention(s) exigés pour l'application du régime de travail visé 20quater de la loi du 16 mars 1971 précitée.]<sup>1</sup>
 ----------
-(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031705" target="_blank">2019-03-17/05</a>, art. 18, 039; En vigueur : 01-03-2019&gt;
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100306" target="_blank">2022-10-03/06</a>, art. 10, 057; En vigueur : 20-11-2022&gt;
 
 <a name="Art.186" href="#Art.185">Art.</a> <a href="#LNK0094"> 186</a>.[<sup>1</sup> [<sup>2</sup> Le contrat relatif à une occupation d'étudiants, le contrat d'occupation de travailleurs à domicile, la convention d'immersion professionnelle, l'accord portant sur l'allocation de mobilité en application de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité, l'accord portant sur le budget mobilité en application de la loi du 17 mars 2019 concernant l'instauration d'un budget mobilité et le contrat de travail pour l'exécution de travail temporaire]<sup>2</sup> ]<sup>1</sup>
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux :
@@ -2468,6 +2468,20 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018033032" target="_blank">2018-03-30/32</a>, art. 18, 028; En vigueur : 01-01-2018&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019031705" target="_blank">2019-03-17/05</a>, art. 18, 039; En vigueur : 01-03-2019&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019050510" target="_blank">2019-05-05/10</a>, art. 164, 041; En vigueur : 01-03-2019&gt;
+
+<a name="Art.%20186/1." href="#Art.186">Art.</a> <a href="#LNK0094">186/1</a>. [<sup>1</sup> Les demandes et les conventions exigées pour l'application d'un régime de travail particulier
+§ 1er. Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail:
+1° ne tient pas la demande préalable et écrite du travailleur et la convention visées à l'article 20bis/1 de la loi du 16 mars 1971 sur le travail ou une copie de ces documents, pendant la période à laquelle elles se rapportent, au lieu prévu par la loi;
+2° ne conserve pas la demande écrite et préalable du travailleur et la convention visées à l'article 20bis/1 de la loi du 16 mars 1971 sur le travail ou une copie de ces documents pendant la durée prescrite;
+3° ne prend pas les mesures nécessaires afin que la demande écrite et préalable du travailleur et la convention visées à l'article 20bis/1 de la loi du 16 mars 1971 sur le travail ou une copie de ces documents, soient tenus en tout temps à la disposition des fonctionnaires chargés de la surveillance.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.
+§ 2. Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail:
+1° ne tient pas la demande préalable et écrite du travailleur et la (ou les) convention(s) visées à l'article 20quater de la loi du 16 mars 1971 sur le travail ou une copie de ces documents, pendant la période à laquelle elles se rapportent, au lieu prévu par la loi;
+2° ne conserve pas la demande écrite et préalable du travailleur et la (ou les) convention(s) visées à l'article 20quater de la loi du 16 mars 1971 sur le travail ou une copie de ces documents durant le délai prescrit;
+3° ne prend pas les mesures nécessaires afin que la demande écrite et préalable du travailleur et la (ou les) convention(s) visées à l'article 20quater de la loi du 16 mars 1971 sur le travail ou une copie de ces documents, soient tenus en tout temps à la disposition des fonctionnaires chargés de la surveillance.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100306" target="_blank">2022-10-03/06</a>, art. 11, 057; En vigueur : 20-11-2022&gt;
 
 <a name="LNK0094" href="#LNKR0094">Section 3.</a> - Le compte individuel
 
