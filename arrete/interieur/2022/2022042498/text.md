@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Le PPUI " Terrorisme " du Haut Fonctionnaire de l'arrondissement administratif de Bruxelles-Capitale est approuvé à compter de l'entrée en vigueur de cet arrêté.
