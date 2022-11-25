@@ -1,0 +1,51 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221125.1N.9",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221125.1N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2022",
+  "published_on_juportal": "2022-12-08",
+  "language": "nl",
+  "role_number": "F.22.0006.N",
+  "case_name_as_published": "FINANCIEN c. NATIONAAL VERBOND VAN KATHOLIEKE VLA",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "DESISTEMENT (PROCEDURE) - DESISTEMENT D'ACTION",
+    "AFSTAND (RECHTSPLEGING) - AFSTAND VAN RECHTSVORDERING",
+    "Taxe sur la valeur ajoutée - Renonciation au temps couru de la prescription - Compétence",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Prescription - Renonciation au temps couru de la prescription - Compétence",
+    "SOCIETES - GENERALITES. REGLES COMMUNES",
+    "VENNOOTSCHAPPEN - ALGEMEEN. GEMEENSCHAPPELIJKE REGELS",
+    "Gestion journalière - Actes d'administration - Renonciation au temps couru de la prescription - Compétence",
+    "Btw - Afstand van de verlopen tijd van de verjaring - Bevoegdheid",
+    "Verjaring - Afstand van de verlopen tijd van de verjaring - Bevoegdheid",
+    "Dagelijks bestuur - Daden van beheer - Afstand van de verlopen tijd van de verjaring - Bevoegdheid"
+  ],
+  "fiche": [
+    "AFSTAND (RECHTSPLEGING) - AFSTAND VAN RECHTSVORDERING",
+    "Btw - Afstand van de verlopen tijd van de verjaring - Bevoegdheid",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 83, § 2 - 32 Link Justel databank 19690703-32 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 821 - 04 ELI link Pub nr 1967101055",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Verjaring - Afstand van de verlopen tijd van de verjaring - Bevoegdheid",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 83, § 2 - 32 Link Justel databank 19690703-32 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 821 - 04 ELI link Pub nr 1967101055",
+    "VENNOOTSCHAPPEN - ALGEMEEN. GEMEENSCHAPPELIJKE REGELS",
+    "Dagelijks bestuur - Daden van beheer - Afstand van de verlopen tijd van de verjaring - Bevoegdheid",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 83, § 2 - 32 Link Justel databank 19690703-32"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221125.1N.9",
+  "source_sha256": "14bc99fa8ae6b711d392a33fe14ae3aeb42c3968c81cad8c48b245db81a2d528",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221125.1N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
