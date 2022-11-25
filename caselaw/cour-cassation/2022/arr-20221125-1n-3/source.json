@@ -1,0 +1,34 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221125.1N.3",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221125.1N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2022",
+  "published_on_juportal": "2022-12-08",
+  "language": "nl",
+  "role_number": "F.22.0022.N",
+  "case_name_as_published": "BELGISCHE STAAT, MINSTER VAN FINANCIEN contra G.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Cotisation subsidiaire - Contribuable assimilé - Liquidateur - Cotisation primitive établie dans les cinq ans de la clôture de la liquidation",
+    "Subsidiaire aanslag - Gelijkgestelde belastingplichtige - Vereffenaar - Aanvankelijke aanslag gevestigd binnen vijf jaar na de sluiting van de vereffening"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Subsidiaire aanslag - Gelijkgestelde belastingplichtige - Vereffenaar - Aanvankelijke aanslag gevestigd binnen vijf jaar na de sluiting van de vereffening",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 356 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 357 Wetboek van vennootschappen en verenigingen 23 maart 2019 - 23-03-2019 - Art. 2:143 - 09 ELI link Pub nr 2019A40586",
+    "Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2023, nr. 1776, p. 3-5. - C. B.; Noot'Cassatie ontmijnt subsidiaire aanslagen op naam van vereffenaars' Fiscologue-Fiscologue - 2023, n° 1776, p. 3-5. - C. B.; Note'La Cour de cassation et les cotisations subsidiaires au nom des liquidateurs'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221125.1N.3",
+  "source_sha256": "b6d06593413cc228a7336c1f6eedf475017e4db7d89c0d2bf847e9341bc1dc33",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221125.1N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
