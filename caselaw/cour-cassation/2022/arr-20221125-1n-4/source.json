@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221125.1N.4",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221125.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2022",
+  "published_on_juportal": "2022-12-08",
+  "language": "nl",
+  "role_number": "F.22.0016.N",
+  "case_name_as_published": "T. contra BELGISCHE STAAT, MINISTER VAN FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Délai spécial d'imposition - Eléments probants - Notion",
+    "Délai spécial d'imposition - Eléments probants - Revenus imposables non déclarés - Notion",
+    "Bijzondere aanslagtermijn - Bewijskrachtige gegevens - Begrip",
+    "Bijzondere aanslagtermijn - Bewijskrachtige gegevens - Niet aangegeven belastbare inkomsten - Begrip"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Bijzondere aanslagtermijn - Bewijskrachtige gegevens - Begrip",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 358",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Bijzondere aanslagtermijn - Bewijskrachtige gegevens - Niet aangegeven belastbare inkomsten - Begrip",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 358"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221125.1N.4",
+  "source_sha256": "91063a3a5dae4dd5e2572640a3a12571cbc3b3a2a67866ef3163fea8d54e0269",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221125.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
