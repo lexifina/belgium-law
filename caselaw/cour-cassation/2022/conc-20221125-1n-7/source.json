@@ -1,0 +1,40 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2022:CONC.20221125.1N.7",
+  "ecli": "ECLI:BE:CASS:2022:CONC.20221125.1N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 25 november 2022",
+  "published_on_juportal": "2023-01-30",
+  "language": "nl",
+  "role_number": "F.19.0121.N",
+  "case_name_as_published": "GEMEENTE SCHILDE contra S.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - TAXES COMMUNALES",
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - GEMEENTEBELASTINGEN",
+    "Principes généraux du droit - Principe de bonne administration - Communications de l'autorité administrative - Attente légitime",
+    "PRINCIPES GENERAUX DU DROIT",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Principe de bonne administration - Impôts sur les revenus - Communications postérieures au fait imposable",
+    "Algemene rechtsbeginselen - Beginsel van behoorlijk bestuur - Mededelingen van de overheid - Gerechtvaardigde verwachting",
+    "Beginsel van behoorlijk bestuur - Inkomstenbelastingen - Mededelingen die dateren van na het belastbaar feit"
+  ],
+  "fiche": [
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - GEMEENTEBELASTINGEN",
+    "Algemene rechtsbeginselen - Beginsel van behoorlijk bestuur - Mededelingen van de overheid - Gerechtvaardigde verwachting",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Beginsel van behoorlijk bestuur - Inkomstenbelastingen - Mededelingen die dateren van na het belastbaar feit"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:CONC.20221125.1N.7",
+  "source_sha256": "2627bd186df18577e4b920342fccb3f058c3854062262c97cc943af538b9b7f5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:CONC.20221125.1N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
