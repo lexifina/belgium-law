@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221125.1N.10",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221125.1N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2022",
+  "published_on_juportal": "2022-12-08",
+  "language": "nl",
+  "role_number": "F.21.0189.N",
+  "case_name_as_published": "BOSAL INTERNATIONAL c. BELGISCHE STAAT, FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Divers",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Allerlei",
+    "Avantages anormaux et bénévoles - Interdiction de compensation avec la perte",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Délai spécial d'imposition - Revenus imposables non déclarés - Notion",
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Pertes professionnelles",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Bedrijfsverliezen",
+    "Avantages anormaux et bénévoles - Déduction - Fournisseur étranger de l'avantage",
+    "Abnormale en goedgunstige voordelen - Verbod tot verliescompensatie",
+    "Bijzondere aanslagtermijn - Niet aangegeven belastbare inkomsten - Begrip",
+    "Abnormale en goedgunstige voordelen - Aftrek - Buitenlandse voordeelverstrekker"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Allerlei",
+    "Abnormale en goedgunstige voordelen - Verbod tot verliescompensatie",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 79 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 207",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Bijzondere aanslagtermijn - Niet aangegeven belastbare inkomsten - Begrip",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 79 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 358",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Bedrijfsverliezen",
+    "Abnormale en goedgunstige voordelen - Aftrek - Buitenlandse voordeelverstrekker",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 79 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 207",
+    "Fiscologue-Fiscologue - 2023, n° 1787, p. 2-4. - VAN CROMBRUGGE, Stefaan; Note'Avantages anormaux 'étrangers': interdiction d'imputer des pertes' BJS-Bulletin juridique social - 2023, n° 710, p. 13. - DELANNOY, Emmanuel; Note'L'interdiction d'imputer sur les pertes de l'exercice et les pertes antérieures, la partie du bénéfice provenant d'avantages anormaux et bénévoles obtenus d'une société...' Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2023, nr. 1787, p. 2-4. - VAN CROMBRUGGE, Stefaan; Noot'Cassatie: uitsluiting verliesaftrek ook op buitenlandse abnormale voordelen'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221125.1N.10",
+  "source_sha256": "2fb4720a7ff26c80d5df1559d44c664d95587fc649de4112f07c4c89aa6bfe00",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221125.1N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
