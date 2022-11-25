@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221125.1N.6",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221125.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2022",
+  "published_on_juportal": "2022-12-08",
+  "language": "nl",
+  "role_number": "F.21.0135.N",
+  "case_name_as_published": "BELGISCHE STAAT FINANCIËN contra H.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Exercice du droit à déduction - Mentions sur une facture - Conditions matérielles et formelles",
+    "Uitoefening recht op aftrek - Vermeldingen op een factuur - Materiële en formele voorwaarden"
+  ],
+  "fiche": [
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Uitoefening recht op aftrek - Vermeldingen op een factuur - Materiële en formele voorwaarden",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 45, § 1 - 32 Link Justel databank 19690703-32 KB nr. 3 van 10 december 1969 - 3 - 10-12-1969 - Art. 3, § 1, 1° - 31 Link Justel databank 19691210-31 KB nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde - 1 - 29-12-1992 - Art. 5, § 1 - 48 ELI link Pub nr 1992003823"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221125.1N.6",
+  "source_sha256": "4534fef123b0aa8a756435ab7cf64511fcbb831b7db9f3c4c0e1f2fa33974b3d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221125.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
