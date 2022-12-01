@@ -1,0 +1,31 @@
+{
+  "id": "2022032399",
+  "title": "2 JUIN 2022. - Loi modifiant diverses dispositions relatives au statut des candidats militaires du cadre actif des forces armées",
+  "source_title": "2 JUIN 2022. - Loi modifiant diverses dispositions relatives au statut des candidats militaires du cadre actif des forces armées",
+  "act": "loi/defense-nationale/2022/2022032399",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-06-20&numac_search=2022032399&page=75&lg_txt=F&caller=list&2022032399=3&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "c93f0f3ae44b3eab234ec9378f864d1317d1993ca192b64921af4ce34795a412",
+  "source_issuer": "Défense Nationale",
+  "made": "2022-06-02",
+  "published": "2022-06-20",
+  "in_force": "2022-12-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 décembre 2022; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Défense Nationale",
+    "Publication": "20 juin 2022",
+    "Numéro": "2022032399",
+    "page": "51427",
+    "Dossier numéro": "2022-06-02/07",
+    "Entrée en vigueur": "1 décembre 2022",
+    "Ce texte modifie les textes suivants": "",
+    "1 arrêté d'exécution": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1420,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2022-12-01"
+}
