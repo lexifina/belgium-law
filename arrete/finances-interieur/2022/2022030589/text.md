@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 71, alinéa 1er, de l'arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d'Etat, rétabli par l'arrêté royal du 30 janvier 2014 et modifié par l'arrêté royal du 25 décembre 2017, les mots " sur le compte IBAN : BE09-6792-0030-1057 ouvert auprès du service désigné au sein du Service public fédéral des Finances comme compétent pour percevoir les droits et la contribution qui sont à payer dans le cadre d'une procédure introduite devant le Conseil d'Etat " sont remplacés par les mots " sur le compte financier du service compétent du Service public fédéral Finances ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er décembre 2022.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Les ministres qui ont les Finances et l'Intérieur dans leurs attributions sont, chacun en ce qui le concerne, chargés de l'exécution du présent arrêté.
