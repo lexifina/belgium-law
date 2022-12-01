@@ -5,7 +5,7 @@
 4° l'Office constate que l'inobservation du délai est intervenue bien que la diligence requise en l'espèce ait été exercée.
 La requête en restauration est inscrite au registre.
 Une déclaration ou d'autres preuves à l'appui des motifs visés sous 3° sont fournis à l'Office dans un délai fixé par le Roi.
-La requête en restauration n'est traitée qu'après que la taxe de restauration prescrite pour cette requête ait été acquittée.
+La requête en restauration n'est traitée qu'après que la taxe prescrite pour cette requête a été acquittée. Le paiement de cette taxe est effectué dans les deux mois de l'introduction de la requête. En cas d'inobservation de ce délai, la requête en restauration est de plein droit sans effet.
 § 2. Une requête adressée en vertu du paragraphe 1er ne peut être intégralement ou partiellement rejetée sans que soit donnée à la partie requérante la possibilité de présenter, dans le délai fixé par le Roi, ses observations sur le refus envisagé.
 Lorsqu'il est fait droit à la requête en restauration, les conséquences juridiques de l'inobservation du délai sont réputées ne pas s'être produites.
 La décision de restauration ou de refus est inscrite au registre.
