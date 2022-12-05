@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. La compétence est déléguée à l'administrateur général de la Fiscalité du Service public fédéral Finances pour déterminer le modèle du formulaire visé à l'article 49quater de l'AR/CIR 92.
