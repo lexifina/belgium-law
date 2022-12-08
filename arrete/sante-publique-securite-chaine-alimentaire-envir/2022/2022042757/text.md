@@ -1,0 +1,1 @@
+<a name="Art.1er"></a>Article 1er. Le laboratoire au sein du service " Médicaments et produits de santé " de Sciensano est agréé comme laboratoire officiel de référence pour le contrôle des médicaments à usage humain, incluant l'inspection pharmaceutique ainsi que les analyses post-marketing de surveillance et vigilance.
