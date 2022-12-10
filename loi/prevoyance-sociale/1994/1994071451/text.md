@@ -85,10 +85,11 @@ Le Comité de l'assurance fixe, par règlement visé à l'article 22, 11°, le c
 ----------
 (<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013071945" target="_blank">2013-07-19/45</a>, art. 5, 206; En vigueur : 01-01-2012. Dispositions transitoires : art. 8&gt;
 
-<a name="Art.9ter" href="#Art.9bis">Art.</a> <a href="#Art.9quater"> 9ter</a>. [<sup>1</sup> Sous réserve de l'application de l'article 165, alinéas 7 et 10, et dans le respect des procédures de concertation prévues par la présente loi, le Roi peut, par arrêté délibéré en Conseil des Ministres après avis de la Commission de la protection de la vie privée, subordonner le remboursement de certaines prestations de santé visées à l'article 34, alinéa 1er, à la condition de l'enregistrement de données déterminées relatives à ces prestations.
+<a name="Art.9ter" href="#Art.9bis">Art.</a> <a href="#Art.9quater"> 9ter</a>.[<sup>1</sup> Sous réserve de l'application [<sup>2</sup> de l'article 35septies/1, § 2, alinéa 3 et]<sup>2</sup> de l'article 165, alinéas 7 et 10, et dans le respect des procédures de concertation prévues par la présente loi, le Roi peut, par arrêté délibéré en Conseil des Ministres après avis de [<sup>2</sup> l'Autorité de protection des données]<sup>2</sup>, subordonner le remboursement de certaines prestations de santé visées à l'article 34, alinéa 1er, à la condition de l'enregistrement de données déterminées relatives à ces prestations.
 Cet enregistrement vise une dispensation de soins aux bénéficiaires plus rapide et plus efficiente, le contrôle de la qualité et du coût des soins dispensés ou la recherche scientifique.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013031903" target="_blank">2013-03-19/03</a>, art. 2, 203; En vigueur : 08-04-2013&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 12, 305; En vigueur : 10-12-2022&gt;
 
 <a name="Art.9quater" href="#Art.9ter">Art.</a> <a href="#LNK0002"> 9quater</a>.[<sup>1</sup> § 1er. Sans préjudice des articles 30, 138 et 150 de la présente loi et de l'article 278 de la loi programme (I) du 24 décembre 2002, l'Institut a accès aux données visées à l'article 2, alinéa 1er, 6° et 7°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, dont les organismes assureurs disposent dans le cadre de l'application de la présente loi coordonnée.
 Ces données sont préalablement codées par l'organisme assureur et transmises à un organisme intermédiaire au sens de [<sup>3</sup> l'article 5, 8°, de la loi du 21 août 2008 relative à l'institution et à l'organisation de la plate-forme eHealth et portant diverses dispositions]<sup>3</sup>, qui les code une seconde fois, avant qu'elles ne soient transmises à l'Agence intermutualiste. L'Agence intermutualiste gère ces données comme sous-traitant des organismes assureurs dans un datawarehouse.
@@ -1287,6 +1288,7 @@ Ces modalités de remboursement visent selon les prestations :
 4° le mode de remboursement, forfaitaire ou non forfaitaire;
 5° la marge de sécurité, exprimée sous la forme d'un pourcentage de la base de remboursement;
 6° le prix plafond.
+[<sup>3</sup> Lorsque les conditions de remboursement visées à l'alinéa 2, 3°, portent sur l'obligation de l'enregistrement de données relatives aux prestations et, si nécessaire, à la collecte de données complémentaires, ces données peuvent être déterminées par le ministre ou dans le cadre des conventions conclues sur base de la décision du ministre avec les dispensateurs de soins, et ce, dans le strict respect des dispositions visées aux articles 35septies/7 à 35septies/14.]<sup>3</sup>
 Les implants et les dispositifs médicaux invasifs dont le prix de vente T.V.A. incluse excède le prix plafond visé à l'alinéa 2, 6°, ou la base de remboursement visée à l'alinéa 2, 1°, augmentée de la marge de sécurité visée à l'alinéa 2, 5°, lorsqu'elle est d'application, ne peuvent pas entrer en ligne de compte pour une intervention de l'assurance obligatoire.
 En cas d'intervention forfaitaire de l'assurance obligatoire, aucun coût du dispositif ne peut être porté en compte du bénéficiaire.
 § 3. La liste visée au § 1er reproduit l'intervention personnelle visée à l'article 37, § 2, alinéa 1er.
@@ -1295,6 +1297,7 @@ Cette liste nominative comporte les informations utiles visant à assurer la tra
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013121518" target="_blank">2013-12-15/18</a>, art. 11, 219; En vigueur : 01-07-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014062503" target="_blank">2014-06-25/03</a>, art. 202, 3°&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018103006" target="_blank">2018-10-30/06</a>, art. 13, 258; En vigueur : 26-11-2018&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 2, 305; En vigueur : 10-12-2022&gt;
 
 <a name="Art.35septies/2" href="#Art.35septies/1">Art.</a> <a href="#Art.35septies/3"> 35septies/2</a>.[<sup>1</sup> § 1er. La liste, telle que définie à l'article 35septies/1, § 1er, alinéa 1er, peut être adaptée par le ministre sur proposition de la commission visée à l'article 29ter :
 1° à la demande de l'entreprise qui met l'implant ou le dispositif médical invasif sur le marché belge, ci-après dénommé "le demandeur";
@@ -1325,6 +1328,7 @@ Le Roi règle les modalités de la publicité assurée par le Service des soins 
 Le secrétariat de la commission visée à l'article 29ter communique [<sup>2</sup> au demandeur ou à l'association demanderesse]<sup>2</sup> la date de recevabilité de la demande d'adaptation.
 Si les éléments joints à la demande d'adaptation sont insuffisants après évaluation pour pouvoir formuler une proposition motivée, le délai de 180 jours est suspendu et la commission visée à l'article 29ter fait savoir sans délai [<sup>2</sup> au demandeur ou à l'association demanderesse]<sup>2</sup> quels éléments complémentaires sont encore requis.
 Dans un délai de 60 jours après la réception de la proposition motivée définitive de la commission visée à l'article 29ter ou de l'information selon laquelle aucune proposition motivée définitive n'a pu être formulée, le ministre prend, après accord du ministre qui a le Budget dans ses attributions, une décision motivée au sujet de la proposition motivée définitive de la commission visée à l'article 29ter ou, à défaut de proposition motivée définitive de la commission visée à l'article 29ter, au sujet de la demande d'adaptation de la liste.
+[<sup>3</sup> En cas de demande d'avis à l'Autorité de protection des données, le Roi fixe les modalités selon lesquelles le délai précité de 60 jours peut être suspendu.]<sup>3</sup>
 A défaut de réaction du ministre qui a le Budget dans ses attributions dans les 30 jours à compter de la demande d'accord, son accord est supposé être tacite.
 Le Roi fixe par arrêté délibéré en Conseil des Ministres les conditions et les modalités selon lesquelles le ministre peut déroger à la proposition motivée définitive de la commission visée à l'article 29ter dans le délai de 60 jours visé à l'alinéa 9.
 A défaut de décision du ministre dans ce délai, la décision est supposée être en conformité avec la proposition motivée définitive de la commission visée à l'article 29ter.
@@ -1347,6 +1351,7 @@ Le Roi détermine la procédure applicable en ce qui concerne la période d'éva
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013121518" target="_blank">2013-12-15/18</a>, art. 12, 219; En vigueur : 01-07-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014062503" target="_blank">2014-06-25/03</a>, art. 202, 3°&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018103006" target="_blank">2018-10-30/06</a>, art. 14, 258; En vigueur : 26-11-2018&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 11, 305; En vigueur : 10-12-2022&gt;
 
 <a name="Art.35septies/3" href="#Art.35septies/2">Art.</a> <a href="#Art.35septies/4"> 35septies/3</a>.[<sup>1</sup> § 1er. Une liste nominative, telle que visée à l'article 35septies/1, § 1er, peut être adaptée par le Comité de l'assurance sur proposition de la commission visée à l'article 29ter :
 1° à la demande de l'entreprise qui met l'implant ou le dispositif médical invasif sur le marché belge, ci-après dénommé le demandeur;
@@ -1377,7 +1382,7 @@ Par dérogation à l'alinéa 1er, entre également en vigueur le premier jour du
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013121518" target="_blank">2013-12-15/18</a>, art. 15, 219; En vigueur : 01-07-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014062503" target="_blank">2014-06-25/03</a>, art. 202, 3°&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018103006" target="_blank">2018-10-30/06</a>, art. 16, 258; En vigueur : 26-11-2018&gt;
 
-<a name="Art.35septies/6" href="#Art.35septies/5">Art.</a> <a href="#Art.35octies"> 35septies/6</a>.[<sup>1</sup> Le ministre peut annuellement procéder de plein droit et sans tenir compte des règles de procédure visées dans la présente loi à la republication de la liste et des listes nominatives, sans y apporter de modifications sur le plan du contenu.
+<a name="Art.35septies/6" href="#Art.35septies/5">Art.</a> <a href="#Art.%2035septies/7."> 35septies/6</a>.[<sup>1</sup> Le ministre peut annuellement procéder de plein droit et sans tenir compte des règles de procédure visées dans la présente loi à la republication de la liste et des listes nominatives, sans y apporter de modifications sur le plan du contenu.
 Le ministre adapte de plein droit les listes nominatives à la suite des modifications intervenues en ce qui concerne la marge de délivrance visée à l'article 44, § 1er, alinéa 3.
 Le Roi peut déterminer les cas dans lesquels le Service des soins de santé de l'Institut peut proposer des adaptations de la liste au ministre ou des listes nominatives au Comité de l'assurance sans intervention de la commission visée à l'article 29ter en cas de corrections techniques d'erreurs.]<sup>1</sup>
 [<sup>2</sup> Le Roi peut fixer les cas dans lesquels le Service des soins de santé de l'Institut peut présenter au ministre des modifications à la liste ou au Comité de l'assurance des modifications des listes nominatives, après avis de la Commission de remboursement des implants et des dispositifs médicaux invasifs, en vue d'assurer une plus grande cohérence entre les modalités de remboursement ou dans le cadre de simplifications administratives, et pour autant qu'il s'agisse de modifications n'ayant aucun effet sur le groupe cible et les indications déjà remboursables.]<sup>2</sup>
@@ -1385,7 +1390,71 @@ Le Roi peut déterminer les cas dans lesquels le Service des soins de santé de 
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2013121518" target="_blank">2013-12-15/18</a>, art. 16, 219; En vigueur : 01-07-2014; voir AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014062503" target="_blank">2014-06-25/03</a>, art. 202, 3°&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018103006" target="_blank">2018-10-30/06</a>, art. 17, 258; En vigueur : 26-11-2018&gt;
 
-<a name="Art.35octies" href="#Art.35septies/6">Art.</a> <a href="#Art.35novies"> 35octies</a>.[<sup>1</sup> § 1er. Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer les conditions et les modalités selon lesquelles l'assurance obligatoire soins de santé et indemnités accorde une intervention financière pour l'honoraire du pharmacien pour les médicaments a usage humain visés à l'article 1er, § 1er, 1), a) de la loi du 25 mars 1964 sur les médicaments, délivrés dans une officine ouverte au public. L'arrêté est pris sur la proposition de la Commission de conventions pharmaciens-organismes assureurs, formulée de sa propre initiative ou à la demande du ministre. Le ministre peut demander que la Commission formule une proposition dans un délai d'un mois. Si la proposition n'est pas formulée dans le délai voulu ou si le ministre ne peut s'y rallier, il peut soumettre sa propre proposition à la Commission. La Commission rend alors un avis sur cette proposition dans le délai d'un mois : cet avis est considéré avoir été donné s'il n'a pas été formulé dans ce délai.
+<a name="Art.%2035septies/7." href="#Art.35septies/6">Art.</a> <a href="#Art.%2035septies/8.">35septies/7</a>. [<sup>1</sup> L'enregistrement des données visé à l'article 35septies/1, § 2, alinéa 3, est celui qui est effectué ou non à l'aide de procédés automatisés, notamment par la création de registres ou de banques de données, dans le respect d'une ou plusieurs des finalités visées à l'article 35septies/8.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 3, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/8." href="#Art.%2035septies/7.">Art.</a> <a href="#Art.%2035septies/9.">35septies/8</a>. [<sup>1</sup> L'enregistrement et la collecte des données requis en vertu de l'article 35septies/1, § 2, alinéa 3, visent exclusivement les données nécessaires à une ou plusieurs des finalités suivantes:
+1° l'information, au moyen de données non pseudonymisées, des organismes assureurs ou des organes de l'Institut chargés d'émettre un avis, un accord ou une autorisation en vue de l'octroi d'un remboursement, prévu par ou en vertu de la loi;
+2° le contrôle, au moyen de données non pseudonymisées, du respect des conditions imposées pour le remboursement de la prestation ainsi que du rapport entre le coût de la prestation pour l'assurance obligatoire soins de santé et pour le patient, et sa valeur thérapeutique;
+3° l'évaluation comparative, au moyen de données pseudonymisées, des prestations du point de vue de l'efficacité des soins et de leur efficience;
+4° l'évaluation, au moyen de données pseudonymisées, de l'opportunité du remboursement, à savoir de la prise en charge par l'assurance obligatoire d'actuelles ou de nouvelles dépenses en soins de santé, conformément à la mission légale de l'Institut d'organiser et de gérer l'assurance soins de santé.
+Les données visées dans l'alinéa 1er, 3° et 4°, sont pseudonymisées par la plate-forme eHealth conformément à l'article 5, 8°, de la loi du 21 août 2008 relative à l'institution et à l'organisation de la plate-forme eHealth et portant diverses dispositions.
+Le ministre détermine la ou les finalités pour lesquelles les traitements de données visés à l'alinéa 1er constituent une condition de remboursement de la prestation.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 4, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/9." href="#Art.%2035septies/8.">Art.</a> <a href="#Art.%2035septies/10.">35septies/9</a>. [<sup>1</sup> Les données enregistrées et collectées conformément à l'article 35septies/1, § 2, alinéa 3, sont celles qui sont exclusivement requises compte tenu de la finalité poursuivie et de la nature de la prestation considérée.
+Moyennant le respect de la condition visée à l'alinéa 1er, peuvent être visées les données suivantes:
+1° les données relatives à la prestation, à savoir le code de la prestation ou sa description, la date et le lieu de la prestation;
+2° les données relatives aux concertations et consultations de tiers concernant la prestation;
+3° les données à caractère personnel relatives au dispensateur de soins, à savoir ses nom, prénoms, son numéro d'identification au Registre national ou le numéro visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 organique de la Banque Carrefour de la sécurité sociale, son numéro INAMI, sa formation, ses qualifications et ses expériences professionnelles pertinentes et ses données de contact;
+4° les données à caractère personnel relatives au patient, à savoir son numéro d'identification au Registre national ou le numéro visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 organique de la Banque Carrefour de la sécurité sociale, ses nom, prénoms, sexe, date de naissance, domicile ou lieu de résidence principal, données de contact et date de décès;
+5° les données cliniques du patient:
+a) le poids;
+b) les mensurations de base;
+c) les résultats rapportés par le patient (PROM) et les expériences rapportées par le patient (PREM);
+d) les antécédents médicaux ou familiaux pertinents;
+e) tout autre paramètre anatomique ou clinique indispensable pour la ou les finalités établies;
+6° les données relatives à la prescription de la prestation;
+7° les données relatives au matériel utilisé dans le cadre de la prestation;
+8° les données relatives à la facturation de la prestation.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 5, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/10." href="#Art.%2035septies/9.">Art.</a> <a href="#Art.%2035septies/11.">35septies/10</a>. [<sup>1</sup> Les traitements de données requis en vertu de l'article 35septies/1, § 2, alinéa 3, peuvent être effectués:
+1° par les dispensateurs de soins concernés en cas de concertations ou de consultations de tiers ainsi que par les dispensateurs de soins qui effectuent ou effectueront la prestation, ou sous leur supervision;
+2° par les organismes assureurs ou par l'Institut pour ses organes chargés par ou en vertu de la loi d'émettre un avis, un accord ou une autorisation sur une demande de remboursement ou sous sa supervision;
+3° par le bénéficiaire ou par le patient lui-même ou son représentant légal.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 6, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/11." href="#Art.%2035septies/10.">Art.</a> <a href="#Art.%2035septies/12.">35septies/11</a>. [<sup>1</sup> Ont seuls accès aux données à caractère personnel non pseudonymisées visées à l'article 35septies/9:
+1° les dispensateurs de soins visés à l'article 35septies/10, 1°, en vue de les consulter, de les modifier ou de les compléter;
+2° les organismes assureurs ainsi que les membres des organes visés à l'article 35septies/10, 2°, et le personnel de l'Institut qui leur apporte une expertise, pour la motivation de la décision de remboursement;
+3° le personnel de l'Institut, pour apporter une aide technique pour le traitement des données;
+4° le bénéficiaire ou le patient ou son représentant légal pour l'exercice des droits relatifs à ses données.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 7, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/12." href="#Art.%2035septies/11.">Art.</a> <a href="#Art.%2035septies/13.">35septies/12</a>. [<sup>1</sup> Ont seuls accès aux données à caractère personnel pseudonymisées telles que visées à l'article 35septies/9:
+1° le personnel de l'Institut dans le cadre des finalités du traitement;
+2° les associations scientifiques ou professionnelles de dispensateurs de soins compétentes désignées par le ministre pour l'évaluation des prestations qui est visée à l'article 35septies/8, alinéa 1er, 3° et 4° ;
+3° les autres intervenants désignés par le ministre pour participer à l'évaluation des prestations qui est visée à l'article 35septies/8, alinéa 1er, 3° et 4°.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 8, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/13." href="#Art.%2035septies/12.">Art.</a> <a href="#Art.%2035septies/14.">35septies/13</a>. [<sup>1</sup> Pour les finalités visées à l'article 35septies/8, alinéa 1er, 1° et 2°, le délai de conservation des données est fixé par le ministre compte tenu de la nature des données sans pouvoir excéder dix ans.
+Pour les finalités visées dans l'article 35septies/8, alinéa 1er, 3° et 4°, la conservation des données enregistrées pseudonymisées est assurée, sauf obligation découlant d'une autre disposition légale ou réglementaire, durant la période pendant laquelle le remboursement de la prestation est lié à l'enregistrement et à la collecte des données, majorée de cinq années supplémentaires.
+Au-delà du délai de conservation visé aux alinéas 1er et 2, les données sont conservées sous une forme anonyme.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 9, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.%2035septies/14." href="#Art.%2035septies/13.">Art.</a> <a href="#Art.35octies">35septies/14</a>. [<sup>1</sup> L'Institut est le responsable du traitement des données visé à l'article 35septies/1, § 2, alinéa 3.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112002" target="_blank">2022-11-20/02</a>, art. 10, 305; En vigueur : 10-12-2022&gt;
+
+<a name="Art.35octies" href="#Art.%2035septies/14.">Art.</a> <a href="#Art.35novies"> 35octies</a>.[<sup>1</sup> § 1er. Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer les conditions et les modalités selon lesquelles l'assurance obligatoire soins de santé et indemnités accorde une intervention financière pour l'honoraire du pharmacien pour les médicaments a usage humain visés à l'article 1er, § 1er, 1), a) de la loi du 25 mars 1964 sur les médicaments, délivrés dans une officine ouverte au public. L'arrêté est pris sur la proposition de la Commission de conventions pharmaciens-organismes assureurs, formulée de sa propre initiative ou à la demande du ministre. Le ministre peut demander que la Commission formule une proposition dans un délai d'un mois. Si la proposition n'est pas formulée dans le délai voulu ou si le ministre ne peut s'y rallier, il peut soumettre sa propre proposition à la Commission. La Commission rend alors un avis sur cette proposition dans le délai d'un mois : cet avis est considéré avoir été donné s'il n'a pas été formulé dans ce délai.
 Le prix de vente au public des spécialités pharmaceutiques remboursables, visées à l'article 34, alinéa 1er, 5°, b), c) et e), contient toutefois le prix de vente ex-usine fixé par le ministre qui a les Affaires Economiques dans ses attributions, les marges pour la distribution en gros telles qu'elles sont accordées par le ministre qui a les Affaires économiques dans ses attributions et les marges pour la délivrance telles qu'elles sont accordées par les ministres qui ont les Affaires sociales et les Affaires économiques dans leurs attributions et qui sont d'application aux spécialités pharmaceutiques délivrées dans des officines ouvertes au public, l'honoraire [<sup>2</sup> visé au § 2, alinéa 2, ]<sup>2</sup> et le taux de la T.V.A. en vigueur.
 Le pharmacien ne peut pas réclamer d'autres montants du bénéficiaire, à moins que d'autres honoraires soient établis comme prévu à l'article 48, § 1er.
 § 2 L'honoraire constitue la rémunération des soins pharmaceutiques conformes aux principes et lignes directrices de bonnes pratiques pharmaceutiques telles que fixées par le Roi en exécution des dispositions de l'article 4, § 2bis, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé.
