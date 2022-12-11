@@ -3146,7 +3146,7 @@ Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandatair
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020062410" target="_blank">2020-06-24/10</a>, art. 16, 045; En vigueur : 03-07-2020&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021081401" target="_blank">2021-08-14/01</a>, art. 14, 050; En vigueur : 04-10-2021&gt;
 
-<a name="Art.238" href="#Art.237">Art.</a> 238.[<sup>1</sup> Les obligations prévues dans le cadre des [<sup>3</sup> mesures lors d'une situation d'urgence épidémique]<sup>3</sup> [<sup>4</sup> ou à l'article 2/1 de la loi du 23 décembre 2021 portant des mesures de soutien temporaires en raison de la pandémie du COVID-19]<sup>4</sup>.
+<a name="Art.238" href="#Art.237">Art.</a> <a href="#LNK0127"> 238</a>. [<sup>1</sup> Les obligations prévues dans le cadre des [<sup>3</sup> mesures lors d'une situation d'urgence épidémique]<sup>3</sup> [<sup>4</sup> ou à l'article 2/1 de la loi du 23 décembre 2021 portant des mesures de soutien temporaires en raison de la pandémie du COVID-19]<sup>4</sup>.
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou mandataire, ou quiconque qui, dans les entreprises, n'a pas respecté [<sup>3</sup> les mesures nécessaires en vue de prévenir ou de limiter les conséquences de la situation d'urgence épidémique pour la santé publique, prises en application des articles 4 et 5 de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique]<sup>3</sup> [<sup>2</sup> ou à l'article 29 de la loi du 4 juillet 2021 portant des mesures de soutien temporaires en raison de la pandémie de COVID-19]<sup>2</sup>. [<sup>3</sup> Les obligations imposées dans le cadre des mesures prises en application de l'article 4 de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique doivent être respectées dans les entreprises comme mesures de prévention pour assurer la protection de la santé et de la sécurité des travailleurs.]<sup>3</sup>
 Pour l'application du présent article, on entend par " entreprises " les " lieux de travail " tels que définis à l'article 16, 10°, du présent Code.
 En ce qui concerne les infractions visées à l'alinéa 1er, commises par l'employeur, son préposé ou mandataire, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
@@ -3155,3 +3155,16 @@ En ce qui concerne les infractions visées à l'alinéa 1er, commises par l'empl
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070403" target="_blank">2021-07-04/03</a>, art. 30, 048; En vigueur : 13-07-2021&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021081401" target="_blank">2021-08-14/01</a>, art. 15, 050; En vigueur : 04-10-2021&gt;
 (<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021122321" target="_blank">2021-12-23/21</a>, art. 5, 051; En vigueur : 12-01-2022; <b> Abrogé : </b> 31-01-2022&gt;
+
+<a name="LNK0127" href="#LNKR0127">CHAPITRE 13. </a> [<sup>1</sup> - L'amélioration de la qualité de l'air intérieur des lieux de travail fermés accessibles au public]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022110604" target="_blank">2022-11-06/04</a>, art. 10, 058; En vigueur : 11-12-2022&gt;
+
+<a name="Art.%20239." href="#Art.238">Art.</a> 239.[<sup>1</sup> L'amélioration de la qualité de l'air intérieur des lieux de travail fermés accessibles au public.
+§ 1er. Est puni d'une sanction de niveau 3:
+1° le propriétaire du lieu, son préposé ou son mandataire qui, dans les lieux de travail fermés accessibles au public, a commis une infraction à l'article 5, alinéa 2, de la loi du 6 novembre 2022 relative à l'amélioration de la qualité de l'air intérieur dans les lieux fermés accessibles au public et à ses arrêtes d'exécution;
+2° l'exploitant, son préposé ou son mandataire qui, dans les lieux de travail fermés accessibles au public, a commis une infraction à l'article 5, alinéa 3, de la loi du 6 novembre 2022 et à ses arrêtés d'exécution;
+3° Le certificateur qui, sur les lieux de travail fermés accessibles au public, a enfreint l'article 6 de la loi du 6 novembre 2022 précitée et de ses arrêtés d'exécution.
+§ 2. Pour l'application du présent article, on entend par "lieux de travail" : les "lieux de travail" tels que définis à l'article 16, 10°.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022110604" target="_blank">2022-11-06/04</a>, art. 10, 058; En vigueur : 11-12-2022&gt;
