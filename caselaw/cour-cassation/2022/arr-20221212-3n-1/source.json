@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221212.3N.1",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221212.3N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-12-12",
+  "date_as_printed": "Vonnis/arrest van 12 december 2022",
+  "published_on_juportal": "2023-01-23",
+  "language": "nl",
+  "role_number": "S.21.0029.N",
+  "case_name_as_published": "3M Belgium contra L.",
+  "subjects": [
+    "Droit du travail",
+    "Arbeidsrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CONVENTION COLLECTIVE DE TRAVAIL",
+    "COLLECTIEVE ARBEIDSOVEREENKOMST",
+    "Contestation - Contestation d'ordre individuel - Contestation d'ordre collectif - Notion",
+    "TRIBUNAUX - MATIERE CIVILE - Matière sociale (règles particulières)",
+    "RECHTBANKEN - BURGERLIJKE ZAKEN - Sociale zaken (bijzondere regels)",
+    "Contestation - Contestation d'ordre individuel - Contestation d'ordre collectif - Nature - Détermination",
+    "Geschil - Individueel geschil - Collectief geschil - Begrip",
+    "Geschil - Individueel geschil - Collectief geschil - Aard - Bepaling"
+  ],
+  "fiche": [
+    "COLLECTIEVE ARBEIDSOVEREENKOMST",
+    "Geschil - Individueel geschil - Collectief geschil - Begrip",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 578, 3° - 03 ELI link Pub nr 1967101054",
+    "RECHTBANKEN - BURGERLIJKE ZAKEN - Sociale zaken (bijzondere regels)",
+    "Geschil - Individueel geschil - Collectief geschil - Begrip",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 578, 3° - 03 ELI link Pub nr 1967101054",
+    "COLLECTIEVE ARBEIDSOVEREENKOMST",
+    "Geschil - Individueel geschil - Collectief geschil - Aard - Bepaling",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 578, 3° - 03 ELI link Pub nr 1967101054",
+    "Juristenkrant-De Juristenkrant - 2023, nr. 464, p. 8. - VAN HIEL, Isabelle; Noot'Cassatie verklaart arbeidsrechter onbevoegd voor geschil over vakbonds-afvaardiging voor kaderleden'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221212.3N.1",
+  "source_sha256": "b9ba7f714d12b3c80cc2dc4261737eeecc79b78ea79b2fc5565f7ec073f76014",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221212.3N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
