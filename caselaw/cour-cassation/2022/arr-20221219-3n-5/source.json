@@ -1,0 +1,39 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221219.3N.5",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221219.3N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-12-19",
+  "date_as_printed": "Vonnis/arrest van 19 december 2022",
+  "published_on_juportal": "2023-01-30",
+  "language": "nl",
+  "role_number": "C.20.0530.N",
+  "case_name_as_published": "S. contra V.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "ALIMENTS",
+    "LEVENSONDERHOUD",
+    "Juge de la famille - Contribution alimentaire dans l'intérêt de l'enfant - Parents - Circonstances nouvelles - Révision - Effet rétroactif",
+    "Juge de la famille - Contribution alimentaire dans l'intérêt de l'enfant - Parents - Circonstances nouvelles - Révision - Effet rétroactif - Date de la demande",
+    "Familierechter - Kinderalimentatie - Ouders - Nieuwe omstandigheden - Herziening - Terugwerkende kracht",
+    "Familierechter - Kinderalimentatie - Ouders - Nieuwe omstandigheden - Herziening - Terugwerkende kracht - Tijdstip vordering"
+  ],
+  "fiche": [
+    "LEVENSONDERHOUD",
+    "Familierechter - Kinderalimentatie - Ouders - Nieuwe omstandigheden - Herziening - Terugwerkende kracht",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 203, § 1 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 203bis, § 2 - 30 ELI link Pub nr 1804032150 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1288, eerste lid, 3°, en tweede lid - 04 ELI link Pub nr 1967101055",
+    "LEVENSONDERHOUD",
+    "Familierechter - Kinderalimentatie - Ouders - Nieuwe omstandigheden - Herziening - Terugwerkende kracht - Tijdstip vordering",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 203, § 1 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 203bis, § 2 - 30 ELI link Pub nr 1804032150 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1288, eerste lid, 3°, en tweede lid - 04 ELI link Pub nr 1967101055",
+    "BJS-Bulletin juridique social - 2023, n° 708, p. 8. - GHEUR, Elise; Note'Rétroactivité en matière alimentaire: la Cour de cassation persiste et signe' RABG-Rechtspraak Antwerpen Brussel Gent - 2023, nr. 12/13, p. 1034-1041. - GOVAERTS, Marcel; Noot'Wat kan een onderhoudsplichtige ouder nog inbrengen tegen een retroactieve onderhoudsvordering?' NJW-Nieuw juridisch weekblad - 2024, nr. 499, p. 278-279. - VASSEUR, Roeland; Noot'Retroactiviteit van de herziening van de kinderalimentatie na EOT'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221219.3N.5",
+  "source_sha256": "5eb88246cb89cc89ca6b731b87f0d065d6000185253dc0cd4af15c95b8ff93eb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221219.3N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
