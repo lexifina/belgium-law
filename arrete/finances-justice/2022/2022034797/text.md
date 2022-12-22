@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 18 de l'arrêté royal du 7 avril 2019 relatif au fonctionnement du point de contact central des comptes et contrats financiers, les modifications suivantes sont apportées :
+1° dans l'alinéa 1er, les mots "soit en complétant le formulaire électronique mis à disposition sur le site internet de la Banque nationale de Belgique, soit" sont insérés entre les mots " tel que visé à l'article 13," et les mots "en adressant une demande écrite, datée et signée au siège central de la BNB" ;
+2° un alinéa rédigé comme suit est inséré entre les alinéas 3 et 4 :
+"Toute personne physique disposant d'un numéro d'identification auprès du Registre national des personnes physiques ou d'un numéro d'identification visé à l'article 4 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, peut toutefois également prendre connaissance des données enregistrées à son nom dans le PCC via le site internet de la BNB, moyennant respect des conditions techniques particulières que celle-ci détermine, en particulier en vue de garantir l'authenticité de l'identité de la personne concernée. Ces conditions techniques particulières sont publiées sur le site internet de la BNB.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Finances dans ses attributions, chargé de la Coordination de la lutte contre la fraude, et le ministre qui a la Justice dans ses attributions sont chargés, chacun en ce qui les concerne, de l'exécution du présent arrêté.
