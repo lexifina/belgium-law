@@ -1,0 +1,53 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2022:CONC.20221223.1N.1",
+  "ecli": "ECLI:BE:CASS:2022:CONC.20221223.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-12-23",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 23 december 2022",
+  "published_on_juportal": "2023-03-13",
+  "language": "nl",
+  "role_number": "F.22.0041.N",
+  "case_name_as_published": "BELGISCHE STAAT contra Ben-Air Flight Academy",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Droit judiciaire - Procédure - Mission du juge - Suppléance d'office des motifs",
+    "DESISTEMENT (PROCEDURE) - DESISTEMENT D'ACTION",
+    "AFSTAND (RECHTSPLEGING) - AFSTAND VAN RECHTSVORDERING",
+    "Conditions",
+    "Loi fiscale - Ordre public - État belge - Conséquence",
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE",
+    "Loi fiscale - Acquiescement - État belge",
+    "ACQUIESCEMENT",
+    "BERUSTING",
+    "Gerechtelijk recht - Rechtspleging - Opdracht van de rechter - Ambtshalve aanvullen van redenen",
+    "Voorwaarden",
+    "Belastingwet - Openbare orde - Belgische Staat - Gevolg",
+    "Belastingwet - Berusting - Belgische Staat"
+  ],
+  "fiche": [
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Gerechtelijk recht - Rechtspleging - Opdracht van de rechter - Ambtshalve aanvullen van redenen",
+    "AFSTAND (RECHTSPLEGING) - AFSTAND VAN RECHTSVORDERING",
+    "Voorwaarden",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 823 - 04 ELI link Pub nr 1967101055",
+    "AFSTAND (RECHTSPLEGING) - AFSTAND VAN RECHTSVORDERING",
+    "Belastingwet - Openbare orde - Belgische Staat - Gevolg",
+    "OPENBARE ORDE",
+    "Belastingwet - Berusting - Belgische Staat",
+    "BERUSTING",
+    "Belastingwet - Openbare orde - Belgische Staat - Gevolg"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:CONC.20221223.1N.1",
+  "source_sha256": "a03735acb07efb9f4d8e40e3d54b77942e8bf2cfc47775ddd56847a477427b1f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:CONC.20221223.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
