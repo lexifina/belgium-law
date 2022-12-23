@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221223.1N.5",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221223.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-12-23",
+  "date_as_printed": "Vonnis/arrest van 23 december 2022",
+  "published_on_juportal": "2023-02-09",
+  "language": "nl",
+  "role_number": "F.22.0097.N",
+  "case_name_as_published": "Live Nation contra Stad Brussel",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière civile (y compris les matières commerciale et sociale)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Réouverture des débats - Étendue - Conclusions - Objet",
+    "Réouverture des débats - Conclusions et conclusions de synthèse - Juge - Mission",
+    "Heropening van het debat - Omvang - Conclusies - Onderwerp",
+    "Heropening van het debat - Conclusies en syntheseconclusies - Rechter - Opdracht"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Heropening van het debat - Omvang - Conclusies - Onderwerp",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 775, eerste lid - 04 ELI link Pub nr 1967101055",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Heropening van het debat - Conclusies en syntheseconclusies - Rechter - Opdracht",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 748bis - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 775, eerste lid - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221223.1N.5",
+  "source_sha256": "cb0e4e0a55547361f6766a2cca3e9cb8890f6906b8f743c6f3baddd084c4eb7c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221223.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
