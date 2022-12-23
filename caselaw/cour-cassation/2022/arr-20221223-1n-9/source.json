@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2022:ARR.20221223.1N.9",
+  "ecli": "ECLI:BE:CASS:2022:ARR.20221223.1N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2022-12-23",
+  "date_as_printed": "Vonnis/arrest van 23 december 2022",
+  "published_on_juportal": "2023-02-03",
+  "language": "nl",
+  "role_number": "F.22.0051.N",
+  "case_name_as_published": "GEMEENTE EVERE contra V.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - GENERALITES",
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - ALGEMEEN",
+    "Règlement-taxe communal - Chambres ou appartements meublés - Mise à disposition ou mise en location - Taxe forfaitaire - Compétence - Assiette",
+    "Gemeentelijke belastingreglement - Kamers of gemeubelde appartementen - Ter beschikking stellen of verhuren - Forfaitaire belasting - Bevoegdheid - Grondslag"
+  ],
+  "fiche": [
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - ALGEMEEN",
+    "Gemeentelijke belastingreglement - Kamers of gemeubelde appartementen - Ter beschikking stellen of verhuren - Forfaitaire belasting - Bevoegdheid - Grondslag",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 464"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2022:ARR.20221223.1N.9",
+  "source_sha256": "3aeb6d9aeafec8ce57bf5e6baa3dbd94e21c81e417da346944283d070a29686a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2022:ARR.20221223.1N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
