@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 71ter, § 4, premier alinéa, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, inséré par l'arrêté royal du 12 juillet 2016, les mots " , n'étant pas occupé par un employeur visé à l'article 137, § 4, " sont supprimés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 137, § 4, du même arrêté royal, modifié en dernier lieu par l'arrêté royal du 14 juin 2017, le premier alinéa, 1°, est remplacé par la disposition suivante : " dans le cas où, en application de l'article 71ter, § 4, le travailleur n'effectue pas par voie électronique les obligations prévues à l'article 71 : avant le début de chaque mois, une carte de contrôle nominative pour le chômage temporaire, mise à disposition par le Fonds de sécurité d'existence pour les travailleurs de la construction; ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
