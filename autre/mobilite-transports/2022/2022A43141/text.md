@@ -1,0 +1,3 @@
+<a name="Art.1">Art. </a> 1. Dans l'article 40/3 du troisième contrat de gestion conclu le 11 avril 2014 entre l'Etat et skeyes, inséré par la deuxième modification du troisième contrat de gestion conclu le 11 avril 2014 entre l'Etat et skeyes, un paragraphe 6 sera inséré, rédigé comme suit:
+`' § 6. De la dotation visée au § 1 25 millions d'euros sont assimilés à une augmentation du capital de skeyes pour atténuer l'impact de la pandémie de COVID-19 de skeyes et en vue de garantir la pérennité et capacité opérationnelle et financière de l'entreprise publique.
+skeyes inscrit ce montant intégralement sur le poste du bilan n° 100 "Capital souscrit" des comptes annuels portant sur l'exercice 2022.
