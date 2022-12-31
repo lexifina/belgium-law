@@ -2,4 +2,4 @@
 Dans sa décision, le procureur du Roi décrit précisément les renseignements qu'il demande, et spécifie la forme sous laquelle ils lui seront communiqués.
 § 2. En application de l'exception visée à l'article 458 du Code pénal et par dérogation à toutes dispositions contraires, les institutions de sécurité sociale visées au paragraphe 1er, alinéa 1er, communiquent sans délai les renseignements qui y sont visés.
 Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
-Toute personne refusant de communiquer les renseignements sera punie d'une amende de vingt-six euros à dix mille euros.
+Toute personne refusant de communiquer les renseignements sera punie d'une amende de cent euros à trente mille euros.

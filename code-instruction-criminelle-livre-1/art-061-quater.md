@@ -9,7 +9,7 @@ Il peut accorder une levée totale, partielle ou assortie de conditions. Toute p
 L'appel est interjeté par déclaration au greffe du tribunal de première instance et inscrite dans un registre ouvert à cet effet.
 Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
 La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son conseil.
-Le greffier donne avis au requérant et à son conseil, par télécopie ou par lettre recommandée à la poste, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+Le greffier donne avis au requérant et à son conseil, par télécopie, par lettre simple ou par voie électronique, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
 Le procureur général, le requérant et son conseil sont entendus.
 Sauf lorsque l'exécution provisoire a été ordonnée, l'appel est suspensif.
 Le requérant qui succombe peut être condamné aux frais.

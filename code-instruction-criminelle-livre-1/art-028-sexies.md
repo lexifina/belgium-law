@@ -9,7 +9,7 @@ La chambre des mises en accusation est saisie par une déclaration faite au gref
 La chambre des mises en accusation de la cour d'appel de Bruxelles est saisie lorsque l'information est conduite par le procureur fédéral.
 Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
 La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu le temps de la remise accordée à la demande du requérant ou de son conseil.
-Le greffier donne avis au requérant et à son conseil, par télécopie ou par lettre recommandée à la poste, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+Le greffier donne avis au requérant et à son conseil, par télécopie, par lettre simple ou par voie électronique, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
 Le procureur général, le requérant et son conseil sont entendus.
 Le requérant qui succombe peut être condamné aux frais.
 § 5. Si le procureur du Roi n'a pas statué dans le délai prévu au § 2, alinéa 2, majoré de quinze jours, le requérant peut saisir la chambre des mises en accusation. Celui-ci est déchu de ce droit si la requête motivée n'est pas déposée, dans les huit jours, au greffe du tribunal de première instance. La requête est inscrite dans un registre ouvert à cet effet. La chambre des mises en accusation de la Cour d'appel de Bruxelles est saisie lorsque l'information est conduite par le procureur fédéral. La procédure se déroule conformément au § 4, alinéas 4 à 7.

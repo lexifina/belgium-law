@@ -5,4 +5,4 @@ La notion de " courrier " au sens du présent article s'entend ainsi qu'elle est
 § 2. Le procureur du Roi peut, par une décision écrite et motivée, requérir le concours de l'opérateur postal afin de permettre les mesures visées au § 1er. L'opérateur postal est tenu de prêter son concours sans délai.
 II précise dans sa décision la durée de la mesure visée au paragraphe précédent.
 Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
-Toute personne qui refuse de prêter son concours aux réquisitions visées au présent article, est punie d'un emprisonnement de huit jours à un an et d'une amende de vingt-six EUR à dix mille EUR ou d'une de ces peines seulement.
+Toute personne qui refuse de prêter son concours aux réquisitions visées au présent article, est punie d'une amende de cent euros à trente mille euros.

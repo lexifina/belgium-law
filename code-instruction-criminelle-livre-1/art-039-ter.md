@@ -7,4 +7,4 @@ La décision écrite motivée mentionne:
 En cas d'urgence, la conservation peut être ordonnée verbalement. L'ordre doit être confirmé dans les plus brefs délais dans la forme prévue à l'alinéa 2.
 § 2. Les personnes physiques ou personnes morales visées au paragraphe 1er, alinéa 1er, veillent à ce que l'intégrité des données soit garantie et à ce que les données soient conservées de manière sécurisée.
 § 3. Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
-Toute personne qui refuse de coopérer, ou qui fait disparaître, détruit ou modifie les données conservées, est punie d'un emprisonnement de six mois à un an ou d'une amende de vingt-six euros à vingt mille euros ou d'une de ces peines seulement.
+Toute personne qui refuse de coopérer, ou qui fait disparaître, détruit ou modifie les données conservées, est punie d'une amende de cent euros à trente mille euros.

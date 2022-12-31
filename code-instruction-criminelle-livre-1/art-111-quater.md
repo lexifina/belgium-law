@@ -10,6 +10,6 @@ Le cas échéant, la Commission de protection peut octroyer des mesures de prote
 Les mesures d'aide financière sont celles visées à l'article 104, § 3, alinéa 2.
 § 3. La personne bénéficiant de mesures de protection spéciales a de plein droit droit à une assistance psychologique et à de l'aide dans la recherche d'un emploi.
 La personne à qui des mesures de protection spéciales sont octroyées a droit à la préservation de ses droits sociaux et administratifs. Le procureur fédéral peut à cet effet requérir le concours des fonctionnaires et des agents des administrations et services publics. Le Service pour la protection des fonctionnaires menacés s'assure de l'exécution de cette réquisition.
-Toute personne qui refuse de prêter le concours visé au présent article est punie d'une amende de vingt-six euros à dix mille euros.
+Toute personne qui refuse de prêter le concours visé au présent article est punie d'une amende de cent euros à trente mille euros.
 Toute personne qui, du chef de sa fonction, a connaissance de ces mesures ou y prête son concours, est tenue au secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
 § 4. Le procureur fédéral peut, par décision motivée, accorder l'autorisation de prendre les mesures de surveillance préventives nécessaires en vue de garantir la sécurité, ainsi que l'intégrité physique, psychique et morale des personnes visées à l'article 111bis après l'octroi de mesures de protection prévues au paragraphe 1er. La personne menacée est informée par écrit de cette possibilité.
