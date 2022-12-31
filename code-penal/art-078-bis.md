@@ -1,0 +1,1 @@
+Si la loi prévoit des facteurs aggravants, le juge doit les prendre en considération lors du choix de la peine ou de la mesure et de la sévérité de celle-ci, sans pouvoir prononcer une peine supérieure à la peine maximale prévue pour l'infraction.
