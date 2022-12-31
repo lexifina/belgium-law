@@ -1,0 +1,1 @@
+Indien de wet voorziet in verzwarende factoren, moet de rechter deze factoren in overweging nemen wanneer hij de straf of de maatregel en de zwaarte ervan kiest, zonder dat hij een straf kan opleggen die hoger is dan de maximumstraf op dit misdrijf gesteld.
