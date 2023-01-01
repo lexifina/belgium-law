@@ -1,0 +1,7 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'arrêté royal du 29 mars 2010 portant exécution du chapitre 6 du Titre XI de la loi du 27 décembre 2006 portant des dispositions diverses (1), relatif aux cotisations de sécurité sociale et retenues dues sur des régimes de chômage avec complément d'entreprise, sur des indemnités complémentaires à certaines allocations de sécurité sociale et sur des indemnités d'invalidité, modifié en dernier lieu par l'arrêté du 24 février 2017, il est inséré un article 6ter rédigé comme suit :
+" Art. 6ter. Les pourcentages des cotisations prévus aux articles 5, alinéa 1er, 2°, 5bis, alinéa 1er, 2°, 5ter, alinéa 1er, 2°, 6, § 3, alinéa 1er, 2°, § 4, alinéa 1er, 2° et § 5, alinéa 1er, 2°, sont multipliés par un coefficient de 1,047 à partir du 1er janvier 2023 jusqu'au 31 décembre 2023 et par un coefficient de 1,094 à partir du 1er janvier 2024 jusqu'au 31 décembre 2024.
+Les nouveaux pourcentages ainsi obtenus sont arrondis arithmétiquement à la deuxième décimale, 0,005 étant arrondi vers le haut. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er janvier 2023.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a l'Emploi dans ses attributions et le ministre qui a les Affaires sociales dans ses attributions, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
