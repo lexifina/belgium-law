@@ -1,2 +1,2 @@
 Les dispositions reprises dans ce chapitre sont prescrites à peine de nullité.
-Lorsque la signification ou la notification d'une décision est nulle, le délai pour introduire un recours ne commence pas à courir.
+Lorsque la signification ou la notification d'une décision est nulle, ou quand la fiche d'information visée à l'article 780/1 fait défaut, le délai pour introduire un recours ne commence pas à courir. Il en va de même si l'information reprise dans la fiche d'information est incomplète ou inexacte, à condition que l'omission ou l'inexactitude ait pu induire la partie de bonne foi en erreur.
