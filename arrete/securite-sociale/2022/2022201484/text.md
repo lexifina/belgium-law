@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le taux de cotisation pension de base du Fonds de pension solidarisé des administrations provinciales et locales due par les administrations qui au 31 décembre 2011 étaient affiliées au régime commun de pension des pouvoirs locaux est supportée à concurrence de 3 % pour l'année 2023 par le fonds de réserve du régime commun de pension des pouvoirs locaux visé à l'article 4, § 2, de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er janvier 2023.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Pensions dans ses attributions est chargé de l'exécution du présent arrêté.
