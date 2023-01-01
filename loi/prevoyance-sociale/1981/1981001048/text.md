@@ -814,9 +814,9 @@ Le montant des cotisations perçues est versé par l'organisme de perception à 
 
 [<sup>10</sup> § 3quindecies.
 Une cotisation spéciale de compensation à charge des employeurs est due sur l'indemnité de rupture du travailleur, telle que visée à l'article 19, § 2, 2°, a) et d), de l'arrêté royal du 28 novembre 1969 portant exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs [<sup>29</sup> ...]<sup>29</sup>. Seule la partie de l'indemnité qui est constituée sur la base des prestations effectuées à partir du 1er janvier 2014, est visée.
-Cette cotisation s'élève à 1 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel compris entre 44.509 euros et 54.508 euros.
-Cette cotisation s'élève à 2 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel compris entre 54.509 euros et 64.508 euros.
-Cette cotisation s'élève à 3 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel supérieur à 64.508 euros.
+Cette cotisation s'élève à 1 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel compris entre [<sup>51</sup> 50.166 euros et 61.436 euros]<sup>51</sup>.
+Cette cotisation s'élève à 2 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel compris entre [<sup>51</sup> 61.437 euros et 72.706 euros]<sup>51</sup>.
+Cette cotisation s'élève à 3 % sur l'indemnité de rupture précitée à charge de l'employeur pour les travailleurs qui ont un salaire annuel supérieur à [<sup>51</sup> 72.706 euros]<sup>51</sup>.
 Le salaire annuel est calculé sur la base des données salariales et des prestations du dernier trimestre dans lequel des prestations ont été déclarées suivant la formule suivante :
 Pour des travailleurs à temps plein :
 (A/B)*260
@@ -828,7 +828,7 @@ B = nombre de jours
 C = nombre d'heures
 D = nombre d'heures de la personne de référence par semaine.
 Pour les travailleurs pour lesquels le pécule de vacances est payé par une caisse de vacances, A est multiplié par 1,08.
-Le Roi détermine, par un arrêté délibéré en Conseil des ministres, ce qui doit être compris par salaire, jours et heures, tenant compte de la codification utilisée par l'organisme de perception des cotisations sociales.
+Le Roi détermine, par un arrêté délibéré en Conseil des ministres, ce qui doit être compris par salaire, jours et heures, tenant compte de la codification utilisée par l'organisme de perception des cotisations sociales [<sup>51</sup> ; Il peut adapter de la même façon les montants des salaires annuels prévus au présent paragraphe, après avis du Comité de gestion du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises (FFE)]<sup>51</sup>.
 Cette cotisation spéciale est perçue par l'organisme de perception compétente. Le produit de cette cotisation est destiné au Fonds de fermeture des entreprises.
 Cette cotisation est assimilée à une cotisation de sécurité sociale, notamment en ce qui concerne les délais de paiement, l'application des sanctions civiles et des sanctions pénales, la surveillance, la désignation du juge compétent en cas de litige, la prescription en matière d'actions en justice, le privilège et la communication du montant de la déclaration de créance de l'institution chargée de la perception et du recouvrement des cotisations.]<sup>10</sup>
 
@@ -927,6 +927,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">48</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021071803" target="_blank">2021-07-18/03</a>, art. 56, 139; En vigueur : 01-08-2021&gt;
 (<font color="red">49</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021112302" target="_blank">2021-11-23/02</a>, art. 7, 140; En vigueur : 15-06-2021&gt;
 (<font color="red">50</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021112505" target="_blank">2021-11-25/05</a>, art. 34, 141; En vigueur : 01-10-2021&gt;
+(<font color="red">51</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112803" target="_blank">2022-11-28/03</a>, art. 4, 143; En vigueur : 01-01-2023&gt;
 
 <a name="Art.38bis" href="#Art.38">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
 
