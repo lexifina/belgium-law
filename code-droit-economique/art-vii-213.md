@@ -1,2 +1,2 @@
 Lorsque des pénalités ou des dommages et intérêts non prévus par le présent livre sont réclamés au consommateur ou à la personne qui constitue une sûreté, ces derniers en sont entièrement relevés de plein droit.
-En outre, si le juge estime que les pénalités ou les dommages et intérêts convenus ou appliqués, notamment sous la forme de clause pénale, en cas d'inexécution de la convention, sont excessifs ou injustifiés, il peut d'office les réduire ou en relever entièrement le consommateur.
+En outre, si le juge estime que les pénalités ou les dommages et intérêts convenus ou appliqués, notamment sous la forme de clause indemnitaire, en cas d'inexécution de la convention, sont excessifs ou injustifiés, il peut d'office les réduire ou en relever entièrement le consommateur.
