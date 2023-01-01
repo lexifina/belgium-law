@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 116, § 2, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, remplacé par l'arrêté royal du 23 juillet 2012 et modifié par les arrêtés royaux des 30 décembre 2014, 15 avril 2015 et 8 octobre 2017, l'alinéa 1er, 4°, est remplacé comme suit :
+" 4° les périodes mentionnées ci-après, quelle que soit leur durée :
+a) la période pendant laquelle un travailleur bénéficie d'allocations d'interruption parce qu'il interrompt sa carrière professionnelle ou réduit ses prestations de travail,
+b) la période pendant laquelle une travailleuse bénéficie des indemnités de maternité. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er janvier 2023 et s'applique aux périodes pendant lesquelles une travailleuse a reçu des indemnités de maternité qui se terminent au plus tôt le 31 décembre 2022.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
