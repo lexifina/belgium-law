@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Est rendue obligatoire la convention collective de travail n° 157 du 15 juillet 2021, reprise en annexe, conclue au sein du Conseil national du Travail, fixant, du 1er janvier 2023 au 30 juin 2023, le cadre interprofessionnel de l'adaptation à 55 ans de la limite d'âge en ce qui concerne l'accès au droit aux allocations pour un emploi de fin de carrière, pour les travailleurs qui ont une carrière longue, qui exercent un métier lourd ou qui sont occupés dans une entreprise en difficultés ou en restructuration.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
