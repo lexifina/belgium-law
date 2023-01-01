@@ -8,3 +8,4 @@ Dans les trois jours ouvrables de l'établissement de l'acte de protêt, l'huiss
 7° le motif du refus qui donne lieu au protêt;
 8° l'identité de l'huissier de justice instrumentant;
 9° le nom du requérant.
+Si l'huissier de justice instrumentant reçoit un paiement partiel après l'envoi de l'avis de protêt, il indique la date du paiement partiel sur l'avis correspondant dans les trois jours ouvrables suivant sa réception.
