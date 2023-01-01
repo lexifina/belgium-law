@@ -1,0 +1,12 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté s'applique aux employeurs et aux ouvriers des entreprises ressortissant à la Sous-commission paritaire de la fabrication et du commerce de sacs en jute ou en matériaux de remplacement.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. En cas de manque total ou partiel de travail résultant de causes économiques, l'exécution du contrat de travail d'ouvrier peut être totalement suspendue, ou un régime de travail à temps réduit peut être instauré, à partir du premier jour de travail qui suit la notification. La notification s'effectue, soit par affichage d'un avis s'il s'agit d'une mise en chômage collective de tous les ouvriers de l'entreprise, soit par la remise à l'ouvrier d'un écrit, si la mise en chômage n'affecte qu'une partie des ouvriers de l'entreprise.
+L'écrit est adressé par la poste à l'ouvrier qui, par suite d'une absence justifiée, n'a pu prendre connaissance de l'avis ou recevoir l'écrit de la main à la main.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. La durée de la suspension totale de l'exécution du contrat de travail d'ouvrier pour manque de travail résultant de causes économiques ne peut dépasser vingt-six semaines. Lorsque la suspension totale de l'exécution du contrat a atteint la durée maximale prévue, l'employeur doit rétablir le régime de travail à temps plein pendant une semaine complète de travail, avant qu'une nouvelle suspension totale ne puisse prendre cours.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. En application de l'article 51, § 1er, alinéa 5, de la loi du 3 juillet 1978 relative aux contrats de travail, la notification visée à l'article 2 mentionne la date à laquelle la suspension totale de l'exécution du contrat prend cours, la date à laquelle cette suspension prend fin ainsi que les dates auxquelles les ouvriers sont mis en chômage.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le présent arrêté entre en vigueur le 1er janvier 2023 et cesse d'être en vigueur le 31 décembre 2023.
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
