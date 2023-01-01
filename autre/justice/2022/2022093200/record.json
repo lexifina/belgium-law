@@ -1,0 +1,30 @@
+{
+  "id": "2022093200",
+  "title": "19 DECEMBRE 2022. - Tarif des actes accomplis par les huissiers de justice en matières civiles et commerciales. - Indexation. - Tarif 2023",
+  "source_title": "19 DECEMBRE 2022. - Tarif des actes accomplis par les huissiers de justice en matières civiles et commerciales. - Indexation. - Tarif 2023",
+  "act": "autre/justice/2022/2022093200",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-12-19&numac_search=2022093200&page=9&lg_txt=F&caller=list&2022093200=1&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "109605826ff72cfe0e0a02561ad1a91293742895f1cc6391ef28d4834e1ca796",
+  "source_issuer": "Justice",
+  "made": "2022-12-19",
+  "published": "2022-12-19",
+  "in_force": "2023-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "19 décembre 2022",
+    "Numéro": "2022093200",
+    "page": "97960",
+    "Dossier numéro": "2022-12-19/01",
+    "Entrée en vigueur": "1 janvier 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 2583,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-01-01"
+}
