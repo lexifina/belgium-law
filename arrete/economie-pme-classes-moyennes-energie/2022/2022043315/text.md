@@ -1,0 +1,26 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 1er, 3°, de l'arrêté royal du 11 mai 2003 fixant le statut, la rémunération et les devoirs du président et des membres du Conseil de l'Institut belge des services postaux et des télécommunications, les mots " l'article 71, alinéa 1er, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques " sont remplacés par les mots " l'article 13 de la loi ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 4 du même arrêté, remplacé par l'arrêté royal du 6 octobre 2015, les mots " auprès du SELOR, Bureau de sélection de l'Administration fédérale, qui " sont remplacés par les mots " auprès de la Direction générale Recrutement et Développement du SPF Stratégie et Appui, qui ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 4/2 du même arrêté, inséré par l'arrêté royal du 6 octobre 2015, les modifications suivantes sont apportées :
+1° dans le paragraphe 1er, les modifications suivantes sont apportées :
+a) le mot " cinq " est remplacé par le mot " sept " ;
+b) dans l'alinéa 1er, le 1° est remplacé par ce qui suit : " 1° du directeur général Recrutement et Développement du Service public fédéral Stratégie et Appui ou de son délégué, président ; " ;
+c) l'alinéa 1er est complété par un 4° rédigé comme suit :
+" 4° d'un expert externe indépendant du rôle linguistique francophone et d'un expert externe indépendant du rôle linguistique néerlandophone disposant de l'expérience ou d'une connaissance particulière de la protection des consommateurs et de l'inclusion sociale et qui n'exerce aucune fonction ou activité, rémunérée ou non, chez un opérateur de télécommunication ou de services postaux ou chez une entreprise régulée par le Conseil. " ;
+d) le paragraphe est complété par un alinéa rédigé comme suit :
+" Sauf exception motivée et à l'exception du président, la composition de la commission de sélection respecte le ratio de répartition égale entre sexes à partir du 1er janvier 2023. " ;
+2° dans le paragraphe 3, les mots " par le SELOR " sont remplacés par les mots " par la Direction générale Recrutement et Développement du SPF Stratégie et Appui " ;
+3° dans le paragraphe 4, les modifications suivantes sont apportées :
+a) dans l'alinéa 1er, les mots " L'administrateur délégué du SELOR - Bureau de sélection de l'Administration fédérale " sont remplacés par les mots " Le directeur général Recrutement et Développement du Service public fédéral Stratégie et Appui " ;
+b) dans l'aliéna 2, les mots " le SELOR - Bureau de sélection de l'Administration fédérale " sont remplacés par les mots " la Direction générale Recrutement et Développement du SPF Stratégie et Appui " ;
+4° dans le paragraphe 5, le mot " deux " est remplacé par le mot " trois ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 4/3 du même arrêté, inséré par l'arrêté royal du 6 octobre 2015, les mots " par le SELOR, SELOR " sont remplacés par les mots " , la Direction générale Recrutement et Développement du SPF Stratégie et Appui ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 5 du même arrêté, remplacé par l'arrêté royal du 6 octobre 2015, les modifications suivantes sont apportées :
+1° les mots " par le SELOR " sont remplacés par les mots " par la Direction générale Recrutement et Développement du SPF Stratégie et Appui " ;
+2° un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 :
+" La moitié au plus des membres du Conseil sont, en principe, au même sexe. Cette obligation s'applique uniquement si, à l'issue de l'entretien supplémentaire visé à l'alinéa 2, les meilleurs candidats à la même fonction sont classés ex aequo. ".
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. Le ministre ayant l'Institut belge des services postaux et des télécommunications dans ses attributions est chargé de l'exécution du présent arrêté.
