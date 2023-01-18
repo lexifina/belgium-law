@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, on entend par " périmètre ", le périmètre tel que visé à l'article 2, 9°, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, modifiée par la loi du 10 mars 2003, la loi du 27 décembre 2004, la loi du 25 avril 2007, la loi du 14 avril 2011, la loi du 27 juin 2016, la loi du 21 juillet 2016 et la loi du 3 juin 2018, inséré par la loi du 10 mars 2003.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour le stade communal d'Erpe-Mere United, situé Oudenaardsesteenweg 458 à 9420 Erpe-Mere, le périmètre est délimité par : la Oudenaardsesteenweg (N46) à partir du croisement avec la Seskenskouter jusqu'au croisement avec la Prinsdaal, la Prinsdaal jusqu'au croisement avec la Katstraat, la Katstraat jusqu'au croisement avec l'Egemstraat, l'Egemstraat jusqu'au croisement avec la Seskenskouter, la Seskenskouter jusqu'au croisement avec l'Oudenaardsesteenweg (N46).
+Tous les croisements du périmètre susmentionné avec d'autres voies publiques et privées sont compris dans ce périmètre.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Notre Ministre de l'Intérieur est chargé de l'exécution du présent arrêté.
