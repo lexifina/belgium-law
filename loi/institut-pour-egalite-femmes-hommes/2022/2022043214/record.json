@@ -1,0 +1,30 @@
+{
+  "id": "2022043214",
+  "title": "15 NOVEMBRE 2022. - Loi portant modification de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, et de la loi du 16 décembre 2002 portant création de l'Institut pour l'égalité des femmes et des hommes",
+  "source_title": "15 NOVEMBRE 2022. - Loi portant modification de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, et de la loi du 16 décembre 2002 portant création de l'Institut pour l'égalité des femmes et des hommes",
+  "act": "loi/institut-pour-egalite-femmes-hommes/2022/2022043214",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-01-09&numac_search=2022043214&page=25&lg_txt=F&caller=list&2022043214=24&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "f03e0a9b31b9e9d562295a9bdb67d624575f1ebaae62614ca40cdc724c3dcf83",
+  "source_issuer": "Institut pour l'égalité des femmes et des hommes",
+  "made": "2022-11-15",
+  "published": "2023-01-09",
+  "in_force": "2023-01-19",
+  "in_force_basis": "Justel: Entrée en vigueur : 19 janvier 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Institut pour l'égalité des femmes et des hommes",
+    "Publication": "9 janvier 2023",
+    "Numéro": "2022043214",
+    "page": "1813",
+    "Dossier numéro": "2022-11-15/03",
+    "Entrée en vigueur": "19 janvier 2023",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1953,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-01-19"
+}
