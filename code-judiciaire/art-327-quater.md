@@ -1,0 +1,1 @@
+Les missions exécutées par des magistrats du ministère public dans le cadre de l'arrêté ministériel du 16 décembre 2021 portant des mesures d'organisations internes en vue de la coordination, la rationalisation et l'accélération de la digitalisation de la Justice sont considérées comme une mission au sens de l'article 323bis, § 2.

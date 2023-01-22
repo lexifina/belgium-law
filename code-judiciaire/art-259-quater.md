@@ -11,7 +11,7 @@ Les autres chefs de corps visés à l'article 58bis, 2°, sont désignés par le
 (Le dossier de désignation d'un chef de corps se compose, sans préjudice de l'application de l'article 259bis-6, § 4, exclusivement des documents suivants:
 a) la candidature et les pièces justificatives visées à l'article 287sexies, alinéa 8, concernant les études et l'expérience professionnelle;
 b) le curriculum vitae;
-c) les avis écrits visés l'alinéa 1er et, le cas échéant, les observations du candidat, ainsi que les pièces prouvant la réception de ces avis par le candidat;
+c) les avis écrits visés l'alinéa 1er ..., ainsi que les pièces prouvant la réception de ces avis par le candidat;
 d) le plan de gestion du candidat;
 e) la mention définitive dans le dossier d'évaluation;
 f) un extrait du casier judiciaire dont la date est postérieure à la publication visée à l'alinéa 1er.)
