@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 21 de la convention collective de travail n° 162 du 27 septembre 2022 instituant un droit à demander une formule souple de travail, le paragraphe 1, alinéa 1 est remplacé par ce qui suit :
+"Le travailleur qui fait usage du droit de demander une formule souple de travail est protégé contre les traitements défavorables liés aux responsabilités familiales par la loi du 10 mai 2007 tendant à tendant à lutter contre la discrimination entre les femmes et les hommes, telle que modifiée par la loi du 15 novembre 2022.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'alinéa 2 de l'article 24 de la convention collective de travail n° 162 est remplacé par ce qui suit :
+"Ces indemnités ne peuvent pas non plus être cumulées avec les mêmes indemnités dues en cas de discrimination sur la base du critère protégé des responsabilités familiales inscrit dans la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, telle que modifiée par la loi du 15 novembre 2022.".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. La présente convention collective de travail est conclue pour une durée indéterminée. Elle pourra être révisée ou dénoncée, en tout ou en partie, à la demande de la partie signataire la plus diligente, moyennant un préavis de six mois.
+L'organisation qui prend l'initiative de la révision ou de la dénonciation doit indiquer, par lettre ordinaire adressée au Président du Conseil national du Travail, les motifs et déposer des propositions d'amendements que les autres organisations s'engagent à discuter au sein du Conseil national du Travail dans le délai d'un mois de leur réception.
