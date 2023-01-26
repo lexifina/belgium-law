@@ -9,3 +9,4 @@ Avant que le consommateur ne soit lié par un contrat autre qu'un contrat à dis
 8° le cas échéant, la fonctionnalité des biens comportant des éléments numériques, des contenus numériques et des services numériques, y compris les mesures de protection technique applicables;
 9° le cas échéant, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques dont l'entreprise a ou devrait raisonnablement avoir connaissance;
 10° ...
+Le Roi peut, pour les produits qu'Il désigne, préciser les informations complémentaires que l'entreprise fournit au consommateur et les modalités selon lesquelles ces informations lui sont fournies avant que celui-ci ne soit lié par un contrat visé à l'alinéa 1er. Il peut aussi imposer l'utilisation d'un document d'information standardisé.
