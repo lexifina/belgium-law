@@ -1,1 +1,1 @@
-Le Roi prend les mesures nécessaires en vue d'assurer le fonctionnement efficace d'un système de collecte de données sur les accidents dans lesquels peuvent être impliqués des produits ou des services visés à l'article I.10.1° et 5°.
+(Abrogé)
