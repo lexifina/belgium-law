@@ -1,0 +1,31 @@
+{
+  "id": "2022042932",
+  "title": "20 NOVEMBRE 2022. - Loi relative à la gestion des sols contaminés par des substances radioactives",
+  "source_title": "20 NOVEMBRE 2022. - Loi relative à la gestion des sols contaminés par des substances radioactives",
+  "act": "loi/interieur/2022/2022042932",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-01-24&numac_search=2022042932&page=23&lg_txt=F&caller=list&2022042932=29&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "fec0e1c7035893068d634f8b1991fa5b773e840af8cce37df7263917c88a04e1",
+  "source_issuer": "Intérieur",
+  "made": "2022-11-20",
+  "published": "2023-01-24",
+  "in_force": "2023-02-03",
+  "in_force_basis": "Justel: Entrée en vigueur : 3 février 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "24 janvier 2023",
+    "Numéro": "2022042932",
+    "page": "8780",
+    "Dossier numéro": "2022-11-20/07",
+    "Entrée en vigueur": "3 février 2023",
+    "Ce texte modifie le texte suivant": "",
+    "3 arrêtés d'exécution": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 7920,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-02-03"
+}
