@@ -1,0 +1,38 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour l'application de la présente loi, on entend par " Règlement ", le Règlement (UE) n° 2019/788 du Parlement européen et du Conseil du 7 avril 2019 relatif à l'initiative citoyenne européenne.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1. Conformément aux articles 9, paragraphe 2, cinquième alinéa et 10, paragraphe 4, a), du Règlement, les citoyens peuvent soutenir des initiatives citoyennes européennes :
+1° en signant un formulaire papier;
+2° par le biais d'un système particulier de collecte en ligne, en remplissant en ligne un formulaire de soutien ;
+3° par le biais du système central de collecte en ligne, soit en remplissant en ligne un formulaire de soutien, soit directement, si le citoyen utilise un moyen d'identification électronique, à savoir la carte d'identité électronique.
+§ 2. Conformément à l'article 9, paragraphe 4, du Règlement, l'Etat belge figure dans la partie B de l'annexe III dudit Règlement, qui détermine le modèle du formulaire de déclaration de soutien pour les Etats membres imposant la communication d'un numéro d'identification personnel ou d'un numéro d'un document d'identification personnel.
+Le numéro visé à l'alinéa 1er est le numéro de Registre national, tel que visé à l'article 8 de la loi du 8 août 1983 organisant un Registre national des personnes physiques.
+Seule l'autorité visée à l'article 5 et chargée de procéder à la vérification de la validité des déclarations de soutien qui lui sont soumises, peut utiliser le numéro de Registre national, uniquement à cette fin.
+Les organisateurs d'une initiative citoyenne européenne et la Commission européenne peuvent conserver le numéro de Registre national uniquement pendant les délais prescrits par l'article 19, paragraphes 5 et 7, du Règlement.
+§ 3. Lorsque les citoyens soutiennent une initiative citoyenne européenne en ligne par le biais du système central de collecte en ligne visé à l'article 10 du Règlement, ils peuvent soit remplir un formulaire de déclaration de soutien en y mentionnant leurs nom et prénoms ainsi que leur numéro de Registre national, soit soutenir directement une initiative citoyenne européenne en utilisant la carte d'identité électronique.
+§ 4. Lorsque les organisateurs d'une initiative citoyenne européenne collectent les déclarations de soutien sur papier ou au moyen d'un système particulier de collecte en ligne, tel que visé à l'article 11 du Règlement, le numéro de Registre national d'un signataire ne doit pas être accessible aux autres signataires.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Lorsque les organisateurs d'une initiative citoyenne européenne n'utilisent pas le système central de collecte en ligne mis en place par la Commission européenne, conformément à l'article 10 du Règlement, mais collectent les déclarations de soutien au moyen d'un système particulier de collecte en ligne, tel que visé à l'article 11 du Règlement, et stockent les données sur le territoire du Royaume, le Roi désigne les services chargés de procéder à la certification de ce système particulier. A cet effet, les services désignés par le Roi peuvent demander aux organisateurs de leur communiquer les documents nécessaires et suffisants permettant de vérifier si effectivement le système est doté des dispositifs de sécurité et techniques adéquats tels que précisés par l'article 11, paragraphe 4, du Règlement.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. § 1. Le Roi désigne les services chargés de procéder, sur la base de contrôles appropriés, à la vérification de la validité des déclarations de soutien à une initiative citoyenne européenne.
+§ 2. Les contrôles visés au paragraphe 1er ont pour objet de s'assurer du nombre suffisant de déclarations de soutien valables et que les signataires de ces déclarations de soutien à une initiative citoyenne européenne:
+1° ont l'âge requis pour voter aux élections du Parlement européen;
+2° ont la nationalité belge et font l'objet d'une inscription au Registre national des personnes physiques.
+§ 3. Les contrôles visés au paragraphe 2 peuvent être effectués par voie d'échantillonnage.
+L'échantillon représentatif est établi en appliquant les paramètres suivants:
+1° nombre total de déclarations de soutien;
+2° fiabilité: 95 %;
+3° marge d'erreur: 3 %;
+4° taux maximum de déclarations de soutien non valides: 15 %.
+En outre, lorsque les déclarations de soutien sont présentées sous format papier, une première évaluation visuelle quant au nombre de déclarations pourra être réalisée par les services désignés par le Roi conformément au paragraphe 1er.
+§ 4. Afin de réaliser les contrôles visés au paragraphe 2, les services désignés par le Roi conformément au paragraphe 1er sont autorisés à accéder aux données visées à l'article 3, alinéa 1er, 1°, 2° et 4°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques et à utiliser le numéro de Registre national, uniquement pour vérifier les nom et prénoms et la date de naissance des signataires d'une déclaration de soutien à une initiative citoyenne européenne.
+L'accès à l'historique des modifications apportées aux données visées à l'alinéa 1er est autorisé jusqu'à la date du début de la période de collecte des déclarations de soutien, déterminée à l'article 8, paragraphe 1, du Règlement.
+Lorsque des doubles ou multiples déclarations de soutien sont détectées, une seule déclaration de soutien est prise en considération pour établir le nombre de déclarations de soutien valables en faveur d'une initiative citoyenne européenne.
+§ 5. Le fonctionnaire responsable des services désignés par le Roi conformément au paragraphe 1er délivre aux organisateurs de l'initiative citoyenne européenne le certificat visé à l'article 12, paragraphe 5, du Règlement et indiquant le nombre de déclarations de soutien valables, à l'aide du modèle figurant à l'annexe VI dudit Règlement.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le Roi désigne les services référencés comme étant le point de contact au sens de l'article 4, paragraphe 6, du Règlement, afin d'informer et d'assister gratuitement les groupes d'organisateurs qui souhaitent initier une initiative citoyenne européenne.
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Sont abrogés:
+1° la loi du 14 janvier 2013 relative à l'initiative citoyenne au sens du Règlement européen (UE) n° 211/2011 du Parlement européen et du Conseil du 16 février 2011;
+2° l'arrêté royal du 1er décembre 2013 exécutant la loi du 14 janvier 2013 relative à l'initiative citoyenne au sens du Règlement européen et du Conseil du 16 février 2011.
