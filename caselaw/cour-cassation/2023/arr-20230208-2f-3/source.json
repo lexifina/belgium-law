@@ -1,0 +1,46 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230208.2F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230208.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-08",
+  "date_as_printed": "Jugement/arrêt du 08 février 2023",
+  "published_on_juportal": "2023-02-13",
+  "language": "fr",
+  "role_number": "P.21.0730.F",
+  "case_name_as_published": "DIGISEC MEDIA LIMITED c. ULB",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DEBAUCHE ET PROSTITUTION",
+    "ONTUCHT EN PROSTITUTIE",
+    "Prostitution - Notion - Caractère évolutif (non)",
+    "Publicité - Recours à un site internet de rencontres - Responsabilité pénale - Personnes qui font la publicité du site",
+    "INFRACTION - PARTICIPATION",
+    "MISDRIJF - DEELNEMING",
+    "Débauche et prostitution - Publicité - Recours à un site internet de rencontres - Responsabilité pénale - Personnes qui font la publicité du site",
+    "Prostitutie - Begrip - (Geen) evolutief karakter",
+    "Reclame - Gebruik van een datingsite - Strafrechtelijke aansprakelijkheid - Personen die reclame maken voor de website",
+    "Ontucht en prostitutie - Reclame - Gebruik van een datingsite - Strafrechtelijke aansprakelijkheid - Personen die reclame maken voor de website"
+  ],
+  "fiche": [
+    "DEBAUCHE ET PROSTITUTION",
+    "Prostitution - Notion - Caractère évolutif (non)",
+    "Code pénal 1867 - 08-06-1867 - Art. 380 et 380ter - 01 Lien ELI No pub 1867060850",
+    "DEBAUCHE ET PROSTITUTION",
+    "Publicité - Recours à un site internet de rencontres - Responsabilité pénale - Personnes qui font la publicité du site",
+    "Code pénal 1867 - 08-06-1867 - Art. 66, 380 et 380ter - 01 Lien ELI No pub 1867060850",
+    "INFRACTION - PARTICIPATION",
+    "Débauche et prostitution - Publicité - Recours à un site internet de rencontres - Responsabilité pénale - Personnes qui font la publicité du site",
+    "Code pénal 1867 - 08-06-1867 - Art. 66, 380 et 380ter - 01 Lien ELI No pub 1867060850",
+    "JLMB-Revue de jurisprudence de Liège, Mons et Bruxelles - 2023, n° 22, p. 985-987. - EVERARTS DE VELP, Sophie; Note'La responsabilité pénale dans le cadre de licences d'exploitation de sites internet liés à la promotion de la prostitution'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230208.2F.3",
+  "source_sha256": "438d8526a3e9397f98a121ba1226b96e71e91c10481b46e9bd1a6528bf9e3cdc",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230208.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
