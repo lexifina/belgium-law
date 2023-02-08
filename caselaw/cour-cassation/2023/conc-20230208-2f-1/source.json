@@ -1,0 +1,40 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230208.2F.1",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230208.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-08",
+  "date_as_printed": "Conclusions du Ministère public du 08 février 2023",
+  "published_on_juportal": "2023-03-24",
+  "language": "fr",
+  "role_number": "P.22.1351.F",
+  "case_name_as_published": "V. contra T.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "COUPS ET BLESSURES. HOMICIDE - VOLONTAIRES",
+    "SLAGEN EN VERWONDINGEN. DODEN - OPZETTELIJK TOEBRENGEN VAN VERWONDINGEN EN OPZETTELIJK DODEN",
+    "Circonstance aggravante - Préméditation - Notion",
+    "INFRACTION - CIRCONSTANCES AGGRAVANTES",
+    "MISDRIJF - VERZWARENDE OMSTANDIGHEDEN",
+    "Préméditation - Notion",
+    "Verzwarende omstandigheid - Voorbedachtheid - Begrip",
+    "Voorbedachtheid - Begrip"
+  ],
+  "fiche": [
+    "COUPS ET BLESSURES. HOMICIDE - VOLONTAIRES",
+    "Circonstance aggravante - Préméditation - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 279bis, 349, 394, 398, 399, 400, 401 et 518 - 01 Lien ELI No pub 1867060850",
+    "INFRACTION - CIRCONSTANCES AGGRAVANTES",
+    "Préméditation - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 279bis, 349, 394, 398, 399, 400, 401 et 518 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230208.2F.1",
+  "source_sha256": "90e9627e1be78428e52673c1f6166664085bd4f1b8ef752ade75d0969c879239",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230208.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/15/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
