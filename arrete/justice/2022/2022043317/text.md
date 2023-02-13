@@ -1,0 +1,75 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les établissements visés à l'article 4 de la loi du 23 mars 2020 visant à flouter les images d'établissements nucléaires et sensibles et à limiter la prise ou la diffusion de photographies aériennes de ces établissements dans l'intérêt de la sécurité publique, sont les suivants:
+- Prison d' Anvers,
+Begijnenstraat 42, 2000 Anvers;
+Olieweg 67, 2020 Anvers;
+- Prison d'Andenne,
+Rue du Géron 2, 5300 Andenne;
+- Prison d'Arlon,
+Rue Léon Castilhon 29, 6700 Arlon;
+- Prison de Mons,
+Boulevard W. Churchill 24, 7000 Mons;
+- Prison de Beveren,
+Schaarbeekstraat 2, 9120 Beveren;
+- Complexe pénitentiaire de Bruges,
+Legeweg 200, 8200 St.-Andries (Bruges);
+- Prison de Bruxelles,
+Avenue Ducpétiaux 106, 1060 Saint-Gilles;
+Avenue de la Jonction 52, 1190 Forest;
+Rue de Berkendael 42-44, 1190 Forest;
+Rue du Chicon 135, 1130 Haren;
+- Prison de Termonde,
+St.-Jacobstraat 26, 9200 Termonde;
+Tanneweg 1, 9200 Termonde;
+- Prison de Dinant,
+Place d'Armes 1, 5500 Dinant;
+- Prison de Tournai,
+Rue de Chantier 1, 7500 Tournai;
+- Prison de Gand,
+Nieuwe Wandeling 89, 9000 Gand;
+- Prison de Hasselt,
+Zwarte-Brugstraat 4, 3500 Hasselt;
+- Prison de Huy,
+Rue de la Résistance 4, 4500 Huy;
+- Prison d'Ypres,
+Elverdingestraat 72, 8900 Ypres;
+- Prison d'Ittre,
+Rue de Clabecq 100, 1460 Ittre;
+- Prison de Jamioulx,
+Rue Fr. Vandamme 172, 6120 Jamioulx;
+- Prison de Lantin,
+Rue des Aubépines, 4450 Lantin;
+- Prison centrale de Louvain,
+Geldenaaksevest 64, 3000 Leuven;
+- Prison secondaire de Louvain,
+Maria Theresiastraat 74, 3000 Louvain;
+- Prison de Leuze-en-Hainaut,
+Avenue de l'Europe 1A, 7900 Leuze-en-Hainaut;
+- Prison de Malines,
+Liersesteenweg 2, 2800 Malines;
+- Prison de Marche-en-Famenne,
+Chaussée de Liège 178, 6900 Marche-en-Famenne;
+- Prison de Merksplas,
+Steenweg op Wortel 1, 2330 Merksplas;
+- Prison de Namur,
+Place Abbé Joseph André 7, 5000 Namur;
+- Prison de Nivelles,
+Avenue de Burlet 4, 1400 Nivelles;
+- Prison de Oudenaarde,
+Bourgondiëstraat 6, 9700 Oudenaarde;
+- Prison de Turnhout,
+Wezenstraat 1, 2300 Turnhout;
+- Prison de Verviers,
+Chaussee de Heusy 81, 4800 Verviers ;
+- Prison de Wortel,
+Kolonie 17, 2323 Wortel;
+- Centre fermé de Tongres,
+Wijngaardstraat 65, 3700 Tongres;
+- Centre de psychiatrie légale d'Anvers,
+Beatrijslaan 96, 2050 Anvers;
+- Centre de psychiatrie légale de Gand,
+Hurstweg 9, 9000 Gand;
+- Etablissement de défense sociale de Paifve,
+Route de Glons 1, 4452 Paifve;
+- Les bâtiments de l'ancien Siège de l'OTAN, Avenue de Bourget, 1130 Bruxelles.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le Vice-Premier Ministre et Ministre qui a la Justice dans ses attributions et le Ministre qui a l'Intérieur et de la Sécurité dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
