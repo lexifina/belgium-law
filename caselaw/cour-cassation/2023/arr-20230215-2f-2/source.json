@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230215.2F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230215.2F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-15",
+  "date_as_printed": "Jugement/arrêt du 15 février 2023",
+  "published_on_juportal": "2023-02-17",
+  "language": "fr",
+  "role_number": "P.22.1618.F",
+  "case_name_as_published": "Procureur du Roi de Bruxelles contra T.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn",
+    "Formulaire de griefs - Exigence de précision - Droit de l'appelant d'entreprendre l'ensemble du dispositif pénal - Griefs concernant toutes les préventions - Conséquence",
+    "Formulaire de griefs - Disparition du formulaire pour un motif indépendant de la volonté de l'appelant - Conséquence",
+    "Grievenformulier - Nauwkeurigheidsvereiste - Recht van de appellant om het strafrechtelijk dictum in zijn geheel aan te vechten - Grieven met betrekking tot alle telastleggingen - Gevolg",
+    "Grievenformulier - Verdwijning van het grievenformulier om een reden buiten de wil van de appellant - Gevolg"
+  ],
+  "fiche": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "Formulaire de griefs - Exigence de précision - Droit de l'appelant d'entreprendre l'ensemble du dispositif pénal - Griefs concernant toutes les préventions - Conséquence",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 204 - 30 Lien ELI No pub 1808111901",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "Formulaire de griefs - Disparition du formulaire pour un motif indépendant de la volonté de l'appelant - Conséquence",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 204 - 30 Lien ELI No pub 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230215.2F.2",
+  "source_sha256": "d6f397927cd3470d5c81b169e8dffd8bcb528551ec7c93416a49c2ba56b29899",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230215.2F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_78.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
