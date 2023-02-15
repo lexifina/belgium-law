@@ -1650,6 +1650,16 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.]<su
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 26, 017; En vigueur : 01-05-2016&gt;
 
+<a name="LNK0128" href="#LNKR0128">Section 3/2.</a> [<sup>1</sup> Le canal interne pour les auteurs de signalement]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112802" target="_blank">2022-11-28/02</a>, art. 53, 059; En vigueur : 15-02-2023&gt;
+
+<a name="Art.%20133/1." href="#LNK0128">Art.</a> <a href="#LNK0057">133/1</a>. [<sup>1</sup> Sous réserve de l'article 33, § 1, alinéa 2, de la loi du 28 novembre 2022 sur la protection des personnes qui signalent des violations au droit de l'Union ou au droit national constatées au sein d'une entité juridique du secteur privé, est puni d'une sanction de niveau 4:
+1° l'employeur, son préposé ou mandataire, qui a commis une infraction au chapitre 3 de la loi précitée;
+2° l'employeur, son préposé ou mandataire, l'autorité compétente ou le coordinateur fédéral qui a commis une infraction à l'article 22 de la loi précitée.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022112802" target="_blank">2022-11-28/02</a>, art. 54, 059; En vigueur : 15-02-2023&gt;
+
 <a name="LNK0057" href="#LNKR0057">Section 4.</a> - L'âge d'admission au travail
 
 <a name="Art.134" href="#Art.133">Art.</a> <a href="#Art.135"> 134</a>. Le travail de l'enfant sortant du cadre de son éducation ou de sa formation
