@@ -1,0 +1,41 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230215.2F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230215.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-15",
+  "date_as_printed": "Jugement/arrêt du 15 février 2023",
+  "published_on_juportal": "2023-02-17",
+  "language": "fr",
+  "role_number": "P.22.1654.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ASSOCIATION DE MALFAITEURS",
+    "VERENIGING VAN MISDADIGERS",
+    "Organisation criminelle - Eléments constitutifs - Objet criminel identique à l'association et à l'organisation criminelle - Conséquence",
+    "Qualité de dirigeant de l'association - Compatibilité avec le rôle de participation à la prise de décision dans le cadre de l'organisation criminelle ayant le même objet criminel",
+    "Organisation criminelle - Participation à la prise de décision dans le cadre de l'organisation criminelle - Compatibilité avec le rôle de dirigeant dans l'association de malfaiteurs ayant le même objet criminel",
+    "Criminele organisatie - Bestanddelen - Zelfde misdadig oogmerk van de vereniging en van de criminele organisatie - Gevolg",
+    "Hoedanigheid van leider van de vereniging - Verenigbaarheid met de rol van deelnemer aan de besluitvorming in het kader van de criminele organisatie met hetzelfde misdadig oogmerk",
+    "Criminele organisatie - Deelname aan de besluitvorming in het kader van de criminele organisatie - Verenigbaarheid met de rol van leider in de vereniging van misdadigers met hetzelfde misdadig oogmerk"
+  ],
+  "fiche": [
+    "ASSOCIATION DE MALFAITEURS",
+    "Organisation criminelle - Eléments constitutifs - Objet criminel identique à l'association et à l'organisation criminelle - Conséquence",
+    "Code pénal 1867 - 08-06-1867 - Art. 322, 323, 324bis et 324ter - 01 Lien ELI No pub 1867060850",
+    "Qualité de dirigeant de l'association - Compatibilité avec le rôle de participation à la prise de décision dans le cadre de l'organisation criminelle ayant le même objet criminel",
+    "Code pénal 1867 - 08-06-1867 - Art. 322, 323, 324bis et 324ter - 01 Lien ELI No pub 1867060850",
+    "Organisation criminelle - Participation à la prise de décision dans le cadre de l'organisation criminelle - Compatibilité avec le rôle de dirigeant dans l'association de malfaiteurs ayant le même objet criminel",
+    "Code pénal 1867 - 08-06-1867 - Art. 322, 323, 324bis et 324ter - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230215.2F.3",
+  "source_sha256": "e064f7bb1d91afe3daca9b41a1c4aacb41857376ad7996d1448a53ad71d5eb80",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230215.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_79.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
