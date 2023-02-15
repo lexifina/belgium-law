@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230215.2F.7",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230215.2F.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-15",
+  "date_as_printed": "Jugement/arrêt du 15 février 2023",
+  "published_on_juportal": "2023-02-16",
+  "language": "fr",
+  "role_number": "P.23.0169.F",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Moyen de cassation - Moyen nouveau - Moyen invoquant l'existence d'une déclaration d'appel antérieure à celle figurant au dossier - Moyen invoqué pour la première fois devant la Cour de cassation - Recevabilité",
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen nouveau",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Nieuw middel",
+    "Moyen invoquant l'existence d'une déclaration d'appel antérieure à celle figurant au dossier - Moyen invoqué pour la première fois devant la Cour de cassation - Recevabilité",
+    "Cassatiemiddelen - Nieuw middel - Nieuw middel dat het bestaan aanvoert van een eerdere verklaring van hoger beroep dan die welke in het dossier voorkomt - Cassatiemiddel dat voor het eerst voor het Hof wordt aangevoerd - Ontvankelijkheid",
+    "Nieuw middel dat het bestaan aanvoert van een eerdere verklaring van hoger beroep dan die welke in het dossier voorkomt - Cassatiemiddel dat voor het eerst voor het Hof wordt aangevoerd - Ontvankelijkheid"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "Moyen de cassation - Moyen nouveau - Moyen invoquant l'existence d'une déclaration d'appel antérieure à celle figurant au dossier - Moyen invoqué pour la première fois devant la Cour de cassation - Recevabilité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 3 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31, § 3 - 35 Lien ELI No pub 1990099963",
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen nouveau",
+    "Moyen invoquant l'existence d'une déclaration d'appel antérieure à celle figurant au dossier - Moyen invoqué pour la première fois devant la Cour de cassation - Recevabilité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 3 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31, § 3 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230215.2F.7",
+  "source_sha256": "0659996371de36529cf01c1938c289759ba29bfc28e886c4137b5d00d93fbb34",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230215.2F.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_75.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
