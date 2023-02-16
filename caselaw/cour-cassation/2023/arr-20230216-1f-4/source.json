@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230216.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230216.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-16",
+  "date_as_printed": "Jugement/arrêt du 16 février 2023",
+  "published_on_juportal": "2023-03-16",
+  "language": "fr",
+  "role_number": "F.21.0169.F",
+  "case_name_as_published": "TARMACS ET AGREGATS s.a. contra REGION WALLONNE",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOT",
+    "BELASTING",
+    "Taxes régionales - Procédure de rectification de la déclaration des éléments imposables - Objet - Déclaration tardive - Conséquence",
+    "Gewestelijke belastingen - Procedure tot wijziging van de aangifte van de bestanddelen - Voorwerp - Laattijdige aangifte - Gevolg"
+  ],
+  "fiche": [
+    "IMPOT",
+    "Taxes régionales - Procédure de rectification de la déclaration des éléments imposables - Objet - Déclaration tardive - Conséquence",
+    "Décret wallon du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes - 06-05-1999 - Art. 13 - 65 Lien ELI No pub 1999027513 Décret wallon du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes - 06-05-1999 - Art. 15, al. 1er - 65 Lien ELI No pub 1999027513"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230216.1F.4",
+  "source_sha256": "321aad2718683a9a9e2c18e205dde9a25116fd3ab0101f795708259e2f50236e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230216.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_84.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
