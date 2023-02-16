@@ -1,0 +1,43 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230216.1F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230216.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-16",
+  "date_as_printed": "Jugement/arrêt du 16 février 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "F.22.0115.F",
+  "case_name_as_published": "THYSSENKRUPP MATERIALS BELGIUM s.a. c. ETAT BELGE FINA",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "CASSATION - DIVERS",
+    "CASSATIE - ALLERLEI",
+    "Procédure - Mémoire en réponse - Recevabilité",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Prescription - Délai - Allongement du délai de prescription - Conditions",
+    "Rechtspleging - Memorie van antwoord - Ontvankelijkheid",
+    "Verjaring - Termijn - Verlenging van de verjaringstermijn - Voorwaarden"
+  ],
+  "fiche": [
+    "CASSATION - DIVERS",
+    "Procédure - Mémoire en réponse - Recevabilité",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1094, al. 1er - 04 Lien ELI No pub 1967101055",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "Prescription - Délai - Allongement du délai de prescription - Conditions",
+    "L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 81bis, § 1er, al. 3, 3° - 32 Lien DB Justel 19690703-32",
+    "RABG-Rechtspraak Antwerpen Brussel Gent - 2024, nr. 1, p. 37-42. - REYNAERTS, Dorian; Noot'Een onregelmatige aangifte volstaat niet voor toepassing bijzondere verjaringstermijn uit artikel 81bis WBTW'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230216.1F.2",
+  "source_sha256": "1b7c67643d901a9a146db90114166bb952bc8971576bc923aaccd0636d65f551",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230216.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_94.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
