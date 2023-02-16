@@ -1,0 +1,43 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230216.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230216.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-16",
+  "date_as_printed": "Conclusions du Ministère public du 16 février 2023",
+  "published_on_juportal": "2023-08-18",
+  "language": "fr",
+  "role_number": "C.20.0526.F",
+  "case_name_as_published": "F. contra OFFICE NATIONAL DE SECURITE SOCIALE",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht",
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "SOCIETES - SOCIETES COMMERCIALES - Sociétés anonymes",
+    "VENNOOTSCHAPPEN - HANDELSVENNOOTSCHAPPEN - Naamloze vennootschappen",
+    "Faillite - Dettes sociales - Responsabilité solidaire - Personne impliquée - Notion",
+    "FAILLITE ET CONCORDATS - DIVERS",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - ALLERLEI",
+    "Dettes sociales - Responsabilité solidaire - Personne impliquée - Notion",
+    "Faillissement - Sociale schulden - Hoofdelijke aansprakelijkheid - Betrokken persoon - Begrip",
+    "Sociale schulden - Hoofdelijke aansprakelijkheid - Betrokken persoon - Begrip"
+  ],
+  "fiche": [
+    "SOCIETES - SOCIETES COMMERCIALES - Sociétés anonymes",
+    "Faillite - Dettes sociales - Responsabilité solidaire - Personne impliquée - Notion",
+    "Code des sociétés - 07-05-1999 - Art. 530, § 2, al. 1er - 69 Lien ELI No pub 1999A09646 L. du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés - 29-06-1981 - Art. 38, § 3, octies, 8° - 02 Lien ELI No pub 1981001048",
+    "FAILLITE ET CONCORDATS - DIVERS",
+    "Dettes sociales - Responsabilité solidaire - Personne impliquée - Notion",
+    "Code des sociétés - 07-05-1999 - Art. 530, § 2, al. 1er - 69 Lien ELI No pub 1999A09646 L. du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés - 29-06-1981 - Art. 38, § 3, octies, 8° - 02 Lien ELI No pub 1981001048",
+    "NJW-Nieuw juridisch weekblad - 2023, nr. 483, p. 450-451. - DE GEYTER, Sarah; Noot'Aansprakelijkheid bestuurder wegens onbetaalde socialezekerheidsbijdragen na faillissement' TRV-Tijdschrift voor rechtspersoon en vennootschap - 2023, nr. 5, p. 354-355. - DE DIER, Stijn; Noot onder cassatie."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230216.1F.6",
+  "source_sha256": "881a2a00e3745f1152a4a9f5eca28c3b10aa555b7ea5a537338bd4f7b278e34e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230216.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_102.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
