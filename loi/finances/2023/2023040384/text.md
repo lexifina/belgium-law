@@ -1,0 +1,49 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1<sup>ER.</sup></a> . - Dispositions générales
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0002"> 2</a>. La présente loi assure la transposition partielle de la directive (UE) 2019/2177 du Parlement européen et du Conseil du 18 décembre 2019 modifiant la directive 2009/138/CE sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (solvabilité II), la directive 2014/65/UE concernant les marchés d'instruments financiers et la directive (UE) 2015/849 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Communication de l'identité des organes de coordination
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0003"> 3</a>. L'article 68 de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces est complété par un alinéa rédigé comme suit :
+"Le ministre de la Justice notifie à la Commission européenne, à l'ABE ainsi qu'aux autres Etats membres l'identité des organes de coordination telle que définie à l'article 4, 14°. ".
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Finalités et données relatives au Registre UBO
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 74, § 1er, de la même loi, modifié par la loi du 20 juillet 2020, un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 :
+"Le registre UBO traite et met à disposition les informations visées à l'alinéa 1er aux fins suivantes :
+1° la protection du système financier par la prévention, la détection et l'enquête sur le blanchiment de capitaux, le financement du terrorisme et les infractions sous-jacentes associées, telles que la corruption, les infractions fiscales et la fraude ;
+2° l'application et le contrôle des obligations relatives aux embargos, aux gels des avoirs et aux autres mesures restrictives visées par les résolutions adoptées par le Conseil de sécurité des Nations Unies dans le cadre du Chapitre VII de la Charte des Nations Unies, visées par les règlements, les directives et les décisions européennes et visées par d'autres dispositions légales ;
+3° assurer la transparence des entités juridiques et des constructions juridiques visées à l'alinéa 1er, pour la prévention du recours abusif à des entités et constructions juridiques, y compris de l'évasion fiscale, à l'égard des autorités et entités visées à l'article 75, § 2, alinéa 1er, 1° à 4° ;
+4° l'identification et la vérification des données des bénéficiaires effectifs visées à l'article 75, § 1er, alinéa 1er, 1° à 6° et dans d'autres dispositions légales, par les autorités et entités visées à l'article 75, § 2, alinéa 1er, 1° à 4° et, le cas échéant et dans la mesure où l'accès leur est accordé, par les personnes physiques et morales visées à l'article 75, § 2, alinéa 1er, 5° et 6°. ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. L'article 75 de la même loi, modifié en dernier lieu par la loi du 2 juin 2021, est remplacé par ce qui suit :
+"Art. 75. § 1er Le registre UBO collecte et traite les catégories suivantes de données à caractère personnel des bénéficiaires effectifs visés à l'article 74, § 1er, alinéa 1er :
+1° les données d'identification ;
+2° les données de contact et de résidence ;
+3° la (les) catégorie(s) de bénéficiaire effectif à laquelle il appartient :
+a) dans le cas d'une société :
+i) la ou les catégorie(s) de personnes visées à l'article 4, 27°, alinéa 2, a) ;
+ii) s'il s'agit d'une personne qui remplit une des conditions énumérées à l'article 4, 27°, alinéa 2, a), individuellement ou avec d'autres personnes ;
+iii) s'il s'agit d'un bénéficiaire effectif direct ou indirect ;
+b) dans le cas d'une association sans but lucratif, d'une association internationale sans but lucratif ou d'une fondation :
+i) la ou les catégorie(s) de personnes visées à l'article 4, 27°, alinéa 2, c) ;
+ii) s'il relève d'une ou plusieurs catégories de personnes énumérées à l'article 4, 27°, alinéa 2, c), individuellement ou conjointement avec d'autres, dont il relève ;
+c) dans le cas d'un trust, fiducie ou constructions juridiques similaires, la ou les catégories de bénéficiaire effectif visées à l'article 4, 27°, alinéa 2, d) dont il relève ;
+4° la nature et l'étendue de l'intérêt économique ou de contrôle qu'ils détiennent dans les entités et constructions visées à l'article 74, § 1er, alinéa 1er ;
+5° la date à laquelle il est devenu bénéficiaire effectif de l'entité ou construction visée à l'article 74, § 1er, alinéa 1er ;
+6° lorsqu'il s'agit d'un bénéficiaire effectif indirect, les données d'identification des intermédiaires.
+Les informations sont fournies au registre UBO par voie électronique, conformément à l'article 1:35 du Code des sociétés et des associations.
+Les informations visées à l'alinéa 1er, et toutes les informations et documents reçus par le registre UBO sont conservés durant une période de maximum dix ans à compter du jour de la perte de la personnalité juridique des entités visées à l'article 74, § 1er, alinéa 1er, ou de la cessation définitive de leurs activités.
+Le Roi détermine par arrêté délibéré en Conseil des ministres le mode de collecte des informations, le contenu des informations collectées, la gestion, l'accès, l'utilisation des données, les modalités de vérification des données et le fonctionnement du registre UBO.
+§ 2. Les informations contenues dans le registre UBO sont accessibles conformément à la présente loi et à d'autres dispositions légales et en application des modalités concernant l'accès, pour :
+1° les autorités compétentes définies à l'article 4, 17° /1, en temps utile et sans aucune restriction ;
+2° les autorités compétentes pour l'application et le contrôle des obligations relatives aux embargos, aux gels des avoirs et aux autres mesures restrictives visées par les résolutions adoptées par le Conseil de sécurité des Nations Unies dans le cadre du Chapitre VII de la Charte des Nations Unies, visées par les règlements, les directives et les décisions européennes et visées par d'autres dispositions légales, en temps utile et sans aucune restriction ;
+3° les autorités émanant du pouvoir fédéral ou des Communautés et des Régions chargées de rechercher ou de contrôler les bénéficiaires effectifs, tels que définis dans les Règlements européens, à l'article 4, 27° de la présente loi ou dans d'autres dispositions légales, afin de remplir leurs obligations en vertu de ces Règlements et dispositions légales, en temps utile et sans aucune restriction ;
+4° les entités assujetties visées à l'article 5, §§ 1er et 2, en temps utile et dans le cadre de l'exécution de leurs obligations en matière de vigilance à l'égard de la clientèle ;
+5° toute personne physique ou morale qui peut démontrer un intérêt légitime, aux données déterminées par le Roi conformément au paragraphe 1er, alinéa 4 ;
+6° toute personne physique ou morale qui introduit une demande écrite à l'Administration de la Trésorerie, portant sur un trust, une fiducie ou une construction juridique similaire qui contrôle une autre société ou personne morale que celle visée à l'article 1:33 du Code des sociétés et des associations ou une autre entité juridique, par propriété directe ou indirecte, notamment au moyen d'actions au porteur ou par le biais d'un contrôle par d'autres moyens, aux données déterminées par le Roi conformément paragraphe 1er, alinéa 4.
+La consultation du registre UBO est gratuite.".
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
