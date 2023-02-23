@@ -1,0 +1,35 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230223.1F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230223.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-23",
+  "date_as_printed": "Jugement/arrêt du 23 février 2023",
+  "published_on_juportal": "2023-03-17",
+  "language": "fr",
+  "role_number": "C.22.0112.F",
+  "case_name_as_published": "INTERNATIONAL TOOLS SERVICE s.a. contra H.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Notion. Appréciation par le juge",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - OORZAAK - Begrip. Beoordeling door de rechter",
+    "Faute consistant en une omission - Obligation du juge",
+    "Fout die bestaat uit een verzuim - Verplichting van de rechter"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Notion. Appréciation par le juge",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 1383 - 30 Lien ELI No pub 1804032150",
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Notion. Appréciation par le juge",
+    "Faute consistant en une omission - Obligation du juge",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 1383 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230223.1F.3",
+  "source_sha256": "747ff6b1e968013e3ddf2b40ada7cfd3127d9856b3f7293a2fba10de341d7af9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230223.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_20.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
