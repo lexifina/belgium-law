@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230223.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230223.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-23",
+  "date_as_printed": "Jugement/arrêt du 23 février 2023",
+  "published_on_juportal": "2023-03-17",
+  "language": "fr",
+  "role_number": "C.22.0132.F",
+  "case_name_as_published": "M. contra BANU IMMO s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "CONVENTION - DROITS ET OBLIGATIONS DES PARTIES - Entre parties",
+    "OVEREENKOMST - RECHTEN EN VERPLICHTINGEN VAN PARTIJEN - Tussen partijen",
+    "Annulation - Effets",
+    "Annulation - Obligation de restitution - Etendue",
+    "Vernietiging - Gevolgen",
+    "Vernietiging - Teruggaveplicht - Omvang"
+  ],
+  "fiche": [
+    "CONVENTION - DROITS ET OBLIGATIONS DES PARTIES - Entre parties",
+    "Annulation - Effets",
+    "CONVENTION - DROITS ET OBLIGATIONS DES PARTIES - Entre parties",
+    "Annulation - Obligation de restitution - Etendue"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230223.1F.4",
+  "source_sha256": "8db1205a0162be6da9e2c9ab8778813b734ee6303d6022284746bfdfabb7b45e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230223.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
