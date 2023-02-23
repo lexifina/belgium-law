@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230223.1F.9",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230223.1F.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-23",
+  "date_as_printed": "Jugement/arrêt du 23 février 2023",
+  "published_on_juportal": "2023-03-17",
+  "language": "fr",
+  "role_number": "C.21.0068.F",
+  "case_name_as_published": "T. contra T.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Décisions contre lesquelles on peut se pourvoir - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "RECUSATION",
+    "WRAKING",
+    "Communication au juge d'une demande de récusation - Effet - Décision de récusation - Conséquences",
+    "Mededeling aan de rechter van een vordering tot wraking - Uitwerking - Beslissing tot wraking - Gevolgen"
+  ],
+  "fiche": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Décisions contre lesquelles on peut se pourvoir - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "RECUSATION",
+    "Communication au juge d'une demande de récusation - Effet - Décision de récusation - Conséquences",
+    "Code Judiciaire - 10-10-1967 - Art. 837, al. 1er - 01 Lien ELI No pub 1967101052 Code Judiciaire - 10-10-1967 - Art. 841, al. 1er - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230223.1F.9",
+  "source_sha256": "53394a1fe884eee8054bdc0d02ccc1b884392ac39d51640d000078b384e7cddf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230223.1F.9_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
