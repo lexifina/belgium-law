@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230223.1F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230223.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-23",
+  "date_as_printed": "Jugement/arrêt du 23 février 2023",
+  "published_on_juportal": "2023-03-17",
+  "language": "fr",
+  "role_number": "C.22.0106.F",
+  "case_name_as_published": "BOUYGUES IMMOBILIER BELGIUM s.a. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "COMPETENCE ET RESSORT - MATIERE CIVILE - Compétence - Compétence territoriale",
+    "BEVOEGDHEID EN AANLEG - BURGERLIJKE ZAKEN - Bevoegdheid - Plaatselijke bevoegdheid",
+    "Contrat de vente d'un immeuble à construire - Clause d'élection de for - Absence - Conséquence",
+    "Verkoopovereenkomst van een nog te bouwen pand - Forumkeuzebeding - Afwezigheid - Gevolg"
+  ],
+  "fiche": [
+    "COMPETENCE ET RESSORT - MATIERE CIVILE - Compétence - Compétence territoriale",
+    "Contrat de vente d'un immeuble à construire - Clause d'élection de for - Absence - Conséquence",
+    "Code Judiciaire - 10-10-1967 - Art. 624 - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230223.1F.2",
+  "source_sha256": "7591cbc15ed6feead358705d645c6e3397bbbd146f8b73c1e387070559e280d9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230223.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
