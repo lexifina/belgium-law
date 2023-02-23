@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230223.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230223.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-02-23",
+  "date_as_printed": "Jugement/arrêt du 23 février 2023",
+  "published_on_juportal": "2023-03-17",
+  "language": "fr",
+  "role_number": "C.21.0522.F",
+  "case_name_as_published": "D. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit de la famille",
+    "Familierecht"
+  ],
+  "summary_keywords": [
+    "MOYEN DE CASSATION - MATIERE CIVILE - Généralités",
+    "CASSATIEMIDDELEN - BURGERLIJKE ZAKEN - Algemeen",
+    "Elaboration ou choix d'une formule mathématique - Erreur - Qualification - Moyens faisant grief à l'arrêt de commettre une erreur de droit - Recevabilité",
+    "DIVORCE ET SEPARATION DE CORPS - PROCEDURE EN DIVORCE - Mesures provisoires",
+    "ECHTSCHEIDING EN SCHEIDING VAN TAFEL EN BED - ECHTSCHEIDINGSPROCEDURE - Voorlopige maatregelen",
+    "Montant du secours alimentaire de l'épouse - Fixation d'un montant net par mois - Mode de calcul du montant brut incluant définitivement la charge fiscale",
+    "DIVORCE ET SEPARATION DE CORPS - EFFETS DU DIVORCE QUANT AUX PERSONNES - Epoux",
+    "ECHTSCHEIDING EN SCHEIDING VAN TAFEL EN BED - GEVOLGEN T.A.V. DE PERSONEN - T.a.v. de echtgenoten",
+    "Montant de la pension après divorce - Fixation d'un montant net par mois - Mode de calcul du montant brut incluant définitivement la charge fiscale",
+    "Uitwerking of keuze van een wiskundige formule - Vergissing - Omschrijving - Middelen die het arrest verwijten een rechtsdwaling te begaan - Ontvankelijkheid",
+    "Bedrag van de onderhoudsuitkering van de echtgenote - Vaststelling van een maandelijks nettobedrag - Wijze van berekening van het brutobedrag dat de belasting definitief omvat",
+    "Bedrag van de uitkering na echtscheiding - Vaststelling van een maandelijks nettobedrag - Wijze van berekening van het brutobedrag dat de belasting definitief omvat"
+  ],
+  "fiche": [
+    "MOYEN DE CASSATION - MATIERE CIVILE - Généralités",
+    "Elaboration ou choix d'une formule mathématique - Erreur - Qualification - Moyens faisant grief à l'arrêt de commettre une erreur de droit - Recevabilité",
+    "DIVORCE ET SEPARATION DE CORPS - PROCEDURE EN DIVORCE - Mesures provisoires",
+    "Montant du secours alimentaire de l'épouse - Fixation d'un montant net par mois - Mode de calcul du montant brut incluant définitivement la charge fiscale",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 99",
+    "DIVORCE ET SEPARATION DE CORPS - EFFETS DU DIVORCE QUANT AUX PERSONNES - Epoux",
+    "Montant de la pension après divorce - Fixation d'un montant net par mois - Mode de calcul du montant brut incluant définitivement la charge fiscale",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 99",
+    "T.Fam.-Tijdschrift voor familierecht - 2023, nr. 9, p. 265-270. - BEERNAERT, Jean-Emmanuel; Noot'De fiscale implicaties van de onderhoudsgelden, in casu de (mislukte) poging om tot brutobedragen van onderhoudsgelden te komen met verrekening van de verschuldigde...' RABG-Rechtspraak Antwerpen Brussel Gent - 2023, nr. 12/13, p. 1014. - BROUWERS, Steven; Noot onder cassatie. Rev.trim.dr.fam.-Revue trimestrielle de droit familial (bij voorkeur RTDF) - 2023, n° 3/4, p. 603-604. - DANDOY, Nathalie; Note sous cassation. BJS-Bulletin juridique social - 2024, n° 719, p. 9. - DE MOL, Gaëlle; Note'L'indemnité de remploi à nouveau sous les projecteurs de la Cour de cassation'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230223.1F.6",
+  "source_sha256": "19d32a9724078668d3c7b4ab705e727bd16e8b58a9e01c30995f31471d99ade1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230223.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/20/sitemap_18.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
