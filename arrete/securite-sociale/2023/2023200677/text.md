@@ -1,0 +1,36 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 1er, 9° de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants, modifié en dernier lieu par l'arrêté royal du 18 juillet 1997 les mots " tel que prévu aux articles 3, § 1er, et " sont remplacés par les mots "" tel que prévu aux articles 3, § 1er, § 1bis ou § 1ter, selon le cas, et ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 25 du même arrêté, modifié en dernier lieu par l'arrêté royal du 29 juin 2014, les modifications suivantes sont apportées :
+1° au § 2, les mots " Lorsque le conjoint survivant est âgé de 65 ans au moins " sont remplacés par les mots " Lorsque le conjoint survivant a atteint au moins l'âge de la pension ";
+2° au § 3, les mots " au cours duquel le conjoint survivant atteint l'âge de 65 ans " sont remplacés par les mots " au cours duquel le conjoint survivant atteint l'âge de la pension. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 53bis du même arrêté, inséré par l'arrêté royal du 18 juillet 1997 et modifié par l'arrêté royal du 29 juin 2014, les mots " dans le trimestre au cours duquel il a atteint ou aurait atteint l'âge de 20 ans " sont remplacés par les mots " dans le trimestre au cours duquel il a atteint ou aurait atteint l'âge de 21 ans ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. A l'article 92 du même arrêté, modifié en dernière lieu par l'arrêté royal du 1er avril 2003, les modifications suivantes sont apportées :
+1° est inséré un § 1/1 rédigé comme suit :
+" Pour le conjoint divorcé dont la pension prend cours effectivement et pour la première fois au plus tôt le 1er février 2025 et au plus tard le 1er janvier 2030, l'âge prévu au § 1er est porté à 66 ans. "
+2° est inséré un § 1/2 rédigé comme suit :
+" Pour le conjoint divorcé dont la pension prend cours effectivement et pour la première fois au plus tôt le 1er février 2030, l'âge prévu au § 1er est porté à 67 ans. "
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. A l'article 107 du même arrêté, modifié en dernier lieu par l'arrêté royal du 12 juillet 2022, les modifications suivantes sont apportées :
+1° Au § 2, A, les mots " au cours de laquelle il atteint un des âges visés aux articles 3, § 1er et 16, § 1er " sont remplacés par les mots " au cours de laquelle il atteint un des âges visés aux articles 3, § § 1, 1bis, 1ter et 16, § 1er ".
+2° Au § 2, C, les mots " un des âges visés aux articles 3, § 1, et 16, § 1, de l'arrêté royal du 30 janvier 1997 " sont remplacés par les mots " un des âges visés aux articles 3, § § 1, 1bis, 1ter et 16, § 1 de l'arrêté royal du 30 janvier 1997 ";
+3° Au § 2, D, les mots " et qui n'a pas atteint l'âge de 65 ans peut, jusqu'au 31 décembre de l'année civile qui précède celle au cours de laquelle il atteint l'âge de 65 ans " sont remplacés par les mots " et qui n'a pas atteint l'âge de la pension peut, jusqu'au 31 décembre de l'année civile qui précède celle au cours de laquelle il atteint l'âge de la pension ";
+4° Au § 2, F, premier alinéa, les mots " atteint l'âge de 65 ans " sont remplacés par les mots " atteint l'âge de la pension ";
+5° Au § 2, F, deuxième alinéa, les mots " qui suit le 65e anniversaire de l'intéressé " sont remplacés par les mots " qui suit celui au cours duquel l'intéressé atteint l'âge de la retraite ".
+6° Au § 2, F, troisième alinéa, les mots " compris entre le dernier jour du mois du 65e anniversaire et " sont remplacés par les mots " compris entre le dernier jour du mois au cours duquel le bénéficiaire atteint l'âge de la pension et ".
+7° Au § 3, D, premier alinéa, les mots " et qui, selon le cas, a atteint un des âges visés aux articles 3, § 1er et 16, § 1er de l'arrêté royal du 30 janvier 1997 " sont remplacés par les mots " et qui, selon le cas, a atteint un des âges visés aux articles 3, § § 1, 1bis, 1ter et 16, § 1er de l'arrêté royal du 30 janvier 1997 ".
+8° Au § 3, D, deuxième alinéa, les mots " et qui, selon le cas, a atteint un des âges visés aux articles 3, § 1er et 16, § 1er de l'arrêté royal du 30 janvier 1997 " sont remplacés par les mots " et qui, selon le cas, a atteint un des âges visés aux articles 3, § § 1, 1bis, 1ter et 16, § 1er de l'arrêté royal du 30 janvier 1997 ".
+9° Au § 4, alinéa 3, point a), les mots " située avant le 1er janvier de l'année au cours de laquelle il atteint l'âge de 65 ans "sont remplacés par les mots " située avant le 1er janvier de l'année au cours de laquelle il atteint l'âge de la pension ".
+10° Au § 4, alinéa 3, point b), les mots " au cours de laquelle il atteint l'âge de 65 ans " sont remplacés par les mots " au cours de laquelle il atteint l'âge de la pension ".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. A l'article 133quinquies du même arrêté, inséré par l'arrêté royal du 4 septembre 2002, la 1er alinéa est modifié comme suit :
+" Lorsqu'une personne qui a sa résidence principale en Belgique atteint l'âge de la pension visé à l'article 3, § 1er, § 1bis ou § 1ter, et l'article 16, alinéa 1er de l'arrêté royal du 30 janvier 1997, au plus tôt le 1er décembre 2003, ses droits à la pension de retraite de travailleur indépendant sont examinés d'office, à la condition que l'activité professionnelle exercée en cette qualité ait entraîné l'assujettissement obligatoire ou volontaire en vertu des lois qui ont régi la pension des travailleurs indépendants et en vertu de l'arrêté royal n° 38. "
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. A l'article 154, 8°, du même arrêté, tel que modifié par l'arrêté royal du 15 décembre 1998, les mots " à la condition de carrière prévue aux articles 3, § 3, et 17 de l'arrêté royal du 30 janvier 1997 " sont remplacés par les mots " à la condition de carrière prévue aux articles 3, § 3, 16bis, 16ter et 17 de l'arrêté royal du 30 janvier 1997 ".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. A l'article 163 du même arrêté, modifié en dernier lieu par l'arrêté royal du 18 juillet 1997, les modifications suivantes sont apportées :
+1° au § 1er, les mots " l'âge de 65 ans " sont remplacés par les mots " l'âge de la pension ".
+2° Au § 2, les mots " au cours duquel la veuve atteint l'âge de 65 ans " sont remplacés par les mots " au cours duquel la veuve atteint l'âge de la pension ".
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le ministre qui a les Indépendants dans ses attributions et le ministre qui a les Pensions dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
