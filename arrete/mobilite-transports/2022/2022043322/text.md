@@ -1,0 +1,59 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Disposition modificative de l'arrêté royal du 25 octobre 2007 concernant les mesures de réparation à la suite de la détérioration significative du milieu marin et la récupération des coûts des mesures de prévention, des mesures de confinement et des mesures de réparation
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Dans l'article 3, § 1er de l'arrêté royal du 25 octobre 2007 concernant les mesures de réparation à la suite de la détérioration significative du milieu marin et la récupération des coûts des mesures de prévention, des mesures de confinement et des mesures de réparation, le 4° est remplacé par ce qui suit :
+" 4° la Convention internationale de 1996 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, avec Annexes, faite à Londres le 3 mai 1996 et modifiée par le Protocole de Londres de 2010, fait à Londres le 30 avril 2010. "
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Dispositions modificatives de l'arrêté royal du 15 juillet 2020 relatif à la navigation respectueuse de l'environnement
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 2.1.1 de l'arrêté royal du 15 juillet 2020 relatif à la navigation respectueuse de l'environnement, les modifications suivantes sont apportées :
+§ 1er. Au 1°, les mots " , un certificat HNS, " sont insérés entre les mots " un certificat WRC " et les mots " un certificat PAL ".
+§ 2. Au 2°, les mots " , la Convention HNS 2010, " sont insérés entre les mots " la Convention WRC, " et les mots " la Convention PAL ".
+§ 3. L'article 2.1.1 est complété par un 3° rédigé comme suit :
+" 3° personne associée : toute société liée à une société selon les dispositions de l'article 1:20 du Code des sociétés et des associations. "
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 2.1.4, alinéa 1, du même arrêté, les mots " , des paragraphes 1 et 5 de l'article 12 de la Convention HNS 2010 " sont insérés entre les mots " des paragraphes 1 et 6 de l'article 12 de la Convention WRC " et les mots " ou des paragraphes 1er et 6 de l'article 4bis de la Convention PAL ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'article 2.1.11 du même arrêté royal est remplacé par ce qui suit :
+" Art. 2.1.11. Pour l'application de la présente section, on entend par `personne qui reçoit des hydrocarbures donnant lieu à contribution' toute personne physique ou morale qui reçoit, pour son propre compte ou pour le compte de tiers, des hydrocarbures donnant lieu à contribution, au moment où ceux-ci sont débarqués, après avoir été transportés par mer, dans le port ou l'installation terminale de destination situé sur le territoire belge. "
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0003"> 5</a>. Dans le chapitre 1er du Titre 2 du même arrêté royal, il est inséré une section 3, comportant les articles 2.1.16 à 2.1.21, rédigée comme suit :
+" Section 3. - Fonds HNS
+Sous-section 1. - Avant l'entrée en vigueur de la Convention HNS 2010
+Art. 2.1.16. Pour l'application de la présente section et avant l'entrée en vigueur de la Convention HNS 2010, l'on entend par " réceptionnaire " la personne morale qui reçoit effectivement la cargaison donnant lieu à contribution qui est déchargée dans les ports et terminaux d'un Etat Partie.
+Sous-section 2. - Après l'entrée en vigueur de la Convention HNS 2010
+Art. 2.1.17. Pour l'application de la présente section et après l'entrée en vigueur de la Convention HNS 2010, l'on entend par " réceptionnaire " la personne morale qui reçoit effectivement la cargaison donnant lieu à contribution qui est déchargée dans les ports et terminaux d'un Etat Partie, étant entendu que, si au moment de la réception, la personne qui reçoit effectivement la cargaison agit en tant que mandataire pour le compte d'une autre personne, le mandant sera considéré comme étant le réceptionnaire, si le mandataire révèle au Fonds HNS l'identité du mandant.
+Pour l'application de l'alinéa 1er, si le siège du mandant est situé en dehors du territoire belge, cette personne est représentée par une personne morale dont le siège social se trouve en Belgique.
+Si aucun représentant légal n'est désigné en Belgique, le mandataire est présumé être le représentant légal du mandant.
+Art. 2.1.18. § 1er. Tout réceptionnaire est tenu, après réception d'une invitation à payer émanant de l'Administrateur du Fonds HNS, de payer les contributions visées aux articles 16 à 20 de la Convention HNS 2010.
+§ 2. Toutefois, toutes les contributions sont versées par la personne qui, immédiatement avant le déchargement, détenait le titre de propriété d'une cargaison de GNL déchargée dans un port ou un terminal belge, ci-après le détenteur du titre de propriété, si les conditions suivantes sont remplies :
+1° le détenteur du titre de propriété a conclu un accord avec le réceptionnaire en vertu duquel le détenteur du titre de propriété doit verser ces contributions ; et
+2° le réceptionnaire a informé la Direction de l'existence d'un tel accord.
+Si le détenteur du titre de propriété ne paye pas les contributions au Fonds HNS, le réceptionnaire est tenu de verser les contributions au Fonds HNS pour les quantités reçues.
+§ 3. Lorsque le montant total des quantités d'un type donné de cargaison donnant lieu à contribution qui ont été reçues sur le territoire belge au cours d'une année civile par le réceptionnaire principal, et des quantités du même type de cargaison qui y ont été reçues au cours de la même année par une ou plusieurs personnes associées dépasse la limite spécifiée dans les articles 16 à 20 de la Convention HNS 2010, le réceptionnaire principal est tenu de verser des contributions calculées en fonction des quantités de cargaison effectivement reçues par lui, nonobstant le fait que ces quantités ne dépassent pas la limite pertinente.
+Sous-section 3. - Dispositions générales relatives au Fonds HNS
+Art. 2.1.19. § 1er. Tout réceptionnaire déclare, au plus tard le 15 mars de chaque année civile, les quantités de cargaison donnant lieu à contribution reçue au cours de l'année civile précédente.
+§ 2. La responsabilité de déclarer les quantités reçues de cargaison donnant lieu à contribution incombe aux membres de l'organe légal d'administration.
+§ 3. L'obligation de déclarer s'applique lorsque :
+1° les quantités d'hydrocarbures reçues sont supérieures à 150 000 tonnes ;
+2° quelque quantité de gaz naturel liquéfié (GNL) que ce soit est reçue ;
+3° les quantités d'autres substances nocives et potentiellement dangereuses reçues sont supérieures à 15.000 tonnes.
+§ 4. Une déclaration est également soumise par toute personne qui a reçu individuellement, pendant l'année civile considérée, une quantité de cargaison donnant lieu à contribution qui ne dépasse pas les quantités indiquées au premier alinéa, si elle fait partie d'un groupe de personnes associées qui conjointement ont reçu, au cours de l'année civile considérée, sur le territoire belge, des quantités de cargaison donnant lieu à contribution qui dépassent les quantités indiquées au premier alinéa.
+§ 5. Dans sa déclaration, le réceptionnaire indique les quantités reçues pour le compte d'autrui, et indique également les données de contact de cette personne.
+Art. 2.1.20. Le rapport visé à l'article 2.1.19 est transmis au Contrôle de la Navigation, selon la procédure indiquée sur son site internet.
+Art. 2.1.21. § 1er. Conformément à l'article 21 de la Convention HNS 2010, la Direction communique à l'administrateur du Fonds HNS la dénomination et l'adresse de toute personne visée à l'article 2.7.3.30 du Code belge de la Navigation, ainsi que les indications sur les quantités de cargaison donnant lieu à contribution qui ont été reçues par cette personne au cours de l'année civile précédente.
+§ 2. Lorsqu'une personne ne remplit pas ou remplit tardivement l'obligation visée à l'article 2.7.3.30 du Code belge de la Navigation, la Direction détermine les indications sur les quantités de cargaison donnant lieu à contribution relatives à cette personne et les communique à l'administrateur du Fonds HNS.
+§ 3. La Direction informe, par envoi recommandé, toute personne des communications qui leur sont relatives et qu'il adresse à l'administrateur du Fonds HNS en vertu des paragraphes 1er et 2. Toutes les communications mentionnées ont lieu simultanément. Si dans ces communications, il est dérogé à la déclaration effectuée conformément à l'article 2.7.3.30 du Code belge de la Navigation ou si ces communications sont réalisées en application du paragraphe 2, il en est fait mention dans l'information adressée à la personne concernée.
+§ 4. Sur ces communications adressées à l'administrateur du Fonds HNS, la personne concernée peut présenter à la Direction, ses observations, par envoi recommandé, dans un délai de dix jours après en avoir été informée conformément à l'alinéa précédent. La Direction peut modifier ces communications dans un délai de trente jours à compter du jour où celles-ci ont été envoyées à l'administrateur du Fonds HNS, la personne concernée étant entendue au préalable dans ses observations. Ce délai expiré, aucune modification ne peut plus être apportée à ces communications.
+§ 5. La Direction informe la personne concernée de la suite réservée à ses observations, par envoi recommandé, dans un délai de quarante jours prenant cours le jour où les communications lui ont été envoyées. "
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Modification de l'arrêté royal du 21 septembre 2020 fixant les redevances concernant la navigation
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#LNK0004"> 6</a>. Dans l'article 1.1, 3°, de l'arrêté royal du 21 septembre 2020 fixant les redevances concernant la navigation, les mots " de la Convention HNS 2010, " sont insérés entre les mots " de la Convention CSC, " et les mots " de la Convention LL ".
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Entrée en vigueur
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0005"> 7</a>. Les articles 2 et 3 du présent arrêté entrent en vigueur le jour de l'entrée en vigueur de la Convention HNS 2010.
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE 5.</a> - Disposition finale
+
+<a name="Art.8" href="#Art.7">Art.</a> 8. Le ministre qui a la mobilité maritime dans ses attributions est chargé de l'exécution du présent arrêté.
