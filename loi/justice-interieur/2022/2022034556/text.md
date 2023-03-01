@@ -1,0 +1,16 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans la loi du 5 août 1992 sur la fonction de police, il est inséré un article 37ter rédigé comme suit:
+"Art. 37ter. Sans préjudice des dispositions de l'article 37, il est interdit pour les membres du cadre opérationnel de menotter une personne mineure sauf dans les cas suivants:
+1° lors du transfèrement, de l'extraction et de la surveillance de mineurs qui ont commis un fait qualifié d'infraction ou qui sont suspectés d'en avoir commis;
+2° lors de la surveillance d'un mineur sous le coup d'une privation de liberté judiciaire ou d'une arrestation administrative.
+Dans les deux cas, le mineur ne peut être menotté qu'à titre exceptionnel et que si cela est jugé nécessaire, compte tenu des circonstances, vu:
+1° la résistance ou la violence manifestée lors de la privation de liberté;
+2° le danger imminent d'évasion;
+3° le danger que l'intéressé représente pour lui-même, pour le membre du cadre opérationnel ou pour les tiers;
+4° le risque imminent de voir l'intéressé tenter de détruire des preuves.
+Le menottage ne peut pas durer plus longtemps que nécessaire sur la base des circonstances et sa durée doit toujours être aussi courte que possible. Le mineur ne peut en aucun cas rester menotté si les circonstances qui justifient le menottage cessent d'exister.
+En cas de doute au sujet de la majorité, la réglementation applicable aux mineurs est appliquée.
+Tout menottage de mineur est mentionné dans le procès-verbal ou dans le registre des privations de liberté, selon le cas, le menottage devant être expressément motivé sur la base des conditions légales. Ce registre est enregistré dans les banques de données de base telles que visées dans l'article 44/11/2.".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. La présente loi entre en vigueur le premier jour du troisième mois qui suit sa publication au Moniteur belge.
