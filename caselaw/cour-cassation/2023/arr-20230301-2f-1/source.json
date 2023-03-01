@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230301.2F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230301.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-01",
+  "date_as_printed": "Jugement/arrêt du 01 mars 2023",
+  "published_on_juportal": "2023-03-07",
+  "language": "fr",
+  "role_number": "P.22.1463.F",
+  "case_name_as_published": "Procureur général de Mons contra W.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INFRACTION - PARTICIPATION",
+    "MISDRIJF - DEELNEMING",
+    "Acte positif - Omission d'agir - Conditions",
+    "Positieve daad - Verzuim om te handelen - Voorwaarden"
+  ],
+  "fiche": [
+    "INFRACTION - PARTICIPATION",
+    "Acte positif - Omission d'agir - Conditions",
+    "Code pénal 1867 - 08-06-1867 - Art. 66 - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 67 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230301.2F.1",
+  "source_sha256": "73211db245d352c77f8c8542ff315006accd5438e4ee806c020d19236109182c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230301.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
