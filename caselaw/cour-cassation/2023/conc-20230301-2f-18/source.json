@@ -1,0 +1,53 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230301.2F.18",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230301.2F.18",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-01",
+  "date_as_printed": "Conclusions du Ministère public du 01 mars 2023",
+  "published_on_juportal": "2023-05-09",
+  "language": "fr",
+  "role_number": "P.23.0256.F",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "RECHTERLIJKE ORGANISATIE - STRAFZAKEN",
+    "Cumul de fonctions - Même cause - Notion - Portée - Arrêt rectificatif",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Arrêt de la chambre des mises en accusation - Contradiction entre motifs et dispositif - Rectification - Substitution d'une décision « appel non fondé » à la décision « appel fondé » - Légalité",
+    "Cumulatie van ambten - Zelfde zaak - Begrip - Draagwijdte - Verbeterend arrest",
+    "Arrest van de kamer van inbeschuldigingstelling - Tegenstrijdigheid tussen redenen en dictum - Verbetering - Beslissing “hoger beroep gegrond” vervangen door beslissing “hoger beroep niet-gegrond” - Wettigheid"
+  ],
+  "fiche": [
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "Cumul de fonctions - Même cause - Notion - Portée - Arrêt rectificatif",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 292 - 02 Lien ELI No pub 1967101053 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 794, al. 1er - 04 Lien ELI No pub 1967101055",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "Cumul de fonctions - Même cause - Notion - Portée - Arrêt rectificatif",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 292 - 02 Lien ELI No pub 1967101053 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 794, al. 1er - 04 Lien ELI No pub 1967101055",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Cumul de fonctions - Même cause - Notion - Portée - Arrêt rectificatif",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 292 - 02 Lien ELI No pub 1967101053 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 794, al. 1er - 04 Lien ELI No pub 1967101055",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "Arrêt de la chambre des mises en accusation - Contradiction entre motifs et dispositif - Rectification - Substitution d'une décision « appel non fondé » à la décision « appel fondé » - Légalité",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 794, al. 1er - 04 Lien ELI No pub 1967101055",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Arrêt de la chambre des mises en accusation - Contradiction entre motifs et dispositif - Rectification - Substitution d'une décision « appel non fondé » à la décision « appel fondé » - Légalité",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 794, al. 1er - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230301.2F.18",
+  "source_sha256": "a72971470bb09a2a076efe65dea9f96e1241ac3ed5a78d78f352ebbf7f3e7202",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230301.2F.18_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
