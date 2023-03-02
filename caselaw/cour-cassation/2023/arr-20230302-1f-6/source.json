@@ -1,0 +1,47 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230302.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230302.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-02",
+  "date_as_printed": "Jugement/arrêt du 02 mars 2023",
+  "published_on_juportal": "2023-04-13",
+  "language": "fr",
+  "role_number": "F.21.0172.F",
+  "case_name_as_published": "ETAT BELGE FINANCES contra D.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Sanctions administratives à caractère répressif - Légalité de la sanction - Proportionnalité par rapport à l'infraction - Contrôle du juge",
+    "Amendes fiscales - Réduction - Juge fiscal - Pouvoir - Arrêté du Régent n° 78 - Article 9 - Ministre des Finances - Conséquence",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droit fiscal - Application - Sanction administrative - Amende proportionnelle - Légalité de la sanction - Pouvoirs du juge",
+    "Administratieve sancties met repressief karakter - Wettigheid van de sanctie - Evenredigheid met het misdrijf - Toezicht van de rechter",
+    "Fiscale geldboeten - Vermindering - Fiscale rechter - Bevoegdheid - Regentbesluit nr. 78 - Artikel 9 - Minister van Financiën - Gevolg",
+    "Fiscaal recht - Toepassing - Administratieve sanctie - Proportionele geldboete - Wettigheid van de sanctie - Bevoegdheden van de rechter"
+  ],
+  "fiche": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "Sanctions administratives à caractère répressif - Légalité de la sanction - Proportionnalité par rapport à l'infraction - Contrôle du juge",
+    "L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 70, § 1er - 32 Lien DB Justel 19690703-32 L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 84, al. 3 - 32 Lien DB Justel 19690703-32 A.R. n° 41 du 30 janvier 1987 - 41 - 30-01-1987 - Art. 1er, dernier al. - 32 Lien DB Justel 19870130-32 Arrêté du Régent organique n° 78 du 18 mars 1831 de l'administration des finances - 18-03-1831 - Art. 9 - 01 Lien ELI No pub 1831031801",
+    "Amendes fiscales - Réduction - Juge fiscal - Pouvoir - Arrêté du Régent n° 78 - Article 9 - Ministre des Finances - Conséquence",
+    "L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 70, § 1er - 32 Lien DB Justel 19690703-32 L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 84, al. 3 - 32 Lien DB Justel 19690703-32 Arrêté du Régent organique n° 78 du 18 mars 1831 de l'administration des finances - 18-03-1831 - Art. 9 - 01 Lien ELI No pub 1831031801",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Droit fiscal - Application - Sanction administrative - Amende proportionnelle - Légalité de la sanction - Pouvoirs du juge",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30",
+    "Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2023, nr. 1789, p. 1-2. - JVD; Noot'Opnieuw tegenstrijdige rechtspraak van Cassatie, nu over rol 'Regentbesluit'."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230302.1F.6",
+  "source_sha256": "18a9dba11709559a4c3627b09066906b40d87d43f5e836bc17d86caf4f8528bf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230302.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
