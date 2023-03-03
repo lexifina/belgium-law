@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 23, alinéa 2, de l'arrêté royal du 10 décembre 2017 établissant un programme de garantie de la responsabilité civile dans le domaine de l'énergie nucléaire, les mots " ou si le montant total estimé de l'ajustement des commissions de garantie qui résulterait de la mise à jour de l'index de marché pour cette nouvelle période annuelle ne dépasse pas 10.000 euros, " sont insérés entre les mots " Dans la négative, " et les mots " le ministre ou son délégué ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
