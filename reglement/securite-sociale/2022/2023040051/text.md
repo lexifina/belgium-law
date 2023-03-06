@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 6 du règlement du 28 juillet 2003 portant exécution de l'article 22, 11° de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonné le 14 juillet 1994, modifié en dernier lieu par le règlement du 30 mai 2022, au § 3ter, un second alinéa est inséré :
+" En cas d'utilisation d'une attestation globale de soins donnés conforme au modèle de l'annexe 28, l'hygiéniste bucco-dentaire ayant effectué la prestation est identifié dans la colonne " N° INAMI et nom du dispensateur ", en dessous de la ligne identifiant le praticien de l'art dentaire qui atteste le soin, avec la mention " hygiéniste bucco-dentaire: " suivi du numéro INAMI de l'hygiéniste. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent règlement entre en vigueur le jour de sa publication au Moniteur belge.
