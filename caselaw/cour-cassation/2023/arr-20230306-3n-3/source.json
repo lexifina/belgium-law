@@ -1,0 +1,39 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230306.3N.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230306.3N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-06",
+  "date_as_printed": "Vonnis/arrest van 06 maart 2023",
+  "published_on_juportal": "2023-05-25",
+  "language": "nl",
+  "role_number": "C.22.0272.N",
+  "case_name_as_published": "P. contra P.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CHOSE JUGEE - AUTORITE DE CHOSE JUGEE - Matière civile",
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Burgerlijke zaken",
+    "ASTREINTE",
+    "DWANGSOM"
+  ],
+  "fiche": [
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Burgerlijke zaken",
+    "Gerechtelijk Wetboek - 10-10-1967 - Artt. 23 en 25 - 01 ELI link Pub nr 1967101052",
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Burgerlijke zaken",
+    "Gerechtelijk Wetboek - 10-10-1967 - Artt. 23 en 25 - 01 ELI link Pub nr 1967101052",
+    "DWANGSOM",
+    "Benelux-Overeenkomst houdende eenvormige wet betreffende de dwangsom, gedaan te 's Gravenhage op 26 november 1973 - 26-11-1973 - Art. 1, eerste en tweede lid - 32 Link Justel databank 19731126-32 Gerechtelijk Wetboek - 10-10-1967 - Art. 1385bis, eerste en tweede lid - 01 ELI link Pub nr 1967101052",
+    "DWANGSOM",
+    "Gerechtelijk Wetboek - 10-10-1967 - Artt. 23, 25 en 1385bis - 01 ELI link Pub nr 1967101052",
+    "RABG-Rechtspraak Antwerpen Brussel Gent - 2023, nr. 15, p. 1284-1292. - BAETENS-SPETSCHINSKY; Noot'De mogelijkheid van de latere koppeling van een dwangsom aan een hoofdveroordeling'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230306.3N.3",
+  "source_sha256": "e9611989bd4688331caab31fa50b544d62f4da35eafbcb01856c3e62d02dc2f9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230306.3N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_96.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
