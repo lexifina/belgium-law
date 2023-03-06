@@ -1,0 +1,45 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2023:CONC.20230306.3N.6",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230306.3N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-06",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 06 maart 2023",
+  "published_on_juportal": "2023-06-16",
+  "language": "nl",
+  "role_number": "C.22.0128.N",
+  "case_name_as_published": "BOUWBEDRIJF VMG-DE COCK c. Provincie Oost-Vlaanderen",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "PRINCIPES GENERAUX DU DROIT",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "CONSEIL D'ETAT",
+    "RAAD VAN STATE",
+    "CHOSE JUGEE - AUTORITE DE CHOSE JUGEE - Généralités",
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Algemeen"
+  ],
+  "fiche": [
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Algemeen rechtsbeginsel van administratief recht betreffende het gezag van gewijsde van arresten van de Raad van State Gerechtelijk Wetboek - 10-10-1967 - Art. 23 - 01 ELI link Pub nr 1967101052",
+    "RAAD VAN STATE",
+    "Algemeen rechtsbeginsel van administratief recht betreffende het gezag van gewijsde van arresten van de Raad van State Gerechtelijk Wetboek - 10-10-1967 - Art. 23 - 01 ELI link Pub nr 1967101052",
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Algemeen",
+    "Algemeen rechtsbeginsel van administratief recht betreffende het gezag van gewijsde van arresten van de Raad van State",
+    "RAAD VAN STATE",
+    "Algemeen rechtsbeginsel van administratief recht betreffende het gezag van gewijsde van arresten van de Raad van State",
+    "RAAD VAN STATE",
+    "Algemeen rechtsbeginsel van administratief recht betreffende het gezag van gewijsde van arresten van de Raad van State",
+    "NJW-Nieuw juridisch weekblad - 2024, nr. 503, p. 526-527. - COPPENS, Alain; Noot'Gezag van gewijsde van een verwerpingsarrest van de raad van state'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230306.3N.6",
+  "source_sha256": "0fe15eb7d0fc6d3f760feff112ef7dd657d8f00bf47abaef4d5cfeb597d85be9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230306.3N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_98.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
