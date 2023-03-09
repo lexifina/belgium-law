@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230309.1F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230309.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-09",
+  "date_as_printed": "Jugement/arrêt du 09 mars 2023",
+  "published_on_juportal": "2023-04-13",
+  "language": "fr",
+  "role_number": "C.18.0440.F",
+  "case_name_as_published": "M. contra A.C.P.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PROPRIETE",
+    "EIGENDOM",
+    "Copropriété - Assemblée générale des copropriétaires - Disposition de biens immobiliers commun - Modalités de prise de décision - Majorité des quatre cinquièmes des voix - Droit au respect des biens - Ingérence",
+    "Copropriété - Assemblée générale des copropriétaires - Disposition de biens immobiliers commun - Modalités de prise de décision - Droit au respect des biens - Droit des copropriétaires - Ingérence - Gravité - Seuil de majorité - Procédure de contrôle judiciaire - Impératifs de l'intérêt général - Protection du droit au respect des biens - Juste équilibre",
+    "Mede-eigendom - Algemene vergadering van mede-eigenaars - Beschikking over gemeenschappelijke onroerende goederen - Wijze van besluitvorming - Meerderheid van vier vijfde van de stemmen - Recht op het ongestoord genot van de eigendom - Inmenging",
+    "Mede-eigendom - Algemene vergadering van mede-eigenaars - Beschikking over gemeenschappelijke onroerende goederen - Wijze van besluitvorming - Recht op het ongestoord genot van de eigendom - Recht van de mede-eigenaars - Inmenging - Ernst - Meerderheidsdrempel - Procedure van rechterlijk toezicht - Vereisten van het algemeen belang - Bescherming van het recht op het ongestoord genot van de eigendom - Billijk evenwicht"
+  ],
+  "fiche": [
+    "PROPRIETE",
+    "Copropriété - Assemblée générale des copropriétaires - Disposition de biens immobiliers commun - Modalités de prise de décision - Majorité des quatre cinquièmes des voix - Droit au respect des biens - Ingérence",
+    "ancien Code Civil - 21-03-1804 - Art. 577-7, § 1er, 2°, e) - 30 Lien ELI No pub 1804032150",
+    "PROPRIETE",
+    "Copropriété - Assemblée générale des copropriétaires - Disposition de biens immobiliers commun - Modalités de prise de décision - Droit au respect des biens - Droit des copropriétaires - Ingérence - Gravité - Seuil de majorité - Procédure de contrôle judiciaire - Impératifs de l'intérêt général - Protection du droit au respect des biens - Juste équilibre",
+    "ancien Code Civil - 21-03-1804 - Art. 577-7, § 1er - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 577-9, § 2 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230309.1F.1",
+  "source_sha256": "13a22be770ad523b106c96d1a009b3cc454b27fe12d3521a5433b8dd54bb178c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230309.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
