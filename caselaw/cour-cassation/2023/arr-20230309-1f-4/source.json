@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230309.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230309.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-09",
+  "date_as_printed": "Jugement/arrêt du 09 mars 2023",
+  "published_on_juportal": "2023-04-13",
+  "language": "fr",
+  "role_number": "C.22.0332.F",
+  "case_name_as_published": "LE CHATEAU DE SOMBREFFE s.r.l. contra D.",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 149",
+    "Jugement - Obligation de motiver - Motifs devant permettre un contrôle de légalité",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Jugement - Obligation de motiver - Cour de cassation - Contrôle de légalité - Motifs devant permettre un tel contrôle",
+    "Vonnis - Motiveringsplicht - Redenen die een wettigheidstoezicht moeten toelaten",
+    "Vonnis - Motiveringsplicht - Hof van Cassatie - Wettigheidstoezicht - Redenen die een dergelijk toezicht moeten toelaten"
+  ],
+  "fiche": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "Jugement - Obligation de motiver - Motifs devant permettre un contrôle de légalité",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "Jugement - Obligation de motiver - Cour de cassation - Contrôle de légalité - Motifs devant permettre un tel contrôle",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230309.1F.4",
+  "source_sha256": "d811925985f44d2d9520f4b466eac805b313391de5781c43ebb0f428cbf5c67a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230309.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/01/sitemap_27.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
