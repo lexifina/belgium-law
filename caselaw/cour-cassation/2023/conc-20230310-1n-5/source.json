@@ -1,0 +1,35 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2023:CONC.20230310.1N.5",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230310.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-10",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 10 maart 2023",
+  "published_on_juportal": "2023-07-05",
+  "language": "nl",
+  "role_number": "C.22.0126.N",
+  "case_name_as_published": "PROXIMUS contra TWO-WAY MEDIA LTD",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "CAUTIO JUDICATUM SOLVI"
+  ],
+  "fiche": [
+    "GRONDWETTELIJK HOF",
+    "Bijzondere wet op het Arbitragehof van 6 januari 1989 - 06-01-1989 - Art. 26 - 30 ELI link Pub nr 1989021001 Bijzondere wet op het Arbitragehof van 6 januari 1989 - 06-01-1989 - Art. 28 - 30 ELI link Pub nr 1989021001",
+    "CAUTIO JUDICATUM SOLVI",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 851 - 01 ELI link Pub nr 1967101052 Gerechtelijk Wetboek - 10-10-1967 - Art. 852 - 01 ELI link Pub nr 1967101052 Bijzondere wet op het Arbitragehof van 6 januari 1989 - 06-01-1989 - Art. 28, tweede lid - 30 ELI link Pub nr 1989021001",
+    "Juristenkrant-De Juristenkrant - 2023, nr. 468, p. 9. - VERHOEVEN, Marek; Noot'Cassatie interpreteert borgstelling eisende vreemdeling grondwetsconform' TBP-Tijdschrift voor bestuurswetenschappen en publiekrecht - 2024, n° 1, p. 29-38. - BOMBAY, Anne; Noot'(Invullen van) een wetgevende lacune of niet? That's the cautio(us) question'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230310.1N.5",
+  "source_sha256": "80f0ae3f240fde87416ab7b9961465351b94710f7f4a69c97f95650d54b187a1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230310.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_100.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
