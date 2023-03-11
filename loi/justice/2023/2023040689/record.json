@@ -1,0 +1,30 @@
+{
+  "id": "2023040689",
+  "title": "8 FEVRIER 2023. - Loi modifiant l'ancien Code civil en vue d'abroger la cessation de la cohabitation légale pour cause de mariage avec un tiers",
+  "source_title": "8 FEVRIER 2023. - Loi modifiant l'ancien Code civil en vue d'abroger la cessation de la cohabitation légale pour cause de mariage avec un tiers",
+  "act": "loi/justice/2023/2023040689",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-03-01&numac_search=2023040689&page=120&lg_txt=F&caller=list&2023040689=2&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "b775dbf9a67efca657d17f0ce5f660563e2422ad462a4f001e91bca2753b8222",
+  "source_issuer": "Justice",
+  "made": "2023-02-08",
+  "published": "2023-03-01",
+  "in_force": "2023-03-11",
+  "in_force_basis": "Justel: Entrée en vigueur : 11 mars 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "1 mars 2023",
+    "Numéro": "2023040689",
+    "page": "25648",
+    "Dossier numéro": "2023-02-08/05",
+    "Entrée en vigueur": "11 mars 2023",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 148,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-03-11"
+}
