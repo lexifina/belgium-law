@@ -1,0 +1,33 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230315.2F.3",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230315.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-15",
+  "date_as_printed": "Conclusions du Ministère public du 15 mars 2023",
+  "published_on_juportal": "2023-06-01",
+  "language": "fr",
+  "role_number": "P.22.1510.F",
+  "case_name_as_published": "M. contra DIRECTION GÉNÉRALE OPERATIONNELLE",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "ENVIRONNEMENT (DROIT DE L')",
+    "MILIEURECHT",
+    "Remise de lieux en état - Procédure administrative - Délai pour prendre la décision - Point de départ",
+    "Herstel van de plaats in de vorige staat - Administratieve procedure - Termijn om de beslissing te nemen - Aanvang"
+  ],
+  "fiche": [
+    "ENVIRONNEMENT (DROIT DE L')",
+    "Remise de lieux en état - Procédure administrative - Délai pour prendre la décision - Point de départ",
+    "Code de l'environnement - Livre 1er : Dispositions communes et générales. - Partie décrétale. - 27-05-2004 - Art. D148 ancien - 83 Lien ELI No pub 2004A27101 Code de l'environnement - Livre 1er : Dispositions communes et générales. - Partie décrétale. - 27-05-2004 - Art. D163 ancien - 83 Lien ELI No pub 2004A27101"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230315.2F.3",
+  "source_sha256": "62e5809b613c5dc7446637260fc6f90eccb17d99855719e97739cad56c63c9b0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230315.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
