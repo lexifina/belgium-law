@@ -1,0 +1,80 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE Ier.</a> - Généralités
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. La voie de communication électronique est privilégiée pour l'ensemble des communications relatives à la procédure devant la commission d'évaluation. Si celle-ci n'est pas possible, il est fait usage des autres modes courants de communication (courrier ordinaire, courrier recommandé, remise en mains propres).
+Lorsque cette communication constitue le point de départ d'un délai, il y a lieu de prévoir un accusé de réception de celle-ci.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE II.</a> - Convocations et fixation des audiences
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. La commission d'évaluation accuse réception de chaque dossier.
+§ 2. Seuls les dossiers complets sont fixés à l'ordre du jour d'une audience.
+Un dossier complet comporte :
+1. l'inventaire de l'ensemble des pièces du dossier ;
+2. les pièces du dossier d'évaluation défini à l'article 24 de l'arrêté royal du 14 janvier 2022 relatif à l'évaluation dans la fonction publique et afférentes au cycle d'évaluation concerné par le recours ;
+3. les coordonnées personnelles complètes de l'évalué, de l'évaluateur et du directeur P&amp;O ou de son délégué.
+Le cas échéant, et sans préjudice de son audition, l'évalué communique à la commission d'évaluation son éventuelle motivation écrite, voire pièces complémentaires au dossier transmis, au plus tard le cinquième jour ouvrable qui précède la date d'audience.
+L'évalué communique dans le même temps les éléments susmentionnés à l'évaluateur invité à être entendu.
+Aucune pièce nouvelle ne peut être ajoutée par l'évaluateur ou toute autre partie intervenante autre que l'évalué au dossier d'évaluation, sans préjudice d'une demande de la commission d'évaluation à l'audience. Le report d'audience de la commission d'évaluation est accordé à la demande de l'évalué suite à la production de documents en exécution du présent alinéa. La commission d'évaluation veille à informer l'évalué de cette opportunité de report.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er. La commission d'évaluation se réunit aux dates fixées par le président.
+Les dossiers de stage sont fixés par priorité dans l'ordre du jour.
+§ 2. L'ordre du jour est joint à la convocation adressée aux membres de la commission d'évaluation.
+Les dossiers fixés sont rendus accessibles aux membres de la commission d'évaluation qui siègent à l'audience, par le biais d'une consultation en ligne. A défaut, une copie des dossiers leur est transmise par un envoi numérique sécurisé ou par courrier ordinaire.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#LNK0003"> 4</a>. L'évalué et l'évaluateur sont convoqués au plus tard 10 jours ouvrables avant la date d'audience de la commission d'évaluation.
+L'évaluateur informe de la date d'audience le directeur P&amp;O ou son délégué.
+Les nom et coordonnées de la personne qui assiste le membre du personnel sont communiqués à la commission d'évaluation.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE III.</a> - Déroulement des audiences
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le président de la commission d'évaluation ouvre et clôt les séances, et dirige les débats tout en assurant l'ordre de l'assemblée.
+Lorsque le président de la commission d'évaluation relève du même service fédéral que celui de l'évalué, il se fait remplacer.
+Lorsque le président est absent ou empêché, les membres désignés par l'autorité désignent entre eux un président pour l'audience, de préférence, parmi les titulaires d'une classe A3 au moins.
+Il n'est pas établi de procès-verbal de l'audience.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'audience se tient à huis clos.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0004"> 7</a>. § 1er. L'évalué et l'évaluateur sont entendus ensemble.
+L'évalué et l'évaluateur sont tenus informés de la présence de tout autre intervenant à l'audience que la commission d'évaluation pourrait demander à entendre en présence de l'évalué en exécution de l'article 30, alinéa 4 de l'arrêté royal du 14 janvier 2022 relatif à l'évaluation dans la fonction publique.
+La commission d'évaluation entend dans l'ordre :
+1° en cas de stage, l'évaluateur puis le stagiaire ;
+2° en cas de recours contre la mention " insuffisant ", l'évalué puis l'évaluateur.
+Le dernier mot revient à l'évalué.
+§ 2. Avant de prendre l'affaire en délibéré à huis clos, le président informe les parties du délai pour la remise de l'avis, la décision ou la proposition.
+§ 3. La commission d'évaluation informe oralement l'évalué et l'évaluateur de l'avis, de la proposition ou de la décision à l'issue de la délibération.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE IV.</a> - Délibération et vote
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0005"> 8</a>. Le vote a lieu au scrutin secret en application de l'article 30, alinéa 5 de l'arrêté royal du 14 janvier 2022. Il s'effectue lors de l'audience conformément aux instructions du président, par le biais de bulletins de vote ou via un système de vote électronique.
+Le résultat du vote est communiqué aux membres de la commission d'évaluation immédiatement après celui-ci, avant d'être ensuite consigné sous scellés dans le dossier concerné.
+Les membres de la commission d'évaluation s'accordent, au terme de l'audience, sur les éléments de motivation.
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE V.</a> - Avis, propositions, décisions et notification
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. L'avis, la proposition ou la décision notifié(e) indique l'ensemble des étapes de procédure suivies et contient notamment les mentions suivantes :
+1° la nature du document, à savoir : avis, décision ou proposition et sa date ;
+2° les visas, à savoir le préambule faisant référence aux textes qui donnent compétence à la commission d'évaluation pour connaître de l'affaire et l'indication des dates de recours, saisine, convocations ;
+3° le nom des membres qui ont délibéré, ainsi que le groupe des services fédéraux dont ils relèvent et, le cas échéant, le nom des membres qui ont été exclus du vote par tirage au sort en vue de rétablir la parité;
+4° le nom, le prénom et la qualité des parties entendues, de la personne qui assiste éventuellement l'évalué, de tout autre intervenant que la commission d'évaluation entend en exécution de l'article 30, alinéa 4, de l'arrêté royal du 14 janvier 2022 (notamment le directeur P&amp;O ou son délégué, etc.) ;
+5° le cas échéant, l'accord de l'évalué quant au recours aux nouvelles technologies de communication pour la tenue de l'audience ;
+6° le cas échéant, la demande de report de l'évalué en cas de production de pièce par tout autre intervenant à la demande de la commission d'évaluation à l'audience ;
+7° la nature de la demande ;
+8° la motivation ;
+9° le dispositif comprenant l'avis, la proposition ou la décision, après indication du résultat du scrutin secret avec l'information du nombre de voix positives et négatives, et l'éventuelle voix prépondérante du président en cas de partage des voix ;
+10° la signature du président.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. L'original de l'avis, de la proposition ou de la décision de la commission d'évaluation est conservé par la commission d'évaluation.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0006"> 11</a>. La commission d'évaluation archive, par audience et par section linguistique :
+1° l'ensemble des dossiers dans lesquels sont ajoutés les écrits de procédure, ainsi que les résultats de votes ;
+2° la liste des présences ;
+3° l'ordre du jour.
+Un tableau récapitulatif des dossiers soumis à la commission d'évaluation par date d'audience et par section linguistique est établi ; il indique notamment :
+1° le nom de l'évalué ;
+2° le service fédéral qui l'emploie ;
+3° l'objet de la saisine (stage ou évaluation) ;
+4° la nature de la demande (en cas de stage : licenciement, prolongation,..., et en cas de recours, la mention " insuffisant ") ;
+5° l'avis, la proposition ou la décision de la commission d'évaluation.
+
+<a name="LNK0006" href="#LNKR0006">CHAPITRE VI.</a> - Dispositions finales
+
+<a name="Art.12" href="#Art.11">Art.</a> 12. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
