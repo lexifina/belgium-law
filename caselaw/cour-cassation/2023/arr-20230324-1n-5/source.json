@@ -1,0 +1,51 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230324.1N.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230324.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-24",
+  "date_as_printed": "Vonnis/arrest van 24 maart 2023",
+  "published_on_juportal": "2023-04-06",
+  "language": "nl",
+  "role_number": "F.21.0052.N",
+  "case_name_as_published": "A. contra BELGISCHE STAAT, FOD FINANCIËN",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit de la propriété intellectuelle",
+    "Intellectuele eigendom"
+  ],
+  "summary_keywords": [
+    "SIGNIFICATIONS ET NOTIFICATIONS - GENERALITES",
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN",
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus de biens meubles",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Inkomsten uit roerende goederen",
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Profits des professions libérales et profits d'occupations lucratives",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Baten uit vrije beroepen en uit winstgevende bezigheden",
+    "DROITS D'AUTEUR",
+    "AUTEURSRECHT"
+  ],
+  "fiche": [
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 861 - 01 ELI link Pub nr 1967101052",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Inkomsten uit roerende goederen",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Artt. 17, 27 en 37 - 32 Link Justel databank 19920612-32",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Baten uit vrije beroepen en uit winstgevende bezigheden",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Artt. 17, 27 en 37 - 32 Link Justel databank 19920612-32",
+    "AUTEURSRECHT",
+    "Wet 22 maart 1886 (Nederlandse tekst bij wet van 26 juni 1981) - 22-03-1886 - Artt. 1 en 8 - 30 ELI link Pub nr 1886032250 Conventie van Bern voor de bescherming van letterkundige en kunstwerken (herzien te Brussel op 26 juni 1948) - 26-06-1948 - Art. 2.1. - 31 Link Justel databank 19480626-31",
+    "AUTEURSRECHT",
+    "Wet 22 maart 1886 (Nederlandse tekst bij wet van 26 juni 1981) - 22-03-1886 - Artt. 1 en 8 - 30 ELI link Pub nr 1886032250 Conventie van Bern voor de bescherming van letterkundige en kunstwerken (herzien te Brussel op 26 juni 1948) - 26-06-1948 - Art. 2.1. - 31 Link Justel databank 19480626-31",
+    "AUTEURSRECHT",
+    "Wet 22 maart 1886 (Nederlandse tekst bij wet van 26 juni 1981) - 22-03-1886 - Artt. 1 en 8 - 30 ELI link Pub nr 1886032250 Conventie van Bern voor de bescherming van letterkundige en kunstwerken (herzien te Brussel op 26 juni 1948) - 26-06-1948 - Art. 2.1. - 31 Link Justel databank 19480626-31",
+    "JT-Journal des tribunaux - 2022, n° 31, p. 554-556. - BOULARBAH, Hakim; Note'Le juge doit d'office soulever la nullité de la signification de l'acte de procédure qui n'a pas atteint son destinataire et ordonner qu'il soit remédié à l'irrégularité'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230324.1N.5",
+  "source_sha256": "d9e4ba58f5ad8dd6ba195d7b4d4709857a708ce55102912466366581aec6959d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230324.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_89.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
