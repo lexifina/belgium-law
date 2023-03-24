@@ -1,0 +1,31 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230324.1N.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230324.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-24",
+  "date_as_printed": "Vonnis/arrest van 24 maart 2023",
+  "published_on_juportal": "2023-04-06",
+  "language": "nl",
+  "role_number": "F.21.0126.N",
+  "case_name_as_published": "CREATIVE CONSTRUCTION and RENOVATION NV c. BEL ST",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 354 - 32 Link Justel databank 19920612-32",
+    "Fiscologue-Fiscologue - 2023, n° 1787, p. 1-2. - JVD; Note'Délai de fraude: la Cour de cassation change son fusil d'épaule' BJS-Bulletin juridique social - 2023, n° 710, p. 12. - ZEYEN, Gaëtan; Note'La cotisation qui peut-être établie dans le délai de la fraude ne peut porter que sur les revenus éludés dans une intention frauduleuse ou à dessein de nuire...' Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2023, nr. 1787, p. 1-2. - JVD; Noot'Fraudetermijn: Cassatie verandert geweer van schouder' Fisc.Act.-Fiscale actualiteit: wekelijkse nieuwsbrief - 2023, nr. 17, p. 1-4. - VANDEWEYER, Tim; TOUSSAINT, Maarten; Noot'Hof van Cassatie kortwiekt fraudetermijn' RABG-Rechtspraak Antwerpen Brussel Gent - 2024, nr. 1, p. 13-21. - LARDENOIT, Charlotte; DUERINCK, Elke; Noot'De eigen finaliteit van de buitengewone aanslagtermijn dient gerespecteerd te worden'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230324.1N.4",
+  "source_sha256": "149316115deceb32a703f50d49a13b0742bae0eb47b355e2320470ee643c1136",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230324.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_90.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
