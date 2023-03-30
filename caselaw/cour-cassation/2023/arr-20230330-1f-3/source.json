@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230330.1F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230330.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-03-30",
+  "date_as_printed": "Jugement/arrêt du 30 mars 2023",
+  "published_on_juportal": "2023-04-13",
+  "language": "fr",
+  "role_number": "C.22.0336.F",
+  "case_name_as_published": "MM TAX CONSULTING s.r.l. contra S.",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - NOTIONS. CONDITIONS DE LA FAILLITE",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - BEGRIP. VEREISTEN VAN HET FAILLISSEMENT",
+    "Jugement déclaratif de faillite - Appel - Conditions de la faillite - Appréciation - Moment - Circonstances ultérieures - Prise en compte",
+    "Vonnis van faillietverklaring - Hoger beroep - Faillissementsvoorwaarden - Beoordeling - Tijdstip - Latere omstandigheden - Inaanmerkingneming"
+  ],
+  "fiche": [
+    "FAILLITE ET CONCORDATS - NOTIONS. CONDITIONS DE LA FAILLITE",
+    "Jugement déclaratif de faillite - Appel - Conditions de la faillite - Appréciation - Moment - Circonstances ultérieures - Prise en compte",
+    "Code de droit économique - 28-02-2013 - Art. XX.99, al. 1er - 19 Lien ELI No pub 2013A11134 Code de droit économique - 28-02-2013 - Art. XX.100 - 19 Lien ELI No pub 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230330.1F.3",
+  "source_sha256": "be4e43921aebc63ccb830da19e2cb6759829a935b3ff2742f38d018dfa711f70",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230330.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
