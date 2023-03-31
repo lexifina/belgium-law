@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Assentiment est donné à l'accord de coopération législatif du 10 mars 2023 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune visant à la modification de l'Accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les entités fédérées compétentes ou par les agences compétentes, par les services d'inspections d'hygiène et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 se fondant sur une base de données auprès de Sciensano, le 10 mars 2023, annexé à la présente loi.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Cette loi d'assentiment entre en vigueur le jour de sa publication au Moniteur belge.
