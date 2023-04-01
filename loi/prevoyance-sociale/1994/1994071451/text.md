@@ -4328,9 +4328,19 @@ Toutefois, l'application de l'alinéa précédent ne peut avoir pour effet que l
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 154, 309; En vigueur : 01-04-2023&gt;
 
-<a name="Art.110/1" href="#Art.110">Art.</a> <a href="#LNK0092"> 110/1</a>. {fut}[<sup>1</sup> Le Roi détermine, par un arrêté délibéré en Conseil des ministres, les conditions dans lesquelles une prime de reprise du travail de 1.000 euros est accordée à l'employeur auprès duquel un titulaire qui se trouve dans la période d'invalidité, visée à l'article 93, reprend une activité autorisée conformément à l'article 100, § 2.]<sup>1</sup>{/fut}
+<a name="Art.110/1" href="#Art.110">Art.</a> <a href="#LNK0092"> 110/1</a>.[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Le Roi détermine, par un arrêté délibéré en Conseil des ministres, les conditions dans lesquelles une prime de reprise du travail de 1.000 euros est accordée à l'employeur auprès duquel un titulaire qui se trouve dans la période d'invalidité, visée à l'article 93, reprend une activité autorisée conformément à l'article 100, § 2.]<sup>1</sup>
+[<sup>2</sup> § 2. La demande d'octroi de la prime de reprise du travail conformément au paragraphe 1er comprend, selon le cas, les catégories de données suivantes qui sont transmises à l'organisme compétent pour le paiement de cette prime de reprise du travail, déterminé conformément au paragraphe 1er:
+1° les données d'identification de l'employeur, plus précisément, la dénomination précise ou l'identité précise de l'employeur, le numéro d'identification à la Banque carrefour des entreprises, visé à l'article III.17 du Code de droit économique ou le numéro d'inscription à l'Office national de sécurité sociale, visé à l'article 33, § 1er, de l'arrêté royal du 28 novembre 1969 portant exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 relative à la sécurité sociale des travailleurs et l'adresse précise de son siège social ou de son siège d'exploitation;
+2° les coordonnées de contact de l'employeur ou de son préposé ou mandataire;
+3° les données d'identité du travailleur, plus précisément le nom, le prénom et le numéro d'identification, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+4° les données concernant la nature de la relation de travail;
+5° le numéro de compte bancaire de l'employeur souhaitant bénéficier de la prime de reprise du travail.
+L'organisme compétent pour le paiement de la prime de reprise du travail déterminé conformément au paragraphe 1er est responsable pour le traitement des données telles que prévues à l'alinéa 1er.
+La finalité du traitement de ces données est l'octroi d'une prime de reprise du travail à l'employeur concerné conformément aux conditions prévues au paragraphe 1er.
+Ces données sont conservées pendant la durée nécessaire à la réalisation de la finalité de leur traitement, avec une durée de conservation maximale de trois années à compter du 1er janvier de l'année suivant la clôture du dossier d'incapacité de travail chez l'organisme assureur.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 154, 309; En vigueur : 01-04-2023&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023101603" target="_blank">2023-10-16/03</a>, art. 2, 314; En vigueur : 01-04-2023&gt;
 
 <a name="LNK0092" href="#LNKR0092">CHAPITRE V DROIT FUTUR.</a> {fut}[<sup>1</sup> - Le "Fonds Retour Au Travail".]<sup>1</sup>{/fut}
 ----------
