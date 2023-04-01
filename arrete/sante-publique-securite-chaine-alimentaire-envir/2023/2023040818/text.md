@@ -1,0 +1,35 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, l'on entend par :
+1° "l'acheteur": une entreprise du secteur alimentaire disposant d'une autorisation d'acheteur de lait cru conformément à l'arrêté royal du 16 janvier 2006 fixant les modalités des agréments, des autorisations et des enregistrements préalables délivrés par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire ;
+2° "le producteur": l'exploitant agricole, personne physique ou morale, ou groupement de personnes physiques ou de personnes morales ou les deux, qui gère de manière autonome à son profit et pour son compte une exploitation, située en Belgique, et qui, de ce chef, vend du lait ou d'autres produits laitiers au consommateur final ou les livre à un acheteur;
+3° "lait": le produit provenant de la traite d'une ou plusieurs vaches et dont la teneur en matière grasse a été ou non modifiée;
+4° "la période": la période de douze mois qui s'étend du 1er avril au 31 mars de l'année suivante;
+5° "le SPF SPSCAE": le Service Public Fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement;
+6° "le Fonds Sanitaire": le Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux ;
+7° "déclaration de cotisarion": document au moyen duquel l'acheteur est averti du montant, dont il est redevable, fixé dans le cadre du présent arrêté.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. Les acheteurs doivent payer par période une cotisation obligatoire au Fonds Sanitaire de 0,067 euros par mille litres de lait qu'ils ont collectés en Belgique auprès des producteurs.
+Les producteurs établis en Belgique doivent payer par période une cotisation obligatoire au Fonds Sanitaire de 0,087 euros par mille litres de lait livré.
+Les acheteurs retiennent la cotisation obligatoire à charge des producteurs sur le document de paiement du lait aux producteurs et garantissent dès lors le paiement total de 0,154 euros par mille litres de lait qu'ils ont collectés en Belgique auprès des producteurs.
+§ 2. En dérogation du paragraphe 1er, les acheteurs qui, par période, ont collecté entre 10.000 et 250.000 litres de lait, doivent payer une cotisation obligatoire de 20 euros.
+§ 3. En dérogation du paragraphe 1er, les acheteurs qui, par période, ont collecté moins de 10.000 litres de lait, sont exemptés du paiement de la cotisation obligatoire.
+§ 4. En cas d'arrêt de l'activité au cours de la période, les acheteurs visés aux paragraphes 1er et 2 doivent payer la cotisation obligatoire pour le lait collecté durant cette partie de la période au cours de laquelle ils étaient actif, avec un minimum de 20 euros.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er. Selon les instructions du SPF SPSCAE, les acheteurs fournissent une déclaration avec les quantités de lait collectées dans les trente jours après la fin de :
+1° chaque trimestre si l'acheteur collecte plus de 3.000.000 de litres de lait par période;
+2° la période si l'acheteur collecte 3.000.000 de litres de lait ou moins par période.
+§ 2. En dérogation du paragraphe 1er, les acheteurs qui, par période, ont collecté moins de 10.000 litres de lait, sont exemptés de la déclaration visée au paragraphe 1er.
+§ 3. Si l'acheteur ne fournit pas la déclaration visée au paragraphe 1er dans le délai fixé, le montant de la cotisation obligatoire sera majoré de 20 %.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Les cotisations obligatoires sont payées au Fonds Sanitaire dans les trente jours qui suivent la date mentionnée sur la déclaration de cotisation.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Si l'acheteur conteste le montant de la cotisation obligatoire, une réclamation doit être adressée au Fonds Sanitaire dans les trente jours qui suivent la date mentionnée sur la déclaration de cotisation. Les modalités spécifiques pour l'introduction d'une réclamation sont communiquées sur la déclaration de cotisation.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Si l'acheteur ne paie pas le montant de la cotisation obligatoire, une première sommation sera envoyée au moins soixante jours après la date mentionnée sur la déclaration de cotisation, le montant mentionné sur la déclaration de cotisation étant alors majoré de 50 euros.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Si l'acheteur ne paie pas le montant majoré de la cotisation obligatoire après la première sommation, une deuxième sommation sera envoyée au moins nonante jours après la date mentionnée sur la déclaration de cotisation, le montant mentionné sur la déclaration de cotisation initiale étant alors majoré de 20 %, avec un minimum de 50 euros. .
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Les dispositions du présent arrêté sont d'application à partir de la perception des cotisations obligatoires pour 2023.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Le présent arrêté entre en vigueur le 1er avril 2023.
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. Le ministre qui a l'Agriculture dans ses attributions est chargé de l'exécution du présent arrêté.
