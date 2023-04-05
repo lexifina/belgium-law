@@ -1,0 +1,39 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230405.2F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230405.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-05",
+  "date_as_printed": "Jugement/arrêt du 05 avril 2023",
+  "published_on_juportal": "2023-04-20",
+  "language": "fr",
+  "role_number": "P.22.1642.F",
+  "case_name_as_published": "G.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ABUS DE CONFIANCE",
+    "MISBRUIK VAN VERTROUWEN",
+    "Abus de biens sociaux - Condition - Préjudice matériel - Notion",
+    "Abus de biens sociaux - Condition - Usage des biens ou du crédit de l'être moral significativement préjudiciable - Notion",
+    "Misbruik van vennootschapsgoederen - Voorwaarde - Materieel nadeel - Begrip",
+    "Misbruik van vennootschapsgoederen - Voorwaarde - Betekenisvol schadelijk gebruik van de goederen of van het krediet van de rechtspersoon - Begrip"
+  ],
+  "fiche": [
+    "ABUS DE CONFIANCE",
+    "Abus de biens sociaux - Condition - Préjudice matériel - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 492bis - 01 Lien ELI No pub 1867060850",
+    "ABUS DE CONFIANCE",
+    "Abus de biens sociaux - Condition - Usage des biens ou du crédit de l'être moral significativement préjudiciable - Notion",
+    "Code pénal 1867 - 08-06-1867 - Art. 492bis - 01 Lien ELI No pub 1867060850",
+    "NC-Nullum Crimen: Tijdschrift voor straf-en strafprocesrecht - 2024, nr. 3, P. 163-170. - ARNOLDY, Maximilien; Noot'Misbruik van vennootschapsgoederen. De relatieve in concreto beoordeling van het betekenisvolle nadeel van de vermogensbelangen van de rechtspersoon en van die...'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230405.2F.3",
+  "source_sha256": "f66e576642ea1969868b18736763ebb58cf14054de17430be6d43505d52a0fc3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230405.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
