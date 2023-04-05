@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230405.2F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230405.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-05",
+  "date_as_printed": "Jugement/arrêt du 05 avril 2023",
+  "published_on_juportal": "2023-04-20",
+  "language": "fr",
+  "role_number": "P.22.1589.F",
+  "case_name_as_published": "D. contra ETAT BELGE, MINISTRE DES FINANCES",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INFRACTION - JUSTIFICATION ET EXCUSE - Justification",
+    "MISDRIJF - RECHTVAARDIGING EN VERSCHONING - Rechtvaardiging",
+    "Etat de nécessité - Légitime défense - Distinction - Champs d'application respectifs",
+    "Noodtoestand - Wettige zelfverdediging - Onderscheid - Respectievelijke toepassingsgebieden"
+  ],
+  "fiche": [
+    "INFRACTION - JUSTIFICATION ET EXCUSE - Justification",
+    "Etat de nécessité - Légitime défense - Distinction - Champs d'application respectifs",
+    "Code pénal 1867 - 08-06-1867 - Art. 71 - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 416 - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 417 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230405.2F.5",
+  "source_sha256": "7f02f25dcf54584f84899f00757a28e062936f740b336e1c53fd0683cc70b10d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230405.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
