@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230406.1F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230406.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-06",
+  "date_as_printed": "Jugement/arrêt du 06 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "C.22.0354.F",
+  "case_name_as_published": "R. contra MAGNUS VILLAS s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE D'INDUSTRIE",
+    "HUUR VAN DIENSTEN",
+    "Construction - Loi Breyne - Réception provisoire - Ecrit contradictoire ou réception présumée - Notion - Conditions",
+    "Construction - Loi Breyne - Réception provisoire - Ecrit contradictoire ou réception présumée - Procès-verbal établi dans le cadre d'une expertise judiciaire - Conditions - Vérification par le juge",
+    "Bouw - Wet Breyne - Voorlopige oplevering - Tegensprekelijk geschrift of vermoedelijke oplevering - Begrip - Voorwaarden",
+    "Bouw - Wet Breyne - Voorlopige oplevering - Tegensprekelijk geschrift of vermoedelijke oplevering - Proces-verbaal opgemaakt in het kader van een gerechtelijk deskundigenonderzoek - Voorwaarden - Onderzoek door de rechter"
+  ],
+  "fiche": [
+    "LOUAGE D'INDUSTRIE",
+    "Construction - Loi Breyne - Réception provisoire - Ecrit contradictoire ou réception présumée - Notion - Conditions",
+    "A.R du 21 octobre 1971 portant exécution de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction - 21-10-1971 - Art. 2, § 1er et 2, al. 1er et 2 - 30 Lien ELI No pub 1971102106",
+    "LOUAGE D'INDUSTRIE",
+    "Construction - Loi Breyne - Réception provisoire - Ecrit contradictoire ou réception présumée - Procès-verbal établi dans le cadre d'une expertise judiciaire - Conditions - Vérification par le juge",
+    "A.R du 21 octobre 1971 portant exécution de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction - 21-10-1971 - Art. 2, § 1er et 2, al. 1er et 2 - 30 Lien ELI No pub 1971102106"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230406.1F.3",
+  "source_sha256": "02fe06c72f157727da3724bacccffdd806181cad6a535705944fcf51151cfbf2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230406.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
