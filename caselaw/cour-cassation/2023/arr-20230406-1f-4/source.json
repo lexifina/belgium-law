@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230406.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230406.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-06",
+  "date_as_printed": "Jugement/arrêt du 06 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "F.21.0193.F",
+  "case_name_as_published": "DOMAINE DE LA ROSE BLANCHE s.a. c. ETAT BELGE FINANCES",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Taux réduit de 6 p.c. - Travaux de transformation - Travaux immobiliers à des logements effectivement utilisés pour l'hébergement de personnes âgées - Travaux fournis à des personnes de droit public ou de droit privé qui gèrent les établissements d'hébergement pour personnes âgées - Critère de superficie - Modalité d'application - Condition d'affectation à l'hébergement des personnes âgées - Appréciation",
+    "Taux réduit de 6 p.c. - Travaux de transformation - Travaux immobiliers à des logements effectivement utilisés pour l'hébergement de personnes âgées - Travaux fournis à des personnes de droit public ou de droit privé qui gèrent les établissements d'hébergement pour personnes âgées - Critère de superficie - Modalité d'application - Appréciation globale",
+    "Verminderd tarief van 6 pct - Verbouwingswerken - Werk in onroerende staat met betrekking tot woningen die daadwerkelijk worden gebruikt voor de huisvesting van bejaarden - Werken verricht voor publiekrechtelijke of privaatrechtelijke personen die de verblijfsinrichtingen voor bejaarden beheren - Oppervlaktecriterium - Toepassingsmodaliteit - Voorwaarde van gebruik van de woning voor de huisvesting van bejaarden - Beoordeling",
+    "Verminderd tarief van 6 pct - Verbouwingswerken - Werk in onroerende staat met betrekking tot woningen die daadwerkelijk worden gebruikt voor de huisvesting van bejaarden - Werken verricht voor publiekrechtelijke of privaatrechtelijke personen die de verblijfsinrichtingen voor bejaarden beheren - Oppervlaktecriterium - Toepassingsmodaliteit - Globale beoordeling"
+  ],
+  "fiche": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "Taux réduit de 6 p.c. - Travaux de transformation - Travaux immobiliers à des logements effectivement utilisés pour l'hébergement de personnes âgées - Travaux fournis à des personnes de droit public ou de droit privé qui gèrent les établissements d'hébergement pour personnes âgées - Critère de superficie - Modalité d'application - Condition d'affectation à l'hébergement des personnes âgées - Appréciation",
+    "A.R. n° 20 du 20 juillet 1970 fixant les taux de la taxe sur la valeur ajoutée et déterminant la répartition des biens et des services selon ces taux - 20 - 20-07-1970 - Art. 1er, al. 2, a) et annexe, tableau A, rubrique XXXI, § 1er et 3 - 31 Lien DB Justel 19700720-31",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "Taux réduit de 6 p.c. - Travaux de transformation - Travaux immobiliers à des logements effectivement utilisés pour l'hébergement de personnes âgées - Travaux fournis à des personnes de droit public ou de droit privé qui gèrent les établissements d'hébergement pour personnes âgées - Critère de superficie - Modalité d'application - Appréciation globale",
+    "A.R. n° 20 du 20 juillet 1970 fixant les taux de la taxe sur la valeur ajoutée et déterminant la répartition des biens et des services selon ces taux - 20 - 20-07-1970 - Art. 1er, al. 2, a) et annexe, tableau A, rubrique XXXI, § 1er et 3 - 31 Lien DB Justel 19700720-31"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230406.1F.4",
+  "source_sha256": "e0dae2555bb2fafb9a01d2ba658ad9be549c6d52f4f41b594eb8665b1c750d8b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230406.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
