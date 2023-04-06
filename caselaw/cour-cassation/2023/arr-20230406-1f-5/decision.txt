@@ -1,0 +1,61 @@
+N° C.20.0068.F
+R. V.,
+demanderesse en cassation,
+représentée par Maître Paul Wouters, avocat à la Cour de cassation, dont le cabinet est établi à Louvain, Koning Leopold I-straat, 3, où il est fait élection de domicile,
+contre
+P. T.,
+défendeur en cassation.
+I.	La procédure devant la Cour
+Le pourvoi en cassation est dirigé contre le jugement rendu le 31 octobre 2019 par le juge de paix du quatrième canton de Bruxelles, statuant en dernier ressort.
+Le président de section Christian Storck a fait rapport.
+L’avocat général Bénédicte Inghels a conclu.
+II.	Le moyen de cassation
+La demanderesse présente un moyen libellé dans les termes suivants :
+Dispositions légales violées
+- 	articles 32ter, 721, 741, 742 et 747 du Code judiciaire ;
+- 	articles 1er, 6, 7 et 8 de l’arrêté royal du 16 juin 2016 portant création de la communication électronique conformément à l’article 32ter du Code judiciaire ;
+- 	principe général du droit relatif au respect des droits de la défense.
+Décisions et motifs critiqués
+Le jugement attaqué « déclare l’action non fondée ; en déboute [la demanderesse], tous frais à sa charge ; la condamne en outre au paiement de la provision trop versée par [le défendeur], savoir 74,24 et 371,84 euros (montant que [la demanderesse ne peut pas prouver avoir déjà payé) ; ordonne la libération de la garantie locative en faveur [du défendeur] et ce, sur simple production d’une copie du jugement ; condamne [la demanderesse] à payer au défendeur une indemnité de procédure de 480 euros et à l’État belge, sur invitation, le droit de mise au rôle de 50 euros », aux motifs que « [la demanderesse] pouvait déposer ses conclusions jusqu’au 31 août 2019 ; qu’elle ne l’a fait que le 13 septembre 2019 ; [que le défendeur] pouvait déposer ses conclusions jusqu’au 18 juillet et au 18 septembre 2019 ; que ceci fut fait
+le 23 juillet et le 19 septembre 2019 ; que, dans ces conditions, le tribunal écarte les conclusions de toutes les parties ».
+Griefs
+1. 	Suivant l’article 742 du Code judiciaire, les parties remettent au greffe leurs conclusions, dont elles reçoivent un accusé de réception. La remise peut se faire soit par le dépôt au greffe ou à l’audience, soit par l’envoi par courrier postal ou par le système informatique désigné à cet effet.
+Dans tous les cas d’envoi, la date de la remise est celle de la réception par le greffe.
+L’article 1er, 2°, de l’arrêté royal du 16 juin 2016 portant création de la communication électronique conformément à l’article 32ter du Code judiciaire désigne le système e-Deposit pour le dépôt par voie électronique de conclusions au sens des articles 741 et suivants de ce code en matière civile.
+Conformément à l’article 6 de cet arrêté, les conclusions peuvent être versées au dossier d’une affaire existante en les chargeant via le système
+e-Deposit sécurisé mis à disposition par le service public fédéral de la Justice.
+En vertu de l’article 7 du même arrêté, les techniques informatiques qu’utilise le système e-Deposit « permettent […] la constatation non équivoque du moment de l’envoi et de la réception » des conclusions ; « enregistrent ou journalisent dans le système une preuve du dépôt et de la réception du dépôt et délivrent cette preuve à l’expéditeur à sa demande », « enregistrent ou journalisent […] dans le système : […] le moment du dépôt ; […] la juridiction saisie de l’affaire ; le numéro unique attribué […] aux conclusions déposées, et le numéro unique attribué à l’envoi ».
+L’article 8 dudit arrêté précise enfin que, « dans e-Deposit, le statut suivant peut se présenter : ‘déposé’ » ; que « ce statut est notifié à l’expéditeur » ; que « la notification du statut ‘déposé’ tient lieu de preuve du dépôt dans le chef de l’expéditeur », et que « la date du dépôt visé à l’article 1er, 2°, correspond à la date du moment du dépôt définie par le système e-Deposit ».
+Cette « date du dépôt » est définie par des techniques informatiques visées à l’article 7 de l’arrêté royal du 16 juin 2016 qu’utilise le système e-Deposit et qui « enregistrent ou journalisent dans le système une preuve du dépôt et de la réception du dépôt et délivrent cette preuve à l’expéditeur à sa demande », mais également « enregistrent ou journalisent […] dans le système : […] le moment du dépôt ; la juridiction saisie de l’affaire ; le numéro unique attribué […] aux conclusions déposées, et le numéro unique attribué à l’envoi ».
+Il ressort du rapport au Roi précédant cet arrêté qu’à la demande du Conseil d’État, « la date du dépôt est effectivement la date du moment du dépôt par chargement via e-Deposit », qui est fixée par horodatage ou time logging du chargement.
+2. 	Conformément à l’ordonnance du 18 juin 2019 ayant fixé un calendrier pour la mise en état de l’affaire sur pied de l’article 747, § 2, du Code judiciaire, la demanderesse pouvait déposer ses conclusions au greffe jusqu’au
+31 août 2019 à minuit au plus tard.
+Son conseil a déposé ses conclusions par voie électronique en utilisant
+le système e-Deposit le 30 août 2019 à « 21.12.05 h », sous la référence « AC72400796 », comme le prouve l’attestation de réception qu’il a reçue immédiatement et automatiquement par courriel de confirmation provenant du système e-Deposit.
+Lesdites conclusions se retrouvent inventoriées par le greffier, en vertu de l’article 721, 10°, du Code judiciaire, à l’inventaire du dossier de la procédure sous le numéro « 9 – 30-08-2019 – Dépôt : conclusions de Maître G. S. ».
+Le greffier en chef a confirmé dans son courriel du 24 décembre 2019
+la « time-stamped » date du dépôt des différentes conclusions des parties comme suit : « een eensluitend afschrift van de uitgeprinte besluiten van beide partijen kan ik niet afleveren daar deze geen stukken zijn aangemaakt door de griffie. Wel kan ik u de date meedelen van neerlegging of de time-stamped datum in het
+e-Depositsysteem : besluiten van Meester M. : ontvangen ter griffie op
+23-07-2019 ; besluiten van Meester S. : neergelegd via e-Deposit op
+30-08-2019 ; synthesebesluiten van Meester M. : ontvangen ter griffie op 19-09-2019 » (traduction libre : je ne suis pas en mesure de vous délivrer une copie conforme des conclusions sur papier des deux parties car il ne s’agit pas de documents qui émanent du greffe. Par contre, je peux vous communiquer la date du dépôt ou de la time-stamped date dans le système e-Deposit : conclusions de Maître M. : reçues au greffe le 23 juillet 2019 ; conclusions de
+Maître S. : déposées via e-Deposit le 30 août 2019 ; conclusions de synthèse de Maître M. : reçues au greffe le 19 septembre 2019).
+3. 	Il ressort de ces documents, auxquels la Cour peut avoir égard, que la « date certaine » du dépôt des conclusions de la demanderesse est bel et bien le 30 août 2019, soit avant l’expiration du délai prévu par l’ordonnance du 18 juin 2019.
+4. 	Il s’ensuit qu’en écartant les conclusions de la demanderesse au motif qu’elles n’auraient été déposées que le 13 septembre seulement, alors qu’elles l’ont été par voie électronique via le système e-Deposit le 30 août 2019 à « 21.12.05 h », le jugement attaqué
+- 	viole l’article 747, §§ 2 et 4, du Code judiciaire, dès lors qu’en vertu de l’ordonnance de 18 juin 2019, elle disposait jusqu’au 31 août 2019 pour effectuer ce dépôt (violation des articles 32ter, 721, 10°, 741, 742, 747, §§ 2 et 4, du Code judiciaire, 1er, 6, 7 et 8 de l’arrêté royal du 16 juin 2016) ;
+- 	viole les articles précités fixant légalement la date certaine de ce dépôt par voie électronique desdites conclusions comme étant le « date-stamped » moment effectué par le système e-Deposit à « 21.12.05 h » le 30 août 2019 (violation des articles 32ter, 721, 10°, 741, 742, 747, §§ 2 et 4, du Code judiciaire, 1er, 6, 7 et 8 de l ’arrêté royal du 16 juin 2016) et,
+-	en ne tenant pas compte de ces conclusions déposées de manière régulière et à temps, méconnaît le droit de défense de la demanderesse (méconnaissance du principe général du droit relatif au respect des droits de la défense).
+III.	La décision de la Cour
+En vertu de l’article 742, alinéa 2, du Code judiciaire, la remise des conclusions des parties peut se faire par l’envoi de celles-ci au greffe par le système informatique désigné à cet effet et, en ce cas, la date de la remise est celle de la réception par le greffe.
+L’article 1er, 2°, de l’arrêté royal du 16 juin 2016 portant création de la communication électronique conformément à l’article 32ter du Code judiciaire désigne le système e-Deposit, tel qu’il est décrit aux articles 6 à 9, pour le dépôt des conclusions en matière civile.
+Conformément à l’article 8, alinéas 3 et 4, de cet arrêté, la date du dépôt visé à l’article 1er, 2°, correspond à la date du moment du dépôt définie par le système e-Deposit et la date de la réception est la date du moment de la réception définie par le système e-Deposit.
+L’article 7, alinéa 1er, du même arrêté dispose que le responsable du traitement concernant le système e-Deposit utilise les techniques informatiques qui permettent l’identification et l’authentification non équivoques de l’expéditeur et du destinataire, ainsi que la constatation non équivoque du moment de l’envoi et de la réception ; enregistrent ou journalisent dans le système une preuve de dépôt et de réception du dépôt et délivrent cette preuve à l’expéditeur à sa demande ; enregistrent ou journalisent dans le système l’identité de la personne qui effectue le dépôt, les conclusions déposées et le moment du dépôt ; le numéro de rôle de l’affaire dans laquelle est effectué le dépôt ; la juridiction saisie de l’affaire ; le numéro unique attribué aux conclusions déposées, et le numéro unique attribué à l’envoi.
+Il ressort tant de l’accusé de réception du dépôt délivré au conseil de la demanderesse par le système e-Deposit que de l’impression de l’enregistrement des données visées à l’article 7 de l’arrêté royal du 16 juin 2016 jointe à l’original des conclusions de la demanderesse figurant au dossier de la procédure que la date du moment du dépôt et de la réception desdites conclusions définie par ce système correspond au 30 août 2019 à vingt et une heures douze minutes cinq secondes.
+Le jugement attaqué, qui constate que la demanderesse « pouvait déposer ses conclusions jusqu’au 31 août 2019 », n’a pu, sans violer les dispositions légales précitées, écarter comme tardives les conclusions de la demanderesse reçues la veille au greffe via le système e-Deposit.
+Le moyen est fondé.
+Par ces motifs,
+La Cour
+Casse le jugement attaqué ;
+Ordonne que mention du présent arrêt sera faite en marge du jugement cassé ;
+Réserve les dépens pour qu’il soit statué sur ceux-ci par le juge du fond ;
+Renvoie la cause devant le juge de paix du canton de Ganshoren.
+Ainsi jugé par la Cour de cassation, première chambre, à Bruxelles, où siégeaient le président de section Christian Storck, président, le président de section Mireille Delange, les conseillers Marie-Claire Ernotte, Ariane Jacquemin et Marielle Moris, et prononcé en audience publique du six avril deux mille vingt-trois par le président de section Christian Storck, en présence de l’avocat général Bénédicte Inghels, avec l’assistance du greffier Patricia De Wadripont.

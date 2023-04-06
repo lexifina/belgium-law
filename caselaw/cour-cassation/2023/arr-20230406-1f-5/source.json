@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230406.1F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230406.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-06",
+  "date_as_printed": "Jugement/arrêt du 06 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "C.20.0068.F",
+  "case_name_as_published": "V. contra T.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "VONNISSEN EN ARRESTEN - BURGERLIJKE ZAKEN - Algemeen",
+    "Conclusions - Dépôt et réception des conclusions par le système e-Deposit - Impression de l'enregistrement - Portée - Dépôt et réception des conclusions par le système - Moment - Conséquence",
+    "Conclusie - Neerlegging en ontvangst van de conclusie via het e-Deposit-systeem - Afdruk van de verwerking - Draagwijdte - Neerlegging en ontvangst van de conclusie via het systeem - Tijdstip - Gevolg"
+  ],
+  "fiche": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "Conclusions - Dépôt et réception des conclusions par le système e-Deposit - Impression de l'enregistrement - Portée - Dépôt et réception des conclusions par le système - Moment - Conséquence",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 742, al. 2 - 04 Lien ELI No pub 1967101055 A.R. du 16 juin 2016 portant création de la communication électronique conformément à l'article 32ter du Code judiciaire - 16-06-2016 - Art. 1er, 2° - 03 Lien ELI No pub 2016009286 A.R. du 16 juin 2016 portant création de la communication électronique conformément à l'article 32ter du Code judiciaire - 16-06-2016 - Art. 7, al. 1er - 03 Lien ELI No pub 2016009286 A.R. du 16 juin 2016 portant création de la communication électronique conformément à l'article 32ter du Code judiciaire - 16-06-2016 - Art. 8, al. 3 et 4 - 03 Lien ELI No pub 2016009286"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230406.1F.5",
+  "source_sha256": "aa3708e0f01edc07b86e432218bee288cf9d0f8d8ea39ba20555e9ca8ac954a2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230406.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/08/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
