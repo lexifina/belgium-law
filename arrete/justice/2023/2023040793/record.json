@@ -1,0 +1,29 @@
+{
+  "id": "2023040793",
+  "title": "20 MARS 2023. - Arrêté royal portant reconnaissance d'un acte en tant qu'actes de terrorisme au sens de l'article 42bis de la loi du 1er août 1985",
+  "source_title": "20 MARS 2023. - Arrêté royal portant reconnaissance d'un acte en tant qu'actes de terrorisme au sens de l'article 42bis de la loi du 1er août 1985",
+  "act": "arrete/justice/2023/2023040793",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-04-07&numac_search=2023040793&page=105&lg_txt=F&caller=list&2023040793=4&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "cdc32dba5ec3f66bcaab1d9ff9fe2d4e87a1d336b7e79dbb57dc72d6c9ea93eb",
+  "source_issuer": "Justice",
+  "made": "2023-03-20",
+  "published": "2023-04-07",
+  "in_force": "2023-04-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 avril 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "7 avril 2023",
+    "Numéro": "2023040793",
+    "page": "36792",
+    "Dossier numéro": "2023-03-20/04",
+    "Entrée en vigueur": "17 avril 2023"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 113,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-04-17"
+}
