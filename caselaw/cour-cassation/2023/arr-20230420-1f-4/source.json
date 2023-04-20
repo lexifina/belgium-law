@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230420.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230420.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-20",
+  "date_as_printed": "Jugement/arrêt du 20 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "C.22.0302.F",
+  "case_name_as_published": "D. contra D.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "INDIVISIBILITE (LITIGE)",
+    "ONSPLITSBAARHEID (GESCHIL)",
+    "Appel - Critère - Impossibilité d'exécution conjointe de deux décisions - Servitude - Droit de passage - Application",
+    "APPEL - MATIERE CIVILE (Y COMPRIS LES MATIERES COMMERCIALE ET SOCIALE) - Appel principal. Forme. Délai. Litige indivisible",
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Principaal beroep. Vorm. Termijn. Onsplitsbaar geschil",
+    "Critère - Impossibilité d'exécution conjointe de deux décisions - Servitude - Droit de passage - Application",
+    "SERVITUDE",
+    "ERFDIENSTBAARHEID",
+    "Droit de passage - Procédure judiciaire - Appel - Appel principal - Forme. Délai. Litige indivisible - Critère - Impossibilité d'exécution conjointe de deux décisions - Application",
+    "Hoger beroep - Criterium - Onmogelijkheid om twee beslissingen gezamenlijk ten uitvoer te leggen - Erfdienstbaarheid - Recht van doorgang - Toepassing",
+    "Criterium - Onmogelijkheid om twee beslissingen gezamenlijk ten uitvoer te leggen - Erfdienstbaarheid - Recht van doorgang - Toepassing",
+    "Recht van doorgang - Gerechtelijke procedure - Hoger beroep - Principaal beroep - Vorm. Termijn. Onsplitsbaar geschil - Criterium - Onmogelijkheid om twee beslissingen gezamenlijk ten uitvoer te leggen - Toepassing"
+  ],
+  "fiche": [
+    "INDIVISIBILITE (LITIGE)",
+    "Appel - Critère - Impossibilité d'exécution conjointe de deux décisions - Servitude - Droit de passage - Application",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 31 - 01 Lien ELI No pub 1967101052 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1053 - 04 Lien ELI No pub 1967101055",
+    "APPEL - MATIERE CIVILE (Y COMPRIS LES MATIERES COMMERCIALE ET SOCIALE) - Appel principal. Forme. Délai. Litige indivisible",
+    "Critère - Impossibilité d'exécution conjointe de deux décisions - Servitude - Droit de passage - Application",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 31 - 01 Lien ELI No pub 1967101052 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1053 - 04 Lien ELI No pub 1967101055",
+    "SERVITUDE",
+    "Droit de passage - Procédure judiciaire - Appel - Appel principal - Forme. Délai. Litige indivisible - Critère - Impossibilité d'exécution conjointe de deux décisions - Application",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 31 - 01 Lien ELI No pub 1967101052 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1053 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230420.1F.4",
+  "source_sha256": "d35bb35b413ade0ec615bb807766d777bfefa771e4e322210363849716506da5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230420.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
