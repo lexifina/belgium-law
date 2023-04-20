@@ -1,0 +1,50 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230420.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230420.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-20",
+  "date_as_printed": "Jugement/arrêt du 20 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "C.22.0325.F",
+  "case_name_as_published": "T. contra T.",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 149",
+    "Obligation de motivation - Réponse aux conclusions - Obligation de forme - Portée",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière civile (y compris les matières commerciale et sociale)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Constitution - Article 149 - Obligation de motivation - Réponse aux conclusions - Obligation de forme - Portée",
+    "PREUVE - MATIERE CIVILE - Preuve littérale - Foi due aux actes",
+    "BEWIJS - BURGERLIJKE ZAKEN - Geschriften - Bewijskracht",
+    "Conclusions - Portée",
+    "Motiveringsplicht - Antwoord op conclusie - Vormvereiste - Draagwijdte",
+    "Grondwet - Artikel 149 - Motiveringsplicht - Antwoord op conclusie - Vormvereiste - Draagwijdte",
+    "Conclusie - Draagwijdte"
+  ],
+  "fiche": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "Obligation de motivation - Réponse aux conclusions - Obligation de forme - Portée",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière civile (y compris les matières commerciale et sociale)",
+    "Constitution - Article 149 - Obligation de motivation - Réponse aux conclusions - Obligation de forme - Portée",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048",
+    "PREUVE - MATIERE CIVILE - Preuve littérale - Foi due aux actes",
+    "Conclusions - Portée"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230420.1F.6",
+  "source_sha256": "20f7aad056f4a07218f64fb2766cce593a11cab982dcf94379065650819c6941",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230420.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
