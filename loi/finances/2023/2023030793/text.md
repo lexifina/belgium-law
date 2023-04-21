@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Une garantie de l'Etat d'un montant maximum de 124.440.640 euros est octroyée à l'Union européenne au titre de la contribution de la Belgique pour l'assistance macrofinancière exceptionnelle de l'Union européenne accordée à l'Ukraine au titre de la décision (UE) 2022/1201 du Parlement européen et du Conseil du 12 juillet 2022 accordant une assistance macrofinancière exceptionnelle à l'Ukraine et de la décision (UE) 2022/1628 du Parlement européen et du Conseil du 20 septembre 2022 accordant une assistance macrofinancière exceptionnelle à l'Ukraine, renforçant le fonds commun de provisionnement par des garanties des Etats membres et par un provisionnement spécifique pour certaines responsabilités financières liées à l'Ukraine garanties en vertu de la décision n° 466/2014/UE, et modifiant la décision (UE) 2022/1201.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
