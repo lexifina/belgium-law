@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230426.2F.22",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230426.2F.22",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-26",
+  "date_as_printed": "Jugement/arrêt du 26 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "P.23.0567.F",
+  "case_name_as_published": "G.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Chambre des mises en accusation - Contrôle bimestriel - Motivation - Etendue - Réitération des motifs énoncés dans des décisions antérieures - Légalité - Condition",
+    "Chambre des mises en accusation - Contrôle bimestriel - Détention d'une durée de quatorze mois - Motivation du maintien - Réitération des motifs énoncés dans des décisions antérieures - Défaut d'actualisation - Conséquence",
+    "Kamer van inbeschuldigingstelling - Tweemaandelijks toezicht - Motivering - Omvang - Herhaling van de in eerdere beslissingen vermelde redenen - Wettigheid - Voorwaarde",
+    "Kamer van inbeschuldigingstelling - Tweemaandelijks toezicht - Hechtenis van veertien maanden - Motivering van de handhaving - Herhaling van de in eerdere beslissingen vermelde redenen - Geen actualisering - Gevolg"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Chambre des mises en accusation - Contrôle bimestriel - Motivation - Etendue - Réitération des motifs énoncés dans des décisions antérieures - Légalité - Condition",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 16, § 1er et 2 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 5 et 6 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 4 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Chambre des mises en accusation - Contrôle bimestriel - Détention d'une durée de quatorze mois - Motivation du maintien - Réitération des motifs énoncés dans des décisions antérieures - Défaut d'actualisation - Conséquence",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 16, § 1er et 2 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 5 et 6 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 4 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230426.2F.22",
+  "source_sha256": "271a01b84786ed8b0e883c3010b9877a4384b6401e12fadef830c9d32879ccc4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230426.2F.22_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
