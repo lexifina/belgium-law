@@ -1,0 +1,41 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230426.2F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230426.2F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-04-26",
+  "date_as_printed": "Jugement/arrêt du 26 avril 2023",
+  "published_on_juportal": "2023-05-04",
+  "language": "fr",
+  "role_number": "P.22.1564.F",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "Extinction - Décès du prévenu avant la prononciation de la décision attaquée - Conséquence",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action publique - Prévenu et inculpé",
+    "CASSATIEBEROEP - STRAFZAKEN - Personen door of tegen wie cassatieberoep kan of moet worden ingesteld - Strafvordering - Beklaagde en verdachte",
+    "Pourvoi formé au nom d'une personne décédée - Recevabilité",
+    "Verval - Overlijden van de beklaagde vóór de uitspraak van de bestreden beslissing - Gevolg",
+    "In naam van een overledene ingesteld cassatieberoep - Ontvankelijkheid"
+  ],
+  "fiche": [
+    "ACTION PUBLIQUE",
+    "Extinction - Décès du prévenu avant la prononciation de la décision attaquée - Conséquence",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 20, al. 1er - 01 Lien ELI No pub 1878041750",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action publique - Prévenu et inculpé",
+    "Pourvoi formé au nom d'une personne décédée - Recevabilité"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230426.2F.4",
+  "source_sha256": "f42a3784391a9c4006bac6ca9e1e5aaf08b7d14d79b4abd13e7bb0ffa415222a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230426.2F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
