@@ -765,6 +765,12 @@ Le règlement de chaque assemblée organise les modalités d'exécution des pré
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018101409" target="_blank">2018-10-14/09</a>, art. 2, 052; En vigueur : 26-05-2019&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018101411" target="_blank">2018-10-14/11</a>, art. 2, 053; En vigueur : 27-05-2019&gt;
 
+<a name="Art.%2031quater." href="#Art.31ter">Art.</a> <a href="#LNK0018">31quater</a>. [<sup>1</sup> § 1er. Un membre du Parlement de la Communauté française, du Parlement wallon ou du Parlement flamand qui démissionne notifie sa démission au Parlement dans lequel il siège, par un écrit adressé au président.
+§ 2. La démission prend effet le jour de la réception de la lettre de démission par le Parlement ou à une date ultérieure si le membre l'indique dans sa lettre de démission.
+Si la démission prend effet à une date ultérieure, elle peut être retirée jusqu'au jour précédant cette date par un écrit adressé au président.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023040707" target="_blank">2023-04-07/07</a>, art. 2, 058; En vigueur : 29-04-2023&gt;
+
 <a name="LNK0018" href="#LNKR0018">Section 2.</a> Du fonctionnement.
 
 <a name="LNK0019" href="#LNKR0019">Sous-section première.</a> _ Dispositions communes.
