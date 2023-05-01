@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er de l'arrêté du Président du Comité de direction du SPF Mobilité et Transports du 14 novembre 2019 portant délégation de la compétence d'assermenter les agents constatateurs qui veillent au respect de la loi du 27 avril 2018 sur la police des chemins de fer et ses arrêtés d'exécution est remplacé par ce qui suit :
+" Article 1er. Aux membres du service d'inspection visés à l'article 1er, 1°, de l'arrêté royal du 12 janvier 2023 relatif aux contrôles de la réglementation relative à la sûreté dans le sous-secteur du transport ferroviaire est donné délégation pour assermenter les agents constatateurs chargés de veiller au respect de la loi du 27 avril 2018 sur la police des chemins de fer et de ses arrêtés d'exécution. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le 1er mai 2023.
