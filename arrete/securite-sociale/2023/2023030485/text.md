@@ -1,0 +1,13 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 7 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, remplacé par l'arrêté royal du 18 décembre 2002 et modifié par les arrêtés royaux des 25 avril 2004, 17 février 2005, 23 novembre 2005, 24 mai 2006, 1er juillet 2006, 26 novembre 2006, 7 juin 2007, 20 octobre 2008, 26 avril 2009, 29 avril 2009, 29 août 2009, 22 juillet 2010, 5 avril 2011, 22 mars 2012, 19 septembre 2013, 21 février 2014, 03 septembre 2015, 17 octobre 2016, 19 septembre 2017, 3 février 2019, 3 mars 2021, 9 mai 2021, 20 mai 2021, 19 décembre 2021 et 17 juin 2022 sont apportées les modifications suivantes :
+1° Le § 14, 5°, B, e) est remplacé par ce qui suit :
+" e) Syndrome de fatigue chronique :
+La prescription initiale mentionnant le diagnostic doit être établie par un médecin spécialiste en rhumatologie, en médecine physique et réadaptation, en neurologie ou en médecine interne après examen clinique et conformément aux critères les plus récents applicables au niveau international.
+Avant la fin de la première année qui suit l'année au cours de laquelle la 1ère prestation du traitement a eu lieu, le médecin spécialiste susmentionné réévaluera l'évolution de la symptomatologie du patient afin de confirmer la nécessité de poursuivre le traitement dans le cadre du § 14. Cette confirmation signée par le médecin spécialiste doit figurer dans le dossier individuel kinésithérapeutique "
+2° Le § 14, 5°, B, f) est remplacé par ce qui suit :
+" f) Syndrome fibromyalgique :
+La prescription initiale mentionnant le diagnostic doit être établie par un médecin spécialiste en rhumatologie, en médecine physique et réadaptation, en neurologie ou en médecine interne après examen clinique et conformément aux critères les plus récents applicables au niveau international.
+Avant la fin de la première année qui suit l'année au cours de laquelle la 1ère prestation du traitement a eu lieu, le médecin spécialiste susmentionné réévaluera l'évolution de la symptomatologie du patient afin de confirmer la nécessité de poursuivre le traitement dans le cadre du § 14. Cette confirmation signée par le médecin spécialiste doit figurer dans le dossier individuel kinésithérapeutique. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
