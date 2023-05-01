@@ -1,0 +1,30 @@
+{
+  "id": "2023041162",
+  "title": "7 AVRIL 2023. - Arrêté royal modifiant le PJPol en ce qui concerne le stage",
+  "source_title": "7 AVRIL 2023. - Arrêté royal modifiant le PJPol en ce qui concerne le stage",
+  "act": "arrete/interieur-justice/2023/2023041162",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-04-21&numac_search=2023041162&page=97&lg_txt=F&caller=list&2023041162=21&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "58a1877b4a0a919247482666eea985da61b642cc5d2456e14be65a2e870c68ca",
+  "source_issuer": "Intérieur - Justice",
+  "made": "2023-04-07",
+  "published": "2023-04-21",
+  "in_force": "2023-05-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 mai 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur - Justice",
+    "Publication": "21 avril 2023",
+    "Numéro": "2023041162",
+    "page": "40600",
+    "Dossier numéro": "2023-04-07/13",
+    "Entrée en vigueur": "1 mai 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 306,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-05-01"
+}
