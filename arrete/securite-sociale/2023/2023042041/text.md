@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 11, § 2, de l'arrêté ministériel du 28 février 2018 fixant l'organisation pratique des élections médicales telles qu'elles sont prévues à l'article 211, § 1er, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié par l'arrêté ministériel du 11 juin 2018, les mots " le 13 juin 2018 " sont remplacés par les mots " la date de l'envoi de l'INAMI visé au paragraphe 1er ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
