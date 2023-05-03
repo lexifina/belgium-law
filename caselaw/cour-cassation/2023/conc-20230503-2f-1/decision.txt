@@ -1,0 +1,28 @@
+P.22.1433.F
+Conclusions de M. l’avocat général M. Nolet de Brauwere :
+Le pourvoi est dirigé contre un jugement rendu contradictoirement le 28 septembre 2022 par le tribunal correctionnel d’Eupen qui, statuant en degré d’appel, condamne le demandeur du chef de conduite en état d’intoxication alcoolique et d’ivresse, sur pied respectivement des articles 34, § 2, 1°, et 35 de la loi sur la circulation routière, en récidive spécifique visée aux articles 36 et 38, § 6, de cette loi.
+Quant au moyen, pris de la violation des articles 36 et 38, § 6(1), de la loi sur la circulation routière :
+Le demandeur reproche au jugement attaqué de considérer, en application des articles 99bis, alinéa 1er, et 100 du Code pénal, que sa condamnation du 4 avril 2017 par une juridiction allemande du chef de conduite en état d’ivresse fonde la récidive spécifique prévue aux articles 36 et 38, § 6, de la loi précitée.
+Il fait valoir ce qui suit :
+- d’une part, ces dernières dispositions instituent une récidive après une condamnation du chef d’infraction à diverses dispositions de cette même loi, qu’elles énumèrent ; elles ne précisent pas que cette condamnation peut aussi avoir été infligée du chef d’infraction à des dispositions légales de droit étranger semblables ou similaires ;
+- d’autre part, il suit de l’article 100 du Code pénal que l’article 99bis de ce code n’est applicable qu’« à défaut de dispositions contraires dans les lois et règlements particuliers », les articles 36 et 38 précités constituent des lois particulières en ce sens ; le demandeur en déduit que l’article 99bis du Code pénal n’est pas d’application aux cas que visent ces dispositions et, partant, une condamnation infligée par une juridiction étrangère ne peut fonder la récidive spécifique qu’elles prévoient.
+Inséré en 2014(2), l’article 99bis, al. 1er, du Code pénal dispose que « les condamnations prononcées par les juridictions pénales d'un autre État membre de l'Union européenne sont prises en compte dans les mêmes conditions que les condamnations prononcées par les juridictions pénales belges, et elles produiront les mêmes effets juridiques que ces condamnations ».
+Les travaux parlementaires énoncent que pour ces faits, « le juge devra procéder à la qualification des faits faisant l’objet des condamnations étrangères, sur [la] base des lois belges »(3).
+Il suit de l’article 100 du Code pénal que les dispositions du premier Livre de ce code sont applicables aux infractions prévues par les lois et règlements particuliers, sauf dispositions contraires dans celles-ci (et « à l'exception du chapitre VII, et de l'article 85 » de ce code, étrangers à la présente espèce).
+Ainsi, l'article 99bis du Code pénal s'applique pour la détermination de l'état de récidive légale sur pied de l’article 56 du même code(4).
+Les articles 36 et 38, § 6, de la loi sur la circulation routière indiquent certes qu’ils s’appliquent aux condamnations infligées par application de plusieurs dispositions de la loi sur la circulation routière, qu’ils énumèrent.
+Mais ils ne contiennent pas de dispositions contraires à l’article 99bis du Code pénal : en d’autres termes, ils n’interdisent pas de prendre en compte les condamnations prononcées par les juridictions pénales d’un autre État membre de l’Union européenne dans les mêmes conditions que les condamnations prononcées par les juridictions pénales belges.
+Partant, dans la mesure où il soutient le contraire, le moyen me paraît manquer en droit.
+L’article 35 de la loi sur la circulation routière, soit l’une des dispositions visées aux articles 36 et 38, § 6 de cette loi, réprime la conduite en état d’ivresse.
+Dès lors, selon moi, les juges d’appel, après avoir constaté que le demandeur a été condamné par un tribunal allemand du chef d’infraction au § 316 du Code pénal allemand, qui réprime la conduite en état d’ivresse, pouvaient en déduire que cette condamnation est apte à fonder la récidive prévue aux articles 36 et 38, § 6, précités.
+Dans cette mesure, le moyen ne peut être accueilli.
+Contrôle d’office :
+Pour le surplus, la décision me paraît conforme à la loi.
+Conclusion : rejet.
+_______________________________________
+(1) Dans sa version applicable avant l’entrée en vigueur, le 12 octobre 2018, de la loi du 2 septembre 2018 modifiant la loi du 16 mars 1968 relative à la police de la circulation routière, en ce qui concerne la confiscation et l'immobilisation des véhicules, dont l’article 2 remplace ce §, remplacement qui me paraît sans incidence sur le point de droit examiné ci-dessous.
+(2) Par l’article 62 de la loi du 25 avril 2014 portant des dispositions diverses en matière de Justice, entrée en vigueur le 24 mai, sub « titre 8 - Transposition de la décision-cadre 2008/675/JAI du Conseil du 24 juillet 2008 relative à la prise en compte des décisions de condamnation entre les États membres de l'Union européenne à l'occasion d'une nouvelle procédure pénale ».
+(3) Exposé des motifs, Doc. parl., Ch., 53 3149/001, p. 62.
+(4) Pour les faits commis après le 24 mai 2014 (Cass. 8 mars 2017, RG P.16.1268.F ECLI:BE:CASS:2017:ARR.20170308.1, Pas. 2017, n° 164, solution implicite), ce qui est le cas ici.
+Voir S. DALESSANDRO, « L’approche internationale de la récidive par le juge belge en vertu du principe de reconnaissance mutuelle des décisions de justice ». Rev. dr. pén. crim. 2017, pp. 683-702, cité in Th. MOREAU et D. VANDERMEERSCH, Éléments de droit pénal, 2018, La Charte, p. 337.
+Voir aussi l’art. 57bis C. pén. inséré par l’art. 60 de ladite loi du 25 avril 2014  : « les règles établies pour la récidive, prévues aux articles 54 à 56, sont appliquées en cas de condamnation antérieure prise en compte conformément à l'article 99bis ».
