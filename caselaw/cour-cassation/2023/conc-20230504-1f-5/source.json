@@ -1,0 +1,33 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230504.1F.5",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230504.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-04",
+  "date_as_printed": "Conclusions du Ministère public du 04 mai 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "C.22.0441.F",
+  "case_name_as_published": "T. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "SAISIE - SAISIE-EXECUTION",
+    "BESLAG - GEDWONGEN TENUITVOERLEGGING",
+    "Décision judiciaire frappée d'opposition ou d'appel - Cantonnement - Nature du paiement - Effet - Assiette de la saisie - Effet",
+    "Rechterlijke beslissing waartegen verzet is aangetekend of hoger beroep is ingesteld - Kantonnement - Aard van de betaling - Uitwerking - Grondslag van het beslag - Uitwerking"
+  ],
+  "fiche": [
+    "SAISIE - SAISIE-EXECUTION",
+    "Décision judiciaire frappée d'opposition ou d'appel - Cantonnement - Nature du paiement - Effet - Assiette de la saisie - Effet",
+    "Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1403, al. 1er - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1404, al. 1er et 2 - 05 Lien ELI No pub 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230504.1F.5",
+  "source_sha256": "b85eeb7cd62de7351b26fc18c3802445453fbb2efe5c266e18b2dc1a3f3a90f3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230504.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_39.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
