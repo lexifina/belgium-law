@@ -1,0 +1,42 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230504.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230504.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-04",
+  "date_as_printed": "Conclusions du Ministère public du 04 mai 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "C.22.0431.F",
+  "case_name_as_published": "STRUCTUREWOOD s.a. c. RAIFFEISENBANK ILLER-ROTH-GUNZ",
+  "subjects": [
+    "Droit international privé",
+    "Internationaal privaatrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "COMPETENCE ET RESSORT - COMPETENCE INTERNATIONALE",
+    "BEVOEGDHEID EN AANLEG - INTERNATIONALE BEVOEGDHEID",
+    "Principe - Domicile du défendeur - Compétences spéciales - Exception - Demande en garantie",
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "Demande en garantie - Notion",
+    "Beginsel - Woonplaats van de verweerder - Bijzondere bevoegdheden - Exceptie - Vordering tot vrijwaring",
+    "Vordering tot vrijwaring - Begrip"
+  ],
+  "fiche": [
+    "COMPETENCE ET RESSORT - COMPETENCE INTERNATIONALE",
+    "Principe - Domicile du défendeur - Compétences spéciales - Exception - Demande en garantie",
+    "Règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale - 12-12-2012 - Art. 4, § 1er Règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale - 12-12-2012 - Art. 5, § 1er Règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale - 12-12-2012 - Art. 8, § 2",
+    "DEMANDE EN JUSTICE",
+    "Demande en garantie - Notion",
+    "BJS-Bulletin juridique social - 2023, n° 711, p. 9. - DE GRAVE, François; Note'Demande en garantie formée contre une société allemande: la Cour de cassation rappelle l'article 8, 2), du Règlement Bruxelles Ibis'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230504.1F.4",
+  "source_sha256": "676f1203adb73eda59cf0913a6bab3eacea631aa075b6238f3890dbb4bf0c271",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230504.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
