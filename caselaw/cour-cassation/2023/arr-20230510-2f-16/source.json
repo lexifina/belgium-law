@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230510.2F.16",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230510.2F.16",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-10",
+  "date_as_printed": "Jugement/arrêt du 10 mai 2023",
+  "published_on_juportal": "2023-05-16",
+  "language": "fr",
+  "role_number": "P.23.0657.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Dossier à transmettre à la Cour - Procédure devant la chambre des mises en accusation - Procès-verbal d'audience manquant - Conséquence",
+    "CASSATION - GENERALITES. MISSION ET RAISON D'ETRE DE LA COUR DE CASSATION. NATURE DE L'INSTANCE EN CASSATION",
+    "CASSATIE - ALGEMEEN. OPDRACHT EN BESTAANSREDEN VAN HET HOF. AARD VAN HET CASSATIEGEDING",
+    "Contrôle de la régularité de la procédure - Dossier incomplet - Maintien de la détention préventive - Procédure devant la chambre des mises en accusation - Procès-verbal d'audience manquant - Conséquence",
+    "Dossier dat aan het Hof moet worden bezorgd - Procedure voor de kamer van inbeschuldigingstelling - Ontbrekend proces-verbaal van de rechtszitting - Gevolg",
+    "Toetsing van de regelmatigheid van de rechtspleging - Onvolledig dossier - Handhaving van de voorlopige hechtenis - Procedure voor de kamer van inbeschuldigingstelling - Ontbrekend proces-verbaal van de rechtszitting - Gevolg"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "Dossier à transmettre à la Cour - Procédure devant la chambre des mises en accusation - Procès-verbal d'audience manquant - Conséquence",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31, § 3 - 35 Lien ELI No pub 1990099963",
+    "CASSATION - GENERALITES. MISSION ET RAISON D'ETRE DE LA COUR DE CASSATION. NATURE DE L'INSTANCE EN CASSATION",
+    "Contrôle de la régularité de la procédure - Dossier incomplet - Maintien de la détention préventive - Procédure devant la chambre des mises en accusation - Procès-verbal d'audience manquant - Conséquence",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31, § 3 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230510.2F.16",
+  "source_sha256": "b2efb0bd2feaa1a6d743510198138955ac829e70ff57be770227d12b4d4fea0f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230510.2F.16_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_20.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
