@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230510.2F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230510.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-10",
+  "date_as_printed": "Jugement/arrêt du 10 mai 2023",
+  "published_on_juportal": "2023-05-16",
+  "language": "fr",
+  "role_number": "P.23.0368.F",
+  "case_name_as_published": "LE PROCUREUR FEDERAL A BRUXELLES contra G.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Durée, point de départ et fin",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Duur, begin en einde",
+    "Décision rendue par défaut à l'égard d'un prévenu - Décision rendue de façon contradictoire à l'égard d'autres prévenus - Point de départ du délai pour se pourvoir",
+    "RECEL",
+    "HELING",
+    "Blanchiment - Acquittement de certains prévenus du chef de l'infraction primaire - Impact sur l'infraction de blanchiment reprochée aux même prévenus",
+    "STUPEFIANTS",
+    "VERDOVENDE MIDDELEN",
+    "Trafic de cannabis - Avantages patrimoniaux tirés de l'infraction - Blanchiment - Acquittement de certains prévenus du chef de l'infraction de trafic de cannabis - Impact sur l'infraction de blanchiment reprochée aux même prévenus",
+    "Jegens een beklaagde bij verstek gewezen beslissing - Jegens de andere beklaagden op tegenspraak gewezen beslissing - Aanvang van de termijn om cassatieberoep in te stellen",
+    "Witwassen - Vrijspraak van bepaalde beklaagden van het primaire misdrijf - Weerslag op het aan dezelfde beklaagden verweten witwasmisdrijf",
+    "Cannabishandel - Uit het misdrijf verkregen vermogensvoordelen - Witwassen - Vrijspraak van bepaalde beklaagden van het misdrijf van cannabishandel - Weerslag op het aan dezelfde beklaagden verweten witwasmisdrijf"
+  ],
+  "fiche": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Durée, point de départ et fin",
+    "Décision rendue par défaut à l'égard d'un prévenu - Décision rendue de façon contradictoire à l'égard d'autres prévenus - Point de départ du délai pour se pourvoir",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 424 - 30 Lien ELI No pub 1808121050",
+    "RECEL",
+    "Blanchiment - Acquittement de certains prévenus du chef de l'infraction primaire - Impact sur l'infraction de blanchiment reprochée aux même prévenus",
+    "Code pénal 1867 - 08-06-1867 - Art. 505 - 01 Lien ELI No pub 1867060850",
+    "STUPEFIANTS",
+    "Trafic de cannabis - Avantages patrimoniaux tirés de l'infraction - Blanchiment - Acquittement de certains prévenus du chef de l'infraction de trafic de cannabis - Impact sur l'infraction de blanchiment reprochée aux même prévenus",
+    "Code pénal 1867 - 08-06-1867 - Art. 505 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230510.2F.3",
+  "source_sha256": "f3ce5ea5af050e43135975e1d30c6a3ba0b8fc809c382bacaf58c7cd590a5438",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230510.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
