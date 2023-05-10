@@ -1,0 +1,48 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230510.2F.7",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230510.2F.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-10",
+  "date_as_printed": "Jugement/arrêt du 10 mai 2023",
+  "published_on_juportal": "2023-05-16",
+  "language": "fr",
+  "role_number": "P.23.0563.F",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Motivation - Etendue",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Détermination de la date pour l'introduction d'une nouvelle demande - Motivation - Etendue",
+    "Strafuitvoeringsrechtbank - Strafuitvoeringsmodaliteit - Weigering om deze toe te kennen - Motivering - Omvang",
+    "Strafuitvoeringsrechtbank - Strafuitvoeringsmodaliteit - Weigering om deze toe te kennen - Bepaling van de datum voor het indienen van een nieuw verzoek - Motivering - Omvang"
+  ],
+  "fiche": [
+    "APPLICATION DES PEINES",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Motivation - Etendue",
+    "L. du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine - 17-05-2006 - Art. 47, § 1er - 35 Lien ELI No pub 2006009456",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Motivation - Etendue",
+    "L. du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine - 17-05-2006 - Art. 47, § 1er - 35 Lien ELI No pub 2006009456",
+    "APPLICATION DES PEINES",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Détermination de la date pour l'introduction d'une nouvelle demande - Motivation - Etendue",
+    "L. du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine - 17-05-2006 - Art. 57, al. 1er - 35 Lien ELI No pub 2006009456",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Tribunal de l'application des peines - Modalité d'exécution de la peine - Refus d'octroi - Détermination de la date pour l'introduction d'une nouvelle demande - Motivation - Etendue",
+    "L. du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine - 17-05-2006 - Art. 57, al. 1er - 35 Lien ELI No pub 2006009456"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230510.2F.7",
+  "source_sha256": "7c642489cd0ad58e1f42868a22dca51a841c9dcad75823d6c6b8bca1c06305b9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230510.2F.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
