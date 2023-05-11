@@ -1,0 +1,37 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230511.1F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230511.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-11",
+  "date_as_printed": "Jugement/arrêt du 11 mai 2023",
+  "published_on_juportal": "2023-06-08",
+  "language": "fr",
+  "role_number": "C.21.0409.F",
+  "case_name_as_published": "B. contra ROLEX BENELUX s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "VENTE",
+    "KOOP",
+    "Concession de vente exclusive à durée indéterminée - Disposition organisant le droit de résiliation unilatérale - Une des deux parties à un contrat synallagmatique ne satisfait pas à son engagement - Effet",
+    "Concession de vente exclusive à durée indéterminée - Disposition organisant le droit de résiliation unilatérale - Une des deux parties à un contrat synallagmatique ne satisfait pas à son engagement - Conséquence - Effet",
+    "Voor onbepaalde tijd verleende concessie van alleenverkoop - Bepaling die voorziet in het recht op eenzijdige beëindiging - Een van de twee partijen bij een wederkerige overeenkomst die haar verbintenissen niet nakomt - Uitwerking",
+    "Voor onbepaalde tijd verleende concessie van alleenverkoop - Bepaling die voorziet in het recht op eenzijdige beëindiging - Een van de twee partijen bij een wederkerige overeenkomst die haar verbintenissen niet nakomt - Gevolg - Uitwerking"
+  ],
+  "fiche": [
+    "VENTE",
+    "Concession de vente exclusive à durée indéterminée - Disposition organisant le droit de résiliation unilatérale - Une des deux parties à un contrat synallagmatique ne satisfait pas à son engagement - Effet",
+    "L. du 27 juillet 1961 relative à la résiliation unilatérale des concessions de vente exclusive à durée indéterminée - 27-07-1961 - Art. 2, al. 1er - 03 Lien ELI No pub 1961072709 ancien Code Civil - 21-03-1804 - Art. 1184 - 30 Lien ELI No pub 1804032150",
+    "Concession de vente exclusive à durée indéterminée - Disposition organisant le droit de résiliation unilatérale - Une des deux parties à un contrat synallagmatique ne satisfait pas à son engagement - Conséquence - Effet",
+    "L. du 27 juillet 1961 relative à la résiliation unilatérale des concessions de vente exclusive à durée indéterminée - 27-07-1961 - Art. 2, al. 1er - 03 Lien ELI No pub 1961072709 ancien Code Civil - 21-03-1804 - Art. 1184 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230511.1F.1",
+  "source_sha256": "4bcd2f8e7ce450fd061891eb5dc4f0a8cf1004bcb4206f6b12b2d14447a693dd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230511.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/13/sitemap_30.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
