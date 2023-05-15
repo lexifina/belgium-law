@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230515.3F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230515.3F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-15",
+  "date_as_printed": "Jugement/arrêt du 15 mai 2023",
+  "published_on_juportal": "2023-06-01",
+  "language": "fr",
+  "role_number": "S.22.0038.F",
+  "case_name_as_published": "Jouets BROZE Fils s.a. contra C.",
+  "subjects": [
+    "Droit du travail",
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "DELEGATION SYNDICALE",
+    "VAKBONDSAFVAARDIGING",
+    "Secteur des grandes entreprises de détail - Protection contre le licenciement - Délégué suppléant",
+    "CONTRAT DE TRAVAIL - FIN - Divers",
+    "ARBEIDSOVEREENKOMST - EINDE - Allerlei",
+    "Protection contre le licenciement - Délégation syndicale - Secteur des grandes entreprises de détail - Délégué suppléant",
+    "Sector van de grote kleinhandelszaken - Ontslagbescherming - Plaatsvervangende afgevaardigde",
+    "Ontslagbescherming - Vakbondsafvaardiging - Sector van de grote kleinhandelszaken - Plaatsvervangende afgevaardigde"
+  ],
+  "fiche": [
+    "DELEGATION SYNDICALE",
+    "Secteur des grandes entreprises de détail - Protection contre le licenciement - Délégué suppléant",
+    "Convention collective de travail du 21 septembre 2015 fixant le statut des délégations syndicales - 21-09-2015 - Art. 6, 26 et 28",
+    "CONTRAT DE TRAVAIL - FIN - Divers",
+    "Protection contre le licenciement - Délégation syndicale - Secteur des grandes entreprises de détail - Délégué suppléant",
+    "Convention collective de travail du 21 septembre 2015 fixant le statut des délégations syndicales - 21-09-2015 - Art. 6, 26 et 28"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230515.3F.1",
+  "source_sha256": "0959cc1ba89b1a105b6d392e17a8e2cf5bd83aa97d3cfac9b39ab860961925a2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230515.3F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/21/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
