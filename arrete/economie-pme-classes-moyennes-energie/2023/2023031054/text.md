@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les propositions, soumises par le gestionnaire de réseau, de liste des utilisateurs significatifs de réseau de haute priorité dans le cadre du plan de défense du réseau et les modalités y associées et de liste des utilisateurs significatifs de réseau de haute priorité dans le cadre du plan de reconstitution du réseau et les modalités y associées sont approuvées.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Une expédition certifiée conforme du présent arrêté est adressée à Elia Transmission Belgium SA, dont le numéro d'entreprise est 0731.852.231, et à la Commission de Régulation de l'Electricité et du Gaz.
