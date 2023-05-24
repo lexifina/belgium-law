@@ -1,0 +1,37 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230524.2F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230524.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-24",
+  "date_as_printed": "Jugement/arrêt du 24 mai 2023",
+  "published_on_juportal": "2023-05-26",
+  "language": "fr",
+  "role_number": "P.23.0620.F",
+  "case_name_as_published": "Y.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RENVOI D'UN TRIBUNAL A UN AUTRE - MATIERE REPRESSIVE",
+    "VERWIJZING VAN EEN RECHTBANK NAAR EEN ANDERE - STRAFZAKEN",
+    "Procédure prévue par l'article 545 du Code d'instruction criminelle - Obligation de statuer à bref délai - Conséquence",
+    "Recevabilité de la demande de renvoi - Motifs à l'appui de la demande - Exigence de faits probants et précis - Déductions non objectivées - Constatations non pertinentes - Suppositions subjectives - Conséquence",
+    "Rechtspleging bepaald in artikel 545 Wetboek van Strafvordering - Verplichting om op korte termijn uitspraak te doen - Gevolg",
+    "Ontvankelijkheid van de vordering tot verwijzing - Redenen tot staving van de vordering - Vereiste bewijskrachtige en nauwkeurige gegevens - Niet-geobjectiveerde gevolgtrekkingen - Irrelevante vaststellingen - Subjectieve veronderstellingen - Gevolg"
+  ],
+  "fiche": [
+    "RENVOI D'UN TRIBUNAL A UN AUTRE - MATIERE REPRESSIVE",
+    "Procédure prévue par l'article 545 du Code d'instruction criminelle - Obligation de statuer à bref délai - Conséquence",
+    "Code d'Instruction criminelle - Livre II, Titres V et VI (Art. 525 à 588) - 14-12-1808 - Art. 545 - 30 Lien ELI No pub 1808121450",
+    "RENVOI D'UN TRIBUNAL A UN AUTRE - MATIERE REPRESSIVE",
+    "Recevabilité de la demande de renvoi - Motifs à l'appui de la demande - Exigence de faits probants et précis - Déductions non objectivées - Constatations non pertinentes - Suppositions subjectives - Conséquence"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230524.2F.5",
+  "source_sha256": "3beea056c89b3caf5becc0e0a233b45dbb57ac877527533973c55a460cde3085",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230524.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
