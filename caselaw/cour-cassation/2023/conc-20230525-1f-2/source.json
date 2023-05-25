@@ -1,0 +1,33 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230525.1F.2",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230525.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-25",
+  "date_as_printed": "Conclusions du Ministère public du 25 mai 2023",
+  "published_on_juportal": "2023-11-14",
+  "language": "fr",
+  "role_number": "C.21.0425.F-C.22.0120.F",
+  "case_name_as_published": "HOLTROP JANSMA société de droit néerl. c. AXA BELGIUM",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - CONCOURS DE RESPONSABILITES - Responsabilités contractuelle et extra-contractuelle",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - SAMENLOOP VAN AANSPRAKELIJKHEID - Aansprakelijkheid uit en buiten overeenkomst",
+    "Responsabilité extracontractuelle - Manquement à l'obligation de prudence - Dommage autre que celui résultant de la mauvaise exécution du contrat - Notion",
+    "Aansprakelijkheid buiten overeenkomst - Tekortkoming aan de voorzichtigheidsplicht - Andere schade dan die voortvloeiend uit de wanuitvoering van de overeenkomst - Begrip"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - CONCOURS DE RESPONSABILITES - Responsabilités contractuelle et extra-contractuelle",
+    "Responsabilité extracontractuelle - Manquement à l'obligation de prudence - Dommage autre que celui résultant de la mauvaise exécution du contrat - Notion",
+    "RGDC-Revue générale de droit civil belge - 2024, n° 6, p. 276-281. - WERY, Patrick; Note'La notion de dommage contractuel appliquée au concours des responsabilités'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230525.1F.2",
+  "source_sha256": "8e98cfd413c0fccaf00970e2498825d4d6ab83ad7acedb7b3351dbce8ae18ad4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230525.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
