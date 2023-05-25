@@ -1,0 +1,59 @@
+N° C.21.0425.F
+HOLTROP & JANSMA, société de droit néerlandais, dont le siège est établi à Dokkum (Pays-Bas), Rondweg, 43,
+demanderesse en cassation,
+représentée par Maître Bruno Maes, avocat à la Cour de cassation, dont le cabinet est établi à Watermael-Boitsfort, chaussée de La Hulpe, 177/7, où il est fait élection de domicile,
+contre
+AXA BELGIUM, société anonyme, dont le siège est établi à Bruxelles, place du Trône, 1, inscrite à la banque-carrefour des entreprises sous le numéro 0404.483.367,
+défenderesse en cassation,
+représentée par Maître Jacqueline Oosterbosch et Maître Gilles Genicot, avocats à la Cour de cassation, dont le cabinet est établi à Liège, rue de Chaudfontaine, 11, où il est fait élection de domicile,
+en présence de
+ROTOR, société de droit néerlandais, dont le siège est établi à Eibergen (Pays-Bas), De Mors, 2,
+partie appelée en déclaration d’arrêt commun.
+N° C.22.0120.F
+ROTOR, société de droit néerlandais, dont le siège est établi à Eibergen (Pays-Bas), De Mors, 2,
+demanderesse en cassation,
+représentée par Maître Michèle Grégoire, avocat à la Cour de cassation, dont le cabinet est établi à Bruxelles, rue de la Régence, 4, où il est fait élection de domicile,
+contre
+AXA BELGIUM, société anonyme, dont le siège est établi à Bruxelles, place du Trône, 1, inscrite à la banque-carrefour des entreprises sous le numéro 0404.483.367,
+défenderesse en cassation,
+représentée par Maître Gilles Genicot, avocat à la Cour de cassation, dont le cabinet est établi à Liège, rue de Chaudfontaine, 11, où il est fait élection de domicile,
+en présence de
+HOLTROP & JANSMA, société de droit néerlandais, dont le siège est établi à Dokkum (Pays-Bas), Rondweg, 43,
+partie appelée en déclaration d’arrêt commun.
+I.	La procédure devant la Cour
+Les pourvois en cassation sont dirigés contre l’arrêt rendu le 19 novembre 2020 par la cour d’appel de Liège, statuant comme juridiction de renvoi ensuite de l’arrêt de la Cour du 24 janvier 2019.
+Le 9 mai 2023, l’avocat général Philippe de Koster a déposé des conclusions au greffe.
+Le conseiller Ariane Jacquemin a fait rapport et l’avocat général
+Philippe de Koster a été entendu en ses conclusions.
+
+II. 	Les moyens de cassation
+À l’appui du pourvoi inscrit au rôle général sous le numéro C.21.0425.F, dans la requête en cassation, jointe au présent arrêt en copie certifiée conforme, la demanderesse présente un moyen.
+À l’appui du pourvoi inscrit au rôle général sous le numéro C.22.0120.F, dans la requête en cassation, jointe au présent arrêt en copie certifiée conforme, la demanderesse présente un moyen.
+III. 	La décision de la Cour
+Les pourvois sont dirigés contre le même arrêt ; il y a lieu de les joindre.
+Sur le pourvoi inscrit au rôle général sous le numéro C.21.0425.F :
+Sur le moyen :
+Quant à la seconde branche :
+La responsabilité extracontractuelle d’une partie contractante ne peut être engagée à l’égard de son cocontractant que si la faute qui lui est imputée constitue un manquement non seulement à l’obligation contractuelle mais aussi à l’obligation générale de prudence et que cette faute a causé un dommage autre que celui qui résulte de la mauvaise exécution du contrat.
+Le dommage qui résulte de la mauvaise exécution du contrat est celui qui est en lien causal avec ce manquement, lors même qu’il n’en est qu’une suite indirecte.
+L’arrêt attaqué relève qu’« en juin 1998, la société Halwema a vendu à la société Stock Américain un ventilateur électrique et l’a intégré dans une installation de sciage de panneaux de bois en vue de permettre l’évacuation des [sciures] de bois produites par deux panneauteuses », que la société Halwema « a acheté le ventilateur équipé du moteur incriminé à [la demanderesse] », dont la défenderesse est l’assureur responsabilité civile exploitation, que « le 8 avril 2000, un incendie s’est déclaré dans les bâtiments de la société Stock Américain au départ de cette installation de sciage », que « l’origine du sinistre réside dans un vice du moteur de ce ventilateur » et que la défenderesse, tenue d’indemniser la société Stock Américain pour le dommage causé aux biens et le préjudice commercial, « entend exercer une action en garantie contre [la demanderesse] » mais qu’elle « ne peut plus à ce stade invoquer […] un fondement contractuel, lequel a été définitivement rejeté », ce vice n’ayant pas été dénoncé à temps, en sorte qu’elle invoque « un fondement extracontractuel ».
+En considérant que le dommage est « distinct de l’inexécution du contrat » en ce qu’il consiste « en la destruction de divers biens meubles et d’une partie d’immeuble suite à la propagation de flammes » et qu’en tant qu’« atteinte à la sécurité des biens qui ne font pas l’objet du contrat », le dommage est « détachable [du manquement contractuel] », l’arrêt attaqué ne justifie pas légalement sa décision que « l’action en garantie de [la défenderesse] à l’égard de [la demanderesse] est fondée sur pied des articles 1382 et 1383 du Code civil ».
+Le moyen, en cette branche, est fondé.
+Et il n’y a pas lieu d’examiner la première branche du moyen, qui ne saurait entraîner une cassation plus étendue.
+Sur le pourvoi inscrit au rôle général sous le numéro C.22.0120.F :
+Sur le moyen :
+Sur la fin de non-recevoir opposée par la défenderesse au moyen et déduite de ce qu’il s’érige contre une appréciation de l’arrêt attaqué qui gît en fait :
+Si le juge constate souverainement les faits dont il déduit l’existence ou l’inexistence d’un dommage autre que celui qui résulte de la mauvaise exécution du contrat, la Cour contrôle cependant si, de ses constatations, le juge a pu légalement déduire cette décision.
+La fin de non-recevoir ne peut être accueillie.
+Sur le fondement du moyen :
+L’arrêt attaqué constate que la défenderesse « forme également une demande en garantie sur la base extracontractuelle contre [la demanderesse], société ayant fabriqué et vendu à la société Holtrop le moteur incriminé qui équipait le ventilateur », et que, le droit belge étant applicable en vertu du principe de la lex loci delicti, même à considérer une situation de concours, la responsabilité extracontractuelle de [la demanderesse] est engagée vis-à-vis de l’assurée de [la défenderesse] par identité de motifs à ceux développés [à propos de l’action en garantie de la défenderesse contre la société Holtrop] ».
+En considérant, sur la base de ces énonciations, « qu’en fabriquant et en commercialisant un moteur défectueux susceptible de présenter un danger pour la sécurité, [la demanderesse] a causé un dommage qui n’est pas purement contractuel », l’arrêt attaqué ne justifie pas légalement sa décision de dire fondée la demande de la défenderesse.
+Dans cette mesure, le moyen est fondé.
+Par ces motifs,
+La Cour
+Joint les pourvois inscrits au rôle général sous les numéros C.21.0425.F et C.22.0120.F ;
+Casse l’arrêt attaqué en tant qu’il statue sur les demandes en garantie dirigées par la défenderesse contre chacune des demanderesses et sur les dépens entre ces parties ;
+Ordonne que mention du présent arrêt sera faite en marge de l’arrêt partiellement cassé ;
+Réserve les dépens pour qu’il soit statué sur ceux-ci par le juge du fond ;
+Renvoie la cause, ainsi limitée, devant la cour d’appel de Bruxelles.
+Ainsi jugé par la Cour de cassation, première chambre, à Bruxelles, où siégeaient le président de section Christian Storck, président, le président de section Mireille Delange, les conseillers Marie-Claire Ernotte, Ariane Jacquemin et Simon Claisse, et prononcé en audience publique du vingt-cinq mai deux mille vingt-trois par le président de section Christian Storck, en présence de l’avocat général Philippe de Koster, avec l’assistance du greffier Patricia De Wadripont.
