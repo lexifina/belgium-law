@@ -1,0 +1,36 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté s'applique aux employeurs et aux ouvriers des entreprises qui s'occupent de la teinture, du nettoyage chimique et du repassage de vêtements ou d'objets d'ameublements, ainsi qu'aux dépôts et "shops" s'occupant d'une ou de plusieurs activités de ce secteur d'activité.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. En cas de manque total ou partiel de travail résultant de causes économiques, l'exécution du contrat de travail d'ouvrier peut être suspendue ou un régime de travail à temps réduit peut être instauré à partir du premier jour de travail suivant celui de la notification.
+L'employeur ne peut faire usage de ce régime que pendant les mois de novembre, décembre, janvier et février.
+La notification s'effectue, soit par voie d'affichage d'un avis à un endroit apparent dans les locaux de l'entreprise, soit par remise d'une notification écrite individuelle aux ouvriers mis en chômage.
+La notification individuelle doit être contresignée par ces derniers.
+Suivant le cas, la notification mentionne soit les nom, prénoms et adresse des ouvriers mis en chômage, soit les départements ou sections de l'entreprise, soit les catégories professionnelles dont l'activité sera suspendue ou réduite.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. En cas de manque total de travail touchant soit la totalité de l'entreprise, soit un département de celle-ci, soit une ou plusieurs catégories professionnelles, la suspension ne peut, en aucun cas, se prolonger plus de six jours de travail consécutifs, interrompus ou non par un dimanche, un jour férié ou tout autre jour habituel d'inactivité.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Lorsqu'en cas de manque partiel de travail, l'employeur instaure un régime de travail à temps réduit, ce régime doit être organisé de la façon suivante :
+1° soit par l'occupation de la totalité du personnel de l'entreprise, du département ou de la (ou des) catégorie(s) professionnelle(s) intéressée(s) :
+a) soit pendant au moins trois jours de travail par semaine ou une semaine de travail sur deux semaines;
+b) soit pendant au moins un jour de travail et moins de trois jours de travail par semaine;
+2° soit par un régime de roulement qui consiste en la répartition équitable des jours de travail, telle que mentionnée sous 1°, entre les ouvriers de toute l'entreprise, du département ou de la (ou des) catégorie(s) professionnelle(s) intéressée(s).
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Sans préjudice des dispositions de l'article 2, alinéa 2 :
+1° le régime de travail à temps réduit visé à l'article 4, 1°, a), peut être instauré pour une durée indéterminée;
+2° le régime de travail à temps réduit visé à l'article 4, 1°, b), ne peut être instauré que pour une durée de trois mois au maximum, sauf dans la région du littoral et dans les centres touristiques où ce régime peut être instauré pour une durée de quatre mois au maximum.
+Pour l'application du présent article, il faut entendre, par la région du littoral: les communes qui ne sont pas situées à plus de cinq kilomètres de la côte.
+Sont considérées comme centres touristiques, les localités qui remplissent au moins deux des conditions suivantes :
+a) les localités où la plupart des hôtels sont fermés pendant au moins six mois par an;
+b) les localités où le nombre de résidents augmente notablement à certaines époques de l'année;
+c) les localités où le personnel engagé dans l'industrie hôtelière augmente dans de fortes proportions à certaines époques de l'année.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Lorsqu'en cas de manque partiel de travail, l'employeur instaure un régime de travail à temps réduit, le nombre maximal de journées de chômage est fixé à quatre quand il s'agit d'un régime hebdomadaire.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. En application de l'article 51, § 1er, alinéa 5, de la loi du 3 juillet 1978 relative aux contrats de travail, la notification visée à l'article 2, alinéa 4, doit mentionner :
+1° la date à laquelle la suspension totale de l'exécution du contrat ou le régime de travail à temps réduit prendra cours et la date à laquelle cette suspension ou ce régime prendra fin;
+2° les dates auxquelles les ouvriers seront en chômage.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Pour l'application du présent arrêté, est considéré comme jour de travail chaque jour pendant lequel on doit travailler normalement, conformément au régime de travail fixé au règlement de travail.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Le présent arrêté entre en vigueur le 25 mai 2023 et cesse d'être en vigueur le 24 mai 2025.
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
