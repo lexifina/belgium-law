@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230525.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230525.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-25",
+  "date_as_printed": "Jugement/arrêt du 25 mai 2023",
+  "published_on_juportal": "2023-06-12",
+  "language": "fr",
+  "role_number": "C.22.0473.F",
+  "case_name_as_published": "ZEPPELIN SYSTEMS société de droit all. c. A.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Preuve littérale - Foi due aux actes",
+    "BEWIJS - BURGERLIJKE ZAKEN - Geschriften - Bewijskracht",
+    "Notion",
+    "Begrip"
+  ],
+  "fiche": [
+    "PREUVE - MATIERE CIVILE - Preuve littérale - Foi due aux actes",
+    "Notion",
+    "Code civil - Livre 8: La preuve - 13-04-2019 - Art. 8.17 - 29 Lien ELI No pub 2019A12168 Code civil - Livre 8: La preuve - 13-04-2019 - Art. 8.18 - 29 Lien ELI No pub 2019A12168"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230525.1F.6",
+  "source_sha256": "811240884e06421b7480c6b6e636b20377783e3311317590d212ae0922c038f6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230525.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
