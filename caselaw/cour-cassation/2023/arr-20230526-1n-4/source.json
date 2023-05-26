@@ -1,0 +1,37 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2023:ARR.20230526.1N.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230526.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-05-26",
+  "date_as_printed": "Vonnis/arrest van 26 mei 2023",
+  "published_on_juportal": "2023-07-24",
+  "language": "nl",
+  "role_number": "C.22.0456.N",
+  "case_name_as_published": "D. contra R.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "FILIATION",
+    "AFSTAMMING",
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF"
+  ],
+  "fiche": [
+    "AFSTAMMING",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 318, § 1 - 30 ELI link Pub nr 1804032150",
+    "GRONDWETTELIJK HOF",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 318, § 1 - 30 ELI link Pub nr 1804032150",
+    "RW-Rechtskundig weekblad - 2023-24, nr. 26, p. 1023-1028. - DE METSENAERE, Laurence; Noot'Het bezit van staat bij de betwisting van het vaderschap: belangenafweging ook mogelijk bij de beoordeling van de gegrondheid van de vordering' T.Fam.-Tijdschrift voor familierecht - 2024, nr. 7, p. 206-215. - VAN DRIESSCHE, Leander; Noot'Zin en onzin van het onderscheid tussen de ontvankelijkheid en de gegrondheid van de vordering tot betwisting van vaderschap'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230526.1N.4",
+  "source_sha256": "7a21a0e3fc79a46f73ed48e5835d9afa96fb7972cbeb534409867d9831e57685",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230526.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_101.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
