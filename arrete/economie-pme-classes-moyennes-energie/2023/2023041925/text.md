@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le règlement de l'Autorité des services et des marchés financiers du 24 janvier 2023 relatif aux informations à communiquer aux fins du contrôle des règles de conduite IDD et de la validation de la cartographie, joint en annexe au présent arrêté, est approuvé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a l'Economie dans ses attributions, le ministre qui a les Finances dans ses attributions et le ministre qui a la Protection des consommateurs dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
