@@ -1,0 +1,42 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230601.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230601.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-01",
+  "date_as_printed": "Conclusions du Ministère public du 01 juin 2023",
+  "published_on_juportal": "2023-08-16",
+  "language": "fr",
+  "role_number": "C.22.0155.F",
+  "case_name_as_published": "IMMO GRAM s.r.l. c. ASS. DES COPROP. RESIDENCE DU PARC",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PROPRIETE",
+    "EIGENDOM",
+    "Copropriété - Association des copropriétaires - Qualité et intérêt - Droit d'action - Droit de la défense - Action en rectification du mode de répartition des charges",
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "Qualité et intérêt à agir - Qualité et intérêt du défendeur - Action en rectification du mode de répartition des charges - Association des copropriétaires",
+    "Mede-eigendom - Vereniging van mede-eigenaars - Hoedanigheid en belang - Vorderingsrecht - Recht van verdediging - Vordering tot wijziging van de wijze van verdeling van de lasten",
+    "Hoedanigheid en belang tot handelen - Hoedanigheid en belang van de verweerder - Vordering tot wijziging van de wijze van verdeling van de lasten - Vereniging van mede-eigenaars"
+  ],
+  "fiche": [
+    "PROPRIETE",
+    "Copropriété - Association des copropriétaires - Qualité et intérêt - Droit d'action - Droit de la défense - Action en rectification du mode de répartition des charges",
+    "ancien Code Civil - 21-03-1804 - Art. 577-9, § 1er, al. 2, et § 6, 2° - 30 Lien ELI No pub 1804032150",
+    "DEMANDE EN JUSTICE",
+    "Qualité et intérêt à agir - Qualité et intérêt du défendeur - Action en rectification du mode de répartition des charges - Association des copropriétaires",
+    "ancien Code Civil - 21-03-1804 - Art. 577-9, § 1er, al. 2, et § 6, 2° - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230601.1F.4",
+  "source_sha256": "c6a87dcbfa025949553a134da41dae0a96e1287a714990b7c6e2cdbf04f2b70e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230601.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
