@@ -1,0 +1,30 @@
+{
+  "id": "2023041749",
+  "title": "14 MARS 2023. - Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprises",
+  "source_title": "14 MARS 2023. - Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprises",
+  "act": "loi/justice/2023/2023041749",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-05-22&numac_search=2023041749&page=108&lg_txt=F&caller=list&2023041749=5&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "52c12585868a514ca4d8ea7c17cb62a3d2c33632d3142abac233115578b57564",
+  "source_issuer": "Justice",
+  "made": "2023-03-14",
+  "published": "2023-05-22",
+  "in_force": "2023-06-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 juin 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "22 mai 2023",
+    "Numéro": "2023041749",
+    "page": "48117",
+    "Dossier numéro": "2023-03-14/19",
+    "Entrée en vigueur": "1 juin 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1316,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-06-01"
+}
