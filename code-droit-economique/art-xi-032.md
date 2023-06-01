@@ -1,1 +1,1 @@
-La protection visée aux articles XI.30 et XI.31 ne s'étend pas à la matière biologique obtenue par reproduction ou multiplication d'une matière biologique mise sur le marché sur le territoire d'un Etat membre ... par le titulaire du brevet ou avec son consentement, lorsque la reproduction ou la multiplication résulte nécessairement de l'utilisation pour laquelle la matière biologique a été mise sur le marché, pourvu que la matière obtenue ne soit pas utilisée ensuite pour d'autres reproductions ou multiplications.
+(Abrogé)
