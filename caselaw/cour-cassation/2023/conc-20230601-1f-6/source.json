@@ -1,0 +1,40 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230601.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230601.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-01",
+  "date_as_printed": "Conclusions du Ministère public du 01 juin 2023",
+  "published_on_juportal": "2023-08-16",
+  "language": "fr",
+  "role_number": "F.17.0020.F",
+  "case_name_as_published": "ETAT BELGE FINANCES contra M.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE SUCCESSION",
+    "SUCCESSIERECHTEN",
+    "Contrainte - Validation - Jugement - Autorité de chose jugée - Désistement à la contrainte ultérieur - Décernement d'une nouvelle contrainte - Effet",
+    "CHOSE JUGEE - AUTORITE DE CHOSE JUGEE - Matière fiscale",
+    "RECHTERLIJK GEWIJSDE - GEZAG VAN GEWIJSDE - Belastingzaken",
+    "Droits de succession - Contrainte - Validation - Jugement - Autorité de la chose jugée - Désistement à la contrainte ultérieur - Décernement d'une nouvelle contrainte - Effet",
+    "Dwangbevel - Bekrachtiging - Vonnis - Gezag van gewijsde - Latere afstand van het dwangbevel - Uitvaardiging van een nieuw dwangbevel - Uitwerking",
+    "Successierechten - Dwangbevel - Bekrachtiging - Vonnis - Gezag van gewijsde - Latere afstand van het dwangbevel - Uitvaardiging van een nieuw dwangbevel - Uitwerking"
+  ],
+  "fiche": [
+    "DROITS DE SUCCESSION",
+    "Contrainte - Validation - Jugement - Autorité de chose jugée - Désistement à la contrainte ultérieur - Décernement d'une nouvelle contrainte - Effet",
+    "Code des droits de succession - 31-03-1936 - Art. 47 et 142-1, al. 1er - 30 Lien DB Justel 19360331-30 Code des droits d'enregistrement - 30-11-1939 - Art. 219, al. 4, 220 et 221 - 36 Lien DB Justel 19391130-36",
+    "CHOSE JUGEE - AUTORITE DE CHOSE JUGEE - Matière fiscale",
+    "Droits de succession - Contrainte - Validation - Jugement - Autorité de la chose jugée - Désistement à la contrainte ultérieur - Décernement d'une nouvelle contrainte - Effet",
+    "Code des droits de succession - 31-03-1936 - Art. 47 et 142-1, al. 1er - 30 Lien DB Justel 19360331-30 Code des droits d'enregistrement - 30-11-1939 - Art. 219, al. 4, 220 et 221 - 36 Lien DB Justel 19391130-36"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230601.1F.6",
+  "source_sha256": "b2b1d36f8b8a845df389b4099bdc280aec1e06daf193b2c9513d95ab26bf9618",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230601.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_27.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
