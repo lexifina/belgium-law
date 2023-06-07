@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230607.2F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230607.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-07",
+  "date_as_printed": "Jugement/arrêt du 07 juin 2023",
+  "published_on_juportal": "2023-06-13",
+  "language": "fr",
+  "role_number": "P.23.0217.F",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DEFENSE SOCIALE - INTERNEMENT",
+    "BESCHERMING VAN DE MAATSCHAPPIJ - INTERNERING",
+    "Conditions - Trouble mental persistant au moment de la décision et altérant gravement les capacités de discernement - Stabilisation de la pathologie mentale grâce aux soins prodigués au prévenu - Conséquence",
+    "Voorwaarden - Geestesstoornis die op het ogenblik van de uitspraak voortduurt en die het oordeelsvermogen ernstig aantast - Stabilisering van de psychische aandoening dankzij de aan de beklaagde verstrekte zorg - Gevolg"
+  ],
+  "fiche": [
+    "DEFENSE SOCIALE - INTERNEMENT",
+    "Conditions - Trouble mental persistant au moment de la décision et altérant gravement les capacités de discernement - Stabilisation de la pathologie mentale grâce aux soins prodigués au prévenu - Conséquence",
+    "L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 9, § 1er, 2° - 11 Lien ELI No pub 2014009316"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230607.2F.1",
+  "source_sha256": "4b1335e52e2b559cd53c7829a083933ecba67d9a2f38ce279f8e799dd034d797",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230607.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
