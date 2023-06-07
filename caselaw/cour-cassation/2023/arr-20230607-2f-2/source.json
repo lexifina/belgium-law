@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230607.2F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230607.2F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-07",
+  "date_as_printed": "Jugement/arrêt du 07 juin 2023",
+  "published_on_juportal": "2023-06-13",
+  "language": "fr",
+  "role_number": "P.23.0083.F",
+  "case_name_as_published": "T. contra LE PROCUREUR DU ROI DE BRUXELLES",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Procédure en degré d'appel",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Rechtspleging in hoger beroep",
+    "Exigence de l'unanimité - Aggravation de la situation du prévenu - Critère à prendre en considération",
+    "PEINE - PEINE LA PLUS FORTE",
+    "STRAF - ZWAARSTE STRAF",
+    "Procédure en degré d'appel - Exigence de l'unanimité - Aggravation de la situation du prévenu - Critère à prendre en considération",
+    "Vereiste eenstemmigheid - Verzwaring van de toestand van de beklaagde - In aanmerking te nemen criterium",
+    "Rechtspleging in hoger beroep - Vereiste eenstemmigheid - Verzwaring van de toestand van de beklaagde - In aanmerking te nemen criterium"
+  ],
+  "fiche": [
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Procédure en degré d'appel",
+    "Exigence de l'unanimité - Aggravation de la situation du prévenu - Critère à prendre en considération",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 211bis - 30 Lien ELI No pub 1808111901",
+    "PEINE - PEINE LA PLUS FORTE",
+    "Procédure en degré d'appel - Exigence de l'unanimité - Aggravation de la situation du prévenu - Critère à prendre en considération",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 211bis - 30 Lien ELI No pub 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230607.2F.2",
+  "source_sha256": "6bd86694e140cb5f18a091cd976dc573bd4d1186cebbabb2e7544fb5e66cf264",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230607.2F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
