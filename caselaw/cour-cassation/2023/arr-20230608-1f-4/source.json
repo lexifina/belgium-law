@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230608.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230608.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-08",
+  "date_as_printed": "Jugement/arrêt du 08 juin 2023",
+  "published_on_juportal": "2023-06-20",
+  "language": "fr",
+  "role_number": "C.20.0569.F",
+  "case_name_as_published": "K. contra A.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "VONNISSEN EN ARRESTEN - BURGERLIJKE ZAKEN - Algemeen",
+    "Procédure ecrite - Covid-19 - Prise en délibéré sans plaidoiries",
+    "Procédure ecrite - Covid-19 - Audience - Décision - Recours",
+    "Schriftelijke procedure - COVID-19 - Inberaadneming zonder mondeling pleidooi",
+    "Schriftelijke procedure - COVID-19 - Rechtszitting - Beslissing - Rechtsmiddelen"
+  ],
+  "fiche": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "Procédure ecrite - Covid-19 - Prise en délibéré sans plaidoiries",
+    "A.R. n° 2 du 9 avril 2020 - 2 - 09-04-2020 - Art. 2, § 2, al. 5 - 01 Lien ELI No pub 2020030581",
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "Procédure ecrite - Covid-19 - Audience - Décision - Recours",
+    "A.R. n° 2 du 9 avril 2020 - 2 - 09-04-2020 - Art. 2, § 6 - 01 Lien ELI No pub 2020030581"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230608.1F.4",
+  "source_sha256": "baa47f8a28c40f34f7593088c882862718d7390d91dfe02b21623fecdbc845f3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230608.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
