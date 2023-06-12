@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 2 de l'arrêté royal du 20 décembre 1999 contenant les modalités d'exécution relatives à l'indemnisation accordée aux avocats dans le cadre de l'aide juridique de deuxième ligne et relative au subside pour les frais liés à l'organisation des bureaux d'aide juridique, modifié par les arrêtés royaux des 21 juillet 2016, 9 octobre 2018 et 15 mai 2022, le 3°, alinéa 3 est remplacé par ce qui suit :
+" Par dérogation au deuxième alinéa, la valeur du point pour le paiement des prestations effectuées dans le cadre de l'aide juridique de deuxième ligne pour l'année judiciaire 2021-2022 est fixée à 90,36 euros. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
