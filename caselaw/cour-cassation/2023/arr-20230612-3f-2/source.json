@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230612.3F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230612.3F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-12",
+  "date_as_printed": "Jugement/arrêt du 12 juin 2023",
+  "published_on_juportal": "2023-06-20",
+  "language": "fr",
+  "role_number": "S.22.0089.F",
+  "case_name_as_published": "OFFICE NATIONAL DE L’EMPLOI contra J.",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "CHOMAGE - DROIT AUX ALLOCATIONS DE CHOMAGE",
+    "WERKLOOSHEID - RECHT OP UITKERING",
+    "Allocations d'insertion - Octroi pour une période de 36 mois - Jeune travailleur dans une situation familiale protégée - Mode de calcul",
+    "Inschakelingsuitkeringen - Toekenning voor een periode van 36 maanden - Jonge werknemer in een beschermde gezinstoestand - Berekeningswijze"
+  ],
+  "fiche": [
+    "CHOMAGE - DROIT AUX ALLOCATIONS DE CHOMAGE",
+    "Allocations d'insertion - Octroi pour une période de 36 mois - Jeune travailleur dans une situation familiale protégée - Mode de calcul",
+    "A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 63, § 2 - 50 Lien ELI No pub 1991013192"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230612.3F.2",
+  "source_sha256": "71bc149dccd39e1f5dc5dd2626957de3a0fe0ed3d41a8c0476f98ff715bb741c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230612.3F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
