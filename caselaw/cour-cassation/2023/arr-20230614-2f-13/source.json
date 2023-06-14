@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230614.2F.13",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230614.2F.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-14",
+  "date_as_printed": "Jugement/arrêt du 14 juin 2023",
+  "published_on_juportal": "2023-07-04",
+  "language": "fr",
+  "role_number": "P.23.0861.F",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Prévenu détenu sous surveillance électronique - Requête du prévenu sollicitant la modification de l'adresse où s'exécute la surveillance électronique - Décision statuant sur cette requête - Pourvoi du prévenu - Recevabilité (non)",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Décision statuant sur la requête du prévenu, détenu préventivement sous surveillance électronique, sollicitant la modification de l'adresse où s'exécute celle-ci",
+    "Onder elektronisch toezicht aangehouden beklaagde - Verzoek van de beklaagde tot wijziging van het adres waar het elektronisch toezicht wordt uitgeoefend - Beslissing over dit verzoek - Voorziening van de beklaagde - (Niet-)ontvankelijkheid",
+    "Beslissing die uitspraak doet over het verzoek van de beklaagde, die zich in voorlopige hechtenis onder elektronisch toezicht bevindt, tot wijziging van het adres waar dit toezicht wordt uitgeoefend"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "Prévenu détenu sous surveillance électronique - Requête du prévenu sollicitant la modification de l'adresse où s'exécute la surveillance électronique - Décision statuant sur cette requête - Pourvoi du prévenu - Recevabilité (non)",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24bis, § 3 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31 - 35 Lien ELI No pub 1990099963",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "Décision statuant sur la requête du prévenu, détenu préventivement sous surveillance électronique, sollicitant la modification de l'adresse où s'exécute celle-ci",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24bis, § 3 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 31 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230614.2F.13",
+  "source_sha256": "85efb236de1f2e622535cb83f77b43dc8258f46de581ed70629575b7ffb0e2aa",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230614.2F.13_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
