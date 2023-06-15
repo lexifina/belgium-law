@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230615.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230615.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-15",
+  "date_as_printed": "Jugement/arrêt du 15 juin 2023",
+  "published_on_juportal": "2023-06-23",
+  "language": "fr",
+  "role_number": "D.23.0002.F",
+  "case_name_as_published": "F. contra ORDRE FRANCAIS AVOCATS BARREAU BRUXELLES",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Durée, point de départ et fin",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Termijnen van cassatieberoep en betekening - Duur, begin en einde",
+    "Point de départ - Notification sur support papier",
+    "SIGNIFICATIONS ET NOTIFICATIONS - DIVERS",
+    "BETEKENINGEN EN KENNISGEVINGEN - ALLERLEI",
+    "Pourvoi en cassation - Matière civile - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Durée, point de départ et fin - Point de départ - Notification sur support papier",
+    "Aanvang - Kennisgeving op papier",
+    "Cassatieberoep - Burgerlijke zaken - Termijnen van cassatieberoep en betekening - Duur, begin en einde - Aanvang - Kennisgeving op papier"
+  ],
+  "fiche": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Durée, point de départ et fin",
+    "Point de départ - Notification sur support papier",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 53bis - 01 Lien ELI No pub 1967101052 Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 54 - 01 Lien ELI No pub 1967101052 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1121/5, al. 1er, 1° - 04 Lien ELI No pub 1967101055 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1079, al. 1er - 04 Lien ELI No pub 1967101055",
+    "SIGNIFICATIONS ET NOTIFICATIONS - DIVERS",
+    "Pourvoi en cassation - Matière civile - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Durée, point de départ et fin - Point de départ - Notification sur support papier",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 53bis - 01 Lien ELI No pub 1967101052 Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 54 - 01 Lien ELI No pub 1967101052 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1121/5, al. 1er, 1° - 04 Lien ELI No pub 1967101055 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1079, al. 1er - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230615.1F.4",
+  "source_sha256": "61d33fdbee67cf2a59f3e10d9faefac9bb48f87705f010f33a155b0342ad7383",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230615.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
