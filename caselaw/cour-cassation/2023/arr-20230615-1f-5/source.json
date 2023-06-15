@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230615.1F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230615.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-15",
+  "date_as_printed": "Jugement/arrêt du 15 juin 2023",
+  "published_on_juportal": "2023-06-23",
+  "language": "fr",
+  "role_number": "C.23.0013.F",
+  "case_name_as_published": "M. contra R.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CONNEXITE",
+    "SAMENHANG",
+    "Matière civile - Demandes pendantes devant des juridictions de rang différent - Conséquence",
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "Connexité - Demandes pendantes devant des juridictions de rang différent - Conséquence",
+    "Burgerlijke zaken - Vorderingen hangende voor rechtscolleges van verschillende rang - Gevolg",
+    "Samenhang - Vorderingen hangende voor rechtscolleges van verschillende rang - Gevolg"
+  ],
+  "fiche": [
+    "CONNEXITE",
+    "Matière civile - Demandes pendantes devant des juridictions de rang différent - Conséquence",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 30 - 01 Lien ELI No pub 1967101052 Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 565, al. 2, 1°, 2°, 4° à 8° - 03 Lien ELI No pub 1967101054",
+    "DEMANDE EN JUSTICE",
+    "Connexité - Demandes pendantes devant des juridictions de rang différent - Conséquence",
+    "Code judiciaire - Première partie: PRINCIPES GENERAUX. (art. 1 à 57) - 10-10-1967 - Art. 30 - 01 Lien ELI No pub 1967101052 Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 565, al. 2, 1°, 2°, 4° à 8° - 03 Lien ELI No pub 1967101054"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230615.1F.5",
+  "source_sha256": "329a879347c33b2087dde01c98514790c496f3494d69d918d8dac870ca1e8a60",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230615.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/27/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
