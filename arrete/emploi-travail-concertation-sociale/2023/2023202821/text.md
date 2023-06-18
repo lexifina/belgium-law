@@ -1,0 +1,1 @@
+<a name="Art.1er"></a>Article 1er. Dans l'article 1er, 21° de l'arrêté ministériel du 26 novembre 1991 portant les modalités d'application de la réglementation du chômage, inséré par l'arrêté royal du 30 juli 2022, les mots " du 16 decembre 2022 " sont insérés entre le mot " loi " et le mot " portant ".
