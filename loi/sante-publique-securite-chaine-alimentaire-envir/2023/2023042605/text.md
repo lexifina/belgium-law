@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Assentiment est donné à l'Accord de coopération du 24 avril 2020 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de plusieurs dispositions de la directive 2016/2284 du Parlement européen et du Conseil du 14 décembre 2016 concernant la réduction des émissions nationales de certains polluants atmosphériques, modifiant la directive 2003/35/CE et abrogeant la directive 2001/81/CE.
