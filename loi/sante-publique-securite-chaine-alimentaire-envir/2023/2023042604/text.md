@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Assentiment est donné à l'Accord de coopération du 7 septembre 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution d'un certain nombre de dispositions du Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, avec annexes, signés à Göteborg le 30 novembre 1999, tels que modifiés le 4 mai 2012 à Genève.
