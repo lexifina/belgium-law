@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230621.2F.9",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230621.2F.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-21",
+  "date_as_printed": "Jugement/arrêt du 21 juin 2023",
+  "published_on_juportal": "2023-06-26",
+  "language": "fr",
+  "role_number": "P.23.0446.F",
+  "case_name_as_published": "B. contra La Région Wallonne",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 149",
+    "Obligation de répondre à un moyen - Moyen - Notion",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Verplichting om een middel te beantwoorden - Middel - Begrip"
+  ],
+  "fiche": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "Obligation de répondre à un moyen - Moyen - Notion",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Obligation de répondre à un moyen - Moyen - Notion",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 149 - 30 Lien ELI No pub 1994021048"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230621.2F.9",
+  "source_sha256": "08144d22d250405b919e1f7c6b9b99e18ad102ece36060725a4acbadc2e8e6f6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230621.2F.9_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
