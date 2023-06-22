@@ -1,0 +1,51 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230622.1F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230622.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-22",
+  "date_as_printed": "Jugement/arrêt du 22 juin 2023",
+  "published_on_juportal": "2023-07-27",
+  "language": "fr",
+  "role_number": "C.22.0411.F",
+  "case_name_as_published": "D. contra ASSOCIATION DES COPROPRIETAIRES PEGASE",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "RECHTBANKEN - BURGERLIJKE ZAKEN - Algemeen",
+    "Acte de procédure - Action au nom d'une personne morale - Mandat régulier - Présomption légale - Condition",
+    "AVOCAT",
+    "ADVOCAAT",
+    "Juridiction de l'ordre judiciaire - Acte de procédure - Action au nom d'une personne morale - Mandat régulier - Présomption légale - Condition",
+    "Juridiction de l'ordre judiciaire - Acte de procédure - Action au nom d'une personne morale - Fondé de pouvoirs - Présomption légale - Réfragable - Pas de vérification d'office par le juge",
+    "EXPERTISE",
+    "DESKUNDIGENONDERZOEK",
+    "Rapport provisoire - Observation des parties - Délai - Retard - Effet",
+    "Proceshandeling - Rechtsvordering in naam van een rechtspersoon - Regelmatige lastgeving - Wettelijk vermoeden - Voorwaarde",
+    "Rechtscollege van de rechterlijke orde - Proceshandeling - Rechtsvordering in naam van een rechtspersoon - Regelmatige lastgeving - Wettelijk vermoeden - Voorwaarde",
+    "Rechtscollege van de rechterlijke orde - Proceshandeling - Rechtsvordering in naam van een rechtspersoon - Gevolmachtigde - Wettelijk vermoeden - Weerlegbaar - Geen ambtshalve controle door de rechter",
+    "Voorlopig verslag - Opmerkingen van de partijen - Termijn - Vertraging - Uitwerking"
+  ],
+  "fiche": [
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "Acte de procédure - Action au nom d'une personne morale - Mandat régulier - Présomption légale - Condition",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 440, al. 2 - 02 Lien ELI No pub 1967101053",
+    "AVOCAT",
+    "Juridiction de l'ordre judiciaire - Acte de procédure - Action au nom d'une personne morale - Mandat régulier - Présomption légale - Condition",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 440, al. 2 - 02 Lien ELI No pub 1967101053",
+    "Juridiction de l'ordre judiciaire - Acte de procédure - Action au nom d'une personne morale - Fondé de pouvoirs - Présomption légale - Réfragable - Pas de vérification d'office par le juge",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 440, al. 2 - 02 Lien ELI No pub 1967101053",
+    "EXPERTISE",
+    "Rapport provisoire - Observation des parties - Délai - Retard - Effet",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 976 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230622.1F.3",
+  "source_sha256": "8b9354fba1a30418a4200bb009547ba31c461bc72e244cb8d6ac297d468c540e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230622.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/29/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
