@@ -1,0 +1,30 @@
+{
+  "id": "2023203101",
+  "title": "13 MAI 2023. - Loi modifiant le Code pénal social en vue de la mise en place de la plateforme eDossier",
+  "source_title": "13 MAI 2023. - Loi modifiant le Code pénal social en vue de la mise en place de la plateforme eDossier",
+  "act": "loi/emploi-travail-concertation-sociale/2023/2023203101",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-06-22&numac_search=2023203101&page=86&lg_txt=F&caller=list&2023203101=27&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "9dacbcba032da53592edec657c40769539c9951d5111ad534df422872785e7c6",
+  "source_issuer": "Emploi, Travail et Concertation sociale",
+  "made": "2023-05-13",
+  "published": "2023-06-22",
+  "in_force": "2023-06-22",
+  "in_force_basis": "Justel: Entrée en vigueur : 22 juin 2023; own clause: Art. 38. La présente loi entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Emploi, Travail et Concertation sociale",
+    "Publication": "22 juin 2023",
+    "Numéro": "2023203101",
+    "page": "56343",
+    "Dossier numéro": "2023-05-13/17",
+    "Entrée en vigueur": "22 juin 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 10487,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-06-22"
+}
