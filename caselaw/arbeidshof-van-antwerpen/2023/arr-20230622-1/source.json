@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2023:ARR.20230622.1",
+  "ecli": "ECLI:BE:AHANT:2023:ARR.20230622.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2023-06-22",
+  "date_as_printed": "Vonnis/arrest van 22 juni 2023",
+  "published_on_juportal": "2026-03-26",
+  "language": "nl",
+  "role_number": "2021/AH/125",
+  "case_name_as_published": "A.B. tegen C.D. NV en K.L. NV",
+  "subjects": [
+    "Internationaal privaatrecht",
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "GRENSOVERSCHRIJDEND RECHT - INTERNATIONAAL PRIVAATRECHT - WETBOEK IPR - Verbintenissen - Internationale bevoegdheid",
+    "SOCIAAL RECHT - ARBEID - Loon - Loonbescherming - Strafbepalingen",
+    "SOCIAAL RECHT - ARBEID - Loon - Loonbescherming - Loonbegrip"
+  ],
+  "fiche": [
+    "GRENSOVERSCHRIJDEND RECHT - INTERNATIONAAL PRIVAATRECHT - WETBOEK IPR - Verbintenissen - Internationale bevoegdheid",
+    "SOCIAAL RECHT - ARBEID - Loon - Loonbescherming - Strafbepalingen",
+    "SOCIAAL RECHT - ARBEID - Loon - Loonbescherming - Loonbegrip"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2023:ARR.20230622.1",
+  "source_sha256": "98dfec8771e7a3a5e26be612be4ef9921a472b445cd610efd4bddd56e1623c78",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2023:ARR.20230622.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/31/sitemap_118.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
