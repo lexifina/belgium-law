@@ -1,0 +1,30 @@
+{
+  "id": "2023041750",
+  "title": "7 AVRIL 2023. - Loi modifiant le Code judiciaire en ce qui concerne les biens insaisissables",
+  "source_title": "7 AVRIL 2023. - Loi modifiant le Code judiciaire en ce qui concerne les biens insaisissables",
+  "act": "loi/justice/2023/2023041750",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-06-15&numac_search=2023041750&page=98&lg_txt=F&caller=list&2023041750=20&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "73b6a7980b37164de8dc151c6c4929c5a2cac7456d66c3c9cb2046d8e7f50f9a",
+  "source_issuer": "Justice",
+  "made": "2023-04-07",
+  "published": "2023-06-15",
+  "in_force": "2023-06-25",
+  "in_force_basis": "Justel: Entrée en vigueur : 25 juin 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "15 juin 2023",
+    "Numéro": "2023041750",
+    "page": "55297",
+    "Dossier numéro": "2023-04-07/45",
+    "Entrée en vigueur": "25 juin 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 587,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-06-25"
+}
