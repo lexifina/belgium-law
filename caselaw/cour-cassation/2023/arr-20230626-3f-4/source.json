@@ -1,0 +1,34 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230626.3F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230626.3F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-26",
+  "date_as_printed": "Jugement/arrêt du 26 juin 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "C.22.0480.F",
+  "case_name_as_published": "TEMEL FRERES s.r.l. contra Y.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "HUUR VAN GOEDEREN - HANDELSHUUR - Einde (Opzegging. Huurhernieuwing. Enz)",
+    "Renouvellement - Maintien dans les lieux sans renouvellement - Nouveau bail - Vente de l'immeuble loué - Droit de préférence - Conséquence",
+    "Huurhernieuwing - Behoud van het gehuurde goed zonder hernieuwing - Nieuwe huurovereenkomst - Verkoop van het verhuurde pand - Recht van voorrang - Gevolg"
+  ],
+  "fiche": [
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "Renouvellement - Maintien dans les lieux sans renouvellement - Nouveau bail - Vente de l'immeuble loué - Droit de préférence - Conséquence",
+    "L. du 30 avril 1951 CODE CIVIL. - LIVRE III - TITRE VIII - CHAPITRE II, Section 2bis : Des règles particulières aux baux commerciaux - 30-04-1951 - Art. 14, al. 3 - 30 Lien ELI No pub 1951043003",
+    "Rev.not.b.-Revue du notariat belge (bij voorkeur RNB) - 2023, n° 3184, p. 682-685. - VAN BOXSTAEL, Jean-Louis; Note sous cassation."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230626.3F.4",
+  "source_sha256": "495c24dd56dbf27ead683c72e22baf8269cad209187f90a97388d6438a0f04e4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230626.3F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
