@@ -1,0 +1,51 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230628.2F.10",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230628.2F.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-28",
+  "date_as_printed": "Jugement/arrêt du 28 juin 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "P.23.0870.F",
+  "case_name_as_published": "A. contra ETAT BELGE, ASILE ET MIGRATION",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ETRANGERS",
+    "VREEMDELINGEN",
+    "Directive 2008/115/CE « retour » - Risque de fuite - Privation de liberté - Alternative - Mesure moins coercitive - Notion",
+    "Mesure administrative - Privation de liberté - Condition - Subsidiarité - Contrôle par les juridictions d'instruction - Motivation - Portée",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Etranger - Mesure administrative - Privation de liberté - Condition - Subsidiarité - Contrôle par les juridictions d'instruction - Motivation - Portée",
+    "Principe de bonne administration - Dérobade aux injonctions de s'éloigner du territoire - Nouvel ordre de quitter le territoire - Excès dans l'exercice du pouvoir d'appréciation de l'autorité administrative (non)",
+    "Terugkeerrichtlijn - Vluchtgevaar - Vrijheidsberoving - Alternatief - Minder dwingende maatregel - Begrip",
+    "Administratieve maatregel - Vrijheidsberoving - Voorwaarde - Subsidiariteit - Toezicht door de onderzoeksgerechten - Motivering - Draagwijdte",
+    "Vreemdeling - Administratieve maatregel - Vrijheidsberoving - Voorwaarde - Subsidiariteit - Toezicht door de onderzoeksgerechten - Motivering - Draagwijdte",
+    "Beginsel van behoorlijk bestuur - Onttrekking aan de bevelen om het grondgebied te verlaten - Nieuw bevel om het grondgebied te verlaten - (Geen) buitensporige uitoefening door de administratieve overheid van haar beoordelingsbevoegdheid"
+  ],
+  "fiche": [
+    "ETRANGERS",
+    "Directive 2008/115/CE « retour » - Risque de fuite - Privation de liberté - Alternative - Mesure moins coercitive - Notion",
+    "L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 7 - 30 Lien ELI No pub 1980121550 Directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier - 16-12-2008 - Art. 15",
+    "ETRANGERS",
+    "Mesure administrative - Privation de liberté - Condition - Subsidiarité - Contrôle par les juridictions d'instruction - Motivation - Portée",
+    "L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 7 - 30 Lien ELI No pub 1980121550 L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 71 - 30 Lien ELI No pub 1980121550 L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 72 - 30 Lien ELI No pub 1980121550 Directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier - 16-12-2008 - Art. 15",
+    "JURIDICTIONS D'INSTRUCTION",
+    "Etranger - Mesure administrative - Privation de liberté - Condition - Subsidiarité - Contrôle par les juridictions d'instruction - Motivation - Portée",
+    "L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 7 - 30 Lien ELI No pub 1980121550 L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 71 - 30 Lien ELI No pub 1980121550 L. du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers - 15-12-1980 - Art. 72 - 30 Lien ELI No pub 1980121550 Directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier - 16-12-2008 - Art. 15",
+    "ETRANGERS",
+    "Principe de bonne administration - Dérobade aux injonctions de s'éloigner du territoire - Nouvel ordre de quitter le territoire - Excès dans l'exercice du pouvoir d'appréciation de l'autorité administrative (non)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230628.2F.10",
+  "source_sha256": "c22b30497404d305aaec9c56a3542b240f2396ba20561d742fc1d1691091831e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230628.2F.10_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
