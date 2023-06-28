@@ -1,0 +1,50 @@
+P.23.0206.F
+Conclusions de M. l’avocat général M. Nolet de Brauwere :
+Le pourvoi est dirigé contre un arrêt rendu le 23 janvier 2023 par la cour d’appel de Liège, statuant en degré d’appel.
+I. Antécédents de la procédure.
+Il résulte de l’arrêt que les principales circonstances de la cause utiles à l’examen du pourvoi peuvent être résumées comme suit.
+Le demandeur est poursuivi du chef de divers vols avec effraction ou fausses clefs (sub A et B) et d’une fraude informatique (sub D) commis en 2017 et 2018.
+Par jugement rendu contradictoirement le 7 décembre 2021, le tribunal correctionnel de Namur (division de Dinant) a condamné le demandeur du chef de ces préventions, à une peine principale de 12 mois d’emprisonnement.
+Par déclaration faite le 4 janvier 2022, le demandeur a interjeté appel de ce jugement. Le seul grief d’appel élevé, relatif aux peines et mesures, mentionne le « refus d’accorder la peine de surveillance électronique » et, subsidiairement, la sévérité de la peine.
+L’arrêt reçoit l’appel, constate que ni la culpabilité du demandeur ni la qualification donnée aux faits déclarés établis par le premier juge ne sont remises en cause en degré d’appel, confirme les peines (sauf deux confiscations) et condamne le demandeur aux frais d’appel.
+II. Partie critiquée de l’arrêt.
+L’arrêt confirme le rejet de la demande d’une peine de surveillance électronique au motif que « l’article 37ter du Code pénal énonce que le juge peut condamner à titre de peine principale à une peine de surveillance électronique lorsque le fait est de nature à entraîner une peine d’emprisonnement d’un an maximum, ce qui n’est pas le cas en l’occurrence: la sanction est d’un mois à cinq ans pour les préventions [A et B] et de six mois à cinq ans et/ou 26 à 100.000 euros pour la prévention D ».
+III. Examen du pourvoi.
+Sur le moyen, pris de la violation des articles 149 de la Constitution et 37ter du Code pénal:
+Aux termes de l’article 37ter, § 1er, alinéa 1er, du Code pénal, « lorsqu'un fait est de nature à entraîner une peine d'emprisonnement d'un an au maximum, le juge peut condamner à titre de peine principale à une peine de surveillance électronique d'une durée égale à la peine d'emprisonnement qu'il aurait prononcée et qui peut être applicable en cas de non-exécution de la peine de surveillance électronique. Pour la fixation de la durée de cette peine d'emprisonnement subsidiaire, un jour de la peine de surveillance électronique infligée correspond à un jour de peine d'emprisonnement ».
+Le demandeur reproche à l’arrêt de ne pas motiver régulièrement ni justifier légalement la confirmation du rejet de la demande de voir prononcer une telle peine.
+Il soutient que le plafond d’un an d’emprisonnement prévu à l’article 37ter du Code pénal n’est pas le maximum légal prévu¸ in abstracto, pour les infractions déclarées établies, mais a trait à la peine d’emprisonnement envisagée in concreto par le juge, c’est-à-dire à la peine d’emprisonnement (concrète) que le juge aurait infligée au prévenu s’il ne prononçait pas une peine de surveillance électronique(1).
+Cette analyse est cohérente avec le § 2 de l’article 37ter, en ce qu’il prévoit que la durée de la peine de surveillance ne peut être supérieure à ce même plafond d’un an. Cette précision peut même paraître superflue, car le § 1er indique que le juge remplace en réalité la peine d’emprisonnement envisagée par une peine électronique de même durée(2).
+L’actuel article 37ter a été inséré dans le Code par l’article 7 de la loi du 7 février 2014 instaurant la surveillance électronique comme peine autonome(3).
+La proposition de loi initiale visait à permettre au juge de prononcer cette peine – à l’instar des peines de travail (article 37quinquies(4)) et de probation autonome (article 37octies) -, sauf les exceptions prévues au § 2, « lorsqu’un fait est de nature à entraîner une peine de police ou une peine correctionnelle »(5), soit, en d’autres termes, si le fait déclaré établi constitue une contravention ou un délit (même s’il s’agit d’un crime correctionnalisé).
+Du fait de l’adoption d’un amendement, la loi ne permet de prononcer cette peine que lorsqu’un fait est de nature à(6) « être puni d’une peine d’emprisonnement d’un an au maximum (…) »(7).
+La justification de cet amendement indique que, d’une part, le risque d’échec de cette peine augmente en fonction de sa durée (cf. notion de « seuil de douleur ») et que, d’autre part, il est opté pour un ratio d’un jour de peine d’emprisonnement pour un jour de peine de surveillance électronique (ratio retenu dans la loi pour la détermination tant de la peine de surveillance électronique à infliger que de la peine de substitution à purger en cas de défaut d’exécution de la peine de surveillance électronique(8)).
+Et elle précise que « la limitation de la possibilité d’infliger une peine de surveillance électronique aux infractions punissables d’un an d’emprisonnement au maximum endigue aussi les effets craints de “net widening”. La peine de surveillance électronique remplacera les courtes peines qui ne sont actuellement pas exécutées »(9).
+Rien n’indique que le législateur aurait voulu limiter le champ d’application de l’article 37ter aux peines punissables in abstracto d’une peine maximale d’un an d’emprisonnement.
+Or, une telle volonté devrait immanquablement ressortir des travaux parlementaires vu l’ampleur d’une telle limitation, qui exclurait de ce champ d’application la plupart des délits (dont tous les crimes correctionnalisés)(10) et rendrait de facto cette réforme quasi inopérante.
+J’en déduis que, dans l’article 37ter du Code pénal, les mots « est de nature à être puni d’une peine d’emprisonnement d’un an au maximum » doivent s’entendre comme signifiant « paraît mériter une peine d’emprisonnement d’un an au maximum » (in concreto), et non « est punissable d’une peine d’emprisonnement d’un an au maximum » (in abstracto).
+« Il en résulte que, par l’application de l’article 80 du Code pénal relatif à la réduction des peines en cas d’admission de circonstances atténuantes, la peine de surveillance électronique peut être envisagée pour toutes les infractions punissables d’une peine (théorique) n’excédant pas quinze à vingt ans de réclusion, à l’exception des infractions prévues à l’alinéa 1er du paragraphe 1er de l’article 37ter »(11).
+Cette analyse est partagée par les juges du fond qui prononcent cette peine(12) pour des faits punissables de peines supérieures à un an d’emprisonnement(13), voire du chef de crimes correctionnalisés(14).
+Dans cette mesure, le moyen me paraît fondé.
+Il n'y a pas lieu dans ce cas d'examiner le surplus du moyen, qui ne saurait donner lieu à une cassation plus étendue ou sans renvoi.
+IV. Contrôle d’office.
+Pour le surplus, la décision me paraît conforme à la loi.
+V. Conclusion: cassation avec renvoi de l’arrêt en ce qu’il statue sur la peine, et rejet pour le surplus(15).
+__________________________
+(1) Voir en ce sens P. HOET, Gemeenschapsgerichte straffen en maatregelen, Larcier 2014, pp. 129-130 ; Th. MOREAU et D. VANDERMEERSCH, Éléments de droit pénal, Bruxelles, La Charte, 2022, p. 248 ; N. LECOQ et O. NEDERLANDT, « La peine de surveillance électronique : une peine ‘tampon’ en voie de réhabilitation ? », JT 2023, pp. 109-120 [110].
+La Cour ne paraît pas s’être prononcée sur cette question à ce jour.
+(2) Voir P. HOET, o.c., p. 130.
+(3) Remplacé par l’art. 44 de la loi, dite « pot-pourri II », du 5 février 2016 modifiant le droit pénal et la procédure pénale et portant des dispositions diverses en matière de justice.
+(4) Article 37ter jusqu’à sa renumérotation par l’article 9 de la loi précitée du 7 février 2014.
+(5) Doc. parl., Ch., 53 1042/001, p. 5.
+(6) La formulation « tel qu’il doit être puni d n’une peine… » dans le texte français de la loi du 7 février 2014 a été remplacés par les mots « de nature à entraîner une peine (…) » par l’art. 44 de la loi, dite « pot-pourri II », précitée.
+Mais il s’agit d’une correction purement technique suggérée par le Service juridique de la Chambre au cours de la deuxième lecture du projet de loi, dans une Note de légistique transmise à l’attention de la Commission de la justice, tant en vue d’une meilleure concordance avec le texte néerlandais - « van die aard is (…) » -, qui n’a pas été modifié, que par souci de cohérence avec les dispositions relatives aux peines de travail (art. 37quinquies) et de probation autonome (art. 37octies) (cf. Doc. parl., Ch., 54 1418/009, p. 15).
+(7) Amendement n°1, Doc. parl., Ch., 53 1042/002, signé notamment pas l’une des signataires de la proposition initiale, Mme VAN CAUTER.
+(8) Respectivement aux articles 37ter, § 1er, al. 1er, et 37quater, § 3, alinéa 1er.
+(9) Amendement n°1 précité, Doc. parl., Ch., 53 1042/002, p. 9.
+(10) Ainsi, tous les vols, recels, coups ayant causé une incapacité de travail, infractions aux lois relatives aux stupéfiants (hors usage personnel de cannabis) ou aux armes, et même nombre de préventions en matière de roulage.
+(11) Th. MOREAU et al., o.c., p. 248.
+(12) Selon l’étude de N. LECOQ et al., o.c., pp. 114-115.
+(13) Vol sans violence, coups et blessures ayant entraîné une incapacité temporaire de travail, recel, infraction à la loi sur les armes ou à la loi relative aux stupéfiants, etc.
+(14) Entrave méchante à la circulation, vol avec violence ou effraction, etc.
+(15) Le seul grief d’appel élevé par le demandeur portant sur les peines et mesures, l’arrêt constate que ni la culpabilité de celui-ci ni la qualification donnée aux faits déclarés établis par le jugement entrepris ne sont remis en cause en degré d’appel ; partant, le rejet se limite en réalité à la décision de recevoir l’appel du demandeur.
