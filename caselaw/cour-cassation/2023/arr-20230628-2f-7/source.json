@@ -1,0 +1,48 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230628.2F.7",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230628.2F.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-28",
+  "date_as_printed": "Jugement/arrêt du 28 juin 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "P.23.0352.F",
+  "case_name_as_published": "D. contra COMPAGNIE FINANCIERE DE NEUFCOUR SA",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Rémunérations",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Bezoldigingen",
+    "Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Intérêts fictifs imposables au titre d'avantages de toute nature - Notion",
+    "ABUS DE CONFIANCE",
+    "MISBRUIK VAN VERTROUWEN",
+    "Abus de biens sociaux - Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Objet - Intérêts fictifs imposables au titre d'avantages de toute nature (non)",
+    "Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Abus de biens sociaux - Objet - Intérêts fictifs imposables au titre d'avantages de toute nature (non)",
+    "Door een vennootschap aan haar zaakvoerders toegekende voorschotten - Niet-betaling van rente - Fictieve rente die belastbaar is als voordeel van alle aard - Begrip",
+    "Misbruik van vennootschapsgoederen - Door een vennootschap aan haar zaakvoerders toegekende voorschotten - Niet-betaling van rente - Voorwerp - (Geen) fictieve rente die belastbaar is als voordeel van alle aard",
+    "Door een vennootschap aan haar zaakvoerders toegekende voorschotten - Niet-betaling van rente - Misbruik van vennootschapsgoederen - Voorwerp - (Geen) fictieve rente die belastbaar is als voordeel van alle aard"
+  ],
+  "fiche": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Rémunérations",
+    "Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Intérêts fictifs imposables au titre d'avantages de toute nature - Notion",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 36",
+    "ABUS DE CONFIANCE",
+    "Abus de biens sociaux - Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Objet - Intérêts fictifs imposables au titre d'avantages de toute nature (non)",
+    "Code pénal 1867 - 08-06-1867 - Art. 492bis - 01 Lien ELI No pub 1867060850 Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 36",
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Rémunérations",
+    "Sommes avancées par une société à ses dirigeants - Non-paiement d'intérêts - Abus de biens sociaux - Objet - Intérêts fictifs imposables au titre d'avantages de toute nature (non)",
+    "Code pénal 1867 - 08-06-1867 - Art. 492bis - 01 Lien ELI No pub 1867060850 Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 36",
+    "Dr.pén.entr.-Droit pénal de l'entreprise - 2024, n° 1, p. 39-43. - DEBELLE, Sophie; Note sous cassation."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230628.2F.7",
+  "source_sha256": "31bc28d778c795f97c8f61e7360a5c23b6509892e24e966242fb558e0688404b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230628.2F.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
