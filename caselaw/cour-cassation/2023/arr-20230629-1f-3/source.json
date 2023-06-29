@@ -1,0 +1,34 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230629.1F.3",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230629.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-06-29",
+  "date_as_printed": "Jugement/arrêt du 29 juin 2023",
+  "published_on_juportal": "2023-07-11",
+  "language": "fr",
+  "role_number": "C.22.0485.F",
+  "case_name_as_published": "G. contra ELECTRABEL s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "Marchands - Vente à des particuliers non marchands - Champ d'application",
+    "Kooplieden - Verkoop aan personen die geen koopman zijn - Toepassingsgebied"
+  ],
+  "fiche": [
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "Marchands - Vente à des particuliers non marchands - Champ d'application",
+    "ancien Code Civil - 21-03-1804 - Art. 2272 - 30 Lien ELI No pub 1804032150",
+    "BJS-Bulletin juridique social - 2023, n° 713, p. 9. - GHEUR, Elise; Note'La prescription d'anciennes créances liées à la fourniture de gaz et d'électricité fait encore débat' JLMB-Revue de jurisprudence de Liège, Mons et Bruxelles - 2024, n° 26, p. 1179-1181. - BIQUET-MATHIEU, Christine; Note'Prescription présomptive de paiement et fourniture d'énergie'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230629.1F.3",
+  "source_sha256": "d90ab29e29890c3aff5a24767e62d7978caeff190fd061028433e45b26578788",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230629.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
