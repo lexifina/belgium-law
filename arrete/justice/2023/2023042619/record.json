@@ -1,0 +1,29 @@
+{
+  "id": "2023042619",
+  "title": "23 MAI 2023. - Arrêté ministériel portant une réduction du pourcentage de la contribution des notaires au fonds notarial",
+  "source_title": "23 MAI 2023. - Arrêté ministériel portant une réduction du pourcentage de la contribution des notaires au fonds notarial",
+  "act": "arrete/justice/2023/2023042619",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-06-29&numac_search=2023042619&page=84&lg_txt=F&caller=list&2023042619=18&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "ecad99ecd46252469cdb4e2ec605f8f852b25adcfa860da33da5bcdfe4ae2eaa",
+  "source_issuer": "Justice",
+  "made": "2023-05-23",
+  "published": "2023-06-29",
+  "in_force": "2023-07-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 juillet 2023; own clause: Art. 2. Le présent arrêté entre en vigueur le 1er juillet 2023.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "29 juin 2023",
+    "Numéro": "2023042619",
+    "page": "57659",
+    "Dossier numéro": "2023-05-23/06",
+    "Entrée en vigueur": "1 juillet 2023"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 56,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-07-01"
+}
