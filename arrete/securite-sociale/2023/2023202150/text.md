@@ -1,0 +1,14 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 9, § 1er, de l'arrêté royal du 20 juillet 1971 instituant une assurance indemnités et une assurance maternité en faveur des travailleurs indépendants et des conjoints aidants, modifié en dernier lieu par l'arrêté royal du 14 août 2021, les modifications suivantes sont apportées :
+a) au 1°, le nombre " 44,5546 " est remplacé par le nombre " 45,6685 ";
+b) au 2°, le nombre " 35,4810 " est remplacé par le nombre " 36,1906 ";
+c) au 3°, le nombre " 27,2108 " est remplacé par le nombre " 27,7550 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 12 du même arrêté, remplacé par l'arrêté royal du 29 novembre 2017 et modifié par les arrêtés royaux du 2 mai 2019 et du 14 août 2021, le nombre " 16,7946 " est remplacé par le nombre " 16,8786 ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 94, alinéa 1er, du même arrêté, remplacé par l'arrêté royal du 21 janvier 2022, les modifications suivantes sont apportées :
+a) au 1°, le nombre " 506,32 " est remplacé par le nombre " 511,38 ";
+b) au 2°, le nombre " 463,10 " est remplacé par le nombre " 467,73 ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le présent arrêté entre en vigueur le 1er juillet 2023.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Affaires sociales dans ses attributions et le ministre qui a les Indépendants dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
