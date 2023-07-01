@@ -2,21 +2,20 @@
 
 <a name="Art.2" href="#Art.1">Art.</a> <a href="#Art.3"> 2</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
 
-<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er à § 3. (abrogés) &lt;L 27-06-1969, art. 50, 1°&gt;
-§ 4. (al. 1er à 3 abrogés) &lt;L 27-06-1969, art. 50, 1°&gt;
-(Une part de (10,27) p.c. comprise dans la cotisation de (16,27) p.c. visée par le § 2, alinéa 1er, 4°, n'est versée à l'Office national de sécurité sociale qu'annuellement, et ce dans le cours de l'année qui suit l'exercice de vacances, à la date fixée par le Roi. Toutefois, le Roi peut, sur proposition de la commission paritaire compétente, prescrire d'autres modalités de versement pour une part de (8 p.c.) comprise dans ces (10,27) p.c. &lt;AR 28-03-1975, art. 8&gt; &lt;AR 1999-03-29/30, art. 1, 011; <b> En vigueur : </b> 01-01-1999&gt; &lt;L 2001-05-22/36, art. 11, 016; <b> En vigueur : </b> 01-01-2001&gt;
-Il peut aussi, sur proposition de la commission paritaire compétente, décider que cette part de (8 p.c.) de la cotisation sera versée à un organisme autre que l'Office national de sécurité sociale). &lt;L 13-06-1966, art. 14&gt; &lt;AR 28-03-1975, art. 8&gt;
-(La cotisation de (16,27) p.c. susvisée est versée directement par l'employeur à la Caisse nationale de vacances pour l'industrie diamantaire pour ce qui concerne les travailleurs de l'industrie et du commerce du diamant). &lt;L 28-03-1975, art. 9&gt; &lt;AR 1989-03-01/36, art. 1, 2°, 004; <b> En vigueur : </b> 01-01-1989&gt; &lt;L 2001-05-22/36, art. 11, 016; <b> En vigueur : </b> 01-01-2001&gt;
-§ 5. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.[<sup>1</sup> § 1er. Une part de 10,27 p.c. comprise dans la cotisation de 16,27 p.c. visée par l'article 38, § 3, 8°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, n'est versée à l'Office national de sécurité sociale qu'annuellement, et ce dans le cours de l'année qui suit l'exercice de vacances, à la date fixée par le Roi. Toutefois, le Roi peut, sur proposition de la commission paritaire compétente, prévoir d'autres modalités de versement pour une part de 8 p.c. comprise dans ces 10,27 p.c.
+Il peut aussi, sur proposition de la commission paritaire compétente, décider que cette part de 8 p.c. de la cotisation sera versée à un organisme autre que l'Office national de sécurité sociale.
+La cotisation de 16,27 p.c. susvisée est versée directement par l'employeur à la Caisse nationale de vacances pour l'industrie diamantaire pour ce qui concerne les travailleurs de l'industrie et du commerce du diamant.
+§ 2. Par dérogation au § 1er, le pourcentage de 16,27 p.c. est toutefois:
+a) de 8,27 p.c. lorsqu'une part de 8 p.c. est versée par l'employeur à un organisme autre que l'Office national de sécurité sociale conformément à un autre arrêté royal pris en exécution de l'article 3, § 1er, alinéa 2;
+b) de 10,27 p.c. ou de 8,27 p.c. dans le cas visé à l'article 65, § 1er, des lois relatives aux vacances annuelles des travailleurs salariés coordonnées le 28 juin 1971, suivant l'affectation donnée selon cet article, à la cotisation versée au Fonds de sécurité d'existence;
+c) de 6 p.c. dans le cas visé à l'article 65, § 2, desdites lois relatives aux vacances annuelles, relatif aux employeurs devant cotiser au Fonds de sécurité d'existence des ouvriers de la construction;
+d) de 16,10 p.c. à partir du second trimestre 2015; 15,92 p.c. à partir du 1er trimestre 2016; 15,88 p.c. à partir du 1er trimestre 2017; 15,84 p.c. à partir du 1er trimestre 2018.
+§ 3. Le Roi peut, par arrêté délibéré en Conseil des ministres, réduire le taux des cotisations visées aux § § 1er et 2, selon les modalités qu'Il détermine.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023110504" target="_blank">2023-11-05/04</a>, art. 13, 069; En vigueur : 01-04-2015&gt;
 
-<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. (...) &lt;L 27-06-1969, art. 50, 1°&gt;
-A. (...) &lt;L 27-06-1969, art. 50, 1°&gt;
-(1° à 4° abrogés) &lt;L 27-06-1969, art. 50, 1°&gt;
-5° ((16,27) p.c. à l'Office national des vacances annuelles. Ce pourcentage est toutefois: &lt;L 2001-05-22/36, art. 12, 016; <b> En vigueur : </b> 01-01-2001&gt;
-a) de (8,27) pct. lorsqu'une part de 8 p.c. est versée par l'employeur à un organisme autre que l'Office national de sécurité sociale conformément à un autre arrêté royal pris en exécution de l'article 3, § 4, alinéa 5; &lt;L 2001-05-22/36, art. 12, 016; <b> En vigueur : </b> 01-01-2001&gt;
-b) de (10,27) p.c. ou de (8,27) p.c. dans le cas visé à l'article 65, § 1er, des lois relatives aux vacances annuelles des travailleurs salariés coordonnées le 28 juin 1971, suivant l'affectation donnée selon cet article, à la cotisation versée au Fonds de sécurité d'existence; &lt;L 2001-05-22/36, art. 12, 016; <b> En vigueur : </b> 01-01-2001&gt;
-c) de 6 p.c. dans le cas visé à l'article 65, § 2 desdites lois relatives aux vacances annuelles, relatif aux employeurs devant cotiser au Fonds de sécurité d'existence des ouvriers de la construction). &lt;L 28-03-1975, art. 10&gt;
-B. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>.
+&lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023110504" target="_blank">2023-11-05/04</a>, art. 14, 069; En vigueur : 01-04-2015&gt;
 
 <a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. (abrogé) &lt;L 27-06-1969, art. 50, 1°&gt;
 
