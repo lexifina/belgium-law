@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'inscription des personnes nommément désignées ci-après est radiée pour une durée de trois mois :
+
+<table border="1"><tr><td valign="top">219856 </td><td valign="top">LADESKOR B.V.<br>  NUMERO D'ENTREPRISE/ONDERNEMINGSNUMMER:<br>  0420.940.012 </td></tr><tr><td valign="top">220530 </td><td valign="top">M. SCOGLIETTI FABRICE<br>  NUMERO D'ENTREPRISE/ONDERNEMINGSNUMMER:<br>  0715.365.496 </td></tr><tr><td valign="top">220665 </td><td valign="top">M. VRANCKEN JEREMY<br>  NUMERO D'ENTREPRISE/ONDERNEMINGSNUMMER:<br>  0568.759.203 </td></tr><tr><td valign="top">220970 </td><td valign="top">KANY SERVICES S.N.C.<br>  NUMERO D'ENTREPRISE/ONDERNEMINGSNUMMER:<br>  0597.900.773 </td></tr><tr><td valign="top">221180 </td><td valign="top">ERCEL SERVICES S.C.S.<br>  NUMERO D'ENTREPRISE/ONDERNEMINGSNUMMER:<br>  0675.415.849</td></tr></table>
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
