@@ -1,0 +1,10 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 2 du l'arrêté royal du 4 juin 2012 réglant la composition et le fonctionnement du Conseil consultatif fédéral des Aînés, les modifications suivantes sont apportées :
+1. dans le 1°, les mots " membres effectifs et 4 membres suppléants, membres d'organisations compétentes en matière de politique des seniors " sont remplacés par les mots " organisations ayant une expertise en matière de politique des aînés ";
+2. dans le 2°, les mots " membres effectifs et 10 membres suppléants, membres d'organisations compétentes en matière de politique des seniors " sont remplacés par les mots " organisations ayant une expertise en matière de politique des aînés ";
+3. dans le 3°, les mots " membres effectifs et 8 membres suppléants, membres d'organisations compétentes en matière de politique des seniors " sont remplacés par les mots " organisations ayant une expertise en matière de politique des aînés ";
+4. dans le 4°, les mots " membres effectifs et 2 membres suppléants, membres d'organisations compétentes en matière de politique des seniors " sont remplacés par les mots " organisations ayant une expertise en matière de politique des aînés ";
+5. dans le 5°, les mots " membre effectif et 1 membre suppléant, membre d'organisation compétente en matière de politique des seniors " sont remplacés par les mots " organisations ayant une expertise en matière de politique des aînés ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 21 juillet 2023.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Indépendants dans ses attributions, le ministre qui a la Mobilité dans ses attributions, le ministre qui a l'Egalité des chances dans ses attributions, le ministre qui a les Affaires sociales dans ses attributions, la ministre qui les Pensions dans ses attributions, le ministre qui a l'Intégration sociale dans ses attributions et le ministre qui a la Lutte contre la pauvreté dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
