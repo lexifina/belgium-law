@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Au chapitre " E. Chirurgie abdominale et pathologie digestive " de la Liste, jointe comme annexe 1re à l'arrêté royal du 25 juin 2014 fixant les procédures, délais et conditions en matière d'intervention de l'assurance obligatoire soins de santé et indemnités dans le coût des implants et des dispositifs médicaux invasifs, modifiée en dernier lieu par l'arrêté ministériel du 11 mai 2023, la modification suivante est apportée:
+Au point 1.2. de la condition de remboursement E- § 04, les mots " , qui doit faire partie de l'équipe multidisciplinaire décrite au point 1.1., " sont ajoutés entre les mots " Le médecin spécialiste implanteur " et " a une expertise dans le domaine du traitement chirurgical de l'incontinence fécale ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le premier jour du mois qui suit celui au cours duquel il aura été publié au Moniteur belge.
