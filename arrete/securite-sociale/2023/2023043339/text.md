@@ -1,0 +1,13 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 30 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, modifié en dernier lieu par l'arrêté royal du 10 avril 2022, au A. les modifications suivantes sont apportées :
+1° au 1., les modifications suivantes sont apportées :
+a) au 1° groupe cible, le libellé des prestations 741016, 741031, 741053, 741075, 741090, 741112, 741134, 741156, 741171, 741193, 741215, 741230, 741252, 741274, 741296, 741311, 741333, 741355, 741370, 741392, 741414, 741436, 741451, 741473, 741495, 741510, 741532, 741554, 741576, 741591 et 741613 est remplacé par " 7,00 et plus " ;
+b) au 2° groupe cible, le libellé des prestations 741753, 741775, 741856, 741871, 741893, 741952 et 741974 est remplacé par " 3,75 à 6,75 inclus " ;
+c) au 3° groupe cible, le libellé des prestations 742070, 742092, 742114, 742136, 742151, 742173, 742195, 742210, 742232 et 742254 est remplacé par " 4,25 à 6,75 inclus " ;
+2° au 3.1, alinéa 1er, les mots " -/+ 7,75 dioptries " sont remplacés par les mots " -/+ 7,00 dioptries " ;
+3° au 4.1, alinéa 1er, les mots " -/+ 7,50 dioptries " sont remplacés par les mots " -/+ 6,75 dioptries " ;
+4° au 4.1., alinéa 4, les mots " 3,75 à 7,50 " sont remplacés par les mots " 3,75 à 6,75 " ;
+5° au 5.1, les mots " -/+ 7,50 dioptries " sont remplacés par les mots " -/+ 6,75 dioptries ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui au cours duquel il aura été publié au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
