@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 2, § 2, 2°, de l'arrêté royal du 26 octobre 2022 fixant les critères pour les associations professionnelles afin d'être désignées comme représentatives en exécution de l'article 7/1, § 7, de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, les mots " au minimum 10 membres personnes morales " sont remplacés par les mots " au minimum 3 membres personnes morales ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a la Santé publique dans ses attributions est chargé de l'exécution du présent arrêté.
