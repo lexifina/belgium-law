@@ -20,7 +20,7 @@ La mesure visée au présent paragraphe ne peut être ordonnée que pour recherc
 12° aux articles 327, 328, 329 et 330 du même Code, pour autant qu'une plainte ait été déposée;
 13° à l'article 331bis du même Code;
 14° à l'article 347bis du même Code;
-15° aux articles 417/7, 417/11 à 417/22 du même Code;
+15° les articles 417/7 à 417/22 du même Code;"
 16° à l'article 417/24 du même Code;
 17° aux articles 417/25 à 417/38, 417/44 à 417/45, 433quater/1, 433quater/4 du même Code;
 18° à l'article 393 du même Code;

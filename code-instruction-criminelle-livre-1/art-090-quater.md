@@ -5,7 +5,7 @@ L'autorisation est datée et indique:
 3° la personne, le moyen de communication, le système informatique ou le lieu soumis à la mesure;
 4° la période pendant laquelle la mesure peut être exécutée et qui ne peut excéder un mois. Ce délai commence à courir le jour de l'autorisation ordonnant ou, dans le cas de l'article 90quinquies, alinéa 1er, prolongeant la mesure et s'achève la veille du quantième du mois suivant;
 5° les nom et qualité de l'officier ou des officiers de police judiciaire commis pour l'exécution de la mesure.
-En cas d'urgence, l'autorisation peut être donnée verbalement. Elle est confirmée dans la forme prévue à l'alinéa 2 au plus tard dans les vingt-quatre heures.
+En cas d'urgence, l'autorisation peut être donnée verbalement. Elle est confirmée dans la forme prévue à l'alinéa 2 dans les plus brefs délais.
 § 2. Afin de permettre la mesure visée à l'article 90ter, § 1er, le juge d'instruction peut requérir, directement ou par l'intermédiaire du service de police désigné par le Roi, le concours:
 - de l'opérateur d'un réseau de communications électroniques;
 - de toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.
