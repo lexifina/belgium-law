@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230822.VAC.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230822.VAC.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-08-22",
+  "date_as_printed": "Jugement/arrêt du 22 août 2023",
+  "published_on_juportal": "2023-08-31",
+  "language": "fr",
+  "role_number": "P.23.1181.F",
+  "case_name_as_published": "Z.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "VOORLOPIGE HECHTENIS - VONNISGERECHT",
+    "Révocation de la détention sous la modalité de la surveillance électronique - Décision prise par le tribunal correctionnel - Arrêt déclarant l'appel irrecevable - Légalité",
+    "DETENTION PREVENTIVE - APPEL",
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "Juridiction de jugement - Révocation de la détention sous la modalité de la surveillance électronique - Décision prise par le tribunal correctionnel - Arrêt déclarant l'appel irrecevable - Légalité",
+    "Herroeping van de hechtenis onder de modaliteit van het elektronisch toezicht - Beslissing van de correctionele rechtbank - Arrest dat het hoger beroep niet-ontvankelijk verklaart - Wettigheid",
+    "Vonnisgerecht - Herroeping van de hechtenis onder de modaliteit van het elektronisch toezicht - Beslissing van de correctionele rechtbank - Arrest dat het hoger beroep niet-ontvankelijk verklaart - Wettigheid"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "Révocation de la détention sous la modalité de la surveillance électronique - Décision prise par le tribunal correctionnel - Arrêt déclarant l'appel irrecevable - Légalité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24bis, § 1er, al. 3, et § 3 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - APPEL",
+    "Juridiction de jugement - Révocation de la détention sous la modalité de la surveillance électronique - Décision prise par le tribunal correctionnel - Arrêt déclarant l'appel irrecevable - Légalité",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24bis, § 1er, al. 3, et § 3 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230822.VAC.2",
+  "source_sha256": "dd1dd678e400c9b2b1bbb4370c3f1a2f55b3d212f60f37409b81dc4641741eb3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230822.VAC.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
