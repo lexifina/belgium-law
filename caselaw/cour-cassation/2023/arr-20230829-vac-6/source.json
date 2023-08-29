@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230829.VAC.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230829.VAC.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-08-29",
+  "date_as_printed": "Jugement/arrêt du 29 août 2023",
+  "published_on_juportal": "2023-08-31",
+  "language": "fr",
+  "role_number": "P.23.1236.F",
+  "case_name_as_published": "P.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "GREFFE. GREFFIER",
+    "GRIFFIE. GRIFFIER",
+    "Acte dressé et signé par un assistant du greffe - Conditions légales de l'assistance au juge - Mention des conditions dans l'acte",
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "VOORLOPIGE HECHTENIS - BEVEL TOT AANHOUDING",
+    "Akte opgemaakt en ondertekend door een assistent bij de griffie - Wettelijke voorwaarden van de bijstand aan de rechter - Vermelding van de voorwaarden in de akte"
+  ],
+  "fiche": [
+    "GREFFE. GREFFIER",
+    "Acte dressé et signé par un assistant du greffe - Conditions légales de l'assistance au juge - Mention des conditions dans l'acte",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 329 - 02 Lien ELI No pub 1967101053",
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "Acte dressé et signé par un assistant du greffe - Conditions légales de l'assistance au juge - Mention des conditions dans l'acte",
+    "Code judiciaire - Deuxième partie: L'ORGANISATION JUDICIAIRE (Art. 58 à 555/16) - 10-10-1967 - Art. 329 - 02 Lien ELI No pub 1967101053"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230829.VAC.6",
+  "source_sha256": "89237c3f6e4c17be01cbbace728d247c8437f565d5016054df3199288e978272",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230829.VAC.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/30/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
