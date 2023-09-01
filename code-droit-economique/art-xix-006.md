@@ -1,0 +1,31 @@
+§ 1er. Aucune activité de recouvrement amiable de dettes ne peut être exercée sans inscription préalable auprès du SPF Economie.
+Les avocats, les officiers ministériels ou les mandataires de justice dans l'exercice de leur profession ou de leur fonction sont exemptés de cette inscription préalable.
+§ 2. Le SPF Economie, en tant que responsable du traitement, veille à ce que l'inscription préalable soit effectuée de manière à garantir la confidentialité, l'intégrité et la disponibilité des traitements effectués.
+Dans le cadre de la demande d'inscription préalable, le SPF Economie traite les catégories suivantes de données à caractère personnel:
+1° les données d'identification des personnes physiques, le cas échéant;
+2° le numéro de téléphone utilisé à des fins professionnelles et l'adresse de courrier électronique utilisée à des fins professionnelles des personnes physiques, le cas échéant;
+3° un extrait de casier judiciaire, délivré conformément à l'article 596, alinéa 1er, du Code d'instruction criminelle, de tous les administrateurs, gérants, directeurs ou fondés de pouvoir de l'entreprise, qui permet de vérifier que tous les administrateurs, gérants, directeurs ou fondés de pouvoir de l'entreprise sont aptes à exercer une activité de recouvrement amiable de dettes, c'est-à-dire:
+a) ne pas être ou avoir été privé de leurs droits civils et politiques;
+b) ne pas être en faillite ou avoir été déclaré en faillite sans avoir obtenu la réhabilitation;
+c) ne pas avoir encouru une peine d'emprisonnement, même conditionnelle, de trois mois au moins sur la base de la réglementation belge suivante ou de dispositions étrangères ayant le même objet:
+i. une infraction au Code de droit économique et à ses arrêtés d'exécution;
+ii. une infraction à la législation fiscale;
+d) ne pas être condamné à une peine criminelle;
+e) ne pas être condamné pour une infraction aux articles 140, 140septies, 141 ou 505, alinéa 1er, 2°, 3° et 4°, du Code pénal ou à des dispositions étrangères ayant le même objet;
+f) ne pas être condamné à une amende pénale pour une infraction à la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces et à ses arrêtés d'exécution, ou à des de dispositions étrangères ayant le même objet.
+Les données à caractère personnel relatives aux condamnations pénales ne peuvent être traitées que sous le contrôle de l'autorité publique et dans le respect des garanties appropriées pour les droits et libertés des personnes concernées. Par ailleurs, les données à caractère personnel ne peuvent faire l'objet d'un traitement que dans le cadre de l'inscription préalable en vue d'exercer une activité de recouvrement amiable de dettes, et de la radiation de cette inscription. Ces données ne sont pas communiquées à des tiers.
+Les données sont traitées par le SPF Economie en vue de l'exécution d'une obligation légale dont les finalités sont les suivantes:
+1° identifier les personnes physiques et morales qui souhaitent exercer une activité de recouvrement amiable de dettes;
+2° vérifier que ces personnes physiques et morales disposent des aptitudes nécessaires à pouvoir exercer une activité de recouvrement amiable de dettes;
+3° traiter la demande d'inscription préalable et la radiation de cette inscription.
+§ 3. Les données à caractère personnel traitées par le SPF Economie sont conservées le temps nécessaire à la réalisation des finalités par ou en vertu du présent livre et au maximum trois ans à partir de la radiation de l'inscription.
+Par dérogation à l'alinéa 1er, les données à caractère personnel reprises dans les extraits de casier judiciaire des administrateurs, gérants, directeurs ou fondés de pouvoir de l'entreprise sont conservées au maximum trois ans à compter de la collecte de ces données. Si le SPF Economie l'estime nécessaire, un nouvel extrait de casier judiciaire des administrateurs, gérants, directeurs ou fondés de pouvoir de l'entreprise, dont l'inscription est maintenue dans le cadre du recouvrement amiable de dettes, peut être demandé tous les trois ans.
+§ 4. L'entreprise qui souhaite exercer une activité de recouvrement amiable de dettes introduit par voie électronique auprès du SPF Economie, selon les conditions et modalités déterminées par le Roi, une demande d'inscription et joint à sa demande un dossier contenant au moins les informations et documents suivants:
+1° ses données d'identification et son numéro d'entreprise;
+2° son numéro de téléphone utilisé à des fins professionnelles ainsi qu'une adresse de courrier électronique utilisée à des fins professionnelles à laquelle les agents du SPF Economie pourront adresser toutes leurs communications;
+3° la preuve que l'entreprise est enregistrée à la Banque-Carrefour des Entreprises ou, si elle est établie dans un autre Etat membre de l'Union européenne, dans un registre comparable permettant d'identifier le recouvreur de dettes ainsi que les personnes physiques et morales qui peuvent agir pour elle;
+4° un extrait de casier judiciaire, délivré conformément à l'article 596, alinéa 1er, du Code d'instruction criminelle, de tous les administrateurs, gérants, directeurs ou fondés de pouvoir de l'entreprise, destiné à une administration publique, ou un document équivalent délivré dans un pays étranger, qui ne remonte pas à plus de trois mois;
+5° une attestation, délivrée par une entreprise d'assurance, démontrant que l'entreprise a souscrit un contrat d'assurance couvrant sa responsabilité professionnelle conformément aux conditions déterminées par le Roi. Cette attestation, qui est rédigée dans une des langues nationales de Belgique ou en anglais, mentionne notamment le numéro d'entreprise et le nom de l'entreprise d'assurance, le numéro du contrat d'assurance ainsi que la date du début et de la fin de la couverture d'assurance.
+Le SPF Economie établit la liste des entreprises inscrites qui répondent aux conditions visées au présent article et publie cette liste sur son site internet.
+Le Roi détermine les conditions et modalités complémentaires de l'inscription préalable auprès du SPF Economie.
+Le Roi peut également déterminer les conditions et modalités complémentaires de l'inscription préalable des entreprises établies dans un pays tiers.

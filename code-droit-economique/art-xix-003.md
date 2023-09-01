@@ -1,0 +1,1 @@
+L'entreprise fournit sans délai, à la demande du consommateur, sur un support durable, toutes les pièces justificatives de la dette et toutes les informations sur la manière d'introduire une contestation de la dette.
