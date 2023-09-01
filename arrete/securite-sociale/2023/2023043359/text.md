@@ -1,0 +1,32 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté fixe les conditions pour porter en compte à l'assurance maladie des tests sérologiques exécutés pour la détection d'anticorps contre le virus SARS-CoV-2 (IgM, IgG ou IgA).
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. Description de la prestation
+554971 - 554982
+Détermination d'anticorps contre le virus SARS-CoV-2 via immunoassay
+§ 2. La base de remboursement de la prestation 554971-554982 est de 9,60 euros.
+§ 3. Il n'y a pas d'intervention personnelle pour le patient pour la prestation 554971-554982.
+Aucun supplément d'honoraire ne peut être porté en compte.
+§ 4. Si un test est effectué en dehors des groupes-cibles et des conditions de remboursement mentionnés dans les articles 3 et 4 la prestation 554971-554982 ne peut pas être portée en compte à l'assurance obligatoire soins de santé.
+§ 5. La prestation 554971-554982 ne fait pas partie des articles 3, § 1er, A, II, B et C, I, 18, § 2, B, e), ou 24, § 1er, de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités et est portée en compte à 100%.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. La prestation 554971-554982 ne peut être attestée que dans le cadre de la pandémie COVID-19, pour les indications suivantes :
+1° dans le cadre d'un diagnostic différentiel dans des situations exceptionnelles au niveau hospitalier, comme pour les personnes immunodéprimées ou suspectées de MIS-C avec une PCR négative.
+2° avant l'administration d'un traitement prophylactique pour les patients immunodéprimés.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. La prestation 554971-554982 peut seulement être portée en compte si les conditions suivantes sont remplies :
+1° le test est prescrit par un médecin spécialiste,
+2° le laboratoire est agréé par le ministre compétent en matière de santé publique, conformément à l'arrêté royal du 3 décembre 1999 relatif à l'agrément des laboratoires de biologie clinique par le Ministre qui a la Santé publique dans ses attributions ;
+3° la prestation est portée en compte par un spécialiste en biologie clinique, tel que défini dans l'article 1er, 5°, de l'arrêté royal du 3 décembre 1999 relatif à l'agrément des laboratoires de biologie clinique par le Ministre qui a la Santé publique dans ses attributions ;
+4° la prestation peut être portée en compte à l'assurance obligatoire soins de santé maximum 2 fois par période de 6 mois.
+§ 2. Les tests immunochromatographiques n'entrent pas en considération pour le remboursement.
+§ 3. La détermination diagnostique des anticorps contre le virus SARS-CoV-2 ne peut être portée en compte via les prestations 552016-552020 ou 551655-551666 de l'article 24 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. En cas de sous-traitance, le laboratoire qui reçoit en premier les échantillons facture, rapporte et se porte garant de la conservation des prescriptions.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Dans l'arrêté royal n° 20 du 13 mai 2020 portant des mesures temporaires dans la lutte contre la pandémie COVID-19 et visant à assurer la continuité des soins en matière d'assurance obligatoire soins de santé, le titre 6, comportant les articles 65 à 70, modifié par l'arrêté royal n° 28 du 3 juin 2020 modifiant l'arrêté royal n° 20 du 13 mai 2020 portant des mesures temporaires dans la lutte contre la pandémie COVID-19 et visant à assurer la continuité des soins en matière d'assurance obligatoire soins de santé, est abrogé.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. L'arrêté royal du 29 mai 2020 portant exécution de l'article 70, alinéa 3, de l'arrêté royal n° 20 du 13 mai 2020 portant des mesures temporaires dans la lutte contre la pandémie COVID-19 et visant à assurer la continuité des soins en matière d'assurance obligatoire soins de santé est abrogé.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
