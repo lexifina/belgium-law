@@ -1,4 +1,4 @@
-Sont inopposables à la masse, lorsqu'ils ont été faits par le débiteur depuis l'époque déterminée par le tribunal comme étant celle de la cessation de ses paiements, sans préjudice des articles XX.37, XX.53, XX.65 et XX.82:
+Sont inopposables à la masse, lorsqu'ils ont été faits par le débiteur depuis l'époque déterminée par le tribunal comme étant celle de la cessation de ses paiements, sans préjudice des articles XX.37, XX.53, XX.65, XX.82, XX.83/20 et XX.83/40:
 1° tous actes de disposition à titre gratuit portant sur des meubles ou immeubles, ainsi que les actes, opérations ou contrats commutatifs ou à titre onéreux, si la valeur de ce qui a été donné par le failli dépasse notablement celle de ce qu'il a reçu en retour;
 2° tous paiements, soit en espèces, soit par transport, vente, ou autrement, pour dettes non échues, tous paiements faits autrement qu'en espèces ou effets de commerce;
 3° toutes hypothèques conventionnelles et tous droits d'antichrèse ou de gage constitués sur les biens du débiteur pour dettes antérieurement contractées.

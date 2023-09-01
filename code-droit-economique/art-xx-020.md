@@ -1,20 +1,20 @@
-§ 1er. Sans préjudice des dispositions de l'article XX.122, les praticiens de l'insolvabilité désignés en vertu de la présente loi sont choisis en fonction de leurs qualités et selon les nécessités de la cause.
+§ 1er. Sans préjudice des dispositions de l'article XX.122, les praticiens de la liquidation désignés en vertu de la présente loi sont choisis en fonction de leurs qualités et selon les nécessités de la cause.
 Ils doivent offrir des garanties de compétence, d'expérience, d'indépendance et d'impartialité.
-Leur responsabilité professionnelle doit être assurée, sauf quand ils sont des organes d'une autorité publique ou d'une institution publique.
-Les Ordres, les Instituts de titulaires de professions libérales ... établissent une liste des personnes qui peuvent être désignées par le tribunal comme praticien de l'insolvabilité, sans préjudice de la disposition du paragraphe 2. Ces listes sont mises à jour et publiées annuellement au registre.
+Leur responsabilité professionnelle doit être assurée, sauf quand ils sont des organes d'une autorité publique ou d'une institution publique ou quand ils sont désignés par les Ordres ou Instituts conformément à l'alinéa 4.
+Les Ordres, les Instituts de titulaires de professions libérales ... établissent une liste des personnes qui peuvent être désignées par le tribunal comme praticien de la liquidation, sans préjudice de la disposition du paragraphe 2. Ces listes sont mises à jour et publiées annuellement au registre.
 § 2. Les curateurs sont désignés selon les modalités fixées à l'article XX.122.
 § 3. Les frais et honoraires des curateurs sont fixés en fonction de l'importance et de la complexité de leur mission sous la forme d'une indemnité proportionnelle aux actifs réalisés le cas échéant, en tenant compte du temps requis pour l'accomplissement de leurs prestations.
-Les frais et honoraires des autres praticiens de l'insolvabilité sont fixés en fonction de l'importance et de la complexité de leur mission et sur base du temps requis pour l'accomplissement de leurs prestations et le cas échéant, en tenant compte de la valeur des actifs.
-Le Roi détermine les modalités et les barèmes relatifs à la fixation des honoraires des curateurs et Il détermine les éléments sur base desquels les praticiens de l'insolvabilité sont rémunérés.
+Les frais et honoraires des autres praticiens de la liquidation sont fixés en fonction de l'importance et de la complexité de leur mission et sur base du temps requis pour l'accomplissement de leurs prestations et le cas échéant, en tenant compte de la valeur des actifs.
+Le Roi détermine les modalités et les barèmes relatifs à la fixation des honoraires des curateurs et Il détermine les éléments sur base desquels les praticiens de la liquidation sont rémunérés.
 § 4. Le Roi peut également déterminer les frais pouvant faire l'objet d'une indemnisation séparée, ainsi que les modalités de leur liquidation.
 Un relevé détaillé des prestations à rémunérer est joint à toute demande d'honoraires.
 A chaque demande de remboursement de frais seront joints les documents justificatifs.
 Lorsque l'actif ne suffit pas pour couvrir les frais d'administration et de liquidation de la faillite, une rémunération forfaitaire du curateur est octroyée dont le montant à indexer annuellement est fixé par le Roi.
 § 5. A la demande des curateurs et de l'avis conforme du juge-commissaire, le tribunal peut permettre au curateur de prélever des remboursements de frais et des honoraires provisionnels dont il fixe le montant. Sauf circonstances particulières, le total des frais et honoraires provisionnels ne peut excéder les trois quarts du montant fixé selon les règles d'indemnisation établies par le Roi. En aucun cas, des honoraires provisionnels ne peuvent être alloués lorsque les curateurs n'insèrent pas les états prévus à l'article XX.130 dans le registre.
-Le tribunal peut allouer des remboursements de frais et des honoraires provisionnels à la demande des autres praticiens de l'insolvabilité.
-§ 6. A la demande de tout intéressé, sur requête du praticien de l'insolvabilité ou d'office, le tribunal peut à tout moment et pour autant que cela s'avère nécessaire, procéder à une désignation supplémentaire ou procéder au remplacement ou mettre fin au mandat du praticien de l'insolvabilité.
-Toute demande de tiers est portée devant le tribunal, selon les formes du référé, et est dirigée contre le ou les praticiens de l'insolvabilité et contre le débiteur.
-Le tribunal de l'insolvabilité peut, à tout moment, remplacer le praticien de l'insolvabilité ou le juge-commissaire par un autre de ses membres.
-Les praticiens de l'insolvabilité dont le remplacement est envisagé, sont préalablement appelés et, après rapport du juge-commissaire le cas échéant, entendus en chambre du Conseil. Le jugement est prononcé en audience publique.
-Le jugement ordonnant le remplacement d'un praticien de l'insolvabilité lui est notifié par les soins du greffier et publié au Moniteur belge dans les cinq jours de sa date.
-Si le praticien de l'insolvabilité est remplacé à sa demande, il en est fait explicitement mention dans la publication susvisée.
+Le tribunal peut allouer des remboursements de frais et des honoraires provisionnels à la demande des autres praticiens de la liquidation.
+§ 6. A la demande de tout intéressé, sur requête du praticien de la liquidation ou d'office, le tribunal peut à tout moment et pour autant que cela s'avère nécessaire, procéder à une désignation supplémentaire ou procéder au remplacement ou mettre fin au mandat du praticien de la liquidation.
+Toute demande de tiers est portée devant le tribunal, selon les formes du référé, et est dirigée contre le ou les praticiens de la liquidation et contre le débiteur.
+Le tribunal de l'insolvabilité peut, à tout moment, remplacer le praticien de la liquidation ....
+Les praticiens de la liquidation dont le remplacement est envisagé, sont préalablement appelés et, après rapport du juge-commissaire le cas échéant, entendus en chambre du conseil. Dans les cas où la désignation du praticien de la liquidation a été rendue publique, le jugement est prononcé en audience publique.
+Le jugement ordonnant le remplacement d'un praticien de la liquidation lui est notifié par les soins du greffier et publié au Moniteur belge dans les cinq jours de sa date.
+Si le praticien de la liquidation est remplacé à sa demande, il en est fait explicitement mention dans la publication susvisée.

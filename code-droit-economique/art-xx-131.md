@@ -6,7 +6,7 @@
 5° les déclarations de créance et leurs annexes;
 6° les procès-verbaux de vérification des créances;
 7° le tableau visé à l'article XX.164;
-8° les rapports et états de répartition établis par les curateurs, visés aux articles XX.128, XX.168 et XX.192;
+8° les rapports et états de répartition établis par les curateurs, visés aux articles XX.128, XX.135, XX.168, XX.171 et XX.192;
 9° le bilan visé à l'article XX.147;
 10° la liste des transactions et des homologations visées à l'article XX.151;
 11° le compte simplifié visé à l'article XX.170;

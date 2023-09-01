@@ -1,1 +1,1 @@
-La procédure de l'accord amiable tend à conclure un accord entre le débiteur et tous ses créanciers ou à deux au moins d'entre eux un accord en vue de l'assainissement de sa situation financière ou de la réorganisation de son entreprise.
+La procédure de l'accord amiable tend à conclure un accord entre le débiteur et un ou plusieurs de ses créanciers en vue de l'assainissement de sa situation financière ou de la réorganisation de son entreprise.

@@ -4,4 +4,4 @@ Le délai de comparution est de huitaine.
 La cour d'appel statue dans le mois à compter de l'appel.
 Au jour fixé, la cour d'appel entend le failli assisté, le cas échéant, de son conseil. Elle peut également entendre toute personne dont elle jugerait l'audition nécessaire.
 Le ministère public est entendu en son avis.
-L'arrêt est notifié au failli dans les trois jours par pli judiciaire ....
+L'arrêt est publié dans le Moniteur belge par les soins du greffier et notifié au failli.
