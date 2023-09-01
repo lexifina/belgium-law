@@ -1,0 +1,3 @@
+Au cas où aucun rappel n'a été effectué conformément à l'article XIX.2, les montants visés à l'article XIX.4 ne peuvent être réclamés au consommateur qu'après un délai d'au moins quatorze jours calendrier qui prend cours le troisième jour ouvrable qui suit celui où le rappel est envoyé au consommateur.
+Lorsque le rappel est envoyé par voie électronique, le délai de quatorze jours calendrier prend cours le jour calendrier qui suit celui où le rappel est envoyé au consommateur.
+En cas de non-paiement dans le délai visé à l'alinéa 1er, le recouvreur de dettes envoie la mise en demeure visée à l'article XIX.7, § 2.
