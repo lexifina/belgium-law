@@ -1,4 +1,1 @@
-§ 1er. En cas de fautes graves et caractérisés du débiteur ou d'un de ses organes, le tribunal peut leur substituer, pour la durée du sursis, un administrateur provisoire.
-§ 2. Le tribunal statue à la demande de tout intéressé ou du ministère public, dans le jugement qui ouvre la procédure de réorganisation judiciaire ou dans un jugement ultérieur, le débiteur entendu en ses moyens et le juge délégué entendu en son rapport.
-Quand le débiteur soutient que les fautes sont imputables à une autre personne physique ou morale déterminée, il doit appeler cette personne en intervention forcée.
-§ 3. A tout moment pendant le sursis, le tribunal, saisi et statuant de la même manière et sur le rapport de l'administrateur provisoire, peut retirer la décision prise en application des paragraphes 1er et 2, ou modifier les pouvoirs de l'administrateur provisoire.
+(Abrogé)

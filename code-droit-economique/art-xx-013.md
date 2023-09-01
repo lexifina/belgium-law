@@ -1,1 +1,1 @@
-Le tribunal compétent pour connaître d'une procédure d'insolvabilité d'une entreprise peut connaître d'une procédure d'insolvabilité relative à une entreprise avec laquelle elle est liée. Il peut désigner un praticien de l'insolvabilité commun à l'ensemble des procédures.
+Le tribunal compétent pour connaître d'une procédure d'insolvabilité d'une entreprise peut connaître d'une procédure d'insolvabilité relative à une entreprise avec laquelle elle est liée. Il peut désigner un mandataire de justice commun à l'ensemble des procédures.

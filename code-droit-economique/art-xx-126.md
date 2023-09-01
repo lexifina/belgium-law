@@ -2,6 +2,6 @@
 § 2. Les curateurs, visés au paragraphe 1er, confirment l'acceptation de leur mission, au plus tard le premier jour ouvrable qui suit la désignation, par le biais du registre.
 § 3. Le curateur signale au président du tribunal toute forme de conflit d'intérêts ou d'apparence de partialité.
 Le curateur signale en tout cas que lui-même ou l'un de ses associés ou collaborateurs directs a accompli, sauf en qualité de curateur, des prestations au bénéfice du failli ou des gérants et administrateurs de la personne morale faillie, ou au bénéfice d'un créancier, au cours des dix-huit mois précédant le jugement déclaratif de la faillite.
-Les déclarations du curateur sont versées au dossier de la faillite.
+Les déclarations du curateur sont versées au dossier de la faillite, mais ne peuvent être consultées que par le président du tribunal ou par le procureur du Roi.
 Le président du tribunal juge si la déclaration du curateur empêche celui-ci d'accomplir sa mission.
 Le tribunal peut remplacer le curateur selon les formes prévues à l'article XX.20 ou, le cas échéant, à l'article XX.127.

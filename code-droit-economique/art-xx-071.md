@@ -1,1 +1,1 @@
-Le plan de réorganisation décrit avec précision les droits de toutes les personnes qui sont titulaires de créances sursitaires et la modification de leurs droits du fait du vote et de l'homologation du plan de réorganisation.
+Le plan de réorganisation indique quelles créances sont encore contestées en application des articles XX.49 ou XX.68, en vue d'éclairer les intéressés sur leur ampleur et leur fondement.

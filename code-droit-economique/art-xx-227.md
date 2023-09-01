@@ -7,4 +7,4 @@ c) la personne concernée n'a pas, au moment visé sous a), agi comme l'aurait f
 L'indemnisation accordée par le tribunal en réparation d'une aggravation du passif est répartie proportionnellement entre tous les créanciers sans tenir compte des causes légitimes de préférences.
 Toute répartition s'effectue déduction faite des frais de la masse.
 § 4. Lorsque la personne, visée au paragraphe 1er, qui est déclarée personnellement obligée est titulaire d'une profession libérale, le greffier notifie une copie du jugement à l'ordre ou à l'institut.
-§ 5. Le paragraphe 1er n'est pas applicable lorsque l'entreprise déclarée en faillite est une ASBL, AISBL et fondation qui tient une comptabilité simplifiée conformément aux articles 17, 37 et 53 de la loi du 27 juin 1921 sur les associations sans but lucratif, les fondations, les partis politiques européens et les fondations politiques européennes.
+§ 5. Le paragraphe 1er n'est pas applicable lorsque l'entreprise déclarée en faillite est une ASBL, AISBL et fondation dont la taille ne dépasse pas plus d'un des critères fixés aux articles 3:47, § 2, ou 3:51, § 2, du Code des sociétés et des associations.
