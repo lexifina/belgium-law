@@ -1,0 +1,29 @@
+{
+  "id": "2023043265",
+  "title": "19 JUIN 2023. - Loi modifiant l'article 80 du Code judiciaire, visant à permettre le remplacement de certains juges empêchés par des juges suppléants",
+  "source_title": "19 JUIN 2023. - Loi modifiant l'article 80 du Code judiciaire, visant à permettre le remplacement de certains juges empêchés par des juges suppléants",
+  "act": "loi/justice/2023/2023043265",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-08-25&numac_search=2023043265&page=74&lg_txt=F&caller=list&2023043265=2&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "c401092818215856910b05635d29062de7863e2c87bd2036f727b75242ad74fb",
+  "source_issuer": "Justice",
+  "made": "2023-06-19",
+  "published": "2023-08-25",
+  "in_force": "2023-09-04",
+  "in_force_basis": "Justel: Entrée en vigueur : 4 septembre 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "25 août 2023",
+    "Numéro": "2023043265",
+    "page": "69534",
+    "Dossier numéro": "2023-06-19/03",
+    "Entrée en vigueur": "4 septembre 2023"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 88,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-09-04"
+}
