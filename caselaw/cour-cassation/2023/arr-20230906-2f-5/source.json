@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230906.2F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230906.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-06",
+  "date_as_printed": "Jugement/arrêt du 06 septembre 2023",
+  "published_on_juportal": "2023-09-22",
+  "language": "fr",
+  "role_number": "P.23.0518.F",
+  "case_name_as_published": "M. contra SPW",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "URBANISME - SANCTIONS",
+    "STEDENBOUW - SANCTIES",
+    "Région wallonne - Arrêté déclarant un immeuble inhabitable - Non-respect - Sanction administrative - Imputabilité de l'infraction - Titulaire de droits réels sur l'habitation",
+    "INFRACTION - IMPUTABILITE - Personnes physiques",
+    "MISDRIJF - TOEREKENBAARHEID - Natuurlijke personen",
+    "Infraction urbanistique - Région wallonne - Arrêté déclarant un immeuble inhabitable - Non-respect - Sanction administrative - Imputabilité de l'infraction - Titulaire de droits réels sur l'habitation",
+    "Waals Gewest - Besluit dat een pand onbewoonbaar verklaart - Niet-naleving - Administratieve sanctie - Toerekenbaarheid van het misdrijf - Houder van zakelijke rechten op de woning",
+    "Stedenbouwmisdrijf - Waals Gewest - Besluit dat een pand onbewoonbaar verklaart - Niet-naleving - Administratieve sanctie - Toerekenbaarheid van het misdrijf - Houder van zakelijke rechten op de woning"
+  ],
+  "fiche": [
+    "URBANISME - SANCTIONS",
+    "Région wallonne - Arrêté déclarant un immeuble inhabitable - Non-respect - Sanction administrative - Imputabilité de l'infraction - Titulaire de droits réels sur l'habitation",
+    "Code wallon de l'habitation durable - 29-10-1998 - Art. 200bis, § 1er, 1° - 39 Lien ELI No pub 1998A27652",
+    "INFRACTION - IMPUTABILITE - Personnes physiques",
+    "Infraction urbanistique - Région wallonne - Arrêté déclarant un immeuble inhabitable - Non-respect - Sanction administrative - Imputabilité de l'infraction - Titulaire de droits réels sur l'habitation",
+    "Code wallon de l'habitation durable - 29-10-1998 - Art. 200bis, § 1er, 1° - 39 Lien ELI No pub 1998A27652"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230906.2F.5",
+  "source_sha256": "511ecba448e8051e6b306c564923e82aad1eca242069b09fea8bbd5e08be78bd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230906.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
