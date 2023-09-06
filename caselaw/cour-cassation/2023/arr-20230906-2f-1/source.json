@@ -1,0 +1,48 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230906.2F.1",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230906.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-06",
+  "date_as_printed": "Jugement/arrêt du 06 septembre 2023",
+  "published_on_juportal": "2023-09-22",
+  "language": "fr",
+  "role_number": "P.23.0494.F",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Généralités",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Algemeen",
+    "Composition du siège - Décision ordonnant une mesure d'instruction - Décision subséquente rendue au fond - Continuité du siège - Portée",
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "RECHTERLIJKE ORGANISATIE - STRAFZAKEN",
+    "Composition du siège - Jugement de réouverture des débats - Cause reprise « ab initio » - Constat - Forme",
+    "Samenstelling van de zetel - Beslissing die een onderzoeksmaatregel beveelt - Daaropvolgende beslissing over de grond van de zaak - Continuïteit van de zetel - Draagwijdte",
+    "Samenstelling van de zetel - Vonnis dat de heropening van het debat beveelt - Hervatting van de zaak \"ab initio\" - Vaststelling - Vorm"
+  ],
+  "fiche": [
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Généralités",
+    "Composition du siège - Décision ordonnant une mesure d'instruction - Décision subséquente rendue au fond - Continuité du siège - Portée",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 779 - 04 Lien ELI No pub 1967101055",
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "Composition du siège - Décision ordonnant une mesure d'instruction - Décision subséquente rendue au fond - Continuité du siège - Portée",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 779 - 04 Lien ELI No pub 1967101055",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Généralités",
+    "Composition du siège - Jugement de réouverture des débats - Cause reprise « ab initio » - Constat - Forme",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 779 - 04 Lien ELI No pub 1967101055",
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "Composition du siège - Jugement de réouverture des débats - Cause reprise « ab initio » - Constat - Forme",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 779 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230906.2F.1",
+  "source_sha256": "4d22ef2440fbcca0b1c394fec1dda60e8fbb3919b82d7d9e62114c5b6dc34706",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230906.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/06/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
