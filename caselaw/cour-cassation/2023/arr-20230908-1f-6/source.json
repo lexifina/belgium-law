@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230908.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230908.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-08",
+  "date_as_printed": "Jugement/arrêt du 08 septembre 2023",
+  "published_on_juportal": "2023-10-02",
+  "language": "fr",
+  "role_number": "C.22.0372.F",
+  "case_name_as_published": "FONDS COMMUN DE GARANTIE BELGE contra U.",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCE AUTOMOBILE OBLIGATOIRE",
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Fonds commun de garantie automobile - Conducteur du véhicule impliqué dans un accident de la circulation - Préjudice personnel, fût-il subi par répercussion - Conducteur sachant que l'obligation d'assurance n'a pas été respectée - Conséquence - Obligation du Fonds commun",
+    "Gemeenschappelijk Waarborgfonds - Bestuurder van het bij een verkeersongeval betrokken motorrijtuig - Eigen schade, al is het gevolgschade - Bestuurder die weet dat de verzekeringsplicht niet werd nageleefd - Gevolg - Verplichting van het Gemeenschappelijk Fonds"
+  ],
+  "fiche": [
+    "ASSURANCES - ASSURANCE AUTOMOBILE OBLIGATOIRE",
+    "Fonds commun de garantie automobile - Conducteur du véhicule impliqué dans un accident de la circulation - Préjudice personnel, fût-il subi par répercussion - Conducteur sachant que l'obligation d'assurance n'a pas été respectée - Conséquence - Obligation du Fonds commun",
+    "L. du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs - 21-11-1989 - Art. 19bis-11, § 1er, 8° - 30 Lien ELI No pub 1989011371 L. du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs - 21-11-1989 - Art. 19bis-13, § 2 - 30 Lien ELI No pub 1989011371 L. du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs - 21-11-1989 - Art. 29bis, § 1er, al. 1er et 4 - 30 Lien ELI No pub 1989011371 L. du 22 août 2002 relative aux droits du patient - 22-08-2002 - Art. 7 - 45 Lien ELI No pub 2002022737 L. du 22 août 2002 relative aux droits du patient - 22-08-2002 - Art. 12 - 45 Lien ELI No pub 2002022737 A.R. du 11 juillet 2003 fixant les conditions d'agrément et le fonctionnement du Bureau belge et du Fonds commun de garantie - 11-07-2003 - Art. 21, 2° - 98 Lien ELI No pub 2003011513"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230908.1F.6",
+  "source_sha256": "31c21ea4412b8b3d97ad2a7ce8c714f76609340ef208c5b208c5ac74b8dc1377",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230908.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/07/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
