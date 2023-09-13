@@ -1,0 +1,49 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230913.2F.7",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230913.2F.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-13",
+  "date_as_printed": "Jugement/arrêt du 13 septembre 2023",
+  "published_on_juportal": "2023-09-26",
+  "language": "fr",
+  "role_number": "P.23.0953.F",
+  "case_name_as_published": "PROCUREUR GENERAL COUR DE CASSATION contra C.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PEINE - CONCOURS - Concours matériel",
+    "STRAF - SAMENLOOP - Meerdaadse",
+    "Peine de travail - Maximum de trois cents heures",
+    "PEINE - AUTRES PEINES - Peine de travail",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "Concours matériel - Conséquences - Maximum de trois cents heures",
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "CASSATIE - VORDERINGEN TOT VERNIETIGING. CASSATIEBEROEP IN HET BELANG VAN DE WET",
+    "Annulation par un seul arrêt de plusieurs décisions contraires à la loi",
+    "Werkstraf - Maximum van driehonderd uur",
+    "Materiële samenloop - Gevolgen - Maximum van driehonderd uur",
+    "Vernietiging door één enkel arrest van meerdere beslissingen die strijdig met de wet zijn"
+  ],
+  "fiche": [
+    "PEINE - CONCOURS - Concours matériel",
+    "Peine de travail - Maximum de trois cents heures",
+    "Code pénal 1867 - 08-06-1867 - Art. 37quinquies, § 2, al. 1er - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 60 - 01 Lien ELI No pub 1867060850",
+    "PEINE - AUTRES PEINES - Peine de travail",
+    "Concours matériel - Conséquences - Maximum de trois cents heures",
+    "Code pénal 1867 - 08-06-1867 - Art. 37quinquies, § 2, al. 1er - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 60 - 01 Lien ELI No pub 1867060850",
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "Annulation par un seul arrêt de plusieurs décisions contraires à la loi",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 441 - 30 Lien ELI No pub 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230913.2F.7",
+  "source_sha256": "5b3a400c71b93f301f85682c022429dd89c801841f5cc77d421aa63a35d90b21",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230913.2F.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
