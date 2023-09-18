@@ -1,0 +1,1 @@
+Celui qui utilise ou tente d'utiliser des instruments de paiement autres que les espèces contrefaits ou falsifiés, sera puni d'un emprisonnement de six mois à trois ans et d'une amende de vingt-six euros à cinquante mille euros.
