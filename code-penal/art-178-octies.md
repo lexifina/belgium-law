@@ -1,0 +1,1 @@
+Celui qui, ayant reçu pour bons des instruments de paiement autres que les espèces contrefaits ou falsifiés, les réutilise ou tente de réutiliser après en avoir vérifié les vices après réception, sera puni d'un emprisonnement d'un mois à un an et d'une amende de vingt-six euros à mille euros ou d'une de ces peines seulement.
