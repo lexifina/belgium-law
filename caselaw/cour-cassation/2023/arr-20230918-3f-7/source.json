@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230918.3F.7",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230918.3F.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-18",
+  "date_as_printed": "Jugement/arrêt du 18 septembre 2023",
+  "published_on_juportal": "2023-09-26",
+  "language": "fr",
+  "role_number": "S.21.0046.F",
+  "case_name_as_published": "J. contra OFFICE NATIONAL DE L’EMPLOI",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "CHOMAGE - MONTANT DES ALLOCATIONS DE CHOMAGE",
+    "WERKLOOSHEID - BEDRAG",
+    "Activités artistiques - Revenus - Diminution du montant journalier de l'allocation d'une partie du montant journalier du revenu - Mode d'obtention de ce revenu - Revenu annuel net - Composition",
+    "Activités artistiques de création ou d'interprétation - Revenus - Diminution du montant journalier de l'allocation d'une partie du montant journalier du revenu - Mode d'obtention de ce revenu - Revenu annuel net - Composition",
+    "Artistieke activiteiten - Inkomsten - Vermindering van het dagbedrag van de uitkering met een gedeelte van het dagbedrag van het inkomen - Wijze waarop dat inkomen wordt verworven - Netto jaarinkomen - Samenstelling",
+    "Scheppende of vertolkende artistieke activiteit - Inkomsten - Vermindering van het dagbedrag van de uitkering met een gedeelte van het dagbedrag van het inkomen - Wijze waarop dat inkomen wordt verworven - Netto jaarinkomen - Samenstelling"
+  ],
+  "fiche": [
+    "CHOMAGE - MONTANT DES ALLOCATIONS DE CHOMAGE",
+    "Activités artistiques - Revenus - Diminution du montant journalier de l'allocation d'une partie du montant journalier du revenu - Mode d'obtention de ce revenu - Revenu annuel net - Composition",
+    "A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 27, 10° - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 130, § 1er et 2 - 50 Lien ELI No pub 1991013192",
+    "CHOMAGE - MONTANT DES ALLOCATIONS DE CHOMAGE",
+    "Activités artistiques de création ou d'interprétation - Revenus - Diminution du montant journalier de l'allocation d'une partie du montant journalier du revenu - Mode d'obtention de ce revenu - Revenu annuel net - Composition",
+    "A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 27, 10° - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 130, § 1er et 2 - 50 Lien ELI No pub 1991013192"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230918.3F.7",
+  "source_sha256": "c4b9a88fcdf0161f07d27a85ff5cace9725079b9adcd7b556e54859d3a03fb30",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230918.3F.7_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
