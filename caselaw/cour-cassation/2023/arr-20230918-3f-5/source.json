@@ -1,0 +1,48 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230918.3F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230918.3F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-18",
+  "date_as_printed": "Jugement/arrêt du 18 septembre 2023",
+  "published_on_juportal": "2023-09-26",
+  "language": "fr",
+  "role_number": "C.22.0368.F",
+  "case_name_as_published": "C. contra INAMI",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Pouvoir d'appréciation. Evaluation. Date à considérer",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - SCHADE - Beoordelingsbevoegdheid. Raming. Peildatum",
+    "Evaluation - Principes",
+    "Evaluation - Evaluation in concreto - Portée",
+    "Evaluation - Evaluation en équité - Conditions",
+    "Date à considérer",
+    "Raming - Beginselen",
+    "Raming - Raming in concreto - Draagwijdte",
+    "Raming - Raming naar billijkheid - Voorwaarden",
+    "Peildatum"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Pouvoir d'appréciation. Evaluation. Date à considérer",
+    "Evaluation - Principes",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Pouvoir d'appréciation. Evaluation. Date à considérer",
+    "Evaluation - Evaluation in concreto - Portée",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Pouvoir d'appréciation. Evaluation. Date à considérer",
+    "Evaluation - Evaluation en équité - Conditions",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Pouvoir d'appréciation. Evaluation. Date à considérer",
+    "Date à considérer",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230918.3F.5",
+  "source_sha256": "0847b756db237f6fc86a20baa18827313ec15efdb0d0b424b1152f9662c06082",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230918.3F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/13/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
