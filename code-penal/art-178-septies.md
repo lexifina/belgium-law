@@ -1,0 +1,2 @@
+Celui qui possède, détient, obtient pour lui-même ou pour autrui, importe, exporte, transporte, vend ou distribue des instruments de paiement autres que les espèces obtenus par des moyens illégaux, contrefaits ou falsifiés dans l'intention de les utiliser, sera puni d'un emprisonnement de six mois à trois ans et d'une amende de vingt-six euros à cinquante mille euros ou d'une de ces peines seulement.
+La tentative de ce délit sera punie d'un emprisonnement de trois mois à un an et d'une amende de cinquante euros à mille euros ou d'une de ces peines seulement.
