@@ -1,0 +1,1 @@
+Hij die nagemaakte of vervalste niet-contante betaalinstrumenten die hij te goeder trouw ontvangen heeft, opnieuw gebruikt of poogt te gebruiken, terwijl hij de ondeugdelijkheid ervan na ontvangst heeft vastgesteld, wordt gestraft met gevangenisstraf van een maand tot een jaar en met geldboete van zesentwintig euro tot duizend euro of met een van die straffen alleen.
