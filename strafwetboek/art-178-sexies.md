@@ -1,0 +1,1 @@
+Hij die nagemaakte of vervalste niet-contante betaalinstrumenten gebruikt of poogt te gebruiken, wordt gestraft met gevangenisstraf van zes maanden tot drie jaar en met geldboete van zesentwintig euro tot vijftigduizend euro.
