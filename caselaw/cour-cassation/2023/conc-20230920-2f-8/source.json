@@ -1,0 +1,39 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2023:CONC.20230920.2F.8",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20230920.2F.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-20",
+  "date_as_printed": "Conclusions du Ministère public du 20 septembre 2023",
+  "published_on_juportal": "2023-11-06",
+  "language": "fr",
+  "role_number": "P.23.1170.F",
+  "case_name_as_published": "PROCUREUR GENERAL COUR D’APPEL BRUXELLES contra C.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INFRACTION - JUSTIFICATION ET EXCUSE - Justification",
+    "MISDRIJF - RECHTVAARDIGING EN VERSCHONING - Rechtvaardiging",
+    "Cause de non-imputabilité visée à l'article 71 du Code pénal - Trouble mental au moment des faits perdurant au moment du jugement - Conséquence",
+    "DEFENSE SOCIALE - INTERNEMENT",
+    "BESCHERMING VAN DE MAATSCHAPPIJ - INTERNERING",
+    "Grond van niet-toerekenbaarheid bedoeld in artikel 71 Strafwetboek - Geestesstoornis op het tijdstip van de feiten die voortduurt op het tijdstip van de uitspraak van het vonnis - Gevolg"
+  ],
+  "fiche": [
+    "INFRACTION - JUSTIFICATION ET EXCUSE - Justification",
+    "Cause de non-imputabilité visée à l'article 71 du Code pénal - Trouble mental au moment des faits perdurant au moment du jugement - Conséquence",
+    "Code pénal 1867 - 08-06-1867 - Art. 71 - 01 Lien ELI No pub 1867060850 L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 9, § 1 - 11 Lien ELI No pub 2014009316",
+    "DEFENSE SOCIALE - INTERNEMENT",
+    "Cause de non-imputabilité visée à l'article 71 du Code pénal - Trouble mental au moment des faits perdurant au moment du jugement - Conséquence",
+    "Code pénal 1867 - 08-06-1867 - Art. 71 - 01 Lien ELI No pub 1867060850 L. du 5 mai 2014 relative à l'internement - 05-05-2014 - Art. 9, § 1 - 11 Lien ELI No pub 2014009316",
+    "Rev.dr.pén.-Revue de droit pénal et de criminologie (bij voorkeur RDPC) - 2024, n° 1, p. 51-62. - KUTY, Franklin; Note'Trouble mental, acquittement et internement'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20230920.2F.8",
+  "source_sha256": "13e071f36654575eedd15262bf144a7b30d0d085a914aabfdb21f025cec08695",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20230920.2F.8_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_28.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
