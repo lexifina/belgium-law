@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230922.1F.10",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230922.1F.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-22",
+  "date_as_printed": "Jugement/arrêt du 22 septembre 2023",
+  "published_on_juportal": "2023-10-12",
+  "language": "fr",
+  "role_number": "C.23.0044.F",
+  "case_name_as_published": "ALLIANCE NATIONALE MUTUALITES CHRET. c. AG INSURANCE s.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "SUBROGATION",
+    "INDEPLAATSSTELLING",
+    "Assurances - Action du subrogé - Prescription - Interruption - Fin",
+    "Verzekering - Rechtsvordering van de gesubrogeerde - Verjaring - Stuiting - Einde"
+  ],
+  "fiche": [
+    "SUBROGATION",
+    "Assurances - Action du subrogé - Prescription - Interruption - Fin",
+    "L. du 25 juin 1992 sur le contrat d'assurance terrestre - 25-06-1992 - Art. 35, § 4 - 32 Lien ELI No pub 1992011257 L. du 25 juin 1992 sur le contrat d'assurance terrestre - 25-06-1992 - Art. 136, § 2, al. 4 - 32 Lien ELI No pub 1992011257"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230922.1F.10",
+  "source_sha256": "95c40703c023668f48aa69e6a651e4b88a4122e3a2cb6af78dff018a11374af1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230922.1F.10_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
