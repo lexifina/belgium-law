@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230922.1F.9",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230922.1F.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-22",
+  "date_as_printed": "Jugement/arrêt du 22 septembre 2023",
+  "published_on_juportal": "2023-10-12",
+  "language": "fr",
+  "role_number": "C.22.0287.F",
+  "case_name_as_published": "M. contra AXA BELGIUM s.a.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "FRAIS ET DEPENS - MATIERE CIVILE - Procédure devant le juge du fond",
+    "GERECHTSKOSTEN - BURGERLIJKE ZAKEN - Procedure voor de feitenrechter",
+    "Frais de conseil technique",
+    "Kosten van de technisch raadsman"
+  ],
+  "fiche": [
+    "FRAIS ET DEPENS - MATIERE CIVILE - Procédure devant le juge du fond",
+    "Frais de conseil technique",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1017 - 04 Lien ELI No pub 1967101055 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1018, al. 1er - 04 Lien ELI No pub 1967101055 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230922.1F.9",
+  "source_sha256": "07aa6a36b3af9b24057f3fe118c04070f0ee9d64eb036f639e7b5aee497348c2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230922.1F.9_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_23.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
