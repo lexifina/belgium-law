@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 122sexdecies de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, inséré par l'arrêté royal du 10 février 2008 et modifié par les arrêtés des 10 novembre 2012 et 27 juin 2018, est complété par le paragraphe 7 rédigé comme suit :
+" § 7. Au sein de la Commission, il est constitué un bureau, chargé de l'organisation des activités de la Commission et de l'entretien des relations entre les experts et la Commission. Le bureau est composé d'un président et d'un vice-président, d'un représentant des organismes assureurs et d'un représentant des universités désignés par le Ministre parmi les membres de la Commission. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 122duovicies du même arrêté, inséré par l'arrêté royal du 10 février 2008, les modifications suivantes sont apportées :
+1° dans le paragraphe 2, alinéa 1er, les mots " au Comité de l'assurance soins de santé de l'Institut " sont remplacés par les mots " à la Commission " ;
+2° dans le même paragraphe, alinéa 2, les mots " Le fonctionnaire dirigeant du Service des soins de santé " sont remplacés par les mots " Le bureau ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. De minister bevoegd voor Sociale Zaken is belast met de uitvoering van dit besluit.
