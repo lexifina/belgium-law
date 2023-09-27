@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230927.2F.5",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230927.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-27",
+  "date_as_printed": "Jugement/arrêt du 27 septembre 2023",
+  "published_on_juportal": "2023-10-12",
+  "language": "fr",
+  "role_number": "P.23.0755.F",
+  "case_name_as_published": "L.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Droit à un procès équitable - Délai raisonnable pour être jugé - Vérification par le juge - Critères",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Délai raisonnable pour être jugé - Vérification par le juge - Critères",
+    "Droit à un procès équitable - Délai raisonnable pour être jugé - Vérification par le juge - Critères - Encombrement du rôle (non)",
+    "Délai raisonnable pour être jugé - Vérification par le juge - Critères - Encombrement du rôle (non)",
+    "Recht op een eerlijk proces - Redelijke termijn om te worden berecht - Toetsing door de rechter - Criteria",
+    "Redelijke termijn om te worden berecht - Toetsing door de rechter - Criteria",
+    "Recht op een eerlijk proces - Redelijke termijn om te worden berecht - Toetsing door de rechter - Criteria - (geen) Overbelasting van de rol",
+    "Redelijke termijn om te worden berecht - Toetsing door de rechter - Criteria - (geen) Overbelasting van de rol"
+  ],
+  "fiche": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Droit à un procès équitable - Délai raisonnable pour être jugé - Vérification par le juge - Critères",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Délai raisonnable pour être jugé - Vérification par le juge - Critères",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Droit à un procès équitable - Délai raisonnable pour être jugé - Vérification par le juge - Critères - Encombrement du rôle (non)",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Délai raisonnable pour être jugé - Vérification par le juge - Critères - Encombrement du rôle (non)",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230927.2F.5",
+  "source_sha256": "d4a379e913c8e8a98d0cceb598ab679f30bc1dac1865fc05f4e6dcba4866ceed",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230927.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
