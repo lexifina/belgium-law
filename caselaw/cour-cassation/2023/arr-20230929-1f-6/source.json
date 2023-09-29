@@ -1,0 +1,39 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230929.1F.6",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230929.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-29",
+  "date_as_printed": "Jugement/arrêt du 29 septembre 2023",
+  "published_on_juportal": "2023-10-23",
+  "language": "fr",
+  "role_number": "C.22.0471.F",
+  "case_name_as_published": "L’IMMOBILIERE DIMO s.a. contra HEMA-BELGIE s.r.l.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "HUUR VAN GOEDEREN - HANDELSHUUR - Einde (Opzegging. Huurhernieuwing. Enz)",
+    "Fin - Intention du preneur de mettre fin au bail - Nature de l'acte - Conséquence - Effectivité - Conditions",
+    "Fin - Notification du congé par le preneur - Notification par lettre recommandée - Effectivité - Condition",
+    "Einde - Voornemen van de huurder om de huur te beëindigen - Aard van de handeling - Gevolg - Doeltreffendheid - Voorwaarden",
+    "Einde - Kennisgeving van de opzegging door de huurder - Kennisgeving bij aangetekende brief - Doeltreffendheid - Voorwaarde"
+  ],
+  "fiche": [
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "Fin - Intention du preneur de mettre fin au bail - Nature de l'acte - Conséquence - Effectivité - Conditions",
+    "L. du 30 avril 1951 CODE CIVIL. - LIVRE III - TITRE VIII - CHAPITRE II, Section 2bis : Des règles particulières aux baux commerciaux - 30-04-1951 - Art. 3, al. 3 - 30 Lien ELI No pub 1951043003",
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "Fin - Notification du congé par le preneur - Notification par lettre recommandée - Effectivité - Condition",
+    "L. du 30 avril 1951 CODE CIVIL. - LIVRE III - TITRE VIII - CHAPITRE II, Section 2bis : Des règles particulières aux baux commerciaux - 30-04-1951 - Art. 3, al. 3 - 30 Lien ELI No pub 1951043003",
+    "BJS-Bulletin juridique social - 2024, n° 716, p. 11. - RUE, Guillaume; Note'Bail commercial: le préavis de résiliation doit parvenir au bailleur' BJS-Bulletin juridique social2 - 2024, n° 719, p. 23. - MORTIER, Stéphanie; Note'Bail commercial: l'information du bailleur par courriel ne permet pas de compenser la réception tardive du courrier recommandé notifiant le congé'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230929.1F.6",
+  "source_sha256": "1738642f2cfd7a93f6170c5eb989439954fbba7dabd7cbf91776fd6d833fc497",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230929.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/19/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
