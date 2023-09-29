@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20230929.1F.11",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20230929.1F.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-09-29",
+  "date_as_printed": "Jugement/arrêt du 29 septembre 2023",
+  "published_on_juportal": "2023-10-24",
+  "language": "fr",
+  "role_number": "F.22.0146.F",
+  "case_name_as_published": "V. contra ETAT BELGE FINANCES",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Formes - Forme et délai prévus pour le dépôt des mémoires et des pièces",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Vormen - Vorm en termijn voor memories en stukken",
+    "Recevabilité du mémoire en réponse",
+    "POURVOI EN CASSATION - MATIERE CIVILE - Formes - Généralités",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Vormen - Algemeen",
+    "Fin de non-recevoir - Irrecevabilité du mémoire en réponse - Pièces auxquelles la Cour peut avoir égard",
+    "Ontvankelijkheid van de memorie van antwoord",
+    "Grond van niet-ontvankelijkheid - Niet-ontvankelijkheid van de memorie van antwoord - Stukken waarop het Hof acht mag slaan"
+  ],
+  "fiche": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Formes - Forme et délai prévus pour le dépôt des mémoires et des pièces",
+    "Recevabilité du mémoire en réponse",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1092, al. 4 - 04 Lien ELI No pub 1967101055",
+    "POURVOI EN CASSATION - MATIERE CIVILE - Formes - Généralités",
+    "Fin de non-recevoir - Irrecevabilité du mémoire en réponse - Pièces auxquelles la Cour peut avoir égard",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1098 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20230929.1F.11",
+  "source_sha256": "2bfe4a65f1b89ee4c5de7cf1b83b3ce1352699c16dcb7c6641c7c9a1f7f76ed7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20230929.1F.11_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/21/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
