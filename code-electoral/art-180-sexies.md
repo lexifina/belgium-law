@@ -1,4 +1,5 @@
 § 1er. Au moyen de la procuration dont le modèle est fixé par le Roi, le Belge résidant à l'étranger qui aura choisi de voter par procuration dans le poste ... consulaire de carrière dans lequel il est inscrit, désigne un mandataire parmi les électeurs inscrits dans ce même poste.
+Si le mandataire désigné décède, est rayé des registres consulaires de la population, perd son droit de vote ou a déjà été désigné comme mandataire par un autre électeur belge de l'étranger, il en est fait communication au Belge résidant à l'étranger dans les plus brefs délais.
 § 2. Chaque mandataire ne peut disposer que d'une seule procuration.
 § 3. La procuration, signée par le mandant, mentionne les nom, prénoms, date de naissance et adresse du mandant et du mandataire. Cette procuration doit parvenir au poste ... consulaire de carrière au moins vingt jours avant les élections.
 § 4. Lorsqu'il convoque au scrutin le mandataire désigné par l'électeur belge résidant à l'étranger, le poste consulaire de carrière sur la liste consulaire des électeurs duquel celui-ci est inscrit annexe à la convocation un extrait de la procuration qui l'habilite à voter en son nom.
