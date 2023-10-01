@@ -1,0 +1,81 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Dispositions générales
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Pour l'application du présent arrêté, on entend par :
+1) Le Ministre : le Ministre de la Justice ou la personne désignée pour superviser la maison de transition ;
+2) Maison de transition : la maison de transition telle que visée à l'article 9/2, § 1er, de la loi du 17 mai 2016 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine;
+3) L'exploitant : STERKhuis (partenariat entre G4S Care et Exodus Nederland)
+4) Le responsable : le responsable de la maison de transition tel que défini à l'article 35 de l'arrêté royal du 22 juillet 2019 fixant les normes d'agrément en tant que maison de transition ;
+5) Le service public fédéral de Justice : le département de budget au sein de la direction générale des établissements pénitentiaires.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Intervention financière de l'Etat fédéral pour la maison de transition de Gand
+
+<a name="LNK0003" href="#LNKR0003">Section 1re.</a> - Conditions d'octroi de l'intervention financière
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. La période d'exploitation de la maison de transition de Gand débute le 1er octobre 2023 et prend fin au plus tard trois ans après cette date, à savoir le 30 septembre 2026.
+§ 2. Une subvention annuelle sous la forme d'un subside est octroyée à l'exploitant de la maison de transition de Gand. Le montant maximal de la subvention est fixé comme suit :
+- première année d'exploitation : 1.429.888,46 € ;
+- deuxième année d'exploitation : 1.401.782,58 € ;
+- troisième année d'exploitation : 1.434.406,6 €.
+§ 3. Le présent arrêté régit l'octroi de l'intervention financière pour les frais justifiés liés au placement de personnes condamnées en maison de transition durant la première année d'exploitation, à savoir la période du 1er octobre 2023 au 30 septembre 2024.
+§ 4. Elle est allouée en vue de l'exploitation de la maison de transition de Gand, laquelle a été agrée par l'arrêté royal du 1er octobre 2023 en tant qu'établissement dans laquelle des condamnés peuvent être placés afin d'y subir leur peine privative de liberté.
+§ 5. Cette subvention ne peut être dépassée. Tous les frais et indexations sont inclus dans cette subvention.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0004"> 3</a>. Les frais subventionnables sont décrits en détail dans l'annexe 1re au présent arrêté royal.
+
+<a name="LNK0004" href="#LNKR0004">Section 2.</a> - Conditions de gestion de la subvention
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. L'exploitant s'engage à gérer la subvention conformément aux dispositions légales et réglementaires applicables aux subventions fédérales.
+§ 2. L'exploitant s'engage à observer scrupuleusement les dispositions décrites dans le présent arrêté royal, complété par les dispositions décrites dans l'arrêté royal fixant les normes en vue de l'agrément comme maison de transition et fixant les conditions d'exploitation pour une maison de transition.
+§ 3. L'exploitant s'engage à justifier toute dépense subventionnable de la manière décrite dans le présent arrêté royal et ses annexes. Les frais non justifiés, par exemple en raison de l'absence de pièces, mais également de la variabilité des coûts, ne sont pas pris en considération pour l'octroi de la subvention.
+§ 4. L'exploitant s'engage à utiliser la subvention de manière loyale, économique et efficiente en vue du fonctionnement de la maison de transition.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. La subvention est octroyée sous la forme d'un montant annuel global.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Seules les dépenses engagées entre le début et la fin de l'année d'exploitation concernée seront prises en considération lors des décomptes annuels.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0005"> 7</a>. § 1er. Le montant annuel de la subvention octroyée ne peut être majoré des soldes disponibles établis à l'occasion des décomptes annuels réalisés par le Service public fédéral Justice.
+§ 2. Aucune réserve ne peut être constituée. Le montant non utilisé à la fin de l'année d'exploitation concernée est définitivement perdu.
+§ 3. Toute subvention non justifiée qui aurait été versée doit être restituée.
+§ 4. Toute autre subvention ou rentrée éventuelle est signalée de manière transparente, notamment en vue d'éviter un double financement.
+§ 5. Toute rentrée générée par l'exploitant à la suite de l'exploitation de la maison de transition (par exemple, par la vente à des visiteurs, par le travail des personnes condamnées (autre que l'entretien domestique)) doit être reversée au bénéfice des résidents de la maison de transition d'une manière préalablement approuvée par l'autorité.
+
+<a name="LNK0005" href="#LNKR0005">Section 3.</a> - Modalités de paiement
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. § 1er. Sous réserve des crédits disponibles, la liquidation de la subvention est réalisée selon un système d'avance récupérable/solde.
+§ 2. L'avance de la subvention est fixée à 70 % du montant de l'allocation annuelle (à savoir 1.000.921,92 €). Cette avance est versée lors de l'entrée en vigueur du présent arrêté et chaque fois au début d'une nouvelle année d'exploitation.
+§ 3. Le solde de la subvention est le montant restant (30% maximum) de la subvention annuelle. Ce solde est versé après contrôle approfondi et approbation du dossier financier soumis par l'exploitant.
+§ 4. Afin de garantir au maximum la continuité de l'exploitation dans cette mission, le calcul du solde peut être adapté au pro rata dans les cas suivants, et ce, pour autant que la cause ne soit pas imputable à l'autorité subsidiante ou à la force majeure :
+- le remplissage progressif jusqu'à l'occupation maximale prend un temps plus long que celui convenu au départ ;
+- l'occupation moyenne de la maison de transition durant l'année d'exploitation antérieure est inférieure à 90 % ;
+- La durée de séjour d'un résident individuel est supérieure à six mois en raison de défaillances de l'exploitation.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0006"> 9</a>. Le paiement de la subvention peut être interrompu, adapté, recouvré ou arrêté dans les cas suivants :
+- faute grave ou négligence dans le chef de l'exploitant ;
+- usage impropre de la subvention ;
+- constatation de la non-exécution d'une partie ou de la totalité de la mission.
+
+<a name="LNK0006" href="#LNKR0006">Section 4.</a> - Mécanismes de contrôle
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. § 1er. Deux fois par année d'exploitation, l'exploitant remet au Service public fédéral Justice une justification des dépenses de la manière décrite à l'annexe 2 :
+- au cours du septième mois de l'année d'exploitation concernée, il présente un rapport financier intermédiaire contenant tous les rapports demandés relatifs aux six premiers mois de l'année d'exploitation ;
+- à la fin de l'année d'exploitation, et au plus tard un mois après la fin de l'année, il présente un dossier financier ; celui-ci contient le rapport financier du deuxième semestre de l'année d'exploitation et le rapport d'activité de l'année d'exploitation concernée.
+§ 2. Toute dépense soumise doit être accompagnée d'une pièce justificative et d'une preuve de paiement, comme décrit à l'annexe 2.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Les originaux sont conservés durant sept ans.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. § 1er. Le Service public fédéral Justice contrôle les éléments du dossier financier présenté, visé à l'article 10 du présent arrêté.
+§ 2. Ce contrôle porte sur :
+1° la recevabilité des pièces justificatives présentées.
+Un document est considéré comme recevable lorsque les conditions et obligations définies dans le présent arrêté et ses annexes sont remplies.
+2° le respect des conditions fixées par le présent arrêté.
+§ 3. Le Service public fédéral Justice peut demander des informations complémentaires. L'absence de transmission des compléments requis peut entraîner le refus des dépenses concernées.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Le solde est payé après l'acceptation du dossier financier et des pièces justificatives (cf. annexe 2) par le Service public fédéral Justice, et ce, au plus tard dans les deux mois qui suivent la réception de toutes les pièces justificatives de l'ensemble de l'année d'exploitation.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0007"> 14</a>. Si le dossier financier et les pièces justificatives y afférentes ne sont pas remis (intégralement), la dépense ne sera pas prise en considération. Cela signifie qu'une subvention déjà payée peut être recouvrée ou que le paiement de la tranche suivante (avance ou solde) de la subvention sera suspendu ou adapté.
+
+<a name="LNK0007" href="#LNKR0007">Section 5.</a> - Dispositions transitoires
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. Cet arrêté entre en vigueur le 1er octobre 2023.
+
+<a name="Art.16" href="#Art.15">Art.</a> 16. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
