@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les articles 1er, alinéa 1er, 4°, et 2, 3°, de l'arrêté royal du 20 décembre 2020 portant exécution de l'article 4, alinéa 2, de la loi du 13 mars 2013 portant réforme de la retenue de 3,55 au profit de l'assurance obligatoire soins de santé et de la cotisation de solidarité effectuées sur les pensions, sont abrogés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Pensions dans ses attributions et le ministre qui a les Affaires sociales dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
