@@ -1,0 +1,100 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Définitions
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Pour l'application du présent arrêté, on entend par :
+1° " Ministre " : le Ministre qui a l'Intérieur dans ses attributions ;
+2° " Direction générale Sécurité et Prévention " : la Direction Sécurité privée de la Direction générale Sécurité et Prévention du Service public fédéral Intérieur ;
+3° " l'auteur de la proposition de projet " : une personne morale qui participe seule ou plusieurs personnes morales qui participent ensemble à l'appel à propositions de projet visé à l'article 2. Ces personnes morales sont établies en Belgique ;
+4° " le bénéficiaire " : le bénéficiaire de la subvention octroyée sur la base du présent arrêté.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Appel à projets
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans les limites des crédits disponibles, la Direction générale Sécurité et Prévention organise un appel à projets relatifs à la sécurité lors des matches de football. Le montant total disponible pour 2023 s'élève à 75.000 euros.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0003"> 3</a>. L'appel à projet visé à l'article 2 concerne l'octroi d'un soutien financier unique à des projets innovants dans le but de promouvoir la sécurité lors des matches de football.
+La subvention maximale par projet est limitée à 50.000 euros.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Recevabilité, sélection et choix des propositions de projet
+
+<a name="LNK0004" href="#LNKR0004">Section 1ère.</a> Critères de recevabilité des propositions de projet
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Pour être recevable, une proposition de projets doit :
+1° Parvenir par mail à la Direction générale Sécurité et Prévention à l'adresse mentionnée sur le formulaire " appel à propositions de projets innovants ", au plus tard à la date qui est indiquée sur le même formulaire d'appel à projets. Ce formulaire est rédigé en français, néerlandais et allemand et est mis à disposition par la Direction générale Sécurité et Prévention ;
+2° Etre accompagnée, au plus tard dans le délai visé à l'article 5, alinéa 2, d'un dossier qui comprend les documents suivants :
+a) les statuts de l'auteur de la proposition de projet ;
+b) une déclaration sur l'honneur selon laquelle, à la date d'introduction de la proposition de projet, son auteur n'a pas d'arriérés auprès de l'Office national de Sécurité sociale, n'a pas de dettes fiscales, n'est pas en état de faillite, n'a pas introduit de requête en réorganisation judiciaire ;
+c) une description précise de la proposition de projet dans laquelle est décrite la manière dont le projet s'inscrit dans l'objectif visé à l'article 6, 1° ;
+d) un plan d'approche expliquant en détail la manière dont le projet sera exécuté, ainsi que le calendrier d'exécution avec finalisation du projet ;
+e) une proposition de budget pour l'exécution du projet contenant un calcul chiffré pour la durée du projet ainsi qu'un plan financier exposant notamment la justification de la nécessité et de la valeur ajoutée de la subvention.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0005"> 5</a>. Dans un délai de 15 jours ouvrables à dater de la réception d'une proposition de projet, la Direction générale Sécurité et Prévention adresse à l'auteur de la proposition de projet, un accusé de réception mentionnant que le dossier est complet ou précisant les pièces qui sont encore à communiquer.
+Sous peine d'irrecevabilité du projet, les pièces manquantes sont communiquées à la Direction générale Sécurité et Prévention dans un délai de dix jours ouvrables suivant la réception de la demande.
+
+<a name="LNK0005" href="#LNKR0005">Section 2.</a> Critères de sélection des propositions de projets
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#LNK0006"> 6</a>. Pour être sélectionnées par la Direction générale Sécurité et Prévention, les propositions de projets recevables respectent les critères de sélection suivants :
+1° La concordance de la proposition de projet avec les projets visés dans le présent arrêté royal, à savoir des projets innovants visant à promouvoir la sécurité lors de matches de football, à condition qu'ils s'inscrivent dans le champ de compétences de l'autorité fédérale visées au titre II de la Loi spéciale du 8 août 1980 de réformes institutionnelles ;
+2° La proposition de projet ne bénéficie pas déjà de subventions pour la réalisation de ce projet ;
+3° La proposition de projet porte sur une activité qui se situe en dehors du fonctionnement normal de l'organisation. Le fonctionnement journalier d'une organisation n'est pas considéré comme un projet ;
+4° La proposition de projet doit être exécutée au cours des 12 prochains mois ;
+5° Une capacité opérationnelle et organisationnelle de l'auteur de la proposition de projet suffisante. L'auteur de la proposition de projet apporte la preuve qu'il dispose d'une capacité opérationnelle et organisationnelle suffisante.
+
+<a name="LNK0006" href="#LNKR0006">Section 3.</a> Critères de choix des propositions de projets
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0007"> 7</a>. § 1er Le choix des projets se fait sur la base des critères de choix suivants :
+1° La contribution à la politique de sécurité dans et autour des stades, en partant du principe de tolérance zéro pour des infractions en matière de racisme et de discrimination, l'utilisation illégale d'objets pyrotechniques, et la violence physique, en particulier la contribution à la réalisation d'un ou de plusieurs des cinq piliers du plan d'action " Ensemble pour un football en toute sécurité " ;
+2° Le caractère innovant ou progressiste. Par le caractère innovant on entend la manière dont le projet innove par rapport aux meilleures technologies et/ou pratiques existantes. Par le caractère progressif on entend la manière dont le projet se distingue de la technologie et/ou de la pratique existante et dont il améliore ou développe cette technologie et/ou pratique existante ;
+3° L'élaboration qualitative du projet, en accordant une attention particulière à l'échelonnement transparent des activités et à l'orientation des résultats.
+§ 2 Un classement des projets recevables est établi sur la base d'un score global obtenu sur ces critères de choix. Les projets obtenant le score global le plus élevé sont sélectionnés, en fonction du budget disponible.
+Dans le calcul du score global des propositions de projet, les critères de choix obtiennent la pondération suivante :
+1° Critère de choix 1 : 40 % ;
+2° Critère de choix 2 : 40 % ;
+3° Critère de choix 3 : 20 % ;
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 4.</a> - Analyse des propositions de projet
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. § 1er La Direction générale Sécurité et Prévention analyse les propositions de projet au regard de tous les critères de choix mentionnés à l'article 7.
+§ 2 La Direction générale Sécurité et Prévention adresse au Ministre la liste des propositions de projet introduites. Elle joint à cette liste un avis motivé.
+§ 3 Pour les propositions de projet qu'elle a sélectionnées, l'avis motivé de la Direction générale Sécurité et Prévention porte sur le contenu des propositions de projet au regard de chaque critère de choix.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0008"> 9</a>. § 1er Il est fixé par arrêté ministériel de choisir un ou plusieurs projets parmi les projets repris sur la liste qui est proposée par la Direction générale Sécurité et Prévention, conformément à l'article 8, § 2.
+§ 2 Une subvention est accordée aux projets choisis conformément au paragraphe 1er.
+
+<a name="LNK0008" href="#LNKR0008">CHAPITRE 5.</a> - La subvention
+
+<a name="LNK0009" href="#LNKR0009">Section 1ère.</a> Paiement de la subvention
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0010"> 10</a>. Le montant de la subvention est versé en deux tranches :
+1° Une première tranche de 40 % est versée après la signature de l'arrêté ministériel d'octroi de la subvention et après liquidation des dépenses ;
+2° Une deuxième tranche de 60 % est versée lors de la délivrance d'une évaluation favorable du projet telle que visée à l'article 13, § 1er et lors de la remise du dossier financier tel que visé à l'article 11.
+
+<a name="LNK0010" href="#LNKR0010">Section 2.</a> L'affectation de la subvention et le contrôle
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Le bénéficiaire doit rassembler toutes les dépenses liées à l'exécution du projet dans un dossier financier qui, au plus tard un mois après la fin du projet, est transmis à la Direction générale Sécurité et Prévention.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#LNK0011"> 12</a>. Le bénéficiaire informe immédiatement la Direction générale Sécurité et Prévention de tout évènement ayant ou pouvant avoir un impact sur la continuité et la bonne exécution du projet.
+
+<a name="LNK0011" href="#LNKR0011">CHAPITRE 6.</a> - Suivi et évaluation
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. § 1er Le bénéficiaire doit rédiger un rapport d'évaluation concernant l'exécution du projet sur la base des critères de choix.
+§ 2 Le bénéficiaire doit également rédiger un rapport d'évaluation concernant l'impact concret du projet sur la sécurité lors des matches de football.
+§ 3 Les modèles de ces rapports d'évaluation sont mis à disposition par la Direction générale Sécurité et Prévention.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Les rapports d'évaluation, tels que visés à l'article 13, doivent être transmis, dûment complétés, à la Direction générale Sécurité et Prévention, au plus tard un mois après la fin du projet.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0012"> 15</a>. La Direction générale Sécurité et Prévention rédigera un rapport d'évaluation global qui peut être utilisé pour l'élaboration de futures décisions politiques.
+
+<a name="LNK0012" href="#LNKR0012">CHAPITRE 7.</a> - Sanctions et recouvrement
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. En cas de non-respect des conditions définies dans le présent arrêté ou de la décision d'octroi de la subvention, la Direction générale Sécurité et Prévention peut prendre les mesures suivantes :
+1° mettre en demeure le bénéficiaire de se conformer aux conditions définies dans le présent arrêté ou la décision d'octroi de la subvention ;
+2° imposer des conditions supplémentaires.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0013"> 17</a>. Le Ministre ordonne le remboursement total ou partiel de la subvention dans les cas suivants :
+1° le non-respect des conditions d'octroi de la subvention en dépit de la mise en demeure visée à l'article 16, 1° ;
+2° la non-motivation de l'utilisation de la subvention au regard de l'objectif visé ;
+3° l'utilisation de la subvention à d'autres fins que celles pour lesquelles elle a été octroyée ;
+4° la non-utilisation d'une partie des crédits.
+
+<a name="LNK0013" href="#LNKR0013">CHAPITRE 8.</a> - Disposition finale
+
+<a name="Art.18" href="#Art.17">Art.</a> 18. Le ministre qui a l'Intérieur dans ses attributions est chargé de l'exécution du présent arrêté.
