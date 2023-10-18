@@ -1,0 +1,139 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le règlement d'ordre intérieur de l'auditorat auprès de la Chambre nationale des notaires, adopté par la Chambre nationale des notaires le 22 juin 2023, annexé au présent arrêté, est approuvé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Entrent en vigueur le jour de la publication du présent arrêté au Moniteur belge :
+1° l'article 61 de la loi du 22 novembre 2022 portant modification de la loi du 16 mars 1803 contenant organisation du notariat, introduisant un conseil de discipline pour les notaires et les huissiers de justice dans le code judiciaire et des dispositions diverses ;
+2° le présent arrêté.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0001"> 3</a>. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
+
+Annexe à l'arrêté royal du 12 octobre 2023 fixant l'entrée en vigueur de l'article 61 de la loi du 22 novembre 2022 portant modification de la loi du 16 mars 1803 contenant organisation du notariat, introduisant un conseil de discipline pour les notaires et les huissiers de justice dans le code judiciaire et des dispositions diverses et portant approbation du règlement d'ordre intérieur de l'auditorat auprès de la Chambre nationale des notaires établi par la Chambre nationale des notaires
+Règlement d'ordre intérieur
+de l'auditorat auprès de la Chambre nationale des notaires
+Adopté par l'assemblée générale
+de la Chambre nationale des notaires le 22 juin 2023
+Introduction
+Le présent règlement est établi sur base de l'article 97quater, § 4 de la loi du 16 mars 1803 contenant organisation du notariat.
+
+<a name="LNK0001" href="#LNKR0001">Titre Ier.</a> Définitions Article 1er. Dans le présent règlement on entend par :
+1° la loi : la loi du 16 mars 1803 contenant organisation du notariat, modifié en dernier lieu le 22 novembre 2022;
+2° l'auditorat : l'organe institué par la loi, composé d'une section néerlandophone et d'une section francophone, de trois membres chacune, tel que prévu à l'article 97quater, § 1er de la loi;
+3° auditeur : membre de la section néerlandophone ou francophone de l'auditorat;
+4° plainte : une accusation valablement portée auprès de l'autorité compétente contre un notaire, un candidat-notaire ou un notaire honoraire pour des faits portant atteinte à la dignité du notariat ou constituant un manquement aux devoirs de notaire, de candidat-notaire ou de notaire honoraire;
+5° la Chambre nationale : la Chambre nationale des notaires, visée à la section III du titre III de la loi;
+6° l'assemblée générale : l'assemblée générale de la Chambre nationale, visée à l'article 92, § 1, 1° de la loi;
+7° le comité de direction : le comité de direction de la Chambre nationale, visé à l'article 92, § 1, 2° de la loi;
+8° l'outil numérique : le système de gestion des dossiers et plateforme de communication numériques de l'auditorat mis à disposition par la Chambre nationale.
+
+<a name="LNK0002" href="#LNKR0002">Titre II.</a> Tâches
+
+<a name="Art.2" href="#Art.3">Art.</a> <a href="#LNK0003"> 2</a>. L'auditorat exerce ses compétences et ses tâches en toute indépendance et impartialité.
+
+<a name="LNK0003" href="#LNKR0003">Titre III.</a> Composition Généralités
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le comité de direction et l'assemblée générale veillent à la continuité de la composition de l'auditorat.
+Lors de la composition de l'auditorat, il est tenu compte dans toute la mesure du possible d'une répartition territoriale optimale.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Chaque section est composée de trois membres effectifs. Trois auditeurs de réserve sont également élus pour chaque section.
+Un auditeur de réserve poursuit le mandat d'un auditeur qui ne peut pas terminer son mandat, comme prévu à l'article 13. L'auditeur de réserve est appelé dans l'ordre de classement, en fonction du nombre de voix.
+Candidature
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le comité de direction publie un appel à candidats sur l'intranet du notariat (eNotariat) et le porte à la connaissance des chambres des notaires qui, à leur tour, le transmettent aux membres et notaires honoraires éligibles de leur compagnie.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Les candidats doivent soumettre leur candidature par écrit au comité de direction dans un délai d'un mois à compter de la publication sur l'eNotariat.
+Pour être recevable, la candidature doit contenir les éléments suivants :
+- l'indication du mandat (effectif ou de réserve) pour lequel on pose sa candidature ;
+- un extrait du casier judiciaire délivré après la publication de l'appel aux candidats ;
+- une attestation de la chambre des notaires dont il ressort que le candidat n'a encouru aucune condamnation disciplinaire au cours des cinq dernières années précédant la candidature ;
+- curriculum vitae;
+- une déclaration sur l'honneur selon laquelle le candidat n'exerce aucune fonction incompatible avec le mandat au moment de la déclaration de la candidature, comme prévu à l'article 97quater, § 1er, alinéa 4 de la loi.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le comité de direction peut recueillir l'avis de la chambre des notaires de la compagnie à laquelle appartient le candidat, en vue d'une éventuelle présentation.
+Election
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le comité de direction présente les candidats par ordre alphabétique à l'assemblée générale au plus tard 15 jours avant la réunion au cours de laquelle ils doivent être élus.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Les auditeurs effectifs et de réserve des sections néerlandophone et francophone sont élus respectivement par les membres de l'assemblée générale du rôle linguistique français ou néerlandais.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Pour chaque tour de scrutin, le bulletin de vote contient les noms des candidats proposés. Ils sont présentés par ordre alphabétique. Pour voter valablement, l'électeur doit, à chaque tour de scrutin, émettre autant de suffrages qu'il y a de mandats à attribuer.
+Sont élus les candidats qui obtiennent la majorité absolue des suffrages exprimés au premier tour. Si le nombre de candidats ayant obtenu cette majorité est supérieur au nombre de mandats à pourvoir, les candidats ayant obtenu le plus de voix sont élus.
+Si tous les mandats ne sont pas attribués au premier tour, ou en cas de partage des voix, il est procédé à un second tour pour les mandats restants selon les mêmes règles.
+Si, après le deuxième tour de scrutin, tous les mandats n'ont pas encore été attribués, il est procédé à un troisième tour de scrutin. Sont élus, lors de ce troisième tour, les candidats qui ont obtenu le plus de voix et, en cas de partage des voix, le candidat le plus âgé.
+Durée du mandat
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. L'assemblée générale fixe la date à laquelle le mandat d'auditeur prend cours.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Le mandat d'auditeur est de trois ans et est renouvelable une fois consécutivement. Un ancien auditeur peut à nouveau être élu s'il n'a plus exercé ce mandat depuis plus d'un an.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Sous réserve du mode de cessation prévu par la loi, le mandat d'auditeur prend fin par le dépôt de sa démission en tant qu'auditeur, pour cause de décès ou à la suite d'une période ininterrompue d'incapacité d'au moins trois mois.
+Le mandat prend fin lorsqu'un auditeur est révoqué pour faute grave, qu'il est suspendu ou qu'une condamnation disciplinaire est prononcée à son encontre.
+L'assemblée générale relève l'auditeur de son mandat s'il existe des motifs graves qui rendent impossible l'exercice de son mandat. Le vote a lieu au scrutin secret.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. En cas de remplacement en cours de mandat, le mandat de l'auditeur qui est remplacé est achevé.
+Dans ce cas, le comité de direction convoque l'auditeur de réserve en précisant la date de début de son mandat.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0004"> 15</a>. En l'absence d'auditeurs de réserve, le comité de direction procède conformément à l'article 5.
+L'élection du nouvel auditeur a lieu lors de l'assemblée générale suivante ou lors d'une assemblée générale extraordinaire.
+
+<a name="LNK0004" href="#LNKR0004">Titre IV.</a> Fonctionnement Organisation
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. Chaque section désigne un auditeur principal qui est responsable de la direction de la section et de la coopération pratique avec le secrétariat et l'autre section.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. L'auditorat se réunit en collège, les deux sections réunies, et est présidé par l'auditeur principal présent le plus âgé.
+L'auditorat discute de tous les dossiers conjointement.
+Chaque section statue séparément sur les affaires disciplinaires et les plaintes ayant donné lieu à une affaire disciplinaire et relevant de sa compétence. Celles-ci font l'objet d'un rapport distinct, signé par l'auditeur principal de la section concernée. Si seuls deux auditeurs sont présents ou dans le cas prévu à l'article 23, le plus âgé a voix prépondérante.
+Pour les autres sujets, les auditeurs statuent conjointement et un rapport conjoint est établi et signé par les deux auditeurs principaux.
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. Les réunions de l'auditorat peuvent se tenir physiquement ou numériquement sur décision des auditeurs principaux.
+Les réunions physiques se déroulent dans des locaux mis à disposition par la Chambre nationale.
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. L'auditorat se réunit régulièrement afin de respecter les délais légaux, et au moins une fois par mois.
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. Les auditeurs principaux des deux sections établissent avec le secrétariat l'ordre du jour de chaque réunion et le rapport. Ce rapport est approuvé lors de la réunion suivante.
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. Les réunions de l'auditorat sont privées et ne sont pas accessibles au public. Les débats sont strictement confidentiels.
+Attribution des dossiers
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#Art.23"> 22</a>. L'auditeur principal désigne un auditeur responsable pour chaque dossier dans les affaires disciplinaires. Lors de cette désignation, il est tenu compte d'éventuelles incompatibilités sur le plan professionnel, territorial ou humain.
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>. Un auditeur ne peut être désigné pour un dossier dans lequel il a un intérêt ou dans lequel il est concerné, directement ou indirectement, personnellement ou en application du droit des sociétés.
+Un auditeur ne peut être désigné pour un dossier dans lequel il existe un quelconque élément susceptible de mettre en cause son impartialité.
+Dans ces cas, l'auditeur en informe sans délai les autres auditeurs de sa section. L'auditeur en question soit n'est pas désigné soit est remplacé.
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. L'auditeur établit un rapport et un avis pour chaque dossier qui lui est confié.
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#Art.26"> 25</a>. Si l'auditorat décide d'engager des poursuites devant le conseil de discipline, chaque auditeur agit pour les dossiers qui lui sont confiés. Il peut être remplacé par un autre auditeur de la section compétente en vertu du principe de l'unité de l'autorité chargée des poursuites.
+Rapport annuel
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#LNK0005"> 26</a>. L'auditorat soumet chaque année au comité de direction un rapport sur le fonctionnement pratique et administratif, le volume de travail et les expériences, sans mentionner des dossiers ou noms spécifiques. Ce rapport est transmis au plus tard le 30 avril pour l'année précédente.
+
+<a name="LNK0005" href="#LNKR0005">Titre V.</a> Secrétariat
+
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. Le secrétariat est assuré par des collaborateurs désignés par le comité de direction, en tenant compte des qualifications requises et d'un nombre suffisant de collaborateurs, pour le bon fonctionnement de l'auditorat.
+
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. Le secrétariat est chargé du soutien administratif au sens le plus large, dans le cadre du fonctionnement de l'auditorat.
+
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. Le secrétariat conserve dans l'outil numérique, entre autres, les éléments suivants :
+- les dossiers reçus (en cours, classés et traités) ;
+- les règlements amiables des chambres des notaires et de l'auditorat ;
+- les mesures préventives adoptées ;
+- les jugements et arrêts disciplinaires ;
+- les archives.
+
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0006"> 30</a>. La communication entre le secrétariat et l'auditorat, ainsi qu'en provenance et avec les chambres des notaires, se fait par le biais de l'outil numérique.
+La communication avec des tiers et avec les autorités disciplinaires se fait sous forme papier ou numérique, ou via l'outil numérique.
+
+<a name="LNK0006" href="#LNKR0006">Titre VI.</a> Frais
+
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#Art.32"> 31</a>. Le budget annuel de l'auditorat est fixé par l'assemblée générale lors du budget.
+
+<a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. Les auditeurs ont droit à une indemnité et au remboursement de leurs frais de déplacement et de leurs frais administratifs, comme déterminé par le comité de direction dans le respect du budget susmentionné. Le comité de direction peut décider d'accorder cette indemnité sur une base forfaitaire.
+
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#LNK0007"> 33</a>. La Chambre nationale souscrit la police d'assurances nécessaire pour les auditeurs dans l'exercice de leur mandat.
+
+<a name="LNK0007" href="#LNKR0007">Titre VII.</a> Dispositions finales Disposition transitoire
+
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>. Afin d'assurer la continuité de l'auditorat, lors de la première constitution de l'auditorat, un auditeur est élu dans chaque section pour un an, un deuxième pour deux ans et un troisième pour le terme normal de trois ans. A cet effet le comité de direction détermine la durée du mandat de chaque auditeur présenté.
+Entrée en vigueur
+
+<a name="Art.35" href="#Art.34">Art.</a> 35. Le présent règlement entre en vigueur le jour de la publication au Moniteur belge de l'arrêté royal portant son approbation.
+Vu pour être annexé à Notre arrêté du 12 octobre 2023 fixant l'entrée en vigueur de l'article 61 de la loi du 22 novembre 2022 portant modification de la loi du 16 mars 1803 contenant organisation du notariat, introduisant un conseil de discipline pour les notaires et les huissiers de justice dans le code judiciaire et des dispositions diverses et portant approbation du règlement d'ordre intérieur de l'auditorat auprès de la Chambre nationale des notaires établi par la Chambre nationale des notaires.
