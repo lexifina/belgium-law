@@ -1,0 +1,29 @@
+{
+  "id": "2023045189",
+  "title": "31 AOUT 2023. - Arrêté ministériel fixant le taux d'intérêt maximum de référence pour les opérations d'assurance-vie de longue durée",
+  "source_title": "31 AOUT 2023. - Arrêté ministériel fixant le taux d'intérêt maximum de référence pour les opérations d'assurance-vie de longue durée",
+  "act": "arrete/economie-pme-classes-moyennes-energie/2023/2023045189",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-10-10&numac_search=2023045189&page=52&lg_txt=F&caller=list&2023045189=9&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "18c693b5851ab245ec0ce5732a796d06923136e1f73258dd0c497c59edb371b6",
+  "source_issuer": "Economie, PME, Classes moyennes et Energie",
+  "made": "2023-08-31",
+  "published": "2023-10-10",
+  "in_force": "2023-10-20",
+  "in_force_basis": "Justel: Entrée en vigueur : 20 octobre 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Economie, PME, Classes moyennes et Energie",
+    "Publication": "10 octobre 2023",
+    "Numéro": "2023045189",
+    "page": "84844",
+    "Dossier numéro": "2023-08-31/11",
+    "Entrée en vigueur": "20 octobre 2023"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 61,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-10-20"
+}

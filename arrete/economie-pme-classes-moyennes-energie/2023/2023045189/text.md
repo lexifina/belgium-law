@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Le taux d'intérêt technique maximum pour les contrats d'assurance sur la vie, visé à l'article 216, § 1er, de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance, est maintenu à 2 %.
