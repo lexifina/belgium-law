@@ -1,0 +1,15 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le service visé à l'article 126/1, à l'article 126/3, § 1er, § 2 et § 6, alinéas 6 et 8 et à l'article 127/1 de la loi du 13 juin 2005 relative aux communications électroniques est le National Technical et Tactical Support Unit (NTSU) des unités spéciales de la police fédérale.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les données horaires qui doivent être enregistrées pour les données conservées en vertu des articles 126 et 126/2 de la loi du 13 juin 2005 relative aux communications électroniques sont précises à la seconde près, en se référant au système de la division du jour en 24 heures. L'indication de l'heure doit toujours se faire par référence au fuseau horaire auquel la Belgique appartient et en tenant compte des périodes de l'heure d'été et de l'heure d'hiver.
+Les opérateurs qui conservent les données visées aux articles 126 et 126/2 de la loi du 13 juin 2005 relative aux communications électroniques synchronisent l'horloge de leurs systèmes utilisés pour l'enregistrement de toutes les heures mentionnées aux articles précités avec le signal horaire GPS.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er.Les opérateurs qui offrent un réseau de communications électroniques utilisent les paramètres techniques suivants pour limiter la conservation de données aux zones géographiques visées à l'article 126/3, de la loi du 13 juin 2005 relative aux communications électroniques :
+1° pour ce qui concerne les services mobiles, l'antenne ou les antennes couvrant la zone géographique concernée ;
+2° pour ce qui concerne les services fixes, le ou les derniers points d'agrégations, entendus comme les points qui agrègent les points de terminaison du réseau, couvrant la zone géographique concernée.
+§ 2. Le NTSU communique aux Cellules de coordination des opérateurs visées à l'article 127/3, § 1er, de la loi du 13 juin 2005 relative aux communications électroniques, de manière sécurisée, les zones qui font l'objet d'une conservation ainsi que la durée de conservation à laquelle chacune de ces zones est soumise.
+Ces informations portent la mention " DIFFUSION RESTREINTE " au sens de l'arrêté royal du 24 mars 2000 portant exécution de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+§ . 3. Un opérateur visé à l'article 126/1, § 1, alinéa 1er, de la loi du 13 juin 2005 relative aux communications électroniques met en oeuvre l'obligation de conservation visée dans cet article dans les 15 jours calendriers qui suivent le jour de la réception du NTSU des zones et des durées de conservation et en informe immédiatement le NTSU conformément aux directives que le NTSU lui a communiquées.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'arrêté royal du 19 septembre 2013 portant exécution de l'article 126 de la loi du 13 juin 2005 relative aux communications électroniques est abrogé.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Télécommunications dans ses attributions est chargé de l'exécution du présent arrêté.
