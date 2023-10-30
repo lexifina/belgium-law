@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er, § 5, de l'arrêté royal du 6 décembre 2020 fixant les conditions de facturation entre les zones de secours dans le cadre de l'aide adéquate la plus rapide en l'absence de convention est complété par un alinéa rédigé comme suit :
+" La référence de l'alinéa premier vise les articles 3 à 9 et 16 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 19 novembre 2014 relatif aux redevances à percevoir en contrepartie des services rendus par le Service d'incendie et d'aide médicale urgente de la Région de Bruxelles-Capitale tels qu'ils sont applicables à la date de l'arrêté royal. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre ayant l'Intérieur dans ses attributions est chargé de l'exécution du présent arrêté.
