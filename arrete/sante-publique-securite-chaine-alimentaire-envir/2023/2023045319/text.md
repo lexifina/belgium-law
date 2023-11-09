@@ -1,0 +1,101 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1.</a> - Champ d'application et définitions
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. Le présent arrêté précise les critères d'agrément spécifiques pour :
+1° les médecins qui souhaitent être agréés comme médecin spécialiste pour le titre professionnel particulier de niveau 2 de médecin spécialiste en gynécologie-obstétrique tel que visé à l'article 1er de l'arrêté royal du 25 novembre 1991 établissant la liste des titres professionnels particuliers réservés aux praticiens de l'art médical, en ce compris l'art dentaire ;
+2° les médecins spécialistes qui souhaitent être agréés comme maître de stage en gynécologie-obstétrique ;
+3° l'agrément des services de stage en gynécologie-obstétrique.
+Pour être agréés, les médecins spécialistes en gynécologie-obstétrique, les maîtres de stage et les services de stage en gynécologie-obstétrique doivent répondre aux critères d'agrément fixés dans le présent arrêté.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0002"> 2</a>. Pour l'application du présent arrêté, il faut entendre par :
+1° arrêté fixant les critères généraux : l'arrêté ministériel du 23 avril 2014 fixant les critères généraux d'agrément des médecins spécialistes, des maîtres de stage et des services de stage ;
+2° candidat spécialiste : médecin, titulaire d'un titre de niveau 1 tel que visé dans l'arrêté précité du 25 novembre 1991, en formation pour l'obtention du titre professionnel particulier de niveau 2 de médecin spécialiste en gynécologie-obstétrique.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Critères d'agrément spécifiques pour le médecin spécialiste en gynécologie-obstétrique
+
+<a name="LNK0003" href="#LNKR0003">Section 1re.</a> - Dispositions générales
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Sans préjudice du chapitre 2 de l'arrêté fixant les critères généraux, le médecin spécialiste en gynécologie-obstétrique satisfait aux dispositions du présent chapitre.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le candidat spécialiste peut être agréé comme médecin spécialiste en gynécologie-obstétrique après avoir suivi, sans préjudice de l'application de l'article 4 de l'arrêté fixant les critères généraux, une formation professionnelle à temps plein de six ans comprenant une partie théorique et une partie pratique pour l'acquisition des compétences médicales visées à l'annexe 3 ainsi que des compétences scientifiques, communicatives, organisationnelles, éthiques et juridiques pertinentes pour la spécialité.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0004"> 5</a>. La formation théorique porte au moins sur les domaines repris à l'annexe 1.
+Le candidat spécialiste suit annuellement au moins 32 heures de formation théorique telle que visée à l'alinéa 1er.
+Le candidat spécialiste participe également chaque année à la formation permanente.
+
+<a name="LNK0004" href="#LNKR0004">Section 2.</a> - Le trajet de formation
+
+<a name="LNK0005" href="#LNKR0005">Sous-section 1re.</a> - La formation de base
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Les quatre premières années de formation comprennent au moins 24 mois de formation en obstétrique, 20 mois de formation en gynécologie et, après la première année, 4 mois de formation de base en infertilité.
+Les deux premières années de formation doivent comprendre au moins six mois de formation en obstétrique et six mois de formation en gynécologie.
+Dans un service de stage combinant l'obstétrique et la gynécologie, le temps est considéré comme mi-temps obstétrique et mi-temps gynécologie.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Au cours des quatre premières années de la formation, le candidat acquiert des connaissances théoriques et cliniques approfondies, notamment en anatomie, physiologie et pathophysiologie de la reproduction humaine, sexualité et grossesse, ainsi qu'en prévention, diagnostic et traitement médical et chirurgical des affections gynécologiques et obstétricales.
+A cette fin, le candidat participe aux soins des patientes, qui consistent en des consultations pré- et postnatales, des consultations gynécologiques, la pratique de l'accouchement et la technique des interventions chirurgicales en gynécologie et obstétrique.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0006"> 8</a>. A la fin de la quatrième année de formation, le candidat spécialiste a effectué au moins le nombre d'actes gynécologiques et techniques énumérés à l'annexe 2 avec le niveau de compétence requis correspondant.
+
+<a name="LNK0006" href="#LNKR0006">Sous-section 2.</a> - Formation supérieure
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Au cours des cinquième et sixième années de formation, sous réserve d'évaluations intermédiaires favorables, outre la poursuite de la formation en vue de l'obtention des compétences finales d'un agrément en tant que médecin spécialiste en gynécologie-obstétrique, des connaissances, une expérience et une expertise spécifiques dans un sous-domaine de la gynécologie-obstétrique peuvent être acquises, telles que la médecine de la reproduction, l'urogynécologie, la périnatalogie, l'oncologie, la chirurgie mini-invasive, la ménopause ou la génétique.
+La formation visée dans un sous-domaine spécifique dure au maximum 12 mois.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Au terme des six années de formation, le candidat spécialiste aura effectué au moins 1200 heures de consultations, hors consultations d'imagerie médicale, dont la moitié en gynécologie et l'autre moitié en obstétrique. Les consultations sont effectuées sous la supervision du maître de stage avec la possibilité d'une autonomie croissante.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Au terme des six années de formation, le candidat spécialiste aura effectué au moins le nombre d'actes gynécologiques et techniques énumérés à l'annexe 3 avec le niveau de compétence requis correspondant.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#LNK0007"> 12</a>. Au terme des six années de formation, le candidat disposera de compétences suffisantes dans le domaine des traitements non opératoires, dans l'évaluation d'une affection gynécologique, dont l'indication thérapeutique et la fixation d'un choix axé sur le patient parmi les différentes techniques, ainsi que dans le suivi d'une grossesse.
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 3.</a> - Critères spécifiques pour l'agrément du maître de stage en gynécologie-obstétrique
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Sans préjudice du chapitre 3 de l'arrêté fixant les critères généraux, le maître de stage répond aux dispositions du présent chapitre.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0008"> 14</a>. Le maître de stage est attaché à temps plein au service de stage (au minimum 80 % de l'activité professionnelle).
+
+<a name="LNK0008" href="#LNKR0008">CHAPITRE 4.</a> - Critères spécifiques pour l'agrément des services de stage en gynécologie-obstétrique
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. Sans préjudice des dispositions du chapitre 4 de l'arrêté fixant les critères généraux, le service de stage répond aux dispositions du présent chapitre.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. Le service de stage qui souhaite obtenir un agrément pour pouvoir proposer les quatre premières années du trajet de formation, c'est-à-dire la formation de base, répond aux critères d'agrément suivants :
+1° dans le service de stage, au moins 600 accouchements et au moins 400 interventions chirurgicales sont réalisées par an (moyenne des trois dernières années consécutives) ;
+2° le service de stage constitue une unité au sein de l'hôpital mais collabore de façon multidisciplinaire avec d'autres disciplines médicales et d'autres professionnels de santé ;
+3° le volume et la variété de l'activité, ainsi que les équipements du service de stage, notamment en matière de techniques de simulation, permettent à chaque candidat spécialiste de répondre aux critères d'agrément visés au chapitre 2, et au maître de stage et à ses collaborateurs d'entretenir leur propre expérience ;
+4° la continuité de la formation du candidat spécialiste ainsi que sa participation personnelle aux activités du service de stage sont assurées ;
+5° le service de stage dispose pour chaque candidat, en plus du maître de stage, d'au moins un collaborateur ETP (minimum 80 % de l'activité professionnelle) qui travaille effectivement dans le service de stage. Ce(s) collaborateur(s) est(sont) agréé(s) comme médecin(s) spécialiste(s) en gynécologie-obstétrique, a(ont) au moins trois ans d'ancienneté et fait(font) preuve d'un intérêt scientifique continu. Il(s) est(sont) effectivement impliqué(s) dans la formation du candidat spécialiste.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. Le service de stage qui souhaite obtenir un agrément pour pouvoir proposer chaque année du trajet de formation, y compris de la formation supérieure, répond également aux critères d'agrément contenus dans l'article 16, étant entendu que, par dérogation au point 1° :
+1° dans le service de stage, chaque année (moyenne des trois dernières années consécutives), au moins 1000 accouchements sont réalisés ;
+2° en plus des 400 interventions chirurgicales, au moins 200 interventions gynécologiques majeures par an (moyenne des trois dernières années consécutives) sont réalisées. Par
+" interventions gynécologiques majeures ", il faut entendre les prestations d'une valeur-clé K égale ou supérieure à 180 (coefficient) et les prestations d'une valeur-clé N égale ou supérieure à 250 (coefficient) de l'article 14, g), de l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités.
+En outre, une polyclinique pour le suivi des femmes enceintes et des affections gynécologiques fonctionne quotidiennement au sein de l'hôpital, sous la supervision du service de stage.
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. Chaque service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#LNK0009"> 19</a>. § 1er. Le nombre de candidats spécialistes pouvant être formés au sein d'un service de stage est déterminé à la fois par des critères relatifs aux activités du service de stage et par des critères relatifs à la composition de l'équipe de stage. Ces critères sont appliqués cumulativement pour déterminer le nombre de candidats spécialistes par service de stage.
+§ 2. Les critères relatifs aux activités du service de stage sont les suivants :
+1° Critères de base visant à déterminer le nombre de candidats spécialistes par service de stage :
+a) 600 accouchements et 400 interventions chirurgicales par an (moyenne des trois dernières années consécutives) : au maximum 1 candidat spécialiste par année civile qui peut suivre au maximum une année de formation de la formation de base dans le service de stage ;
+b) 800 accouchements et 400 interventions chirurgicales par an (moyenne des trois dernières années consécutives) : au maximum 2 candidats spécialistes par année civile ;
+2° Critères visant à déterminer le nombre supplémentaire de candidats spécialistes par service de stage par année civile :
+a) par tranche de 600 accouchements supplémentaires par an (moyenne des trois dernières années consécutives) en plus du nombre de base de 800 accouchements tel que visé au 1°, b) : au maximum 1 candidat spécialiste supplémentaire ;
+b) par tranche de 200 interventions chirurgicales supplémentaires par an (moyenne des trois dernières années consécutives) en plus du nombre de base de 400 interventions chirurgicales tel que visé au 1°, b), à l'exclusion de la chirurgie oncologique pelvienne : au maximum 1 candidat spécialiste supplémentaire ;
+3° programme de soins `médecine de la reproduction', par 1000 cycles de stimulation ovarienne par an (moyenne des trois dernières années consécutives) : au maximum 1 candidat spécialiste supplémentaire ;
+4° clinique du sein coordinatrice, par 100 nouveaux cas de cancer du sein diagnostiqués par an (moyenne des trois dernières années consécutives) : au maximum 1 candidat spécialiste supplémentaire ;
+5° une unité agréée pour les grossesses à haut risque (unité MIC) : au maximum 2 candidats spécialistes supplémentaires ;
+6° chirurgie oncologique pelvienne (sans conisations ou interventions similaires), par 75 nouveaux cas par an (moyenne des trois dernières années consécutives) : au maximum 1 candidat spécialiste supplémentaire ;
+7° diagnostic prénatal, par 500 cas d'échographie morphologique au deuxième trimestre à partir de la 20e semaine d'âge gestationnel par an (moyenne des trois dernières années consécutives) : au maximum 1 candidat spécialiste supplémentaire ;
+8° par 10 000 consultations par an (moyenne des trois dernières années consécutives), accessibles aux candidats spécialistes, à l'exclusion de la sénologie, de l'échographie et de la fertilité : au maximum 1 candidat spécialiste supplémentaire.
+§ 3. Les critères relatifs à la composition de l'équipe de stage sont les suivants :
+1° un service de stage avec un maître de stage et au moins 1 équivalent temps plein collaborateur tel que visé à l'article 16, 5° : au maximum 1 candidat spécialiste ;
+2° pour chaque équivalent temps plein collaborateur supplémentaire tel que visé au 1° : au maximum deux candidats spécialistes supplémentaires.
+
+<a name="LNK0009" href="#LNKR0009">CHAPITRE 5.</a> - Dispositions finales
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. L'arrêté ministériel du 15 septembre 1979 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la gynécologie-obstétrique est abrogé.
+L'alinéa 1er n'est pas d'application pour la durée de l'application des articles 22 et 23.
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. Les médecins spécialistes ayant obtenu le titre professionnel particulier de médecin spécialiste en gynécologie-obstétrique en application de l'arrêté susmentionné du 15 septembre 1979, conservent ce titre.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#Art.23"> 22</a>. Le candidat spécialiste dont la formation a commencé avant l'entrée en vigueur du présent arrêté, reste soumis aux dispositions de l'arrêté du 15 septembre 1979 susmentionné.
+
+<a name="Art.23" href="#Art.22">Art.</a> 23. Les maîtres de stage et les services de stage agréés pour la formation en gynécologie-obstétrique avant la date d'entrée en vigueur du présent arrêté, restent soumis, jusqu'à l'expiration de leur agrément, aux dispositions de l'arrêté susmentionné du 15 septembre 1979.
