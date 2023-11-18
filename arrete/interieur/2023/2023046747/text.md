@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. La proclamation par le président du bureau principal de canton de résultats partiels obtenus par les listes peut intervenir après l'enregistrement d'au moins deux bureaux et par la suite de deux bureaux de vote supplémentaires et ainsi de suite jusqu'à enregistrement de tous les bureaux de vote.
