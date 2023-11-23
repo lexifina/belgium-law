@@ -1,0 +1,30 @@
+{
+  "id": "2023030984",
+  "title": "13 MARS 2023. - Arrêté royal modifiant l'arrêté royal du 5 septembre 2001 déterminant l'effectif minimal du personnel opérationnel et du personnel administratif et logistique de la police locale",
+  "source_title": "13 MARS 2023. - Arrêté royal modifiant l'arrêté royal du 5 septembre 2001 déterminant l'effectif minimal du personnel opérationnel et du personnel administratif et logistique de la police locale",
+  "act": "arrete/interieur/2023/2023030984",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-11-13&numac_search=2023030984&page=108&lg_txt=F&caller=list&2023030984=22&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "4bcffbfac9d7f948ed1deda554681faecfe0d0608f38399b1f1bd0538e710423",
+  "source_issuer": "Intérieur",
+  "made": "2023-03-13",
+  "published": "2023-11-13",
+  "in_force": "2023-11-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 novembre 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "13 novembre 2023",
+    "Numéro": "2023030984",
+    "page": "105000",
+    "Dossier numéro": "2023-03-13/10",
+    "Entrée en vigueur": "23 novembre 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 135,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-11-23"
+}
