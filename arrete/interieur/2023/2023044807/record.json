@@ -1,0 +1,30 @@
+{
+  "id": "2023044807",
+  "title": "17 AOUT 2023. - Arrêté ministériel modifiant l'Arrêté ministériel fixant la répartition des subsides accordés aux communes qui ont un centre ouvert pour l'accueil des demandeurs d'asile sur leur territoire en 2021",
+  "source_title": "17 AOUT 2023. - Arrêté ministériel modifiant l'Arrêté ministériel fixant la répartition des subsides accordés aux communes qui ont un centre ouvert pour l'accueil des demandeurs d'asile sur leur territoire en 2021",
+  "act": "arrete/interieur/2023/2023044807",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-11-17&numac_search=2023044807&page=55&lg_txt=F&caller=list&2023044807=11&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "11848348640b2900a57db3cf17578805a4c50cde62d30fc7a476732ecc9bc977",
+  "source_issuer": "Intérieur",
+  "made": "2023-08-17",
+  "published": "2023-11-17",
+  "in_force": "2023-11-27",
+  "in_force_basis": "Justel: Entrée en vigueur : 27 novembre 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "17 novembre 2023",
+    "Numéro": "2023044807",
+    "page": "106638",
+    "Dossier numéro": "2023-08-17/08",
+    "Entrée en vigueur": "27 novembre 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 982,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-11-27"
+}
