@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'article 11, § 1er, de la loi du 24 mars 1999 organisant les relations entre les autorités publiques et les organisations syndicales du personnel des services de police, remplacé par la loi du 6 mai 2002, deux alinéas rédigés comme suit sont insérés entre l'alinéa 1er et l'alinéa 2:
+"Sans préjudice de la compétence du service social d'engager son propre personnel, le commissaire général de la police fédérale, en ce qui concerne la police fédérale et le bourgmestre ou le collège de police, en ce qui concerne la police locale, peuvent, à la demande du et en concertation avec le service social précité, détacher structurellement des membres du personnel, tant statutaires que contractuels respectivement de la police fédérale et de la police locale, qui sont nécessaires pour l'exécution de ses missions, vers le service social.
+Le Roi peut fixer les autres conditions du détachement du personnel en vertu de l'alinéa 2.".
