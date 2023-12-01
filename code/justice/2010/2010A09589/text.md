@@ -1680,17 +1680,18 @@ L'infraction visée à l'alinéa 1er, 2°, e), est punie d'une sanction de nivea
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 12, 017; En vigueur : 01-05-2016&gt;
 
-<a name="Art.122/3" href="#Art.122/2">Art.</a> <a href="#Art.122/4"> 122/3</a>. [<sup>1</sup> La personne de confiance
+<a name="Art.122/3" href="#Art.122/2">Art.</a> <a href="#Art.122/4"> 122/3</a>.[<sup>1</sup> La personne de confiance
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et à ses arrêtés d'exécution :
 1° désigne une personne de confiance, sans l'accord préalable de tous les membres représentant les travailleurs au sein du comité pour la prévention et la protection au travail;
-2° ne désigne pas une personne de confiance conformément aux conditions et à la procédure visées dans la loi précitée du 4 août 1996 lorsque tous les membres représentant les travailleurs au sein du comité pour la prévention et la protection au travail en font la demande;
+[<sup>2</sup> 1°/1 ne désigne pas au moins une personne de confiance faisant partie du personnel de l'employeur, conformément aux conditions et à la procédure visées dans la loi précitée du 4 août 1996, lorsque l'employeur occupe cinquante travailleurs ou plus;]<sup>2</sup>
+2° ne désigne pas une personne de confiance conformément aux conditions et à la procédure visées dans la loi précitée du 4 août 1996 lorsque [<sup>2</sup> tous les membres de la délégation syndicale ou, à défaut de délégation syndicale, l'ensemble des travailleurs, en font la demande]<sup>2</sup>;
 3° écarte une personne de confiance de sa fonction sans l'accord préalable de tous les membres représentant les travailleurs au sein du comité pour la prévention et la protection au travail;
 4° ne demande pas l'avis du fonctionnaire chargé de la surveillance à défaut d'accord entre tous les membres représentant les travailleurs au sein du comité pour la prévention et la protection au travail et l'employeur sur l'écartement de sa fonction d'une personne de confiance;
 5° désigne une personne de confiance qui exerce la fonction de conseiller en prévention compétent pour la médecine du travail;
 6° désigne une personne de confiance qui fait partie du personnel de l'entreprise dans laquelle elle exerce sa fonction et est déléguée de l'employeur ou déléguée du personnel dans le conseil d'entreprise ou le comité pour la prévention et la protection au travail;
 7° désigne une personne de confiance qui fait partie du personnel de l'entreprise dans laquelle elle exerce sa fonction et fait partie de la délégation syndicale;
 8° désigne une personne de confiance qui fait partie du personnel de direction;
-9° ne veille pas à ce qu'au moins une des personnes de confiance fasse partie du personnel de l'employeur quand il fait seulement appel à un conseiller en prévention aspects psychosociaux d'un service externe pour la prévention et la protection au travail et qu'il occupe en outre plus de vingt travailleurs;
+9° ne veille pas à ce qu'au moins une des personnes de confiance fasse partie du personnel de l'employeur quand il fait seulement appel à un conseiller en prévention aspects psychosociaux d'un service externe pour la prévention et la protection au travail et qu'il occupe en outre [<sup>2</sup> vingt travailleurs ou plus]<sup>2</sup>;
 10° ne veille pas à ce que la personne de confiance accomplisse en tout temps ses missions de manière complète et efficace dans les conditions et selon les modalités déterminées par le Roi;
 11° ne veille pas à ce que la personne de confiance ne subisse pas de préjudice en raison de ses activités en tant que personne de confiance;
 12° ne veille pas à ce que la personne de confiance exerce sa fonction en toute autonomie, notamment en ne prenant pas les mesures nécessaires afin qu'aucune personne ne fasse pression d'une quelconque manière, aussi bien directement qu'indirectement, sur la personne de confiance dans l'exercice de sa fonction, notamment en vue d'obtenir de l'information qui est liée ou qui peut être liée à l'exercice de cette fonction;
@@ -1700,6 +1701,7 @@ b) puisse perfectionner ses compétences et connaissances, notamment par le suiv
 14° ne prend pas en charge les frais liés aux formations visées au 13°, de même que les frais de déplacement y afférents.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 13, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023110504" target="_blank">2023-11-05/04</a>, art. 11, 062; En vigueur : 01-12-2023&gt;
 
 <a name="Art.122/4" href="#Art.122/3">Art.</a> <a href="#Art.122/5"> 122/4</a>. [<sup>1</sup> Employeurs et institutions organisateurs de formation pour personnes de confiance
 Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire, ou l'institution qui, en contravention à la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et à ses arrêtés d'exécution organise une formation portant sur les compétences et les connaissances des personnes de confiance sans satisfaire aux conditions déterminées par le Roi.]<sup>1</sup>
