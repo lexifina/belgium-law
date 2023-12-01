@@ -1,0 +1,1 @@
+<a name="Art.1er"></a>Article 1er. Le présent arrêté entre en vigueur le premier jour du mois qui suit l'expiration d'un délai de dix jours prenant cours le jour suivant sa publication au Moniteur belge.
