@@ -875,11 +875,7 @@ Les cotisations sont payées par l'employeur à l'organisme chargé de la percep
 Le produit des cotisations est transmis à l'ONSS-Gestion globale, visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
 Les dispositions du régime général de la sécurité sociale des travailleurs salariés, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais en matière de paiement, l'application des sanctions civiles et les dispositions pénales, le contrôle, la désignation du juge compétent en cas de contestation, la prescription en matière d'actions judiciaires, le privilège, la communication du montant de la créance de l'Office national de sécurité sociale, sont applicables.]<sup>43</sup>
 
-[<sup>46</sup> § 3vicies.
-Lorsqu'un travailleur est licencié à partir du 1er janvier 2022 ou une date antérieure déterminée par arrêté délibéré en Conseil des ministres moyennant une indemnité de congé alors que, conformément à l'article 20 de la loi du 7 avril 2019 relative aux dispositions sociales de l'accord pour l'emploi, le travailleur a fait choix d'affecter une partie de son indemnité de congé à des fins de formation sous la forme d'un budget formation, une cotisation de solidarité de 25 p.c. est due à charge de l'employeur sur le montant du budget formation.
-La cotisation est payée par l'employeur à l'organisme chargé de la perception des cotisations de sécurité sociale des travailleurs salariés.
-Le produit de cette cotisation est transféré à l'ONSS-gestion globale, visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
-Les dispositions du régime général de la sécurité sociale des travailleurs salariés, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais en matière de paiement, l'application des sanctions civiles et les dispositions pénales, le contrôle, le juge compétent en cas de contestation, la prescription en matière d'actions judiciaires, le privilège, la communication du montant de la créance de l'Office national de sécurité sociale, sont applicables.]<sup>46</sup>
+[<sup>46</sup> § 3vicies.[<sup>56</sup> ...]<sup>56</sup>]<sup>46</sup>
 [<sup>53</sup> § 3vicies semel. A. Une cotisation de responsabilisation est due à partir du 1er janvier 2023 lorsque des intérimaires sont engagés de manière trop fréquente dans des contrats de travail intérimaire de très courte durée successif.
 Cette cotisation de responsabilisation ne s'applique pas aux intérimaires bénéficiant d'une pension de retraite ou d'une pension de survie, aux flexi-jobs, et aux travailleurs occasionnels auprès d'utilisateurs appartenant à la commission paritaire de l'agriculture (CP 144), des entreprises horticoles (CP 145) et de l'industrie hôtelière (CP 302).
 B. Pour l'application de la présente disposition, on entend par:
@@ -964,6 +960,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">53</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 144, 145; En vigueur : 01-01-2023&gt;
 (<font color="red">54</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 170, 145; En vigueur : 09-01-2023&gt;
 (<font color="red">55</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023052401" target="_blank">2023-05-24/01</a>, art. 2, 147; En vigueur : 01-05-2023&gt;
+(<font color="red">56</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023110504" target="_blank">2023-11-05/04</a>, art. 4, 148; En vigueur : 03-12-2023&gt;
 
 <a name="Art.38bis" href="#Art.38">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
 
