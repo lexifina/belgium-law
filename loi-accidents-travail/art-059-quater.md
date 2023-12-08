@@ -1,4 +1,4 @@
-Le Roi détermine les modalités de calcul, de perception et de recouvrement des montants, visés aux articles 59, 2°, 3°, 4°, 5°, 7°, 8°, 9° (, 14°) et 59bis.
+Le Roi détermine les modalités de calcul, de perception et de recouvrement des montants, visés aux articles 59, 2°, 3°, 4°, 5°, 7°, 8°, 9° (, 14°), 15° et 59bis.
 (Le débiteur qui ne verse pas les montants visés à l'alinéa 1er dans les délais fixés par le Roi, est redevable envers Fedris d'une majoration et d'un intérêt de retard. Le Roi détermine le montant, les conditions d'application, la perception et le recouvrement de cette majoration et de cet intérêt de retard.)
 La majoration ne peut toutefois être supérieure à 10 p.c. des montants dus et l'intérêt de retard calculé sur lesdits montants est égal au taux d'intérêt légal fixé à l'article 2 de la loi du 5 mai 1865 relative au prêt à intérêt.
 Le Roi détermine les conditions dans lesquelles Fedris:
