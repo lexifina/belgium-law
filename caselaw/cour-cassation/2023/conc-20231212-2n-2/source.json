@@ -1,0 +1,39 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2023:CONC.20231212.2N.2",
+  "ecli": "ECLI:BE:CASS:2023:CONC.20231212.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-12-12",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 12 december 2023",
+  "published_on_juportal": "2024-02-01",
+  "language": "nl",
+  "role_number": "P.23.0554.N",
+  "case_name_as_published": "B. contra B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "COMMUNICATIONS. TELECOMMUNICATIONS",
+    "COMMUNICATIE. TELECOMMUNICATIE",
+    "INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE D'INTENTION",
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "INFORMATIQUE",
+    "INFORMATICA"
+  ],
+  "fiche": [
+    "COMMUNICATIE. TELECOMMUNICATIE",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 259bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 314bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 550bis - 01 ELI link Pub nr 1867060850 Wet 13 juni 2005 betreffende de elektronische communicatie - 13-06-2005 - Art. 124 - 32 ELI link Pub nr 2005011238",
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 259bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 314bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 550bis - 01 ELI link Pub nr 1867060850 Wet 13 juni 2005 betreffende de elektronische communicatie - 13-06-2005 - Art. 124 - 32 ELI link Pub nr 2005011238",
+    "INFORMATICA",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 259bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 314bis - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 550bis - 01 ELI link Pub nr 1867060850 Wet 13 juni 2005 betreffende de elektronische communicatie - 13-06-2005 - Art. 124 - 32 ELI link Pub nr 2005011238",
+    "BJS-Bulletin juridique social - 2025, n° 731, p. 2. - ROSIER, Karen; Note'Rétrospective sur une réinterprétation du régime du secret des communications électroniques par la Cour de cassation'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:CONC.20231212.2N.2",
+  "source_sha256": "12dab7a40ab7aa37e34b29c5dcc01f21e92d6691cf37db6abd777b5054447f9d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:CONC.20231212.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
