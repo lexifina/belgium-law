@@ -1,0 +1,59 @@
+Nr. P.23.0554.N
+D. B.,
+burgerlijke partij,
+eiser,
+met als raadsman mr. Didier Baecke, advocaat bij de balie Oost-Vlaanderen,
+tegen
+V. B.,
+inverdenkinggestelde,
+verweerster,
+vertegenwoordigd door mr. Johan Verbist, advocaat bij het Hof van Cassatie.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Gent, kamer van inbeschuldigingstelling, van 23 maart 2023.
+De eiser voert in een memorie die aan dit arrest is gehecht, een middel aan.
+Op 7 november 2023 heeft advocaat-generaal Dirk Schoeters zijn schriftelijke conclusie neergelegd ter griffie van het Hof.
+Op de rechtszitting van 12 december 2023 heeft raadsheer Erwin Francis verslag uitgebracht en heeft voormelde advocaat-generaal geconcludeerd.
+II.	BESLISSING VAN HET HOF
+Beoordeling
+Middel
+Eerste onderdeel
+1.	Het onderdeel voert schending aan van artikel 124 van de wet van 13 juni 2005 betreffende de elektronische communicatie (hierna WEC): het arrest oordeelt dat er geen aanwijzingen voorliggen van een inbreuk op artikel 124 WEC omdat uit de gegevens van het strafdossier blijkt dat de verweerster kennis heeft genomen van eisers e-mail, die niet persoonlijk voor haar bestemd was, met toestemming van de bestemmeling van die e-mail; artikel 124 WEC vereist echter eveneens de toestemming van de eiser als verzender van de e-mail opdat de verweerster daarvan opzettelijk kennis mocht nemen en gebruik mocht maken.
+2.	In zijn klacht met burgerlijkepartijstelling heeft de eiser klacht gedaan tegen de verweerster wegens het overtreden van artikel 124 WEC omdat zij opzettelijk kennis heeft genomen en gebruik heeft gemaakt van de e-mail die de eiser heeft verzonden aan D., terwijl die e-mail niet persoonlijk voor de verweerster bestemd was en zij daarvoor niet beschikte over de toestemming van de eiser en van D., minstens niet van de eiser.
+In zijn eindvordering heeft de procureur des Konings de feiten gekwalificeerd als interne hacking en heling van door hacking verkregen gegevens, zoals bepaald in artikel 550bis, § 2 en § 7, Strafwetboek.
+Het arrest oordeelt dat de procureur des Konings de aangeklaagde feiten terecht heeft geherkwalificeerd en dat er geen aanwijzingen voorliggen van een overtreding van artikel 124 WEC. Het verwerpt zodoende eisers andersluidende verweer.
+3.	Artikel 124 WEC bevat de omzetting in het Belgisch recht van artikel 5 van Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie. Het bepaalt:
+“Indien men daartoe geen toestemming heeft gekregen van alle andere, direct of indirect betrokken personen, mag niemand :
+1° met opzet kennis nemen van het bestaan van informatie van alle aard die via elektronische weg is verstuurd en die niet persoonlijk voor hem bestemd is;
+2° met opzet de personen identificeren die bij de overzending van de informatie en de inhoud ervan betrokken zijn;
+3° onverminderd de toepassing van de artikelen 122 en 123, met opzet kennis nemen van gegevens inzake elektronische communicatie en met betrekking tot een andere persoon;
+4° de informatie, identificatie of gegevens die met of zonder opzet werden verkregen, wijzigen, schrappen, kenbaar maken, opslaan of er enig gebruik van maken.”
+Overeenkomstig artikel 145, § 1, WEC wordt de persoon die artikel 124 overtreedt, gestraft met een geldboete van 50,00 euro tot 100.000,00 euro.
+4.	Artikel 124 WEC sanctioneert enkel de kennisname van het bestaan van een elektronische communicatie of de kennisname van andere gegevens over een elektronische communicatie, zoals de identiteit van de personen waartussen die communicatie heeft plaatsgevonden of het tijdstip waarop zij heeft plaatsgevonden. Dat artikel sanctioneert niet de kennisname van de inhoud van een elektronische communicatie.
+Wanneer een telastlegging erin bestaat dat kennis werd genomen van de inhoud van een elektronische communicatie, dient de strafbaarheid al naargelang het geval te worden beoordeeld in het licht van de artikelen 259bis, 314bis of 550bis Strafwetboek en niet in het licht van artikel 124 WEC.
+In zoverre het onderdeel uitgaat van een andere rechtsopvatting, faalt het naar recht.
+5.	Uit de niet-bekritiseerde vaststellingen van de bestreden beslissing blijkt dat de verweerster kennis nam van de inhoud van het e-mailbericht van de eiser aan D. en dat zij van die inhoud gebruik maakte.
+Op grond van deze vaststellingen blijft de beslissing dat er geen aanleiding is tot herkwalificatie van de door de eiser aangeklaagde feiten naar een overtreding van artikel 124 WEC naar recht verantwoord.
+Het onderdeel, ook al was het gegrond, kan niet tot cassatie leiden en is bijgevolg niet ontvankelijk.
+Tweede onderdeel
+6.	Het onderdeel voert miskenning aan van de bewijskracht van akten: uit de verklaring van D. dat er geen verbod tot kennisname voor de bewuste e-mails gold, leidt het arrest af dat er toestemming was; aldus miskent het arrest de bewijskracht van de verklaringen van D. tijdens zijn eerste politioneel verhoor van 13 september 2021 en zijn tweede politioneel verhoor van 23 maart 2022.
+7.	Het arrest stelt vast dat de verweerster toegang had tot de mailbox van D. en dat het haar volgens de verklaring van D. niet verboden was om kennis te nemen van e-mails die geen betrekking hebben op de commerciële bedrijfsactiviteiten.
+8.	Het arrest dat op basis van die vaststellingen oordeelt dat de verweerster de toestemming van D. had om kennis te nemen van eisers e-mail, geeft van de verklaring van D. een uitlegging die met de bewoordingen van die verklaring niet onverenigbaar is.
+Het onderdeel mist feitelijke grondslag.
+Derde onderdeel
+9.	Het onderdeel voert schending aan van de artikelen 8.17 en 8.18 Burgerlijk Wetboek: uit de verklaring van D. dat er geen verbod tot kennisname voor de bewuste e-mails gold, leidt het arrest niet enkel af dat er toestemming was tot kennisname, maar ook dat er toestemming was om eisers e-mail kenbaar te maken, op te slaan of er enig gebruik van te maken in de zin van artikel 124, 4°, WEC; aldus miskent het arrest de bewijskracht van de verklaringen van D. tijdens zijn eerste politioneel verhoor van 13 september 2021 en zijn tweede politioneel verhoor van 23 maart 2022.
+10.	Uit de redenen vermeld in het antwoord op het eerste onderdeel blijkt dat artikel 124, 4°, WEC hier niet van toepassing is, zodat het niet van belang is of de verweerster de toestemming van D. had om eisers e-mail kenbaar te maken, op te slaan, of er enig gebruik van te maken.
+Het onderdeel is bij gebrek aan belang niet ontvankelijk.
+Vierde onderdeel
+11.	Het onderdeel voert schending aan van artikel 314bis, § 2, tweede lid, Strafwetboek: het geheim van privécommunicatie en telecommunicatie verhindert dat de verweerster gebruik maakt van e-mails die werden uitgewisseld tussen de eiser en D., wanneer zij bij die correspondentie zelf niet betrokken was.
+12.	De bestreden beslissing stelt niet vast dat de verweerster, zoals vereist is onder artikel 314bis, § 2, tweede lid, Strafwetboek, met bedrieglijk opzet of met het oogmerk om te schaden heeft gehandeld en het wordt daarin niet bekritiseerd.
+Het onderdeel kan niet tot cassatie leiden en is bijgevolg niet ontvankelijk.
+Vijfde onderdeel
+13.	Het onderdeel voert schending aan van artikel 8.1 EVRM en de artikelen 22 en 29 Grondwet: het geheim van privécommunicatie en telecommunicatie verhindert dat de verweerster gebruik maakte van e-mails die werden uitgewisseld tussen de eiser en D. wanneer zij bij die correspondentie zelf niet betrokken was.
+14.	Artikel 8.1 EVRM en de artikelen 22 en 29 Grondwet worden niet strafrechtelijk gesanctioneerd, zodat de aangevoerde schending ervan geen weerslag heeft op de beslissing van de kamer van inbeschuldigingstelling om de inverdenkinggestelde buiten vervolging te stellen.
+Het onderdeel is bij gebrek aan belang niet ontvankelijk.
+Dictum
+Het Hof,
+Verwerpt het cassatieberoep.
+Veroordeelt de eiser tot de kosten.
+Bepaalt de kosten in het geheel op 80,71 euro, waarvan 45,71 euro is verschuldigd.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, tweede kamer, samengesteld uit raadsheer Filip Van Volsem, als waarnemend voorzitter, de raadsheren Erwin Francis, Sidney Berneman, Eric Van Dooren en Steven Van Overbeke, en in openbare rechtszitting van 12 december 2023 uitgesproken door waarnemend voorzitter Filip Van Volsem, in aanwezigheid van advocaat-generaal Alain Winants, met bijstand van griffier Ayse Birant.
