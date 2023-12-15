@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'arrêté royal du 19 décembre 1967 portant règlement général en exécution de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, modifié en dernier lieu par l'arrêté royal du 28 juin 2023, il est inséré un article 9quater rédigé comme suit :
+" Art. 9quater. Toute personne à qui est infligée une amende administrative en application de l'article 17bis, § 1erbis, de l'arrêté royal n° 38, est tenue de s'affilier à la caisse d'assurances sociales chargée de percevoir cette amende aussi longtemps que l'amende est due et encore exigible. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Indépendants dans ses attributions et le ministre qui a les Affaires sociales dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
