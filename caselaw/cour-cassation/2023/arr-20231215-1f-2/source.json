@@ -1,0 +1,32 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20231215.1F.2",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20231215.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-12-15",
+  "date_as_printed": "Jugement/arrêt du 15 décembre 2023",
+  "published_on_juportal": "2024-01-16",
+  "language": "fr",
+  "role_number": "C.23.0156.F",
+  "case_name_as_published": "M. contra ETHIAS s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Divers",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - OORZAAK - Allerlei"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Divers",
+    "Faute - Concours de fautes - Incidence des fautes - Réalisation du dommage - Part du dommage imputable à chacun - Juge - Appréciation",
+    "ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150",
+    "BJS-Bulletin juridique social - 2024, n° 719, p. 9. - FASSIN, Florence; Note'Responsabilité civile: incidence des fautes de chacun des auteurs' For.ass.-Forum de l'assurance - 2024, n° 248, p. 150-158. - VAN DAMME, Nicolas; TROCH, Kenny; Note'Fautes concurrentes, partage de responsabilité, incidence causale, fraus omnia corrumpit et le Livre 6 du code civil'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20231215.1F.2",
+  "source_sha256": "86254a7b166282d314f0b62b4e212f4f8e09bf5c17fce1294e703369ae85e1fd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20231215.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
