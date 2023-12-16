@@ -1,0 +1,223 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - DEFINITIONS
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. § 1er. Les termes utilisés dans le présent arrêté correspondent aux termes tels que définis dans l'ADR, l'accord relatif au transport international des marchandises dangereuses par route, signé à Genève le 30 septembre 1957, tel que modifié, et dans l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 22 septembre 2022 relatif au transport des marchandises dangereuses par route et par navigation intérieure à l'exception des matières explosibles et radioactives.
+§ 2. Pour les besoins du présent arrêté, on entend en outre par " organisme agréé ", l'organisme visé à l'article 19 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 22 septembre 2022 relatif au transport des marchandises dangereuses par route et par navigation intérieure à l'exception des matières explosibles et radioactives.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - DELEGATION DE COMPETENCE
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0003"> 2</a>. Délégation de compétence est accordée au directeur de la DVTM, en ce qui concerne le transport par route, pour exercer les compétences reprises :
+1° aux article 9, 10, 11, 13, § 3, 18, 20, alinéa 1er, 1°, 21, §§ 1er et 2, 22, §§ 1er et 2, et 26 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 22 septembre 2022 relatif au transport des marchandises dangereuses par route et par navigation intérieure à l'exception des matières explosibles et radioactives.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - SURVEILLANCE DE LA FABRICATION, DE LA RECONSTRUCTION OU DU RECONDITIONNEMENT DES EMBALLAGES, DES GRV ET DES GRANDS EMBALLAGES
+
+<a name="LNK0004" href="#LNKR0004">Section 1re.</a> - Principes généraux
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0005"> 3</a>. La surveillance de la fabrication, de la reconstruction ou du reconditionnement :
+1° des emballages visés par le titre des chapitres 6.1 et 6.3 de l'ADR ;
+2° des GRV visés par le titre du chapitre 6.5 de l'ADR ;
+3° des grands emballages visés par le titre du chapitre 6.6 de l'ADR,
+pourvus d'une marque UN, ADR ou de reconditionnement délivrée en Belgique et dont les certificats d'agrément en été établis dans la Région de Bruxelles-Capitale, se compose de l'inspection interne exercée par le fabricant et de la surveillance externe assurée par un organisme agréé par le directeur de la DVTM.
+
+<a name="LNK0005" href="#LNKR0005">Section 2.</a> - Inspection interne
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'inspection interne est effectuée selon les instructions du directeur de la DVTM et se compose du contrôle initial, du contrôle de fabrication, du contrôle final et de l'enregistrement des résultats.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Lors du contrôle initial, avant la fabrication, reconstruction ou reconditionnement, il y a lieu de s'assurer que la matière de base, les objets et autres matériaux intervenant dans la construction, correspondent à ceux utilisés lors de l'agréation du prototype.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le contrôle de fabrication consiste en:
+1° des tests sur les installations de la fabrication, de la reconstruction, du reconditionnement et du contrôle au moyen d'échantillons non récupérables lors du démarrage de la fabrication, de la reconstruction ou du reconditionnement et après chaque adaptation des équipements ;
+2° des contrôles du processus et du produit final pendant la fabrication, la reconstruction ou le reconditionnement.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le contrôle final consiste en une inspection des emballages, GRV ou grands emballages après leur fabrication, reconstruction ou reconditionnement. Chaque GRV et chaque grand emballage doit être inspecté individuellement avant sa mise en service.
+L'épreuve d'étanchéité avant mise en service des GRV est effectuée par le fabricant.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0006"> 8</a>. § 1er. Les résultats de l'inspection interne doivent être enregistrés et conservés pendant au moins cinq ans par le fabricant.
+§ 2. L'inspection interne doit être effectuée par du personnel compétent.
+§ 3. Le fabricant doit disposer des installations nécessaires à l'exécution de l'inspection interne.
+
+<a name="LNK0006" href="#LNKR0006">Section 3.</a> - La surveillance externe
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0007"> 9</a>. La surveillance externe consiste, d'une part, en des contrôles ponctuels pour vérifier la conformité au prototype et, d'autre part, en une supervision du service d'inspection interne du fabricant. Si au cours des deux premières années, l'évaluation a été positive, à partir de ce moment-là, cette supervision peut avoir lieu au moins une fois tous les deux ans, à condition que le résultat de la surveillance soit toujours positif.La surveillance peut avoir lieu à l'improviste.
+
+<a name="LNK0007" href="#LNKR0007">Section 4.</a> - Mesures à prendre en cas de manquement
+
+<a name="LNK0008" href="#LNKR0008">Sous-section 1re.</a> - Dans le cadre de l'inspection interne
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0009"> 10</a>. Si des manquements par rapport au prototype sont constatés, tous les emballages, GRV ou grands emballages fabriqués, reconstruits ou reconditionnés depuis le dernier contrôle lors duquel la conformité avec le prototype a été constatée, doivent être contrôlés individuellement et la marque UN, ADR ou de reconditionnement sera supprimée sur les emballages qui présentent ces manquements. Sur les emballages, GRV ou grands emballages qui sont fabriqués, reconstruits ou reconditionnés après la constatation des manquements, la marque UN, ADR ou de reconditionnement peut seulement être à nouveau apposée si la conformité au prototype a été prouvée une nouvelle fois.
+
+<a name="LNK0009" href="#LNKR0009">Sous-section 2.</a> - Dans le cadre de la surveillance externe
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. § 1er. Si des manquements par rapport au prototype sont constatés, il y a lieu de procéder conformément à l'article 10.
+S'il s'avère que l'inspection interne est jugée insuffisante, l'organisme agréé exige du fabricant, reconstructeur ou reconditionneur le respect des instructions visées à l'article 4.
+L'organisme agréé informe le directeur de la DVTM des manquements.
+L'organisme agréé effectue dans les trois mois des tests supplémentaires par coup de sonde.
+§ 2. Si les mêmes insuffisances sont à nouveau constatées :
+1° l'organisme agréé, le cas échéant, en informe le directeur de la DVTM ;
+2° le directeur de la DVTM procède au retrait de la marque UN, ADR ou de reconditionnement de l'emballage, GRV ou grand emballage concerné.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#LNK0010"> 12</a>. Les coûts entraînés par la surveillance externe sont à charge du demandeur de la marque UN, ADR, ou du reconditionneur.
+Lorsque la surveillance externe doit se faire aussi bien chez l'utilisateur que chez le producteur, les coûts entraînés par cette surveillance externe sont à charge des deux intervenants.
+
+<a name="LNK0010" href="#LNKR0010">CHAPITRE 4.</a> - EPREUVES PERIODIQUES SUR LES GRV
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Sur les GRV, pourvus d'une marque UN, les épreuves et les inspections selon le 6.5.4.4.1 b), le 6.5.4.4.2 b) et le 6.5.4.5.2 de l'ADR sont effectuées :
+1° par un organisme agréé ou ;
+2° par le propriétaire ou le détenteur de GRV, titulaire de l'autorisation décernée par le directeur de la DVTM conformément à l'article 14.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Le directeur de la DVTM délivre l'autorisation au propriétaire ou au détenteur de GRV pour être habilité à effectuer les épreuves périodiques d'étanchéité et inspections sur GRV qu'après avoir reçu le dossier complet suivant du demandeur :
+1° le rapport positif d'un organisme agréé sur le respect par le demandeur des conditions suivantes :
+a) le demandeur doit être titulaire d'une certification ISO série 9000 compatible avec l'activité visée et couvrant au moins la fabrication ou l'expédition des matières dangereuses ;
+b) le demandeur doit être couvert contre tout dommage qui a été causé par l'épreuve périodique ou l'inspection sur les GRV ;
+c) le service chargé du contrôle périodique et des inspections sur les GRV doit avoir une structure indépendante des services commerciaux et/ou de fabrication ;
+d) le demandeur doit disposer des équipements appropriés à la réalisation des contrôles périodiques et des inspections sur les GRV ; en particulier les appareils de mesure doivent être calibrés et indiquer leur précision ;
+e) la personne chargée du contrôle périodique et des inspections dispose d'un manuel d'instructions contenant les différentes opérations à respecter lors de ces contrôles. La personne chargée du contrôle et le chef de l'entreprise ou son représentant signent et datent une déclaration suivant laquelle ces instructions sont respectées ;
+2° le nom et les coordonnées de la personne responsable du contrôle périodique et des inspections sur les GRV ;
+3° une représentation du poinçon utilisé par le demandeur.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. § 1er. Chaque propriétaire ou détenteur de GRV, a reçu l'autorisation du directeur de la DVTM d'effectuer des épreuves périodiques et inspections sur les GRV, est contrôlé au moins une fois par an par un organisme agréé.
+§ 2. Tout contrôle faisant apparaître des manquements relatifs aux présentes prescriptions donne lieu à une nouvelle visite par le même organisme agréé dans un délai maximum de trois mois. Celui-ci informe le directeur de la DVTM.
+§ 3. Si des manquements sont à nouveau constatés lors de la nouvelle visite, l'organisme agréé en informe immédiatement le directeur de la DVTM. Celui-ci retire l'autorisation d'effectuer les épreuves périodiques et inspections sur les GRV.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. § 1er. Les épreuves périodiques et inspections sur les GRV ont lieu conformément à l'ADR.
+§ 2. Les rapports de contrôle doivent au moins mentionner :
+1° l'identification suivante du GRV :
+a) nom et adresse du propriétaire ;
+b) nom et adresse du fabricant ;
+c) numéro de construction ;
+d) date de fabrication ;
+e) marquage réglementaire selon l'ADR;
+2° la date et lieu de l'épreuve d'étanchéité, la pression appliquée et le résultat ;
+3° l'état intérieur et extérieur du GRV, l'état de son marquage et le fonctionnement de l'équipement de service ;
+4° la conclusion du rapport à savoir la conformité ou non-conformité du GRV aux prescriptions de l'ADR ;
+5° le nom et la signature du responsable de l'épreuve et de l'inspection.
+§ 3. Si l'épreuve périodique est satisfaisante, le propriétaire ou le détenteur de GRV marque la date sur le GRV conformément à l'ADR et appose son poinçon.
+§ 4. Le propriétaire ou le détenteur du GRV tient à jour pendant au moins cinq ans le registre des épreuves périodiques et inspections effectuées ; ce registre est tenu à la disposition de l'organisme agréé.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0011"> 17</a>. Les coûts relatifs aux contrôles effectués par l'organisme agréé sont à charge du propriétaire ou du détenteur de GRV.
+
+<a name="LNK0011" href="#LNKR0011">CHAPITRE 5.</a> - DISPOSITIONS APPLICABLES AUX CITERNES
+
+<a name="LNK0012" href="#LNKR0012">Section 1<sup>ère</sup>.</a> - Prescriptions concernant la construction des citernes
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0013"> 18</a>. La construction des citernes visées par les chapitres 6.8 et 6.10 de l'ADR, dont le certificat d'agrément est établi en Région de Bruxelles-Capitale, est soumise aux modalités prévues ci-dessous.
+
+<a name="LNK0013" href="#LNKR0013">Sous-section 1ère.</a> - Dispositions générales
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. Pour satisfaire aux exigences du 6.8.2.1.8 de l'ADR concernant l'établissement de l'insensibilité à la rupture fragile et à la corrosion fissurante, le certificat fourni par le constructeur doit correspondre au moins au niveau 3.1 de la norme EN 10 204.
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0014"> 20</a>. § 1er. Pour chaque prototype de citerne des véhicules-citernes, les organismes agréés doivent garantir, sur base des calculs ou des essais effectués, que la fixation de la citerne au châssis répond aux exigences du 6.8.2.1.1 de l'ADR.
+§ 2. De plus, le constructeur du châssis, le responsable de l'assemblage de la citerne sur le châssis ou l'importateur en Région de Bruxelles-Capitale doit attester que la fixation envisagée ne met pas en péril la sécurité du châssis.
+
+<a name="LNK0014" href="#LNKR0014">Sous-section 2.</a> - Protection contre l'endommagement de la citerne
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. Pour les citernes fixes et citernes démontables, destinées au transport de matières pulvérulentes ou granulaires et construites avant le 1er janvier 1990, le réservoir possède la protection visée au 6.8.2.1.20 de l'ADR si les dispositions suivantes ont été satisfaites ou si des mesures équivalentes ont été prises :
+1° le réservoir est pourvu sur ses deux côtés, à une hauteur se situant entre sa ligne médiane et sa moitié inférieure d'une protection contre les chocs latéraux constituée par un profil dépassant d'au moins 25 mm le hors tout du réservoir. La section droite de ce profil devra être telle qu'il présente, s'il s'agit d'acier doux ou de matériaux de résistance supérieure, un module d'inertie d'au moins 5 cm3, la force étant dirigée horizontalement et perpendiculairement au sens de la marche. Si l'on utilise des matériaux d'une résistance inférieure, le module d'inertie doit être augmenté proportionnellement aux limites d'allongement. La protection contre le renversement peut consister en des cercles de renforcement ou des capots de protection ou des éléments, soit transversaux, soit longitudinaux, d'un profil tel qu'en cas de renversement il n'y ait aucune détérioration des organes placés à la partie supérieure du réservoir ;
+2° aux deux côtés latéraux de la citerne, dans la zone la plus large, des protections complémentaires sont disposées qui répondent aux prescriptions suivantes :
+a) pour l'acier doux ou des matériaux de résistance supérieure, l'épaisseur de la paroi de la citerne augmentée de l'épaisseur de la protection doit être d'au moins 6 mm ; pour les matériaux d'une résistance inférieure, la formule des marginaux 211127 (3) et (4) de l'ADR de 1999 doit être utilisée ;
+b) la hauteur de ces protections est d'au moins 30 cm ;
+3° lorsque les réservoirs sont construits à double paroi :
+a) avec vide d'air entre les deux parois, la somme de l'épaisseur de la paroi métallique extérieure et de celle du réservoir doit au moins être égale à l'épaisseur minimale de paroi fixée au marginal 211127 (3) de l'ADR de 1999 ; l'épaisseur de paroi du réservoir même ne devant pas être inférieure à l'épaisseur minimale fixée au marginal 211127 (4) de l'ADR de 1999 ;
+b) avec une couche intermédiaire en matières solides d'au moins 50 mm d'épaisseur, la paroi extérieure doit avoir une épaisseur d'au moins 0,5 mm si elle est en acier doux ou d'au moins 2 mm si elle est en matière plastique renforcée de fibres de verre ; comme couche intermédiaire de matières solides, on peut utiliser de la mousse solide (ayant une faculté d'absorption des chocs telle, par exemple, que celle de la mousse de polyuréthane) ; la paroi extérieure doit avoir une épaisseur d'au moins 1 mm si elle est en aluminium.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0015"> 22</a>. § 1er. Pour les citernes fixes et citernes démontables, destinées au transport de matières pulvérulentes ou granulaires et construites à partir du 1er janvier 1990, le réservoir possède la protection visée au 6.8.2.1.20 de l'ADR si les dispositions suivantes ont été satisfaites ou si des mesures équivalentes ont été prises :
+1° aux deux côtés latéraux de la citerne, dans la zone la plus large, des protections complémentaires sont disposées qui répondent aux prescriptions suivantes :
+a) la somme de l'épaisseur de la paroi de la citerne et de l'épaisseur de la protection doit être d'au moins 5 mm pour l'acier doux ; pour les autres matériaux :
+b) la formule des marginaux 211127 (3) et (4) de l'ADR de 1999 doit être utilisée pour obtenir l'épaisseur équivalente si la citerne a été mise en service avant le 31 décembre 2002 ;
+c) il y a lieu de tenir compte des § 6.8.2.1.18 et 6.8.2.1.19 de l'ADR si la citerne a été mise en service après le 31 décembre 2002 ;
+d) la hauteur des protections est d'au moins 30 cm ;
+2° pour satisfaire au 6.8.2.1.20 (b) de l'ADR ; quand on utilise le 6.8.2.1.20 (b) 3 de l'ADR, la paroi extérieure doit avoir une épaisseur d'au moins 1 mm si elle est en aluminium.
+
+<a name="LNK0015" href="#LNKR0015">Sous-section 3.</a> - . Dispositions concernant les brise-flots et cloisons
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#LNK0016"> 23</a>. Les brise-flots et cloisons possèdent la résistance équivalente exigée au 6.8.2.1.22 de l'ADR s'ils peuvent supporter une pression totale égale à deux fois le poids du liquide transporté dans le compartiment ou la section de la citerne. Cette pression est exercée uniformément sur l'entièreté du brise-flots ou de la cloison dans le sens de la marche du véhicule ainsi que dans le sens opposé, compte tenu des ouvertures éventuelles de passage.
+
+<a name="LNK0016" href="#LNKR0016">Sous-section 4.</a> - Ouverture et fermeture du fond ouvrant des citernes à déchets opérant sous vide (système à servocommande)
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#LNK0017"> 24</a>. La commande visée au 6.10.3.5 de l'ADR doit se trouver le plus près possible du fond ouvrant (maximum 1 mètre du fond ouvrant dans le sens longitudinal) sans risque pour l'opérateur.
+
+<a name="LNK0017" href="#LNKR0017">Section 2.</a> - Prescriptions concernant les équipements de citernes
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0018"> 25</a>. Les équipements de citernes des véhicules-citernes qui sont affectées au transport de marchandises dangereuses et dont le certificat d'agrément est établi en Région de Bruxelles-Capitale, sont soumis aux modalités prévues aux sous-sections du présent chapitre.
+
+<a name="LNK0018" href="#LNKR0018">Sous-section 1ère.</a> - Dispositions générales
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. Tous les équipements doivent être agréés par un organisme agréé. Cet organisme doit contrôler si le type d'équipement répond aux prescriptions qui lui sont applicables. Cet agrément est accordé par un organisme agréé après qu'il ait contrôlé si le type d'équipement répond aux prescriptions qui lui sont applicables.
+
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. A sa demande d'agrément, le fournisseur de l'équipement joint une documentation technique et une attestation du fabricant certifiant qu'il convient aux produits à transporter.
+
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. § 1er. Toute décision de refus d'un type d'équipement doit être motivée et notifiée au directeur de la DVTM par l'organisme agréé qui a examiné la demande d'agrément.
+§ 2. Si, pour les citernes fixes ou démontables destinées au transport routier de marchandises dangereuses autres que celles de la classe 2, les résultats des vérifications ou des contrôles effectués sur la citerne par un organisme agréé sont négatifs, celui-ci en informe le directeur de la DVTM. Lorsque les vérifications ou les contrôles sont recommencés, ils doivent l'être par le même organisme.
+
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. Les équipements des citernes construites à partir du 1er mai 1986 doivent être facilement identifiables. A cette fin, ils doivent porter un marquage durable comportant au moins :
+1° le nom ou sigle du fabricant ;
+2° le type ;
+3° les conditions maximales de service (pression, température, etc.).
+Ce marquage doit être lisible après montage de l'accessoire.
+Toutes ces indications peuvent, au besoin, être reprises sur une plaquette résistant à la corrosion et fixée de façon durable sur l'accessoire (de préférence au moyen de rivets).
+
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#LNK0019"> 30</a>. Les citernes suivantes ne doivent pas recevoir l'agrément visé par la présente sous-section :
+1° citernes affectées uniquement au transport national des :
+a) matières de la classe 3 ayant un point d'éclair supérieur à 23 ° C mais inférieur ou égal à 60 ° C, sans danger secondaire ;
+a) matières du numéro ONU 1202 ayant un point d'éclair supérieur à 60° C mais inférieur ou égal à 100 ° C ;
+c) matières des numéros ONU 3256 et 3257 ;
+2° citernes destinées au transport des matières de la classe 2 et des numéros ONU 1051, 1052 et 1790 (contenant plus de 85 % de fluorure d'hydrogène) qui répondent aux exigences de la Directive 99/36/CE du Conseil du 29 avril 1999 relative aux équipements sous pression transportables et qui satisfont à une des normes mentionnées aux 6.8.2.6 ou 6.8.3.6 de l'ADR ;
+3° citernes dont les équipements ont été conçus selon une des normes relatives aux équipements citées au 6.8.2.6 de l'ADR.
+
+<a name="LNK0019" href="#LNKR0019">Sous-section 2.</a> - Protection des équipements
+
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0020"> 31</a>. § 1er . Pour les citernes fixes, les exigences du 6.8.2.2.1 de l'ADR concernant la protection des équipements contre les risques d'arrachement ou d'avarie sont réputées satisfaites si les équipements de structure et de service fixés directement au réservoir sont placés aux endroits suivants :
+1° à la partie inférieure du réservoir, dans un secteur qui s'étend sur un angle de 60° de part et d'autre de sa génératrice inférieure ;
+2° à la partie supérieure du réservoir, dans un secteur qui s'étend sur un angle de 30° de part et d'autre de sa génératrice supérieure si une protection encadre complètement le ou les accessoires concernés ; la hauteur de cette protection doit être plus élevée que celle du ou des accessoires à protéger et la protection ne peut se déformer sous l'action du poids total du véhicule et de sa charge utile en position renversée ;
+3° sur les parois arrière et avant du réservoir, hors du rayon de carré et du bord droit ; toute partie d'équipement placé sur la paroi arrière du réservoir doit se trouver au moins à 10 cm en avant du hors tout du pare-chocs.
+§ 2. Pour tout autre type de construction, les organismes agréés doivent au préalable donner leur accord après s'être assuré que les exigences du 6.8.2.2.1 de l'ADR sont remplies.
+
+<a name="LNK0020" href="#LNKR0020">Section 3.</a> - Prescriptions concernant le marquage et les inscriptions des citernes
+
+<a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. Le marquage et les inscriptions sur les citernes dont le certificat d'agrément est établi en Région de Bruxelles-Capitale, sont soumis aux modalités prévues aux articles 33 et 34.
+
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#Art.34"> 33</a>. La plaque signalétique des véhicules-citernes ou véhicule-batteries doit être placée de façon à ce qu'elle soit aisément observable et lisible par un observateur situé au sol.
+
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#LNK0021"> 34</a>. A l'arrière de chaque véhicule-citerne ou véhicule-batterie (véhicule, semi-remorque ou remorque) doivent figurer les données suivantes : le nom ou le sigle de l'exploitant, ainsi que le numéro de téléphone de l'exploitant ou du bureau de la firme à contacter en cas d'accident.
+Les lettres et chiffres de ces indications doivent avoir une hauteur minimale de 7 cm et une largeur minimale de 1 cm.
+
+<a name="LNK0021" href="#LNKR0021">Section 4.</a> - Prescriptions concernant les citernes en plastique
+
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#Art.36"> 35</a>. Les citernes en matière plastique visées au chapitre 6.9 de l'ADR et dont le certificat d'agrément est établi en Région de Bruxelles-Capitale sont soumises aux modalités suivantes :
+1° l'article 20, § 1er, et les sections 2 et 3 du présent chapitre sont aussi d'application sur les citernes en matière plastique ;
+2° lors des essais sur les citernes atmosphériques en matière plastique renforcée, on peut appliquer une pression hydraulique ou une pression exercée par un coussin d'air, mais pas une pression d'air.
+
+<a name="Art.36" href="#Art.35">Art.</a> <a href="#Art.37"> 36</a>. Avant d'entamer la construction de la citerne selon un agrément de prototype, le constructeur doit recevoir l'approbation d'un organisme agréé.
+L'organisme agréé accorde son approbation, en vérifiant si le projet de construction est conforme à l'agrément de prototype et à la réglementation, sur base du dossier complet introduit par le demandeur comprenant les éléments suivants :
+1° un schéma de la construction sur lequel doivent au moins apparaître les renseignements suivants :
+a) le numéro d'agrément du prototype ;
+b) les dimensions de la citerne ;
+c) et pour des citernes fixes :
+i) les dimensions du châssis ;
+ii) le système de fixation de la/des citerne(s) au châssis ;
+iii) la position du centre de gravité du véhicule-citerne, semi-remorque-citerne ou remorque-citerne ;
+2° une fiche de renseignements reprenant entre autres les données suivantes :
+a) la liste, le mode de placement et la protection des équipements utilisés ;
+b) les caractéristiques mécaniques et l'épaisseur des matériaux de construction de base ;
+c) le code citerne et, le cas échéant, la nature des produits à transporter ;
+3° les attestations d'agrément des procédures de soudage ;
+4° les attestations valables de qualification des soudeurs.
+
+<a name="Art.37" href="#Art.36">Art.</a> <a href="#LNK0022"> 37</a>. L'article 36 ne s'applique pas aux citernes destinées au transport des matières de la classe 2 et des numéros ONU 1051, 1052 et 1790 (contenant plus de 85 % de fluorure d'hydrogène) qui répondent aux exigences de la Directive 99/36/CE du Conseil du 29 avril 1999 relative aux équipements sous pression.
+
+<a name="LNK0022" href="#LNKR0022">CHAPITRE 6.</a> - EQUIPEMENT DE SECURITE
+
+<a name="Art.38" href="#Art.37">Art.</a> <a href="#LNK0023"> 38</a>. L'équipement de sécurité, pour les transports effectués au moyen de véhicules immatriculés en Belgique, est soumis aux modalités prévues par les articles 39 et 40.
+
+<a name="LNK0023" href="#LNKR0023">Section 1ère.</a> - Extincteurs d'incendie
+
+<a name="Art.39" href="#Art.38">Art.</a> <a href="#LNK0024"> 39</a>. § 1er. Les extincteurs d'incendie prescrits au 8.1.4. de l'ADR, doivent porter en plus la marque de conformité BENOR V ou une autre marque de conformité qui est reconnue par un autre état membre de l'Union européenne ou par un pays de l'Association européenne de libre-échange qui est partie à l'accord concernant l'Espace économique européen et l'ADR.
+§ 2. Les extincteurs d'incendie pourvus de la marque de conformité BENOR V ont une date de limite de validité qui est la date de fabrication augmentée de cinq ans.
+§ 3. Les extincteurs d'incendie visés au 8.1.4.1 de l'ADR doivent se trouver dans la cabine à la portée de la main du conducteur.
+
+<a name="LNK0024" href="#LNKR0024">Section 2.</a> - Interrupteur
+
+<a name="Art.39" href="#Art.39">Art.</a> <a href="#LNK0025"> 39</a>. L'emplacement des dispositifs de commande du coupe-circuit de batteries doit être signalé distinctement par la mention bilingue " INTERRUPTEUR-HOOFDSCHAKELAAR " ou par un pictogramme clair.
+
+<a name="LNK0025" href="#LNKR0025">CHAPITRE 7.</a> - CONSTRUCTION ET AGREMENT DES VEHICULES
+
+<a name="Art.40" href="#Art.39">Art.</a> 40. Pour les véhicules immatriculés en Région de Bruxelles-Capitale, les pare-chocs des véhicules-citernes ne peuvent pas être fixés directement à la citerne.
