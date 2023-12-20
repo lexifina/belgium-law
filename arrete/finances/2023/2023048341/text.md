@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les compétences prévues à l'article 2, alinéa 2, de l'arrêté royal du 12 décembre 2023 désignant l'autorité compétente concernant les missions dans le cadre des mesures restrictives en matière financière, conformément l'article 2 de la loi du 13 mai 2003 relative à la mise en oeuvre des mesures restrictives adoptées par le Conseil de l'Union européenne à l'encontre d'Etats, de certaines personnes et entités sont déléguées à l'Administrateur général de l'Administration générale de la Trésorerie du Service Public Fédéral Finances.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le jour de sa publication dans le Moniteur belge.
