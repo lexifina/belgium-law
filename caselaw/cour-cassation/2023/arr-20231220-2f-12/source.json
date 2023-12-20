@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20231220.2F.12",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20231220.2F.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-12-20",
+  "date_as_printed": "Jugement/arrêt du 20 décembre 2023",
+  "published_on_juportal": "2023-12-28",
+  "language": "fr",
+  "role_number": "P.23.1671.F",
+  "case_name_as_published": "H.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "VOORLOPIGE HECHTENIS - VONNISGERECHT",
+    "Renvoi de l'inculpé devant la juridiction de jugement - Maintien de la détention - Conséquence - Faculté de déposer une requête de mise en liberté",
+    "Prévenu détenu préventivement - Condamnation en première instance - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "DETENTION PREVENTIVE - ARRESTATION IMMEDIATE",
+    "VOORLOPIGE HECHTENIS - ONMIDDELLIJKE AANHOUDING",
+    "Condamnation en première instance - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Procédure en degré d'appel",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Rechtspleging in hoger beroep",
+    "Condamnation en première instance - Prévenu détenu préventivement - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "Verwijzing van de inverdenkinggestelde naar het vonnisgerecht - Handhaving van de hechtenis - Gevolg - Mogelijkheid om een verzoek tot invrijheidstelling in te dienen",
+    "In voorlopige hechtenis genomen beklaagde - Veroordeling in eerste aanleg - Hoger beroep - Handhaving van de hechtenis - Verzoek tot invrijheidstelling - Draagwijdte",
+    "Veroordeling in eerste aanleg - Hoger beroep - Handhaving van de hechtenis - Verzoek tot invrijheidstelling - Draagwijdte",
+    "Veroordeling in eerste aanleg - In voorlopige hechtenis genomen beklaagde - Hoger beroep - Handhaving van de hechtenis - Verzoek tot invrijheidstelling - Draagwijdte"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "Renvoi de l'inculpé devant la juridiction de jugement - Maintien de la détention - Conséquence - Faculté de déposer une requête de mise en liberté",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 1er - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - JURIDICTION DE JUGEMENT",
+    "Prévenu détenu préventivement - Condamnation en première instance - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 1er et 2 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - ARRESTATION IMMEDIATE",
+    "Condamnation en première instance - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 1er et 2 - 35 Lien ELI No pub 1990099963",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Procédure en degré d'appel",
+    "Condamnation en première instance - Prévenu détenu préventivement - Appel - Maintien de la détention - Requête de mise en liberté - Portée",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 27, § 1er et 2 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20231220.2F.12",
+  "source_sha256": "cc9509e39a22a313f72c00c32a4acfaf9d24dabd3188e6453a0b17bffe958625",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20231220.2F.12_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
