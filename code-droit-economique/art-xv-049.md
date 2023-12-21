@@ -1,1 +1,1 @@
-La finalité de l'échange de données visé à la soussection 2 est la bonne coopération administrative entre Etats membres, le contrôle des prestataires et de leurs services ainsi que l'application des réglementations relatives aux activités de services.
+(Abrogé)

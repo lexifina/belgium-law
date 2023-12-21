@@ -1,1 +1,1 @@
-En cas de non-respect par le prestataire de services de paiement des obligations qui découlent de l'article VII. 55, § 1er et sans préjudice des sanctions de droit commun, l'utilisateur de services de paiement est dispensé de plein droit du paiement des frais demandés.
+En cas de non-respect par le prestataire de services de paiement des obligations qui découlent de l'article VII.30, § 1er, et sans préjudice des sanctions de droit commun, l'utilisateur de services de paiement est dispensé de plein droit du paiement des frais demandés.

@@ -1,3 +1,1 @@
-§ 1er. Les données à caractère personnel visées à l'article XV.52 sont communiquées uniquement aux autorités compétentes d'autres Etats membres.
-§ 2. S'il s'avère que des données à caractère personnel inexactes ont été transmises ou que des données à caractère personnel ont été transmises illicitement, le destinataire en est informé immédiatement.
-Les données à caractère personnel inexactes ou transmises illicitement sont rectifiées, effacées ou verrouillées sans délais conformément à l'article 4, § 1er, 4°, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+(Abrogé)
