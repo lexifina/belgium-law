@@ -1,1 +1,1 @@
-Sont punis d'une sanction de niveau 3, ceux qui, de mauvaise foi, commettent une infraction aux dispositions du livre VI du présent Code, à l'exception de celles visées aux articles XV.83, XV.85, XV.86 et XV.126 et à l'exception des infractions visées à l'article VI. 104.
+Sont punis d'une sanction de niveau 3, ceux qui, de mauvaise foi, commettent une infraction aux dispositions du livre VI du présent Code et de ses arrêtés d'exécution, à l'exception de celles visées aux articles XV.85, XV.85/1, XV.86 et XV.126 et à l'exception des infractions visées à l'article VI. 104.

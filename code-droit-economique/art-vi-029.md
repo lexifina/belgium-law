@@ -4,4 +4,4 @@ L'interdiction visée à l'alinéa 1er, implique en outre l'interdiction de diff
 § 3. Le Roi peut désigner les biens ou catégories de biens pour lesquels l'interdiction visée au paragraphe 1er ne s'applique pas.
 § 4. L'interdiction visée au paragraphe 1er n'est pas applicable aux offres en vente et ventes effectuées au cours de manifestations commerciales organisées pendant la période d'attente, à condition que celles-ci soient organisées par des groupements locaux d'entreprises ou avec leur participation et qu'elles aient une durée maximale de quatre jours par période d'attente.
 Le Roi peut fixer des conditions supplémentaires auxquelles ces manifestations peuvent être organisées.
-§ 5. La période d'attente visée au paragraphe 1er, n'est pas applicable aux ventes en liquidation effectuées conformément aux articles VI.22 à VI.24.
+§ 5. La période d'attente visée au paragraphe 1er, n'est pas applicable aux ventes en liquidation effectuées conformément aux articles VI.22 et VI.23.

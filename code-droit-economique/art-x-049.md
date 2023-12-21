@@ -1,5 +1,5 @@
 Toutes actions dérivant du contrat de transport des choses, à l'exception du transport des malades et de celles qui résultent d'un fait qualifié par la loi pénale, sont prescrites après six mois en matière de transports intérieurs, et après un an en matière de transports internationaux.
 La prescription court, en cas de perte totale ou de retard, du jour où le transport aurait dû être effectué, et, pour le cas de perte partielle ou d'avarie, du jour de la remise des marchandises. En cas d'application irrégulière du tarif ou d'erreurs de calcul dans la fixation des frais de transport et des frais accessoires, la prescription court à partir du jour du paiement.
-Les actions nées du contrat de transport des personnes, à l'exception de celles qui résultent d'un fait qualifié par la loi pénale, sont prescrites par un an.
+Les actions nées du contrat de transport des personnes, à l'exception de celles qui résultent d'un fait qualifié par la loi pénale, sont prescrites par deux ans.
 La prescription court à partir du jour où s'est produit le fait qui donne lieu à l'action en justice.
 Les actions récursoires devront, à peine de déchéance, être introduites dans le délai d'un mois à dater de l'assignation qui donne lieu au recours.

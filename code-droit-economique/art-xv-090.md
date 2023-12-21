@@ -17,7 +17,7 @@ Sont punis d'une sanction du niveau 5, ceux qui:
 16° en infraction aux dispositions des articles VII. 77, § 2 ... et VII.133, § 2 ... en tant que prêteur, concluent sciemment un contrat de crédit dont ils doivent raisonnablement estimer que le consommateur ne sera pas à même de respecter les obligations en découlant;
 17° contreviennent aux articles VII.117 à VII.122 et VII.147/33 à VII.147/38;
 18° contreviennent aux articles VII.137, VII.138, VII.143, VII.146, VII.147 et 147/26, § 1er;
-19° en tant que prêteur ou intermédiaire de crédit ne fournit pas au consommateur l'ESIS visé à l'article VII.127, ou qui sciemment, en infraction aux articles VII.129 et VII.130, ne fournit pas l'information la mieux adaptée ou ne recherche pas le crédit le mieux adapté;
+19° en tant que prêteur ou intermédiaire de crédit ne fournit pas au consommateur l'ESIS visé à l'article VII.127, ou qui sciemment, en infraction aux articles VII.129, VII.130, et VII.131 ne fournit pas l'information la mieux adaptée ou ne recherche pas le crédit le mieux adapté;
 20°: a) sciemment et volontairement émettent un chèque ou tout autre titre assimilé au chèque par le présent Code, sans provision préalable, suffisante et disponible; soit
 b) cèdent un de ces titres sachant que la provision n'est pas suffisante et disponible; soit
 c) comme tireur, retirent sciemment et volontairement tout ou partie de la provision d'un de ces titres au cours du délai de présentation; soit

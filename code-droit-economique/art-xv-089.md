@@ -27,7 +27,7 @@ Sont punis d'une sanction du niveau 5, ceux qui commettent une infraction aux di
 22° des articles VII.55/3 à VII.55/6 relatifs à la responsabilité du prestataire de services de paiement pour la non-exécution ou la mauvaise exécution de l'opération de paiement;
 23° de l'article VII.55/12 relatif à l'accès aux comptes détenus auprès d'un établissement de crédit;
 24° des articles VII.55/13 à VII.56 relatifs au règlement des litiges;
-25° du règlement (CE) n° 924/2009 du Parlement européen et du Conseil du 16 septembre 2009 concernant les paiements transfrontaliers dans la Communauté et abrogeant le règlement (CE) n° 2560/2001;
+25° du règlement (UE) 2021/1230 du Parlement européen et du Conseil du 14 juillet 2021 concernant les paiements transfrontaliers dans l'Union;
 26° des articles VII. 60 à VII. 62 relatifs à l'activité d'émission de monnaie électronique, au caractère remboursable de la monnaie électronique et à l'interdiction d'octroyer des intérêts;
 26° /1 des articles VII.62/1 à VII.62/7 relatifs au service de changement de comptes de paiement;
 27° des articles 3 et 5 à 9 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil du 14 mars 2012 établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009;
