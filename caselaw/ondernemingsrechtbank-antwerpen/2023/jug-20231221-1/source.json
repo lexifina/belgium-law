@@ -1,0 +1,34 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2023:JUG.20231221.1",
+  "ecli": "ECLI:BE:ORANT:2023:JUG.20231221.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2023-12-21",
+  "date_as_printed": "Vonnis/arrest van 21 december 2023",
+  "published_on_juportal": "2026-01-27",
+  "language": "nl",
+  "role_number": "A/23/02284",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Rechtstreekse aansprakelijkheid - Fout - de daad",
+    "Buitencontractuele aansprakelijkheid, Buitencontractuele fout, contractuele aansprakelijkheid aannemer, bewaringsverplichting aannemer, teruggaveverplichting aannemer, uitvoering overheidsopdrachten",
+    "BURGERLIJK RECHT - VERBINTENISSENRECHT- ALGEMENE BEGINSELEN - Samenloop aansprakelijkheidsregimes - Contractueel-buitencontractueel",
+    "Samenloop contractuele en buitencontractuele aansprakelijkheid, co-existentie, algemene zorgvuldigheidsverplichting"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Rechtstreekse aansprakelijkheid - Fout - de daad",
+    "Buitencontractuele aansprakelijkheid, Buitencontractuele fout, contractuele aansprakelijkheid aannemer, bewaringsverplichting aannemer, teruggaveverplichting aannemer, uitvoering overheidsopdrachten",
+    "Koninklijk Besluit - 14-01-2013 - 79 - 09 ELI link Pub nr 2013021005 oud Burgerlijk Wetboek - 21-03-1804 - 1382 - 33 ELI link Pub nr 1804032153 oud Burgerlijk Wetboek - 21-03-1804 - 1383 - 33 ELI link Pub nr 1804032153",
+    "BURGERLIJK RECHT - VERBINTENISSENRECHT- ALGEMENE BEGINSELEN - Samenloop aansprakelijkheidsregimes - Contractueel-buitencontractueel",
+    "Samenloop contractuele en buitencontractuele aansprakelijkheid, co-existentie, algemene zorgvuldigheidsverplichting"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2023:JUG.20231221.1",
+  "source_sha256": "33dcedde0ba846cf41714433404599ecc344bcce2a74a04e3130b65be64e54ea",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2023:JUG.20231221.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_18.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
