@@ -1,0 +1,37 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2023:ARR.20231222.1F.4",
+  "ecli": "ECLI:BE:CASS:2023:ARR.20231222.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2023-12-22",
+  "date_as_printed": "Jugement/arrêt du 22 décembre 2023",
+  "published_on_juportal": "2024-01-16",
+  "language": "fr",
+  "role_number": "F.22.0053.F",
+  "case_name_as_published": "BOULANT-FONTAINE s.r.l. c. ETAT BELGE FINANCES",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagtermijnen",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE"
+  ],
+  "fiche": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Délais",
+    "Délais d'investigation - Condition - Notification d'indices de fraude fiscale - Notion",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 333, al. 1er L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 84ter - 32 Lien DB Justel 19690703-32",
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "Délais - Délai de prescription allongé - Condition - Notification d'indices de fraude fiscale - Notion",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 333, al. 1er L. du 3 juillet 1969 créant le Code de la taxe sur la valeur ajoutée - 03-07-1969 - Art. 84ter - 32 Lien DB Justel 19690703-32",
+    "BJS-Bulletin juridique social - 2025, n° 729, p. 13. - COLLON, François: Note'Notification d'indices de fraude: un seul indice peut suffire'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2023:ARR.20231222.1F.4",
+  "source_sha256": "d48d9c4b5d97e000abe781649d012be3ee90cc95302a3cb2b3f752d680ce174b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2023:ARR.20231222.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
