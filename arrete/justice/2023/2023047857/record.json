@@ -1,0 +1,30 @@
+{
+  "id": "2023047857",
+  "title": "30 NOVEMBRE 2023. - Arrêté ministériel modifiant l'arrêté ministériel du 16 décembre 2021 portant des mesures d'organisations internes en vue de la coordination, la rationalisation et l'accélération de la digitalisation de la Justice",
+  "source_title": "30 NOVEMBRE 2023. - Arrêté ministériel modifiant l'arrêté ministériel du 16 décembre 2021 portant des mesures d'organisations internes en vue de la coordination, la rationalisation et l'accélération de la digitalisation de la Justice",
+  "act": "arrete/justice/2023/2023047857",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2023-12-13&numac_search=2023047857&page=19&lg_txt=F&caller=list&2023047857=25&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "6bbafc6031669f2a51c7c8be4ed3788c91d9bcd67f12f4facb92de9365aa24e3",
+  "source_issuer": "Justice",
+  "made": "2023-11-30",
+  "published": "2023-12-13",
+  "in_force": "2023-12-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 décembre 2023; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "13 décembre 2023",
+    "Numéro": "2023047857",
+    "page": "117459",
+    "Dossier numéro": "2023-11-30/05",
+    "Entrée en vigueur": "23 décembre 2023",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 65,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2023-12-23"
+}
