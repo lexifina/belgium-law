@@ -4,5 +4,5 @@ Le Conseil d'administration a pour missions:
 3° d'agréer les opérateurs sectoriels de normalisation et de leur retirer leur agrément;
 4° d'adopter les projets de normes;
 5° d'approuver la publication des normes par le Bureau;
-6° d'évaluer la manière dont le Comité de direction et les commissions de normalisation exécutent leurs tâches et de formuler des avis et des recommandations à ce sujet au ministre et au Comité de direction;
+6° d'évaluer la manière dont le directeur et les commissions de normalisation exécutent leurs tâches et de formuler des avis et des recommandations à ce sujet au ministre et au directeur;
 7° d'approuver le rapport annuel mentionné à l'article VIII.17.
