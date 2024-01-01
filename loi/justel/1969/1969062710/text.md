@@ -367,11 +367,19 @@ L'arrondissement au franc supérieur ou inférieur se fait sur le total du monta
 
 <a name="LNK0015" href="#LNKR0015">Section Ier.</a> - Déclaration et paiement.
 
-<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.21bis"> 21</a>. &lt;L 2003-02-24/35, art. 5, 021; <b> En vigueur : </b> 01-01-2003&gt; Tout employeur assujetti est tenu de se faire immatriculer à l'Office national de sécurité sociale et de faire parvenir à ce dernier une déclaration justificative du montant des cotisations dues.
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.%2021/1."> 21</a>. &lt;L 2003-02-24/35, art. 5, 021; <b> En vigueur : </b> 01-01-2003&gt; Tout employeur assujetti est tenu de se faire immatriculer à l'Office national de sécurité sociale et de faire parvenir à ce dernier une déclaration justificative du montant des cotisations dues.
 Cette déclaration est faite au moyen d'un procédé électronique approuvé par l'Office.
 La déclaration, dûment signée et complétée par les renseignements demandés, doit parvenir à l'Office dans le délai fixé par arrêté royal.
 
-<a name="Art.21bis" href="#Art.21">Art.</a> <a href="#Art.22"> 21bis</a>. &lt;Inséré par L 1999-01-25/32, art. 63; <b> En vigueur : </b> 16-02-1999&gt; L'employeur qui perd cette qualité parce qu'il cesse, pendant au moins un trimestre civil, d'occuper du personnel assujetti doit en informer l'Office national de Sécurité sociale dans les délais fixés par le Roi.
+<a name="Art.%2021/1." href="#Art.21">Art.</a> <a href="#Art.21bis">21/1</a>. [<sup>1</sup> Les employeurs qui occupent des travailleurs flexi-jobs, visés à l'article 3,3° de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale doivent déclarer auprès de l'Office national de sécurité sociale, le flexisalaire et les données concernant les prestations, visés à l'article 3, 2°, de la même loi, au moyen d'un procédé électronique approuvé par l'Office, dans un délai déterminé par le Roi.
+Les données visées au paragraphe 1er sont les mêmes données que celles communiquées en vertu de l'article 21 de la présente loi pour les travailleurs flexi-job visés à l'article 3,3° de la loi du 16 novembre 2015.
+Les données devront être transmises par l'employeur au plus tard le 5e jour qui suit le calcul des salaires et l'établissement des fiches de salaire afin de permettre à l'Office national de sécurité sociale d'informer les travailleurs en temps utile du dépassement éventuel du plafond fiscal visé à l'article 38, § 1er, alinéa 1er, 29°, du Code des impôts sur les revenus 1992.
+Les données sont traitées par l'Office national de sécurité sociale et sont accessibles aux mêmes personnes que les données visées à l'article 21 de la présente loi.
+Les données sont conservées durant la même période que les données visées à l'article 21 de la présente loi.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 189, 090; En vigueur : 01-01-2024&gt;
+
+<a name="Art.21bis" href="#Art.%2021/1.">Art.</a> <a href="#Art.22"> 21bis</a>. &lt;Inséré par L 1999-01-25/32, art. 63; <b> En vigueur : </b> 16-02-1999&gt; L'employeur qui perd cette qualité parce qu'il cesse, pendant au moins un trimestre civil, d'occuper du personnel assujetti doit en informer l'Office national de Sécurité sociale dans les délais fixés par le Roi.
 
 <a name="Art.22" href="#Art.21bis">Art.</a> <a href="#Art.22bis"> 22</a>.En l'absence de déclaration (trimestrielle) ou en cas de déclaration incomplète ou inexacte, l'Office national de sécurité sociale établit d'office le montant des cotisations dues, soit sur base de tous éléments déjà en sa possession, soit après avoir recueilli auprès de l'employeur, (ou du curateur) qui est tenu de les lui fournir, tous les renseignements qu'il juge utiles à cette fin. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122232" target="_blank">2008-12-22/32</a>, art. 70 et 92, 1°, 038; <b> En vigueur : </b> 01-01-2009&gt;
 Le montant de la créance établie est notifié à l'employeur (ou au curateur) par lettre recommandée. &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122232" target="_blank">2008-12-22/32</a>, art. 92, 2°, 038; <b> En vigueur : </b> 01-01-2009&gt;
