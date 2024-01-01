@@ -1,0 +1,48 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, outre les définitions visées à l'article 2 de l'arrêté royal du 22 février 2001, on entend par l'arrêté royal du 22 février 2001 : l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le fonctionnaire visé à l'article 7, § 1er, de l'arrêté royal du 22 février 2001 est le conseiller général du service juridique de l'Agence.
+Le fonctionnaire visé au premier alinéa peut désigner des fonctionnaires-juriste du service juridique de grade A1 ou supérieur pour proposer la transaction administrative et imposer l'amende administrative en cas d'absence ou d'empêchement de sa part.
+L'Agence publie au Moniteur belge les désignations visées au deuxième alinéa.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er. La proposition de transaction administrative comprend les éléments suivants:
+1° les dispositions constituant la base légale de la proposition de transaction administrative;
+2° les références du procès-verbal constatant l'infraction et contenant l'exposé succinct des faits à l'origine de l'engagement de la procédure de proposition de transaction administrative;
+Lorsque le procès-verbal constatant l'infraction n'a pas été établi par une personne visée ou désignée conformément à l'article 3 de l'arrêté royal du 22 février 2001, une copie du procès-verbal est jointe à la proposition de transaction administrative;
+3° la date de la proposition de transaction administrative;
+4° le montant de la proposition de transaction administrative;
+5° la mention de la (des) disposition(s) pénale(s) applicable(s);
+6° la disposition de l'article 7/1, § 1er, troisième alinéa et 7/1, § 3, de l'arrêté royal du 22 février 2001 relative au paiement de la transaction administrative;
+7° L'indication du numéro IBAN et du code BIC du compte postal de l' Agence sur lequel le montant de la transaction administrative doit être versé et l'indication de la communication structurée par laquelle le paiement doit être effectué.
+§ 2. La proposition visée au paragraphe 1er est nulle si les éléments visés au paragraphe 1er, 6° sont absents.
+§ 3. Sans préjudice du paragraphe 2, le délai prévu à l'article 7/1, § 3, de l'arrêté royal du 22 février 2001 ne commence pas à courir si un ou plusieurs éléments prévus au paragraphe 1er font défaut. Ce délai commence à courir le lendemain du jour où l'auteur de l'infraction reçoit les éléments manquants par lettre recommandée ou par courrier électronique.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans le cas prévu à l'article 7/1, § 4, ou en cas de non-paiement de la transaction administrative dans le délai prévu à l'article 7/1, § 3, de l'arrêté royal du 22 février 2001, l'intéressé est invité à présenter sa défense par lettre recommandée et par courrier ordinaire. A peine de nullité, cet envoi doit contenir les informations suivantes :
+1° les références du procès-verbal constatant l'infraction et contenant l'exposé des faits à l'origine de l'ouverture de la procédure;
+Lorsque le procès-verbal de constatation de l'infraction n'a pas été établi par une personne visée ou désignée en application de l'article 3 de l'arrêté royal du 22 février 2001, une copie du procès-verbal est jointe;
+2° la possibilité d'introduire des moyens de défense écrits dans un délai de 30 jours;
+3° la possibilité de consulter le dossier et/ou d'en obtenir copie dans le délai prévu pour l'introduction des moyens de défense.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. L'amende administrative est imposée dans un délai de 180 jours à compter de la notification de l'intention d'imposer une amende administrative.
+La décision imposant une amende administrative comporte, à peine de nullité, les éléments suivants:
+1° les dispositions constituant la base légale de la décision imposant une amende administrative;
+2° les références du procès-verbal constatant l'infraction et contenant l'exposé des faits à l'origine de la procédure d'imposition d'une amende administrative;
+Lorsque le procès-verbal de constatation de l'infraction n'a pas été établi par une personne visée ou désignée en application de l'article 3 de l'arrêté royal du 22 février 2001, une copie du procès-verbal est jointe à la décision;
+3° la date de la proposition de transaction administrative ou, en cas d'application de l'article 7/1, § 4, de l'arrêté royal du 22 février 2001, la notification de la possibilité d'introduire des moyens de défense et de consulter le dossier;
+4° le cas échéant, le montant de la transaction administrative;
+5° le cas échéant, que le montant de la transaction n'a pas été versé dans le délai prévu à l'article 7/1, § 3, de l'arrêté royal du 22 février 2001;
+6° le cas échéant, la date à laquelle les moyens de défense ont été introduits, un résumé des moyens de défense introduits, et la réponse à ces moyens de défense;
+7° le montant de l'amende administrative;
+8° la mention de la (des) disposition(s) pénale(s) applicable(s);
+9° le cas échéant, que des circonstances atténuantes ont été appliquées;
+10° le cas échéant, qu'un sursis a été accordé;
+11° la disposition de l'article 7/2, § 1 troisième alinéa, de l'arrêté royal du 22 février 2001 relative au paiement de l'amende administrative ;
+12° L'indication du numéro IBAN et du code BIC du compte postal de l'Agence sur lequel le montant de l'amende administrative doit être versé et l'indication de la communication structurée par laquelle le paiement doit être effectué;
+13° la disposition de l'article 7/2, § 6, de l'arrêté royal du 22 février 2001 relative au recours contre la décision.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'arrêté royal du 16 décembre 2002 fixant les règles de procédure et les modalités de paiement des amendes administratives suite aux contrôles effectués en exécution de la législation relative à la sécurité alimentaire et mettant en vigueur certaines dispositions de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales, modifié par les arrêtés royaux du 12 juillet 2015 et du 2 septembre 2021, est abrogé.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Par dérogation à l'article 3, les transactions administratives amiables légalement proposées avant l'entrée en vigueur du présent arrêté constituent une proposition pour l'application de l'article 7/1 de l'arrêté royal du 22 février 2001. Le délai de paiement prend cours le lendemain de l'entrée en vigueur du présent arrêté.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le présent arrêté entre en vigueur le 1er janvier 2024.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le ministre de l'Agriculture est chargé de l'exécution du présent arrêté.
