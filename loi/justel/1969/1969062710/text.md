@@ -574,7 +574,7 @@ A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-t
 De même, lorsque l'intervention d'un sous-traitant, qui avait été déclarée à l'Office national précité, est annulée, l'entrepreneur en informe l'Office national précité [<sup>1</sup> ...]<sup>1</sup>.
 [<sup>7</sup> Pour l'application du présent paragraphe, est assimilé à l'entrepreneur :
 a) tout entrepreneur qui est son propre [<sup>9</sup> donneur d'ordre]<sup>9</sup>, c'est-à-dire qui effectue ou fait effectuer pour son propre compte des travaux visés au § 1er, 1°, a), afin d'aliéner ensuite en tout ou en partie ce bien immobilier;
-b) tout entrepreneur qui effectue pour son propre compte des travaux visés au § 1er, 1°, a);
+b) tout entrepreneur [<sup>14</sup> à l'exception de l'Etat, des établissements d'utilité public fédéraux, des Régions, des Communautés, des provinces, des communes, et des institutions publiques de sécurité sociale et d'autres personnes morales de droit public qui n'exercent aucune activité économique,]<sup>14</sup> qui effectue pour son propre compte des travaux visés au § 1er, 1°, a) [<sup>14</sup> , à l'exception des activités de nettoyage et/ou d'entretien au sens de l'article 1er, § 1er, alinéa 6, de l'arrêté royal du 9 février 1971 instituant certaines commissions paritaires et fixant leur dénomination et leur compétence, qui constituent aussi un travail immobilier au sens de l'article 19, § 2, 2°, troisième alinéa, du Code de la taxe sur la valeur ajoutée]<sup>14</sup>;
 c) pour les travaux visés au § 1er, 1°, b), la personne qui doit faire une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.]<sup>7</sup>
 L'Office national précité met une copie électronique des déclarations reçues à la disposition du service compétent du Service public fédéral des Finances.
 Ces déclarations sont mises à la disposition des services d'inspection visés à l'[<sup>2</sup> article 16, 1°, du Code pénal social]<sup>2</sup>, qui le demandent.
@@ -601,6 +601,7 @@ Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 pe
 (<font color="red">11</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018122149" target="_blank">2018-12-21/49</a>, art. 45, 072; En vigueur : 01-04-2019&gt;
 (<font color="red">12</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019041309" target="_blank">2019-04-13/09</a>, art. 125, 075; En vigueur : 01-01-2020&gt;
 (<font color="red">13</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022022804" target="_blank">2022-02-28/04</a>, art. 20, 081; En vigueur : 12-11-2020&gt;
+(<font color="red">14</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051519" target="_blank">2024-05-15/19</a>, art. 205, 092; En vigueur : 01-04-2022&gt;
 
 <a name="Art.%2030bis%20DROIT%20FUTUR." href="#Art.30bis">Art.</a> <a href="#Art.30ter">30bis DROIT FUTUR</a>. {fut}
 &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007042735" target="_blank">2007-04-27/35</a>, art. 55, 031; <b> En vigueur : </b> 01-01-2008&gt; § 1er. Pour l'application du présent article, il faut entendre par :
