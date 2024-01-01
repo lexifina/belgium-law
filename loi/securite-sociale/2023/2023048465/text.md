@@ -1,0 +1,50 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 80, § 1er, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié en dernier lieu par la loi du 26 décembre 2022, les modifications suivantes sont apportées:
+1° il est inséré le 7° /1 rédigé comme suit:
+"7° /1 confirme, sur présentation du fonctionnaire dirigeant du Service des indemnités, le contenu des contrôles thématiques qui seront effectués par les médecins du Service des indemnités, membres du Conseil médical de l'invalidité, sur base de la compétence qui leur est confiée en vertu de l'article 82, alinéa 2;";
+2° le 8° est complété par ce qui suit:
+"ainsi que sur base des rapports des contrôles thématiques effectués par les médecins du Service des indemnités, membres du Conseil médical de l'invalidité, sur base de la compétence qui leur est confiée en vertu de l'article 82, alinéa 2".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 82 de la même loi, modifié en dernier lieu par la loi du 30 septembre 2017, les modifications suivantes sont apportées:
+1° dans l'alinéa 1er, 1°, les mots "alinéa 2" sont remplacés par les mots "alinéa 3";
+2° dans l'alinéa 1er, le 3° est abrogé;
+3° l'alinéa 2 est remplacé par ce qui suit:
+"Le Roi détermine les conditions dans lesquelles le pouvoir de décision relatif à l'état d'incapacité de travail en exécution de l'alinéa 1er, 1°, ou le pouvoir de notifier cette décision, peut être exercé par un ou plusieurs médecins, membres du Conseil médical de l'invalidité. Le pouvoir de décision ne peut, en aucun cas, être exercé exclusivement par des médecins occupés par l'organisme assureur auquel le titulaire intéressé est affilié ou inscrit.".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 90 de la même loi, modifié en dernier lieu par la loi du 30 septembre 2017, les modifications suivantes sont apportées:
+1° un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2:
+"Le Roi détermine dans quels cas et sous quelles conditions le collaborateur de l'équipe multidisciplinaire soutient le médecin-conseil dans son évaluation de l'état d'incapacité primaire prévu à l'article 100.";
+2° dans l'alinéa 3, qui devient l'alinéa 4, les mots "ou le collaborateur de l'équipe multidisciplinaire" sont insérés entre les mots "Le médecin-conseil" et les mots "communique au Conseil médical de l'invalidité".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 94 de la même loi, modifié en dernier lieu par la loi du 21 décembre 2013, les modifications suivantes sont apportées:
+1° l'alinéa 1er est remplacé par ce qui suit:
+"Conformément aux dispositions de l'article 82, le Conseil médical de l'invalidité constate l'état d'invalidité au sens de l'article 100 et en fixe la durée, sur base d'un rapport établi par le médecin-conseil de l'organisme assureur reprenant une durée proposée de reconnaissance.";
+2° un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2:
+"Le Roi détermine dans quels cas et sous quelles conditions le rapport visé à l'alinéa 1er peut être établi par le collaborateur de l'équipe multidisciplinaire.".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Dans l'article 100 de la même loi, modifié en dernier lieu par la loi du 4 juin 2023, les modifications suivantes sont apportées:
+1° dans le paragraphe 1er/1, alinéa 2, les mots "un renvoi par le médecin-conseil" sont remplacés par les mots "un renvoi par le médecin-conseil ou le collaborateur de l'équipe multidisciplinaire, selon le cas,";
+2° dans la deuxième phrase de l'alinéa 1er du paragraphe 1er/2, les mots "Le "Coordinateur Retour Au Travail" et le médecin-conseil" sont remplacés par les mots "Le "Coordinateur Retour Au Travail", le médecin-conseil et le collaborateur de l'équipe multidisciplinaire";
+3° dans le paragraphe 1er/4, alinéa 1er, le 1° est remplacé par ce qui suit:
+"1° de fournir, à la demande du médecin-conseil ou du collaborateur de l'équipe multidisciplinaire, les données qui sont nécessaires pour l'estimation de ses capacités restantes, ainsi que de donner suite à la convocation du médecin-conseil ou du collaborateur de l'équipe multidisciplinaire pour un contact physique qui est, le cas échéant, organisé si les données exigées pour cette évaluation des capacités restantes ne sont pas fournies;";
+4° dans le paragraphe 1er/4, alinéa 2, les mots "à l'examen médical" sont remplacés par les mots "au contact physique".
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. L'article 102 de la même loi, abrogé par la loi du 28 avril 2010, est rétabli par ce qui suit:
+"Art. 102. Au sein de l'organisme assureur, un ergothérapeute, un kinésithérapeute, un psychologue clinicien ou un infirmier peut être occupé en tant que collaborateur de l'équipe multidisciplinaire chargé, dans les conditions prévues par les dispositions de la présente loi coordonnée et de ses arrêtés d'exécution, des missions suivantes:
+1° le soutien au médecin-conseil dans l'évaluation de l'état d'incapacité de travail, ainsi que dans l'évaluation des capacités restantes et dans la catégorisation correspondante du titulaire reconnu en incapacité de travail, en fournissant une explication des possibilités de réintégration, le cas échéant;
+2° l'octroi de la prolongation de l'autorisation donnée par le médecin-conseil de reprendre le travail pendant la période d'incapacité de travail;
+3° l'évaluation du caractère indispensable du degré de nécessité de l'aide d'une tierce personne en vue de l'octroi de l'allocation forfaitaire pour l'aide d'une tierce personne.".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Dans l'article 110 de la même loi, rétabli par la loi du 12 janvier 2023, les modifications suivantes sont apportées:
+1° dans le paragraphe 1er, alinéa 2, les mots "un renvoi par le médecin-conseil" sont remplacés par les mots "un renvoi par le médecin-conseil ou le collaborateur de l'équipe multidisciplinaire, selon le cas,";
+2° dans la deuxième phrase de l'alinéa 1er du paragraphe 2, les mots "Le "Coordinateur Retour Au Travail" et le médecin-conseil" sont remplacés par les mots "Le "Coordinateur Retour Au Travail", le médecin-conseil et le collaborateur de l'équipe multidisciplinaire";
+3° dans le paragraphe 4, alinéa 1er, le 1° est remplacé par ce qui suit:
+"1° de fournir, à la demande du médecin-conseil ou du collaborateur de l'équipe multidisciplinaire, les données qui sont nécessaires pour l'estimation de ses capacités restantes, ainsi que de donner suite à la convocation du médecin-conseil ou du collaborateur de l'équipe multidisciplinaire pour un contact physique qui est, le cas échéant, organisé si les données exigées pour cette évaluation des capacités restantes ne sont pas fournies;";
+4° dans le paragraphe 4, alinéa 2, les mots "à l'examen médical" sont remplacés par les mots "au contact physique".
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Dans l'article 134, § 2, de la même loi, inséré par la loi du 22 décembre 2003 et modifié par la loi du 25 septembre 2022, les mots "à l'examen médical organisé par le médecin-conseil" sont remplacés par les mots "au contact physique organisé par le médecin-conseil ou le collaborateur de l'équipe multidisciplinaire".
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. La présente loi entre en vigueur:
+1° le 1er janvier 2024 pour les titulaires dont la période d'incapacité primaire visée à l'article 87 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 débute au plus tôt le 1er janvier 2024;
+2° le 1er juillet 2024 pour les titulaires dont la période d'incapacité primaire visée à l'article 87 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 a débuté avant le 1er janvier 2024.
