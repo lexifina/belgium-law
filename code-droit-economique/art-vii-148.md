@@ -1,7 +1,8 @@
 § 1er. La Banque est chargée d'enregistrer dans la Centrale:
-1° les contrats de crédit qui tombent sous le champ d'application du présent livre (volet positif) et
+1° les contrats de crédit qui tombent sous le champ d'application du présent livre (volet positif);
 2° les défauts de paiement découlant de ces contrats (volet négatif) qui répondent aux critères fixés par le Roi;
-L'alinéa précédent ne s'applique pas aux contrats de crédit visés à l'article VII.3, § 3, 1° et 2°, en ce qui concerne les volets positif et négatif, ni aux dépassements, en ce qui concerne le volet positif.
+3° les découverts non autorisés sur un compte de paiement auquel aucun contrat de crédit n'est lié, visés à l'article VII.100 (volet négatif).
+L'alinéa 1er ne s'applique pas aux contrats de crédit visés à l'article VII.3, § 3, 2°, portant sur le montant du crédit inférieur ou égal à 1250 euros et aux dépassements, en ce qui concerne le volet positif.
 § 2. Les données enregistrées dans la Centrale concernent:
 1° l'identité du consommateur, du prêteur et, le cas échéant, du cessionnaire et la personne qui constitue une sûreté;
 2° les références du contrat de crédit;
