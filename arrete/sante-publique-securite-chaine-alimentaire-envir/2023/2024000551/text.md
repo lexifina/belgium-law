@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le pourcentage d'intervention du Fonds d'aide médicale urgente visé à l'article 2/1, § 3, de l'arrêté royal du 22 mai 1965 déterminant les modalités de l'intervention du Fonds d'aide médicale urgente, inséré par l'arrêté royal du 27 février 2019, est fixé à soixante pour cent de l'indemnité forfaitaire visée à l' article 1er, § 1er, de l'arrêté royal du 28 novembre 2018 relatif à la facturation dans le cadre d'une intervention d'aide médicale urgente par un service ambulancier, pour application en 2024.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté produit ses effets le 1 janvier 2024.
