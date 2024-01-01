@@ -1,0 +1,30 @@
+{
+  "id": "2022043205",
+  "title": "26 DECEMBRE 2022. - Loi portant réforme du statut des huissiers de justice et autres dispositions diverses",
+  "source_title": "26 DECEMBRE 2022. - Loi portant réforme du statut des huissiers de justice et autres dispositions diverses",
+  "act": "loi/justice/2022/2022043205",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2022-12-30&numac_search=2022043205&page=1&lg_txt=F&caller=list&2022043205=22&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "e17a0204668038f6955c00ea52f7555e63c1efae5c0b34016d17941e11f0c76e",
+  "source_issuer": "Justice",
+  "made": "2022-12-26",
+  "published": "2022-12-30",
+  "in_force": "2024-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2023; own clause: Art. 42. La présente loi entre en vigueur le 1er janvier 2023 à l'exception: | 1° des articles 11 à 15, qui entrent en vigueur le 1er avril 2023; | 2° des articles 2, 2°, 4, 7, 4° et 9, qui entrent en vigueur le 1er janvier 2024; | 3° de l'article 38, qui entre en vigueur le 31 décembre 2022.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "30 décembre 2022",
+    "Numéro": "2022043205",
+    "page": "103024",
+    "Dossier numéro": "2022-12-26/04",
+    "Entrée en vigueur": "1 janvier 2023",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 7760,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-01-01"
+}
