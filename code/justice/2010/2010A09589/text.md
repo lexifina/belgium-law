@@ -1940,7 +1940,22 @@ Est puni d'une sanction de niveau 1, le travailleur visé à l'article 5, 1°, d
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015081003" target="_blank">2015-08-10/03</a>, art. 15, 015; En vigueur : 01-07-2015&gt;
 
-<a name="Art.%20137/5." href="#Art.137/2">Art.</a> <a href="#LNK0059">137/5</a>. [<sup>1</sup> L'utilisation du système de caisse enregistreuse
+<a name="Art.%20137/3." href="#Art.137/2">Art.</a> <a href="#Art.%20137/4.">137/3</a>. [<sup>1</sup> L'enregistrement de présence sur les lieux de travail où des activités d'entretien et/ou de nettoyage sont effectuées
+Est puni d'une sanction de niveau 3:
+1° les entrepreneurs et les sous-traitants, leurs préposés ou leurs mandataires qui ont commis une infraction à l'article 24, à l'article 34, à l'article 35, à l'article 36 et à l'article 37, alinéas 2, 3 et 4, de la loi-programme du 26 décembre 2022 et aux arrêtés d'exécution;
+2° l'employeur, son préposé ou son mandataire qui a commis une infraction à l'article 37, alinéa 1er, de la loi-programme du 26 décembre 2022 et aux arrêtés d'exécution.
+En ce qui concerne les infractions, visées à l'alinéa 1er, l'amende est multipliée par le nombre de personnes concernées par cette infraction.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 41, 064; En vigueur : 01-01-2024&gt;
+
+<a name="Art.%20137/4." href="#Art.%20137/3.">Art.</a> <a href="#Art.%20137/5.">137/4</a>. [<sup>1</sup> L'obligation d'enregistrement des présences des travailleurs et d'autres personnes physiques sur les lieux de travail où des activités de nettoyage et/ou d'entretien sont effectuées.
+Est puni d'une sanction de niveau 1:
+1° le travailleur, visé à l'article 23, 1° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 1er, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de débuts et de fins d'activités sur le lieu de travail, ainsi que les enregistrements des intervalles de repos au moment où celles-ci débutent et se terminent;
+2° l'employeur, l'entrepreneur, le sous-traitant, visés à l'article 23, 2° et 3° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 2, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de son arrivée et son départ au moment où il arrive et quitte le lieu de travail.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 42, 064; En vigueur : 01-01-2024&gt;
+
+<a name="Art.%20137/5." href="#Art.%20137/4.">Art.</a> <a href="#LNK0059">137/5</a>. [<sup>1</sup> L'utilisation du système de caisse enregistreuse
 Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui n'a pas utilisé ou n'a pas utilisé correctement le système de caisse enregistreuse visé à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur Horeca alors que les dispositions fiscales l'exigent.
 L'infraction est punie d'une sanction de niveau 5 lorsqu'elle a été commise sciemment et volontairement.]<sup>1</sup>
 ----------
@@ -3206,6 +3221,18 @@ L'amende est multipliée par le nombre de travailleurs concernés.
 Sont punis d'une sanction de niveau 2, les Fonds de sécurité d'existence, leurs préposés ou leurs mandataires qui, en contravention à l'article 5bis de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, ne garantissent pas la gratuité des avantages octroyés par les Fonds de sécurité d'existence aux bénéficiaires en mettant à leur charge des frais d'une manière ou d'une autre.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 41, 017; En vigueur : 01-05-2016&gt;
+
+<a name="LNK0135" href="#LNKR0135">Section 4/1 DROIT FUTUR.</a> {fut}[<sup>1</sup> Le "Fonds Retour Au Travail"]<sup>1</sup>{/fut}
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 166, 064; En vigueur : 01-01-2024&gt;
+
+<a name="Art.%20220/2%20DROIT%20FUTUR.%20" href="#LNK0135">Art.</a> <a href="#LNK0115">220/2 DROIT FUTUR</a>. [<sup>1</sup> Le "Fonds Retour Au Travail"
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention au chapitre 3 de la loi du 5 septembre 2001 visant à améliorer le taux d'emploi des travailleurs et ses arrêtés d'exécution:
+1° n'a pas communiqué les informations visées à l'article 10, § 1er, de la loi précitée de 2001 à l'Institut national d'assurance maladie-invalidité ou ne les a pas communiquées dans les délais et selon les modalités fixées par la loi et ses arrêtés d'exécution;
+2° n'a pas versé le montant de 1.800 euros au "Fonds Retour Au Travail" visé à l'article 110/2 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 ou ne l'a pas versé selon les modalités fixées par la loi et ses arrêtés d'exécution.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022122601" target="_blank">2022-12-26/01</a>, art. 167, 064; En vigueur : 01-04-2024&gt;
 
 <a name="LNK0115" href="#LNKR0115">Section 5.</a> - L'assujettissement frauduleux
 
