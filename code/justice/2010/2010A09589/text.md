@@ -1940,6 +1940,12 @@ Est puni d'une sanction de niveau 1, le travailleur visé à l'article 5, 1°, d
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015081003" target="_blank">2015-08-10/03</a>, art. 15, 015; En vigueur : 01-07-2015&gt;
 
+<a name="Art.%20137/5." href="#Art.137/2">Art.</a> <a href="#LNK0059">137/5</a>. [<sup>1</sup> L'utilisation du système de caisse enregistreuse
+Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui n'a pas utilisé ou n'a pas utilisé correctement le système de caisse enregistreuse visé à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur Horeca alors que les dispositions fiscales l'exigent.
+L'infraction est punie d'une sanction de niveau 5 lorsqu'elle a été commise sciemment et volontairement.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 89, 063; En vigueur : 08-01-2024&gt;
+
 <a name="LNK0059" href="#LNKR0059">CHAPITRE 2.</a> - Les infractions en matière de temps de travail
 
 <a name="LNK0060" href="#LNKR0060">Section 1re.</a> - Les temps de travail et les temps de repos
@@ -2080,10 +2086,24 @@ L'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 1, 016; En vigueur : 01-12-2015&gt;
 
-<a name="Art.152/2" href="#Art.152/1">Art.</a> <a href="#LNK0064"> 152/2</a>. [<sup>1</sup> Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui occupe des travailleurs exerçant un flexi-job sans enregistrer ni tenir à jour le moment exact du début et de la fin de la prestation de travail au moyen d'un système tel que défini à l'article 24 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale.]<sup>1</sup>
+<a name="Art.152/2" href="#Art.152/1">Art.</a> <a href="#LNK0064"> 152/2</a>.[<sup>1</sup> [<sup>3</sup> § 1er.]<sup>3</sup> Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui occupe des travailleurs exerçant un flexi-job sans enregistrer ni tenir à jour le moment exact du début et de la fin de la prestation de travail au moyen d'un système tel que défini à l'article 24 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale.]<sup>1</sup>
+[<sup>3</sup> § 2. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire, qui, en contravention à la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale ou ses arrêtés d'exécution, a occupé un travailleur en tant que travailleur exerçant un flexi-job alors que les prestations effectuées par ce travailleur ne rentrent pas dans le champ d'application des flexi-jobs.
+Cette sanction est seulement d'application dans le cas où la délimitation est basée sur les codes NACE.
+L'amende est multipliée par le nombre de travailleurs concernés.]<sup>3</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 28, 016; En vigueur : 01-12-2015&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022100709" target="_blank">2022-10-07/09</a>, art. 35, 056; En vigueur : 10-11-2022&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 190, 063; En vigueur : 01-01-2024&gt;
+
+<a name="Art.%20152/3." href="#Art.152/2">Art.</a> <a href="#LNK0064">152/3</a>. [<sup>1</sup> Le contrat-cadre "flexi-job"
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale:
+1° n'a pas conclu préalablement au début de la première occupation, un contrat-cadre avec le travailleur exerçant un flexi-job, conformément aux articles 6 et 7 de la loi précitée;
+2° a établi le contrat-cadre de manière incomplète ou inexacte;
+3° n'a pas pris pas les mesures nécessaires afin que le contrat-cadre soit tenu en tout temps à la disposition des fonctionnaires et agents chargés de la surveillance;
+4° n'a pas conservé le contrat-cadre sur le lieu de travail du travailleur exerçant un flexi-job.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 191, 063; En vigueur : 01-01-2024&gt;
 
 <a name="LNK0064" href="#LNKR0064">Section 4.</a> - Le travail de nuit
 
