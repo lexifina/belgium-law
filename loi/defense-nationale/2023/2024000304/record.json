@@ -1,0 +1,29 @@
+{
+  "id": "2024000304",
+  "title": "25 DECEMBRE 2023. - Loi fixant le contingent de l'armée pour l'année 2024",
+  "source_title": "25 DECEMBRE 2023. - Loi fixant le contingent de l'armée pour l'année 2024",
+  "act": "loi/defense-nationale/2023/2024000304",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-01-19&numac_search=2024000304&page=1&lg_txt=F&caller=list&2024000304=23&trier=promulgation&ddd=2023-01-01&ddf=2023-12-31&fr=f",
+  "source_sha256": "b5c1ab5ad5ccf3e545b35d3aba6eb64424af307af59b3a71914326b29f6f36fb",
+  "source_issuer": "Défense Nationale",
+  "made": "2023-12-25",
+  "published": "2024-01-19",
+  "in_force": "2024-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2024; own clause: Art. 3. La présente loi entre en vigueur le 1er janvier 2024.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Défense Nationale",
+    "Publication": "19 janvier 2024",
+    "Numéro": "2024000304",
+    "page": "7482",
+    "Dossier numéro": "2023-12-25/13",
+    "Entrée en vigueur": "1 janvier 2024"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 59,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-01-01"
+}
