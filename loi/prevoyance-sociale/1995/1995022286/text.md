@@ -2,7 +2,7 @@
 
 <a name="Art.1"></a>Article <a href="#Art.2">1</a>. La présente loi est applicable à toute personne et à toute institution de sécurité sociale.
 
-<a name="Art.2" href="#Art.1">Art.</a> <a href="#LNK0002"> 2</a>. Pour l'exécution et l'application de la présente loi et de ses mesures d'exécution, on entend par :
+<a name="Art.2" href="#Art.1">Art.</a> <a href="#LNK0002"> 2</a>.Pour l'exécution et l'application de la présente loi et de ses mesures d'exécution, on entend par :
 1° "sécurité sociale" :
 a) l'ensemble des branches reprises à l'article 21 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, y compris celles de la sécurité sociale des marins de la marine marchande et des ouvriers mineurs;
 (b) l'ensemble des branches visées sous le a), dont l'application est étendue aux personnes occupées dans le secteur public, et les branches du secteur public qui remplissent une fonction équivalente aux branches visées sous le a);) &lt;L 1997-06-25/41, art. 2, 002; <b> En vigueur : </b> 01-01-1997 et 01-01-1999, voir L 1997-06-25/41, art. 29&gt;
@@ -11,6 +11,7 @@ d) l'ensemble des branches reprises à l'article 12 de la loi du 17 juillet 1963
 e) l'ensemble des branches du régime d'aide sociale constitué par les allocations aux handicapés, le droit à un minimum de moyens d'existence, (l'aide sociale,) les prestations familiales garanties et le revenu garanti aux personnes âgées; &lt;L 2005-03-10/58, art. 2, 004; <b> En vigueur : </b> 16-06-2005&gt;
 f) l'ensemble des avantages complémentaires aux prestations assurées dans le cadre de la sécurité sociale visée au littera a, accordés, dans les limites de leurs statuts, par les fonds de sécurité d'existence visés au 2°, littera c);
 g) l'ensemble des règles relatives à la perception et au recouvrement des cotisations et des autres ressources contribuant au financement des branches et avantages précités;
+[<sup>1</sup> h) l'ensemble des droits visés dans la loi du 18 juillet 2017 relative à la création du statut de solidarité nationale, à l'octroi d'une pension de dédommagement et au remboursement des soins médicaux à la suite d'actes de terrorisme;]<sup>1</sup>
 2° "institutions de sécurité sociale" :
 (a) les ministères, les institutions publiques de sécurité sociale ainsi que tout organisme, autorité ou toute personne morale de droit public qui accorde des prestations de sécurité sociale;) &lt;L 1997-06-25/41, art. 2, 002; <b> En vigueur : </b> 01-01-1997&gt;
 b) les institutions coopérantes de sécurité sociale, c'est-à-dire les organismes de droit privé, autres que les secrétariats sociaux d'employeurs (et les offices de tarification des associations de pharmaciens), agréés pour collaborer à l'application de la sécurité sociale; &lt;L 1997-06-25/41, art. 2, 002; <b> En vigueur : </b> 01-01-1997&gt;
@@ -31,6 +32,8 @@ Le Roi peut, par arrêté délibéré en Conseil des ministres, modifier les not
 6° "données médicales à caractère personnel";
 (7° " assurés sociaux ";) &lt;L 1997-06-25/41, art. 3, 002; <b> En vigueur : </b> 01-01-1997&gt;
 (8° " décision ".) &lt;L 1997-06-25/41, art. 3, 002; <b> En vigueur : </b> 01-01-1997&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023121905" target="_blank">2023-12-19/05</a>, art. 76, 005; En vigueur : 06-01-2024&gt;
 
 <a name="LNK0002" href="#LNKR0002">CHAPITRE II.</a> - Devoirs des institutions de sécurité sociale.
 
