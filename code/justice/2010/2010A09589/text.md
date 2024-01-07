@@ -966,7 +966,7 @@ Le cas échéant, l'administration du SPF Finances chargée de la perception et 
 <a name="Art.92" href="#Art.91/6">Art.</a> <a href="#Art.93"> 92</a>. La communication de renseignements par le ministère public
 Le procureur du Roi qui traite une affaire pénale dont l'examen fait apparaître des indices sérieux d'infractions aux dispositions du présent Code, en informe l'auditeur du travail.
 
-<a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>. La communication de la décision sur l'action publique
+<a name="Art.93" href="#Art.92">Art.</a> <a href="#Art.94"> 93</a>.La communication de la décision sur l'action publique
 § 1er. Le service d'inspection qui a dressé le procès-verbal est informé de toute décision rendue sur l'action publique du chef d'infraction à la législation dont il exerce la surveillance.
 Cette information est donnée dans le mois de la prise de la décision selon le cas, par le ministère public ou le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
 § 2. Toute décision rendue sur l'action publique du chef d'infraction aux dispositions du présent code fait également l'objet d'une information à l'administration compétente.
@@ -974,8 +974,12 @@ Cette information est donnée dans le mois de la prise de la décision selon le 
 Une copie de la décision est transmise à l'administration compétente si elle en fait la demande, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
 § 3. En cas de condamnation pour les faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, à charge de l'employeur, de ses préposés ou de ses mandataires, une copie du jugement ou de l'arrêt est transmise à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux [<sup>1</sup> ...]<sup>1</sup>.
 Cette communication est faite dans le mois de la prise de la décision, selon le cas, par le greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
+[<sup>2</sup> § 4. En cas de condamnation à une peine d'emprisonnement principale supérieure à six mois ou à une amende supérieure à 4.000 euros pour une infraction visée au Livre 2, à l'encontre d'un prestataire de services postaux tel que visé à l'article 2, 2°, de la loi du 26 janvier 2018 sur les services postaux et qui est mentionné sur la liste visée à l'article 6/1, § 6, de la même loi, une copie du jugement ou de l'arrêt est adressée à l'Institut belge des postes et télécommunications tel que visé à l'article 13 de la loi du 17 janvier 2003 portant statut du régulateur des secteurs des postes et télécommunications belges.
+Pour l'application des dispositions de l'alinéa 1er, il n'est pas tenu compte des décimes additionnels en cas d'amendes pénales.
+La communication est effectuée par, selon le cas, le greffier du tribunal de première instance ou de la cour d'appel qui a prononcé la condamnation, dans un délai d'un mois à compter de la date du prononcé.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011110702" target="_blank">2011-11-07/02</a>, art. 20, 003; En vigueur : 01-09-2012&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023121720" target="_blank">2023-12-17/20</a>, art. 19, 065; En vigueur : 07-01-2024&gt;
 
 <a name="Art.94" href="#Art.93">Art.</a> <a href="#Art.95"> 94</a>. La communication de la décision de l'administration compétente
 Les décisions administratives ou judiciaires infligeant les amendes administratives, déclarant la culpabilité ou par laquelle l'infraction est classée sans suite sont communiquées par l'administration compétente au service d'inspection qui a dressé le procès-verbal, au ministère public et à l'Office national de sécurité sociale.
@@ -2604,6 +2608,16 @@ c) a travaillé le diamant dans un atelier qui n'est pas agréé par le ministre
 En ce qui concerne les infractions visées à l'alinéa 1er, 1°, a) et b), l'amende est multipliée par le nombre de travailleurs concernés.
 Le juge peut retirer à l'employeur son autorisation spéciale pour un délai d'un à six mois en cas d'infraction visée à l'alinéa 1er, 1°, a) ou c).
 Il peut en outre retirer au travailleur sa carte de travail pour un délai d'un à six mois, en cas d'infraction à l'alinéa 1er, 2°, c).
+
+<a name="LNK0136" href="#LNKR0136">CHAPITRE 4/1. </a> [<sup>1</sup> - Distribution de colis par un prestataire de services postaux]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023121720" target="_blank">2023-12-17/20</a>, art. 20, 065; En vigueur : 07-01-2024&gt;
+
+<a name="Art.%20180/1." href="#LNK0136">Art.</a> <a href="#LNK0085">180/1</a>. [<sup>1</sup> Non-respect des obligations en matière de temps de distribution de colis
+Est puni d'une sanction de niveau 2, le prestataire de services postaux, son préposé ou son mandataire qui, en contravention de la loi du 26 janvier 2018 sur les services postaux, n'a pas respecté les obligations relatives à l'enregistrement du temps de distribution de colis visées dans les articles 5/3 et 5/4 de la présente loi.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de livreurs de colis pour lesquels il n'y a pas d'enregistrement du temps de distribution de colis.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023121720" target="_blank">2023-12-17/20</a>, art. 21, 065; En vigueur : 07-01-2024&gt;
 
 <a name="LNK0085" href="#LNKR0085">CHAPITRE 5.</a> - Le travail non déclaré
 
