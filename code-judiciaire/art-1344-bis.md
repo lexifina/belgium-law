@@ -1,7 +1,7 @@
 Sous réserve des dispositions relatives aux baux à ferme, toute demande en matière de louage de choses peut être introduite par une requête écrite déposée au greffe de la justice de paix.
 A peine de nullité, la requête contient:
 1. l'indication des jour, mois et an;
-2. les nom, prénom ... et domicile du requérant et, le cas échéant, son numéro de registre national ou numéro d'entreprise;
+2. les nom, prénom ... et domicile du requérant et, le cas échéant, son numéro de registre national, numéro d'identification dans le registre bis ou numéro d'entreprise;
 3. les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite;
 4. l'objet et l'exposé sommaire des moyens de la demande;
 5. la signature du requérant ou de son avocat.

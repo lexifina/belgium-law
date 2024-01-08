@@ -1,7 +1,7 @@
 Tout détenteur d'un droit ou d'un titre sur le bien occupé peut introduire, par requête contradictoire ou, en cas d'absolue nécessité découlant du fait que malgré les tentatives du requérant en ce sens, il ne lui a pas été possible de déterminer l'identité d'aucun des occupants du bien, par requête unilatérale déposée au greffe de la justice de paix, une demande d'expulsion de lieux occupés sans droit ni titre.
 La requête contient à peine de nullité:
 1. l'indication des jour, mois et an;
-2. les nom, prénom ... et domicile du requérant et, le cas échéant, son numéro de registre national ou numéro d'entreprise;
+2. les nom, prénom ... et domicile du requérant et, le cas échéant, son numéro de registre national, numéro d'identification dans le registre bis ou numéro d'entreprise;
 3. sauf en cas d'introduction de la demande par une requête unilatérale, les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite;
 4. l'objet et l'exposé sommaire des moyens de la demande;
 5. la signature du requérant ou de son avocat ou, en cas d'introduction de la demande par une requête unilatérale, la signature de l'avocat.
