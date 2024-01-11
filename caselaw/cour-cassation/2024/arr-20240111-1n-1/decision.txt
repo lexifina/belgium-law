@@ -1,0 +1,76 @@
+Nr. F.23.0008.N
+I. K.,
+eiser,
+met als raadslieden mr. Jan Tuerlinckx, advocaat bij de balie te Antwerpen en Limburg, met kantoor te 2018 Antwerpen, Van Putlei 14 en mr. Hugo Vandenberghe, advocaat bij de balie te Brussel, met kantoor te 1850 Grimbergen, d’Overschielaan 40, waar de eiser woonplaats kiest,
+tegen
+BELGISCHE STAAT, Federale overheidsdienst Financiën, vertegenwoordigd door de minister van Financiën, met kabinet te 1000 Brussel, Wetstraat 12, voor wie optreedt de Adviseur-generaal van de Gewestelijke Directie BBI Antwerpen, met kantoor te 9050 Ledeberg (Gent), G. Crommenlaan 6 bus 804, ingeschreven bij de KBO onder het nummer 0308.357.159,
+verweerder,
+vertegenwoordigd door mr. Geoffroy de Foestraets en mr. Stefan De Vleeschouwer, advocaten bij het Hof van Cassatie, beiden met kantoor te 1000 Brussel, Dalstraat 67, waar de verweerder woonplaats kiest.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Antwerpen van 6 september 2022.
+Advocaat-generaal Stijn Ravyse heeft op 8 november 2023 een schriftelijke conclusie neergelegd.
+Raadsheer Bart Wylleman heeft verslag uitgebracht.
+Advocaat-generaal Stijn Ravyse heeft geconcludeerd.
+II.	CASSATIEMIDDELEN
+De eiser voert in zijn verzoekschrift dat aan dit arrest is gehecht, twee middelen aan.
+III.	BESLISSING VAN HET HOF
+Beoordeling
+Eerste middel
+Eerste onderdeel
+1.	Het toepasselijke artikel 344, § 1, WIB92 bepaalt:
+“Aan de administratie kan niet worden tegengeworpen, de rechtshandeling noch het geheel van rechtshandelingen dat een zelfde verrichting tot stand brengt, wanneer de administratie door vermoedens of andere in artikel 340 bedoelde bewijsmiddelen en aan de hand van objectieve omstandigheden aantoont dat er sprake is van fiscaal misbruik.
+Er is sprake van fiscaal misbruik wanneer de belastingplichtige middels de door hem gestelde rechtshandeling of het geheel van rechtshandelingen één van de volgende verrichtingen tot stand brengt:
+1° een verrichting waarbij hij zichzelf in strijd met de doelstellingen van een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten buiten het toepassingsgebied van die bepaling plaatst; of
+2° een verrichting waarbij aanspraak wordt gemaakt op een belastingvoordeel voorzien door een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten en de toekenning van dit voordeel in strijd zou zijn met de doelstellingen van die bepaling en die in wezen het verkrijgen van dit voordeel tot doel heeft.
+Het komt aan de belastingplichtige toe te bewijzen dat de keuze voor zijn rechtshandeling of het geheel van rechtshandelingen door andere motieven verantwoord is dan het ontwijken van inkomstenbelastingen.
+Indien de belastingplichtige het tegenbewijs niet levert, dan wordt de belastbare grondslag en de belastingberekening zodanig hersteld dat de verrichting aan een belastingheffing overeenkomstig het doel van de wet wordt onderworpen alsof het misbruik niet heeft plaatsgevonden”.
+Volgens de definitie in deze wetsbepaling van het begrip “fiscaal misbruik” omvat dit een objectief en een subjectief element.
+Wat het objectieve element van het fiscaal misbruik betreft, vereist deze wetsbepaling dat de in het geding zijnde verrichting tot gevolg heeft dat de belastingplichtige aan de belasting ontsnapt door zich hetzij buiten het toepassingsgebied te plaatsen van een bepaling die een belasting oplegt, hetzij binnen het toepassingsgebied van een bepaling die in een belastingvoordeel voorziet. Het aldus beschreven gevolg van de verrichting dient bovendien in strijd te zijn met de doelstellingen die met de betrokken fiscale bepaling worden nagestreefd, en niet alleen maar vreemd te zijn aan dergelijke doelstellingen.
+2.	Met betrekking tot het objectieve element oordelen de appelrechters dat “de administratie [moet] aantonen dat er sprake is van een rechtshandeling of een geheel van rechtshandelingen, die in tegenspraak is (of zijn) met de doelstelling van een fiscale wetsbepaling” en dat “de administratie [aldus] [moet] aantonen dat de belastingplichtige zich geplaatst heeft buiten het toepassingsgebied van een bepaling die normaal van toepassing is ofwel aanspraak maakt op een belastingvoordeel waarvan hij overeenkomstig de bedoeling van de wetgever niet kan genieten (objectieve voorwaarde)”.
+Verder oordelen zij, met verwijzing naar het arrest nr. 141/2013 van het Grondwettelijk Hof van 30 oktober 2013, dat “de strijdigheid van de verrichtingen met de doelstellingen van de betrokken fiscale bepaling enkel [kan] vastgesteld worden wanneer die doelstellingen op voldoende duidelijke wijze blijken uit de tekst en, in voorkomend geval, uit de parlementaire voorbereidingen van de van toepassing zijnde wetsbepaling” en dat “in dat opzicht de administratie rekening [zal] moeten houden met, onder meer, de algemene context van de relevante fiscale wetgeving, de praktijken die gewoonlijk gangbaar zijn op het ogenblik van de inwerkingtreding van de fiscale bepaling waarvan zij het misbruik aanvoert, alsook met het eventuele bestaan van specifieke bepalingen die reeds ertoe strekken bepaalde misbruiken van de betrokken bepaling tegen te gaan”.
+Ten slotte oordelen de appelrechters dat:
+-	“de administratie ten bewijze van het objectieve element van het fiscaal misbruik [stelt] dat de belastingplichtige zich ten onrechte onttrokken heeft aan de toepassing van artikel 18, eerste lid, 1° WIB92 (belastbaarheid als dividend)”;
+-	“uit de tekst van [artikel 18, eerste lid, 1°, WIB92] blijkt dat het de bedoeling is om alle voordelen door een vennootschap toegekend aan aandelen of winstbewijzen van die vennootschap, hoe ook genaamd, uit welke hoofde ook en op welke wijze ook verkregen te belasten als roerend inkomen en meer bepaald als een dividend”;
+-	“uit de hiervoor geciteerde mail blijkt dat de binnen de overgenomen vennootschappen opgebouwde reserves normaal gezien door middel van een dividenduitkering aan de aandeelhouder zouden worden uitgekeerd, doch dat de fiscale last, die daaraan verbonden is, vermeden kon worden door T. te laten fungeren als holdingvennootschap en door te werken met een kortlopende lening bij KBC en een langer lopende lening bij de kleindochtervennootschap”;
+-	“door middel van de opgezette constructie, die als kunstmatig kan worden beschouwd, de voordelen van de aandelen van TSB Telecom en BV TSB onbelast [werden] uitgekeerd aan [de eiser], daar waar ze overeenkomstig doel en strekking van de wet als dividenden hadden moeten zijn belast”.
+3.	Op grond van deze redenen verantwoorden de appelrechters hun beslissing naar recht dat de administratie het bewijs geleverd heeft van het objectieve element van het fiscaal misbruik bedoeld in artikel 344, § 1, WIB92, zonder dat zij het fiscaal legaliteitsbeginsel miskennen of zelf de belastbare materie vaststellen.
+In zoverre kan het onderdeel niet worden aangenomen.
+4.	In tegenstelling tot wat het onderdeel aanvoert, verrichten de appelrechters aldus een autonoom onderzoek naar het vervuld zijn van de objectieve toepassingsvereiste van het fiscaal misbruik.
+In zoverre mist het onderdeel feitelijke grondslag.
+5.	Door aldus te oordelen, verwerpen de appelrechters de aanvoeringen van de eiser dat hij geen dividenden kon innen omdat hij geen aandeelhouder was van de vennootschap die over de reserves beschikte zodat die reserves niet aan hem konden worden uitgekeerd, dat ook achter de leningen en het statuut van de schuldvordering van de ontlener geen element van fiscaal misbruik kon schuilen en dat de gebruikte reserves werden vervangen door een schuldvordering tot terugbetaling van de lening en dus geen verarming van de vennootschap tot gevolg kon hebben.
+In zoverre mist het onderdeel feitelijke grondslag.
+6.	Door te oordelen dat “een aantal rechtshandelingen als één geheel [wordt] beschouwd indien de fiscus kan aantonen dat tussen de betrokken handelingen een eenheid van opzet bestaat dat reeds bij de eerste rechtshandeling aanwezig is”, verwijzen de appelrechters niet naar het objectieve, noch naar het subjectieve element van het fiscaal misbruik, maar onderzoeken zij het bestaan van een geheel van rechtshandelingen.
+In zoverre het onderdeel aanvoert dat de appelrechters het bewijs van het objectieve element hebben afgeleid uit het bewijs van het subjectieve element, mist het feitelijke grondslag.
+7.	Een “geheel van rechtshandelingen” in de zin van artikel 344, § 1, WIB92 veronderstelt dat er eenheid van bedoeling bestaat tussen de verschillende rechtshandelingen, die van meet af aan zijn opgevat als behorend tot een ondeelbare keten.
+De eenheid van bedoeling die nodig is om van een geheel van rechtshandelingen te kunnen spreken, vereist niet dat de belastingplichtige formeel deelneemt aan alle rechtshandelingen.
+In zoverre het onderdeel ervan uitgaat dat artikel 344, § 1, WIB92 enkel kan worden toegepast ten aanzien van rechtshandelingen die door de belastingplichtige persoonlijk worden gesteld en niet ten aanzien van rechtshandelingen waarbij hij geen partij is, berust het op een onjuiste rechtsopvatting en faalt het bijgevolg naar recht.
+8.	Voor de toepassing van artikel 344, § 1, WIB92 op een geheel van rechtshandelingen dient de rechter enkel het bestaan vast te stellen van een eenheid van bedoeling tussen de rechtshandelingen. Daarbij dienen de samenstellende rechtshandelingen niet afzonderlijk te worden beoordeeld.
+In zoverre het onderdeel aanvoert dat “de rechtshandelingen (…) onderling in een direct objectief verband kunnen en moeten staan met het beoogde misbruik” en dat een noodzakelijk causaal verband tussen al die rechtshandelingen is vereist, berust het op een onjuiste rechtsopvatting en faalt het bijgevolg naar recht.
+(…)
+Tweede middel
+(…)
+Tweede onderdeel
+13.	In zoverre het onderdeel aanvoert dat het arrest de samenstellende rechtshandelingen afzonderlijk diende te beoordelen om na te gaan of er een concreet noodzakelijk causaal verband kan bestaan tussen de onderscheiden rechtshandelingen onderling, is het afgeleid uit de in het eerste onderdeel van het eerste middel vergeefs aangevoerde kritiek en bijgevolg niet ontvankelijk.
+14.	In zoverre het onderdeel aanvoert dat “het arrest (…) ten onrechte [ontkent]” dat “de voorwaarden doen ontstaan om art. 90, 9° WIB92 toepasbaar te maken kan ingeroepen worden om de frustratie van art. 18.1.1° WIB92 te ontkennen” zonder te preciseren waarin het arrest hierdoor onwettig zou zijn, is het bij gebrek aan nauwkeurigheid niet ontvankelijk.
+15.	Uit de vaststellingen van het arrest blijkt dat:
+-	de voorgenomen en vervolgens ook effectief uitgevoerde juridische constructie, zijnde het geheel van rechtshandelingen, voorafgaandelijk was afgesproken tussen de eiser, zijn zoon en de derde koper V., ter financiering van de aankoop van de betreffende aandelen;
+-	de betwiste juridische en fiscaal geïnspireerde constructie van bij de aanvang de financiering van een aandelenkoop tot doel had;
+-	de eiser, die zowel aandeelhouder als bestuurder van al zijn vennootschappen was, al die vennootschappen bij de keuze voor de betwiste constructie vertegenwoordigde;
+-	op het moment van de onderhandelingen met de koper de eiser, als controlerende aandeelhouder, derhalve finaal besliste over de aanwending van de reserves van zijn vennootschap, zodat hij vanuit die positie zelf de beslissende keuze heeft gemaakt om de betaling van de koopprijs van de aandelen aan hemzelf te regelen via de constructie.
+16.	In zoverre het onderdeel ervan uitgaat dat het de autonome rechtspersonen, die bij de rechtshandelingen betrokken waren, vrij stond de reserves aan te wenden volgens hun eigen inzicht als titularis van het eigendomsrecht, mist het feitelijke grondslag.
+17.	Krachtens artikel 344, § 1, vierde lid, WIB92 wordt in geval van fiscaal misbruik de belastbare grondslag en belastingberekening zodanig hersteld dat de verrichting aan een belasting overeenkomstig het doel van de wet wordt onderworpen alsof het misbruik niet heeft plaatsgevonden.
+Het vervangen van de in werkelijkheid gestelde verrichting of geheel van verrichtingen door de verrichting die zonder het fiscaal misbruik zou zijn gesteld, geschiedt enkel met het oog op de belastingheffing en laat de civielrechtelijke gevolgen van de werkelijk gestelde verrichting of verrichtingen ongemoeid. Bijgevolg wordt het eigendomsrecht van derden die bij het geheel van verrichtingen betrokken waren hierdoor niet miskend en dient de door de administratie doorgevoerde vervanging niet aan de tegenspraak van deze derden te worden onderworpen.
+In zoverre het onderdeel uitgaat van een andere rechtsopvatting, faalt het naar recht.
+18.	In zoverre het onderdeel miskenning aanvoert van het evenredigheids- of proportionaliteitsbeginsel, specifiek op het vlak van het door de eiser te leveren tegenbewijs van het fiscaal misbruik, is het afgeleid uit de in het eerste onderdeel van het eerste middel vergeefs aangevoerde kritiek en is het bijgevolg niet ontvankelijk.
+19.	De appelrechters oordelen dat:
+-	“deze herstructurering perfect [had] kunnen plaatvinden zoals voorgesteld in het overnamebod van V.” en dat “de doorgevoerde herstructurering aldus niet [kan] verantwoorden waarom de in TSB opgebouwde reserves uitgekeerd werden zonder een dividenduitkering aan de aandeelhouders”;
+-	“het aannemelijk [is] dat familiale en emotionele motieven ten grondslag liggen aan de herstructurering van de groep, maar niet aan het feit dat daarbij gebruik werd gemaakt van een constructie om dividenduitkeringen te vermijden”;
+-	“er dan ook geen enkele geldige niet-fiscale reden voorhanden [is] waarom gekozen werd voor de betrokken constructie in plaats van voor het uitkeren van dividenden”.
+20.	Met deze redenen verwerpen de appelrechters gemotiveerd en zonder miskenning van het proportionaliteitsbeginsel of schending van artikel 8 EVRM de door de eiser ingeroepen niet-fiscale motieven.
+In zoverre kan het onderdeel niet worden aangenomen.
+Dictum
+Het Hof,
+Verwerpt het cassatieberoep.
+Veroordeelt de eiser tot de kosten.
+Bepaalt de kosten voor de eiser op 526,76 euro.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, eerste kamer, samengesteld uit sectievoorzitter Geert Jocqué, als voorzitter, en de raadsheren Bart Wylleman, Ilse Couwenberg, Eric Van Dooren en Sven Mosselmans, en in openbare rechtszitting van 11 januari 2024 uitgesproken door sectievoorzitter Geert Jocqué, in aanwezigheid van advocaat-generaal Stijn Ravyse, met bijstand van griffier Wim Vanderputten.
