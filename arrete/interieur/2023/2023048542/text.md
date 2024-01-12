@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, l'on entend par :
+1° la loi du 7 décembre 1998 : la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux ;
+2° la zone : la zone de police visée à l'article 9 de la loi du 7 décembre 1998 ;
+3° le conseil : le conseil communal pour les zones de police monocommunales ou le conseil de police visé à l'article 12 de la loi du 7 décembre 1998 pour les zones de police pluricommunales ;
+4° le collège : le collège des bourgmestres et échevins pour les zones de police monocommunales ou le collège de police visé à l'article 23 de la loi du 7 décembre 1998 pour les zones de police pluricommunales.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le conseil peut déléguer l'exercice de ses compétences visées à l'article 33, § 2, alinéa 1er, de la loi du 7 décembre 1998, au collège, pour les dépenses relevant du budget extraordinaire, lorsque la valeur du marché est inférieure au seuil fixé pour le recours à la procédure négociées sans publication préalable, telle que visée à l'article 42, § 1er, 1°, a) de la loi du 17 juin 2016 relative aux marchés publics.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a l'Intérieur dans ses attributions est chargé de l'exécution du présent arrêté.
