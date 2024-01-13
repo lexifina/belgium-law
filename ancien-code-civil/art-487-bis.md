@@ -1,1 +1,1 @@
-(Abrogé)
+En ce qui concerne le mineur âgé de plus de 16 ans qui n'a pas la compétence d'exercer ses droits et devoirs lui-même et de façon autonome, le juge de paix du domicile du mineur peut soit d'office, soit à la demande du mineur, de tout intéressé, ainsi que du procureur du Roi, par une ordonnance motivée, suspendre ce mineur jusqu'à sa majorité d'exercer son droit de vote, conformément à la loi du 23 mars 1989 relative à l'élection du Parlement européen, en tenant compte des circonstances personnelles ainsi que de son état de santé.
