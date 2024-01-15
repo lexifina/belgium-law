@@ -1,0 +1,74 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'intitulé de l'arrêté royal du 13 juin 2014 déterminant d'une part, les mesures réglementaires, administratives, techniques et organisationnelles spécifiques afin d'assurer le respect des prescriptions relatives à la protection des données à caractère personnel ou relatives à des entités individuelles et de secret statistique et d'autre part, fixant les conditions auxquelles l'Institut national de Statistique peut agir en qualité d'organisation intermédiaire en vue d'un traitement ultérieur à des fins statistiques, est remplacé par ce qui suit :
+" Arrêté royal déterminant d'une part, les mesures minimales de nature réglementaires, administratives, techniques et organisationnelles spécifiques afin d'assurer le respect des prescriptions relatives à la protection des données à caractère personnel ou relatives à des entités individuelles et de secret statistique et d'autre part, fixant les conditions auxquelles l'Institut national de Statistique peut agir en qualité d'organisation intermédiaire en vue d'un traitement ultérieur à des fins statistiques ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'intitulé du chapitre 1er du même arrêté, est remplacé par ce qui suit :
+" Mesures minimales de nature réglementaires, administratives, techniques et organisationnelles de référence applicables à tout traitement de données ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 1er du même arrêté, les mots " qui se fonde sur les lignes directrices pour la sécurité de l'information de données à caractère personnel édictées par la Commission de la protection de la vie privée " sont remplacés par les mots " tenue à jour ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'article 2 du même arrêté est remplacé par ce qui suit :
+" Art. 2. § 1er. Pour sécuriser tous les traitements de données, l'Institut national de Statistique prend des mesures spécifiques. Celles-ci sont proportionnelles au risque que représente l'ensemble de données. Le risque étant évalué sur base de la classe de données, de la sensibilité des données, du nombre d'unités statistiques reprises dans l'ensemble de données et du détail repris dans les données.
+§ 2. Les mesures techniques passent par la classification des données, la gestion des accès aux données classifiées, les mesures particulières pour les données à caractère personnel avec identifiants directs, l'information et la formation du personnel, la pseudonymisation des données, les mesures relatives la réidentification des données, la protection des clés de concordance permettant de réassocier les données d'étude aux données d'identification directe ainsi que les mesures relatives à la pseudonymisation des données communiquées dans le cadre de l'article 15 de la loi du 4 juillet 1962 relative à la statistique publique.
+1° La classification des données.
+Les données détenues par l'Institut national de Statistique font l'objet d'une classification.
+Les différents niveaux de classification sont :
+a) données globales et anonymes ;
+b) données globales non anonymes ;
+c) données pseudonymisées d'entreprises ;
+d) données à caractère personnel pseudonymisées ;
+e) données sensibles pseudonymisées, au sens des articles 9 et 10 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+f) données non pseudonymisées d'entreprises ;
+g) données à caractère personnel non pseudonymisées ;
+h) données sensibles non pseudonymisées, au sens des articles 9 et 10 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+La classification des informations définit le niveau de protection des données.
+2° La gestion des accès aux données classifiées.
+A l'exception des données globales et anonymes, toutes les données font l'objet d'un contrôle d'accès. Les accès sont gérés " au plus près ". Cela implique que :
+a) les accès ne sont accordés qu'aux personnes ayant le besoin d'en connaître ; toute demande d'accès aux données individuelles est validée par le supérieur hiérarchique direct, après avis du délégué à la protection des données ;
+b) les permissions d'accès des utilisateurs sont supprimées dès qu'ils ne sont plus autorisés à accéder à une ressource.
+L'Institut national de Statistique veille à limiter au maximum l'accès aux données à caractère personnel, avec identifiants directs.
+3° Les mesures particulières pour les données à caractère personnel avec identifiants directs.
+Les accès aux données à caractère personnel avec identifiants directs font l'objet de mesures de protection particulières : tous les accès à ces banques de données sont journalisés. L'Institut national de Statistique doit donc être en mesure d'enregistrer de façon permanente l'identité des personnes ayant accédé à ces données.
+La journalisation des accès des utilisateurs inclut leur identifiant, la date et l'heure de leur connexion, la date et l'heure de leur déconnexion et l'ensemble des requêtes (queries) exécutées sur ces données entre le début et la fin de la connexion. Les utilisateurs seront informés de l'existence du système de journalisation.
+Le délégué à la protection des données informe les personnes concernées et le fonctionnaire dirigeant des accès frauduleux dont il aura pu prendre connaissance.
+4° L'information et la formation du personnel.
+L'Institut national de Statistique veille à ce que son personnel soit correctement informé de ses devoirs en matière de confidentialité.
+L'Institut national de Statistique met à disposition de son personnel un code déontologique ICT qui définit les conditions d'utilisation et d'accès aux ressources informatiques.
+Les bénéficiaires d'un accès aux données individuelles sont amenés à suivre des séances de formation et de sensibilisation à la protection des données à caractère personnel en ce compris les garanties pour les droits et libertés des personnes concernées, ainsi qu'à la sécurité de l'information et à l'application du secret statistique dans le processus de production des statistiques.
+5° La pseudonymisation des données.
+Les données sont traitées de telle façon que celles-ci ne puissent plus être attribuées à une personne concernée précise sans avoir recours à des informations supplémentaires, pour autant que ces informations supplémentaires soient conservées séparément et soumises à des mesures techniques et organisationnelles afin de garantir que les données à caractère personnel ne sont pas attribuées à une personne physique identifiée ou identifiable.
+6° Les mesures relatives à la réidentification des données.
+La réidentification des données nécessite l'avis du délégué à la protection des données et après l'accord formel du responsable de traitement.
+7° La protection des clés de concordance.
+Par mesure de sécurité, les clés de concordance sont chiffrées lorsque leur archivage est nécessaire. Le déchiffrement des clés de concordance ne peut se faire qu'après avis du délégué à la protection des données.
+8° Mesures relatives à la pseudonymisation des données communiquées dans le cadre de l'article 15 de la loi du 4 juillet 1962 relative à la statistique publique.
+Une clé secrète distincte est utilisée pour chaque communication. Une même unité statistique se verra donc attribuer des pseudonymes différents, d'une communication à l'autre, hormis lorsque le suivi des unités statistiques au cours du temps est requis.
+§ 3. Les mesures organisationnelles sont les suivantes :
+1° l'Institut national de Statistique dispose de services chargés de la collecte des données, qui sont responsables de la collecte primaire et secondaire de données, et qui sont distincts des services thématiques, qui traitent eux les données afin de produire des statistiques ;
+2° les services chargés de la collecte des données sont habilités à travailler avec toutes les classes de données individuelles. Les services thématiques sont habilités à travailler avec des données pseudonymisées à caractère personnel et avec toutes les classes de données d'entreprises ;
+3° l'Institut national de Statistique veille au contrôle de l'utilisation des clés de concordance permettant la réidentification des données, pour éviter tout risque d'utilisation à des fins autres que statistiques ou de recherche scientifique ;
+4° le couplage de données se fait après avis du délégué à la protection des données et avec l'accord formel du responsable de traitement ;
+5° le délégué à la protection des données, placé sous l'autorité directe du fonctionnaire dirigeant de l'Institut national de Statistique, agit de manière indépendante des services chargés de la collecte des données et des services thématiques.
+§ 4. Les mesures juridiques sont les suivantes :
+1° les agents de l'Institut national de Statistique sont soumis au secret statistique. ;
+2° les agents de l'Institut national de Statistique signent un engagement de confidentialité concernant les données ;
+3° le devoir de confidentialité, auquel sont soumis les agents de l'Institut national de Statistique, demeure d'application et cela même après la cessation de leur fonction au sein de celui-ci. ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. A l'article 3 du même arrêté, les modifications suivantes sont apportées :
+1° à l'alinéa premier, le mot " codées " est remplacé par le mot " pseudonymisées " ;
+2° l'alinéa 4 est remplacé par ce qui suit :
+" Le couplage des données s'effectue après avis du délégué à la protection des données et avec l'accord formel du responsable de traitement. " ;
+3° l'article est complété par un alinéa rédigé comme suit : :
+" Lorsqu'il agit en qualité d'organisation intermédiaire, l'Institut national de Statistique assume le rôle de responsable de traitement. ".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'article 4 du même arrêté est remplacé par ce qui suit :
+" Art. 4. Le délégué à la protection des données veille à ce que les clés de concordance ne soient utilisées que pour des finalités statistiques ou de recherches scientifique et conseille l'Institut national de Statistique dans ce cadre. ".
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. L'article 5 du même arrêté est remplacé par ce qui suit :
+" Art. 5. Lorsque l'Institut national de Statistique agit en qualité d'organisme intermédiaire pour des tiers, il ne peut réutiliser les données pour d'autres finalités que celles reprises dans le contrat signé avec ces tiers.
+Lorsque l'Institut national de Statistique couple des bases de données pour ses propres besoins, il le fait dans le respect des accords passés avec les sources de données. ".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. A l'article 6, alinéa 2, du même arrêté, les mots " à la disposition de la Commission de la protection de la vie privé " sont abrogés.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Le présent arrêté royal entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. Le ministre qui a l'Economie dans ses attributions est chargé de l'exécution du présent arrêté.
