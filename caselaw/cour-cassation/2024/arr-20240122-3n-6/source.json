@@ -1,0 +1,35 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20240122.3N.6",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240122.3N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2024",
+  "published_on_juportal": "2024-02-16",
+  "language": "nl",
+  "role_number": "C.23.0237.N",
+  "case_name_as_published": "S. contra V.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "REGIMES MATRIMONIAUX - DIVERS",
+    "HUWELIJKSVERMOGENSSTELSELS - ALLERLEI",
+    "REGIMES MATRIMONIAUX - GENERALITES",
+    "HUWELIJKSVERMOGENSSTELSELS - ALGEMEEN"
+  ],
+  "fiche": [
+    "HUWELIJKSVERMOGENSSTELSELS - ALLERLEI",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 815 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1430 - 30 ELI link Pub nr 1804032150 Gerechtelijk Wetboek - 10-10-1967 - Art. 1205 - 01 ELI link Pub nr 1967101052",
+    "HUWELIJKSVERMOGENSSTELSELS - ALGEMEEN",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 815 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1387 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1390 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1427 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1430 - 30 ELI link Pub nr 1804032150",
+    "T.Not.-Tijdschrift voor notarissen - 2024, nr. 3, p. 190-191. - VERSTRAETE, Johan; Noot onder cassatie. BJS-Bulletin juridique social - 2024, n° 721, p. 7. - GHEUR, Elise; Note'Indivision et communauté: ce n'est pas si incompatible' JLMB-Revue de jurisprudence de Liège, Mons et Bruxelles - 2024, n° 38, p. 1718-1724. - DE PAGE, Philippe; Note'L'indivision volontaire à terme de décès: la panacée?'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240122.3N.6",
+  "source_sha256": "d3c5fd11221ce6377cc1f80bc0765bec483d72d41778be5921208b317a8fc042",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240122.3N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_109.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
