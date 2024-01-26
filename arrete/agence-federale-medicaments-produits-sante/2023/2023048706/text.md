@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 4, alinéa 2, de l'arrêté royal du 19 octobre 1978 réglementant les officines et les dépôts de médicaments dans les établissements de soins, modifié en dernier lieu par l'arrêté royal du 28 avril 2010, est complété par le tiret suivant :
+" - Le médicament contenant comme substances actives l'emtricitabine et une forme de ténofovir, dans le cadre de la prophylaxie du VIH, en vue d'une exposition potentielle au virus précité, s'il est fourni par le pharmacien à une organisation à but non lucratif avec laquelle l'INAMI a conclu un accord pour la distribution du médicament précité, dans le cadre de l'approvisionnement facilement accessible des travailleurs du sexe. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a la Santé Publique dans ses attributions est chargé de l'exécution du présent arrêté.
