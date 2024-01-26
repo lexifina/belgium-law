@@ -1,0 +1,30 @@
+{
+  "id": "2022020446",
+  "title": "24 FEVRIER 2022. - Loi modifiant l'ancien Code civil en ce qui concerne l'interruption de la prescription",
+  "source_title": "24 FEVRIER 2022. - Loi modifiant l'ancien Code civil en ce qui concerne l'interruption de la prescription",
+  "act": "loi/justice/2022/2022020446",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-01-16&numac_search=2022020446&page=106&lg_txt=F&caller=list&2022020446=28&trier=promulgation&ddd=2022-01-01&ddf=2022-12-31&fr=f",
+  "source_sha256": "0e17995984e8212cae24902bbde6a98ca8be4eff184378f7dda7c3fc2871d8a9",
+  "source_issuer": "Justice",
+  "made": "2022-02-24",
+  "published": "2024-01-16",
+  "in_force": "2024-01-26",
+  "in_force_basis": "Justel: Entrée en vigueur : 26 janvier 2024; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "16 janvier 2024",
+    "Numéro": "2022020446",
+    "page": "5380",
+    "Dossier numéro": "2022-02-24/26",
+    "Entrée en vigueur": "26 janvier 2024",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 199,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-01-26"
+}
