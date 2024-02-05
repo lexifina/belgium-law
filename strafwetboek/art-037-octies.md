@@ -1,5 +1,11 @@
 § 1. Indien een feit van die aard is om door een politiestraf of een correctionele straf gestraft te worden, kan de rechter als hoofdstraf een autonome probatiestraf opleggen.
-Een autonome probatiestraf bestaat uit de verplichting bijzondere voorwaarden na te leven gedurende een bepaalde termijn, die door de rechter overeenkomstig § 2 wordt bepaald.
+Een autonome probatiestraf bestaat uit de verplichting om:
+1° algemene voorwaarden na te leven van zodra het vonnis in kracht van gewijsde is gegaan, gedurende de termijn die door de rechter wordt bepaald overeenkomstig paragraaf 2. Deze algemene voorwaarden zijn:
+a) geen strafbaar feit plegen;
+b) een vast adres hebben en elke adreswijziging meedelen aan de probatiecommissie en aan de bevoegde dienst van de gemeenschappen;
+c) gevolg geven aan de oproepingen van de probatiecommissie en van de bevoegde dienst van de gemeenschappen;
+d) samenwerken met de bevoegde dienst van de gemeenschappen bij het uitwerken en opvolgen van de bijzondere voorwaarden;
+2° bijzondere voorwaarden na te leven waarvan de concrete invulling door de probatiecommissie bepaald wordt. De veroordeelde leeft de bijzondere voorwaarden na voor de resterende duur van de overeenkomstig paragraaf 2 bepaalde termijn, van zodra deze hem door de probatiecommissie ter kennis gebracht zijn.
 De rechter voorziet, binnen de perken van de op het misdrijf gestelde straffen, alsook van de wet op grond waarvan de zaak voor hem werd gebracht, in een gevangenisstraf of in een geldboete die van toepassing kan worden ingeval de autonome probatiestraf niet wordt uitgevoerd.
 De autonome probatiestraf mag niet worden uitgesproken voor de feiten:
 1° die strafbaar zouden zijn met een maximumstraf van meer dan twintig jaar opsluiting als ze niet in wanbedrijven werden omgezet;

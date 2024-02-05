@@ -1,0 +1,1 @@
+Hij die opzettelijk voorwerpen op directe of indirecte wijze over de muren of afsluitingen van een gevangenis, een afdeling of een inrichting tot bescherming van de maatschappij overgooit, wordt gestraft met een gevangenisstraf van vijftien dagen tot een jaar en een geldboete van vijftig euro tot vijfhonderd euro.

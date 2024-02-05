@@ -1,1 +1,2 @@
 Voor de toepassing van dit hoofdstuk worden met de woorden " vader ", " moeder ", " ouders " en " bloedverwant in opgaande lijn " ook de adoptanten en, in geval van adoptie en volle adoptie, ook de bloedverwanten in de opgaande lijn van de adoptanten bedoeld.
+Voor de toepassing van hetzelfde hoofdstuk betekent het woord "journalist": de persoon die een activiteit uitoefent als bedoeld in artikel 24, § 1, van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.

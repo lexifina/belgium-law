@@ -1,0 +1,1 @@
+Bij de keuze van de straf of de maatregel en de zwaarte ervan voor een misdrijf omschreven in deze afdeling moet de rechter in overweging nemen het feit dat het misdrijf werd gepleegd in het bijzijn van een minderjarige.
