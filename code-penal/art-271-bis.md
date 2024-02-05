@@ -1,0 +1,1 @@
+Si le fait a causé une maladie ou une incapacité de travail personnel, la rébellion commise par une seule personne avec une arme est punie d'un emprisonnement de trois ans à cinq ans, si elle a été commise sans arme, elle est punie d'un emprisonnement de six mois à trois ans.

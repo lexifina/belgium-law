@@ -1,0 +1,1 @@
+Celui qui aura délibérément jeté des objets, directement ou indirectement, au-dessus des murs ou des grillages d'une prison, d'une section ou d'un établissement de défense sociale sera puni d'une peine d'emprisonnement de quinze jours à un an et d'une amende de cinquante euros à cinq cents euros.

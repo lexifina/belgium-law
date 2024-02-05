@@ -1,5 +1,11 @@
 § 1er. Lorsqu'un fait est de nature à entraîner une peine de police ou une peine correctionnelle, le juge peut condamner, à titre de peine principale, à une peine de probation autonome.
-Une peine de probation autonome consiste en l'obligation de respecter des conditions particulières durant une période déterminée, fixée par le juge conformément au § 2.
+Une peine de probation autonome consiste en l'obligation:
+1° de respecter des conditions générales dès que le jugement a acquis l'autorité de la chose jugée et pendant la période fixée par le juge conformément au paragraphe 2. Ces conditions générales sont:
+a) ne pas commettre d'infraction;
+b) avoir une adresse fixe et informer la commission de probation et le service compétent des communautés de tout changement d'adresse;
+c) donner suites aux convocations de la commission de probation et du service compétent des communautés;
+d) collaborer avec le service compétent des communautés à l'élaboration et au respect des conditions particulières;
+2° de respecter les conditions particulières dont le contenu concret est déterminé par la commission de probation. Le condamné respecte les conditions particulières pour le restant de la durée fixée conformément au paragraphe 2, dès qu'elles ont été portées à sa connaissance par la commission de probation.
 Le juge prévoit, dans les limites des peines prévues pour l'infraction et par la loi en fonction de sa saisine, une peine d'emprisonnement ou une amende qui peut être applicable en cas de non-exécution de la peine de probation autonome.
 La peine de probation autonome ne peut être prononcée pour les faits:
 1° qui seraient punissables, s'ils n'étaient transmués en délits, d'une peine maximale supérieure à vingt ans de réclusion;
