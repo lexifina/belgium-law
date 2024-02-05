@@ -1,1 +1,2 @@
 Pour l'application du présent chapitre, les mots " père ", " mère " et " ascendant " désignent également les adoptants et, en cas d'adoption et d'adoption plénière, les ascendants des adoptants.
+Pour l'application du même chapitre, le mot "journaliste" désigne la personne qui exerce une activité telle que visée par l'article 24, § 1er, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.

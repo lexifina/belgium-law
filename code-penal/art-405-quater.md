@@ -6,3 +6,4 @@ Lorsqu'un des mobiles de l'auteur est la haine, le mépris ou l'hostilité à l'
 5° dans les cas visés aux articles 401, alinéa 2, 405bis, 6°, 7° et 10°, la peine sera la réclusion de quinze ans à vingt ans;
 6° dans les cas visés aux articles 404, 405bis, 8° et 11°, la peine sera la réclusion de vingt ans à trente ans.
 Il en va de même lorsque l'un des mobiles de l'auteur consiste en un lien ou un lien supposé entre la victime et une personne à l'égard de laquelle il nourrit de la haine, du mépris ou de l'hostilité pour une ou plusieurs des caractéristiques réelles ou supposées énoncées à l'alinéa 1er.
+Lors du choix de la peine ou de la mesure ou de la sévérité de celle-ci, le juge doit prendre en considération le fait que l'infraction a été commise en présence d'un mineur.

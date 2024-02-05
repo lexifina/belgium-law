@@ -1,3 +1,7 @@
-Le tribunal peut, s'il estime que la complexité de l'affaire nécessite des investigations supplémentaires, renvoyer le dossier au procureur du Roi, par décision motivée.
-Dans ce cas, le tribunal statue par la même ordonnance sur le maintien du prévenu en détention jusqu'à la signification éventuelle d'un mandat d'arrêt dans les vingt-quatre heures. La décision de maintien est motivée conformément à l'article 16, §§ 1er et 5, alinéas 1er et 2, de la loi du 20 juillet 1990 relative à la détention préventive.
-L'ordonnance, visée par le présent article, n'est susceptible d'aucun recours.
+§ 1. Si le tribunal estime que les conditions prévues à l'article 216quinquies, § 1, ne sont pas remplies ou que l'affaire n'est pas en état d'être jugée dans le cadre d'une procédure accélérée, le dossier est remis à la disposition du procureur du Roi et la citation peut être déclarée irrecevable.
+Dans ce cas, le tribunal statue par la même ordonnance sur le maintien du prévenu en détention jusqu'à la signification éventuelle d'un mandat d'arrêt dans les quarante-huit heures.
+La décision de maintien est valable pour un délai de quarante-huit heures. Elle mentionne la date et l'heure du prononcé et est motivée conformément à l'article 16, §§ 1er et 5, premier et deuxième alinéas, de la loi du 20 juillet 1990 relative à la détention préventive.
+L'ordonnance visée à l'alinéa 2 n'est susceptible d'aucun recours.
+§ 2. Le procureur du Roi peut procéder à la citation directe, à la convocation par procès-verbal ou requérir un juge d'instruction d'instruire et de délivrer un mandat d'arrêt dans les quarante-huit heures de l'ordonnance visée au paragraphe 1er, alinéa 2.
+Dans ce dernier cas, le suspect doit être interrogé par le juge d'instruction. Si celui-ci estime que la détention doit être maintenue, il peut délivrer un nouveau mandat d'arrêt auquel sont applicables les dispositions des chapitres III, IV et V de la loi précitée.
+Ce nouveau mandat d'arrêt est signifié à l'inculpé dans le délai prévu au paragraphe 1er, troisième alinéa.
