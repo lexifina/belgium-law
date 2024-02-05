@@ -1,0 +1,1 @@
+Indien het feit een ziekte of ongeschiktheid tot het verrichten van persoonlijke arbeid tot gevolg heeft, is weerspannigheid gepleegd door verscheidende personen, met of zonder voorafgaande afspraak en met of zonder wapens, een verzwarende factor.

@@ -1,0 +1,1 @@
+Indien het feit een ziekte of ongeschiktheid tot het verrichten van persoonlijke arbeid tot gevolg heeft, wordt weerspannigheid, gepleegd door een enkele persoon met wapen, gestraft met gevangenisstraf van drie jaar tot vijf jaar, indien het zonder wapen is gepleegd, wordt het gestraft met een gevangenisstraf van zes maanden tot drie jaar.

@@ -6,3 +6,4 @@ Wanneer een van de drijfveren van de dader bestaat uit de haat tegen, het mispri
 5° in de in de artikelen 401, tweede lid, 405bis, 6°, 7° en 10°, bedoelde gevallen is de straf opsluiting van vijftien jaar tot twintig jaar;
 6° in de in de artikelen 404, 405bis, 8° en 11°, bedoelde gevallen is de straf opsluiting van twintig jaar tot dertig jaar.
 Hetzelfde geldt wanneer een van de drijfveren van de dader erin bestaat dat het slachtoffer een band of vermeende band heeft met een persoon ten aanzien van wie hij haat, misprijzen of vijandigheid koestert wegens een of meer van de in het eerste lid aangehaalde werkelijke of vermeende kenmerken.
+Bij de keuze van de straf of de maatregel en de zwaarte ervan moet de rechter in overweging nemen dat het misdrijf werd gepleegd in het bijzijn van een minderjarige.
