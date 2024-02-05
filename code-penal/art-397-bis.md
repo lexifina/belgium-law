@@ -1,0 +1,1 @@
+Lors du choix de la peine ou de la mesure et de la sévérité de celle-ci pour une infraction visée dans la présente section, le juge doit prendre en considération le fait que l'infraction a été commise en présence d'un mineur.
