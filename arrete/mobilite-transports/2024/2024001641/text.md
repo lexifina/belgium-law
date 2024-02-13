@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Délégation est donnée au Directeur général et aux officiers de sécurité visés à l'article 22quinquies, § 6, de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, de la Direction générale Politique de Mobilité durable et ferroviaire du SPF Mobilité et Transports, pour l'exécution des tâches de l'autorité administrative visées à l'article 22quinquies/1 relatives aux personnes travaillant dans le sous-secteur du transport ferroviaire.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté produit ses effets à partir de la signature.
