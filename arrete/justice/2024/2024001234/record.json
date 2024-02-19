@@ -1,0 +1,29 @@
+{
+  "id": "2024001234",
+  "title": "5 FEVRIER 2024. - Arrêté ministériel portant approbation de l'utilisation des moyens du Fonds notarial pour le contrôle électronique permanent de la comptabilité de chaque notaire",
+  "source_title": "5 FEVRIER 2024. - Arrêté ministériel portant approbation de l'utilisation des moyens du Fonds notarial pour le contrôle électronique permanent de la comptabilité de chaque notaire",
+  "act": "arrete/justice/2024/2024001234",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-02-09&numac_search=2024001234&page=123&lg_txt=F&caller=list&2024001234=17&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "20860d0c35e896669ce63ce181a22d9db39fe9b0cf61a3d4c7dd11dc4ea3ae75",
+  "source_issuer": "Justice",
+  "made": "2024-02-05",
+  "published": "2024-02-09",
+  "in_force": "2024-02-19",
+  "in_force_basis": "Justel: Entrée en vigueur : 19 février 2024; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "9 février 2024",
+    "Numéro": "2024001234",
+    "page": "15584",
+    "Dossier numéro": "2024-02-05/02",
+    "Entrée en vigueur": "19 février 2024"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 73,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-02-19"
+}
