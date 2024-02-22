@@ -1,0 +1,31 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2024:CONC.20240222.1N.2",
+  "ecli": "ECLI:BE:CASS:2024:CONC.20240222.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-02-22",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 22 februari 2024",
+  "published_on_juportal": "2024-05-10",
+  "language": "nl",
+  "role_number": "F.21.0049.N",
+  "case_name_as_published": "ERKENDE PROTESTANTSE GEMEENTE-CHRISTUSGE c. VLAAMS GEWE",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - PRECOMPTES ET CREDIT D'IMPOTS - Précompte immobilier",
+    "INKOMSTENBELASTINGEN - VOORHEFFINGEN EN BELASTINGKREDIET - Onroerende voorheffing"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - VOORHEFFINGEN EN BELASTINGKREDIET - Onroerende voorheffing",
+    "Decreet 13 december 2013 houdende de Vlaamse Codex Fiscaliteit - 13-12-2013 - Art. 2.1.6.0.1 - 06 ELI link Pub nr 2013036154",
+    "BJS-Bulletin juridique social - 2025, n° 731, p. 13. - RENAUD, Benoît; Note'Exonération du précompte immobilier: le culte ne doit pas nécessairement être reconnu, mais il doit être nécessaire'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:CONC.20240222.1N.2",
+  "source_sha256": "0c1eb84c6992da8e4928063be26e1e26bc521b4048db464a332a64fea53eb900",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:CONC.20240222.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
