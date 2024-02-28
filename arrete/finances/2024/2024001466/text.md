@@ -1,0 +1,30 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er de l'arrêté ministériel du 4 novembre 1992 relatif aux armes faisant partie de l'équipement réglementaire des agents de l'Administration Générale des Douanes et Accises et aux dispositions particulières concernant la détention, la garde et le port de ces armes, remplacé par l'arrêté du 29 juin 1999 et modifié par l'arrêté du 24 février 2021, est remplacé par ce qui suit :
+"Article 1er. § 1er. Pour l'application du présent arrêté, il faut entendre par :
+1° armement : toutes les armes, individuelles et collectives, dont sont dotés les agents ainsi que leurs munitions et leurs accessoires ;
+2° armement individuel : l'armement attribué nominativement à un agent ;
+3° armement collectif : l'armement, non attribué nominativement, mis temporairement à la disposition d'un agent ;
+4° moyens incapacitants : les moyens contenant un produit temporairement incapacitant, ininflammable tant dans sa composition que lors de sa projection et ne causant aucun dommage corporel ou matériel permanent, ainsi que leurs accessoires.
+§ 2. Les agents assermentés de l'Administration Générale des Douanes et Accises peuvent détenir, garder et porter selon les missions qui leur sont confiées, les armes de service spécifiées ci-après, faisant partie de leur équipement réglementaire.
+L'armement des agents comprend l'armement individuel et l'armement collectif.
+§ 3. L'armement individuel comprend :
+a) l'arme à feu courte, type pistolet semi-automatique avec un calibre de maximum 9 mm ;
+b) la matraque télescopique ;
+c) les moyens incapacitants.
+§ 4. L'armement collectif comprend :
+l'arme à feu longue semi-automatique, avec un calibre de maximum 9 mm.
+§ 5. L'équipement réglementaire des agents susmentionnés comprend également des menottes et leur étui.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 2 du même arrêté, remplacé par l'arrêté du 29 juin 1999 et modifié par l'arrêté du 24 février 2021, est remplacé par ce qui suit :
+"Les armes de service ne peuvent être chargées qu'avec le type de munitions fournies par l'Administration Générale des Douanes et Accises, à l'exclusion de tout autre type de munitions.".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. L'article 7 du même arrêté, modifié par les arrêtés du 29 juin 1999 et du 24 février 2021, est remplacé par ce qui suit :
+"En uniforme, les armes de service sont portées de façon apparente.
+Lors des missions à exécuter en civil, les armes de service seront portées de façon non apparente.
+L'arme à feu longue semi-automatique est toujours portée de façon apparente.
+Lors du port de l'arme de service, aussi bien en uniforme qu'en civil, il est fait usage d'un holster livré par l'Administration Générale des Douanes et Accises.".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'article 8 du même arrêté, est remplacé par ce qui suit :
+"Lorsque les armes, visées aux articles 1er et 2, ne sont pas portées, elles doivent être conservées dans un endroit sûr, soit dans un coffre-fort, soit dans une armoire sécurisée dans le bâtiment de service. Ce n'est que dans des circonstances exceptionnelles, sous réserve de l'approbation de l'Administrateur général de l'Administration Générale des Douanes et Accises, que l'arme peut être conservée en toute sécurité au domicile du fonctionnaire.
+Les chargeurs et les munitions des armes de service sont gardés dans un autre endroit que les armes de service, excepté quand ils sont gardés dans un coffre-fort ou dans une armoire sécurisée.".
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge.
