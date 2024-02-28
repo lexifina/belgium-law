@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. § 1er. Les données visées à l'article 95, § 4, alinéa 6, du Code électoral, sont transmises une fois par an.
+§ 2. Ces données sont transmises aux communes selon le protocole sécurisé suivant, par lequel les services du Registre national du SPF Intérieur interviennent en tant qu'intermédiaire entre les institutions visées à l'article 95, § 4, alinéa 6 du Code électoral, et les communes :
+- les institutions visées à l'article 95, § 4, alinéa 6 du Code électoral, déposent les fichiers contenant les données visées dans cette même disposition sur la plateforme informatique sécurisée d'échange informatique des services du Registre national du SPF Intérieur ;
+- les services du Registre national du SPF Intérieur mettent à disposition, de manière séparée pour chaque commune, un fichier contenant les données relative à une commune sur la plateforme informatique sécurisée d'échange informatique de ces services à laquelle chaque commune a accès.
+§ 3. Lorsqu'une commune reçoit, via l'échange de données visé aux paragraphes 1 et 2, une information relative à la fin d'exercice d'une profession visée à l'article 95, § 4, alinéa 3, 1° à 9°, du Code électoral, d'un citoyen inscrit dans ses registres de la population, elle doit mettre à jour les données du citoyen concerné dans ses registres de la population et ne plus transmettre les données de ce dernier en application de l'article 95, § 12, alinéa 1er, 1°.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Notre Ministre de l'Intérieur, des Réformes institutionnelles et du Renouveau démocratique, est chargée de l'exécution du présent arrêté.
