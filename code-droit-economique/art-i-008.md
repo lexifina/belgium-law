@@ -62,3 +62,4 @@ b) un service permettant le partage ou toute autre interaction avec des données
 45° interopérabilité: la capacité du contenu numérique ou du service numérique à fonctionner avec du matériel informatique ou des logiciels différents de ceux avec lesquels des contenus numériques ou des services numériques de même type sont normalement utilisés;
 46° classement: la priorité relative accordée aux produits, tels qu'ils sont présentés, organisés ou communiqués par l'entreprise, quelle que soit la technologie utilisée pour une telle présentation, organisation ou communication;
 47° produit: tout bien ou service, y compris les biens immobiliers, les services numériques et les contenus numériques, ainsi que les droits et les obligations;
+liste "Ne m'appelez plus!": la liste contenant les numéros pour lesquels les abonnés et les utilisateurs ont exercé leur droit d'opposition conformément à l'article VI.110, § 2.

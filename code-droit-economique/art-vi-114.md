@@ -1,11 +1,7 @@
-§ 1er. Le Roi peut, après avis de la Commission de la protection de la vie privée, prendre des mesures pour:
-1° déterminer le contenu, la forme et le fonctionnement du fichier visé à l'article VI.111, § 2;
-2° déterminer les conditions et les modalités d'accès à ces fichiers des personnes qui veulent faire des appels téléphoniques pour des raisons de marketing direct, y compris l'identification de ces personnes;
-3° maintenir les modalités de communication de l'abonné, visée à l'article VI.111, § 1er, aussi simples que possible.
-§ 2. Le Roi peut également, après avis de la Commission de la protection de la vie privée, agréer une association ou organisation qui reprend les obligations de tous les opérateurs visés à l'article VI.111.
-Cette association ou organisation ne peut être agréée que sur base des critères d'agrément que le Roi détermine et qui offre au moins les garanties suivantes:
-1° la facilité d'utilisation pour l'abonné;
-2° l'utilisation exclusive des données du fichier en vue du respect des droits de l'abonné conformément à l'article VI.111, § 1er;
-3° l'absence de tout but de lucre de l'association ou de l'organisation;
-4° l'accès continu et simple aux données, moyennant un prix réduit, pour les personnes qui veulent faire des appels téléphoniques pour des raisons de marketing direct;
-5° le respect des règles imposées en vertu du paragraphe 1er.
+§ 1er. La mise à disposition de la liste "Ne m'appelez plus!" aux entreprises qui souhaitent faire du marketing direct par téléphone est organisée par une association sans but lucratif. Cette association est agréée à cet effet par le Roi conformément au paragraphe 2.
+§ 2. Le Roi agrée l'association visée au paragraphe 1er. Une seule association peut être agréée à la fois à cette fin.
+Cette association ne peut être agréée que sur la base des critères d'agrément que le Roi détermine, et qui concernent notamment:
+1° l'absence de tout but de lucre de l'association;
+2° l'utilisation exclusive des données qui sont reprises dans la liste "Ne m'appelez plus!" afin de respecter les droits de l'abonné et de l'utilisateur conformément à l'article VI.110, § 2;
+3° les conditions et les modalités d'accès à la liste "Ne m'appelez plus!" de l'association visée au paragraphe 1er pour les entreprises qui souhaitent faire du marketing direct par téléphone, y compris l'identification des personnes qui y auront accès;
+4° la transparence et les aspects financiers liés à la consultation de la base de données de l'association visée au paragraphe 1er.
