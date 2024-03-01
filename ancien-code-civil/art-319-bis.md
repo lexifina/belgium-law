@@ -1,3 +1,5 @@
+DROIT FUTUR.
 Si le père est marié et reconnaît un enfant conçu par une femme autre que son épouse, la reconnaissance doit être portée à la connaissance de l'époux ou de l'épouse.
 A cet effet, si l'acte de reconnaissance est reçu par un officier de l'état civil belge ..., une copie de l'acte est envoyée dans les trois jours par lettre recommandée à la poste par celui-ci. Si l'acte n'est pas reçu par un officier de l'état civil belge ..., il est signifié par exploit d'huissier à la requête du père, de l'enfant ou du représentant légal de ce dernier.
 Jusqu'à cette communication, la reconnaissance est inopposable à l'époux ou à l'épouse, aux enfants nés de son mariage avec l'auteur de la reconnaissance et aux enfants adoptés par les deux époux.
+Als de erkenning betrekking heeft op een meerderjarig kind dat reeds nakomelingen heeft en aanleiding geeft tot diens naamsverandering, wordt de akte medegedeeld of betekend aan de afstammelingen in de eerste graad die de leeftijd van twaalf jaar bereikt hebben overeenkomstig de nadere regels bedoeld in het tweede lid.
