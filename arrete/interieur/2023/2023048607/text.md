@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 7, de l'arrêté royal du 17 mai 2007 fixant des modalités d'exécution de la loi du 15 septembre 2006 modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, remplacé par l'arrêté royal du 24 janvier 2011, l'alinéa 1er est remplacé par ce qui suit :
+" Le modèle du certificat médical type que l'étranger est tenu de transmettre avec sa demande d'autorisation de séjour conformément à l'article 9ter, § 1er, alinéa 4 et § 3, 3° est déterminé par le Ministre. Ce modèle est publié sur le site internet de l'Office des étrangers. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre ayant l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers dans ses attributions est chargé de l'exécution du présent arrêté.
