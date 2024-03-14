@@ -2,7 +2,7 @@
 1° établir le profil ADN des traces découvertes,
 2° comparer, le cas échéant, les profils ADN des traces découvertes entre elles.
 L'expert veille à préserver une fraction suffisante de l'échantillon pour permettre une contre-expertise. Si cela s'avère impossible, il en fait état dans son rapport.
-Lorsque l'expert parvient à préserver une fraction suffisante de la trace découverte pour permettre une contre-expertise, il en assure la conservation pendant trente ans au maximum sauf si le magistrat compétent ordonne un autre délai de conservation.
+Lorsque l'expert parvient à préserver une fraction suffisante de la trace découverte pour permettre une contre-expertise, il en assure la conservation pendant trente ans au maximum sauf si le magistrat compétent ordonne, sur la base d'une décision motivée, un autre délai de conservation, qui ne peut pas excéder quarante ans, à moins qu'il ne s'agisse des infractions visées à l'article 21bis du titre préliminaire du Code de procédure pénale.
 Le cas échéant, le procureur du Roi informe l'expert qu'il s'agit de traces de personnes disparues ou de dépouilles mortelles non identifiées dont le profil ADN sera enregistré dans la banque de données ADN "Personnes disparues".
 § 2. L'expert transmet au procureur du Roi un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
 Le procureur du Roi peut toutefois accorder un délai d'analyse supplémentaire, sur demande motivée de l'expert.
@@ -15,3 +15,9 @@ Il communique également les données suivantes:
 5° le sexe de la personne dont le profil ADN a été établi;
 6° le cas échéant, le lien positif entre les profils ADN obtenus;
 7° le cas échéant, le numéro de code ADN.
+§ 4. Le procureur du Roi peut, par décision motivée, requérir l'expert visé au paragraphe 1er, alinéa 1er, d'établir le profil Y-STR ou le profil ADNmt des traces découvertes, en précisant les circonstances de l'affaire qui justifient cette analyse.
+Lorsqu'il existe des indices sérieux que les faits punissables constituent une infraction visée à l'article 5, § 1er, alinéa 3, 8°, 9° ou 10°, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, le procureur du Roi requiert systématiquement l'expert visé au paragraphe 1er, alinéa 1er, d'établir le profil Y-STR des traces découvertes.
+Les paragraphes 2 et 3 s'appliquent par analogie aux mesures visées au présent paragraphe.
+§ 5. Lorsque le profil ADN d'une trace découverte visée au paragraphe 1er reste non identifié après les comparaisons de profils ADN visées à l'article 44quinquies, § 1er, alinéa 2, 3°, et aux articles 5quater, § 1er, et 8 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, le procureur du Roi peut, dans l'intérêt de l'enquête et par décision motivée, ordonner une analyse ADN visant à déterminer la couleur des cheveux, la couleur des yeux, l'âge et l'origine biogéographique de la source inconnue de la trace découverte, afin de faciliter l'identification directe ou indirecte de cette source.
+La motivation reflète le caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête.
+Le cas échéant, les paragraphes 2 et 3 s'appliquent par analogie à l'analyse ADN visée à l'alinéa 1er.
