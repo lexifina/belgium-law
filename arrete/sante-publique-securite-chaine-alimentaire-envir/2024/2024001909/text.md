@@ -1,0 +1,100 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Date d'entrée en vigueur de la loi du 11 juin 2023 modifiant l'article 124, 1°, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, en vue d'y adapter la législation relative à l'exercice de prestations techniques infirmières par un aidant proche ou par un aidant qualifié
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. La loi du 11 juin 2023 modifiant l'article 124, 1°, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, en vue d'y adapter la législation relative à l'exercice de prestations techniques infirmières par un aidant proche ou par un aidant qualifié, entre en vigueur le jour de l'entrée en vigueur du présent arrêté.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Liste des prestations techniques de l'art infirmier pouvant être autorisées à un aidant qualifié, ainsi que leurs conditions d'exercice et les conditions de formation requises pour cette autorisation
+
+<a name="LNK0003" href="#LNKR0003">Section 1.</a> - Liste des prestations techniques de l'art infirmier autorisées en application de l'article 124, 1°, alinéa 6, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. Les prestations techniques de l'art infirmier suivantes, visées à l'article 46, § 1er, 2°, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, peuvent, dans le cadre de l'aide à la vie quotidienne, faire l'objet d'une autorisation à un aidant qualifié sur base d'une instruction :
+* Mesurer les paramètres concernant les différentes fonctions biologiques, ne faisant pas partie de la liste des paramètres mentionnés sur la liste des activités qui ont trait à la vie quotidienne arrêtée en exécution de l'article 23, § 1er, alinéa 4, de la loi relative à l'exercice des professions de soins de santé, coordonnée le 10 mai 2015, en vue d'une bonne observation de l'état du bénéficiaire et assurer un relais efficace de l'information vers l'infirmier responsable de soins généraux, l'assistant en soins infirmiers ou le médecin;
+§ 2. Les prestations techniques de l'art infirmier suivantes, visées à l'article 46, § 1er, 2°, de la même loi, peuvent, dans le cadre de l'aide à la vie quotidienne, faire l'objet d'une autorisation à un aidant qualifié sur base d'une formation :
+* Mesurer les paramètres concernant les différentes fonctions biologiques, ne faisant pas partie de la liste des paramètres mentionnés sur la liste des activités qui ont trait à la vie quotidienne en vue d'une bonne observation de l'état du bénéficiaire et assurer un relais efficace de l'information vers l'infirmier responsable de soins généraux, l'assistant en soins infirmiers ou le médecin ;
+* Installation et surveillance du bénéficiaire dans une position fonctionnelle avec support technique, conformément au plan de soins ;
+* Alimentation et hydratation à des patients présentant des troubles de la déglutition ;
+* Prendre en charge un enfant sous monitoring d'apnée du sommeil ;
+* Aspirer et surveiller les voies respiratoires ;
+* Administration de médicaments par voie sous-cutanée. Le médecin évalue la nécessité d'un système de distribution préparé et personnalisé par un infirmier responsable de soins généraux, un assistant en soins infirmiers ou un pharmacien afin de surveiller la prise de médicaments, garantir le respect du traitement et en favoriser la régularité ;
+* Administration d'oxygène : enlever et remettre les moyens d'administration ;
+* Enlever et remettre des bas destinés à prévenir et/ou traiter des affections veineuses ;
+* Vidanger un sac récolteur d'urine (sans déconnection du système) ;
+* Placer un étui pénien chez des bénéficiaires présentant une incontinence chronique ;
+* Appliquer les mesures de prévention des escarres sur base du plan de soins ;
+* Mesures de prévention de lésions corporelles : prévention de chutes ;
+* Cathétérisme vésical intermittent ;
+* Alimentation et hydratation entérales chez un patient avec un sonde gastrique percutanée cicatrisée et stabilisée, une fois le contenu, le type d'alimentation et le débit de l'administration stabilisés, dans le cadre de la poursuite de l'alimentation.
+* Manipulation et surveillance d'appareils non-invasifs de respiration contrôlée et assistée (par ex. CPAP, ventilation à domicile) dans le cadre de la poursuite d'un traitement.
+§ 3. Les prestations techniques de l'art infirmier relevant de la liste des activités qui ont trait à la vie quotidienne et qui figurent également sur la liste des prestations techniques de l'art infirmier peuvent également être déléguées à un aidant qualifié via une instruction ou une formation, si le médecin ou l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers traitant n'a pas formulé le fait qu'en raison du contexte et de la finalité de l'activité à effectuer, l'activité ne peut pas être considéré comme une activité de la vie quotidienne.
+§ 4. Les autres prestations techniques de l'art infirmier visées à l'article 46, § 1er, 2°, de la même loi, qui ne sont pas mentionnées dans les § 1er et § 2 et qui ne sont pas non plus mentionnées dans l'article 3 du présent arrêté, peuvent également, dans le cadre de l'aide à la vie quotidienne, faire l'objet d'une autorisation à un aidant qualifié sur base d'une formation mais uniquement en cas de circonstances temporaires et/ou exceptionnelles, et afin que l'aidant qualifié puisse exercer une ou plusieurs prestation(s) technique(s) nécessaire(s) à la prise en charge du patient dans le cadre de la vie quotidienne, pour ce temps limité.
+On entend par " circonstances temporaires et/ou exceptionnelles ", une situation dans laquelle un patient habituellement pris en charge à son domicile ou au sein d'une institution, en ce compris les institutions de soins, quitte de façon exceptionnelle et/ou temporaire son domicile ou cette institution empêchant momentanément l'exécution de la ou des prestation(s) technique(s) infirmière(s) nécessaire(s) à sa prise en charge par son médecin, son infirmier responsable de soins généraux ou son assistant en soins infirmiers habituel. Par " circonstances temporaires et/ou exceptionnelles ", on entend également une situation dans laquelle l'aidant proche qui fournit habituellement à un patient séjournant habituellement à son domicile, une ou plusieurs prestation(s) technique(s) infirmière(s) nécessaires à son traitement, est temporairement et/ou exceptionnellement dans l'incapacité de fournir ces services et que son médecin, son infirmier responsable de soins généraux ou son assistant en soins infirmiers est dans l'impossibilité d'exécuter cette ou ces prestation(s) technique(s) infirmière(s). Peut également être considérée comme " circonstances temporaires et/ou exceptionnelles " une situation dans laquelle une prestation technique infirmière ne peut être ni planifiée, ni postposée, rendant impossible sa réalisation au moment opportun par son médecin, son infirmier responsable de soins généraux ou son assistant en soins infirmiers. L'aspect temporaire et/ou exceptionnel de la situation est apprécié par l'infirmier responsable de soins généraux, l'assistant en soins infirmiers ou le médecin donnant l'autorisation.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0004"> 3</a>. Les activités et prestations techniques de l'art infirmier suivantes, visées dans l'article 46, § 1er, 2°, de la même loi, ne peuvent pas faire l'objet d'une autorisation à un aidant qualifié :
+2. Prestations
+2.1. Système respiratoire
+* Commencer l'administration d'oxygène et modifier le mode et le débit suivant l'état du patient ;
+* Soins infirmiers auprès des patients ayant une voie respiratoire artificielle ;
+* Manipulation et surveillance d'appareils de respiration contrôlée et assistée dans le cadre de l'initiation du traitement. Utilisation et surveillance des patients utilisant des dispositifs de ventilation invasive contrôlée ;
+* Manipulation et surveillance d'un système de drainage thoracique ;
+* Réanimation cardio-pulmonaire avec des moyens invasifs.
+2.2. Système circulatoire
+* Surveillance et manipulation d'appareils de circulation extracorporelle et de contrepulsion ;
+* Placement de cathéters;
+* Enlèvement de cathéters centraux, artériels et intraveineux profonds ;
+* Prélèvement et traitement de sang transfusionnel et de ses dérivés ;
+* Préparation, administration et surveillance de perfusions et de transfusions intraveineuses éventuellement moyennant l'emploi d'appareils particuliers ;
+* La saignée.
+2.3. Peau et organes des sens
+* Préparation, réalisation et surveillance d'enlèvement d'un cathéter épidural ;
+* Soins de plaies des plaies non stabilisées ;
+* Application thérapeutique d'une source de lumière.
+2.4. Métabolisme
+* Préparation, réalisation et surveillance d'une :
+:* hémodialyse
+* hémoperfusion
+* plasmaphérèse
+* dialyse péritonéale.
+2.5. Administration de médicaments
+* Préparation et administration d'une dose d'entretien médicamenteuse au moyen d'un cathéter épidural, intrathécal, intraventriculaire, dans le plexus, placé par le médecin dans le but de réaliser une analgésie chez le patient ;
+* Préparation et administration de vaccins.
+2.6. Techniques particulières
+* Soins infirmiers et surveillance des prématurés avec utilisation d'un incubateur ;
+* Drainage du liquide intracérébral par un drain ventriculaire sous contrôle permanent de la pression intracrânienne ;
+* Application du traitement par contention physique pour toute lésion, après manipulation éventuelle par le médecin, telles que les applications de plâtres, de plâtres de synthèse et d'autres techniques de contention.
+3. Sécurité physique
+* Instauration des mesures de prévention de lésions corporelles : moyens de contention, procédure d'isolement.
+4. Activités de soins infirmiers liées à l'établissement du diagnostic et au traitement
+* Préparation et assistance lors d'interventions invasives de diagnostic ;
+* Prélèvement de sang par cathéter artériel en place ;
+* Administration et interprétation de tests intradermiques et cutanés.
+5. Assistance lors de prestations médicales
+* Participation à l'assistance et à la surveillance du patient durant l'anesthésie ;
+* Préparation, assistance et instrumentation lors d'une intervention chirurgicale ou médicale ;
+
+<a name="LNK0004" href="#LNKR0004">Section 2.</a> - Conditions d'exercice des prestations techniques de l'art infirmier autorisées en application de l'article 124, 1°, alinéa 6, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'autorisation visée à l'article 124, 1°, alinéa 6, de la même loi, ne peut avoir lieu, d'une part, qu'auprès d'un patient se trouvant en-dehors d'un établissement de soins et dans une situation clinique stable, et, d'autre part, qu'après évaluation de la situation et de l'état de santé du patient par le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers donnant l'autorisation à l'aidant qualifié. Dans le cadre de cette évaluation, le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers définit la ou les prestation(s) technique(s) de l'art infirmier devant être autorisée(s) à l'aidant qualifié.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. La réévaluation régulière de la situation et de l'état de santé du patient par le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers, doit être programmée dès l'autorisation d'effectuer la ou les prestation(s) technique(s).
+La réévaluation est également réalisée à la demande de l'aidant qualifié en raison notamment de la survenance d'un des critères d'alerte.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. La ou les prestation(s) technique(s) de l'art infirmier autorisée(s) dans le cadre de l'aide à la vie quotidienne sont les activités que le patient, en raison de son jeune âge ou d'une déficience physique ou psychologique ne peut pas ou plus réaliser elle-même.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. L'aidant qualifié ne peut réaliser les prestations techniques de l'art infirmier qui lui sont autorisées que lorsqu'il dispose de la compétence, de l'instruction ou de la formation qui est nécessaire pour les exécuter correctement et en toute sécurité.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0005"> 8</a>. Dans le cas où le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers qui autorise l'aidant qualifié à effectuer une ou plusieurs prestations techniques de l'art infirmier dans le cadre de l'aide à la vie quotidienne, estime qu'une instruction est suffisante pour que l'aidant qualifié puisse effectuer correctement la ou les prestation(s), l'instruction contient les informations suivantes :
+- la ou les prestation(s) autorisée(s) sur base de l'instruction,
+- la période de validité de l'instruction pour chacune des prestations,
+- les nom et prénom du patient concerné,
+- les nom, prénom, données de contact et signature du médecin, de l'infirmier responsable de soins généraux ou de l'assistant en soins infirmiers qui rédige l'instruction et qui autorise l'aidant qualifié à réaliser la ou les prestation(s) autorisée(s) sur cette base,
+- les critères d'alerte éventuels, et
+- les modalités de concertation entre l'aidant qualifié et le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers ayant donné l'autorisation.
+
+<a name="LNK0005" href="#LNKR0005">Section 3.</a> - Conditions de formation requises pour pouvoir bénéficier de l'autorisation d'exercice d'une ou plusieurs prestation(s) technique(s) de l'art infirmier autorisée(s) en application de l'article 124, 1°, alinéa 6, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Pour pouvoir bénéficier de l'autorisation visée dans l'article 124, 1°, alinéa 6, de la même loi, l'aidant qualifié doit répondre aux conditions de formation suivantes :
+a) pour la ou les prestation(s) technique(s) de l'art infirmier pouvant faire l'objet d'une autorisation d'exercice dans le cadre de l'aide à la vie quotidienne, telles que visées à l'article 2er, § 2, sur base d'une formation :
+1) l'aidant qualifié dont la formation professionnelle est orientée sur l'aide à la vie quotidienne, peut suivre une formation relative à la/aux prestation(s) technique(s) de l'art infirmier autorisée(s) dans le cadre de sa formation professionnelle. Par " formation professionnelle orientée sur l'aide à la vie quotidienne ", on entend une formation dispensée par les établissements d'enseignement agréés par les Communautés, orientée dans les secteurs de l'aide, accompagnement et soins à la personne, y compris les soins à la petite enfance. A défaut, cet aidant qualifié doit avoir suivi une formation complémentaire organisée en collaboration avec un établissement d'enseignement répondant aux conditions fixées par les Communautés pour organiser la formation d'aide-soignant, d'assistant en soins infirmiers ou d'infirmier responsable de soins généraux, ou une formation relative à la/aux prestation(s) technique(s) de l'art infirmier autorisée(s) délivrée par le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers qui donne l'autorisation ;
+2) l'aidant qualifié dont la formation professionnelle n'est pas orientée sur l'aide à la vie quotidienne, doit avoir suivi une formation relative à la/aux prestation(s) technique(s) de l'art infirmier autorisée(s), délivrée par le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers qui donne l'autorisation. A défaut, l'aidant qualifié doit avoir suivi une formation complémentaire, organisée en collaboration avec un établissement d'enseignement remplissant les conditions fixées par les Communautés pour l'organisation de la formation d'aide-soignant, d'assistant en soins infirmiers ou d'infirmier responsable des soins généraux ;
+b) pour la ou les prestation(s) technique(s) de l'art infirmier pouvant, en raison de circonstances temporaires et/ou exceptionnelles, faire l'objet d'une autorisation d'exercice dans le cadre de l'aide à la vie quotidienne, telles que visées à l'article 2er, § 3 : l'aidant qualifié dont la formation professionnelle est orientée sur l'aide à la vie quotidienne ainsi que l'aidant qualifié dont la formation professionnelle n'est pas orientée sur l'aide à la vie quotidienne, doivent avoir suivi une formation relative à la/aux prestation(s) technique(s) de l'art infirmier concernée(s) délivrée par le médecin, l'infirmier responsable de soins généraux ou l'assistant en soins infirmiers qui donne l'autorisation.
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. Le ministre ayant la Santé publique dans ses attributions est chargé de l'exécution du présent arrêté.
