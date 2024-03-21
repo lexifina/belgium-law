@@ -1,0 +1,29 @@
+{
+  "id": "2024002230",
+  "title": "27 FEVRIER 2024. - Arrêté royal approuvant la liste des terrains, bâtiments et leurs dépendances, visée par l'article 19 de la loi du 1er avril 1971 portant création d'une Régie des Bâtiments",
+  "source_title": "27 FEVRIER 2024. - Arrêté royal approuvant la liste des terrains, bâtiments et leurs dépendances, visée par l'article 19 de la loi du 1er avril 1971 portant création d'une Régie des Bâtiments",
+  "act": "arrete/regie-batiments/2024/2024002230",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-03-11&numac_search=2024002230&page=113&lg_txt=F&caller=list&2024002230=16&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "3006854871a5766839984c063433e67ef0cfe28683f0fc0358b6e336ca5bf1fb",
+  "source_issuer": "Régie des Bâtiments",
+  "made": "2024-02-27",
+  "published": "2024-03-11",
+  "in_force": "2024-03-21",
+  "in_force_basis": "Justel: Entrée en vigueur : 21 mars 2024; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Régie des Bâtiments",
+    "Publication": "11 mars 2024",
+    "Numéro": "2024002230",
+    "page": "31408",
+    "Dossier numéro": "2024-02-27/06",
+    "Entrée en vigueur": "21 mars 2024"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 192,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-03-21"
+}
