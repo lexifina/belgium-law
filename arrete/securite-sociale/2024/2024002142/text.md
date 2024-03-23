@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour la facturation des médicaments par les maisons de soins psychiatriques, la date visée à l'article 53, § 1er, alinéa 3, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, est fixée au 1er juillet 2024. La maison de soins psychiatrique envoie le fichier de facturation à l'institution coopérante de sécurité sociale comme prévu à l'article 2, 2°, b) de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale à travers le réseau électronique MyCareNet.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
