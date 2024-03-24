@@ -1,1 +1,15 @@
-[La source ne donne pas le texte en vigueur à cette date.]
+Pour l'application du présent Code, on entend par:
+1° profil ADN: un code alphanumérique spécifique à chaque individu et établi à partir de séquences du patrimoine génétique;
+1° /1. profil Y-STR: un code alphanumérique spécifique aux hommes appartenant à la même lignée paternelle et établi sur la base de séquences génétiques situées sur le chromosome Y masculin;
+1° /2. profil ADNmt: un code alphanumérique spécifique aux individus appartenant à la même lignée maternelle et établie à des sites spécifiques du génome circulaire présent dans les mitochondries;
+2° échantillon de référence: les bulbes pileux, les cellules buccales ou de sang, prélevés sur une personne afin d'établir son profil ADN;
+3° comparaison de profils ADN: la comparaison de profils génétiques de traces découvertes avec les profils génétiques d'échantillons de référence, ou la comparaison de ces profils entre eux;
+3° /1. recherche familiale: la recherche du père, de la mère, des fils, des filles, des frères ou des soeurs biologiques de la source d'un profil ADN non identifié provenant d'une trace découverte, sur la base d'une comparaison de ce profil ADN avec les profils ADN des échantillons de référence enregistrés dans les banques nationales de données ADN "Criminalistique" et "Condamnés";
+4° laboratoire: un laboratoire d'analyse ADN qui satisfait aux conditions d'agrément fixées par le Roi;
+5° banques nationales de données ADN: les banques nationales de données ADN "Criminalistique", "Condamnés"Personnes disparues" et "Intervenants" gérées par l'Institut National de Criminalistique et de Criminologie;
+6° gestionnaire des banques nationales de données ADN: la personne responsable de la gestion des banques nationales de données ADN au sein de l'Institut National de Criminalistique et de Criminologie;
+7° banques étrangères de données ADN: les banques de données ADN créées et gérées par d'autres Etats de l'Union européenne et par des pays avec lesquels interviendrait un traité prévoyant l'échange des profils ADN aux fins de la procédure pénale ou afin de permettre d'identifier directement ou indirectement des personnes décédées inconnues ou de faciliter la recherche de personnes disparues;
+7° /1. banques internationales de données ADN: les banques de données ADN créées et gérées par des organisations européennes ou internationales de droit public aux fins de la procédure pénale ou afin de permettre d'identifier directement ou indirectement des personnes décédées inconnues ou de faciliter la recherche de personnes disparues, et qui sont désignées par le Roi, par arrêté délibéré en Conseil des ministres et après avis de la commission d'évaluation d'analyse ADN;
+8° numéro de code ADN: le numéro de référence unique attribué par la cellule nationale et qui permet de relier un profil ADN au nom d'une personne.
+9° personne disparue: la personne dont la disparition est considérée comme inquiétante par le procureur du Roi.
+10° le parent ou allié d'une personne disparue: l'ascendant, le descendant, l'autre parent biologique d'un enfant, le collatéral.
