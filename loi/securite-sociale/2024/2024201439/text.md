@@ -1,0 +1,33 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE Ier.</a> - Disposition préliminaire
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE II.</a> - Modification de l'arrêté royal du 27 avril 1997 instituant un Service de médiation Pensions en application de l'article 15, 5°, de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 3 de l'arrêté royal du 27 avril 1997 instituant un Service de médiation Pensions en application de l'article 15, 5°, de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, la disposition sous 1° est remplacée par ce qui suit:
+"1° examiner les réclamations qui ont trait aux activités ou au fonctionnement des services des pensions chargés de l'attribution et du paiement des pensions légales, du revenu garanti aux personnes âgées et de la garantie de revenus aux personnes âgées;".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 5 du même arrêté, les modifications suivantes sont apportées:
+1° entre les alinéas 1er et 2, cinq alinéas, qui deviennent les alinéas 2 à 6, rédigés comme suit, sont insérés:
+"Le mandat du membre du Service de médiation Pensions ne peut toutefois être renouvelé qu'une seule fois.
+Le renouvellement du mandat dépend d'une évaluation positive par une institution indépendante, désignée par le ministre qui a les pensions dans ses attributions, obtenue six mois avant la fin du mandat.
+Cette évaluation se fonde notamment sur les résultats des rapports annuels, visés à l'article 17, que les membres du Service de médiation Pensions soumettent annuellement au ministre qui a les pensions dans ses attributions et qui portent sur le fonctionnement de leur service de médiation au cours de l'année écoulée et de la bonne exécution des missions visées à l'article 3. Après le deuxième mandat, une nouvelle procédure de sélection doit toujours être lancée, même si le médiateur est évalué positivement.
+Le ministre, ayant les pensions dans ses attributions, définit la procédure d'évaluation.
+Lorsque le mandat du membre du Service de médiation Pensions n'est pas renouvelé, il continue à exercer ses fonctions jusqu'à la nomination de son successeur.";
+2° le deuxième alinéa ancien, qui devient le septième alinéa, est remplacé comme suit:
+"Un avis de vacance, précisant les conditions de dépôt des candidatures, est publié au Moniteur belge en cas de non-renouvellement du mandat, d'évaluation négative, de fin des deux mandats successifs, de départ à la retraite, de démission ou de décès du membre du service Médiation."
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 10, alinéa 1er, du même arrêté, les mots "sur place" sont abrogés.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0003"> 5</a>. Dans l'article 15 du même arrêté, les alinéas 1er et 2 sont remplacés par ce qui suit:
+"L'examen d'une réclamation et la médiation se poursuivent lorsqu'un recours concernant les mêmes faits est introduit auprès du tribunal, au plus tard jusqu'à ce que le jugement du tribunal compétent ou l'arrêt de la cour compétente soit passé en force de chose jugée.
+Par "recours introduit auprès du tribunal" au sens de l'alinéa 1er, il faut entendre:
+1° tout recours introduit contre une décision concernant une pension en tant que travailleur salarié ou travailleur indépendant, contre une décision concernant une garantie de revenus pour les personnes âgées ou contre une décision de pension de la Direction de la sécurité sociale d'outre-mer de l'Office national de sécurité sociale auprès du tribunal du travail et, pour les fonctionnaires, au-près du tribunal de première instance;
+2° toute action d'indemnisation au sens de l'article 1382 du Code civil pour une faute commise par un service de pension. Les recours et/ou actions en vertu du Code pénal ne sont pas visés.
+Par "décision concernant des pensions" au sens de l'alinéa précédent, il faut entendre une décision concernant la reconnaissance et le paiement d'une prestation de pension.
+L'autorité administrative informe sans délai les membres du service de médiation du recours introduit et du jugement du tribunal compétent ou de l'arrêt de la cour compétente dès qu'il est passé en force de chose jugée.
+Lorsque le jugement ou l'arrêt est passé en force de chose jugée, les membres du service du Médiateur informent sans délai le plaignant de la fin de l'examen de sa réclamation."
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE III.</a> - Disposition transitoire
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. Le mandat en cours à l'entrée en vigueur de la présente loi n'est pas comptabilisé, en cas de renouvellement du mandat en ce qui concerne la limitation à un seul renouvellement.
