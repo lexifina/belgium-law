@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Au Conseil national du Travail, les emplois sont répartis comme suit entre les cadres linguistiques :
+
+<table border="1"><tr><td valign="top">Trappen van de hiërarchie </td><td valign="top">1 </td><td valign="top">2 </td><td valign="top">3 </td><td valign="top">4 </td><td valign="top">5 </td><td valign="top">Degrés de la hiérarchie </td><td valign="top">1 </td><td valign="top">2 </td><td valign="top">3 </td><td valign="top">4 </td><td valign="top">5 </td></tr><tr><td valign="top">Percentage betrekkingen toegewezen aan het Franse kader </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">Pourcentage d'emplois attribués au cadre français </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td></tr><tr><td valign="top">Percentage betrekkingen toegewezen aan het Nederlandse kader </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">Pourcentage d'emplois attribués au cadre néerlandais </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50% </td><td valign="top">50%</td></tr></table>
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'arrêté royal du 20 mai 2022 portant prolongation des cadres linguistiques du Secrétariat du Conseil national du Travail est abrogé.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le Ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
