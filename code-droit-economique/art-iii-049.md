@@ -1,8 +1,6 @@
-§ 1er. Les entreprises suivantes sont tenues de s'inscrire avant de démarrer leurs activités, en qualité d'entreprise soumise à inscription, dans la Banque-Carrefour des Entreprises auprès du guichet d'entreprises de leur choix:
-1° toute entreprise de droit belge, au sens de l'article I.1(b) et (c);
-2° toute entreprise qui possède en Belgique un siège, une succursale ou une unité d'établissement;
+§ 1er. Avant de démarrer ses activités, toute entreprise est tenue de s'inscrire, dans la Banque-Carrefour des Entreprises, en qualité d'entreprise soumise à inscription auprès du guichet d'entreprises de son choix. Cette inscription doit être effectuée pour autant que les activités soient exercées au sein ou au départ d'une unité d'établissement.
 § 2. Par dérogation au paragraphe 1er, ne sont pas tenues de s'inscrire en qualité d'entreprises soumises à inscription:
-1° les associés à responsabilité illimitée d'une société dépourvue de personnalité juridique, d'une société en nom collectif ou d'une société en commandite simple, pour l'activité professionnelle de la société, à condition que la société concernée soit elle-même inscrite;
+1° ...
 2° les personnes physiques qui ne sont inscrites à la Banque-Carrefour des Entreprises qu'en leur seule qualité d'employeur de personnel domestique;
 3° les unions professionnelles;
 4° les pouvoirs organisateurs de l'enseignement subventionné;

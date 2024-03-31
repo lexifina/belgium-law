@@ -4,7 +4,7 @@
 3° les clients et/ou les fournisseurs des entreprises demandeuses;
 4° les bénéficiaires effectifs tels que visés à l'article 4, alinéa 1er, 27°, alinéa 2, a) et c), de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
 5° les employés et représentants des missions diplomatiques.
-§ 2. Dans le cadre du formulaire de demande, outre les données demandées à l'article VII.59/5, alinéas 2 et 3, la chambre du service bancaire de base et le prestataire du service bancaire de base traitent les catégories suivantes de données à caractère personnel des personnes concernées visées aux paragraphe 1er, 1° et 2°:
+§ 2. Dans le cadre du formulaire de demande, outre les données demandées à l'article VII.59/5, alinéas 2 et 3, la chambre du service bancaire de base et le prestataire du service bancaire de base traitent les catégories suivantes de données à caractère personnel des personnes concernées visées aux paragraphe 1er, 1°, 2° et 5°°:
 1° les données d'identification personnelle;
 2° l'emploi actuel;
 3° les attestations et pièces justificatives, et;

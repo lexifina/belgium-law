@@ -14,4 +14,4 @@ Les définitions suivantes sont applicables au livre III:
 13° guichet d'entreprises: organisme qui est agréé en exécution du livre III, titre 2, chapitre 3 et qui est chargé des missions de service public ou d'intérêt général visées dans ce titre 2;
 14° ...
 15° registre des personnes morales: répertoire compris dans la Banque-Carrefour des Entreprises contenant les données concernant les personnes morales enregistrées dans la Banque-Carrefour des Entreprises;
-16° unité d'établissement: lieu d'activité, géographiquement identifiable par une adresse, où s'exerce au moins une activité de l'entité enregistrée ou à partir duquel elle est exercée;
+16° unité d'établissement: lieu d'activité, géographiquement identifiable par une adresse en Belgique, où s'exerce au moins une activité de l'entité enregistrée ou à partir duquel elle est exercée;

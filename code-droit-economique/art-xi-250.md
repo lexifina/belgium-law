@@ -1,4 +1,4 @@
-Les revenus provenant des droits et toute recette résultant de l'investissement des revenus provenant des droits ne peuvent faire l'objet de la part des sociétés de gestion que d'investissements non spéculatifs.
+Les revenus provenant des droits et toute recette résultant de l'investissement des revenus provenant des droits ne peuvent faire l'objet de la part des sociétés de gestion que d'investissements défensifs.
 Lorsqu'une société de gestion investit conformément à l'alinéa 1er, les revenus provenant des droits ou toute recette résultant de l'investissement des revenus provenant des droits, elle le fait au mieux des intérêts des ayants droit dont elle représente les droits, conformément à la politique générale d'investissement et de gestion des risques visée à l'article XI.248/4, § 3, sous 3° et 6°, et en tenant compte des règles suivantes:
 1° s'il existe un quelconque risque de conflit d'intérêts, la société de gestion veille à ce que l'investissement serve le seul intérêt de ces ayants droit;
 2° les actifs sont investis de manière à garantir la sécurité, la qualité, la liquidité et la rentabilité de l'ensemble du portefeuille;

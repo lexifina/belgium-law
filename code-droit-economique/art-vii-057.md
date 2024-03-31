@@ -4,6 +4,7 @@ Le service bancaire de base est au moins proposé en euros.
 Les alinéas 2 et 3 s'appliquent dans la mesure où l'établissement de crédit propose ces possibilités déjà au consommateur titulaire d'un compte de paiement autre qu'un compte de paiement dans le cadre du service bancaire de base.
 Le Roi peut étendre le service bancaire de base aux services supplémentaires qui sont jugés essentiels pour le consommateur compte tenu des pratiques courantes.
 § 2. Tout établissement de crédit doit offrir le service bancaire de base. Tout consommateur résidant légalement dans un Etat membre a droit au service bancaire de base.
+Outre le consommateur visé à l'alinéa 1er, la présente section est également applicable à toute association de copropriétaires visée à l'article 3.86 du Code civil d'un immeuble ou d'un groupe d'immeubles en copropriété forcée dont septante-cinq pour cent des quotes-parts ou plus dans ses parties communes sont attribuées à des lots qui ne peuvent pas avoir une affectation professionnelle conformément aux statuts de copropriété. Toute modification de cette affectation dans les statuts est notifiée sans délai à l'établissement de crédit auprès duquel le service bancaire de base est demandé ou fourni.
 Les conditions applicables à la détention d'un service bancaire de base ne sont en aucun cas discriminatoires.
 L'accès au service bancaire de base ne peut dépendre de la conclusion d'un contrat relatif à un service accessoire.
 § 3. Le forfait maximal pour le service bancaire de base ne peut excéder le montant de 12 euros par an.

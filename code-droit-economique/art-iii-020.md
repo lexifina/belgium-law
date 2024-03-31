@@ -1,3 +1,4 @@
-Pour l'accomplissement de ses missions, telles que définies dans le présent titre et ainsi que dans ses arrêtés d'exécution, la Banque-Carrefour des Entreprises et les autorités, administrations et services visés à l'article III.19, alinéa 1er:
+§ 1er. Pour l'accomplissement de ses missions, telles que définies dans le présent titre et ainsi que dans ses arrêtés d'exécution, la Banque-Carrefour des Entreprises et les autorités, administrations et services visés à l'article III.19, alinéa 1er:
 1° ont accès aux informations visées à l'article 3, alinéa 1er, 1° à 9°, et alinéa 2 de la loi du 8 août 1983 organisant un Registre national des personnes physiques;
 2° peuvent utiliser le numéro d'identification du Registre national.
+§ 2. Dans le cadre de l'identification des personnes habilitées à administrer et à représenter des entreprises, les registres centraux, du commerce et des sociétés des Etats membres de l'Espace économique européen peuvent utiliser le numéro d'identification du Registre national, reçu via le système d'interconnexion des registres visé à l'article III.15, alinéa 6.
