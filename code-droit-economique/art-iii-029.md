@@ -1,4 +1,4 @@
-§ 1er. L'accès aux données suivantes, reprises dans la Banque-Carrefour des Entreprises, peut être accordé, sans autorisation préalable du Comité de Surveillance, aux autorités, administrations, services ou autres instances pour autant que ces données soient nécessaires à l'exécution de leurs missions légales ou règlementaires:
+§ 1er. L'accès aux données suivantes, reprises dans la Banque-Carrefour des Entreprises, peut être accordé, aux autorités, administrations, services ou autres instances agissant dans le cadre de l'exécution de leurs missions légales ou réglementaires:
 1° les numéros d'entreprise et d'unité d'établissement attribués par la Banque-Carrefour des Entreprises;
 2° la dénomination de l'entité enregistrée et de ses unités d'établissement;
 3° la forme juridique de l'entité enregistrée;
@@ -18,6 +18,7 @@ e) la loi du 31 janvier 2009 relative à la continuité des entreprises;
 f) la loi du 8 août 1997 sur les faillites;
 g) la loi du 27 octobre 2006 relative au contrôle des institutions de retraite professionnelle;
 h) le livre XX du présent Code;
+i) le Code des sociétés et des associations;
 12° les données qui doivent être communiquées par les entreprises soumises à inscription en exécution de l'article III.53, à l'exception du numéro de registre national ou du numéro d'identification à la Banque-Carrefour de la Sécurité sociale;
 13° les données relatives au(x) compte(s) bancaire(s).
-§ 2. Le Roi détermine les modalités de cet accès par arrêté délibéré en Conseil des ministres et après avis du Comité de Surveillance visé à l'article III.44.
+§ 2. Le Roi détermine les modalités de cet accès par arrêté délibéré en Conseil des ministres ....

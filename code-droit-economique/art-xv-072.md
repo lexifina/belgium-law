@@ -1,1 +1,1 @@
-En cas de récidive dans les cinq ans à dater d'une condamnation coulée en force de chose jugée du chef de la même infraction, le maximum des amendes et des peines d'emprisonnement est porté au double.
+En cas de récidive dans les cinq ans à dater d'une condamnation coulée en force de chose jugée, d'une décision administrative définitive déclarant la culpabilité ou d'une décision administrative définitive infligeant une amende administrative du chef de la même infraction, le maximum des amendes et des peines d'emprisonnement est porté au double.

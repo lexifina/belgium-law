@@ -1,6 +1,6 @@
 Est radié du registre des mandataires agréés le nom de la personne:
 1° qui est décédée ou se trouve dans le cas d'incapacité visé à l'article XI.75;
-2° qui, ayant été inscrite au registre des mandataires agréés en application de l'article XI.69, ne remplit plus les conditions fixées à l'article XI.66, § 1er, alinéa 1er, 2° et 3°, ou ne peut plus invoquer les dispositions de la convention internationale ou la réciprocité visées au paragraphe 2 dudit article;
+2° qui, ayant été inscrite au registre des mandataires agréés en application de l'article XI.69, ne remplit plus les conditions fixées à l'article XI.66, § 1er, alinéa 1er, 2° et 3°, ou ne peut plus invoquer les dispositions de la convention internationale ou la réciprocité visées au paragraphe 1er, alinéa 2, dudit article;
 3° qui, ayant été inscrite au registre des mandataires agréés en application de l'article XI.70, n'est plus domiciliée en Belgique ou dans un Etat membre ... ou fait l'objet d'une mesure de protection judiciaire visée à l'article 492/1 du Code civil;
 4° ...
 5° qui, lors de sa demande d'inscription ou d'une demande en modification de son inscription, a volontairement présenté des documents ou fait des déclarations dont le contenu ne correspondait pas à la réalité;

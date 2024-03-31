@@ -21,7 +21,9 @@ Sont punis d'une sanction de niveau 2, ceux qui commettent une infraction aux di
 10° de l'article VI. 79 imposant aux officiers ministériels, chargés de procéder aux ventes publiques, l'obligation de refuser leur concours dans certaines circonstances et des arrêtés pris en exécution des articles VI.75 et VI.77;
 10° /1 des arrêtés pris en exécution de l'article VI.81;
 10° /2 de l'article VI.83 relatif aux clauses qui sont en tout cas abusives dans les contrats conclus avec les consommateurs, et des arrêtés pris en exécution de l'article VI.85;
+10° /2 de l'article VI.86, § 4, concernant la transmission des clauses et conditions utilisées dans les offres en vente et dans les ventes de produits, à la Commission consultative spéciale Clauses abusives;
 11° des articles VI. 88 et VI. 89 relatifs au bon de commande et aux documents justificatifs et des arrêtés pris en exécution des articles VI. 88 et VI. 89;
+11° /1 de l'article VI.91/8, § 1er/1, concernant la transmission des clauses et conditions contractuelles à la Commission consultative spéciale Clauses abusives;
 12° des arrêtés pris en exécution de l'article VI. 118 relatif aux accords collectifs de consommation;
 12° /1 de l'article VI.91/4 relatif aux clauses qui sont en tout cas abusives dans les contrats conclus entre entreprises, et des arrêtés complétant cet article, conformément à l'article VI.91/7;
 13° des articles VI.93 à VI.103 relatifs aux pratiques commerciales déloyales à l'égard des consommateurs, à l'exception des articles VI.97, 4°, VI.100, 12°, 14°, 16° et 17°, et VI. 103, 1°, 2° et 8°;
