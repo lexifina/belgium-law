@@ -1,0 +1,47 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Modifications de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. A l'article 42, § 1er, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 :
+" Le directeur général Recrutement et Développement du Service public fédéral Stratégie et Appui peut déléguer l'organisation pratique d'une procédure de sélection dans les conditions visées à l'article 4 de l'arrêté royal du 22 décembre 2000 concernant la sélection et la carrière des agents de l'Etat. "
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Modifications de l'arrêté royal du 22 décembre 2000 concernant la sélection et la carrière des agents de l'Etat
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0003"> 2</a>. A l'article 4 de l'arrêté royal du 22 décembre 2000 concernant la sélection et la carrière des agents de l'Etat, modifié en dernier lieu par l'arrêté royal du 12 mai 2022, sept alinéas rédigés comme suit sont insérés entre les alinéas 1er et 2 :
+" Le directeur général peut, sur la base d'un niveau de certification, déléguer l'organisation pratique d'une procédure de sélection d'agents de l'Etat à des agents ou services de la fonction publique administrative fédérale visés à l'article 1 de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique.
+Le directeur général fixe au maximum six niveaux de certification.
+Au premier niveau de certification, le directeur général se charge de l'ensemble de l'organisation pratique de la procédure de sélection.
+Au sixième niveau de certification, le directeur général se charge au moins des éléments suivants :
+1° il détermine les plateformes à utiliser ;
+2° il publie sur son site web la description de fonction avec le profil de compétences correspondant et les types de test ;
+3° il exerce un contrôle sur l'approche, la qualité et la méthodologie des différentes étapes du processus de sélection ;
+4° il gère les plaintes et les recours.
+Le directeur général octroie un niveau de certification sur la base des critères suivants :
+1° le nombre de sélections effectuées ;
+2° la qualité des sélections effectuées ;
+3° les formations suivies relatives à l'organisation des sélections ;
+4° le nombre de membres du personnel chargés d'effectuer des sélections au sein du service fédéral.
+Le directeur général fixe la durée de validité du niveau de certification, sans que cette durée ne puisse dépasser cinq ans. Passé ce délai, il peut renouveler le niveau de certification ou en octroyer un autre.
+Si le directeur général constate un dysfonctionnement au niveau de la délégation ou le non-respect de l'indépendance, de l'objectivité ou de l'intégrité de la sélection, il abaisse ou retire le niveau de certification. Le cas échéant, il annule ou suspend la sélection ou une partie de celle-ci. "
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Modifications de l'arrêté royal du 25 avril 2005 fixant les conditions d'engagement par contrat de travail dans certains services publics
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 5 de l'arrêté royal du 25 avril 2005 fixant les conditions d'engagement par contrat de travail dans certains services publics, remplacé par l'arrêté royal du 26 novembre 2012 et modifié par l'arrêté royal du 12 mai 2022, les modifications suivantes sont apportées :
+1° les mots " article 2, alinéa 1er, 4°, " sont remplacés par les mots " article 2, alinéa 1er, 4°, b, " ;
+2° les mots " sur base du profil de fonction exigé " sont abrogés ;
+3° l'article est complété par sept alinéas, rédigés comme suit :
+" Le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui peut, sur la base d'un niveau de certification, déléguer l'organisation pratique de la procédure du test de sélection visé à l'article 2, alinéa 1er, 4°, b, à des membres du personnel et services de la fonction publique administrative fédérale visés à l'article 1 de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique.
+Le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui fixe au maximum six niveaux de certification.
+Au premier niveau de certification, le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui se charge de l'ensemble de l'organisation pratique de la procédure de sélection.
+Au sixième niveau de certification, le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui se charge au moins des éléments suivants :
+1° il détermine les plateformes à utiliser ;
+2° il publie sur son site web la description de fonction avec le profil de compétences correspondant et les types de test ;
+3° il exerce un contrôle sur l'approche, la qualité et la méthodologie des différentes étapes du processus de sélection ;
+4° il gère les plaintes et les recours.
+Le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui octroie un niveau de certification sur la base des critères suivants :
+1° le nombre de sélections effectuées ;
+2° la qualité des sélections effectuées ;
+3° les formations suivies relatives à l'organisation des sélections ;
+4° le nombre de membres du personnel chargés d'effectuer des sélections au sein du service fédéral.
+Le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui fixe la durée de validité du niveau de certification, sans que cette durée ne puisse dépasser cinq ans. Passé ce délai, il peut renouveler le niveau de certification ou en octroyer un autre.
+Si le directeur général de la Direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui constate un dysfonctionnement au niveau de la délégation ou le non-respect de l'indépendance, de l'objectivité ou de l'intégrité de la sélection, il abaisse ou retire le niveau de certification. Le cas échéant, il annule ou suspend la sélection ou une partie de celle-ci. "
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a la Fonction publique dans ses attributions est chargé de l'exécution du présent arrêté.
