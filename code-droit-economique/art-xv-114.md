@@ -1,0 +1,2 @@
+Est puni d'une sanction de niveau 1, celui qui, dans le circuit économique, porte le titre de "mandataire en brevets", "octrooigemachtigde" ou "Patentanwalt", en dehors des circonstances visées à l'article XI.75/12.
+Est également puni d'une sanction de niveau 1, celui qui, dans le circuit économique, porte un titre professionnel lié à l'exercice de la profession de mandataire en brevets européens telle que visé à l'article XI.75/12, en dehors des circonstances visées au même article.
