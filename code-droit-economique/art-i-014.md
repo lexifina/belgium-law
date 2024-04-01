@@ -15,3 +15,4 @@ Les définitions suivantes sont applicables au livre XI, titres 1 et 2:
 14° le brevet européen avec effet unitaire: le brevet européen auquel est conféré un effet unitaire en vertu du Règlement 1257/2012;
 15° le brevet européen sans effet unitaire: le brevet européen auquel aucun effet unitaire n'est conféré en vertu du règlement 1257/2012;
 16° la juridiction unifiée du brevet: la juridiction commune aux Etats membres contractants instituée par l'Accord relatif à la création d'une juridiction unifiée du brevet, signé le 19 février 2013;
+17° mandataire en brevets: la personne physique qui effectue à titre professionnel des missions de conseil en matière de brevets d'invention et représente les tiers devant l'Office, à l'exception des employés visés à l'article XI.62, § 6, et des avocats visés à l'article XI.64/2.
