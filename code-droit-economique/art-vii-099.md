@@ -11,3 +11,4 @@
 1° le cas échéant, le solde restant dû du relevé précédent;
 2° le cas échéant, les dates distinctes des frais dus;
 3° la date et le montant des intérêts dus par taux débiteur appliqué ainsi qu'une indication du mode de calcul de ces intérêts sur le solde restant dû à l'aide du taux débiteur;
+4° la date d'expiration du délai de zérotage avec un avertissement bien visible que les paiements minimums contractuels peuvent ne pas être suffisantspour rembourser le montant prélevé à temps à cette date.
