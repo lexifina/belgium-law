@@ -6,7 +6,7 @@ a) les nom, prénom, lieu et date de naissance, profession et domicile du décla
 b) le fait générateur du dommage subi par le déclarant;
 c) la nature de ce dommage;
 d) l'intérêt personnel que le déclarant fait valoir.
-La déclaration à joindre au dossier, et dont il est dressé acte, est reçue par le secrétariat du ministère public, par le secrétariat de police, le fonctionnaire de police qui établit le procès verbal ou envoyée par lettre recommandée au secrétariat du ministère public.
+La déclaration à joindre au dossier, et dont il est dressé acte, est reçue par le secrétariat du ministère public, par le secrétariat de police, le fonctionnaire de police qui établit le procès verbal ou envoyée par lettre recommandée ou par voie électronique au secrétariat du ministère public.
 Si la déclaration est reçue par le secrétariat de police ou le fonctionnaire de police qui établit le procès-verbal, elle est transmise sans délai au secrétariat du ministère public.
 § 3. La personne lésée a le droit d'être assistée ou représentée par un avocat.
 Elle peut faire joindre au dossier tout document qu'elle estime utile.
