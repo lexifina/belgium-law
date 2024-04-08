@@ -43,7 +43,7 @@
 42° gebruiken van wapens waarvan de voornaamste uitwerking is dat ze een letsel toebrengen door middel van deeltjes die niet met röntgenstralen in het menselijk lichaam kunnen worden ontdekt;
 43° gebruiken van laserwapens die dusdanig zijn ontworpen dat zij in de strijd worden ingezet met als enig doel of onder meer als doel blijvende blindheid te veroorzaken bij personen zonder geassisteerd zicht, met andere woorden personen die met het blote oog kijken of corrigerende lenzen dragen.
 § 2. De hierna omschreven ernstige schendingen van het gemeenschappelijk artikel 3 van de Verdragen van Genève van 12 augustus 1949, gepleegd in geval van een gewapend conflict zoals gedefinieerd in voornoemd artikel 3, welke door handelingen of nalatigheden inbreuk maken op de bescherming die aan personen is gewaarborgd door die Verdragen, zijn internationaal-rechtelijke misdaden en worden overeenkomstig de bepalingen van deze titel gestraft, onverminderd de strafbepalingen die van toepassing zijn op de uit nalatigheid gepleegde misdrijven:
-1° geweldpleging gericht op het leven en de lichamelijk integriteit, inzonderheid alle vormen van moord, verminking, wrede behandeling en marteling;
+1° geweldpleging gericht op het leven en de lichamelijk integriteit, inzonderheid alle vormen van doodslag, verminking, wrede behandeling en marteling;
 2° aantasting van de persoonlijke waardigheid, inzonderheid vernederende en onterende behandeling;
 3° nemen van gijzelaars;
 4° uitspreken van veroordelingen en ten uitvoer leggen van executies zonder voorafgaand vonnis uitgesproken door een op regelmatige wijze samengesteld gerecht dat alle gerechtelijke waarborgen biedt die algemeen als onmisbaar worden erkend.
