@@ -7,6 +7,7 @@ En vue de permettre cette mesure, le juge d'instruction peut également, à l'in
 La mesure visée au présent paragraphe ne peut être ordonnée que pour rechercher les données qui peuvent servir à la manifestation de la vérité. Elle ne peut être ordonnée qu'à l'égard soit de personnes soupçonnées, sur la base d'indices précis, d'avoir commis l'infraction, soit à l'égard des moyens de communication ou systèmes informatiques régulièrement utilisés par un suspect, soit à l'égard des lieux présumés fréquentés par celui-ci. Elle peut également être ordonnée à l'égard de personnes présumées, sur la base de faits précis, être en communication régulière avec un suspect.
 § 2. Les infractions pouvant justifier la mesure visée au paragraphe 1er sont celles qui sont visées:
 1° aux articles 101 à 110 du Code pénal;
+1° /1 aux chapitres II et III du titre I, livre II, du Code pénal;
 2° aux articles 136bis, 136ter, 136quater, 136sexies et 136septies du même Code et à l'article 41 de la loi du 29 mars 2004 concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux;
 3° au livre II, titre Iter, du même Code;
 4° à l'article 147 du même Code;

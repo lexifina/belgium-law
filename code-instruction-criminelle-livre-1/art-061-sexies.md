@@ -4,7 +4,7 @@
 Le juge d'instruction prononce l'exécution provisoire de son ordonnance lorsqu'un retard peut entraîner un préjudice irréparable.
 3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.
 § 2. L'autorisation d'aliéner porte sur des avoirs patrimoniaux remplaçables, de valeur aisément déterminable et dont la conservation en nature peut entraîner une dépréciation, un dommage ou des frais disproportionnés au regard de leur valeur.
-§ 3. Le juge d'instruction informe le procureur du Roi de son ordonnance visée au § 1er, et la notifie par lettre recommandée ou par télécopieur:
+§ 3. Le juge d'instruction informe le procureur du Roi de son ordonnance visée au § 1er, et la notifie par un envoi recommandé, par télécopie, ou par voie électronique:
 1° aux personnes à charge et entre les mains desquelles la saisie a été opérée, pour autant que leurs adresses soient connues et leurs avocats;
 2° aux personnes qui d'après les données du dossier se sont expressément manifestées comme lésées par l'acte d'instruction et leurs avocats;
 3° en cas de saisie immobilière, aux créanciers connus selon l'état hypothécaire et leurs avocats.

@@ -1,7 +1,7 @@
 § 1er. Sans préjudice des dispositions des lois particulières, toute personne lésée par un acte d'information relatif à ses biens peut en demander la levée au procureur du Roi.
 § 2. La requête est motivée et contient élection de domicile en Belgique, si le requérant n'y a pas son domicile. Elle est adressée ou déposée au secrétariat du parquet et est inscrite dans un registre ouvert à cet effet.
 Le procureur du Roi statue au plus tard dans les quinze jours de l'inscription de la requête dans le registre.
-La décision motivée est notifiée au requérant et, le cas échéant, à son conseil par télécopie ou par lettre recommandée à la poste dans un délai de huit jours à dater de la décision.
+La décision motivée est notifiée au requérant et, le cas échéant, à son conseil par un envoi recommandé, par télécopie, ou par voie électronique dans un délai de huit jours à dater de la décision.
 § 3. Le procureur du Roi peut rejeter la requête s'il estime que les nécessités de l'information le requièrent, lorsque la levée de l'acte compromet la sauvegarde des droits des parties ou des tiers, lorsque la levée de l'acte présente un danger pour les personnes ou les biens, ou dans les cas où la loi prévoit la restitution ou la confiscation desdits biens.
 Il peut accorder une levée totale, partielle ou assortie de conditions. Toute personne qui ne respecte pas les conditions fixées est punie des peines prévues à l'article 507bis du Code pénal.
 § 4. La chambre des mises en accusation peut être saisie dans les quinze jours de la notification de la décision au requérant.

@@ -34,4 +34,9 @@ b) et a fixé sa résidence principale en Belgique sur la base d'un séjour lég
 c) et apporte la preuve de la connaissance d'une des trois langues nationales;
 d) et justifie de sa participation à la vie de sa communauté d'accueil. Cette preuve peut être apportée par toutes voies de droit, et contient des éléments attestant que le demandeur prend part à la vie économique et/ou socioculturelle de cette communauté d'accueil.
 § 2. ...
-§ 3. La déclaration comporte, préalablement à la signature de l'étranger, la mention suivante, écrite de la main de l'étranger: " Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales.
+§ 3. La déclaration comporte, préalablement à la signature de l'étranger, la mention suivante, écrite de la main de l'étranger ou, lorsque celui-ci est dans l'incapacité de l'écrire à la main, prononcée oralement par l'étranger et inscrite par l'officier de l'état civil compétent: " Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales.
+----------
+(1)
+(2)
+(3)
+(4)

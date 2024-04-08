@@ -1,0 +1,17 @@
+§ 1er. La personne lésée qui a fait une déclaration conformément à l'article 5bis du titre préliminaire du Code d'instruction criminelle et le suspect peuvent demander au procureur du Roi d'effectuer un acte d'information supplémentaire dans un dossier concernant un crime ou un délit. Pour les délits qui sont de la compétence du tribunal de police, cette possibilité ne s'applique qu'à l'égard des délits visés à l'article 138, 6° bis et 6° ter, et des délits pour lesquels le délai de prescription est de trois ans en application de l'article 68 de la loi du 16 mars 1968 relative à la police de la circulation routière.
+§ 2. Sous peine d'irrecevabilité, la requête est motivée et contient l'élection de domicile en Belgique si le requérant n'y a pas son domicile ou son siège.
+Elle est adressée ou déposée au secrétariat du parquet, qui l'insère dans un registre ouvert à cet effet.
+§ 3. Le procureur du Roi statue dans un délai de quatre mois après l'insertion de la requête dans le registre.
+Si la demande porte sur un dossier dans lequel le procureur du Roi, en application de l'article 28septies, a ordonné au juge d'instruction d'accomplir un acte d'instruction pour lequel il est seul compétent, le délai susmentionné est réduit à un mois maximum à compter de la première autorisation accordée par le juge d'instruction.
+§ 4. La décision motivée est notifiée au requérant et, le cas échéant, à son avocat, par un envoi recommandé, par télécopie, ou par voie électronique, dans un délai de huit jours à dater de la décision.
+§ 5. Le procureur du Roi peut rejeter cette demande s'il estime que la mesure n'est pas nécessaire à la manifestation de la vérité ou est, à ce moment, préjudiciable à l'information.
+§ 6. La décision du procureur du Roi est susceptible de recours devant la chambre des mises en accusation, par une déclaration faite au greffe du tribunal de première instance, dans un délai de huit jours suivant la notification de la décision au requérant, et inscrite dans un registre ouvert à cet effet.
+Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son avocat.
+Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant et, le cas échéant, à son avocat, au plus tard quarante-huit heures au préalable.
+Le procureur général, le requérant et son conseil sont entendus.
+§ 7. Si le ministère public n'a pas pris de décision dans le délai prévu au paragraphe 3, augmenté de quinze jours, le requérant peut s'adresser à la chambre des mises en accusation. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de première instance. La requête est insérée dans un registre prévu à cet effet.
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+La procédure se déroule conformément au paragraphe 6, alinéas 2 à 6.
+§ 8. Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai de six mois à compter de la dernière décision portant sur le même objet.

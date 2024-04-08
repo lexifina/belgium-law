@@ -1,0 +1,2 @@
+Les demandes visées aux articles 21quinquies et 61quinquies/1 ne suspendent pas le règlement de la procédure et ne peuvent pas constituer un motif pour constater que l'affaire n'est pas en état d'être jugée.
+Tant qu'il n'existe pas de décision définitive coulée en force de chose jugée de la juridiction d'instruction relative au règlement de la procédure, le juge d'instruction est compétent pour prendre connaissance des demandes visées à l'article 61quinquies/1, et pour statuer à cet égard.

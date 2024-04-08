@@ -3,7 +3,7 @@
 2° les restituer à la personne saisie moyennant le paiement d'une somme d'argent dont il fixe le montant, afin de leur subroger cette somme.
 3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.
 § 2. L'autorisation d'aliéner porte sur des avoirs patrimoniaux remplaçables, de valeur aisément déterminable et dont la conservation en nature peut entraîner une dépréciation, un dommage ou des frais disproportionnés au regard de leur valeur.
-§ 3. Par une notification recommandée ou par télécopieur, qui contient le texte du présent article, le procureur du Roi informe de sa décision visée au § 1er:
+§ 3. Par une notification par un envoi recommandé, par télécopie, ou par voie électronique, qui contient le texte du présent article, le procureur du Roi informe de sa décision visée au § 1er:
 1° les personnes à charge et entre les mains desquelles la saisie a été opérée, pour autant que leurs adresses soient connues et leurs avocats;
 2° les personnes qui d'après les données du dossier se sont expressément manifestées comme lésées par l'acte d'information et leurs avocats;
 3° en cas de saisie immobilière, les créanciers connus selon l'état hypothécaire et leurs avocats.
