@@ -1,0 +1,1 @@
+Hij die in het openbaar de titel van gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder voert of het beroep van gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder uitoefent indien hij niet voorkomt op de lijst bedoeld in artikel 555/1, § 1, 15° van het Gerechtelijk Wetboek, wordt gestraft met een geldboete van tweehonderd euro tot duizend euro.

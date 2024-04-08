@@ -1,5 +1,5 @@
 De misdaad tegen de mensheid, zoals hierna omschreven, gepleegd zowel in vredes- als in oorlogstijd, is een internationaal-rechtelijke misdaad en wordt gestraft volgens de bepalingen van deze titel. In overeenstemming met het Statuut van het Internationaal Strafhof wordt onder misdaad tegen de mensheid verstaan een van de volgende handelingen gepleegd in het kader van een veralgemeende of stelselmatige aanval op burgerbevolking en met kennis van bedoelde aanval:
-1° moord;
+1° doodslag;
 2° uitroeiing;
 3° verlaging tot slavernij;
 4° gedwongen deportatie of overbrenging van bevolking;
