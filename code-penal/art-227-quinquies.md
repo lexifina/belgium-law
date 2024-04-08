@@ -1,0 +1,1 @@
+Quiconque porte ou fait usage publiquement du titre de huissier de justice ou candidat-huissier de justice ou en exerce la profession, s'il ne figure pas sur la liste visé à l'article 555/1, § 1er, 15°, du Code judiciaire, sera puni d'une amende de deux cents euros à mille euros.
