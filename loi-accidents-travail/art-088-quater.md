@@ -4,7 +4,7 @@
 2° aux organismes impliqués dans la liquidation et la faillite des entreprises d'assurances ou dans d'autres procédures similaires
 3° aux organes chargés de la gestion de procédures obligatoires de liquidation d'entreprises d'assurances ou de fonds de garantie;
 4° aux personnes chargées du contrôle légal des comptes d'entreprises d'assurances;
-5° à la Banque Nationale de Belgique (BNB).
+5° ...
 Fedris ne peut communiquer des informations confidentielles en exécution de l'alinéa 1er que si le destinataire s'engage à n'en faire usage que pour l'exercice de ses fonctions et s'il est assujetti à un secret professionnel équivalent à celui prévu à l'article 88ter.
 § 2. Par dérogation à l'article 88 ter, Fedris a le droit de communiquer des informations confidentielles:
 1° aux autorités chargées de la surveillance des organes impliqués dans la liquidation et la faillite d'entreprises d'assurance et dans d'autres procédures similaires;
