@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Dans l'article 35, paragraphe 3, de l'arrêté royal du 6 février 2023 relatif à la lutte contre la rhinotrachéite infectieuse bovine, les mots " 1er avril 2024 " sont remplacés par les mots " 1er avril 2025 ".
