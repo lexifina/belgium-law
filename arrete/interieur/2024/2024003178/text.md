@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. A l'article 1er, § 1er, 1°, les mots " au directeur général adjoint de la Sécurité civile, " sont insérés entre les mots " au directeur général de la Sécurité civile, " et les mots " au directeur de la Protection civile ".
