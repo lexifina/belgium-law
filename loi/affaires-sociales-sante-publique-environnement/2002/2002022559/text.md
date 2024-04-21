@@ -212,19 +212,28 @@ Le Roi détermine ce qu'il faut entendre par information utile.
 
 <a name="LNK0011" href="#LNKR0011">Section 2.</a> - Demande, octroi d'office, révision, retrait.
 
-<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0012"> 18</a>. § 1er. Le centre compétent accorde, revoit ou retire le droit à l'intégration sociale sous la forme d'un revenu d'intégration, d'un emploi ou d'un projet individualisé d'intégration sociale soit de sa propre initiative, soit à la demande de l'intéressé ou de toute personne qu'il a désignée par écrit à cet effet.
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0012"> 18</a>.§ 1er. Le centre compétent accorde, revoit ou retire le droit à l'intégration sociale sous la forme d'un revenu d'intégration, d'un emploi ou d'un projet individualisé d'intégration sociale soit de sa propre initiative, soit à la demande de l'intéressé ou de toute personne qu'il a désignée par écrit à cet effet.
 Il y a lieu d'entendre par " centre compétent ", le centre visé aux articles 1, alinéa premier, 1° et 2 de la loi du 2 avril 1965 relative à la prise en charge de l'aide sociale accordée par les centres publics d'aide sociale.
 S'il s'agit d'une personne sans abri, le centre compétent est celui visé à l' (article 2, § 7, de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centre publics d'aide sociale). &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006122732" target="_blank">2006-12-27/32</a>, art. 81, 007; <b> En vigueur : </b> 07-01-2007&gt;
-§ 2. Le jour de sa réception, la demande est inscrite par ordre chronologique dans le registre tenu à cet effet.
-La demande écrite est signée par l'intéressé ou par la personne désignée. Lorsque la demande est orale, l'intéressé ou la personne désignée signe dans la case ad hoc du registre visé à l'alinéa 1.
-§ 3. Le centre adresse ou remet le même jour un accusé de réception au demandeur.
+§ 2. [<sup>1</sup> La demande, soumise à la décision du centre, peut être introduite oralement, par écrit, par voie électronique via le formulaire électronique mis à disposition par le ministre qui a l'intégration sociale dans ses attributions, ou d'office par le centre.
+La demande est inscrite le jour de sa réception, par ordre chronologique, dans le registre tenu à cet effet par le centre public d'action sociale.
+Lorsque la demande est écrite, elle est signée par l'intéressé ou par la personne qu'il a désignée par écrit.
+Lorsque la demande est orale, l'intéressé ou la personne désignée par écrit signe dans la case ad hoc du registre visé à l'alinéa 2.
+Lorsque la demande est électronique, l'enregistrement de celle-ci équivaut à la signature.
+Lorsque la demande électronique est introduite un samedi, un dimanche, ou un jour férié légal, la date de réception de la demande est le jour ouvrable qui suit.
+Le Roi peut déterminer les modalités d'application du formulaire électronique visé à l'alinéa 1er.]<sup>1</sup>
+§ 3. Le centre adresse ou remet le même jour un accusé de réception au demandeur. [<sup>2</sup> Lorsque la demande est introduite via le formulaire électronique visé au § 2, le demandeur reçoit le même jour un accusé de réception.]<sup>2</sup>
 Tout accusé de réception doit indiquer le délai d'examen de la demande et les dispositions des articles 20 et 22, § 1, alinéa 2.
-§ 4. Lorsqu'un centre reçoit une demande pour laquelle il ne se considère pas compétent, il transmet cette demande dans les cinq jours calendrier par écrit au centre qu'il estime être compétent. Dans le même délai, il avertit le demandeur par écrit de cette transmission. A peine de nullité, la transmission de la demande au CPAS considéré comme étant compétent, ainsi que la notification au demandeur de la transmission, se fait au moyen d'une lettre mentionnant les raisons de l'incompétence.
-Toutefois, la demande sera validée à la date de sa réception au premier centre, telle que déterminée au § 2.
-Le centre qui manque à cette obligation doit accorder, aux conditions fixées par la présente loi, le revenu d'intégration ou l'intégration sociale par l'emploi tant qu'il n'a pas transmis la demande ni communiqué les raisons invoquées pour justifier l'incompétence.
+§ 4. Lorsqu'un centre reçoit une demande pour laquelle il ne se considère pas compétent [<sup>3</sup> ou lorsqu'il met fin à une aide pour incompétence territoriale]<sup>3</sup>, il transmet cette demande dans les cinq jours calendrier par écrit au centre qu'il estime être compétent. Dans le même délai, il avertit le demandeur par écrit de cette transmission. A peine de nullité, la transmission de la demande au CPAS considéré comme étant compétent, ainsi que la notification au demandeur de la transmission, se fait au moyen [<sup>3</sup> d'un écrit]<sup>3</sup> mentionnant les raisons de l'incompétence.
+Toutefois, la demande sera validée à la date de sa réception au premier centre, telle que déterminée au § 2 [<sup>3</sup> , ou à la date de la transmission de la demande lorsque le CPAS met fin à une aide pour incompétence territoriale]<sup>3</sup>.
+Le centre qui manque à cette obligation [<sup>3</sup> ou qui met fin à l'aide pour incompétence territoriale]<sup>3</sup> doit accorder, aux conditions fixées par la présente loi, le revenu d'intégration ou l'intégration sociale par l'emploi tant qu'il n'a pas transmis la demande ni communiqué les raisons invoquées pour justifier l'incompétence.
 La décision d'incompétence peut être prise par le président à charge pour lui de soumettre sa décision au conseil ou à l'organe compétent à la plus prochaine réunion, en vue de sa ratification.
 § 5. Le centre auprès duquel une demande d'obtention de prestations sociales est introduite, pour laquelle il n'est pas compétent, la transmet sans délai à l'institution de sécurité sociale compétente. Le demandeur en est avisé.
 § 6. Lorsque le centre reçoit une demande d'obtention du droit à l'intégration sociale, transmise par une autre institution de sécurité sociale, la demande sera validée à la date d'introduction auprès de l'institution non compétente, à savoir la date du cachet de la poste et, à défaut de celui-ci, la date de réception de la demande.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024022913" target="_blank">2024-02-29/13</a>, art. 7, 030; En vigueur : 21-04-2024&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024022913" target="_blank">2024-02-29/13</a>, art. 8, 030; En vigueur : 21-04-2024&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024022913" target="_blank">2024-02-29/13</a>, art. 9, 030; En vigueur : 21-04-2024&gt;
 
 <a name="LNK0012" href="#LNKR0012">Section 3.</a> - Examen de la demande.
 
@@ -249,7 +258,7 @@ Lors de son audition, l'intéressé peut se faire assister ou représenter par u
 
 <a name="LNK0013" href="#LNKR0013">Section 4.</a> - Décision.
 
-<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. § 1. Sans préjudice de l'obligation d'accorder une aide immédiate qui lui est imposée par la loi du 8 juillet 1976 organique des centres publics d'aide sociale, le centre prend sa décision dans les trente jours qui suivent la réception de la demande.
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>.§ 1. Sans préjudice de l'obligation d'accorder une aide immédiate qui lui est imposée par la loi du 8 juillet 1976 organique des centres publics d'aide sociale, le centre prend sa décision dans les trente jours qui suivent la réception de la demande.
 Dans les cas visés à l'article 18, § 4, alinéa 1, et § 6, le centre a qui la demande a été transmise décide dans les trente jours suivant le jour où le premier centre saisi ou l'institution de sécurité sociale a transmis la demande.
 § 2. Toute décision à portée individuelle ayant des conséquences juridiques pour le droit de la personne concernée à une intégration sociale sous la forme d'un revenu d'intégration, d'un emploi ou d'un projet individualisé d'intégration sociale est écrite et motivée. Cette motivation doit être suffisante et porter tant sur les éléments juridiques que sur les éléments de fait sur lesquels repose la décision.
 Lorsque la décision porte sur une somme d'argent, elle doit mentionner le montant alloué, ainsi que le mode de calcul et la périodicité des paiements.
@@ -263,12 +272,14 @@ Lorsque la décision porte sur une somme d'argent, elle doit mentionner le monta
 7° le fait que le recours devant le tribunal du travail, n'est pas suspensif de l'exécution de la décision;
 8° s'il y a lieu, la périodicité du paiement.
 Si la décision ne contient pas les mentions prévues dans cet article, le délai de recours visé à l'article 47, § 1, alinéa 2, ne commence pas à courir.
-§ 4. La décision est notifiée à l'intéressé dans les huit jours sous pli recommandé ou contre accusé de réception, selon les modalités qui peuvent être déterminées par le Roi. La date du cachet de la poste ou de l'accusé de réception font foi.
+§ 4. La décision est notifiée à l'intéressé dans les huit jours sous pli recommandé [<sup>1</sup> ou recommandé électronique via l'eBox tel que prévu par la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox]<sup>1</sup> ou contre accusé de réception, selon les modalités qui peuvent être déterminées par le Roi. La date du cachet de la poste [<sup>1</sup> , de l'envoi électronique]<sup>1</sup> ou de l'accusé de réception font foi.
 § 5. La décision accordant ou majorant un revenu d'intégration, intervenue à la suite d'une demande introduite par l'intéressé, sort ses effets à la date de la réception de cette demande.
 Par dérogation à l'alinéa précédent, la décision prise par le centre compétent dans le cas visé à l'article 18, § 4, alinéa 3, produit ses effets le jour suivant la date à laquelle la demande a été transmise par le premier centre saisi.
 S'il s'agit d'une décision d'office, le centre fixe dans sa décision la date à laquelle cette décision produit ses effets.
 § 6. Toute décision d'octroi, de refus ou de révision du droit à l'intégration sociale sous la forme d'un revenu d'intégration, d'un emploi ou d'un projet individualisé d'intégration sociale, est communiquée au ministre, selon les modalités déterminées par le Roi, dans les huit jours suivant la fin du mois au cours duquel cette décision a été prise.
 (A défaut d'avoir communiqué la décision dans le délai requis, le centre est déchu du droit de recouvrer les dépenses afférentes à la période qui s'écoule entre le quarante-cinquième jour suivant la fin du mois au cours duquel la décision a été prise et le jour de la communication de cette décision. Le Roi peut déroger à cette disposition lors de circonstances exceptionnelles et collectives. Le présent alinéa concerne les décisions prises à partir du 1er octobre 2006.) &lt;L 2006-07-20/39, art. 190, 006; <b> En vigueur : </b> 07-08-2006&gt;
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024022913" target="_blank">2024-02-29/13</a>, art. 10, 030; En vigueur : 21-04-2024&gt;
 
 <a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0014"> 22</a>. § 1. Sans préjudice des dispositions légales et réglementaires en matière de prescription, le centre revoit une décision en cas :
 1. de modification des circonstances qui ont une incidence sur les droits de la personne;
@@ -306,7 +317,7 @@ En cas d'erreur du centre, le centre peut soit récupérer l'indu, soit de sa pr
 § 3. La décision mentionnée au § 1 doit être conforme aux dispositions de l'article 21, §§ 2, 3 et 4.
 § 4. Les montants payés indûment portent intérêt de plein droit à partir du paiement, si le paiement indu résulte de fraude, de dol ou de manoeuvres frauduleuses de la part de la personne intéressée.
 
-<a name="Art.25" href="#Art.24">Art.</a> <a href="#Art.26"> 25</a>. § 1. Cet article s'applique au cas de récupération visé à l'article 24, § 1, 1°.
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#Art.26"> 25</a>.§ 1. Cet article s'applique au cas de récupération visé à l'article 24, § 1, 1°.
 § 2. Le centre doit notifier par écrit sa décision à l'intéressé afin de récupérer auprès de lui le revenu d'intégration qui lui a été payé. Cette décision doit comporter, outre les mentions visées à l'article 21, § 3, les indications suivantes :
 1° la constatation que des montants indus ont été payés;
 2° le montant total de ce qui a été payé indûment, ainsi que le mode de calcul;
@@ -315,8 +326,10 @@ En cas d'erreur du centre, le centre peut soit récupérer l'indu, soit de sa pr
 5° la possibilité pour le centre de renoncer à la récupération des montants payés indûment et la procédure à suivre à cet effet;
 6° la possibilité de soumettre une proposition dûment motivée de remboursement par tranches.
 Lorsque la décision ne comporte pas les mentions précitées, le délai de recours visé à l'article 47, § 1, alinéa 2, ne commence pas à courir.
-Le centre ne peut exécuter sa décision de récupération qu'après un délai d'un mois. Si l'intéressé demande dans ce délai qu'il soit renoncé à la récupération, le centre ne peut agir qu'après avoir confirmé sa décision par une nouvelle décision communiquée à l'intéressé par lettre recommandée.
+Le centre ne peut exécuter sa décision de récupération qu'après un délai d'un mois. Si l'intéressé demande dans ce délai qu'il soit renoncé à la récupération, le centre ne peut agir qu'après avoir confirmé sa décision par une nouvelle décision communiquée à l'intéressé par lettre recommandée [<sup>1</sup> ou par recommandé électronique via l'eBox tel que prévu par la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox]<sup>1</sup>.
 § 3. Le Roi détermine les conditions dans lesquelles le centre renonce au recouvrement de l'indu lors du décès de la personne qui a été payée.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024022913" target="_blank">2024-02-29/13</a>, art. 11, 030; En vigueur : 21-04-2024&gt;
 
 <a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. Le remboursement du revenu d'intégration octroyé par un centre en application de la présente loi est poursuivi par ce centre en vertu d'un droit propre, dans les limites, les conditions et les modalités fixées par le Roi, à charge des débiteurs d'aliments visés à l'article 4, § 1, ainsi qu'à charge des débiteurs d'aliments visés à l'article 336 du Code civil, à concurrence du montant auquel ils sont tenus pendant la période durant laquelle le revenu d'intégration a été octroyé.
 
