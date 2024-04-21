@@ -1,0 +1,54 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. <sup>er</sup>. Dans l'article 2 de l'arrêté royal du 11 février 2013 relatif à la composition et au fonctionnement de la Commission Administrative de règlement de la relation de travail, modifié par l'arrêté royal du 23 juin 2019, les modifications suivantes sont apportées :
+a) au § 1er, 2°, les mots " la Direction générale Soutien et coordination politiques " sont remplacés par les mots " la Direction générale Expertise juridique ";
+b) au § 2, alinéa 3, les mots " le président d'une autre chambre " sont remplacés par les mots " un magistrat désigné comme suppléant par le Ministre de la Justice ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 3 du même arrêté, les mots ", les présidents suppléants " sont insérés entre les mots " Les présidents " et les mots " et les membres ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 5 du même arrêté, les modifications suivantes sont apportées :
+a) à l'alinéa 1er, les mots " Il est accordé aux présidents un jeton de présence de 100 euros " sont remplacés par les mots " Il est accordé aux présidents et aux présidents suppléants un jeton de présence de 100 euros ";
+b) un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 :
+" Ce montant est rattaché à l'indice pivot de mai 2023 et varie comme prévu par la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. ";
+c) à l'alinéa 2, les mots " et aux présidents suppléants " sont insérés entre les mots " Les présidents " et les mots " ont droit au remboursement des frais de parcours ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 6, § 1er, du même arrêté, modifié par l'arrêté royal du 23 juin 2019, les modifications suivantes sont apportées :
+a) à l'alinéa 1er, les mots " Le président arrête " sont remplacés par les mots " Les présidents arrêtent ";
+b) à l'alinéa 2, les mots " Le président est chargé de : " sont remplacés par les mots " Les présidents sont chargés de : ";
+c) l'alinéa 2, 1°, est complété par les mots " et des avis ";
+d) les alinéa 3 et 4 sont abrogés;
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 7 du même arrêté, les modifications suivantes sont apportées :
+a) au 1°, les mots " par lettre recommandée " sont remplacés par les mots " par un envoi recommandé ou tout autre moyen conférant une date certaine et l'assurance de la réception de cet envoi ";
+b) au 2°, a), les mots " et/ou le numéro d'entreprise " sont insérés entre les mots " le numéro de registre national " et les mots " des parties à la relation de travail ".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'article 8 du même arrêté est abrogé.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Dans l'article 9 du même arrêté, les modifications suivantes sont apportées :
+a) les mots " alinéa 3 " sont remplacés par les mots " alinéa 2, ";
+b) au 1°, les mots " par lettre recommandée " sont remplacés par les mots " par un envoi recommandé ou tout autre moyen conférant une date certaine et l'assurance de la réception de cet envoi, dans les délais prévu audit article ";
+c) au 2°, a), les mots " et/ou le numéro d'entreprise " sont insérés entre les mots " le numéro de registre national " et les mots " du demandeur ".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Dans l'article 10 du même arrêté, les modifications suivantes sont apportées :
+a) les mots " l'article 338, § 6, " sont remplacés par les mots " l'article 338/2, § 1er, ";
+b) au 1°, les mots " par lettre recommandée " sont remplacés par les mots " par un envoi recommandé ou tout autre moyen conférant une date certaine et l'assurance de la réception de cet envoi, dans les délais prévu audit article ";
+c) au 2°, a), les mots " et/ou le numéro d'entreprise " sont insérés entre les mots " le numéro de registre national " et les mots " du demandeur ";
+d) au 2°, le b) est remplacé par ce qui suit :
+" b) l'objet de la demande et les données relatives à l'avis notifié; ";
+e) au 2°, le c) est abrogé;
+f) le 4° est complété par les mots " ou de faire signer la demande par toutes les parties à la relation de travail selon que la demande d'avis est introduite à l'initiative de la partie qui s'est vue notifier un avis de la Commission ou bien à l'initiative des parties ensemble ".
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Un article 10/1 est inséré rédigé comme suit :
+" Art. 10/1. Dans le cadre de la procédure contradictoire visée à l'article 338/2, § 2, alinéa 1er, de la loi-programme précitée, la Commission notifie à l'autre partie à la relation de travail la demande du requérant et la possibilité d'intervenir.
+Cette notification est effectuée dans un délai d'un mois à compter de la réception de la demande de la première partie. La notification est faite par lettre ou tout autre moyen indiquant une date certaine.
+L'autre partie à la relation de travail reçoit, avec la notification, une copie du formulaire de demande, ainsi que toutes les informations et tous les documents que la première partie a fournis à la Commission. La partie intervenante dispose d'un mois pour notifier son intervention et prendre position sur la demande de la première partie. Elle peut également soumettre des documents à la Commission. En l'absence de réponse dans les délais, l'autre partie à la relation de travail est réputée ne pas vouloir intervenir dans la procédure.
+La Commission fournit au demandeur la réponse, les documents et les informations reçus de l'autre partie à la relation de travail au plus tard huit jours avant la séance.
+Si la Commission demande des informations supplémentaires à l'une des parties, elle les communique à l'autre partie, qui dispose alors d'un délai supplémentaire d'un mois pour répondre et déposer des documents supplémentaires. Ces éléments sont à leur tour communiqués par la Commission à l'autre partie au plus tard huit jours avant la séance. ".
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. L'article 11 du même arrêté est abrogé.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. L'article 12 du même arrêté est remplacé par ce qui suit :
+" Art. 12. Les décisions et les avis de la Commission Administrative sont respectivement prises et données dans les trois mois suivant la date d'introduction de la demande. Ce délai est prolongé, le cas échéant :
+- du nombre de jours entre la date de la demande de documents supplémentaires dont question à l'article 6, § 2, alinéa 4, du présent arrêté, et la date de réception de ces documents;
+- du nombre de jours entre la demande d'intervention dans l'affaire telle que prévue à l'article 338/2, § 2, alinéa 1er, de la loi-programme (I) du 27 décembre 2006 et la date de réponse à cette demande.
+Toutefois, le délai visé à l'alinéa 1er est suspendu durant les périodes pendant lesquelles la Commission Administrative ne se réunit pas. Ces périodes sont définies dans le Règlement d'ordre intérieur de la Commission Administrative. ".
+
+<a name="Art.12" href="#Art.11">Art.</a> 12. Le ministre qui a l'Emploi dans ses attributions, le ministre qui les Indépendants dans ses attributions et le ministre qui a les Affaires sociales dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
