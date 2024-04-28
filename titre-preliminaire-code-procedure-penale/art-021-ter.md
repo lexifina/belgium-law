@@ -1,2 +1,3 @@
-Si la durée des poursuites pénales dépasse le délai raisonnable, le juge peut prononcer la condamnation par simple déclaration de culpabilité ou prononcer une peine inférieure à la peine minimale prévue par la loi.
+Si la durée des poursuites pénales dépasse le délai raisonnable, le juge peut prononcer la condamnation par simple déclaration de culpabilité, ou prononcer une peine inférieure à la peine minimale prévue par la loi, ou, en cas de non-respect très grave du délai raisonnable, prononcer l'extinction de l'action publique.
+Le juge apprécie, au regard des circonstances de la cause et de l'importance du dépassement du délai raisonnable, quelle est la conséquence visée à l'alinéa 1er devant être prononcée.
 Si le juge prononce la condamnation par simple déclaration de culpabilité, l'inculpé est condamné aux frais et, s'il y a lieu, aux restitutions. La confiscation spéciale est prononcée.
