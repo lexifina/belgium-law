@@ -1,3 +1,4 @@
 L'action publique ne se prescrit pas:
 1° dans les cas visés aux articles 136bis, 136ter et 136quater du Code pénal;
 2° dans les cas visés aux articles 417/7 à 417/22, 417/24 à 417/38, 417/44, et 417/56, 409 et 433quinquies, § 1er, alinéa 1er, 1°, du Code pénal, ni en cas de tentative de commission de cette dernière infraction si elle visait une personne âgée de moins de dix-huit ans;
+3° dans les cas visés aux articles 394 et 475 du Code pénal si leur nature ou leur contexte est susceptible de porter gravement atteinte à un pays ou à une organisation internationale, ou sont de nature à susciter une crainte sérieuse dans la population ou à contraindre illégalement le gouvernement ou une organisation internationale à accomplir ou à s'abstenir d'accomplir un acte quelconque, ou à perturber gravement ou à détruire les structures fondamentales politiques, constitutionnelles, économiques ou sociales d'un pays ou d'une organisation internationale.

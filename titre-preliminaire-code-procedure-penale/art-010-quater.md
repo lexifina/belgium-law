@@ -1,4 +1,1 @@
-§ 1er. Pourra être poursuivie en Belgique toute personne qui aura commis hors du territoire:
-1° une infraction prévue aux articles 246 à 249 du Code pénal;
-2° une infraction prévue à l'article 250 du même Code, lorsque la personne exerçant une fonction publique dans un Etat étranger ou dans une organisation de droit international public est belge ou lorsque l'organisation de droit international public pour laquelle la personne exerce une fonction publique a son siège en Belgique.
-§ 2. Tout Belge ou toute personne ayant sa résidence principale sur le territoire du Royaume qui, hors du territoire du royaume, se sera rendu coupable d'une infraction prévue à l'article 250 du code pénal pourra être poursuivie en Belgique, à condition que le fait soit puni par la législation du pays où il a été commis.
+(Abrogé)
