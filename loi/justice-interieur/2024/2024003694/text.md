@@ -1,0 +1,13 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 4, alinéa 1er, de la loi organique du 18 juillet 1991 du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace, remplacé par la loi du 1er avril 1999 et modifié par la loi du 18 avril 2010, les mots "Deux suppléants sont nommés" sont remplacés par les mots "Un suppléant est nommé".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 6, alinéa 3, de la même loi, modifié en dernier lieu par la loi du 14 décembre 2015, la phrase "Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante du mandat, par son premier suppléant et, si celui-ci y renonce, par son second suppléant." est remplacée par ce qui suit: "Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante de son mandat, par son suppléant.".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans l'article 28, alinéa 1er, de la même loi, remplacé par la loi du 20 juillet 2000 et modifié en dernier lieu par la loi du 6 janvier 2014, les mots "Deux suppléants sont nommés" sont remplacés par les mots "Un suppléant est nommé".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 30, alinéa 3, de la même loi, modifié en dernier lieu par la loi du 14 décembre 2015, la phrase "Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante du mandat, par son premier suppléant et, si celui-ci y renonce, par son second suppléant." est remplacée par ce qui suit: "Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante de son mandat, par son suppléant.".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Les personnes qui, au moment de l'entrée en vigueur de la présente loi, exercent un mandat de second suppléant, continuent à exercer leur mandat pour le reste de sa durée.
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Les procédures de nomination d'un second suppléant en cours au moment de l'entrée en vigueur de la présente loi demeurent régies par les dispositions légales qui étaient applicables au moment de l'introduction de la procédure. Les personnes qui sont nommées second suppléant en conséquence de ces procédures de nomination, continuent à exercer leur mandat pour le reste de sa durée.
