@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1er, 1°, de l'arrêté royal du 11 décembre 2022 fixant le montant des jetons de présence et indemnités des présidents, présidents suppléants et membres des Chambres multidisciplinaires et des groupes de travail ainsi que des experts de la Commission de contrôle visés dans la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, est remplacé comme suit : " 1° par réunion d'une durée d'au moins deux heures, ainsi que par réunion d'urgence, quelle que soit la durée de cette réunion d'urgence, à un jeton de présence d'un montant de 100 euros en ce qui concerne le président et le vice-président, et à un jeton de présence d'un montant de 50 euros pour les membres et les experts; ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er mai 2024.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a la Santé publique dans ses attributions est chargé de l'exécution du présent arrêté.
