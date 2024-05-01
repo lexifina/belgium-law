@@ -1,0 +1,19 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 28, § 1er de l'arrêté royal du 20 juillet 1971 instituant une assurance indemnités et une assurance maternité en faveur des travailleurs indépendants et des conjoints aidants, modifié en dernier lieu par l'arrêté royal du 30 juillet 2018, les modifications suivantes sont apportées :
+1° l'alinéa 1er est remplacé par ce qui suit :
+" Les prestations sont refusées pour les périodes visées à l'article 103 de la loi coordonnée le 14 juillet 1994, sauf:
+1° s'il s'agit d'une période couverte par une rémunération due par l'employeur au titulaire pendant l'occupation en cours en vertu de la réglementation du travail applicable, après le début de la période pendant laquelle le titulaire est dans l'impossibilité d'effectuer son travail en raison d'une incapacité de travail;
+2° s'il s'agit d'une période couverte par un traitement différé accordé à l'enseignant temporaire après la fin de l'occupation, par une indemnité due par l'employeur à la suite de la rupture irrégulière du contrat de travail ou par une indemnité en compensation du licenciement visée à l'article 7, § 1er, alinéa 3, zf), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+3° s'il s'agit d'une période couverte par une rémunération acquise par une activité en application des articles 22 et 23bis. Toutefois, à partir du moment où les périodes visées à l'article 22 atteignent une durée de six mois, les prestations sont diminuées des trois quarts du revenu professionnel brut acquis au cours desdites périodes. ";
+2° l'alinéa 2 est abrogé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 29, § 1er du même arrêté, modifié par l'arrêté royal du 30 juin 1976, est complété par les 6° et 7° rédigés comme suit :
+" 6° de la rémunération ainsi que du complément prévu par la convention collective de travail n° 12 bis ou 13 bis dus par l'employeur au titulaire pendant l'occupation en cours en vertu de la réglementation du travail applicable, après le début de la période pendant laquelle le titulaire est dans l'impossibilité d'effectuer son travail en raison d'une incapacité de travail;
+7° du traitement différé accordé à l'enseignant temporaire après la fin de l'occupation, de l'indemnité due par l'employeur à la suite de la rupture irrégulière du contrat de travail ainsi que de l'indemnité en compensation du licenciement octroyée en vertu de l'article 7, § 1er, alinéa 3, zf), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 30 du même arrêté, modifié par l'arrêté royal du 19 juillet 1989, les modifications suivantes sont apportées :
+1° dans l'alinéa 1er, les mots " ou 4° " sont remplacés par les mots ", 4°, 6° ou 7°";
+2° dans l'alinéa 2, les mots " les trois alinéas de l'article 76quater, § 2, de la loi du 9 août 1963 " sont remplacés par les mots " les alinéas 4 à 8 de l'article 136, § 2, de la loi coordonnée le 14 juillet 1994 ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge et s'applique aux indemnités dues pour une période à partir de cette date d'entrée en vigueur.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Affaires sociales dans ses attributions et le ministre qui a les Indépendants dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
