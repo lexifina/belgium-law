@@ -3,7 +3,7 @@ Les définitions suivantes sont applicables au livre IV:
 2° autorité de concurrence: la Commission européenne ou une autorité nationale de concurrence, ou les deux, selon le contexte;
 3° réseau européen de la concurrence: le réseau d'autorités publiques formé par les autorités nationales de concurrence et la Commission européenne pour offrir un espace de discussion et de coopération en matière d'application et de mise en oeuvre des articles 101 et 102 du TFUE;
 4° Autorité belge de la concurrence: l'autorité nationale de concurrence de Belgique créée par la loi du 3 avril 2013 et visée à l'article IV.16;
-5° Collège de la concurrence: le collège décisionnel de l'Autorité belge de la concurrence constitué par affaire pour prendre les décisions visées au livre IV, titre 2, chapitre 1er, section 2;
+5° Collège de la concurrence: le collège décisionnel de l'Autorité belge de la concurrence constitué par affaire pour prendre les décisions visées au livre IV, titre 3, chapitre 1er;
 6° président: le président de l'Autorité belge de la concurrence;
 7° auditorat: l'auditorat de l'Autorité belge de la concurrence;
 8° auditeur général: l'auditeur général de l'Autorité belge de la concurrence;
@@ -11,7 +11,7 @@ Les définitions suivantes sont applicables au livre IV:
 10° auditeur-conseiller: le membre du personnel de l'auditorat visé à l'article IV.27, § 4;
 11° équipe d'instruction: les membres du personnel de l'auditorat qui sont chargés de l'instruction sous la direction de l'auditeur et la direction générale de l'auditeur général;
 12° entreprise: toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;
-13° partie concernée: l'entreprise, l'association d'entreprises ou la personne physique qui fait l'objet des instructions et des décisions visées au livre IV, titre 2, chapitre 1er, section 2;
+13° partie concernée: l'entreprise, l'association d'entreprises ou la personne physique qui fait l'objet des instructions et des décisions visées au livre IV, titre 3, chapitre 1er;
 14° Commission consultative spéciale Concurrence: la commission visée à l'article IV.37;
 15° infraction au droit de la concurrence: une infraction à l'article IV.1, à l'article IV.2 ou à l'article IV.2/1, et/ou à l'article 101 ou à l'article 102 du TFUE;
 16° position dominante: la position permettant à une entreprise de faire obstacle au maintien d'une concurrence effective en lui fournissant la possibilité de comportements indépendants dans une mesure appréciable vis-à-vis de ses concurrents, clients ou fournisseurs;
@@ -38,3 +38,4 @@ Les définitions suivantes sont applicables au livre IV:
 37° règlement (CE) n° 139/2004: le Règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises;
 38° règlement (CE) n° 1/2003: le Règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du Traité;
 39° directive (UE) 2019/1: la Directive (UE) 2019/1 du Parlement européen et du Conseil du 11 décembre 2018 visant à doter les autorités de concurrence des Etats membres des moyens de mettre en oeuvre plus efficacement les règles de concurrence et à garantir le bon fonctionnement du marché intérieur;
+40° règlement (UE) 2022/1925: règlement (UE) 2022/1925 du Parlement européen et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828.

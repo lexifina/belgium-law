@@ -6,12 +6,13 @@ Le cas échéant, l'exercice de la fonction d'auditeur général est considéré
 1° diriger l'auditorat;
 2° recevoir les plaintes, les requêtes et les injonctions concernant les infractions au droit de la concurrence;
 3° ouvrir l'instruction dans les cas visés à l'article IV.39, et fixer l'ordre dans lequel les affaires sont examinées, après avis du directeur des affaires économiques;
+3° /1 ouvrir une enquête au sens de l'article 38, paragraphe 7, du règlement (UE) 2022/1925;
 4° recevoir les notifications de concentration;
 5° assurer la direction générale de l'instruction menée par l'auditeur et, en cas d'indisponibilité temporaire motivée de l'auditeur, assurer temporairement la tâche de l'auditeur dans une affaire;
-6° délivrer les ordres de mission lorsque les membres du personnel de l'Autorité belge de la concurrence assistent les fonctionnaires de la Commission européenne lors d'une inspection ordonnée par la Commission européenne en application du Règlement (CE) n° 1/2003;
+6° délivrer les ordres de mission lorsque les membres du personnel de l'Autorité belge de la concurrence assistent les fonctionnaires de la Commission européenne lors d'une inspection ordonnée par la Commission européenne en application de l'article 20 du règlement (CE) n° 1/2003 et lorsque les membres du personnel de l'Autorité belge de la concurrence procèdent à une inspection au nom et pour le compte de l'autorité de concurrence d'un autre Etat membre de l'Union européenne en vertu de l'article 22 du règlement (CE) n° 1/2003;
 7° veiller à l'exécution des décisions prises par le Collège de la concurrence, l'auditeur et la Cour des marchés en matière des règles de concurrence;
 8° représenter l'Autorité belge de la concurrence dans les procédures visées à l'article IV.90, lorsqu'un recours est interjeté contre une décision de l'auditeur général ou de l'auditeur; l'auditeur général peut déléguer la représentation dans une affaire au directeur des affaires juridiques, à l'auditeur ou à un membre du personnel de l'auditorat;
-9° demander le renvoi d'une concentration à l'Autorité belge de la concurrence et le renvoi d'une concentration à la Commission européenne en application respectivement des articles 4 et 9 de l'article 22 du Règlement (CE) n° 139/2004;
+9° demander le renvoi d'une concentration à l'Autorité belge de la concurrence en application des articles 4 et 9 du règlement (CE) n° 139/2004 ou le renvoi d'une concentration à la Commission européenne en application de l'article 22 du même règlement;
 10° entamer et mettre fin à la procédure de transaction;
 11° mettre fin aux discussions relatives aux engagements offerts par une partie concernée;
 12° demander des mesures provisoires;
