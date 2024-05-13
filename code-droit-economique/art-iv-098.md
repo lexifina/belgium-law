@@ -1,0 +1,1 @@
+Aux fins de l'application du règlement (UE) 2022/1925, le président, l'auditeur-général et les membres du personnel de l'Autorité belge de la concurrence sont habilités à communiquer à la Commission européenne et aux autorités nationales de concurrence, tout élément de fait ou de droit, en ce compris des informations confidentielles.

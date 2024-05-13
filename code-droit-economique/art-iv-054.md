@@ -20,7 +20,7 @@ a) s'abstenir de détruire, falsifier ou dissimuler tout élément de preuve en 
 b) s'abstenir de divulguer son intention de déposer une demande de clémence ni la teneur de celle-ci, sauf à d'autres autorités de concurrence du réseau européen de la concurrence ou de pays tiers;
 2° au plus tard immédiatement après le dépôt de sa demande de clémence, avoir mis fin à sa participation au cartel secret, sauf si l'auditeur en charge de l'affaire estime qu'une continuation de cette participation est raisonnablement nécessaire pour préserver l'intégrité de l'instruction;
 3° dès le dépôt de sa demande de clémence jusqu'à ce que l'Autorité belge de la concurrence ait clos sa procédure en adoptant une décision, collaborer pleinement, de manière continue, de bonne foi et rapidement avec l'Autorité belge de la concurrence. Ceci implique entre autres pour le demandeur de clémence de:
-a) fournir à l'Autorité belge de la concurrence, sans délai et dans sa déclaration effectuée en vue d'obtenir la clémence, tous les renseignements et éléments de preuve pertinents au sujet du cartel secret qui sont en sa possession ou auxquels il pourrait avoir accès, en particulier:
+a) fournir à l'Autorité belge de la concurrence, sans délai, sa déclaration effectuée en vue d'obtenir la clémence, ainsi que tous les renseignements et éléments de preuve pertinents au sujet du cartel secret qui sont en sa possession ou auxquels il pourrait avoir accès, en particulier:
 i) le nom et l'adresse du demandeur de clémence,
 ii) le nom de toutes les autres entreprises ou associations d'entreprises qui participent ou ont participé au cartel secret,
 iii) une description détaillée du cartel secret, y compris les produits en cause, l'étendue géographique, la durée et la nature du cartel secret,

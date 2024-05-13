@@ -1,0 +1,3 @@
+§ 1er. L'auditeur général peut décider d'ouvrir une enquête au sens de l'article 38, paragraphe 7, du règlement (UE) 2022/1925 concernant le non-respect des articles 5, 6 et 7 du même règlement sur le territoire belge. Conformément à l'article IV.27, §§ 2 et 3, il désigne un membre de personnel de l'auditorat qui est chargé en tant qu'auditeur de la direction journalière de l'enquête, et une équipe d'enquête chargée de l'enquête sous sa direction générale et la direction journalière de l'auditeur.
+L'auditeur et les membres du personnel de l'Autorité belge de la concurrence peuvent, dans le cadre de l'enquête, appliquer les articles IV.40 à IV.40/5.
+§ 2. Une fois l'enquête clôturée, l'auditeur général en communique les résultats à la Commission européenne.

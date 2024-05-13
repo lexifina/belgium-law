@@ -1,0 +1,2 @@
+Les membres du personnel de l'Autorité belge de la concurrence désignés à cet effet par l'auditeur général sont chargés de missions d'assistance, en application des articles 21, paragraphe 5, 22, paragraphe 2, 23, paragraphe 3, et 26, paragraphe 2, du règlement (UE) 2022/1925.
+En outre, ils peuvent apporter leur soutien à la Commission européenne pour ses enquêtes de marché, conformément à l'article 16, paragraphe 5, et à l'article 38, paragraphe 6, du règlement (UE) 2022/1925.

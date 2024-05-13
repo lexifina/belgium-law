@@ -1,2 +1,2 @@
 Tout jugement ou arrêt rendu par les cours et tribunaux et relatif au caractère licite d'une pratique de concurrence au sens du présent livre, est communiqué à l'Autorité belge de la concurrence, au ministre et, pour autant que le jugement ou arrêt ait trait à l'application du droit européen de la concurrence, à la Commission européenne dans la huitaine, à la diligence du greffier de la juridiction compétente.
-En outre, le greffier porte sans délai les recours introduits contre tout jugement ou arrêt visé à l'alinéa précédent à la connaissance de l'Autorité belge de la concurrence.
+En outre, le greffier porte sans délai les recours introduits contre tout jugement ou arrêt visé à l'alinéa précédent à la connaissance de l'Autorité belge de la concurrence et du ministre.

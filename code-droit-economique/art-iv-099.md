@@ -1,0 +1,2 @@
+La communication des pratiques ou comportements qui tombent dans le champ d'application du règlement (UE) 2022/1925 est faite auprès de l'auditeur général en application de l'article 27, paragraphe 1er, du même règlement.
+L'auditeur général a toute latitude en ce qui concerne les mesures appropriées, et il n'est pas tenu de donner suite aux renseignements reçus. S'il estime que les informations reçues, sur la base de l'alinéa 1er, peuvent constituer un cas de non-conformité au règlement (UE) 2022/1925, il les transmet à la Commission européenne.
