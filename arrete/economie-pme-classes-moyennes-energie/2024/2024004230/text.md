@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Les agents de la Direction générale de l'Inspection économique du Service public fédéral Economie, P.M.E., Classes moyennes et Energie sont compétents pour rechercher et constater les infractions visées à l'article 11 de la loi du 29 mars 2018 portant enregistrement des prestataires de services aux sociétés.
