@@ -1,0 +1,81 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE Ier.</a> - Dispositions générales
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>.§ 1er. Les définitions contenues à l'article 2 de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, ci-après dénommée " la loi du 29 avril 1999 ", s'appliquent au présent arrêté.
+§ 2. Pour l'application du présent arrêté, il faut entendre par :
+1° " Etat membre européen limitrophe " : Etat membre de l'Union européenne limitrophe au territoire belge dont le réseau électrique est interconnecté avec le réseau électrique belge ;
+2° " gestionnaire du réseau de transport limitrophe " : le gestionnaire du réseau de transport ou l'ensemble des gestionnaires de réseau de transport d'un Etat membre européen limitrophe;
+3° " autorité de régulation nationale limitrophe " : autorité de régulation nationale d'un Etat membre européen limitrophe ;
+4° " détenteur de capacité étrangère indirecte éligible " : un détenteur de capacité étrangère indirecte qui répond aux critères de recevabilité déterminés en vertu de l'article 7undecies, § 8, alinéa 1er, de la loi du 29 avril 1999.
+5° " CDS " : le réseau fermé de distribution au sens de l'article 2, alinéa 2, 5., du Règlement (UE) 2016/1388 de la Commission européenne du 17 août 2016 établissant un code de réseau sur le raccordement des réseaux de distribution et des installations de consommation.
+6° " arrêté royal du 28 avril 2021 " : l'arrêté royal du 28 avril 2021 fixant les paramètres avec lesquels le volume de la capacité à prévoir est déterminé, y compris leurs méthodes de calcul, et les autres paramètres nécessaires pour l'organisation des mises aux enchères, ainsi que la méthode pour et les conditions à l'octroi d'une dérogation individuelle à l'application du ou des plafond(s) de prix intermédiaire(s) dans le cadre du mécanisme de rémunération de capacité ;
+7° " méthodologie ACER " : la méthodologie approuvée par l'ACER, visée à l'article 26, alinéa 11, a) du Règlement (UE) 2019/943 ;
+8° " règles de fonctionnement " : les règles de fonctionnement du mécanisme de rémunération de capacité visées à l'article 7undecies, § 12, de la loi du 29 avril 1999 ;
+9° " NEMO choisi " : l'opérateur de marché choisi par le fournisseur de capacité, actif dans la zone de contrôle dans laquelle la CMU se situe, désigné en application du règlement (UE) 2015/1222 de la Commission du 24 juillet 2015 établissant des lignes directrices relatives à l'attribution des capacités et à la gestion de la congestion, auprès duquel le prix de référence est observé ;
+10° " le segment de marché du NEMO " : Le segment de marché, le couplage uniforme day-ahead, visé à l'article 2, 26 du règlement (UE) 2015/1222 de la Commission du 24 juillet 2015 établissant des lignes directrices relatives à l'attribution des capacités et à la gestion de la congestion, pour lequel le NEMO [<sup>1</sup> choisi]<sup>1</sup> est désigné ;
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051201" target="_blank">2024-05-12/01</a>, art. 2, 002; En vigueur : 15-05-2024&gt;
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE II.</a> - Pré-enchères
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Préalablement à chaque mise aux enchères un an avant la période de fourniture de capacité, une pré-enchère est organisée pour chacun des Etats membres européens limitrophes.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. § 1er. Chaque année, le gestionnaire du réseau intègre dans le rapport visé à l'article 7undecies, § 3, alinéa 1er, de la loi du 29 avril 1999, un calcul de la capacité d'entrée maximale disponible pour chaque Etat membre européen limitrophe et pour la pré-enchère concernée. Ce calcul est fait conformément l'article 14 de l'arrêté royal du 28 avril 2021.
+§ 2. Dans la proposition visée à l'article 7undecies, § 4, de la loi du 29 avril 1999, la commission tient compte de capacité d'entrée maximale disponible pour chaque Etat membre européen limitrophe et pour la pré-enchère concernée comme déterminée conformément au paragraphe 1er et vérifie si les capacités ont été calculées conformément à la méthodologie ACER .
+La Direction générale de l'Energie et le gestionnaire du réseau prévoient chacun dans leur avis visé à l'article 7undecies, § 5, de la loi du 29 avril 1999 un avis au ministre relatif aux éléments visés dans l'alinéa 1er dans la proposition de la commission visée à l'article 7undecies, § 4 de la loi du 29 avril 1999 l'alinéa 1er .
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. Le ministre donne instruction au gestionnaire du réseau d'organiser les pré-enchères et fixe la capacité d'entrée maximale disponible de chaque Etat membre européen limitrophe sur la base des proposition et avis visés à l'article 3.
+Dans l'instruction visée à l'alinéa 1er, le ministre peut le cas échéant décider qu'une pré-enchère avec un Etat membre européen limitrophe qu'il désigne ne doit pas être organisée dans les cas suivants :
+1° s'il ressort du rapport du gestionnaire du réseau visé à l'article 10, alinéa 4, que la mise en oeuvre de l'accord visé à l'article 10 a pris un retard tel que la participation des capacités étrangères indirectes situées dans cet Etat membre est radicalement inenvisageable ;
+2° si la capacité d'entrée maximale disponible pour cet Etat membre européen limitrophe est inférieure à 50 MW.
+§ 2. Les paramètres de chaque pré-enchère sont identiques à celles de la mise aux enchères à laquelle elle se rapporte.
+Le prix de référence appliqué pour les capacités étrangères indirectes correspond au prix de référence d'un segment de marché du NEMO opérant dans l'Etat membre européen limitrophe, désigné par chaque détenteur de capacité étrangère indirecte.
+Les modalités du prix de référence relatives entre autres aux choix, modification, remplacement en cas de données manquantes ou de cessation de l'activité du NEMO choisi sont établies dans les règles de fonctionnement.
+§ 3. Le ministre abroge l'instruction visée au paragraphe 1er dans les dix jours suivant la réception de la décision de la Commission européenne selon laquelle les mesures d'aide visées au présent arrêté constituent une aide d'Etat incompatible au sens de l'article 107 du traité sur le fonctionnement de l'Union européenne. Cette abrogation entraîne l'interdiction d'organiser des procédures de pré-enchère ou leur arrêt immédiat.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. § 1er. Tout détenteur de capacité étrangère indirecte éligible est autorisé à participer à une pré-enchère si son dossier répond aux conditions d'admission suivantes :
+1° la capacité étrangère indirecte concernée est raccordée à un réseau de transport ou de distribution, ou à un CDS, de cet Etat membre européen limitrophe ;
+2° le niveau d'émissions de CO<sub>2</sub> de la capacité étrangère indirecte concernée respecte les exigences fixées dans les règles de fonctionnement en vigueur au moment de la prise d'effet de l'instruction visée à l'article 4, § 1er ;
+3° le détenteur de capacité étrangère indirecte fournit au profit du gestionnaire du réseau une garantie financière dont les modalités sont décrites dans les règles de fonctionnement en vigueur au moment de la prise d'effet de l'instruction visé à l'article 4, § 1er ;
+§ 2. Le gestionnaire du réseau publie sur son site internet les modèles à utiliser par les détenteurs de capacité étrangères indirectes en vue de démontrer le respect des conditions d'admission énumérées au paragraphe 1er. Ces modèles peuvent également porter sur le respect, par les détenteurs de capacité étrangères indirectes, des critères de recevabilité visés à l'article 7undecies, § 8, alinéa 1er, 1° et 2° de la loi du 29 avril 1999. La commission peut préciser dans les règles de fonctionnement les cas dans lesquels, cette démonstration peut être rapportée par voie de déclaration ou d'engagement du détenteur de capacité étrangère indirecte.
+Le gestionnaire du réseau publie également un document décrivant toutes les modalités pratiques liées la participation des capacités étrangères indirectes aux pré-enchères.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le détenteur de capacité étrangère indirecte introduit son dossier d'admission auprès du gestionnaire du réseau au plus tard le 12 avril en vue de sa participation à la pré-enchère.
+Le gestionnaire du réseau contrôle le dossier d'admission en coopération avec le gestionnaire du réseau de transport limitrophe concerné.
+Le gestionnaire du réseau notifie le résultat de son contrôle des conditions d'admission au détenteur de capacité étrangère indirecte au plus tard 4 jours ouvrables après le 15 mai.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.§ 1er. Tout détenteur de capacité étrangère indirecte dont le dossier d'admission a été accepté par le gestionnaire du réseau est autorisé à introduire une ou plusieurs offres dans le cadre de la pré-enchère.
+L'offre ou les offres sont introduites au plus tard le 25 mai. Chaque offre contient au moins un prix et un volume.
+Au plus tard le 12 juin, le gestionnaire du réseau informe chaque détenteur de capacité étrangère indirecte ayant soumis au moins une offre dans le cadre d'une pré-enchère, de la sélection ou non de son (ou ses) offre(s).
+Les résultats de chaque pré-enchère sont transmis à la commission afin de lui permettre d'exercer son contrôle en vertu de l'article 7undecies, § 13, de la loi du 29 avril 1999.
+Les résultats de chaque pré-enchère sont publiés sur le site du gestionnaire du réseau en même temps que ceux des mises aux enchères visées à l'article 7undecies, § 10, de la loi du 29 avril 1999. Ces résultats sont également communiqués au ministre.
+[<sup>1</sup> § 2. Tout détenteur de capacité étrangère indirecte dont l'offre a été sélectionnée lors de la pré-enchère, est tenu d'introduire un dossier de préqualification conformément l'article 7undecies, § 8, alinéa 2 de la loi du 29 avril 1999, pour un volume équivalent à l'offre sélectionnée lors de la pré-enchère dans le cadre de la mise aux enchères concernée.
+Les offres sélectionnées dans le cadre d'une pré-enchère sont réputées avoir été soumises à l'enchère correspondante à condition que le dossier concerné réponde aux critères de recevabilité conformément à l'article 7undecies, § 8 de la loi du 29 avril 1999 et aux critères et modalités de préqualification conformément à l'article 7undecies, § 12, alinéa 3, 2° de la loi du 29 avril 1999.]<sup>1</sup>
+
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051201" target="_blank">2024-05-12/01</a>, art. 3, 002; En vigueur : 15-05-2024&gt;
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. L'évaluation du dossier de préqualification des détenteurs de capacité étrangère indirecte est effectuée par le gestionnaire du réseau en coopération avec le gestionnaire du réseau de transport limitrophe, conformément aux règles établies dans la méthodologie ACER et, le cas échéant, conformément aux accords visés [à l'article 10. Dans ce cadre, le gestionnaire du réseau de transport limitrophe utilise le registre visé à l'article 26, alinéa 10, a), du Règlement (UE) 2019/943.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0003"> 9</a>.Le détenteur de capacité étrangère indirecte est libéré de son obligation liée à la garantie financière par le gestionnaire du réseau dans les cas suivants :
+1° l'offre du détenteur de capacité étrangère indirecte n'est pas sélectionnée à l'issue de la pré-enchère ; ou
+2° le détenteur de capacité étrangère indirecte dont l'offre est sélectionnée à l'issue de la pré-enchère complète avec succès la préqualification et participe à la mise aux enchères [<sup>1</sup> conformément l'article 7, § 2]<sup>1</sup> mais qui n'est pas sélectionnée lors de la mise aux enchères.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051201" target="_blank">2024-05-12/01</a>, art. 4, 002; En vigueur : 15-05-2024&gt;
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE III.</a> - Accords entre gestionnaires de réseau
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0004"> 10</a>. Le gestionnaire du réseau conclut des accords avec chaque gestionnaire du réseau de transport limitrophe pour l'organisation de la participation étrangère indirecte. Ces accords complètent la méthodologie ACER et, le cas échéant, donnent exécution à l'article 7undecies, § 15, alinéa 2, de la loi du 29 avril 1999.
+Dans le cas où un mécanisme de rémunération de capacité est mis en oeuvre dans l'Etat membre européen limitrophe dans lequel la capacité étrangère indirecte est située, l'accord avec le gestionnaire du réseau de transport limitrophe concerné, conclu conformément à l'article 7undecies, § 15, alinéa 2, de la loi du 29 avril 1999, contient l'acceptation préalable de ce gestionnaire du réseau de transport limitrophe de ce que les coûts du gestionnaire du réseau liés à la participation de la capacité belge au mécanisme de rémunération de capacité de l'Etat concerné, seront supportés directement ou indirectement par le mécanisme de rémunération de capacité de cet Etat.
+Les accords visés au premier alinéa sont approuvés par la commission, à l'exception des modalités purement opérationnelles de mise en oeuvre des accords en question. Les accords approuvés sont transmis au ministre et à la Direction générale de l'Energie.
+Au plus tard soixante jours suivant l'entrée en vigueur du présent arrêté et ensuite annuellement, le gestionnaire du réseau transmet au ministre et à la commission un rapport exposant l'état d'avancement de la mise en oeuvre des accords visés à l'alinéa 1er.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE IV.</a> - Accords entre autorités de régulation
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0005"> 11</a>. La commission peut conclure des accords avec chacune des autorités de régulation nationales limitrophes en vue de faciliter l'exercice de ses compétences pour ce qui concerne la participation des capacités étrangères indirectes. Le cas échéant, ces accords peuvent comprendre entre autres les dispositions administratives adéquates permettant l'exécution des paiements d'indisponibilité par-delà les frontières.
+Les accords visés au premier alinéa sont publiés sur le site Internet de la commission.
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE V.</a> - Dispositions finales
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.13" href="#Art.12">Art.</a> 13. Le ministre qui a l'Energie dans ses attributions est chargé de l'exécution du présent arrêté.
