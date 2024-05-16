@@ -1,0 +1,261 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Dispositions générales
+
+<a name="LNK0002" href="#LNKR0002">Section 1re.</a> - Objet - champ d'application - définitions
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. Le présent arrêté fixe les règles pour le maintien du statut " indemne de brucellose " de la Belgique ainsi que les mesures à mettre en oeuvre en cas de suspicion ou de confirmation de la brucellose, en complément des règles fixées dans :
+1° le règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale ;
+2° le règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d'éradication et au statut " indemne " de certaines maladies répertoriées et émergentes.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté s'applique à tous les établissements situés sur le territoire belge détenant des bovins, ovins ou caprins à l'exception des établissements fermés tels que définis à l'article 4, 48) du règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0003"> 3</a>. § 1er. Pour l'application du présent arrêté, les définitions des réglementations européennes mentionnées à l'article premier s'appliquent.
+§ 2. En outre, pour l'application du présent arrêté, on entend par :
+1° Règlement délégué (UE) 2020/689 : règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d'éradication et au statut " indemne " de certaines maladies répertoriées et émergentes ;
+2° Agent de la brucellose: la bactérie Brucella abortus, B. melitensis et B. suis ;
+3° Animal : bovin, ovin ou caprin ;
+4° Animal suspect d'être atteint de brucellose: chaque animal
+a. dont les examens cliniques évoquent la brucellose et ;
+b. dont le ou les résultat(s) d'une méthode de diagnostic telle que visée à l'article 5, § 2, indique(nt) la présence probable de brucellose sur un échantillon prélevé sur cet animal ou un groupe d'animaux et/ou;
+c. qui présente un lien épidémiologique avec un cas confirmé ;
+5° Animal atteint de brucellose : chaque animal dont
+a. l'agent de la brucellose a été isolé sur un échantillon prélevé sur cet animal, ou sur un groupe d'animaux ;
+b. un antigène ou acide nucléique de l'agent de la brucellose a été identifié sur un échantillon prélevé sur cet animal ou sur un groupe d'animaux et qui présentent des signes cliniques ou un lien épidémiologique avec un cas suspect ou confirmé, ou
+c. un résultat positif à une méthode de diagnostic indirecte a été obtenu, dans un échantillon prélevé sur cet animal ou sur un groupe d'animaux présent(s) dans un foyer ;
+6° L.N.R. : Laboratoire National de Référence ;
+7° Laboratoire agréé : laboratoire agréé par l'Agence en application de l'arrêté royal du 3 août 2012 relatif à l'agrément des laboratoires qui effectuent des analyses en rapport avec la sécurité de la chaîne alimentaire ;
+8° Avortement : l'expulsion de tout foetus non viable y compris les mort-nés et les nouveau-nés non viables ayant succombé dans les 48 heures après la naissance ;
+9° Protocole avortement : protocole entre l'Agence et les associations ayant pour but la recherche des pathogènes à l'origine d'avortements ;
+10° Bilan sérologique: des prises de sang individuelles effectuées par le vétérinaire (d'exploitation) sur tous les bovins âgés de plus de douze mois et/ou de tous les ovins et caprins âgés de plus de six mois présents dans l'établissement ;
+11° Programme de surveillance: le programme qui est visé au chapitre 4 ;
+12° Association agréée: une association agréée en application de l'arrêté royal du 26 novembre 2006 fixant les conditions d'agrément des associations de lutte contre les maladies des animaux et leur confiant des tâches relevant de la compétence de l'Agence ;
+13° Vétérinaire d'exploitation: vétérinaire (ou son remplaçant) visé à l'article 2, § 2, 2° de l'arrêté royal du 20 mai 2022 instituant une surveillance épidémiologique dans les établissements ou sont détenus certains animaux ;
+14 ° Vétérinaire: le vétérinaire, personne physique, visé à l'article 1er, point 1° de la loi du 28 août 1991 relative à l'exercice de la médecine vétérinaire et reconnu conformément à l'article 4, alinéa 5 de la même loi ;
+15 ° ULC : unité locale de contrôle ;
+16 ° Etablissement: tout local, toute structure, ou dans le cas de l'agriculture de plein air, tout milieu ou lieu dans lequel sont détenus des bovins, ovins et caprins à titre professionnel ou hobbyiste ;
+17° Etablissement de contact : tout établissement détenant des bovins, ovins et caprins à titre professionnel ou hobbyiste ayant eu un contact direct ou indirect avec un foyer, y compris les établissements voisins du foyer ou de ses pâtures ;
+18° Sanitel: la base de données informatique de l'Agence telle que visée à l'article 2, § 2, 1° de l'arrêté royal du 20 mai 2022 relatif à l'identification et l'enregistrement de certains ongulés, des volailles, des lapins, et de certains oiseaux ;
+19° Producteur : l'exploitant agricole, personne physique ou morale, ou groupement de personnes physiques ou de personnes morales ou les deux, qui gère de manière autonome à son profit et pour son compte une exploitation, située en Belgique, et qui, de ce chef, vend directement du lait ou d'autres produits laitiers au consommateur final ou les livre à un acheteur;
+20° Unité de production laitière: l'ensemble des moyens, en connexité fonctionnelle, exploités par le producteur pour la production de lait ou de produits à base de lait, comprenant à son usage exclusif l'étable pour les animaux laitiers, les terres servant à la production laitière, l'installation laitière, les animaux laitiers, les stocks d'aliments et le refroidisseur de lait ou les cruches de lait;
+21° Traitement thermique: traitement thermique qui garantit l'inactivation de l'agent pathogène incriminé, tel que visé à l'annexe II, Chapitre XI du règlement (CE) n° 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l'hygiène des denrées alimentaire et qui répond aux exigences de l'annexe II, section IX du règlement (CE) N° 853/2004 fixant des règles spécifiques d'hygiène applicables aux denrées alimentaires d'origine animale ;
+22° Isolement: la détention des animaux dans une partie de l'établissement complètement séparée des autres parties de l'établissement de manière à ce qu'ils n'aient aucun contact direct avec les autres animaux de l'établissement, ni avec les animaux d'établissements voisins ;
+23° Agence: Agence fédérale pour la Sécurité de la Chaîne Alimentaire ;
+24° Ministre : ministre qui a l'Agriculture dans ses attributions.
+
+<a name="LNK0003" href="#LNKR0003">Section 2.</a> - Notification
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#LNK0004"> 4</a>.§ 1er. [<sup>1</sup> ...]<sup>1</sup>.
+§ 2. Tout opérateur, qui constate un avortement chez un animal, qui soupçonne qu'un avortement a eu lieu ou va se produire ou qui perçoit les signes avant-coureurs ou consécutifs d'un avortement, est obligé de mettre cet animal en isolement et de le faire examiner dans les 48h par le vétérinaire d'exploitation ou un vétérinaire de son choix s'il n'a pas de convention conclue avec un vétérinaire d'exploitation.
+§ 3.Tout vétérinaire qui suspecte un animal d'être atteint de brucellose sur la base des résultats d'analyse ou qui a connaissance d'un avortement ou d'un avortement à venir, prélève au plus tard le lendemain de l'avortement un ou plusieurs des échantillons suivants pour analyse: l'avorton, les arrière-faix, le sérum de la mère, le lait, le colostrum ou toute autre substance pertinente qui peut être utile pour poser le diagnostic. Il les transmet sans délai au laboratoire de l'association agréée pour l'exécution du protocole avortement.
+§ 4. Tout vétérinaire est tenu de s'informer sur le contenu du protocole avortement, en particulier sur la nature des échantillons à prendre, leur conservation et leur expédition. Ce protocole est disponible sur le site web des associations agréées.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 2.</a> - Diagnostic
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. § 1er . Les méthodes de diagnostic applicables au maintien du statut " indemne de brucellose " des troupeaux sont établies à l'annexe III, section 1, du règlement délégué (UE) 2020/689.
+§ 2. Seules les méthodes validées par le L.N.R sont utilisées dans le cadre de la surveillance.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. SCIENSANO est le L.N.R pour la brucellose.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>.§ 1er. Seules les analyses réalisées par le L.N.R. et par les laboratoires des associations agréées entrent en ligne de compte pour le maintien du statut indemne de brucellose, pour l'exécution du protocole avortement et pour l'exécution du programme de surveillance.
+§ 2. L'exécution des analyses dans le cadre du protocole avortement peut uniquement se faire dans les laboratoires des associations agréées ou du L.N.R.
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0005"> 8</a>.
+&lt;Abrogé par AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE 3.</a> - Procédure complémentaire aux tests d'une méthode de diagnostic indirecte afin de confirmer un cas suspect
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0006"> 9</a>. § 1er. Dans le cas où plusieurs échantillons de sang sont analysés au sein d'un même établissement, l'Agence se base sur l'ensemble des résultats de l'établissement et le contexte épidémiologique pour déclarer un ou plusieurs bovin(s) " suspect(s) d'être atteints de brucellose ".
+L'Agence peut en fonction de l'analyse de risque demander à ce que des échantillons supplémentaires soient reprélevés et à nouveau testés endéans les trente jours suivant l'obtention du premier résultat avant de déclarer un bovin " bovin suspect d'être atteint de brucellose ".
+§ 2. En cas d'échantillon individuel, l'Agence se base sur une analyse de risque avant de déclarer le bovin " suspect d'être atteint de brucellose ". L'Agence peut demander à ce que des échantillons supplémentaires soient reprélevés sur le bovin concerné et testés endéans les trente jours suivant l'obtention du premier résultat avant de déclarer celui-ci " bovin suspect d'être atteint de brucellose ". .
+§ 3. L'Agence informe l'opérateur et le vétérinaire d'exploitation du résultat final en cas de rééchantillonnage ou de la mise sous suspicion de l'établissement suite à la présence d'un ou plusieurs bovin(s) " suspect(s) d'être atteint(s) de brucellose ".
+§ 4. Dans l'attente des résultats finaux des tests permettant de déclarer un bovin " suspect d'être atteint de brucellose " :
+1° le(s) bovin(s) concerné(s) ne peu(ven)t pas quitter l'établissement;
+2° aucune mesure n'est prise dans l'établissement dans lequel le(s) bovin(s) est/sont détenu(s).
+
+<a name="LNK0006" href="#LNKR0006">CHAPITRE 4.</a> - Statut sanitaire et statut indemne de l'établissement
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0007"> 10</a>. Chaque opérateur est tenu d'avoir le statut " indemne de brucellose " pour tous les troupeaux appartenant aux établissements dont il est responsable.
+L'opérateur des troupeaux pour lesquels le statut " indemne de brucellose " est suspendu ou retiré est tenu de prendre et suivre toutes les mesures telles que mentionnées dans le présent arrêté afin d'obtenir de nouveau le statut " indemne de brucellose " dans les délais imposés par l'Agence.
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 5.</a> - Programme de surveillance
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0008"> 11</a>. § 1er. L'Agence organise le programme de surveillance contre la brucellose.
+§ 2. Le programme de surveillance contre la brucellose chez les bovins est décrit à l'annexe .
+§ 3. L'Agence met en place un programme de surveillance contre la brucellose chez les ovins et caprins afin de se conformer aux exigences du règlement délégué (UE) 2020/689.
+
+<a name="LNK0008" href="#LNKR0008">CHAPITRE 6.</a> - Mesures de lutte
+
+<a name="LNK0009" href="#LNKR0009">Section 1re.</a> - Mesures en cas de suspicion de brucellose dans un établissement
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. L'Agence peut, en fonction de la situation épidémiologique, placer un établissement sous suspicion si un résultat positif d'une méthode visée à l'article 5, § 2, est trouvé sur un animal, sur un groupe d'animaux, ou sur le lait de tank.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. L'Agence prend les mesures suivantes dans l'établissement sous suspicion :
+1°. le statut " indemne de brucellose " des troupeaux appartenant à l'établissement est suspendu dans Sanitel ;
+2°. elle informe l'opérateur et le vétérinaire (d'exploitation) de la date de suspension, précise le délai maximal de la suspension du statut indemne de brucellose et décrit les mesures visées à l'article 14 ;
+3°. elle réalise une enquête épidémiologique.
+En fonction des résultats de l'enquête épidémiologique, l'Agence peut prendre ou imposer des mesures supplémentaires pour prévenir une extension éventuelle de la maladie.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0010"> 14</a>.§ 1er. Dans un établissement sous suspicion, les mesures suivantes sont d'application :
+1°. tous les animaux présents dans l'établissement font l'objet d'un bilan sérologique réalisé par le vétérinaire (d'exploitation) dans les huit jours suivant la mise sous suspicion ;
+2°. tout mouvement d'animaux à partir de ou vers l'établissement sous suspicion est interdit ;
+3°. Par dérogation au 2° :
+le transport direct d'animaux vers un abattoir national désigné par l'Agence est autorisé si les animaux sont accompagnés d'une autorisation de transport délivrée par l'Agence ;
+l'Agence peut autoriser les mouvements de veaux mâles de moins de six semaines d'une unité de production laitière vers un centre d'engraissement, dont le statut sera suspendu conformément à l'article 23 du règlement délégué (UE) 2020/689 ;
+4°. chaque " animal suspect d'être atteint de brucellose " doit être mis en isolement dans l'établissement ;
+5°. il est interdit de sortir de l'établissement des produits animaux, à l'exception du lait, des sous-produits animaux, du matériel ayant potentiellement été en contact avec les animaux ou des déchets, sauf autorisation écrite de l'Agence ;
+6°. l'accès à l'établissement, à l'exception de l'habitation, est interdit à tous services et personnes, à moins d'être nécessaire à la gestion de l'entreprise tel que la livraison d'aliments pour bétail ou de matières premières, la visite du vétérinaire, la collecte de lait.
+Un registre de visite est tenu à jour pour toutes les visites professionnelles (motifs, nom des personnes et plaque des véhicules).
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+§ 3. L'Agence peut imposer les mesures supplémentaires qu'elle juge utiles pour prévenir une extension éventuelle de la brucellose.
+§ 4. L'Agence lève la suspicion dans l'établissement si l'ensemble des examens visés au point 1° du présent article, conformément aux méthodes mentionnées à l'article 5, § 1er, ont donné des résultat négatifs pour l'ensemble des troupeaux.
+Les troupeaux appartenant à l'établissement reçoivent de nouveau le statut " indemne de brucellose " dans Sanitel.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0010" href="#LNKR0010">Section 2.</a> - Mesures en cas de suspicion de brucellose dans un établissement de contact
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0011"> 15</a>.§ 1er. Les établissements de contact désignés par l'Agence suite aux résultats de l'enquête épidémiologique d'un foyer de brucellose sont placés sous suspicion et font l'objet d'un bilan sérologioque dans les huit jours suivant la notification.
+§ 2. Dans l'attente des résultats des analyses visées au paragraphe 1er, le statut " indemne de brucellose" des troupeaux appartenant à l'établissement est suspendu.
+§ 3. Tout mouvement d'animaux à partir de ou vers l'établissement de contact est interdit durant un délai de trente jours.
+Par dérogation à l'alinéa 1, le transport direct d'animaux vers un abattoir national autorisé par l'Agence est autorisé si les animaux sont accompagnés d'une autorisation écrite de transport délivrée par l'Agence.
+§ 4. [<sup>1</sup> ...]<sup>1</sup>.
+§ 5. La suspicion est levée par l'Agence si l'ensemble des examens visés à l'article 14, 1°, conformément aux méthodes visées à l'article 5, § 1er, ont donné des résultats négatifs.
+§ 6. L'Agence informe par écrit l'opérateur et son vétérinaire (d'exploitation) de cette décision et lève les mesures prises et imposées en application du paragraphe 2.
+Les troupeaux appartenant à l'établissement reçoivent de nouveau le statut " indemne de brucellose " dans Sanitel.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0011" href="#LNKR0011">Section 3.</a> - Mesures en cas de foyer de brucellose dans un établissement
+
+<a name="LNK0012" href="#LNKR0012">Sous-section 1.</a> - Foyer
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. Dès que les analyses du L.N.R. confirment qu'un animal est " atteint de brucellose ", l'Agence déclare l'établissement comme foyer et en définit les limites. Le statut " indemne de brucellose " de tous les troupeaux appartenant à l'établissement est " retiré " .
+L'Agence notifie oralement et par écrit à l'opérateur et à son vétérinaire (d'exploitation) la confirmation du foyer et les informe des mesures prescrites dans le foyer.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0013"> 17</a>.§ 1. Les mesures suivantes sont d'application dans le foyer :
+1° un bilan sérologique est effectué par le vétérinaire (d'exploitation) sur tous les animaux présents dans l'établissement, au plus tard dans les huit jours suivant l'information officielle.
+Ce bilan n'est pas nécessaire dans le cas où celui-ci a déjà été effectué en application de l'article 14, 1° ;
+2° tous les animaux " atteints de brucellose " et les animaux qui ne présentent pas un résultat négatif lors des examens visés au 1° du présent article, sont abattus. Ces animaux sont placés en isolement en attendant l'abattage ;
+3° [<sup>1</sup> ...]<sup>1</sup> ;
+4° les produits germinaux et le colostrum qui sont collectés et présents dans l'établissement doivent être détruits ;
+5° la collecte et l'élimination des foetus, des animaux mort-nés, des animaux morts après la naissance des suites de la brucellose et des placentas doivent être effectuées à partir de l'établissement par une entreprise d'équarrissage agréée pour les produits animaux et les cadavres et doivent être enlevés en dernière place dans la tournée.
+L'Agence peut imposer les mesures supplémentaires qu'elle juge utiles pour prévenir l'extension éventuelle de la maladie;
+6° tout mouvement d'animaux à partir du ou vers le foyer est interdit ;
+Par dérogation à l'alinéa précédent, le transport direct d'animaux à partir du foyer vers un abattoir national autorisé par l'Agence est autorisé s'ils sont accompagnés d'une autorisation de transport délivrée par l'Agence.
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0013" href="#LNKR0013">Sous-section 2.</a> - Abattage par ordre
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. § 1er . Sur base de l'enquête épidémiologique et de l'analyse de risque, l'Agence établit un plan d'assainissement et décide de l'abattage total ou partiel des animaux présents dans l'établissement.
+§ 2. L'Agence remet à l'opérateur de l'établissement l'ordre d'abattage des animaux repris dans le plan d'assainissement.
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#LNK0014"> 19</a>.§ 1er. Tout animal pour lequel un ordre d'abattage est délivré, est isolé des autres animaux de l'établissement et abattu au plus tard dans les trente jours calendrier qui suivent la remise de l'ordre d'abattage visé à l'article 18, § 2.
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0014" href="#LNKR0014">Sous-section 3.</a> - Zone de protection
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0015"> 20</a>. § 1er . Sur base de l'enquête épidémiologique et de l'analyse de risque, l'Agence peut délimiter une zone de protection autour du foyer. L'Agence en informe officiellement les opérateurs des établissements situés dans la zone de protection et les vétérinaires (d'exploitations) concernés.
+L'Agence peut imposer des mesures spécifiques ou supplémentaires dans la zone de protection et en informe officiellement les opérateurs et les vétérinaires (d'exploitations).
+§ 2. L'Agence lève les mesures dans la zone de protection lorsque tous les établissements repris dans la zone de protection ont eu des résultats conformes.
+L'Agence en informe officiellement les opérateurs et les vétérinaires d'exploitation.
+
+<a name="LNK0015" href="#LNKR0015">Sous-section 4.</a> - Libération du foyer
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. § 1er . L'Agence lève les mesures dans le foyer et décide la libération du foyer lorsque :
+1° tous les animaux du foyer sont abattus et ;
+2°. les mesures de nettoyage et désinfection visées à l'article 23 sont respectées .
+§ 2. Les pâturages où auraient précédemment séjourné les " animaux atteints de brucellose " ne peuvent être réutilisés qu'après le respect d'un délai de minimum soixante jours suivant le retrait des animaux atteints de ces pâturages.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0016"> 22</a>. § 1er. Lorsque tous les animaux ne sont pas abattus, l'opérateur est tenu, après l'abattage du dernier animal repris dans le plan d'assainissement, de faire examiner tout son troupeau par le vétérinaire (d'exploitation). Tous les bovins âgés de douze mois ou plus et tous les ovins et caprins âgés de six mois ou plus sont soumis à deux bilans sérologiques :
+1° le premier bilan doit être effectué sur des échantillons prélevés au plus tôt trois mois après l'enlèvement du dernier cas confirmé et du dernier animal ayant répondu positivement à un test immunologique ;
+2° le second bilan doit être effectué sur des échantillons prélevés au plus tôt six mois et au plus tard douze mois après la date de prélèvement visée au 1°.
+§ 2. Tant que tous les troupeaux de l'établissement n'ont pas retrouvé leur statut " indemne de brucellose ", tout animal est transporté vers l'abattoir autorisé sous les mêmes conditions que celles visées à l'article 19, § 2.
+§ 3. L'Agence lève les mesures et libère le foyer lorsque le résultat des analyses visées au paragraphe 1er confirme l'absence de la brucellose et que les mesures de nettoyage et désinfection visées à l'article 23 sont respectées.
+§ 4. Les pâturages où auraient précédemment séjourné les " animaux atteints de brucellose " ne peuvent être réutilisés qu'après le respect d'un délai de soixante jours suivant le retrait des animaux atteints de ces pâturages.
+§ 5. Dès que l'Agence lève les mesures et décide de la libération du foyer, elle en informe oralement et par écrit l'opérateur et le vétérinaire (d'exploitation).
+Les troupeaux appartenant à l'établissement reçoivent de nouveau le statut " indemne de brucellose " dans Sanitel.
+
+<a name="LNK0016" href="#LNKR0016">Section 4.</a> - Nettoyage, désinfection et autres mesures permettant de prévenir la propagation de l'infection
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>.
+&lt;Abrogé par AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#LNK0017"> 24</a>. En cas de présence de chiens ou chats dans un établissement déclaré comme foyer, l'Agence peut imposer un test de diagnostic de la brucellose sur ces animaux ainsi que les mesures à mettre en place cas de résultat positif.
+Le test et les frais liés à ces mesures sont à charge de l'opérateur.
+
+<a name="LNK0017" href="#LNKR0017">CHAPITRE 7.</a> - Déplacements et commercialisation
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0018"> 25</a>. § 1er . Tout animal provenant d'un troupeau possédant le statut " indemne de brucellose " peut être introduit dans un troupeau " indemne de brucellose " .
+§ 2. Lors de l'acquisition de tout bovin âgé de plus de douze mois provenant d'un Etat membre ou d'une région non officiellement indemne de brucellose, de tout Etat membre qui a fait l'objet d'une analyse de risque par l'Agence ou importé d'un pays-tiers, l'opérateur est tenu de faire appel à son vétérinaire d'exploitation dans les quarante-huit heures afin de réaliser les examens, les prélèvements sanguins et le cas échéant, de tout autre substance nécessaire au diagnostic de la brucellose.
+Les animaux nouvellement arrivés sont placés en isolement jusqu'à ce que tous les résultats des examens obligatoires à l'achat soient connus.
+
+<a name="LNK0018" href="#LNKR0018">CHAPITRE 8.</a> - Dispositions particulières
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#LNK0019"> 26</a>.
+&lt;Abrogé par AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024041811" target="_blank">2024-04-18/11</a>, art. 35,4°, 003; En vigueur : 16-05-2024&gt;
+
+<a name="LNK0019" href="#LNKR0019">CHAPITRE 9.</a> - Indemnisations
+
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. § 1er Dans les limites des crédits budgétaires et pour autant qu'un bovin soit abattu conformément aux dispositions de la section 3, le Fonds Sanitaire octroie à l'opérateur une indemnité calculée selon les dispositions de l'arrêté royal du 28 novembre 1991 relatif à l'expertise et à l'indemnisation des bovins abattus dans le cadre de la police sanitaire.
+§ 2. Sans préjudice de l'application des dispositions pénales, l'opérateur perd tout droit à l'indemnité s'il ne respecte pas les dispositions du présent arrêté ou s'il ne respecte pas les modalités techniques données par l'Agence.
+
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. § 1er Dans les limites des crédits budgétaires et pour autant qu'un ovin ou caprin soit abattu conformément aux dispositions de la section 3, le Fonds Sanitaire octroie à l'opérateur une indemnité égale à la valeur de l'animal.
+La valeur de l'animal à abattre est fixée par un expert selon les dispositions de l'article 77 de l'arrêté royal du 10 octobre 2005 relatif à la lutte contre la fièvre aphteuse.
+§ 2. Sans préjudice de l'application des dispositions pénales, l'opérateur perd tout droit à l'indemnité s'il ne respecte pas les dispositions du présent arrêté ou s'il ne respecte pas les modalités techniques données par l'Agence.
+
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. § 1er. Dans les limites de l'article budgétaire prévu à cette fin, le Fonds Sanitaire octroie une indemnisation au producteur du lait retiré du marché pour autant qu'il fournisse la preuve de la quantité exacte qui est retirée du marché.
+§ 2. Lors du calcul de la valeur du lait cru détruit, le prix net réel du lait belge pour le mois au cours duquel la destruction a eu lieu fait office de référence.
+Le prix net visé à l'alinéa précédent est le prix moyen payé par kilo sur base des teneurs réelles en matière grasse et protéine du lait cru qui a été livré pendant ce mois. Ces données sont notées par la Commission européenne conformément au règlement (UE) 2017/1185, article 12, a) de l'annexe II.7 (a) et publié sur leur site internet.
+§ 3. L'intervention du Fonds Sanitaire est limitée à la période au cours de laquelle l'unité de production laitière est considérée comme sous suspicion ou déclarée foyer de brucellose.
+§ 4. L'intervention du Fonds Sanitaire visée à cet article se limite au lait de vache cru.
+
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.31"> 30</a>.[<sup>1</sup> Il est alloué aux vétérinaires agréés, à charge du Fonds sanitaire, une vacation par
+1° visite d'établissement ;
+2° envoi d'avorton au laboratoire ;
+3° prélèvement de sang ;
+4° prélèvement d'organes ou de tissus ;
+5° écouvillonnage vaginal ;
+en vue du diagnostic de la brucellose bovine, ovine et caprine.
+Les actes visés sont repris respectivement aux numéros 1, 2, 4, 6 et 7 de l'annexe de l'arrêté royal du 28 janvier 2024 relatif aux vacations des vétérinaires à charge du Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux.
+Le présent article ne s'applique pas aux actes visés lorsque la visite, les examens et prélèvements nécessaires au diagnostic de la brucellose sont effectués à l'achat à la demande de l'acquéreur d'un bovin.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024012805" target="_blank">2024-01-28/05</a>, art. 6, 002; En vigueur : 01-01-2024&gt;
+
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#LNK0020"> 31</a>. Dans les limites de l'article budgétaire prévu à cette fin, le Fonds Sanitaire octroie à l'expert désigné par le Ministre des indemnités pour les frais de l'expertise des animaux à abattre, tels que fixés à l'article 78 de l'arrêté royal du 10 octobre 2005 relatif à la lutte contre la fièvre aphteuse.
+
+<a name="LNK0020" href="#LNKR0020">CHAPITRE 10.</a> - Dispositions finales
+
+<a name="Art.32" href="#Art.31">Art.</a> <a href="#Art.33"> 32</a>. Sont abrogés :
+1°. L'arrêté royal du 6 décembre 1978 relatif à la lutte contre la brucellose bovine ;
+2° l'arrêté royal du 6 décembre 1978 relatif à l'encouragement de la lutte contre la brucellose bovine ;
+3° l'arrêté royal du 8 août 1997 relatif à l'encouragement de la lutte contre la brucellose des ovins et des caprins. ;
+4° l'arrêté ministériel du 22 octobre 1979 relatif à la lutte contre la brucellose bovine ;
+5° l'arrêté ministériel du 8 avril 1988 portant des mesures temporaires de lutte contre la brucellose bovine ;
+6° l'arrêté ministériel du 28 janvier 1989 établissant les modalités d'agrément des centres d'engraissement et de transfert des bovins dans le cadre de la lutte zonale contre la brucellose bovine ;
+7° l'arrêté ministériel du 6 août 1991 déterminant le montant, les conditions et les modalités d'octroi de l'indemnité de séquestration visée à l'article 4 de l'arrêté royal du 6 décembre 1978 relatif à l'encouragement de la lutte contre la brucellose bovine.
+
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#LNK0021"> 33</a>. Le ministre qui a l'Agriculture dans ses attributions est chargé de l'exécution du présent arrêté.
+
+<a name="LNK0021" href="#LNKR0021">ANNEXE.</a>
+
+<a name="Art.N" href="#Art.33">Art.</a> N. Programme de surveillance pour le maintien du statut indemne de brucellose en Belgique
+Programme de surveillance pour les établissements détenant des bovins
+En fonction de la situation épidémiologique de la Belgique, le programme de surveillance annuelle peut comprendre un ou plusieurs des points cités ci-dessous :
+1. l'examen des bovins ayant avorté à partir d'échantillons de sérum de la mère, de l'avorton et/ou des arrière-faix et de toute substance nécessaire au diagnostic dans le cadre du protocole avortement ;
+2. le dépistage et l'examen de taureaux stériles ;
+3. une recherche d'anticorps dirigés contra Brucella spp. sur le lait de tank de chaque exploitation laitière, sera réalisée à une fréquence déterminée par l'Agence ;
+4. des analyses réalisées sur des échantillons de sang prélevés lors du monitoring hivernal sur une sélection de bovins établie par l'Agence, parmi des troupeaux ayant notifié un nombre trop faible d'avortement par rapport au nombre de naissances ;
+5. un examen à l'achat de tous les animaux de plus de douze mois provenant d'Etats membres non-officiellement indemnes de brucellose ou importés de pays-tiers ;
+6. un suivi des bovins âgés de plus de vingt-quatre mois provenant d'Etats membres non-officiellement indemnes de brucellose ou importés de pays-tiers pendant les trois années consécutives à leur introduction en Belgique ;
+7. un échantillonnage de bovins sélectionnés aléatoirement parmi différentes catégories d'âge ;
+8. un test de bovins sélectionnés aléatoirement dans le cadre du commerce national ;
+9. un suivi des exploitations dans lesquelles un abattage partiel a été réalisé suite à un foyer de brucellose à Brucella suis ;
+10. le suivi des établissements ayant des liens sanitaires ou épidémiologiques avec une suspicion ou un foyer.
