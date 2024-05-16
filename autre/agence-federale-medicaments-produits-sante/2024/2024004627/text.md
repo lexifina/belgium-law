@@ -1,0 +1,2 @@
+<a name="Art.M">Article </a> M.
+DECIDE de soumettre l'exportation des médicaments Actilyse 20 mg/20 ml sol. inj./perf. (pdr. + solv.) i.v. flac. 20 mg + 20 ml et Actilyse 50 mg/50 ml sol. inj./perf. (pdr. + solv.) i.v. flac. 50 mg + 50 ml destinés au marché belge à une autorisation préalable jusqu'au 1er janvier 2025 inclus.Cette décision entre en vigueur le jour de sa publication dans le Moniteur belge.
