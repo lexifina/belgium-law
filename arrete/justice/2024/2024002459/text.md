@@ -1,0 +1,16 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Les actifs, qui consistent en des sommes, et qui apparaissent postérieurement au jugement qui, conformément à l'article XX.135, § 1er, prononce la clôture de la faillite pour insuffisance d'actif ou qui, conformément à l'article XX.171 prononce la clôture de la faillite à l'égard d'un failli personne physique, à laquelle l'effacement a été refusé totalement ou partiellement, ou d'une personne morale faillie, sont consignés à la Caisse des Dépôts et Consignations. Les actifs qui consistent en des sommes en devises étrangères sont converties en euros par le consignateur avant leur consignation.
+Tout actif, autre que ceux visés à l'alinéa 1er, doit être réalisé par un curateur ad hoc, désigné par le tribunal de l'entreprise, à la demande de toute personne intéressée. Les frais de réalisation et les honoraires du curateur ad hoc, estimés par le tribunal de l'entreprise, sont prélevés sur le produit de la réalisation. Le solde est consigné auprès de la Caisse des Dépôts et Consignations.
+La consignation visée aux alinéas 1er et 2 s'effectue conformément à la loi du 11 juillet 2018 sur la Caisse des Dépôts et Consignations et ses arrêtés d'exécution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Lorsqu'il existe des actifs visés à l'article 1er, toute personne détenant une créance à l'encontre de la personne physique ou morale déclarée en faillite, peut demander au tribunal de l'entreprise un prélèvement sur ces sommes, à concurrence du montant de sa créance au jour de la clôture de la faillite.
+Les prélèvements sont traités par la Caisse des Dépôts et Consignations, en fonction de la date de la demande introduite auprès de la Caisse des Dépôts et Consignations.
+La demande visée à l'alinéa 2 est accompagnée de l'autorisation de prélèvement accordée par le tribunal de l'entreprise.
+En cas d'insuffisance d'actifs et si plusieurs créanciers ont fait valoir leurs prétentions sur les fonds consignés à la même date, il est procédé à un partage proportionnel.
+La Caisse des Dépôts et Consignations dispose d'un délai de soixante jours pour traiter les demandes de prélèvement.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Chaque année, la Caisse des Dépôts et Consignations publie une liste au Moniteur belge des sommes consignées conformément à l'article 1er, pour la période du 1er janvier au 31 décembre de l'année précédant la publication. La liste mentionne le nom ou la dénomination, le numéro d'entreprise, le numéro de dossier de la Caisse des Dépôts et Consignations, la date de la consignation, et le montant disponible au 31 décembre.
+Toute personne intéressée peut consulter gratuitement la liste au greffe du tribunal de l'entreprise et peut, sur simple demande, se faire délivrer, à ses frais, par le greffier, des copies intégrales ou partielles.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'arrêté royal du 25 mai 1999 portant exécution des articles 73 et 83 de la loi du 8 août 1997 sur les faillites est abrogé.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Notre Ministre des Finances et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
