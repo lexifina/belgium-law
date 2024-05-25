@@ -1,6 +1,1 @@
-En cas de fourniture d'un service de la société de l'information consistant à transmettre, sur un réseau de communication, des informations fournies par un destinataire du service, le prestataire n'est pas responsable au titre du stockage automatique, intermédiaire et temporaire de cette information fait dans le seul but de rendre plus efficace la transmission ultérieure de l'information à la demande d'autres destinataires du service, pour autant que chacune des conditions suivantes soit remplie:
-1° le prestataire ne modifie pas l'information;
-2° le prestataire se conforme aux conditions d'accès à l'information;
-3° le prestataire se conforme aux règles concernant la mise à jour de l'information, indiquées d'une manière largement reconnue et utilisée par les entreprises;
-4° le prestataire n'entrave pas l'utilisation licite de la technologie, largement reconnue et utilisée par l'industrie, dans le but d'obtenir des données sur l'utilisation de l'information;
-5° le prestataire agit promptement pour retirer l'information qu'il a stockée ou pour rendre l'accès à celle-ci impossible dès qu'il a effectivement connaissance du fait que l'information à l'origine de la transmission a été retirée du réseau ou du fait que l'accès à l'information a été rendu impossible, ou du fait qu'une autorité administrative ou judiciaire a ordonné de retirer l'information ou de rendre l'accès à cette dernière impossible et pour autant qu'il agisse conformément à la procédure prévue à l'article XII.19, § 3.
+(Abrogé)

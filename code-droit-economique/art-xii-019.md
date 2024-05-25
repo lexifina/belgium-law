@@ -1,6 +1,1 @@
-§ 1er. En cas de fourniture d'un service de la société de l'information consistant à stocker des informations fournies par un destinataire du service, le prestataire n'est pas responsable des informations stockées à la demande d'un destinataire du service à condition:
-1° qu'il n'ait pas une connaissance effective de l'activité ou de l'information illicite, ou, en ce qui concerne une action civile en réparation, qu'il n'ait pas connaissance de faits ou de circonstances laissant apparaître le caractère illicite de l'activité ou de l'information; ou
-2° qu'il agisse promptement, dès le moment où il a de telles connaissances, pour retirer les informations ou rendre l'accès à celles-ci impossible et pour autant qu'il agisse conformément à la procédure prévue au paragraphe 3.
-§ 2. Le paragraphe 1er ne s'applique pas lorsque le destinataire du service agit sous l'autorité ou le contrôle du prestataire.
-§ 3. Lorsque le prestataire a une connaissance effective d'une activité ou d'une information illicite, il les communique sur le champ au procureur du Roi qui prend les mesures utiles conformément à l'article 39bis du Code d'instruction criminelle.
-Aussi longtemps que le procureur du Roi n'a pris aucune décision concernant le copiage, l'inaccessibilité et le retrait des documents stockés dans un système informatique, le prestataire peut uniquement prendre des mesures visant à empêcher l'accès aux informations.
+(Abrogé)
