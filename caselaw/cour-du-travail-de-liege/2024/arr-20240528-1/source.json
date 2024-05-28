@@ -1,0 +1,41 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2024:ARR.20240528.1",
+  "ecli": "ECLI:BE:CTLIE:2024:ARR.20240528.1",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2024-05-28",
+  "date_as_printed": "Jugement/arrêt du 28 mai 2024",
+  "published_on_juportal": "2025-02-06",
+  "language": "fr",
+  "role_number": "2021/AL/2",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit de la sécurité sociale"
+  ],
+  "summary_keywords": [
+    "MALADIE PROFESSIONNELLE",
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – application dans le temps de l'arrêté royal du 13 novembre 2023 – conservation des droits à la réparation acquise",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – deux composantes de l'exposition au risque professionnel – définition de l'influence nocive – examen de la pathologie en liste – examen de la condition d'exposition au risque professionnel en tenant compte de l'influence nocive dans toutes ses composantes – facteurs socio-économiques",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – examen de la pathologie en liste – indemnisation de l'incapacité de travail – pratique administrative de la ventilation",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – examen de la pathologie en liste et hors liste – présomption d'exposition au risque"
+  ],
+  "fiche": [
+    "MALADIE PROFESSIONNELLE",
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – application dans le temps de l'arrêté royal du 13 novembre 2023 – conservation des droits à la réparation acquise",
+    "Loi - 03-06-1970 - 32 et 36 - 02 Lien ELI No pub 1970060309 Arrêté Royal - 06-02-2007 - 39 Lien ELI No pub 2006023199 Arrêté Royal - 13-11-2023 - 02 Lien ELI No pub 2023205831",
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – deux composantes de l'exposition au risque professionnel – définition de l'influence nocive – examen de la pathologie en liste – examen de la condition d'exposition au risque professionnel en tenant compte de l'influence nocive dans toutes ses composantes – facteurs socio-économiques",
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – examen de la pathologie en liste – indemnisation de l'incapacité de travail – pratique administrative de la ventilation",
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladie professionnelle – secteur privé – code 1.605.01 – lésions au niveau des épaules – examen de la pathologie en liste et hors liste – présomption d'exposition au risque"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2024:ARR.20240528.1",
+  "source_sha256": "a366e54f359d89ae669cc6b8574374049370fb479da7edf1bab3acc0def839c0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2024:ARR.20240528.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/22/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
