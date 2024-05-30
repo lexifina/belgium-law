@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20240530.1N.3",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240530.1N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-05-30",
+  "date_as_printed": "Vonnis/arrest van 30 mei 2024",
+  "published_on_juportal": "2024-07-03",
+  "language": "nl",
+  "role_number": "F.22.0031.N",
+  "case_name_as_published": "D. contra BELGISCHE STAAT, MIN FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE LA DEFENSE - MATIERE FISCALE",
+    "RECHT VAN VERDEDIGING - BELASTINGZAKEN",
+    "Dossier fiscal contenant des pièces obtenues par la consultation du dossier répressif - Droit d'accès du contribuable - Portée",
+    "Dossier contenant des pièces étrangères aux poursuites fiscales dirigées contre le contribuable - Droit d'accès du contribuable - Portée",
+    "Dossier contenant des pièces étrangères aux poursuites fiscales dirigées contre le contribuable - Accès demandé par le contribuable - Mission du juge fiscal",
+    "Fiscaal dossier houdende stukken verkregen door inzage strafdossier - Inzagerecht van de belastingplichtige - Draagwijdte",
+    "Fiscaal dossier houdende stukken vreemd aan de tegen de belastingplichtige gerichte fiscale vervolging - Inzagerecht van de belastingplichtige - Draagwijdte",
+    "Fiscaal dossier houdende stukken vreemd aan de tegen de belastingplichtige gerichte fiscale vervolging - Vraag tot inzage door de belastingplichtige - Taak van de fiscale rechter"
+  ],
+  "fiche": [
+    "RECHT VAN VERDEDIGING - BELASTINGZAKEN",
+    "Fiscaal dossier houdende stukken verkregen door inzage strafdossier - Inzagerecht van de belastingplichtige - Draagwijdte",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "Fiscaal dossier houdende stukken vreemd aan de tegen de belastingplichtige gerichte fiscale vervolging - Inzagerecht van de belastingplichtige - Draagwijdte",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "RECHT VAN VERDEDIGING - BELASTINGZAKEN",
+    "Fiscaal dossier houdende stukken vreemd aan de tegen de belastingplichtige gerichte fiscale vervolging - Vraag tot inzage door de belastingplichtige - Taak van de fiscale rechter",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "Fisc.Act.-Fiscale actualiteit: wekelijkse nieuwsbrief - 2024, nr. 35, p. 8-11. - HERMANS, Naomi; Noot'Hof van Cassatie vult openbaarheid van bestuur eng in'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240530.1N.3",
+  "source_sha256": "fd5fd9289a4ba380e43156c40eb3f10e34de59d723383052a2dd266010b0acd3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240530.1N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
