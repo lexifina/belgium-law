@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'article 50, § 3, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, remplacé par la loi du 15 décembre 2013 et modifié en dernier lieu par la loi du 11 août 2017, un alinéa rédigé comme suit est inséré entre les alinéas 8 et 9:
+" Par dérogation à l'alinéa 1er, première phrase, l'accord national dento-mutualiste 2024-2025 entre en vigueur, sauf si plus de 45 pour cent des praticiens de l'art dentaire ont notifié électroniquement par une application en ligne sécurisée mise à leur disposition par l'Institut National d'Assurance Maladie-Invalidité, leur refus d'adhésion aux termes dudit accord. "
