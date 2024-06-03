@@ -1,1 +1,2 @@
 Bij de uitoefening van hun respectieve bevoegdheden streven de federale Staat, de gemeenschappen en de gewesten de doelstellingen na van een duurzame ontwikkeling in haar sociale, economische en milieugebonden aspecten, rekening houdend met de solidariteit tussen de generaties.
+Bij de uitoefening van hun respectieve bevoegdheden streven de federale Staat, de gemeenschappen en de gewesten naar bescherming van en zorg voor dieren als wezens met gevoel.
