@@ -1,1 +1,2 @@
 Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les communautés et les régions poursuivent les objectifs d'un développement durable, dans ses dimensions sociale, économique et environnementale, en tenant compte de la solidarité entre les générations.
+Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les communautés et les régions veillent à la protection et au bien-être des animaux en tant qu'êtres sensibles.
