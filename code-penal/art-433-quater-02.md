@@ -7,6 +7,10 @@ La publicité pour la prostitution
 L'interdiction ne s'applique pas:
 - à l'égard d'un majeur qui fait de la publicité pour ses propres services sexuels derrière une vitrine dans un lieu qui est destiné spécifiquement à la prostitution;
 - à l'égard d'un majeur qui place de la publicité pour ses propres services sexuels sur une plateforme internet ou un autre support ou une partie d'un support, destinés spécifiquement à cet effet;
-- à l'égard du fournisseur d'une plateforme internet, de tout autre support ou partie de support, destinés spécifiquement à cet effet, qui diffuse de la publicité pour des services à caractère sexuel ou pour un lieu dédié à l'offre de services à caractère sexuel par des majeurs, lorsqu'il prend des mesures pour protéger le travailleur du sexe et pour éviter l'abus de la prostitution et la traite des êtres humains en signalant immédiatement les éventuels cas d'abus ou d'exploitation aux services de police ou aux autorités judiciaires, et en se conformant aux modalités fixées par le Roi.
+- à l'égard du fournisseur d'une plateforme internet, de tout autre support ou partie de support, destinés spécifiquement à cet effet, qui diffuse de la publicité pour des services à caractère sexuel ou pour un lieu dédié à l'offre de services à caractère sexuel par des majeurs, lorsqu'il prend des mesures pour protéger le travailleur du sexe et pour éviter l'abus de la prostitution et la traite des êtres humains au moins, mais pas uniquement en signalant immédiatement les éventuels cas d'abus ou d'exploitation aux services de police ou aux autorités judiciaires, et en se conformant aux modalités fixées par le Roi.
+Les catégories de données personnelles traitées au titre du troisième tiret concernent exclusivement:
+- les données d'identification des annonceurs et le cas échéant des prestataires des services sexuels, et
+- les données relatives au placement de l'annonce.
+Le Roi détermine, au sein de ces catégories quelles données sont traitées. La durée de conservation des données ne peut excéder trois ans.
 Le Roi détermine ce qu'il y a lieu d'entendre par plateforme internet ou tout autre support ou partie de support, destinés spécifiquement à cet effet.
 Cette infraction est punie d'un emprisonnement d'un mois à un an et d'une amende de cent euros à mille euros.
