@@ -1,0 +1,1 @@
+Il est créé, au sein du SPF Economie, un Observatoire du secteur pharmaceutique dont la mission est d'analyser, d'évaluer et de formuler des recommandations sur la position compétitive du secteur pharmaceutique belge.

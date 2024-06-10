@@ -9,4 +9,9 @@ Dans le cadre de la politique en matière de normalisation définie par le minis
 8° la représentation des intérêts belges dans les instances européennes et internationales de normalisation;
 9° la création et la dissolution des commissions de normalisation;
 10° l'agrément ou le retrait de l'agrément des opérateurs sectoriels de normalisation suivant des modalités définies par le Roi, par arrêté délibéré en Conseil des Ministres;
-11° l'exécution de tâches en rapport avec la normalisation et la certification qui lui sont confiées par le Roi, par arrêté délibéré en Conseil des Ministres.
+11° la centralisation de l'enregistrement des experts;
+2° le soutien d'actions de prénormalisation visant au développement des connaissances techniques et scientifiques dans les matières à normaliser;
+13° le soutien d'actions de postnormalisation visant à faciliter l'utilisation des normes par les PME;
+14° le soutien d'actions visant à sensibiliser les PME à la normalisation et à les informer sur les normes en vigueur et en projet;
+15° l'exécution d'autres tâches en rapport avec la normalisation qui lui sont confiées par le Roi, par arrêté délibéré en Conseil des ministres.
+Le Roi fixe le cadre des missions de soutien visées à l'alinéa 1er, 12°, 13° et 14°, par arrêté délibéré en Conseil des ministres.

@@ -5,5 +5,6 @@
 4° en ce qui concerne leur activité d'intermédiaire de crédit à la consommation en Belgique, ne traiter qu'avec des entreprises ou personnes qui, en application de le présent chapitre, sont agréées ou enregistrés pour l'exercice de cette activité en Belgique;
 5° adhérer à un règlement extra-judiciaire des litiges de consommation tel que visé à l'article VII.216, contribuer au financement de ce règlement, et donner suite à toute demande d'information qui lui serait adressée dans le cadre du traitement des plaintes via ce règlement;
 6° payer les rémunérations dues à la FSMA pour l'exercice du contrôle;
-7° communiquer à la FSMA une adresse de courrier électronique professionnelle à laquelle la FSMA a la faculté d'adresser valablement toutes les communications, individuelles ou collectives, qu'elle opère en exécution du présent chapitre.
+7° communiquer à la FSMA une adresse de courrier électronique professionnelle à laquelle la FSMA a la faculté d'adresser valablement toutes les communications, individuelles ou collectives, qu'elle opère en exécution du présent chapitre ou de toute autre disposition légale ou réglementaire dont elle assure le contrôle;
+8° le cas échéant, respecter les dispositions de l'article XV.18/1.
 § 2. Les intermédiaires visés au présent article démontrent à la FSMA, selon les règles précisées par cette dernière par voie de règlement, y compris en matière de périodicité, le respect des dispositions prévues par l'alinéa 1er.

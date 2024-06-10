@@ -1,0 +1,1 @@
+Le médiateur de dettes amiable peut, avec l'accord préalable du débiteur, prendre contact par tout moyen de communication avec toutes personnes et institutions aux fins de récolter les informations relatives aux dettes du débiteur qui sont nécessaires au traitement et au suivi de sa demande de médiation de dettes amiable.

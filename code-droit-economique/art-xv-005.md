@@ -19,4 +19,7 @@ Les mises sous scellés peuvent donner lieu à constitution de gardien sur place
 5° la base factuelle et juridique;
 6° le lieu où les mesures ont été prises.
 § 4. Le ministère public peut à tout moment donner mainlevée de la saisie ou de la mise sous scellé qu'il a ordonnée ou confirmée, de même si le contrevenant renonce à offrir les biens dans les conditions ayant donné lieu à l'enquête; cette renonciation n'implique aucune reconnaissance d'une quelconque faute pénale.
-§ 5. La saisie ou la mise sous scellé est levée de plein droit par la décision judiciaire mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée, ou par le classement sans suite par le ministère public.
+§ 5. La saisie ou la mise sous scellé est levée de plein droit par la décision judiciaire mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée.... Dans le cas d'un classement sans suite par le ministère public, la poursuite administrative visée à l'article XV.60/1, § 1er, 2°, est toujours lancée.
+§ 6. La saisie ou la mise sous scellé est levée de plein droit lorsque les agents visés à l'article XV.60/4 ont pris une décision:
+1° de classement sans suite, tel que visé à l'article XV.60/2, alinéa 1er;
+2° de déclaration de culpabilité telle que visée à l'article XV.60/2, alinéa 1er, ou d'imposition d'une amende administrative, pour autant qu'il ne soit pas fait application de la procédure visée à l'article XV.30/1, § 1er/1, dans un délai de trente jours après l'expiration du délai de recours visé à l'article XV.60/15.

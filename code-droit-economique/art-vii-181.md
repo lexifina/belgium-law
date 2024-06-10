@@ -18,4 +18,5 @@ L'intermédiaire de crédit ou le ou les prêteurs contrôlent le respect par le
 § 5. ...
 § 6. L'agent lié agit, en ce qui concerne son activité d'intermédiation en crédit hypothécaire, sous la responsabilité entière et inconditionnelle, du ou des prêteurs en crédit hypothécaire pour le compte desquels il agit. Le demandeur d'une inscription comme agent lié l'établit dans son dossier d'inscription.
 Le ou les prêteurs contrôlent le respect par l'agent lié des dispositions du présent livre et des arrêtés et règlements pris en exécution de celui-ci.
-§ 7. ....
+§ 7. Si un intermédiaire en crédit hypothécaire a connaissance d'éléments pouvant mettre en doute le respect des conditions d'inscription prévues par le présent chapitre dans le chef d'un sous-agent auquel il fait appel ou a fait appel, il communique sans délai ces éléments à la FSMA.
+Les intermédiaires en crédit hypothécaire informent également la FSMA s'ils ont connaissance du fait que quelqu'un se présente comme un intermédiaire de crédit sans être inscrit au registre prévu par le présent livre.

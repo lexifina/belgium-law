@@ -1,0 +1,1 @@
+Lorsque la médiation de dettes amiable est pratiquée par des institutions publiques ou privées agréées, elles ne peuvent réclamer d'autres frais que ceux qui sont limitativement fixés par l'autorité régionale compétente qui fixe leurs conditions d'agrément.
