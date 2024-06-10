@@ -1,2 +1,1 @@
-Les entités qualifiées de la Belgique sont les associations ayant pour objet la défense des intérêts collectifs des consommateurs, qui jouissent de la personnalité civile et qui soit sont représentées à la Commission consultative spéciale Consommation soit sont agréées par le ministre ayant la protection des consommateurs dans ses attributions, suivant des critères déterminés par arrêté délibéré en Conseil des Ministres.
-A la demande des entités qualifiées de la Belgique, le ministre ayant la protection des consommateurs dans ses attributions communique la liste de ces dernières à la Commission européenne, ainsi que leur but et leur dénomination.
+(Abrogé)

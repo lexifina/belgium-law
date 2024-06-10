@@ -1,6 +1,8 @@
-L'action est formée et instruite selon les formes du référé.
+§ 1er. L'action est formée et instruite selon les formes du référé.
 Elle peut être introduite par requête contradictoire conformément aux articles 1034ter à 1034sexies du Code judiciaire.
 Le jugement est exécutoire par provision, nonobstant tout recours et sans caution.
-Toute décision rendue sur une action fondée sur les articles XVII. 1er et XVII. 2 est, dans la huitaine, et à la diligence du greffier de la juridiction compétente, communiquée au ministre, sauf si la décision a été rendue à sa requête.
-En outre, le greffier est tenu d'informer sans délai le ministre du recours introduit contre toute décision rendue en application des articles XVII. 1er et XVII. 2.
+Toute décision rendue sur une action fondée sur les articles XVII.1/4 et XVII. 2 est, dans la huitaine, et à la diligence du greffier de la juridiction compétente, communiquée au ministre, sauf si la décision a été rendue à sa requête.
+En outre, le greffier est tenu d'informer sans délai le ministre du recours introduit contre toute décision rendue en application des articles XVII.1/4 et XVII. 2.
 Lorsque la décision concerne un contrevenant exerçant une profession réglementée relevant d'une autorité professionnelle, elle est, en outre, communiquée à l'autorité professionnelle compétente. De même, le greffier de la juridiction devant laquelle un recours est introduit contre une telle décision est tenu d'en informer sans délai l'autorité professionnelle compétente.
+§ 2. Dans le cas d'une action visée à l'article XVII.1/4, alinéa 2 ou 3, le délai de prescription des actions individuelles des consommateurs ou des PME concernés par cette action en cessation est suspendu pour la période comprise entre le jour de l'introduction de l'action en cessation et le jour de la décision statuant sur cette action en cessation.
+Lorsqu'il statue sur une action visée à l'article XVII.1/4, alinéa 2 ou 3, le juge peut, si l'entité qualifiée l'a sollicité et à condition que les consommateurs ou PME concernés puissent être individualisés, exiger que l'auteur de l'infraction informe, à ses frais, les consommateurs ou les PME concernés de la décision finale qui prévoit la mesure de cessation. Le juge rejette une telle demande si les consommateurs ou les PME concernés sont informés de la décision d'une autre manière.
