@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 6, d) de l'arrêté royal du 18 septembre 2015 portant exécution de l'article 53, § 1er, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, relatif au régime du tiers payant, les mots " dans le § 5 " soins dentaires chez les patients atteints du cancer ou avec de l'anodontie " de l'article 5 " sont remplacés par les mots " dans le § 5 " Soins dentaires chez les patients atteints du cancer ou avec de l'anodontie et/ou de l'oligodontie " de l'article 5 " ;
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
