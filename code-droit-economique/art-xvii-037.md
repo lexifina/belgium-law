@@ -5,9 +5,10 @@ b) livre V - La concurrence et les évolutions de prix;
 c) livre VI - Les pratiques du marché et la protection du consommateur;
 d) livre VII - Services de paiement et de crédit;
 e) livre IX - La sécurité des produits et des services;
+e/1) livre X - Contrats d'agence commerciale, contrats de coopération commerciale, concessions de vente et contrats de transport;
 f) livre XI - Propriété intellectuelle;
 g) livre XII - Droit de l'économie électronique;
-h) ...
+h) livre XIX - Dettes du consommateur;
 2° la loi du 25 mars 1964 sur les médicaments;
 3° la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations;
 4° la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction;
@@ -20,8 +21,8 @@ h) ...
 10° /1 le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
 11° l'article 21, 5°, du Code des impôts sur les revenus;
 12° la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines;
-13° la loi du 16 février 1994 régissant le contrat d'organisation de voyages et le contrat d'intermédiaire de voyages;
-13° /1 la loi du 21 novembre 2017 relative à la vente de voyages à forfait, de prestations de voyage liées et de services de voyage;
+13° la loi du 21 novembre 2017 relative à la vente de voyages à forfait, de prestations de voyage liées et de services de voyage;
+13° /1 ...
 14° le Règlement 2027/97 (CE) du Conseil du 9 octobre 1997 relatif à la responsabilité des transporteurs aériens en cas d'accident;
 15° la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
 16° la loi du 29 avril 1999 relative à l'organisation du marché du gaz et au statut fiscal des producteurs d'électricité;
@@ -42,3 +43,5 @@ h) ...
 31° la loi du 30 juillet 2013 relative à la revente de titres d'accès à des événements.
 32° la loi du 28 août 2011 relative à la protection des consommateurs en matière de contrats d'utilisation de biens à temps partagé, de produits de vacances à long terme, de revente et d'échange;
 33° l'article 101 et/ou l'article 102 du TFUE;
+34° les dispositions du droit européen visées à l'annexe I de la directive (UE) 2020/1828 du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la directive 2009/22/CE, ainsi que, le cas échéant, les dispositions du droit belge qui les transposent;
+35° la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales.

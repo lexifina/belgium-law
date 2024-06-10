@@ -1,0 +1,1 @@
+En cas d'action fondée sur l'article XVII.1/4, alinéa 2 ou 3, l'entité qualifiée Consommateurs ou PME, fournit au juge des informations suffisantes sur les consommateurs ou PME concernés par l'action en cessation.
