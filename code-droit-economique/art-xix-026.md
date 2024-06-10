@@ -1,0 +1,2 @@
+Lors des premiers entretiens avec le débiteur, le médiateur de dettes amiable s'assure que le débiteur est correctement informé du cadre et des limites de la médiation de dettes amiable ainsi que des droits et obligations de chaque partie.
+Lors des premiers entretiens avec le débiteur et après avoir évalué la pertinence d'entreprendre une médiation de dettes amiable, le médiateur de dettes amiable l'informe quant à l'existence de solutions alternatives. Il lui explique les conditions de leur mise en oeuvre et leur implications concrètes sur ses droits et ses obligations.

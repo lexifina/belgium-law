@@ -1,0 +1,1 @@
+La médiation de dettes amiable a pour objectif de trouver une solution durable aux difficultés financières et/ou aux problèmes de surendettement du débiteur. Elle vise à l'aider à respecter ses engagements envers ses créanciers dans la mesure où cela lui permet, ainsi que sa famille, de maintenir des conditions de vie conformes à la dignité humaine.

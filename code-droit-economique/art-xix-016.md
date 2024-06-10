@@ -1,0 +1,1 @@
+Sans préjudice de l'article I.9, 55°, la médiation de dettes amiable est une prestation de services, à l'exclusion de la conclusion d'un contrat de crédit visé à l'article I.9, 39°, en vue de venir en aide de manière préventive et/ou curative à tout débiteur qui rencontre des difficultés financières ou est dans l'impossibilité de faire face à ses dettes exigibles ou à échoir.

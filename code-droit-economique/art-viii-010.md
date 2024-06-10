@@ -5,3 +5,4 @@
 3° les contributions volontaires ou contractuelles;
 4° des revenus occasionnels;
 5° tous les revenus provenant, directement ou indirectement, des activités du Bureau;
+6° un financement qui est imputé à la charge du budget fédéral sur les crédits du SPF Economie, afin de permettre la réalisation des missions de soutien visée à l'article VIII.4, alinéa 1er, 12°, 13° et 14°.

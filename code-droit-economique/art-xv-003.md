@@ -3,7 +3,7 @@ En vue de la recherche et de la constatation des infractions visées à l'articl
 En ce qui concerne la recherche et la constatation des infractions au Livre IX et au Livre XI, les agents visés à l'article XV.2 peuvent toutefois à tout moment pénétrer ou accéder aux lieux visés au premier alinéa.
 Ne viole cependant pas les locaux habités celui qui y pénètre avec le consentement préalable et écrit de l'habitant.
 S'ils ont des raisons de croire à l'existence d'une infraction, une visite peut, sur demande motivée, être effectuée dans les locaux habités entre cinq et vingt-et-une heure avec l'autorisation préalable, motivée, écrite, signée et datée du juge d'instruction et par au moins deux agents agissant conjointement.
-En cas de flagrant délit tel que prévu à l'article 41 du Code d'instruction criminelle, ils pourront aussi pénétrer à toute heure dans les locaux habités .... Dans ce cas, ils ne seront pas tenus de faire la perquisition à deux;
+En cas de flagrant délit tel que prévu à l'article 41 du Code d'instruction criminelle, ils pourront aussi pénétrer à toute heure dans les locaux habités .... Dans ce cas, ils ne seront pas tenus de faire la visite des locaux habités à deux;
 2° faire toutes les constatations utiles, procéder à tous examens, contrôles, recherches et recueillir toutes informations qu'ils estiment nécessaires pour s'assurer que les dispositions visées à l'article XV.2, § 1er sont respectées;
 3° interroger toute personne sur tout fait dont la connaissance est utile à la recherche ou la constatation;
 4° ouvrir les paquets, caisses, tonneaux et tous les autres types d'emballages dont ils présument qu'ils contiennent des marchandises constituant ou prouvant une infraction visée à l'article XV.2, § 1er, et en examiner le contenu;
