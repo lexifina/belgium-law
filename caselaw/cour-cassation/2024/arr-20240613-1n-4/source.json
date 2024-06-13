@@ -1,0 +1,37 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20240613.1N.4",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240613.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-06-13",
+  "date_as_printed": "Vonnis/arrest van 13 juni 2024",
+  "published_on_juportal": "2024-07-01",
+  "language": "nl",
+  "role_number": "C.19.0368.N",
+  "case_name_as_published": "BELGISCHE STAAT, MIN FIN contra VLAAMSE GEWEST",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE CIVILE - Décisions contre lesquelles on peut se pourvoir - Décisions contre lesquelles on ne peut pas se pourvoir en raison de leur nature",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière civile (y compris les matières commerciale et sociale)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 1046 - 01 ELI link Pub nr 1967101052",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 1046 - 01 ELI link Pub nr 1967101052",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 748bis - 01 ELI link Pub nr 1967101052 Gerechtelijk Wetboek - 10-10-1967 - Art. 775, eerste lid - 01 ELI link Pub nr 1967101052",
+    "RABG-Rechtspraak Antwerpen Brussel Gent - 2024, nr. 14, p. 1292-1302. - MAES, Bruno; Noot'De syntheseconclusie na de heropening van het debat'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240613.1N.4",
+  "source_sha256": "1837732c9c18a4aa7e911937aaa2e5d0dedf177aa7d26df21fb472dd052e8e41",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240613.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_114.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
