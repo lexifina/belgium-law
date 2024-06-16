@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La loi du 29 mars 2024 modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux pour réaliser une politique de sécurité intégrée et globale au sein des provinces et de la Région de Bruxelles-Capitale entre en vigueur dix jours après la publication du présent arrêté au Moniteur belge.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a la Justice dans ses attributions et le ministre qui a l'Intérieur dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
