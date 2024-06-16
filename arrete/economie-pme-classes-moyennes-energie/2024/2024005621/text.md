@@ -1,0 +1,37 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Il est institué auprès du Service public fédéral Stratégie et Appui et du Service public fédéral Economie, P.M.E., Classes moyennes et Energie, un Comité d'orientation en matière d'intelligence artificielle ci-après dénommé " Comité d'orientation ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Sans préjudice des missions du Comité Consultatif d'Ethique des Données et de l'Intelligence Artificielle de l'administration fédérale créé par l'arrêté royal du 4 octobre 2023 portant création d'un Comité Consultatif d'Ethique des Données et de l'Intelligence Artificielle de l'administration fédérale, le Comité d'orientation a pour mission :
+1° de donner des avis au gouvernement fédéral sur les questions relatives à l'intelligence artificielle;
+2° d'être le point de contact unique au niveau fédéral pour des questions relatives à l'intelligence artificielle à l'exception des demandes d'avis à la demande d'un service fédéral ou d'un membre du gouvernement au Comité Consultatif d'Ethique des Données et de l'Intelligence Artificielle de l'administration fédérale.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le Comité d'orientation est composé des membres suivants :
+1° un représentant du ministre qui a la Digitalisation dans ses attributions;
+2° un représentant du ministre qui a l'Economie dans ses attributions;
+3° un représentant du ministre qui a les Télécommunications dans ses attributions;
+4° un représentant du Service public fédéral Stratégie et Appui;
+5° un représentant du Service public fédéral Economie, P.M.E., Classes moyennes et Energie;
+6° un représentant des Universités francophones belges désigné par l'association sans but lucratif Conseil des rectrices et recteurs francophones, dont le numéro d'entreprise est 0443.309.695 et un représentant des Universités néerlandophones belges désigné par la fondation d'utilité publique Vlaamse Interuniversitaire Raad, dont le numéro d'entreprise est 0418.766.123;
+7° un représentant d'expression française et un représentant d'expression néerlandaise du Conseil national du travail;
+8° un représentant des Institutions publiques de sécurité sociale désigné par le Service public fédéral Sécurité sociale;
+9° un représentant de l'Institut belge des services postaux et des télécommunications;
+10° un représentant du Centre pour la Cybersécurité Belgique;
+11° un représentant de la Fédération Wallonie-Bruxelles;
+12° un représentant de la Communauté germanophone;
+13° un représentant de la Communauté flamande;
+14° un représentant de la Région flamande;
+15° un représentant de la Région wallonne;
+16° un représentant de la Région de Bruxelles-Capitale.
+Le Comité d'orientation est présidé par le directeur général de la direction générale Simplification et Digitalisation du Service public fédéral Stratégie et Appui. En son absence, le Comité d'orientation se réunit sous la présidence du représentant du ministre qui a la Digitalisation dans ses attributions.
+Le Comité d'orientation peut s'organiser en sous-groupe avec une composition mixte reprenant des membres du Comité d'orientation et des experts externes.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le secrétariat du Comité d'orientation est assuré par le direction générale Simplification et Digitalisation du Service public fédéral Stratégie et Appui.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le Comité d'orientation se réunit au minimum trois fois par an sur convocation de son président ou si une majorité des membres du Comité d'orientation le demande.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le Comité d'orientation délibère valablement si la majorité des membres visés à l'article 3 sont présents. Les décisions sont adoptées à la majorité absolue des voix. Les avis et recommandations sont adoptés par consensus. A défaut de consensus, l'avis reprend les différentes opinions.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le Comité d'orientation établit son règlement d'ordre intérieur. Ce règlement est présenté à l'approbation du ministre qui a la Digitalisation dans ses attributions, du ministre qui a l'Economie dans ses attributions et du ministre qui a les Télécommunications dans ses attributions.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Les membres et les experts externes du Comité d'orientation sont soumis au devoir de discrétion. Celui-ci s'applique à tous les renseignements dont ils ont connaissance dans le cadre de l'exercice de leur mission.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le Premier Ministre, le ministre qui a l'Economie dans ses attributions, le ministre qui a les Télécommunications dans ses attributions et le ministre qui a la Digitalisation dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
