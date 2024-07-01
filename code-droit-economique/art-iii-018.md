@@ -4,7 +4,7 @@
 3° la forme juridique;
 4° la situation juridique;
 5° la date de création et la date de cessation de l'entité enregistrée ou de l'unité d'établissement;
-6° les données d'identification des fondateurs, mandataires et fondés de pouvoir;
+6° les données d'identification des fondateurs, mandataires, fondés de pouvoir, associés actifs et aidants;
 7° les activités économiques exercées par l'entité enregistrée;
 8° les autres données d'identification de base qui doivent être fournies au moment de la création de la personne morale ou en application du Chapitre 2;
 9° la mention des autorisations, licences, agréments, dont dispose l'entité enregistrée ou les qualités pour lesquelles cette dernière est connue auprès des différentes autorités, administrations et services et, le cas échéant, le suivi des demandes y relatives;
