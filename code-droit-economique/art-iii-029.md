@@ -7,6 +7,8 @@
 6° les activités économiques de l'entité enregistrée et de ses unités d'établissement;
 7° les qualités sous lesquelles une entité enregistrée est inscrite dans la Banque-Carrefour des Entreprises et, le cas échéant, le suivi des demandes y relatives;
 8° les nom et prénom des fondateurs et des personnes exerçant, au sein de l'entité enregistrée, une fonction soumise à publicité;
+8° /1 les nom et prénom des associés actifs;
+8° /2 les nom et prénom des aidants;
 9° les agréments, autorisations ou licences dont l'entité enregistrée dispose, pour autant qu'ils soient soumis à des dispositions de publicité obligatoire ou qu'ils aient un intérêt pour des tiers, et, le cas échéant, le suivi des demandes y relatives;
 10° la référence au site internet de l'entité enregistrée, ses numéros de téléphone, de fax ainsi que son adresse e-mail;
 11° toutes les données soumises à des dispositions de publicité en application:
