@@ -1,0 +1,11 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans la partie II, titre 1, chapitre I de l'annexe à l'arrêté royal du 23 novembre 2021 fixant les procédures, délais et conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des prestations pharmaceutiques visées à l'article 34, alinéa 1er, 5° a), 19°, 20° et 20bis de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les modifications suivantes sont apportées:
+1° l'intitulé du chapitre I est remplacé par ce qui suit : " prothèses capillaires ou accessoires destinés à couvrir la tête " ;
+2° le paragraphe 1er, alinéa 1er, est remplacé par ce qui suit : " § 1er. Les prothèses capillaires ou les accessoires destinés à couvrir la tête ne font l'objet d'une intervention que s'ils sont demandés dans le cadre du traitement d'une des indications suivantes : "
+3° dans le paragraphe 2, les mots " pour les prothèses capillaires " sont insérés entre les mots " L'intervention " et les mots " s'élève à ".
+4° Il est inséré un paragraphe 2/1 rédigé comme suit : " § 2/1. L'intervention pour les accessoires destinés à couvrir la tête, pour les indications prévues dans le § 1er, 1° à 4°, s'élève à maximum 120 euros, et un maximum de trois accessoires. "
+5° dans le paragraphe 3, les mots " de la facture acquittée de la prothèse capillaire " sont remplacés par les mots " de toute preuve probante de paiement de la prothèse capillaire ou des accessoires destinés à couvrir la tête. Les interventions visées dans les § 2 et § 2/1 ne peuvent pas être cumulées. "
+6° dans le paragraphe 4, les modifications suivantes sont apportées :
+a) les mots " ou pour des accessoires destinés à couvrir la tête " sont insérés entre les mots " Le renouvellement de l'intervention pour une prothèse capillaire " et les mots " peut seulement être accordé ".
+b) au 2°, les mots " à compter de la date de la précédente fourniture " sont remplacés par les mots " à compter de la date de la première facture ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le premier jour du mois qui suit l'expiration d'un délai de dix jours prenant cours le jour suivant sa publication au Moniteur belge.
