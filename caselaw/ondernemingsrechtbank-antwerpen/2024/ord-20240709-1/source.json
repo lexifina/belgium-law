@@ -1,0 +1,41 @@
+{
+  "title": "Beschikking ECLI:BE:ORANT:2024:ORD.20240709.1",
+  "ecli": "ECLI:BE:ORANT:2024:ORD.20240709.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2024-07-09",
+  "date_as_printed": "Beschikking van 09 juli 2024",
+  "published_on_juportal": "2026-01-26",
+  "language": "nl",
+  "role_number": "C/24/00063",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Nakoming verbintenis - Ontbinding",
+    "Ontbinding op kennisgeving, vervanging op kennisgeving, sancties bij een toerekenbare niet-nakoming van de schuldenaar, kort geding",
+    "GERECHTELIJK RECHT - KORT GEDING - Aard maatregel",
+    "Kort geding, declaratieve uitspraak, nazicht ogenschijnlijke rechten",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek - Opdracht",
+    "Deskundigenonderzoek, subsidiariteit van de onderzoeksmaatregel"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Nakoming verbintenis - Ontbinding",
+    "Ontbinding op kennisgeving, vervanging op kennisgeving, sancties bij een toerekenbare niet-nakoming van de schuldenaar, kort geding",
+    "Burgerlijk Wetboek - 28-04-2022 - 5.83 - 27 ELI link Pub nr 2022A32058 Burgerlijk Wetboek - 28-04-2022 - 5.85 - 27 ELI link Pub nr 2022A32058 Burgerlijk Wetboek - 28-04-2022 - 5.93 - 27 ELI link Pub nr 2022A32058",
+    "GERECHTELIJK RECHT - KORT GEDING - Aard maatregel",
+    "Kort geding, declaratieve uitspraak, nazicht ogenschijnlijke rechten",
+    "Gerechtelijk Wetboek - 10-10-1967 - 1039 - 04 ELI link Pub nr 1967101055",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek - Opdracht",
+    "Deskundigenonderzoek, subsidiariteit van de onderzoeksmaatregel",
+    "Gerechtelijk Wetboek - 10-10-1967 - 875bis - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - 10-10-1967 - 962 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2024:ORD.20240709.1",
+  "source_sha256": "8709836dcd1992d205a642f0e8fbc5cc1207e23e0f62291313708f6bea01fbff",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2024:ORD.20240709.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/26/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
