@@ -1,2 +1,2 @@
-Aussi longtemps que le délai visé à l'article 44ter, § 2 court, le citoyen de l'Union ou le membre de sa famille ne peut pas faire l'objet d'un éloignement forcé.
-Pour éviter tout risque de fuite pendant le délai visé à l'article 44ter, § 2, le citoyen de l'Union ou le membre de sa famille peut être contraint à remplir des mesures préventives. Le Roi est habilité à déterminer ces mesures par un arrêté délibéré en Conseil des ministres.
+Aussi longtemps que le délai visé à l'article 44ter court, le citoyen de l'Union ou le membre de sa famille ne peut pas faire l'objet d'un éloignement forcé.
+Pour éviter tout risque de fuite pendant le délai visé à l'article 44ter, le citoyen de l'Union ou le membre de sa famille peut être contraint à remplir des mesures préventives. Le Roi est habilité à déterminer ces mesures par un arrêté délibéré en Conseil des ministres.
