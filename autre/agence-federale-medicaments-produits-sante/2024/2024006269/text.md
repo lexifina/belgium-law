@@ -1,0 +1,2 @@
+<a name="Art.M">Article </a> M.
+DECIDE de soumettre l'exportation des médicamentsFluorouracil Accord Healthcare 50 mg/ml inj./inf. sol. i.v./i.arter. vial 20 ml, Fluorouracil Accord Healthcare 50 mg/ml inj./inf. sol. i.v./i.arter. vial 100 ml et Fluracedyl 50 mg/ml inj. sol. i.v./i.arter. vial 100 ml destinés au marché belge à une autorisation préalable jusqu'au 31.01.2025 inclus.Cette décision entre en vigueur le jour de sa publication dans le Moniteur belge.
