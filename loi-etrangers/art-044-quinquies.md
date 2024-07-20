@@ -2,6 +2,5 @@
 1° aucun délai n'a été octroyé au citoyen de l'Union ou au membre de sa famille pour quitter le territoire du Royaume;
 2° le citoyen de l'Union ou le membre de sa famille n'a pas quitté le territoire du Royaume dans le délai qui lui était octroyé;
 3° avant l'écoulement du délai octroyé pour quitter le territoire du Royaume, le citoyen de l'Union ou le membre de sa famille présente un risque de fuite, n'a pas respecté les mesures préventives imposées ou constitue une menace pour l'ordre public ou la sécurité nationale.
-§ 2. Lorsque le citoyen de l'Union ou le membre de sa famille s'oppose à son éloignement ou lorsqu'il présente un risque de dangerosité lors de son éloignement, il est procédé à son retour forcé, le cas échéant avec escorte. Des mesures coercitives peuvent alors être utilisées à son égard dans le respect des articles 1er et 37 de la loi du 5 août 1992 sur la fonction de police.
-Lorsque l'éloignement est exécuté par voie aérienne, les mesures sont prises conformément aux orientations communes d'éloignement par voie aérienne annexées à la décision 2004/573/CE.
-§ 3. Le Roi désigne par un arrêté délibéré en Conseil des ministres, l'instance chargée d'assurer le contrôle des retours forcés et détermine les modalités de ce contrôle. Cette instance est indépendante des autorités compétentes en matière d'éloignement.
+§ 2. ....
+§ 3. ...
