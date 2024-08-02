@@ -1,0 +1,18 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'intitulé néerlandais de l'arrêté ministériel du 7 mai 1999 relatif à la carte de stationnement pour personnes handicapées, le mot " mensen " est remplacé par le mot " personen ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans les articles 3 et 4 du même arrêté, les mots " Direction d'Administration des Prestations aux Personnes handicapées " sont remplacés par les mots " Direction générale Personnes handicapées ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. A l'article 5 du même arrêté, sont apportées les modifications suivantes :
+1° à l'alinéa 2 et 3, modifié par l'arrêté ministériel du 3 mars 2003 modifiant l'arrêté ministériel du 7 mai 1999 relatif à la carte de stationnement pour personnes handicapées, les mots " Direction d'Administration des Prestations aux Personnes handicapées " et les mots " Direction d'administration " sont respectivement remplacés par les mots " Direction générale Personnes handicapées " et " Direction générale ".
+2° l'alinéa 4, remplacé par l'arrêté ministériel du 3 mars 2003 modifiant l'arrêté ministériel du 7 mai 1999 relatif à la carte de stationnement pour personnes handicapées, est remplacé par la disposition suivante :
+" En cas de décès du titulaire, la carte doit, dans les trente jours qui suivent le décès, être remise par les survivants du titulaire, soit à l'administration communale du lieu de résidence du titulaire, soit directement à la Direction générale Personnes handicapées. A défaut, la carte se doit d'être retirée par un agent qualifié. Dans tous les cas, la validité de la carte expire le jour suivant l'enregistrement du décès du titulaire par le service Etat civil de la commune où il est décédé. L'usage futur de cette carte est interdit. ".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. A l'article 6 du même arrêté sont apportées les modifications suivantes :
+1° l'alinéa 2 est remplacé par la disposition suivante :
+" Ce duplicata doit être demandé à la Direction générale Personnes handicapées. La carte détériorée ou illisible doit être renvoyée au plus tard au moment de la délivrance de la nouvelle carte. En cas de perte, de vol ou de destruction, une déclaration rédigée par une autorité compétente doit être jointe à la demande de renouvellement. Si la carte perdue, ou volée est retrouvée après la demande de duplicata par le titulaire, l'usage futur de cette carte est interdit et doit être immédiatement renvoyée à la Direction générale Personnes handicapées ".
+2° l'article est complété par un alinéa 3, rédigé comme suit :
+" La validité de la carte expire sept jours la délivrance d'un duplicata par la Direction générale Personnes handicapées, suite à la demande du titulaire de la carte, quel que soit le motif de demande de duplicata. S'il s'avère que plusieurs duplicatas ont été délivrés successivement, seul le dernier duplicata délivré est valide. "
+3° l'article est complété par un alinéa 4, rédigé comme suit :
+" S'il est établi que le titulaire requiert un duplicata pour la troisième fois en l'espace d'un an, le troisième duplicata ne sera délivré qu'après une période d'attente de trois mois. Le titulaire peut demander une dérogation à cette règle, moyennant une motivation. Cette demande de dérogation est soumise au Directeur général de la Direction générale Personnes handicapées, qui prend une décision dans les trente jours suivant la réception de la demande de dérogation. "
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
