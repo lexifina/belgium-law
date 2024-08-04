@@ -1,0 +1,10 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 1er de l'arrêté royal du 20 septembre 2002 fixant les frais de procédure en cas d'intervention d'un médecin-arbitre en application de l'article 31 de la loi du 3 juillet 1978 relative aux contrats de travail, les modifications suivantes sont apportées:
+1° les mots "75 EUR" sont remplacés par les mots "123,05 euros";
+2° les mots "38 EUR" sont remplacés par les mots "62,34 euros";
+3° cet article est complété par quatre alinéas, rédigés comme suit:
+"Les montants des redevances et frais administratifs visés au premier alinéa sont liés à l'indice pivot 130,67 (base 2013) et sont indexés conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+Contrairement à la loi du 2 août 1971 précitée, les montants du premier alinéa sont liés à l'indice santé tel que défini à l'article 2, § 1er, de la loi du 23 avril 2015 pour l'amélioration de l'emploi, et non à la moyenne trimestrielle de l'indice santé, les deux indices étant publiés par le Service public fédéral Economie au Moniteur belge.
+Pour l'indexation des montants du premier alinéa, il est tenu compte de trois décimales. Le résultat est arrondi au centime d'euro supérieur lorsque la troisième décimale est égale ou supérieure à cinq et au centime d'euro inférieur lorsque la troisième décimale est inférieure à cinq.
+Les montants indexés sont appliqués à partir du premier mois suivant celui au cours duquel l'indice de santé atteint le chiffre justifiant une modification.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
