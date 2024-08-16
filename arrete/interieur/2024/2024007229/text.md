@@ -1,0 +1,6 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 6 de l'arrêté ministériel du 18 mars 2009 portant délégation de certains pouvoirs du ministre qui a l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers dans ses compétences et abrogeant l'arrêté ministériel du 17 mai 1995 portant délégation des pouvoirs du ministre en matière d'accès au territoire, de séjour, d'établissement et d'éloignement des étrangers, modifié en dernier lieu par l'arrêté ministériel du 2 décembre 2022, les modifications suivantes sont apportées :
+1° les mots " l'article 51/5, §§ 1er, 2, § 3, alinéa 2, § 4, alinéas 1er à 3 et § 6, alinéa 2 " sont remplacés par les mots " l'article 51/5, § 1er, alinéas 1er et 2, § 2, § 3, alinéa 1er, § 4, § 6, alinéa 1er " ;
+2° les mots " l'article 51/5/1, § 1er, alinéa 2, § 2, et § 4, alinéa 2 " sont remplacés par les mots " l'article 51/5/1, § 1er, alinéas 1er et 2, § 2, alinéas 1er à 3, § 4, alinéa 1er " ;
+3° les mots " ; l'article 74/24; l'article 74/25, l'article 74/26. " sont insérés après les mots " l'article 74/21, alinéa 2 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'article 8, du même arrêté, modifié en dernier lieu par l'arrêté ministériel du 2 décembre 2022, les mots " ; l'article 74/24; l'article 74/25, l'article 74/26. " sont insérés après les mots " l'article 74/21, alinéa 1er ".
