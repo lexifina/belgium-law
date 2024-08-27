@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 1 de l'arrêté du Président du comité de direction du 22 décembre 2014 portant création du centre national de recherches, est modifié comme suit :
+" Article 1er. Au sein de l'administration Particuliers de l'Administration générale de la Fiscalité est créé le service suivant :
+Le centre national de recherches, localisé à Bruxelles et dont la compétence territoriale s'étend à l'ensemble du pays, à l'exception toutefois de la région de langue allemande. Il y a des services de recherches à Alost, Anvers, Bruges, Gand, Hasselt, Courtrai, Louvain, dont la compétence territoriale s'étend à la région de langue néerlandaise et des services de recherches à Charleroi, Liège, Namur et Ottignies-LLN dont la compétence territoriale s'étend à la région de langue française et des services de recherches localisés à Bruxelles dont la compétence territoriale s'étend à la région bilingue de Bruxelles-Capitale "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le 27 août 2024.
