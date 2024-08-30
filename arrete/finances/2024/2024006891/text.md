@@ -1,0 +1,49 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE Ier.</a> - Définitions
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Pour l'application du présent arrêté, on entend par :
+1° billet : le billet " Lady Fortuna " qui contient vingt billets à gratter ;
+2° zone de jeu : un espace délimité qui, apparent au recto des billets à gratter, est recouvert d'une pellicule opaque à gratter ;
+3° symbole de jeu : une lettre, un mot, un chiffre, un nombre, une image, un graphisme, un dessin, une photo, une figure, une couleur ou tout autre signe de quelque nature que ce soit.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Dispositions relatives au billet " Lady Fortuna "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. La loterie à billets " Lady Fortuna " est une loterie organisée par la Loterie Nationale. Elle est organisée conformément à l'arrêté royal du 27 avril 2018 fixant les modalités générales d'émission des loteries publiques organisées par la Loterie Nationale sous forme de loteries à billets.
+Le nombre de billets de chaque émission est fixé par la Loterie Nationale soit à 800.000, soit en multiples de 800.000.
+Le prix de vente d'un billet est fixé à 20 euros.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Par quantité de 800.000 billets émis, le nombre de lots est fixé à 800.000, lesquels se répartissent selon le tableau reproduit ci-dessous:
+
+<table border="1"><tr><td valign="top">Nombre de lots<br>  -<br>  Aantal loten </td><td valign="top">Montant des lots (euros)<br>  -<br>  Bedrag van de loten (euro) </td><td valign="top">Montant total des lots (euros)<br>  -<br>  Totaal bedrag van de loten (euro) </td><td valign="top">1 chance de gain sur<br>  -<br>  1 winstkans op </td></tr><tr><td valign="top">1 </td><td valign="top">500.000,00 </td><td valign="top">500.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">1 </td><td valign="top">200.000,00 </td><td valign="top">200.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">1 </td><td valign="top">100.000,00 </td><td valign="top">100.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">1 </td><td valign="top">50.000,00 </td><td valign="top">50.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">1 </td><td valign="top">20.000,00 </td><td valign="top">20.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">1 </td><td valign="top">15.000,00 </td><td valign="top">15.000,00 </td><td valign="top">800.000,00 </td></tr><tr><td valign="top">3 </td><td valign="top">10.000,00 </td><td valign="top">30.000,00 </td><td valign="top">266.666,67 </td></tr><tr><td valign="top">3 </td><td valign="top">7.500,00 </td><td valign="top">22.500,00 </td><td valign="top">266.666,67 </td></tr><tr><td valign="top">3 </td><td valign="top">5.000,00 </td><td valign="top">15.000,00 </td><td valign="top">266.666,67 </td></tr><tr><td valign="top">25 </td><td valign="top">2.000,00 </td><td valign="top">50.000,00 </td><td valign="top">32.000,00 </td></tr><tr><td valign="top">100 </td><td valign="top">1.000,00 </td><td valign="top">100.000,00 </td><td valign="top">8.000,00 </td></tr><tr><td valign="top">200 </td><td valign="top">500,00 </td><td valign="top">100.000,00 </td><td valign="top">4.000,00 </td></tr><tr><td valign="top">250 </td><td valign="top">250,00 </td><td valign="top">62.500,00 </td><td valign="top">3.200,00 </td></tr><tr><td valign="top">7.000 </td><td valign="top">125,00 </td><td valign="top">875.000,00 </td><td valign="top">114,29 </td></tr><tr><td valign="top">250 </td><td valign="top">100,00 </td><td valign="top">25.000,00 </td><td valign="top">3.200,00 </td></tr><tr><td valign="top">2.000 </td><td valign="top">75,00 </td><td valign="top">150.000,00 </td><td valign="top">400,00 </td></tr><tr><td valign="top">23.000 </td><td valign="top">60,00 </td><td valign="top">1.380.000,00 </td><td valign="top">34,78 </td></tr><tr><td valign="top">2.500 </td><td valign="top">50,00 </td><td valign="top">125.000,00 </td><td valign="top">320,00 </td></tr><tr><td valign="top">37.850 </td><td valign="top">40,00 </td><td valign="top">1.514.000,00 </td><td valign="top">21,14 </td></tr><tr><td valign="top">2.500 </td><td valign="top">30,00 </td><td valign="top">75.000,00 </td><td valign="top">320,00 </td></tr><tr><td valign="top">3.500 </td><td valign="top">25,00 </td><td valign="top">87.500,00 </td><td valign="top">228,57 </td></tr><tr><td valign="top">120.000 </td><td valign="top">20,00 </td><td valign="top">2.400.000,00 </td><td valign="top">6,67 </td></tr><tr><td valign="top">19.000 </td><td valign="top">15,00 </td><td valign="top">285.000,00 </td><td valign="top">42,11 </td></tr><tr><td valign="top">22.000 </td><td valign="top">10,00 </td><td valign="top">220.000,00 </td><td valign="top">36,36 </td></tr><tr><td valign="top">559.810 </td><td valign="top">5,00 </td><td valign="top">2.799.050,00 </td><td valign="top">1,43 </td></tr><tr><td valign="top">TOTAL - TOTAAL 800.000 </td><td valign="top"> </td><td valign="top">TOTAL - TOTAAL 11.200.550,00 </td><td valign="top">TOTAL - TOTAAL 1,00</td></tr></table>
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. Chaque billet se compose de trois volets rabattables qui, formant un ensemble, ne peuvent être séparés pour la vente.
+En partant de la gauche vers la droite, les trois volets dépliés présentent respectivement quatre, huit et huit billets à gratter qui ne peuvent être séparés pour la vente.
+Chaque billet à gratter présente un jeu.
+§ 2. Le recto de chaque billet à gratter présente une zone de jeu distinctement délimitée, recouverte d'une pellicule opaque à gratter par le joueur.
+Après grattage de la pellicule opaque, apparaissent respectivement dans chaque zone de jeu :
+1° deux symboles de jeu qui, pouvant varier, sont issus d'une série de vingt symboles de jeu différents représentant une " bougie ", un " livre ", une " carte à jouer ", une " étoile filante ", une " boule de cristal ", une " coccinelle ", une " clé de sol ", une " plume de paon ", une " pierre précieuse ", un " soleil et un nuage ", un " bonzaï ", un " chapeau de magicien et une baguette ", une " fleur ", une " reine du jeu d'échecs ", une " posture de yoga ", une " pendule ", un " lézard ", une " patte de chat ", une " clé " et une " goutte d'eau " ;
+2° un montant de gain en chiffres arabes précédé du symbole " € ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. § 1er. Un billet à gratter est gagnant lorsque sa zone de jeu présente deux symboles de jeu identiques, parmi ceux visés à l'article 4, paragraphe 2, alinéa 2, 1°. Dans ce cas, le montant de gain visé à l'article 4, paragraphe 2, alinéa 2, 2°, est attribué.
+§ 2. Un billet à gratter dont la zone de jeu ne présente pas deux symboles de jeu identiques est toujours perdant.
+§ 3. Chaque billet est gagnant et peut comporter quatre, cinq, huit, neuf, dix, onze, douze, treize, quatorze, quinze ou dix-sept billets à gratter gagnants. Les billets gagnants donnent droit à un lot correspondant au cumul des montants de gain attribués selon l'article 5, paragraphe 1er.
+Les billets qui attribuent un montant de lot de 5 euros ou 10 euros présentent quatre billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 15 euros présentent cinq billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 20 euros présentent huit billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 60 euros ou 75 euros présentent neuf billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 25 euros présentent dix billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 15.000 euros présentent onze billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 30 euros, 50 euros, 100 euros, 125 euros, 500 euros, 2.000 euros ou 5.000 euros présentent douze billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 10.000 euros, 100.000 euros ou 200.000 présentent treize billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 40 euros, 250 euros, 1.000 euros ou 50.000 euros présentent quatorze billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 7.500 euros ou 20.000 euros présentent quinze billets à gratter gagnants.
+Les billets qui attribuent un montant de lot de 500.000 euros présentent dix-sept billets à gratter gagnants.
+§ 4. Les vingt billets à gratter étant indépendants les uns des autres, chacun d'entre eux peut être considéré individuellement et peut être séparé pour la présentation à l'encaissement du gain s'il présente un jeu gagnant selon l'article 5, paragraphe 1er.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le recto du premier volet du billet en partant de la gauche présente un code QR à scanner par le joueur pour participer au projet " Lady Fortuna " pour l'année 2024-2025.
+La Loterie Nationale détermine les modalités de participation au projet visé à l'alinéa 1er et les rend publiques par tous les moyens qu'elle juge utiles.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Pour l'application du processus qui garantit une répartition harmonieuse des billets attribuant des lots de petite valeur sur l'ensemble des billets imprimés, les lots de petite valeur sont fixés à un montant unitaire ne dépassant pas 60 euros. La somme des lots de petite valeur attribués aux billets contenus dans un même paquet emballé sous cellophane correspond à un montant qui, fixé par la Loterie Nationale, ne peut être inférieur à 55 euros.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le ministre qui a la Loterie Nationale dans ses attributions est chargé de l'exécution du présent arrêté.
