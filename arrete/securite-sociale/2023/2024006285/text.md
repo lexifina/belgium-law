@@ -1,0 +1,12 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 12, § 1er, a), de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, modifié en dernier lieu par l'arrêté royal du 15 décembre 2021, les modifications suivantes sont apportées :
+1° dans le libellé de la prestation 201250-201261, les mots " anesthésie générale lors de " sont insérés entre les mots " et/ou " et " soins " ;
+2° la prestation suivante est insérée après la prestation 201250-201261 :
+" 201434-201445
+Honoraires complémentaires pour les prestations 201235-201246 et 201250-201261 chez des enfants de moins de 12 ans ou chez des patients avec une limitation fonctionnelle congénitale ou acquise de nature physique ou mentale. La motivation pour l'exécution de l'intervention sous anesthésie générale est reprise par le médecin spécialiste en anesthésiologie-réanimation dans le dossier du bénéficiaire et est tenue à disposition du médecin-conseil . . . . . K 22 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 15 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités, modifié en dernier lieu par l'arrêté royal du 6 septembre 2021, le paragraphe 9 est remplacé comme suit :
+" § 9. L'intervention de l'assurance pour extraction dentaire pour laquelle une anesthésie générale est nécessaire, est uniquement due chez les enfants de moins de 12 ans ou les patients avec une limitation fonctionnelle congénitale ou acquise de nature physique ou mentale ou chez les patients pour lesquels une anesthésie locale est médicalement contre-indiquée. De plus ces extractions doivent être effectuées en milieu hospitalier et l'anesthésie doit être effectuée par un médecin spécialiste en anesthésiologie-réanimation. La motivation pour l'exécution de l'intervention sous anesthésie générale est reprise par le praticien de l'art dentaire ou le médecin spécialiste en stomatologie dans le dossier du bénéficiaire et est tenue à disposition du médecin-conseil. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
