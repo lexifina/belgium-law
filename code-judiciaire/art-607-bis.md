@@ -1,0 +1,1 @@
+Les premiers présidents de la cour d'appel et de la cour du travail statuent sur l'appel contre les décisions de leur propre juridiction d'interdire la comparution physique à l'audience ou la participation physique à celle-ci, telles que visées à l'article 763sexies, § 3, alinéa 1er.
