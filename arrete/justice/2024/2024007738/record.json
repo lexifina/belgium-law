@@ -1,0 +1,30 @@
+{
+  "id": "2024007738",
+  "title": "21 AOUT 2024. - Arrêté ministériel modifiant l'arrêté ministériel du 16 décembre 2021 portant des mesures d'organisations internes en vue de la coordination, la rationalisation et l'accélération de la digitalisation de la Justice",
+  "source_title": "21 AOUT 2024. - Arrêté ministériel modifiant l'arrêté ministériel du 16 décembre 2021 portant des mesures d'organisations internes en vue de la coordination, la rationalisation et l'accélération de la digitalisation de la Justice",
+  "act": "arrete/justice/2024/2024007738",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-08-26&numac_search=2024007738&page=29&lg_txt=F&caller=list&2024007738=24&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "60139591a5bbc3a6dbb7a886c0cad6c46ef34edc183dcb89b2f92a803e7cfd47",
+  "source_issuer": "Justice",
+  "made": "2024-08-21",
+  "published": "2024-08-26",
+  "in_force": "2024-09-05",
+  "in_force_basis": "Justel: Entrée en vigueur : 5 septembre 2024; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "26 août 2024",
+    "Numéro": "2024007738",
+    "page": "98439",
+    "Dossier numéro": "2024-08-21/01",
+    "Entrée en vigueur": "5 septembre 2024",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 91,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2024-09-05"
+}
