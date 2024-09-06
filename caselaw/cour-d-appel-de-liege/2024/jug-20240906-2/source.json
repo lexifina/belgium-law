@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2024:JUG.20240906.2",
+  "ecli": "ECLI:BE:CALIE:2024:JUG.20240906.2",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2024-09-06",
+  "date_as_printed": "Jugement/arrêt du 06 septembre 2024",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2022/RG/1014",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX",
+    "Précompte immobilier – exonération pour activité d'enseignement – assimilation – scoutisme – oui – coaching d'improvisation théâtrale – oui"
+  ],
+  "fiche": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX",
+    "Précompte immobilier – exonération pour activité d'enseignement – assimilation – scoutisme – oui – coaching d'improvisation théâtrale – oui"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2024:JUG.20240906.2",
+  "source_sha256": "157ea27ab1b91d86e23fb7054aaa09460cd9dae0b87c0d2a7d98a0dcfbf86fa2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2024:JUG.20240906.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
