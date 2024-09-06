@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2024:ARR.20240906.1",
+  "ecli": "ECLI:BE:CTLIE:2024:ARR.20240906.1",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2024-09-06",
+  "date_as_printed": "Jugement/arrêt du 06 septembre 2024",
+  "published_on_juportal": "2026-04-03",
+  "language": "fr",
+  "role_number": "2024/KU/3",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit administratif",
+    "Autres"
+  ],
+  "summary_keywords": [
+    "DROIT PUBLIC ET ADMINISTRATIF - ÉTRANGERS - Autres (étrangers)",
+    "Sécurité sociale – droit de la sécurité sociale – aide sociale – aide matérielle – transfert vers un centre « de retour » Dublin",
+    "DROIT JUDICIAIRE - PROCÉDURE JUDICIAIRE - Requête unilatérale",
+    "Droit judiciaire – procédure civile – procédure sur requête unilatérale – conditions – urgence et absolue nécessité"
+  ],
+  "fiche": [
+    "DROIT PUBLIC ET ADMINISTRATIF - ÉTRANGERS - Autres (étrangers)",
+    "Sécurité sociale – droit de la sécurité sociale – aide sociale – aide matérielle – transfert vers un centre « de retour » Dublin",
+    "Règlement CE/UE - 604/20213 - 26-06-2013 - 27 et 29.2 Loi - 15-12-1980 - 30 Lien ELI No pub 1980121550 Loi - 12-01-2007 - 2, 14°, 3, 6, 6/1, 7, 11, 12 et 36 - 52 Lien ELI No pub 2007002066 Loi - 12-05-2024 - 29 Lien ELI No pub 2024006654",
+    "DROIT JUDICIAIRE - PROCÉDURE JUDICIAIRE - Requête unilatérale",
+    "Droit judiciaire – procédure civile – procédure sur requête unilatérale – conditions – urgence et absolue nécessité",
+    "Code Judiciaire - 10-10-1967 - 584 et 1039 - 01 Lien ELI No pub 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2024:ARR.20240906.1",
+  "source_sha256": "e53a4b98e9dd4d579dfb3f2a5f18629f6904d645991642c3a1acfc5166f84d82",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2024:ARR.20240906.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
