@@ -1,0 +1,35 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2024:ARR.20240912.1F.4",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240912.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-09-12",
+  "date_as_printed": "Jugement/arrêt du 12 septembre 2024",
+  "published_on_juportal": "2024-09-26",
+  "language": "fr",
+  "role_number": "F.22.0129.F",
+  "case_name_as_published": "ETAT BELGE FINANCES contra OTTEN s.r.l.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu net imposable dans le chef des sociétés de personnes soumises à l'impôt des sociétés",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Belastbaar netto-inkomen van personenvennootschappen onderworpen aan vennootschapsbelasting",
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Frais professionnels",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Beroepskosten"
+  ],
+  "fiche": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu net imposable dans le chef des sociétés de personnes soumises à l'impôt des sociétés",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 219, al. 1er - 32 Lien DB Justel 19920612-32",
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Frais professionnels",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 49, al. 1er et 2 - 32 Lien DB Justel 19920612-32 Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 219, al. 1er - 32 Lien DB Justel 19920612-32",
+    "Fisc.Act.-Fiscale actualiteit: wekelijkse nieuwsbrief - 2024, nr. 36, p. 1-4. - JANSSENS, Koen; Noot'Cassatie: zwarte omzet moet toch in verworpen uitgaven komen'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240912.1F.4",
+  "source_sha256": "b59698c9c9b3175a2f7bbba102dee4251f3576611df66d2cb6cd5f60d9041d06",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240912.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
