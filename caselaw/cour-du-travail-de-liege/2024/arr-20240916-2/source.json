@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2024:ARR.20240916.2",
+  "ecli": "ECLI:BE:CTLIE:2024:ARR.20240916.2",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2024-09-16",
+  "date_as_printed": "Jugement/arrêt du 16 septembre 2024",
+  "published_on_juportal": "2026-04-02",
+  "language": "fr",
+  "role_number": "2023/AL/46",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit du travail"
+  ],
+  "summary_keywords": [
+    "DROIT SOCIAL - TRAVAIL - Contrat de travail",
+    "Contrat de travail – employé – groupements d'employeurs – condition résolutoire – validité de la condition (caractère non équivoque et déterminable) – réalisation de la condition"
+  ],
+  "fiche": [
+    "DROIT SOCIAL - TRAVAIL - Contrat de travail",
+    "Contrat de travail – employé – groupements d'employeurs – condition résolutoire – validité de la condition (caractère non équivoque et déterminable) – réalisation de la condition",
+    "ancien Code Civil - 21-03-1804 - 1234 - 30 Lien ELI No pub 1804032150 Code Civil - 28-04-2022 - 5.141 et 5.244 - 27 Lien ELI No pub 2022A32058 Loi - 03-07-1978 - 6 et 32 - 01 Lien ELI No pub 1978070303 Loi - 12-08-2000 - 188 et 189 - 62 Lien ELI No pub 2000003530"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2024:ARR.20240916.2",
+  "source_sha256": "da4968285b19954c18b3d0d2721736e8acb1fc99e29dc968ccfa7c8aabc21e17",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2024:ARR.20240916.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_41.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
