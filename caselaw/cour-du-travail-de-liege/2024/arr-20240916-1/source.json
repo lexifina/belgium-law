@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2024:ARR.20240916.1",
+  "ecli": "ECLI:BE:CTLIE:2024:ARR.20240916.1",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2024-09-16",
+  "date_as_printed": "Jugement/arrêt du 16 septembre 2024",
+  "published_on_juportal": "2026-04-02",
+  "language": "fr",
+  "role_number": "2023/AL/189",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit de la sécurité sociale"
+  ],
+  "summary_keywords": [
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladies professionnelles – secteur privé – code 1.105 – écartement – incapacité permanente de travail – compétence discrétionnaire – renvoi à l'institution de sécurité sociale – allocation forfaitaire équivalente à l'incapacité permanente totale de travail pendant la période de 90 jours qui suit le jour de la cessation effective de l'activité (article 37, §3) – indemnité prévue à l'article 38, § 1er des lois coordonnées (non) – Prise en compte dans les FSE"
+  ],
+  "fiche": [
+    "DROIT SOCIAL - SÉCURITÉ SOCIALE - Maladie professionnelle",
+    "Maladies professionnelles – secteur privé – code 1.105 – écartement – incapacité permanente de travail – compétence discrétionnaire – renvoi à l'institution de sécurité sociale – allocation forfaitaire équivalente à l'incapacité permanente totale de travail pendant la période de 90 jours qui suit le jour de la cessation effective de l'activité (article 37, §3) – indemnité prévue à l'article 38, § 1er des lois coordonnées (non) – Prise en compte dans les FSE",
+    "Loi - 03-06-1970 - 31, 37 à 40 - 02 Lien ELI No pub 1970060309"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2024:ARR.20240916.1",
+  "source_sha256": "5b21c7273d4c52cf52f975e4a5888f57e4d0a2728715ab05a4ea2fffd8526d96",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2024:ARR.20240916.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_40.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
