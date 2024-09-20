@@ -1,0 +1,52 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20240920.1N.2",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240920.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-09-20",
+  "date_as_printed": "Vonnis/arrest van 20 september 2024",
+  "published_on_juportal": "2024-10-18",
+  "language": "nl",
+  "role_number": "C.23.0184.N",
+  "case_name_as_published": "D. contra B.",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Autres",
+    "Overige",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - EFFETS (PERSONNES, BIENS, OBLIGATIONS)",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "QUESTION PREJUDICIELLE",
+    "PREJUDICIEEL GESCHIL",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 16",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 16",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Généralités",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Algemeen"
+  ],
+  "fiche": [
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "Wetboek van economisch recht - 28-02-2013 - Art. 104, tweede en derde lid - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - Art. 107, § 1, eerste lid - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - Art. XX.161, eerste lid - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - Art. XX.194, eerste en tweede lid - 19 ELI link Pub nr 2013A11134",
+    "GRONDWETTELIJK HOF",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "PREJUDICIEEL GESCHIL",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 16",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Algemeen",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240920.1N.2",
+  "source_sha256": "b40b59c6c570067cc8fe16a60bca4be7412e4b8f58a483987fbc8a893b6a315a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240920.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_121.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
