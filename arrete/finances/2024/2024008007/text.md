@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le règlement du 14 mai 2024 de la Banque nationale de Belgique modifiant le règlement du 15 novembre 2011 de la Banque nationale de Belgique relatif aux fonds propres des établissements de crédit et des entreprises d'investissement et le règlement du 4 mars 2014 de la Banque nationale de Belgique relatif à la mise en oeuvre du Règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013, est approuvé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le Ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
