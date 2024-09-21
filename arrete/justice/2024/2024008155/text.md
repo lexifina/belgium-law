@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 2 de l'arrêté ministériel du 29 mai 1998 relatif à l'indemnité prévue à l'article 379quater du Code judiciaire, modifié par les arrêtés ministériels du 4 décembre 2001 et du 4 mars 2021, est complété par un alinéa rédigé comme suit :
+" L'indemnité allouée sur la base de l'article 379quater du Code judiciaire aux membres des parquets près les cours d'appel et près les tribunaux admis à la retraite, qui sont délégués pour exercer les fonctions du ministère public près la cour d'assises conformément à l'article 149 du Code judiciaire, est fixée à 57,02 EUR par heure d'audience. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. L'indemnité déterminée conformément à l'article 1er s'applique aux prestations effectuées à partir de l'entrée en vigueur du présent arrêté.
