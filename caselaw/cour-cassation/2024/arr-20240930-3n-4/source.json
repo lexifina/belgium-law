@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20240930.3N.4",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20240930.3N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-09-30",
+  "date_as_printed": "Vonnis/arrest van 30 september 2024",
+  "published_on_juportal": "2024-10-18",
+  "language": "nl",
+  "role_number": "C.23.0462.N",
+  "case_name_as_published": "Wasilczenko Piotr contra D.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "REQUETE CIVILE",
+    "HERROEPING VAN HET GEWIJSDE"
+  ],
+  "fiche": [
+    "HERROEPING VAN HET GEWIJSDE",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 1133, 1° - 01 ELI link Pub nr 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20240930.3N.4",
+  "source_sha256": "effc180f5d54918446ee4c14a1963f6b8f5c55d79dc8942738760920a29ca947",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20240930.3N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/06/sitemap_30.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
