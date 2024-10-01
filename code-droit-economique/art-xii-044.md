@@ -1,0 +1,2 @@
+Les organisations altruistes de données respectent en permanence les conditions de leur enregistrement visées à l'article XII.43.
+Conformément à l'article 19, paragraphe 7, du règlement 2022/868, toute modification des informations fournies en vertu de l'article XII.43 est communiquée par écrit ou par voie électronique à l'organe d'inscription dans un délai de quatorze jours à compter de la modification.

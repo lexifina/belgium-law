@@ -1,0 +1,1 @@
+Le présent titre met en oeuvre le règlement 2022/868 relatif au cadre juridique pour les prestataires de services d'intermédiation de données et les organisations altruistes de données établis ou ayant leur représentant légal en Belgique.
