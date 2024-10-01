@@ -1,0 +1,48 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Disposition générale
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Modifications de la loi du 4 avril 2014 relative aux assurances
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 84 de la loi du 4 avril 2014 relative aux assurances, les modifications suivantes sont apportées:
+1° dans le paragraphe 1er, alinéa 1er, les modifications suivantes sont apportées:
+a) les mots "par lettre recommandée" sont remplacés par les mots "par envoi recommandé";
+b) l'alinéa est complété par la phrase suivante:
+"Si l'envoi recommandé est envoyé par voie électronique, il doit s'agir d'un service d'envoi recommandé électronique qualifié au sens de l'article 3.37 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.";
+2° dans le paragraphe 2, alinéa 1er, les modifications suivantes sont apportées:
+a) les mots ", 85/1, § 2," sont insérés entre les mots "aux articles 57, §§ 3, 4 et 5, 71" et les mots "et 86, § 1er";
+b) les mots "ou, dans le cas d'une lettre recommandée" sont remplacés par les mots "ou, dans le cas d'un envoi recommandé";
+3° l'article est complété par un paragraphe 3, rédigé comme suit:
+" § 3. Sans préjudice du paragraphe 1er, et dans la mesure prévue par l'assureur, le contrat peut être résilié par le preneur d'assurance via un environnement numérique mis à disposition par l'assureur ou l'intermédiaire d'assurance, le preneur d'assurance signant électroniquement la résiliation avec une signature électronique qualifiée ou un cachet électronique qualifié visés respectivement aux articles 3.12 et 3.27 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, par lesquels le signataire s'identifie et manifeste sa volonté.
+L'assureur remet sans délai au preneur d'assurance, sur un support durable, un accusé de réception de la résiliation mentionnant le numéro du contrat.
+Sans préjudice du paragraphe 2, la résiliation n'a d'effet qu'à l'expiration d'un délai d'un mois à compter du jour suivant la date de la signature électronique."
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 85, § 1er, alinéa 1er, de la même loi, les mots "Sauf si l'une des parties s'y oppose, dans les formes prescrites à l'article 84, au moins trois mois avant l'arrivée du terme du contrat" sont remplacés par les mots "Sauf si le preneur d'assurance s'y oppose, dans les formes prescrites à l'article 84, §§ 1er ou 3, au moins deux mois avant l'arrivée du terme du contrat, ou sauf si l'assureur s'y oppose, dans les formes prescrites à l'article 84, § 1er, au moins trois mois avant l'arrivée du terme du contrat".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#LNK0003"> 4</a>. Dans la même loi, il est inséré un article 85/1 rédigé comme suit:
+"Résiliation dans le cas de certains contrats tacitement reconductibles
+Art. 85/1. § 1er. Le présent article s'applique aux contrats d'assurance tacitement reconductibles:
+- qui relèvent des branches du groupe d'activité "non-vie";
+- et qui couvrent les consommateurs au sens de l'article I.1, 2°, du Code de droit économique.
+Le Roi peut déterminer certaines branches du groupe d'activité "non-vie" auxquelles le présent article ne s'applique pas.
+§ 2. Par dérogation à l'article 85, le preneur d'assurance peut, à l'expiration d'un délai d'un an à compter de la prise de cours du contrat d'assurance, résilier sans frais ni pénalités les contrats tacitement reconductibles visés au paragraphe 1er.
+La résiliation prend effet à l'expiration d'un délai de deux mois à compter du lendemain de la signification ou du lendemain de la date du récépissé ou, dans le cas d'un envoi recommandé, à compter du lendemain de son dépôt, ou dans le cas d'une résiliation via un environnement numérique mis à disposition par l'assureur, à compter du jour suivant la date de la signature électronique.
+Le droit de résiliation prévu à l'alinéa 1er est rappelé en termes clairs et compréhensibles avec chaque avis d'échéance de prime.
+Lorsque le contrat est résilié dans les conditions prévues à l'alinéa 1er, le preneur d'assurance bénéficie du crédit de prime, conformément à l'article 73.
+§ 3. Le preneur d'assurance qui souhaite procéder à la résiliation d'un contrat conformément au paragraphe 2, en vue de contracter avec un nouvel assureur, peut demander à ce nouvel assureur, ou le cas échéant à un intermédiaire d'assurances, d'effectuer pour son compte les formalités nécessaires à l'exercice du droit de résiliation. Dans ce cas, le nouvel assureur ou, le cas échéant, l'intermédiaire d'assurances, s'assure de l'entrée en vigueur du nouveau contrat au plus tard à l'expiration du délai de résiliation.
+La demande du preneur d'assurance, visée à l'alinéa 1er, ne peut pas être refusée.
+En cas de polices combinées, nonobstant l'article 66, l'ancien contrat peut être résilié dans son ensemble.
+Le même droit s'applique lorsque le preneur d'assurance s'oppose à la reconduction tacite d'un contrat, conformément à l'article 85, en vue de contracter avec un nouvel assureur.
+§ 4. Le Roi précise, par arrêté délibéré en Conseil des ministres, les modalités et conditions d'application du présent article."
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Evaluation
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0004"> 5</a>. La Commission des Assurances, visée dans la partie 7, titre IV, de la loi du 4 avril 2014 relative aux assurances, est chargée d'évaluer l'application de la présente loi.
+Elle évalue, en particulier:
+1° la possibilité d'abaisser à un mois, pour le preneur d'assurance, le délai pour s'opposer à la reconduction tacite visé à l'article 85, § 1er, alinéa 1er, de la même loi; et
+2° la possibilité d'abaisser à un mois, pour le preneur d'assurance, le délai de prise d'effet de la résiliation visé à l'article 85/1, § 2, alinéa 2, de la même loi.
+Elle remet à cet effet, deux ans après l'entrée en vigueur de la présente loi, un rapport au Roi et à la Chambre des représentants.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Entrée en vigueur
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. La présente loi entre en vigueur le premier jour du douzième mois qui suit sa publication au Moniteur belge et s'applique aux contrats conclus ou tacitement reconduits à partir de cette date.
