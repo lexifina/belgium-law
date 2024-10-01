@@ -1,0 +1,14 @@
+§ 1er. Conformément aux articles 10 et 11 du règlement 2022/868, tout prestataire de services d'intermédiation de données peut uniquement exercer son activité d'intermédiation de données pour autant qu'il ait procédé à la notification préalable de son activité auprès de l'organe d'inscription.
+§ 2. La notification d'un prestataire de services d'intermédiation de données ne peut être validée que si celui-ci répond aux conditions fixées aux articles 11, 12 et 31 du règlement 2022/868.
+§ 3. En complément des articles 11, 12 et 31 du règlement 2022/868, une personne morale ne peut être enregistrée que si elle répond aux conditions suivantes:
+1° être inscrite à la Banque-Carrefour des Entreprises;
+2° avoir un organe légal d'administration constitué uniquement de personnes répondant aux conditions suivantes:
+a) ne pas être privée de ses droits civils et politiques;
+b) ne pas avoir été déclarée en faillite sans avoir obtenu la réhabilitation;
+3° une direction effective assurée uniquement par des personnes répondant aux conditions prévues au 2°, a) et b);
+4° avoir des bénéficiaires effectifs tels que visés à l'article 4, 27°, alinéa 2, a) et c), de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces répondant tous aux conditions prévues au 2°, a) et b);
+5° avoir des gérants et administrateurs disposant du droit d'exercer légalement une activité professionnelle en Belgique.
+§ 4. Conformément à l'article 11, paragraphe 8, du règlement 2022/868, l'organe d'inscription délivre, à la demande du prestataire de services d'intermédiation de données et dans un délai d'une semaine à partir du moment où la notification est dûment et entièrement complétée, une déclaration standardisée confirmant que le prestataire de services d'intermédiation de données a soumis la notification.
+§ 5. Conformément à l'article 11, paragraphe 9, du règlement 2022/868, l'organe d'inscription confirme au prestataire de service d'intermédiation de données, à sa demande, le respect des conditions visées dans le présent article.
+§ 6. Tout prestataire de services d'intermédiation de données peut utiliser le label "prestataire de services d'intermédiation de données reconnu dans l'Union" dans ses communications écrites et orales, ainsi que le logo de l'Union européenne, définis conformément à l'article 11, paragraphe 9, du règlement 2022/868 pour autant qu'il a reçu la confirmation visée au paragraphe 5.
+§ 7. En complément de l'article 11 du règlement 2022/868, le Roi détermine la procédure et les modalités de notification préalable, en ce compris les modalités de preuve visant à permettre à une personne d'établir qu'elle répond aux conditions de notification. Il peut déterminer que la demande soit introduite uniquement par voie électronique.

@@ -1,0 +1,3 @@
+Le prestataire de services d'intermédiation de données respecte les conditions visées à l'article XII.40 durant toute la durée de ses activités.
+Conformément à l'article 11, paragraphe 12, du règlement 2022/868, toute modification des informations fournies en vertu de l'article XII.40 est communiquée par écrit ou par voie électronique à l'organe d'inscription dans un délai de quatorze jours à compter de la modification.
+Conformément à l'article 11, paragraphe 13, du règlement 2022/868, toute cessation d'activité est communiquée par écrit ou par voie électronique à l'organe d'inscription dans un délai de quinze jours à compter de la cessation.
