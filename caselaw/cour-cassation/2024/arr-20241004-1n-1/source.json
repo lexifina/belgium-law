@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20241004.1N.1",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241004.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-10-04",
+  "date_as_printed": "Vonnis/arrest van 04 oktober 2024",
+  "published_on_juportal": "2024-10-18",
+  "language": "nl",
+  "role_number": "C.23.0411.N",
+  "case_name_as_published": "MATEXI nv afk. van MAATSCHAPPIJ TOT EX contra B.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PRIVILEGES ET HYPOTHEQUES - DIVERS",
+    "VOORRECHTEN EN HYPOTHEKEN - ALLERLEI",
+    "PROPRIETE",
+    "EIGENDOM"
+  ],
+  "fiche": [
+    "VOORRECHTEN EN HYPOTHEKEN - ALLERLEI",
+    "Burgerlijk Wetboek - Boek III - Titel XVIII: Voorrechten en hypotheken. - Hypotheekwet - 16-12-1851 - Art. 1, eerste lid - 01 ELI link Pub nr 1851121650",
+    "VOORRECHTEN EN HYPOTHEKEN - ALLERLEI",
+    "Burgerlijk Wetboek - Boek III - Titel XVIII: Voorrechten en hypotheken. - Hypotheekwet - 16-12-1851 - Art. 1, eerste lid - 01 ELI link Pub nr 1851121650",
+    "EIGENDOM",
+    "Burgerlijk Wetboek - Boek III - Titel XVIII: Voorrechten en hypotheken. - Hypotheekwet - 16-12-1851 - Art. 1, eerste lid - 01 ELI link Pub nr 1851121650"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241004.1N.1",
+  "source_sha256": "fe189d03e27b0266d8a00be48112797100fbc38104b2c63e600310a3c8cdc5a4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241004.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_124.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
