@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2024:JUG.20241004.1",
+  "ecli": "ECLI:BE:CALIE:2024:JUG.20241004.1",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2024-10-04",
+  "date_as_printed": "Jugement/arrêt du 04 octobre 2024",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2022/RG/802",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX - Principes généraux du droit fiscal",
+    "Impôt sur les revenus – impôt des personnes physiques – profits – travail au noir – condamnation de droit pénal social – application de l'article 65 du Code pénal – non – violation du principe non bis in idem – non"
+  ],
+  "fiche": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX - Principes généraux du droit fiscal",
+    "Impôt sur les revenus – impôt des personnes physiques – profits – travail au noir – condamnation de droit pénal social – application de l'article 65 du Code pénal – non – violation du principe non bis in idem – non"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2024:JUG.20241004.1",
+  "source_sha256": "53a5436447c86d6fd31b62ba7de1f75a21f2182048dfc35babfba45f75b861b4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2024:JUG.20241004.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
