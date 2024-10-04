@@ -1,0 +1,30 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2024:CONC.20241004.1N.2",
+  "ecli": "ECLI:BE:CASS:2024:CONC.20241004.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-10-04",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 04 oktober 2024",
+  "published_on_juportal": "2024-11-27",
+  "language": "nl",
+  "role_number": "C.23.0272.N",
+  "case_name_as_published": "MARKT 1 bv contra HISTORIUM nv",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE DE CHOSES - BAIL COMMERCIAL - Fin (Congé. Renouvellement. Etc)",
+    "HUUR VAN GOEDEREN - HANDELSHUUR - Einde (Opzegging. Huurhernieuwing. Enz)"
+  ],
+  "fiche": [
+    "HUUR VAN GOEDEREN - HANDELSHUUR - Einde (Opzegging. Huurhernieuwing. Enz)",
+    "Wet van 30 april 1951 BURGERLIJK WETBOEK. - BOEK III - TITEL VIII - HOOFDSTUK II, Afdeling 2bis : Regels betreffende de handelshuur in het bijzonder - 30-04-1951 - Art. 18 - 30 ELI link Pub nr 1951043003 Wet van 30 april 1951 BURGERLIJK WETBOEK. - BOEK III - TITEL VIII - HOOFDSTUK II, Afdeling 2bis : Regels betreffende de handelshuur in het bijzonder - 30-04-1951 - Art. 19 - 30 ELI link Pub nr 1951043003"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:CONC.20241004.1N.2",
+  "source_sha256": "fa54f5b7e1c3ef02ecec50ed2f8f9640f94951ae98852b1dd7328d17188a95e7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:CONC.20241004.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_130.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
