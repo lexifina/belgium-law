@@ -1,0 +1,45 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241010.1F.3",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241010.1F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-10-10",
+  "date_as_printed": "Jugement/arrêt du 10 octobre 2024",
+  "published_on_juportal": "2024-10-24",
+  "language": "fr",
+  "role_number": "C.24.0046.F",
+  "case_name_as_published": "A. contra PROCUREUR GENERAL COUR D’APPEL DE LIEGE",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "APPEL - MATIERE CIVILE (Y COMPRIS LES MATIERES COMMERCIALE ET SOCIALE) - Généralités",
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Algemeen",
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE"
+  ],
+  "fiche": [
+    "MINISTERE PUBLIC",
+    "Code Judiciaire - 10-10-1967 - Art. 138bis, § 1er - 01 Lien ELI No pub 1967101052",
+    "ACTION CIVILE",
+    "Code Judiciaire - 10-10-1967 - Art. 138bis, § 1er - 01 Lien ELI No pub 1967101052",
+    "APPEL - MATIERE CIVILE (Y COMPRIS LES MATIERES COMMERCIALE ET SOCIALE) - Généralités",
+    "Code Judiciaire - 10-10-1967 - Art. 138bis, § 1er - 01 Lien ELI No pub 1967101052",
+    "ORDRE PUBLIC",
+    "Code Judiciaire - 10-10-1967 - Art. 138bis, § 1er - 01 Lien ELI No pub 1967101052",
+    "JLMB-Revue de jurisprudence de Liège, Mons et Bruxelles - 2025, n° 1, p. 19-24. - MINY, Xavier; Note'Reconnaissance du statut d'apatride, ministère public et ordre public: la Cour de cassation remet (à nouveau) les points sur les i'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241010.1F.3",
+  "source_sha256": "d27583527febf9dc7279a2c3f1cec5d0bacb4e0b8717a11e23d3a8265be4d543",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241010.1F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_125.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
