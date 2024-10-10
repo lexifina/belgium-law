@@ -1,0 +1,31 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2024:ARR.20241010.1F.5",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241010.1F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-10-10",
+  "date_as_printed": "Jugement/arrêt du 10 octobre 2024",
+  "published_on_juportal": "2024-10-24",
+  "language": "fr",
+  "role_number": "C.23.0420.F",
+  "case_name_as_published": "ALLIANCE FRANCAISE DE BRUXELLES-EUROPE c. COFINIMMO s",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE DE CHOSES - BAIL A LOYER - Obligations entre parties",
+    "HUUR VAN GOEDEREN - HUISHUUR - Verplichtingen van partijen"
+  ],
+  "fiche": [
+    "LOUAGE DE CHOSES - BAIL A LOYER - Obligations entre parties",
+    "ancien Code Civil - 21-03-1804 - Art. 1719 - 30 Lien ELI No pub 1804032150",
+    "JT-Journal des tribunaux - 2025, n° 7019, p. 225-232. - HIGNY, Mathieu; Note'L'article 1719 de l'ancien Code civil et la théorie des risques en matière de bail durant la période de pandémie: les enseignements de la Cour de cassation'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241010.1F.5",
+  "source_sha256": "4777cd9de7f552d7c4a1a47c4aea9a6ee032ad0dddaf8c02ce432461d5e41062",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241010.1F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
