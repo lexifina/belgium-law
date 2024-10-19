@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. La proposition concernant la fixation du montant de la cotisation annuelle des membres de l'Institut des mandataires en brevets à 250 euros pour l'année 2025 est approuvée.
