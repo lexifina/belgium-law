@@ -1,0 +1,20 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté transpose la directive (UE) 2023/175 de la Commission du 26 janvier 2023 modifiant la directive 2009/32/CE du Parlement européen et du Conseil en ce qui concerne le 2-méthyloxolane.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'annexe de l'arrêté royal du 25 novembre 1991 concernant les solvants d'extraction utilisés dans la fabrication des denrées alimentaires, modifiée par les arrêtés royaux des 31 mars 1993, 29 novembre 1995, 10 août 1998, 20 mai 2011 et 5 février 2019, les modifications suivantes sont apportées :
+1° dans la partie II la ligne suivante est ajoutée :
+
+<table border="1"><tr><td valign="top">"2-methyloxolaan </td><td valign="top">Productie of fractionering van vetten en oliën en productie van cacaoboter </td><td valign="top">1 mg/kg vet, olie of cacaoboter </td><td valign="top">" 2-méthyloxolane </td><td valign="top">Production ou fractionnement de graisses et d'huiles et production de beurre de cacao </td><td valign="top">1 mg/kg dans la graisse ou l'huile ou le beurre de cacao </td></tr><tr><td valign="top"> </td><td valign="top">Bereiding van producten op basis van ontvette eiwitten en ontvet meel </td><td valign="top">10 mg/kg levensmiddel dat het product op basis van ontvet eiwit en ontvet meel bevat </td><td valign="top"> </td><td valign="top">Préparation de produits à base de protéines dégraissées et de farines dégraissées </td><td valign="top">10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées <br>   </td></tr><tr><td valign="top"> </td><td valign="top"> </td><td valign="top">30 mg/kg ontvet sojaproduct zoals dit aan de eindverbruiker wordt verkocht </td><td valign="top"> </td><td valign="top"> </td><td valign="top">30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final <br>   </td></tr><tr><td valign="top"> </td><td valign="top">Bereiding van ontvette graankiemen </td><td valign="top">5 mg/kg ontvette graankiemen" </td><td valign="top"> </td><td valign="top">Préparation de germes de céréales dégraissées</td><td valign="top">5 mg/kg dans les germes de céréales dégraissées " </td></tr></table>
+
+2° dans la partie III la ligne suivante est ajoutée :
+
+<table border="1"><tr><td valign="top">"2-Methyloxolaan </td><td valign="top">1 mg/kg" </td><td valign="top">" 2-méthyloxolane </td><td valign="top">1 mg/kg "</td></tr></table>
+
+3° une partie IV est ajoutée, rédigée comme suit :
+" PARTIE IV
+Specifieke zuiverheidseisen voor de in bijlage vermelde extractiemiddelen
+
+<table border="1"><tr><td valign="top" colspan="2">2-methyloxolaan </td><td valign="top" colspan="2">2-méthyloxolane </td></tr><tr><td valign="top">CAS-nummer </td><td valign="top">96-47-9 </td><td valign="top">Numéro CAS </td><td valign="top">96-47-9 </td></tr><tr><td valign="top">Gehalte </td><td valign="top">Minimaal 99,9 %, berekend op droge basis </td><td valign="top">Dosage </td><td valign="top">Pas moins de 99,9 % exprimé sur base sèche </td></tr><tr><td valign="top" colspan="2">Zuiverheid </td><td valign="top" colspan="2">Pureté </td></tr><tr><td valign="top">Furan </td><td valign="top">Maximaal 50 mg/kg (berekend op droge basis) </td><td valign="top">Furanne </td><td valign="top">Pas plus de 50 mg/kg (exprimé sur base sèche) </td></tr><tr><td valign="top">2-Methylfuran </td><td valign="top">Maximaal 500 mg/kg (berekend op droge basis) </td><td valign="top">2-méthylfuranne </td><td valign="top">Pas plus de 500 mg/kg (exprimé sur base sèche) </td></tr><tr><td valign="top">Ethanol </td><td valign="top">Maximaal 450 mg/kg (berekend op droge basis)" </td><td valign="top">Ethanol </td><td valign="top">Pas plus de 450 mg/kg (exprimé sur base sèche) "</td></tr></table>
+
+Critères de pureté spécifiques pour les solvants d'extraction énumérés à l'annexe
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a la Sécurité de la Chaîne Alimentaire dans ses attributions et le ministre qui a la Santé publique dans ses attributions, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
