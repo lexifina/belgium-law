@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'annexe du règlement du 16 juin 2014 fixant les formulaires relatifs aux procédures de demande en matière d'intervention de l'assurance obligatoire soins de santé et indemnités dans le coût des implants et des dispositifs médicaux invasifs concernant la procédure de demande pour les prestations relatives aux neurostimulateurs et accessoires pour stimulation cérébrale profonde en cas d'épilepsie réfractaire, les formulaires B-Form-I-04, B-Form-I-05, B-Form-I-06, B-Form-I-07, B-Form-I-08 et B-Form-II-02, auxquels il est fait référence au chapitre " B. Neurochirurgie " de la liste, sont supprimés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent règlement produit ses effets le 1er novembre 2024.
