@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20241112.2N.10",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241112.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-11-12",
+  "date_as_printed": "Vonnis/arrest van 12 november 2024",
+  "published_on_juportal": "2024-11-18",
+  "language": "nl",
+  "role_number": "P.24.0880.N",
+  "case_name_as_published": "K. contra M.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "COUR D'ASSISES - GENERALITES",
+    "HOF VAN ASSISEN - ALGEMEEN"
+  ],
+  "fiche": [
+    "HOF VAN ASSISEN - ALGEMEEN",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 261 - 30 ELI link Pub nr 1808111701",
+    "HOF VAN ASSISEN - ALGEMEEN",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 261 - 30 ELI link Pub nr 1808111701",
+    "NJW-Nieuw juridisch weekblad - 2025, nr. 516, p. 125-126. - YPERMAN, Ward; Noot'Verbetering van fouten in akte van beschuldiging door openbaar ministerie'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241112.2N.10",
+  "source_sha256": "7ba6fa5ec494b372c0a690d484bc8d42de1b1f0a200554d3e855a15d3794d559",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241112.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/30/sitemap_29.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
