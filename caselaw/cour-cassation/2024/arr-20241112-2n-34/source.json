@@ -1,0 +1,53 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20241112.2N.34",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241112.2N.34",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-11-12",
+  "date_as_printed": "Vonnis/arrest van 12 november 2024",
+  "published_on_juportal": "2024-11-18",
+  "language": "nl",
+  "role_number": "P.24.1486.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 5 - Article 5, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 5 - Artikel 5.1",
+    "MALADE MENTAL",
+    "GEESTESZIEKE",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.1.c en e - 30 Link Justel databank 19501104-30 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.4 - 30 Link Justel databank 19501104-30",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 5 - Artikel 5.1",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.1.c en e - 30 Link Justel databank 19501104-30 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.4 - 30 Link Justel databank 19501104-30",
+    "GEESTESZIEKE",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.1.c en e - 30 Link Justel databank 19501104-30 Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 5.4 - 30 Link Justel databank 19501104-30",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 71 - 01 ELI link Pub nr 1867060850 Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 9, § 1, eerste lid, 3° - 11 ELI link Pub nr 2014009316",
+    "ONDERZOEKSGERECHTEN",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 71 - 01 ELI link Pub nr 1867060850 Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 9, § 1, eerste lid, 3° - 11 ELI link Pub nr 2014009316",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 9, § 1, eerste lid, 3° - 11 ELI link Pub nr 2014009316",
+    "GEESTESZIEKE",
+    "Wet 5 mei 2014 betreffende de internering - 05-05-2014 - Art. 9, § 1, eerste lid, 3° - 11 ELI link Pub nr 2014009316",
+    "NJW-Nieuw juridisch weekblad - 2025, nr. 514, p. 27-29. - YPERMAN, Ward; Noot'Internering en voorlopige hechtenis'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241112.2N.34",
+  "source_sha256": "7bc853c2233ceb1469892651985d115ccbf2c973acda5d5c3d2265235bfcec1e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241112.2N.34_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
