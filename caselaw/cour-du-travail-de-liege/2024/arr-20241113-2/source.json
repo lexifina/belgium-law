@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2024:ARR.20241113.2",
+  "ecli": "ECLI:BE:CTLIE:2024:ARR.20241113.2",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2024-11-13",
+  "date_as_printed": "Jugement/arrêt du 13 novembre 2024",
+  "published_on_juportal": "2026-04-03",
+  "language": "fr",
+  "role_number": "2024/AL/26",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "DROIT PUBLIC ET ADMINISTRATIF - ÉTRANGERS - Autres (étrangers)",
+    "SÉCURITÉ SOCIALE – aide sociale – aide matérielle – code 207 « Fedasil no-show » - absence de désignation d'un centre d'accueil – conséquences – responsabilité de FEDASIL et de l'ETAT BELGE"
+  ],
+  "fiche": [
+    "DROIT PUBLIC ET ADMINISTRATIF - ÉTRANGERS - Autres (étrangers)",
+    "SÉCURITÉ SOCIALE – aide sociale – aide matérielle – code 207 « Fedasil no-show » - absence de désignation d'un centre d'accueil – conséquences – responsabilité de FEDASIL et de l'ETAT BELGE",
+    "ancien Code Civil - 21-03-1804 - 1382 - 30 Lien ELI No pub 1804032150 Loi - 12-01-2007 - 52 Lien ELI No pub 2007002066"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2024:ARR.20241113.2",
+  "source_sha256": "cedef580b0a9cc6b06ae9672919ec017c3bb33d59e7d77df117343d1b10c5368",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2024:ARR.20241113.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
