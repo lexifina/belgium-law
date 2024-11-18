@@ -1,0 +1,31 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2024:CONC.20241118.3N.7",
+  "ecli": "ECLI:BE:CASS:2024:CONC.20241118.3N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-11-18",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 18 november 2024",
+  "published_on_juportal": "2025-01-20",
+  "language": "nl",
+  "role_number": "S.21.0062.N",
+  "case_name_as_published": "AXA BANK BELGIUM nv contra K.",
+  "subjects": [
+    "Droit du travail",
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "CONVENTION COLLECTIVE DE TRAVAIL",
+    "COLLECTIEVE ARBEIDSOVEREENKOMST"
+  ],
+  "fiche": [
+    "COLLECTIEVE ARBEIDSOVEREENKOMST",
+    "Wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités - 05-12-1968 - Art. 23 - 01 ELI link Pub nr 1968120503",
+    "NJW-Nieuw juridisch weekblad - 2025, nr. 517, p. 167-169. - PECINOVSKSY, Pieter; Noot'Geen eeuwige doorwerking van tijdelijke CAO-bepalingen in de individuele arbeidsovereenkomst in strijd met de tekst van de CAO'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:CONC.20241118.3N.7",
+  "source_sha256": "c16ccaf97a13f9d2affbb0df908509189c20498c4d39eb971255a097d22256fd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:CONC.20241118.3N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
