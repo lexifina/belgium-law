@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20241119.2N.10",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241119.2N.10",
+  "court": "Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-11-19",
+  "date_as_printed": "Vonnis/arrest van 19 november 2024",
+  "published_on_juportal": "2024-11-26",
+  "language": "nl",
+  "role_number": "P.22.0196.N",
+  "case_name_as_published": "Y. contra M.",
+  "subjects": [
+    "Overige"
+  ],
+  "summary_keywords": [
+    "HERZIENING - ADVIES EN VERWIJZING TOT HERZIENING",
+    "CASSATIE - VERNIETIGING. OMVANG - Strafzaken - Strafvordering - Beklaagde en verdachte"
+  ],
+  "fiche": [
+    "HERZIENING - ADVIES EN VERWIJZING TOT HERZIENING",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 443 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 444 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 445 - 30 ELI link Pub nr 1808111701",
+    "CASSATIE - VERNIETIGING. OMVANG - Strafzaken - Strafvordering - Beklaagde en verdachte",
+    "Wetboek van Strafvordering - 17-11-1808 - Art. 443 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 444 - 30 ELI link Pub nr 1808111701 Wetboek van Strafvordering - 17-11-1808 - Art. 445 - 30 ELI link Pub nr 1808111701",
+    "NJW-Nieuw juridisch weekblad - 2025, nr. 518, p. 221-224. - YPERMAN, Ward; Noot'Heropening van een zaak in het kader van een herzieningsprocedure'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241119.2N.10",
+  "source_sha256": "30f4aad1e2193423b51da22cedf7d58aba18c0ca88112d6f34cea963d43854f5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241119.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
