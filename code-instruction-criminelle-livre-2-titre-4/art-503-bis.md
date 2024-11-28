@@ -1,2 +1,1 @@
-Les coauteurs et les complices de l'infraction visée à la présente section, pour laquelle un fonctionnaire de la qualité exprimée à l'article 483 ou un tribunal visé à l'article 485, est poursuivi, et les auteurs des infractions connexes sont poursuivis et jugés en même temps que le fonctionnaire ou le tribunal.
-L'alinéa 1er ne s'applique toutefois pas aux auteurs de crimes et de délits politiques et délits de presse qui sont connexes avec l'infraction pour laquelle le fonctionnaire ou le tribunal est poursuivi.
+(Abrogé)

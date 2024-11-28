@@ -1,2 +1,1 @@
-Les coauteurs et les complices de l'infraction pour laquelle un fonctionnaire de la qualité exprimée à l'article 479 est poursuivi, et les auteurs des infractions connexes sont poursuivis et jugés en même temps que le fonctionnaire.
-L'alinéa 1er ne s'applique toutefois pas aux auteurs de crimes et de délits politiques et délits de presse qui sont connexes avec l'infraction pour laquelle le fonctionnaire est poursuivi.
+(Abrogé)
