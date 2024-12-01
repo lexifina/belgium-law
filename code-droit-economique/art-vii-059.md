@@ -1,5 +1,5 @@
 § 1er. L'établissement de crédit refuse la demande si la demande du service bancaire de base entraîne une violation de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces.
-L'établissement de crédit peut refuser la demande si le consommateur a, en Belgique un autre compte de paiement avec lequel il peut utiliser les services de paiement mentionnés à l'article VII.57, § 1er, ou un compte dont le solde créditeur cumulé moyen annuel dépasse 6 000 euros.
+L'établissement de crédit peut refuser la demande si le consommateur a, en Belgique un autre compte de paiement avec lequel il peut utiliser les services de paiement mentionnés à l'article VII.57, § 1er, ou un compte dont le solde créditeur cumulé moyen annuel dépasse 10.000 euros.
 Lorsque le consommateur déclare avoir été averti qu'un compte de paiement allait être clos, il n'en n'est plus tenu compte.
 Pour la détermination du montant visé à l'alinéa 2, les garanties visées par l'article 10, livre III, titre VIII, chapitre II, section 2 du Code civil ne sont pas prises en considération.
 Le Roi peut modifier le montant visé à l'alinéa 2.
@@ -10,9 +10,10 @@ Dans les cas où l'institution de crédit refuse, elle en informe le consommateu
 2° dans le cadre du service bancaire de base, il n'y a eu aucune opération de paiement sur le compte de paiement concerné pendant plus de vingt-quatre mois consécutifs;
 3° le consommateur a fourni des informations inexactes pour obtenir un service bancaire de base, alors que des informations exactes auraient conduit à l'absence d'un tel droit au service bancaire de base;
 4° le consommateur ne répond plus aux conditions de résidence visées à l'article VII.57, § 2, alinéa 1er;
-5° le consommateur a en Belgique, un autre compte de paiement avec lequel il peut utiliser les services bancaires mentionnés à l'article VII.57, § 1er, ou un compte dont le solde créditeur cumulé moyen annuel dépasse 6.000 euros.
+5° le consommateur a en Belgique, un autre compte de paiement avec lequel il peut utiliser les services bancaires mentionnés à l'article VII.57, § 1er, ou un compte dont le solde créditeur cumulé moyen annuel dépasse 10.000 euros.
 Lorsque le consommateur déclare avoir été averti qu'un compte de paiement allait être clos, il n'en n'est plus tenu compte.
 Pour la détermination du montant visé à l'alinéa 1er, les garanties visées à l'article 10 du Code civil, livre III, titre VIII, chapitre II, section 2, ne sont pas prises en considération.
 Le Roi peut modifier le montant visé à l'alinéa 1er.
+Chaque année, le montant visé à l'alinéa 1er, est adapté à l'indice des prix à la consommation du mois de novembre de chaque année.
 Si l'établissement de crédit résilie le contrat-cadre, il respecte un préavis d'au moins deux mois, sauf dans le cas d'une résiliation conformément aux 1° ou 3°, auquel cas la résiliation prend effet immédiatement.
 § 3. La décision d'admissibilité d'une requête en règlement collectif de dettes ou le fait que le consommateur a conclu un contrat de crédit, ne peut constituer un motif pour refuser un compte de paiement ou le résilier.
