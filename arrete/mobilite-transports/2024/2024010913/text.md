@@ -1,0 +1,9 @@
+<a name="Art.1er"></a>Article 1er. L'annexe à l'arrêté ministériel du 23 novembre 2021 réglant les indemnités des membres du personnel du Service public fédéral Mobilité et Transports, qui accomplissent une mission auprès de certaines institutions internationales est remplacée par l'annexe jointe au présent arrêté.
+
+Annexe à l'arrêté ministériel du 23 novembre 2021 réglant les indemnités des membres du personnel du Service public fédéral Mobilité et Transports, qui accomplissent une mission auprès de certaines institutions internationales
+
+<table border="1"><tr><td valign="top">Benaming van de internationale instelling </td><td valign="top">1° Functie<br>  2° Categorie van de diplomatieke medewerker van de Federale overheidsdienst Buitenlandse Zaken waarmee de functie vermeld onder 1° wordt gelijkgesteld </td></tr><tr><td valign="top">Dénomination de l'institution internationale </td><td valign="top">1° Fonction 2° Catégorie du collaborateur diplomatique du Service public fédéral Affaires étrangères pour laquelle la fonction mentionnée sous 1° est équivalente </td></tr><tr><td valign="top">International Civil Aviation Organization </td><td valign="top">1° Air Navigation Commissioner<br>  2° diplomatiek medewerker DM4 collaborateur diplomatique CD4 </td></tr><tr><td valign="top">International Civil Aviation Organization </td><td valign="top">1° Council Member<br>  2° diplomatiek medewerker DM4 collaborateur diplomatique CD4 </td></tr><tr><td valign="top">International Maritime Organization </td><td valign="top">1° Verbindingsofficier Londen - Officier de liaison Londres<br>  2° consulair medewerker CM23 collaborateur consulaire CM23</td></tr></table>
+
+Vu pour être annexé à l'arrêté ministériel du 23 novembre 2021 réglant les indemnités des membres du personnel du Service public fédéral Mobilité et Transports, qui accomplissent une mission auprès de certaines institutions internationales.
+Le Ministre de la Mobilité,
+G. GILKINET
