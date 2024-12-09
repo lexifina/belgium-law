@@ -1,0 +1,41 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2024:CONC.20241209.3F.5",
+  "ecli": "ECLI:BE:CASS:2024:CONC.20241209.3F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-12-09",
+  "date_as_printed": "Conclusions du Ministère public du 09 décembre 2024",
+  "published_on_juportal": "2025-02-28",
+  "language": "fr",
+  "role_number": "S.19.0062.F",
+  "case_name_as_published": "ENODIA s.c. contra G.",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Droit du travail",
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 23",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 23",
+    "REMUNERATION - PROTECTION",
+    "LOON - BESCHERMING",
+    "POUVOIRS - SEPARATION DES POUVOIRS",
+    "MACHTEN - SCHEIDING DER MACHTEN"
+  ],
+  "fiche": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 23",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 23 - 30 Lien ELI No pub 1994021048",
+    "REMUNERATION - PROTECTION",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 23 - 30 Lien ELI No pub 1994021048",
+    "POUVOIRS - SEPARATION DES POUVOIRS",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 23 - 30 Lien ELI No pub 1994021048",
+    "BJS-Bulletin juridique social - 2025, n° 729, p. 2. - LAMBINET, France; Note'Principe de standstill: une question de méthode'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:CONC.20241209.3F.5",
+  "source_sha256": "08276cdc3934c31d442c2abed7449e6084a26d0203756dbe0799f0fdb161089a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:CONC.20241209.3F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_166.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
