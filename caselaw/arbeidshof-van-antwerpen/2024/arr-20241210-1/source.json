@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2024:ARR.20241210.1",
+  "ecli": "ECLI:BE:AHANT:2024:ARR.20241210.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2024-12-10",
+  "date_as_printed": "Vonnis/arrest van 10 december 2024",
+  "published_on_juportal": "2025-12-30",
+  "language": "nl",
+  "role_number": "2023/AA/254",
+  "case_name_as_published": "EXXONMOBIL PETROLEUM &amp; CHEMICAL BV tegen ABC",
+  "subjects": [
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "ARBEIDSOVEREENKOMST - EINDE - Opzegging",
+    "SOCIAAL RECHT - ARBEID - Arbeidsovereenkomst - Einde (arbeidsovereenkomst) - Opzegging",
+    "elektronische aangetekende zending"
+  ],
+  "fiche": [
+    "ARBEIDSOVEREENKOMST - EINDE - Opzegging",
+    "SOCIAAL RECHT - ARBEID - Arbeidsovereenkomst - Einde (arbeidsovereenkomst) - Opzegging",
+    "elektronische aangetekende zending",
+    "Wetboek van economisch recht - 28-02-2013 - XII.25 §7 Verordening EG/EU - 2024/1183 - 11-04-2024 - 3,36° Wet - 03-07-1978 - 37"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2024:ARR.20241210.1",
+  "source_sha256": "6485e3d26f308598007bf50de9c5cafd8470e76b9b3e297d1ad6d083d7ff3b2f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2024:ARR.20241210.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/05/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
