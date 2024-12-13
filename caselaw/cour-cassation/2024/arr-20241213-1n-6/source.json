@@ -1,0 +1,31 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2024:ARR.20241213.1N.6",
+  "ecli": "ECLI:BE:CASS:2024:ARR.20241213.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2024-12-13",
+  "date_as_printed": "Vonnis/arrest van 13 december 2024",
+  "published_on_juportal": "2024-12-30",
+  "language": "nl",
+  "role_number": "C.23.0443.N",
+  "case_name_as_published": "Vlaamse Gewest contra D.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS COMMUNAUTAIRES ET REGIONAUX",
+    "GEMEENSCHAPS- EN GEWESTBELASTINGEN"
+  ],
+  "fiche": [
+    "GEMEENSCHAPS- EN GEWESTBELASTINGEN",
+    "Decreet 13 december 2013 houdende de Vlaamse Codex Fiscaliteit - 13-12-2013 - Art. 2.8.6.0.3, § 1, 2° - 06 ELI link Pub nr 2013036154 Decreet 13 december 2013 houdende de Vlaamse Codex Fiscaliteit - 13-12-2013 - Art. 2.8.6.0.7, § 1, derde lid - 06 ELI link Pub nr 2013036154",
+    "Fisc.Act.-Fiscale actualiteit: wekelijkse nieuwsbrief - 2025, nr. 11, p. 5-9. - SPRUYT, Eric; Noot'Kapitaalvermindering na schenking aandelen familiale vennootschap: Cassatie verwerpt berekeningsmethode van Vlabel'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2024:ARR.20241213.1N.6",
+  "source_sha256": "1603c3229d9c75170103415133c80e9b42160d293f5f0663794726a61add3219",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2024:ARR.20241213.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/15/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
