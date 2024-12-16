@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 14 de l'arrêté royal du 3 août 2007 concernant la prévention et la réparation des dommages environnementaux lors de la mise sur le marché d'organismes génétiquement modifiés ou de produits en contenant, le paragraphe 1er, modifié par l'arrêté royal du 27 avril 2016, est remplacé par ce qui suit:
+" § 1er. Les personnes physiques et personnes morales, y compris les personnes morales au sens de l'article 1er de la loi du 12 janvier 1993 concernant un droit d'action en matière de protection de l'environnement, qui:
+1° subissent ou sont menacées de subir un dommage environnemental; ou
+2° qui justifient d'un intérêt suffisant dans la prise de décision concernant le dommage; ou
+3° font valoir qu'un de leurs droits a été violé,
+sont habilitées à soumettre à l'autorité compétente toute observation liée à une menace imminente d'un dommage environnemental, ou à un dommage environnemental qui s'est produit, et ont la faculté de demander que l'autorité compétente prenne des mesures en vertu de la présente demande. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a l'Agriculture dans ses attributions, le ministre qui a la Santé publique dans ses attributions et le ministre qui a l'Environnement dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
