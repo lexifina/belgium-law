@@ -1,0 +1,7 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 33 de la loi du 20 octobre 2023 relative à la création et la gestion du "Federal Learning Account", les modifications suivantes sont apportées:
+a) dans l'alinéa 1er, les mots "dans un délai de six mois après l'entrée en vigueur de la présente loi" sont remplacés par les mots "avant le 1er avril 2025";
+b) l'alinéa 2 est abrogé.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Dans l'article 55, § 2, de la loi du 3 octobre 2022 portant des dispositions diverses relatives au travail, les mots "Le 1er avril 2024, les dispositions relatives à la concrétisation du compte individuel de formation mentionnées dans le présent paragraphe cessent de produire leurs effets" sont remplacés par les mots "A partir du 1er avril 2024 et jusqu'au 1er avril 2025 au plus tard, les employeurs peuvent choisir de tenir à jour les données susmentionnées dans le compte formation individuel visé au présent paragraphe ou de recourir au Federal Learning Account visé par la loi du 20 octobre 2023 relative à la création et la gestion du "Federal Learning Account". A partir du 1er avril 2025 au plus tard, l'enregistrement au moyen du Federal Learning Account est rendu obligatoire et les dispositions relatives à la concrétisation du compte formation individuel mentionnées dans le présent paragraphe cessent de produire leurs effets.
