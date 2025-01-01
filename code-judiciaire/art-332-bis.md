@@ -1,1 +1,1 @@
-L'octroi de l'autorisation visée aux articles 331 et 332 peut, si l'absence du magistrat est due à la maladie, être subordonnée à un contrôle effectué par ... l'Administration de l'expertise médicale selon les modalités fixées dans le règlement administratif de ce service.
+(Abrogé)
