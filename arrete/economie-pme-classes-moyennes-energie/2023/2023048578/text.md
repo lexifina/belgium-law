@@ -1,0 +1,14 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 5, 1°, de l'arrêté ministériel du 17 juin 2014 désignant les objets, appareils et substances assimilés à des médicaments, visés dans le livre V du Code de droit économique et fixant les prix maxima et marges maxima des médicaments et des objets, appareils et substances assimilés à des médicaments, modifié par les arrêtés ministériels du 21 décembre 2018 et du 21 décembre 2022, les a) et b), alinéas 1er et 2, sont remplacés par ce qui suit:
+" a) pour le grossiste:
+- 0,38 euros, si le prix de vente ex-usine, T.V.A. non comprise, du médicament est inférieur à 2,35 euros;
+- 16,2 % du prix de vente ex-usine, T.V.A. non comprise, du médicament, si ce prix est supérieur ou égal à 2,35 euros et inférieur ou égal à 13,33 euros;
+- 2,16 euros + 0,98 % de la partie du prix de vente ex-usine, T.V.A. non comprise, du médicament dépassant 13,33 euros, si ce prix est supérieur à 13,33 euros;
+b) pour le pharmacien d'officine:
+- 7,18 % du prix de vente ex-usine, T.V.A. non comprise, du médicament, si ce prix est inférieur ou égal à 60 euros;
+- 4,308 euros + 2,37 % de la partie du prix de vente ex-usine, T.V.A. non comprise, du médicament dépassant 60 euros, si ce prix est supérieur à 60 euros. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 5, 1°, b), du même arrêté, remplacé par l'arrêté ministériel du 21 décembre 2018, les alinéas 3 à 5 anciens, devenant les alinéas 2 à 4, sont remplacés par ce qui suit :
+" Le cas échéant, les paramètres visés à l' alinéa 1er sont majorés (annuellement) avec les indexations de santé successives selon les dispositions de l'arrêté royal du 8 décembre 1997 fixant les modalités d'application pour l'indexation des prestations dans le régime de l'assurance obligatoire soins de santé. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. L'article 1er entre en vigueur le 1er janvier 2024.
+L'article 2 entre en vigueur le 1er janvier 2025.
