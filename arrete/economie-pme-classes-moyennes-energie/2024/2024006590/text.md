@@ -1,0 +1,16 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Cet arrêté s'applique aux accords de partenariat commercial, au sens de l'article I.11, 2°, du Code de droit économique, conclus entre une entreprise et une entreprise de commerce de détail en magasin non spécialisé à prédominance alimentaire, relevant du code NACE 47.11.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Sans préjudice de l'article VI.91/4 du Code de droit économique, sont également abusives, les clauses qui ont pour objet de :
+1° priver la personne qui reçoit le droit de la possibilité de dédommagement ou exclure ou limiter de manière indue le droit de pouvoir s'approvisionner chez des tiers en cas de non-respect ou de manquement à l'obligation de livraison pour des biens et des services dans le chef de la personne qui octroie le droit ;
+2° interdire à la personne qui reçoit le droit de se préparer à ou de commencer des négociations en vue de développer une nouvelle activité pendant le délai de préavis ou au cours du délai couvert par une clause de non-concurrence, sous réserve du respect du secret d'affaires lié à l'accord au sens de l'article XI.332/4 du Code de droit économique ;
+3° faire supporter par la personne qui reçoit le droit plus de la moitié des coûts résultant de la réalisation et de la mise en oeuvre d'actions promotionnelles de vente qui sont imposées par la personne qui octroie le droit ;
+4° déclarer comme juge exclusivement compétent pour connaître du litige, le juge dont le siège est celui de la personne qui octroie le droit ; et/ou un juge dont le siège est situé dans une autre région linguistique que le siège de la personne qui reçoit le droit.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Sans préjudice de l'article VI.91/5 du Code de droit économique, sont également présumées abusives, les clauses qui ont pour objet de :
+1° procéder à une valorisation forfaitaire du fonds de commerce ou des actions de l'entreprise de la personne qui reçoit le droit, qui aboutit à fixer un prix qui est manifestement déraisonnable compte tenu de la valorisation normale d'un fonds de commerce ou d'actions d'une entreprise ;
+2° obliger la personne qui reçoit le droit à exploiter une entreprise structurellement déficitaire depuis au moins douze mois, sans prévoir un délai de préavis de quatre mois maximum pour la personne qui reçoit le droit, sans indemnité supplémentaire;
+3° permettre à la personne qui octroie le droit de terminer l'accord de partenariat commercial en application d'une clause résolutoire expresse.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Le présent arrêté entre en vigueur le premier jour du sixième mois qui suit celui de sa publication au Moniteur belge pour les accords de partenariat commercial conclus, renouvelés ou modifiés après cette date et le premier jour du dixième mois qui suit celui de sa publication au Moniteur belge pour les autres accords de partenariat commercial.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a l'Economie dans ses attributions et le ministre qui a les Classes moyennes dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
