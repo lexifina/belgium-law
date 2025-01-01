@@ -1,0 +1,14 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté transpose la directive déléguée (UE) 2024/1416 de la Commission du 13 mars 2024 modifiant la directive 2011/65/UE du Parlement européen et du Conseil en ce qui concerne une exemption relative au cadmium dans les boîtes quantiques pour conversion de longueur d'onde (downshifting) déposées directement sur les puces semi-conductrices de DEL.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'annexe III de l'arrêté royal du 17 mars 2013 limitant l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, modifié en dernier lieu par l'arrêté royal du 16 juin 2024:
+a) l'entrée 39 a), remplacée par l'arrêté royal du 11 juillet 2018, est remplacée par ce qui suit:
+
+<table border="1"><tr><td valign="top">"39 a) </td><td valign="top">Cadmiumselenide in halfgeleider-nanokristal-kwantumpunten op basis van cadmium om de lichtgolflengte om te zetten ("downshifting") voor gebruik in beeldweergavetoepassingen (&lt; 0,2 µg Cd per mm2 beeldschermoppervlak) </td><td valign="top">Vervalt voor alle categorieën op 21 november 2025". </td><td valign="top">" 39 a) </td><td valign="top">Séléniure de cadmium dans les boîtes quantiques de nanocristaux semi-conducteurs à base de cadmium pour conversion de longueur d'onde (downshifting), destinées à être utilisées dans les applications d'éclairage d'écrans (&lt; 0,2 µg Cd par mm2 de superficie d'écran.) </td><td valign="top">Expire le 21 novembre 2025 pour toutes les catégories "</td></tr></table>
+
+b) il est inséré une entrée 39 b) rédigée comme suit:
+
+<table border="1"><tr><td valign="top">"39 b) </td><td valign="top">Cadmium in rechtstreeks op ledhalfgeleiderchips aangebrachte halfgeleider-nanokristal-kwantumpunten om de lichtgolflengte om te zetten ("downshifting") voor gebruik in beeldweergave- en projectietoepassingen (&lt; 5 µg Cd per mm2 ledchipoppervlak) met een maximumhoeveelheid van 1 mg per toestel </td><td valign="top">Vervalt voor alle categorieën op 31 december 2027". </td><td valign="top">" 39 b) </td><td valign="top">Cadmium dans les boîtes quantiques de nanocristaux semi-conducteurs pour conversion de longueur d'onde (downshifting) déposées directement sur des puces semi-conductrices de DEL, destinées à être utilisées dans des applications d'affichage et de projection (&lt; 5 µg Cd par mm2 de surface de puce de DEL), moyennant un poids maximal de 1 mg par dispositif </td><td valign="top">Expire le 31 décembre 2027 pour toutes les catégories "</td></tr></table>
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le 1er janvier 2025.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a la Santé publique dans ses attributions et le ministre qui a l'Environnement dans ses attributions, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
