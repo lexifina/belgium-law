@@ -4,3 +4,4 @@ Sont punis d'une sanction de niveau 3:
 3° les entreprises qui ne font pas exécuter l'analyse ou le contrôle par un laboratoire indépendant visé à l'article XV.3, 8°;
 4° les entreprises qui ne respectent pas une mesure prise en exécution de l'article XV.16/2;
 5° ceux qui enfreignent les dispositions de l'article VI.97, 4°, concernant la tromperie relative au prix, le calcul du prix ou l'avantage quant au prix;
+6° ceux qui enfreignent les dispositions de l'article VI.81 concernant les offres conjointes des services financiers.
