@@ -3,4 +3,4 @@ Sont elles aussi jointes au dossier familial visé à l'alinéa 1er, les causes 
 § 2. Le dossier familial est ouvert dès la première demande introduite au tribunal de la famille.
 Sous réserve des numéros de rôle attribués à toute cause conformément à l'article 720, il est attribué un numéro spécifique au dossier familial. Ce numéro est mentionné sur tous les actes introductifs d'instance, conclusions et autres pièces du dossier.
 Sous réserve des éléments visés à l'article 721, le dossier familial est composé de toutes les causes successives concernant les mêmes parties et leurs enfants communs nés ou à naître.
-En cas de renvoi d'un tribunal de la famille à un autre, conformément à l'article 629bis, § 7, le dossier familial complet est transféré sans délai.
+En cas de renvoi d'un tribunal de la famille à un autre, conformément à l'article 629bis, § 7, le dossier familial complet est communiqué sans délai ou sa gestion est transférée sans délai.
