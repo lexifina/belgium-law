@@ -1,0 +1,29 @@
+{
+  "id": "2024A01600",
+  "title": "27 FEVRIER 2024. - Code civil, livre 6 \" La responsabilité extracontractuelle \" du Code civil",
+  "source_title": "27 FEVRIER 2024. - Code civil, livre 6 \" La responsabilité extracontractuelle \" du Code civil",
+  "act": "code/justice/2024/2024A01600",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-07-01&numac_search=2024A01600&page=113&lg_txt=F&caller=list&2024A01600=18&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "0edc857456831e34f76c641081cdacd4f267dfdbba763c0b4281a271ad188263",
+  "source_issuer": "Justice",
+  "made": "2024-02-27",
+  "published": "2024-07-01",
+  "in_force": "2025-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "1 juillet 2024",
+    "Numéro": "2024A01600",
+    "page": "79393",
+    "Dossier numéro": "2024-02-27/10",
+    "Entrée en vigueur": "1 janvier 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 6656,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-01-01"
+}
