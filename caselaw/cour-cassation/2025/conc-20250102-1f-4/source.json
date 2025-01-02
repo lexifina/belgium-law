@@ -1,0 +1,34 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2025:CONC.20250102.1F.4",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250102.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-02",
+  "date_as_printed": "Conclusions du Ministère public du 02 janvier 2025",
+  "published_on_juportal": "2025-02-18",
+  "language": "fr",
+  "role_number": "F.22.0112.F",
+  "case_name_as_published": "ETAT BELGE FINANCES contra M.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus de biens meubles",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Inkomsten uit roerende goederen",
+    "Apport d'une branche d'activité - Actions obtenues en contrepartie de cet apport - Dividende - Avantage imposable - Détermination de la valeur - Mode d'évaluation",
+    "Inbreng van een bedrijfstak - Aandelen die in ruil voor deze inbreng zijn verkregen - Dividend - Belastbaar voordeel - Waardebepaling - Ramingswijze"
+  ],
+  "fiche": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus de biens meubles",
+    "Apport d'une branche d'activité - Actions obtenues en contrepartie de cet apport - Dividende - Avantage imposable - Détermination de la valeur - Mode d'évaluation",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 18, al. 1er, 1° - 32 Lien DB Justel 19920612-32 Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 20bis - 32 Lien DB Justel 19920612-32",
+    "Fiscologue-Fiscologue - 2025, n° 1871, p. 8-10. - SMET, Patrick; Note'Imposition en cas de spin-off: pas d'enrichissement économique requis' Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2025, nr. 1871, p. 8-10. - SMET, Patrick; Noot'Belastingheffing spin-off: geen economische verrijking vereist'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250102.1F.4",
+  "source_sha256": "97d1d84f1fe54e8e0718c79547f21b822a9b5bbcf38b0d94244c2236f56c2554",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250102.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/09/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
