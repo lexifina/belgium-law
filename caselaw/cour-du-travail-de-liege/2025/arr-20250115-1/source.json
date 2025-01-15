@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CTLIE:2025:ARR.20250115.1",
+  "ecli": "ECLI:BE:CTLIE:2025:ARR.20250115.1",
+  "court": "Cour du travail de Liège",
+  "court_code": "CTLIE",
+  "decision_date": "2025-01-15",
+  "date_as_printed": "Jugement/arrêt du 15 janvier 2025",
+  "published_on_juportal": "2026-04-03",
+  "language": "fr",
+  "role_number": "2024/AL/79",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit du travail"
+  ],
+  "summary_keywords": [
+    "DROIT SOCIAL - DROIT SOCIAL - PRINCIPES GÉNÉRAUX - Intégration sociale - minimum de moyens d'existence",
+    "Aide sociale - revenu d'intégration sociale – révision – récupération - procédure – illégalité de la procédure « stop paiement » - cohabitation – collaboration"
+  ],
+  "fiche": [
+    "DROIT SOCIAL - DROIT SOCIAL - PRINCIPES GÉNÉRAUX - Intégration sociale - minimum de moyens d'existence",
+    "Aide sociale - revenu d'intégration sociale – révision – récupération - procédure – illégalité de la procédure « stop paiement » - cohabitation – collaboration",
+    "Loi - 26-05-2022 - 14, §1er, 1°, 20, 22 et 24 - 47 Lien DB Justel 20220526-47"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CTLIE:2025:ARR.20250115.1",
+  "source_sha256": "fee2fe43416be49088d93332322dda685a392dfda8bb970005e577c6f0701648",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CTLIE:2025:ARR.20250115.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/03/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
