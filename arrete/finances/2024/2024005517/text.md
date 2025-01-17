@@ -1,0 +1,11 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté transpose partiellement la directive 2022/2556 du Parlement européen et du Conseil du 14 décembre 2022 modifiant les directives 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE, 2014/59/UE, 2014/65/UE, (UE) 2015/2366 et (UE) 2016/2341 en ce qui concerne la résilience opérationnelle numérique du secteur financier.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 10, § 1er de l'arrêté royal du 19 décembre 2017 portant les règles et modalités visant à transposer la directive concernant les marchés d'instruments financiers, les modifications suivantes sont apportées :
+1° l'alinéa 1er est remplacé par ce qui suit :
+" Les entreprises réglementées recourant au trading algorithmique disposent de systèmes et de contrôles des risques efficaces et adaptés à leur activité pour garantir que leur systèmes de négociation sont résilients et ont une capacité suffisante conformément aux exigences fixées au chapitre II du règlement (UE) 2022/2554, qu'ils sont soumis à des seuils et limites de négociation appropriés et qu'ils préviennent l'envoi d'ordres erronés ou tout autre fonctionnement des systèmes susceptible de donner naissance ou de contribuer à une perturbation du marché. " ;
+2° l'alinéa 2 est remplacé par ce qui suit :
+" Elles disposent enfin de mécanismes de continuité des activités efficaces pour faire face à toute défaillance de leurs systèmes de négociation, y compris d'une politique et de plans en matière de continuité des activités de TIC et de plans de réponse et de rétablissement des TIC mis en place conformément à l'article 11 du règlement (UE) 2022/2554, et elles veillent à ce que leur systèmes soient entièrement testés et convenablement suivis de manière à garantir qu'ils satisfont aux exigences générales fixées au présent paragraphe et aux exigences spécifiques fixées aux chapitres II et IV du même règlement. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le 17 janvier 2025.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
