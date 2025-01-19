@@ -1,0 +1,29 @@
+{
+  "id": "2025000004",
+  "title": "12 DECEMBRE 2024. - Arrêté royal fixant le mode d'enregistrement de la charge de travail du ministère public ainsi que la manière dont ces données enregistrées sont évaluées",
+  "source_title": "12 DECEMBRE 2024. - Arrêté royal fixant le mode d'enregistrement de la charge de travail du ministère public ainsi que la manière dont ces données enregistrées sont évaluées",
+  "act": "arrete/justice/2024/2025000004",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-01-09&numac_search=2025000004&page=8&lg_txt=F&caller=list&2025000004=9&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "d5a34122b931daba5d48f0b81c932a4b6aee5b7bb8fa6231756efd186f155857",
+  "source_issuer": "Justice",
+  "made": "2024-12-12",
+  "published": "2025-01-09",
+  "in_force": "2025-01-19",
+  "in_force_basis": "Justel: Entrée en vigueur : 19 janvier 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "9 janvier 2025",
+    "Numéro": "2025000004",
+    "page": "1137",
+    "Dossier numéro": "2024-12-12/22",
+    "Entrée en vigueur": "19 janvier 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1990,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-01-19"
+}
