@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250120.3F.10",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250120.3F.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-20",
+  "date_as_printed": "Jugement/arrêt du 20 janvier 2025",
+  "published_on_juportal": "2025-01-31",
+  "language": "fr",
+  "role_number": "C.24.0180.F",
+  "case_name_as_published": "D. contra V.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "LOUAGE DE CHOSES - BAIL A FERME - Sous-location et cession du bail",
+    "HUUR VAN GOEDEREN - PACHT - Onderverhuring en overdracht van huur",
+    "Cession privilégiée - Renouvellement du bail - Opposition du bailleur - Motif d'exploitation personnelle - Opposition déclarée fondée - Demande de validation du congé - Conséquence",
+    "LOUAGE DE CHOSES - BAIL A FERME - Fin (Congé. Prolongation. Réintégration. Etc)",
+    "HUUR VAN GOEDEREN - PACHT - Einde (Opzegging. Verlenging. Terugkeer. Enz)",
+    "Bevoorrechte overdracht - Pachtvernieuwing - Verzet van de verpachter - Wegens persoonlijke exploitatie - Gegrond verklaard verzet - Verzoek tot geldigverklaring van de opzegging - Gevolg"
+  ],
+  "fiche": [
+    "LOUAGE DE CHOSES - BAIL A FERME - Sous-location et cession du bail",
+    "Cession privilégiée - Renouvellement du bail - Opposition du bailleur - Motif d'exploitation personnelle - Opposition déclarée fondée - Demande de validation du congé - Conséquence",
+    "L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 34, al. 1er - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 35 - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 36 - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 37, § 1er, 2° - 30 Lien ELI No pub 1969110401",
+    "LOUAGE DE CHOSES - BAIL A FERME - Fin (Congé. Prolongation. Réintégration. Etc)",
+    "Cession privilégiée - Renouvellement du bail - Opposition du bailleur - Motif d'exploitation personnelle - Opposition déclarée fondée - Demande de validation du congé - Conséquence",
+    "L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 34, al. 1er - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 35 - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 36 - 30 Lien ELI No pub 1969110401 L. du 4 novembre 1969 modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux - 04-11-1969 - Art. 37, § 1er, 2° - 30 Lien ELI No pub 1969110401",
+    "(1) Pour plus de références, voir les conclusions du ministère public.",
+    "BJS-Bulletin juridique social - 2025, n° 732, p. 8. - GENCO, Marie; Note'L'opposition au renouvellement en matière de bail à ferme ne rend pas la demande de congé sans objet'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250120.3F.10",
+  "source_sha256": "6853c369c9561e2f6d4fa59f761c8c9ec9694973d20a02c7a7ef1f35ac292618",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250120.3F.10_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/05/20/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
