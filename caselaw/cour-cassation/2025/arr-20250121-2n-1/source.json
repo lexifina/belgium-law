@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250121.2N.1",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250121.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-21",
+  "date_as_printed": "Vonnis/arrest van 21 januari 2025",
+  "published_on_juportal": "2025-01-23",
+  "language": "nl",
+  "role_number": "P.23.1163.N",
+  "case_name_as_published": "S. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Matière répressive - Partie civilement responsable - Prévenu - Acquittement - Condamnation à des dommages et intérêts en une autre qualité - Limite",
+    "PARTIE CIVILEMENT RESPONSABLE",
+    "BURGERRECHTELIJK AANSPRAKELIJKE PARTIJ",
+    "Matière répressive - Prévenu - Acquittement - Condamnation à des dommages et intérêts en une autre qualité - Limite",
+    "RESPONSABILITE HORS CONTRAT - GENERALITES",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - ALGEMEEN",
+    "Strafzaken - Burgerrechtelijk aansprakelijke partij - Beklaagde - Vrijspraak - Veroordeling tot schadevergoeding in andere hoedanigheid - Grens",
+    "Strafzaken - Beklaagde - Vrijspraak - Veroordeling tot schadevergoeding in andere hoedanigheid - Grens"
+  ],
+  "fiche": [
+    "BURGERLIJKE RECHTSVORDERING",
+    "Strafzaken - Burgerrechtelijk aansprakelijke partij - Beklaagde - Vrijspraak - Veroordeling tot schadevergoeding in andere hoedanigheid - Grens",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 3 - 01 ELI link Pub nr 1878041750 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4 - 01 ELI link Pub nr 1878041750",
+    "BURGERRECHTELIJK AANSPRAKELIJKE PARTIJ",
+    "Strafzaken - Beklaagde - Vrijspraak - Veroordeling tot schadevergoeding in andere hoedanigheid - Grens",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 3 - 01 ELI link Pub nr 1878041750 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4 - 01 ELI link Pub nr 1878041750",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - ALGEMEEN",
+    "Strafzaken - Burgerrechtelijk aansprakelijke partij - Beklaagde - Vrijspraak - Veroordeling tot schadevergoeding in andere hoedanigheid - Grens",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 3 - 01 ELI link Pub nr 1878041750 Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4 - 01 ELI link Pub nr 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250121.2N.1",
+  "source_sha256": "2e3912c31a24e7a826ea013155fe7e8745dec6c1eb6f8ac74948e8ed64d81922",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250121.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_137.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
