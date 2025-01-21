@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250121.2N.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250121.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-21",
+  "date_as_printed": "Vonnis/arrest van 21 januari 2025",
+  "published_on_juportal": "2025-01-23",
+  "language": "nl",
+  "role_number": "P.24.1187.N",
+  "case_name_as_published": "H. contra R.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit commercial",
+    "Handelsrecht",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Matière répressive - Recevabilité - Action en dommages et intérêts introduite au nom d'une société - Dissolution de la société - Clôture de la liquidation - Associé propriétaire de plein droit des actifs - Notion d'actifs - Actifs omis - Conséquence",
+    "SOCIETES - GENERALITES. REGLES COMMUNES",
+    "VENNOOTSCHAPPEN - ALGEMEEN. GEMEENSCHAPPELIJKE REGELS",
+    "Matière répressive - Action en dommages et intérêts introduite au nom d'une société - Dissolution de la société - Clôture de la liquidation - Associé propriétaire de plein droit des actifs - Notion d'actifs - Actifs omis - Conséquence",
+    "RESPONSABILITE HORS CONTRAT - GENERALITES",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - ALGEMEEN",
+    "Strafzaken - Ontvankelijkheid - Vordering tot schadevergoeding namens een vennootschap - Ontbinding van de vennootschap - Sluiting van de vereffening - Vennoot van rechtswege eigenaar van de actieve vermogensbestanddelen - Begrip activa - Activa die over het hoofd zijn gezien - Gevolg",
+    "Strafzaken - Vordering tot schadevergoeding namens een vennootschap - Ontbinding van de vennootschap - Sluiting van de vereffening - Vennoot van rechtswege eigenaar van de actieve vermogensbestanddelen - Begrip activa - Activa die over het hoofd zijn gezien - Gevolg"
+  ],
+  "fiche": [
+    "BURGERLIJKE RECHTSVORDERING",
+    "Strafzaken - Ontvankelijkheid - Vordering tot schadevergoeding namens een vennootschap - Ontbinding van de vennootschap - Sluiting van de vereffening - Vennoot van rechtswege eigenaar van de actieve vermogensbestanddelen - Begrip activa - Activa die over het hoofd zijn gezien - Gevolg",
+    "Wetboek van vennootschappen en verenigingen 23 maart 2019 - 23-03-2019 - Art. 2:104, § 1, eerste lid - 09 ELI link Pub nr 2019A40586",
+    "VENNOOTSCHAPPEN - ALGEMEEN. GEMEENSCHAPPELIJKE REGELS",
+    "Strafzaken - Vordering tot schadevergoeding namens een vennootschap - Ontbinding van de vennootschap - Sluiting van de vereffening - Vennoot van rechtswege eigenaar van de actieve vermogensbestanddelen - Begrip activa - Activa die over het hoofd zijn gezien - Gevolg",
+    "Wetboek van vennootschappen en verenigingen 23 maart 2019 - 23-03-2019 - Art. 2:104, § 1, eerste lid - 09 ELI link Pub nr 2019A40586",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - ALGEMEEN",
+    "Strafzaken - Vordering tot schadevergoeding namens een vennootschap - Ontbinding van de vennootschap - Sluiting van de vereffening - Vennoot van rechtswege eigenaar van de actieve vermogensbestanddelen - Begrip activa - Activa die over het hoofd zijn gezien - Gevolg",
+    "Wetboek van vennootschappen en verenigingen 23 maart 2019 - 23-03-2019 - Art. 2:104, § 1, eerste lid - 09 ELI link Pub nr 2019A40586"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250121.2N.2",
+  "source_sha256": "e01638ebf00cdec8ba9205e7928cadb08ff66f5ef946fdc5bcce66b2e82f9ba9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250121.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_138.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
