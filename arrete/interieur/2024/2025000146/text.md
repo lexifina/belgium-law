@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, on entend par " périmètre ", le périmètre tel que visé à l'article 2, 9°, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, modifiée par la loi du 10 mars 2003, la loi du 27 décembre 2004, la loi du 25 avril 2007, la loi du 14 avril 2011, la loi du 27 juin 2016, la loi du 21 juillet 2016, la loi du 3 juin 2018, et la loi du 06 juillet 2023 inséré par la loi du 10 mars 2003.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour le Stade du Royal Aubel Football Club, situé à 4880 Aubel Göbbelshof 9, le périmètre est délimité dans le sens horlogique, à partir du croisement entre la Rue de la Bel, qui se prolonge par la Côte de Hagelstein, et Tossem, Tossem qui se prolonge par Helleströp, Helleströp qui se prolonge par Slagboom, Slagboom jusqu'au croisement avec la Rue de Merckof, la rue de Merckhof jusqu'au carrefour avec la Rue Haes, la Rue Haes qui se prolonge par la Rue de la Station, la Rue de la Station jusqu'à la Place Antoine Ernst, l'intégralité de la Place Antoine Ernst jusqu'à la Place Nicolaï, la Place Nicolaï qui se prolonge par la Place Albert 1er et la Rue de la Bel, la Rue de la Bel qui se prolonge par la Côte de Hagelstein jusqu'au croisement avec Tossem.
+Tous les croisements du périmètre susmentionné, par les autres voies publiques et privées, sont compris dans ce périmètre.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Notre Ministre de l'Intérieur est chargée de l'exécution du présent arrêté.
