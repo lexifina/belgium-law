@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application du présent arrêté, on entend par " périmètre ", le périmètre tel que visé à l'article 2, 9°, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, modifiée par la loi du 10 mars 2003, la loi du 27 décembre 2004, la loi du 25 avril 2007, la loi du 14 avril 2011, la loi du 27 juin 2016, la loi du 21 juillet 2016, la loi du 3 juin 2018, et la loi du 06 juillet 2023 inséré par la loi du 10 mars 2003.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour le Stade communal Louis Duhant, situé rue Joseph Wauters à 7972 Quevaucamps, le périmètre est délimité dans le sens horlogique, à partir du croisement entre la rue du Brugnon et la rue Risque à tout, la rue Risque à tout jusqu'à son croisement avec la rue Isolée, la rue Isolée jusqu'au carrefour avec la rue Fénèque, la rue Fénèque jusqu'au croisement avec la rue Joseph Wauters, la rue Joseph Wauters jusqu'au croisement avec la rue du Sarrazin, la rue du Sarrazin jusqu'au rond-point qui rejoint la rue Emile Vandervelde, la rue Emile Vandervelde jusqu'au croisement avec la place de Quevaucamps, la place de Quevaucamps dans son entièreté jusqu'au croisement avec la rue du Brugnon, la rue du Brugnon jusqu'au croisement avec la rue Risque à tout,
+Tous les croisements du périmètre susmentionné, par les autres voies publiques et privées, sont compris dans ce périmètre.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Notre Ministre de l'Intérieur est chargée de l'exécution du présent arrêté.
