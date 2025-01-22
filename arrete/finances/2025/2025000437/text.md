@@ -1,0 +1,12 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. En reconnaissance du rôle socio-culturel de la Loterie Nationale en Belgique et de l'importance sportive et historique du circuit automobile de Spa-Francorchamps, sont émises deux pièces commémoratives de 2 euros.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. § 1er. Les pièces visées à l'article 1er ont les mêmes spécifications techniques que les pièces de 2 euros qui sont frappées en exécution de l'arrêté royal du 12 décembre 2001 relatif à l'émission de la première série de pièces libellées en euro.
+§ 2. Par dérogation au paragraphe 1er, la face nationale de la pièce commémorative porte la représentation allégorique et classique de la bonne fortune, la déesse Fortuna, portant la corne d'abondance. A droite et en bas se trouvent quatre représentations d'un trèfle à quatre feuilles, qui est également un symbole universel de chance et de bonheur. Derrière la déesse Fortuna, le logo actuel de la Loterie nationale est visible.
+Sur le côté gauche de la pièce, se trouve le texte ` loterie nationale loterij '. En bas à gauche, sont indiqués le code du pays BE et l'année d'émission 2025. En dessous, se trouvent le différent du Commissaire des monnaies belge et le différent d`Utrecht (le bâton de Mercure), lieu où les pièces de monnaie sont frappées. En bas à droite, figurent les initiales de la graphiste Iris Bruijns.
+§ 3. Par dérogation au paragraphe premier, la face nationale de la deuxième pièce commémorative représente au centre le tracé actuel du circuit. A côté, à gauche la distance totale (en mètres) du circuit, ` 7.004 M ', est indiquée, ainsi que l'année de création, ` 1921 '.
+Au-dessus de la représentation du circuit, le texte ` CIRCUIT DE SPA FRANCORCHAMPS ' est visible. En bas de la pièce, se trouvent le code du pays BE et l'année d'émission ` 2025 ', accompagnés du différent du Commissaire des monnaies belge et le différent d`Utrecht (le bâton de Mercure), lieu où les pièces de monnaie sont frappées.
+Finalement, à la droite de la pièce se trouvent les initiales ` IB ` de la créatrice Iris Bruijns.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
