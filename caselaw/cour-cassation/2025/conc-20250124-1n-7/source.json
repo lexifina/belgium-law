@@ -1,0 +1,42 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250124.1N.7",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250124.1N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-24",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 24 januari 2025",
+  "published_on_juportal": "2025-03-13",
+  "language": "nl",
+  "role_number": "F.22.0049.N",
+  "case_name_as_published": "Belgomilk contra VLAAMSE MILIEUMAATSCHAPPIJ",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Taxe sur la pollution des eaux en Région flamande - Nature pénale - Appréciation",
+    "IMPOTS COMMUNAUTAIRES ET REGIONAUX",
+    "GEMEENSCHAPS- EN GEWESTBELASTINGEN",
+    "Région flamande - Taxe sur la pollution des eaux - Nature pénale - Appréciation",
+    "Heffing voor waterverontreiniging Vlaams Gewest - Strafrechtelijke aard - Beoordeling",
+    "Vlaams Gewest - Heffing voor waterverontreiniging - Strafrechtelijke aard - Beoordeling"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Heffing voor waterverontreiniging Vlaams Gewest - Strafrechtelijke aard - Beoordeling",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging - 26-03-1971 - Art. 35ter - 30 ELI link Pub nr 1971A32613",
+    "GEMEENSCHAPS- EN GEWESTBELASTINGEN",
+    "Vlaams Gewest - Heffing voor waterverontreiniging - Strafrechtelijke aard - Beoordeling",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging - 26-03-1971 - Art. 35ter - 30 ELI link Pub nr 1971A32613"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250124.1N.7",
+  "source_sha256": "66f1ba9fc2be9cd4b1b72617d46952b13d8be5b892fd25f3af31ebc7425dc908",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250124.1N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_179.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
