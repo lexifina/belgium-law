@@ -1,0 +1,39 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250124.1N.2",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250124.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-24",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 24 januari 2025",
+  "published_on_juportal": "2025-03-13",
+  "language": "nl",
+  "role_number": "F.22.0172.N",
+  "case_name_as_published": "GRANDRICH INTERNATIONAL TRADING c. BS FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag van ambtswege en forfaitaire aanslag",
+    "Notification de la taxation d'office - Conditions",
+    "Notification de la taxation d'office - Éléments et arguments complémentaires invoqués a posteriori - Motivation - Régularité",
+    "Kennisgeving van aanslag van ambtswege - Vereisten",
+    "Kennisgeving van aanslag van ambtswege - Bijkomende gegevens en argumenten achteraf - Motivering - Regelmatigheid"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag van ambtswege en forfaitaire aanslag",
+    "Kennisgeving van aanslag van ambtswege - Vereisten",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 351 - 32 Link Justel databank 19920612-32",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag van ambtswege en forfaitaire aanslag",
+    "Kennisgeving van aanslag van ambtswege - Bijkomende gegevens en argumenten achteraf - Motivering - Regelmatigheid",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 351 - 32 Link Justel databank 19920612-32",
+    "Fiscoloog-Fiscoloog: nieuwsbrief over fiscaliteit - 2025, nr. 1876, p. 7-9. - BUYSSE, Christian; Noot''Substance over form': ook bij 'kennisgeving aanslag van ambtswege'' Fiscologue-Fiscologue - 2025, n° 1876, p. 7-9. - BUYSSE, Christian; Note''Substance over form': aussi pour la notification d'imposition d'office'"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250124.1N.2",
+  "source_sha256": "5194e616e354bda36d120e905d64321e573ed06f7bb8e691a16d3cf56de6fbe5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250124.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/08/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
