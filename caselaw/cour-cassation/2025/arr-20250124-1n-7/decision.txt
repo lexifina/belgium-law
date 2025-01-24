@@ -1,0 +1,54 @@
+Nr. F.22.0049.N
+BELGOMILK cvba, met zetel te 9120 Beveren, Fabriekstraat 141, ingeschreven bij de KBO onder het nummer 0870.017.447,
+eiseres,
+vertegenwoordigd door mr. Johan Verbist, advocaat bij het Hof van Cassatie, met kantoor te 2000 Antwerpen, Amerikalei 187/302, waar de eiseres woonplaats kiest,
+tegen
+VLAAMSE MILIEUMAATSCHAPPIJ, intern verzelfstandigd agentschap met rechtspersoonlijkheid, met zetel te 9300 Aalst, Dokter De Moorstraat 24-26, ingeschreven bij de KBO onder het nummer 0887.290.276,
+verweerster,
+vertegenwoordigd door mr. Bruno Maes, advocaat bij het Hof van Cassatie, met kantoor te 1170 Brussel, Terhulpensesteenweg 177/7, waar de verweerster woonplaats kiest.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Gent van 9 november 2021 (nr. 2020/AR/1012).
+Advocaat-generaal Johan Van der Fraenen heeft op 24 december 2024 een schriftelijke conclusie neergelegd.
+Raadsheer Myriam Ghyselen heeft verslag uitgebracht.
+Advocaat-generaal Johan Van der Fraenen heeft geconcludeerd.
+II.	CASSATIEMIDDEL
+De eiseres voert in haar verzoekschrift dat aan dit arrest is gehecht, een middel aan.
+III.	BESLISSING VAN HET HOF
+Beoordeling
+1.	Krachtens artikel 6.1 EVRM heeft eenieder bij het vaststellen van zijn burgerlijke rechten en verplichtingen of bij het bepalen van de gegrondheid van een tegen hem ingestelde strafvervolging recht op een eerlijke en openbare behandeling van zijn zaak, binnen een redelijke termijn, door een onafhankelijke en onpartijdige rechterlijke instantie welke bij wet is bepaald.
+De omstandigheid dat een fiscale sanctie of het opleggen van een bijzondere belasting internrechtelijk niet als strafrechtelijk wordt gekwalificeerd, sluit niet uit dat die maatregel strafrechtelijk van aard kan zijn in de zin van artikel 6.1 EVRM. Dit is het geval indien (i) de overtreden bepaling gericht is tot alle burgers in hun hoedanigheid van belastingplichtige, (ii) de opgelegde sanctie of bijzondere belasting niet alleen een vergoedende functie heeft, maar in wezen een preventief en bestraffend doel heeft en (iii) de zwaarte van de sanctie of bijzondere belasting aanzienlijk is.
+2.	Krachtens artikel 35ter, § 10, Oppervlaktewaterenwet, zoals van toepassing, wordt in afwijking van artikel 35ter, § 1, in geval van i) onvergunde lozing, ii) de lozing die niet voldoet aan de bijzondere voorwaarde vermeld in de lozingsvergunning om een contract, vermeld in artikel 32septies, § 4, af te sluiten, of iii) de lozing van afvalwater via een noodaansluiting die niet voldoet aan de voorwaarden, vermeld in artikel 35bis, § 9, het bedrag van de heffing voor de periode waarin vermelde lozing zich voordeed, als volgt vastgesteld:
+H = T x Qx x Cx + T x Nkx
+waarbij:
+H = het bedrag van de verschuldigde heffing voor waterverontreiniging;
+T = het bedrag van het eenheidstarief van de heffing voor alle andere heffingsplichtigen, vermeld in het vierde lid van artikel 35ter, § 2;
+Qx = het waterverbruik, waarvan de hoeveelheid gelijk is aan het totale waterverbruik Q bepaald overeenkomstig artikel 35septies, § 2, verminderd met de hoeveelheid koelwater K, vermeld in artikel 35quinquies, § 1, vermenigvuldigd met dx en gedeeld door 365 of, indien hiervan het bewijs geleverd wordt, gedeeld door het reëel aantal dagen waarop afvalwater geloosd wordt in het jaar voorafgaand aan het heffingsjaar;
+dx is de cumulatieve duur van de lozingen in het betrokken heffingsjaar, uitgedrukt in dagen; dx is niet groter dan 365 en wordt berekend als volgt:
+? [(deind - dbegin) + F], waarbij:
+dbegin =
+1° de datum van aanvang van de lozing, zoals opgenomen in de schriftelijke melding van de heffingsplichtige aan de maatschappij of de toezichthouder bevoegd voor milieuhandhaving, tenzij de maatschappij aantoont dat de lozing reeds op een vroegere datum startte, op voorwaarde dat de melding plaatsvond voorafgaand aan de eventuele vaststelling van de lozing door de ambtenaren van de maatschappij belast met een controle of een onderzoek in verband met de toepassing van de heffing of de toezichthouder bevoegd voor milieuhandhaving;
+2° de datum van vaststelling van de lozing, als vermeld in het proces-verbaal van overtreding of een vaststellingsverslag als vermeld in artikel 35decies, § 2, tenzij de maatschappij aantoont dat de lozing reeds op een vroegere datum startte, indien de lozing werd vastgesteld door de ambtenaren van de maatschappij belast met een controle of een onderzoek in verband met de toepassing van de heffing of de toezichthouder bevoegd voor milieuhandhaving voorafgaand aan een eventuele schriftelijke melding door de heffingsplichtige;
+deind = de datum waarop door de bevoegde ambtenaren van de maatschappij of de toezichthouder bevoegd voor milieuhandhaving vastgesteld werd dat de lozing stopgezet is, mits mogelijkheid voor de heffingsplichtige om een andere datum te bewijzen;
+F =
+1° 1 indien de lozing gemeld werd door de heffingsplichtige aan de maatschappij of de toezichthouder bevoegd voor milieuhandhaving en deze melding plaatsvond voorafgaand aan de eventuele vaststelling van de lozing door de bevoegde ambtenaren van de maatschappij of de toezichthouder bevoegd voor milieuhandhaving;
+2° 30 in alle andere gevallen, tenzij de heffingsplichtige de werkelijke aanvangsdatum van de lozing bewijst en de toezichthouder bevoegd voor milieuhandhaving deze kan bevestigen of staven op basis van vergelijking met zijn eigen vaststellingen; in voorkomend geval wordt F gelijkgesteld aan 1 en wordt dbegin gelijkgesteld aan de bevestigde datum van aanvang van de lozing;
+Cx = de omzettingscoëfficiënt, vermeld in kolom 8 van de tabel opgenomen in bijlage bij deze wet;
+Nkx = de vuilvracht veroorzaakt door de lozing van koelwater bepaald overeenkomstig artikel 35quinquies, § 1, vermenigvuldigd met dx en gedeeld door 365 of, indien hiervan het bewijs geleverd wordt, gedeeld door het reëel aantal dagen waarop koelwater geloosd wordt in het jaar voorafgaand aan het heffingsjaar.
+Indien de heffingsplichtige voor de periode dx het aandeel van de lozing vermeld in het eerste lid in de totale afvalwaterlozing bewijst en de toezichthouder bevoegd voor milieuhandhaving deze kan bevestigen of staven op basis van vergelijking met zijn eigen vaststellingen, wordt voor de betrokken periode dx de bepalingen in dit artikel enkel toegepast op dit aandeel.
+In alle andere gevallen wordt de vuilvracht vermeld in artikel 35ter, § 1, vermenigvuldigd met (365-dx)/365.
+3.	Artikel 35ter, § 2, vierde lid, Oppervlaktewaterenwet, zoals van toepassing, legt de factor T, dit is het eenheidstarief van de heffing, in de gevallen bedoeld in artikel 35ter, § 10, vast op 29,10 euro, daar waar het eenheidstarief voor lozingen van afvalwater normaal op 22,30 euro is vastgesteld.
+4.	Uit de wetsgeschiedenis van artikel 35ter, § 10, Oppervlaktewaterenwet blijkt dat:
+-	de heffingsregeling bepaald in dat artikel geenszins de bedoeling heeft om onvergunde lozingen of noodlozingen te bestraffen, maar dat, overeenstemmend met het ‘de vervuiler betaalt’-principe, uiteraard ook op onvergunde lozingen of noodlozingen, net zoals het geval is voor vergunde lozingen, een heffing moet worden betaald;
+-	het lagere eenheidstarief dat normaal voor lozingen van afvalwater geldt, verantwoord is omdat dat tarief in de praktijk geldt voor bedrijven die beschikken over een vergunning voor lozing van oppervlaktewater en die aldus de kosten voor de zuivering van afvalwater moeten dragen, terwijl dat voor lozingen bedoeld in artikel 35, § 10, niet het geval is en bijgevolg een hoger tarief van toepassing is;
+-	 de heffingsregeling bepaald in dat artikel een onderscheid maakt tussen enerzijds bedrijven die een onvergunde lozing of noodlozing zelf onverwijld melden, voordat die lozing door de milieu-inspectie wordt vastgesteld, en anderzijds bedrijven waarvoor een onvergunde lozing of noodlozing door de milieu-inspectie wordt vastgesteld, teneinde bedrijven te stimuleren om noodlozingen en onvergunde lozingen spontaan te melden, zodat de betrokken partijen snel de noodzakelijke maatregelen ter bescherming van het milieu zouden kunnen nemen en tegelijk eenduidig aangegeven wordt op welke periode de heffingsregeling van artikel 35ter, § 10, van toepassing is;
+-	in geval de onvergunde lozing of noodlozing door het bedrijf niet gemeld wordt, enerzijds door de betrokken partijen geen gepaste maatregelen kunnen worden genomen en het anderzijds niet duidelijk is wanneer de onvergunde situatie of noodlozing aanving, reden waarom in dat geval de onvergunde situatie of noodlozing geacht wordt minstens 30 dagen voor de vaststelling van de milieu-inspectie te hebben plaatsgevonden.
+Uit de tekst van voormeld artikel 35ter, § 10, blijkt bovendien dat de onvergunde lozing of noodlozing niet zal geacht worden minstens 30 dagen voor de vaststelling van de milieu-inspectie te hebben plaatsgevonden indien de heffingsplichtige de werkelijke aanvangsdatum van de lozing bewijst en de toezichthouder bevoegd voor milieuhandhaving deze kan bevestigen of staven op basis van vergelijking met zijn eigen vaststellingen.
+5.	Uit het voorgaande blijkt aldus dat zowel het hogere eenheidstarief bij onvergunde lozing als de regel dat, bij gebrek aan spontane melding en tenzij de heffingsplichtige de werkelijke aanvangsdatum van de lozing bewijst, de onvergunde lozing geacht wordt minstens 30 dagen voor de vaststelling van de milieu-inspectie te hebben plaatsgevonden, een vergoedende en deels ook stimulerende functie hebben, maar niet ertoe strekken de heffingsplichtige te bestraffen.
+Derhalve is de heffing bij onvergunde lozing geen strafsanctie in zin van artikel 6.1 EVRM.
+6.	Het middel dat uitgaat van een andere rechtsopvatting, faalt naar recht.
+Dictum
+Het Hof,
+Verwerpt het cassatieberoep.
+Veroordeelt de eiseres tot de kosten.
+Bepaalt de kosten voor de eiseres op 463,93 euro.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, eerste kamer, samengesteld uit sectievoorzitter Geert Jocqué, als voorzitter, en de raadsheren Bart Wylleman, Myriam Ghyselen, Michael Traest en Ann De Wolf en in openbare rechtszitting van 24 januari 2025 uitgesproken door sectievoorzitter Geert Jocqué, in aanwezigheid van advocaat-generaal Johan Van der Fraenen, met bijstand van griffier Elien Van Isterdael.
