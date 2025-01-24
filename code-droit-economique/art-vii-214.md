@@ -1,1 +1,1 @@
-En cas de non-respect des dispositions visées aux articles VII.143, §§ 2 à 4, VII.147/14 et VII. 147/22, § 4, le consommateur est relevé de plein droit des intérêts et frais se rapportant à la période sur laquelle porte l'infraction.
+En cas de non-respect des dispositions visées aux articles VII.143, §§ 2 à 4 et 8, VII.147/14 et VII. 147/22, § 4, le consommateur est relevé de plein droit des intérêts et frais se rapportant à la période sur laquelle porte l'infraction.

@@ -10,7 +10,7 @@ L'alinéa 1er ne s'applique pas aux contrats de crédit visés à l'article VII.
 4° les caractéristiques du contrat de crédit qui permettent de déterminer la situation débitrice du contrat et son évolution;
 5° le cas échéant, le motif du défaut de paiement communiqué par le consommateur;
 6° le cas échéant, les facilités de paiement accordées au consommateur;
-7° l'octroi d'un report de paiement temporaire visé à l'article VII.145/1 et la date de cet octroi;
+7° les modifications visées à l'article VII.147/20, § 1er, alinéa 3, y compris la nouvelle date d'expiration du crédit, ainsi que la date de cet octroi;
 8° la suspension temporaire des obligations de remboursement ou la prolongation du délai de zérotage visés à l'article VII.3, § 2, 6° bis et à l'article VII.145/2 et la date de cet octroi.
 Le Roi détermine le contenu précis, les conditions et les modalités de mise à jour ainsi que les délais de conservation de ces données. Il peut compléter cette liste avec des données qui sont utiles pour l'exercice des tâches de la Banque en tant que superviseur prudentiel.
 Le Roi peut, par un arrêté délibéré en Conseil des ministres, également déterminer les informations additionnelles que la Banque, en vue de la réalisation de statistiques, peut demander aux personnes visées à l'article VII. 149.
