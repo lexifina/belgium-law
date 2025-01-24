@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250124.1N.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250124.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-24",
+  "date_as_printed": "Vonnis/arrest van 24 januari 2025",
+  "published_on_juportal": "2025-02-11",
+  "language": "nl",
+  "role_number": "F.21.0037.N",
+  "case_name_as_published": "BS FINANCIEN c. PRODUITS INDUSTIELS LORRAINS",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DOUANES ET ACCISES",
+    "DOUANE EN ACCIJNZEN",
+    "Remboursement ou remise des droits à l'importation ou à l'exportation - Situation particulière - Notion",
+    "Remboursement ou remise des droits à l'importation ou à l'exportation - Situation particulière - Renvoi à la Commission - Notion",
+    "Remboursement ou remise des droits à l'importation ou à l'exportation - Situation particulière - Intérêts moratoires",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Begrip",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Verwijzing naar de Commissie - Vereiste",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Moratoire interest"
+  ],
+  "fiche": [
+    "DOUANE EN ACCIJNZEN",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Begrip",
+    "EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 239 - 32 Link Justel databank 19921012-32",
+    "DOUANE EN ACCIJNZEN",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Verwijzing naar de Commissie - Vereiste",
+    "Verordening 2454/93/EEG van de Commissie van 2 juli 1993 houdende vaststelling van enkele bepalingen ter uitvoering van Verordening (EEG) nr. 2913/92 van de Raad tot vaststelling van het communautair douanewetboek - 02-07-1993 - Art. 905.1 - 42 Link Justel databank 19930702-42",
+    "DOUANE EN ACCIJNZEN",
+    "Terugbetaling of kwijtschelding van de rechten bij in- of uitvoer - Bijzondere situatie - Moratoire interest",
+    "EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 239 - 32 Link Justel databank 19921012-32 EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 241 - 32 Link Justel databank 19921012-32"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250124.1N.5",
+  "source_sha256": "9a98658aebc3540338ced0d1ed1212c4827d70503ca2d5a9764d5c905d701a82",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250124.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_143.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
