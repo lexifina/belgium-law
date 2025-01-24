@@ -1,0 +1,52 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250124.1N.33",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250124.1N.33",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-01-24",
+  "date_as_printed": "Vonnis/arrest van 24 januari 2025",
+  "published_on_juportal": "2025-03-07",
+  "language": "nl",
+  "role_number": "F.23.0035.N",
+  "case_name_as_published": "BS FINANCES contra PANALPINA WORLD TRANSPORT",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "DOUANES ET ACCISES",
+    "DOUANE EN ACCIJNZEN",
+    "Déclarations en douane - Représentation en douane - Commissionnaire en douanes",
+    "Agence en douane - Représentation directe et indirecte en douane - Possibilité de choisir - Condition",
+    "UNION EUROPEENNE - DROIT MATERIEL - Principes",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Beginsels",
+    "Coopération loyale - Rendre le droit de l'Union effectivement praticable - Représentation directe en douane - Liberté de choix réelle",
+    "Agence en douane - Représentation directe en douane - Liberté de choix réelle",
+    "Douaneaangiften - Douanevertegenwoordiging - Douanecommissionair",
+    "Douane-expediteur - Directe en indirecte douanevertegenwoordiging - Keuzemogelijkheid - Voorwaarde",
+    "Loyale samenwerking - Unirecht daadwerkelijk praktisch mogelijk maken - Directe douanevertegenwoordiging - Daadwerkelijke vrije keuzemogelijkheid",
+    "Douane-expediteur - Directe douanevertegenwoordiging - Daadwerkelijke vrije keuzemogelijkheid"
+  ],
+  "fiche": [
+    "DOUANE EN ACCIJNZEN",
+    "Douaneaangiften - Douanevertegenwoordiging - Douanecommissionair",
+    "EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 5.2 - 32 Link Justel databank 19921012-32",
+    "DOUANE EN ACCIJNZEN",
+    "Douane-expediteur - Directe en indirecte douanevertegenwoordiging - Keuzemogelijkheid - Voorwaarde",
+    "EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 5.4 - 32 Link Justel databank 19921012-32 EEG-Verordening nr. 2913/92 van de Raad van 12 oktober 1992 tot vaststelling van het communautair douanewetboek - 12-10-1992 - Art. 201.3 - 32 Link Justel databank 19921012-32 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 70-3, § 2 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 127 - 31 ELI link Pub nr 1977071850",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Beginsels",
+    "Loyale samenwerking - Unirecht daadwerkelijk praktisch mogelijk maken - Directe douanevertegenwoordiging - Daadwerkelijke vrije keuzemogelijkheid",
+    "Verdrag van Lissabon tot wijziging van het verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, en Slotakte, gedaan te Lissabon op 13 december 2007 - 13-12-2007 - Art. 4.3 - 56 Link Justel databank 20071213-56",
+    "DOUANE EN ACCIJNZEN",
+    "Douane-expediteur - Directe douanevertegenwoordiging - Daadwerkelijke vrije keuzemogelijkheid",
+    "Verdrag van Lissabon tot wijziging van het verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, en Slotakte, gedaan te Lissabon op 13 december 2007 - 13-12-2007 - Art. 4.3 - 56 Link Justel databank 20071213-56"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250124.1N.33",
+  "source_sha256": "022d94717771f6c91934b4dbbbd9e2ef963eb7f05aa566af938cd409e34c3989",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250124.1N.33_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_167.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
