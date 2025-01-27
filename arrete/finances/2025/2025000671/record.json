@@ -1,0 +1,29 @@
+{
+  "id": "2025000671",
+  "title": "19 JANVIER 2025. - Arrêté royal relatif à l'émission en 2025 de pièces de monnaie commémoratives",
+  "source_title": "19 JANVIER 2025. - Arrêté royal relatif à l'émission en 2025 de pièces de monnaie commémoratives",
+  "act": "arrete/finances/2025/2025000671",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-01-27&numac_search=2025000671&page=79&lg_txt=F&caller=list&2025000671=12&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "0f7892846d3c07d7e3eab7bfda3f3d016123fb3d77741372ebfdbe073f9393c4",
+  "source_issuer": "Finances",
+  "made": "2025-01-19",
+  "published": "2025-01-27",
+  "in_force": "2025-01-27",
+  "in_force_basis": "Justel: Entrée en vigueur : 27 janvier 2025; own clause: Art. 21. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Finances",
+    "Publication": "27 janvier 2025",
+    "Numéro": "2025000671",
+    "page": "19386",
+    "Dossier numéro": "2025-01-19/01",
+    "Entrée en vigueur": "27 janvier 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 753,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-01-27"
+}
