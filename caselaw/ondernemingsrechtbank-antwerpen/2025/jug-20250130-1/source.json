@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2025:JUG.20250130.1",
+  "ecli": "ECLI:BE:ORANT:2025:JUG.20250130.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2025-01-30",
+  "date_as_printed": "Vonnis/arrest van 30 januari 2025",
+  "published_on_juportal": "2026-01-26",
+  "language": "nl",
+  "role_number": "A/22/00586",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Tienjarige aansprakelijkheid",
+    "Bijzondere aansprakelijkheid aannemer en architect voor stabiliteitsbedreigende gebreken (art. 1792 en 2270 oud BW), tienjarige aansprakelijkheid",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Aansprakelijkheid buiten de tienjarige aansprakelijkheid",
+    "Aansprakelijkheid aannemer voor lichte verborgen gebreken, aanvaarding werken, redelijke termijn",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "Resultaatsverbintenis, aansprakelijkheid aannemer",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Aanvullend deskundigenonderzoek, opportuniteit deskundigenonderzoek, proportionaliteit"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Tienjarige aansprakelijkheid",
+    "Bijzondere aansprakelijkheid aannemer en architect voor stabiliteitsbedreigende gebreken (art. 1792 en 2270 oud BW), tienjarige aansprakelijkheid",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 2270 - 35 ELI link Pub nr 1804032155 oud Burgerlijk Wetboek - 21-03-1804 - 1792 - 34 ELI link Pub nr 1804032154",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Aansprakelijkheid buiten de tienjarige aansprakelijkheid",
+    "Aansprakelijkheid aannemer voor lichte verborgen gebreken, aanvaarding werken, redelijke termijn",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "Resultaatsverbintenis, aansprakelijkheid aannemer",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Aanvullend deskundigenonderzoek, opportuniteit deskundigenonderzoek, proportionaliteit",
+    "Gerechtelijk Wetboek - 10-10-1967 - 984 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2025:JUG.20250130.1",
+  "source_sha256": "ebf865f9bb713f6bf1f50ffebc6e9bf68753fb42a5efb43524b2b390d3ae60af",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2025:JUG.20250130.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/26/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
