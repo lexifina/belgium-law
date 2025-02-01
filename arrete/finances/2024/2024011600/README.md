@@ -1,0 +1,13 @@
+# 17 DECEMBRE 2024. - Arrêté royal visant à intégrer les règles de perception dans l'arrêté royal portant exécution du Code du recouvrement amiable et forcé des créances fiscales et non fiscales et à déterminer le fonctionnement du Compte-provisions T.V.A.
+
+Official issuer: Finances.
+
+[Official consolidated text](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-12-24&numac_search=2024011600&page=5&lg_txt=F&caller=list&2024011600=29&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f).
+
+Current consolidated text; oldest version available in this record. One version, dated 2025-02-01 by the source. Earlier versions are not included.
+
+Made: 2024-12-17. Published: 2024-12-24.
+
+In-force basis: Justel: Entrée en vigueur : 1 février 2025; own clause: Art. 3/12. Pour les domiciliations visées à l'article 15/1, § 1er, alinéa 1er, 3°, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales, le paiement des créances fiscales et non fiscales produit ses effets à la date de prélèvement, à la condition que le compte financier du débiteur soit suffisamment crédité au moment du prélèvement. | Art. 3/13. Par dérogation à l'article 3/12, le paiement par domiciliation visée à l'article 15/1, § 1er, alinéa 1er, 3°, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales produit ses effets : | L'affectation visée à l'alinéa 1er est limitée à la partie non contestée des dettes, et produit ses effets à la date valeur du crédit au compte financier "Perception et Recouvrement" visé à l'article 15 du Code du recouvrement amiable et forcé des créances fiscales et non fiscales. | 2° transférés à un des comptes financiers relevant de l'administration du SPF Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, en vue soit de les affecter au paiement des dettes fiscales ou non fiscales dont l'assujetti est redevable à titre principal ou de codébiteur, soit de les affecter à titre de versements anticipés visés aux articles 157 à 166 et 175 à 177 du Code des impôts sur les revenus 1992 ou aux articles 30 et 34 de la loi du 19 décembre 2023 concernant l'introduction d'un impôt minimum pour les groupes d'entreprises multinationales et les groupes nationaux de gran
+
+Text is reproduced as Justel publishes it, including textual amendment notes and annexes.
