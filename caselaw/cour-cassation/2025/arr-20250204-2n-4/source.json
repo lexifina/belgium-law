@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250204.2N.4",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250204.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-04",
+  "date_as_printed": "Vonnis/arrest van 04 februari 2025",
+  "published_on_juportal": "2025-02-17",
+  "language": "nl",
+  "role_number": "P.24.1503.N",
+  "case_name_as_published": "W. contra S.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Moyen imprécis",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Onduidelijk middel",
+    "Exigence de précision applicable au mémoire - Identification de griefs par la Cour - Conditions",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Généralités",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Algemeen",
+    "Appréciation d'un mémoire contenant des moyens de cassation - Mémoire formulé de manière imprécise - Identification de griefs par la Cour - Conditions",
+    "Vereiste van nauwkeurigheid van de memorie - Achterhalen van grieven door het Hof - Voorwaarden",
+    "Beoordeling van een memorie met cassatiemiddelen - Memorie die onduidelijk is geformuleerd - Achterhalen van grieven door het Hof - Voorwaarden"
+  ],
+  "fiche": [
+    "CASSATIEMIDDELEN - STRAFZAKEN - Onduidelijk middel",
+    "Vereiste van nauwkeurigheid van de memorie - Achterhalen van grieven door het Hof - Voorwaarden",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 429 - 30 ELI link Pub nr 1808121050",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Algemeen",
+    "Beoordeling van een memorie met cassatiemiddelen - Memorie die onduidelijk is geformuleerd - Achterhalen van grieven door het Hof - Voorwaarden",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 429 - 30 ELI link Pub nr 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250204.2N.4",
+  "source_sha256": "6ee0846b935484188b3b64631374523f6198b861a1311caf5ddec6f4316c9d9e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250204.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_146.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
