@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250204.2N.15",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250204.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-04",
+  "date_as_printed": "Vonnis/arrest van 04 februari 2025",
+  "published_on_juportal": "2025-02-17",
+  "language": "nl",
+  "role_number": "P.25.0065.N",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Juge de l'application des peines - Demande visant à obtenir une modalité d'exécution de la peine - Rejet - Limitation aux contre-indications prévues par la loi - Dénégation de culpabilité par le condamné - Appréciation",
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Intérêt",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Belang",
+    "Application des peines - Juge de l'application des peines - Rejet d'une demande de libération conditionnelle, car non fondée - Grief soulevé par le condamné retenant que sa demande était irrecevable - Conséquence",
+    "Juge de l'application des peines - Rejet d'une demande de libération conditionnelle, car non fondée - Grief soulevé par le condamné retenant que sa demande était irrecevable - Condition imposant au demandeur un intérêt à se pourvoir en cassation - Conséquence",
+    "Strafuitvoeringsrechter - Verzoek om een modaliteit van strafuitvoering - Afwijzing - Beperking tot de wettelijk bepaalde tegenaanwijzingen - Ontkenning van schuld door de veroordeelde - Beoordeling",
+    "Strafuitvoering - Strafuitvoeringsrechter - Afwijzing van een verzoek tot voorwaardelijke invrijheidstelling als ongegrond - Grief van de veroordeelde dat het verzoek onontvankelijk was - Gevolg",
+    "Strafuitvoeringsrechter - Afwijzing van een verzoek tot voorwaardelijke invrijheidstelling als ongegrond - Grief van de veroordeelde dat het verzoek onontvankelijk was - Vereiste van belang van de eiser in cassatie - Gevolg"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Strafuitvoeringsrechter - Verzoek om een modaliteit van strafuitvoering - Afwijzing - Beperking tot de wettelijk bepaalde tegenaanwijzingen - Ontkenning van schuld door de veroordeelde - Beoordeling",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 28, § 1, 1° - 35 ELI link Pub nr 2006009456",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Belang",
+    "Strafuitvoering - Strafuitvoeringsrechter - Afwijzing van een verzoek tot voorwaardelijke invrijheidstelling als ongegrond - Grief van de veroordeelde dat het verzoek onontvankelijk was - Gevolg",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 416 - 30 ELI link Pub nr 1808121050",
+    "STRAFUITVOERING",
+    "Strafuitvoeringsrechter - Afwijzing van een verzoek tot voorwaardelijke invrijheidstelling als ongegrond - Grief van de veroordeelde dat het verzoek onontvankelijk was - Vereiste van belang van de eiser in cassatie - Gevolg",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 416 - 30 ELI link Pub nr 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250204.2N.15",
+  "source_sha256": "8c8f3bc61a6fd04409e5348a155798e89cbb0002b3fe2482bc4518e878fe3dc5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250204.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_151.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
