@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250204.2N.12",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250204.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-04",
+  "date_as_printed": "Vonnis/arrest van 04 februari 2025",
+  "published_on_juportal": "2025-02-17",
+  "language": "nl",
+  "role_number": "P.25.0039.N",
+  "case_name_as_published": "H.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "Omission de statuer sur un point du litige - Application en matière répressive des articles 794 et 794/1 du Code judiciaire - Rectification d'une erreur manifeste de calcul ou matérielle ou d'une lacune manifeste - Réexamen de la cause dans le jugement rectificatif - Limite",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "Verzuim van uitspraak over een geschilpunt - Toepassing van artikelen 794 en 794/1 Gerechtelijk Wetboek in strafzaken - Rechtzetting wegens een kennelijke rekenfout, een verschrijving of leemte - Herbeoordeling van de zaak in het verbeterend vonnis - Grens"
+  ],
+  "fiche": [
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "Verzuim van uitspraak over een geschilpunt - Toepassing van artikelen 794 en 794/1 Gerechtelijk Wetboek in strafzaken - Rechtzetting wegens een kennelijke rekenfout, een verschrijving of leemte - Herbeoordeling van de zaak in het verbeterend vonnis - Grens",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 794 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 794/1 - 04 ELI link Pub nr 1967101055",
+    "STRAFVORDERING",
+    "Verzuim van uitspraak over een geschilpunt - Toepassing van artikelen 794 en 794/1 Gerechtelijk Wetboek in strafzaken - Rechtzetting wegens een kennelijke rekenfout, een verschrijving of leemte - Herbeoordeling van de zaak in het verbeterend vonnis - Grens",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 794 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 794/1 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250204.2N.12",
+  "source_sha256": "5425077689c5afec8bebac0828003be9114d8f67e7b9a4a8f7dcdc389ed8fa51",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250204.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_149.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
