@@ -1,0 +1,29 @@
+{
+  "id": "2025000919",
+  "title": "23 JANVIER 2025. - Arrêté du Gouvernement wallon autorisant le passage en forêt des \" Legend Boucles Bastogne \" sur les Communes de Bastogne, Bertrix, Houffalize, Libramont - Chevigny, Neufchâteau et Paliseul, le 2 février 2025",
+  "source_title": "23 JANVIER 2025. - Arrêté du Gouvernement wallon autorisant le passage en forêt des \" Legend Boucles Bastogne \" sur les Communes de Bastogne, Bertrix, Houffalize, Libramont - Chevigny, Neufchâteau et Paliseul, le 2 février 2025",
+  "act": "arrete/wallonia-service/2025/2025000919",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-01-30&numac_search=2025000919&page=10&lg_txt=F&caller=list&2025000919=9&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "a5ddb0234a35aa213f5560d39e30296f172675e291a42f59815a0bd2eb30a63c",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-01-23",
+  "published": "2025-01-30",
+  "in_force": "2025-02-09",
+  "in_force_basis": "Justel: Entrée en vigueur : 9 février 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "30 janvier 2025",
+    "Numéro": "2025000919",
+    "page": "20239",
+    "Dossier numéro": "2025-01-23/03",
+    "Entrée en vigueur": "9 février 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 701,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-02-09"
+}
