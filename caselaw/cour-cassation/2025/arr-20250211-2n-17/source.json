@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250211.2N.17",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250211.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-11",
+  "date_as_printed": "Vonnis/arrest van 11 februari 2025",
+  "published_on_juportal": "2025-02-20",
+  "language": "nl",
+  "role_number": "P.25.0122.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Tribunal de l'application des peines - Surveillance électronique - Révocation - Mention dans le jugement de la déduction de la période de détention sous surveillance électronique - Omission - Conséquence",
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Intérêt",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Belang",
+    "Application des peines - Tribunal de l'application des peines - Surveillance électronique - Révocation - Mention dans le jugement de la déduction de la période de détention sous surveillance électronique - Omission - Conséquence",
+    "Strafuitvoeringsrechtbank - Elektronisch toezicht - Herroeping - Vermelding in het vonnis van de aftrek van de periode onder elektronisch toezicht - Verzuim - Gevolg",
+    "Strafuitvoering - Strafuitvoeringsrechtbank - Elektronisch toezicht - Herroeping - Vermelding in het vonnis van de aftrek van de periode onder elektronisch toezicht - Verzuim - Gevolg"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Strafuitvoeringsrechtbank - Elektronisch toezicht - Herroeping - Vermelding in het vonnis van de aftrek van de periode onder elektronisch toezicht - Verzuim - Gevolg",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 68, § 5, eerste lid - 35 ELI link Pub nr 2006009456",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Belang",
+    "Strafuitvoering - Strafuitvoeringsrechtbank - Elektronisch toezicht - Herroeping - Vermelding in het vonnis van de aftrek van de periode onder elektronisch toezicht - Verzuim - Gevolg",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 68, § 5, eerste lid - 35 ELI link Pub nr 2006009456"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250211.2N.17",
+  "source_sha256": "f847cf5105d2153eb48640f480711b5c78561166906dc4d0763e631953dc7863",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250211.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
