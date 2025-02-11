@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250211.2N.15",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250211.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-11",
+  "date_as_printed": "Vonnis/arrest van 11 februari 2025",
+  "published_on_juportal": "2025-02-20",
+  "language": "nl",
+  "role_number": "P.25.0111.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Juge de l'application des peines - Peines de moins de trois ans - Modalité d'exécution de la peine - Obligation de recueillir des informations - Organisation d'une audience - Appréciation souveraine par le juge de l'application des peines - Modalités",
+    "Strafuitvoeringsrechter - Straffen minder dan drie jaar - Strafuitvoeringsmodaliteit - Verplichting bijkomende info in te winnen - Organiseren van een rechtszitting - Onaantastbaar oordeel van de strafuitvoeringsrechter - Wijze"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Strafuitvoeringsrechter - Straffen minder dan drie jaar - Strafuitvoeringsmodaliteit - Verplichting bijkomende info in te winnen - Organiseren van een rechtszitting - Onaantastbaar oordeel van de strafuitvoeringsrechter - Wijze"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250211.2N.15",
+  "source_sha256": "b4f26e570d9db08b0c32b9a30422cc814a446e51474b68f6806da04c3786fee7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250211.2N.15_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/04/02/sitemap_23.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
