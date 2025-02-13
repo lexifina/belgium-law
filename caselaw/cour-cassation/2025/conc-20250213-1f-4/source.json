@@ -1,0 +1,32 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2025:CONC.20250213.1F.4",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250213.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-13",
+  "date_as_printed": "Conclusions du Ministère public du 13 février 2025",
+  "published_on_juportal": "2025-09-12",
+  "language": "fr",
+  "role_number": "C.20.0518.F",
+  "case_name_as_published": "C. contra C.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PARTAGE",
+    "VERDELING",
+    "Liquidation-partage - Juge - Contestation - Désignation d'un notaire - Mission",
+    "Vereffening-verdeling - Rechter - Betwisting - Aanwijzing van een notaris - Taak"
+  ],
+  "fiche": [
+    "PARTAGE",
+    "Liquidation-partage - Juge - Contestation - Désignation d'un notaire - Mission"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250213.1F.4",
+  "source_sha256": "98c9f1e4bd38183327ef4605b74bce18d6e6c609362a898db7e633a631500ae7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250213.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_324.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
