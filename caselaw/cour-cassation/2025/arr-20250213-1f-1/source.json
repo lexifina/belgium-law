@@ -1,0 +1,33 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250213.1F.1",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250213.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-13",
+  "date_as_printed": "Jugement/arrêt du 13 février 2025",
+  "published_on_juportal": "2025-03-07",
+  "language": "fr",
+  "role_number": "C.23.0239.F",
+  "case_name_as_published": "SIBELGA s.c. c. LA COMPAGNIE DE JACQUELINE s.r.l.",
+  "subjects": [
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 33",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 33",
+    "Communes - Pouvoir réglementaire - Intercommunale - Nature - Délégation de pouvoir réglementaire",
+    "Gemeenten - Verordenende bevoegdheid - Intercommunale - Aard - Overdracht van de verordenende bevoegdheid"
+  ],
+  "fiche": [
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 33",
+    "Communes - Pouvoir réglementaire - Intercommunale - Nature - Délégation de pouvoir réglementaire",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 33 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 41 - 30 Lien ELI No pub 1994021048 L. du 22 décembre 1986 relative aux intercommunales - 22-12-1986 - Art. 3 - 47 Lien ELI No pub 1987000020"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250213.1F.1",
+  "source_sha256": "eefcc099c69c86156e610b0152ecbf5b687d90f0c46a51295ebbc13f34046ee0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250213.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_171.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
