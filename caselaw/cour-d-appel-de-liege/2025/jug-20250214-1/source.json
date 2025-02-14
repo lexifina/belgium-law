@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2025:JUG.20250214.1",
+  "ecli": "ECLI:BE:CALIE:2025:JUG.20250214.1",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2025-02-14",
+  "date_as_printed": "Jugement/arrêt du 14 février 2025",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2023/RG/457",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX - Principes généraux du droit fiscal",
+    "Impôts sur les revenus – frais professionnels – article 49 CIR 92 – condition de finalité – société de management – deuxième véhicule Liège, 9ème ch. D., 14.02.2025, 2023/RG/457"
+  ],
+  "fiche": [
+    "DROIT FISCAL - DROIT FISCAL -PRINCIPES GÉNÉRAUX - Principes généraux du droit fiscal",
+    "Impôts sur les revenus – frais professionnels – article 49 CIR 92 – condition de finalité – société de management – deuxième véhicule Liège, 9ème ch. D., 14.02.2025, 2023/RG/457"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2025:JUG.20250214.1",
+  "source_sha256": "ed3f657309a77ad86b8be7c459984b8da93520437c841d9024c7346a38386828",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2025:JUG.20250214.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
