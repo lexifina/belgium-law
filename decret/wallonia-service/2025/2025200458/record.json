@@ -1,0 +1,29 @@
+{
+  "id": "2025200458",
+  "title": "30 JANVIER 2025. - Décret accordant le titre de ville à la Commune de Libramont-Chevigny",
+  "source_title": "30 JANVIER 2025. - Décret accordant le titre de ville à la Commune de Libramont-Chevigny",
+  "act": "decret/wallonia-service/2025/2025200458",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-02-17&numac_search=2025200458&page=10&lg_txt=F&caller=list&2025200458=4&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "30fdb47f42414beeae7933afe8933aebb49edd3c6f5a6cfd151d53cd4deaab9f",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-01-30",
+  "published": "2025-02-17",
+  "in_force": "2025-02-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 février 2025; own clause: Art. 2. Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "17 février 2025",
+    "Numéro": "2025200458",
+    "page": "29871",
+    "Dossier numéro": "2025-01-30/11",
+    "Entrée en vigueur": "17 février 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 37,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-02-17"
+}
