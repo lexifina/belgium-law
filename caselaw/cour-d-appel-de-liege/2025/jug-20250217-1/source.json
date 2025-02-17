@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2025:JUG.20250217.1",
+  "ecli": "ECLI:BE:CALIE:2025:JUG.20250217.1",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2025-02-17",
+  "date_as_printed": "Jugement/arrêt du 17 février 2025",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2023/RG/415",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - TAXE SUR LA VALEUR AJOUTÉE (T.V.A.)",
+    "Taxe sur la valeur ajoutée – vente de quotes-parts de propriété de chevaux – livraisons de biens (oui) – livraisons intracommunautaires exemptées (non)"
+  ],
+  "fiche": [
+    "DROIT FISCAL - TAXE SUR LA VALEUR AJOUTÉE (T.V.A.)",
+    "Taxe sur la valeur ajoutée – vente de quotes-parts de propriété de chevaux – livraisons de biens (oui) – livraisons intracommunautaires exemptées (non)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2025:JUG.20250217.1",
+  "source_sha256": "b847f4ce7c08b9574194efdbeb3df37b72a13bfcd48353beae01c49d434958a7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2025:JUG.20250217.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
