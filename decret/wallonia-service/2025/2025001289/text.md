@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Assentiment est donné à l'accord de coopération du 8 juillet 2024 entre l'Etat fédéral et la Région wallonne relatif à l'exécution des articles 19/1 à 19/3 de la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance.
