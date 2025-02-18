@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250218.2N.12",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250218.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-18",
+  "date_as_printed": "Vonnis/arrest van 18 februari 2025",
+  "published_on_juportal": "2025-02-21",
+  "language": "nl",
+  "role_number": "P.25.0219.N",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "MANDAT D'ARRET EUROPEEN",
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Exécution demandée à la Belgique - MAE délivré aux fins d'exécution d'une peine - Cause de refus facultative - Loi du 19 décembre 2003 relative au mandat d'arrêt européen, article 6, 4° - Pas d'obligation pour la juridiction d'instruction - Appréciation - Portée - Conséquence",
+    "UNION EUROPEENNE - DROIT MATERIEL - Principes",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Beginsels",
+    "Décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre Etats membres - Article 4, § 6 - Exécution demandée à la Belgique - MAE délivré aux fins d'exécution d'une peine - Cause de refus facultative - Pas d'obligation pour la juridiction d'instruction - Appréciation - Portée - Conséquence",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Mandat d'arrêt européen - Exécution demandée à la Belgique - MAE délivré aux fins d'exécution d'une peine - Cause de refus facultative - Loi du 19 décembre 2003 relative au mandat d'arrêt européen, article 6, 4° - Pas d'obligation pour la juridiction d'instruction - Appréciation - Portée - Conséquence",
+    "Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Artikel 6, 4°, Wet Europees Aanhoudingsbevel - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg",
+    "Kaderbesluit Europees Aanhoudingsbevel - Artikel 4.6 - Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg",
+    "Europees aanhoudingsbevel - Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Artikel 6, 4°, Wet Europees Aanhoudingsbevel - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Artikel 6, 4°, Wet Europees Aanhoudingsbevel - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg",
+    "Kaderbesluit 2002/584/JBZ van de Raad van de EU van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten - 13-06-2002 - Art. 4.6 Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 6, 4° - 32 ELI link Pub nr 2003009950",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Beginsels",
+    "Kaderbesluit Europees Aanhoudingsbevel - Artikel 4.6 - Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg",
+    "Kaderbesluit 2002/584/JBZ van de Raad van de EU van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten - 13-06-2002 - Art. 4.6 Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 6, 4° - 32 ELI link Pub nr 2003009950",
+    "ONDERZOEKSGERECHTEN",
+    "Europees aanhoudingsbevel - Tenuitvoerlegging gevraagd aan België - EAB ter fine van strafuitvoering - Facultatieve weigeringsgrond - Artikel 6, 4°, Wet Europees Aanhoudingsbevel - Geen verplichting voor het onderzoeksgerecht - Beoordeling - Draagwijdte - Gevolg",
+    "Kaderbesluit 2002/584/JBZ van de Raad van de EU van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten - 13-06-2002 - Art. 4.6 Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 6, 4° - 32 ELI link Pub nr 2003009950"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250218.2N.12",
+  "source_sha256": "b479957aa6a614086197d3287d81add47fccf9cde388a9c2d7c9b7919b26169a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250218.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_161.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
