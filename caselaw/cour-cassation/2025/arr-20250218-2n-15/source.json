@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250218.2N.15",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250218.2N.15",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-18",
+  "date_as_printed": "Vonnis/arrest van 18 februari 2025",
+  "published_on_juportal": "2025-02-21",
+  "language": "nl",
+  "role_number": "P.25.0233.N",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "VOORLOPIGE HECHTENIS - BEVEL TOT AANHOUDING",
+    "Mandat d'arrêt à charger d'un inculpé en raison d'une série de faits - Constatation du caractère irrégulier du mandat d'arrêt concernant l'un des faits - Effet sur la régularité du mandat d'arrêt concernant les autres faits - Portée - Conséquence",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Chambre des mises en accusation - Détention préventive - Mandat d'arrêt - Mandat d'arrêt à charger d'un inculpé en raison d'une série de faits - Constatation du caractère irrégulier du mandat d'arrêt concernant l'un des faits - Effet sur la régularité du mandat d'arrêt concernant les autres faits - Portée - Conséquence",
+    "Aanhouding van een inverdenkinggestelde wegens meerdere feiten - Vaststelling dat de aanhouding wegens één feit onregelmatig is - Effect op de regelmatigheid van het aanhoudingsbevel gesteund op de overige feiten - Draagwijdte - Gevolg",
+    "Kamer van inbeschuldigingstelling - Voorlopige hechtenis - Bevel tot aanhouding - Aanhouding van een inverdenkinggestelde wegens meerdere feiten - Vaststelling dat de aanhouding wegens één feit onregelmatig is - Effect op de regelmatigheid van het aanhoudingsbevel gesteund op de overige feiten - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - BEVEL TOT AANHOUDING",
+    "Aanhouding van een inverdenkinggestelde wegens meerdere feiten - Vaststelling dat de aanhouding wegens één feit onregelmatig is - Effect op de regelmatigheid van het aanhoudingsbevel gesteund op de overige feiten - Draagwijdte - Gevolg",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 16, § 5, eerste en tweede lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 21, § 4 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30, § 4 - 35 ELI link Pub nr 1990099963",
+    "ONDERZOEKSGERECHTEN",
+    "Kamer van inbeschuldigingstelling - Voorlopige hechtenis - Bevel tot aanhouding - Aanhouding van een inverdenkinggestelde wegens meerdere feiten - Vaststelling dat de aanhouding wegens één feit onregelmatig is - Effect op de regelmatigheid van het aanhoudingsbevel gesteund op de overige feiten - Draagwijdte - Gevolg",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 16, § 5, eerste en tweede lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 21, § 4 - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30, § 4 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250218.2N.15",
+  "source_sha256": "cb24e3b6b31a24b783c24225576ff657a7e1f8706f54912f74f8686ef3a5985e",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_163.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
