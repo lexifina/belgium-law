@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250220.1F.4",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250220.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-20",
+  "date_as_printed": "Jugement/arrêt du 20 février 2025",
+  "published_on_juportal": "2025-03-27",
+  "language": "fr",
+  "role_number": "C.23.0375.F-C.24.0002.F",
+  "case_name_as_published": "VICTRIX SOCSAN S.L. soc dt espagnol c. TUNSTALL GROUP H",
+  "subjects": [
+    "Droit des brevets",
+    "Octrooirecht",
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "BREVET D'INVENTION - GENERALITES",
+    "UITVINDINGSOCTROOI - ALGEMEEN",
+    "Droit du titulaire",
+    "PRATIQUES DU COMMERCE",
+    "HANDELSPRAKTIJKEN",
+    "Existence d'une position de dépendance économique d'une entreprise à l'égard d'une autre entreprise - Condition préalable",
+    "Recht van houder",
+    "Bestaan van een positie van economische afhankelijkheid van een bedrijf ten aanzien van een ander bedrijf - Voorafgaande voorwaarde"
+  ],
+  "fiche": [
+    "BREVET D'INVENTION - GENERALITES",
+    "Droit du titulaire",
+    "Code de droit économique - 28-02-2013 - Art. XI. 29, § 1er - 19 Lien ELI No pub 2013A11134",
+    "PRATIQUES DU COMMERCE",
+    "Existence d'une position de dépendance économique d'une entreprise à l'égard d'une autre entreprise - Condition préalable",
+    "Code de droit économique - 28-02-2013 - Art. IV.2/1 - 19 Lien ELI No pub 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250220.1F.4",
+  "source_sha256": "def20c94e9fb0aec8ce6b33fe2f2b411c1eae18fa416cd513f773973e2566e91",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250220.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_220.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
