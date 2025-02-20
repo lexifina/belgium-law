@@ -1,0 +1,53 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250220.1F.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250220.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-20",
+  "date_as_printed": "Jugement/arrêt du 20 février 2025",
+  "published_on_juportal": "2025-03-27",
+  "language": "fr",
+  "role_number": "F.22.0111.F",
+  "case_name_as_published": "S. contra ETAT BELGE FINANCES",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag van ambtswege en forfaitaire aanslag",
+    "Taxation d'office - Obligation du contribuable - Preuve du chiffre exact de ses revenus imposables et des autres éléments à envisager - Notion",
+    "Taxation d'office - Obligation du contribuable - Preuve du chiffre exact de ses revenus imposables et des autres éléments à envisager - Preuve non rapportée du chiffre exact de ses revenus imposables - Pouvoir du juge - Limite",
+    "Taxation d'office - Utilisation à des fins personnelles d'un véhicule mis gratuitement à disposition - Valeur à retenir à titre d'avantage de toute nature - Mode de fixation",
+    "Taxation d'office - Elément d'appréciation inconnu de l'administration au moment de la taxation - Conséquence",
+    "Taxation d'office - Non utilisation à des fins personnelles d'un véhicule mis à disposition - Preuve apportée après la taxation d'office - Effet",
+    "Aanslag van ambtswege - Verplichting van de belastingplichtige - Bewijs van het precieze bedrag van zijn belastbare inkomsten en van de overige in aanmerking komende gegevens - Begrip",
+    "Aanslag van ambtswege - Verplichting van de belastingplichtige - Bewijs van het precieze bedrag van zijn belastbare inkomsten en van de overige in aanmerking komende gegevens - Geen bewijs van het precieze bedrag van zijn belastbare inkomsten - Bevoegdheid van de rechter - Grens",
+    "Aanslag van ambtswege - Persoonlijk gebruik van een kosteloos ter beschikking gesteld voertuig - Waarde die in aanmerking wordt genomen als voordeel van alle aard - Wijze van bepaling",
+    "Aanslag van ambtswege - Beoordelingsgegeven dat de administratie niet bekend was op het ogenblik van de vestiging van de aanslag - Gevolg",
+    "Aanslag van ambtswege - Geen persoonlijk gebruik van een ter beschikking gesteld voertuig - Bewijs geleverd na de ambtshalve vaststelling van de aanslag - Uitwerking"
+  ],
+  "fiche": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "Taxation d'office - Obligation du contribuable - Preuve du chiffre exact de ses revenus imposables et des autres éléments à envisager - Notion",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 352, al. 1er - 32 Lien DB Justel 19920612-32",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "Taxation d'office - Obligation du contribuable - Preuve du chiffre exact de ses revenus imposables et des autres éléments à envisager - Preuve non rapportée du chiffre exact de ses revenus imposables - Pouvoir du juge - Limite",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 352, al. 1er - 32 Lien DB Justel 19920612-32",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "Taxation d'office - Utilisation à des fins personnelles d'un véhicule mis gratuitement à disposition - Valeur à retenir à titre d'avantage de toute nature - Mode de fixation",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 36, al. 1er et 2 - 32 Lien DB Justel 19920612-32 Arrêté Royal d'exécution du Code des Impôts sur les Revenus 1992 - 27-08-1993 - Art. 18, § 3, 9° - 48 Lien ELI No pub 1993003537",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "Taxation d'office - Elément d'appréciation inconnu de l'administration au moment de la taxation - Conséquence",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 351, al. 1er - 32 Lien DB Justel 19920612-32",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Taxation d'office ou forfaitaire",
+    "Taxation d'office - Non utilisation à des fins personnelles d'un véhicule mis à disposition - Preuve apportée après la taxation d'office - Effet",
+    "Côde des impôts sur les revenus 1992 - 12-06-1992 - Art. 36, al. 1er et 2 - 32 Lien DB Justel 19920612-32 Arrêté Royal d'exécution du Code des Impôts sur les Revenus 1992 - 27-08-1993 - Art. 18, § 3, 9° - 48 Lien ELI No pub 1993003537"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250220.1F.6",
+  "source_sha256": "2599af70f10cf59369e737394ac3ed098e3727ec0144ae1c540672430072b07d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250220.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_221.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
