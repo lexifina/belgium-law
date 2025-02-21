@@ -1,0 +1,33 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250221.1N.4",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250221.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-21",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 21 februari 2025",
+  "published_on_juportal": "2025-04-09",
+  "language": "nl",
+  "role_number": "F.22.0164.N-F.22.0165.N",
+  "case_name_as_published": "CEDEF cvoa contra BELGISCHE STAAT",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Frais dépassant de manière déraisonnable les besoins professionnels - Déduction de la taxe payée en amont - Possibilité",
+    "Kosten die op onredelijke wijze de beroepsbehoeften overtreffen - Aftrek voorbelasting - Mogelijkheid"
+  ],
+  "fiche": [
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Kosten die op onredelijke wijze de beroepsbehoeften overtreffen - Aftrek voorbelasting - Mogelijkheid",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 45, § 1 - 32 Link Justel databank 19690703-32"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250221.1N.4",
+  "source_sha256": "41ed2e44c746adc5cad6091b293d932d39502a48b913b73409d97c4f09fb1368",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250221.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_230.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
