@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250225.2N.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250225.2N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-25",
+  "date_as_printed": "Vonnis/arrest van 25 februari 2025",
+  "published_on_juportal": "2025-03-10",
+  "language": "nl",
+  "role_number": "P.25.0238.N",
+  "case_name_as_published": "R.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Tribunal de l'application des peines - Révocation de la libération conditionnelle - Indication des conditions non respectées - Conditions non reproduites dans le jugement de révocation - Conséquence",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Strafuitvoeringsrechtbank - Herroeping van de voorwaardelijke invrijheidstelling - Opgave van voorwaarden die zijn miskend - Geen weergave van de voorwaarden in het vonnis van herroeping - Gevolg"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Strafuitvoeringsrechtbank - Herroeping van de voorwaardelijke invrijheidstelling - Opgave van voorwaarden die zijn miskend - Geen weergave van de voorwaarden in het vonnis van herroeping - Gevolg",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 64, 3° - 35 ELI link Pub nr 2006009456",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Strafuitvoeringsrechtbank - Herroeping van de voorwaardelijke invrijheidstelling - Opgave van voorwaarden die zijn miskend - Geen weergave van de voorwaarden in het vonnis van herroeping - Gevolg",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 64, 3° - 35 ELI link Pub nr 2006009456"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250225.2N.5",
+  "source_sha256": "f052db3b492d0cd50029fa7c3ff4a31d628dd272eb84820684ba682fbed7e3e0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250225.2N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_178.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
