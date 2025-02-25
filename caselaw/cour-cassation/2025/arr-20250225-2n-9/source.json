@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250225.2N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250225.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-25",
+  "date_as_printed": "Vonnis/arrest van 25 februari 2025",
+  "published_on_juportal": "2025-03-10",
+  "language": "nl",
+  "role_number": "P.24.1679.N",
+  "case_name_as_published": "E. contra P.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "FAUX ET USAGE DE FAUX",
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Faux intellectuel - Usage d'une pièce à laquelle le suspect donne une interprétation autre que celle permise par ses termes",
+    "Intellectuele valsheid - Gebruik van een stuk waaraan de verdachte een ander interpretatie geeft aan het stuk dan dat de bewoordingen toelaten"
+  ],
+  "fiche": [
+    "VALSHEID EN GEBRUIK VAN VALSE STUKKEN",
+    "Intellectuele valsheid - Gebruik van een stuk waaraan de verdachte een ander interpretatie geeft aan het stuk dan dat de bewoordingen toelaten",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 196 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 197 - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250225.2N.9",
+  "source_sha256": "972231d86c10c7a4513299ca3a45507552777ce887f1af03b4b4a833960775f6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250225.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_175.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
