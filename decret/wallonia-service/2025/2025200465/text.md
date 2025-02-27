@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. L'Arrangement entre l'Organisation du Traité de l'Atlantique Nord et le Royaume de Belgique concernant le statut du personnel temporaire engagé par, et mis en fonction dans, un organisme OTAN situé sur le territoire du Royaume de Belgique, fait à Bruxelles le 7 février 2022, sortira son plein et entier effet.
