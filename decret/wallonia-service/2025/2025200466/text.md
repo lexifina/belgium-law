@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. La Convention n° 131 concernant la fixation des salaires minima, notamment en ce qui concerne les pays en voie de développement, adoptée à Genève le 22 juin 1970 par la Conférence Internationale du Travail à sa 54<sup>e</sup> session, sortira son plein et entier effet.
