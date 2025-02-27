@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. L'Accord de siège entre le Royaume de Belgique et l'Autorité Intergouvernementale pour le Développement, fait à Bruxelles le 16 février 2022, sortira son plein et entier effet.
