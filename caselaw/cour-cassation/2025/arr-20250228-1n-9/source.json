@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250228.1N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250228.1N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-02-28",
+  "date_as_printed": "Vonnis/arrest van 28 februari 2025",
+  "published_on_juportal": "2025-03-24",
+  "language": "nl",
+  "role_number": "C.24.0100.N",
+  "case_name_as_published": "BALOISE BELGIUM nv contra AG INSURANCE nv",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "SUBROGATION",
+    "INDEPLAATSSTELLING",
+    "Condition - Simultanément au paiement - Notion",
+    "ASSURANCES - GENERALITES",
+    "VERZEKERING - ALGEMEEN",
+    "Subrogation - Condition - Simultanément au paiement - Notion",
+    "PAYEMENT",
+    "BETALING",
+    "Voorwaarde - Gelijktijdig met de betaling - Begrip",
+    "Indeplaatsstelling - Voorwaarde - Gelijktijdig met de betaling - Begrip"
+  ],
+  "fiche": [
+    "INDEPLAATSSTELLING",
+    "Voorwaarde - Gelijktijdig met de betaling - Begrip",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1250, 1° - 30 ELI link Pub nr 1804032150",
+    "VERZEKERING - ALGEMEEN",
+    "Indeplaatsstelling - Voorwaarde - Gelijktijdig met de betaling - Begrip",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1250, 1° - 30 ELI link Pub nr 1804032150",
+    "BETALING",
+    "Indeplaatsstelling - Voorwaarde - Gelijktijdig met de betaling - Begrip",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1250, 1° - 30 ELI link Pub nr 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250228.1N.9",
+  "source_sha256": "726b6a941506fe8b00da1f155acb2457126fe957854ed7b2a41670001bf6650e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250228.1N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_186.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
