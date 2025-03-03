@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250303.3N.4",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250303.3N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-03",
+  "date_as_printed": "Vonnis/arrest van 03 maart 2025",
+  "published_on_juportal": "2025-03-24",
+  "language": "nl",
+  "role_number": "C.24.0202.N",
+  "case_name_as_published": "JAVNO PREDUZECE ELEKTROPRIVREDA BIH D.D. c. STRABAG AG",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "ARBITRAGE",
+    "Sentence arbitrale - Annulation - Juge - Compétence - Étendue",
+    "COMPETENCE ET RESSORT - GENERALITES",
+    "BEVOEGDHEID EN AANLEG - ALGEMEEN",
+    "Sentence arbitrale - Obligation de motiver - Étendue",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Arbitrage - Sentence arbitrale - Obligation de motiver - Étendue",
+    "Arbitrale uitspraak - Vernietiging - Rechter - Bevoegdheid - Omvang",
+    "Arbitrale uitspraak - Motiveringsplicht - Omvang",
+    "Arbitrage - Arbitrale uitspraak - Motiveringsplicht - Omvang"
+  ],
+  "fiche": [
+    "ARBITRAGE",
+    "Arbitrale uitspraak - Vernietiging - Rechter - Bevoegdheid - Omvang",
+    "Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1717, § 3, b), ii) - 06 ELI link Pub nr 1967101057",
+    "BEVOEGDHEID EN AANLEG - ALGEMEEN",
+    "Arbitrale uitspraak - Vernietiging - Rechter - Bevoegdheid - Omvang",
+    "Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1717, § 3, b), ii) - 06 ELI link Pub nr 1967101057",
+    "ARBITRAGE",
+    "Arbitrale uitspraak - Motiveringsplicht - Omvang",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1713, § 4 - 06 ELI link Pub nr 1967101057 Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1717, § 3, a), iv) - 06 ELI link Pub nr 1967101057",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Arbitrage - Arbitrale uitspraak - Motiveringsplicht - Omvang",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1713, § 4 - 06 ELI link Pub nr 1967101057 Gerechtelijk Wetboek - Deel VI: ARBITRAGE. (art. 1676 tot 1723) - 10-10-1967 - Art. 1717, § 3, a), iv) - 06 ELI link Pub nr 1967101057"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250303.3N.4",
+  "source_sha256": "0757cb63d71dcec92969bbe9524ce43d8f329e1c039ffcdad8e36f1c68ab8660",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250303.3N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_190.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
