@@ -1,0 +1,42 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250303.3N.8",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250303.3N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-03",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 03 maart 2025",
+  "published_on_juportal": "2025-03-26",
+  "language": "nl",
+  "role_number": "S.23.0051.N",
+  "case_name_as_published": "BELGISCHE STAAT, FINANCIEN contra VAN AUTRYVE",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "REGLEMENT COLLECTIF DE DETTES",
+    "COLLECTIEVE SCHULDENREGELING",
+    "Condamnation pénale - Amende - Absence de déclaration - Renonciation à la créance",
+    "PEINE - AMENDE ET DECIMES ADDITIONNELS",
+    "STRAF - GELDBOETE EN OPDECIEMEN",
+    "Règlement collectif de dettes - Condamnation pénale - Amende - Absence de déclaration - Renonciation à la créance",
+    "Strafrechtelijke veroordeling - Geldboete - Geen aangifte - Afstand schuldvordering",
+    "Collectieve schuldenregeling - Strafrechtelijke veroordeling - Geldboete - Geen aangifte - Afstand schuldvordering"
+  ],
+  "fiche": [
+    "COLLECTIEVE SCHULDENREGELING",
+    "Strafrechtelijke veroordeling - Geldboete - Geen aangifte - Afstand schuldvordering",
+    "Wetboek van Strafvordering - Boek II, Titel IV (Art 448 tot en met 524septies) - 12-12-1808 - Art. 464/1, § 8, derde en vierde lid - 30 ELI link Pub nr 1808121250 Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1675/9, §§ 1, 2°, 2 en 3 - 05 ELI link Pub nr 1967101056",
+    "STRAF - GELDBOETE EN OPDECIEMEN",
+    "Collectieve schuldenregeling - Strafrechtelijke veroordeling - Geldboete - Geen aangifte - Afstand schuldvordering",
+    "Wetboek van Strafvordering - Boek II, Titel IV (Art 448 tot en met 524septies) - 12-12-1808 - Art. 464/1, § 8, derde en vierde lid - 30 ELI link Pub nr 1808121250 Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1675/9, §§ 1, 2°, 2 en 3 - 05 ELI link Pub nr 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250303.3N.8",
+  "source_sha256": "5c60eda6c11353322f6f5a88976e96f53660be95b944449585a8b5dc1ad2ba44",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250303.3N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_217.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
