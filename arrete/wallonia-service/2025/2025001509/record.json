@@ -1,0 +1,29 @@
+{
+  "id": "2025001509",
+  "title": "22 JANVIER 2025. - Arrêté ministériel approuvant le plan communal d'aménagement dit \" Extension du parc d'activités économiques de Chastrès \" à Walcourt révisant le plan de secteur de Philippeville-Couvin",
+  "source_title": "22 JANVIER 2025. - Arrêté ministériel approuvant le plan communal d'aménagement dit \" Extension du parc d'activités économiques de Chastrès \" à Walcourt révisant le plan de secteur de Philippeville-Couvin",
+  "act": "arrete/wallonia-service/2025/2025001509",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-02-24&numac_search=2025001509&page=10&lg_txt=F&caller=list&2025001509=12&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "cc12365f1b66daf05bdf5e15dc23a1bad7ac656deb982cb4eb597669b0db0188",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-01-22",
+  "published": "2025-02-24",
+  "in_force": "2025-03-06",
+  "in_force_basis": "Justel: Entrée en vigueur : 6 mars 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "24 février 2025",
+    "Numéro": "2025001509",
+    "page": "32113",
+    "Dossier numéro": "2025-01-22/03",
+    "Entrée en vigueur": "6 mars 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 234,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-03-06"
+}
