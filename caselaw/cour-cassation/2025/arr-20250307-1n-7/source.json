@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250307.1N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250307.1N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-07",
+  "date_as_printed": "Vonnis/arrest van 07 maart 2025",
+  "published_on_juportal": "2025-03-25",
+  "language": "nl",
+  "role_number": "C.24.0048.N",
+  "case_name_as_published": "G. contra V.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE LA DEFENSE - MATIERE CIVILE",
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Droit judiciaire - Procédure - Mission du juge - Suppléance d'office des motifs - Conditions",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Matière civile (y compris les matières commerciale et sociale) - Droits de la défense - Mission du juge - Suppléance d'office des motifs - Conditions",
+    "Matière civile (y compris les matières commerciale et sociale) - Mission du juge - Autonomie des parties - Accord procédural - Exclusion d'une contestation déterminée - Condition",
+    "Gerechtelijk recht - Rechtspleging - Taak van de rechter - Ambtshalve aanvullen van redenen - Voorwaarden",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Recht van verdediging - Taak van de rechter - Ambtshalve aanvullen van redenen - Voorwaarden",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Taak van de rechter - Partijautonomie - Procedureakkoord - Bepaalde betwisting uitsluiten - Voorwaarde"
+  ],
+  "fiche": [
+    "RECHT VAN VERDEDIGING - BURGERLIJKE ZAKEN",
+    "Gerechtelijk recht - Rechtspleging - Taak van de rechter - Ambtshalve aanvullen van redenen - Voorwaarden",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Recht van verdediging - Taak van de rechter - Ambtshalve aanvullen van redenen - Voorwaarden",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "Burgerlijke zaken (handelszaken en sociale zaken inbegrepen) - Taak van de rechter - Partijautonomie - Procedureakkoord - Bepaalde betwisting uitsluiten - Voorwaarde"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250307.1N.7",
+  "source_sha256": "82eebaff2b65ec84c244dcdd0fdcd308df2fb726042fb998c01e9bc250e8a159",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250307.1N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_211.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
