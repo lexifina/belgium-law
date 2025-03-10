@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté règle, en application de l'article 138 de la Constitution, une matière visée à l'article 128 de celle-ci.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 13, alinéa 1er, de l'arrêté royal du 27 avril 1998 fixant les normes auxquelles une fonction de soins intensifs doit répondre pour être agréée, la phrase " Il travaille à temps plein à l'hôpital et exerce son activité principale dans la fonction. " est remplacée par les phrases " Il est attaché à temps plein à l'hôpital. Il exerce son activité principale dans la fonction sauf s'il est médecin-chef de service de plusieurs fonctions de soins intensifs du même hôpital. Dans ce dernier cas, il partage son temps de travail à temps plein entre les différentes fonctions. Le médecin-chef de service peut, pour une partie de sa mission, être assisté par un ou plusieurs médecins ayant une compétence particulière dans ce domaine. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le Ministre qui a la santé dans ses attributions est chargé de l'exécution du présent arrêté.
