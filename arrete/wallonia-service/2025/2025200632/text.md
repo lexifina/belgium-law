@@ -1,0 +1,10 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté règle, en application de l'article 138 de la Constitution, une matière visée à l'article 128 de celle-ci.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 8 de l'arrêté royal du 27 avril 1998 fixant les normes auxquelles une fonction " soins urgents spécialisés " doit répondre pour être agréée, modifié en dernier lieu par l'arrêté royal du 5 mars 2006, les modifications suivantes sont apportées :
+1° à l'alinéa 1er, la phrase " Il est attaché à temps plein à l'hôpital et il consacrera plus de la moitié de son temps de travail à l'activité dans la fonction et à la formation permanente du personnel attaché à sa fonction. " est remplacée par les phrases " Il est attaché à temps plein à l'hôpital. Il exerce son activité principale dans la fonction sauf s'il est médecin-chef de service de plusieurs fonctions " soins urgents spécialisés " du même hôpital. Dans ce dernier cas, il partage son temps de travail à temps plein entre les différentes fonctions et consacre celui-ci aux activités de ces fonctions ainsi qu'à la formation permanente du personnel attaché aux différentes fonctions. ";
+2° l'alinéa 2 est remplacé par ce qui suit :
+" Le médecin qui assume la direction d'une ou plusieurs fonctions " soins urgents spécialisés " peut simultanément être le médecin qui assume la direction d'une ou plusieurs fonctions " service mobile d'urgence ", tel que visé à l'article 5 de l'arrêté royal du 10 aout 1998 fixant les normes auxquelles une fonction " service mobile d'urgence " (SMUR) doit répondre pour être agréée. Dans ce cas, il partage son temps de travail à temps plein dans l'hôpital entre les différentes fonctions " soins urgents spécialisés " et " service mobile d'urgence ". ";
+3° l'article est complété par un alinéa rédigé comme suit :
+" Le médecin-chef de service peut, pour une partie de sa mission, être assisté par un ou plusieurs médecins ayant une compétence particulière dans ce domaine. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le Ministre qui a la santé dans ses attributions est chargé de l'exécution du présent arrêté.

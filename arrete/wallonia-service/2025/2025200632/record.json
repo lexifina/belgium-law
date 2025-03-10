@@ -1,0 +1,30 @@
+{
+  "id": "2025200632",
+  "title": "20 FEVRIER 2025. - Arrêté du Gouvernement wallon modifiant l'article 8 de l'arrêté royal du 27 avril 1998 fixant les normes auxquelles une fonction \" soins urgents spécialisés \" doit répondre pour être agréée",
+  "source_title": "20 FEVRIER 2025. - Arrêté du Gouvernement wallon modifiant l'article 8 de l'arrêté royal du 27 avril 1998 fixant les normes auxquelles une fonction \" soins urgents spécialisés \" doit répondre pour être agréée",
+  "act": "arrete/wallonia-service/2025/2025200632",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-02-28&numac_search=2025200632&page=9&lg_txt=F&caller=list&2025200632=18&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "8918189254b4050b25c9bcc390b6290ea71f241973039be6acc1e7bd6ee23048",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-02-20",
+  "published": "2025-02-28",
+  "in_force": "2025-03-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 mars 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "28 février 2025",
+    "Numéro": "2025200632",
+    "page": "32680",
+    "Dossier numéro": "2025-02-20/04",
+    "Entrée en vigueur": "10 mars 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 431,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-03-10"
+}
