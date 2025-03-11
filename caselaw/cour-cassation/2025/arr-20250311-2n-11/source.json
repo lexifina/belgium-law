@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250311.2N.11",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250311.2N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-11",
+  "date_as_printed": "Vonnis/arrest van 11 maart 2025",
+  "published_on_juportal": "2025-03-25",
+  "language": "nl",
+  "role_number": "P.24.1524.N",
+  "case_name_as_published": "D. contra C.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "TRIBUNAUX - MATIERE REPRESSIVE - Action civile",
+    "RECHTBANKEN - STRAFZAKEN - Burgerlijke rechtsvordering",
+    "Délai de conclusions - Dépôt de conclusions après l'expiration des délais fixés - Conséquence - Écartement de principe - Nouveaux délais de conclusions sollicités par la partie qui constate le dépôt tardif de conclusions et demande de remise - Portée - Conséquence",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Délais de conclusions - Dépôt de conclusions après l'expiration des délais fixés - Conséquence - Écartement de principe - Nouveaux délais de conclusions sollicités par la partie qui constate le dépôt tardif de conclusions et demande de remise - Portée - Conséquence",
+    "Conclusietermijn - Neerlegging van conclusies na het verstrijken van de vastgestelde termijnen - Gevolg - Principiële wering - Verzoek van de partij die de laattijdigheid van de neerlegging van conclusies vaststelt voor nieuwe conclusietermijnen en vraag tot uitstel - Draagwijdte - Gevolg",
+    "Conclusietermijnen - Neerlegging van conclusies na het verstrijken van de vastgestelde termijnen - Gevolg - Principiële wering - Verzoek van de partij die de laattijdigheid van de neerlegging van conclusies vaststelt voor nieuwe conclusietermijnen en vraag tot uitstel - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "RECHTBANKEN - STRAFZAKEN - Burgerlijke rechtsvordering",
+    "Conclusietermijn - Neerlegging van conclusies na het verstrijken van de vastgestelde termijnen - Gevolg - Principiële wering - Verzoek van de partij die de laattijdigheid van de neerlegging van conclusies vaststelt voor nieuwe conclusietermijnen en vraag tot uitstel - Draagwijdte - Gevolg",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4, elfde lid - 01 ELI link Pub nr 1878041750 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 152 - 30 ELI link Pub nr 1808111901 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 748, § 2 - 04 ELI link Pub nr 1967101055",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Conclusietermijnen - Neerlegging van conclusies na het verstrijken van de vastgestelde termijnen - Gevolg - Principiële wering - Verzoek van de partij die de laattijdigheid van de neerlegging van conclusies vaststelt voor nieuwe conclusietermijnen en vraag tot uitstel - Draagwijdte - Gevolg",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4, elfde lid - 01 ELI link Pub nr 1878041750 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 152 - 30 ELI link Pub nr 1808111901 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 748, § 2 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250311.2N.11",
+  "source_sha256": "b2bfe37de5e604f44de50d9b22a4ea79808e204871a75f2b86b147d6a500106e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250311.2N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_201.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
