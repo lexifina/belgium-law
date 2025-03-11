@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250311.2N.19",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250311.2N.19",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-11",
+  "date_as_printed": "Vonnis/arrest van 11 maart 2025",
+  "published_on_juportal": "2025-03-25",
+  "language": "nl",
+  "role_number": "P.25.0321.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - (MISE EN) LIBERTE SOUS CONDITIONS",
+    "VOORLOPIGE HECHTENIS - INVRIJHEIDSTELLING ONDER VOORWAARDEN",
+    "Cautionnement - Montant du cautionnement - Appréciation souveraine par le juge - Critères de fixation du montant - Motivation du montant - Portée - Conséquence",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Détention préventive - Mise en liberté sous conditions - Cautionnement - Montant du cautionnement - Appréciation souveraine par le juge - Critères de fixation du montant - Motivation du montant - Portée - Conséquence",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Borgsom - Bedrag van de borgsom - Onaantastbare beoordeling door de rechter - Criteria ter vaststelling van het bedrag - Motivering van het bedrag - Draagwijdte - Gevolg",
+    "Voorlopige hechtenis - Invrijheidstelling onder voorwaarden - Borgsom - Bedrag van de borgsom - Onaantastbare beoordeling door de rechter - Criteria ter vaststelling van het bedrag - Motivering van het bedrag - Draagwijdte - Gevolg"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - INVRIJHEIDSTELLING ONDER VOORWAARDEN",
+    "Borgsom - Bedrag van de borgsom - Onaantastbare beoordeling door de rechter - Criteria ter vaststelling van het bedrag - Motivering van het bedrag - Draagwijdte - Gevolg",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 35, § 4 - 35 ELI link Pub nr 1990099963",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Voorlopige hechtenis - Invrijheidstelling onder voorwaarden - Borgsom - Bedrag van de borgsom - Onaantastbare beoordeling door de rechter - Criteria ter vaststelling van het bedrag - Motivering van het bedrag - Draagwijdte - Gevolg",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 35, § 4 - 35 ELI link Pub nr 1990099963",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Voorlopige hechtenis - Invrijheidstelling onder voorwaarden - Borgsom - Bedrag van de borgsom - Onaantastbare beoordeling door de rechter - Criteria ter vaststelling van het bedrag - Motivering van het bedrag - Draagwijdte - Gevolg",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 35, § 4 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250311.2N.19",
+  "source_sha256": "463dd330fd3205cea95c37a9cac76fa0c1533c2133c1d0bc8f495d68b36e8639",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250311.2N.19_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_202.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
