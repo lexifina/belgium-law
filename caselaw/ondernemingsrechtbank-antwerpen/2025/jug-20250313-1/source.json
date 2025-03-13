@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2025:JUG.20250313.1",
+  "ecli": "ECLI:BE:ORANT:2025:JUG.20250313.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2025-03-13",
+  "date_as_printed": "Vonnis/arrest van 13 maart 2025",
+  "published_on_juportal": "2026-01-26",
+  "language": "nl",
+  "role_number": "A/24/03213",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Arbeidsrecht",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "aannemingsprijs, prijs in regie",
+    "SOCIAAL RECHT - ARBEID - Welzijn werknemer",
+    "aanwezigheidsregistratie, CheckinatWork",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Gerechtsdeskundige, deskundigenonderzoek, opportuniteit"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "aannemingsprijs, prijs in regie",
+    "SOCIAAL RECHT - ARBEID - Welzijn werknemer",
+    "aanwezigheidsregistratie, CheckinatWork",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Gerechtsdeskundige, deskundigenonderzoek, opportuniteit",
+    "Gerechtelijk Wetboek - 10-10-1967 - 962 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2025:JUG.20250313.1",
+  "source_sha256": "f8354f9bbd99f38840fe044019f83ef7d231d333fc777f4deb0a273ea5de2030",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2025:JUG.20250313.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/26/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
