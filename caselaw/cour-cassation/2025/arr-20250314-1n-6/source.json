@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250314.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250314.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-14",
+  "date_as_printed": "Vonnis/arrest van 14 maart 2025",
+  "published_on_juportal": "2025-05-06",
+  "language": "nl",
+  "role_number": "C.23.0463.N",
+  "case_name_as_published": "H. contra W.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière civile (y compris les matières commerciale et sociale)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Mesure de preuve - Injonction de produire certaines informations - Droit à la preuve",
+    "PREUVE - MATIERE CIVILE - Charge de la preuve. Liberté d'appréciation",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "Droit à la preuve - Mesures d'instruction - Mission du juge",
+    "Bewijsmaatregel - Bevel tot overlegging bepaalde informatie - Recht op bewijs",
+    "Recht op bewijs - Onderzoeksmaatregelen - Taak van de rechter"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Burgerlijke zaken (handelszaken en sociale zaken inbegrepen)",
+    "Bewijsmaatregel - Bevel tot overlegging bepaalde informatie - Recht op bewijs",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 871 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 877 - 04 ELI link Pub nr 1967101055",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "Recht op bewijs - Onderzoeksmaatregelen - Taak van de rechter",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 871 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 877 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250314.1N.6",
+  "source_sha256": "cd5758ff78e7a437e062366a35036afe60e0948457f53ceb506b7ccff153f774",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250314.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_268.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
