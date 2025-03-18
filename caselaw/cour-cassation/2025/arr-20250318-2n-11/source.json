@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250318.2N.11",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250318.2N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-18",
+  "date_as_printed": "Vonnis/arrest van 18 maart 2025",
+  "published_on_juportal": "2025-03-25",
+  "language": "nl",
+  "role_number": "P.24.1255.N",
+  "case_name_as_published": "S.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 43",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 43",
+    "Déchéance du droit de conduire pour incapacité - Exercice d'un recours par le conducteur - Validité de la déchéance au cours de la procédure - Prêt du véhicule à un conducteur qui conteste la déchéance de son droit de conduire pour incapacité - Caractère punissable du prêt",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 49",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 49",
+    "Prêt du véhicule à un conducteur qui conteste la déchéance de son droit de conduire pour incapacité - Déchéance du droit de conduire pour incapacité - Exercice d'un recours par le conducteur - Validité de la déchéance au cours de la procédure - Caractère punissable du prêt",
+    "Verval van het recht tot sturen wegens ongeschiktheid - Aanwenden van een rechtsmiddel door de bestuurder - Geldigheid van het verval tijdens de procedure - Uitlenen van het voertuig aan een bestuurder die het rijverbod wegens ongeschiktheid aanvecht - Strafbaarheid van het uitlenen",
+    "Uitlenen van het voertuig aan een bestuurder die het rijverbod wegens ongeschiktheid aanvecht - Verval van het recht tot sturen wegens ongeschiktheid - Aanwenden van een rechtsmiddel door de bestuurder - Geldigheid van het verval tijdens de procedure - Strafbaarheid van het uitlenen"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 43",
+    "Verval van het recht tot sturen wegens ongeschiktheid - Aanwenden van een rechtsmiddel door de bestuurder - Geldigheid van het verval tijdens de procedure - Uitlenen van het voertuig aan een bestuurder die het rijverbod wegens ongeschiktheid aanvecht - Strafbaarheid van het uitlenen",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 42 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 43 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 49, eerste lid - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 49",
+    "Uitlenen van het voertuig aan een bestuurder die het rijverbod wegens ongeschiktheid aanvecht - Verval van het recht tot sturen wegens ongeschiktheid - Aanwenden van een rechtsmiddel door de bestuurder - Geldigheid van het verval tijdens de procedure - Strafbaarheid van het uitlenen",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 42 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 43 - 31 ELI link Pub nr 1968031601 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 49, eerste lid - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250318.2N.11",
+  "source_sha256": "81f7da8f095fd5aead1d5d8c204d79f1ae838903da2391d8ea8aae1f10fcce8f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250318.2N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_204.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
