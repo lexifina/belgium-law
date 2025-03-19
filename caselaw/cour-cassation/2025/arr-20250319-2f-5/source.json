@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250319.2F.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250319.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-19",
+  "date_as_printed": "Jugement/arrêt du 19 mars 2025",
+  "published_on_juportal": "2025-04-04",
+  "language": "fr",
+  "role_number": "P.24.1751.F",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "OPPOSITION",
+    "VERZET",
+    "Matière répressive - Délai ordinaire d'opposition - Prise de cours - Signification régulière - Acte de signification attestant la remise de pièces au signifié - Portée",
+    "SIGNIFICATIONS ET NOTIFICATIONS - EXPLOIT",
+    "BETEKENINGEN EN KENNISGEVINGEN - EXPLOOT",
+    "Strafzaken - Gewone verzettermijn - Aanvang - Regelmatige betekening - Akte van betekening die de overhandiging van de stukken aan de ontvanger van de betekening aantoont - Draagwijdte"
+  ],
+  "fiche": [
+    "OPPOSITION",
+    "Matière répressive - Délai ordinaire d'opposition - Prise de cours - Signification régulière - Acte de signification attestant la remise de pièces au signifié - Portée",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 187, § 1er - 30 Lien ELI No pub 1808111901",
+    "SIGNIFICATIONS ET NOTIFICATIONS - EXPLOIT",
+    "Matière répressive - Délai ordinaire d'opposition - Prise de cours - Signification régulière - Acte de signification attestant la remise de pièces au signifié - Portée",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 187, § 1er - 30 Lien ELI No pub 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250319.2F.5",
+  "source_sha256": "bb1dc5b1ade0d1a96d571a0dd19a85e9fbb1082716250000c0e1fa80d4b24e99",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250319.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_226.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
