@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2025:JUG.20250320.1",
+  "ecli": "ECLI:BE:CALIE:2025:JUG.20250320.1",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2025-03-20",
+  "date_as_printed": "Jugement/arrêt du 20 mars 2025",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2023/CO/869",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - DOUANES ET ACCISES",
+    "Action publique - douanes et accises - parquet européen - compétence partagée - recevabilité."
+  ],
+  "fiche": [
+    "DROIT FISCAL - DOUANES ET ACCISES",
+    "Action publique - douanes et accises - parquet européen - compétence partagée - recevabilité."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2025:JUG.20250320.1",
+  "source_sha256": "7194fee760d0d145ae8d5c0878e3d7706e8f1ac0ff4e58ca38be243ad0785822",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2025:JUG.20250320.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
