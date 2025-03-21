@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250321.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250321.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-21",
+  "date_as_printed": "Vonnis/arrest van 21 maart 2025",
+  "published_on_juportal": "2025-04-25",
+  "language": "nl",
+  "role_number": "F.22.0046.N",
+  "case_name_as_published": "BARNEY INVEST nv contra PROVINCIE OOST-VLAANDEREN",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "Jugements et arrêts - Matière fiscale - Conclusions - Teneur des moyens - Conditions - Juge - Obligation de répondre - Conditions - Conséquence",
+    "JUGEMENTS ET ARRETS - MATIERE FISCALE",
+    "VONNISSEN EN ARRESTEN - BELASTINGZAKEN",
+    "Conclusions - Teneur des moyens - Conditions - Juge - Obligation de répondre - Conditions - Conséquence",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière fiscale",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Belastingzaken",
+    "Vonnissen en arresten - Belastingzaken - Conclusie - Inhoud van de middelen - Vereisten - Rechter - Antwoordplicht - Voorwaarden - Gevolg",
+    "Conclusie - Inhoud van de middelen - Vereisten - Rechter - Antwoordplicht - Voorwaarden - Gevolg"
+  ],
+  "fiche": [
+    "VORDERING IN RECHTE",
+    "Vonnissen en arresten - Belastingzaken - Conclusie - Inhoud van de middelen - Vereisten - Rechter - Antwoordplicht - Voorwaarden - Gevolg",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 744 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 780 - 04 ELI link Pub nr 1967101055",
+    "VONNISSEN EN ARRESTEN - BELASTINGZAKEN",
+    "Conclusie - Inhoud van de middelen - Vereisten - Rechter - Antwoordplicht - Voorwaarden - Gevolg",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 744 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 780 - 04 ELI link Pub nr 1967101055",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Belastingzaken",
+    "Conclusie - Inhoud van de middelen - Vereisten - Rechter - Antwoordplicht - Voorwaarden - Gevolg",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 744 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 780 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250321.1N.6",
+  "source_sha256": "17459e461a57412ae27fb41c40630bc3ab625c0d3a9326fba7036e5edeb1fc73",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250321.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_252.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
