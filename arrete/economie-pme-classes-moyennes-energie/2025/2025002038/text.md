@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'arrêté royal du 4 décembre 2022 déterminant les jetons de présence et les indemnités alloués aux membres de l'Ordre des architectes, il est inséré un article 2/1 rédigé comme suit :
+" Art. 2/1. Pour les personnes visées à l'article 1er, le montant total cumulé des jetons de présence et, le cas échéant, des indemnités horaires visées à l'article 2, ne peut excéder l'équivalent de six heures par jour et soixante-cinq heures par mois. Dans le calcul du montant total cumulé, il n'est pas tenu compte du remboursement des frais de déplacement visés à l'article 49bis, alinéa 2, de la loi du 26 juin 1963 créant un Ordre des architectes, ni de l'indemnité pour le temps de déplacement visé à l'article 2, alinéa 2. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a les Classes moyennes dans ses attributions est chargé de l'exécution du présent arrêté.
