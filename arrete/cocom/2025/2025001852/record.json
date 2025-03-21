@@ -1,0 +1,30 @@
+{
+  "id": "2025001852",
+  "title": "13 FEVRIER 2025. - Arrêté du Collège réuni fixant la liste des maladies à déclaration obligatoire",
+  "source_title": "13 FEVRIER 2025. - Arrêté du Collège réuni fixant la liste des maladies à déclaration obligatoire",
+  "act": "arrete/cocom/2025/2025001852",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-03-11&numac_search=2025001852&page=1&lg_txt=F&caller=list&2025001852=29&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMISSION+COMMUNAUTAIRE+COMMUNE",
+  "source_sha256": "9f34d45abfcd88c518a5512046749591832aa433511d8026c1070a2356fc2d00",
+  "source_issuer": "Commission communautaire commune",
+  "made": "2025-02-13",
+  "published": "2025-03-11",
+  "in_force": "2025-03-21",
+  "in_force_basis": "Justel: Entrée en vigueur : 21 mars 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Commission communautaire commune",
+    "Publication": "11 mars 2025",
+    "Numéro": "2025001852",
+    "page": "33928",
+    "Dossier numéro": "2025-02-13/11",
+    "Entrée en vigueur": "21 mars 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 327,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-03-21"
+}
