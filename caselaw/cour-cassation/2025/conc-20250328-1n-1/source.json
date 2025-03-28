@@ -1,0 +1,40 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250328.1N.1",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250328.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-03-28",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 28 maart 2025",
+  "published_on_juportal": "2025-05-06",
+  "language": "nl",
+  "role_number": "C.21.0543.N",
+  "case_name_as_published": "Intercommunale Ontwikkelingsmaatschappij contra C.",
+  "subjects": [
+    "Droit constitutionnel",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "ECONOMIE",
+    "Expansion économique - Vente de terrains - Droit de rachat - Action personnelle - Délai de prescription",
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "Durée - Expansion économique - Vente de terrains - Droit de rachat - Action personnelle - Délai de prescription",
+    "Economische expansie - Verkoop van gronden - Recht van terugkoop - Persoonlijke rechtsvordering - Verjaringstermijn",
+    "Duur - Economische expansie - Verkoop van gronden - Recht van terugkoop - Persoonlijke rechtsvordering - Verjaringstermijn"
+  ],
+  "fiche": [
+    "ECONOMIE",
+    "Economische expansie - Verkoop van gronden - Recht van terugkoop - Persoonlijke rechtsvordering - Verjaringstermijn",
+    "Wet 30 december 1970 betreffende de economische expansie - 30-12-1970 - Art. 32, §§ 1 en 2 - 02 ELI link Pub nr 1970123001 oud Burgerlijk Wetboek - 21-03-1804 - Art. 2262bis, eerste lid - 30 ELI link Pub nr 1804032150",
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "Duur - Economische expansie - Verkoop van gronden - Recht van terugkoop - Persoonlijke rechtsvordering - Verjaringstermijn",
+    "Wet 30 december 1970 betreffende de economische expansie - 30-12-1970 - Art. 32, §§ 1 en 2 - 02 ELI link Pub nr 1970123001 oud Burgerlijk Wetboek - 21-03-1804 - Art. 2262bis, eerste lid - 30 ELI link Pub nr 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250328.1N.1",
+  "source_sha256": "c14128d64c220db7fb48729492b5072cefe5d3ffcce8963b4a59326deb5f7c8d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250328.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_265.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
