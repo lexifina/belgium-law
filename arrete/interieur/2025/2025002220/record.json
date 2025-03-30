@@ -1,0 +1,29 @@
+{
+  "id": "2025002220",
+  "title": "5 MARS 2025. - Arrêté royal instituant la police locale de la zone de police de Beveren-Kruibeke-Zwijndrecht/Sint-Gillis-Waas/Stekene/Temse",
+  "source_title": "5 MARS 2025. - Arrêté royal instituant la police locale de la zone de police de Beveren-Kruibeke-Zwijndrecht/Sint-Gillis-Waas/Stekene/Temse",
+  "act": "arrete/interieur/2025/2025002220",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-03-20&numac_search=2025002220&page=70&lg_txt=F&caller=list&2025002220=26&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "9ca048f4fc17393959188016ee6def3c0b05d24c4796898b9fedbdf890abef70",
+  "source_issuer": "Intérieur",
+  "made": "2025-03-05",
+  "published": "2025-03-20",
+  "in_force": "2025-03-30",
+  "in_force_basis": "Justel: Entrée en vigueur : 30 mars 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "20 mars 2025",
+    "Numéro": "2025002220",
+    "page": "37858",
+    "Dossier numéro": "2025-03-05/03",
+    "Entrée en vigueur": "30 mars 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 63,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-03-30"
+}
