@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. L'article 14 de l'arrêté du 23 juin 2022 du Gouvernement de la Région de Bruxelles Capitale portant le règlement général de la comptabilité des communes entre en vigueur à la date du présent arrêté.
