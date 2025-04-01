@@ -1,0 +1,41 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Pour l'application de cet arrêté, il faut entendre par:
+1° l'Office: l'Office national de l'emploi, visé à l'article 7 de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+2° mesures d'employabilité: les mesures qui sont conformes à la définition et aux conditions prévues à l'article 7, § 1ernonies, de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+3° solde: le montant transféré à l'Office en application de l'article 38, § 3vicies bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, diminué des remboursements déjà effectuées par l'Office en application de cet arrêté;
+4° bénéficiaire: le travailleur licencié, l'employeur ou le prestataire de services professionnel qui peut réclamer le remboursement du coût réel des mesures d'employabilité suivies.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans les conditions prévues par cet arrêté, l'Office rembourse au bénéficiaire le montant du coût des mesures d'employabilité visées à l'article 1er, 2°.
+Le remboursement ne concerne uniquement que les mesures d'employabilité qui ont été suivies dans la période qui prend fin le dernier jour du deuxième trimestre qui suit celui dans lequel se situe soit la date de fin effective du délai de préavis, soit la date de fin de la période couverte par l'indemnité de congé.
+Le remboursement visé aux alinéas précédents est limité au coût des mesures d'employabilité et au solde.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.Le bénéficiaire qui souhaite obtenir le remboursement visé à l'article 2, doit pour cela introduire une demande auprès de l'Office.
+Cette demande s'effectue au moyen d'un formulaire dont le modèle est établi par l'Office et conformément aux directives mentionnées sur ce formulaire.
+Pour être complète, la demande doit contenir les pièces suivantes:
+1° une description précise des mesures d'employabilité qui ont été suivies et une déclaration, signée par le bénéficiaire, selon laquelle les mesures suivies visaient à constituer des étapes effectives vers un emploi auprès d'un nouvel employeur ou vers le développement d'une activité indépendante;
+2° la preuve que les mesures d'employabilité ont été suivies de façon effective et dans leur totalité;
+3° un aperçu des frais des mesures d'employabilité suivies et une preuve du paiement effectif de ces frais;
+4° le compte financier sur lequel les frais doivent être remboursés au bénéficiaire;
+5° les nom et prénom [<sup>1</sup> du travailleur]<sup>1</sup>, l'adresse et son numéro d'identification, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+6° le nom de l'employeur, son adresse et son numéro d'entreprise visé à l'arrêté royal du 24 juin 2003 fixant les règles d'attribution, la composition et les modalités de transfert du numéro d'entreprise et du numéro d'unité d'établissement dans la Banque-Carrefour des Entreprises;
+7° le nom du prestataire de services, son adresse et son numéro d'entreprise visé à l'arrêté royal du 24 juin 2003 précité;
+La demande de remboursement doit parvenir à l'Office au plus tard le dernier jour du troisième trimestre qui suit celui dans lequel se situe soit la date de fin effective du délai de préavis, soit la date de fin de la période couverte par l'indemnité de congé.
+Lorsque l'Office considère que la demande de remboursement est incomplète, il renvoie celle-ci [<sup>2</sup> ...]<sup>2</sup> dans le mois de la réception en indiquant tous les documents et renseignements manquants.
+La demande doit parvenir dûment complétée à l'Office dans le délai d'un mois prenant cours le jour suivant celui au cours duquel l'Office a renvoyé la demande.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024092002" target="_blank">2024-09-20/02</a>, art. 1, 002; En vigueur : 01-04-2025&gt;
+(<font color="red">2</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024092002" target="_blank">2024-09-20/02</a>, art. 2, 002; En vigueur : 01-04-2025&gt;
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>.L'Office peut vérifier toutes les déclarations et documents introduits par le bénéficiaire. Il peut procéder à toutes les enquêtes et investigations nécessaires, notamment auprès du prestataire de service des mesures d'employabilité et de l'employeur.
+L'Office peut refuser totalement ou partiellement la demande de remboursement lorsqu'il constate que:
+1° les mesures d'employabilité ne répondent pas aux conditions prévues à l'article 7, § 1er, alinéa 3, zh), et § 1nonies de la loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+2° la demande est incomplète et n'est pas complétée dans le délai visé à l'article 3, alinéa 6, de cet arrêté;
+3° les mesures d'employabilité n'ont pas été suivies par le travailleur de façon effective ou dans leur totalité;
+4° les mesures d'employabilité ont été suivies en dehors de la période visée à l'article 2, alinéa 2, de cet arrêté;
+5° la demande de remboursement a été introduite en dehors du délai visé à l'article 3, alinéa 4, de cet arrêté à moins que le bénéficiaire ne démontre que, suite à une situation de force majeure, il s'est trouvé dans l'impossibilité d'introduire la demande dans le délai.
+La décision de refus est notifiée par lettre recommandée [<sup>1</sup> au bénéficiaire et au travailleur]<sup>1</sup> si ce dernier n'est pas le bénéficiaire.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024092002" target="_blank">2024-09-20/02</a>, art. 3, 002; En vigueur : 01-04-2025&gt;
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Cet arrêté entre en vigueur au 1er avril 2025.
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. Le ministre qui a le Travail dans ses attributions est chargé de l'exécution du présent arrêté.
