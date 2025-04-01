@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250401.2N.27",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250401.2N.27",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-01",
+  "date_as_printed": "Vonnis/arrest van 01 april 2025",
+  "published_on_juportal": "2025-04-16",
+  "language": "nl",
+  "role_number": "P.25.0413.N",
+  "case_name_as_published": "C.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "Loi du 17 mai 2006 - Tribunal de l'application des peines - Octroi des modalités d'exécution de la peine - Contre-indications - Position de l'équipe psychosociale (SPS) qui s'écarte de celle des experts et autres autorités consultatives - Portée - Conséquence - Appréciation par le juge",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Matière répressive - Exécution des peines - Loi du 17 mai 2006 - Tribunal de l'application des peines - Octroi des modalités d'exécution de la peine - Contre-indications - Position de l'équipe psychosociale (SPS) qui s'écarte de celle des experts et autres autorités consultatives - Portée - Conséquence - Appréciation du juge",
+    "Wet Strafuitvoering - Strafuitvoeringsrechtbank - Toekenning van de strafuitvoeringsmodaliteiten - Tegenaanwijzingen - Zienswijze van de PSD die afwijkt van die van de deskundigen en andere adviserende overheden - Draagwijdte - Gevolg - Beoordeling door de rechter",
+    "Strafzaken - Strafuitvoering - Wet Strafuitvoering - Strafuitvoeringsrechtbank - Toekenning van de strafuitvoeringsmodaliteiten - Tegenaanwijzingen - Zienswijze van de PSD die afwijkt van die van de deskundigen en andere adviserende overheden - Draagwijdte - Gevolg - Beoordeling door de rechter"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Wet Strafuitvoering - Strafuitvoeringsrechtbank - Toekenning van de strafuitvoeringsmodaliteiten - Tegenaanwijzingen - Zienswijze van de PSD die afwijkt van die van de deskundigen en andere adviserende overheden - Draagwijdte - Gevolg - Beoordeling door de rechter",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 47, § 1 - 35 ELI link Pub nr 2006009456",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Strafzaken - Strafuitvoering - Wet Strafuitvoering - Strafuitvoeringsrechtbank - Toekenning van de strafuitvoeringsmodaliteiten - Tegenaanwijzingen - Zienswijze van de PSD die afwijkt van die van de deskundigen en andere adviserende overheden - Draagwijdte - Gevolg - Beoordeling door de rechter",
+    "Wet 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten - 17-05-2006 - Art. 47, § 1 - 35 ELI link Pub nr 2006009456"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250401.2N.27",
+  "source_sha256": "94e861c8a57ce5bf6513be85a8cd1f5d1606b5be625498515cd75d685f721813",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250401.2N.27_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_238.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
