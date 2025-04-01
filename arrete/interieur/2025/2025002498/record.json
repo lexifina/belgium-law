@@ -1,0 +1,30 @@
+{
+  "id": "2025002498",
+  "title": "20 MARS 2025. - Arrêté ministériel portant délégation de compétence et de signature dans certaines matières de personnel",
+  "source_title": "20 MARS 2025. - Arrêté ministériel portant délégation de compétence et de signature dans certaines matières de personnel",
+  "act": "arrete/interieur/2025/2025002498",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-03-27&numac_search=2025002498&page=68&lg_txt=F&caller=list&2025002498=10&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "1bb6b7540fb3b1b0d09853ddc7643bdb6913493437b015106ef0b3f67fe27590",
+  "source_issuer": "Intérieur",
+  "made": "2025-03-20",
+  "published": "2025-03-27",
+  "in_force": "2025-04-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 avril 2025; own clause: Art. 7. Le présent arrêté entre en vigueur le 1er avril 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "27 mars 2025",
+    "Numéro": "2025002498",
+    "page": "39336",
+    "Dossier numéro": "2025-03-20/01",
+    "Entrée en vigueur": "1 avril 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 919,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-04-01"
+}
