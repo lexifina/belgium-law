@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2025:JUG.20250403.1",
+  "ecli": "ECLI:BE:ORANT:2025:JUG.20250403.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2025-04-03",
+  "date_as_printed": "Vonnis/arrest van 03 april 2025",
+  "published_on_juportal": "2026-01-26",
+  "language": "nl",
+  "role_number": "A/24/03858",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "Aanneming, prijsbepaling, prijs in vrije rekening, meerwerken",
+    "Prijs aanneming, meerwerken",
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Totstandkoming overeenkomst - Precontractuele aansprakelijkheid",
+    "Aanneming, prijsbepaling, prijs in vrije rekening, precontractuele informatieverplichtingen"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "Aanneming, prijsbepaling, prijs in vrije rekening, meerwerken",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming",
+    "Prijs aanneming, meerwerken",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1793 - 34 ELI link Pub nr 1804032154",
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Totstandkoming overeenkomst - Precontractuele aansprakelijkheid",
+    "Aanneming, prijsbepaling, prijs in vrije rekening, precontractuele informatieverplichtingen",
+    "Burgerlijk Wetboek - 28-04-2022 - 5.16 - 27 ELI link Pub nr 2022A32058"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2025:JUG.20250403.1",
+  "source_sha256": "e0b1677152d1af9a5fbe933d9a6add619eae2267c0614c29f14661f4b7b862b9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2025:JUG.20250403.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/26/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
