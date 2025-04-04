@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250404.1N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250404.1N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-04",
+  "date_as_printed": "Vonnis/arrest van 04 april 2025",
+  "published_on_juportal": "2025-05-06",
+  "language": "nl",
+  "role_number": "D.23.0003.N",
+  "case_name_as_published": "G. contra INSTITIUUT BELANSTINGADVISEURS&ACCOUNTA",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "EXPERT-COMPTABLE",
+    "ACCOUNTANT",
+    "Résultat d'un travail intellectuel - Pièces du client - Distinction - Conséquence",
+    "Resultaat van de intellectuele arbeid - Stukken van cliënt - Onderscheid - Gevolg"
+  ],
+  "fiche": [
+    "ACCOUNTANT",
+    "Resultaat van de intellectuele arbeid - Stukken van cliënt - Onderscheid - Gevolg",
+    "Wet 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur - 17-03-2019 - Art. 43 - 03 ELI link Pub nr 2019040805"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250404.1N.7",
+  "source_sha256": "6b3bd28f8034acbb578cfe7a04ab3048078d21484d395f0b4a656efd87aa1255",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250404.1N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_269.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
