@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250404.1N.10",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250404.1N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-04",
+  "date_as_printed": "Vonnis/arrest van 04 april 2025",
+  "published_on_juportal": "2025-05-12",
+  "language": "nl",
+  "role_number": "D.24.0008.N",
+  "case_name_as_published": "S. contra Orde van advocaten rechtbank Antwerpen",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "AVOCAT",
+    "ADVOCAAT",
+    "Discipline - Action publique - Titre préliminaire du Code de procédure pénale, article 4 - Application",
+    "Tucht - Strafvordering - Artikel 4 Voorafgaande Titel Wetboek van Strafvordering - Toepassing"
+  ],
+  "fiche": [
+    "ADVOCAAT",
+    "Tucht - Strafvordering - Artikel 4 Voorafgaande Titel Wetboek van Strafvordering - Toepassing",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 4 - 01 ELI link Pub nr 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250404.1N.10",
+  "source_sha256": "d28c2cb9d60ae73a89af917b6b5922a02440297e3557bd3226e9a8cbfaf961de",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250404.1N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_276.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
