@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250404.1N.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250404.1N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-04",
+  "date_as_printed": "Vonnis/arrest van 04 april 2025",
+  "published_on_juportal": "2025-05-12",
+  "language": "nl",
+  "role_number": "D.24.0005.N",
+  "case_name_as_published": "BEROEPSINSTITUUT VAN VASTGOEDMAKELAARS contra B.",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "COURTIER",
+    "MAKELAAR",
+    "Agent immobilier - Sanction disciplinaire - Réinscription au tableau - Réhabilitation",
+    "Vastgoedmakelaar - Tuchtsanctie - Herinschrijving tableau - Eerherstel"
+  ],
+  "fiche": [
+    "MAKELAAR",
+    "Vastgoedmakelaar - Tuchtsanctie - Herinschrijving tableau - Eerherstel",
+    "Wet 11 februari 2013 houdende organisatie van het beroep van vastgoedmakelaar - 11-02-2013 - Art. 5, § 1, tweede lid - 51 ELI link Pub nr 2013011368 Wet 11 februari 2013 houdende organisatie van het beroep van vastgoedmakelaar - 11-02-2013 - Art. 14, § 1 - 51 ELI link Pub nr 2013011368 KB 20 juli 2012 tot bepaling van de regels inzake de organisatie en de werking van het Beroepsinstituut van Vastgoedmakelaars - 20-07-2012 - Art. 62, §§ 1 en 2 - 42 ELI link Pub nr 2012011347"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250404.1N.8",
+  "source_sha256": "5c83fb556734dd83ef0bc041554e281fc7ba6aa67743b8b2df4de1b1766e2637",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250404.1N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_278.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
