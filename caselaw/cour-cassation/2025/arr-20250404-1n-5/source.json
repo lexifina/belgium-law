@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250404.1N.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250404.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-04",
+  "date_as_printed": "Vonnis/arrest van 04 april 2025",
+  "published_on_juportal": "2025-05-12",
+  "language": "nl",
+  "role_number": "D.22.0017.N",
+  "case_name_as_published": "H. contra ORDE DER ARTSEN",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "PRINCIPES GENERAUX DU DROIT",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Principe de légalité - Matière disciplinaire",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 7",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 7",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 10",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 10",
+    "Article 11 - Action disciplinaire - Action publique - Distinction - Conséquence",
+    "Legaliteitsbeginsel - Tuchtzaken",
+    "Artikel 11 - Tuchtvordering - Strafvordering - Onderscheid - Gevolg"
+  ],
+  "fiche": [
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Legaliteitsbeginsel - Tuchtzaken",
+    "Legaliteitsbeginsel",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 7",
+    "Legaliteitsbeginsel - Tuchtzaken",
+    "Legaliteitsbeginsel",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 10",
+    "Artikel 11 - Tuchtvordering - Strafvordering - Onderscheid - Gevolg",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 10 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 11 - 30 ELI link Pub nr 1994021048"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250404.1N.5",
+  "source_sha256": "68549343d419935ae27acffd699417c52dff261062c16419c70630c9e2147541",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250404.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_277.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
