@@ -1,0 +1,30 @@
+{
+  "id": "2025002743",
+  "title": "16 MARS 2025. - Arrêté royal fixant les cadres linguistiques du Service fédéral des Pensions",
+  "source_title": "16 MARS 2025. - Arrêté royal fixant les cadres linguistiques du Service fédéral des Pensions",
+  "act": "arrete/office-national-pensions/2025/2025002743",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-04-04&numac_search=2025002743&page=69&lg_txt=F&caller=list&2025002743=6&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "3c3f83b1f32c8ff69ddac10b1ac2b458078eae99181fa9aaca61997a37a0a6a8",
+  "source_issuer": "Office national des pensions",
+  "made": "2025-03-16",
+  "published": "2025-04-04",
+  "in_force": "2025-04-04",
+  "in_force_basis": "Justel: Entrée en vigueur : 4 avril 2025; own clause: Art. 3. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Office national des pensions",
+    "Publication": "4 avril 2025",
+    "Numéro": "2025002743",
+    "page": "41309",
+    "Dossier numéro": "2025-03-16/02",
+    "Entrée en vigueur": "4 avril 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 200,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-04-04"
+}
