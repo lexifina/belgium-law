@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250407.3N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250407.3N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-07",
+  "date_as_printed": "Vonnis/arrest van 07 april 2025",
+  "published_on_juportal": "2025-06-17",
+  "language": "nl",
+  "role_number": "S.24.0037.N",
+  "case_name_as_published": "V. contra E.",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "REGLEMENT COLLECTIF DE DETTES",
+    "COLLECTIEVE SCHULDENREGELING",
+    "Médiateur de dettes - Remplacement - Appel interjeté par le médiateur de dettes",
+    "Schuldbemiddelaar - Vervanging - Hoger beroep door schuldbemiddelaar"
+  ],
+  "fiche": [
+    "COLLECTIEVE SCHULDENREGELING",
+    "Schuldbemiddelaar - Vervanging - Hoger beroep door schuldbemiddelaar",
+    "Gerechtelijk Wetboek - Eerste deel: ALGEMENE BEGINSELEN. (art. 1 tot 57) - 10-10-1967 - Art. 17 - 01 ELI link Pub nr 1967101052 Gerechtelijk Wetboek - Eerste deel: ALGEMENE BEGINSELEN. (art. 1 tot 57) - 10-10-1967 - Art. 18 - 01 ELI link Pub nr 1967101052 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1050 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1675/17, § 4 - 05 ELI link Pub nr 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250407.3N.6",
+  "source_sha256": "9947e4a7eaada6df45febd110fc70173a1b1ba9c99853c65c531f4cef8e2f558",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250407.3N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_302.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
