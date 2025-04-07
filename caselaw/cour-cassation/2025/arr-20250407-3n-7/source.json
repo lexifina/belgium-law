@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250407.3N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250407.3N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-07",
+  "date_as_printed": "Vonnis/arrest van 07 april 2025",
+  "published_on_juportal": "2025-06-17",
+  "language": "nl",
+  "role_number": "S.20.0064.N",
+  "case_name_as_published": "RSZ contra LUCKY8",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "SOCIALE ZEKERHEID - WERKNEMERS",
+    "Cotisation de solidarité - Nature de la cotisation - Conséquence - Majorations de cotisations - Intérêts de retard",
+    "Solidariteitsbijdrage - Aard van de bijdrage - Gevolg - Bijdrageopslagen - Verwijlintrest"
+  ],
+  "fiche": [
+    "SOCIALE ZEKERHEID - WERKNEMERS",
+    "Solidariteitsbijdrage - Aard van de bijdrage - Gevolg - Bijdrageopslagen - Verwijlintrest",
+    "Wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders - 27-06-1969 - Art. 22quater - 04 ELI link Pub nr 1969062710 Wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders - 27-06-1969 - Art. 28 - 04 ELI link Pub nr 1969062710 KB 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders - 28-11-1969 - Art. 54 - 01 ELI link Pub nr 1969112813"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250407.3N.7",
+  "source_sha256": "c1dd3f8200edcf8d5e1bcd068eacf20c9229e7dd5fced673eacea238ba23eb72",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250407.3N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_304.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
