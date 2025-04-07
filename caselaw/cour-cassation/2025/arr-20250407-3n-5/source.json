@@ -1,0 +1,39 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250407.3N.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250407.3N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-07",
+  "date_as_printed": "Vonnis/arrest van 07 april 2025",
+  "published_on_juportal": "2025-06-17",
+  "language": "nl",
+  "role_number": "C.24.0264.N",
+  "case_name_as_published": "BOULDER bv contra V.",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "URBANISME - GENERALITES",
+    "STEDENBOUW - ALGEMEEN",
+    "Plan d'exécution spatial - Prescriptions urbanistiques - Notions - Absence de définition - Conséquence",
+    "Plan d'exécution spatial - Prescriptions urbanistiques - Entreprise locale - Définition - Conséquence",
+    "Ruimtelijk uitvoeringsplan - Stedenbouwkundige voorschriften - Begrippen - Geen definitie - Gevolg",
+    "Ruimtelijk uitvoeringsplan - Stedenbouwkundige voorschriften - Lokaal bedrijf - Definitie - Gevolg"
+  ],
+  "fiche": [
+    "STEDENBOUW - ALGEMEEN",
+    "Ruimtelijk uitvoeringsplan - Stedenbouwkundige voorschriften - Begrippen - Geen definitie - Gevolg",
+    "Decr. van de Vlaamse Raad 18 mei 1999 houdende de organisatie van de ruimtelijke ordening - 18-05-1999 - Art. 38, § 1, eerste lid, 1° en 2° - 33 ELI link Pub nr 1999035652",
+    "STEDENBOUW - ALGEMEEN",
+    "Ruimtelijk uitvoeringsplan - Stedenbouwkundige voorschriften - Lokaal bedrijf - Definitie - Gevolg",
+    "Decr. van de Vlaamse Raad 18 mei 1999 houdende de organisatie van de ruimtelijke ordening - 18-05-1999 - Art. 38, § 1, eerste lid, 1° en 2° - 33 ELI link Pub nr 1999035652",
+    "Art. 2.1 van de verordenende stedenbouwkundige voorschriften van het GRUP-Henkelsite."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250407.3N.5",
+  "source_sha256": "0c02ee9bb24d55750d459784b1dac871943547d5bf973228ac1b6f6f24747f70",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250407.3N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_306.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
