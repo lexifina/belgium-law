@@ -1,0 +1,49 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250408.2N.27",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250408.2N.27",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-08",
+  "date_as_printed": "Vonnis/arrest van 08 april 2025",
+  "published_on_juportal": "2025-04-28",
+  "language": "nl",
+  "role_number": "P.25.0486.N",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - APPEL",
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "Procédure - Réquisitoire écrit du ministère public - Pas de conclusions - Obligation de motivation - Limite",
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE",
+    "Matière répressive - Détention préventive - Appel - Procédure - Réquisitoire écrit du ministère public - Pas de conclusions - Obligation de motivation",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Détention préventive - Appel - Procédure - Réquisitoire écrit du ministère public - Pas de conclusions - Obligation de motivation - Limite",
+    "Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht - Grens",
+    "Strafzaken - Voorlopige hechtenis - Hoger beroep - Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht",
+    "Voorlopige hechtenis - Hoger beroep - Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht - Grens"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht - Grens",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 23, 4° - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30 - 35 ELI link Pub nr 1990099963",
+    "OPENBAAR MINISTERIE",
+    "Strafzaken - Voorlopige hechtenis - Hoger beroep - Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 23, 4° - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30 - 35 ELI link Pub nr 1990099963",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Voorlopige hechtenis - Hoger beroep - Procedure - Schriftelijke vordering van het openbaar ministerie - Geen conclusie - Motiveringsplicht - Grens",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 23, 4° - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30 - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250408.2N.27",
+  "source_sha256": "8d7966936c176ca33360888f7f7908372a912a948336ef483066a8f50c5afc04",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250408.2N.27_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_261.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
