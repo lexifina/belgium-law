@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2025:ARR.20250408.1",
+  "ecli": "ECLI:BE:AHANT:2025:ARR.20250408.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2025-04-08",
+  "date_as_printed": "Vonnis/arrest van 08 april 2025",
+  "published_on_juportal": "2026-01-05",
+  "language": "nl",
+  "role_number": "2023/AA/254",
+  "case_name_as_published": "EXXONMOBIL PETROLEUM &amp; CHEMICAL BV tegen ABC",
+  "subjects": [
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "RECHTSMISBRUIK",
+    "BURGERLIJK RECHT - BURGERLIJK RECHT - ALGEMENE BEGINSELEN - Rechtsmisbruik",
+    "elektronische aangetekende zending absoluut nietig - maar rechtsmisbruik werkgever"
+  ],
+  "fiche": [
+    "RECHTSMISBRUIK",
+    "BURGERLIJK RECHT - BURGERLIJK RECHT - ALGEMENE BEGINSELEN - Rechtsmisbruik",
+    "elektronische aangetekende zending absoluut nietig - maar rechtsmisbruik werkgever",
+    "Burgerlijk Wetboek - 28-04-2022 - 1.10 Burgerlijk Wetboek - 28-04-2022 - 5.73 Wet - 03-07-1978 - 37 Verordening EG/EU - 2024/1183 - 11-04-2024 - 3,36° Wetboek van economisch recht - 28-02-2013 - XII.25 §7"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2025:ARR.20250408.1",
+  "source_sha256": "20f4878bda45e280dc48254951fcb91e5374e975b3bbf7e1c59fedd5c07f098d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2025:ARR.20250408.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/08/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
