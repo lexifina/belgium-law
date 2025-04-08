@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250408.2N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250408.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-08",
+  "date_as_printed": "Vonnis/arrest van 08 april 2025",
+  "published_on_juportal": "2025-04-28",
+  "language": "nl",
+  "role_number": "P.25.0133.N",
+  "case_name_as_published": "J.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PEINE - AMENDE ET DECIMES ADDITIONNELS",
+    "STRAF - GELDBOETE EN OPDECIEMEN",
+    "Roulage - Obligation de motivation - Disposition légale applicable - Réponse à une défense concernant une amende facultative - Limite",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Taux de la peine - Roulage - Obligation de motivation - Disposition légale applicable - Réponse à une défense concernant une amende facultative - Limite",
+    "Verkeerszaken - Motiveringsplicht - Toepasselijke wetsbepaling - Antwoord op een verweer over een facultatieve geldboete - Grens",
+    "Straftoemeting - Verkeerszaken - Motiveringsplicht - Toepasselijke wetsbepaling - Antwoord op een verweer over een facultatieve geldboete - Grens"
+  ],
+  "fiche": [
+    "STRAF - GELDBOETE EN OPDECIEMEN",
+    "Verkeerszaken - Motiveringsplicht - Toepasselijke wetsbepaling - Antwoord op een verweer over een facultatieve geldboete - Grens",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 195, vijfde en tiende lid - 30 ELI link Pub nr 1808111901",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Straftoemeting - Verkeerszaken - Motiveringsplicht - Toepasselijke wetsbepaling - Antwoord op een verweer over een facultatieve geldboete - Grens",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 195, vijfde en tiende lid - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250408.2N.9",
+  "source_sha256": "c550b00b5336e767352928d57b53fc0cb93946d8d4db42bec66bc933002e4c69",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250408.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_256.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
