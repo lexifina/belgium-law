@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250408.2N.23",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250408.2N.23",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-08",
+  "date_as_printed": "Vonnis/arrest van 08 april 2025",
+  "published_on_juportal": "2025-04-28",
+  "language": "nl",
+  "role_number": "P.25.0433.N",
+  "case_name_as_published": "SKY GLOBAL INC contra A.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RECUSATION",
+    "WRAKING",
+    "Cause de récusation soulevée en temps utile - Déclaration du juge portant son refus de s'abstenir - Cause de récusation complémentaire fondée sur des éléments de cette déclaration - Admissibilité",
+    "Tijdig opwerpen van de wrakingsgrond - Verklaring van de rechter die zich niet van de zaak onthoudt - Aanvullende wrakingsgrond op basis van gegevens van deze verklaring - Toelaatbaarheid"
+  ],
+  "fiche": [
+    "WRAKING",
+    "Tijdig opwerpen van de wrakingsgrond - Verklaring van de rechter die zich niet van de zaak onthoudt - Aanvullende wrakingsgrond op basis van gegevens van deze verklaring - Toelaatbaarheid",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 835 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 836 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250408.2N.23",
+  "source_sha256": "c8026739cc483a3ab008896c5a666491ed346279e844f5a3698b1589a1ee3f89",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250408.2N.23_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_253.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
