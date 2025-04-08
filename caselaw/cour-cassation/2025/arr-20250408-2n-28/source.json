@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20250408.2N.28",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250408.2N.28",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-08",
+  "date_as_printed": "Vonnis/arrest van 08 april 2025",
+  "published_on_juportal": "2025-04-28",
+  "language": "nl",
+  "role_number": "P.25.0485.N",
+  "case_name_as_published": "R.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - APPEL",
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "Procédure - Défaut de convocation de l'avocat de l'inculpé - Absence de demande de remise - Renonciation au droit à l'assistance d'un avocat - Conditions",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "Détention préventive - Appel - Procédure - Défaut de convocation de l'avocat de l'inculpé - Absence de demande de remise - Renonciation au droit à l'assistance d'un avocat - Conditions",
+    "AVOCAT",
+    "ADVOCAAT",
+    "Procedure - Geen oproeping van de advocaat van de verdachte - Geen verzoek tot uitstel van de zaak - Afstand van het recht op bijstand van een advocaat - Voorwaarden",
+    "Voorlopige hechtenis - Hoger beroep - Procedure - Geen oproeping van de advocaat van de verdachte - Geen verzoek tot uitstel van de zaak - Afstand van het recht op bijstand van een advocaat - Voorwaarden"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "Procedure - Geen oproeping van de advocaat van de verdachte - Geen verzoek tot uitstel van de zaak - Afstand van het recht op bijstand van een advocaat - Voorwaarden",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30, § 2, vijfde lid - 35 ELI link Pub nr 1990099963",
+    "ONDERZOEKSGERECHTEN",
+    "Voorlopige hechtenis - Hoger beroep - Procedure - Geen oproeping van de advocaat van de verdachte - Geen verzoek tot uitstel van de zaak - Afstand van het recht op bijstand van een advocaat - Voorwaarden",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30, § 2, vijfde lid - 35 ELI link Pub nr 1990099963",
+    "ADVOCAAT",
+    "Voorlopige hechtenis - Hoger beroep - Procedure - Geen oproeping van de advocaat van de verdachte - Geen verzoek tot uitstel van de zaak - Afstand van het recht op bijstand van een advocaat - Voorwaarden",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 30, § 2, vijfde lid - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250408.2N.28",
+  "source_sha256": "c905922518e96ffc948fa6d64162357eefc3ba4493c104ed6568bf88ed1108bf",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250408.2N.28_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_260.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
