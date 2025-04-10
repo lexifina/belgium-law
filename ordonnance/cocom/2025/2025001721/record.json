@@ -1,0 +1,29 @@
+{
+  "id": "2025001721",
+  "title": "19 FEVRIER 2025. - Ordonnance portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Autorité intergouvernementale pour le développement, fait à Bruxelles le 16 février 2022",
+  "source_title": "19 FEVRIER 2025. - Ordonnance portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Autorité intergouvernementale pour le développement, fait à Bruxelles le 16 février 2022",
+  "act": "ordonnance/cocom/2025/2025001721",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-03-31&numac_search=2025001721&page=1&lg_txt=F&caller=list&2025001721=27&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMISSION+COMMUNAUTAIRE+COMMUNE",
+  "source_sha256": "782ec7bba836c30c863a44d0819c1a14aaebf929bb2ca678eb0bc47db2e25327",
+  "source_issuer": "Commission communautaire commune",
+  "made": "2025-02-19",
+  "published": "2025-03-31",
+  "in_force": "2025-04-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 avril 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Commission communautaire commune",
+    "Publication": "31 mars 2025",
+    "Numéro": "2025001721",
+    "page": "40591",
+    "Dossier numéro": "2025-02-19/03",
+    "Entrée en vigueur": "10 avril 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 57,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-04-10"
+}
