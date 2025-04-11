@@ -1,0 +1,44 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20250411.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20250411.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-11",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 11 april 2025",
+  "published_on_juportal": "2025-05-09",
+  "language": "nl",
+  "role_number": "C.24.0118.N",
+  "case_name_as_published": "BELGISCHE STAAT FINANCIEN c. AQUARIUS AGE COMPANY",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PARTAGE",
+    "VERDELING",
+    "Créance contestée - Procès-verbal de distribution par contribution - Titre - Notion",
+    "SAISIE - SAISIE CONSERVATOIRE",
+    "BESLAG - BEWAREND BESLAG",
+    "Créance contestée - Traitement comme une saisie conservatoire - Consignation",
+    "Betwiste schuldvordering - Proces-verbaal van evenredige verdeling - Titel - Begrip",
+    "Betwiste schuldvordering - Behandeling zoals bewarend beslag - Consignatie"
+  ],
+  "fiche": [
+    "VERDELING",
+    "Betwiste schuldvordering - Proces-verbaal van evenredige verdeling - Titel - Begrip",
+    "Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1628 - 05 ELI link Pub nr 1967101056",
+    "BESLAG - BEWAREND BESLAG",
+    "Betwiste schuldvordering - Proces-verbaal van evenredige verdeling - Titel - Begrip",
+    "Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1628 - 05 ELI link Pub nr 1967101056",
+    "VERDELING",
+    "Betwiste schuldvordering - Behandeling zoals bewarend beslag - Consignatie",
+    "BESLAG - BEWAREND BESLAG",
+    "Betwiste schuldvordering - Behandeling zoals bewarend beslag - Consignatie"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20250411.1N.6",
+  "source_sha256": "aa7aff36d2b1ce72cd034bec0b36d4e05d48a21f8b40074903815c1c92fb150d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20250411.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_275.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
