@@ -1,0 +1,1 @@
+<a name="Art.1er"></a>Article 1er. La compétence est déléguée à l'Administrateur général de la Fiscalité du Service public fédéral Finances pour prolonger le délai visé à l'article 95<sup>7</sup>, l'alinéa 2, de l'AR/CIR 92, dans lequel la Région wallonne doit fournir l'attestation visée à l'article 275<sup>9/1</sup>, § 4, alinéa 3, du Code des impôts sur les revenus 1992.
