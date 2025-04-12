@@ -1,0 +1,29 @@
+{
+  "id": "2025200974",
+  "title": "20 MARS 2025. - Arrêté du Gouvernement wallon relatif à l'approbation profils métiers et de formation produits par le Service Francophone des Métiers et des Qualifications",
+  "source_title": "20 MARS 2025. - Arrêté du Gouvernement wallon relatif à l'approbation profils métiers et de formation produits par le Service Francophone des Métiers et des Qualifications",
+  "act": "arrete/wallonia-service/2025/2025200974",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-04-02&numac_search=2025200974&page=9&lg_txt=F&caller=list&2025200974=2&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "846d4b3008b04ca51601b69f9f91e1a8f7d1e0892fd680c0a3136e915cf1dd98",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-03-20",
+  "published": "2025-04-02",
+  "in_force": "2025-04-12",
+  "in_force_basis": "Justel: Entrée en vigueur : 12 avril 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "2 avril 2025",
+    "Numéro": "2025200974",
+    "page": "40994",
+    "Dossier numéro": "2025-03-20/04",
+    "Entrée en vigueur": "12 avril 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 555,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-04-12"
+}
