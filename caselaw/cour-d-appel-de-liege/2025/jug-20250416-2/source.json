@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2025:JUG.20250416.2",
+  "ecli": "ECLI:BE:CALIE:2025:JUG.20250416.2",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2025-04-16",
+  "date_as_printed": "Jugement/arrêt du 16 avril 2025",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2023/RG/909",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - IMPÔT SUR LES REVENUS - IMPÔT DES SOCIÉTES - Calcul impôt des sociétés",
+    "Impôts sur les revenus – impôt des sociétés – apport de branche d'activité en régime de neutralité fiscale - plus-values de réévaluation transférées en réserves disponibles antérieurement à l'apport – apporteur assujetti à l'impôt des personnes morales au moment du transfert en réserves disponibles - violation du droit comptable – ordre public – inopposabilité des écritures comptables illégales - rejet de la déduction des amortissements pratiqués sur la partie réévaluée des actifs apportés – respect de la condition d'intangibilité."
+  ],
+  "fiche": [
+    "DROIT FISCAL - IMPÔT SUR LES REVENUS - IMPÔT DES SOCIÉTES - Calcul impôt des sociétés",
+    "Impôts sur les revenus – impôt des sociétés – apport de branche d'activité en régime de neutralité fiscale - plus-values de réévaluation transférées en réserves disponibles antérieurement à l'apport – apporteur assujetti à l'impôt des personnes morales au moment du transfert en réserves disponibles - violation du droit comptable – ordre public – inopposabilité des écritures comptables illégales - rejet de la déduction des amortissements pratiqués sur la partie réévaluée des actifs apportés – respect de la condition d'intangibilité."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2025:JUG.20250416.2",
+  "source_sha256": "5670f66f28dfe4ef3534cc2abdf86e825e21af996c7047b07df26f145eb8c392",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2025:JUG.20250416.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
