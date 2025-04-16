@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20250416.2F.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20250416.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-04-16",
+  "date_as_printed": "Jugement/arrêt du 16 avril 2025",
+  "published_on_juportal": "2025-06-20",
+  "language": "fr",
+  "role_number": "P.25.0496.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "Chambre des mises en accusation - Réquisitoire écrit du ministère public - Respect du contradictoire - Moment de dépôt",
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE",
+    "Détention préventive - Maintien - Chambre des mises en accusation - Réquisitoire écrit du ministère public - Respect du contradictoire - Moment de dépôt",
+    "Kamer van inbeschuldigingstelling - Schriftelijke vordering van het openbaar ministerie - Eerbiediging van de tegenspraak - Tijdstip van neerlegging",
+    "Voorlopige hechtenis - Handhaving - Kamer van inbeschuldigingstelling - Schriftelijke vordering van het openbaar ministerie - Eerbiediging van de tegenspraak - Tijdstip van neerlegging"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Chambre des mises en accusation - Réquisitoire écrit du ministère public - Respect du contradictoire - Moment de dépôt",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 3 - 35 Lien ELI No pub 1990099963",
+    "MINISTERE PUBLIC",
+    "Détention préventive - Maintien - Chambre des mises en accusation - Réquisitoire écrit du ministère public - Respect du contradictoire - Moment de dépôt",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 3 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20250416.2F.5",
+  "source_sha256": "5248da8a3594c5cda9d697bcccc90fa63ebd6de813fe9782c1e92698c4be7498",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20250416.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_307.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
