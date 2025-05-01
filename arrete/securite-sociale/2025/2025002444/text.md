@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'annexe de l'arrêté royal du 24 mars 2024 fixant les conditions dans lesquelles le Comité de l'assurance peut conclure des conventions en application de l'article 56, § 2, alinéa 1er, 1°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, pour l'intervention dans le coût d'un traitement par hadronthérapie, au 1.1. Enfants (&lt;20 ans) la liste sous la rubrique Type tumeur est complétée par ce qui suit :
+" 19) Tumeurs rares du système nerveux central (incidence &lt; 6/100 000/an et/ou syndrome de prédisposition au cancer/syndrome génétique entraînant une radiosensibilité accrue) ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
