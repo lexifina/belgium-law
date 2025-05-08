@@ -1,0 +1,30 @@
+{
+  "id": "2025001305",
+  "title": "25 MARS 2025. - Loi relatif à la résilience opérationnelle numérique du secteur financier et portant dispositions diverses",
+  "source_title": "25 MARS 2025. - Loi relatif à la résilience opérationnelle numérique du secteur financier et portant dispositions diverses",
+  "act": "loi/finances/2025/2025001305",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-04-28&numac_search=2025001305&page=67&lg_txt=F&caller=list&2025001305=19&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "d72106434b1e2644706aaa4752b7c6801d1944f85b71149deb8ee4d8fc907b04",
+  "source_issuer": "Finances",
+  "made": "2025-03-25",
+  "published": "2025-04-28",
+  "in_force": "2025-05-08",
+  "in_force_basis": "Justel: Entrée en vigueur : 8 mai 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Finances",
+    "Publication": "28 avril 2025",
+    "Numéro": "2025001305",
+    "page": "45111",
+    "Dossier numéro": "2025-03-25/05",
+    "Entrée en vigueur": "8 mai 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 20536,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-05-08"
+}
