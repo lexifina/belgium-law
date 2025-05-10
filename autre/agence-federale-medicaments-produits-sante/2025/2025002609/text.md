@@ -1,0 +1,1 @@
+<a name="Art.M">Article </a> M. DECIDE de prolonger la soumission de l'exportation des médicaments injectables dont le principe actif est l'étoposide destinés au marché belge à une autorisation préalable jusqu'au 19 janvier 2026 inclus.Cette décision entre en vigueur le jour de sa notification aux distributeurs en gros.
