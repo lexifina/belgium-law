@@ -1,0 +1,203 @@
+Repertoriumnummer Uitgifte Uitgereikt aan Uitgereikt aan Uitgereikt aan
+Datum van uitspraak
+op op op Rolnummer € € €
+A/24/01858 M1
+ Niet aan te bieden aan de ontvanger
+Nederlandstalige Ondernemingsrechtbank Brussel
+Vonnis Aangeboden op
+Achtste kamer Niet te registreren
+Nederlandstalige Ondernemingsrechtbank Brussel – A/24/01858– pag. 1
+A/24/01858
+IN DE ZAAK VAN
+1. [AB], wonende te [ADRES 1] en met rijksregisternummer [RRN 1] (hierna “[AB]”);
+2. [CD], wonende te [ADRES 1] en met rijksregisternummer [RRN 2] (hierna “[CD]”);
+eisende partijen;
+vertegenwoordigd ter zitting door [ADVOCAAT 1]
+TEGEN
+3. [DE BANK], met zetel te door [ADRES 2], en ingeschreven bij de Kruispuntbank voor Ondernemingen onder het nummer door [ONDNR 1] (hierna “[DE BANK]”);
+verwerende partij;
+vertegenwoordigd ter zitting door [ADVOCAAT 1]
+I. PROCEDURE
+1.
+De rechtbank heeft kennis genomen van het dossier van de rechtspleging, waaronder de volgende stukken:
+− de gedinginleidende dagvaarding van 17 mei 2024;
+− de beschikking van 14 juni 2024 gewezen overeenkomstig artikel 747 van het Gerechtelijk Wetboek;
+− de syntheseconclusie van eisende partijen, neergelegd ter griffie op 17 februari 2025;
+− de syntheseconclusie van [DE BANK], neergelegd ter griffie op 17 maart 2025;
+− de stukkenbundels van partijen.
+De rechtbank heeft de middelen en conclusies van partijen gehoord tijdens de openbare terechtzitting van 27 maart 2025. Daarna werden de debatten gesloten en werd de zaak in beraad genomen.
+De rechtbank stelt vast dat de wet van 15 juni 1935 op het taalgebruik in gerechtszaken nageleefd is.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 2
+II. DE FEITEN
+De pertinente feiten, relevant voor de beoordeling van het geschil, zijn als volgt samen te vatten:
+2.
+[DE BANK] is een Belgische bankinstelling en in die hoedanigheid betalingsdienstaanbieder.
+Eisende partijen zijn klant bij [DE BANK] en houden onder meer een gezamenlijke zichtrekening aan met rekeningnummer [REKENING 1].
+3.
+In de nacht van 29 februari 2024 op 1 maart 2024 vonden er meerdere betalingstransacties plaats met deze zichtrekening, waarvan de volgende transacties voor een totaal van 10.373,98 euro door eisende partijen als frauduleus worden aangemerkt (hierna de “Betalingstransacties”):
+− 1,00 euro naar het rekeningnummer [REKENING 2] op naam van ene [EF];
+− 175,00 euro naar het rekeningnummer [REKENING 3] bij een Nederlandse bank op naam van [WEBSHOP 1];
+− 270,00 euro naar het rekeningnummer [REKENING 3] bij een Nederlandse bank op naam van [WEBSHOP 1];
+− 500,00 euro naar het rekeningnummer [REKENING 2] op naam van [EF];
+− 2.000,00 euro naar het rekeningnummer [REKENING 4] bij de buitenlandse bank;
+− 2.435,00 euro naar het rekeningnummer [REKENING 4] bij de buitenlandse bank [GH];
+− 2.495,00 euro naar het rekeningnummer [REKENING 5] op naam van GENTLE [IJ];
+− 2.497,98 euro naar het rekeningnummer [REKENING 6] op naam van ene [KL].
+Daarnaast vonden nog drie frauduleuze overschrijvingen plaats ten belope van 2.498,99 euro, 1.499,00 euro en 500,00 euro, welke bedragen nadien konden worden teruggevorderd.
+4.
+Eisende partijen brachten [DE BANK] ochtend in de van 1 maart 2024 hiervan op de hoogte.
+Dezelfde ochtend deed [CD] aangifte bij de politie van [POLITIEZONE X], waarvan een proces-
+verbaal werd opgemaakt met nummer [PVNR 1] en met de volgende inhoud (de rechtbank citeert uit stuk 4 eisende partijen):
+[INHOUD POLITIEKLACHT]
+[AB] legde op 4 maart 2024 eveneens klacht neer bij de politie van [POLITIEZONE X].
+5.
+Op 22 maart 2024 stelde de raadsman van eisende partijen [DE BANK] in gebreke. Eisende partijen voerden in deze brief aan dat zij op 1 maart 2024 het slachtoffer geworden waren van fraude als gevolg waarvan een totaal van 10.373,98 euro van hun zichtrekening was gedebiteerd. Eisende partijen gaven aan dat [DE BANK] onmiddellijk na het fraudegeval op de hoogte hadden gebracht en klacht neergelegd bij de politie. Volgens eisende partijen ging het om niet-toegestane betalingstransacties, zodat zij een aanspraak maakten op de terugbetaling door [DE BANK]
+conform artikel VII.41 van het Wetboek van Economisch Recht (“WER”).
+Op 15 mei 2024 liet [DE BANK] weten dat zij de betwiste betalingstransacties had onderzocht.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 3
+Volgens [DE BANK] konden deze transacties plaatsvinden omdat de [BANKAPPLICATIE 1]1 op 9
+februari 2024 was geïnstalleerd op een iPhone van de fraudeur. Die installatie was mogelijk dankzij een sterke authenticatie met behulp van de debetkaart van eisende partijen — die op dat moment niet als verloren of gestolen stond geregistreerd — en een responscode gegenereerd via de kaartlezer. [DE BANK] verklaarde dat in het kader van deze installatie een sms met een activatiecode was verzonden naar het gsm-nummer van [AB]. Die code werd door de fraudeur gebruikt om de app te activeren. Daarnaast werd een tweede sms verstuurd met een melding van de installatie, waarin ook werd gewaarschuwd dat, indien de installatie niet door de ontvanger zelf was verricht, onmiddellijke actie vereist was. Voorts gaf [DE BANK] aan dat het ging om instantoverschrijvingen die niet konden worden geannuleerd. Wel konden de volgende bedragen worden gerecupereerd: 2.498,99 euro, 1.499,00 euro en 500,00 euro. [DE BANK] was van oordeel hiermee al het nodige te hebben gedaan. Tot slot stelde [DE BANK] niet tot terugbetaling gehouden te zijn, omdat eisende partijen volgens haar niet alle nodige voorzorgsmaatregelen hadden genomen, de algemene bankvoorwaarden hadden geschonden en grof nalatig waren geweest door persoonlijke gegevens aan een derde te verstrekken.
+6.
+Op 17 mei 2024 dagvaardde eisende partijen [DE BANK] voor deze rechtbank.
+7.
+De raadsman van eisende partijen betwistte op 22 mei 2024 de inhoud van de brief van [DE BANK]
+van 15 mei 2024 integraal. Hij gaf aan dat eisende partijen zich niet herinnerden op 9 februari 2024 handelingen te hebben gesteld met gebruik van hun bankgegevens, rekeningnummer, kaartlezer en responscode met het oog op de installatie van de [BANKAPPLICATIE 1] op een iPhone, zodat zij bij hun standpunt bleven. Bovendien betwistten eisende partijen dat zij grof nalatig zouden zijn geweest.
+8.
+Op 27 mei 2024 kon nog een bedrag van 7,98 euro worden gerecupereerd, en op 23 oktober 2024
+nog eens 497,90 euro.
+III. DE VORDERINGEN VAN PARTIJEN
+9.
+De vordering van eisende partijen strekt ertoe (de rechtbank citeert uit de syntheseconclusie):
+“De vordering van concluanten ontvankelijk en gegrond te verklaren.
+Bijgevolg verweerster te veroordelen om aan concluanten een bedrag van 10.373,98 euro te betalen, te vermeerderen met de verwijlinteresten vanaf 01.03.2024 en meer de gerechtelijke interesten tot datum van algehele betaling, onder aftrek van de terugbetaalde bedragen van 7,98 euro (betaald op 2-05-2024) en 497,90 euro (betaald op 23-10-2024).
+Verweerster tevens te veroordelen tot de kosten van het geding, met inbegrip van de rechtsplegingsvergoeding dewelke aan de zijde van concluanten begroot:
+1
+De [BANKAPPLICATIE 1] is een mobiele applicatie van [DE BANK] waarmee klanten hun bankverrichtingen online kunnen uitvoeren, zoals het raadplegen van rekeningsaldi, uitvoeren van overschrijvingen en beheren van betalingen.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 4
+− Dagvaarding en rolstelling: P.M.
+− Rechtsplegingsvergoeding: 1.650,00 EUR”
+10.
+[DE BANK] concludeert tot de afwijzing van de vordering als ongegrond en de veroordeling van eisende partijen tot de kosten van het geding, aan de zijde van [DE BANK] begroot op 1.650,00
+euro aan rechtsplegingsvergoeding.
+IV. BEOORDELING
+IV.1. RECHTSMACHT
+11.
+Er wordt geen exceptie inzake rechtsmacht opgeworpen door de partijen of ambtshalve.
+De rechtbank beschikt over de rechtsmacht om van het aan haar voorgelegde geschil kennis te nemen.
+IV.2. BEVOEGDHEID
+12.
+De bevoegdheid van de rechtbank wordt niet betwist.
+De rechtbank stelt vast dat zij materieel bevoegd is op grond van artikel 573 van het Gerechtelijk Wetboek. De zaak betreft een geschil tussen of minstens tegen ondernemingen, in de zin van artikel I.1, 1° van het Wetboek van Economisch Recht, en behoort niet tot de exclusieve bevoegdheid van een ander rechtscollege.
+De rechtbank ziet geen reden om zich ambtshalve onbevoegd te verklaren.
+IV.3. ONTVANKELIJKHEID
+13.
+De ontvankelijkheid van de vordering van eisende partijen wordt niet betwist.
+De rechtbank stelt geen ambtshalve op te werpen gronden van niet-ontvankelijkheid vast.
+De vordering van eisende partijen is dan ook ontvankelijk.
+IV.4. GEGRONDHEID
+IV.4.1. Niet toegestane betalingstransacties
+14.
+Eisende partijen voeren aan dat de kwestieuze Betalingstransacties niet-toegestane betalingstransacties zijn, omdat zij er niet mee hebben ingestemd. Zij stellen pas kennis te hebben genomen van de kwestieuze Betalingstransacties bij het openen van hun bankapplicatie op 1
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 5
+maart 2024 in de ochtend.
+[DE BANK] betwist dit en stelt dat het in deze zaak om toegestane betalingstransacties gaat. [DE
+BANK] meent dat de Betalingstransacties werden verricht via de [BANKAPPLICATIE 1] die op 9
+februari 2024 op een iPhone werd geïnstalleerd na het doorlopen van de sterke authenticatie.
+Deze authenticatie veronderstelt het gebruik van de bankkaart, de kaartlezer, het invoeren van de door de kaartlezer gegenereerde responscode en het invoeren van een per sms verzonden OTP-code2.
+15.
+Krachtens artikel VII.32, §1 WER wordt een betalingstransactie pas als toegestaan aangemerkt als de betaler met de uitvoering van de betalingsopdracht heeft ingestemd. Al naargelang wat de betaler en betalingsdienstaanbieder zijn overeenkomen, kan de betaler een betalingstransactie voorafgaand aan de uitvoering of ook nadien toestaan (artikel VII.32, §1, tweede lid WER). De instemming met een betalingstransactie wordt verleend in de tussen de betaler en de betalingsdienstaanbieder overeengekomen vorm en volgens de overeengekomen procedure (artikel VII.32, §2, eerste lid en §4).
+De bewijslast over het al dan niet toegestaan karakter van een betalingstransactie wordt door artikel VII.42, §1 WER omgekeerd. Wanneer een betaler aanvoert niet met de betaling te hebben ingestemd, is het aan de betalingsdienstaanbieder om dit te weerleggen.
+Wanneer een betalingsdienstgebruiker ontkent dat hij een uitgevoerde betalingstransactie heeft toegestaan of aanvoert dat de betalingstransactie niet correct is uitgevoerd, is de betalingsdienstaanbieder gehouden het bewijs te leveren dat de betalingstransactie is geauthentiseerd, juist is geregistreerd, is geboekt en niet door een technische storing of enig ander falen van de door de betalingsdienstaanbieder aangeboden diensten is beïnvloed (artikel VII.42, §1, eerste lid WER).
+Het louter gebruik van een betaalinstrument bewijst op zichzelf niet noodzakelijk afdoende dat het om een toegestane betaling gaat (artikel VII.42, §2 WER).
+Zelfs wanneer de betalingsdienstaanbieder het bewijs van de authenticatie van de transactie levert en in het bijzonder van het feit dat het betalingsinstrument overeenkomstig de overeengekomen procedure werd gebruikt, niet mag verhinderen dat de betalingsgebruiker aannemelijk maakt dat hij zelf de transactie niet heeft geïnitieerd.
+Vermits eisende partijen aanvoeren dat zij niet met de betaling hebben ingestemd, is het aan [DE
+BANK] als betalingsdienstaanbieder om dit te weerleggen.
+16.
+Uit de door beide partijen geschetste feiten en de aangifte bij de politie blijkt dat eisende partijen het slachtoffer zijn geworden van fraude.
+Zelfs indien [DE BANK] erin zou slagen aan te tonen dat de installatie van de [BANKAPPLICATIE 1]
+gebeurde overeenkomstig de overeengekomen procedure, met sterke authenticatie via de bankkaart van eisende partijen, de kaartlezer, de gegenereerde responscode en de per sms verzonden OTP-code, levert dit op zich geen voldoende bewijs op van instemming met de
+2
+Een OTP-code (voluit One-Time Password) is een eenmalige beveiligingscode die door de bank wordt gegenereerd en gebruikt wordt als extra verificatiestap bij online bankverrichtingen of de installatie van een bankapplicatie.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 6
+betalingstransacties die nadien via deze app werden uitgevoerd.
+[DE BANK] levert geen bijkomend bewijs dat de rechtbank kan overtuigen van het feit dat eisende partijen effectief hebben ingestemd met de kwestieuze Betalingstransacties van 1 maart 2024, die zij als frauduleus aanmerken.
+In deze omstandigheden oordeelt de rechtbank dat eisende partijen hun instemming niet hebben gegeven met de uitvoering van de kwestieuze Betalingstransacties. Zij hebben immers niet – ook niet per vergissing – de opdracht gegeven om welbepaalde bedragen op welbepaalde rekeningen over te maken, hetgeen de essentie is van een betaalopdracht.
+De Betalingstransacties in deze zaak zijn niet-toegestane betalingstransacties.
+IV.4.2. Aansprakelijkheid voor niet-toegestane betalingstransacties
+17.
+[DE BANK] stelt dat, voor zover het om niet-toegestane betalingstransacties zou gaan, eisende partijen zich in elk geval schuldig hebben gemaakt aan grove nalatigheid in de zin van artikel VII.44, §1, vierde lid WER, zodat zij zelf instaan voor de daardoor geleden verliezen. [DE BANK]
+wijst op de voorzichtigheidsplicht van de betalingsdienstgebruiker en beroept zich op artikel VII.38 WER en artikel 5.7 van haar algemene bankvoorwaarden. Zij voert diverse feiten aan die volgens haar, zowel afzonderlijk als in onderlinge samenhang beschouwd, kwalificeren als grove nalatigheid in hoofde van eisende partijen. [DE BANK] verwijt hen onder meer excessieve onzorgvuldigheid door het delen van een OTP-code en het negeren van meerdere waarschuwingen.
+Eisende partijen betwisten dat zij grof nalatig zijn geweest. Zij stellen dat zij nooit enige code aan derden hebben doorgegeven, noch verdachte e-mails of berichten hebben ontvangen die aanleiding zouden hebben gegeven tot onzorgvuldig handelen. Zij ontkennen bovendien ooit een tweede sms met een OTP-code te hebben ontvangen voor de installatie van de [BANKAPPLICATIE
+1] op een iPhone van de fraudeur. Zij stellen enkel de waarschuwings-sms werd ontvangen, en dat die bovendien werd gestuurd naar [CD] op een ogenblik dat zij in het ziekenhuis verbleef, waar zij haar berichten niet of nauwelijks opvolgde en dit terwijl de fraude zou zijn gepleegd met de bankkaart van [AB]. Zij betwisten een tweede sms met een OPT-code te hebben ontvangen.
+Daarnaast benadrukken zij dat zij door [DE BANK] niet werden verwittigd op het ogenblik dat de frauduleuze transacties plaatsvonden, terwijl zijzelf bij de ontdekking ervan wel onmiddellijk en adequaat hebben gehandeld en [DE BANK] daarvan op de hoogte hebben gebracht om verdere schade te voorkomen. Eisende partijen beroepen zich op artikel VII.44, tweede lid, §2 WER en voeren aan dat de betwiste Betalingstransacties slechts konden plaatsvinden doordat [DE BANK]
+slechts beperkte cliëntauthenticatie heeft toegepast bij de uitvoering ervan. Zij vragen dan ook dat [DE BANK] wordt veroordeeld tot integrale terugbetaling van de bedragen die zij door de fraude hebben verloren.
+18.
+De basisregel van artikel VII.44 WER is dat het verlies dat de betaler zelf dient te dragen ingevolge een niet-toegestane betalingstransactie vóór de kennisgeving van het onrechtmatig gebruik van het betalingsinstrument beperkt blijft tot 50,00 euro (artikel VII.44, §1, eerste lid WER). In afwijking hiervan, moet de betaler geen enkel verlies dragen (i) indien hij het onrechtmatig gebruik van het betaalinstrument niet kon vaststellen voordat de betaling plaatsvond (artikel VII.44, §1, tweede lid, 1° WER) of (i) wanneer de betalingsdienstaanbieder geen sterke
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 7
+cliëntauthenticatie verlangt (artikel VII.44, tweede lid, §2 WER). De betaler draagt in ieder geval alle verliezen indien bank kan bewijzen dat de betaler grof nalatig is geweest en één of meer van de in artikel VII.38 genoemde verplichtingen niet is nagekomen (artikel VII.44, §1, vierde lid WER).
+Artikel VII.38 WER bepaalt dat de betalingsdienstgebruiker die gemachtigd is een betaalinstrument te gebruiken, dient te voldoen aan volgende verplichtingen (de rechtbank citeert de wet):
+“1° hij gebruikt het betaalinstrument overeenkomstig de voorwaarden die op de uitgifte en het gebruik van het betaalinstrument van toepassing zijn; deze voorwaarden moeten objectief, niet-discriminerend en evenredig zijn;
+2° wanneer hij zich rekenschap geeft van het verlies, de diefstal, het onrechtmatig gebruik of het niet-toegestane gebruik van het betaalinstrument, stelt hij de betalingsdienstaanbieder of de door laatstgenoemde aangeduide entiteit daarvan onverwijld in kennis.
+§ 2. Voor de toepassing van paragraaf 1, 1°, neemt de betalingsdienstgebruiker, zodra hij een betaalinstrument ontvangt, in het bijzonder alle redelijke maatregelen om de veiligheid van het betaalinstrument en de persoonlijke beveiligingsgegevens ervan te waarborgen.”
+De bewijslast inzake grove nalatigheid rust op de betalingsdienstaanbieder (artikel VII.44, §4
+WER). Hij zal dit bewijs met een redelijke mate van zekerheid moeten leveren (artikel 8.5 van het Burgerlijk Wetboek (“BW”)). Overeenkomstig het vierde lid van artikel 8.4 BW wordt in geval van twijfel hij die de door hem beweerde rechtshandelingen of feiten moet bewijzen, in het ongelijk gesteld, tenzij de wet anders bepaalt.
+19.
+Om zich te kunnen beroepen op artikel VII.44, §1, vierde lid WER, zal [DE BANK] moeten bewijzen dat eisende partijen door hun grove nalatigheid één of meerdere van de in artikel VII.38 WER
+opgesomde verplichtingen – desgevallend aangevuld met verplichtingen uit de algemene bankvoorwaarden – niet zijn nagekomen.
+Bij de beoordeling van de vraag of sprake is van grove nalatigheid in hoofde van de betalingsdienstgebruiker, moet worden uitgegaan van het hoge beschermingsniveau dat de wetgever ten voordele van deze gebruikers heeft willen waarborgen. In dit wettelijke kader geldt de verplichting tot terugbetaling door de betalingsdienstaanbieder als uitgangspunt. De onbeperkte aansprakelijkheid van de gebruiker vormt daarentegen een uitzondering. De rechter dient de aangevoerde grove nalatigheid in concreto te onderzoeken en hierbij rekening te houden met alle feitelijke omstandigheden waardoor de niet-toegestane betalingstransacties doorgang konden vinden. Een loutere onvoorzichtigheid volstaat niet. Opdat er sprake is van grove nalatigheid dient er sprake te zijn van een ernstige fout of een onvoorzichtigheid die dermate zwaar is dat zij niet begaan zou worden door een normaal zorgvuldige en omzichtige betalingsdienstgebruiker, geplaatst in dezelfde of vergelijkbare concrete omstandigheden.
+De rechtspraak waarop [DE BANK] zich beroept in haar stukkenbundel, waarin werd geoordeeld tot grove nalatigheid, betreft duidelijk andere feitelijke omstandigheden dan in deze zaak het geval zijn. In die gevallen werd telkens vastgesteld dat de betrokken gebruikers een samenhangend geheel van risicovolle handelingen hadden gesteld die de fraude mogelijk maakten. Zo ging het onder meer om situaties waarin de gebruiker reageerde op berichten afkomstig van onbekende gsm-nummers met verdachte inhoud en taalfouten, waarschuwingssignalen negeerde en vervolgens OTP-codes doorgaf aan derden. Het ging telkens
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 8
+om een opeenvolging van gedragingen, gesteld over een periode waarin tijd en gelegenheid tot bezinning bestond. Die combinatie van gedragingen leidde tot het oordeel dat sprake was van grove nalatigheid.
+Een dergelijk scenario doet zich in deze zaak niet voor. De rechtbank kan niet vaststellen dat eisende partijen verdachte berichten hebben ontvangen, op een frauduleuze link hebben geklikt of pincodes aan derden hebben doorgegeven. In haar aangifte verklaarde [CD] expliciet: “Ik heb totaal geen idee op welke wijze de verdachte zich toegang heeft kunnen verschaffen tot mijn bankapp. Wij hebben geen verdachte e-mail noch bericht noch telefoon ontvangen” (citaat uit stuk 3 eisende partijen).
+[DE BANK] beroept zich op stuk 7 van haar bundel om aan te tonen dat de [BANKAPPLICATIE 1]
+werd geïnstalleerd volgens de door haar beschreven procedure, zoals uiteengezet op pagina 12
+van haar syntheseconclusie. Volgens [DE BANK] blijkt uit dit stuk dat twee sms-berichten werden verstuurd, waaronder één met een OTP-code voor de activatie van de applicatie.
+Op basis van dit stuk en in het bijzonder de vermelding “request to enrollment Gemalto3”, waar [DE BANK] de nadruk op legt, kan echter niet met zekerheid worden vastgesteld dat effectief een tweede sms met een OTP-code werd verzonden aan [AB], noch dat deze door eisende partijen aan de fraudeur zou zijn bezorgd. Het bewijs hiervan ontbreekt. Er worden ook geen bijkomende omstandigheden aangetoond die deze vaststelling zouden kunnen staven of ondersteunen.
+De rechtbank merkt op dat het inderdaad onduidelijk is hoe de installatie van de [BANKAPPLICATIE 1] op het toestel van de fraudeur heeft kunnen plaatsvinden zonder de authenticatieprocedure zoals omschreven door [DE BANK] te doorlopen. Die onduidelijkheid keert de bewijslast evenwel niet om en neemt niet weg dat het aan [DE BANK] is om aan te tonen dat deze installatie, voor zover zij op normale wijze heeft plaatsgevonden, het gevolg was van grove nalatigheid in hoofde van eisende partijen. Dat bewijs wordt niet geleverd. Het loutere feit dat een installatie mogelijk was, volstaat op zich dan ook niet om de eigen aansprakelijkheid van de betalingsdienstgebruiker in te roepen onder het uitzonderingsregime van artikel VII.44, §4
+WER.
+Vast staat dat alle betwiste betalingstransacties plaatsvonden nadat de [BANKAPPLICATIE 1] op een toestel van de fraudeur werd geïnstalleerd, en zonder enige verdere tussenkomst van eisende partijen.
+In deze omstandigheden, waarbij enkel bewezen wordt geacht dat eisende partijen niet onmiddellijk hebben gereageerd op een waarschuwingsbericht — waarvoor zij een plausibele uitleg hebben gegeven —, volstaat dit niet om daaruit af te leiden dat zij een fout of onvoorzichtigheid van dergelijke ernst hebben begaan dat deze niet zou worden gesteld door een normaal zorgvuldig en omzichtig betalingsdienstgebruiker in gelijkaardige omstandigheden.
+De rechtbank is dan ook van oordeel dat [DE BANK] niet slaagt in de op haar rustende bewijslast om met een redelijke mate van zekerheid aan te tonen dat eisende partijen met grove nalatigheid hebben gehandeld in het kader van de betwiste betalingstransacties.
+Het verweer van [DE BANK] wordt afgewezen wegens gebrek aan bewijs.
+3
+“Request to enrollment Gemalto” verwijst naar een geautomatiseerde aanvraag tot verificatie of tokenactivatie via Gemalto, een leverancier van digitale beveiligingsoplossingen, in het kader van een betalingsverrichting. Een token is een fysiek toestel of softwaretoepassing die eenmalige codes genereert om de identiteit van de gebruiker te bevestigen bij online transacties.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 9
+20.
+De rechtbank volgt eisende partijen in hun stelling dat zij zich kunnen beroepen op artikel VII.44, tweede lid, §2 WER omdat [DE BANK] bij de kwestieuze Betalingstransacties geen sterke cliëntenauthenticatie verlangde.
+Uit de feiten blijkt dat [DE BANK] van mening is dat al de Betalingstransacties op 1 maart 2024
+konden plaatsvinden, als gevolg van de installatie van de [BANKAPPLICATIE 1] eerder op 9 februari 2024. Bij de Betalingstransacties die eenentwintig dagen gebeurden, werd blijkbaar geen authenticatie meer verondersteld met een kaartlezer en bankkaart – want eisende partijen zijn nooit buiten het bezit van hun kaarten geweest.
+De door [DE BANK] voorgelegde loggegevens met haar stukken 13 en 14 kunnen de rechtbank niet van het tegendeel overtuigen.
+21.
+Er wordt geen cijfermatige betwisting gevoerd.
+De vordering van eisende partijen wordt gegrond verklaard, zoals bepaald in het beschikkend gedeelte.
+V. UITVOERBAARHEID
+22.
+De uitvoerbaarheid bij voorraad van dit vonnis volgt uit artikel 1397 van het Gerechtelijk Wetboek.
+VI. GERECHTSKOSTEN
+23.
+[DE BANK] wordt als de in het ongelijk gestelde partij verwezen in de kosten van het geding overeenkomstig artikel 1017 van het Gerechtelijk Wetboek.
+In geval van wijziging van de vordering in de loop van het geding wordt het basisbedrag van de rechtsplegingsvergoeding, in toepassing van artikel 618, tweede lid van het Gerechtelijk Wetboek, bepaald door het bedrag van de vordering, zoals dit in de laatste conclusie in die aanleg wordt gevorderd.
+In deze zaak zijn in de loop van het geding nog twee betalingen in mindering gebracht van de vordering van eisende partijen, zodat het in de laatste conclusie van eisende partijen gaat om een geschil omtrent een vordering in de schaal van 5.000,01 euro tot 10.000,00 euro.
+Behoudens wanneer een procedureakkoord omtrent de omvang van de rechtsplegingsvergoeding dan wel een grond of een verzoek tot afwijking van het basisbedrag van de rechtsplegingsvergoeding voorligt, dient de rechter ambtshalve het correcte basisbedrag van de rechtsplegingsvergoeding te bepalen.
+De rechtbank kent het overeenstemmende basisbedrag van de rechtsplegingsvergoeding dat van toepassing is sinds 1 maart 2025 toe.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 10
+24.
+Overeenkomstig artikel 269/2, § 1 van het Wetboek der registratie-, hypotheek- en griffierechten wordt [DE BANK] veroordeeld tot betaling van het rolrecht aan de Belgische Staat, FOD Financiën.
+VII. BESLISSING
+De rechtbank doet uitspraak op tegenspraak en na erover te hebben beraadslaagd, neemt de rechtbank de volgende beslissing:
+Verklaart de vordering van eisende partijen tegen [DE BANK] ontvankelijk en deels gegrond in de hierna bepaalde mate.
+Veroordeelt [DE BANK] om aan eisende partijen de som te betalen van 9.868,10 euro, te vermeerderen met de vergoedende intrest aan de wettelijke intrestvoet op 10.373,98 euro vanaf 1 maart 2024 tot en met 1 mei 2024, op 10.366,00 euro vanaf 2 mei 2024 tot en met 22 oktober 2024, en op 9.868,10 euro vanaf 23 oktober 2024 tot heden, alsook de verwijlintrest op 9.868,10
+euro vanaf heden tot op de dag van de algehele betaling.
+Veroordeelt [DE BANK] tot de kosten van het geding, aan de zijde van eisende partijen begroot en door de rechtbank vereffend op:
+− dagvaarding (bijdrage Begrotingsfonds juridische 272,41 euro tweedelijnsbijstand inbegrepen)
+− rechtsplegingsvergoeding 1.412,79 euro
+Verklaart de bijdrage voor het Begrotingsfonds voor de juridische tweedelijnsbijstand, die werd gestort door eisende partijen, definitief verworven voor het fonds.
+Veroordeelt [DE BANK] tot betaling van het rolrecht ten belope van 165,00 euro na uitnodiging hiertoe door FOD Financiën.
+Bevestigt de uitvoerbaarheid van het vonnis en het recht op kantonnement.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 11
+Dit vonnis is gewezen door de achtste kamer van de Nederlandstalige ondernemingsrechtbank Brussel, samengesteld als volgt:
+- mevrouw R. Indeganck, rechter, voorzitter van de kamer, - de heer XA, rechter in ondernemingszaken, - de heer MDV, rechter in ondernemingszaken, die de zitting hebben bijgewoond en aan het beraad hebben deelgenomen.
+Het vonnis wordt overeenkomstig artikel 6, eerste lid van het verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden uitgesproken door mevrouw R. Indeganck, rechter, voorzitter van de kamer, in aanwezigheid van de heer PDM, griffier, op de openbare terechtzitting van de achtste kamer van de Nederlandstalige ondernemingsrechtbank Brussel van
+PDM MDV
+XA R. Indeganck
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/01858 – pag. 12

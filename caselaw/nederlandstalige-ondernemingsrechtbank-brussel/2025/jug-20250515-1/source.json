@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORBRL:2025:JUG.20250515.1",
+  "ecli": "ECLI:BE:ORBRL:2025:JUG.20250515.1",
+  "court": "Nederlandstalige ondernemingsrechtbank Brussel",
+  "court_code": "ORBRL",
+  "decision_date": "2025-05-15",
+  "date_as_printed": "Vonnis/arrest van 15 mei 2025",
+  "published_on_juportal": "2026-01-05",
+  "language": "nl",
+  "role_number": "A/24/01858",
+  "case_name_as_published": "",
+  "subjects": [
+    "Financieel recht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - BANK - EN KREDIETWEZEN - Algemeen (bank- en kredietwezen)",
+    "Niet-toegestane betalingstransacties; bewijslast niet toegestaan karakter; bewijslast grove nalatigheid"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - BANK - EN KREDIETWEZEN - Algemeen (bank- en kredietwezen)",
+    "Niet-toegestane betalingstransacties; bewijslast niet toegestaan karakter; bewijslast grove nalatigheid"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORBRL:2025:JUG.20250515.1",
+  "source_sha256": "cefeb43aeeb87fe306d4ad790b3aef552684efabc44411ce1bb101797efe3525",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORBRL:2025:JUG.20250515.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/05/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
