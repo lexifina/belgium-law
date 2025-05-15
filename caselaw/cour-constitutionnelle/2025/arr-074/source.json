@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.074",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.074",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-05-15",
+  "date_as_printed": "Jugement/arrêt du 15 mai 2025",
+  "published_on_juportal": "2025-05-26",
+  "language": "fr",
+  "role_number": "74/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 617, alinéa 1er, du Code judiciaire, posée par le Tribunal de première instance francophone de Bruxelles. Droit judiciaire - Juge de paix - Jugement - Demande dont le montant n'excède pas 2 000 euros - Absence d'un double degré de juridiction",
+    "de prejudiciële vraag betreffende artikel 617, eerste lid, van het Gerechtelijk Wetboek, gesteld door de Franstalige Rechtbank van eerste aanleg te Brussel. Gerechtelijk recht - Vrederechter - Vonnis - Vordering waarvan het bedrag 2 000 euro niet overschrijdt - Ontstentenis van een dubbele aanleg"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 617, alinéa 1er, du Code judiciaire, posée par le Tribunal de première instance francophone de Bruxelles. Droit judiciaire - Juge de paix - Jugement - Demande dont le montant n'excède pas 2 000 euros - Absence d'un double degré de juridiction"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.074&lang=fr",
+  "source_sha256": "e17b6e13f287c5f078ed2ad850e6aa3dec6f1293726b57b5fc0467ded1fe4f94",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.074_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_288.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
