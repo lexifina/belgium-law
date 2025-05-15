@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.076",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.076",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-05-15",
+  "date_as_printed": "Jugement/arrêt du 15 mai 2025",
+  "published_on_juportal": "2025-05-26",
+  "language": "fr",
+  "role_number": "76/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 371 du Code des impôts sur les revenus 1992, tel qu'applicable aux taxes communales en Région wallonne en vertu de l'article L3321-12 du Code de la démocratie locale et de la décentralisation, et à l'article 1385undecies du Code judiciaire, posée par le Tribunal de première instance de Liège, division de Liège. Droit fiscal - Région wallonne - Taxe communale - Réclamation - Point de départ du délai de recours - Date d'envoi de l'avertissement-extrait de rôle - Présomption d'envoi",
+    "de prejudiciële vraag betreffende artikel 371 van het Wetboek van de inkomstenbelastingen 1992, zoals van toepassing op de gemeentebelastingen in het Waalse Gewest krachtens artikel L3321-12 van het Wetboek van de plaatselijke democratie en de decentralisatie, en artikel 1385undecies van het Gerechtelijk Wetboek, gesteld door de Rechtbank van eerste aanleg Luik, afdeling Luik. Fiscaal recht - Waals Gewest - Gemeentebelasting - Bezwaarschrift - Aanvangspunt van de beroepstermijn - Datum van verzending van het aanslagbiljet - Vermoeden van verzending"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 371 du Code des impôts sur les revenus 1992, tel qu'applicable aux taxes communales en Région wallonne en vertu de l'article L3321-12 du Code de la démocratie locale et de la décentralisation, et à l'article 1385undecies du Code judiciaire, posée par le Tribunal de première instance de Liège, division de Liège. Droit fiscal - Région wallonne - Taxe communale - Réclamation - Point de départ du délai de recours - Date d'envoi de l'avertissement-extrait de rôle - Présomption d'envoi"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.076&lang=fr",
+  "source_sha256": "7f27ab9ba5f2fb4d95279ab72df5fb5e0b7f594f144e63f1c04e035aadf4b8d9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.076_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_290.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
