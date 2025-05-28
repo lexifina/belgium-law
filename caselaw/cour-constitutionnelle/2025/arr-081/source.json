@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.081",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.081",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-05-28",
+  "date_as_printed": "Jugement/arrêt du 28 mai 2025",
+  "published_on_juportal": "2025-06-09",
+  "language": "fr",
+  "role_number": "81/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation du décret de la Région wallonne du 12 octobre 2023 « modifiant l'article 52 du décret du 2 mai 2019 modifiant diverses législations en matière de bail à ferme en ce qui concerne les dispositions transitoires », introduit par Joseph Vanderstappen et la SRL « Ferme de Yernée ». Droit civil - Droit des obligations - Contrats de bail - Bail à ferme - Région wallonne - Bail écrit - Nouveau régime - Régime transitoire - Rétroactivité",
+    "het beroep tot vernietiging van het decreet van het Waalse Gewest van 12 oktober 2023 « tot wijziging van artikel 52 van het decreet van 2 mei 2019 tot wijziging van verscheidene wetgevingen inzake pacht wat de overgangsbepalingen betreft », ingesteld door Joseph Vanderstappen en de bv « Ferme de Yernée ». Burgerlijk recht - Verbintenissenrecht - Huurovereenkomsten - Pacht - Waals Gewest - Schriftelijke pachtovereenkomst - Nieuwe regeling - Overgangsregeling - Terugwerkende kracht"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation du décret de la Région wallonne du 12 octobre 2023 « modifiant l'article 52 du décret du 2 mai 2019 modifiant diverses législations en matière de bail à ferme en ce qui concerne les dispositions transitoires », introduit par Joseph Vanderstappen et la SRL « Ferme de Yernée ». Droit civil - Droit des obligations - Contrats de bail - Bail à ferme - Région wallonne - Bail écrit - Nouveau régime - Régime transitoire - Rétroactivité"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.081&lang=fr",
+  "source_sha256": "56ad942a0efb061b4f7c47286139092fa5aba54d4519c1d5f4b8bfd52f709cbd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.081_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_298.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
