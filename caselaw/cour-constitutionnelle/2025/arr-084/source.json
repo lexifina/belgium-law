@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.084",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.084",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-05-28",
+  "date_as_printed": "Jugement/arrêt du 28 mai 2025",
+  "published_on_juportal": "2025-06-09",
+  "language": "fr",
+  "role_number": "84/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle concernant les articles 43 et 50 du décret flamand du 24 février 2017 « relatif à l'expropriation d'utilité publique », posée par le Tribunal de première instance de Flandre occidentale, division de Courtrai. Droit administratif - Expropriation d'utilité publique - Région flamande - Décision d'expropriation - Recours en annulation - Contrôle de légalité - Conseil pour les contestations des autorisations - Juge de paix",
+    "de prejudiciële vraag over de artikelen 43 en 50 van het Vlaamse decreet van 24 februari 2017 « betreffende onteigening voor het algemeen nut », gesteld door de Rechtbank van eerste aanleg West-Vlaanderen, afdeling Kortrijk. Administratief recht - Onteigening voor het algemeen nut - Vlaams Gewest - Onteigeningsbesluit - Vernietigingsberoepen - Controle van de wettigheid - Raad voor Vergunningsbetwistingen - Vrederechter"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle concernant les articles 43 et 50 du décret flamand du 24 février 2017 « relatif à l'expropriation d'utilité publique », posée par le Tribunal de première instance de Flandre occidentale, division de Courtrai. Droit administratif - Expropriation d'utilité publique - Région flamande - Décision d'expropriation - Recours en annulation - Contrôle de légalité - Conseil pour les contestations des autorisations - Juge de paix"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.084&lang=fr",
+  "source_sha256": "06114ab1b427b6b5e4b2edcd5e4d42f07a4f8818873b097ed144233885c3de94",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.084_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_297.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
