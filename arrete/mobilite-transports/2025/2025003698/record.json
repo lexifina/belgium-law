@@ -1,0 +1,30 @@
+{
+  "id": "2025003698",
+  "title": "7 MAI 2025. - Arrêté royal transposant les amendements de 2022 à la Convention MLC",
+  "source_title": "7 MAI 2025. - Arrêté royal transposant les amendements de 2022 à la Convention MLC",
+  "act": "arrete/mobilite-transports/2025/2025003698",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-05-19&numac_search=2025003698&page=59&lg_txt=F&caller=list&2025003698=25&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "1d4231e12083e3f4fbe0d3c93e7308786a0ed26a171bfa3b837d312e7e067147",
+  "source_issuer": "Mobilité et Transports",
+  "made": "2025-05-07",
+  "published": "2025-05-19",
+  "in_force": "2025-05-29",
+  "in_force_basis": "Justel: Entrée en vigueur : 29 mai 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Mobilité et Transports",
+    "Publication": "19 mai 2025",
+    "Numéro": "2025003698",
+    "page": "49426",
+    "Dossier numéro": "2025-05-07/02",
+    "Entrée en vigueur": "29 mai 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 665,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-05-29"
+}
