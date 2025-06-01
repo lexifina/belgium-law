@@ -1,2 +1,0 @@
-Par dérogation à l'article 535, il y a une seule chambre d'arrondissement commune aux arrondissements judiciaires de Verviers et d'Eupen. Elle porte le titre de "chambre des arrondissements de Verviers et d'Eupen", et a son siège à Verviers. Elle est composée des huissiers de justice des deux arrondissements. Elle a la personnalité juridique.
-Pour l'application de l'article 536, les deux arrondissements sont considérés comme n'en formant qu'un seul.

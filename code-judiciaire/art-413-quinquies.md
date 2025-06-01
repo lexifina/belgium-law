@@ -1,2 +1,0 @@
-Le Ministre de la Justice saisi par le chef de corps suite à l'information disciplinaire en application de l'article 413ter, alinéa 5, peut après avis du Conseil national de discipline, abandonner les poursuites, infliger une peine mineure au proposer au Roi de prendre une peine majeure.
-Le Conseil national de discipline saisi en application de l'article 413ter, alinéa 5, rend un avis motivé au Ministre de la Justice quant à la peine majeure éventuelle à infliger.

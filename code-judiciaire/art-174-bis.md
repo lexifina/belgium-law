@@ -1,2 +1,0 @@
-Les registres et répertoires sont créés, conservés et communiqués d'une manière qui rend possible leur consultation et garantit leur lisibilité. Le Roi fixe les modalités à cet effet après avis du comité de gestion et du comité de surveillance, visés respectivement aux articles 15 et 22 de la loi du 10 août 2005 instituant le système d'information Phenix.
-Aucune modification ne peut être apportée aux mentions figurant dans les registres et les répertoires, sauf si elle est autorisée par des dispositions légales ou réglementaires.
