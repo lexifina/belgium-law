@@ -1,0 +1,30 @@
+{
+  "id": "2025004291",
+  "title": "30 MAI 2025. - Décret modifiant l'article 3 du décret du 16 novembre 2023 relatif au subventionnement des infrastructures et des équipements des milieux d'accueil de la petite enfance et insérant un article 15/1",
+  "source_title": "30 MAI 2025. - Décret modifiant l'article 3 du décret du 16 novembre 2023 relatif au subventionnement des infrastructures et des équipements des milieux d'accueil de la petite enfance et insérant un article 15/1",
+  "act": "decret/wallonia-service/2025/2025004291",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-06-12&numac_search=2025004291&page=7&lg_txt=F&caller=list&2025004291=3&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "668a79faeb6c79b28fe3373f40c5e79dd2135ab7c86a51b14369723d1ddeda3c",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-05-30",
+  "published": "2025-06-12",
+  "in_force": "2025-06-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 juin 2025; own clause: Art. 3. Le présent décret entre en vigueur le 1er juin 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "12 juin 2025",
+    "Numéro": "2025004291",
+    "page": "52944",
+    "Dossier numéro": "2025-05-30/03",
+    "Entrée en vigueur": "1 juin 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 182,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-06-01"
+}
