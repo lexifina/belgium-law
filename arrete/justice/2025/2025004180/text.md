@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Un montant de cent trois millions sept cent nonante-deux mille neuf cent vingt-quatre euros et cinquante-sept cents (103.792.924,57 € ) est attribué aux autorités visées à l'article 488 du Code judiciaire pour l'indemnisation intermédiaire des points obtenus par les avocats depuis la dernière communication au Ministre. Cela recouvre, à un tarif réduit, les prestations effectuées dans le cadre de l'aide juridique de deuxième ligne qui ont été clôturées durant la période du 31 décembre 2023 au 1er juillet 2024 et acceptées suite au contrôle et à l'éventuel audit le 31 janvier 2025 au plus tard.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
