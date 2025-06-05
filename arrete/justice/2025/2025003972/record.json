@@ -1,0 +1,30 @@
+{
+  "id": "2025003972",
+  "title": "12 MAI 2025. - Arrêté royal portant approbation des modifications du règlement pour l'organisation et le contrôle de la comptabilité notariale approuvé par l'arrêté royal du 3 juin 2022",
+  "source_title": "12 MAI 2025. - Arrêté royal portant approbation des modifications du règlement pour l'organisation et le contrôle de la comptabilité notariale approuvé par l'arrêté royal du 3 juin 2022",
+  "act": "arrete/justice/2025/2025003972",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-05-26&numac_search=2025003972&page=59&lg_txt=F&caller=list&2025003972=10&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "2fe4e14c08117f0765ef8f49ffca8e31725efa143421e7c302efbd8ab5ff3211",
+  "source_issuer": "Justice",
+  "made": "2025-05-12",
+  "published": "2025-05-26",
+  "in_force": "2025-06-05",
+  "in_force_basis": "Justel: Entrée en vigueur : 5 juin 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "26 mai 2025",
+    "Numéro": "2025003972",
+    "page": "50533",
+    "Dossier numéro": "2025-05-12/02",
+    "Entrée en vigueur": "5 juin 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 159,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-06-05"
+}
