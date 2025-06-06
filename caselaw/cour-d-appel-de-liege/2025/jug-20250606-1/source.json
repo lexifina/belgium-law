@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CALIE:2025:JUG.20250606.1",
+  "ecli": "ECLI:BE:CALIE:2025:JUG.20250606.1",
+  "court": "Cour d'appel de Liège",
+  "court_code": "CALIE",
+  "decision_date": "2025-06-06",
+  "date_as_printed": "Jugement/arrêt du 06 juin 2025",
+  "published_on_juportal": "2025-07-29",
+  "language": "fr",
+  "role_number": "2020/RG/820",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit fiscal"
+  ],
+  "summary_keywords": [
+    "DROIT FISCAL - TAXE SUR LA VALEUR AJOUTÉE (T.V.A.)",
+    "Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 44 – Lieu des prestations de services – Règlement d'exécution (UE) no 282/2011 – Article 11, paragraphe 1 – Prestation de services – Lieu de rattachement fiscal – Notion d'“établissement stable” – Structure appropriée en termes de moyens humains et techniques – Aptitude à recevoir et à utiliser les services pour les besoins propres de l'établissement stable – Prestations de services de travail à façon et prestations accessoires – Engagement contractuel exclusif entre une société prestataire d'un État membre et la société destinataire établie dans un État tiers – Sociétés juridiquement indépendantes – problématique intragroupe"
+  ],
+  "fiche": [
+    "DROIT FISCAL - TAXE SUR LA VALEUR AJOUTÉE (T.V.A.)",
+    "Taxe sur la valeur ajoutée (TVA) – Directive 2006/112/CE – Article 44 – Lieu des prestations de services – Règlement d'exécution (UE) no 282/2011 – Article 11, paragraphe 1 – Prestation de services – Lieu de rattachement fiscal – Notion d'“établissement stable” – Structure appropriée en termes de moyens humains et techniques – Aptitude à recevoir et à utiliser les services pour les besoins propres de l'établissement stable – Prestations de services de travail à façon et prestations accessoires – Engagement contractuel exclusif entre une société prestataire d'un État membre et la société destinataire établie dans un État tiers – Sociétés juridiquement indépendantes – problématique intragroupe"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CALIE:2025:JUG.20250606.1",
+  "source_sha256": "b2c39115aa82282cccec4559a21b94d9cbe8a03e1b3f97858ab521f83d09f9f3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CALIE:2025:JUG.20250606.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2025/07/29/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}

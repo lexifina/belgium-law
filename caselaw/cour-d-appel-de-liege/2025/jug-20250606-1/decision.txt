@@ -1,0 +1,357 @@
+Numéro d’ordre :
+Cour d’appel Liège Date du prononcé :
+Arrêt du 06-06-2025Numéro du rôle :
+2020/RG/820 de la NEUVIÈME chambre civile D
+Numéro du répertoire : Expédition(s) délivrée(s) à :
+Huissier : Huissier : Huissier :
+2025/
+Avocat : Avocat : Avocat :
+Partie : Partie : Partie :
+Liège, le Liège, le Liège, le Coût : Coût : Coût :
+CIV : CIV : CIV :
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+EN CAUSE DE :
+La SA C. , dont le siège est établi à ,
+partie appelante,
+représentée par Maître CONTRE :
+L’ETAT BELGE, représenté par le Ministre des Finances,
+partie intimée,
+représentée par Monsieur , fonctionnaire d’administration fiscale.
+__________________________
+Vu les feuilles d’audience des 18 avril, 16 mai 2025 et de ce jour.
+__________________________
+A P RÈ S E N A V O IR DÉL IB ÉR É :
+Vu le dossier de la procédure en forme régulière et notamment :
+- l’arrêt rendu, le 18 mars 2022, par la Cour de céans et les pièces de procédure y visées ;
+- les conclusions et les dossiers de pièces des parties.
+L’appel incident de l’Etat belge, formé dans ses conclusions d’appel déposées, le 15 janvier 2021, tendant au maintien de l’amende dont le premier juge a ordonné l’annulation, lequel a été formé dans les formes et délai légaux, est recevable.
+La présente décision est fondée sur les éléments de fait et de droit développés ci-
+après.
+I. FAITS ET OBJET DU LITIGE
+Page 2
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+1. Le litige concerne une contrainte décernée, le 19 décembre 2017, à charge de la SA C. 1 pour des montants réclamés de 10.609.844,08 € et de 1.060.980 €, respectivement à titre de TVA et d’amende, outre les intérêts légaux à partir du 21 janvier 20172.
+Celle-ci est relative à des prestations de services facturées par CPB à la société de droit suisse C.S 3, sans que la taxe ait été portée en compte sur ces opérations.
+2. CSG est identifiée à la TVA en Belgique, depuis le mois de février 2012, pour ses activités de vente de produits à base de carbone.
+Elle a désigné comme représentant responsable, conformément à l’article 55 du Code de la TVA, la SRLC.P. 4, établie à Pepinster.
+3. CPB a sollicité, le 9 novembre 2011, et obtenu, le 31 janvier 2012, du Service des décisions anticipées en matière fiscale5 auprès du Service public fédéral Finances, un ruling se prononçant en matière d’impôt des sociétés, entre autres, sur le fait que ses activités ne conduisaient pas à un établissement stable de CSG au sens des articles 227-229 du Code des impôts sur les revenus et de l’article 5 de la Convention préventive de la double imposition conclue entre la Belgique et la Suisse6.
+Cette prise de position du SDA a été réitérée par une décision du 12 juin 2018 et, ensuite, par une décision du 25 avril 20237.
+4. Toutefois, à la suite d’un contrôle réalisé en 2017, l’administration fiscale a estimé que CSG disposait en Belgique d’un établissement stable au sens de la législation en matière de TVA et que, dès lors, les prestations de services litigieuses réalisées au cours des années 2014, 2015 et 2016
+devaient être considérées comme localisées en Belgique.
+Un relevé de régularisation a été envoyé à CPB, le 17 novembre 2017, sur lequel la société a marqué son désaccord8.
+Un procès-verbal a ensuite été dressé, le 15 décembre 2017, et la contrainte litigieuse a été décernée, le 19 décembre 20179.
+1
+Ci-après, en abrégé, « CPB ».
+2
+Cf. pièce n° 10 du dossier de CPB, déposé à l’audience du 18 avril 2025, ci-après, le « dossier de CPB ».
+3
+Ci-après, en abrégé, « CSG ».
+4
+Ci-après, en abrégé, « CPMB ».
+5
+Le « SDA ».
+6
+Cf. pièce n° 4 du dossier de CPB, points 169 à 176.
+7
+Cf. pièce n° 5 du dossier de CPB, points 76 à 80.
+8
+Cf. pièces n° 6 et 7 du dossier de CPB.
+9
+Cf. pièces n° 9 et 10 du dossier de CPB.
+Page 3
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+5. CPB a porté la contestation auprès du Tribunal de première instance de Liège, division de Liège, par une requête du 30 mars 2018.
+6. Par un jugement du 14 janvier 2020, ce dernier a dit la requête recevable et seulement en partie fondée.
+Il a en effet fait droit à la thèse de l’Etat belge selon laquelle CSG disposait bien en Belgique d’un établissement stable, mais a toutefois annulé partiellement la contrainte en ce qu’elle portait sur l’amende d’un montant de 1.060.980 €.
+Les dépens ont, en outre, été compensés.
+7. L’Etat belge a signifié ce jugement à CPB, le 12 août 2020, qui a interjeté appel, le 11 septembre 2020.
+8. Devant la Cour, CPB demandait de réformer le jugement entrepris, de déclarer l’appel incident de l’Etat belge en ce qui concernait la remise des amendes non fondé, de dire pour droit qu’aucune TVA n’était due en Belgique, de condamner l’Etat belge au remboursement de toutes sommes indûment collectées ou retenues au principal, augmentées des intérêts dus, ainsi qu’aux entiers dépens liquidés à 39.000 €.
+Subsidiairement, si la Cour de céans devait douter, en l’espèce, de l’interprétation à donner à l’article 44 de la directive TVA (directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de la taxe sur la valeur ajoutée) ainsi qu’aux articles 10 et 11 du règlement d’exécution (n°282/2001 du Conseil du 15 mars 2011 portant mesures d’exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée) concernant l’impact d’une relation d’exclusivité (ou de quasi-exclusivité) sur l’analyse à réaliser et de l’existence ou non, en l’espèce, d’un établissement stable en Belgique, CPB invitait à la Cour à poser trois questions préjudicielles à la Cour de justice de l’Union européenne.
+9. Par conclusions déposées le 15 janvier 2021, l’Etat belge avait interjeté un appel incident tendant à la réformation du jugement dans la mesure où il avait annulé l’amende infligée.
+Pour le surplus, il concluait à la confirmation dudit jugement et à la validité de la contrainte décernée et demandait de rejeter la demande tendant à poser les questions préjudicielles à la Cour de justice de l’Union européenne.
+Enfin, il sollicitait la condamnation de l’appelante aux dépens.
+Page 4
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+10. Par son arrêt du 18 mars 2022, la Cour de céans a reçu l’appel de CPB.
+Avant de statuer au fond, elle a posé les questions préjudicielles suivantes à la Cour de justice de l’Union européenne :
+(1) En cas de prestations de services réalisées par un assujetti établi dans un Etat membre en faveur d’un autre assujetti agissant en tant que tel, dont le siège de l’activité économique est établi en dehors de l’Union européenne, alors que ceux-ci sont des entités distinctes et juridiquement indépendantes mais font partie d’un même groupe, que le prestataire s’engage contractuellement à utiliser ses équipements et son personnel exclusivement pour la réalisation de produits en faveur du preneur et que ces produits sont ensuite vendus par ledit preneur, donnant lieu à des livraisons de biens taxables, à l’exécution desquelles le prestataire prête un concours logistique et qui sont localisées dans l’Etat membre en question ; l’article 44 de la directive 2006/112/CE du Conseil du 28
+novembre 2006 et l’article 11 du règlement d’exécution (UE) n°282/2001
+du Conseil du 15 mars 2011 doivent-ils être interprétés en ce sens que l’assujetti établi en dehors de l’Union européenne doit être réputé disposer d’un établissement stable dans cet Etat membre ?
+(2) L’article 44 de la directive 2006/112/CE et l’article 11 du règlement d’exécution (UE) n°282/2001 du Conseil du 15 mars 2011 portant mesures d’exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée doivent-ils être interprétés en ce sens qu’un assujetti peut disposer d’un établissement stable lorsque les moyens humains et techniques requis sont ceux de son prestataire, juridiquement indépendant mais faisant partie d’un même groupe, qui s’engage contractuellement, de manière exclusive, à les mettre en œuvre au profit dudit assujetti ?
+(3) L’article 44 de la directive 2006/112/CE et l’article 11 du règlement d’exécution (UE) n°282/2001 du Conseil du 15 mars 2011 portant mesures d’exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée doivent-ils être interprétés en ce sens qu’un assujetti dispose d’un établissement stable dans l’Etat membre de son prestataire du fait que ce dernier réalise à son profit, en exécution d’un engagement contractuel exclusif, une série de prestations accessoires ou supplémentaires par rapport à un travail à façon au sens strict, concourant ainsi à la réalisation des ventes conclues par cet assujetti à partir de son siège en dehors de l’Union européenne mais donnant lieu à des livraisons de biens taxables localisées en vertu de la législation TVA
+sur le territoire dudit Etat membre ?
+Page 5
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+Dans cet arrêt du 18 mars 2022, la Cour de céans a réservé à statuer pour le surplus, dans l’attente de l’arrêt de la Cour de justice, et a renvoyé la cause au rôle.
+11. Le 29 juin 2023, la Cour de justice de l’Union européenne a rendu un arrêt, dans le cadre de l’affaire C-232/22, répondant aux questions préjudicielles précitées ce qui suit :
+« L’article 44 de la directive 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée, telle que modifiée par la directive 2008/8/CE du Conseil, du 12 février 2008, et l’article 11 du règlement d’exécution (UE) no 282/2011 du Conseil, du 15 mars 2011, portant mesures d’exécution de la directive 2006/112
+doivent être interprétés en ce sens que :
+un assujetti preneur de services, dont le siège de l’activité économique est établi en dehors de l’Union européenne, ne dispose pas d’un établissement stable dans l’État membre dans lequel est établi le prestataire des services concernés, juridiquement distinct de ce preneur, lorsque celui-ci n’y dispose pas d’une structure appropriée en termes de moyens humains et techniques pouvant constituer cet établissement stable, et ce même lorsque l’assujetti prestataire de services réalise au profit de cet assujetti preneur, en exécution d’un engagement contractuel exclusif, des prestations de travail à façon ainsi qu’une série de prestations accessoires ou supplémentaires, concourant à l’activité économique de l’assujetti preneur dans cet État membre ».
+12. Via ses conclusions de synthèse d’appel déposées, le 13 décembre 2024, CPB demande à la Cour de déclarer son action de recevable et fondée, de réformer le jugement du 14 janvier 2020, de déclarer que l’appel incident de l’Etat belge en ce qui concerne la remise des amendes n’est pas fondé et de dire pour droit qu’aucune TVA n’est due en Belgique. Elle demande également à la Cour de condamner l’Etat belge au remboursement de toutes sommes indûment collectées ou retenues au principal, augmentées des intérêts dus et des intérêts sur intérêts à partir du 30
+mars 2018. Enfin, elle sollicite la condamnation de l’Etat belge aux entiers dépens de la procédure d’appel en ce compris l’indemnité de procédure estimée à un montant de 45.000 €.
+13. Au terme de ses conclusions de synthèse d’appel déposées, le 12 mars 2025, l’Etat belge demande à la Cour de dire la demande de CPB
+recevable mais non fondée, de confirmer le jugement dont appel sauf en ce qui concerne l’amende pour laquelle l’État belge fait appel incident, de dire son appel incident ainsi recevable et fondé, de déclarer valable la contrainte décernée et de condamner CPB aux frais et dépens.
+Page 6
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+II. DISCUSSION
+Quant à la TVA
+14. Conformément à l’article 21, §2, du Code de la TVA, le lieu des prestations de services fournies à un assujetti agissant en tant que tel est l’endroit où
+cet assujetti a établi le siège de son activité économique.
+Néanmoins, si ces prestations de services sont fournies à un établissement stable de l’assujetti situé en un lieu autre que l’endroit où il a établi le siège de son activité économique, le lieu de la prestation de services est l’endroit où cet établissement stable est situé.
+15. Cette disposition met en œuvre et reproduit l’article 44 de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de la taxe sur la valeur ajoutée.
+16. L’article 10 du règlement d’exécution (UE) n°282/2011 du Conseil du 15
+mars 2011 portant mesures d’exécution de la directive 2006/112/CE
+relative au système commun de taxe sur la valeur ajoutée prévoit que :
+« 1. Pour l’application des articles 44 et 45 de la directive 2006/112/CE, le ‘lieu où l’assujetti a établi le siège de son activité économique’ est le lieu où sont exercées les fonctions d’administration centrale de l’entreprise.
+2. Afin de déterminer le lieu visé au paragraphe 1, sont pris en considération le lieu où sont prises les décisions essentielles concernant la gestion générale de l’entreprise, le lieu de son siège statutaire et le lieu où
+se réunit la direction.
+Lorsque ces critères ne permettent pas de déterminer avec certitude le lieu du siège de l’activité économique, le lieu où sont prises les décisions essentielles concernant la gestion générale de l’entreprise est le critère prépondérant.
+3. La présence d’une adresse postale ne peut déterminer à elle seule le lieu où l’assujetti a établi le siège de son activité économique ».
+17. L’article 11.1. du même règlement dispose que, pour l’application de l’article 44 de la directive 2006/112/CE, l’« établissement stable » désigne tout établissement, autre que le siège de l’activité économique visé à l’article 10 du règlement, qui se caractérise par un degré suffisant de permanence et une structure appropriée, en termes de moyens humains et techniques, lui permettant de recevoir et d’utiliser les services qui sont fournis pour les besoins propres de cet établissement.
+Page 7
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+18. Comme l’a, à juste titre, jugé la Cour de justice de l’Union européenne, dans l’arrêt rendu, le 29 juin 2023, dans le cadre de la présente affaire (C-
+232/22), précité, rappelant sa jurisprudence antérieure :
+« 29. Le législateur de l’Union a retenu en tant que point de rattachement à titre principal, en ce qui concerne le lieu de la prestation de services fournie à un assujetti, le siège de son activité économique, car il offre, en tant que critère objectif, simple et pratique, une grande sécurité juridique. En revanche, le rattachement à l’établissement stable de l’assujetti, visé à l’article 44, deuxième phrase, de la directive TVA, est un rattachement secondaire qui constitue une disposition dérogatoire à la règle générale, pris en compte pourvu que certaines conditions soient remplies (voir, en ce sens, arrêts du 16 octobre 2014, Welmory, C-605/12, EU:C:2014:2298, points 53 à 56 ; du 7 août 2018, TGE Gas Engineering, C-16/17, EU:C:2018:647, point 49, et du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 29).
+30. Dès lors, ainsi que la Cour l’a constaté, notamment au point 53 de l’arrêt du 16 octobre 2014, Welmory (C-605/12, EU:C:2014:2298), la prise en considération d’un établissement autre que le siège de l’activité économique ne rentre en compte que dans le cas où ce siège ne conduit pas à une solution rationnelle ou crée un conflit avec un autre État membre, car, ainsi qu’il ressort du point 55 de cet arrêt, la présomption que les prestations de services sont fournies à l’endroit où l’assujetti-
+preneur a établi le siège de son activité économique permet d’éviter, aussi bien aux autorités compétentes des États membres qu’aux prestataires de services, d’entreprendre des recherches compliquées en vue de déterminer le point de rattachement fiscal ».
+19. Certes, comme le relève l’administration, l’article 64, §2 du Code TVA, qui établit une présomption légale en matière de services imposables, dispose que toute personne qui fournit des services est présumée, jusqu’à preuve du contraire, les avoir fournis dans des conditions qui rendent la taxe exigible.
+Il s’agit d’une présomption, similaire à celle concernant la livraison de biens, qui a pour objectif d’empêcher un contribuable de tenter d’échapper à l’impôt en prétendant que les services fournis n’étaient pas imposables.
+Cette disposition ne peut toutefois être valablement invoquée par l’administration afin de justifier la taxation des prestations de service rendues par CPB à CSG et l’application de la TVA belge à celles-ci.
+Page 8
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+En effet, CPB ne remet pas en question le fait que les prestations de services fournies, en l’espèce, constituent des opérations taxables qui entrent dans le champ d’application de la TVA.
+Mais, lorsqu’une opération est taxable pour les besoins de la TVA, il convient encore de déterminer, sur la base des règles applicables, où est localisée la prestation de services et il convient alors de se référer à l’article 21 du Code TVA afin de déterminer le pays dans lequel la prestation de services est réputée être fournie.
+Quant au siège de l’activité économique de CSG
+20. CPB soutient que ses prestations de services facturées à CSG ne sont pas localisées en Belgique, mais en Suisse, où CSG dispose du siège de son activité économique.
+21. Il est incontestable que CSG dispose bien en Suisse du siège de son activité économique dès lors que s’y trouve son siège statutaire, qu’elle y dispose de bureaux où sont employés 47 personnes, que c’est en Suisse que sont prises les décisions stratégiques et de politique générale de l’entreprise pour la région E, que sont conclus les différents contrats l’intéressant et que son conseil d’administration se réunit.
+Ceci n’est pas contesté par l’Etat belge.
+22. Toutefois, le fait que CSG dispose en Suisse du siège de son activité économique, qui est le critère principal de localisation des prestations de services fournies à un assujetti agissant en tant que tel, n’implique pas, ipso facto, que ces dernières doivent être réputées réalisées en Suisse puisque, précisément, l’article 44 de la directive 2006/112/CE et l’article 21, §2, du Code de la TVA ménagent une exception à cette règle générale dans le cas où ces services sont fournis à un établissement stable de l’assujetti situé en un lieu autre que l’endroit où il a établi le siège de son activité économique.
+C’est l’existence d’un tel établissement stable en Belgique que l’administration fiscale entend démontrer en l’espèce.
+L’exception à la règle générale de localisation à l’endroit où l’assujetti a établi le siège de son activité économique perdrait évidemment tout sens si, comme le premier moyen de l’appelante le laisse entendre, la réalité de ce siège permettait d’éluder tout débat sur la localisation des prestations de services dont elle a bénéficié.
+Page 9
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+23. Compte tenu des principes énoncés ci-avant et de ce qui précède, c’est toutefois à l’administration fiscale de démontrer que CPB constitue un établissement stable de CSG en Belgique ou que CSG dispose d’un établissement stable en Belgique à travers CPB.
+Quant à l’existence d’un établissement stable de CSG en Belgique
+24. En substance, l’Etat belge considère que CSG dispose d’un établissement stable en Belgique, au sein même de CPB, de sorte que les prestations de services qui ont été réalisées par CPB au profit de CSG sont localisées en Belgique et sont soumises à la taxe.
+25. Depuis l’année 2011, CSG opère comme la principale société opérationnelle et l’entrepreneur central dans la région « Europe, Moyen-
+Orient, Afrique », soit la région E, du groupe C.
+Les fonctions principales de prise de risque entrepreneurial sont centralisées en Suisse où se trouve le siège de son activité économique.
+Au sein de la région E, les activités de production sont réalisées par des entités de production à façon, telles que CPB, tandis que les entités du support des ventes, telles que CPMB, qui est le représentant responsable de CSG en Belgique, opèrent comme fournisseurs de services de vente, de marketing et de distribution avec un faible risque.
+26. Concrètement, CSG achète des matières premières en Belgique, dans ou hors de l’Union européenne.
+Celles-ci, qui demeurent propriété de CSG, sont stockées par CPB dans ses locaux puis sont transformées en produits entrant dans la fabrication de plastiques (masterbatch) par les usines de Loncin et de Pepinster qui sont la propriété de CPB.
+Après leur transformation, le masterbatch est stocké par CPB dans ses locaux.
+Ensuite, CSG vend lesdits produits au départ de la Belgique aux divers clients de C. , soit sur le marché belge, soit sur le marché européen, soit à l’exportation.
+Les retraits et transports des marchandises depuis les installations de CPB
+sont réalisés soit par les clients, soit par des transporteurs externes auxquels CSG a recours.
+27. D’un point de vue juridique, CPB et CSG sont des entités distinctes.
+Page 10
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+Un lien financier les unit toutefois puisque CPB et CPMB sont détenues à 99,99 % par la société luxembourgeoise C. Holding I GmbH, elle-même détenue à 100 % par C. Lux Holdings Sarl qui détient l’ensemble des parts de CSG10.
+28. Les prestations de services effectuées par CPB au profit de CSG, qui sont à l’origine de la quasi-totalité de son chiffre d’affaires, sont définies par une convention de travail à façon (manufacturing services agreement) du 14
+février 201211.
+En vertu de celle-ci, CPB accepte d’utiliser ses équipements exclusivement pour la production des produits visés par la convention et uniquement sous la direction de CSG.
+Ainsi, l’article 3 de cette convention prévoit :
+« MANUFACTURING EQUIPMENT
+« Unless otherwise agreed to in writing between the parties, ownership of the manufacturing and other related capital equipment used to produce the Products (together, the ‘Equipment’) used in the provision of the Services shall be with Toller.
+Toller agrees to use the Equipment only for the production of Products under this Agreement and only as directed by Principal. Toller shall take all reasonable steps to maintain and repair the Equipment at its own cost, and such Equipment shall be under Toller’s control and risk at all times ».
+Traduction libre de l’appelante :
+« EQUIPEMENTS DE FABRICATION
+« Excepté s’il en a été décidé autrement par les parties dans un accord écrit, la propriété des moyens de production et de tout autre équipement, utilisé dans la fabrication des Produits (ensemble, les « Équipements ») et dans la fourniture des Services restera au Fabricant à façon.
+Le Fabricant à façon accepte d’utiliser les Équipements uniquement pour la production des Produits en vertu de ce Contrat et uniquement sur les
+10
+Cf. pièce n° 4, page 2, du dossier de l’Etat belge.
+11
+Cf. pièce n° 2 du dossier de CPB.
+Page 11
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+prescriptions du Principal12. Le Fabricant à façon devra prendre toutes les précautions nécessaires afin de maintenir et réparer les Équipements à ses propres frais, et ces Équipements seront à tout moment sous le contrôle et aux risques du Fabricant à façon ».
+29. Outre la production, relevant du travail à façon au sens strict, CPB
+intervient pour participer à certaines opérations logistiques liées aux ventes de CSG (stockage, emballage, chargement des camions,...).
+CPB assure une série de prestations au profit de CSG qui peuvent être considérées comme accessoires ou complémentaires au travail à façon13.
+Ainsi, au titre de ces prestations, sont visés l’entreposage des produits, y compris la gestion des produits stockés dans des entrepôts détenus par des tiers ; l’envoi de recommandations au Directeur de la production au sein de la région E. dans le but d’optimaliser le processus de production ;
+les contrôles/évaluations techniques internes et externes et la communication des résultats à CSG ; les livraisons ou services nécessaires à d’autres unités de production. CPB commente les besoins opérationnels de l’usine, facilite les formalités douanières à l’entrée et à la sortie relatives à l’inventaire ; elle respecte les standards et procédures de C. en matière de contrôle de qualité et d’assurance de qualité ; elle offre un support à CSG dans ses initiatives d’amélioration des processus de production, fournit des commentaires et un support à CSG pour faciliter la planification de ses activités, agit en tant qu’importateur officiel pour le compte et à la demande de CSG et gère les containers, sacs, boîtes, palettes et autres matériels d’emballage.
+30. Ainsi, comme l’a relevé la Cour de justice dans son arrêt précité du 29 juin 2023, en l’espèce, « le prestataire et le preneur de services sont des entités juridiquement indépendantes, mais appartiennent au même groupe de sociétés », « les moyens humains et techniques concernés appartiennent au prestataire de services », « celui-ci s’engage contractuellement à utiliser son équipement et son personnel exclusivement pour les prestations de services, en l’occurrence le travail à façon » et « ce prestataire réalise, en application également de cet engagement exclusif, une série de prestations accessoires ou supplémentaires par rapport à ces premières prestations, en prêtant, notamment, un concours logistique, contribuant à l’activité économique
+12
+L’Etat belge estime toutefois que l’expression « selon les directives ou sous la direction du Principal » traduit plus fidèlement les termes « as directed by Principal » que « sur les prescriptions du Principal » comme le traduit CPB.
+13
+Cf. pièce n° 2 du dossier de l’Etat belge, page 3.
+Page 12
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+du preneur, qui donne lieu à des livraisons de biens taxables dans l’État membre où serait situé l’éventuel établissement stable de ce dernier »14.
+31. En effet, il n’est pas soutenu par l’Etat belge que la convention du 14
+février 2012 ferait partie d’un montage purement artificiel qui ne correspondrait pas à la réalité économique et commerciale des opérations.
+Toutefois, comme indiqué ci-avant, l’Etat belge estime, considérant les éléments mentionnés ci-avant, que CSG dispose en Belgique d’un établissement stable au motif que, pour effectuer ses ventes et livraisons de biens (masterbatch), après transformation par CPB, CSG a besoin d’une structure adéquate, en termes de moyens et techniques, permettant de recevoir et d’utiliser les services rendus par CPB et d’autres intervenants, tels les transporteurs.
+32. Dans son arrêt rendu dans l’affaire C-232/22, la Cour de justice a précisé ce qui suit et la Cour de céans fait siens ces développements :
+« 31. En ce qui concerne la notion d’« établissement stable » au sens de l’article 44 de la directive TVA, celle-ci désigne, conformément à l’article 11 du règlement d’exécution no 282/2011, tout établissement, autre que le siège de l’activité économique, qui se caractérise par un degré suffisant de permanence et une structure appropriée, en termes de moyens humains et techniques, lui permettant de recevoir et d’utiliser les services qui sont fournis pour les besoins propres de cet établissement (voir, en ce sens, arrêts du 16 octobre 2014, Welmory, C-605/12, EU:C:2014:2298, point 58, et du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 31). Il s’ensuit que, ainsi que la Cour l’a précisé au point 59 de l’arrêt du 16 octobre 2014, Welmory (C-605/12, EU:C:2014:2298), pour qu’une société soit considérée comme disposant d’un établissement stable dans un État membre dans lequel les services concernés lui sont fournis, elle doit y disposer d’une structure suffisamment permanente et apte à lui permettre d’y recevoir les prestations de services concernées et de les utiliser aux fins de son activité économique.
+32. Il y a lieu de relever, en outre, que la question de savoir s’il existe un établissement stable, au sens dudit article 44, deuxième phrase, de la directive TVA, doit être examinée en fonction non pas de l’assujetti-
+prestataire de services, mais de l’assujetti-preneur auquel les services sont fournis (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 30) ».
+14
+Cf. point 34 de l’arrêt.
+Page 13
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+33. Selon la thèse de l’Etat belge, les moyens techniques seraient les deux usines de production, le centre de distribution, les lieux d’entreposage qui sont la propriété de CPB mais qui devraient être considérés comme mis à la disposition de CSG en exécution de la convention du 14 février 2012 en vertu de laquelle CPB accepte d’utiliser ses équipements uniquement pour produire des masterbatch au profit de CSG et sous ses directives, de sorte qu’il faudrait en conclure que c’est cette dernière qui dispose librement de ce matériel.
+Il souligne à cet égard que la jurisprudence de la Cour de justice fait référence au fait de disposer, et non de posséder, une infrastructure et des ressources, comme critère d’existence d’un établissement stable.
+Quant aux moyens humains, l’Etat belge considère qu’il s’agit du personnel opérationnel permettant à CSG de réaliser ses ventes et livraisons de biens localisées en Belgique, à savoir le personnel de CPB
+qui, en plus d’effectuer des prestations de travail à façon, réalise des prestations complémentaires indispensables à CSG (réception des matières premières, contrôle qualité, préparation des commandes et conditionnement des produits finis, réalisation des inventaires, réception des camions affrétés par CSG ou par la clientèle de CSG et manutention des produits masterbatch dont la livraison est assurée par CSG) et qui serait, tout comme les moyens techniques de CPB évoqués ci-avant, à la disposition de CSG en exécution de la convention du 14 février 2012.
+34. Dans son arrêt C-232/22 précité, la Cour de justice a toutefois décidé ce qui suit et la Cour de céans adopte ces motifs :
+« 35. En ce qui concerne, en premier lieu, la structure appropriée d’un établissement stable en termes de moyens humains et techniques, la Cour a jugé qu’une structure qui se matérialise par de tels moyens ne peut pas avoir une existence seulement ponctuelle. S’il n’est pas requis de détenir les moyens humains ou techniques en propre dans un autre État membre, il est en revanche nécessaire que l’assujetti ait le pouvoir de disposer de ces moyens humains et techniques de la même manière que s’ils étaient les siens, sur le fondement, par exemple, de contrats de service ou de location mettant ces moyens à sa disposition et ne pouvant être résiliés à brève échéance (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, points 37 et 41).
+36. S’agissant du fait que le prestataire et le destinataire des services sont liés et, en particulier, que les sociétés en cause au principal appartiennent au même groupe, tout en étant juridiquement indépendantes l’une de
+Page 14
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+l’autre, il convient de rappeler que la Cour a jugé que la qualification d’« établissement stable », qui doit être appréciée au vu de la réalité économique et commerciale, ne saurait dépendre du seul statut juridique de l’entité concernée, et que le fait qu’une société possède une filiale dans un État membre ne signifie pas en soi qu’elle y a également son établissement stable (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, points 38 et 40 ainsi que jurisprudence citée).
+37. En ce qui concerne la circonstance selon laquelle l’assujetti prestataire de services s’engage contractuellement à utiliser ses équipements et son personnel exclusivement pour les prestations de services concernées, il ressort de la jurisprudence de la Cour qu’une personne morale, quand bien même elle n’aurait qu’un seul client, est supposée utiliser les moyens techniques et humains dont elle dispose pour ses besoins propres. Ce n’est donc que s’il devait être établi que, en raison des stipulations contractuelles applicables, une société destinataire de services disposait des moyens de son prestataire comme s’ils étaient les siens qu’elle pourrait être regardée comme ayant une structure présentant un degré suffisant de permanence et appropriée, en termes de moyens humains et techniques, dans l’État membre dans lequel est établi son prestataire (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 48).
+38. Partant, le fait que, dans l’affaire au principal, les moyens humains et techniques concernés appartiennent non pas à C. S, mais à C. Plastics, n’exclut pas, en tant que tel, la possibilité que cette première société ait un établissement stable en Belgique, pourvu qu’elle y dispose d’un accès immédiat et permanent à ces moyens comme s’il s’agissait de ses moyens propres. À cet égard, pourraient être prises en compte, sans être déterminantes en soi, notamment, les circonstances que, ainsi qu’il ressort du dossier dont dispose la Cour, C. P. s’est engagée à utiliser ses propres équipements exclusivement pour la production des produits visés par la convention conclue avec C. S., que cette convention est en vigueur depuis l’année 2012, et que ces prestations constituent la quasi-totalité du chiffre d’affaires de cette première société.
+39. Cependant, ainsi que l’indique la Commission européenne dans ses observations écrites, le prestataire des services concernés restant responsable de ses propres moyens et fournissant ces prestations à ses propres risques, le contrat de prestations de services, bien qu’exclusif, n’a pas pour effet à lui seul que les moyens de ce prestataire deviennent ceux de son client ».
+Page 15
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+35. La Cour observe qu’en effet, la majeure partie des risques liés à ses prestations sont supportés par CPB, comme cela est précisé aux articles 2
+(intitulé « Production, contrôle de la qualité et autres obligations du Fabricant à façon »), 9 (intitulé « Risque, défaut de qualité, surproduction et gaspillage ») et 10 (intitulé « Garanties, Représentations et Assurances ») de la convention du 14 février 2012, en ces termes :
+- « 2.1. Le Fabricant à façon est à tout moment responsable pour (a) le gage de qualité de tous les Produits fabriqués pour le Principal ; (b) le respect des Pratiques de Fabrication de C. ainsi que toutes autres exigences du groupe C. , qui peuvent, le cas-échéant, être modifiées; (c) les obligations de ce Contrat et les Spécifications concernant les Matières Premières et les Composants délivrés au Fabricant à façon ainsi que les Produits fabriqués pour le Principal, afin de détecter les défauts, les anomalies ou les produits qui ne répondent pas aux caractéristiques requises; (d) tenir des registres appropriés de ce qui précède » ;
+- « 9.1. En ce qui concerne les coûts et les dépenses liés à des défauts de qualité, à la surproduction et au gaspillage, les parties conviennent que le Fabricant à façon supportera et sera responsable des coûts suivants :
+(a) les coûts (y compris les Coûts de Production Variable et autres coûts associés tels que le coût des Matières Premières et Composants) liés aux Services au-delà de ce qui a été convenu dans les Paramètres de Planification applicables ;
+(b) les coûts et les frais résultant d’une violation de la clause 6.3 ou 6.4 ;
+(c) (sous réserve de la clause 9.4) tous les coûts résultant d’une violation des garanties, des représentations et engagements prévus à la clause 10.1 ou de l’engagement prévu à la clause 10.2 ; et (d) tous les coûts liés au reconditionnement ou au réétiquetage des produits dans la mesure où ils ont été causés par un manquement du Fabricant à façon » ;
+- « 10.2. Le Fabricant à façon s’engage envers le Principal à prendre toutes les précautions nécessaires et raisonnables concernant les Produits et toutes les Matières Premières et Composants qu’il a en sa possession, y compris en ce qui concerne leur utilisation, leur stockage, leur livraison et leur chargement. Le Fabricant à façon doit à tout moment prendre des dispositions concernant les Matières Premières et Composants et tous les Produits qu’il a en sa possession, afin d’assurer qu’ils soient stockés dans des conditions adéquates et appropriées ».
+N’est pas de nature à ébranler ce qui précède, le transfert partiel et conditionnel de certains risques envers CSG, relevé par l’Etat belge, tel qu’il découle de l’article 9.3 de cette convention et dans les conditions qu’il précise, cet article prévoyant que si le Fabricant à façon respecte
+Page 16
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+l’engagement énoncé à la clause 10.2, le risque lié aux Produits, y compris leur stockage, leur livraison et leur chargement en vue de la livraison, reste à la charge du Principal et que si le Fabricant à façon ne respecte pas l’engagement énoncé à la clause 10.2, le risque relatif aux Produits concernés par cette violation sera transféré au Fabricant jusqu’à ce que la violation soit rectifiée.
+En effet, les risques supportés par une société qui travaille comme sous-
+traitant sont généralement plus limités que ceux mis en œuvre par une entreprise de production à part entière, le travail à façon étant une variante du contrat de sous-traitance. Le travailleur à façon n’acquiert pas les matières premières et ne vend pas sa production à l’entrepreneur principal. Son rôle est celui d’un assembleur et il doit garantir la qualité des biens produits.
+Il découle des clauses du contrat susvisées que les risques supportés par CPB sont ceux habituellement supportés par le travailleur à façon dans un modèle de travail à façon, et qu’il supporte les risques relatifs à ses prestations.
+L’administration fiscale, qui considère que la convention conclue entre CPB
+et CSG revêt un caractère purement formel, à l’égard des risques couverts, ne démontre pas ses allégations.
+En outre, CPB dispose bien d’un contrat d’assurance couvrant les risques stipulés dans la convention, pour ce qui concerne les années concernées par le présent litige15.
+Et l’Etat belge ne produit aucune autre pièce que le contrat de prestations de services du 14 février 2012 qui permettrait de considérer que CSG
+pourrait disposer des moyens matériels et humains de CPB de la même manière que s’ils étaient les siens.
+36. Quant au fait que les moyens techniques et humains permettent de recevoir et d’utiliser les services qui sont fournis pour les besoins propres de l’établissement, l’Etat belge estime que la structure mise à disposition par CPB permet à CSG de recevoir et d’utiliser matériellement les services reçus, c’est-à-dire les produits résultant du travail à façon de CPB, afin de réaliser ses propres livraisons de biens localisées en Belgique.
+Il soutient à cet égard que les prestations de travail à façon de CPB, ainsi que les prestations des transporteurs, sont réalisées uniquement au
+15
+Cf. pièce n° 26 du dossier de CPB.
+Page 17
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+bénéfice des ventes localisées en Belgique, et donc de l’établissement stable de CSG, et non en faveur du siège d’activité économique en Suisse.
+37. S’agissant du critère, également prévu à l’article 11 du règlement d’exécution no 282/2011, selon lequel les moyens humains et techniques d’un établissement stable doivent lui permettre de recevoir des prestations de services et de les utiliser pour ses propres besoins, la Cour de justice, dans son arrêt C-232/22, a rappelé ce qui suit, et la Cour de céans fait siens ces développements :
+« […] il convient, tout d’abord, de distinguer les prestations de services de travail à façon fournies par C. P. à C. S. de la vente par cette dernière société des biens issus de ce travail. Ces prestations et ces ventes constituent, en effet, des opérations distinctes, soumises à des régimes de TVA différents (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 52 et jurisprudence citée).
+Dès lors, il convient, aux fins d’établir le lieu où ces prestations sont reçues par C. S., d’identifier le lieu où sont situés les moyens humains et techniques que cette société utilise à cette fin, et non pas celui où se trouvent les moyens qu’elle utilise pour son activité de vente.
+41. Ensuite, il ressort de la jurisprudence de la Cour que les mêmes moyens ne peuvent pas être utilisés à la fois pour fournir des services et recevoir ces mêmes services (voir, en ce sens, arrêt du 7 avril 2022, Berlin Chemie A. Menarini, C-333/20, EU:C:2022:291, point 54). Or, en l’occurrence, sous réserve de l’appréciation de la juridiction de renvoi, il ne ressort pas du dossier soumis à la Cour qu’il soit possible de distinguer les moyens utilisés par C. Plastics pour ses prestations de travail à façon de ceux qui seraient, selon l’administration fiscale, utilisés par C. S. pour réceptionner ces prestations en Belgique, au sein de son prétendu établissement stable, lequel ne serait d’ailleurs constitué, selon cette administration, que par les moyens appartenant à C. P. .
+42. La juridiction de renvoi s’interroge, par ailleurs, sur l’incidence que peut avoir, pour déterminer le lieu des prestations de services de travail à façon en cause au principal, la circonstance que le prestataire réalise, en application également du contrat exclusif conclu avec le destinataire de ces prestations, une série de prestations, que cette juridiction qualifie d’« accessoires » ou de « supplémentaires » par rapport au travail à façon, à savoir, la gestion du stock des matières premières, leur inventaire en fin d’année, le contrôle de qualité, la gestion du stock des produits finis et la préparation des commandes avant l’envoi. La juridiction de renvoi indique que C. P. prête à C. S. un concours logistique, contribuant ainsi à l’activité économique de celle-ci, donnant lieu, notamment, à des livraisons de biens taxables en Belgique où serait situé, selon l’administration fiscale, l’établissement stable de cette dernière société.
+Page 18
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+43. Ainsi qu’il ressort du point 40 du présent arrêt, il convient de distinguer, s’agissant de la question de savoir si un assujetti preneur de services reçoit ceux-ci au sein de son établissement stable, d’une part, la prestation de ces services et l’aptitude de cet assujetti preneur à les recevoir au sein d’un tel établissement et, d’autre part, les opérations que cet assujetti effectue lui-même dans le cadre de son activité économique, comme en l’occurrence la vente des biens issus du travail à façon. Il s’ensuit que le fait que le prestataire de services fournit au destinataire de ceux-ci également les prestations accessoires précitées, facilitant ainsi l’activité économique de ce destinataire, telle que la vente de produits issus du travail à façon, n’a pas d’incidence sur la question de l’existence d’un établissement stable dudit destinataire.
+44. En outre, il ressort de la jurisprudence de la Cour que la circonstance que les activités économiques de sociétés contractuellement liées par une convention de prestations de services forment un tout économique et que les résultats de ces activités bénéficient essentiellement aux consommateurs de l’État membre où le prestataire de services à son siège n’est pas pertinente pour déterminer si le preneur de ces services possède un établissement stable dans cet État membre (voir, en ce sens, arrêt du 16 octobre 2014, Welmory, C-605/12, EU:C:2014:2298, point 64).
+La Cour a également jugé que ne constitue pas un établissement stable une installation fixe utilisée aux seules fins d’exercer des activités à caractère préparatoire ou auxiliaire par rapport à l’activité économique du preneur des services concernés (arrêt du 28 juin 2007, Planzer, C-73/06, EU:C:2007:397, point 56).
+45. Compte tenu des éléments qui précèdent et sous réserve des vérifications de la juridiction de renvoi, il apparaît que les prestations de services de travail à façon en cause au principal sont reçues et utilisées par C. S., pour son activité économique de vente des biens issus de ces services, en Suisse, dès lors que cette société ne dispose pas en Belgique d’une structure appropriée à cette fin ».
+Dans un arrêt Adient du 13 juin 2024, la Cour de justice a encore, à juste titre, précisé ceci16 :
+« L’existence d’un établissement stable du bénéficiaire des services suppose donc qu’il soit possible d’identifier des moyens humains et techniques qui sont distincts de ceux qu’utilise la société prestataire pour l’accomplissement de ses propres prestations de services et qui sont mis à la disposition du bénéficiaire de ces services pour en assurer la réception et l’utilisation conformément à ses propres besoins. À défaut d’une telle constatation, un tel bénéficiaire ne dispose pas d’un établissement stable 16
+Cf. CJUE, aff. C-533/22, SC Adient Ltd & Co. KG contre Agenția Națională de Administrare Fiscală, 13 juin 2024, point 78.
+Page 19
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+dans l’État membre de la société prestataire et ne peut donc pas être considéré comme établi dans cet État membre ».
+En effet, « à supposer que l’établissement stable puisse être à la fois le prestataire et le bénéficiaire des mêmes prestations de services, il y aurait, dans ce cas de figure, identité du prestataire et du bénéficiaire et, par conséquent, absence, en principe, de toute opération imposable »17, ce qui n’est pas soutenu en l’espèce.
+38. En l’espèce, pour des raisons commerciales, CPB prépare la commande pour qu’une fois arrivé, le transporteur externe (engagé contractuellement par CSG ou par les clients de CSG - en fonction des termes contractuels) puisse prendre possession du produit et l’acheminer chez le client. En outre, comme précisé au point 2.8 du contrat du 14 février 2012, CPB s’occupe également de la préparation des commandes avant envoi afin de prévenir tout dommage en termes de contamination ou de détérioration des produits.
+En ce qui concerne les autres points mis en avant par l’administration fiscale (la gestion des stocks, la tenue des inventaires des matières premières et des produits finis, ainsi que réalisation du contrôle qualité), ceux-ci sont nécessairement inhérents à une relation de travail à façon.
+La (quasi-) exclusivité de la relation commerciale entre CPB et CSG est, à cet égard, sans incidence sur la nature des services rendus.
+Enfin, un contrôle de qualité est inhérent aux prestations de travail à façon ; il permet à CPB de s’assurer que la prestation a été réalisée conformément à ce que CSG attendait d’elle.
+En conclusion, les prestations précitées et mises en avant par l’administration fiscale sont essentiellement des prestations connexes à celles du travail à façon stricto sensu effectuées pour des raisons commerciales et pour le bon fonctionnement de la relation de travail à façon18.
+39. Et, s’agissant de prestations qui seraient liées à l’activité de livraison de biens effectuée par CSG, comme l’a jugé la CJUE, le fait que le prestataire de services, soit CPB, fournisse au destinataire de ceux-ci, soit CSG, également les prestations accessoires précitées, facilitant ainsi l’activité économique de ce destinataire, soit CSG, telle que la vente de produits issus du travail à façon, n’a pas d’incidence sur la question de l’existence d’un établissement stable dudit destinataire des prestations de service.
+17
+Cf., en ce sens et à cet égard, Cf. CJUE, aff. C-533/22, précité, point 79.
+18
+Cf., en ce sens, CJUE, aff. C-533/22, SC Adient Ltd & Co. KG contre Agenția Națională de Administrare Fiscală, 13 juin 2024, point 80.
+Page 20
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+40. L’administration fiscale soutient encore qu’en l’espèce, il est possible de distinguer au sein de CPB « les moyens distincts pour fournir les prestations de production, d’une part, et pour fournir les services logistiques et recevoir les prestations de production et de transport, d’autre part » [sic], compte tenu de la nature hétérogène des tâches et des éléments du dossier.
+Selon l’Etat belge, CPB possède et emploie un ensemble de moyens divers qui lui permettent à la fois (1) d’effectuer les prestations de service de travail à façon qui constituent son activité économique propre, mais également (2), en partie, un ensemble de services qu’elle rend à CSG et qui permettent à CSG de recevoir les prestations de fabrication, ainsi que les prestations de transport qu’elle utilise pour réaliser ses opérations à la sortie (principalement les ventes de produits manufacturés aux tiers et les services de soutien et de conseil aux autres membres du groupe industriel).
+A l’appui de ces allégations, l’Etat belge avance les deux éléments concrets.
+D’une part, s’agissant des moyens humains, l’Etat belge évoque l’organigramme figurant dans la présentation du groupe C. 19. S’il laisse, en effet, apparaitre des fonctions de « Warehouse Supervisor », soit de « gardien » ou de « superviseur » « d’entrepôt », pour le site de Loncin, de « Warehouse Supervisor », pour le site de Pepinster, et de « Store Keeper », soit de « magasinier », pour ces deux mêmes sites, ce seul élément précisément mis en exergue par l’Etat belge ne permet pas de considérer qu’au sein du personnel de CSG, des moyens humains distincts seraient affectés, d’une part, à la production et, d’autre part, à la réception des prestations de service qui serait réalisée conformément aux besoin de CSG.
+S’agissant de la circonstance que les employés de CPB, outre le travail à façon au sens strict, effectuent également des prestations accessoires ou complémentaires participant aux activités de livraison de produits aux clients de CSG, il n’est pas démontré que les employés de CPB, contractuellement liés à CPB, au regard de leurs conditions d’emploi et de rémunération, seraient soustraits à la subordination hiérarchique de cette société et placés à la disposition et sous l’autorité de CSG dans l’accomplissement des tâches qui leur sont confiées20.
+D’autre part, en ce qui concerne les moyens techniques, l’Etat belge fait état de constatations qui auraient été faites tant à Loncin qu’à Pepinster
+19
+Cf. annexe 1 aux conclusions déposées par l’Etat belge, le ///, page 39.
+20
+Cf., en ce sens, Cf. CJUE, aff. C-533/22, SC Adient Ltd & Co. KG contre Agenția Națională de Administrare Fiscală, 13 juin 2024, point 53.
+Page 21
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+et qui permettraient de distinguer, d’une part, les locaux abritant les lignes de production et, d’autre part, des emplacements, des locaux et des silos destinés au stockage et à l’entreposage des matières premières et des produits finis. La pièce à laquelle fait référence pour étayer cette allégation est la page 44 de la pièce annexée à ses dernières conclusions.
+Cette pièce constitue un document de 59 pages intitulé « C. O. » et la page 44 de celui-ci est relative à un processus déterminé de production ;
+il ne s’agit donc pas de plans quelconques auxquels la Cour pourrait se référer.
+L’Etat belge est en défaut de démontrer que, concrètement, les moyens techniques permettant la réalisation des prestations fournies par CPB
+pourraient être distingués de ceux permettant à CSG de recevoir lesdites prestations.
+41. Dans ces conditions, il n’est pas possible, en l’espèce, d’identifier des moyens humains et techniques qui seraient distincts de ceux qu’utilise CPB pour l’accomplissement de ses propres prestations de services et qui seraient mis à la disposition de CSG pour en assurer la réception et l’utilisation conformément à ses propres besoins.
+42. Compte tenu des vérifications susvisées réalisées par la Cour de céans, devant être effectuées selon l’arrêt C-232/22 précité, et conformément aux enseignements issus de cet arrêt, notamment, il y a lieu de conclure, en l’espèce, que les prestations de services de travail à façon en cause et les prestations litigieuses annexes ont été reçues et utilisées par CSG, pour son activité économique de vente des biens issus de ces services, en Suisse, dès lors que cette société ne disposait pas en Belgique d’une structure appropriée à cette fin pouvant être qualifiée d’établissement stable au sens de la législation TVA.
+Le fait, soulevé par l’Etat belge, qu’Arnaud Valet était administrateur de CPB et directeur financier de CSG21 ne permet pas d’aboutir à une autre conclusion.
+C’est donc à tort que l’administration de la TVA a réclamé à CPB de la TVA
+sur les prestations de service litigieuses.
+La contrainte litigieuse doit être annulée.
+Quant aux intérêts moratoires
+43. CPB demande, outre le paiement d’intérêts, l’application d’intérêts sur intérêts, depuis l’introduction de son action, le 30 mars 2018.
+21
+Cf. pièce n° 4 du dossier de l’Etat belge.
+Page 22
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+44. Elle fonde sa demande sur l’article 91, §4, du Code de la TVA dont elle indique qu’il prévoit que « [l]’intérêt moratoire sur les sommes à restituer qui ne sont pas visées au paragraphe 3 est dû au taux de l’intérêt légal en matière fiscale et selon les règles établies en matière civile ».
+45. L’Etat belge s’oppose à cette demande, considérant que les règles relatives aux intérêts moratoires en matière civile ne sont pas applicables à une demande de restitution de TVA telle que celle formulée en l’espèce.
+46. La Cour soulève le fait que, s’agissant des intérêts moratoires, l’article 91
+du Code de la TVA, notamment depuis sa modification par l’article 17 de la loi du 20 novembre 2022 portant des dispositions fiscales et financières diverses, qui serait entré en vigueur le 1er janvier 2023, d’après l’article 38
+de cette loi, prévoit ce qui suit :
+« […]
+§ 4. Un intérêt moratoire, au taux tel que déterminé au paragraphe 1er, alinéa 2, diminué de deux points de pourcentage, est dû de plein droit sur les taxes à restituer :
+1° en vertu de l’article 76, § 1er, alinéas 1er et 3, à compter de l’expiration du délai prévu par cette disposition ou du délai prévu en exécution de l’article 76, § 1er, alinéa 3 ;
+1°/1 conformément à l’article 76, § 2, alinéas 1er et 2, à compter de l’expiration du délai prévu en application de l’article 76, § 2, alinéa 2 ;
+2° en vertu de l’article 76, § 3, alinéa 3, à compter du premier jour du mois qui suit l’expiration des délais prévus en exécution de cette disposition.
+Cet intérêt moratoire est calculé mensuellement sur le total des taxes à rembourser visées à l’alinéa 1er, arrondi au multiple inférieur le plus proche de 10 EUR. Toute fraction de mois est comptée pour un mois entier.
+L’intérêt moratoire d’un mois n’est dû que s’il atteint 5 EUR.
+Lorsque l’administration ne dispose pas des données nécessaires pour liquider les sommes à restituer conformément à l’alinéa 1er, 1°, aucun intérêt moratoire n’est dû, pour la période s’étendant entre le moment où les sommes auraient dû être liquidées si l’administration avait eu les données nécessaires, et la fin du mois suivant celui au cours duquel les données nécessaires pour liquider les sommes à restituer ont été communiquées à l’Administration.
+§ 5. Un intérêt moratoire, au taux tel que déterminé par le paragraphe 1er, alinéa 2, diminué de deux points de pourcentage, est dû sur les taxes à restituer qui ne sont pas visées au paragraphe 4, ainsi que sur les amendes à restituer, à compter du premier jour du mois qui suit celui au
+Page 23
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+cours duquel l’administration a été mise en demeure par sommation ou par autre acte équivalent. Lorsque le paiement des sommes à restituer, intervient postérieurement à la mise en demeure, l’intérêt moratoire est dû à compter du premier jour du mois qui suit celui du paiement effectif.
+Cet intérêt moratoire est calculé mensuellement sur le montant de chaque paiement arrondi au multiple inférieur le plus proche de 10 EUR.
+Toute fraction de mois est comptée pour un mois entier.
+L’intérêt moratoire d’un mois n’est dû que s’il atteint 5 EUR.
+Il n’est toutefois pas dû d’intérêt lorsque :
+1° la restitution résulte de la remise ou de la réduction d’une amende accordée comme mesure de grâce ;
+2° l’administration ne dispose pas des données nécessaires pour liquider les sommes à restituer et ces données ne peuvent être obtenues au prix d’efforts raisonnables. Aucun intérêt moratoire n’est dû, pour la période s’étendant entre le premier jour du mois suivant celui pendant lequel les sommes auraient dû être liquidées sur base d’une mise en demeure adressée à l’Administration si celle-ci avait eu les données nécessaires, et la fin du mois suivant celui au cours duquel les données nécessaires pour liquider les sommes à restituer ont été communiquées à l’Administration ».
+47. Compte tenu de la modification de l’article 91 du Code de la TVA, laquelle n’a pas été prise en considération par les parties ni dans le cadre de leurs conclusions, ni dans le cadre des débats, modification qui pourrait avoir une incidence sur la demande de restitution des intérêts telle que formulée par CPB, les débats seront rouverts afin que les parties s’expliquent quant à ce, dans le cadre d’un débat contradictoire.
+48. Il sera réservé à statuer pour le surplus, en ce compris les dépens.
+PAR C ES MOT IFS :
+Vu l’arti cle 24 de la loi du 15 juin 1935 sur l’e mploi des l angues en matière judicia ire,
+La cour, statuant co ntradictoirement,
+RECOIT l’appel incident de l’Etat belge.
+Avant dire droit quant au fond,
+ORDONNE la réouverture des débats aux fins précisées dans les motifs du présent arrêt.
+Page 24
+Cour d’appel de Liège, 9d Ch., 06-06-2025
+2020/RG/820 - C. P./ETAT BELGE
+DIT que L’ETAT BELGE déposera au greffe et communiquera ses conclusions à la partie adverse pour le 20 janvier 2026 au plus tard.
+DIT que la SA C. déposera au greffe et communiquera ses conclusions à la partie adverse pour le 20 août 2026.
+FIXE la cause à l’audience du 2 octobre 2026 à 9h00 pour 60 minutes de plaidoiries.
+RESERVE à statuer pour le surplus, en ce compris les dépens.
+Ainsi jugé et délibéré par la NEUVIÈME chambre D de la cour d'appel de Liège, où
+siégeait le conseiller ….comme juge unique et prononcé en audience publique du 06 juin 2025 par le conseiller …, avec l’assistance du greffier délégué …(article 330ter, §1er, du Code judiciaire).
+Page 25
