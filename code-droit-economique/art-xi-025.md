@@ -1,4 +1,4 @@
-§ 1erer. Dans les conditions visées à l'article XI.24, §§ 3 à 5, l'Office rend la demande de brevet accessible au public via le registre.
+§ 1er. Dans les conditions visées à l'article XI.24, §§ 3 à 5, l'Office rend la demande de brevet accessible au public via le registre.
 Dès que la demande de brevet est rendue accessible au public en application de l'alinéa 1er, le dossier de la demande est soumis à l'inspection publique via le registre.
 § 2. Une fois le brevet délivré, le dossier du brevet est soumis à l'inspection publique via le registre, sous réserve de l'application de la loi du 10 janvier 1955.
 A partir de la date de délivrance du brevet, copie peut en être obtenue aux conditions et dans les formes fixées par le Roi.
