@@ -1,4 +1,4 @@
-§ 1erer. L'Office met à la disposition du public le registre et le Recueil par voie électronique. Le Roi détermine les modalités de la tenue du registre et du Recueil ainsi que les conditions de mise à la disposition du public du registre et du Recueil.
+§ 1er. L'Office met à la disposition du public le registre et le Recueil par voie électronique. Le Roi détermine les modalités de la tenue du registre et du Recueil ainsi que les conditions de mise à la disposition du public du registre et du Recueil.
 § 2. L'Office mentionne au Recueil les inscriptions figurant au registre. Les données bibliographiques des demandes de brevet publiées, des brevets délivrés et des demandes de brevet publiées et brevets délivrés qui sont modifiés en application des articles XI.55, XI.56 et XI.57, sont mentionnées dans le Recueil.
 § 3. Outre les inscriptions énoncées par le présent Code, le Roi énumère les inscriptions au registre et au Recueil conformément aux articles XI.80/1 et XI.80/2.
 § 4. Sauf les cas fixés par le Roi, les inscriptions au registre et au Recueil restent soumises à l'inspection publique pour une durée illimitée.
