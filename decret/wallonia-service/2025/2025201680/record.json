@@ -1,0 +1,29 @@
+{
+  "id": "2025201680",
+  "title": "15 MAI 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Congo relatif au transport aérien, fait à Bruxelles le 12 juin 2018",
+  "source_title": "15 MAI 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Congo relatif au transport aérien, fait à Bruxelles le 12 juin 2018",
+  "act": "decret/wallonia-service/2025/2025201680",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-06-02&numac_search=2025201680&page=7&lg_txt=F&caller=list&2025201680=17&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "1fc75f8685218e71ec8f77938d2cd47c87f99705fb5c08c742ace82e3f47e048",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-05-15",
+  "published": "2025-06-02",
+  "in_force": "2025-06-12",
+  "in_force_basis": "Justel: Entrée en vigueur : 12 juin 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "2 juin 2025",
+    "Numéro": "2025201680",
+    "page": "51755",
+    "Dossier numéro": "2025-05-15/12",
+    "Entrée en vigueur": "12 juin 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 171,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-06-12"
+}
