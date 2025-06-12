@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.086",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.086",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-12",
+  "date_as_printed": "Jugement/arrêt du 12 juin 2025",
+  "published_on_juportal": "2025-06-23",
+  "language": "fr",
+  "role_number": "86/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation des articles 17 et 18 de la loi-programme du 22 décembre 2023 (insertion et entrée en vigueur de l'article 27513 du CIR 1992), introduit par l'ASBL « Federgon ». Droit fiscal - Précompte professionnel - Dispense de versement du précompte professionnel - Secteur de la fruiticulture et de la culture maraîchère - Travailleurs occasionnels - Aide d'État",
+    "het beroep tot vernietiging van de artikelen 17 en 18 van de programmawet van 22 december 2023 (invoeging en inwerkingtreding van artikel 27513 van het WIB 1992), ingesteld door de vzw « Federgon ». Fiscaal recht - Bedrijfsvoorheffing - Vrijstelling van doorstorting van bedrijfsvoorheffing - Fruit- en groenteteelt - Gelegenheidsarbeiders - Staatssteun"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation des articles 17 et 18 de la loi-programme du 22 décembre 2023 (insertion et entrée en vigueur de l'article 27513 du CIR 1992), introduit par l'ASBL « Federgon ». Droit fiscal - Précompte professionnel - Dispense de versement du précompte professionnel - Secteur de la fruiticulture et de la culture maraîchère - Travailleurs occasionnels - Aide d'État"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.086&lang=fr",
+  "source_sha256": "5db221b349a7792555d68ecd6e7efbceece9f1ec4139a12d46f3ec633682c6dd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.086_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_308.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
