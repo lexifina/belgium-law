@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.088",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.088",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-12",
+  "date_as_printed": "Jugement/arrêt du 12 juin 2025",
+  "published_on_juportal": "2025-06-23",
+  "language": "fr",
+  "role_number": "88/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles concernant l'article 84, § 1erbis, de la loi du 2 août 2002 « relative à la surveillance du secteur financier et aux services financiers », posées par un juge d'instruction du Tribunal de première instance néerlandophone de Bruxelles. Droit économique - Autorité des services et marchés financiers (FSMA) - Enquête administrative - Données de trafic et de localisation de moyens de communications électroniques - Délais de réquisition",
+    "de prejudiciële vragen over artikel 84, § 1bis, van de wet van 2 augustus 2002 « betreffende het toezicht op de financiële sector en de financiële diensten », gesteld door een onderzoeksrechter van de Nederlandstalige Rechtbank van eerste aanleg te Brussel. Economisch recht - Autoriteit voor Financiële Diensten en Markten (FSMA) - Administratief onderzoek - Verkeers- en locatiegegevens van elektronische-communicatiemiddelen - Vorderingstermijnen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles concernant l'article 84, § 1erbis, de la loi du 2 août 2002 « relative à la surveillance du secteur financier et aux services financiers », posées par un juge d'instruction du Tribunal de première instance néerlandophone de Bruxelles. Droit économique - Autorité des services et marchés financiers (FSMA) - Enquête administrative - Données de trafic et de localisation de moyens de communications électroniques - Délais de réquisition"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.088&lang=fr",
+  "source_sha256": "c8d24ba1994a519eea359439938d4041d2b32dd76489840779d60c4fe4d39583",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.088_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_310.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
