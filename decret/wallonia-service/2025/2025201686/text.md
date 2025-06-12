@@ -1,0 +1,7 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent décret règle, en vertu de l'article 138 de la Constitution, des matières visées aux articles 127 et 128 de celle-ci.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'Accord de Protection des Investissements entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018, sortira son plein et entier effet.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Les adaptations et modalités de transition adoptées en vertu de l'article 4.18, paragraphe 4, de l'Accord de Protection des Investissements entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018, sortiront leurs pleins et entiers effets.
+Le Gouvernement wallon notifie au plus vite tout projet d'adaptation ou de modalité de transition au Parlement wallon.
+Dans un délai de trois mois suivant la notification du Gouvernement wallon, visée à l'alinéa 2, le Parlement wallon peut, par dérogation à l'alinéa 1er, s'opposer à ce que toute adaptation ou modalité de transition sorte ses pleins et entiers effets.
