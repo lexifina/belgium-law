@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.087",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.087",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-12",
+  "date_as_printed": "Jugement/arrêt du 12 juin 2025",
+  "published_on_juportal": "2025-06-23",
+  "language": "fr",
+  "role_number": "87/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation des articles 62 et 67 de la loi du 18 janvier 2024 « visant à rendre la justice plus humaine, plus rapide et plus ferme III », introduit par la SA « Derby ». Jeux de hasard - Etablissements de jeux de hasard de classe IV - Organisation de paris - Infractions - Sanctions administratives et pénales - Champ d'application",
+    "het beroep tot vernietiging van de artikelen 62 en 67 van de wet van 18 januari 2024 « om justitie menselijker, sneller en straffer te maken III », ingesteld door de nv « Derby ». Kansspelen - Kansspelinrichtingen klasse IV - Aannemen van weddenschappen - Inbreuken - Administratieve en strafrechtelijke sancties - Toepassingsgebied"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation des articles 62 et 67 de la loi du 18 janvier 2024 « visant à rendre la justice plus humaine, plus rapide et plus ferme III », introduit par la SA « Derby ». Jeux de hasard - Etablissements de jeux de hasard de classe IV - Organisation de paris - Infractions - Sanctions administratives et pénales - Champ d'application"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.087&lang=fr",
+  "source_sha256": "891cae125990cf5d27bf7016194e6343b1a5a0f41dfd2aaccce1a93a29656c65",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.087_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_309.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
