@@ -1,0 +1,28 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ARGNT:2025:JUG.20250618.1",
+  "ecli": "ECLI:BE:ARGNT:2025:JUG.20250618.1",
+  "court": "Arbeidsrechtbank Gent",
+  "court_code": "ARGNT",
+  "decision_date": "2025-06-18",
+  "date_as_printed": "Vonnis/arrest van 18 juni 2025",
+  "published_on_juportal": "2026-03-15",
+  "language": "nl",
+  "role_number": "24/239/A",
+  "case_name_as_published": "",
+  "subjects": [
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SOCIAAL RECHT - SOCIALE ZEKERHEID - Werkloosheid - Toekenningsvoorwaarden - Beschikbaarheid arbeidsmarkt"
+  ],
+  "fiche": [
+    "SOCIAAL RECHT - SOCIALE ZEKERHEID - Werkloosheid - Toekenningsvoorwaarden - Beschikbaarheid arbeidsmarkt",
+    "Koninklijk Besluit - 25-11-1991 - 67"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ARGNT:2025:JUG.20250618.1",
+  "source_sha256": "22f35a54eeb1ae073b2fe63a570459f68173982873e33dd5e99e3c58691ece52",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ARGNT:2025:JUG.20250618.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/15/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
