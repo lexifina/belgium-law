@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.092",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.092",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-19",
+  "date_as_printed": "Jugement/arrêt du 19 juin 2025",
+  "published_on_juportal": "2025-06-30",
+  "language": "fr",
+  "role_number": "92/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles 2692, § 1er, et 2791 du Code des droits d'enregistrement, d'hypothèque et de greffe et 664 et 671 du Code judiciaire, posées par le bureau d'assistance judiciaire de la Cour d'appel de Mons. Droit judiciaire - Procédure civile - Frais et dépens - Droits de greffe - Droit de mise au rôle - Dispense - Assistance judiciaire - Conditions",
+    "de prejudiciële vragen betreffende de artikelen 2692, § 1, en 2791 van het Wetboek der registratie-, hypotheek- en griffierechten en 664 en 671 van het Gerechtelijk Wetboek, gesteld door het bureau voor rechtsbijstand van het Hof van Beroep te Bergen. Gerechtelijk recht - Burgerlijke rechtspleging - Uitgaven en kosten - Griffierechten - Rolrecht - Vrijstelling - Rechtsbijstand - Voorwaarden"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles 2692, § 1er, et 2791 du Code des droits d'enregistrement, d'hypothèque et de greffe et 664 et 671 du Code judiciaire, posées par le bureau d'assistance judiciaire de la Cour d'appel de Mons. Droit judiciaire - Procédure civile - Frais et dépens - Droits de greffe - Droit de mise au rôle - Dispense - Assistance judiciaire - Conditions"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.092&lang=fr",
+  "source_sha256": "b51e6b01979cdec40bcf79c0c91c4611391e0b746f79fa52b4508794921a45ad",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.092_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_316.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
