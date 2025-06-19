@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.093",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.093",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-19",
+  "date_as_printed": "Jugement/arrêt du 19 juin 2025",
+  "published_on_juportal": "2025-06-30",
+  "language": "fr",
+  "role_number": "93/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 15 de la loi du 6 février 2003 « portant des dispositions sociales pour des militaires qui retournent à la vie civile », posée par le Tribunal du travail de Gand, division de Gand. Droit social - Sécurité sociale - Chômage - Allocations de chômage - Service public - Personnel statutaire - Démission volontaire - Militaires",
+    "de prejudiciële vraag betreffende artikel 15 van de wet van 6 februari 2003 « houdende sociale bepalingen voor militairen die terugkeren naar het burgerleven », gesteld door de Arbeidsrechtbank te Gent, afdeling Gent. Sociaal recht - Sociale zekerheid - Werkloosheid - Werkloosheidsuitkeringen - Overheidsdienst - Statutaire personeelsleden - Vrijwillig ontslag - Militairen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 15 de la loi du 6 février 2003 « portant des dispositions sociales pour des militaires qui retournent à la vie civile », posée par le Tribunal du travail de Gand, division de Gand. Droit social - Sécurité sociale - Chômage - Allocations de chômage - Service public - Personnel statutaire - Démission volontaire - Militaires"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.093&lang=fr",
+  "source_sha256": "b77b6a408dea4a7587d581bbe0c313534f0bacc87e5b7b631556e4e679c28814",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.093_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_311.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
