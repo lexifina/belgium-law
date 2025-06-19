@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.094",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.094",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-19",
+  "date_as_printed": "Jugement/arrêt du 19 juin 2025",
+  "published_on_juportal": "2025-06-30",
+  "language": "fr",
+  "role_number": "94/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 39 de la loi du 8 mai 2024 « sur les exigences en matière d'accessibilité pour les services de transport et créant l'Agence fédérale de Régulation du Transport », introduit par la SA « Brussels Airport Company ». Droit économique - Transport - Agence fédérale de Régulation du Transport (ART) - Financement - Redevance - Titulaire de la licence d'exploitation de l'aéroport de Bruxelles-National",
+    "het beroep tot vernietiging van artikel 39 van de wet van 8 mei 2024 « betreffende de toegankelijkheidsvoorschriften voor vervoersdiensten en houdende de oprichting van het Federaal Agentschap voor de Regulering van Transport », ingesteld door de nv « Brussels Airport Company ». Economisch recht - Vervoer - Federaal Agentschap voor de Regulering van Transport (ART) - Financiering - Heffing - Houder van de exploitatielicentie van de luchthaven Brussel-Nationaal"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 39 de la loi du 8 mai 2024 « sur les exigences en matière d'accessibilité pour les services de transport et créant l'Agence fédérale de Régulation du Transport », introduit par la SA « Brussels Airport Company ». Droit économique - Transport - Agence fédérale de Régulation du Transport (ART) - Financement - Redevance - Titulaire de la licence d'exploitation de l'aéroport de Bruxelles-National"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.094&lang=fr",
+  "source_sha256": "88f018073ad3ab70fce0afe712c8d90ca46a50230f2d84e2fcb6de8af35d9586",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.094_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_313.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
