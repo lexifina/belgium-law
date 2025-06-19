@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.090",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.090",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-19",
+  "date_as_printed": "Jugement/arrêt du 19 juin 2025",
+  "published_on_juportal": "2025-06-30",
+  "language": "fr",
+  "role_number": "90/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 207, alinéa 7, du Code des impôts sur les revenus 1992, tel qu'il était applicable pour l'exercice d'imposition 2019, posées par la Cour d'appel d'Anvers. Droit fiscal - Impôt des sociétés - Assiette de l'impôt - Détermination du bénéfice imposable - Déductions - Pertes professionnelles - Limitation - Accroissement d'impôt - Pouvoir discrétionnaire de l'administration fiscale",
+    "de prejudiciële vragen betreffende artikel 207, zevende lid, van het Wetboek van de inkomstenbelastingen 1992, zoals van toepassing voor het aanslagjaar 2019, gesteld door het Hof van Beroep te Antwerpen. Fiscaal recht - Vennootschapsbelasting - Grondslag van de belasting - Vaststelling van de belastbare winst - Aftrekken - Beroepsverliezen - Beperking - Belastingverhoging - Discretionaire bevoegdheid van de belastingadministratie"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 207, alinéa 7, du Code des impôts sur les revenus 1992, tel qu'il était applicable pour l'exercice d'imposition 2019, posées par la Cour d'appel d'Anvers. Droit fiscal - Impôt des sociétés - Assiette de l'impôt - Détermination du bénéfice imposable - Déductions - Pertes professionnelles - Limitation - Accroissement d'impôt - Pouvoir discrétionnaire de l'administration fiscale"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.090&lang=fr",
+  "source_sha256": "238cb225e9ce0cca8fb687e57ad0c8a073d5d5b48f3000a2c7ef3d791ce57e96",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.090_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_317.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
