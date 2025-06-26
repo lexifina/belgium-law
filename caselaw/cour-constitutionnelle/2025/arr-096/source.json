@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.096",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.096",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-06-26",
+  "date_as_printed": "Jugement/arrêt du 26 juin 2025",
+  "published_on_juportal": "2025-07-07",
+  "language": "fr",
+  "role_number": "96/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article XI.205, § 4, du Code de droit économique, avant sa modification par la loi du 19 juin 2022, posée par le Conseil d'État. Droit économique - Droits d'auteur et droits voisins - Artistes-interprètes ou exécutants engagés dans le cadre d'un statut - Cession des droits voisins par voie réglementaire",
+    "de prejudiciële vraag betreffende artikel XI.205, § 4, van het Wetboek van economisch recht, vóór de wijziging ervan bij de wet van 19 juni 2022, gesteld door de Raad van State. Economisch recht - Auteursrechten en naburige rechten - Uitvoerende kunstenaars die in het kader van een statuut zijn aangeworven - Overdracht van naburige rechten langs reglementaire weg"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article XI.205, § 4, du Code de droit économique, avant sa modification par la loi du 19 juin 2022, posée par le Conseil d'État. Droit économique - Droits d'auteur et droits voisins - Artistes-interprètes ou exécutants engagés dans le cadre d'un statut - Cession des droits voisins par voie réglementaire"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.096&lang=fr",
+  "source_sha256": "99bad427b370ddc15da355a68474d63d049a8de23a7a08bc5edb05b19524863f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.096_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_322.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
