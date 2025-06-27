@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 27, 1°, de l'arrêté royal du 23 mars 1998 relatif au permis de conduire, remplacé par l'arrêté royal du 28 avril 2011, la phrase " Cette dispense est limitée aux catégories AM, A1, A2, A, B et B+E ; " est remplacée par la phrase " Pour les catégories C1, C, C1+E, C+E, D1, D, D1+E ou D+E, cette dispense vaut si le permis de conduire militaire est délivré après le 30 avril 2025. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui a la Circulation routière dans ses attributions est chargé de l'exécution du présent arrêté.
