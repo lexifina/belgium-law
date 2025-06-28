@@ -9,6 +9,7 @@ e/1) livre X - Contrats d'agence commerciale, contrats de coopération commercia
 f) livre XI - Propriété intellectuelle;
 g) livre XII - Droit de l'économie électronique;
 h) livre XIX - Dettes du consommateur;
+i) les titres 4 et 5 du livre VIII - Qualité des produits et des services;
 2° la loi du 25 mars 1964 sur les médicaments;
 3° la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations;
 4° la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction;

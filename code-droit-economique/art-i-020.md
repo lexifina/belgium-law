@@ -16,6 +16,7 @@ c) l'entreprise qui commet l'infraction est établie dans un autre pays que la B
 d) des éléments de preuve ou des actifs de l'entreprise en rapport avec l'infraction peuvent être trouvés dans un autre pays que la Belgique;
 12° Règlement sur la cybersécurité: règlement (UE) 2019/881 du Parlement européen et du Conseil du 17 avril 2019 relatif à l'ENISA (Agence de l'Union européenne pour la cybersécurité) et à la certification de cybersécurité des technologies de l'information et des communications, et abrogeant le règlement (UE) n° 526/2013;
 13° interface en ligne: tout logiciel, y compris un site internet, une partie de site internet ou une application, exploité par une entreprise ou pour son compte et permettant aux consommateurs d'accéder aux biens ou aux services que l'entreprise propose;
+13° opérateur économique: le fabricant, le mandataire, l'importateur, le distributeur ou le prestataire de services.
 14° règlement 2022/868: le règlement 2022/868 du 30 mai 2022 portant sur la gouvernance européenne des données et modifiant le règlement (UE) 2018/1724;
 15° prestataire de services d'intermédiation de données: le prestataire d'un service tel que défini à l'article 2, 11) et 15), du règlement 2022/868;
 16° organisation altruiste de données: une personne morale exerçant à titre non lucratif une activité d'altruisme des données telle que définie à l'article 2, 16), du règlement 2022/868;

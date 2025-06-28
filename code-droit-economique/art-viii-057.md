@@ -2,3 +2,4 @@ En vue de la transposition ou l'implémentation de législations communautaires 
 1° déterminer les conditions auxquelles des produits doivent satisfaire pour être mis à disposition sur le marché;
 2° déterminer les obligations des opérateurs économiques;
 3° déterminer les conditions auxquelles des organismes notifiés doivent satisfaire;
+4° dispenser les opérateurs économiques des obligations déterminées sur la base du 2°.
