@@ -541,7 +541,9 @@ b) Par marins communautaires, il faut entendre tous les marins assujettis dans u
 <a name="Art.38" href="#Art.37sexies">Art.</a> <a href="#Art.38bis"> 38</a>.&lt;ARN96 28-9-1982, art. 1.&gt;
 § 1er.
 Les cotisations de sécurité sociale sont calculées sur base de la rémunération complète du travailleur, visée à l'article 23.
-
+[<sup>60</sup> Les cotisations visées à l'article 38, § 3, 1° ou 2° ou 3°, et § 3bis, ne sont pas dues sur la partie du salaire de base qui dépasse un montant limite trimestriel. Ce montant limite est augmenté de 2 % pour chaque augmentation des plafonds salariaux visés à l'article 2 de la loi du 20 décembre 1999 visant à octroyer un bonus à l'emploi aux travailleurs salariés ayant un bas salaire et d'autres réductions des cotisations personnelles de sécurité sociale, résultant de la liaison à l'index visée à l'article 2, § 2, alinéa 3, de la loi du 20 décembre 1999 précitée, à partir du trimestre qui suit le trimestre durant lequel ces plafonds salariaux sont augmentés ou, si cette augmentation coïncide avec le début d'un trimestre, à partir de ce trimestre.
+Le Roi détermine, par un arrêté délibéré en Conseil des ministres, ce qu'on entend par le concept de salaire de base et détermine également le montant limite.
+Si le dépassement se produit suite à plusieurs occupations, comme prévu à l'article 2, alinéa 1er, 1°, de l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale, chez un même employeur, alors le montant limite est réparti proportionnellement entre les occupations selon la proportion du salaire de base de l'occupation au cours du trimestre et le salaire de base global de l'ensemble de toutes les occupations du travailleur au cours du trimestre.]<sup>60</sup>
 § 2.
 Les taux de la cotisation du travailleur sont fixes comme suit :
 1° (7,5 p.c.) du montant de sa rémunération, (pour les travailleurs soumis) au régime des pensions de retraite et de survie des travailleurs salariés; (Pour l'ouvrier mineur et assimilé occupé au fond des mines ou des carrières avec exploitation souterraine le taux est porté à 8,50 p.c.) &lt;ARN214. 30-9-1983, art. 1, 1°&gt; &lt;L 1994-03-30/31, art. 7, 027; <b> En vigueur : </b> indéterminée &gt; &lt;L 2002-12-24/31, art. 153, 052; <b> En vigueur : </b> 01-01-2003&gt;
@@ -975,6 +977,7 @@ Le Roi peut, par arrêté délibéré en Conseil des Ministres qui produit ces e
 (<font color="red">57</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 92, 149; En vigueur : 01-01-2024&gt;
 (<font color="red">58</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023122206" target="_blank">2023-12-22/06</a>, art. 181, 149; En vigueur : 01-01-2024&gt;
 (<font color="red">59</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051519" target="_blank">2024-05-15/19</a>, art. 142, 151; En vigueur : 01-04-2025&gt;
+(<font color="red">60</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025071806" target="_blank">2025-07-18/06</a>, art. 81, 152; En vigueur : 01-07-2025&gt;
 
 <a name="Art.38bis" href="#Art.38">Art.</a> <a href="#Art.39"> 38bis</a>. (Abrogé) &lt;L 1992-06-26/30, art. 14, 023; <b> En vigueur : </b> 01-07-1992&gt;
 
