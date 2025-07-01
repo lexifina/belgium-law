@@ -1,0 +1,30 @@
+{
+  "id": "2025004482",
+  "title": "5 JUIN 2025. - Arrêté du Gouvernement wallon fixant les dates de début et de fin de l'année cynégétique",
+  "source_title": "5 JUIN 2025. - Arrêté du Gouvernement wallon fixant les dates de début et de fin de l'année cynégétique",
+  "act": "arrete/wallonia-service/2025/2025004482",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-06-17&numac_search=2025004482&page=6&lg_txt=F&caller=list&2025004482=26&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "1ad9236e157c830bf4f12881ec03be8bb96029abddef6ec5440a758f8c749281",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-06-05",
+  "published": "2025-06-17",
+  "in_force": "2025-07-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 juillet 2025; own clause: Art. 3. Le présent arrêté entre en vigueur le 1er juillet 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "17 juin 2025",
+    "Numéro": "2025004482",
+    "page": "53509",
+    "Dossier numéro": "2025-06-05/03",
+    "Entrée en vigueur": "1 juillet 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 166,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-07-01"
+}
