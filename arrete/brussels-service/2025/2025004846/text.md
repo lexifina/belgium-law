@@ -1,0 +1,27 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent arrêté s'applique à Bruxelles Economie et Emploi du Service public régional de Bruxelles, chargé de l'exécution des compétences relatives à l'économie, visée par l'article 6, § 1er, VI, de la loi spéciale du 8 août 1980 de réformes institutionnelles, tel que modifié à ce jour.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour l'application du présent arrêté, l'on entend par :
+1° Directeur général : le Directeur général de Bruxelles Economie et Emploi du Service public régional de Bruxelles ;
+2° " l'ordonnance du 3 mai 2018 " : l'ordonnance du 3 mai 2018 relative aux chantiers en voirie publique ;
+3° " l'arrêté du 14 février 2019 " : l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 14 février 2019 relatif à l'indemnisation forfaitaire des commerces impactés par un chantier en voirie publique.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans le cadre des articles 84 à 86 l'ordonnance du 3 mai 2018 et de l'arrêté du 14 février 2019, délégation de compétences et de signatures est accordée au Directeur général pour :
+1° la décision d'octroi ou de refus des aides ;
+2° l'engagement et la liquidation des crédits ;
+3° les refus de demandes en obtention ou en liquidation des aides motivés par leur irrecevabilité ou non-fondé ;
+4° la confirmation des infractions ainsi que pour la détermination des modalités de contrôle et les conditions de restitutions des aides ;
+5° la correspondance relative aux opérations visées au 1° à 4°.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Lorsque le Directeur général utilise les compétences déléguées par le présent arrêté, il fait précéder la mention de son grade et sa signature de la formule " Au nom du Ministre ".
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Les délégations accordées par le présent arrêté au Directeur général sont également accordées à l'agent chargé de la suppléance de la fonction du titulaire ou qui le remplace en cas d'absence temporaire ou d'empêchement.
+En cas d'absence temporaire ou d'empêchement, l'agent concerné indique au-dessus de la mention de son grade et de sa signature, la formule " pour le Directeur général, absent ".
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Les compétences déléguées par le présent arrêté le sont également à tous les chefs hiérarchiques du Directeur général.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le Directeur général peut déléguer tout ou partie des compétences qui lui ont été déléguées par le présent arrêté aux agents soumis à son autorité hiérarchique.
+La délégation a lieu par le biais d'un acte écrit que le Directeur général communique au Ministre ayant l'Economie dans ses attributions et au Ministre ayant les Travaux publics dans ses attributions.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Les compétences déléguées visées par le présent arrêté sont accordées sous réserve du droit d'évocation du Ministre ayant l'Economie dans ses attributions et du Ministre ayant les Travaux publics dans ses attributions.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge.
