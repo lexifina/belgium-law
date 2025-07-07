@@ -8,7 +8,7 @@ Sans préjudice des compétences spéciales reconnues au juge de paix et au trib
 7° des demandes liées aux obligations alimentaires ...;
 8° des litiges relatifs à la détermination du ou des allocataire(s) des allocations familiales relatives à des enfants dont les parents ne vivent plus ensemble, ainsi que des requêtes en opposition au paiement à l'allocataire;
 9° des demandes relatives aux régimes matrimoniaux, aux successions, aux donations entre vifs ou aux testaments;
-10° des demandes en partage;
+10° des demandes en liquidation ou en partage visées à l'article 1207;
 11° des demandes relatives à l'interdiction temporaire de résidence visée par la loi du 15 mai 2012 relative à l'interdiction temporaire de résidence en cas de violence domestique;
 12° de l'opposition faite par le titulaire de l'autorité parentale à l'exercice des droits de l'enfant mineur non-émancipé au retrait des sommes inscrites au livret ou carnet d'épargne de ce dernier;
 13° des demandes formées en application de l'article 220, § 3, du Code civil;
