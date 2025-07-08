@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 23, § 5bis, de l'arrêté royal du 28 avril 2021 fixant les paramètres avec lesquels le volume de la capacité à prévoir est déterminé, y compris leurs méthodes de calcul, et les autres paramètres nécessaires pour l'organisation des mises aux enchères, ainsi que la méthode pour et les conditions à l'octroi d'une dérogation individuelle à l'application du ou des plafond(s) de prix intermédiaire(s) dans le cadre du mécanisme de rémunération de capacité, inséré par l'arrêté royal du 31 juillet 2023, les mots " Les points de livraison de la technologie `participation active de la demande', au sens de l'article 2, 112° " sont remplacés par les mots " Les points de livraison de la technologie " stockage d'énergie " et " participation active de la demande ", visés à l'article 2, 62° bis et 112° ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a l'Energie dans ses attributions est chargé de l'exécution du présent arrêté.
