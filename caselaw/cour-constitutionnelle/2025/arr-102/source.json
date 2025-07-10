@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.102",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.102",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-10",
+  "date_as_printed": "Jugement/arrêt du 10 juillet 2025",
+  "published_on_juportal": "2025-07-21",
+  "language": "fr",
+  "role_number": "102/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation partielle de la loi du 6 février 2024 « modifiant la loi du 22 août 2002 relative aux droits du patient et modifiant les dispositions en matière de droits du patient dans d'autres lois en matière de santé », introduit par l'ASBL « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » et autres. Droit médical et droit de la santé - Droits du patient - Professionnels des soins de santé - Concertation multidisciplinaire - Consentement du patient - Dossier électronique du patient - Annotations personnelles des psychologues - Accès aux données",
+    "het beroep tot gedeeltelijke vernietiging van de wet van 6 februari 2024 « tot wijziging van de wet van 22 augustus 2002 betreffende de rechten van de patiënt en tot wijziging van bepalingen inzake rechten van de patiënt in andere wetten inzake gezondheid », ingesteld door de vzw « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » en anderen. Medisch recht en gezondheidsrecht - Rechten van de patiënt - Gezondheidszorgbeoefenaars - Multidisciplinair overleg - Toestemming van de patiënt - Elektronisch patiëntendossier - Persoonlijke notities van de psychologen - Toegang tot de gegevens"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation partielle de la loi du 6 février 2024 « modifiant la loi du 22 août 2002 relative aux droits du patient et modifiant les dispositions en matière de droits du patient dans d'autres lois en matière de santé », introduit par l'ASBL « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » et autres. Droit médical et droit de la santé - Droits du patient - Professionnels des soins de santé - Concertation multidisciplinaire - Consentement du patient - Dossier électronique du patient - Annotations personnelles des psychologues - Accès aux données"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.102&lang=fr",
+  "source_sha256": "1c8bddb6f5b2aa5d5304fc02c10673ef033c70a0a2d4db94ba47d069f016c359",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.102_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
