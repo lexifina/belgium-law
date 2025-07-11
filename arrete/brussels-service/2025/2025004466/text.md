@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. L'article 14 de l'arrêté du 23 juin 2022 du Collège réuni de la Commission commu-nautaire commune portant le règlement général de la comptabilité des centres publics d'action so-ciale entre en vigueur à la date du présent arrêté.
