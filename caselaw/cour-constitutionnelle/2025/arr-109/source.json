@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.109",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.109",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "109/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 330 de l'ancien Code civil, posée par le tribunal de la famille du Tribunal de première instance de Namur, division de Namur. Droit civil - Filiation - Filiation paternelle - Reconnaissance de paternité - Action en contestation introduite par la mère - Recevabilité - Vice de consentement",
+    "de prejudiciële vraag betreffende artikel 330 van het oud Burgerlijk Wetboek, gesteld door de familierechtbank van de Rechtbank van eerste aanleg Namen, afdeling Namen. Burgerlijk recht - Afstamming - Afstamming van vaderszijde - Erkenning van vaderschap - Vordering tot betwisting ingesteld door de moeder - Ontvankelijkheid - Gebrek in de toestemming"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 330 de l'ancien Code civil, posée par le tribunal de la famille du Tribunal de première instance de Namur, division de Namur. Droit civil - Filiation - Filiation paternelle - Reconnaissance de paternité - Action en contestation introduite par la mère - Recevabilité - Vice de consentement"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.109&lang=fr",
+  "source_sha256": "bbca0fda1563836d694ac57e18c7d33b4329d1b1b8ca17efe2070e52e793263a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.109_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
