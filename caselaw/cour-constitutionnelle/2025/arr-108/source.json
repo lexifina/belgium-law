@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.108",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.108",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "108/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 376, § 3, 1° et 2°, du Code des impôts sur les revenus 1992, tel qu'il était applicable pour les exercices d'imposition 2017 à 2019, posées par le Tribunal de première instance du Luxembourg, division de Marche-en-Famenne. Droit fiscal - Impôts sur les revenus - Revenus mobiliers - Dividendes d'origine française - Double imposition - Imputation d'une quotité forfaitaire d'impôt étranger - Dégrèvement d'office - Champ d'application - Délai de réclamation",
+    "de prejudiciële vragen betreffende artikel 376, § 3, 1° en 2°, van het Wetboek van de inkomstenbelastingen 1992, zoals van toepassing voor de aanslagjaren 2017 tot 2019, gesteld door de Rechtbank van eerste aanleg Luxemburg, afdeling Marche-en-Famenne. Fiscaal recht - Inkomstenbelastingen - Roerende inkomsten - Dividenden van Franse oorsprong - Dubbele belasting - Verrekening van het forfaitair gedeelte van buitenlandse belasting - Ambtshalve ontheffing - Toepassingsgebied - Bezwaartermijn"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 376, § 3, 1° et 2°, du Code des impôts sur les revenus 1992, tel qu'il était applicable pour les exercices d'imposition 2017 à 2019, posées par le Tribunal de première instance du Luxembourg, division de Marche-en-Famenne. Droit fiscal - Impôts sur les revenus - Revenus mobiliers - Dividendes d'origine française - Double imposition - Imputation d'une quotité forfaitaire d'impôt étranger - Dégrèvement d'office - Champ d'application - Délai de réclamation"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.108&lang=fr",
+  "source_sha256": "8a31ee9ed178fc411b717aeaab5b62fee4a5f344c9dde438911ce028391e533a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.108_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
