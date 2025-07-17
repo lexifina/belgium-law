@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.106",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.106",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "106/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation partielle de l'ordonnance de la Région de Bruxelles-Capitale du 1er février 2024 « relative à l'hébergement touristique », introduit par Ward Decabooter et autres. Droit économique - Tourisme - Région de Bruxelles-Capitale - Hébergement touristique - Règles répartitrices de compétences - Conditions d'exploitation - Principe de l'enregistrement préalable - Conditions de l'enregistrement - Procédure d'enregistrement - Suspension de l'enregistrement - Recours auprès du ministre compétent - Sanctions administratives",
+    "het beroep tot gedeeltelijke vernietiging van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 1 februari 2024 « betreffende het toeristische verblijf », ingesteld door Ward Decabooter en anderen. Economisch recht - Toerisme - Brussels Hoofdstedelijk Gewest - Toeristische logies - Bevoegdheidverdelende regels - Exploitatievoorwaarden - Beginsel van de voorafgaande registratie - Voorwaarden van de registratie - Registratieprocedure - Schorsing van de registratie - Beroep bij de bevoegde minister - Administratieve sancties"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation partielle de l'ordonnance de la Région de Bruxelles-Capitale du 1er février 2024 « relative à l'hébergement touristique », introduit par Ward Decabooter et autres. Droit économique - Tourisme - Région de Bruxelles-Capitale - Hébergement touristique - Règles répartitrices de compétences - Conditions d'exploitation - Principe de l'enregistrement préalable - Conditions de l'enregistrement - Procédure d'enregistrement - Suspension de l'enregistrement - Recours auprès du ministre compétent - Sanctions administratives"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.106&lang=fr",
+  "source_sha256": "f3bd610d63a2553dcdbe87dcbf30f72ccc228622b889cc59f1823b672a81bd43",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.106_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
