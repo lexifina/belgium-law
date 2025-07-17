@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.107",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.107",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "107/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles 333/2 et 358, § 1, 2°, du Code des impôts sur les revenus 1992, posées par le Tribunal de première instance néerlandophone de Bruxelles. Droit fiscal - Impôts sur les revenus - Informations de l'étranger - Non-déclaration de revenus imposables - Délai spécial d'imposition et d'investigation",
+    "de prejudiciële vragen betreffende de artikelen 333/2 en 358, § 1, 2°, van het Wetboek van de inkomstenbelastingen 1992, gesteld door de Nederlandstalige Rechtbank van eerste aanleg te Brussel. Fiscaal recht - Inkomstenbelastingen - Buitenlandse inlichtingen - Niet-aangifte van belastbare inkomsten - Bijzondere aanslag- en onderzoekstermijn"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles 333/2 et 358, § 1, 2°, du Code des impôts sur les revenus 1992, posées par le Tribunal de première instance néerlandophone de Bruxelles. Droit fiscal - Impôts sur les revenus - Informations de l'étranger - Non-déclaration de revenus imposables - Délai spécial d'imposition et d'investigation"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.107&lang=fr",
+  "source_sha256": "a0db386465b4ad87aee0ab9aa5dfcf7839492beacf07c28d473e9919e2dc31e9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.107_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
