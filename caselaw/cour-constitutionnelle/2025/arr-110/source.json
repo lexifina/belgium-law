@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.110",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.110",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "110/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation des articles 2, 3, 6 et 7 de la loi du 16 mai 2024 « modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour », introduit par la Centrale générale du personnel militaire et autres. Sûreté de l'État - Accès à des registres de données personnelles - Vérification de sécurité - Militaires - Autorisation préalable - Dispense",
+    "het beroep tot vernietiging van de artikelen 2, 3, 6 en 7 van de wet van 16 mei 2024 « tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten », ingesteld door de Algemene Centrale van het Militair Personeel en anderen. Veiligheid van de Staat - Toegang tot registers van persoonsgegevens - Veiligheidsverificatie - Militairen - Voorafgaande machtiging - Vrijstelling"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation des articles 2, 3, 6 et 7 de la loi du 16 mai 2024 « modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour », introduit par la Centrale générale du personnel militaire et autres. Sûreté de l'État - Accès à des registres de données personnelles - Vérification de sécurité - Militaires - Autorisation préalable - Dispense"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.110&lang=fr",
+  "source_sha256": "7d7106a32f15fbebbc370ff469d619efcea6f8fb47033e468ff7509314012937",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.110_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
