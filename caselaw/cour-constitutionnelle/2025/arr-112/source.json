@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.112",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.112",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "112/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 417/6, §§ 1 et 2, du Code pénal, posée par le tribunal correctionnel francophone de Bruxelles. Droit pénal - Délits sexuels - Viol - Mineur qui a atteint l'âge de quatorze ans accomplis mais n'a pas atteint l'âge de seize ans accomplis - Consentement - Différence d'âge maximale avec un partenaire",
+    "de prejudiciële vraag betreffende artikel 417/6, §§ 1 en 2, van het Strafwetboek, gesteld door de Franstalige correctionele rechtbank te Brussel. Strafrecht - Seksuele misdrijven - Verkrachting - Minderjarige die de volle leeftijd van veertien jaar heeft bereikt, maar niet de volle leeftijd van zestien jaar - Toestemming - Maximale leeftijdsverschil met een partner"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 417/6, §§ 1 et 2, du Code pénal, posée par le tribunal correctionnel francophone de Bruxelles. Droit pénal - Délits sexuels - Viol - Mineur qui a atteint l'âge de quatorze ans accomplis mais n'a pas atteint l'âge de seize ans accomplis - Consentement - Différence d'âge maximale avec un partenaire"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.112&lang=fr",
+  "source_sha256": "18097944594195e6f239e47ef0fb3638f991a5993b4237169db1843835b90d47",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.112_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
