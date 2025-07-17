@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.103",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.103",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-07-17",
+  "date_as_printed": "Jugement/arrêt du 17 juillet 2025",
+  "published_on_juportal": "2025-07-28",
+  "language": "fr",
+  "role_number": "103/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de la loi du 17 décembre 2023 « portant des dispositions diverses en vue d'améliorer les conditions de travail des livreurs de colis postaux », introduit par l'ASBL « Fédération Royale Belge des Transporteurs et des Prestataires de Services Logistiques » et autres. Droit économique - Livreurs de colis postaux - Conditions de travail - Obligation d'enregistrement du temps de distribution de colis - Obligations de notification et de rapportage à l'IBPT - Compensation minimale - Présomption de responsabilité des prestataires de services postaux",
+    "het beroep tot vernietiging van de wet van 17 december 2023 « houdende diverse bepalingen met het oog op het verbeteren van de werkomstandigheden van de postpakketbezorgers », ingesteld door de vzw « Koninklijke Federatie van Belgische Transporteurs en Logistieke Dienstverleners » en anderen. Economisch recht - Postpakketbezorgers - Arbeidsvoorwaarden - Registratieverplichting van de pakketdistributietijd - Kennisgevings- en rapportageverplichtingen aan het BIPT - Minimumvergoeding - Vermoeden van aansprakelijkheid van de aanbieders van postdiensten"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de la loi du 17 décembre 2023 « portant des dispositions diverses en vue d'améliorer les conditions de travail des livreurs de colis postaux », introduit par l'ASBL « Fédération Royale Belge des Transporteurs et des Prestataires de Services Logistiques » et autres. Droit économique - Livreurs de colis postaux - Conditions de travail - Obligation d'enregistrement du temps de distribution de colis - Obligations de notification et de rapportage à l'IBPT - Compensation minimale - Présomption de responsabilité des prestataires de services postaux"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.103&lang=fr",
+  "source_sha256": "0d2dc70152554f801030880aadd2866651bc5b5e1407496dd423d2ac8a80f9cb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.103_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_12.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
