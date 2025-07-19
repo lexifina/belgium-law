@@ -1,0 +1,2 @@
+<a name="Art.1"></a>Article 1. Article unique. Le Plan général d'urgence et d'intervention (PGUI) du Gouverneur de la province du Flandre-Occidentale est approuvé à compter de l'entrée en vigueur de cet arrêté.
+La partie adaptée du plan doit faire l'objet d'une nouvelle demande d'approbation.
