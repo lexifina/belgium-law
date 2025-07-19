@@ -1,0 +1,30 @@
+{
+  "id": "2025005146",
+  "title": "3 JUILLET 2025. - Ordonnance modifiant le plafond d'intervention du Fonds bruxellois de garantie",
+  "source_title": "3 JUILLET 2025. - Ordonnance modifiant le plafond d'intervention du Fonds bruxellois de garantie",
+  "act": "ordonnance/brussels-capital/2025/2025005146",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-09&numac_search=2025005146&page=2&lg_txt=F&caller=list&2025005146=25&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=REGION+DE+BRUXELLES-CAPITALE",
+  "source_sha256": "c5488a127538467bc332568a4ffe124d631d67ea8cebc6de6374ed7a9858de8b",
+  "source_issuer": "Région de Bruxelles-Capitale",
+  "made": "2025-07-03",
+  "published": "2025-07-09",
+  "in_force": "2025-07-19",
+  "in_force_basis": "Justel: Entrée en vigueur : 19 juillet 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Région de Bruxelles-Capitale",
+    "Publication": "9 juillet 2025",
+    "Numéro": "2025005146",
+    "page": "58738",
+    "Dossier numéro": "2025-07-03/03",
+    "Entrée en vigueur": "19 juillet 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 309,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-07-19"
+}
