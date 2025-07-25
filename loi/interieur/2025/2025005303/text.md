@@ -1,0 +1,6 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. L'article 4 de la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants, modifié en dernier lieu par la loi du 29 novembre 2022, est complété par trois alinéas rédigé comme suit :
+"Si le nombre de signatures requis est recueilli par voie électronique, le délai maximum pour la collecte des signatures est fixé à deux ans à compter de la date de la publication de la pétition sur la plateforme des pétitions de la Chambre des représentants.
+Dans les cas où le nombre de signatures requis est recueilli par une combinaison des signatures électroniques et des signatures sur papier, les signatures sur papier doivent être remises à la Chambre des représentants au plus tard le lendemain de l'expiration du délai maximum accordé pour la collecte des signatures électroniques, mentionné à l'alinéa 4.
+La Chambre des représentants peut conserver les données à caractère personnel des pétitionnaires, au plus tard, jusqu'à la fin de la législature au cours de laquelle elle a clôturé l'examen de la pétition, ou au cours de laquelle la pétition a été déclarée caduque.".

@@ -1,0 +1,30 @@
+{
+  "id": "2025005303",
+  "title": "2 JUILLET 2025. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue d'instaurer un délai maximum pour la récolte de signatures",
+  "source_title": "2 JUILLET 2025. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue d'instaurer un délai maximum pour la récolte de signatures",
+  "act": "loi/interieur/2025/2025005303",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-15&numac_search=2025005303&page=48&lg_txt=F&caller=list&2025005303=1&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "f14dcdebdd810e128e7b431fcb9ee36d5bae5cca09eaff28b9fb0cb466a7c4b7",
+  "source_issuer": "Intérieur",
+  "made": "2025-07-02",
+  "published": "2025-07-15",
+  "in_force": "2025-07-25",
+  "in_force_basis": "Justel: Entrée en vigueur : 25 juillet 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "15 juillet 2025",
+    "Numéro": "2025005303",
+    "page": "59417",
+    "Dossier numéro": "2025-07-02/10",
+    "Entrée en vigueur": "25 juillet 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 229,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-07-25"
+}
