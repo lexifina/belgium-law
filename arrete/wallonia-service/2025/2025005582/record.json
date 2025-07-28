@@ -1,0 +1,30 @@
+{
+  "id": "2025005582",
+  "title": "10 JUILLET 2025. - Arrêté du Gouvernement wallon portant approbation des modifications des statuts de l'Opérateur de transport de Wallonie",
+  "source_title": "10 JUILLET 2025. - Arrêté du Gouvernement wallon portant approbation des modifications des statuts de l'Opérateur de transport de Wallonie",
+  "act": "arrete/wallonia-service/2025/2025005582",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-28&numac_search=2025005582&page=5&lg_txt=F&caller=list&2025005582=16&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "8da6d9619a00acc61db21dcb40965336200c0b47fa10119921ef04595240e823",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-07-10",
+  "published": "2025-07-28",
+  "in_force": "2025-07-28",
+  "in_force_basis": "Justel: Entrée en vigueur : 28 juillet 2025; own clause: Art. 3. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "28 juillet 2025",
+    "Numéro": "2025005582",
+    "page": "63487",
+    "Dossier numéro": "2025-07-10/10",
+    "Entrée en vigueur": "28 juillet 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 393,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-07-28"
+}
