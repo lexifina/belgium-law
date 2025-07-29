@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.1043.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-07-29",
+  "date_as_printed": "29 JULI 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1043.N.pdf",
+  "source_sha256": "5f562f2ad3bed1dd4daabaf9f03b9de57d37174d891a0aca552cbabac02a266e",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
