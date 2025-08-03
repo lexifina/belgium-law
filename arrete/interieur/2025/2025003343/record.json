@@ -1,0 +1,30 @@
+{
+  "id": "2025003343",
+  "title": "16 JUILLET 2025. - Arrêté ministériel modifiant l'AEPol concernant le certificat médical",
+  "source_title": "16 JUILLET 2025. - Arrêté ministériel modifiant l'AEPol concernant le certificat médical",
+  "act": "arrete/interieur/2025/2025003343",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-24&numac_search=2025003343&page=42&lg_txt=F&caller=list&2025003343=21&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "57bb69400eb1b2c172f808f30ba526eeda4bbfd2d00467d7a047e5e575f84380",
+  "source_issuer": "Intérieur",
+  "made": "2025-07-16",
+  "published": "2025-07-24",
+  "in_force": "2025-08-03",
+  "in_force_basis": "Justel: Entrée en vigueur : 3 août 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "24 juillet 2025",
+    "Numéro": "2025003343",
+    "page": "62602",
+    "Dossier numéro": "2025-07-16/05",
+    "Entrée en vigueur": "3 août 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 286,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-08-03"
+}
