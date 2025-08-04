@@ -1,0 +1,20 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 4 de l'arrêté royal du 16 novembre 2023 fixant à partir de l'année civile 2023 l'intervention financière pour différentes mesures prévues relativement aux secteurs fédéraux de la santé, les modifications suivantes sont apportées :
+1° dans le paragraphe 1er, alinéa 1, les mots " à partir de 2024 " sont remplacés par " pour 2024 " ;
+2° le paragraphe 2 est remplacé par ce qui suit :
+" § 2. Le montant maximal de l'intervention financière annuelle dans les coûts des mesures prévues dans les accords sociaux relatifs aux secteurs fédéraux de la santé est fixé à partir de 2025 à 181.487.065,54 euros et les dépenses sont imputées par l'INAMI au budget des soins de santé :
+a) Pour les secteurs fédéraux de la santé visés à l'article 1er, 6°, a), b), c) et d) qui tombent sous l'application du Fonds Maribel Social pour les Etablissements et Services de Santé 330 : 154.569.921,82 euros, dont 17.379.429,12 euros destinés à la création d'emplois et 137.190.492,70 euros à des mesures salariales.
+b) Pour les secteurs fédéraux de la santé visés à l'article 1er, 6°, a), b), c) et d) qui tombent sous l'application du Fonds Maribel Social pour le secteur public : 3.350.842,07 euros, dont 702.691,51 euros destinés à la création d'emplois et 2.648.150,56 euros à des mesures salariales.
+c) Dans le cadre de la mesure relative au parrainage dans les hôpitaux telle que prévue dans l'accord social du 26 avril 2005 relatif aux secteurs fédéraux de la santé - secteur privé et dans l'accord social du 18 juillet 2005 relatif aux secteurs fédéraux de la santé - secteur public, 10.201.862,37 euros, ventilés comme suit :
+i. Pour les hôpitaux privés : 6.376.164,24 euros à verser au Fonds Maribel Social pour les Etablissements et Services de Santé 330 ;
+ii. Pour les hôpitaux publics : 3.825.698,13 euros à verser au Fonds Maribel Social pour le secteur public. Ce montant peut aussi être utilisé dans le cadre du financement du projet de formation 600 fixé par l'arrêté royal du 6 mars 2023 fixant des interventions financières aux secteurs fédéraux de la santé dans les coûts des projets de formation " P600 ", " #Choisislessoins " et " Accès B " et dans le coût du soutien au personnel de soins et/ou dans cadre de la mesure relative au congé supplémentaire pour les membres du personnel d'au moins 50 ans qui ne bénéficient pas des mesures dans le cadre de la fin de carrière.
+Cette intervention est entièrement destinée à la création d'emplois.
+d) Dans le cadre de la mesure relative au congé supplémentaire pour les membres du personnel d'au moins 50 ans qui ne bénéficient pas des mesures dans le cadre de la fin de carrière, telle que prévue dans l'accord social du 26 avril 2005 relatif aux secteurs fédéraux de la santé - secteur privé et dans l'accord social du 18 juillet 2005 relatif aux secteurs fédéraux de la santé - secteur public, 13.364.439,28 euros, ventilés comme suit :
+i. Pour les secteurs fédéraux privés de la santé : 8.263.508,09 euros à verser au Fonds Maribel Social pour les Etablissements et Services de Santé 330 ;
+ii. Pour les secteurs fédéraux publics de la santé : 5.100.931,19 euros à verser au Fonds Maribel Social pour le secteur public.
+Cette intervention est entièrement destinée à la création d'emplois. "
+3° l'article est complété par un paragraphe 3, rédigé comme suit :
+" § 3. A partir de l'année civile 2026, les montants visés au § 2 et relatifs aux mesures salariales sont majorés chaque année de la norme de croissance réelle telle que définie à l'article 40 de la loi relatives à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 9, § 1er du même arrêté, les mots " à l'article 4 sont liés à l'indice pivot 125.6 (base 2013) " sont remplacés par les mots " à l'article 4, § 2, sont liés à l'indice pivot 128,11 (base 2013) ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
