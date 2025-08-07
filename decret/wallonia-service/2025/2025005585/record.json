@@ -1,0 +1,30 @@
+{
+  "id": "2025005585",
+  "title": "9 JUILLET 2025. - Décret modifiant le décret du 16 juillet 2015 instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes",
+  "source_title": "9 JUILLET 2025. - Décret modifiant le décret du 16 juillet 2015 instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes",
+  "act": "decret/wallonia-service/2025/2025005585",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-28&numac_search=2025005585&page=6&lg_txt=F&caller=list&2025005585=5&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "227b043c4141509625cc622808c1901532047f23b966f527df02b080831a8772",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-07-09",
+  "published": "2025-07-28",
+  "in_force": "2025-08-07",
+  "in_force_basis": "Justel: Entrée en vigueur : 7 août 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "28 juillet 2025",
+    "Numéro": "2025005585",
+    "page": "63471",
+    "Dossier numéro": "2025-07-09/03",
+    "Entrée en vigueur": "7 août 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 4760,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-08-07"
+}
