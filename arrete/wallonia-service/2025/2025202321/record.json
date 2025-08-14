@@ -1,0 +1,30 @@
+{
+  "id": "2025202321",
+  "title": "10 JUILLET 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 10 octobre 2024 fixant la répartition des compétences entre Ministres et portant règlement du fonctionnement du Gouvernement",
+  "source_title": "10 JUILLET 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 10 octobre 2024 fixant la répartition des compétences entre Ministres et portant règlement du fonctionnement du Gouvernement",
+  "act": "arrete/wallonia-service/2025/2025202321",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-04&numac_search=2025202321&page=5&lg_txt=F&caller=list&2025202321=20&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "2a3f66bb6877786b4bd2d3ce1dbb068f30c78af1f2a868b847cca2aa2cf8cefd",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-07-10",
+  "published": "2025-08-04",
+  "in_force": "2025-08-14",
+  "in_force_basis": "Justel: Entrée en vigueur : 14 août 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "4 août 2025",
+    "Numéro": "2025202321",
+    "page": "64378",
+    "Dossier numéro": "2025-07-10/15",
+    "Entrée en vigueur": "14 août 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 100,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-08-14"
+}
