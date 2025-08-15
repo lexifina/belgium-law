@@ -1,0 +1,11 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Il est alloué à l'Office national de sécurité sociale (ONSS), Place Victor Horta 11, 1060 Bruxelles, numéro d'entreprise 2.138.144.670, une subvention :
+1° de 2.650.000 euros (deux millions six cents cinquante mille euros) au maximum pour couvrir les dépenses HTVA liées à la réalisation du projet BE-C [C22]-I [I-204]- Digitalisation IPSS of the Federal State: sub-measure 1 (I-2.04: Digital Platform -ONSS) " Plateforme numérique pour l'interaction entre la sécurité sociale, les citoyens et l'entreprise " dans le cadre de la Facilité pour la reprise et la résilience;
+2° de 2.700.000 euros (deux millions sept cents mille euros) au maximum pour couvrir les dépenses HTVA liées à la réalisation du projet BE-C [C22]-I [I-204]- Digitalisation IPSS of the Federal State: Digitalisation IPSS of the Federal State: sub-measure 2 (I-2.04 - Digital account - ONSS) " Gestion numérique des comptes de chaque entreprise " dans le cadre de la Facilité pour la reprise et la résilience.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les montants visés à l'article 1er seront imputés à charge des crédits d'engagement de l'allocation de base 06.41.12.42.80.42 du Budget général des dépenses de l'année budgétaire 2021.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Les subsides annuels prévus sur les crédits de liquidation seront versés au bénéficiaire sur présentation d'une déclaration de créance moyennant la production de pièces justificatives attestant la matérialité et le montant des charges déclarées. Cette demande et les pièces justificatives doivent être validées au préalable par le commissaire du gouvernement compétent.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Un protocole sera conclu au plus tard dans les trois mois à dater de la signature de l'arrêté royal entre le bénéficiaire de cette subvention et le Ministre qui a les Affaires sociales dans ses attributions. Ce protocole spécifie les modalités en matière d'exécution et de rapportage des activités visées par le projet, de justification des charges déclarées.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
