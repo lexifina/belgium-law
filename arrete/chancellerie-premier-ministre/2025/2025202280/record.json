@@ -1,0 +1,30 @@
+{
+  "id": "2025202280",
+  "title": "28 JUILLET 2025. - Arrêté royal modifiant l'arrêté royal du 2 mars 2025 fixant certaines attributions ministérielles",
+  "source_title": "28 JUILLET 2025. - Arrêté royal modifiant l'arrêté royal du 2 mars 2025 fixant certaines attributions ministérielles",
+  "act": "arrete/chancellerie-premier-ministre/2025/2025202280",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-07&numac_search=2025202280&page=38&lg_txt=F&caller=list&2025202280=20&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "3064845b4ad05240d47f90eec9de71db9fc9d73bb4ae28f6c5f65bfc2b3c909e",
+  "source_issuer": "Chancellerie du Premier Ministre",
+  "made": "2025-07-28",
+  "published": "2025-08-07",
+  "in_force": "2025-08-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 août 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Chancellerie du Premier Ministre",
+    "Publication": "7 août 2025",
+    "Numéro": "2025202280",
+    "page": "64669",
+    "Dossier numéro": "2025-07-28/04",
+    "Entrée en vigueur": "17 août 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 83,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-08-17"
+}
