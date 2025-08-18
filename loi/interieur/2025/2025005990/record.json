@@ -1,0 +1,30 @@
+{
+  "id": "2025005990",
+  "title": "18 JUILLET 2025. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les conditions pour le regroupement familial",
+  "source_title": "18 JUILLET 2025. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les conditions pour le regroupement familial",
+  "act": "loi/interieur/2025/2025005990",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-08&numac_search=2025005990&page=40&lg_txt=F&caller=list&2025005990=13&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "b7e280b6edaa2e06f7e476b8cbf5e7bd01a31c73f3fa0eabfe3dc2e0791f8681",
+  "source_issuer": "Intérieur",
+  "made": "2025-07-18",
+  "published": "2025-08-08",
+  "in_force": "2025-08-18",
+  "in_force_basis": "Justel: Entrée en vigueur : 18 août 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "8 août 2025",
+    "Numéro": "2025005990",
+    "page": "64920",
+    "Dossier numéro": "2025-07-18/29",
+    "Entrée en vigueur": "18 août 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 10507,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-08-18"
+}
