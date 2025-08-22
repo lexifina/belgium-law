@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 49 AR/CIR 92, modifié en dernier lieu par l'arrêté royal du 20 décembre 2024, est complété par un paragraphe 7, rédigé comme suit :
+" § 7. Pour les immobilisations acquises ou constituées à partir du 1er janvier 2025 au 30 juin 2026, par dérogation au paragraphe 1er, alinéa 1er, premier tiret, le contribuable demande l'attestation sous peine de déchéance endéans les douze mois qui suivent le dernier jour de la période imposable au cours de laquelle les immobilisations sont acquises ou constituées.
+Pour les projets d'investissements entamés avant le 1er juillet 2026, par dérogation au § 5, alinéa 1er, le contribuable demande le certificat d'investissement sous peine de déchéance endéans les douze mois qui suivent le dernier jour de la période imposable au cours de laquelle le projet d'investissement est entamé.
+Pour les immobilisations visées à ce paragraphe, la dernière échéance possible pour l'introduction d'une demande d'attestation ou un certificat d'investissement est en tout état de cause le 30 juin 2026, sans que le délai puisse être plus court que celui déterminé au paragraphe 1er, alinéa 1er, premier tiret, pour l'attestation, et § 5, alinéa premier, pour le certificat d'investissement.".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté est applicable aux immobilisations acquises ou constituées à partir du 1er janvier 2025 au 30 juin 2026.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
