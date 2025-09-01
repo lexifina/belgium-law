@@ -1,0 +1,29 @@
+{
+  "id": "2025003421",
+  "title": "23 AVRIL 2025. - Ordonnance établissant les règlements particuliers des Justices de Paix & du Tribunal de Police de l'Arrondissement du Hainaut. - Règlements particuliers des Justices de Paix du Hainaut.",
+  "source_title": "23 AVRIL 2025. - Ordonnance établissant les règlements particuliers des Justices de Paix & du Tribunal de Police de l'Arrondissement du Hainaut. - Règlements particuliers des Justices de Paix du Hainaut.",
+  "act": "ordonnance/justice/2025/2025003421",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-05-26&numac_search=2025003421&page=62&lg_txt=F&caller=list&2025003421=13&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "9b338f84de605a0e869c6881cc423148fc55b857170172b3f0e179fc40746cbe",
+  "source_issuer": "Justice",
+  "made": "2025-04-23",
+  "published": "2025-05-26",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2025; own clause: Art. 5. Le présent règlement entre en vigueur le 1er septembre 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "26 mai 2025",
+    "Numéro": "2025003421",
+    "page": "50610",
+    "Dossier numéro": "2025-04-23/05",
+    "Entrée en vigueur": "1 septembre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 999,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2025-09-01"
+}
