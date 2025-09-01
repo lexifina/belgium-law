@@ -1,0 +1,29 @@
+{
+  "id": "2025008695",
+  "title": "15 JUILLET 2025. - Décret ouvrant des crédits provisoires pour les mois de septembre, octobre, novembreet décembre de la Commission communautaire française pour l'année budgétaire 2025",
+  "source_title": "15 JUILLET 2025. - Décret ouvrant des crédits provisoires pour les mois de septembre, octobre, novembreet décembre de la Commission communautaire française pour l'année budgétaire 2025",
+  "act": "decret/cocof/2025/2025008695",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-11-19&numac_search=2025008695&page=1&lg_txt=F&caller=list&2025008695=6&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMISSION+COMMUNAUTAIRE+FRANCAISE",
+  "source_sha256": "1acb9fa53e99afad79aa39cb7cfa25514735f0097ec37bba489f7f245f9aed97",
+  "source_issuer": "Commission communautaire française",
+  "made": "2025-07-15",
+  "published": "2025-11-19",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2025; own clause: Art. 21. Le présent décret entre en vigueur le 1er septembre 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Commission communautaire française",
+    "Publication": "19 novembre 2025",
+    "Numéro": "2025008695",
+    "page": "88252",
+    "Dossier numéro": "2025-07-15/03",
+    "Entrée en vigueur": "1 septembre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 7893,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-01"
+}
