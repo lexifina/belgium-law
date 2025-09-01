@@ -1,0 +1,30 @@
+{
+  "id": "2025005147",
+  "title": "3 JUILLET 2025. - Ordonnance modifiant l'article 4 de l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales",
+  "source_title": "3 JUILLET 2025. - Ordonnance modifiant l'article 4 de l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales",
+  "act": "ordonnance/cocom/2025/2025005147",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-08&numac_search=2025005147&page=1&lg_txt=F&caller=list&2025005147=23&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMISSION+COMMUNAUTAIRE+COMMUNE",
+  "source_sha256": "ce7ecf0f3d70c925ff2c7358aa494173f5414215df5079cdea88202d53283f41",
+  "source_issuer": "Commission communautaire commune",
+  "made": "2025-07-03",
+  "published": "2025-07-08",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2025; own clause: Art. 3. La présente ordonnance entre en vigueur le 1er septembre 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Commission communautaire commune",
+    "Publication": "8 juillet 2025",
+    "Numéro": "2025005147",
+    "page": "58459",
+    "Dossier numéro": "2025-07-03/02",
+    "Entrée en vigueur": "1 septembre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 188,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-01"
+}

@@ -1,0 +1,7 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 4 de l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales est complété par deux alinéas rédigés comme suit:
+" Toutefois, l'enfant issu d'un pays tiers, d'un pays de l'Espace économique européen ou de la Suisse, qui est autorisé à séjourner en Belgique pour y poursuivre des études, y suivre une formation professionnelle, y effectuer du bénévolat ou y travailler comme jeune au pair, n'ouvre pas le droit aux prestations familiales.
+Par dérogation à l'alinéa 2, l'enfant qui répond aux conditions de l'alinéa 1er, pour lequel le droit aux allocations familiales est ouvert au 31 août 2025, continue de donner droit aux allocations familiales, dans le respect de la présente ordonnance. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. La présente ordonnance entre en vigueur le 1er septembre 2025.
