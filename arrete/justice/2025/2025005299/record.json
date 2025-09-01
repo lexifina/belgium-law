@@ -1,0 +1,30 @@
+{
+  "id": "2025005299",
+  "title": "18 AOUT 2025. - Arrêté royal portant des dispositions diverses relatives aux membres du comité de direction de la Sûreté de l'Etat",
+  "source_title": "18 AOUT 2025. - Arrêté royal portant des dispositions diverses relatives aux membres du comité de direction de la Sûreté de l'Etat",
+  "act": "arrete/justice/2025/2025005299",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-22&numac_search=2025005299&page=37&lg_txt=F&caller=list&2025005299=19&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "7ba9ab2de7b40e657165129c68c4b7e84ac6000ef5f5f3113a52cd27389375ef",
+  "source_issuer": "Justice",
+  "made": "2025-08-18",
+  "published": "2025-08-22",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "22 août 2025",
+    "Numéro": "2025005299",
+    "page": "67724",
+    "Dossier numéro": "2025-08-18/03",
+    "Entrée en vigueur": "1 septembre 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 8829,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-01"
+}
