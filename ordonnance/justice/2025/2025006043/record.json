@@ -1,0 +1,30 @@
+{
+  "id": "2025006043",
+  "title": "6 AOUT 2025. - Ordonnance établissant le règlement particulier du Tribunal du travail francophone de Bruxelles",
+  "source_title": "6 AOUT 2025. - Ordonnance établissant le règlement particulier du Tribunal du travail francophone de Bruxelles",
+  "act": "ordonnance/justice/2025/2025006043",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-25&numac_search=2025006043&page=38&lg_txt=F&caller=list&2025006043=8&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "ae0e6bc2bcaea09955b9f8d037cb43c264341a0d0587b73077c255a62f23156a",
+  "source_issuer": "Justice",
+  "made": "2025-08-06",
+  "published": "2025-08-25",
+  "in_force": "2025-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2025; own clause: La présente ordonnance entre en vigueur le 1er septembre 2025.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "25 août 2025",
+    "Numéro": "2025006043",
+    "page": "67941",
+    "Dossier numéro": "2025-08-06/03",
+    "Entrée en vigueur": "1 septembre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 5078,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-01"
+}
