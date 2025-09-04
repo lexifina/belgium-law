@@ -1,0 +1,29 @@
+{
+  "id": "2025005913",
+  "title": "18 JUILLET 2025. - Arrêté du Gouvernement de la Communauté française promouvant l'accès à l'enseignement universitaire de premier cycle sur le budget de l'année 2025",
+  "source_title": "18 JUILLET 2025. - Arrêté du Gouvernement de la Communauté française promouvant l'accès à l'enseignement universitaire de premier cycle sur le budget de l'année 2025",
+  "act": "arrete/french-community/2025/2025005913",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-08-25&numac_search=2025005913&page=3&lg_txt=F&caller=list&2025005913=9&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMUNAUTE+FRANCAISE",
+  "source_sha256": "1a9077dcb9fe88e1cd413d2bfc4598d50c79f36ea4260c7a2f5aa5953d964b96",
+  "source_issuer": "Communauté française",
+  "made": "2025-07-18",
+  "published": "2025-08-25",
+  "in_force": "2025-09-04",
+  "in_force_basis": "Justel: Entrée en vigueur : 4 septembre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Communauté française",
+    "Publication": "25 août 2025",
+    "Numéro": "2025005913",
+    "page": "67922",
+    "Dossier numéro": "2025-07-18/45",
+    "Entrée en vigueur": "4 septembre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 447,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-04"
+}
