@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt F.24.0060.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-09-05",
+  "date_as_printed": "5 SEPTEMBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/F.24.0060.F.pdf",
+  "source_sha256": "81293f846d982b7eb913b1bb3fa94622cb27137f7cd5bdf76801896c597501d4",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
