@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.0316.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-09-16",
+  "date_as_printed": "16 SEPTEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.0316.N.pdf",
+  "source_sha256": "99d22ecd6ae2b0308fd73e59c3e201b468cf3e2a6e991482a974b273171507c1",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
