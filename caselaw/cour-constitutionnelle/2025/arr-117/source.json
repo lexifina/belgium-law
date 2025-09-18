@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.117",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.117",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-09-18",
+  "date_as_printed": "Jugement/arrêt du 18 septembre 2025",
+  "published_on_juportal": "2025-09-29",
+  "language": "fr",
+  "role_number": "117/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les recours en annulation partielle de la loi-programme du 22 décembre 2023 (modifications du régime de taxation applicable aux constructions juridiques), introduits par Maylis Jeannin, par Laurent Donnay de Casteau et par l'ASBL « Ligue des Contribuables ». Droit fiscal - Impôts sur les revenus - Impôt des personnes physiques - Revenu des capitaux et biens mobiliers - Constructions juridiques - Taxe Caïman 2.1 - Exclusion de substance - Impositions à la sortie - Constructions intermédiaires - Articulation des règles CFC et du régime Caïman - Présomption liée au registre UBO - Exonération des plus-values sur actions - Fonds dédiés - Distributions de dividendes par des anciennes constructions juridiques",
+    "de beroepen tot gedeeltelijke vernietiging van de programmawet van 22 december 2023 (wijzigingen van het aanslagstelsel dat van toepassing is op de juridische constructies), ingesteld door Maylis Jeannin, door Laurent Donnay de Casteau en door de vzw « Liga van belastingplichtigen ». Fiscaal recht - Inkomstenbelastingen - Personenbelasting - Inkomsten uit roerende goederen en kapitalen - Juridische constructies - Kaaimantaks 2.1 - « Substance »-uitsluiting - Exitheffingen - Tussenconstructies - Onderlinge samenhang tussen de CFC-regels en het stelsel van de kaaimantaks - Vermoeden in verband met het UBO-register - Vrijstelling van de meerwaarden op aandelen - « Fonds dédiés » - Uitkering van dividenden door vroegere juridische constructies"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les recours en annulation partielle de la loi-programme du 22 décembre 2023 (modifications du régime de taxation applicable aux constructions juridiques), introduits par Maylis Jeannin, par Laurent Donnay de Casteau et par l'ASBL « Ligue des Contribuables ». Droit fiscal - Impôts sur les revenus - Impôt des personnes physiques - Revenu des capitaux et biens mobiliers - Constructions juridiques - Taxe Caïman 2.1 - Exclusion de substance - Impositions à la sortie - Constructions intermédiaires - Articulation des règles CFC et du régime Caïman - Présomption liée au registre UBO - Exonération des plus-values sur actions - Fonds dédiés - Distributions de dividendes par des anciennes constructions juridiques"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.117&lang=fr",
+  "source_sha256": "6a837f90cb413eaf6b3f4f2401d68db55abe58b0e0799a6dde5f2c6d3bc5aca1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.117_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_18.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
