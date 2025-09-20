@@ -1,0 +1,30 @@
+{
+  "id": "2025006418",
+  "title": "4 SEPTEMBRE 2025. - Arrêté ministériel modifiant l'arrêté ministériel du 16 novembre 2006 portant réglementation des indemnités de poste des agents du SPF Justice adjoint à un poste diplomatique ou exerçant une mission de longue durée à l'étranger",
+  "source_title": "4 SEPTEMBRE 2025. - Arrêté ministériel modifiant l'arrêté ministériel du 16 novembre 2006 portant réglementation des indemnités de poste des agents du SPF Justice adjoint à un poste diplomatique ou exerçant une mission de longue durée à l'étranger",
+  "act": "arrete/justice/2025/2025006418",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-09-10&numac_search=2025006418&page=35&lg_txt=F&caller=list&2025006418=8&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "7a68b89977bdcfde830c36654912f949ab5adf3701efceb5aba5cf5dea77ff54",
+  "source_issuer": "Justice",
+  "made": "2025-09-04",
+  "published": "2025-09-10",
+  "in_force": "2025-09-20",
+  "in_force_basis": "Justel: Entrée en vigueur : 20 septembre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "10 septembre 2025",
+    "Numéro": "2025006418",
+    "page": "69905",
+    "Dossier numéro": "2025-09-04/01",
+    "Entrée en vigueur": "20 septembre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 136,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-09-20"
+}
