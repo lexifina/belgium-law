@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.264.285",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.264.285",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-09-24",
+  "date_as_printed": "Jugement/arrêt du 24 septembre 2025",
+  "published_on_juportal": "2025-09-25",
+  "language": "fr",
+  "role_number": "A. 238874/XV-5405",
+  "case_name_as_published": "Arrêt 264285 - Armes – licences d’exportation - 24/09/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.264.285",
+  "source_sha256": "45671ee0bd3f594e48d2ce233dbb1936a79c5ac21fc59e371293ca980b0edc82",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.264.285_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
