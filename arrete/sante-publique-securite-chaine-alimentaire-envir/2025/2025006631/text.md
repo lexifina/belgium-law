@@ -1,0 +1,2 @@
+<a name="Art.1"></a>Article 1. Article unique. L'article 22 de l'arrêté ministériel du 23 juillet 2013 portant exécution de l'arrêté royal du 12 octobre 2010 relatif à la lutte contre la maladie d'Aujeszky, est remplacé par ce qui suit :
+" Art. 22. Les indemnités prévues par le présent arrêté sont annuellement indexées au 1er janvier sur base de l'indice de santé du mois de juillet de l'année précédente. ".
