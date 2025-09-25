@@ -1,0 +1,11 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Il est alloué à l'Institut national d'assurances sociales pour travailleurs indépendants (INASTI), Quai de Willebroeck 35, 1000 Bruxelles, numéro d'entreprise 0208.044.709, une subvention :
+1) de 3.500.000 euros (trois millions cinq cents mille euros) au maximum pour couvrir les dépenses, hors TVA, liées à la réalisation pour le projet BE-C [C22]-I [I-204] Digitalisation IPSS sous-mesure 3 : "Amélioration de la qualité des données pour la prise de décision automatisée et développement d'une plateforme indépendante pour la sécurité sociale - INASTI".
+2) d'un montant de 318.879 euros pour couvrir la TVA liées à la réalisation du projet BE-C [C22]-I [I-204] Digitalisation IPSS sous-mesure 3 : "Amélioration de la qualité des données pour la prise de décision automatisée et développement d'une plateforme indépendante pour la sécurité sociale - INASTI" en 2024.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le montant visé à l'article 1er sera imputé à charge des crédits d'engagement de l'allocation de base 06.41.12.42.90.42 et l'allocation de base 06.41.10.42.90.98 du Budget général des dépenses de l'année budgétaire 2025.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Les subsides annuels prévus sur les crédits de liquidation seront versés au bénéficiaire sur présentation d'une déclaration de créance moyennant la production de pièces justificatives attestant la matérialité et le montant des charges déclarées. Cette demande et les pièces justificatives doivent être validées au préalable par le commissaire du gouvernement compétent.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Un protocole sera conclu au plus tard dans les trois mois à dater de la signature de l'arrêté royal entre le bénéficiaire de cette subvention et le Ministre des Indépendants. Ce protocole spécifie les modalités en matière d'exécution et de rapportage des activités visées par le projet, et de justification des charges déclarées et s'appliquera pendant toute la durée du projet.
+
+<a name="Art.5" href="#Art.4">Art.</a> 5. Le Ministre des Indépendants est chargé de l'exécution du présent arrêté.
