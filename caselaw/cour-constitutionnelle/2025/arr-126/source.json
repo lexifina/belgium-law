@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.126",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.126",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-09-25",
+  "date_as_printed": "Jugement/arrêt du 25 septembre 2025",
+  "published_on_juportal": "2025-10-06",
+  "language": "fr",
+  "role_number": "126/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 13, § 1er, alinéa 2, seconde phrase, § 2, alinéa 2, seconde phrase, et § 8, du décret et ordonnance conjoints de la Commission communautaire française, la Région de Bruxelles-Capitale et la Commission communautaire commune des 25 janvier 2024 et 1er février 2024 « relatifs à la transition numérique des autorités publiques », introduit par l'ASBL « Lire et Ecrire Bruxelles » et autres. Droit administratif - Région de Bruxelles-Capitale - Transition numérique des autorités publiques - Inclusivité et accessibilité pour les usagers - Accès non numérique aux services publics - Garanties",
+    "het beroep tot vernietiging van artikel 13, § 1, tweede lid, tweede zin, § 2, tweede lid, tweede zin, en § 8, van het gezamenlijke decreet en ordonnantie van de Franse Gemeenschapscommissie, het Brusselse Hoofdstedelijke Gewest en de Gemeenschappelijke Gemeenschapscommissie van 25 januari 2024 en 1 februari 2024 « betreffende de digitale transitie van de overheidsinstanties », ingesteld door de vzw « Lire et Ecrire Bruxelles » en anderen. Bestuursrecht - Brussels Hoofdstedelijk Gewest - Digitale transitie van de overheidsinstanties - Inclusiviteit en toegankelijkheid voor de gebruikers - Niet-digitale toegang tot de overheidsdiensten - Waarborgen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 13, § 1er, alinéa 2, seconde phrase, § 2, alinéa 2, seconde phrase, et § 8, du décret et ordonnance conjoints de la Commission communautaire française, la Région de Bruxelles-Capitale et la Commission communautaire commune des 25 janvier 2024 et 1er février 2024 « relatifs à la transition numérique des autorités publiques », introduit par l'ASBL « Lire et Ecrire Bruxelles » et autres. Droit administratif - Région de Bruxelles-Capitale - Transition numérique des autorités publiques - Inclusivité et accessibilité pour les usagers - Accès non numérique aux services publics - Garanties"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.126&lang=fr",
+  "source_sha256": "d55580d0a4835e43c851cb5f0b5dca64b5d36e016624ed0d7f89c15be3991039",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.126_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
