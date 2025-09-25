@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.129",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.129",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-09-25",
+  "date_as_printed": "Jugement/arrêt du 25 septembre 2025",
+  "published_on_juportal": "2025-10-06",
+  "language": "fr",
+  "role_number": "129/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 167, § 2, de la loi de principes du 12 janvier 2005 « concernant l'administration pénitentiaire ainsi que le statut juridique des détenus », posée par la commission d'appel néerlandophone du Conseil central de surveillance pénitentiaire. Internement des personnes atteintes d'un trouble mental - Désignation de l'établissement dans lequel l'internement est exécuté - Absence de voies de recours",
+    "de prejudiciële vraag over artikel 167, § 2, van de basiswet van 12 januari 2005 « betreffende het gevangeniswezen en de rechtspositie van de gedetineerden », gesteld door de Nederlandstalige beroepscommissie van de Centrale Toezichtsraad voor het Gevangeniswezen. Internering van personen met een geestesstoornis - Aanwijzing van de inrichting waar de internering ten uitvoer wordt gelegd - Ontstentenis van rechtsmiddelen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 167, § 2, de la loi de principes du 12 janvier 2005 « concernant l'administration pénitentiaire ainsi que le statut juridique des détenus », posée par la commission d'appel néerlandophone du Conseil central de surveillance pénitentiaire. Internement des personnes atteintes d'un trouble mental - Désignation de l'établissement dans lequel l'internement est exécuté - Absence de voies de recours"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.129&lang=fr",
+  "source_sha256": "6022005312af1dce69d6ef48c17429d0e45fcd1854d6123edbbe84d79886eb18",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.129_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_27.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
