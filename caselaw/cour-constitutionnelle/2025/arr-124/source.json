@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.124",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.124",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-09-25",
+  "date_as_printed": "Jugement/arrêt du 25 septembre 2025",
+  "published_on_juportal": "2025-10-06",
+  "language": "fr",
+  "role_number": "124/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation partielle du décret de la Région flamande du 26 avril 2024 « modifiant le décret Reconnaissance des Communautés religieuses locales du 22 octobre 2021 », introduit par l'AISBL « Association Internationale Diyanet de Belgique » et autres. Droit public - Région flamande - Communautés religieuses locales - Conditions de reconnaissance - Traitement des ministres du culte par l'autorité fédérale",
+    "het beroep tot gedeeltelijke vernietiging van het decreet van het Vlaamse Gewest van 26 april 2024 « tot wijziging van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021 », ingesteld door de ivzw « Internationale Vereniging Diyanet van België » en anderen. Publiek recht - Vlaams Gewest - Lokale geloofsgemeenschappen - Erkenningsvoorwaarden - Wedde van de bedienaars van de eredienst door de federale overheid"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation partielle du décret de la Région flamande du 26 avril 2024 « modifiant le décret Reconnaissance des Communautés religieuses locales du 22 octobre 2021 », introduit par l'AISBL « Association Internationale Diyanet de Belgique » et autres. Droit public - Région flamande - Communautés religieuses locales - Conditions de reconnaissance - Traitement des ministres du culte par l'autorité fédérale"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.124&lang=fr",
+  "source_sha256": "73672008b3087d288f289c85ae71a65f3005e1c1dcf00f7d695f44d933de49d7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.124_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_23.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
