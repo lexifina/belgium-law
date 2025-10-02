@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2025:JUG.20251002.1",
+  "ecli": "ECLI:BE:ORANT:2025:JUG.20251002.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2025-10-02",
+  "date_as_printed": "Vonnis/arrest van 02 oktober 2025",
+  "published_on_juportal": "2026-01-27",
+  "language": "nl",
+  "role_number": "A/21/03777",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - ZAKELIJKE RECHTEN - Erfdienstbaarheid - Door de wet - Gemene muur en gracht",
+    "Gemene muur, vermoeden mandeligheid",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Gebouwen",
+    "Buitencontractuele aansprakelijkheid instorting gebouw, verzuim van onderhoud, gebrek in de bouw, negatief bewijs",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Rechtstreekse aansprakelijkheid - Fout - de schuld - Fout van het slachtoffer",
+    "Eigen fout benadeelde, eigen fout slachtoffer, objectieve aansprakelijkheid",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Begroting schade - Algemene beginselen schadebepaling - Integraliteit",
+    "Vetusteit, integrale schadevergoeding"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - ZAKELIJKE RECHTEN - Erfdienstbaarheid - Door de wet - Gemene muur en gracht",
+    "Gemene muur, vermoeden mandeligheid",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 653 - 31 ELI link Pub nr 1804032151",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Gebouwen",
+    "Buitencontractuele aansprakelijkheid instorting gebouw, verzuim van onderhoud, gebrek in de bouw, negatief bewijs",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Rechtstreekse aansprakelijkheid - Fout - de schuld - Fout van het slachtoffer",
+    "Eigen fout benadeelde, eigen fout slachtoffer, objectieve aansprakelijkheid",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1386 - 33 ELI link Pub nr 1804032153",
+    "BURGERLIJK RECHT - VERBINTENIS UIT ONRECHTMATIGE DAAD - Begroting schade - Algemene beginselen schadebepaling - Integraliteit",
+    "Vetusteit, integrale schadevergoeding"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2025:JUG.20251002.1",
+  "source_sha256": "94bd022287d50ec1b3d169c1b90059806e1d3ef2b126fecdfd25b6af0204fe74",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2025:JUG.20251002.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
