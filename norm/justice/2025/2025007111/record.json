@@ -1,0 +1,30 @@
+{
+  "id": "2025007111",
+  "title": "30 SEPTEMBRE 2025. - Directive ministérielle concernant la diffusion d'avis de recherche judiciaires à la population",
+  "source_title": "30 SEPTEMBRE 2025. - Directive ministérielle concernant la diffusion d'avis de recherche judiciaires à la population",
+  "act": "norm/justice/2025/2025007111",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-10-03&numac_search=2025007111&page=28&lg_txt=F&caller=list&2025007111=15&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "36dd398eb64e8b32d334f0512b0d6688590c5d90bd3d6088004e2521607d576e",
+  "source_issuer": "Justice",
+  "made": "2025-09-30",
+  "published": "2025-10-03",
+  "in_force": "2025-10-03",
+  "in_force_basis": "Justel: Entrée en vigueur : 3 octobre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "3 octobre 2025",
+    "Numéro": "2025007111",
+    "page": "76470",
+    "Dossier numéro": "2025-09-30/01",
+    "Entrée en vigueur": "3 octobre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 8159,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-10-03"
+}
