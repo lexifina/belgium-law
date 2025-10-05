@@ -1,0 +1,29 @@
+{
+  "id": "2025202733",
+  "title": "11 SEPTEMBRE 2025. - Arrêté royal portant exécution de l'article 189 de la loi-programme (I) du 27 décembre 2006 pour l'année 2025",
+  "source_title": "11 SEPTEMBRE 2025. - Arrêté royal portant exécution de l'article 189 de la loi-programme (I) du 27 décembre 2006 pour l'année 2025",
+  "act": "arrete/securite-sociale/2025/2025202733",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-09-25&numac_search=2025202733&page=32&lg_txt=F&caller=list&2025202733=29&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "c55c6f1936aadc65a2246bcb68d16cfa95779d5088eca395d820769881aadde8",
+  "source_issuer": "Sécurité sociale",
+  "made": "2025-09-11",
+  "published": "2025-09-25",
+  "in_force": "2025-10-05",
+  "in_force_basis": "Justel: Entrée en vigueur : 5 octobre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Sécurité sociale",
+    "Publication": "25 septembre 2025",
+    "Numéro": "2025202733",
+    "page": "74027",
+    "Dossier numéro": "2025-09-11/06",
+    "Entrée en vigueur": "5 octobre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 92,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-10-05"
+}
