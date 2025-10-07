@@ -1,0 +1,30 @@
+{
+  "id": "2025007456",
+  "title": "1 OCTOBRE 2025. - Arrêté royal modifiant l'arrêté royal du 27 décembre 2000 déterminant la délimitation du territoire de la province de Limbourg en zones de police",
+  "source_title": "1 OCTOBRE 2025. - Arrêté royal modifiant l'arrêté royal du 27 décembre 2000 déterminant la délimitation du territoire de la province de Limbourg en zones de police",
+  "act": "arrete/interieur-justice/2025/2025007456",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-10-07&numac_search=2025007456&page=28&lg_txt=F&caller=list&2025007456=5&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "a4a29674527a9f3eec9b7af3653e084d649ff2ced0bb4b32435facd3449c37e0",
+  "source_issuer": "Intérieur - Justice",
+  "made": "2025-10-01",
+  "published": "2025-10-07",
+  "in_force": "2025-10-07",
+  "in_force_basis": "Justel: Entrée en vigueur : 7 octobre 2025 indéterminée; own clause: Art. 2. Le présent arrêté entre en vigueur le jour où il est publié au Moniteur belge, à l'exception de l'article 1,2° qui entre en vigueur le jour de l'institution de la police locale de la zone de police visée à l'article 1,1°.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur - Justice",
+    "Publication": "7 octobre 2025",
+    "Numéro": "2025007456",
+    "page": "76815",
+    "Dossier numéro": "2025-10-01/02",
+    "Entrée en vigueur": "7 octobre 2025 indéterminée",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 200,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-10-07"
+}
