@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251008.2F.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251008.2F.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-08",
+  "date_as_printed": "Jugement/arrêt du 08 octobre 2025",
+  "published_on_juportal": "2025-10-10",
+  "language": "fr",
+  "role_number": "P.25.0910.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN",
+    "PEINE - AMENDE ET DECIMES ADDITIONNELS",
+    "STRAF - GELDBOETE EN OPDECIEMEN",
+    "VOL ET EXTORSION",
+    "DIEFSTAL EN AFPERSING"
+  ],
+  "fiche": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "Code pénal 1867 - 08-06-1867 - Art. 84 - 01 Lien ELI No pub 1867060850 Code d'instruction criminelle - 17-11-1808 - Art. 195, al. 1er - 30 Lien ELI No pub 1808111701",
+    "PEINE - AMENDE ET DECIMES ADDITIONNELS",
+    "Code pénal 1867 - 08-06-1867 - Art. 84 - 01 Lien ELI No pub 1867060850 Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 195, al. 1er - 30 Lien ELI No pub 1808111901",
+    "VOL ET EXTORSION",
+    "Code pénal 1867 - 08-06-1867 - Art. 84 - 01 Lien ELI No pub 1867060850 Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 195, al. 1er - 30 Lien ELI No pub 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251008.2F.8",
+  "source_sha256": "5c02d8b0fc7497a6fcec54b50104ea12827edadf13f11c229618db881e104644",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251008.2F.8_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_330.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
