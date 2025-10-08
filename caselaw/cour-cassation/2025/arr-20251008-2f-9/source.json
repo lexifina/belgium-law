@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251008.2F.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251008.2F.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-08",
+  "date_as_printed": "Jugement/arrêt du 08 octobre 2025",
+  "published_on_juportal": "2025-10-10",
+  "language": "fr",
+  "role_number": "P.25.0645.F",
+  "case_name_as_published": "H.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Généralités",
+    "CASSATIEMIDDELEN - STRAFZAKEN - Algemeen",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Généralités",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Algemeen",
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - GENERALITES",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - ALGEMEEN",
+    "FRAIS ET DEPENS - MATIERE REPRESSIVE - Procédure devant le juge du fond",
+    "GERECHTSKOSTEN - STRAFZAKEN - Procedure voor de feitenrechter",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - ALGEMEEN"
+  ],
+  "fiche": [
+    "MOYEN DE CASSATION - MATIERE REPRESSIVE - Généralités",
+    "Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 608 - 03 Lien ELI No pub 1967101054",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Généralités",
+    "Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 608 - 03 Lien ELI No pub 1967101054",
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - GENERALITES",
+    "Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 608 - 03 Lien ELI No pub 1967101054",
+    "FRAIS ET DEPENS - MATIERE REPRESSIVE - Procédure devant le juge du fond",
+    "Code judiciaire - Troisième partie: DE LA COMPETENCE. (Art. 556 à 663) - 10-10-1967 - Art. 608 - 03 Lien ELI No pub 1967101054",
+    "MOTIFS DES JUGEMENTS ET ARRETS - GENERALITES",
+    "Règlement général du 28 décembre 1950 - 28-12-1950 - Art. 91 - 31 Lien DB Justel 19501228-31",
+    "FRAIS ET DEPENS - MATIERE REPRESSIVE - Procédure devant le juge du fond",
+    "Règlement général du 28 décembre 1950 - 28-12-1950 - Art. 91 - 31 Lien DB Justel 19501228-31"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251008.2F.9",
+  "source_sha256": "1a2b7c57c1e2191b58fb2e9868be555c178367b762f34a5a1490f9bb863e9114",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251008.2F.9_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/18/sitemap_327.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
