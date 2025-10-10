@@ -1,0 +1,29 @@
+{
+  "id": "2025007131",
+  "title": "11 SEPTEMBRE 2025. - Arrêté du Gouvernement wallon approuvant le projet de modifications du plan d'assainissement par sous-bassin hydrographique n° 2024/02 - (sous-bassins hydrographiques concernés : Dendre, Escaut-Lys, Moselle et Ourthe)",
+  "source_title": "11 SEPTEMBRE 2025. - Arrêté du Gouvernement wallon approuvant le projet de modifications du plan d'assainissement par sous-bassin hydrographique n° 2024/02 - (sous-bassins hydrographiques concernés : Dendre, Escaut-Lys, Moselle et Ourthe)",
+  "act": "arrete/wallonia-service/2025/2025007131",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-09-30&numac_search=2025007131&page=4&lg_txt=F&caller=list&2025007131=17&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "cc518f16557ec0c77672358613a82c12a8f97b4a3ef16c85f839dadfc93831bf",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-09-11",
+  "published": "2025-09-30",
+  "in_force": "2025-10-10",
+  "in_force_basis": "Justel: Entrée en vigueur : 10 octobre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "30 septembre 2025",
+    "Numéro": "2025007131",
+    "page": "75092",
+    "Dossier numéro": "2025-09-11/11",
+    "Entrée en vigueur": "10 octobre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 354,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-10-10"
+}
