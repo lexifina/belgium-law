@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.25.1288.N-2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-10-14",
+  "date_as_printed": "14 OKTOBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1288.N-2.pdf",
+  "source_sha256": "341fbdf0f65118e4bff61d02fb2d33590807bcb3d80f9984e6b9cebe8f94ae86",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
