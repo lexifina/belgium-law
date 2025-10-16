@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251016.1N.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251016.1N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-16",
+  "date_as_printed": "Vonnis/arrest van 16 oktober 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "nl",
+  "role_number": "C.24.0195.N",
+  "case_name_as_published": "TELENET contra M.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Charge de la preuve. Liberté d'appréciation",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "PREUVE - MATIERE CIVILE - Administration de la preuve",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijsvoering"
+  ],
+  "fiche": [
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 877 - 04 ELI link Pub nr 1967101055",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bewijsvoering",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 877 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251016.1N.8",
+  "source_sha256": "d73ebd299c7ac0e9b14f056d8cb52bd79dd5e0ce42c527dd21e5f135f7c0052a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251016.1N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/05/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
