@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251016.1N.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251016.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-16",
+  "date_as_printed": "Vonnis/arrest van 16 oktober 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "nl",
+  "role_number": "C.24.0270.N",
+  "case_name_as_published": "S. contra C.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "VENTE",
+    "KOOP",
+    "JUGEMENTS ET ARRETS - DIVERS",
+    "VONNISSEN EN ARRESTEN - ALLERLEI",
+    "DEMANDE EN JUSTICE",
+    "VORDERING IN RECHTE",
+    "ASTREINTE",
+    "DWANGSOM"
+  ],
+  "fiche": [
+    "KOOP",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1615 - 30 ELI link Pub nr 1804032150",
+    "VONNISSEN EN ARRESTEN - ALLERLEI",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1615 - 30 ELI link Pub nr 1804032150",
+    "VORDERING IN RECHTE",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1615 - 30 ELI link Pub nr 1804032150",
+    "DWANGSOM",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1615 - 30 ELI link Pub nr 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251016.1N.2",
+  "source_sha256": "6842e0f588caa96ed37d089c8636068f13adcfbf7db22646b29f747284c39b05",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251016.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_28.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
