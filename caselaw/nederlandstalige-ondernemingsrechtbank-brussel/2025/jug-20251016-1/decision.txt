@@ -1,0 +1,259 @@
+Repertoriumnummer Uitgifte Uitgereikt aan Uitgereikt aan Uitgereikt aan
+Datum van uitspraak
+op op op Rolnummer
+A/24/02457
+ Niet aan te bieden aan de ontvanger
+Nederlandstalige Ondernemingsrechtbank Brussel
+Vonnis Aangeboden op
+Achtste kamer Niet te registreren
+Nederlandstalige Ondernemingsrechtbank Brussel – A/24/02457– pag. 1
+A/24/02457
+IN DE ZAAK VAN
+1. [AB], wonende te [ADRES 1] en met rijksregisternummer [RRN1] (hierna “[AB]”);
+2. [CD], wonende te [ADRES 1] en met rijksregisternummer [RRN2];
+eisers;
+vertegenwoordigd ter zitting door meester [ADVOCAAT 1]
+TEGEN
+3. [DE BANK] NV, met zetel te [ADRES 2], en ingeschreven bij de Kruispuntbank van Ondernemingen onder het nummer [ONDNR 1] (hierna “[DE BANK]”);
+verweerster;
+vertegenwoordigd ter zitting door meester [ADVOCAAT 2]
+I. PROCEDURE
+1.
+De rechtbank heeft kennis genomen van het dossier van de rechtspleging, waaronder de volgende stukken:
+- de gedinginleidende dagvaarding van 28 juni 2024;
+- de beschikking van 3 oktober 2024 gewezen overeenkomstig artikel 747 van het Gerechtelijk Wetboek (“Ger.W.”);
+- de syntheseconclusie van eisers, neergelegd ter griffie op 13 juni 2025;
+- de syntheseconclusie van [DE BANK], neergelegd ter griffie op 22 augustus 2025;
+- de stukkenbundels van partijen.
+De rechtbank heeft de middelen en conclusies van partijen gehoord tijdens de openbare terechtzitting van 11 september 2025. Daarna werden de debatten gesloten en werd de zaak in beraad genomen.
+De rechtbank stelt vast dat de wet van 15 juni 1935 op het taalgebruik in gerechtszaken nageleefd is.
+II. DE FEITEN
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 2
+De pertinente feiten, relevant voor de beoordeling van het geschil, zijn als volgt samen te vatten:
+2.
+[DE BANK] is een Belgische bankinstelling en in die hoedanigheid betalingsdienstaanbieder.
+Eisers zijn klant bij [DE BANK] en er houder van onder meer een zichtrekening op naam van [AB]-
+[EF] met IBAN-nummer [REKENING 1] en op naam van [AB] met nummer [REKENING 2] (hierna de “Zichtrekeningen”).
+Daarnaast zijn eisers ook klant bij [BANK 2] (hierna “[BANK 2]”) waar zij ook houder zijn van een of meerdere bankrekeningen.
+3.
+Op 30 september 2023 hadden eisers de intentie om via Marketplace, het online verkoopplatform van het sociale netwerk Facebook, tweedehands videospelletjes aan te kopen. Naar aanleiding daarvan ontstond er een online conversatie via Messenger, de chatapplicatie van Facebook, tussen [AB] en de vermeende verkoopster, genaamd [EF]. Zij kwamen overeen dat de betaling via Payconiq zou verlopen, waarvoor de vermeende verkoopster een link aan [AB] bezorgde die de betalingsinstructies uitvoerde.
+In de nacht van 3 oktober 2023 op 4 oktober 2023 vonden de volgende betalingstransacties1
+plaats met de Zichtrekeningen, voor een totaal uitgaand bedrag van 13.211,00 euro, die door eisers als frauduleus worden aangemerkt (stuk 2 van eisers; stuk IV.4 van [DE BANK]):
+- 4.815,00 euro om 1u36;
+- 1.146,00 euro om 2u56;
+- 2.355,00 euro om 4u41;
+- 4.895,00 euro om 4u41.
+Eisers meldden de frauduleuze transacties onmiddellijk aan [DE BANK] en aan [BANK 2] en beide banken blokkeerden de betrokken bankrekeningen en legden tevens in de ochtend van 4 oktober 2023 klacht neer bij de lokale politiezone [POLITIEZONE X] met de volgende inhoud (de rechtbank citeert uit stuk 3 van eisers):
+“Heden op 04/10/2023 wens ik het volgende te verklaren. Ik wou voor mijn zoon enkele spelletjes voor de Nintendo kopen en zag een interessante aanbieding op Marketplace van Facebook. De persoon die deze spelletjes te koop had staan was [EF]. Ik heb [EF] hierop rond 23/09/2023 een bericht gestuurd om meer informatie te winnen over de spelletjes.
+[EF] gaf mij op 30/10/2023 iets meer informatie over de spelletjes en een concrete prijs.
+Ik zou 204,40 euro betalen voor een 20 tal spelletjes die per spelletje een 10 à 15 euro zouden kosten. In eerste instantie wou ik de spelletjes zelf gaan halen omdat ik het toch de moeite vond, hierop vroeg ik aan [EF] waar ik de spelletjes zou kunnen komen ophalen.
+[EF] vertelde me dat ze van [PLAATSNAAM] was, aangezien dit redelijk ver is vroeg ik of we ergens in het midden konden afspreken om de spelletjes op te halen en haar het geld te overhandigen.
+[EF] zei dat het ook via overschrijving kon betalen en dat ze dan het pakketje naar mij thuis zou opsturen. Hier had ze ook een extra berekening gemaakt voor de kosten om het
+1
+De betalingstransacties waarvan de bedragen konden worden gerecupereerd, worden hier niet vermeld.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 3
+te laten leveren.
+Hierop stuurde [EF] mij een payconiq link waar in stond dat ik 204,40 euro aan haar zou betalen. Aangezien het gesprek met [EF] steeds gemoedelijk verliep en de URL link van payconiq er ook rechtmatig uit zag heb ik op de link geklikt om het geld te betalen, dit moet op 03/10/2023 rond 22:00 uur geweest zijn. Deze betaling heb ik gedaan met mijn [BANK 2] kaart, met IBAN: [REKENING 3]. Bij de betaling moest ik mijn bankkaart in de kaartlezer steken, waarop ik een respon[d]scode kreeg en deze opnieuw moest invoeren.
+Na deze respon[d]scode was de betaling voltooid. Na de betaling ben ik gaan slapen.
+Op 04/10/2023 werd ik rond 07:00 uur wakker en merkte ik op dat ik een heel aantal verificatieberichten op mijn GSM-toestel had aangekregen, deze verificatieberichten waren gelinkt aan mijn bankaccounts.
+Ik ben op mijn Bankapp van zowel [DE BANK] als [BANK 2] gaan kijken, waarop ik tot grote verontwaardiging een 15-tal overschrijvingen vaststelde. Na even te rekenen stelde ik vast dat er een 16000 euro van mijn rekeningen waren verdwenen.
+Ik kan zien dat er van mijn persoonlijke rekening [BANK 2] met IBAN [REKENING 3] een heel aantal betalingen gebeurd zijn naar mijn zakelijke rekening van [BANK 2] met IBAN
+[REKENING 4]. Hierop is er 4150 euro gestort naar het Belgisch rekeningnummer [REKENING 5], dit rekeningnummer staat op naam van [GH].
+*** Verhoor onderbroken 10:55 tot 11:15 voor meer informatie van bank via telefoongesprek
+Verder kan ik nog zien dat er geld overgeschreven is van mijn persoonlijke [DE BANK]
+rekening met IBAN [REKENING 2] en van mijn gezamenlijke rekening naar mij [REKENING
+1]. Van mijn rekening van [DE BANK] die gelinkt is aan mijn gezamenlijke rekening (die ik heb met mijn vrouw [IJ]) met IBAN [REKENING 1], er is er een 8316 euro overgeschreven naar het rekeningnummer, dit is Klarna bank.
+Momenteel kan ik niet zien hoeveel geld er verder nog van mijn rekening is verdwenen aangezien er zoveel betalingen en overschrijvingen gebeurd zijn.
+Wij vernemen van de bank dat het geld (4150 euro) dat eerder van mijn rekening naar de rekening van [GH] gegaan is nu geblokkeerd staat.
+Ik heb meteen mijn bank [BANK 2] en [DE BANK], in kennis gesteld waarop zij meteen mijn kaarten hebben geblokkeerd.
+Ik heb van cardstop het dossiernummer [DOSSIERNR 1] gekregen.
+Ik zal jullie diensten in kennis stellen van de nodige documenten die kunnen worden toegevoegd als bijlage aan het proces-verbaal.
+Wat is het geleden nadeel (bv: geldbedrag of andere,...)? Ik vermoed dat het totale bedrag rond de 16000 euro zal zijn.”
+4.
+Op 28 oktober 2023 stelden eisers [DE BANK] in gebreke. Bij brief van 6 december 2023
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 4
+antwoordde [DE BANK] dat zij niet tussenkwam omdat de transacties volgens haar met een Itsme-
+handtekening waren ondertekend en dus toegestane betalingstransacties waren.
+Op 28 maart 2024 richtten eisers zich tot Ombudsfin, die op 28 maart 2024 een advies formuleerde waarin werd vastgesteld dat sprake was van niet-toegestane betalingstransacties waarvoor eisers niet aansprakelijk zijn.
+Bij aangetekende brief van 24 mei 2024 stelden eisers [DE BANK] in gebreke en vroegen zij terugbetaling. Bij brief van 13 juni 2024 liet de raadsman van [DE BANK] weten het standpunt van de bank te handhaven en geen terugbetaling te doen.
+5.
+Op 28 juni 2024 dagvaardden eisers [DE BANK] voor deze rechtbank.
+III. DE VORDERINGEN VAN PARTIJEN
+6.
+De vordering van eisers strekt ertoe (de rechtbank citeert uit de syntheseconclusie):
+“De vordering van concluanten ontvankelijk en gegrond te verklaren.
+In hoofdorde:
+Verweerster te veroordelen tot het bedrag van 13.211,00 euro te betalen aan concluanten, te vermeerderen met de moratoire interesten aan de wettelijke interestvoet vanaf 04.10.2023 tot datum van dagvaarding en vanaf dan te vermeerderen met de gerechtelijke interesten tot datum van integrale betaling.
+In ondergeschikte orde:
+Verweerster te veroordelen tot het bedrag van 13.161,00 euro te betalen aan concluanten, te vermeerderen met de moratoire interesten aan de wettelijke interestvoet vanaf 04.10.2023 tot datum van dagvaarding en vanaf dan te vermeerderen met de gerechtelijke interesten tot datum van integrale betaling.
+Met betrekking tot de tegeneis
+De vordering van verweerster tot gedwongen overleg van bewijs af te wijzen als ongegrond.
+Hoe dan ook:
+Verweerster te veroordelen tot betaling van de kosten van het geding, voor concluanten begroot op:
+- Dagvaardingskosten: 309,79 euro - Rechtsplegingsvergoeding: 1726,74 euro
+Het te vellen vonnis uitvoerbaar te horen verklaren bij voorraad, spijts alle verhaal, zonder
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 5
+borgstelling en met verbod van kantonnement.”
+7.
+[DE BANK] concludeert tot de afwijzing van de vordering als ongegrond en de veroordeling van eisers tot de kosten van het geding, aan de zijde van [DE BANK] begroot op een rechtsplegingsvergoeding van 1.726,74 euro.
+In ondergeschikte orde, strekt het verweer van [DE BANK] ertoe (de rechtbank citeert uit de syntheseconclusie):
+“de gedwongen overlegging van alle correspondentie tussen eisers, [BANK 2] en Itsme te bevelen binnen de 30 dagen na betekening van de vonnis, onder verbeurte van een dwangsom van 250 euro per dag vertraging. In dat geval de zaak aan te houden voor verdere instaatstelling.”
+IV. BEOORDELING
+IV.1. RECHTSMACHT
+8.
+Er wordt geen exceptie inzake rechtsmacht opgeworpen door de partijen of ambtshalve.
+De rechtbank beschikt over de rechtsmacht om van het aan haar voorgelegde geschil kennis te nemen.
+IV.2. BEVOEGDHEID
+9.
+De bevoegdheid van de rechtbank wordt niet betwist.
+De rechtbank stelt vast dat zij materieel bevoegd is op grond van artikel Ger.W. De zaak betreft een geschil tussen of tegen ondernemingen, in de zin van artikel I.1, 1° van het Wetboek van Economisch Recht (“WER”), en behoort niet tot de exclusieve bevoegdheid van een ander rechtscollege.
+De rechtbank ziet geen reden om zich ambtshalve onbevoegd te verklaren.
+IV.3. ONTVANKELIJKHEID
+10.
+De ontvankelijkheid van de vordering van eisers wordt niet betwist.
+De rechtbank stelt geen ambtshalve op te werpen gronden van niet-ontvankelijkheid vast.
+De vordering van eisers is dan ook ontvankelijk.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 6
+IV.4. GEGRONDHEID
+11.
+In deze zaak staat niet ter discussie dat het om een niet-toegestane betalingstransacties in de zin van artikel VII.32, §1 WER gaat, zodat de beschermingsregels opgenomen in artikel VII.43 en VII.44 WER toepassing kunnen vinden.
+IV.4.1. Beoordeling van de aansprakelijkheid op grond van artikelen VII.43 en VII.44
+WER en de aangevoerde grove nalatigheid
+12.
+Eisers vorderen in hoofdorde dat [DE BANK] wordt veroordeeld tot integrale betaling van 13.211,00 euro, te vermeerderen met moratoire interesten aan de wettelijke interestvoet vanaf 4 oktober 2023 tot de datum van dagvaarding en vervolgens met gerechtelijke interesten tot de datum van integrale betaling. Zij beroepen zich op artikelen VII.43 en VII.44 WER en stellen dat zij geen enkel verlies dienen te dragen, krachtens artikel VII.44, §1, lid 2, 1° WER, aangezien zij de frauduleuze betalingstransacties niet konden vaststellen voordat ze plaatsvonden. Eisers voeren aan dat zij enkel een ogenschijnlijk legitiem betaalverzoek hebben uitgevoerd via een ogenschijnlijk perfect nagemaakte Payconiq-link en een perfect nagemaakte betalingsapplicatie van [BANK 2], zonder ooit persoonlijke codes of responsecodes te hebben doorgegeven aan de fraudeur. Omdat zij het onrechtmatig gebruik van hun betaalinstrument niet op voorhand konden vaststellen, speelt eventuele grove nalatigheid volgens eisers geen rol.
+In ondergeschikte orde voeren eisers aan dat, voor zover geoordeeld zou worden dat zij de frauduleuze handelingen op basis van bepaalde omstandigheden hadden kunnen vaststellen, het verlies dat zij dienen te dragen beperkt moet blijven tot 50,00 euro en dat de bank 13.161,00 euro dient te betalen, eveneens te vermeerderen met moratoire en gerechtelijke interesten. Eisers menen immers dat er in geen geval sprake is van grove nalatigheid aan hun zijde.
+Eisers wijzen in dit verband ook op de ratio legis van de PSD2-richtlijn2. Volgens hen heeft de Europese wetgever uitdrukkelijk gekozen voor een maximale bescherming van consumenten tegen fraude en om te voorkomen dat de beschermingsregeling wordt uitgehold door een te ruime toepassing van het begrip grove nalatigheid.
+Ten slotte beroepen eisers zich op het advies van Ombudsfin van 28 maart 2024, waarin werd geoordeeld dat geen grove nalatigheid kan worden aangenomen en dat [DE BANK] gehouden is tussen te komen voor de geleden schade.
+13.
+[DE BANK] meent dat de vordering van eisers dient te worden afgewezen als ongegrond.
+Vooreerst betwist [DE BANK] de toepassing van artikel VII.43 WER in deze procedure. Volgens haar gaat het om een voorlopige regeling die slechts speelt in afwachting van een beoordeling ten gronde. Nu de rechtbank in dit geding uitspraak doet over de grond, is er geen ruimte voor
+2
+Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, tot wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en de Verordeningen (EU) nr. 1093/2010 en (EU) nr. 648/2012, en tot intrekking van Richtlijn 2007/64/EG.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 7
+een afzonderlijke toetsing aan artikel VII.43 WER.
+[DE BANK] beroept zich op artikel VII.44 WER en stelt dat dit artikel de bepalende regeling vormt voor de aansprakelijkheidsverdeling bij niet-toegestane betalingstransacties. Volgens haar is er in deze zaak sprake van grove nalatigheid in de zin van artikel VII.44, §1, lid 4 WER waardoor de verliezen volledig ten laste van eisers moeten blijven. Zij wijst op het klikken op een frauduleuze betaallink, het gebruik van de kaartlezer en het aanmaken van responsecodes op een valse website, het negeren van sms-waarschuwingen van [DE BANK], [BANK 2] en Itsme, en het verderzetten van transacties ondanks duidelijke signalen van fraude. [DE BANK] concludeert in dit verband ook dat artikel VII.44, §1, lid 4 WER voorrang heeft op artikel VII.44, §1, lid 2 WER.
+In ondergeschikte orde vordert [DE BANK] de gedwongen overlegging van alle correspondentie tussen eisers, [BANK 2] en Itsme en verzoekt zij de rechtbank aan partijen het recht voor te behouden om nader ten gronde te concluderen.
+14.
+Eisers wijzen op de verplichting van [DE BANK] tot onmiddellijke terugbetaling in geval van niet-
+toegestane betalingstransacties op grond van artikel VII.43 WER en voeren aan dat [DE BANK] dit artikel heeft geschonden.
+Artikel VII.43 WER voorziet in een onmiddellijke terugbetalingsverplichting ten laste van de betalingsdienstaanbieder wanneer kennis wordt gegeven van een niet-toegestane betalingstransactie. Met deze aansprakelijkheidsregeling heeft de Europese wetgever er bewust voor gekozen om de betaler te beschermen door hem onmiddellijk opnieuw te crediteren, eventueel in afwachting van een verder onderzoek naar de fraudeurs en de regeling van de aansprakelijkheid tussen betaler en bank. Het doel bestaat erin de verdeling van de aansprakelijkheid onmiddellijk (en desgevallend voorwaardelijk) te regelen, waarbij – in geval van een procedure in rechte – de bank het procedurerisico draagt en niet de betaler, en dit in afwachting van een definitieve uitspraak over de aansprakelijkheid. De enige uitzondering op deze verplichting tot onmiddellijke betaling bestaat wanneer de betalingsdienstaanbieder redelijke gronden heeft om fraude te vermoeden in hoofde van de betaler en deze gronden ook schriftelijk meedeelt aan de FOD Economie (artikel VII.43, §1, derde lid WER).
+Waar de rechtspraak vaak een andere lezing gaf aan de onderlinge verhouding tussen de artikelen VII.43 en VII.44 WER, acht de rechtbank het thans – mede in het licht van nieuwe inzichten en ontwikkelingen in de rechtsleer – aangewezen deze bepalingen te interpreteren volgens de ratio legis van de daarin vervatte aansprakelijkheidsregeling. Vanuit die interpretatie geldt artikel VII.43 WER eveneens wanneer de niet-toegestane betalingstransactie tot stand kwam met een verloren of gestolen betaalinstrument, dan wel het gevolg is van een onrechtmatig gebruik van een betaalinstrument, zoals in deze zaak het geval is.
+Anders oordelen zou het beschermingsmechanisme uithollen, omdat artikel VII.43 WER bijna nooit zou kunnen worden toegepast en daarmee afbreuk zou worden gedaan aan de bedoeling van de wetgever en aan de beschermingsgedachte die aan de PSD2-richtlijn ten grondslag ligt.
+De rechtbank stelt vast dat artikel VII.44 WER geen grond bevat om de betalingsdienstaanbieder aansprakelijk te stellen. De betalingsverplichting van de bank is uitsluitend verankerd in artikel VII.43 WER. Artikel VII.44 WER legt de bank zelf geen verplichting op, maar bepaalt enkel in welke mate de betaler verlies moet dragen: ofwel beperkt tot 50,00 euro (lid 1), ofwel helemaal niet (lid 2), ofwel volledig wanneer hij frauduleus handelde of grof nalatig was (lid 4). Dit artikel werkt dus enkel vanuit het perspectief van de betaler, niet vanuit dat van de bank. Met andere woorden:
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 8
+artikel VII.43 schept een verplichting voor de bank om terug te betalen, terwijl artikel VII.44
+uitzonderingen en beperkingen formuleert ten nadele van de betaler. Beide bepalingen dienen derhalve steeds in samenhang toegepast te worden.
+De zinsnede “in afwijking van artikel VII.43” in artikel VII.44 WER moet dan ook juist in dat licht worden gelezen: de bank blijft krachtens artikel VII.43 gehouden tot onmiddellijke terugbetaling, tenzij een van de uitzonderingen van artikel VII.44 toepasselijk is die het verlies geheel of gedeeltelijk bij de betaler legt.
+In deze zaak wordt de rechtbank verzocht om definitief uitspraak te doen over de grond van het geschil. Dat betekent dat de “onmiddellijke” terugbetalingsplicht van artikel VII.43 WER niet langer op zichzelf ter beoordeling staat. Relevant is enkel nog de uiteindelijke verdeling van de aansprakelijkheid op grond van artikel VII.44 WER, gelezen in samenhang met artikel VII.43 WER.
+15.
+De basisregel van artikel VII.44 WER bepaalt dat de betaler, voor niet-toegestane betalingstransacties die plaatsvinden vóór de kennisgeving van het onrechtmatig gebruik van het betaalinstrument, ten hoogste tot 50,00 euro verlies draagt voor alle niet-toegestane betalingstransacties die voortvloeien uit het gebruik van een verloren of gestolen betaalinstrument of uit onrechtmatig gebruik van een betaalinstrument (artikel VII.44, §1, eerste lid WER).
+In afwijking hiervan moet de betaler geen enkel verlies dragen (i) indien hij het onrechtmatig gebruik van het betaalinstrument niet kon vaststellen voordat de betaling plaatsvond (artikel VII.44, §1, lid 2, 1° WER), of (ii) wanneer de betalingsdienstaanbieder geen sterke cliëntauthenticatie heeft verlangd (artikel VII.44, §1, lid 2, 2° WER).
+De betaler draagt in ieder geval alle verliezen indien de bank kan bewijzen dat de betaler grof nalatig is geweest en één of meer van de in artikel VII.38 genoemde verplichtingen niet is nagekomen (artikel VII.44, §1, vierde lid WER). Volgens artikel VII.38 WER moet de betalingsdienstgebruiker die gemachtigd is een betaalinstrument te gebruiken, de toepasselijke gebruiksvoorwaarden naleven en, zodra hij kennis heeft van verlies, diefstal of onrechtmatig gebruik, de bank onverwijld verwittigen. Daarnaast moet hij redelijke maatregelen nemen om de veiligheid van het betaalinstrument en de persoonlijke beveiligingsgegevens te waarborgen.
+16.
+In tegenstelling tot wat eisers aanvoeren, wordt de grove nalatigheid niet irrelevant wanneer het onrechtmatig gebruik van hun betaalinstrument niet op voorhand kon worden vastgesteld.
+Artikel VII.44, §1, vierde lid WER heeft een algemene draagwijdte en kan ook gelden in gevallen waarin het onrechtmatig gebruik op voorhand niet kon worden gedetecteerd. De uitzonderingen van lid 2 en lid 4 staan niet in hiërarchische relatie ten aanzien van elkaar, maar zijn zelfstandige beoordelingscriteria die afzonderlijk moeten worden getoetst.
+Anderzijds dient de lezing van [DE BANK], die erop neerkomt dat grove nalatigheid altijd leidt tot bevrijding van de bank, genuanceerd te worden: de betaler draagt alle verliezen enkel indien hij de schade heeft geleden doordat hij grof nalatig was. Dit betekent dat er een oorzakelijk verband moet bestaan tussen de aangetoonde grove nalatigheid en de geleden schade. Die nalatigheid moet effectief hebben bijgedragen tot het ontstaan, vergroten of voortbestaan van het verlies.
+Zo zal een eventuele grove nalatigheid die pas plaatsvindt nadat de frauduleuze transacties reeds volledig waren uitgevoerd en de schade reeds volledig was ingetreden, niet kunnen dienen om alle verliezen op de betaler af te schuiven in de zin van artikel VII.44, §1, vierde lid WER.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 9
+17.
+Het is aan [DE BANK] om het bewijs te leveren, met een redelijke mate van zekerheid, van grove nalatigheid in hoofde van de eisers, om op die manier haar aansprakelijkheid te weerleggen (artikel VII.44, §1, vierde lid WER en artikel 8.5 BW). In geval van twijfel zal [DE BANK] op dit punt in het ongelijk worden gesteld (artikel 8.4 BW). Artikel VII.42, §2 WER bevestigt bovendien dat het loutere gebruik van een betaalinstrument, geregistreerd door de bank, op zichzelf geen afdoend bewijs vormt van fraude of grove nalatigheid. [DE BANK] dient dus bijkomend ondersteunend bewijs te leveren.
+Eisers erkennen in hun syntheseconclusie dat zij gehouden zijn om redelijke maatregelen te nemen en de bank onmiddellijk te verwittigen zodra zij kennis hebben van fraude. Zij wijzen er echter op dat zij dit in casu ook hebben gedaan.
+Bij de beoordeling van de vraag of sprake is van grove nalatigheid in hoofde van de betalingsdienstgebruiker, moet worden uitgegaan van het hoge beschermingsniveau dat de wetgever ten voordele van deze gebruikers heeft willen waarborgen. In dit wettelijke kader geldt de verplichting tot terugbetaling door de betalingsdienstaanbieder als uitgangspunt. De onbeperkte aansprakelijkheid van de gebruiker vormt daarentegen een uitzondering. De rechter dient de aangevoerde grove nalatigheid in concreto te onderzoeken en hierbij rekening te houden met alle feitelijke omstandigheden waardoor de niet-toegestane betalingstransacties doorgang konden vinden. Een loutere onvoorzichtigheid volstaat niet. Opdat er sprake is van grove nalatigheid, moet er sprake zijn van een ernstige fout of een onvoorzichtigheid die dermate zwaar is dat zij niet begaan zou worden door een normaal zorgvuldige en omzichtige betalingsdienstgebruiker geplaatst in dezelfde of vergelijkbare concrete omstandigheden.
+De rechtbank stelt vast dat het gebruik van Marketplace op Facebook een gangbare praktijk is voor de aankoop van tweedehandsgoederen. Niettegenstaande dat van online kopers een redelijke voorzichtigheid mag worden verwacht, is het niet onredelijk dat zij vertrouwen stellen in dit platform zolang zich geen bijzondere of verdachte omstandigheden voordoen. De voorafgaande Messenger-conversatie met de vermeende verkoopster had een normale inhoud.
+De verkoop leek legitiem: er werd aanvankelijk zelfs over een fysieke levering gesproken en vervolgens pas over verzending omwille van de grote afstand tussen koper en verkoper.
+Op basis van de stukken oordeelt de rechtbank dat de door de fraudeur doorgestuurde Payconiq-
+link legitiem oogde. Het voorwerp van de verkoop en de prijs werden vermeld, evenals een beperkte geldigheid. Dat de URL licht afweek, is onvoldoende om argwaan te wekken. Eisers voerden de betaling uit via hun [BANKAPPLICATIE] van [BANK 2]. Dat Payconiq in principe niet via een bankapplicatie werkt, volstaat niet om grove nalatigheid aan te tonen, zeker nu [AB] expliciet had aangegeven niet vertrouwd te zijn met Payconiq en door de fraudeur werd misleid.
+Uit de stukken blijkt niet dat eisers persoonlijke beveiligingscodes of responscode rechtstreeks hebben doorgegeven aan de fraudeur.
+De schermafbeelding van de [BANKAPPLICATIE]-transactie bij [BANK 2] (stuk 1 van eisers), in samenhang met de door [DE BANK] voorgelegde loggegevens en de informatie die zij van Itsme heeft ontvangen (stuk IV.3 van [DE BANK]), laat toe de modus operandi van de fraudeur duidelijk te reconstrueren. De informatie van Itsme toont dat om 22u22 met succes een wijziging van toestel werd geregistreerd. Dit is exact het ogenblik waarop [AB], in de veronderstelling dat hij via Payconiq 204,40 euro aan [EF] betaalde, zijn [BANK 2]-bankkaart en kaartlezer gebruikte en codes invoerde. In werkelijkheid werden deze codes aangewend om de Itsme-applicatie op een
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 10
+toestel van de fraudeur te activeren. Eens die installatie voltooid was, beschikte de fraudeur over de sleutels om zich in naam van eisers aan te melden bij verschillende banken, waaronder [DE
+BANK]. Zo kreeg hij vrij spel om de mobiele betaalapplicaties te koppelen en betalingstransacties uit te voeren. Vanaf 22u23 op 3 oktober 2023 tot 04u41 op 4 oktober 2023 werden op korte tijd meerdere acties uitgevoerd: tien logins bij [DE BANK], één goedkeuring bij [DE BANK], vijf bevestigingen bij [DE BANK] en daarnaast nog verschillende verrichtingen bij andere banken.
+In deze zaak, rekening houdend met alle feitelijke omstandigheden, acht de rechtbank het louter gevolg geven aan het betalingsverzoek dat ogenschijnlijk door verkoopster [EF] werd overgemaakt in de Messenger-conversatie, niet voldoende om te besluiten tot grove nalatigheid in hoofde van eisers.
+18.
+Voorts blijkt uit de stukken (onder meer de politieverklaring van 4 oktober 2023) dat eisers inderdaad enkele waarschuwingsberichten hebben ontvangen.
+In principe kan het negeren van waarschuwingsboodschappen of sms-meldingen door banken als grove nalatigheid worden aangemerkt. Dergelijk gedrag strookt immers niet met wat van een normaal zorgvuldige betaler in dezelfde omstandigheden mag worden verwacht, omdat hierdoor bijkomende frauduleuze transacties niet tijdig kunnen worden gestopt en de uiteindelijke schade kan oplopen. In die gevallen bestaat er een oorzakelijk verband tussen de grove nalatigheid en de omvang van het verlies.
+In deze zaak ligt dit evenwel anders. Van een normaal zorgvuldige betaler in dezelfde omstandigheden kan niet worden verwacht dat hij waarschuwingsberichten die ’s nachts worden ontvangen, onmiddellijk opmerkt of verwerkt. Vaststaat dat eisers, wanneer zij de berichten ’s ochtends wél hebben gezien, onmiddellijk contact hebben opgenomen met hun bank en vervolgens een klacht hebben neergelegd bij de politie. Dit gedrag stemt overeen met wat van een zorgvuldig en oplettend betaler mag worden verwacht. Er kan hun dan ook niet worden verweten dat zij tijdens de nacht niet onmiddellijk hebben gereageerd.
+Ook hierin schuilt geen grove nalatigheid in hoofde van eisers.
+19.
+Op grond van de stukken en de conclusies – zoals hierboven uiteengezet –, kan de rechtbank niet vaststellen dat eisers de frauduleuze betalingstransacties zouden hebben kunnen vaststellen voordat ze hadden plaatsgevonden.
+Daarnaast toont [DE BANK] onvoldoende aan dat eisers op enig moment grof nalatig zijn geweest en hun verbintenissen uit artikel VII.38 WER zouden hebben miskend.
+De overige door [DE BANK] aangevoerde argumenten kunnen de rechtbank niet van het tegendeel overtuigen.
+IV.4.2. Betreffende de vordering tot overlegging van stukken
+20.
+[DE BANK] vordert in ondergeschikte orde de gedwongen overlegging van alle correspondentie tussen eisers, [BANK 2] en Itsme met betrekking tot de installatie van het Itsme-account op het toestel van de fraudeur, de frauduleuze transacties en de eventuele vergoeding die daarop
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 11
+volgde.
+Eisers verzetten zich tegen deze overlegging.
+21.
+Krachtens artikel 870 Ger.W. moet iedere partij het bewijs leveren van de feiten die zij aanvoert.
+Artikel 871 Ger.W. bepaalt dat de rechter niettemin aan iedere gedingvoerende partij kan bevelen het bewijsmateriaal dat zij bezit, over te leggen. Verder bepaalt artikel 877 Ger.W. dat, wanneer er gewichtige, bepaalde en met elkaar overeenstemmende vermoedens bestaan dat een partij of een derde een stuk onder zich heeft dat het bewijs inhoudt van een ter zake dienend feit, de rechter kan bevelen dat het stuk of een eensluidend verklaard afschrift ervan bij het dossier van de rechtspleging wordt gevoegd.
+De rechter is evenwel niet verplicht om de overlegging van een stuk te bevelen en beslist onaantastbaar of de overlegging nodig is voor zijn oordeelsvorming. Zoals elke onderzoeksmaatregel beveelt de rechter deze enkel wanneer de maatregel nuttig, strikt noodzakelijk en proportioneel is. Dit kader valt onder het subsidiariteitsbeginsel, zoals verankerd in artikel 875bis Ger.W.
+22.
+In het licht van de concrete omstandigheden meent de rechtbank dat zij over voldoende stukken en informatie beschikt om ten gronde te oordelen.
+Zoals hierboven reeds werd vastgesteld, kan de modus operandi van de fraudeur duidelijk worden gereconstrueerd op basis van de voorliggende stukken.
+Hierboven werd ook vastgesteld dat de waarschuwingsberichten ’s nachts werden verstuurd, op een ogenblik dat eisers sliepen. Dit strookt met hun verklaring bij de politie en is aannemelijk gezien het nachtelijke uur. De rechtbank oordeelde dat van een normaal zorgvuldig betaler niet kan worden verwacht dat hij dergelijke berichten onmiddellijk opmerkt of verwerkt. Wel mag worden verwacht dat hij ’s ochtends bij de ontdekking ervan onmiddellijk actie onderneemt, wat eisers ook effectief hebben gedaan.
+Dat [BANK 2] en Itsme eventueel ook diezelfde nacht waarschuwingsberichten zouden hebben gestuurd, is in het licht hiervan niet relevant voor de beoordeling van het geschil.
+Aangezien de schade volledig is ingetreden tussen 22u23 op 3 oktober 2023 en 04u41 op 4
+oktober 2023, en de onmiddellijke melding door eisers de ochtend nadien niet wordt betwist, kunnen latere gebeurtenissen de rechtbank niet tot een ander oordeel brengen. De overlegging van de gevraagde correspondentie maakt daarom geen verschil.
+De rechtbank oordeelt dat de vordering van eisende partij bewezen is op grond van de reeds voorliggende stukken en dat de door [DE BANK] geviseerde stukken haar niet tot een ander oordeel kunnen brengen, zodat de overlegging niet gepast is.
+De vordering van [DE BANK] tot overlegging van stukken wordt afgewezen.
+IV.4.3. Betreffende de aangevoerde overmacht overeenkomst artikel VII.55/9 WER
+23.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 12
+[DE BANK] beroept zich op artikel VII.55/9 WER en voert aan dat zij niet gehouden is tot terugbetaling aangezien sprake is van overmacht. Zij stelt dat de oorzaak van de fraude zich buiten haar macht en buiten haar systemen situeert, met name bij [BANK 2] en/of Itsme. De gebeurtenissen die aanleiding gaven tot de betwiste transacties zijn volgens [DE BANK]
+onvoorzienbaar en onvermijdbaar en kunnen haar niet worden toegerekend.
+Eisers verwerpen dit verweer. Zij stellen dat [DE BANK] zich niet kan bevrijden door te verwijzen naar de systemen van derden. Overmacht vereist een ontoerekenbare en onvermijdbare onmogelijkheid om een verbintenis na te komen. Volgens eisers had [DE BANK] wel degelijk kunnen optreden en heeft zij nagelaten de nodige maatregelen te nemen.
+24.
+Krachtens artikel VII.55/9 WER geldt de aansprakelijkheid bedoeld in de artikelen VII.32 tot VII.55/8 niet in het geval van overmacht.
+In tegenstelling tot wat [DE BANK] aanvoert, wijkt het overmachtsbegrip uit het Burgerlijk Wetboek niet wezenlijk af van het overmachtsbegrip dat wordt gehanteerd in de PSD2-richtlijn en de omzetting daarvan in artikel VII.55/9 WER. In beide gevallen gaat het om een onvoorzienbare en onvermijdbare gebeurtenis die de nakoming van de verbintenis onmogelijk maakt en die bovendien niet aan de schuldenaar kan worden toegerekend.
+De rechtbank komt in deze zaak dan ook tot hetzelfde oordeel, ongeacht welk begrip wordt gehanteerd.
+Het staat vast dat [DE BANK] toelaat dat haar betalingsapplicatie kan worden geïnstalleerd en gebruikt via Itsme, en dat betalingen op deze manier kunnen worden goedgekeurd. Het kan dan niet worden aanvaard dat de bank zich aan haar aansprakelijkheid onttrekt door te verwijzen naar tekortkomingen in een systeem dat zij zelf integreert in haar betalingsdiensten. Eventuele fouten of nalatigheden van Itsme zijn aan [DE BANK] toerekenbaar, nu Itsme in het kader van de betalingsdiensten voor [DE BANK] optreedt en [DE BANK] verplicht is veilige betaalsystemen op te zetten en te onderhouden. Zulke tekortkomingen kunnen derhalve geen vreemde oorzaak, toeval of overmacht in de zin van artikel VII.55/9 WER opleveren.
+Indien [DE BANK] van oordeel is dat er een probleem bestaat binnen de werking van Itsme, dient zij dit zelf met Itsme uit te klaren. Zij kan dit niet afwentelen op de betalingsdienstgebruiker.
+Er is dus geen sprake van overmacht die de aansprakelijkheid van [DE BANK] kan opheffen.
+IV.4.4. Cijfermatig
+25.
+Eisers vorderen intresten vanaf 4 oktober 2023, terwijl [DE BANK] aanvoert dat deze pas verschuldigd zijn vanaf de ingebrekestelling.
+26.
+Vergoedende intresten zijn bedoeld om de schade te vergoeden die voortvloeit uit de vertraging in de uitvoering van een waardeschuld. Door het tijdsverloop tussen het schadeverwekkend feit en de effectieve betaling van de schadevergoeding wordt de schuldeiser immers bijkomend benadeeld doordat hij tijdelijk niet over het verschuldigde bedrag kan beschikken.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 13
+De rechtbank acht het in deze zaak gepast om de vergoedende intresten toe te kennen vanaf de datum van het schade verwekkend feit, met name 4 oktober 2023.
+Dit sluit ook aan bij de verplichting van de bank om onmiddellijk te betalen op grond van artikel VII.43 WER (zie hoger).
+27.
+Op basis van al het voorgaande, is [DE BANK] gehouden tot integrale vergoeding van eisers op grond van artikel VII.44, §1, lid 2, 1° WER en tot betaling van het bedrag van 13.211,00 euro, vermeerderd met de intresten zoals hierna bepaald.
+V. UITVOERBAARHEID EN KANTONNEMENT
+28.
+De uitvoerbaarheid bij voorraad van dit vonnis volgt uit artikel 1397 Ger.W.
+29.
+Eisers vragen om het recht op kantonnement uit te sluiten. Zij voeren aan dat de doorlooptijd van een beroepsprocedure bijzonder lang kan zijn en voor hen een bijkomende verzwaring betekent.
+Volgens eisers maakt het beroep van [DE BANK] op kantonnement in dit geval een afmattingstrategie uit en aldus misbruik van recht. Om die reden verzoeken zij de rechtbank het kantonnement uit te sluiten.
+[DE BANK] verzet zich hiertegen en benadrukt dat zij een principieel recht op kantonnement heeft, dat slechts in zeer uitzonderlijke omstandigheden kan worden uitgesloten. Zij stelt dat “ernstig nadeel” enkel kan slaan op situaties die de levensbehoeften van de schuldeiser raken, en dat eisers niet hebben aangetoond dat zij behoeftig zijn. [DE BANK] verwerpt bovendien het verwijt dat zij kantonnement zou inroepen als een afmattingstrategie en wijst erop dat zij dit recht enkel uitoefent om haar eigen belangen te beschermen.
+De rechter die uitspraak doet over de vordering zelf, kan overeenkomstig artikel 1406 Ger.W.
+beslissen dat er geen reden is tot kantonnement voor alle veroordelingen die hij uitspreekt of voor een deel ervan, indien de vertraging in de regeling de schuldeiser aan een ernstig nadeel blootstelt. Het uitsluiten van het recht op kantonnement is de uitzondering en deze mogelijkheid dient restrictief te worden geïnterpreteerd. Het recht op kantonnement kan door de rechter dan ook slechts worden uitgesloten indien hij in concreto vaststelt dat de vertraging in de regeling de schuldeiser aan ernstig nadeel blootstelt.
+De rechtbank heeft begrip voor het argument dat de doorlooptijd van een eventuele beroepsprocedure kan oplopen, maar dit is op zich onvoldoende om de uitzondering toe te passen en het kantonnement te verbieden. Eisers tonen onvoldoende concreet aan dat de vertraging in de regeling hen aan een ernstig nadeel blootstelt.
+Er is bijgevolg geen reden om het recht op kantonnement uit te sluiten.
+VI. GERECHTSKOSTEN
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 14
+30.
+[DE BANK] wordt als de in het ongelijk gestelde partij verwezen in de kosten van het geding overeenkomstig artikel 1017 Ger.W.
+Het geschil betreft een vordering in de schaal van 10.000,01 euro tot 20.000,00 euro.
+Partijen vragen de rechtbank niet om af te wijken van het basisbedrag.
+De rechtbank kent het overeenstemmende basisbedrag van de rechtsplegingsvergoeding toe.
+31.
+Overeenkomstig artikel 269/2, § 1 van het Wetboek der registratie-, hypotheek- en griffierechten wordt [DE BANK] veroordeeld tot betaling van het rolrecht aan de Belgische Staat, FOD Financiën.
+VII. BESLISSING
+De rechtbank doet uitspraak op tegenspraak en na erover te hebben beraadslaagd, neemt de rechtbank de volgende beslissing:
+Verklaart de vordering van eisers tegen [DE BANK] ontvankelijk en gegrond.
+Veroordeelt [DE BANK] om aan eisers de som te betalen van 13.211,00 euro, te vermeerderen met de vergoedende intrest aan de wettelijke intrestvoet vanaf 4 oktober 2023 tot heden en meer de verwijlintrest vanaf heden tot op de dag van de gehele betaling.
+Veroordeelt [DE BANK] tot de kosten van het geding, aan de zijde van eisers begroot en door de rechtbank vereffend op:
+- dagvaarding (met inbegrip van de bijdrage Begrotingsfonds 303,79 euro juridische tweedelijnsbijstand)
+- rechtsplegingsvergoeding 1.726,74 euro
+Verklaart de bijdrage voor het Begrotingsfonds voor de juridische tweedelijnsbijstand, die werd gestort door eisers, definitief verworven voor het fonds.
+Veroordeelt [DE BANK] tot betaling van het rolrecht ten belope van 165,00 euro na uitnodiging hiertoe door FOD Financiën.
+Bevestigt de uitvoerbaarheid van het vonnis en het recht op kantonnement.
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 15
+Dit vonnis is gewezen door de achtste kamer van de Nederlandstalige ondernemingsrechtbank Brussel, samengesteld als volgt:
+- mevrouw R. Indeganck, rechter, voorzitter van de kamer, - de heer MVM, rechter in ondernemingszaken, - de heer FG, rechter in ondernemingszaken, die de zitting hebben bijgewoond en aan het beraad hebben deelgenomen.
+Het vonnis wordt overeenkomstig artikel 6, eerste lid van het verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden uitgesproken door mevrouw R. Indeganck, rechter, voorzitter van de kamer, in aanwezigheid van de heer PDM, griffier, op de openbare terechtzitting van de achtste kamer van de Nederlandstalige ondernemingsrechtbank Brussel van
+PDM FG
+MVM R. Indeganck
+Nederlandstalige Ondernemingsrechtbank Brussel – Vonnis – A/24/02457 – pag. 16
