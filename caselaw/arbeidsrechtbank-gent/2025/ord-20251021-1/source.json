@@ -1,0 +1,32 @@
+{
+  "title": "Beschikking ECLI:BE:ARGNT:2025:ORD.20251021.1",
+  "ecli": "ECLI:BE:ARGNT:2025:ORD.20251021.1",
+  "court": "Arbeidsrechtbank Gent",
+  "court_code": "ARGNT",
+  "decision_date": "2025-10-21",
+  "date_as_printed": "Beschikking van 21 oktober 2025",
+  "published_on_juportal": "2026-01-30",
+  "language": "nl",
+  "role_number": "25/3/C",
+  "case_name_as_published": "A t. OCMW",
+  "subjects": [
+    "Arbeidsrecht",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "SOCIAAL RECHT - SOCIAAL RECHT - ALGEMENE BEGINSELEN - Maatschappelijke integratie - bestaansminimum",
+    "GERECHTELIJK RECHT - KORT GEDING"
+  ],
+  "fiche": [
+    "SOCIAAL RECHT - SOCIAAL RECHT - ALGEMENE BEGINSELEN - Maatschappelijke integratie - bestaansminimum",
+    "Gerechtelijk Wetboek - 10-10-1967 - 584 - 03 ELI link Pub nr 1967101054 Gerechtelijk Wetboek - 10-10-1967 - 580 - 03 ELI link Pub nr 1967101054 Wet - 08-07-1976 - 60 - 37 ELI link Pub nr 1976D70810 Gerechtelijk Wetboek - 10-10-1967 - 19 - 01 ELI link Pub nr 1967101052",
+    "GERECHTELIJK RECHT - KORT GEDING",
+    "Gerechtelijk Wetboek - 10-10-1967 - 584 - 03 ELI link Pub nr 1967101054 Gerechtelijk Wetboek - 10-10-1967 - 580 - 03 ELI link Pub nr 1967101054 Wet - 08-07-1976 - 60 - 37 ELI link Pub nr 1976D70810 Gerechtelijk Wetboek - 10-10-1967 - 19 - 01 ELI link Pub nr 1967101052"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ARGNT:2025:ORD.20251021.1",
+  "source_sha256": "11a38192670054b1de0d6bee408d293c40c5a66c3ff72e5d68ea9b3edd4c8b0c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ARGNT:2025:ORD.20251021.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_43.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
