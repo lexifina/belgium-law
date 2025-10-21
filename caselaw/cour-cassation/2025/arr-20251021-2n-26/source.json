@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251021.2N.26",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251021.2N.26",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-21",
+  "date_as_printed": "Vonnis/arrest van 21 oktober 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "nl",
+  "role_number": "P.25.1344.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MANDAT D'ARRET EUROPEEN",
+    "EUROPEES AANHOUDINGSBEVEL",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 3",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 3",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 4, 5° - 32 ELI link Pub nr 2003009950",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 3",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 4, 5° - 32 ELI link Pub nr 2003009950",
+    "ONDERZOEKSGERECHTEN",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 4, 5° - 32 ELI link Pub nr 2003009950",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 4, 5° - 32 ELI link Pub nr 2003009950"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251021.2N.26",
+  "source_sha256": "8ba44adf6f8ecc182b2adb0c28ca6e85cd00867e046b821850fd61f731aab3a3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251021.2N.26_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
