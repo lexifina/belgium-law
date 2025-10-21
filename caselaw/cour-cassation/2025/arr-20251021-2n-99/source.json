@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251021.2N.99",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251021.2N.99",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-21",
+  "date_as_printed": "Vonnis/arrest van 21 oktober 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "nl",
+  "role_number": "P.25.1277.N",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Délais dans lesquels il faut se pourvoir ou signifier le pourvoi - Action publique - Durée, point de départ et fin",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Duur, begin en einde",
+    "SIGNIFICATIONS ET NOTIFICATIONS - GENERALITES",
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, §§ 2 en 3, tweede lid - 35 ELI link Pub nr 1990099963",
+    "CASSATIEBEROEP - STRAFZAKEN - Termijnen voor cassatieberoep en betekening - Strafvordering - Duur, begin en einde",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, §§ 2 en 3, tweede lid - 35 ELI link Pub nr 1990099963",
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, §§ 2 en 3, tweede lid - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251021.2N.99",
+  "source_sha256": "7f66b8c6d7b4076917090aedfa24b833a848e6b975554a6538d2e7b17f9cdf14",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251021.2N.99_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
