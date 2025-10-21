@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251021.2N.10",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251021.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-21",
+  "date_as_printed": "Vonnis/arrest van 21 oktober 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "nl",
+  "role_number": "P.25.1014.N",
+  "case_name_as_published": "S.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "ANIMAUX",
+    "DIEREN",
+    "INFRACTION - DIVERS",
+    "MISDRIJF - ALLERLEI",
+    "LOIS. DECRETS. ORDONNANCES. ARRETES - APPLICATION DANS LE TEMPS ET DANS L'ESPACE",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WERKING IN DE TIJD EN IN DE RUIMTE",
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID"
+  ],
+  "fiche": [
+    "DIEREN",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 2 - 01 ELI link Pub nr 1867060850 Decreet van de Vlaamse Overheid van 16 mei 2024 over dierenwelzijn - 16-05-2024 - Art. 68 - 54 ELI link Pub nr 2024006400",
+    "MISDRIJF - ALLERLEI",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 2 - 01 ELI link Pub nr 1867060850 Decreet van de Vlaamse Overheid van 16 mei 2024 over dierenwelzijn - 16-05-2024 - Art. 68 - 54 ELI link Pub nr 2024006400",
+    "WETTEN. DECRETEN. ORDONNANTIES. BESLUITEN - WERKING IN DE TIJD EN IN DE RUIMTE",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 2 - 01 ELI link Pub nr 1867060850 Decreet van de Vlaamse Overheid van 16 mei 2024 over dierenwelzijn - 16-05-2024 - Art. 68 - 54 ELI link Pub nr 2024006400",
+    "DIEREN",
+    "Decreet van de Vlaamse Overheid van 16 mei 2024 over dierenwelzijn - 16-05-2024 - Art. 68 - 54 ELI link Pub nr 2024006400",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Decreet van de Vlaamse Overheid van 16 mei 2024 over dierenwelzijn - 16-05-2024 - Art. 68 - 54 ELI link Pub nr 2024006400"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251021.2N.10",
+  "source_sha256": "80ef994200882dedbd42178353c292354e55308f07e61c8a0c7a4ee4e99a599b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251021.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/09/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
