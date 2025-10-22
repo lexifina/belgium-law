@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251022.2F.19",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251022.2F.19",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-22",
+  "date_as_printed": "Jugement/arrêt du 22 octobre 2025",
+  "published_on_juportal": "2025-10-29",
+  "language": "fr",
+  "role_number": "P.25.1317.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 3",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 3"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 3 - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 163 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 164 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 165 - 39 Lien ELI No pub 2005009033",
+    "JURIDICTIONS D'INSTRUCTION",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 3 - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 163 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 164 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 165 - 39 Lien ELI No pub 2005009033",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 3",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 3 - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 163 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 164 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 165 - 39 Lien ELI No pub 2005009033"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251022.2F.19",
+  "source_sha256": "d37bd34be2441ebfb9b66008b3f696d18a5035dcb7cb038ba73b6387681c8d9f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251022.2F.19_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
