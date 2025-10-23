@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.140",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.140",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "140/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles concernant l'article 17, § 2, alinéa 2, du décret de la Région flamande du 3 mai 2013 « relatif à la protection de l'infrastructure routière dans le cas du transport routier exceptionnel », posées par le Conseil d'État. Transport - Région flamande - Protection de l'infrastructure routière - Transport routier exceptionnel - Amende administrative - Délégation au Gouvernement flamand",
+    "de prejudiciële vragen over artikel 17, § 2, tweede lid, van het decreet van het Vlaamse Gewest van 3 mei 2013 « betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport », gesteld door de Raad van State. Vervoer - Vlaams Gewest - Bescherming van de verkeersinfrastructuur - Bijzonder wegtransport - Administratieve geldboete - Delegatie aan de Vlaamse Regering"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles concernant l'article 17, § 2, alinéa 2, du décret de la Région flamande du 3 mai 2013 « relatif à la protection de l'infrastructure routière dans le cas du transport routier exceptionnel », posées par le Conseil d'État. Transport - Région flamande - Protection de l'infrastructure routière - Transport routier exceptionnel - Amende administrative - Délégation au Gouvernement flamand"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.140&lang=fr",
+  "source_sha256": "8543858d6d876910c2395d0a22a54432ca27df6500ee83371cff31c19d9c4fd0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.140_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_32.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
