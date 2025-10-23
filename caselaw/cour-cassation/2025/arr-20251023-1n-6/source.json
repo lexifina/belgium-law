@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251023.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251023.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Vonnis/arrest van 23 oktober 2025",
+  "published_on_juportal": "2025-11-25",
+  "language": "nl",
+  "role_number": "F.24.0058.N",
+  "case_name_as_published": "JCAL Vastgoed bv contra BELGISCHE STAAT FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Avertissement-extrait de rôle",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagbiljet"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslagbiljet"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251023.1N.6",
+  "source_sha256": "74f1a959700fc6ff43c02e3ee196c38fde60dcbdcbfe4a6e8aaf20d04310d28e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251023.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
