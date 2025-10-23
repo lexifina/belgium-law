@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.133",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.133",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "133/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation partielle de l'article 113 du décret flamand du 26 avril 2024 « modifiant divers décrets, en ce qui concerne la mise en œuvre du Décret-cadre Maintien flamand du 14 juillet 2023 » (annulation de l'article 40, § 9, du décret flamand du 4 avril 2014 « relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes »), introduit par Hugo Bogaerts et autres. Droit administratif - Juridiction administrative - Collège de maintien flamand - Requête en suspension - Limitation des moyens",
+    "het beroep tot gedeeltelijke vernietiging van artikel 113 van het Vlaamse decreet van 26 april 2024 « tot wijziging van diverse decreten, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 » (vernietiging van artikel 40, § 9, van het Vlaamse decreet van 4 april 2014 « betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges »), ingesteld door Hugo Bogaerts en anderen. Bestuursrecht - Bestuursrechtscollege - Vlaams Handhavingscollege - Verzoekschrift tot schorsing - Beperking van de middelen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation partielle de l'article 113 du décret flamand du 26 avril 2024 « modifiant divers décrets, en ce qui concerne la mise en œuvre du Décret-cadre Maintien flamand du 14 juillet 2023 » (annulation de l'article 40, § 9, du décret flamand du 4 avril 2014 « relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes »), introduit par Hugo Bogaerts et autres. Droit administratif - Juridiction administrative - Collège de maintien flamand - Requête en suspension - Limitation des moyens"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.133&lang=fr",
+  "source_sha256": "71eb1eed21bb2c0f7782f69f50fdc2b8aa565fe7366976db888f1d7d0c4cf06a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.133_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_39.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
