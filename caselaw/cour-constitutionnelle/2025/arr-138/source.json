@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.138",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.138",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "138/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle concernant l'article 103, § 1er, 1°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, posée par le Tribunal du travail du Hainaut, division de Binche. Sécurité sociale - Assurance maladie-invalidité - Incapacité de travail - Indemnités - Enseignant engagé ou désigné à titre temporaire",
+    "de prejudiciële vraag over artikel 103, § 1, 1°, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, gesteld door de Arbeidsrechtbank Henegouwen, afdeling Binche. Sociale zekerheid - Ziekte- en invaliditeitsverzekering - Arbeidsongeschiktheid - Uitkeringen - Tijdelijk aangeworven of aangestelde leerkracht"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle concernant l'article 103, § 1er, 1°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, posée par le Tribunal du travail du Hainaut, division de Binche. Sécurité sociale - Assurance maladie-invalidité - Incapacité de travail - Indemnités - Enseignant engagé ou désigné à titre temporaire"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.138&lang=fr",
+  "source_sha256": "4976c33cbd6fd78ae4f6451778ef02478b5ca6ab0b844e8ed4f0da34d0cea0fe",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.138_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
