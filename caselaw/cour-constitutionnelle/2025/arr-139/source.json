@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.139",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.139",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "139/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles XX.107, § 1er, et XX.108, § 3, alinéa 4, du Code de droit économique, posées par la Cour d'appel d'Anvers. Droit économique - Insolvabilité des entreprises - Aveu de faillite - Jugement déclaratif de la faillite - Appel - Délai - Point de départ",
+    "de prejudiciële vragen betreffende de artikelen XX.107, § 1, en XX.108, § 3, vierde lid, van het Wetboek van economisch recht, gesteld door het Hof van Beroep te Antwerpen. Economisch recht - Insolventie van ondernemingen - Aangifte van faillissement - Vonnis van faillietverklaring - Beroep - Termijn - Aanvangspunt"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles XX.107, § 1er, et XX.108, § 3, alinéa 4, du Code de droit économique, posées par la Cour d'appel d'Anvers. Droit économique - Insolvabilité des entreprises - Aveu de faillite - Jugement déclaratif de la faillite - Appel - Délai - Point de départ"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.139&lang=fr",
+  "source_sha256": "0b402310a002968440549d0df6daacbd137559239e1ef7ad19791f6ffc91f275",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.139_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
