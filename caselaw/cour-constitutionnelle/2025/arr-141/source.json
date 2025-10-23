@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.141",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.141",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "141/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la demande relative à l'application de la loi du 26 mai 2002 « concernant le droit à l'intégration sociale » et à un jugement d'un tribunal du travail, introduit par Patricia Kapata Panukupi-Meta. Procédure préliminaire - Incompétence manifeste de la Cour",
+    "de vordering betreffende de toepassing van de wet van 26 mei 2002 « betreffende het recht op maatschappelijke integratie » en een vonnis van een arbeidsrechtbank, ingesteld door Patricia Kapata Panukupi-Meta. Voorafgaande rechtspleging - Klaarblijkelijke niet-bevoegdheid van het Hof"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la demande relative à l'application de la loi du 26 mai 2002 « concernant le droit à l'intégration sociale » et à un jugement d'un tribunal du travail, introduit par Patricia Kapata Panukupi-Meta. Procédure préliminaire - Incompétence manifeste de la Cour"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.141&lang=fr",
+  "source_sha256": "3b85c3e56b89641aeb69a62a6abfe525de55b4dfb9c70cff2799a5fcbbe43a36",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.141_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_41.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
