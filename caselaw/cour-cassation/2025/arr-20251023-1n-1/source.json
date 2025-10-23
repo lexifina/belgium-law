@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251023.1N.1",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251023.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Vonnis/arrest van 23 oktober 2025",
+  "published_on_juportal": "2025-11-25",
+  "language": "nl",
+  "role_number": "F.23.0108.N",
+  "case_name_as_published": "BELGISCHE STAAT, FINANCIEN contra DHB",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "TAXE SUR LA VALEUR AJOUTEE",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "UNION EUROPEENNE - DROIT MATERIEL - Généralités",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Algemeen"
+  ],
+  "fiche": [
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 14 - 32 Link Justel databank 19690703-32 Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 16 - 32 Link Justel databank 19690703-32 Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 17 - 32 Link Justel databank 19690703-32 Wet 3 juli 1969 tot invoering van de belasting over de toegevoegde waarde - 03-07-1969 - Art. 39, § 1, 2° - 32 Link Justel databank 19690703-32",
+    "BELASTING OVER DE TOEGEVOEGDE WAARDE",
+    "Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde - 28-11-2006 - Art. 146, eerste lid, sub b",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Algemeen",
+    "Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde - 28-11-2006 - Art. 146, eerste lid, sub b"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251023.1N.1",
+  "source_sha256": "6cadb52253b1095bd76f1a825b11c825f71a05c06debac8385576044bcdecfbd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251023.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
