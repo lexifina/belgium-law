@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.136",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.136",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "136/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle concernant l'article 19bis-14, § 5, de la loi du 21 novembre 1989 « relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs », posée par le Tribunal de première instance du Hainaut, division de Charleroi. Droit des assurances - Assurance de la responsabilité civile en matière de véhicules automoteurs - Intervention du Fonds commun de garantie belge - Action subrogatoire du Fonds contre le propriétaire du véhicule - Conducteur d'un véhicule non assuré par son propriétaire - Récupération de l'indemnisation",
+    "de prejudiciële vraag over artikel 19bis-14, § 5, van de wet van 21 november 1989 « betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen », gesteld door de Rechtbank van eerste aanleg Henegouwen, afdeling Charleroi. Verzekeringsrecht - Aansprakelijkheidsverzekering inzake motorrijtuigen - Tegemoetkoming van het Belgisch Gemeenschappelijk Waarborgfonds - Subrogatoire vordering van het Fonds tegen de eigenaar van het voertuig - Bestuurder van een voertuig dat niet verzekerd is door de eigenaar - Terugvordering van de schadevergoeding"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle concernant l'article 19bis-14, § 5, de la loi du 21 novembre 1989 « relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs », posée par le Tribunal de première instance du Hainaut, division de Charleroi. Droit des assurances - Assurance de la responsabilité civile en matière de véhicules automoteurs - Intervention du Fonds commun de garantie belge - Action subrogatoire du Fonds contre le propriétaire du véhicule - Conducteur d'un véhicule non assuré par son propriétaire - Récupération de l'indemnisation"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.136&lang=fr",
+  "source_sha256": "857458f540e3e51f8daacaaaf2fe12a0ae2869b1663726980b5e436d8576270c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.136_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_33.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
