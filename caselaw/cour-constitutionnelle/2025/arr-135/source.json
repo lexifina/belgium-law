@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.135",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.135",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "135/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de la loi du 15 mai 2024 « instaurant un Service citoyen », introduit par le Gouvernement flamand. Droit social - Instauration d'un service citoyen - Politique de la jeunesse - Règles répartitrices de compétences",
+    "het beroep tot vernietiging van de wet van 15 mei 2024 « tot invoering van een Samenlevingsdienst », ingesteld door de Vlaamse Regering. Sociaal recht - Invoering van een samenlevingsdienst - Jeugdbeleid - Bevoegdheidverdelende regels"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de la loi du 15 mai 2024 « instaurant un Service citoyen », introduit par le Gouvernement flamand. Droit social - Instauration d'un service citoyen - Politique de la jeunesse - Règles répartitrices de compétences"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.135&lang=fr",
+  "source_sha256": "757e23dfcdde3e94968445127fe31ee25a633c81dc028d2278a9d2749429661e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.135_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_36.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
