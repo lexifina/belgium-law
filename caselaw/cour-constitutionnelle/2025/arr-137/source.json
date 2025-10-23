@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.137",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.137",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-10-23",
+  "date_as_printed": "Jugement/arrêt du 23 octobre 2025",
+  "published_on_juportal": "2025-11-03",
+  "language": "fr",
+  "role_number": "137/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 38, alinéa 8, de la loi du 15 juin 1935 « concernant l'emploi des langues en matière judiciaire », posées par la Cour du travail de Liège, division de Liège. Droit judiciaire - Emploi des langues en matière judiciaire - Décision judiciaire rédigée en allemand - Signification et notification à l'État belge",
+    "de prejudiciële vragen betreffende artikel 38, achtste lid, van de wet van 15 juni 1935 « op het gebruik der talen in gerechtszaken », gesteld door het Arbeidshof te Luik, afdeling Luik. Gerechtelijk recht - Gebruik der talen in gerechtszaken - Duitstalige rechterlijke beslissing - Betekening en kennisgeving aan de Belgische Staat"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 38, alinéa 8, de la loi du 15 juin 1935 « concernant l'emploi des langues en matière judiciaire », posées par la Cour du travail de Liège, division de Liège. Droit judiciaire - Emploi des langues en matière judiciaire - Décision judiciaire rédigée en allemand - Signification et notification à l'État belge"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.137&lang=fr",
+  "source_sha256": "fe42c9eeb0468bb101f330512a9b92b58fdd9e49241913b316e3c00f05414c74",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.137_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_35.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
