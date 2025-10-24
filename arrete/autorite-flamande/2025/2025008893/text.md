@@ -1,0 +1,20 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Fluxys c-grid SA, dont le siège statutaire est situé rue Guimard 4, à 1040 Bruxelles, est désignée comme gestionnaire du réseau de transport en Région flamande.
+Conformément à l'article 30 du décret du 29 mars 2024, la désignation visée à l'alinéa 1er, est valable pour une période renouvelable de vingt ans, qui commence le 24 octobre 2025.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. La désignation visée à l'article 1er du présent arrêté est soumise aux conditions suivantes :
+1° le gestionnaire du réseau de transport prend toutes les mesures nécessaires pour assurer l'interopérabilité du réseau de transport avec les ramifications locales et les terminaux de liquéfaction situés en Région flamande ;
+2° le gestionnaire du réseau de transport prend toutes les mesures nécessaires pour garantir, lorsque cela est techniquement et économiquement réalisable, un accès non discriminatoire et équivalent au réseau de transport pour les exploitants d'autres moyens de transport de dioxyde de carbone ;
+3° le gestionnaire du réseau de transport prend toutes les mesures nécessaires pour garantir que les normes soumises à l'approbation du Gouvernement flamand conformément à l'article 70, § 1er, alinéa 2, du décret du 29 mars 2024 relatif au transport de dioxyde de carbone par canalisations en Région flamande sont compatibles avec les normes appliquées par les gestionnaires désignés des ramifications locales et les gestionnaires des terminaux de liquéfaction situés en Région flamande ;
+4° le gestionnaire du réseau de transport prend toutes les mesures nécessaires pour garantir que les normes soumises à l'approbation du Gouvernement flamand conformément à l'article 70, § 1er, alinéa 2, du décret précité sont compatibles avec les normes appliquées par l'opérateur du réseau de transport en Région wallonne désigné par l'arrêté du Gouvernement wallon du 17 juillet 2025 désignant l'opérateur de transport de dioxyde de carbone en Région wallonne ;
+5° le gestionnaire du réseau de transport prend toutes les mesures nécessaires pour garantir que les normes soumises à l'approbation du Gouvernement flamand conformément à l'article 70, § 1er, alinéa 2, du décret précité sont compatibles avec les normes imposées par ou en vertu de la législation européenne.
+Le gestionnaire du réseau de transport rend compte au Régulateur flamand des services d'utilité publique et à la VEKA, pour la première fois le 15 mai 2026 et ensuite tous les deux ans, sur les mesures prises en exécution des conditions visées à l'alinéa 1er. Dans le rapport, le gestionnaire du réseau de transport aborde spécifiquement la coopération avec les gestionnaires désignés d'autres infrastructures de transport flamandes et wallonnes en ce qui concerne le dioxyde de carbone.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le gestionnaire du réseau de transport rend compte au Régulateur flamand des services d'utilité publique et à la VEKA, pour la première fois le 15 mai 2026 et ensuite annuellement, sur les travaux relatifs à l'élaboration des normes visées à l'article 70 du décret du 29 mars 2024 relatif au transport de dioxyde de carbone par canalisations en Région flamande.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Conformément à l'article 29, alinéa 3, du décret du 29 mars 2024 relatif au transport de dioxyde de carbone par canalisations en Région flamande, le candidat gestionnaire qui est désigné comme gestionnaire conformément à l'article 1er du présent arrêté, se voit notifier le présent arrêté par un envoi sécurisé.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le présent arrêté est publié intégralement au Moniteur belge.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le présent arrêté entre en vigueur le 24 octobre 2025.
+
+<a name="Art.7" href="#Art.6">Art.</a> 7. Le ministre flamand qui a le climat dans ses attributions est chargé de l'exécution du présent arrêté.
