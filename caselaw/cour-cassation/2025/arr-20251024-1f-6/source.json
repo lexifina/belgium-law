@@ -1,0 +1,41 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251024.1F.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251024.1F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-24",
+  "date_as_printed": "Jugement/arrêt du 24 octobre 2025",
+  "published_on_juportal": "2025-11-12",
+  "language": "fr",
+  "role_number": "C.24.0323.F",
+  "case_name_as_published": "S. contra BNP PARIBAS FORTIS s.a.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "SAISIE - SAISIE-EXECUTION",
+    "BESLAG - GEDWONGEN TENUITVOERLEGGING",
+    "REGLEMENT COLLECTIF DE DETTES",
+    "COLLECTIEVE SCHULDENREGELING"
+  ],
+  "fiche": [
+    "SAISIE - SAISIE-EXECUTION",
+    "Saisie immobilière - Ordonnance du juge des saisies aux fins de procéder à l'adjudication des biens saisis dans les six mois - Nouveau délai fixé par le juge saisi du règlement des contestations - Pas d'adjudication dans les délais - Conséquence",
+    "Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1580 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1582 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1587 - 05 Lien ELI No pub 1967101056",
+    "SAISIE - SAISIE-EXECUTION",
+    "Saisie immobilière - Règlement collectif de dettes - Décision d'admissibilité du débiteur saisi - Effet sur le pouvoir du juge de nommer à nouveau un notaire chargé de procéder à l'adjudication des biens saisis",
+    "Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1580 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1582 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1587 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1675/7, al. 1er et 2 - 05 Lien ELI No pub 1967101056",
+    "REGLEMENT COLLECTIF DE DETTES",
+    "Saisie-exécution - Saisie immobilière - Règlement collectif de dettes - Décision d'admissibilité du débiteur saisi - Effet sur le pouvoir du juge de nommer à nouveau un notaire chargé de procéder à l'adjudication des biens saisis",
+    "Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1580 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1582 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1587 - 05 Lien ELI No pub 1967101056 Code judiciaire - Cinquième partie: SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES. (art. 1386 à 1675/27) - 10-10-1967 - Art. 1675/7, al. 1er et 2 - 05 Lien ELI No pub 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251024.1F.6",
+  "source_sha256": "286e1339780fba03160bcab4bd3d156cdaf1fa5fe552df6614498f061f351bb8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251024.1F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
