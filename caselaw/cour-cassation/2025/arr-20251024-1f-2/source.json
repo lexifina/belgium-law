@@ -1,0 +1,51 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251024.1F.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251024.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-24",
+  "date_as_printed": "Jugement/arrêt du 24 octobre 2025",
+  "published_on_juportal": "2025-11-12",
+  "language": "fr",
+  "role_number": "C.22.0179.F-C.23.0189.F",
+  "case_name_as_published": "V. contra SWISSAIR SWISS AIR TRANSPORT COMPANY LTD",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht",
+    "Autres",
+    "Overige",
+    "Droit international privé",
+    "Internationaal privaatrecht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - EFFETS (PERSONNES, BIENS, OBLIGATIONS)",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE",
+    "LOI ETRANGERE",
+    "VREEMDE WET",
+    "CASSATION - GENERALITES. MISSION ET RAISON D'ETRE DE LA COUR DE CASSATION. NATURE DE L'INSTANCE EN CASSATION",
+    "CASSATIE - ALGEMEEN. OPDRACHT EN BESTAANSREDEN VAN HET HOF. AARD VAN HET CASSATIEGEDING"
+  ],
+  "fiche": [
+    "FAILLITE ET CONCORDATS - EFFETS (PERSONNES, BIENS, OBLIGATIONS)",
+    "Action en justice - Action du créancier en admission de sa créance - Introduction - Délai - Principe",
+    "CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 62 - 80 Lien ELI No pub 1997009766 CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 72, al. 2 et 3 - 80 Lien ELI No pub 1997009766",
+    "ORDRE PUBLIC",
+    "Loi du 8 août 1997, articles 62 et 72, alinéas 2 et 3 - Action du créancier en admission de sa créance - Introduction - Délai - Caractère",
+    "CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 62 - 80 Lien ELI No pub 1997009766 CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 72, al. 2 et 3 - 80 Lien ELI No pub 1997009766",
+    "FAILLITE ET CONCORDATS - EFFETS (PERSONNES, BIENS, OBLIGATIONS)",
+    "Action en justice - Action du créancier en admission de sa créance - Introduction - Délai - Principe - Exception",
+    "CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 62 - 80 Lien ELI No pub 1997009766 CODE DE COMMERCE LIVRE III - Loi sur les faillites - 08-08-1997 - Art. 72, al. 2 et 3 - 80 Lien ELI No pub 1997009766",
+    "LOI ETRANGERE",
+    "Application - Mission du juge du fond - Mission de la Cour",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Généralités",
+    "Loi étrangère - Application - Mission du juge du fond - Mission de la Cour"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251024.1F.2",
+  "source_sha256": "baac4274508e6788a89a0e28a5ab349610a121a1518a85d5205ba632b1812678",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251024.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
