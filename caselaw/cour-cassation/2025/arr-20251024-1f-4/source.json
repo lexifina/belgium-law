@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251024.1F.4",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251024.1F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-24",
+  "date_as_printed": "Jugement/arrêt du 24 octobre 2025",
+  "published_on_juportal": "2025-11-12",
+  "language": "fr",
+  "role_number": "C.22.0403.F",
+  "case_name_as_published": "COMMUNE DE SCHAERBEEK c. HOLDING COMMUNAL s.a. en liqui",
+  "subjects": [
+    "Droit financier",
+    "Financieel recht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "BANQUE. CREDIT. EPARGNE - INSTITUTIONS BANCAIRES",
+    "BANKWEZEN. KREDIETWEZEN. SPAARWEZEN - BANKINSTELLINGEN",
+    "UNION EUROPEENNE - DROIT MATERIEL - Principes",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Beginsels"
+  ],
+  "fiche": [
+    "BANQUE. CREDIT. EPARGNE - INSTITUTIONS BANCAIRES",
+    "Société anonyme - Capital détenu par les provinces, les communes belges et des établissements publics - Condition de cession de leurs actions - Agrément du conseil d'administration de la société - Décision d'augmentation de capital - Obligation de publier un prospectus - Champ d'application - Valeurs mobilières - Notion",
+    "Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation, et ... - 04-11-2003 - Art. 1er, § 1er Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation, et ... - 04-11-2003 - Art. 2, § 1er, a) Directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du ... - 21-04-2004 - Art. 4, § 1er, point 18, a) Directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du ... - 21-04-2004 - Art. 69 L. du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés - 16-06-2006 - Art. 4, § 1er - 30 Lien ELI No pub 2006009492 L. du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés - 16-06-2006 - Art. 5, § 1er, 1) - 30 Lien ELI No pub 2006009492",
+    "UNION EUROPEENNE - DROIT MATERIEL - Principes",
+    "Directive européenne 2003/71/CE - Directive européenne 2004/39/CE - Société anonyme - Capital détenu par les provinces, les communes belges et des établissements publics - Condition de cession de leurs actions - Agrément du conseil d'administration - Décision d'augmentation de capital - Obligation de publier un prospectus - Champ d'application - Valeurs mobilières - Notion",
+    "Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation, et ... - 04-11-2003 - Art. 1er, § 1er Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation, et ... - 04-11-2003 - Art. 2, § 1er, a) Directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du ... - 21-04-2004 - Art. 4, § 1er, point 18, a) Directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du ... - 21-04-2004 - Art. 69 L. du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés - 16-06-2006 - Art. 4, § 1er - 30 Lien ELI No pub 2006009492 L. du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés - 16-06-2006 - Art. 5, § 1er, 1) - 30 Lien ELI No pub 2006009492"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251024.1F.4",
+  "source_sha256": "8fde4fb81af22ed95de59d3ae8dd59cf28a5cfb7958c5b1696ec9d123ed35608",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251024.1F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
