@@ -1,0 +1,12 @@
+{
+  "title": "Arrêt C.22.0179.F-C.23.0189.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-10-24",
+  "date_as_printed": "24 OCTOBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.22.0179.F-C.23.0189.F.pdf",
+  "source_sha256": "e7ff3cfcf0dae7f39b4c70b6f035925d51c042ff849088b7cc00e72c6bd51fa6",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only: private-person detail may be present",
+  "privacy_indicator": "domicilié"
+}
