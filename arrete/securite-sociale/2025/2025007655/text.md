@@ -1,0 +1,6 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'arrêté royal du 22 janvier 2002 fixant le montant des jetons de présence et indemnités à attribuer aux présidents, vice-présidents, membres et secrétaires de certains conseils, comités, commissions et collèges de l'Institut national d'assurance maladie-invalidité, il est ajouté un article 2bis rédigé comme suit :
+"Art. 2bis. Les membres de la Commission pour les objectifs de soins de santé, visés à l'article 18/1, alinéa 2, 7° et 9°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, ainsi que le président de cette Commission visé à l'article 190bis de la même loi coordonnée, perçoivent une indemnité fixée comme suit :
+1° par journée de séance, un jeton de présence de 7,44 euros ;
+2° pour chaque heure de prestation intellectuelle effectuée à la demande de la Commission en tant que contribution à la remise des travaux de la Commission visés à l'article 18/2, § 1er, de la loi coordonnée du 14 juillet 1994, un montant de 25 euros, avec un maximum de 250 euros par travail.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre qui à les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
