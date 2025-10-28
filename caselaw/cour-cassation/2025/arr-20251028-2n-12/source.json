@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251028.2N.12",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251028.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-28",
+  "date_as_printed": "Vonnis/arrest van 28 oktober 2025",
+  "published_on_juportal": "2025-11-06",
+  "language": "nl",
+  "role_number": "P.25.1188.N",
+  "case_name_as_published": "G.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 42",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 42",
+    "ROULAGE - DIVERS",
+    "WEGVERKEER - ALLERLEI",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 42",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 42 - 31 ELI link Pub nr 1968031601 KB 23 maart 1998 betreffende het rijbewijs - 23-03-1998 - Art. IV, bijlage 6 - 31 ELI link Pub nr 1998014078",
+    "WEGVERKEER - ALLERLEI",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 42 - 31 ELI link Pub nr 1968031601 KB 23 maart 1998 betreffende het rijbewijs - 23-03-1998 - Art. IV, bijlage 6 - 31 ELI link Pub nr 1998014078",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 42 - 31 ELI link Pub nr 1968031601 KB 23 maart 1998 betreffende het rijbewijs - 23-03-1998 - Art. IV, bijlage 6 - 31 ELI link Pub nr 1998014078"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251028.2N.12",
+  "source_sha256": "f15374aaeba6f76131a4f431bb9061db1c1aa9d377d134dfeef12ca868c68f4a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251028.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/27/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
