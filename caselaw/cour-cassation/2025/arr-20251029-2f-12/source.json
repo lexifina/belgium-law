@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251029.2F.12",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251029.2F.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-10-29",
+  "date_as_printed": "Jugement/arrêt du 29 octobre 2025",
+  "published_on_juportal": "2025-10-31",
+  "language": "fr",
+  "role_number": "P.25.0524.F",
+  "case_name_as_published": "R. contra ETAT BELGE, DEFENSE NATIONALE",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INDEMNITE DE PROCEDURE",
+    "RECHTSPLEGINGSVERGOEDING"
+  ],
+  "fiche": [
+    "INDEMNITE DE PROCEDURE",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 162bis, al. 2 - 30 Lien ELI No pub 1808111901 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055",
+    "ACTION CIVILE",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 162bis, al. 2 - 30 Lien ELI No pub 1808111901 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 162bis, al. 2 - 30 Lien ELI No pub 1808111901 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel incident",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 162bis, al. 2 - 30 Lien ELI No pub 1808111901 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Action civile (règles particulières)",
+    "Code d'Instruction criminelle - Livre II, Titre I (Art. 137 à 216septies) - 19-11-1808 - Art. 162bis, al. 2 - 30 Lien ELI No pub 1808111901 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251029.2F.12",
+  "source_sha256": "dcb93e84f4dcd1786a37bceba8fc46b6d419179fb66ce83e2e7d952bfcea23d8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251029.2F.12_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/28/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
