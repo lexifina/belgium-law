@@ -1,0 +1,16 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 8 de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités modifié en dernier lieu par l'arrêté royal du 14 avril 2024, sont apportées les modifications suivantes :
+1° Le paragraphe 2 est remplacé par ce qui suit :
+" Les prestations nécessitant une prescription dans le cadre de l'exercice de la profession conformément à la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ou à l'arrêté royal du 18 juin 1990 portant fixation de la liste des prestations techniques de l'art infirmier et de la liste des actes pouvant être confiés par un médecin ou un dentiste à des praticiens de l'art infirmier, ainsi que des modalités d'exécution relatives à ces prestations et à ces actes et des conditions de qualification auxquelles les praticiens de l'art infirmier doivent répondre ne sont remboursées que si elles ont été prescrites par le dispensateur de soins compétent ayant le patient en traitement.
+Les prestations techniques de soins infirmiers visées à la rubrique I, B du § 1er, 1°, 2°, 3°, 3° bis, 3° ter et 4° et les prestations techniques spécifiques de soins infirmiers visées à la rubrique III du § 1er, 1°, 2°, 3°, 3° bis et 3° ter qui nécessitent une prescription peuvent être exécutées en cas d'urgence sur base d'une prescription formulée oralement, communiquée par téléphone, par radiophonie ou par webcam par le praticien visé à l'alinéa 1er. Le praticien confirme la prescription par écrit dans les meilleurs délais et au plus tard le cinquième jour suivant le jour au cours duquel la prescription a été formulée oralement .
+Cette prescription doit mentionner la nature des prestations, leur nombre et leur fréquence. Elle ne peut être limitée à la seule mention du numéro de nomenclature, mais doit contenir les données nécessaires pour identifier les soins portés en compte.
+Lorsqu'il s'agit de l'administration de médicaments et de solutions médicamenteuses, la prescription doit en outre mentionner la nature et la dose des produits à administrer.
+Lorsqu'il s'agit d'une alimentation parentérale ou de perfusions, la prescription doit en outre mentionner le débit et la quantité par 24 heures. "
+2° Au § 4, 5°, les mots " figurant sur la prescription " sont abrogés.
+3° Au § 8, 3°, la phrase " - autres lésions cutanées justifiant, selon le médecin prescripteur, des soins de plaie(s) simple minutieux. " est remplacée par la phrase " - autres affections cutanées nécessitant un traitement avec une pommade cutanée spécifique ou un produit médicamenteux. "
+4° Au § 8bis, 2ème alinéa, le mot " prescripteur " est remplacé par le mot " traitant ".
+5° Au § 9, 3ème alinéa, b), le mot " prescripteur " est remplacé par les mots " médecin traitant ".
+6° Au § 12, 4°, 1er alinéa, les mots " figurant sur la prescription " sont abrogés.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a les Affaires sociales dans ses attributions est chargé de l'exécution du présent arrêté.
