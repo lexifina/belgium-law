@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans la partie II, titre 2, chapitre III de la liste jointe comme annexe à l'arrêté royal du 23 novembre 2021 fixant les procédures, délais et conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des prestations pharmaceutiques visées à l'article 34, alinéa 1er, 5° a), 19°, 20° et 20 bis de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les paragraphes 1 et 2 sont supprimés.
+Dans la Partie III, Titre 3 de la liste annexée au même arrêté, le formulaire C51) Notification pour une intervention pour des aliments diététiques (denrées alimentaires), est supprimé.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit l'expiration d'un délai de dix jours prenant cours le jour suivant sa publication au Moniteur belge.
