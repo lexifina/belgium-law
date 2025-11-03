@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251103.3F.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251103.3F.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-03",
+  "date_as_printed": "Jugement/arrêt du 03 novembre 2025",
+  "published_on_juportal": "2025-11-28",
+  "language": "fr",
+  "role_number": "S.24.0055.F",
+  "case_name_as_published": "INTEGRALE s.a. en liquidation contra A.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "FRAIS ET DEPENS - MATIERE CIVILE - Généralités",
+    "GERECHTSKOSTEN - BURGERLIJKE ZAKEN - Algemeen",
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "RECHTBANKEN - BURGERLIJKE ZAKEN - Algemeen"
+  ],
+  "fiche": [
+    "FRAIS ET DEPENS - MATIERE CIVILE - Généralités",
+    "Indemnité de procédure - Montant - Principe",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022, al. 1er - 04 Lien ELI No pub 1967101055 A.R. du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire et fixant la date d'entrée en vigueur des articles 1er à 13 de la loi du 21 avril 2007 relative à la répétibilité des ... - 26-10-2007 - Art. 1er - 35 Lien ELI No pub 2007009900 A.R. du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire et fixant la date d'entrée en vigueur des articles 1er à 13 de la loi du 21 avril 2007 relative à la répétibilité des ... - 26-10-2007 - Art. 2 - 35 Lien ELI No pub 2007009900",
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "Condamnation aux dépens - Indemnité de procédure - Montant - Principe",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1022, al. 1er - 04 Lien ELI No pub 1967101055 A.R. du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire et fixant la date d'entrée en vigueur des articles 1er à 13 de la loi du 21 avril 2007 relative à la répétibilité des ... - 26-10-2007 - Art. 1er - 35 Lien ELI No pub 2007009900 A.R. du 26 octobre 2007 fixant le tarif des indemnités de procédure visées à l'article 1022 du Code judiciaire et fixant la date d'entrée en vigueur des articles 1er à 13 de la loi du 21 avril 2007 relative à la répétibilité des ... - 26-10-2007 - Art. 2 - 35 Lien ELI No pub 2007009900",
+    "FRAIS ET DEPENS - MATIERE CIVILE - Généralités",
+    "Condamnation solidaire aux dépens - Condition",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1020 - 04 Lien ELI No pub 1967101055",
+    "TRIBUNAUX - MATIERE CIVILE - Généralités",
+    "Dépens - Condamnation solidaire aux dépens - Condition",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 1020 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251103.3F.6",
+  "source_sha256": "eca4a509c2f130a420d59ac4431eb6e472765a8c7575e19be3aecea108cec134",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251103.3F.6_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_18.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
