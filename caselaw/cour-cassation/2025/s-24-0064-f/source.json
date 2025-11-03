@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.24.0064.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-11-03",
+  "date_as_printed": "3 NOVEMBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.24.0064.F.pdf",
+  "source_sha256": "a833276fd15f7e214d58be7298284d4c12b933a842363148ed990fdf947a82e8",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
