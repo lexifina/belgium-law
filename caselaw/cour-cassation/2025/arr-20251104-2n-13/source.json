@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251104.2N.13",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251104.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-04",
+  "date_as_printed": "Vonnis/arrest van 04 november 2025",
+  "published_on_juportal": "2025-11-07",
+  "language": "nl",
+  "role_number": "P.24.1753.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "SIGNIFICATIONS ET NOTIFICATIONS - EXPLOIT",
+    "BETEKENINGEN EN KENNISGEVINGEN - EXPLOOT",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "TRIBUNAUX - MATIERE REPRESSIVE - Action publique",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering"
+  ],
+  "fiche": [
+    "BETEKENINGEN EN KENNISGEVINGEN - EXPLOOT",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 23 - 01 ELI link Pub nr 1878041750",
+    "STRAFVORDERING",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 23 - 01 ELI link Pub nr 1878041750",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering",
+    "Voorafgaande titel van het Wetboek van Strafvordering - 17-04-1878 - Art. 23 - 01 ELI link Pub nr 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251104.2N.13",
+  "source_sha256": "5e00f8fc3e9a45bf41692826c7e8ea071d7e642a430b92286eac49b74eab48d2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251104.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
