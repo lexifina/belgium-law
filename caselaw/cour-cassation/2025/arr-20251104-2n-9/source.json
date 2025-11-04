@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251104.2N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251104.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-04",
+  "date_as_printed": "Vonnis/arrest van 04 november 2025",
+  "published_on_juportal": "2025-11-07",
+  "language": "nl",
+  "role_number": "P.25.1190.N",
+  "case_name_as_published": "T. contra P.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "PEINE - AUTRES PEINES - Peine de travail",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies - 01 ELI link Pub nr 1867060850",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies - 01 ELI link Pub nr 1867060850",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies - 01 ELI link Pub nr 1867060850",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251104.2N.9",
+  "source_sha256": "e6278ef2f3aaa224049d84e5b020595334b1352ab5588468508a1eb28d21e106",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251104.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/04/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
