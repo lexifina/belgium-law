@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251105.2F.17",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251105.2F.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-05",
+  "date_as_printed": "Jugement/arrêt du 05 novembre 2025",
+  "published_on_juportal": "2025-11-17",
+  "language": "fr",
+  "role_number": "P.25.1402.F",
+  "case_name_as_published": "I.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "DETENTION PREVENTIVE - APPEL",
+    "VOORLOPIGE HECHTENIS - HOGER BEROEP",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 16, § 1er et 5 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 6 et 7 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24, 4° - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 4 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - APPEL",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 16, § 1er et 5 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 6 et 7 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24, 4° - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 4 - 35 Lien ELI No pub 1990099963",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 16, § 1er et 5 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 6 et 7 - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 24, 4° - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 30, § 4 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251105.2F.17",
+  "source_sha256": "1ff2338fdb9a7cc2a7cdae10283b5a97ab9493a677f95a53425894999e343cc5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251105.2F.17_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
