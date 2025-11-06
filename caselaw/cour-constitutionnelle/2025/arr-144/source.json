@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.144",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.144",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-11-06",
+  "date_as_printed": "Jugement/arrêt du 06 novembre 2025",
+  "published_on_juportal": "2025-11-17",
+  "language": "fr",
+  "role_number": "144/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles concernant les articles 1, 2°, et 61/6, 5°, du décret-cadre de la Communauté française du 10 avril 2003 « relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène », posées par le Conseil d'État. Matières culturelles - Communauté française - Opérateurs culturels - Subventionnement - Contrats de diffusion - Equilibre financier",
+    "de prejudiciële vragen over de artikelen 1, 2°, en 61/6, 5°, van het kaderdecreet van de Franse Gemeenschap van 10 april 2003 « betreffende de erkenning en de subsidiëring van de beroepssector van de Podiumkunsten », gesteld door de Raad van State. Culturele aangelegenheden - Franse Gemeenschap - Culturele operatoren - Subsidiëring - Verspreidingsovereenkomsten - Financieel evenwicht"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles concernant les articles 1, 2°, et 61/6, 5°, du décret-cadre de la Communauté française du 10 avril 2003 « relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène », posées par le Conseil d'État. Matières culturelles - Communauté française - Opérateurs culturels - Subventionnement - Contrats de diffusion - Equilibre financier"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.144&lang=fr",
+  "source_sha256": "27f23c45369a21b4ed5c17b5b6a734e9be635c9532d63a7db8eda75c00d8183f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.144_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_45.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
