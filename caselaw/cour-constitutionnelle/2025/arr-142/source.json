@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.142",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.142",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-11-06",
+  "date_as_printed": "Jugement/arrêt du 06 novembre 2025",
+  "published_on_juportal": "2025-11-17",
+  "language": "fr",
+  "role_number": "142/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 35 de la loi du 15 janvier 2024 « relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics », introduit par l'Institut fédéral pour la protection et la promotion des droits humains. Droit administratif - Communes - Police administrative - Criminalité déstabilisante - Mesures préventives - Enquête d'intégrité communale - Mesure de refus, de suspension ou d'abrogation du permis d'implantation ou d'exploitation ou de fermeture d'un établissement",
+    "het beroep tot vernietiging van artikel 35 van de wet van 15 januari 2024 « betreffende de gemeentelijke bestuurlijke handhaving, de instelling van een gemeentelijk integriteitsonderzoek en houdende oprichting van een Directie Integriteitsbeoordeling voor Openbare Besturen », ingesteld door het Federaal Instituut voor de bescherming en de bevordering van de rechten van de mens. Bestuursrecht - Gemeenten - Bestuurlijke politie - Ondermijnende criminaliteit - Preventieve maatregelen - Gemeentelijk integriteitsonderzoek - Maatregel tot weigering, schorsing of opheffing van de vestigings- of uitbatingsvergunning of tot sluiting van een inrichting"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 35 de la loi du 15 janvier 2024 « relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics », introduit par l'Institut fédéral pour la protection et la promotion des droits humains. Droit administratif - Communes - Police administrative - Criminalité déstabilisante - Mesures préventives - Enquête d'intégrité communale - Mesure de refus, de suspension ou d'abrogation du permis d'implantation ou d'exploitation ou de fermeture d'un établissement"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.142&lang=fr",
+  "source_sha256": "8d371bbe5643bcc9fa64448b83267090a882e106e4605b29ddb7d674d56f40d0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.142_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_44.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
