@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Le règlement d'ordre intérieur, rédigé par l'assemblée générale de l'Institut des mandataires en brevets, tel que modifié par les propositions des assemblées générales ordinaires des 13 janvier mai 2025 et 2 juin 2025, et reproduit en annexe, est approuvé.
