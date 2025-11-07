@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Assentiment est donné à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'attribution et répartition du montant fixé à l'article 2 de la décision du Comité des ministres de l'Union Economique belgo-luxembourgeoise (UEBL) du 14 décembre 2001, telle que modifiée par la décision du Comité des ministres de l'UEBL du 31 août 2021, conclu à Bruxelles le 10 janvier 2024, annexé à la présente loi.
