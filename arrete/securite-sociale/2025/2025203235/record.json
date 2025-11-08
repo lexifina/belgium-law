@@ -1,0 +1,29 @@
+{
+  "id": "2025203235",
+  "title": "23 OCTOBRE 2025. - Arrêté royal fixant pour l'année 2026 le taux de la cotisation patronale pour le financement du Service social collectif des administrations provinciales et locales",
+  "source_title": "23 OCTOBRE 2025. - Arrêté royal fixant pour l'année 2026 le taux de la cotisation patronale pour le financement du Service social collectif des administrations provinciales et locales",
+  "act": "arrete/securite-sociale/2025/2025203235",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-10-29&numac_search=2025203235&page=23&lg_txt=F&caller=list&2025203235=0&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "b9fd0ee6dac897a6cc2a923b1ab5422906d1324e266eb57b48334dee0184be43",
+  "source_issuer": "Sécurité sociale",
+  "made": "2025-10-23",
+  "published": "2025-10-29",
+  "in_force": "2025-11-08",
+  "in_force_basis": "Justel: Entrée en vigueur : 8 novembre 2025; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Sécurité sociale",
+    "Publication": "29 octobre 2025",
+    "Numéro": "2025203235",
+    "page": "82435",
+    "Dossier numéro": "2025-10-23/04",
+    "Entrée en vigueur": "8 novembre 2025"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 61,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-11-08"
+}
