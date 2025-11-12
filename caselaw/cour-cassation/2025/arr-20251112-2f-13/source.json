@@ -1,0 +1,43 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251112.2F.13",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251112.2F.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-12",
+  "date_as_printed": "Jugement/arrêt du 12 novembre 2025",
+  "published_on_juportal": "2025-11-19",
+  "language": "fr",
+  "role_number": "P.25.1362.F",
+  "case_name_as_published": "PROCUREUR GENERAL COUR DE CASSATION contra R.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS PROBATOIRE",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - PROBATIEUITSTEL",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "CASSATIE - VORDERINGEN TOT VERNIETIGING. CASSATIEBEROEP IN HET BELANG VAN DE WET"
+  ],
+  "fiche": [
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS PROBATOIRE",
+    "Décision de révocation du sursis probatoire - Contradiction entre le motif considérant qu'il n'est pas adéquat d'ordonner la révocation et le dispositif, qui l'ordonne - Annulation avec renvoi",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 441 - 30 Lien ELI No pub 1808121050 L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 13 - 30 Lien ELI No pub 1964062906",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "Décision de révocation du sursis probatoire - Contradiction entre le motif considérant qu'il n'est pas adéquat d'ordonner la révocation et le dispositif, qui l'ordonne - Annulation avec renvoi",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 441 - 30 Lien ELI No pub 1808121050 L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 13 - 30 Lien ELI No pub 1964062906",
+    "CASSATION - DES DEMANDES EN ANNULATION. DES POURVOIS DANS L'INTERET DE LA LOI",
+    "Décision de révocation du sursis probatoire - Contradiction entre les motifs et le dispositif - Annulation avec renvoi",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 441 - 30 Lien ELI No pub 1808121050 L. du 29 juin 1964 concernant la suspension, le sursis et la probation - 29-06-1964 - Art. 13 - 30 Lien ELI No pub 1964062906"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251112.2F.13",
+  "source_sha256": "85513aef86188266569ed4953e2c109ce7536595291a752b3b68f0959ddafbe6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251112.2F.13_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
