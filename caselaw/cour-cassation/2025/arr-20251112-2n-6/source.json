@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251112.2N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251112.2N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-12",
+  "date_as_printed": "Vonnis/arrest van 12 november 2025",
+  "published_on_juportal": "2025-11-14",
+  "language": "nl",
+  "role_number": "P.25.1468.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MANDAT D'ARRET EUROPEEN",
+    "EUROPEES AANHOUDINGSBEVEL",
+    "EXTRADITION",
+    "UITLEVERING",
+    "JURIDICTIONS D'INSTRUCTION",
+    "ONDERZOEKSGERECHTEN",
+    "MOTIFS DES JUGEMENTS ET ARRETS - PAS DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Divers",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Allerlei"
+  ],
+  "fiche": [
+    "EUROPEES AANHOUDINGSBEVEL",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 20, § 4, eerste lid - 32 ELI link Pub nr 2003009950",
+    "UITLEVERING",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 20, § 4, eerste lid - 32 ELI link Pub nr 2003009950",
+    "ONDERZOEKSGERECHTEN",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 20, § 4, eerste lid - 32 ELI link Pub nr 2003009950",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - GEEN CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 20, § 4, eerste lid - 32 ELI link Pub nr 2003009950",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Allerlei",
+    "Wet 19 december 2003 betreffende het Europees aanhoudingsbevel - 19-12-2003 - Art. 20, § 4, eerste lid - 32 ELI link Pub nr 2003009950"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251112.2N.6",
+  "source_sha256": "d85df0b20855bd615416b1cda776fd92ddf2c47eb223d5aeee7e9c6841969b2d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251112.2N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
