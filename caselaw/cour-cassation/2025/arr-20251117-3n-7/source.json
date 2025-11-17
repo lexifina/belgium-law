@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251117.3N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251117.3N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-17",
+  "date_as_printed": "Vonnis/arrest van 17 november 2025",
+  "published_on_juportal": "2025-12-09",
+  "language": "nl",
+  "role_number": "C.22.0121.N",
+  "case_name_as_published": "H. contra SEB LIFE INTERNATIONAL ASSURANCE COMPANY",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "PRESCRIPTION - MATIERE CIVILE - Délais (Nature. Durée. Point de départ. Fin)",
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "UNION EUROPEENNE - GENERALITES",
+    "EUROPESE UNIE - ALGEMEEN"
+  ],
+  "fiche": [
+    "VERJARING - BURGERLIJKE ZAKEN - Termijnen (Aard. Duur. Aanvang. Einde)",
+    "Richtlijn 93/13/EEG van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten, voor de contractuele betrekkingen van de titularissen van vrije beroepen met hun cliënten - 05-04-1993 - Art. 6, eerste lid - 37 Link Justel databank 19930405-37 Richtlijn 93/13/EEG van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten, voor de contractuele betrekkingen van de titularissen van vrije beroepen met hun cliënten - 05-04-1993 - Art. 7, eerste lid - 37 Link Justel databank 19930405-37 Wet 6 april 2010 betreffende marktpraktijken en consumentenbescherming (Marktpraktijkenwet) - 06-04-2010 - Art. 75, § 1 - 03 ELI link Pub nr 2010011166",
+    "EUROPESE UNIE - ALGEMEEN",
+    "Richtlijn 93/13/EEG van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten, voor de contractuele betrekkingen van de titularissen van vrije beroepen met hun cliënten - 05-04-1993 - Art. 6, eerste lid - 37 Link Justel databank 19930405-37 Richtlijn 93/13/EEG van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten, voor de contractuele betrekkingen van de titularissen van vrije beroepen met hun cliënten - 05-04-1993 - Art. 7, eerste lid - 37 Link Justel databank 19930405-37 Wet 6 april 2010 betreffende marktpraktijken en consumentenbescherming (Marktpraktijkenwet) - 06-04-2010 - Art. 75, § 1 - 03 ELI link Pub nr 2010011166"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251117.3N.7",
+  "source_sha256": "7b864eac7941194705de262ac9209004953f2943575a0733fec01af7c108346a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251117.3N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_34.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
