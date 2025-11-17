@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251117.3N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251117.3N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-17",
+  "date_as_printed": "Vonnis/arrest van 17 november 2025",
+  "published_on_juportal": "2025-12-09",
+  "language": "nl",
+  "role_number": "C.24.0466.N",
+  "case_name_as_published": "Kliniek Sint-Jan vzw contra M.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MEDECIN",
+    "ARTS"
+  ],
+  "fiche": [
+    "ARTS",
+    "Gecoördineerde Wet 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen - 10-07-2008 - Art. 16 - 90 ELI link Pub nr 2008A24327 Gecoördineerde Wet 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen - 10-07-2008 - Art. 137, eerste lid, 7° - 90 ELI link Pub nr 2008A24327"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251117.3N.9",
+  "source_sha256": "902d3e8d9b8de198247e8ac4e4d8207e4824d2359c4a412423f7f731fa02d28a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251117.3N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
