@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251117.3N.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251117.3N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-17",
+  "date_as_printed": "Vonnis/arrest van 17 november 2025",
+  "published_on_juportal": "2025-12-09",
+  "language": "nl",
+  "role_number": "C.22.0444.N",
+  "case_name_as_published": "AXA BELGIUM nv c. VLAAMS AGENTSCHAP VOOR PERSONEN MET E",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "HANDICAPES",
+    "MINDERVALIDEN"
+  ],
+  "fiche": [
+    "MINDERVALIDEN",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1382 - 30 ELI link Pub nr 1804032150 Decreet Vlaamse Gemeenschap van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap - 07-05-2004 - Art. 14, eerste, derde en vierde lid - 62 ELI link Pub nr 2004035909 Decreet van de Vlaamse Overheid van 21 juni 2013 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin - 21-06-2013 - Art. 39 - 17 ELI link Pub nr 2013204518"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251117.3N.5",
+  "source_sha256": "0736072577a71d9c972d056b8c11b861628c5afca92b025098f0ea79aa9d7b10",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251117.3N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_36.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
