@@ -1,0 +1,3 @@
+<a name="Art.1"></a>Article 1.
+Article unique. Le Plan particulier d'urgence et d'intervention zonal (PPUI) pour la centrale nucléaire de Doel des Gouverneurs des provinces de Flandre orientale et d'Anvers est approuvé à compter de l'entrée en vigueur de cet arrêté, sous réserve de la mise en conformité de la procédure d'alerte qu'il établit concernant la déclaration d'une classe d'urgence " Alert ", avec le paragraphe 2.1.3.1. de l'annexe de l'arrêté royal du 16 juin 2024 portant fixation du plan d'urgence nucléaire et radiologique pour le territoire belge, la mer territoriale et la zone économique exclusive.
+En cas de modification substantielle du Plan particulier d'urgence d'intervention visé à l'alinéa 1er, celui-ci fera l'objet d'une nouvelle demande d'approbation.
