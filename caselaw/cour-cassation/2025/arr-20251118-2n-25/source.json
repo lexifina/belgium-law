@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251118.2N.25",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251118.2N.25",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-18",
+  "date_as_printed": "Vonnis/arrest van 18 november 2025",
+  "published_on_juportal": "2025-11-28",
+  "language": "nl",
+  "role_number": "P.25.0909.N",
+  "case_name_as_published": "DE PROCUREUR-GENERAAL TE BRUSSEL contra D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit européen",
+    "Unierecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "TRIBUNAUX - MATIERE REPRESSIVE - Action publique",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering",
+    "UNION EUROPEENNE - DIVERS",
+    "EUROPESE UNIE - ALLERLEI",
+    "TRAITES ET ENGAGEMENTS INTERNATIONAUX",
+    "INTERNATIONALE VERDRAGEN"
+  ],
+  "fiche": [
+    "STRAFVORDERING",
+    "STRAFVORDERING",
+    "Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 54 Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 57",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering",
+    "Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 54 Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 57",
+    "EUROPESE UNIE - ALLERLEI",
+    "Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 54 Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 57",
+    "INTERNATIONALE VERDRAGEN",
+    "Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 54 Overeenkomst ter uitvoering van het te Schengen gesloten akkoord van 14 juni 1985 tussen de regeringen van de staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek, betreffende de geleidelijke afschaffing van de ... - 14-06-1985 - Art. 57"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251118.2N.25",
+  "source_sha256": "41f5c026a622aa7f8b98884bc42b0397be97d3bfb9472f4b2be297ffbb103e77",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251118.2N.25_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
