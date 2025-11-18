@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251118.2N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251118.2N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-18",
+  "date_as_printed": "Vonnis/arrest van 18 november 2025",
+  "published_on_juportal": "2025-11-28",
+  "language": "nl",
+  "role_number": "P.25.1136.N",
+  "case_name_as_published": "V. contra WILLEMEN GROEP NV",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Formes - Forme et délai prévus pour le dépôt des mémoires et des pièces",
+    "CASSATIEBEROEP - STRAFZAKEN - Vormen - Vorm en termijn voor memories en stukken"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Vormen - Vorm en termijn voor memories en stukken",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 432 - 30 ELI link Pub nr 1808121050 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1094 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251118.2N.6",
+  "source_sha256": "43fa3e6631bdd50210797ce4ba9e23c4b3d5550cada11f219200d305d5a102fd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251118.2N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/29/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
