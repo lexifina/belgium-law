@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.1363.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-11-18",
+  "date_as_printed": "18 NOVEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1363.N.pdf",
+  "source_sha256": "9808ed92e9e034315037102a57479a07979a87a6fcca249b60497def46fb7bf9",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
