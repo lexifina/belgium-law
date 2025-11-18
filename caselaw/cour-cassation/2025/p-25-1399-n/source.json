@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.1399.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-11-18",
+  "date_as_printed": "18 NOVEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1399.N.pdf",
+  "source_sha256": "038b027679a37eafd53b35e5fdc538bfe1e8b4fe89b82270441c062c301b122d",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
