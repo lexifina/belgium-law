@@ -1,0 +1,35 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251120.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251120.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-20",
+  "date_as_printed": "Vonnis/arrest van 20 november 2025",
+  "published_on_juportal": "2025-12-05",
+  "language": "nl",
+  "role_number": "F.22.0008.N",
+  "case_name_as_published": "B. contra BELGISCHE STAAT, FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Frais professionnels",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Beroepskosten",
+    "DROITS DE L'HOMME - GENERALITES",
+    "RECHTEN VAN DE MENS - ALGEMEEN"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Beroepskosten",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 53, 15° - 32 Link Justel databank 19920612-32",
+    "RECHTEN VAN DE MENS - ALGEMEEN"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251120.1N.6",
+  "source_sha256": "293b9ba588478ae44b09bef50966e8414dec419aba03964899e66c90024ccc59",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251120.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_28.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
