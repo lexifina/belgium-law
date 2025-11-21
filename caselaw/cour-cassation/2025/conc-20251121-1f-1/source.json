@@ -1,0 +1,31 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2025:CONC.20251121.1F.1",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251121.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-21",
+  "date_as_printed": "Conclusions du Ministère public du 21 novembre 2025",
+  "published_on_juportal": "2025-12-30",
+  "language": "fr",
+  "role_number": "C.25.0145.F",
+  "case_name_as_published": "VIVALIA s.c. contra SERVITEX s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Aveu",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bekentenis"
+  ],
+  "fiche": [
+    "PREUVE - MATIERE CIVILE - Aveu",
+    "Objet",
+    "ancien Code Civil - 21-03-1804 - Art. 1354 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251121.1F.1",
+  "source_sha256": "0582219e7a02537484586582224a37cc8a9cad3f74fcfea85d5f4ac5ee15b0ce",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251121.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_54.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
