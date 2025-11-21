@@ -1,0 +1,94 @@
+C.24.0311.F
+Conclusions de M. l’avocat général MORMONT :
+Le contexte du litige.
+1.
+Le litige a trait à la recherche des responsabilités résultant de vices de la construction d’un bâtiment situé à Marche-en Famenne.
+La s.a. Le Carmel de Marche était le maître d’ouvrage principal, ayant confié à la demanderesse le rôle d’entrepreneur principal pour la réalisation de travaux de reconstruction et d’aménagement d’un ancien carmel en centre commercial.
+La demanderesse a quant à elle confié à la première défenderesse et à l’assuré de la seconde des contrats de sous-traitance, de fourniture et de placement des charpentes et toitures pour l’une, de vérification de stabilité pour l’autre.
+Ces travaux se sont déroulés entre 2006 et 2009.
+Le 11 juin 2021, le maître d’ouvrage principal a assigné la demanderesse en responsabilité, sur la base des article 1792 et 2270 de l’ancien Code civil, en raison de malfaçons constatées à la charpente du bâtiment concerné.
+Le 13 juillet 2021, la demanderesse a appelé les défenderesse en garantie, également sur la base des articles 1792 et 2270 de l’ancien Code civil.
+2.
+L’arrêt condamne la demanderesse, solidairement avec l’architecte(1), à indemniser le maître d’ouvrage principal.
+Il dit en outre les demandes en garantie de la demanderesse dirigées contre les deux défenderesses prescrites.
+Le moyen.
+3.
+Le moyen est dirigé contre la décision de l’arrêt statuant sur la recevabilité des demandes en garantie formées par la demanderesse en cassation contre les deux défenderesses et disant ces demandes prescrites car introduites plus de dix ans après les réceptions provisoires respectives des travaux de ces défenderesses.
+4.
+Le moyen expose qu’une action principale en responsabilité contractuelle et l’action en garantie du mis en cause, quand bien même cette dernière repose également sur la responsabilité contractuelle, sont deux actions distinctes et autonomes.
+Il en déduit que le point de départ de la prescription de la première n’est, en règle, pas le point de départ de la prescription de la seconde.
+Le moyen soutient par ailleurs que l’action en garantie ne naît que lorsque l’action principale est intentée. Avant ce moment, elle est sans objet et son auteur sans intérêt à agir.
+5.
+En sa première branche, le moyen relève qu’il ressort de l’arrêt que l’action en garantie que la demanderesse a formé l’a été par une citation du 13 juillet 2021.
+Cette action avait pour objet la couverture de la responsabilité contractuelle de la demanderesse à l’égard du maître d’œuvre, la Carmel de Marche, cette responsabilité ayant été mise en cause par la citation introductive du litige du 10 juin 2021.
+Le moyen fait valoir que toutes les responsabilités recherchées (du maître de l’ouvrage à son égard, puis de sa part à l’encontre de ses deux sous-traitants dans la cadre de l’action en garantie) le sont sur la base des articles 1792 et 2270 de l’ancien Code civil, soit la responsabilité des constructeurs.
+Le moyen, en sa première branche, en déduit que l’action en garantie de la demanderesse n’est née que le 10 juin 2021 — date d’introduction de l’action principale à son égard — de sorte que c’est cette date qui forme le point de départ du délai de forclusion de cette action en garantie. Il en déduit que la forclusion de cette double action en garantie n’était pas acquise au moment où elle a été formée.
+Retenant un point de départ antérieur, soit celui de la réception provisoire des travaux concernés, l’arrêt violerait ainsi toutes les dispositions légales visées au moyen, hormis l’article 149 de la Constitution.
+6.
+En sa seconde branche, le moyen fait valoir qu’il avait soutenu devant les juges d’appel que le délai de forclusion de son action en garantie devait s’examiner dans son chef et non dans celui du maître de l’ouvrage principal, s’agissant d’actions distinctes, de sorte qu’elle ne pouvait être déclarée prescrite.
+L’arrêt ne répondrait toutefois pas à ce moyen et serait ainsi irrégulièrement motivé, violant l’article 149 de la Constitution.
+Appréciation.
+La première branche.
+7.
+La première branche du moyen pose la question du point de départ du délai de dix ans dans lequel doit être invoqué la responsabilité des constructeurs sur la base des articles 1792 et 2270 de l’ancien Code civil. Plus précisément, le moyen, en cette branche, invoque que, lorsque cette responsabilité est invoquée dans le cadre d’une action en garantie d’une demande principale, le point de départ de ce délai serait celui de l’introduction de cette demande principale.
+8.
+Selon l’article 1792 de l’ancien Code civil, qui figure dans un chapitre consacré au louage d’ouvrage et d’industrie, si l'édifice construit à prix fait périt en tout ou en partie par le vice de la construction, même par le vice du sol, les architecte et entrepreneur en sont responsables pendant dix ans.
+L’article 2270 du même code dispose quant à lui qu’après dix ans, l'architecte et les entrepreneurs sont déchargés de la garantie des gros ouvrages qu'ils ont faits ou dirigés.
+9.
+Ces deux dispositions établissent un régime unique et dérogatoire de responsabilité des architectes et entrepreneurs.
+Ce régime vise non seulement à une protection dans la durée du maître de l’ouvrage mais également à rencontrer des impératifs de sécurité publique. C’est pour cette raison qu’il est d’ordre public(2).
+Il est d’application tant dans les relations entre maître de l’ouvrage et entrepreneur principal que dans les relations entre ce dernier — qui prend alors la qualité de maître de l’ouvrage — et ses sous-traitants(3).
+10.
+Un des traits caractéristiques de ce régime de responsabilité, qui lui donne du reste son nom courant de responsabilité ou de garantie décennale, est le délai de dix ans dans lequel il doit être mis en œuvre et que rappellent les deux dispositions citées ci-avant.
+Ce délai issu de l’ancien droit vise à assurer un terme suffisamment long pour que le maître de l’ouvrage ait pu s’assurer effectivement de la solidité de la construction et plus court que le délai trentenaire de droit commun — de l’époque — en vue de limiter les difficultés de preuve des vices concernés(4).
+Il est admis — et c’est la question d’une exception à cette règle qui est l’objet de cette branche du moyen — que ce délai prend cours à l’agréation des travaux par le maître de l’ouvrage(5).
+11.
+Il est en outre classiquement considéré que ce délai n’est pas à proprement parler un délai de prescription, mais plutôt un délai préfix(6).
+Cette affirmation n’est pas totalement éclairante dans la mesure où la loi n’organise pas les limites de la catégorie de ce qu’on qualifie de délais préfix, ni non plus leur régime(7). Il n’est donc pas évident de déterminer si un délai possède réellement cette qualité(8), pas davantage que de savoir quelles conséquences exactes en déduire. Ce constat peu engageant amène certains auteurs à douter de la possibilité ou de l’utilité de cette catégorisation(9).
+On peut toutefois considérer que les traits marquants des délais préfix sont qu’ils échappent à l’application systématique de tout le régime des délais de prescription — ce qui ne signifie pas que toutes les règles de ce régime sont exclues … — et sans doute un caractère, globalement mais pas uniformément, plus strict(10), sans guère de causes de suspension ou de prolongation(11) hormis la force majeure(12), et sanctionné par la forclusion, c’est-à-dire la disparition du droit(13) là où la prescription laisse subsister une obligation naturelle(14).
+S’agissant en particulier du délai des articles 1792 et 2270 de l’ancien Code civil, la Cour a déjà considéré que ce délai prescrit à peine de déchéance « n’est de nature à être ni suspendu ni interrompu », même si l’introduction d’une action en justice dans le délai soustrait le droit d’agir à la déchéance(15) et, plus explicitement encore, qu’il s’agit d’un « délai de forclusion qui ne peut être ni interrompu ni suspendu »(16).
+12.
+Au regard de ce qui précède, le caractère préfix, c’est-à-dire strict, du délai de dix ans en cause incline à lui assurer, outre une durée qui n’est pas susceptible d’interruption ou de suspension(17), un point de départ qui soit déterminé dans tous les cas d’une manière objective et qui rende compte de ce caractère strict. L’attention que le régime porte au bâtiment, soumis à un délai d’épreuve(18), milite dans le même sens.
+L’agréation des travaux par le maître de l’ouvrage, dont l’importance n’échappe à aucune des parties, rencontre ces exigences.
+La circonstance que le contrat s’inscrive dans une chaîne, constituée d’autres contrats d’entreprises en amont ou en aval, ne me paraît dès lors pas justifier de dérogation à cette approche.
+13.
+La demanderesse allègue que la solution inverse pourrait se justifier au regard d’arrêts de la Cour adoptant une position différente s’agissant du délai — également préfix — de l’action en matière de vices cachés.
+Ainsi, le 29 janvier 2004, la Cour a considéré s’agissant de ventes en cascades, que l’obligation qu’impose l’article 1648 de l’ancien Code civil à l’acquéreur d’agir à bref délai est également applicable à l'action du vendeur contre celui qui lui a vendu la chose. Elle a ensuite jugé que le bref délai dans lequel le vendeur doit introduire son action en garantie ne prend cours qu'au moment où il est lui-même appelé en justice par son acquéreur(19).
+La Cour a répété le même enseignement les 25 juin 2010(20), 27 mai 2011(21) et 23 juin 2022(22).
+Il n’est toutefois guère évident que la règle puisse être transposée de manière pure et simple en matière de responsabilité décennale au motif qu’il s’agit de deux délais préfix.
+D’une part, on l’a rappelé, les délais préfix ont pour principal — et paradoxal — point commun d’échapper à toute systématisation, de sorte que ce qui vaut pour l’un ne vaut pas nécessairement pour les autres.
+D’autre part, le délai d’action, à bref délai suivant la nature des vices et les usages du lieu de la vente, se distingue assez nettement du régime de la responsabilité décennale des constructeurs. Par son délai, court mais indéterminé, qui s’oppose à celui, long et objectif, de dix ans. Par son point de départ qui est également incertain et subjectif — il s’agit en règle de la découverte par l’acquéreur du vice qui lui était inconnu — alors que la règle de l’agréation des travaux — focalisée sur la situation du bâtiment sans qu’importe le caractère caché ou apparent du désordre considéré — a les caractères inverses.
+Au reste, dans son arrêt du 14 novembre 2008, la Cour a nettement distingué les deux régimes, spécialement quant à cette question et dans une problématique de contrats successifs: « La demande fondée sur les vices cachés lors de ventes successives doit être distinguée de la demande du promoteur immobilier dirigée contre le constructeur d'un immeuble à bâtir ou de l'entrepreneur principal contre le sous-traitant du chef d'exécution défectueuse des travaux.
+Dans le premier cas, il s'agit du vice caché de la chose vendue lors de ventes successives, alors que dans le second cas il s'agit de l'exécution défectueuse d'une même entreprise, à savoir le défaut d'exécution d'une obligation d'exécution contractée envers le promoteur immobilier ou le sous-traitant.
+L'intérêt du promoteur immobilier ou de l'entrepreneur principal d'introduire une demande du chef de l'exécution défectueuse des travaux ne dépend pas nécessairement d'une demande du maître de l'ouvrage.
+En matière d'entreprise de travaux, le juge est ainsi tenu d'examiner en fait si la demande en garantie dirigée par le promoteur immobilier contre l'entrepreneur ou par l'entrepreneur principal contre le sous-traitant a été introduite en temps utile et il ne doit pas nécessairement se fonder à cet égard sur le moment où la demande du maître de l'ouvrage contre le promoteur immobilier ou l'entrepreneur a été introduite »(23).
+14.
+De tout ce qui précède, j’incline à considérer que le délai de la responsabilité décennale des articles 1792 et 2270 de l’ancien Code civil court à l’encontre de chaque maître de l’ouvrage à partir de la date de l’agréation des travaux qu’il a accordée; est indifférente à cet égard la circonstance que le maître de l’ouvrage soit lui-même l’entrepreneur principal et que la responsabilité qu’il entend invoquer contre son sous-traitant vise à le garantir de sa propre responsabilité recherchée sur le même fondement par le maître de l’ouvrage principal.
+En ce qu’il repose sur la prémisse inverse, le moyen, en cette branche, manque en droit.
+[…]
+Conclusion :
+Rejet du pourvoi et de la demande en déclaration d’arrêt commun.
+_______________________________________________________________
+(1) Qui est une société entre temps liquidée et représentée par deux de ses administrateurs.
+(2) Cass. 10 février 2022, RG C.19.0594.N, ECLI:BE:CASS:2022:ARR.20220210.1N.4, avec les concl. de Mme HERREGODTS, avocat général ; Cass. 12 février 2021, RG C.20.0066.N, ECLI:BE:CASS:2021:ARR.20210212.1N.1 ; Cass. 3 janvier 2019, RG C.18.0196.F ECLI:BE:CASS:2019:ARR.20190103.5, Pas. 2019, n° 7, avec les concl. de M. WERQUIN, avocat général ; Cass. 5 septembre 2014, RG C.13.0395.N ECLI:BE:CASS:2014:ARR.20140905.4, Pas. 2014, n° 495, avec les concl. de M. VANDEWAL, avocat général, publiées à leur date dans AC ; B. KOHL, « La responsabilité des constructeurs (après réception). Jurisprudence récente », in S. Vanvrekom (coord.), Actualités en droit de la construction, Bruxelles, Larcier 2023, coll. UB3, vol. 100, p. 22.
+(3) Cass. 5 mai 1967, Pas. 1967, I, 1046 ; Cass. 11 avril 1986, RG 4903, Pas. 1986, I, n° 491 ; B. KOHL, « La responsabilité des constructeurs (après réception)… » op.cit., p. 44 et les références citées.
+(4) B. KOHL, Contrat d’entreprise, Bruxelles, Bruylant 2016, coll. Répertoire pratique du droit belge, p. 1075.
+(5) Cass. 4 mars 1977, Pas. 1977, I, 721.
+(6) B. KOHL et A. RIGOLET, « La responsabilité décennale: un délai préfix d’ordre public – nuances et particulariés », note sous Cass. 3 janvier 2019, RG C.18.0196.F ECLI:BE:CASS:2019:ARR.20190103.5, Pas. 2019, n° 7, RGDC 2020/8, p. 472 ; M. MARCHANDISE, La prescription, Bruxelles, Bruylant 2014, coll. DE PAGE. Traité de droit civil belge, t. 6, p. 61.
+(7) Voy. les concl. de l’avocat général WERQUIN avant Cass. 3 janvier 2019, RG C.18.0196.F ECLI:BE:CASS:2019:ARR.20190103.5, Pas. 2019, n° 7. Voy. également A. DECROËS, « Les délais préfix (ou de forclusion) », JT 2007, p. 871.
+(8) Et le doute est d’autant plus permis en l’occurrence que l’article 2270 de l’ancien Code civil figure dans le titre XX de celui-ci, consacré à la prescription.
+(9) M. DUPONT, « Prescription et forclusion. Aspects procéduraux » in J.F. VAN DROOGHENBROECK et H. BOULARBAH (dir.), Les défenses en droit judiciaire, Bruxelles, Larcier 2010, p. 225 et les références citées.
+(10) DE PAGE décrivait le délai préfix comme « plus énergique, plus fatidique »: H. DE PAGE, Traité élémentaire de droit civil belge, Bruxelles, Bruylant 1957, tome VII, p. 1032 ; Voy. aussi les concl. de l’avocat général WERQUIN avant Cass. 3 janvier 2019, RG C.18.0196.F ECLI:BE:CASS:2019:ARR.20190103.5, Pas. 2019, n° 7.
+(11) Législateur et jurisprudence en reconnaissant toutefois, au cas par cas. Le trait commun reste que ces causes d’interruption ou de suspension ne sont ni uniformes ni toutes celles du régime général des délais de prescription.
+(12) Et à concurrence seulement du délai pour agir; voy. Cass. 24 septembre 2012, RG C.10.0676.F ECLI:BE:CASS:2012:ARR.20120924.1, Pas. 2012, n° 483, avec les concl. de M. LECLERCQ, procureur général.
+(13) Voy. e.a. M. DUPONT, op. cit., p. 224.
+(14) On convient que cette subsistance est assez théorique.
+(15) Cass. 3 janvier 2019, RG C.18.0196.F ECLI:BE:CASS:2019:ARR.20190103.5, Pas. 2019, n° 7, avec les concl. de M. WERQUIN, avocat général.
+(16) Cass. 22 décembre 2006, RG C.05.0210.N ECLI:BE:CASS:2006:ARR.20061222.3, Pas. 2006, n° 670 ; Voy. encore Cass. 27 octobre 2006, RG C.04.0380.N ECLI:BE:CASS:2006:ARR.20061027.5, Pas. 2006, n° 522 ; Cass. 17 février 1989, Pas. 1989, I, n° 342.
+(17) B. KOHL, « La responsabilité des constructeurs (après réception)… » op.cit., p. 54 et les références citées. Cet auteur aborde la question de l’influence de travaux de réfection accomplis par l’entrepreneur. Il conclut qu’ils n’amènent à aucune dérogation au caractère préfix mais seulement que de tels travaux, s’ils constituent par eux-mêmes de gros ouvrages, font naître, pour ce qui les concerne et à partir de leur achèvement, un délai propre (voy. Cass. 9 décembre 1988, Pas. 1989, I, n° 215).
+(18) M. MARCHANDISE, op. cit., p. 61.
+(19) Cass. 29 janvier 2004, RG C.01.0491.N ECLI:BE:CASS:2004:ARR.20040129.6, Pas. 2004, n° 52, avec les concl. de M. THIJS, avocat général, publiées à leur date dans AC.
+(20) Cass. 25 juin 2010, RG C.09.0085.F ECLI:BE:CASS:2010:ARR.20100625.2, Pas. 2010, n° 463.
+(21) Cass. 27 mai 2011, RG C.10.0178.N ECLI:BE:CASS:2011:ARR.20110527.3, Pas. 2010, n° 357.
+(22) Cass. 23 juin 2022, RG C.20.0470.N, ECLI:BE:CASS:2022:ARR.20220623.1N.4.
+(23) Cass. 14 novembre 2008, RG C.07.0634.N ECLI:BE:CASS:2008:ARR.20081114.4, Pas. 2008, n° 633.
