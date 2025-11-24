@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.25.0011.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-11-24",
+  "date_as_printed": "24 NOVEMBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.25.0011.F.pdf",
+  "source_sha256": "55733250e1b338ffb71ba35ea9954ccbd33726bc4b617f91682c8c9c19aaca90",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
