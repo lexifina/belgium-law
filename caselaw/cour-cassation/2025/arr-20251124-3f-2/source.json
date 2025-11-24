@@ -1,0 +1,43 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251124.3F.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251124.3F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-24",
+  "date_as_printed": "Jugement/arrêt du 24 novembre 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "fr",
+  "role_number": "S.23.0020.F",
+  "case_name_as_published": "KBC ASSURANCES s.a. contra V.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Généralités",
+    "BEWIJS - BURGERLIJKE ZAKEN - Algemeen",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "DROITS DE L'HOMME - PACTE INTERNATIONAL RELATIF AUX DROITS CIVILS ET POLITIQUES",
+    "RECHTEN VAN DE MENS - INTERNATIONAAL VERDRAG BURGERRECHTEN EN POLITIEKE RECHTEN"
+  ],
+  "fiche": [
+    "PREUVE - MATIERE CIVILE - Généralités",
+    "Preuve obtenue illégalement - Utilisation - Conditions - Critères d'appréciation par le juge",
+    "L. du 13 mai 1955 portant approbation de la Conv. D.H., signée à Rome, le 4 novembre 1950 et du Protocole additionnel à cette Convention, signé à Paris, le 20 mars 1952 - 13-05-1955 - Art. 6 - 30 Lien ELI No pub 1955051306 Pacte international relatif aux droits civils et politiques - 19-12-1966 - Art. 14 - 31 Lien DB Justel 19661219-31",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Procès équitable - Preuve obtenue illégalement - Utilisation - Conditions - Critères d'appréciation par le juge",
+    "L. du 13 mai 1955 portant approbation de la Conv. D.H., signée à Rome, le 4 novembre 1950 et du Protocole additionnel à cette Convention, signé à Paris, le 20 mars 1952 - 13-05-1955 - Art. 6 - 30 Lien ELI No pub 1955051306 Pacte international relatif aux droits civils et politiques - 19-12-1966 - Art. 14 - 31 Lien DB Justel 19661219-31",
+    "DROITS DE L'HOMME - PACTE INTERNATIONAL RELATIF AUX DROITS CIVILS ET POLITIQUES",
+    "Procès équitable - Preuve obtenue illégalement - Utilisation - Conditions - Critères d'appréciation par le juge",
+    "L. du 13 mai 1955 portant approbation de la Conv. D.H., signée à Rome, le 4 novembre 1950 et du Protocole additionnel à cette Convention, signé à Paris, le 20 mars 1952 - 13-05-1955 - Art. 6 - 30 Lien ELI No pub 1955051306 Pacte international relatif aux droits civils et politiques - 19-12-1966 - Art. 14 - 31 Lien DB Justel 19661219-31"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251124.3F.2",
+  "source_sha256": "ffc41fa08ca58344e06ef845f9aecd0cbbb640955ae7afc73c8b7d1cd446fd4f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251124.3F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_32.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
