@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251125.2N.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251125.2N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-25",
+  "date_as_printed": "Vonnis/arrest van 25 november 2025",
+  "published_on_juportal": "2025-12-05",
+  "language": "nl",
+  "role_number": "P.25.0972.N",
+  "case_name_as_published": "B. contra L.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INFRACTION - GENERALITES. NOTION. ELEMENT MATERIEL. ELEMENT MORAL. UNITE D'INTENTION",
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "fiche": [
+    "MISDRIJF - ALGEMEEN. BEGRIP. MATERIEEL EN MOREEL BESTANDDEEL. EENHEID VAN OPZET",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 383bis, § 2 oud - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 417/46 - 01 ELI link Pub nr 1867060850",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 383bis, § 2 oud - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 417/46 - 01 ELI link Pub nr 1867060850",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 383bis, § 2 oud - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 417/46 - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251125.2N.2",
+  "source_sha256": "7d96040f76e39930f728b3ea4d5a68000e2b712413bb2c17a5d447c84101ca09",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251125.2N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_26.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
