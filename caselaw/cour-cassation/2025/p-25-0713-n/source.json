@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.0713.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-11-25",
+  "date_as_printed": "25 NOVEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.0713.N.pdf",
+  "source_sha256": "19afdeefd16d7e326d4375e33ed66a1853e9a0d5870b0f9ffa45e0f0c2a23524",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
