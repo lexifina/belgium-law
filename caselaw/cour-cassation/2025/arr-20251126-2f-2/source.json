@@ -1,0 +1,52 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251126.2F.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251126.2F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-26",
+  "date_as_printed": "Jugement/arrêt du 26 novembre 2025",
+  "published_on_juportal": "2025-12-04",
+  "language": "fr",
+  "role_number": "P.24.1701.F",
+  "case_name_as_published": "F. contra B.",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht",
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "URBANISME - SANCTIONS",
+    "STEDENBOUW - SANCTIES",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action publique - Partie intervenante",
+    "CASSATIEBEROEP - STRAFZAKEN - Personen door of tegen wie cassatieberoep kan of moet worden ingesteld - Strafvordering - Tussenkomende partij",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "URBANISME - REMISE EN ETAT DES LIEUX. PAIEMENT D'UNE PLUS-VALUE",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action civile - Partie intervenante",
+    "CASSATIEBEROEP - STRAFZAKEN - Personen door of tegen wie cassatieberoep kan of moet worden ingesteld - Burgerlijke rechtsvordering - Tussenkomende partij"
+  ],
+  "fiche": [
+    "URBANISME - SANCTIONS",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action publique - Partie intervenante",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050",
+    "ACTION PUBLIQUE",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050",
+    "URBANISME - REMISE EN ETAT DES LIEUX. PAIEMENT D'UNE PLUS-VALUE",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action publique - Partie intervenante",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Personnes ayant qualité pour se pourvoir ou contre lesquelles on peut ou on doit se pourvoir - Action civile - Partie intervenante",
+    "Code d'Instruction criminelle - Livre II, Titre III (Art. 407 à 447bis) - 10-12-1808 - Art. 416 - 30 Lien ELI No pub 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251126.2F.2",
+  "source_sha256": "cf901e21bf0a7f765e47c271db49140d151875c01ce7b99955c89ca119bdcacb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251126.2F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
