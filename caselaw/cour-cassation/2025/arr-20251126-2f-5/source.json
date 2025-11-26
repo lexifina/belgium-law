@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251126.2F.5",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251126.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-26",
+  "date_as_printed": "Jugement/arrêt du 26 novembre 2025",
+  "published_on_juportal": "2025-12-04",
+  "language": "fr",
+  "role_number": "P.25.0610.F",
+  "case_name_as_published": "G.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Notion. Appréciation par le juge",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - OORZAAK - Begrip. Beoordeling door de rechter",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING"
+  ],
+  "fiche": [
+    "RESPONSABILITE HORS CONTRAT - CAUSE - Notion. Appréciation par le juge",
+    "Code pénal 1867 - 08-06-1867 - Art. 418 - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 420 - 01 Lien ELI No pub 1867060850 ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 1383 - 30 Lien ELI No pub 1804032150",
+    "ACTION CIVILE",
+    "Code pénal 1867 - 08-06-1867 - Art. 418 - 01 Lien ELI No pub 1867060850 Code pénal 1867 - 08-06-1867 - Art. 420 - 01 Lien ELI No pub 1867060850 ancien Code Civil - 21-03-1804 - Art. 1382 - 30 Lien ELI No pub 1804032150 ancien Code Civil - 21-03-1804 - Art. 1383 - 30 Lien ELI No pub 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251126.2F.5",
+  "source_sha256": "184ced03cfd5d014342fa0a205f9b8c1e0e0775067707066e8b62f1c2a155526",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251126.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
