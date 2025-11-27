@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.153",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.153",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-11-27",
+  "date_as_printed": "Jugement/arrêt du 27 novembre 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "fr",
+  "role_number": "153/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 10, § 2, de la loi du 7 mai 1999 « sur les jeux de hasard, les paris, les établissements de jeux de hasard et la protection des joueurs », posée par le Conseil d'État. Jeux de hasard - Commission des jeux de hasard - Composition - Représentants du ministre ayant la Loterie nationale dans ses attributions",
+    "de prejudiciële vraag betreffende artikel 10, § 2, van de wet van 7 mei 1999 « op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers », gesteld door de Raad van State. Kansspelen - Kansspelcommissie - Samenstelling - Vertegenwoordigers van de minister tot wiens bevoegdheid de Nationale Loterij behoort"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 10, § 2, de la loi du 7 mai 1999 « sur les jeux de hasard, les paris, les établissements de jeux de hasard et la protection des joueurs », posée par le Conseil d'État. Jeux de hasard - Commission des jeux de hasard - Composition - Représentants du ministre ayant la Loterie nationale dans ses attributions"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.153&lang=fr",
+  "source_sha256": "d0df5ae9a1799ef10d7d6818a512e70804c44b775e84821f1008cbe24b9c363f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.153_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_53.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
