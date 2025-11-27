@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.155",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.155",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-11-27",
+  "date_as_printed": "Jugement/arrêt du 27 novembre 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "fr",
+  "role_number": "155/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article XX.107, § 1er, du Code de droit économique, posée par le Tribunal de l'entreprise de Gand, division de Termonde. Droit économique - Insolvabilité des entreprises - Faillite - Jugement déclaratif de faillite ou jugement fixant la date de cessation de paiement - Publication au Moniteur belge - Mentions obligatoires - Modalités de recours",
+    "de prejudiciële vraag betreffende artikel XX.107, § 1, van het Wetboek van economisch recht, gesteld door de Ondernemingsrechtbank te Gent, afdeling Dendermonde. Economisch recht - Insolventie van ondernemingen - Faillissement - Vonnis van faillietverklaring of vonnis waarbij de datum van de staking van betaling wordt vastgesteld - Bekendmaking in het Belgisch Staatsblad - Verplichte vermeldingen - Nadere regels met betrekking tot de rechtsmiddelen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article XX.107, § 1er, du Code de droit économique, posée par le Tribunal de l'entreprise de Gand, division de Termonde. Droit économique - Insolvabilité des entreprises - Faillite - Jugement déclaratif de faillite ou jugement fixant la date de cessation de paiement - Publication au Moniteur belge - Mentions obligatoires - Modalités de recours"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.155&lang=fr",
+  "source_sha256": "98fcde7c838e4f67efa3da3f1e8f85a5b27c3f5bd0f6a422fb72174841b72e3f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.155_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_55.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
