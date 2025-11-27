@@ -1,0 +1,50 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251127.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251127.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-11-27",
+  "date_as_printed": "Vonnis/arrest van 27 november 2025",
+  "published_on_juportal": "2025-12-11",
+  "language": "nl",
+  "role_number": "C.23.0184.N",
+  "case_name_as_published": "D. contra B.",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - EFFETS (PERSONNES, BIENS, OBLIGATIONS)",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 16",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 16",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Divers",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Allerlei",
+    "PROPRIETE",
+    "EIGENDOM"
+  ],
+  "fiche": [
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 16",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Allerlei",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "EIGENDOM",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, tweede lid - 19 ELI link Pub nr 2013A11134",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - GEVOLGEN (PERSONEN, GOEDEREN, VERBINTENISSEN)",
+    "Wetboek van economisch recht - 28-02-2013 - Art. XX.194, eerste en tweede lid - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251127.1N.6",
+  "source_sha256": "94bfb4caa67222830cda170d78e11cd2e3a477d45c009b412e644b01f177f6e8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251127.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/06/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
