@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.154",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.154",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-11-27",
+  "date_as_printed": "Jugement/arrêt du 27 novembre 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "fr",
+  "role_number": "154/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 12 de l'ordonnance de la Région de Bruxelles-Capitale du 23 novembre 2017 « effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale », posées par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Région de Bruxelles-Capitale - Précompte immobilier - Immeuble lié à l'exercice public d'un culte - Exonération - Conditions",
+    "de prejudiciële vragen betreffende artikel 12 van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 23 november 2017 « houdende wetgevende aanpassingen met het oog op de overname van de dienst onroerende voorheffing door het Brussels Hoofdstedelijk Gewest », gesteld door de Franstalige Rechtbank van eerste aanleg te Brussel. Fiscaal recht - Brussels Hoofdstedelijk Gewest - Onroerende voorheffing - Onroerende goederen die verbonden zijn aan de openbare uitoefening van een eredienst - Vrijstelling - Voorwaarden"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 12 de l'ordonnance de la Région de Bruxelles-Capitale du 23 novembre 2017 « effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale », posées par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Région de Bruxelles-Capitale - Précompte immobilier - Immeuble lié à l'exercice public d'un culte - Exonération - Conditions"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.154&lang=fr",
+  "source_sha256": "ffb899d9dc8a92b1a29afb55ee9f0aa0bd02f6b7a34b266b59f67a5e27983569",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.154_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_52.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
