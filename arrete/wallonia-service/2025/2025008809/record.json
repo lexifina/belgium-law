@@ -1,0 +1,30 @@
+{
+  "id": "2025008809",
+  "title": "13 NOVEMBRE 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté royal du 28 juin 2009 relatif au transport de marchandises dangereuses par route ou par chemin de fer, à l'exception des matières explosives et radioactives",
+  "source_title": "13 NOVEMBRE 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté royal du 28 juin 2009 relatif au transport de marchandises dangereuses par route ou par chemin de fer, à l'exception des matières explosives et radioactives",
+  "act": "arrete/wallonia-service/2025/2025008809",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-11-27&numac_search=2025008809&page=2&lg_txt=F&caller=list&2025008809=26&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "d2a8d2781e8563cd5f81b3fb4d0e6f982950abaac6b6c3a184a7e0116c7a3b8c",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-11-13",
+  "published": "2025-11-27",
+  "in_force": "2025-11-27",
+  "in_force_basis": "Justel: Entrée en vigueur : 27 novembre 2025; own clause: Art. 3. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "27 novembre 2025",
+    "Numéro": "2025008809",
+    "page": "89901",
+    "Dossier numéro": "2025-11-13/10",
+    "Entrée en vigueur": "27 novembre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 314,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-11-27"
+}
