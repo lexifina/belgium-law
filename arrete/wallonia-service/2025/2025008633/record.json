@@ -1,0 +1,30 @@
+{
+  "id": "2025008633",
+  "title": "6 NOVEMBRE 2025. - Arrêté du Gouvernement wallon fixant le cadre organique de la Société wallonne du Crédit social",
+  "source_title": "6 NOVEMBRE 2025. - Arrêté du Gouvernement wallon fixant le cadre organique de la Société wallonne du Crédit social",
+  "act": "arrete/wallonia-service/2025/2025008633",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-11-20&numac_search=2025008633&page=3&lg_txt=F&caller=list&2025008633=0&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "0c7685a677ac210c33056c6bb844c7fb770875faeaa5e5b8bad79e51044b58c9",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-11-06",
+  "published": "2025-11-20",
+  "in_force": "2025-12-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 décembre 2025; own clause: Art. 3. Le présent arrêté entre en vigueur le 1er jour du mois qui suit sa publication au Moniteur belge.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "20 novembre 2025",
+    "Numéro": "2025008633",
+    "page": "88519",
+    "Dossier numéro": "2025-11-06/05",
+    "Entrée en vigueur": "1 décembre 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 178,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-12-01"
+}
