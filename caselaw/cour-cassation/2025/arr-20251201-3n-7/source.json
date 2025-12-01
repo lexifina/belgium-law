@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251201.3N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251201.3N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-01",
+  "date_as_printed": "Vonnis/arrest van 01 december 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "nl",
+  "role_number": "C.24.0422.N",
+  "case_name_as_published": "V. contra V.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE CIVILE - Preuve littérale - Généralités",
+    "BEWIJS - BURGERLIJKE ZAKEN - Geschriften - Algemeen",
+    "PREUVE - MATIERE CIVILE - Aveu",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bekentenis"
+  ],
+  "fiche": [
+    "BEWIJS - BURGERLIJKE ZAKEN - Geschriften - Algemeen",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1341 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1347 - 30 ELI link Pub nr 1804032150",
+    "BEWIJS - BURGERLIJKE ZAKEN - Bekentenis",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1354 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1355 - 30 ELI link Pub nr 1804032150",
+    "BEWIJS - BURGERLIJKE ZAKEN - Geschriften - Algemeen",
+    "oud Burgerlijk Wetboek - 21-03-1804 - Art. 1322 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1323 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1347 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1354 - 30 ELI link Pub nr 1804032150 oud Burgerlijk Wetboek - 21-03-1804 - Art. 1355 - 30 ELI link Pub nr 1804032150"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251201.3N.7",
+  "source_sha256": "328ac4472368e5d46cc7e3b7fd2a1b81dcfe76e1ada20fe09af1d159dfab585d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251201.3N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_26.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
