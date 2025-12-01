@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251201.3N.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251201.3N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-01",
+  "date_as_printed": "Vonnis/arrest van 01 december 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "nl",
+  "role_number": "C.24.0339.N",
+  "case_name_as_published": "P. contra BELFIUS BANK nv",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "APPEL - MATIERE CIVILE (Y COMPRIS LES MATIERES COMMERCIALE ET SOCIALE) - Appel principal. Forme. Délai. Litige indivisible",
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Principaal beroep. Vorm. Termijn. Onsplitsbaar geschil"
+  ],
+  "fiche": [
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Principaal beroep. Vorm. Termijn. Onsplitsbaar geschil",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1051, eerste lid - 04 ELI link Pub nr 1967101055",
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Principaal beroep. Vorm. Termijn. Onsplitsbaar geschil",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1051, eerste lid - 04 ELI link Pub nr 1967101055 Wetboek van economisch recht - 28-02-2013 - Art. XX.173, § 2, vierde lid - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251201.3N.2",
+  "source_sha256": "3f452d1917c0bfbcb680bca8c913aeedcb01dee1b6e3b697e337c08d04e8f525",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251201.3N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
