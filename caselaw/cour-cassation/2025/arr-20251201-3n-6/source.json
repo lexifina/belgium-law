@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251201.3N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251201.3N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-01",
+  "date_as_printed": "Vonnis/arrest van 01 december 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "nl",
+  "role_number": "C.24.0299.N",
+  "case_name_as_published": "BALOISE BELGIUM contra ALLIANZ BENELUX nv",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCE AUTOMOBILE OBLIGATOIRE",
+    "VERZEKERING - W.A.M.-VERZEKERING"
+  ],
+  "fiche": [
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Wet van 1 juli l956 betreffende de verplichte aansprakelijkheidsverzekering motorrijtuigen - 01-07-1956 - Art. 2, § 1, eerste lid - 30 ELI link Pub nr 1956070101",
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Wet van 1 juli l956 betreffende de verplichte aansprakelijkheidsverzekering motorrijtuigen - 01-07-1956 - Art. 2, § 1, eerste lid - 30 ELI link Pub nr 1956070101 CAO 28 september 2016 - 28-09-2016 - Art. 1 CAO 28 september 2016 - 28-09-2016 - Art. 2 CAO 28 september 2016 - 28-09-2016 - Art. 3"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251201.3N.6",
+  "source_sha256": "1f9e59726c5d5f3ed52067107a04a914f666434cc49a3745f2e4f024c8f8d6a5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251201.3N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_23.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
