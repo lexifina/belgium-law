@@ -1,0 +1,30 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20251201.3N.11",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251201.3N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-01",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 01 december 2025",
+  "published_on_juportal": "2026-01-13",
+  "language": "nl",
+  "role_number": "C.24.0032.N",
+  "case_name_as_published": "PAVERLO NV contra VERDEGEM BOUW NV",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "CONVENTION - FORME",
+    "OVEREENKOMST - VORM"
+  ],
+  "fiche": [
+    "OVEREENKOMST - VORM",
+    "Gerechtelijk Wetboek - Zevende deel: Bemiddeling (art. 1723/1 tot 1737) - 10-10-1967 - Art. 1728, §§ 1 en 4, tweede lid - 35 ELI link Pub nr 1967101063 Gerechtelijk Wetboek - Zevende deel: Bemiddeling (art. 1723/1 tot 1737) - 10-10-1967 - Art. 1732, eerste lid - 35 ELI link Pub nr 1967101063"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251201.3N.11",
+  "source_sha256": "3c668688209ac8dafde2ff93c188fdbdd6abfa84263c3cef9c2f2c93fa369f74",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251201.3N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
