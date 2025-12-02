@@ -1,0 +1,48 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.17",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.1079.N",
+  "case_name_as_published": "R.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "SIGNIFICATIONS ET NOTIFICATIONS - GENERALITES",
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN",
+    "OPPOSITION",
+    "VERZET",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 40",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 40"
+  ],
+  "fiche": [
+    "BETEKENINGEN EN KENNISGEVINGEN - ALGEMEEN",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187 - 30 ELI link Pub nr 1808111901",
+    "VERZET",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187 - 30 ELI link Pub nr 1808111901",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187 - 30 ELI link Pub nr 1808111901",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 40",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 40, eerste en vierde lid - 31 ELI link Pub nr 1968031601",
+    "VERZET",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 40, eerste en vierde lid - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 40",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 40, eerste en vierde lid - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.17",
+  "source_sha256": "a8c4b6475ff59143f849a38518f99114ede05e1269e7f6a8fba73f1fdf964059",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
