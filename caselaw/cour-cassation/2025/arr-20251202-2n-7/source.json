@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.7",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.1069.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "OPPOSITION",
+    "VERZET",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "VERZET",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.7",
+  "source_sha256": "e5c1c152ae7c4e2bb657d237d31bbeb1726146786a02528d0d61bef121831388",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
