@@ -1,0 +1,47 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.9",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.0177.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Généralités",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Algemeen",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action publique",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "OPPOSITION",
+    "VERZET",
+    "TRIBUNAUX - MATIERE REPRESSIVE - Action publique",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Appel principal. Forme. Délai",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn"
+  ],
+  "fiche": [
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Algemeen",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 799 - 01 ELI link Pub nr 1967101052",
+    "VONNISSEN EN ARRESTEN - STRAFZAKEN - Strafvordering",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 799 - 01 ELI link Pub nr 1967101052",
+    "VERZET",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 799 - 01 ELI link Pub nr 1967101052",
+    "RECHTBANKEN - STRAFZAKEN - Strafvordering",
+    "Gerechtelijk Wetboek - 10-10-1967 - Art. 799 - 01 ELI link Pub nr 1967101052",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Principaal beroep. Vorm. Termijn"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.9",
+  "source_sha256": "3465bb1e9b20837efac8f4e8ca382c65d9bd6eda7dbad26b0d93880f74023261",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
