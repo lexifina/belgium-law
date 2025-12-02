@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.10",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.0943.N",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 38",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38 - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.10",
+  "source_sha256": "f1d0e3f637d39f05dbd9d75f21c0850b0b4332f55ed41ab2c5826dc34a8f9ad2",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
