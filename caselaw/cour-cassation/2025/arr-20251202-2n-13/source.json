@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.13",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.0776.N",
+  "case_name_as_published": "A. c. DEHAESE e.a., curator faillissement JB VITA",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "INFRACTION - PARTICIPATION",
+    "MISDRIJF - DEELNEMING",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "MISDRIJF - DEELNEMING",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66 - 01 ELI link Pub nr 1867060850",
+    "MISDRIJF - DEELNEMING",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "MISDRIJF - DEELNEMING",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 491, eerste lid - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.13",
+  "source_sha256": "5b70a4f7c493df044bfd03e3dc3e692221e329545982a6eab3decde902b368f0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
