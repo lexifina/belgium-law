@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.0917.N",
+  "case_name_as_published": "Q.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PEINE - GENERALITES. PEINES ET MESURES. LEGALITE",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "PEINE - AUTRES PEINES - Interdiction",
+    "STRAF - ANDERE STRAFFEN - Ontzetting",
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 38",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS SIMPLE",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - GEWOON UITSTEL"
+  ],
+  "fiche": [
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "STRAF - ANDERE STRAFFEN - Ontzetting",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - GEWOON UITSTEL",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.8",
+  "source_sha256": "fa7c5bd82ad755e69c6f470adbdcddc384971c34710a094bdb5c7f9362ccd3d8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
