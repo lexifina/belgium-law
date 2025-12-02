@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251202.2N.6",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251202.2N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-02",
+  "date_as_printed": "Vonnis/arrest van 02 december 2025",
+  "published_on_juportal": "2025-12-08",
+  "language": "nl",
+  "role_number": "P.25.1126.N",
+  "case_name_as_published": "L.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "LANGUES (EMPLOI DES) - MATIERE JUDICIAIRE (LOI DU 15 JUIN 1935) - En appel - Matière répressive",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In hoger beroep - Strafzaken",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "CASSATION - DE LA COMPETENCE DE LA COUR DE CASSATION - Divers",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Allerlei",
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN"
+  ],
+  "fiche": [
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In hoger beroep - Strafzaken",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23, tweede en vierde lid - 01 ELI link Pub nr 1935061501",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23, tweede en vierde lid - 01 ELI link Pub nr 1935061501",
+    "CASSATIE - BEVOEGDHEID VAN HET HOF - Allerlei",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23, tweede en vierde lid - 01 ELI link Pub nr 1935061501",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23, tweede en vierde lid - 01 ELI link Pub nr 1935061501",
+    "TAALGEBRUIK - GERECHTSZAKEN (WET 15 JUNI 1935) - In hoger beroep - Strafzaken",
+    "Wet van 15 juni 1935 op het gebruik der talen in gerechtszaken - 15-06-1935 - Art. 23, vierde lid - 01 ELI link Pub nr 1935061501"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251202.2N.6",
+  "source_sha256": "51dc6cf30fb673955e2a97aea8d89e261f2f580ce03ceb5518578a5ac026aaf9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251202.2N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/13/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
