@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251203.2F.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251203.2F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-03",
+  "date_as_printed": "Jugement/arrêt du 03 décembre 2025",
+  "published_on_juportal": "2025-12-05",
+  "language": "fr",
+  "role_number": "P.25.1211.F",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Défaut d'intérêt. Défaut d'objet",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Strafvordering - Gemis aan belang of bestaansreden",
+    "CASSATION - ETENDUE - Matière répressive - Action publique - Prévenu et inculpé",
+    "CASSATIE - VERNIETIGING. OMVANG - Strafzaken - Strafvordering - Beklaagde en verdachte"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 33, § 1er, al. 2, et 2, al. 2 - 35 Lien ELI No pub 1990099963",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action publique - Défaut d'intérêt. Défaut d'objet",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 33, § 1er, al. 2, et 2, al. 2 - 35 Lien ELI No pub 1990099963",
+    "CASSATION - ETENDUE - Matière répressive - Action publique - Prévenu et inculpé",
+    "L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 33, § 1er, al. 2, et 2, al. 2 - 35 Lien ELI No pub 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251203.2F.2",
+  "source_sha256": "fb384612ca5a61cd3c5cd24f206c45d93c16de8ac10d3416d5b085e39d1bb932",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251203.2F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
