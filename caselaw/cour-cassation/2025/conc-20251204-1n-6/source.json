@@ -1,0 +1,32 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20251204.1N.6",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251204.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-04",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 04 december 2025",
+  "published_on_juportal": "2026-01-16",
+  "language": "nl",
+  "role_number": "C.24.0384.N",
+  "case_name_as_published": "N. contra AXA BELGIUM nv",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCES TERRESTRES",
+    "VERZEKERING - LANDVERZEKERING"
+  ],
+  "fiche": [
+    "VERZEKERING - LANDVERZEKERING",
+    "Wet 4 april 2014 betreffende de verzekeringen, inwerkingtreding 1 november 2014 - 04-04-2014 - Art. 70 - 23 ELI link Pub nr 2014011239",
+    "VERZEKERING - LANDVERZEKERING",
+    "Wet 4 april 2014 betreffende de verzekeringen, inwerkingtreding 1 november 2014 - 04-04-2014 - Art. 70 - 23 ELI link Pub nr 2014011239"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251204.1N.6",
+  "source_sha256": "dcbc4e7c5ebebbae1c023b2f293f88c2fc75a9d97bef33545481c744c73c70e3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251204.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
