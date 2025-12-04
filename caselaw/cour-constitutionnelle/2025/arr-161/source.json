@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.161",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.161",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-04",
+  "date_as_printed": "Jugement/arrêt du 04 décembre 2025",
+  "published_on_juportal": "2025-12-15",
+  "language": "fr",
+  "role_number": "161/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 18 de la loi du 28 mars 2024 « portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis » (article 569 du Code d'instruction criminelle), introduit par l'« Orde van Vlaamse balies ». Droit judiciaire - Modernisation et numérisation de la justice - Registre central des dossiers pénaux (RCDP) - Accès aux dossiers pénaux authentiques - Gestion du Registre",
+    "het beroep tot vernietiging van artikel 18 van de wet van 28 maart 2024 « houdende bepalingen inzake digitalisering van justitie en diverse bepalingen Ibis » (artikel 569 van het Wetboek van strafvordering), ingesteld door de Orde van Vlaamse balies. Gerechtelijk recht - Modernisering en digitalisering van justitie - Centraal register van Strafdossiers (CRS) - Toegang tot de authentieke strafdossiers - Beheer van het register"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 18 de la loi du 28 mars 2024 « portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis » (article 569 du Code d'instruction criminelle), introduit par l'« Orde van Vlaamse balies ». Droit judiciaire - Modernisation et numérisation de la justice - Registre central des dossiers pénaux (RCDP) - Accès aux dossiers pénaux authentiques - Gestion du Registre"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.161&lang=fr",
+  "source_sha256": "5b94979fc7fa8ed1fdb86de017c515de854b93f3aea35c312c3ca0d4e2fbfc34",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.161_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_61.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
