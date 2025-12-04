@@ -1,0 +1,11 @@
+{
+  "title": "Arrest C.25.0149.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-12-04",
+  "date_as_printed": "4 DECEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.25.0149.N.pdf",
+  "source_sha256": "5ce05c432a135d08f27a69afd907e9fbe5d85d4dbbb4b99f2fb12a0126933772",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
