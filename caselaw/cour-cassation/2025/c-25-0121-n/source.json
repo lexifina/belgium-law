@@ -1,0 +1,11 @@
+{
+  "title": "Arrest C.25.0121.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-12-04",
+  "date_as_printed": "4 DECEMBER 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.25.0121.N.pdf",
+  "source_sha256": "3d00a1d4341b4561b908576a0dd94f69c7a2f888e3ba0f0bf395daaccfc13a9e",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
