@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent décret règle, en application de l'article 138 de la Constitution, une matière visée à l'article 128 de celle-ci.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Assentiment est donné à l'accord de coopération du 3 octobre 2025 modifiant l'accord de coopération du 31 décembre 2018 entre la Communauté flamande, la Région wallonne, la Communauté française, la Commission communautaire commune, la Commission communautaire française et la Communauté germanophone concernant le financement des soins en cas de recours à des institutions de soins en dehors des limites de l'entité fédérée.
