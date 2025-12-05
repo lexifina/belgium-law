@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251205.1F.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251205.1F.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-05",
+  "date_as_printed": "Jugement/arrêt du 05 décembre 2025",
+  "published_on_juportal": "2025-12-29",
+  "language": "fr",
+  "role_number": "C.25.0392.F",
+  "case_name_as_published": "E.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "RECUSATION",
+    "WRAKING"
+  ],
+  "fiche": [
+    "RECUSATION",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 828, 1° - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251205.1F.8",
+  "source_sha256": "812fd487bea48134b517cd43674ebc541fc0402b1c611024cce64263949fea75",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251205.1F.8_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_30.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
