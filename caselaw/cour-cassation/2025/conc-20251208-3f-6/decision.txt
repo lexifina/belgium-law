@@ -1,0 +1,117 @@
+S.20.0070.F
+Conclusions de M. l’avocat général MORMONT :
+Le contexte du litige.
+1.
+Le litige a trait à l’indemnisation par la demanderesse des conséquences de deux accidents du travail subis par le défendeur les 19 octobre 2012 et 6 septembre 2013.
+Ces deux accidents ont chacun donné lieu à une décision de la demanderesse, ces décisions ayant été toutes deux adoptées le 12 mai 2014. Par chacune de ces décisions, la demanderesse a notifié au demandeur sa guérison sans séquelles, c’est-à-dire sans incapacité permanente de travail, après une période d’incapacité temporaire de travail.
+Il est acquis que ces décisions ne comportaient pas la mention du tribunal du travail compétent pour connaître du recours à leur encontre, ni le contenu des dispositions de l’article 728 du Code judiciaire, ni la possibilité d’obtenir des information auprès d’un service désigné, ni enfin les modes possibles d’interruption de la prescription.
+Le défendeur a contesté ces décisions par des requêtes des 21 novembre 2017 (pour le second accident) et 11 décembre 2017 (pour le premier accident).
+2.
+Le tribunal du travail puis la cour du travail ont dit les demandes du défendeur recevables et désigné un expert médecin en vue d’évaluer les conséquences des deux accidents.
+Le moyen.
+3.
+Le moyen est dirigé contre la décision de l’arrêt de, confirmant le jugement entrepris, dire les demandes originaires du défendeur recevables.
+4.
+En une première branche, le moyen fait valoir à titre principal que la loi du 10 avril 1971 ne prévoit plus, depuis le 6 février 2014, de délai de recours contre les décisions notifiant une guérison sans incapacité permanente. Le seul délai pour agir imposé à la victime serait un délai de prescription, d’une durée de trois ans à compter de cette notification en vertu de l’article 69, alinéa 2, de la loi.
+Appliquant à un délai de prescription les exigences et la sanction prévues par l’article 14 de la loi du 11 avril 1995 alors que cette disposition ne concerne que les délais de recours, l’arrêt serait ainsi illégal.
+5.
+Toujours en sa première branche, mais à titre subsidiaire, le moyen soutient que le délai de prescription de trois années établi par la loi du 10 avril 1971 court, en principe, à compter de la naissance du droit à l’indemnisation, soit au moment de l’accident. Il n’est dérogé à cette règle pour fixer le point de départ à la notification de la décision de guérison sans séquelles que lorsque l’action porte sur des indemnités d’incapacité temporaire de travail.
+Se référant au point de départ applicable à l’action en paiement d’indemnités d’incapacité temporaire alors que la demande originaire portait sur l’indemnisation d’une incapacité permanente de travail, l’arrêt serait également illégal.
+6.
+En une seconde branche, le moyen rappelle que l’article 14 de la loi du 11 avril 1995 impose un certain nombre de mentions dans certaines décisions des institutions de sécurité sociale et prévoit qu’en leur absence, le délai de recours ne commence pas à courir. L’alinéa 3 de cet article autorise toutefois le Roi à déterminer les prestations de sécurité sociale pour lesquelles ces mentions obligatoires ne sont pas requises.
+Le moyen soutient que dans ce cas, la sanction prévue en l’absence des mentions précitées — soit l’absence de prise de cours du délai de recours — ne s’applique alors pas.
+Il relève que dans la matière des accidents du travail, l’arrêté royal du 24 novembre 1997 a établi un régime spécifique pour les décisions prises par les entreprises d’assurance. La méconnaissance des exigences de ce régime n’est toutefois pas assortie d’une sanction comparable à celle de l’article 14 de la loi du 11 avril 1995.
+Constatant que certaines mentions prescrites par l’arrêté royal du 24 novembre 1997 sont absentes et en déduisant l’absence de prise de cours du délai de recours alors que cet arrêté royal ne prévoit pas cette sanction et que l’article 14 de la loi du 11 avril 1995 n’est pas applicable à cette hypothèse, l’arrêt ne serait pas légalement justifié.
+Appréciation.
+7.
+L’article 24, alinéa 1er, de la loi du 10 avril 1971 sur les accidents du travail envisage le cas dans lequel l’entreprise d’assurances estime que la victime est guérie « sans séquelles », c’est-à-dire que son incapacité temporaire de travail prend fin sans incapacité permanente de travail.
+Dans ce cas, l’entreprises d’assurances lui notifie sa décision en ce sens.
+8.
+L’article 69, alinéa 6, de la loi régit la prescription applicable à la victime qui entend agir en justice suite à une telle décision: dans les cas visés à l'article 24, alinéa 1er, l'action en paiement des indemnités se prescrit par trois ans à dater de la notification de la décision de déclaration de guérison.
+9.
+Cet alinéa a été inséré dans la loi du 10 avril 1971 par l’article 12 de la loi du 21 décembre 2013 portant des dispositions diverses urgentes en matière de législation sociale.
+Cette modification a fait suite à une controverse quant à la nature du délai dans lequel était tenu d’agir la victime d’un accident à laquelle l’assureur-loi notifiait une décision de guérison sans séquelles(1).
+C’est en effet la loi du 1er août 1985 portant des dispositions sociales qui avait introduit cette notion. Elle avait envisagé, à l’article 72 de la loi du 10 avril 1971, une double possibilité de recours. D’une part, le recours en révision dans l’hypothèse d’apparition de séquelles postérieurement à la décision mettant fin à l’incapacité temporaire (cette possibilité avait été ajoutée à l’alinéa 1er de l’article 72 qui vise le recours en révision de manière générale). D’autre part, un nouveau recours spécifique contre la décision de mettre fin à l’incapacité temporaire sans reconnaître d’incapacité permanente: l’alinéa 2 fixait à la victime un délai de trois ans à compter de la notification de la décision.
+La Cour avait considéré que ce second délai, comme le délai de révision ordinaire du reste, n’était « pas un délai de prescription mais un délai préfix, d’ordre public, dont l’expiration entraîne la forclusion du droit lui-même et qui ne peut être ni interrompu ni suspendu »(2), de sorte que les règles relatives à la prescription des articles 69 et 70 de la loi ne lui était pas applicables.
+La Cour constitutionnelle avait quant à elle jugé ensuite, en comparant les régimes en vigueur dans les secteurs public et privé que « l’article 72, alinéa 2, de la loi du 10 avril 1971 sur les accidents du travail viole les articles 10 et 11 de la Constitution en ce que le délai de trois ans dont dispose la victime d’un accident du travail pour contester la décision de guérison sans incapacité permanente de travail est un délai préfix »(3).
+C’est suite à cet arrêt qu’a été adopté l’article 12 de la loi du 21 décembre 2013 insérant l’alinéa 6 de l’article 69 de la loi du 10 avril 1971. L’article 13 de la même loi du 21 décembre 2013 abrogeait quant à lui l’alinéa 2 de l’article 72.
+Il ne fait plus de doute depuis lors que le délai de trois ans à compter de la décision de guérison sans séquelles et dont dispose la victime pour la contester, hors l’hypothèse spécifique de la révision(4), est un délai de prescription.
+10.
+Le moyen pose les questions de savoir (seconde branche) si la décision de notification de fin d’incapacité temporaire sans incapacité permanente relève, du point de vue des exigences formelles auxquelles elle est soumise et de la sanction attachée à leur méconnaissance, de l’article 14 de la loi du 11 avril 1995 ou de l’arrêté royal du 24 novembre 1997, puis de savoir (première branche) si le délai de prescription de l’article 69, alinéa 6, est un délai de recours au sens de cet article 14 et dont ce texte peut prévoir qu’il n’a pas commencé à courir et, le cas échéant (grief subsidiaire de la première branche) dans quel cas.
+On examinera ces deux questions dans cet ordre.
+La seconde branche.
+11.
+L’article 14 de la loi du 11 avril 1995 visant à instituer « la charte » de l’assuré social énonce les mentions que doivent obligatoirement contenir les décisions d’octroi ou de refus des prestations sociales émanant des institutions de sécurité sociale et qui ont pour but de produire des effets juridiques à l'égard d'un ou de plusieurs assurés sociaux.
+Ces mentions sont, selon l’alinéa 1er de cette dispositions, les suivantes :
+1° la possibilité d'intenter un recours devant la juridiction compétente ;
+2° l'adresse des juridictions compétentes ;
+3° le délai et les modalités pour intenter un recours ;
+4° le contenu des articles 728 et 1017 du Code judiciaire;;
+5° les références du dossier et du service qui gère celui-ci ;
+6° la possibilité d'obtenir toute explication sur la décision auprès du service qui gère le dossier ou d'un service d'information désigné.
+L’alinéa 2 de l’article 14 précise que, si la décision ne contient pas les mentions prévues à l'alinéa 1er, le délai de recours ne commence pas à courir.
+Enfin, selon l’alinéa 3, le Roi peut prévoir que l'alinéa premier ne s'applique pas aux prestations qu'Il détermine.
+12.
+Le 24 novembre 1997, le Roi a adopté une série d’arrêtés mettant en œuvre la loi du 11 avril 1995 dans divers secteurs de la sécurité sociale.
+Parmi ceux-ci, l’arrêté royal du 24 novembre 1997 portant exécution, en ce qui concerne l'assurance « accidents du travail » dans le secteur privé, de certaines dispositions de la loi du 11 avril 1995 visant à instituer « la charte » de l'assuré social.
+Son article 4 dispose que, par dérogation à l'article 14, alinéa 1er, de la charte, les décisions mentionnent :
+1. la faculté de contester la décision devant le tribunal du travail au moyen soit d'un exploit d'assignation signifié à l'entreprise d'assurances ou à Fedris par un huissier de justice, soit d'un procès-verbal de comparution volontaire ;
+2. l'adresse du tribunal du travail compétent ;
+3. le contenu des dispositions de l'article 728 du Code judiciaire et de l'article 68 de la loi du 10 avril 1971 sur les accidents du travail ;
+4. les références du dossier et du service qui le gère ;
+5. la possibilité d'obtenir des éclaircissements sur la décision auprès du service qui gère le dossier ou auprès d'un service d'information désigné ;
+6. le délai de prescription dans lequel l'assuré social peut exiger ses droits aux prestations, ainsi que les modes possibles d'interruption de la prescription.
+13.
+Il est évidemment tentant de considérer, comme les premiers mots de cet article 4 y invitent, qu’il constitue une véritable dérogation à l’article 14 de la loi du 11 avril 1995.
+A la lecture de ces deux dispositions, on aperçoit toutefois que l’article 4 de l’arrêté royal constitue bien davantage une reformulation de l’article 14, alinéa 1er, de la loi du 11 avril 1995 qu’une dérogation à celui-ci sur la base de ce que permet son alinéa 3.
+On peut relever en effet que la teneur de cet article 4 n’en fait pas une disposition excluant certaines prestations ou certaines décisions du champ d’application de l’article 14 de la loi comme l’alinéa 3 de ce texte l’envisage. Le contraste est à cet égard marquant avec l’article 2 du même arrêté royal selon lequel les notifications et mentions visées aux articles 7, alinéa 1er, et 14, alinéa 1er, de la charte ne sont pas exigées dans les cas que ce texte énumère — et qui sont étrangers à l’espèce.
+On peut noter encore que le Conseil d’État avait mis en évidence, dans son avis global sur les projets d’arrêtés royaux mettant en œuvre la loi du 11 avril 1995 dans les divers secteurs de la sécurité sociale, leurs imprécisions terminologiques et le fait qu’un certain nombre de leurs dispositions paraissaient procéder davantage de la compétence générale d’exécution du Roi que de la mise en œuvre des habilitations prévues par la loi du 11 avril 1995(5).
+14.
+Dans ces conditions, j’incline à considérer que l’article 4 de l’arrêté royal du 24 novembre 1997 ne déroge pas à l’article 14 de la loi du 11 avril 1995. Aucune autre disposition ne procède par ailleurs à une dérogation à cette disposition qui concernerait les décisions de guérison sans séquelles notifiées par les entreprises d’assurances aux victimes dans le cadre de la loi du 10 avril 1971 sur les accidents du travail.
+15.
+S’agissant ainsi d’une stricte reformulation de l’article 14, alinéa 1er, de la loi du 11 avril 1995, il doit être considéré que la décision d’une entreprise d’assurance qui notifie à une victime d’accident du travail une fin d’incapacité temporaire sans incapacité permanente et qui ne comporte pas toutes pas les mentions prescrites par l’article 4 de l’arrêté royal du 24 novembre 1997 doit se voir appliquer la même sanction de l’alinéa 3 de l’article 14, à savoir l’absence de prise de cours du délai de recours.
+Cette lecture des textes combinés de la sorte me paraît en outre imposée par la vocation de la loi du 11 avril 1995, qui est de constituer un texte « transversal » — auquel, en vertu d’une jurisprudence constante rendue notamment en matière de délais de recours, il ne peut être dérogé de manière sectorielle sans violer les règles de l’égalité et de la non-discrimination qu’en présence d’une justification spécifique pertinente(6) — et par le principe d’interprétation conforme(7) — qui impose, entre deux interprétations possibles d’un texte de niveau inférieur, de retenir celle qui est conforme aux règles d’un niveau hiérarchique supérieur, ici les articles 10 et 11 de la Constitution.
+16.
+Le moyen qui, en cette branche, repose sur le postulat inverse, manque en droit.
+La première branche.
+17.
+S’agissant de la question de savoir si la sanction de l’article 14, alinéa 2, de la loi du 11 avril 1995, c’est-à-dire l’absence de prise de cours du délai de recours, s’applique aux délais de prescription et en particulier à celui qui est en cause, on peut relever ce qui suit.
+18.
+Il est exact que la Cour a jugé que tel n’était pas le cas en ce qui concerne le délai de prescription de l’article 69, alinéa 1er, de la loi du 10 avril 1971.
+C’est ce que la Cour a considéré par son arrêt du 16 mars 2015, précisant que le délai de l’article 69, alinéa 1er, de la loi du 10 avril 1971 prend cours au moment où naît pour la victime le droit à la réparation et que la naissance de ce droit ne dépend pas de la décision de l'entreprise d'assurances reconnaissant ou déniant à l'accident le caractère d'un accident du travail ou accordant ou refusant à la victime une indemnité à laquelle elle prétend(8).
+Cette solution se comprend: dès lors que ce délai prend cours en raison d’un événement indépendant d’une décision de l’institution de sécurité sociale(9), c’est-à-dire même avant cette décision voire en l’absence de toute décision, on conçoit que la méconnaissance des formes et mentions prescrites pour cette décision reste sans effet quant à cette prise de cours ou à l’écoulement du délai en cause.
+19.
+Il doit en aller différemment lorsque l’événement qui donne naissance au délai est une décision administrative.
+Dans ce cas en effet, la sanction prévue par l’article 14, alinéa 2, de la loi du 11 avril 1995 retrouve évidemment sa pertinence.
+20.
+Par ailleurs, l’article 14 de la loi du 11 avril 1995 renvoie nécessairement à l’article 23 de la même loi selon lequel, sans préjudice des délais plus favorables résultant des législations spécifiques, les recours contre les décisions prises par les institutions de sécurité sociale compétentes en matière d'octroi, de paiement ou de récupération de prestations, doivent, à peine de déchéance, être introduits dans les trois mois de leur notification ou de la prise de connaissance de la décision par l'assuré social en cas d'absence de notification.
+Les travaux préparatoires de la loi exposent à cet égard que par les délais plus favorables, il fallait avoir égard non seulement à d’éventuels délais de recours préfix mais encore aux délais de prescription, le cas échéant(10).
+Cour de cassation et Cour constitutionnelle jugent toutes deux que les délais de prescription éventuellement applicables dans la branche de la sécurité sociale concernée sont des délais de recours au sens des articles 23 et 14 de la loi du 11 avril 1995.
+Ainsi, par un arrêt du 6 septembre 2010(11) la Cour a estimé qu’« il ressort des travaux parlementaires que, par les termes ‘délais plus favorables résultant des législations spécifiques’ […], il y a lieu d’entendre également les délais de prescription prévus par ces législations spécifiques, dans lesquels les actions en octroi, paiement ou récupération doivent être introduites lorsque ces législations ne prévoient pas de délai de recours ».
+La Cour constitutionnelle a quant à elle jugé que « conformément à l’intention du législateur, exprimée dans les travaux préparatoires de la loi du 25 juin 1997, et dans une interprétation cohérente de la Charte de l’assuré social dans son ensemble, la modification législative précitée a également pour effet que la notion de délai de recours visée par l’article 14, alinéa 1er, 3°, de la Charte de l’assuré social doit être interprétée de la même manière et vise donc également les délais de prescription. Pareille interprétation est également cohérente par rapport à l’objectif que le législateur a poursuivi par l’article 14, alinéa 1er, 3°, en ce qu’il a voulu garantir que l’assuré social soit informé de toutes les voies de recours qu’il peut exercer contre une décision qui lui serait défavorable »(12).
+La doctrine abonde dans le même sens, à tout le moins dans l’hypothèse où seul existe un délai de prescription(13).
+21.
+Enfin, en réponse au grief subsidiaire de la première branche du moyen, il m’apparaît que la règle posée par l’article 69, alinéa 2, de la loi du 10 avril 1971, selon laquelle l'action en paiement des indemnités se prescrit par trois ans à dater de la notification de la décision de déclaration de guérison, vise tant l’action qui porte sur des indemnités d’incapacité temporaire (dans l’hypothèse où la victime conteste la consolidation et soutient que l’incapacité temporaire n'a pas pris fin) que celle où seraient réclamées des indemnités d’incapacité permanente (dans le cas où la victime considère qu’une incapacité permanente fait suite à la consolidation).
+Les termes de l’article 69, alinéa 2, n’établissent en effet aucune distinction entre ces deux hypothèses, pas plus que l’exposé des motifs de la loi du 21 décembre 2013(14). Doctrine(15) et jurisprudence(16) en la matière n’indiquent pas non plus pourquoi une telle distinction devrait être envisagée.
+22.
+Il résulte de tout ce qui précède que l’action en paiement des indemnités d’incapacité permanente de travail prévue par l’article 69, dernier alinéa, de la loi du 10 avril 1971 se prescrit par trois ans à compter de la notification de la décision de guérison, ce délai étant un délai de recours au sens de l’article 14, alinéa 2, de la loi du 11 avril 1995.
+Le moyen qui, en cette branche, repose sur des prémisses différentes, manque en droit.
+Conclusion :
+Rejet.
+_______________________________________________________________________
+(1) Sur cette évolution, voy. M. JOURDAN, S. REMOUCHAMPS et C. LORGEOUX, Accidents du travail : procédure (contentieuse et non contentieuse) et règles de prescription, Liège, Kluwer 2023, p. 293.
+(2) Cass. 13 mai 2002, RG S.01.0145.F ECLI:BE:CASS:2002:ARR.20020513.6, Pas. 2002, n° 291.
+(3) C. const., 18 juin 2009, n° 102/2009.
+(4) Qui n’est pas à proprement parler une contestation de la décision de guérison sans séquelles, mais une nouvelle demande fondée sur des éléments obligatoirement apparus ensuite.
+(5) Avis n° 26.835 du 12 août 1997, p. 18.
+(6) C. const. 4 mars 2008, n° 35/2008 ; C. const., 19 mars 2008, n° 57/2008 ; C. const., 20 janvier 2010, n° 1/2010 ; C. const., 24 mai 2012, n° 66/2012 ; C. const., 20 septembre 2012, n° 113/2012 ; C. const., 30 octobre 2012, n° 132/2012 ; C. const., 7 mars 2013, n° 34/2013.Voy. également C. HUGON LECHARLIER, « La place de la Charte de l’assuré social dans l’ordre juridique belge », in F. LAMBINET (coord.), Les 30 ans de la Charte de l’assuré social, Limal, Anthemis 2025, p. 13 ; J.F. NEVEN, « Les principes de bonne administration, la Charte de l’assuré social et la réglementation du chômage » in J.F. NEVEN et S. GILSON (coord.), La réglementation du chômage : vingt ans d’application de l’arrêté royal du 25 novembre 1991, Waterloo, Kluwer 2011, p. 597.
+(7) Voy. Cass. 20 avril 1950, Pas. 1950, I, p. 560 avec les concl. de M. CORNIL, procureur général. Ce dernier s’exprime comme suit : « Interpréter la loi de pouvoirs spéciaux comme ayant permis au Roi de prendre une mesure inconstitutionnelle serait commettre envers le législateur l’injure de présumer qu’il a été infidèle à son serment d’observer la Constitution ». L’arrêt énonce quant à lui « Attendu que, bien que les termes de cette loi soient généraux et répugnent à une interprétation restrictive, il est certain que ses auteurs n’ont pas entendu donner au gouvernement pouvoir de prendre des dispositions qui violeraient la Constitution ». Ces formules peuvent être transposées à toutes les situations d’interprétation de normes de niveau inférieur dont la compatibilité à une règle de niveau hiérarchique supérieur est envisagée.
+(8) Cass. 16 mars 2015, RG S.12.0102.F ECLI:BE:CASS:2015:ARR.20150316.2, Pas. 2015, n° 198, avec les concl. de M. GENICOT, avocat général. Voy. aussi, dans le secteur public ; Cass. 10 mai 2010, RG S.08.0140.F ECLI:BE:CASS:2010:ARR.20100510.3, Pas. 2010, n° 325, avec les concl. de M. LECLERCQ, procureur général.
+(9) Il est parfaitement envisageable qu’un recours soit formé alors que l’assureur-loi n’a pris aucune décision sur l’accident en cause et es conséquences, voire alors que l’accident ne lui a même pas été déclaré.
+(10) Doc. parl., Ch., s.o. 1996-1997, n° 907/1, p. 19.
+(11).Cass. 6 septembre 2010, RG S.10.0004.N ECLI:BE:CASS:2010:ARR.20100906.3, Pas. 2010, n° 499.
+(12) C. const. 18 novembre 2021, n° 163/2021. La Cour a ainsi rejeté comme n’appelant pas de réponse la question préjudicielle reposant sur la prémisse inverse.
+(13) Voy. R. DETHY et G. PIJCKE, « Motivation, mentions obligatoires et notification de la décision » in F. LAMBINET (coord.), Les 30 ans de la Charte de l’assuré social, Limal, Anthemis 2025, p. 237 ; F.X. GAUDISSART et P. KNAEPEN, « Les délais de recours et de prescription » » in F. LAMBINET (coord.), Les 30 ans de la Charte de l’assuré social, Limal, Anthemis 2025, p. 446.
+(14) Doc. Parl., Ch., sess. 2012-2013, n° 53/3007, p. 12.
+(15) Voy. e.a. M.A. MASSCHELEIN, Arbeidsongevallen in de private sector, Mechelen, Kluwer 2023, coll. APR, n° 1159, 1176 et 1177 ; J. LORRE, « Kennisgeving van de beslissing tot genezenverklaring na arbeidsongeval: diagnose en remedie », TSR 2009, p. 97.
+(16) Voy. Par ex. C. const. 18 juin 2009, n°.102/2009, B.2.2.
