@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Les biens immobiliers repris au fichier numérique dénommé " 15531_vaststelling_nietmeervastgesteld " sont radiés de l'inventaire du patrimoine architectural établi, visé à l'article 4.1.1, 3°, du Décret relatif au Patrimoine immobilier du 12 juillet 2013.
