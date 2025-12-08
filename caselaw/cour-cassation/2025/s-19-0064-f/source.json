@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.19.0064.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-12-08",
+  "date_as_printed": "8 DÉCEMBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.19.0064.F.pdf",
+  "source_sha256": "fe92d4f46f4e10e8ed0a766ac4ccbec7dc2fbb5e945da59b0cf7fe419d36fa7c",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
