@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251208.3F.2",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251208.3F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-08",
+  "date_as_printed": "Jugement/arrêt du 08 décembre 2025",
+  "published_on_juportal": "2025-12-15",
+  "language": "fr",
+  "role_number": "S.20.0037.F",
+  "case_name_as_published": "OFFICE NATIONAL DE L’EMPLOI contra E.",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SECURITE SOCIALE - GENERALITES",
+    "SOCIALE ZEKERHEID - ALGEMEEN",
+    "CHOMAGE - DIVERS",
+    "WERKLOOSHEID - ALLERLEI",
+    "CHOMAGE - DROIT AUX ALLOCATIONS DE CHOMAGE",
+    "WERKLOOSHEID - RECHT OP UITKERING"
+  ],
+  "fiche": [
+    "SECURITE SOCIALE - GENERALITES",
+    "L. du 11 avril 1995 visant à instituer 'la charte' de l'assuré social - 11-04-1995 - Art. 15 - 44 Lien ELI No pub 1995022286 L. du 11 avril 1995 visant à instituer 'la charte' de l'assuré social - 11-04-1995 - Art. 23 - 44 Lien ELI No pub 1995022286 Arrêté-loi du 28 décembre 1944concernant la sécurité sociale des travailleurs - 28-12-1944 - Art. 7, § 11 - 01 Lien ELI No pub 1944122850",
+    "CHOMAGE - DIVERS",
+    "L. du 11 avril 1995 visant à instituer 'la charte' de l'assuré social - 11-04-1995 - Art. 15 - 44 Lien ELI No pub 1995022286 L. du 11 avril 1995 visant à instituer 'la charte' de l'assuré social - 11-04-1995 - Art. 23 - 44 Lien ELI No pub 1995022286 Arrêté-loi du 28 décembre 1944concernant la sécurité sociale des travailleurs - 28-12-1944 - Art. 7, § 11 - 01 Lien ELI No pub 1944122850",
+    "CHOMAGE - DROIT AUX ALLOCATIONS DE CHOMAGE",
+    "A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 60 - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 61, § 1er, 2 et 3 - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 62, § 1er, al. 1er - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 71, 3° - 50 Lien ELI No pub 1991013192 A.R. du 25 novembre 1991 portant réglementation du chômage - 25-11-1991 - Art. 141 - 50 Lien ELI No pub 1991013192"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251208.3F.2",
+  "source_sha256": "a57364702377a2c4805c85a42a8c482ed76b8fc196f055b40c05ae309c60bdb9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251208.3F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
