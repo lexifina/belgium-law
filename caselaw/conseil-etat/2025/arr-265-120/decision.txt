@@ -1,0 +1,65 @@
+ecli_input     ECLI:BE:RVSCE:2025:ARR.XXX ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old  RVSCE ecli_annee     2025 ecli_ordre     ARR.XXX ecli_typedec   ARR ecli_datedec ecli_chambre ecli_nosuite   XXX Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2025:ARR.XXX invalide Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT DE LA XIIIe CHAMBRE
+no 265.120 du 9 décembre 2025
+A. 241.013/XIII-10.238
+En cause : M. D., ayant élu domicile en Belgique,
+contre :
+la commune d’Incourt, représentée par son collège communal, ayant élu domicile chez Me Julien BOUILLARD, avocat, rue Jean-Baptiste Brabant 56
+5000 Namur,
+Partie intervenante :
+F.G., ayant élu domicile chez Me Emmanuel CARLIER, avocat, rue Lambert Fortune 65
+1300 Wavre.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+1. Par une requête introduite le 20 décembre 2023 par la voie électronique, la partie requérante demande l’annulation de la décision du 10 novembre 2023 par laquelle le collège communal de la commune d’Incourt octroie à F.G. un permis d’urbanisme ayant pour objet la régularisation de la construction d’une piscine modifiant sensiblement le relief du sol et d’une terrasse, sur un bien sis rue des Vallées, 1B à Glimes.
+II. Procédure
+2. Par une requête introduite le 10 mai 2024 par la voie électronique, F.G.
+a demandé à être reçu en qualité de partie intervenante.
+ECLI:BE:RVSCE:2025:ARR.XXX XIII - 10.238 - 1/4
+L’arrêt n° 259.785 du 17 mai 2024 a réputé non accomplie la requête en annulation dans le chef de la seconde partie requérante et réservé les dépens (ECLI:BE:RVSCE:2024:ARR.259.785). Il a été notifié aux parties.
+Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+Mme Virginie Rolin, auditeur au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Les parties requérante et adverse ont déposé un dernier mémoire.
+Par un courrier du 22 octobre 2025, la partie requérante a informé le Conseil du retrait de l’acte attaqué.
+Par une ordonnance du 6 novembre 2025, l’affaire a été fixée à l’audience du 4 décembre 2025 et les parties ont été informées que l’affaire serait traitée par une chambre composée d’un membre.
+M. Lionel Renders, conseiller d’État, président f.f., a exposé son rapport.
+La partie requérante, et Me Charline Mahia, loco Me Julien Bouillard, avocat, comparaissant pour la partie adverse, ont été entendues en leurs observations.
+Mme Virginie Rolin, auditeur, a été entendue en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Intervention
+3. La requête en intervention introduite par F.G., bénéficiaire de l’acte attaqué, est accueillie.
+ECLI:BE:RVSCE:2025:ARR.XXX XIII - 10.238 - 2/4
+IV. Perte d’objet
+4. Par un courrier du 22 octobre 2025, la partie requérante a informé le Conseil d’Etat du retrait de l’acte attaqué et de la délivrance d’un nouveau permis d’urbanisme par une décision du 17 octobre 2025.
+Si, par une requête introduite le 28 octobre 2025 par la voie électronique, la partie requérante demande l’annulation de la décision du 17 octobre 2025 précitée, elle n’a toutefois pas intérêt à attaquer cette décision en tant qu’elle procède au retrait de la décision du 10 novembre 2023, dans la mesure où celui-ci ne lui cause pas grief.
+Dès lors, le retrait de l’acte attaqué est définitif et le recours a perdu son objet.
+V. Dépens, frais d’huissier et frais d’expertise
+5. La partie requérante sollicite que la partie adverse supporte les « frais dans le cadre d’ouverture de ce dossier (224 €), frais d’huissier (292 €) et frais d’expertise (254,10 €) »
+6. L’article 66 du règlement général de procédure dispose comme suit :
+« Les dépens comprennent :
+1° les droits visés à l’article 70 ;
+2° les honoraires et déboursés des experts ;
+3° les taxes des témoins ;
+4° les frais de séjour et de déplacement occasionnés par des mesures d’instruction ;
+5° l’indemnité de procédure visée à l’article 67 ;
+6° la contribution visée à l’article 4, § 4, de la loi du 19 mars 2017 instituant un fonds budgétaire relatif à l’aide juridique de deuxième ligne ».
+Le retrait de l’acte attaqué justifie que les dépens, au sens de l’article 66, 1° et 6°, du règlement général de procédure, soient mis à la charge de la partie adverse.
+En revanche, les frais d’huissier et d’expertise avancés par la partie requérante ne relèvent pas de l’article 66 du règlement général de procédure, ni d’aucune autre disposition des lois coordonnées sur le Conseil d’Etat ou du règlement général de procédure. Il s’ensuit qu’ils ne peuvent être mis à la charge de la partie adverse.
+ECLI:BE:RVSCE:2025:ARR.XXX XIII - 10.238 - 3/4
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er .
+La requête en intervention introduite par F.G. est accueillie.
+Article 2.
+Il n’y a plus lieu de statuer.
+Article 3.
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 24 euros, est mise à la charge de la partie adverse.
+Les autres dépens, liquidés à la somme de 350 euros, sont mis à la charge de la partie adverse, à concurrence de 200 euros, et à la charge de la partie intervenante, à concurrence de 150 euros.
+Ainsi prononcé à Bruxelles le 9 décembre 2025, par la XIIIe chambre du Conseil d’État, composée de :
+Lionel Renders, conseiller d’État, président f.f., Simon Pochet, greffier.
+Le Greffier, Le Président,
+Simon Pochet Lionel Renders
+ECLI:BE:RVSCE:2025:ARR.XXX XIII - 10.238 - 4/4
