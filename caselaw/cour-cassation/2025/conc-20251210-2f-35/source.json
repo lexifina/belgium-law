@@ -1,0 +1,36 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2025:CONC.20251210.2F.35",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251210.2F.35",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-10",
+  "date_as_printed": "Conclusions du Ministère public du 10 décembre 2025",
+  "published_on_juportal": "2026-01-30",
+  "language": "fr",
+  "role_number": "P.25.0878.F",
+  "case_name_as_published": "L. contra K.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Procédure en matière sociale",
+    "VONNISSEN EN ARRESTEN - BURGERLIJKE ZAKEN - Sociaal procesrecht"
+  ],
+  "fiche": [
+    "JUGEMENTS ET ARRETS - MATIERE CIVILE - Généralités",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 806 - 04 Lien ELI No pub 1967101055",
+    "ACTION CIVILE",
+    "Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 806 - 04 Lien ELI No pub 1967101055",
+    "JUGEMENTS ET ARRETS - MATIERE REPRESSIVE - Action civile",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 4 - 01 Lien ELI No pub 1878041750 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 806 - 04 Lien ELI No pub 1967101055",
+    "ACTION CIVILE",
+    "L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 4 - 01 Lien ELI No pub 1878041750 Code judiciaire - Quatrième partie: DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies) - 10-10-1967 - Art. 806 - 04 Lien ELI No pub 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251210.2F.35",
+  "source_sha256": "4b01aacdd22c3d17b079a1706cbac0118809f9eba6721697374bf821c8272693",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251210.2F.35_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/30/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
