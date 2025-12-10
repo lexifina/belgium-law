@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2025:ARR.265.140",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.140",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-10",
+  "date_as_printed": "Vonnis/arrest van 10 december 2025",
+  "published_on_juportal": "2025-12-12",
+  "language": "nl",
+  "role_number": "A. 243014/VII-42663",
+  "case_name_as_published": "Arrest 265140 - Arbeids- en beroepskaarten - 10/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.140",
+  "source_sha256": "f837b45b8c526bfbf08a7a00f22a43875c3c945a81f2ab94f8ba406d6d6e3917",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.140_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
