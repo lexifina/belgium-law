@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.159",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.159",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Jugement/arrêt du 11 décembre 2025",
+  "published_on_juportal": "2025-12-16",
+  "language": "fr",
+  "role_number": "A. 235960/XV-5011",
+  "case_name_as_published": "Arrêt 265159 - Permis d’urbanisme et permis mixtes - 11/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.159",
+  "source_sha256": "db5bb3e86aea820a5dcb7c4d6a57708bd277aefd306478e9ba0c54f3517ff1ef",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.159_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/14/sitemap_42.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
