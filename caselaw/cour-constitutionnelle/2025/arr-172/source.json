@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.172",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.172",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Jugement/arrêt du 11 décembre 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "fr",
+  "role_number": "172/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 78 du Code pénal, posée par la Cour d'appel de Liège. Droit pénal - Infractions - Vol - Cause d'excuse - Désobéissance civile écologique non violente",
+    "de prejudiciële vraag betreffende artikel 78 van het Strafwetboek, gesteld door het Hof van beroep te Luik. Strafrecht - Misdrijven - Diefstal - Verschoningsgrond - Niet-gewelddadige ecologische burgerlijke ongehoorzaamheid"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 78 du Code pénal, posée par la Cour d'appel de Liège. Droit pénal - Infractions - Vol - Cause d'excuse - Désobéissance civile écologique non violente"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.172&lang=fr",
+  "source_sha256": "77d3ea09aebbf413c2e98d140ec2521fe7be5aba724bc098f576341f2ef5bcb9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.172_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_69.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
