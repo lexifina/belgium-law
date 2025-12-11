@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.170",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.170",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Jugement/arrêt du 11 décembre 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "fr",
+  "role_number": "170/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation des articles 27 et 86, 5°, du décret de la Région flamande du 17 mai 2024 « relatif au bien-être des animaux », introduit par la commune de Mol. Protection et bien-être des animaux - Région flamande - Commerce d'animaux - Interdiction de vendre des animaux sur la voie publique ou sur les marchés",
+    "het beroep tot vernietiging van de artikelen 27 en 86, 5°, van het decreet van het Vlaamse Gewest van 17 mei 2024 « over dierenwelzijn », ingesteld door de gemeente Mol. Bescherming en welzijn van dieren - Vlaams Gewest - Handel in dieren - Verbod op het verhandelen van dieren op de openbare weg of op markten"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation des articles 27 et 86, 5°, du décret de la Région flamande du 17 mai 2024 « relatif au bien-être des animaux », introduit par la commune de Mol. Protection et bien-être des animaux - Région flamande - Commerce d'animaux - Interdiction de vendre des animaux sur la voie publique ou sur les marchés"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.170&lang=fr",
+  "source_sha256": "2fd807f8c9ea289fc9b3ff5e4c74ac43e536fd5a742041ab90d1788ebe2553a0",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.170_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_73.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
