@@ -1,0 +1,29 @@
+{
+  "title": "Beschikking ECLI:BE:RVSCE:2025:ORD.16.554",
+  "ecli": "ECLI:BE:RVSCE:2025:ORD.16.554",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Beschikking van 11 december 2025",
+  "published_on_juportal": "2026-01-12",
+  "language": "nl",
+  "role_number": "A. 245725/VII-43009",
+  "case_name_as_published": "Cassatiebeschikking 16554 - Raad voor Vreemdelingenbetwistingen - 11/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Afdeling administratie"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Afdeling administratie"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ORD.16.554",
+  "source_sha256": "a6af69eb0d485f6dedf574e3cc20cb86609a0c9eb412a4b8e6656e4091426b5c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ORD.16.554_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_83.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
