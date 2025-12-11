@@ -1,0 +1,30 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2025:CONC.20251211.1N.3",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251211.1N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 11 december 2025",
+  "published_on_juportal": "2026-01-13",
+  "language": "nl",
+  "role_number": "F.22.0157.N",
+  "case_name_as_published": "BELGISCHE STAAT, FINANCIEN contra V.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus divers",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Diverse inkomsten"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Diverse inkomsten",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 90 - 32 Link Justel databank 19920612-32 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 102 - 32 Link Justel databank 19920612-32"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251211.1N.3",
+  "source_sha256": "805927048d945f7b129ba2bb546d22aa713792ee8dfd267cae7514d854ce89d6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251211.1N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_30.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
