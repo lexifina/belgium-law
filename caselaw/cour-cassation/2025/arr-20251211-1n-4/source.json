@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251211.1N.4",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251211.1N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Vonnis/arrest van 11 december 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "nl",
+  "role_number": "F.22.0063.N",
+  "case_name_as_published": "V. contra BELGISCHE STAAT, FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus professionnels - Frais professionnels",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Beroepskosten",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 10",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 10",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 1 A 99) - Article 11",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 11",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 172",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 172"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Beroepsinkomsten - Beroepskosten",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 49 - 32 Link Justel databank 19920612-32 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 51 - 32 Link Justel databank 19920612-32",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 10",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 10 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 11 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 172 - 30 ELI link Pub nr 1994021048",
+    "GRONDWET - GRONDWET 1994 (ART. 1 TOT 99) - Artikel 11",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 10 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 11 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 172 - 30 ELI link Pub nr 1994021048",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 172",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 10 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 11 - 30 ELI link Pub nr 1994021048 De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 172 - 30 ELI link Pub nr 1994021048"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251211.1N.4",
+  "source_sha256": "e29f17f73b7c318ee069bca6fd9f98edb24f66ad07de4b2c8244fa20439f6031",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251211.1N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
