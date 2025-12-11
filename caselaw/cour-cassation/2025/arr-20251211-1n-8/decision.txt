@@ -1,0 +1,63 @@
+Nr. F.21.0057.N
+1.	W. V.,
+2.	K. V.A.,
+eisers,
+vertegenwoordigd door mr. Daniel Garabedian, advocaat bij het Hof van Cassatie, met kantoor te 1000 Brussel, Goedheidsstraat 5, waar de eisers woonplaats kiezen,
+tegen
+BELGISCHE STAAT, Federale Overheidsdienst Financiën, vertegenwoordigd door de minister van Financiën, met kabinet te 1000 Brussel, Wetstraat 12, ingeschreven bij de KBO onder het nummer 0308.357.159,
+verweerder,
+vertegenwoordigd door mr. Willy van Eeckhoutte, advocaat bij het Hof van Cassatie, met kantoor te 9051 Gent, Drie Koningenstraat 3, waar de verweerder woonplaats kiest.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Gent van 1 december 2020.
+Advocaat-generaal Johan Van der Fraenen heeft op 3 november 2025 een schriftelijke conclusie neergelegd.
+Sectievoorzitter Bart Wylleman heeft verslag uitgebracht.
+Advocaat-generaal Johan Van der Fraenen heeft geconcludeerd.
+II.	CASSATIEMIDDELEN
+De eisers voeren in hun verzoekschrift dat aan dit arrest is gehecht, vier middelen aan.
+III.	BESLISSING VAN HET HOF
+Beoordeling
+Tweede middel
+Vijfde onderdeel
+Eerste subonderdeel
+1.	Artikel 344, § 1, WIB92, zoals ingevoegd bij artikel 167 Programmawet (I) van 29 maart 2012, bepaalt:
+“Aan de administratie kan niet worden tegengeworpen, de rechtshandeling noch het geheel van rechtshandelingen dat een zelfde verrichting tot stand brengt, wanneer de administratie door vermoedens of andere in artikel 340 bedoelde bewijsmiddelen en aan de hand van objectieve omstandigheden aantoont dat er sprake is van fiscaal misbruik.
+Er is sprake van fiscaal misbruik wanneer de belastingplichtige middels de door hem gestelde rechtshandeling of het geheel van rechtshandelingen één van de volgende verrichtingen tot stand brengt:
+1° een verrichting waarbij hij zichzelf in strijd met de doelstellingen van een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten buiten het toepassingsgebied van die bepaling plaatst; of
+2° een verrichting waarbij aanspraak wordt gemaakt op een belastingvoordeel voorzien door een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten en de toekenning van dit voordeel in strijd zou zijn met de doelstellingen van die bepaling en die in wezen het verkrijgen van dit voordeel tot doel heeft.
+Het komt aan de belastingplichtige toe te bewijzen dat de keuze voor zijn rechtshandeling of het geheel van rechtshandelingen door andere motieven verantwoord is dan het ontwijken van inkomstenbelastingen.
+Indien de belastingplichtige het tegenbewijs niet levert, dan wordt de belastbare grondslag en de belastingberekening zodanig hersteld dat de verrichting aan een belastingheffing overeenkomstig het doel van de wet wordt onderworpen alsof het misbruik niet heeft plaatsgevonden”.
+2.	Artikel 169 van de vermelde Programmawet bepaalt:
+“Artikel 167 is van toepassing vanaf aanslagjaar 2013, alsmede op rechtshandelingen of het geheel van rechtshandelingen die zijn gesteld tijdens het belastbaar tijdperk dat afsluit ten vroegste op de datum van bekendmaking van deze wet in het Belgische Staatsblad en is verbonden aan het aanslagjaar 2012”.
+Wat de personenbelasting betreft, is artikel 344, § 1, WIB92 van toepassing vanaf het aanslagjaar 2013. Dit veronderstelt dat alle rechtshandelingen die als geheel eenzelfde verrichting tot stand brengen, gesteld zijn vanaf het belastbaar tijdperk van het aanslagjaar 2013, dus ten vroegste op 1 januari 2012.
+3.	Na een reeks handelingen waarvan talrijke dateren van vóór 1 januari 2012 te hebben beschreven, oordelen de appelrechters dat:
+-	de weergegeven (evolutie van de) structuur aantoont dat zowel in 2006 als in 2012 (in 2012 ter gelegenheid van de intrede van een derde investeerder), een valorisatie gebeurde van de in de groep aanwezige winsten en interne meerwaarden;
+-	concreet blijkt dat de groep in 2006 een structuur heeft opgezet van dubbele holdingstructuren die worden gebruikt om binnen de groep vennootschappen te verschuiven;
+-	het zeer duidelijk is dat Decoro sro een instrument was om de winsten en interne meerwaarden van de groep te valoriseren via een externe financiering om die samen met beschikbare liquide middelen uiteindelijk te laten toekomen aan de aandeelhouders-uiteindelijk gerechtigden;
+-	deze structuur vervolgens in 2012 wordt opgedoekt;
+-	de formele kapitaalverhoging van Interpares bvba op 12 december 2006 met 20.480.000 euro wordt gebruikt om op 14 december 2006 de aandelen van Primus Group bvba over te nemen van Covoteg cv mits betaling van 50.970.000 euro;
+-	het vervolgens in de tweede herstructurering is dat deze puur formele kapitaalverhoging van Interpares bvba, na de twee fusies, gebruikt wordt om middels een formele kapitaalvermindering de contante gelden van de nieuwe externe financiering via Lavace sro belastingvrij te laten doorstromen naar de uiteindelijk gerechtigden;
+-	de groep doorheen de twee herstructureringen een cascade verricht van rechtshandelingen die er zonder enige twijfel op gericht waren om de winsten en interne meerwaarden van de groep belastingvrij te laten toekomen aan de aandeelhouders;
+-	de ruime context van de kapitaalverhoging in Interpares bvba, de fusie met Primus Group bvba, de opslorping door Gecova bvba en vervolgens de kapitaalvermindering aan te merken zijn als het objectief en subjectief element van misbruik.
+4.	Door aldus, na te hebben geoordeeld dat de verrichting die het fiscaal misbruik uitmaakt tot stand werd gebracht door een geheel van rechtshandelingen die in 2006 en 2012 werden gesteld, toepassing te maken van artikel 344, § 1, WIB92 zoals ingevoegd bij artikel 167 van de Programmawet van 29 maart 2012, verantwoorden de appelrechters hun beslissing niet naar recht.
+Het subonderdeel is gegrond.
+Vierde middel
+Eerste en tweede onderdeel
+5.	Nadat zij de inbreuken op de Aandelenoptiewet hebben opgesomd, oordelen de appelrechters dat “de vermelde anomalieën die de administratie heeft opgemerkt bij de toekenning van de aandelenopties niet meer louter verwaarloosbare details [zijn] maar indicaties dat de constructie opgezet is precies met de bedoeling om later de realisatie van een belastingvrije meerwaarde te maximaliseren” op grond van de redenen dat:
+-	het aandelenoptieplan deel uitmaakte van het plan later opnieuw belastingontwijkende dividenduitkeringen te kunnen realiseren;
+-	er sprake is van een kunstmatige constructie om de bankfinanciering te laten doorstromen naar de uiteindelijke aandeelhouders en om de boekhoudwaarde van Gecova bvba kunstmatig te minimaliseren;
+-	het een constructie was met als vooruitzicht een geplande en georganiseerde realisatie van een omvangrijke belastingvrije meerwaarde;
+-	Gecova bvba en Interpares bvba ook in het kader van de aandelenopties louter instrumenten waren om een fiscaal voordeel te dienen.
+6.	Met die redenen stellen de appelrechters vast dat de realisatie van de meerwaarde het sluitstuk is van een kunstmatige constructie die is opgezet met het oog op de realisatie van een belastingvrije meerwaarde en derhalve niet kan worden gezien als een normale verrichting van een beheer van een privévermogen.
+Beide onderdelen gaan voorbij aan deze redenen en besluitvorming van de appelrechters, berusten derhalve op een onvolledige lezing van het arrest en missen bijgevolg feitelijke grondslag.
+Derde onderdeel
+7.	Anders dan waarvan het onderdeel uitgaat, oordelen de appelrechters niet  dat er sprake is van simulatie.
+Het onderdeel berust op een onjuiste lezing van het arrest en mist bijgevolg feitelijke grondslag.
+Overige grieven
+8.	De overige grieven kunnen niet tot ruimere cassatie leiden.
+Dictum
+Het Hof,
+Vernietigt het bestreden arrest in zoverre het uitspraak doet in de zaak met rolnummer 19/AR/257 en over de gerechtskosten.
+Beveelt dat van dit arrest melding zal worden gemaakt op de kant van het gedeeltelijk vernietigde arrest.
+Houdt de kosten aan en laat de beslissing daaromtrent aan de feitenrechter over.
+Verwijst de aldus beperkte zaak naar het hof van beroep te Antwerpen.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, eerste kamer, samengesteld uit sectievoorzitter Bart Wylleman, als voorzitter, en de raadsheren Ilse Couwenberg, Myriam Ghyselen, Ann De Wolf en Eva Van Hoorde, en in openbare rechtszitting van 11 december 2025 uitgesproken door sectievoorzitter Bart Wylleman, in aanwezigheid van advocaat-generaal Johan Van der Fraenen, met bijstand van griffier Elien Van Isterdael.
