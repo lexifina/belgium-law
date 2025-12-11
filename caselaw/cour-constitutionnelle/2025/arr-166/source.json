@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.166",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.166",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-11",
+  "date_as_printed": "Jugement/arrêt du 11 décembre 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "fr",
+  "role_number": "166/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 62 de la loi du 3 mai 2024 « portant dispositions diverses en matière d'économie (I) », introduit par la SA de droit public « Proximus ». Télécommunications - Communications électroniques - Règles répartitrices de compétences - Transposition de la directive (UE) 2018/1972 du Parlement européen et du Conseil du 11 décembre 2018 « établissant le code des communications électroniques européen (refonte) » - Interruption - Compensation - Opérateur de réseau",
+    "het beroep tot vernietiging van artikel 62 van de wet van 3 mei 2024 « houdende diverse bepalingen inzake economie (I) », ingesteld door de nv van publiek recht « Proximus ». Telecommunicatie - Elektronische communicatie - Bevoegdheidverdelende regels - Omzetting van de richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 « tot vaststelling van het Europees wetboek voor elektronische communicatie (herschikking) » - Onderbreking - Compensatie - Netwerkoperator"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 62 de la loi du 3 mai 2024 « portant dispositions diverses en matière d'économie (I) », introduit par la SA de droit public « Proximus ». Télécommunications - Communications électroniques - Règles répartitrices de compétences - Transposition de la directive (UE) 2018/1972 du Parlement européen et du Conseil du 11 décembre 2018 « établissant le code des communications électroniques européen (refonte) » - Interruption - Compensation - Opérateur de réseau"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.166&lang=fr",
+  "source_sha256": "a28ac29c15b5736bd901f8b11a81648d9e1030cfa3a6013771d89f7bf132a871",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.166_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_70.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
