@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt C.24.0179.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2025-12-12",
+  "date_as_printed": "12 DÉCEMBRE 2025",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.24.0179.F.pdf",
+  "source_sha256": "81acf200411cf2aa9fc1b25ec6657c4d7cebc84f3c877fa59cdd6b2cc5a4d8f3",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
