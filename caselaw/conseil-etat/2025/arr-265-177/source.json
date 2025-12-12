@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.177",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.177",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-12",
+  "date_as_printed": "Jugement/arrêt du 12 décembre 2025",
+  "published_on_juportal": "2026-01-13",
+  "language": "fr",
+  "role_number": "A. 234600/XIII-9423",
+  "case_name_as_published": "Arrêt / Arrest 265177 - Permis d’urbanisme et permis mixtes / Bouwvergunningen en gemengde vergunningen - 12/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.177&lang=fr",
+  "source_sha256": "0dfc729189d97e4c847d69b737020b48e434d3bd07867ac8d93122294c00c02e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.177_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_31.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
