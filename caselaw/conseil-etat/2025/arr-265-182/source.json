@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.182",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.182",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-12",
+  "date_as_printed": "Jugement/arrêt du 12 décembre 2025",
+  "published_on_juportal": "2025-12-15",
+  "language": "fr",
+  "role_number": "A. 231055/VI-21784",
+  "case_name_as_published": "Arrêt 265182 - Marchés publics - 12/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.182",
+  "source_sha256": "afa2efb4db6c1dac55851c1a6d114ee4407b6eea0fdf24602d19ce552db53e8d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.182_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/14/sitemap_53.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
