@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2025:ARR.265.168",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.168",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-12",
+  "date_as_printed": "Vonnis/arrest van 12 december 2025",
+  "published_on_juportal": "2025-12-18",
+  "language": "nl",
+  "role_number": "A. 242902/X-18831",
+  "case_name_as_published": "Arrest 265168 - Bouwvergunningen en gemengde vergunningen - 12/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.168",
+  "source_sha256": "c343f19f26d41b0d16617292e17d7e9c810e0d4b43f5adf2e47c077972fc662d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.168_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_23.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
