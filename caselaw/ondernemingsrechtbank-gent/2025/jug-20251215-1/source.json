@@ -1,0 +1,45 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2025:JUG.20251215.1",
+  "ecli": "ECLI:BE:ORGNT:2025:JUG.20251215.1",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2025-12-15",
+  "date_as_printed": "Vonnis/arrest van 15 december 2025",
+  "published_on_juportal": "2025-12-16",
+  "language": "nl",
+  "role_number": "Q/25/0025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Overige",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "GERECHTELIJK RECHT - GERECHTELIJK RECHT- ALGEMENE BEGINSELEN",
+    "Artikel 780bis citeren onbestaande rechtspraak.",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Reorganisatieplan. Gerechtelijke reorganisatie door collectief akkoord / Vonnis bevestigd door HvB Gent, 19 januari 2026, 2025/AR/2013",
+    "Reorganisatieplan / stemming",
+    "Heropening debatten - gebrek reorganisatieplan"
+  ],
+  "fiche": [
+    "GERECHTELIJK RECHT - GERECHTELIJK RECHT- ALGEMENE BEGINSELEN",
+    "Artikel 780bis citeren onbestaande rechtspraak.",
+    "Gerechtelijk Wetboek - 10-10-1967 - 780bis - 04 ELI link Pub nr 1967101055",
+    "Over onoordeelkundig en ongecontroleerd gebruik van AI-toepassingen",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Reorganisatieplan. Gerechtelijke reorganisatie door collectief akkoord / Vonnis bevestigd door HvB Gent, 19 januari 2026, 2025/AR/2013",
+    "Wetboek van economisch recht - 28-02-2013 - XX.79 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Reorganisatieplan / stemming",
+    "Wetboek van economisch recht - 28-02-2013 - XX.79 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Heropening debatten - gebrek reorganisatieplan",
+    "Gerechtelijk Wetboek - 10-10-1967 - 772 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2025:JUG.20251215.1",
+  "source_sha256": "326d0a83fbe077737dc6bfb7fe5776c618734b1b01149f5a14c561ddfb5e0829",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/22/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
