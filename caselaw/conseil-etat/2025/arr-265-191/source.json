@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2025:ARR.265.191",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.191",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-15",
+  "date_as_printed": "Vonnis/arrest van 15 december 2025",
+  "published_on_juportal": "2025-12-18",
+  "language": "nl",
+  "role_number": "A. 242122/X-18698",
+  "case_name_as_published": "Arrest 265191 - Plannen van aanleg - 15/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.191",
+  "source_sha256": "25316400caa5636cbf3f2875a7c99fb567ef0936ad4a658c1a49a0f885abadfa",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.191_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_35.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
