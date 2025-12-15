@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 14, § 4 de l'arrêté du Gouvernement flamand du 4 décembre 2020 relatif au cycle de politique et de gestion de la Commission communautaire flamande est complété, à compter du 1er janvier 2026, par des alinéas 2, 3 et 4, rédigés comme suit :
+" Par dérogation à l'alinéa 1er, la période du plan pluriannuel en cours peut être prolongée d'un an chaque année, tant que le collège n'est pas encore installé dans sa nouvelle composition après les élections régionales bruxelloises. L'aperçu des crédits ne comprend que les crédits destinés aux fins suivantes :
+1° la conclusion et la modification d'engagements liés au fonctionnement régulier et aux services existants ;
+2° les mesures nécessaires à la mise en oeuvre de nouvelles politiques flamandes, conformément au cadre d'accord à établir en matière de coordination et d'obligation d'information entre le collège et le ministre.
+L'état ajusté de l'équilibre financier, figurant au paragraphe 3, 3°, décrit les conséquences financières pour au moins trois exercices futurs.
+Dès que le collège est installé dans sa nouvelle composition, le conseil établit dans un délai raisonnable un plan pluriannuel pour la période restante jusqu'à la fin de l'exercice suivant l'année au cours de laquelle le conseil suivant se réunit pour la première fois dans sa nouvelle composition. Cette période restante peut également inclure l'exercice en cours. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre flamand qui a les affaires bruxelloises dans ses attributions est chargé de l'exécution du présent arrêté.
