@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251216.2N.22",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251216.2N.22",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "nl",
+  "role_number": "P.25.0395.N",
+  "case_name_as_published": "FOD FINANCIËN-DOUANE EN ACCIJNZEN c. DBS BELGIUM",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DOUANES ET ACCISES",
+    "DOUANE EN ACCIJNZEN",
+    "PREUVE - MATIERE REPRESSIVE - Preuve littérale - Valeur probante",
+    "BEWIJS - STRAFZAKEN - Geschriften - Bewijswaarde",
+    "PREUVE - MATIERE REPRESSIVE - Charge de la preuve. Liberté d'appréciation",
+    "BEWIJS - STRAFZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "PREUVE - MATIERE REPRESSIVE - Administration de la preuve",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering"
+  ],
+  "fiche": [
+    "DOUANE EN ACCIJNZEN",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 1 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 11 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 205 - 31 ELI link Pub nr 1977071850",
+    "BEWIJS - STRAFZAKEN - Geschriften - Bewijswaarde",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 1 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 11 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 205 - 31 ELI link Pub nr 1977071850",
+    "BEWIJS - STRAFZAKEN - Bewijslast. Beoordelingsvrijheid",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 1 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 11 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 205 - 31 ELI link Pub nr 1977071850",
+    "BEWIJS - STRAFZAKEN - Bewijsvoering",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 1 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 11 - 31 ELI link Pub nr 1977071850 Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 205 - 31 ELI link Pub nr 1977071850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251216.2N.22",
+  "source_sha256": "75b494679d5f442504d2c628ac62b4d602d41d500094ab71f436b49eceef8c21",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251216.2N.22_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_3.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
