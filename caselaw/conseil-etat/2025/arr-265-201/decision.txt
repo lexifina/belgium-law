@@ -1,0 +1,49 @@
+ecli_input     ECLI:BE:RVSCE:2025:ARR.XXX ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old  RVSCE ecli_annee     2025 ecli_ordre     ARR.XXX ecli_typedec   ARR ecli_datedec ecli_chambre ecli_nosuite   XXX Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2025:ARR.XXX invalide Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT DE LA VIIIe CHAMBRE
+no 265.201 du 16 décembre 2025
+A. 241.351/VIII-12.473
+En cause : D. H., ayant élu domicile chez Mes Alain MERCIER et Stéphane RIXHON, avocats, chaussée de Waterloo 868/4
+1180 Bruxelles, contre :
+la société coopérative à responsabilité limitée Intercommunale d’incendie de Liège et environs (en abrégé : IILE), ayant élu domicile chez Me Nathalie FORTEMPS, avocat, boulevard Brand Whitlock 114 bte 12
+1200 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 26 février 2024, la partie requérante demande l’annulation de :
+« - La décision prise à une date inconnue par le responsable du département Opérations de ne plus lui permettre de prester des gardes opérationnelles et de le réaffecter au dispatching jusqu’au 30 novembre 2023 et, après cette date, de le réaffecter dans des tâches administratives à la COP en horaire de jour.
+[…]
+- La décision prise par le conseil d’administration de l’IILE en date du 18 septembre 2023 de “ratifier [sa] réaffectation temporaire pour raisons médicales […] en qualité de dispatcher ou pour y effectuer des tâches administratives et/ou logistiques à la COP en gardes de 24 heures pendant 3
+mois dès le 1er septembre 2023 suivi d’une réaffectation temporaire en horaire de jour pour y effectuer des tâches administratives et/ou logistiques à la COP
+dès le 1er décembre 2023 ».
+II. Procédure
+Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12473 - 1/3
+M. Patrick Herbignat, premier auditeur chef de section au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Les parties ont déposé un dernier mémoire.
+Par une ordonnance du 6 novembre 2025, l’affaire a été fixée à l’audience du 12 décembre 2025 et les parties ont été informées que l’affaire sera traitée par une chambre composée d’un membre.
+M. Frédéric Gosselin, conseiller d’État, président f.f., a exposé son rapport.
+Me Alain Mercier, avocat, comparaissant pour la partie requérante, et Me Aymane Ralu, loco Me Nathalie Fortemps, avocat, comparaissant pour la partie adverse, ont été entendus en leurs observations.
+M. Patrick Herbignat, premier auditeur chef de section, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Perte d’objet
+Dans son dernier mémoire, le requérant indique qu’il se rallie au rapport de l’auditeur rapporteur, que le premier acte attaqué « a été entièrement absorbé par [le] second acte attaqué » et que ce dernier a « [lui]-même été retiré par un nouvel acte du conseil d’administration du 22 avril 2024 ». Il en conclut que « les actes attaqués ayant, dès lors, disparu de l’ordonnancement juridique, le recours a perdu son objet et il n’y a plus lieu de statuer ».
+La partie adverse abonde dans le même sens et, dans son dernier mémoire, « sollicite que l’analyse du rapport soit retenue ». Elle dépose par ailleurs au dossier administratif la délibération de son conseil d’administration du 22 avril 2024 qui « décide de retirer la décision du conseil d’administration du 18 août [lire : septembre]
+2023 portant ratification [de] la réaffectation temporaire pour raisons médicales [du requérant], sapeur-pompier professionnel, matricule 34.556, en qualité de dispatcheur
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12473 - 2/3
+ou pour y effectuer des tâches administratives et/ou logistiques à la COP en gardes de 24 heures pendant 3 mois dès le 1er septembre 2023 suivi d’une réaffectation temporaire en horaire de jour pour y effectuer des tâches administratives et/ou logistiques à la COP dès le 1er décembre 2023 ».
+Le recours n’a, partant, plus d’objet.
+IV. Indemnité de procédure
+La partie requérante sollicite une indemnité de procédure de 770 euros.
+Eu égard au retrait du second acte attaqué qui a absorbé le premier, il y a lieu de faire droit à sa demande.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Il n’y a plus lieu de statuer.
+Article 2.
+La partie adverse supporte les dépens, à savoir le droit de rôle de 200 euros, la contribution de 24 euros et l’indemnité de procédure de 770 euros accordée à la partie requérante.
+Ainsi prononcé à Bruxelles le 16 décembre 2025, par la VIIIe chambre du Conseil d’État, composée de :
+Frédéric Gosselin, conseiller d’État, président f.f., Florence Van Hove, greffier.
+Le Greffier, Le Président,
+Florence Van Hove Frédéric Gosselin ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12473 - 3/3
