@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251216.2N.8",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251216.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "nl",
+  "role_number": "P.25.1576.N",
+  "case_name_as_published": "V.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "COMPETENCE ET RESSORT - MATIERE REPRESSIVE - Compétence",
+    "BEVOEGDHEID EN AANLEG - STRAFZAKEN - Bevoegdheid",
+    "COMPETENCE ET RESSORT - MATIERE REPRESSIVE - Contestations relatives à la compétence",
+    "BEVOEGDHEID EN AANLEG - STRAFZAKEN - Geschil inzake bevoegdheid",
+    "REGLEMENT DE JUGES - MATIERE REPRESSIVE - Entre juridictions de jugement",
+    "REGELING VAN RECHTSGEBIED - STRAFZAKEN - Tussen vonnisgerechten"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 635, § 1, eerste en tweede lid - 03 ELI link Pub nr 1967101054",
+    "BEVOEGDHEID EN AANLEG - STRAFZAKEN - Bevoegdheid",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 635, § 1, eerste en tweede lid - 03 ELI link Pub nr 1967101054",
+    "STRAFUITVOERING",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 635, § 1, eerste en tweede lid - 03 ELI link Pub nr 1967101054",
+    "BEVOEGDHEID EN AANLEG - STRAFZAKEN - Geschil inzake bevoegdheid",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 635, § 1, eerste en tweede lid - 03 ELI link Pub nr 1967101054",
+    "REGELING VAN RECHTSGEBIED - STRAFZAKEN - Tussen vonnisgerechten",
+    "Gerechtelijk Wetboek - Deel III: BEVOEGDHEID (Art. 556 tot 663) - 10-10-1967 - Art. 635, § 1, eerste en tweede lid - 03 ELI link Pub nr 1967101054"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251216.2N.8",
+  "source_sha256": "86623b9c979b181191bf5996834a2d84cc92f24bd36f95c8c12986371eb19d03",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251216.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
