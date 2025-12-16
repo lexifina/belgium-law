@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2025:ARR.20251216.1",
+  "ecli": "ECLI:BE:AHANT:2025:ARR.20251216.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2026-01-12",
+  "language": "nl",
+  "role_number": "2024/AA/318",
+  "case_name_as_published": "Opgroeien Regie tegen R O",
+  "subjects": [
+    "Constitutioneel recht",
+    "Sociale-zekerheidsrecht",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "GELIJKHEID VAN DE BELGEN VOOR DE WET",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWET - Rechten en vrijheden - Gelijkheid - art. 10-11bis",
+    "GEZINSBIJSLAG - WERKNEMERS",
+    "SOCIAAL RECHT - SOCIALE ZEKERHEID - Gezinsbijslag - Werknemer - Bijslagen - Kinderbijslag",
+    "ONDERWIJS",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - ONDERWIJS - Onderwijsinrichting - Hoger onderwijs"
+  ],
+  "fiche": [
+    "GELIJKHEID VAN DE BELGEN VOOR DE WET",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWET - Rechten en vrijheden - Gelijkheid - art. 10-11bis",
+    "Besluit Vlaamse Regering - 05-10-2018 - 23 - 17 ELI link Pub nr 2018014824",
+    "GEZINSBIJSLAG - WERKNEMERS",
+    "SOCIAAL RECHT - SOCIALE ZEKERHEID - Gezinsbijslag - Werknemer - Bijslagen - Kinderbijslag",
+    "ONDERWIJS",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - ONDERWIJS - Onderwijsinrichting - Hoger onderwijs"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2025:ARR.20251216.1",
+  "source_sha256": "bb39b12e2e91b2d9ac3a965472be2f88b7cc5c3f38842dd7ea4b08347bd35965",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2025:ARR.20251216.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/12/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
