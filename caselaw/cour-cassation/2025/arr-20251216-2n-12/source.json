@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251216.2N.12",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251216.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "nl",
+  "role_number": "P.25.1152.N",
+  "case_name_as_published": "GAILLIAERT DRIES bv contra P.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "INDEMNITE DE PROCEDURE",
+    "RECHTSPLEGINGSVERGOEDING",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "FRAIS ET DEPENS - MATIERE REPRESSIVE - Procédure devant le juge du fond",
+    "GERECHTSKOSTEN - STRAFZAKEN - Procedure voor de feitenrechter"
+  ],
+  "fiche": [
+    "RECHTSPLEGINGSVERGOEDING",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 162bis, tweede lid - 30 ELI link Pub nr 1808111901",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 162bis, tweede lid - 30 ELI link Pub nr 1808111901",
+    "GERECHTSKOSTEN - STRAFZAKEN - Procedure voor de feitenrechter",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 162bis, tweede lid - 30 ELI link Pub nr 1808111901",
+    "GERECHTSKOSTEN - STRAFZAKEN - Procedure voor de feitenrechter",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1017, vierde lid - 04 ELI link Pub nr 1967101055",
+    "RECHTSPLEGINGSVERGOEDING",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1017, vierde lid - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251216.2N.12",
+  "source_sha256": "5a119645379ffce8c4524338547817b1fe8df170288c2ac255ab83da4db4fd36",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251216.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
