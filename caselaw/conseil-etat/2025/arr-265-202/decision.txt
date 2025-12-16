@@ -1,0 +1,77 @@
+ecli_input     ECLI:BE:RVSCE:2025:ARR.XXX ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old  RVSCE ecli_annee     2025 ecli_ordre     ARR.XXX ecli_typedec   ARR ecli_datedec ecli_chambre ecli_nosuite   XXX Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2025:ARR.XXX invalide Invalid ECLI ID - no_ordre - Invalid no suite/no_arret XXX
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT DE LA VIIIe CHAMBRE
+no 265.202 du 16 décembre 2025
+A. 241.547/VIII-12.493
+En cause : la commune de Grâce-Hollogne, représentée par son collège communal, ayant élu domicile chez Me Jean BOURTEMBOURG, avocat, rue Saint-Bernard 74
+1060 Bruxelles, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Mes Marc UYTTENDAELE, Anne FEYT et Annabelle DELEEUW, avocats, rue de la Source 68
+1060 Bruxelles.
+Partie intervenante :
+C. M., ayant élu domicile chez Me Geoffroy GENERET, avocat, rue Capitaine Crespel 2-4
+1050 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 26 mars 2024, la partie requérante demande l’annulation de « l’arrêté du ministre du Logement, des Pouvoirs locaux et de la Ville de la Région wallonne du 1er mars 2024 annulant la délibération du 26 octobre 2023
+par laquelle le collège communal de Grâce-Hollogne décide de licencier Monsieur C. M. pour motif grave ».
+II. Procédure
+Par une requête introduite le 8 juillet 2024, C. M. demande à être reçu en qualité de partie intervenante.
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 1/6
+Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+M. Florian Dufour, alors auditeur adjoint au Conseil d’État, a rédigé un rapport sur la base de l’article 93 du règlement général de procédure. Il a été notifié aux parties.
+Par une ordonnance du 6 novembre 2025, les parties ont été convoquées à l’audience du 12 décembre 2025.
+M. Frédéric Gosselin, conseiller d’État, président f.f., a exposé son rapport.
+Me Julie Paternostre, loco Me Jean Bourtembourg, avocat, comparaissant pour la partie requérante, Me Baptiste de Meeûs, loco Mes Marc Uyttendaele, Anne Feyt et Annabelle Deleeuw, avocat, comparaissant pour la partie adverse, et Me Louisanne Hamon, loco Me Geoffroy Generet, avocat, comparaissant pour la partie intervenante, ont été entendus en leurs observations.
+M. Florian Dufour, auditeur au Conseil d’État, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits
+1. Le 26 octobre 2023, le collège communal de la partie requérante licencie la partie intervenante pour motif grave, sur la base de l’article 35 de la loi du 3 juillet 1978 ‘relative aux contrats de travail’.
+2. Le 13 décembre 2023, le syndicat de celle-ci saisit le ministre en charge de la tutelle d’une réclamation contre cette décision.
+3. Le 1er mars 2024, la délibération précitée du 26 octobre 2023 est annulée par l’autorité de tutelle, au motif que « la délégation de compétence au collège communal [...] en matière de licenciement est générale et n’est pas suffisamment spéciale et expresse ».
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 2/6
+Il s’agit de l’acte attaqué.
+IV. Intervention
+Il y a lieu d’accueillir la requête en intervention introduite par C. M., dont la décision de licenciement fait l’objet de l’acte attaqué.
+V. Débats succincts
+L’auditeur rapporteur a examiné le présent recours dans le cadre de la procédure en débats succincts, étant d’avis que le moyen unique est fondé.
+VI. Moyen unique
+VI.1. Thèses des parties
+VI.1.1. La requête
+Le moyen est pris « de la violation des articles L1213-1, L3114-1 et L3122-1 du Code de la démocratie locale et de la décentralisation, de l’erreur dans les motifs, de la violation des règles et principes du droit, et notamment du principe du parallélisme des compétences ».
+Il est libellé en ces termes :
+« En ce que l’acte attaqué annule la délibération du 26 octobre 2023 par laquelle le collège communal de Grâce-Hollogne décide de licencier [l’intervenant] pour motif grave au motif que la délégation de compétences au collège communal de Grâce-Hollogne du 21 novembre 2019 en matière de licenciement est générale et n’est pas suffisamment spéciale et expresse ; que la délibération du collège du 26 octobre 2023 est illégale puisqu’elle a été adoptée par une autorité incompétente pour ce faire ;
+Alors que l’article L1213-1 du Code wallon de la démocratie locale et de la décentralisation permet au conseil communal de déléguer au collège le pouvoir de nomination, hormis les exceptions qu’il cite ; que lorsqu’un conseil communal a fait usage de cette possibilité, et a délégué au collège le pouvoir d’engager les agents contractuels, la délégation est sans le moindre doute également donnée pour licencier les membres du personnel contractuel ; que le pouvoir de nommer emporte celui de démettre ; qu’il en va d’autant plus ainsi lorsque, comme en l’espèce, la délibération du conseil communal du 21 novembre 2019 prévoit expressément une délégation pour l’engagement et le licenciement d’un travailleur contractuel ; que le collège communal était, dès lors, bien compétent pour décider du licenciement d’un travailleur contractuel pour motif grave ».
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 3/6
+VI.1.2. Le mémoire en réponse
+La partie adverse rappelle la portée du principe général de motivation interne et de l’erreur manifeste d’appréciation et en conclut qu’il « n’appartient [...]
+pas au Conseil d’État de se faire juge des appréciations divergentes entre les parties mais de vérifier qu’au regard du dossier administratif et de la motivation de la décision, la partie adverse n’a pas commis une erreur manifeste dans l’appréciation du dossier ».
+Elle expose que l’acte attaqué repose sur une réflexion en trois temps, qu’elle a d’abord égard à la compétence générale du conseil communal en matière de nomination et de licenciement prévue à l’article L1213-1 du Code de la démocratie locale et de la décentralisation, dont elle déduit que le conseil communal peut déléguer ce pouvoir au collège communal, et relève qu’« à l’appui de ce constat, [elle]
+mentionne un arrêt du Conseil d’État [n° 179.869 du 19 février 2008] ayant déjà admis le congé de licenciement donné par le collège communal sur la base d’une délégation de pouvoirs ». Dans un second temps, elle expose qu’elle prend connaissance d’un arrêt rendu le 18 janvier 2022 par la Cour du travail de Mons « dans un cas similaire au licenciement de [l’intervenant] », qui, selon elle, « clarifie les conditions relatives à la compétence d’une autorité pour prononcer un licenciement pour motif grave : ce licenciement doit émaner de l’autorité compétente ou d’une autorité qui a un mandat spécial ou exprès pour ce faire » et qu’elle cite.
+Dans un dernier temps, elle « applique les acquis théoriques récoltés dans l’étude du dossier au cas d’espèce. Elle analyse in concreto la délégation du conseil communal [...] du 21 novembre 2019 et la confronte à l’enseignement de la jurisprudence de la cour du travail de Mons », et « constate qu’à l’instar de la situation menant à l’arrêt de la[dite] cour […], la délégation de compétence au collège communal [...] n’est pas expresse et spéciale mais revêt une portée générale. Il n’est d’ailleurs pas mentionné dans l’acte de délégation du 21 novembre 2019 qu’elle a vocation à s’appliquer aux licenciements pour motif grave. Or, il s’agit d’une forme spécifique et particulièrement grave de licenciement. Pour ces raisons et après analyse du dossier, [elle] annule la délibération du collège communal ». Elle répond qu’elle a, dans l’exercice de son pouvoir d’appréciation, analysé la réglementation applicable, examiné la jurisprudence en la matière et consulté les pièces lui étant soumises, qu’elle a « finalement appliqué à la pratique la jurisprudence très récente d’une cour du travail s’étant prononcé dans un dossier similaire », qu’il ne peut lui être reproché d’avoir commis une erreur manifeste d’appréciation, et qu’à tout le moins, une telle erreur n’est pas rapportée par la requérante « qui se contente de proposer une conception
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 4/6
+différente du dossier et de la réglementation applicable », ce qu’il ne revient pas au Conseil d’Etat d’arbitrer.
+Elle cite encore, « pour le surplus », l’arrêt n° 179.869, susvisé, relève que la requérante n’expose pas en quoi le principe du parallélisme des compétences serait méconnu, qu’il ne lui revient pas, à elle, de démontrer le contraire, et que la requérante ne développe pas non plus en quoi l’acte attaqué serait contraire à l’article L3114-1 et L3122-1 du CDLD.
+VI.1.3. La requête en intervention
+L’intervenant estime que l’acte attaqué est adéquatement motivé et ne peut être tenu pour illégal. Il ajoute que « tirant les enseignements de la jurisprudence, et plus particulièrement d’un arrêt de la cour du travail de Mons du 18 janvier 2022, [qu’il a] invoqué […] dans le cadre du recours adressé à l’autorité de tutelle, celle-ci a valablement pu considérer que le collège communal [...] ne disposait que d’une délégation générale mais ne pouvait pas se prévaloir d’une délégation expresse et spéciale lui permettant de décider de [le] licencier pour motif grave […] en intervention ».
+VI.2. Appréciation
+Sous peine d’être entaché d’une erreur dans les motifs invoquée au moyen, tout acte administratif doit, en vertu du principe de motivation interne, reposer sur des motifs qui s’avèrent exacts, pertinents et légalement admissibles.
+En l’espèce, l’acte attaqué se réfère expressément à une délibération du 21 novembre 2019 du conseil communal « qui prévoit ceci : “délégation est donnée au collège communal du pouvoir de désigner les agents du personnel contractuel, en ce compris la conclusion et la rupture des contrats de travail qui en découlent” ». En ce qu’il estime que cette délégation « est générale et pas suffisamment spéciale et expresse », l’acte attaqué repose sur un motif qui n’est ni exact ni légalement admissible dès lors que ladite délégation est expresse, qu’elle n’établit aucune distinction selon que la rupture du contrat de travail décidée par le collège cristallise un licenciement ou un licenciement pour motif grave, et qu’il n’en ressort dès lors pas qu’elle ne s’appliquerait pas à ces derniers.
+Le moyen unique est fondé. Les conclusions du rapport peuvent être suivies.
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 5/6
+VII. Indemnité de procédure
+La partie requérante sollicite une « indemnité de procédure », sans en préciser le montant. Il y a lieu de faire droit à sa demande, en lui accordant le montant de base de 770 euros.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La requête en intervention introduite par C. M. est accueillie.
+Article 2.
+L’arrêté, pris le 1er mars 2024 par le ministre wallon du Logement, des Pouvoirs locaux et de la Ville, qui annule la délibération du collège communal de Grâce-Hollogne du 26 octobre 2023 licenciant C. M. pour motif grave, est annulé.
+Article 3.
+La partie adverse supporte les dépens, à savoir le droit de rôle de 200 euros, la contribution de 24 euros et l’indemnité de procédure de 770 euros accordée à la partie requérante.
+La partie intervenante supporte le droit de 150 euros lié à son intervention.
+Ainsi prononcé à Bruxelles le 16 décembre 2025, par la VIIIe chambre du Conseil d’État, composée de :
+Frédéric Gosselin, conseiller d’État, président f.f., Florence Van Hove, greffier.
+Le Greffier, Le Président,
+Florence Van Hove Frédéric Gosselin
+ECLI:BE:RVSCE:2025:ARR.XXX VIII - 12.493 - 6/6
