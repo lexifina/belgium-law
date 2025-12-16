@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251216.2N.17",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251216.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "nl",
+  "role_number": "P.25.0410.N",
+  "case_name_as_published": "Ö.",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht",
+    "Droit du travail",
+    "Arbeidsrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "CHOMAGE - DROIT AUX ALLOCATIONS DE CHOMAGE",
+    "WERKLOOSHEID - RECHT OP UITKERING",
+    "TRAVAIL - DIVERS",
+    "ARBEID - ALLERLEI",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "WERKLOOSHEID - RECHT OP UITKERING",
+    "KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 44 - 50 ELI link Pub nr 1991013192 KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 45, eerste lid, 1°, en zevende lid - 50 ELI link Pub nr 1991013192",
+    "ARBEID - ALLERLEI",
+    "KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 44 - 50 ELI link Pub nr 1991013192 KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 45, eerste lid, 1°, en zevende lid - 50 ELI link Pub nr 1991013192",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 44 - 50 ELI link Pub nr 1991013192 KB 25 november 1991 houdende de werkloosheidsreglementering - 25-11-1991 - Art. 45, eerste lid, 1°, en zevende lid - 50 ELI link Pub nr 1991013192"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251216.2N.17",
+  "source_sha256": "494b102a68e9de0e61183de01e3e14b5c49f2d2ad60d69d0490a28f6fff4a59d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251216.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
