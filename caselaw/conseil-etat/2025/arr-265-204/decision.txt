@@ -1,0 +1,137 @@
+ecli_input     ECLI:BE:CASS:2024 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      CASS ecli_cour_old ecli_annee     2024 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:CASS:2024 invalide Invalid ECLI ID - 4 element(s)
+
+RAAD VAN STATE, AFDELING BESTUURSRECHTSPRAAK
+IXe KAMER
+nr. 265.204 van 16 december 2025
+in de zaak A. 244.625/IX-10.651
+In zake: K.L.
+bijgestaan en vertegenwoordigd door advocaat Walter Damen kantoor houdend te 2600 Berchem Elisabethlaan 122
+bij wie woonplaats wordt gekozen
+tegen:
+de BELGISCHE STAAT, vertegenwoordigd door de minister van Justitie bijgestaan en vertegenwoordigd door advocaat Michel van Dievoet kantoor houdend te 1000 Brussel Wolstraat 56
+bij wie woonplaats wordt gekozen
+--------------------------------------------------------------------------------------------------
+I. Voorwerp van het cassatieberoep
+1. Het cassatieberoep, ingesteld op 3 april 2025, strekt tot de nie-
+tigverklaring van beslissing M24-1-0676 van de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders van 3 maart 2025.
+II. Verloop van de rechtspleging
+2. Bij beschikking nr. 16.310 van 5 juni 2025 werd het cassatiebe-
+roep toelaatbaar verklaard, behoudens in zoverre in het enige middel de schending wordt aangevoerd van de jurisdictionele motiveringsplicht.
+IX-10.651-1/9
+De verwerende partij heeft een memorie van antwoord ingediend en de verzoekende partij heeft een memorie van wederantwoord ingediend.
+Adjunct-auditeur Christiaan Lesaffer heeft een verslag opge-
+steld.
+De verzoekende partij heeft gevraagd dat de procedure wordt voortgezet.
+De partijen zijn opgeroepen voor de terechtzitting, die heeft plaatsgevonden op 1 december 2025.
+Kamervoorzitter Geert Van Haegendoren heeft verslag uitge-
+bracht.
+Advocaat Luna Onzia, die loco advocaat Walter Damen ver-
+schijnt voor de verzoekende partij, is gehoord.
+Adjunct-auditeur Christiaan Lesaffer, gemachtigd om ter te-
+rechtzitting advies te verlenen, heeft advies gegeven.
+Er is toepassing gemaakt van de bepalingen op het gebruik der talen, vervat in titel VI, hoofdstuk II, van de wetten op de Raad van State, gecoör-
+dineerd op 12 januari 1973.
+III. Feiten
+3.1. De feiten, zoals ze zijn te lezen in de bestreden beslissing van de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders (“de commissie”), kunnen als volgt worden samenge-
+vat.
+IX-10.651-2/9
+Bij arrest van 5 mei 2022 veroordeelt het Hof van Assisen van de provincie Antwerpen JJB tot betaling van een morele schadevergoeding van 10.000 euro aan verzoekster als “schoondochter” van het slachtoffer.
+De dader blijkt onvermogend te zijn, reden waarom verzoekster op 25 april 2024 bij de commissie een aanvraag indient tot financiële hulp.
+3.2. Op 2 december 2024 stelt de daartoe aangestelde verslaggever het verslag op over de aanvraag.
+Het verslag wordt dezelfde dag aan verzoekster bezorgd met de mededeling dat zij dertig dagen heeft om opmerkingen in te dienen of een hoorzit-
+ting te vragen.
+Verzoekster bezorgt hierop een antwoord op enkele in het ver-
+slag gestelde vragen. Zij verzoekt niet om te worden gehoord.
+3.3. Met de thans bestreden beslissing wijst de commissie de aan-
+vraag af met de volgende motivering:
+“De wetgeving betreffende de hulp aan slachtoffers van opzettelijke ge-
+welddaden verleent aan de slachtoffers geen subjectief recht op ‘schade-
+loosstelling’, maar wel op het eventueel bekomen van een ‘hulp’, gesteund op het principe van de collectieve solidariteit. Uit de aard zelf van de hulp volgt dat de ‘volledige vergoeding’ van het door de slachtoffers geleden nadeel niet wordt gewaarborgd. Bij het beoordelen van een hulp dienen de voorschriften van de artikelen 31, 31bis, 32, 33 en 33bis van de wet van 1 augustus 1985 [‘houdende fiscale en andere bepalingen’] nageleefd te worden.
+Verzoekster, de schoondochter van wijlen [het slachtoffer], vraagt een hulp in haar hoedanigheid van onrechtstreeks slachtoffer in de zin van artikel 31, 2° van de wet van 1 augustus 1985:
+‘erfgerechtigden, in de zin van artikel 731 van het Burgerlijk Wet-
+boek, tot en met de tweede graad van een persoon die overleden is als rechtstreeks gevolg van een opzettelijke gewelddaad, alsook aanverwanten tot en met dezelfde graad of personen die in duur-
+zaam gezinsverband samenleefden met de overledene;’ Artikel 731 B.W. luidt als volgt:
+IX-10.651-3/9
+‘De erfenissen komen toe aan de kinderen en afstammelingen van de overledene, aan zijn noch uit de echt noch van tafel en bed ge-
+scheiden echtgenoot, aan zijn bloedverwanten in de opgaande lijn (aan zijn bloedverwanten in de zijlijn en aan zijn wettelijk samen-
+wonende binnen de grenzen van de rechten die hem zijn toegekend), in de orde en overeenkomstig de regels die hierna worden bepaald.’ Uit de info van het rijksregister blijkt dat verzoekster en haar partner […]
+niet gehuwd zijn. Om die reden kan verzoekster niet beschouwd worden als een aanverwant in de tweede graad. Aangezien verzoekster op het ogenblik van de feiten evenmin met het overleden slachtoffer in duurzaam gezins-
+verband samenleefde, volgt dat zij niet kan worden ondergebracht in de hierboven geciteerde omschrijving.
+Gelet op het bovenstaande komt verzoekster niet in aanmerking voor een financiële hulp vanwege de Staat.
+De Commissie wenst evenwel te beklemtonen dat de afwijzing van voor-
+liggend verzoekschrift evident geen afbreuk doet aan het leed van verzoek-
+ster en de familie van haar partner, waarvoor de Commissie alle begrip be-
+toont. Als administratief rechtscollege heeft de Commissie zich evenwel te houden aan de wettelijke en reglementaire bepalingen die haar werking re-
+gelen.”
+IV. Onderzoek van het enige middel
+Standpunt van de partijen
+4. In het enige middel, voor zover toelaatbaar bevonden, verwijt verzoekster de commissie een schending van het gelijkheidsbeginsel, door in haar beslissing verzoekster anders te behandelen dan wanneer zij met haar partner, de zoon van het slachtoffer, gehuwd zou zijn. Verzoekster was een volwaardige schoondochter van het slachtoffer. Het feit dat zij wettelijk samenwonend was en niet gehuwd met de zoon van het slachtoffer, doet hieraan volgens verzoekster geen afbreuk. Het gaat volgens haar niet op “om te stellen dat een wettelijk samenwo-
+nende partner geen aanverwant kan zijn”. In het erfrecht worden ook erfrechten toegekend aan wettelijk samenwonenden, parallel aan het voorbeeld van gehuw-
+den.
+5. De verwerende partij werpt in de memorie van antwoord op dat verzoekster verzuimd heeft om het middel betreffende het gelijkheidsbeginsel voor te leggen aan de commissie, ofschoon zij dit had gekund. Zij heeft de mogelijkheid
+IX-10.651-4/9
+om dit middel voor de commissie aan te voeren, onbenut gelaten. Verzoekster kan het middel thans niet voor het eerst voor de Raad van State als administratieve cassatierechter aanvoeren, noch de Raad verzoeken om desgevallend in het kader van dit middel een prejudiciële vraag te stellen aan het Grondwettelijk Hof alvorens recht te doen.
+Voor de beantwoording van de vraag of de beperking opgelegd door artikel 31, eerste lid, 2°, van de wet van 1 augustus 1985 ‘houdende fiscale en andere bepalingen’ (“de wet van 1 augustus 1985”) bestaanbaar is met het gelijk-
+heidsbeginsel kan volgens de verwerende partij nuttig worden verwezen naar arrest nr. 131/2000 van het Grondwettelijk Hof van 13 december 2000. In dat arrest oor-
+deelt het Grondwettelijk Hof dat, rekening houdend met de doelstelling van de wet, met de aard van de in het geding zijnde subsidiaire schadevergoedingsregeling en met de beperking van de middelen, “het objectief en pertinent [is] dat de wetgever die ‘vergoeding’ enkel verleent aan de slachtoffers van opzettelijke gewelddaden die op wettige wijze op Belgisch grondgebied verblijven (zijn onderdanen en be-
+paalde categorieën van vreemdelingen) en niet aan dergelijke slachtoffers die deze voorwaarde niet vervullen”. De motivering van dit arrest is mutatis mutandis van toepassing op de huidige zaak, zo stelt de verwerende partij.
+6. In de memorie van wederantwoord merkt verzoekster op, wat het in casu door de wetgever beoogde doel betreft – namelijk de vergoeding van leed – dat zij zich door haar wettelijk samenwonen in exact en wezenlijk dezelfde situ-
+atie bevindt als zou zij gehuwd zijn met de zoon van het slachtoffer. Een verschil in behandeling is met andere woorden niet verantwoordbaar.
+IX-10.651-5/9
+Beoordeling
+a. ontvankelijkheid van het middel
+7. In de mate dat verzoekster in de memorie van wederantwoord nader ingaat op de schending van de jurisdictionele motiveringsplicht en aldus dat middelonderdeel blijkt te handhaven, lijkt zij de beschikking inzake de toelaatbaar-
+heid niet gelezen te hebben, aangezien dat onderdeel niet toelaatbaar is verklaard.
+8.1. De verwerende partij werpt op dat verzoekster het middel niet voor het eerst voor de Raad van State als administratieve cassatierechter mag aan-
+voeren.
+8.2. Het is pas na kennisneming van de bestreden beslissing dat ver-
+zoekster in de gelegenheid was in haar cassatieberoep daartegen rechtsmiddelen aan te voeren. Zij heeft immers van de thans door haar aangevoerde onwettigheid die betrekking heeft op de wijze waarop de commissie haar hoedanigheid als on-
+rechtstreeks slachtoffer beoordeelt en invulling geeft aan het begrip ‘aanverwant-
+schap’, maar kennis kunnen nemen bij lectuur van de bestreden beslissing.
+Voorts blijkt uit de bestreden beslissing dat de commissie door de raadpleging van het rijksregister kennis had van de wettelijke samenwoning van verzoekster met de zoon van het slachtoffer, zodat verzoekster aan dat feitelijk ge-
+geven een cassatiemiddel mag ontlenen.
+De exceptie faalt.
+IX-10.651-6/9
+b. gegrondheid van het middel
+9. Artikel 31, eerste lid, 2°, van de wet van 1 augustus 1985, hier-
+vóór sub 3.3 in de bestreden beslissing aangehaald, opent een mogelijkheid tot hulpverlening voor drie categorieën van onrechtstreekse slachtoffers:
+- “erfgerechtigden, in de zin van artikel 731 van het Burgerlijk Wetboek, tot en met de tweede graad van een persoon die overleden is als rechtstreeks gevolg van een opzettelijke gewelddaad;”
+- “aanverwanten tot en met dezelfde graad;”
+- “personen die in duurzaam gezinsverband samenleefden met de overledene.”
+10. Uit de toelichting bij het middel blijkt dat verzoeksters kritiek erop gericht is dat zij als met de zoon van het slachtoffer wettelijk samenwonende geen gelijke behandeling krijgt “dan wanneer zij met [die zoon] gehuwd zou zijn”.
+Het gaat volgens haar niet op “om te stellen dat een wettelijk samenwonende part-
+ner geen aanverwant kan zijn”.
+Verzoekster vergelijkt haar situatie met andere woorden met deze van de “aanverwanten tot en met dezelfde graad”, bedoeld in artikel 31, eerste lid, 2°, van de wet van 1 augustus 1985.
+Het middel wordt onder dat oogpunt onderzocht.
+11. De commissie oordeelt dat verzoekster “niet beschouwd [kan]
+worden als een aanverwant in de tweede graad”, omdat “verzoekster en haar part-
+ner […] niet gehuwd zijn”.
+12. Volgens het Hof van Cassatie (ECLI:BE:CASS:2024:
+ARR.20240408.3N.3) ziet de term ‘aanverwant’ in beginsel “op de relatie die door het huwelijk ontstaat met de bloedverwanten van de echtgenoot of echtgenote”, dus via het burgerlijk huwelijk.
+IX-10.651-7/9
+Wettelijke samenwoning leidt dus, behoudens uitdrukkelijke ge-
+lijkstelling, niet tot aanverwantschap.
+De beslissing van de commissie spoort met deze rechtspraak. In tegenstelling tot in het erfrecht – zie inzonderheid het sub 3.3 in de bestreden be-
+slissing aangehaalde artikel 731 van het oud Burgerlijk Wetboek (thans artikel 4.10, § 1, BW) of nog, het fiscaal stelsel van het wettelijk samenwonen – ontbreekt in artikel 31, eerste lid, 2°, van de wet van 1 augustus 1985 een uitdrukkelijke ge-
+lijkschakeling van het wettelijk samenwonen met het huwelijk voor het bepalen van de aanverwantschap tot de tweede graad.
+13. Wat verzoekster in het middel aanvoert, is kritiek op de wetge-
+ver, die heeft nagelaten in de wet van 1 augustus 1985 een gelijkstelling op te ne-
+men tussen huwelijk en wettelijke samenwoning.
+Volgens de verwerende partij kan die kritiek worden gepareerd door de rechtspraak van het Grondwettelijk Hof in zijn arrest nr. 131/2000 van 13 december 2000, mutatis mutandis door te trekken.
+De Raad van State stelt evenwel vast dat voormeld arrest geen betrekking had op vormen van civielrechtelijke verwantschap ingevolge de levens-
+keuze van de betrokkenen, maar wel op het al dan niet bezitten van de staat van Belg.
+14. Het past, om aan het Grondwettelijk Hof de hierna in het dictum geformuleerde vraag voor te leggen.
+BESLISSING
+1. De Raad van State heropent het debat.
+2. Aan het Grondwettelijk Hof wordt de volgende vraag voorgelegd:
+IX-10.651-8/9
+Schendt artikel 31, eerste lid, 2°, van de wet van 1 augustus 1985 ‘houdende fiscale en andere bepalingen’ de artikelen 10 en 11 van de Grondwet door-
+dat het van de in die bepaling bedoelde financiële hulp diegene uitsluit die wettelijk samenwoont met een partner, terwijl zij voor die hulp wel in aan-
+merking komt als ‘aanverwant tot en met de tweede graad’ indien zij met diezelfde partner ware gehuwd?
+3. Het door de auditeur-generaal aan te stellen lid van het auditoraat wordt belast met het nader onderzoek van de zaak na ontvangst van de uitspraak van het Grondwettelijk Hof.
+Dit arrest is uitgesproken te Brussel, op zestien december tweeduizend vijfentwin-
+tig, door de Raad van State, IXe kamer, samengesteld uit:
+Geert Van Haegendoren, kamervoorzitter, Jurgen Neuts, staatsraad, Jim Deridder, staatsraad, bijgestaan door Tiny Temmerman, griffier.
+De griffier De voorzitter
+Tiny Temmerman Geert Van Haegendoren
+IX-10.651-9/9
