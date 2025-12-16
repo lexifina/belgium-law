@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2025:ARR.265.207",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.207",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-16",
+  "date_as_printed": "Vonnis/arrest van 16 december 2025",
+  "published_on_juportal": "2025-12-16",
+  "language": "nl",
+  "role_number": "A. 242483/X-18762",
+  "case_name_as_published": "Arrest 265207 - Plaatselijk openbaar ambt - Aanwerving en loopbaan - 16/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.207",
+  "source_sha256": "505200e6ac88cfb16341e4af144a39a555fe505308b962d69fcf75aee404e71f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.207_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_42.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
