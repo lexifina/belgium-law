@@ -1,0 +1,121 @@
+ecli_input     ECLI:BE:RVSCE:2025 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old ecli_annee     2025 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2025 invalide Invalid ECLI ID - 4 element(s)
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+XIIIe CHAMBRE
+no 265.219 du 17 décembre 2025
+A. 234.683/XIII-9432
+En cause : M.L., ayant élu domicile chez Me Romain VINCENT, avocat, rue des Fories 2
+4020 Liège, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Me Xavier DRION, avocat, rue Hullos 103-105
+4000 Liège, Partie intervenante :
+la commune de Stoumont, représentée par son collège communal, ayant élu domicile chez Me Jean-Marc RIGAUX, avocat, boulevard d’Avroy 270
+4000 Liège.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 28 septembre 2021 par la voie électronique, la partie requérante demande l’annulation de l’arrêté du 23 juillet 2021 par lequel le ministre de l’Aménagement du territoire refuse de lui délivrer un permis d’urbanisme ayant pour objet la construction d’une auberge, de neuf ecolodges et d’un bâtiment d’observation ornithologique sur un bien sis Roannay, 50 à Stoumont.
+II. Procédure
+L’arrêt n° 262.274 du 6 février 2025 (ECLI:BE:RVSCE:2025:
+ARR.262.274) a jugé que le recours en annulation était recevable et que la première branche du quatrième moyen n’était pas fondée. Il a, en conséquence, rouvert les
+XIII - 9432 - 1/9
+débats, chargé le membre de l’auditorat désigné par M. l’Auditeur général adjoint de poursuivre l’instruction et réservé les dépens.
+M. Nicolas Litvine, auditeur au Conseil d’État, a rédigé un rapport sur la base de l’article 13 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Celles-ci ont déposé un dernier mémoire.
+Par une ordonnance du 13 octobre 2025, l’affaire a été fixée à l’audience du 13 novembre 2025.
+M. Luc Donnay, conseiller d’État, a exposé son rapport.
+Me Romain Vincent, avocat, comparaissant pour la partie requérante, Me Xavier Drion, avocat, comparaissant pour la partie adverse, et Me Jean-Marc Rigaux, avocat, comparaissant pour la partie intervenante, ont été entendus en leurs observations.
+M. Nicolas Litvine, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits
+Les faits utiles à l’examen de la cause sont exposés dans l’arrêt n° 262.274
+du 6 février 2025. Il y a lieu de s’y référer.
+IV. Premier moyen en sa première branche
+IV.1. Thèses des parties
+A. La requête en annulation
+Le premier moyen est pris de la violation des articles D.II.21, § 2, 2°, D.II.21 § 2, 3°, D.IV.53, D.IV.66 et R.II.21 du Code du développement territorial (CoDT), du devoir de minutie, du plan de secteur de Stavelot, du principe de motivation matérielle et des articles 2 et 3 de la loi du 29 juillet 1991 relative à la
+XIII - 9432 - 2/9
+motivation formelle des actes administratifs, de l’absence de motifs exacts, pertinents et admissibles en droit, ainsi que de l’erreur manifeste d’appréciation.
+En une première branche, le requérant soutient que l’auteur de l’acte attaqué a commis une erreur en considérant que le projet était destiné à s’implanter dans un périmètre de protection de point de vue remarquable et dans un périmètre d’intérêt paysager inscrits au plan de secteur.
+Il estime que cette erreur traduit un manque de minutie dans le chef de l’autorité, d’autant que le fait que les lieux ne sont pas dans de tels périmètre ressortait des avis du département de la nature et des forêts (DNF) et du parc national des Sources, était explicitement mentionné dans son recours en réformation et avait été rappelé dans un courrier adressé à la suite de la première analyse du recours par la direction juridique, des recours et du contentieux.
+Il considère que cette erreur a faussé l’appréciation de l’autorité sur un élément important de sa décision et qu’elle invalide un des motifs de l’acte attaqué qui, à défaut de hiérarchisation entre ceux-ci, doit être tenu pour déterminant.
+B. Le mémoire en réponse
+La partie adverse indique que le projet se développe sur des parcelles qui sont essentiellement en zone de loisirs mais aussi dans la zone agricole qui la borde et qui figure dans un périmètre d’intérêt paysager inscrit au plan de secteur. Elle reconnaît que les parcelles sur lesquelles des constructions sont sollicitées « sont quant à elles toutes situées en zone de loisirs donc en dehors de la zone de surimpression “périmètre d’intérêt paysager” ou dans un périmètre de point de vue remarquable ».
+Elle affirme en revanche que toute la zone de loisirs et, par conséquent, les parcelles sur lesquelles les constructions sont projetées se trouvent dans un périmètre d’intérêt paysager et des points et lignes de vues remarquables de l’[ASBL]
+ADESA, dont elle reconnaît qu’il n’a pas de valeur réglementaire.
+Elle développe le raisonnement suivant :
+« Il peut être admis que l’information selon laquelle le projet s’implante dans une zone d’intérêt paysager et de point de vue remarquable procède d’une erreur matérielle. Il ne s’agit que d’une erreur matérielle qui n’a pas influencé la partie adverse dans sa décision au même titre d’ailleurs que les autres instances qui ont examiné le projet ».
+Elle met ensuite en évidence des considérations relatives au paysage qui ressortent des réclamations déposées à la suite de l’annonce de projet, que l’on   XIII - 9432 - 3/9
+retrouve dans les avis de la commission communale d’aménagement du territoire et de mobilité (CCATM), du parc naturel des Sources et du collège communal de Stoumont. S’agissant de ce dernier avis, elle estime que la commune de Stoumont « n’indique pas que les terrains sont repris dans un périmètre de point de vue remarquable mais rappelle que le périmètre en surimpression borde les terrains objet du projet de telle sorte qu’ils contribuent à offrir le paysage à protéger ».
+Elle soutient que ces éléments mettent en évidence la qualité paysagère des lieux, indépendamment de tout périmètre, et en déduit que l’autorité n’a pas commis d’erreur manifeste d’appréciation, jugeant que les éléments avancés par le requérant quant à l’impact de son projet n’engagent que sa propre appréciation.
+C. Le mémoire en réplique
+En ce qui concerne son intérêt au moyen, le requérant considère que les illégalités dénoncées ont été susceptibles d’exercer une influence sur le sens de la décision prise et l’ont privé d’une garantie.
+Quant à l’influence de l’élément dénoncé sur la décision, il renvoie au passage de l’acte attaqué dans lequel l’autorité expose les implications de la situation du projet dans un périmètre de point de vue remarquable.
+Quant à la garantie dont il a été privé, il soutient qu’une correcte identification de la situation du projet constitue une garantie pour un demandeur de permis.
+Il conteste la pertinence de la référence, faite dans le mémoire en réponse, à l’ADESA, pointant son absence de caractère réglementaire, ainsi que le fait que l’acte n’y fait pas référence, ce qui fait de l’invocation de cet élément une motivation a posteriori.
+Enfin, il conteste la thèse selon laquelle le périmètre de point de vue remarquable trouve à s’appliquer au projet. À son estime, il convient d’apprécier les prescriptions applicables à celui-ci sur la base de son périmètre et non en fonction des limites des parcelles cadastrales. Il relève en outre qu’aucun des actes et travaux envisagés dans le cadre du projet ne s’implante en zone agricole.
+D. Le mémoire en intervention
+La partie intervenante expose le raisonnement suivant :
+XIII - 9432 - 4/9
+« En premier lieu, [elle] tient à rappeler que le projet est implanté dans un périmètre de point de vue remarquable et non dans un périmètre d’intérêt paysager ;
+En second lieu, on peut remarquer que le périmètre d’intérêt paysager couvre toute la zone, sauf la zone de loisirs qui constitue un petit îlot au milieu des zones agricole et d’intérêt paysager ;
+Cependant, il n’est pas contestable que les parcelles visées par le projet, tel que décrit dans la demande de projet et dans l’acte attaqué, se situent “en infime partie en zone agricole et en majeure partie en zone de loisirs (le projet ne concerne cependant que la zone de loisirs)” ;
+Il résulte de cette constatation que les parcelles sur lesquelles se trouve le projet sont autant en zone agricole qu’en zone de loisirs même si les bâtiments ne s’implantent qu’en zone de loisirs et pas en zone agricole ;
+Le périmètre de point de vue remarquable était donc bien applicable au projet ;
+L’avis de l’ASBL Parc Naturel des Sources et celui du DNF […] ne changent rien à cette constatation ;
+Par ailleurs, l’acte attaqué ne précise pas que le projet se situe en périmètre de point de vue remarquable ».
+Elle estime en outre, s’appuyant sur la formulation de l’acte attaqué, que cette question de droit ne saurait avoir faussé l’appréciation de l’autorité.
+E. Le dernier mémoire de la partie adverse
+La partie adverse soutient que le moyen manque en fait dans la mesure où
+il ressort de la motivation de l’acte attaqué qu’à titre personnel, l’autorité a estimé, indépendamment de toute classification du plan de secteur, que les lieux devaient être préservés.
+F. Le dernier mémoire de la partie intervenante
+La partie intervenante estime que le périmètre d’intérêt paysager et le périmètre de point de vue remarquable ont le même objectif, à savoir préserver la qualité des vues, et « sont deux faces de la même pièce » : le premier « permet de garder la qualité d’un paysage destiné à être vu » et le second « doit maintenir des vues exceptionnelles sur un paysage bâti ou non bâti ». Elle en déduit que même s’il ne s’agissait pas d’une simple erreur matérielle, « les considérations qui sont relatives au paysage ne sont pas affectées par l’erreur, qu’elle soit matérielle ou non ».
+IV.2. Examen
+1. Pour satisfaire aux exigences des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, tout acte administratif
+XIII - 9432 - 5/9
+à portée individuelle doit faire l’objet d’une motivation formelle, laquelle consiste en l’indication, dans l’acte, des considérations de droit et de fait servant de fondement à la décision. Cette motivation doit être claire, pertinente et adéquate afin de permettre aux intéressés de comprendre les raisons fondant la décision et de vérifier que celle-
+ci a été précédée d’un examen des circonstances de l’espèce.
+Lorsqu’une décision administrative se fonde sur plusieurs motifs et en l’absence de précision sur le caractère déterminant de chacun de ceux-ci, ces motifs apparaissent également nécessaires et l’illégalité de l’un d’entre eux suffit à entraîner celle de l’intégralité de l’acte attaqué. Le Conseil d’État ne peut, sous peine d’empiéter sur le pouvoir d’appréciation de l’administration, déterminer si, en l’absence d’un de ces motifs, celle-ci aurait pris la même décision. Ce n’est que lorsque le motif critiqué apparaît, compte tenu de son économie générale, comme étant largement surabondant et comme n’étant certainement pas déterminant de la décision prise que le moyen pris de l’illégalité de ce motif doit être rejeté.
+Par ailleurs, le contrôle du Conseil d’État sur la matérialité des faits et leur qualification est complet.
+2. En l’espèce, l’acte attaqué est notamment motivé comme suit :
+« Considérant que le bien est situé en infime partie en zone agricole et en majeure partie en zone de loisirs (le projet ne concerne cependant que la zone de loisirs), au plan de secteur de Stavelot adopté par AR du 27/05/1977 ; que suivant ledit plan de secteur précité, le bien est également situé dans un périmètre d’intérêt paysager ;
+[…]
+Considérant qu’il se situe également au sein du Parc Naturel des Sources, approuvé par AGW du 06/07/2017, dans le périmètre du Site de Grand Intérêt Biologique n°
+3269 “Vallée du Roannay au Moulin du Ruy”, à +/- 350 m de la réserve naturelle domaniale des "Prairies humides du Roannay" (n° 6396), dans un périmètre de protection de point de vue remarquable, conforme à l’article D.II.21, § 2 du Code et à proximité d’un site Natura 2000 ;
+[…]
+Considérant que le Collège communal a décidé de refuser la demande ; que cette décision a été notifiée en date du 26/03/2021 et est notamment justifiée par les motifs suivants :
+“[…]
+Considérant que le périmètre de protection de point de vue remarquable en surimpression sur le plan de secteur s’applique aux terrains concernés par le projet et a pour but de déterminer les lieux où l’on jouit d’une vue particulièrement belle et de mettre en évidence la présence des plus beaux paysages afin que les autorités aient une attention particulière à la gestion et la préservation du patrimoine paysager” ;
+[…]
+XIII - 9432 - 6/9
+Considérant que l’autorité chargée de statuer sur le présent recours ne peut que se rallier aux avis défavorables émis en l’espèce tant par le fonctionnaire délégué que par le collège communal, lesquels se sont notamment basés sur les multiples avis défavorables au projet émis par les instances consultées en 1ère instance ;
+Considérant en effet que le projet cherche à s’implanter au sein d’une superbe vallée de prairies humides totalement sauvage et vierge de toute construction et éloignée des noyaux urbanisés […] ;
+[…]
+Considérant par ailleurs que le site est également situé dans un périmètre d’intérêt paysager au plan de secteur, au sein du Parc Naturel des Sources, approuvé par AGW du 06/07/2017, à +/- 350 m de la réserve naturelle domaniale des “Prairies humides du Roannay” (n° 6396), dans un périmètre de protection de point de vue remarquable, conforme à l’article D.II.21, § 2 du Code, à proximité d’un site Natura 2000 et, enfin, à proximité de haies remarquables répertoriées sous le n°
+141 sur environ 200 m et n° 157 de la liste arrêtée par arrêté ministériel ;
+Considérant que dans son rapport préalable défavorable au projet pris en séance du 05/02/2021, l’autorité communale a également souligné que : “l’inventaire des sites de la Province de Liège reprend d’ailleurs dans son ouvrage : ‘Le vaste complexe formé par les vallées de l’Amblève dans sa partie la plus sinueuse compris entre Coo et le défilé de Magritte, de son affluent le Roannay, profonde dépression typiquement ardennaise découpée elle-même par de nombreuses rivières latérales – paysage très varié et pittoresque au relief extrêmement vigoureux – grandes étendues forestières, aux essences mélangées sur les hauteurs et les versants rapides au sein des essarts herbagers, sur les replats et plus rarement dans les fonds, se trouvent les hameaux qui présentent tous un intérêt de par leur site propre ou en raison de leur silhouette générale’” ;
+Considérant à l’évidence que le site présente donc des qualités naturelles, paysagères et environnementales incontestables qui méritent la plus haute protection et attention ;
+[…]
+Considérant que le demandeur, qui reconnaît sans conteste que son projet “aura certes un impact paysager incompressible” (cf. page 16 de son contre-
+argumentaire), semble cependant minimiser les effets néfastes de celui-ci précisément sur le site en question qui présente d’exceptionnelles qualités patrimoniales, environnementales et paysagères indéniables ; que dès lors, le présent projet ne peut être comparé avec d’autres qui auraient été acceptés sur le même territoire communal (comme à Roumez ou Chevrouheid ainsi que le plaide le demandeur en page 15 de son argumentaire sur recours) ».
+3. Il résulte des considérants de l’acte attaqué reproduits ci-avant que l’impact paysager du projet constitue un motif ayant conduit l’autorité à adopter une décision de refus.
+4. Si l’arrêté entrepris comporte plusieurs appréciations concrètes quant aux qualités paysagères du site, il reste que, de manière erronée, l’autorité mentionne à cinq reprises qu’au plan de secteur, le projet figure dans un périmètre d’intérêt paysager ou dans un périmètre de point de vue remarquable.
+XIII - 9432 - 7/9
+Une telle répétition d’inexactitudes ne peut être assimilée à une simple erreur de plume.
+Il s’ensuit que les motifs de l’acte attaqué qui comportent cette erreur sont inadmissibles en droit.
+5. Si la situation juridique du bien au plan de secteur ne constitue pas la seule considération développée quant à l’impact paysager du projet, la lecture de l’acte attaqué ne fait nullement apparaître qu’elle est surabondante. Il y a lieu de relever à cet égard que les considérations de l’autorité qui situent le projet au sein de tels périmètres – et soulignent l’attention particulière au paysage qui doit, selon elle, en résulter – précèdent les autres considérations relatives au paysage, de sorte qu’il n’est pas établi que les secondes sont indépendantes des premières.
+6. En conclusion, la première branche du moyen est fondée dans la mesure qui précède, ce qui suffit à entraîner l’annulation de l’acte attaqué. Il n’y a dès lors pas lieu d’examiner la seconde branche du moyen ni les autres moyens de la requête.
+V. Indemnité de procédure
+La partie requérante sollicite une indemnité de procédure liquidée au taux de base. Il y a lieu de faire droit à sa demande.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Est annulé l’arrêté du 23 juillet 2021 par lequel le ministre de l’Aménagement du territoire refuse de délivrer à M.L. un permis d’urbanisme ayant pour objet la construction d’une auberge, de neuf ecolodges et d’un bâtiment d’observation ornithologique sur un bien sis Roannay, 50 à Stoumont.
+Article 2.
+Une indemnité de procédure de 770 euros est accordée à la partie requérante, à la charge de la partie adverse.
+XIII - 9432 - 8/9
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 20 euros, est mise à la charge de la partie adverse.
+Les autres dépens, liquidés à la somme de 350 euros, sont mis à la charge de la partie adverse, à concurrence de 200 euros, et à la charge de la partie intervenante, à concurrence de 150 euros.
+Ainsi prononcé à Bruxelles le 17 décembre 2025, par la XIIIe chambre du Conseil d’État, composée de :
+Luc Donnay, conseiller d’État, président f.f., Géraldine Rosoux, conseiller d’État, Laure Demez, conseiller d’État, Thierry Blanjean, greffier.
+Le Greffier, Le Président,
+Thierry Blanjean Luc Donnay
+XIII - 9432 - 9/9
