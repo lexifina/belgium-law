@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251217.2F.29",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251217.2F.29",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-17",
+  "date_as_printed": "Jugement/arrêt du 17 décembre 2025",
+  "published_on_juportal": "2025-12-29",
+  "language": "fr",
+  "role_number": "P.25.0981.F",
+  "case_name_as_published": "A. contra A.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING"
+  ],
+  "fiche": [
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30 L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 27 - 01 Lien ELI No pub 1878041750",
+    "ACTION PUBLIQUE",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30 L. du 17 avril 1878 contenant le titre préliminaire du code de procédure pénale - 17-04-1878 - Art. 27 - 01 Lien ELI No pub 1878041750"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251217.2F.29",
+  "source_sha256": "afd0d0ebe3a174a4aee29cee101954d4dfe7dcd5fbc8e9832845aff8945d6cd4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251217.2F.29_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_5.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
