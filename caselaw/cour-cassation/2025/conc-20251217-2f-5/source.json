@@ -1,0 +1,32 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2025:CONC.20251217.2F.5",
+  "ecli": "ECLI:BE:CASS:2025:CONC.20251217.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-17",
+  "date_as_printed": "Conclusions du Ministère public du 17 décembre 2025",
+  "published_on_juportal": "2026-01-30",
+  "language": "fr",
+  "role_number": "P.25.1129.F",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ATTENTAT A LA PUDEUR ET VIOL",
+    "AANRANDING VAN EERBAARHEID EN VERKRACHTING"
+  ],
+  "fiche": [
+    "ATTENTAT A LA PUDEUR ET VIOL",
+    "Code pénal 1867 - 08-06-1867 - Art. 417/5 - 01 Lien ELI No pub 1867060850",
+    "ATTENTAT A LA PUDEUR ET VIOL",
+    "Code pénal 1867 - 08-06-1867 - Art. 417/5, al. 2 - 01 Lien ELI No pub 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:CONC.20251217.2F.5",
+  "source_sha256": "e823bd6f1a0545bdf011bd1bb16aea267cddef85a812dccbf93c3d9554819914",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:CONC.20251217.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
