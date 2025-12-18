@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.175",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.175",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-18",
+  "date_as_printed": "Jugement/arrêt du 18 décembre 2025",
+  "published_on_juportal": "2025-12-29",
+  "language": "fr",
+  "role_number": "175/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de la loi du 9 février 2024 « modifiant la loi du 28 juillet 1981 portant approbation de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, et des annexes faites à Washington le 3 mars 1973, ainsi que de l'Amendement à la Convention adopté à Bonn le 22 juin 1979 », introduit par l'ASBL « Safari Club International België Nederland Luxemburg » et autres. Environnement - Bien-être animal - Espèces menacées d'extinction - Commerce international - Importation des trophées de chasse - Interdiction",
+    "het beroep tot vernietiging van de wet van 9 februari 2024 « tot wijziging van de wet van 28 juli 1981 houdende de goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten en van de bijlagen, opgemaakt te Washington op 3 maart 1973, alsmede van de wijziging van de Overeenkomst, aangenomen te Bonn op 22 juni 1979 », ingesteld door de vzw « Safari Club International België Nederland Luxemburg » en anderen. Leefmilieu - Dierenwelzijn - Met uitsterven bedreigde soorten - Internationale handel - Invoer van jachttrofeeën - Verbod"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de la loi du 9 février 2024 « modifiant la loi du 28 juillet 1981 portant approbation de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, et des annexes faites à Washington le 3 mars 1973, ainsi que de l'Amendement à la Convention adopté à Bonn le 22 juin 1979 », introduit par l'ASBL « Safari Club International België Nederland Luxemburg » et autres. Environnement - Bien-être animal - Espèces menacées d'extinction - Commerce international - Importation des trophées de chasse - Interdiction"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.175&lang=fr",
+  "source_sha256": "94ccd6a83f6c8d692342bee90201710b7c21ac1a2025793e4072a07239630e70",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.175_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_76.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
