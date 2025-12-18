@@ -1,0 +1,29 @@
+{
+  "title": "Ordonnance ECLI:BE:RVSCE:2025:ORD.16.561",
+  "ecli": "ECLI:BE:RVSCE:2025:ORD.16.561",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-18",
+  "date_as_printed": "Ordonnance du 18 décembre 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "fr",
+  "role_number": "A. 246286/XI-25359",
+  "case_name_as_published": "Ordonnance de cassation 16561 - Conseil du Contentieux des Etrangers - 18/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ORD.16.561",
+  "source_sha256": "8100deb2f6d9e7bed9658912333f59f1fbe54b62f7aa6eaa08250c45158d7e28",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ORD.16.561_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_84.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
