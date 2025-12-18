@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2025:ARR.177",
+  "ecli": "ECLI:BE:GHCC:2025:ARR.177",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2025-12-18",
+  "date_as_printed": "Jugement/arrêt du 18 décembre 2025",
+  "published_on_juportal": "2025-12-29",
+  "language": "fr",
+  "role_number": "177/2025",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'ordonnance de la Région de Bruxelles-Capitale du 21 mars 2025 « modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Énergie en vue d'autoriser, jusqu'au 31 décembre 2026, l'accès de certains véhicules à la zone de basses émissions », introduit par Alain Martin. Procédure préliminaire - Recours en annulation - Recours sans objet",
+    "het beroep tot vernietiging van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 21 maart 2025 « tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing teneinde bepaalde voertuigen toe te laten in de lage-emissiezone tot 31 december 2026 », ingesteld door Alain Martin. Voorafgaande rechtspleging - Beroep tot vernietiging - Beroep zonder voorwerp"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'ordonnance de la Région de Bruxelles-Capitale du 21 mars 2025 « modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Énergie en vue d'autoriser, jusqu'au 31 décembre 2026, l'accès de certains véhicules à la zone de basses émissions », introduit par Alain Martin. Procédure préliminaire - Recours en annulation - Recours sans objet"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2025:ARR.177&lang=fr",
+  "source_sha256": "707846781c078edc1a101c4281db41af12ce329cd21ac7367e8d182b8275b8ae",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2025:ARR.177_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_77.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
