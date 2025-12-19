@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.251",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.251",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-19",
+  "date_as_printed": "Jugement/arrêt du 19 décembre 2025",
+  "published_on_juportal": "2025-12-22",
+  "language": "fr",
+  "role_number": "A. 243427/XV-6120",
+  "case_name_as_published": "Arrêt 265251 - Bien-être des animaux - 19/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.251",
+  "source_sha256": "b7a550a0d07d546a077e693a6a9b380ca24ad3ee5cfecb7f37d1ae0bc08ce6f7",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.251_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/14/sitemap_90.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
