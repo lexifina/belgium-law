@@ -1,0 +1,148 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+VIe CHAMBRE
+no 265.257 du 19 décembre 2025
+A. 234.723/VI-22.165
+En cause : la société anonyme HANSA LUFTBILD, ayant élu domicile chez Me Marie VASTMANS, avocat, chaussée de La Hulpe 187
+1170 Watermael-Boitsfort, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Me Emmanuelle BERTRAND, avocat, avenue de l’Observatoire 10
+4000 Liège.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 4 octobre 2021, la partie requérante demande l’annulation de « la décision de la partie adverse du 5 août 2021 d’attribuer le marché public de “Fourniture d’orthophotos couleur numériques d’une résolution de 0.25 M
+en période estivale” à l’Association Momentanée Aerodata France / IMAO, […], pour un montant total de 197.127,00 € TVAC ».
+II. Procédure
+Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+M. Pacôme Noumair, auditeur adjoint au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Les parties ont déposé un dernier mémoire.
+VI - 22.165 - 1/12
+Par une ordonnance du 7 novembre 2025, l’affaire a été fixée à l’audience du 10 décembre 2025.
+La contribution et les droits visés respectivement aux articles 66, 6°, et à l’article 70, de l’arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d’État ont été acquittés.
+M. Xavier Close, conseiller d’État, a exposé son rapport.
+Me Jean-Luc Teheux loco Me Emmanuelle Bertrand, avocat, comparaissant pour la partie adverse, a été entendu en ses observations.
+M. Pacôme Noumair, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Exposé des faits utiles
+1. Le 7 mai 2021, la partie adverse publie au Bulletin des adjudications un avis relatif à la passation, selon une procédure négociée directe avec publication préalable, d’un marché ayant pour objet « la fourniture d’orthophotos “été” couleur numériques d’une résolution de 0.25 m et la fourniture d’un Modèle Numérique de Surface d’une résolution de maximum 1 m, cohérent avec les orthophotos, (offre de base) conformément aux prescriptions techniques spécifiées dans la section C de la partie I du cahier spécial des charges, ainsi que plusieurs options obligatoires ».
+Selon la partie adverse, les orthophotographies sont des images aériennes de la « surface terrestre rectifiée géométriquement et égalisées radiométriquement », prises à partir d’une caméra montée sur un avion spécialement équipé.
+L’avis précise que le marché est d’une durée de douze mois et qu’il doit être attribué au soumissionnaire ayant remis l’offre économiquement la plus avantageuse, selon trois critères d’attributions, à savoir le prix (35%), la valeur technique (45%) et la fiabilité de l’approvisionnement (20%).
+2. À la date limite de dépôt des offres, le 31 mai 2021, il est constaté qu’en plus de la requérante, trois autres soumissionnaires ont déposé une offre.
+3. Le 27 juillet 2021, la partie adverse attribue le marché à l’association
+VI - 22.165 - 2/12
+momentanée Aerodata France / IMAO pour un montant total de 197.127,00 € HTVA, soit 238.523,67 € TVAC.
+Il s’agit de l’acte attaqué.
+L’offre de la requérante est déclarée irrégulière pour le motif suivant :
+« Les offres reçues ne comportent pas de réserves ou d’éléments qui ne concordent pas avec la réalité, excepté l’offre de la société Hansa Luftbild (à partir de la 2ème semaine d’août) sur la période d’acquisition complète demandée dans le Cahier Spécial des Charges (ci-après dénommé “CSC”), soit jusqu’au 15 septembre 2021.
+Il s’agit du non-respect d’une des exigences minimales du marché : celle relative aux délais d’exécution du marché. Cette exigence présente un caractère essentiel :
+le fait de suspendre le délai met en danger la bonne exécution du marché. L’offre est irrégulière sur ce point ».
+La partie adverse identifie également des irrégularités dans les offres d’autres soumissionnaires mais souligne que celles-ci ont été régularisées :
+« La signature électronique des sociétés Aerodata France / IMAO et de GEOFIT
+EXPERT n’était pas conformes. Le pouvoir adjudicateur (PA) a bien prévu dans le CSC que la signature devait figurer sur le formulaire d’offre initial […].
+Cependant, l’article 76, § 5, de l’AR du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques prévoit que : “pour les marchés dont le montant estimé est inférieur au seuil fixé pour la publicité européenne et pour lesquels il est fait usage d’une procédure permettant une négociation, le pouvoir adjudicateur décide soit de déclarer nulle l’offre affectée d’une irrégularité substantielle, soit de faire régulariser cette irrégularité”. Dans le cas qui nous occupe, écarter ou non cette offre relevait donc du pouvoir discrétionnaire du PA :
+il pouvait faire régulariser cette irrégularité dans la BAFO (Best And Final Offer)
+pourvu que le principe d’égalité entre soumissionnaires soit strictement respecté.
+Le principe d’égalité entre soumissionnaires a en effet été respecté, les offres de l’Association Momentanée Aerodata France / IMAO et GEOFIT EXPERT ayant été envoyées électroniquement avant la date et l’heure d’ouverture des offres ».
+4. L’acte attaqué est notifié à la requérante par un courrier recommandé du 5 août 2021.
+IV. Recevabilité du recours
+IV.1. Thèse de la partie adverse
+La partie adverse expose que « l’exigence d’intérêt au recours requiert, d’une part, que le requérant soit affecté par la décision dont il poursuit l’annulation et, d’autre part, que, si celle-ci est prononcée, elle procure un avantage à ce requérant ».
+Elle soutient que la requérante ne disposerait d’un intérêt au recours que si elle démontrait que c’est à tort que son offre a été jugée irrégulière. Elle mentionne l’arrêt n° 212.298 du 29 mars 2011 du Conseil d’État à l’appui de sa thèse. Elle estime
+VI - 22.165 - 3/12
+qu’en l’espèce, « la requérante ne démontre pas que son offre est régulière dès lors qu’elle viole une disposition du CSCh relative au délai d’exécution et plus précisément au délai endéans lequel les prises de vue aériennes devaient être réalisées ».
+IV.2. Appréciation du Conseil d’État
+L’article 14 de la loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions soumet la recevabilité du recours à deux conditions. D’une part, le recours doit être introduit par une personne qui a, ou a eu, intérêt à obtenir le marché. D’autre part, il faut que les violations alléguées aient lésé, ou risqué de léser, le requérant.
+En l’occurrence, la requérante a déposé une offre dans le cadre de la procédure de passation. Elle a dès lors disposé d’un intérêt à obtenir le marché.
+Dans son premier moyen, la requérante soutient par ailleurs que les motifs qui fondent la décision de la partie adverse de déclarer son offre irrégulière sont eux-
+mêmes irréguliers. À supposer cette critique fondée, l’irrégularité ainsi dénoncée par la requérante a pu la léser en la privant de la possibilité de voir son offre comparée aux autres offres déposées.
+Le recours est dès lors recevable.
+V. Premier moyen
+V.1. Thèses des parties
+A. Thèse de la requérante
+La requérante soulève un premier moyen pris de « la violation des articles 4 et 83 de la loi du 17 juin 2016 relative aux marchés publics ; […] de l’article 76 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques ; […] des articles 10 et 11 de la Constitution ; […] des principes généraux du droit et, plus particulièrement, des principes d’égalité de traitement entre les soumissionnaires, de minutie, de comparaison effective des offres, de transparence, de libre concurrence et du principe patere legem quam ipse fecisti ; […]
+du cahier spécial des charges ; de la méconnaissance de l’offre déposée par la requérante et de la foi due aux actes ; de l’erreur manifeste d’appréciation ; et de l’excès de pouvoir ».
+VI - 22.165 - 4/12
+Dans la première branche du moyen, la requérante relève que son offre a été écartée pour irrégularité, pour le motif qu’elle ne respectait pas une exigence minimale du marché, relative à la période d’exécution. Elle revient sur la notion d’irrégularité substantielle, et rappelle qu’un pouvoir adjudicateur doit motiver en la forme sa décision « en expliquant de manière suffisamment concrète et précise en quoi l’irrégularité invoquée est substantielle ou non substantielle et éventuellement permettre sa régularisation ».
+Elle note qu’en l’occurrence, son offre a été déclarée irrégulière en raison du calendrier d’exécution y annexé, dans lequel elle « a fixé le début de l’exécution du marché à la deuxième semaine du mois de juin 2021 et la fin de ladite exécution à la quatrième semaine du mois de septembre 2021, avec une période de réserve, pour ce qui concerne l’acquisition des données, allant de la deuxième semaine du mois d’août à la deuxième semaine du mois de septembre ».
+Elle rappelle les exigences du cahier spécial des charges en ce qui concerne le calendrier des prises de vues, et affirme que son offre respectait bien ces exigences. Elle explique que la période qualifiée de « réservé » mentionnée dans son calendrier est indiquée à titre informatif dans l’hypothèse « où il y aurait des retards inattendus dans la collecte des données ». Elle souligne que son offre « respecte le délai d’exécution des prises de vue fixé par le cahier spécial des charges puisqu’elle s’étend jusqu’à la deuxième semaine du mois de septembre 2021, de sorte que la date du 15 septembre 2021 est bien respectée ».
+La requérante affirme qu’à supposer que son offre ait été irrégulière, « le délai d’exécution n’était pas à ce point essentiel pour que son non-respect doive obligatoirement entraîner » son écartement. Elle note, à ce sujet, que la partie adverse n’a notifié la décision d’attribution du marché que le 5 août 2021. Elle présume que l’attributaire du marché n’a probablement pas été en mesure de respecter le délai du 15 septembre 2021, compte tenu, à la fois, de ce retard et des mauvaises conditions météorologiques.
+B. Mémoire en réponse
+Au sujet de la première branche du moyen, la partie adverse rappelle la notion d’irrégularité substantielle. Elle explique que, s’agissant de la prise de vues aériennes en été, l’exécution du marché nécessite de prendre en considération les conditions temporelles et météorologiques. Elle souligne plusieurs passages du cahier des charges dont elle déduit le caractère essentiel de la période d’acquisition des données imposée par le cahier spécial des charges.
+VI - 22.165 - 5/12
+Selon elle, « en prévoyant une période de réserve entre la deuxième semaine du mois d’août à la deuxième semaine du mois de septembre et corrélativement en se dispensant de prise de vues aériennes et d’acquisition de données endéans cette période, la requérante déroge donc à une condition essentielle du contrat et surtout met en péril l’exécution de ce marché ainsi que l’obligation de fournir les orthophotographies exigées ; obligation qualifiée expressément de résultat par le cahier spécial des charges ».
+Elle réfute l’affirmation que la date tardive d’attribution démontre l’absence de caractère essentiel du délai d’exécution. Elle explique les circonstances qui ont entraîné ce retard, et souligne qu’il n’affecte pas « l’objectif même du marché, à savoir la fourniture d’orthophotographies “été” ». Elle soutient qu’en l’espèce « en notifiant le 5 août 2021, l’adjudicataire dispos[ait] encore d’un mois et 10 jours pour procéder aux prises de vue » mais que la requérante dérogeait aux clauses du marché et réduisait la période d’acquisition « en prévoyant une période de réserve, dans le calendrier des vols durant lesquels ont lieu les prises de vue et donc l’acquisition des données, allant de la deuxième semaine du mois d’août à la deuxième semaine du mois de septembre », faisant ainsi obstacle « à la possibilité d’obtenir les orthophotographies “été” ».
+C. Mémoire en réplique
+La requérante reproduit les arguments de sa requête.
+Elle ajoute que la note méthodologique jointe à son offre mentionnait que les vols seraient réalisés « entre le 15 juin et le 15 septembre 2021 », de sorte que le planning proposé mettait à profit « l’ensemble des périodes météorologiques favorables pour réaliser le plus grand nombre de prises de vue et ne mettrait pas en péril l’exécution du marché ».
+Elle présume que la partie adverse a interprété le terme « réservé »
+mentionné dans l’offre comme étant une période durant laquelle la requérante n’effectuerait pas de prise de vue. Or, elle indique que cette période a été prévue dans le planning à titre informatif dans l’éventualité où des retards surviendraient.
+Elle considère que, si la partie adverse avait un doute quant à l’interprétation à donner à cette période de réserve, il lui appartenait de l’interroger sur pied de l’article 66, § 3, de la loi du 17 juin 2016 relative aux marchés publics.
+Elle souligne que la partie adverse, en attribuant le marché tardivement, s’est privée de presque sept semaines pour l’acquisition de données requises par le
+VI - 22.165 - 6/12
+marché, ce qui laisse penser que le calendrier d’exécution n’était pas une condition essentielle du marché. Elle relève que la partie adverse n’affirme pas que le planning proposé par la requérante aurait rendu impossible l’exécution du marché.
+Elle conclut que c’est à tort que son offre a été écartée pour irrégularité substantielle.
+D. Dernier mémoire de la partie adverse
+La partie adverse estime qu’elle disposait d’un pouvoir d’appréciation lorsqu’elle a considéré « la période qualifiée de “réservé” dans le planning de la requérante comme étant une période endéans laquelle cette dernière s’est contractuellement “réservé” la possibilité de ne pas prendre les prises de vue et donc l’acquisition des données de la deuxième semaine du mois d’août à la deuxième semaine du mois de septembre ».
+Elle soutient que l’analyse de l’offre ne permet pas de confirmer que la période qualifiée de « réservé » dans le planning aurait été indiquée à titre informatif par la requérante, ou que cette mention impliquait que la requérante gardait cette période en réserve pour effectuer des prises de vue, au besoin.
+Elle ajoute ce qui suit :
+« De même, l’utilisation des termes période “réservé” que l’on retrouve uniquement dans l’offre de la requérante ne peut logiquement s’expliquer que par la distinction que la requérante a entreprise entre la période dite d’acquisition et celle endéans laquelle elle s’était réservé la faculté de ne pas réaliser les prises des vues. Si tel n’était pas le cas, l’on comprendrait difficilement la raison pour laquelle la requérante a d’initiative différencié ces périodes. Dans ce contexte, il n’est donc pas déraisonnable que la partie adverse ait pu considérer que l’engagement de la requérante était incertain ».
+V.2. Appréciation du Conseil d'État
+L’article 83 de la loi du 17 juin 2016 relative aux marchés publics et l’article 76 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques imposent au pouvoir adjudicateur de vérifier la régularité des offres.
+En présence d’une irrégularité dans l’offre d’un soumissionnaire, le pouvoir adjudicateur doit en constater l’existence, qualifier cette irrégularité de substantielle ou de non substantielle, énoncer les motifs sur lesquels il se fonde pour le faire et tirer les conséquences que l’article 76, précité, attache à cette qualification, en motivant la décision qu’il prend à ce sujet.
+VI - 22.165 - 7/12
+Le constat du pouvoir adjudicateur qu’une offre est irrégulière doit, comme tout acte administratif, reposer sur des motifs exacts, pertinents et légalement admissibles.
+Le cahier spécial des charges comporte les exigences suivantes quant au calendrier d’exécution des prises de vues :
+« C.3.1. Calendrier d’exécution des prises de vues Les prises de vues sont entièrement réalisées durant l’année 2021. Les prises de vue ont lieu dès que possible et jusqu’au 15 septembre, de manière à obtenir une couverture utilisable par les forestiers, à savoir avec une végétation suffisamment développée.
+Cette couverture sera complémentaire à celle acquise dans le cadre du marché cadre 2019-2021(CSCh S1.08.01-18K523) ce qui signifie que ce marché vise à acquérir de nouveau les zones survolées avant le 1er mai par le marché-cadre 2019-
+2021(CSCh S1.08.01-18K523) (ou cas exceptionnel de zones dans lesquelles la végétation serait jugée, par l’adjudicataire, sans feuille après le 1er mai). Il s’agira donc d’un pourcentage encore inconnu au moment de la rédaction de ce cahier des charges.
+Durant la période d’acquisition et tant que des prises de vues doivent encore être réalisées, chaque période favorable du point de vue de la météo doit être exploitée (cf. Conditions météorologiques au point C.3.3). À défaut, l’adjudicateur appliquera les procédures prévues Partie III aux points I.1. Et J.
+Une modification du calendrier d’exécution des prises de vue peut être accordée exceptionnellement et uniquement en raison de conditions météorologiques exceptionnelles ou de l’absence répétée d’autorisations de vol empêchant les prises de vues aériennes. Le SPW en est averti le premier et le dernier jour de la période d’empêchement, par e-mail, avec confirmation par courrier ordinaire (Cf. Partie III, Point I.1.)
+Pour apprécier l’existence de conditions atmosphériques propices, il est tenu compte uniquement des observations émanant des stations de l’IRM ou météorologiques locales les plus proches des endroits concernés. Toute demande de l’opérateur économique de prolongation ou de suspension de délai consécutive à de mauvaises conditions météorologiques est accompagnée des observations des mêmes autorités attestant de l’impossibilité des prises de vues aériennes ».
+L’offre déposée par la requérante est accompagnée par le planning suivant, que la requérante reproduit dans sa requête en annulation :
+VI - 22.165 - 8/12
+Ce planning mentionne que les prestations « vols, acquisition des données » doivent se dérouler en huit « blocs », prenant place entre la troisième semaine de juin à la première semaine d’août. Concernant les cinq semaines suivantes, de la deuxième semaine d’août à la deuxième semaine de septembre, et pour les mêmes prestations, le planning contient la mention « réservé ». Le document ne comporte par ailleurs aucune explication de ce qu’il faut entendre par ce dernier terme.
+La note de « méthodologie technique » jointe à l’offre de la requérante comporte toutefois des explications détaillant le travail à réaliser durant les différents « blocs » d’acquisition des données, ainsi que le passage suivant :
+« Les vols Les vols seront réalisés entre de 15 juin et le 15 septembre 2021. En amont de la prise de vue les autorisations et habilitations de vol et le certificat de calibration de la caméra seront fournis.
+La hauteur solaire ne sera jamais inférieure à 20°. Les prises de vues seront réalisées sur une période la plus courte possible, pour des conditions météorologiques les plus optimales :
+- atmosphère sèche avec une visibilité de 7 km ;
+- pas de nuages ;
+- temps ensoleillé sans nuage ou très faible voile nuageux d’altitude homogène ;
+- absence d’inondations.
+Les vols prendront 1 ou 2 jours par bloc ».
+L’acte attaqué déclare l’offre de la requérante irrégulière pour les motifs suivants :
+« Les offres reçues ne comportent pas de réserves ou d’éléments qui ne concordent pas avec la réalité, excepté l’offre de la société Hansa Luftbild (à partir de la 2ème semaine d’août) sur la période d’acquisition complète demandée dans le Cahier Spécial des Charges (ci-après dénommé “CSC”), soit jusqu’au 15 septembre 2021.
+Il s’agit du non-respect d’une des exigences minimales du marché : celle relative aux délais d’exécution du marché. Cette exigence présente un caractère essentiel :
+le fait de suspendre le délai met en danger la bonne exécution du marché. L’offre est irrégulière sur ce point ».
+Les parties s’entendent sur le fait que ce motif reproche à l’offre de la requérante d’exclure, par l’utilisation du terme « réservé » dans le calendrier reproduit plus haut, que des prises de vues soient réalisées de la deuxième semaine d’août à la deuxième semaine de septembre.
+Ce motif repose sur une lecture de l’offre de la requérante qui ne peut être admise.
+VI - 22.165 - 9/12
+Il ressort des spécifications techniques du marché que les prises de vues, qui sont le préalable de la fourniture à la partie adverse d’orthophotos numériques, doivent être « entièrement réalisées durant l’année 2021 » et qu’elles doivent avoir « lieu dès que possible et jusqu’au 15 septembre, de manière à obtenir une couverture utilisable par les forestiers, à savoir avec une végétation suffisamment développée ».
+Il est encore précisé que « durant la période d’acquisition et tant que des prises de vues doivent encore être réalisées, chaque période favorable du point de vue de la météo doit être exploitée ».
+Le cahier des charges impose par ailleurs à l’attributaire du marché d’effectuer les prises de vue lorsque les conditions suivantes sont réunies :
+« Les prises de vues sont effectuées au cours d’une période offrant les conditions optimales pour garantir la qualité requise avec un angle d’élévation solaire supérieur ou égal à 20° (fonction de la saison et de l’heure de prise de vue). Les photos sont exemptes de nuages. Les prises de vues sont réalisées sous de bonnes conditions atmosphériques, c’est-à-dire avec une visibilité au sol de 7 km minimum. Les photographies aériennes sont également prises obligatoirement en absence d’inondations.
+L’expérience a montré que le nombre de jours favorables aux prises de vue, du point de vue météorologique, en Wallonie est réduit. L’opérateur économique veillera à en tirer profit dès qu’ils se présentent. En particulier, si l’opérateur économique laisse passer trois jours favorables, de façon consécutive, il sera considéré comme défaillant ».
+Ces spécifications contraignent les soumissionnaires à envisager un planning dans lequel les prises de vue ont lieu le plus tôt possible – la date du 15 septembre étant une date ultime – et à prévoir l’éventualité de conditions climatiques défavorables qui pourraient les obliger à différer le travail d’acquisition des données.
+Il est dès lors conforme aux exigences du cahier des charges que le planning de la requérante prévoit la réalisation des huit blocs de prises de vue avant l’échéance du 15 septembre 2021, en laissant disponibles les semaines précédant cette date pour d’éventuelles prises de vue, si cela s’avère nécessaire en raison, par exemple, de mauvaises conditions météorologiques.
+L’affirmation de la partie adverse selon laquelle l’offre de la requérante comporte une « réserve » visant à réduire la période d’acquisition des données, semble – à défaut de toute autre explication – reposer uniquement sur une proximité entre ce mot et le terme « réservé » utilisé dans le calendrier proposé par la requérante. Ce raisonnement apparaît en contradiction avec la logique, imposée aux soumissionnaires par les documents du marché, selon laquelle l’attributaire doit réaliser l’acquisition des données aussitôt que les conditions climatiques le permettent. Il est en toute
+VI - 22.165 - 10/12
+hypothèse inconciliable avec la mention expresse, contenue dans l’offre de la requérante, selon laquelle « les vols seront réalisés entre le 15 juin et le 15 septembre 2021 ».
+Les mentions de l’offre de la requérante ne permettaient pas, en l’état, à la partie adverse de conclure que celle-ci comprenait une réserve quant à l’engagement d’acquérir des données, au besoin, jusqu’au 15 septembre 2021. Si la partie adverse estimait qu’il existait une ambiguïté à cet égard dans l’offre de la requérante, malgré les mentions expresses qu’elle contient, il lui appartenait de faire usage de la prérogative que lui accorde l’article 66, § 3, de la loi du 17 juin 2016 relative aux marchés publics pour demander une clarification.
+Le constat de l’irrégularité de l’offre de la requérante repose sur un motif inexact.
+Le premier moyen, en sa première branche, est fondé.
+VI. Autres branches et moyens
+La deuxième branche du premier moyen, et les autres moyens, s’ils étaient fondés, ne pourraient mener à une annulation plus étendue. Il n’y a dès lors pas lieu de les examiner.
+VII. Indemnité de procédure et autres dépens
+La partie requérante sollicite une indemnité de procédure de 770 euros. Il y a lieu de faire droit à sa demande.
+L’annulation de l’acte attaqué justifie que les autres dépens soient mis à charge de la partie adverse.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La décision de la partie adverse du 5 août 2021 d’attribuer le marché public de “Fourniture d’orthophotos couleur numériques d’une résolution de 0.25 M
+en période estivale” à l’Association Momentanée Aerodata France/IMAO est annulée.
+VI - 22.165 - 11/12
+Article 2.
+La partie adverse supporte les dépens, à savoir le droit de rôle de 200 euros, la contribution de 20 euros et l’indemnité de procédure de 770 euros accordée à la partie requérante.
+Ainsi prononcé à Bruxelles le 19 décembre 2025, par la VIe chambre du Conseil d’État, composée de :
+Florence Piret, conseillère d’État, présidente f.f., Xavier Close, conseiller d’État, Aurélien Vandeburie, conseiller d’État, Adeline Schyns, greffière.
+La Greffière, La Présidente,
+Adeline Schyns Florence Piret
+VI - 22.165 - 12/12
