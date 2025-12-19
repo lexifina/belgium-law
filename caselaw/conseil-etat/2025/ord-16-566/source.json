@@ -1,0 +1,29 @@
+{
+  "title": "Beschikking ECLI:BE:RVSCE:2025:ORD.16.566",
+  "ecli": "ECLI:BE:RVSCE:2025:ORD.16.566",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-19",
+  "date_as_printed": "Beschikking van 19 december 2025",
+  "published_on_juportal": "2026-01-09",
+  "language": "nl",
+  "role_number": "A. 245528/VII-42984",
+  "case_name_as_published": "Cassatiebeschikking 16566 - Raad voor Vreemdelingenbetwistingen - 19/12/2025",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Afdeling administratie"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Afdeling administratie"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ORD.16.566",
+  "source_sha256": "79a7f673d0f3edd691d7eeb735b40edc3942188c7c6f289e36eba63f5dfd2d65",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ORD.16.566_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/21/sitemap_85.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
