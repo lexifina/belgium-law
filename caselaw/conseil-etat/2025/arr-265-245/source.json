@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.245",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.245",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-19",
+  "date_as_printed": "Jugement/arrêt du 19 décembre 2025",
+  "published_on_juportal": "2025-12-19",
+  "language": "fr",
+  "role_number": "A. 239817/XV-5571",
+  "case_name_as_published": "Arrêt 265245 - Tutelle sur provinces, communes et intercommunales - 19/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.245",
+  "source_sha256": "2f358e94bb63ce2df6d0164d50268792fdfb0c922a77dd4881858c97befbab96",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.245_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/14/sitemap_88.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
