@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'annexe 1re de arrêté ministériel du 30 avril 2024 relatif à l'uniforme et aux autres dispositifs d'identification de la police régionale de l'Exploitation de la voirie routière et du Transport en voirie routière, les modifications suivantes sont apportées :
+1° Au point 2 intitulé " Parka/Blouson ", dans la première phrase, le mot " orange " est remplacé par " jaune " ;
+2° Un nouveau point 13 intitulé " Veste moto " est inséré, libellé comme suit : " Couleur jaune fluorescent. L'emblème de l'URCET (défini à l'annexe 1re de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 1er février 2023 relatif au contrôle routier) est apposé dans le dos et sur une des manches. Fixation de type velcro au niveau de la poitrine à gauche et à droite pour y apposer les nominettes amovibles. "
+;3° Un nouveau point 14 intitulé " Pantalon moto " est inséré, libellé comme suit : " Couleur bleu marine foncé ou noir. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Dans l'annexe 3 de l'arrêté ministériel du 30 avril 2024 relatif à l'uniforme et aux autres dispositifs d'identification de la police régionale de l'Exploitation de la voirie routière et du Transport en voirie routière, les modifications suivantes sont apportées :
+1° Au point 1 intitulé " chasuble ", dans la première phrase, le mot " orange " est remplacé par " jaune " ;
+2° Au point 2 intitulé " Gilet pare-balle ", après la 3<sup>e</sup> phrase, une 4<sup>e</sup> phrase est insérée, libellée comme suit : " Le gilet pare-balles peut être doté d'une housse de couleur jaune fluorescent. "
