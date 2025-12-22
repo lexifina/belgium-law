@@ -1,0 +1,102 @@
+ecli_input     ECLI:BE:RVSCE:2022:ARR ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old  RVSCE ecli_annee     2022 ecli_ordre     ARR ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - no_ordre - 1 elements ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2022:ARR invalide Invalid ECLI ID - no_ordre - 1 elements
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+XIIIe CHAMBRE
+no 265.272 du 22 décembre 2025
+A. 234.597/XIII-9422
+En cause : l’association sans but lucratif LIGUE ROYALE BELGE
+POUR LA PROTECTION DES OISEAUX, en abrégé « LRBPO », ayant élu domicile chez Me Alain LEBRUN, avocat, rue place de la Liberté 6
+4030 Grivegnée, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Me Pierre MOËRYNCK, avocat, avenue de Tervueren 34/27
+1040 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+1. Par une requête introduite le 17 septembre 2021, la partie requérante demande l’annulation de la décision du 17 août 2021 par laquelle la directrice générale du Service public de Wallonie (SPW) agriculture, ressources naturelles et environnement (ARNE) approuve partiellement le plan de gestion de la perdrix grise pour les années cynégétiques 2021-2024 du conseil cynégétique du Pays vert.
+II. Procédure
+2. Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+M. Quentin Picquereau, auditeur adjoint au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+XIII - 9422 - 1/7
+La partie requérante a déposé un dernier mémoire.
+Par une ordonnance du 19 novembre 2025, l’affaire a été fixée à l’audience du 18 décembre 2025.
+M. Lionel Renders, conseiller d’État, a exposé son rapport.
+Me Pierre Moërynck, avocat, comparaissant pour la partie adverse, a été entendu en ses observations.
+M. Xavier Hubinon, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la cause
+3. L’arrêté du Gouvernement wallon du 29 mai 2020 fixant les dates de l’ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 2020 au 30 juin 2025, encadre notamment la pratique de la chasse à la perdrix grise en Région wallonne.
+La chasse à la perdrix grise est autorisée du 1er septembre au 30 novembre sur les territoires associés en un conseil cynégétique agréé. Les articles 12 et 13 de l’arrêté du Gouvernement wallon du 29 mai 2020 précité conditionnent la chasse à la perdrix grise, d’une part, à l’adoption, à partir de l’année cynégétique 2021-2022, d’un plan de gestion triennal pour les territoires associés en un conseil cynégétique et, d’autre part, à la rédaction et à la transmission, à partir de l’année cynégétique 2022-
+2023, d’un rapport sur l’application du plan de gestion au cours de l’année cynégétique précédente. Les plans de gestion triennaux et les rapports annuels doivent être approuvés par le directeur général du SPW ARNE.
+L’arrêt n° 253.411 du 30 mars 2022 a annulé l’article 10, alinéa 1er, 3°, de l’arrêté du Gouvernement wallon du 29 mai 2020 précité en ce qui concerne l’année cynégétique 2020-2021, ainsi que les articles 15, 4°, et 25, alinéa 2, 4°, de l’arrêté du Gouvernement wallon du 29 mai 2020 précité (ECLI:BE:RVSCE:2022:ARR.
+253.411).
+4. L’arrêté ministériel du 10 juin 2021 fixant les modalités d’introduction et d’approbation des plans de gestion de la perdrix grise, ainsi que celles relatives aux
+XIII - 9422 - 2/7
+rapports annuels de la mise en œuvre de ces plans concrétise la délégation de compétence visée à l’article 14, § 1er, de l’arrêté du Gouvernement wallon du 29 mai 2020 précité.
+Cet arrêté ministériel est entré en vigueur le 18 juillet 2021.
+5. Par un courriel du 7 juillet 2021, le conseil cynégétique du Pays Vert soumet pour approbation à la directrice générale du SPW ARNE un plan triennal de gestion de la perdrix grise pour les années cynégétiques 2021-2022 à 2023-2024.
+6. La directrice générale adresse une note à son administration du 5 août 2021, signée le 9 août 2021, dans laquelle elle délègue les pouvoirs qui lui sont délégués à M.P., inspecteur général au sein du SPW ARNE, pour la période du 16 au 20 août 2021.
+7. Une grille d’évaluation du plan est établie par l’administration wallonne dans le cadre de l’instruction de la demande d’approbation.
+8. Le 17 août 2021, M.P. approuve partiellement le plan de gestion.
+Il s’agit de l’acte attaqué.
+IV. Premier moyen, en sa première branche
+IV.1. Thèses des parties
+A. La requête en annulation
+9. Le premier moyen est pris de la violation de l’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 fixant les dates de l’ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 2020 au 30 juin 2025, et de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs.
+10. Dans une première branche, la partie requérante observe que l’acte attaqué refuse d’approuver la « disposition qui prévoit la possibilité pour les titulaires de droit de chasse ayant procédé à un lâcher de repeuplement de tirer sur un certain pourcentage des oiseaux lâchés avant même qu’ils n’aient eu la possibilité de se reproduire au moins une fois » tout en permettant, sur la base d’une tolérance administrative, « de différer l’effet de la disposition violée et de tolérer sa violation durant la saison de chasse 2021-2022 à concurrence de 20 % des oiseaux lâchers ».
+XIII - 9422 - 3/7
+Elle estime que, ce faisant, l’acte attaqué méconnaît l’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 précité qui précise que la pratique du lâcher de perdrix grises n’est maintenue que si elle rencontre les besoins de repeuplement.
+B. Le mémoire en réponse
+11. Par une réponse commune aux deux branches du moyen, la partie adverse soutient que la partie requérante se méprend sur la portée de l’acte attaqué.
+Elle assure que, lorsque son auteur affirme que « l’administration tolérera » un prélèvement, il ne formule qu’une indication sans valeur normative, qui n’entache dès lors pas la légalité de l’acte attaqué. Elle fait valoir que cette tolérance à venir « n’est pas encore déterminée à ce stade » et qu’elle est légitime dès lors qu’elle interviendra après le dépôt du rapport sur l’application du plan.
+Elle estime que les résultats d’un plan de gestion doivent s’apprécier sur une durée de trois ans, de sorte que celui-ci n’est pas voué à l’échec du seul fait que certaines perdrix relâchées sont tirées au cours de la première année. Elle ajoute qu’il est matériellement impossible de différencier a priori les perdrix qui ont fait l’objet d’un lâcher des autres perdrix, cette distinction n’étant possible qu’a posteriori, lorsque l’animal est abattu. Elle en déduit qu’il est inévitable qu’une certaine proportion des perdrix lâchées soit abattue.
+Elle fait valoir, au regard de l’arrêt n° 251.654 du 29 septembre 2021, que si le Conseil d’État « estimait ici que les prescriptions de l’acte attaqué reproduites par la partie adverse sont indicatives, alors, l’acte attaqué ne pourra pas trouver une exécution contraire en vertu de l’autorité de chose jugée de Votre arrêt à venir puisque Votre Conseil aura aussi dit le droit ».
+C. Le mémoire en réplique
+12. La partie requérante fait état de neuf arrêts rendus sur des demandes en suspension dans des affaires comparables par lesquels le moyen a été jugé sérieux.
+Elle ajoute que la dégradation du statut de la perdrix grise sur la liste rouge wallonne des oiseaux nicheurs menacés en 2021 renforce la nécessité de disposer d’un plan de gestion sérieux, complet et détaillé sur cette problématique.
+XIII - 9422 - 4/7
+IV.2. Examen
+13. L’article 12 de l’arrêté du Gouvernement wallon du 29 mai 2020 fixant les dates de l’ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 2020 au 30 juin 2025, conditionne la chasse à la perdrix grise à l’approbation d’un plan de gestion triennal, dont elle détermine son contenu. Il est rédigé comme suit :
+« § 1er. À partir de l’année cynégétique 2021-2022, la chasse à la perdrix grise est fermée, sauf sur les territoires associés en un conseil cynégétique agréé disposant d’un plan de gestion triennal de l’espèce approuvé par le directeur général du Service public de Wallonie Agriculture, Ressources naturelles et Environnement.
+§ 2. Le plan de gestion triennal comprend au minimum :
+1° la délimitation d’unités de gestion au sein de l’espace territorial du conseil cynégétique ;
+2° la méthode qui est suivie pour évaluer dans chaque unité de gestion la population des perdrix grises présentes au printemps, avant les naissances ;
+3° la méthode qui est suivie pour évaluer le succès de la reproduction dans chaque unité de gestion ;
+4° la politique qui est suivie en matière de lâcher de perdrix grises ;
+5° les normes de prélèvements qu’impose le conseil cynégétique à ses membres titulaires de droit de chasse, en fonction de l’évaluation de la population des perdrix grises présentes au printemps et du succès de la reproduction ;
+6° pour chaque unité de gestion, une évaluation de la qualité des habitats pour la perdrix grise et les mesures envisagées en vue de les restaurer et/ou de les améliorer ;
+7° les mesures prises afin de réguler les prédateurs de la perdrix grise.
+La politique visée à l’alinéa 1er, 4°, consiste soit :
+1° à abandonner totalement les lâchers de perdrix grises, quels qu’ils soient ;
+2° à maintenir ces lâchers en fonction d’un objectif à définir par le conseil cynégétique et moyennant le respect des conditions minimales suivantes :
+a) les lâchers doivent rencontrer uniquement des besoins de repeuplement ;
+b) toutes les précautions sont prises afin d’éviter que les lâchers aient un impact négatif sur le plan sanitaire et génétique ;
+c) les oiseaux lâchés doivent préalablement être bagués ».
+L’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 précité prévoit, dans le cadre de la mise en œuvre d’un plan de gestion triennal, que la politique en matière de lâcher des perdrix grises peut, à défaut de consister en l’abandon total de tels lâchers, les maintenir en fonction d’un objectif à définir par le conseil cynégétique et moyennant notamment la condition que ces lâchers rencontrent « uniquement des besoins de repeuplement ».
+14. Le point 3.6 du plan de gestion litigieux aborde la thématique du repeuplement et les options retenues en matière de lâcher de perdrix grises. Ce point prévoit qu’ « en cas de repeuplement, le titulaire du droit de chasse s’engage à prélever un nombre maximum d’oiseaux égal à 20 pourcents du nombre d’oiseaux lâchés durant la saison de chasse à venir dans le but de laisser suffisamment de couple en vue de repeupler le territoire ». Il en ressort que le plan de gestion autorise immédiatement
+XIII - 9422 - 5/7
+l’abattage de perdrix grises relâchées sans que la totalité de celles-ci ait eu la possibilité de se reproduire au moins une fois.
+Dans le cadre de la mise en œuvre de son pouvoir d’approbation, l’auteur de l’acte attaqué se livre à un raisonnement en deux temps.
+Dans un premier temps, il refuse d’approuver la « disposition qui prévoit la possibilité pour les titulaires de droit de chasse ayant procédé à un lâcher de repeuplement de tirer un certain pourcentage des oiseaux lâchés avant même qu’ils n’aient eu la possibilité de se reproduire au moins une fois ». Il précise que « l’administration estime qu’un tel lâcher est à considérer au moins en partie comme un lâché destiné au tir » et souligne que la disposition visée au moyen mentionne que les lâchers doivent rencontrer uniquement des besoins en repeuplement.
+Sur ce point, la partie adverse indique la mention « KO » dans la grille d’évaluation du plan de gestion litigieux pour la rubrique n° 22. Cette mention signifie que le plan de gestion ne permet pas de « garantir que les lâchers contribuent uniquement à un objectif de repeuplement du territoire, le plan prévoit-il une interdiction de chasser durant au moins une saison de chasse ».
+Dès lors, la partie adverse constate à bon droit que le plan de gestion triennal qui lui est soumis pour approbation ne satisfait pas à l’exigence formulée à l’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020
+précité, en ce qu’il permet l’abattage d’individus relâchés dès la première année.
+Dans un second temps, l’auteur de l’acte attaqué indique que « l’administration tolérera, à titre exceptionnel, qu’une partie des oiseaux lâchés puisse être prélevés en cours de l’actuelle année cynégétique ».
+Une telle formulation revient à autoriser, durant l’année cynégétique 2021-2022, qu’une partie des perdrix grises relâchées puisse être prélevée par des chasseurs. Une telle tolérance méconnaît l’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 précité, qui requiert que ces lâchers rencontrent « uniquement des besoins de repeuplement ».
+Aucune disposition de l’arrêté du Gouvernement wallon du 29 mai 2020
+ou de l’arrêté ministériel du 10 juin 2021 précités ne permet au directeur général de déroger aux dispositions contenues à l’article 12, § 2, précité, ou d’accorder une tolérance, ne fût-ce que pour une saison cynégétique.
+La première branche du premier moyen est fondée.
+XIII - 9422 - 6/7
+V. Indemnité de procédure
+15. La partie requérante sollicite une indemnité de procédure de 770 euros. Il y a lieu de faire droit à sa demande.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Est annulée la décision du 17 août 2021 par laquelle la directrice générale du SPW ARNE approuve partiellement le plan de gestion de la perdrix grise pour les années cynégétiques 2021-2024 du conseil cynégétique du Pays vert.
+Article 2.
+Une indemnité de procédure de 770 euros est accordée à la partie requérante, à la charge de la partie adverse.
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 20 euros, est mise à la charge de la partie adverse.
+Les autres dépens, liquidés à la somme de 200 euros, sont mis à la charge de la partie adverse.
+Ainsi prononcé à Bruxelles le 22 décembre 2025, par la XIIIe chambre du Conseil d’État, composée de :
+Colette Debroux, président de chambre, Lionel Renders, conseiller d’État, Géraldine Rosoux, conseiller d’État, Simon Pochet, greffier.
+Le Greffier, Le Président,
+Simon Pochet Colette Debroux   XIII - 9422 - 7/7
