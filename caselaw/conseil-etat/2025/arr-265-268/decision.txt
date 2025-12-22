@@ -1,0 +1,194 @@
+ecli_input     ECLI:CE:ECHR:2013 ecli_prefixe   ECLI ecli_pays      CE ecli_cour      ECHR ecli_annee     2013 ecli_ordre Ongeldig ECLI-nummer - 4 element (en) ERROR JUPORTARobotRecordLienECLI ECLI:CE:ECHR:2013 invalide Ongeldig ECLI-nummer - 4 element (en)
+
+RAAD VAN STATE, AFDELING BESTUURSRECHTSPRAAK
+XIVe KAMER
+nr. 265.268 van 22 december 2025
+in de zaak A. 241.380/XIV-39.392
+In zake : de INS.TIC.AS F.
+vennootschap naar Turks recht bijgestaan en vertegenwoordigd door advocaten Alexander Baert en Annick Visschers kantoor houdend te 1930 Zaventem Luchthaven Brussel Nationaal 1J
+Gateway building bij wie woonplaats wordt gekozen
+tegen :
+de BELGISCHE STAAT, vertegenwoordigd door de minister van Financiën Centrale rechtskundige dienst FOD Financiën North Galaxy – Toren B, 26ste verdieping met kantoren te 1030 Brussel Koning Albert II-laan 33, bus 15
+alwaar woonplaats wordt gekozen
+--------------------------------------------------------------------------------------------------
+I. Voorwerp van het beroep
+1. Het beroep, ingesteld op 29 februari 2024, strekt tot de nietigverklaring van de beslissing van 21 december 2023 van de Administrateur-
+generaal van de Algemene administratie van de Thesaurie, waarbij het verzoek van de verzoekende partij tot vrijgave van de geblokkeerde gelden voor een bedrag van 500.000 euro in haar voordeel wordt geweigerd.
+II. Verloop van de rechtspleging
+2. De verwerende partij heeft een memorie van antwoord ingediend en de verzoekende partij heeft een memorie van wederantwoord ingediend.
+XIV-39.392-1/17
+Eerste auditeur Alexander Van Steenberge heeft een verslag opgesteld.
+De verzoekende partij heeft een laatste memorie ingediend.
+De partijen zijn opgeroepen voor de terechtzitting, die heeft plaatsgevonden op 4 juni 2025.
+Staatsraad Kaat Leus heeft verslag uitgebracht.
+Advocaat Marisse Seth, die loco advocaten Alexander Baert en Annick Visschers verschijnt voor de verzoekende partij, en adviseur Selim Dedeli, die verschijnt voor de verwerende partij, zijn gehoord.
+Eerste auditeur Alexander Van Steenberge heeft een advies gegeven.
+Er is toepassing gemaakt van de bepalingen op het gebruik der talen, vervat in titel VI, hoofdstuk II, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.
+III. Feiten
+3.1. De verzoekende partij, een vennootschap naar Turks recht, is blijkens het verzoekschrift een professionele Turkse reisorganisatie die toeristische diensten aanbiedt in Antalya, Turkije. Zij is onderdeel van de groep A die reeds meer dan 50 jaar actief is in de toeristische sector in Antalya, Turkije en onder meer verschillende luxehotels uitbaat en voor luchthavenvervoer instaat.
+3.2. Op 1 april 2022 heeft de verzoekende partij de dienstenovereenkomst nr. 8-93/22 gesloten met de Russische Touroperator B.
+(hierna: Touroperator B.) met het oog op de organisatie van vakantiereizen in Turkije voor de klanten van die Russische Touroperator B.
+XIV-39.392-2/17
+3.3. De verzoekende partij stelt een factuur op ten bedrage van 500.000,00 euro gericht aan Touroperator B. Laatstgenoemde verricht op 1 april 2022 de betaling.
+3.4. Bij e-mail van 30 mei 2022 brengt de nv I. (hierna: de Bank) de verwerende partij op de hoogte dat de betaling aan de verzoekende partij werd bevroren. Uit openbare bronnen blijkt dat Touroperator B. de op de EU-sanctielijst geplaatste persoon, A.P., als uiteindelijke begunstigde heeft. Dit zou eveneens blijken uit verschillende vertrouwelijk ingediende stukken.
+3.5. Met een e-mail van 29 maart 2023 vraagt de verzoekende partij aan de Algemene administratie van de Thesaurie (hierna: AAT) om de geblokkeerde betaling van Touroperator B. ten voordele van haar vrij te geven zodat het bedrag naar haar Turkse bankrekening kan worden gestort.
+3.6. Met een e-mail van 5 april 2023 verzoekt de AAT om mededeling van bepaalde stukken in het kader van het verzoek tot vrijgave.
+Met een e-mail van 6 april 2023 maakt de verzoekende partij verschillende documenten over.
+3.7. Met e-mails van 11, 19 en 28 april 2023 geeft de verzoekende partij aan dat zij wacht op een beslissing in deze zaak.
+3.8. Met een e-mail van 2 mei 2023 vraagt de AAT de verzoekende partij om aanvullende opheldering. De verwerende partij stelt vast dat de overeenkomst weliswaar op 1 april 2022 is ondertekend, maar dat in artikel 16 van die overeenkomst staat dat deze al op 10 januari 2022 in werking is getreden.
+Daarom wil zij verduidelijking over de diensten waarop de factuur betrekking heeft. De factuur is te algemeen opgesteld, waardoor de administratie niet kan vaststellen voor welke specifieke geleverde diensten betaling wordt gevraagd.
+Aangezien de factuur dateert van 23 mei 2022, gaat de administratie ervan uit dat
+XIV-39.392-3/17
+de diensten vóór mei 2022 zijn geleverd, maar zij vraagt bewijs van deze levering.
+Daarbij wijst de administratie op het belang van de exacte data waarop de diensten zijn geleverd en waarvoor betaling wordt gevorderd.
+3.9. Bij e-mail van 11 mei 2023 antwoordt de verzoekende partij op deze vragen.
+Zij stelt dat het ondertekeningproces van het contract met Touroperator B. reeds in januari begon, maar doordat de onderhandelingen over sommige artikelen aansleepten, de ondertekening pas is gebeurd op 1 april 2022.
+De factuur gaat over reisdiensten, namelijk hotelaccommodatie, administratiekosten en verplaatsingen van de Touroperator B-gasten. Daarbij geeft de verzoekende partij aan dat de dienstverlening het hele jaar doorgaat met betalingen die continu plaatsvinden. Pro forma-facturen worden uitgegeven voor de betreffende dienstperiode, zowel voor reeds gearriveerde klanten als voor aankomende gasten. Officiële facturen worden na het uitchecken van de klanten verstrekt. Bijgevoegd zijn lijsten van gerealiseerde diensten en de bijbehorende facturen voor de perioden vóór en na 23 mei 2022, die de overgemaakte bedragen van 500.000 euro dekken.
+3.10. Bij e-mail van 6 juni 2023 vraagt de verwerende partij nog om aanvullende informatie over de precontractuele fase.
+3.11. Bij e-mail van 15 juni 2023 geeft de verzoekende partij bijkomende verduidelijking en voegt de e-mails toe daterend van 19 november 2021, 7 februari 2022, 16 februari 2022 en 25 februari 2022 verstuurd tijdens de precontractuele fase.
+3.12. De verzoekende partij vraagt in verschillende e-mails om spoedig een besluit te nemen over haar verzoek tot vrijgave.
+3.13. De verwerende partij antwoordt bij e-mail van 20 november 2023 dat zij wacht op een uitspraak van de Raad van State in deze materie.
+XIV-39.392-4/17
+3.14. In het niet-gedateerd ‘Intern verslag van de Algemene Administratie van de Thesaurie van de FOD Financiën’ wordt voorgesteld om het verzoek tot vrijgave te weigeren “aangezien niet voldaan is aan de toepassingsvoorwaarden van artikel 6 van de Verordening (EU) nr. 269/2014 [van de Raad van 17 maart 2014 ‘ betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen’ (hierna: verordening 269/2014)]”. Dit voorstel overweegt onder meer:
+“[…]
+Op 29 maart 2023 werd een vrijstellingsverzoek ingediend door [de verzoekende partij] voor een transactie vanwege de Russische onderneming [Touroperator B.
+richting [de verzoekende partij] ten belope van een totaalbedrag van 500.000,00
+euro.
+Op 1 april 2022 werd een dienstenovereenkomst gesloten/ondertekend tussen enerzijds [de verzoekende partij] (Handling company) en anderzijds [Touroperator B.].
+[…]
+In artikel 16.1 van deze overeenkomst wordt vermeld dat de overeenkomst op 10
+januari 2022 in werking treedt en geldig is tot 31 december 2022. Evenwel werd de overeenkomst pas getekend op 1 april 2022. Met betrekking tot dit verschil in tijd werd een vraag gesteld aan [de verzoekende partij]:
+Vraag: The agreement was signed on 1 April 2022 but Article 16 of the agreement states that it already came into force on 10 January 2022.
+Antwoord: Our process of signing the contract started at in January with [Touroperator B.]. Negotiations at some of the articles took some time and finalized on April, that’s why signature date was delayed until 1st of April.
+In uitvoering van deze overeenkomst werden er toeristische diensten verleend vanwege [de verzoekende partij] aan toeristen/cliënten van de Russische [Touroperator B.]. De kosten verbonden aan dergelijke dienstverlening dienen uiteindelijk betaald te worden door [Touroperator B.]. Bijgevolg werd op 23 mei 2022 (dus na de sanctionering van de heer [A.P.] een factuur uitgeschreven door [de verzoekende partij] richting de onderneming [Touroperator B.] ten belope van een bedrag van 500.000,00 euro. De Algemene Administratie van de Thesaurie stelde de vraag met betrekking tot de datum van de diensten waarvoor de factuur werd uitgeschreven:
+Vraag: In particular, we will need the dates of when the services were provided by your company to [Touroperator B.]. Since the invoice was prepared on 23 May 2022, we assume that the services were provided before the month of May, but can you provide proof of this? It is very important for us to have the exact dates when the services were provided and for which payment is requested.
+Antwoord: Your assume is partly correct. Our service is a non-stop service, it continues every day through all year. So the payment traffic is ongoing throughout the year as well. That’s why the proforma invoices are issued for the relevant term of services of it’s date (before or after closeby dates). It’s arranged according to the “advance payment requests” for one payment. So it includes the arrived clients services or soon arriving clients services. But official Invoices are not
+XIV-39.392-5/17
+issued for one single payment. A payment could be done for both “the services already given to stayed customers” or “ the services will be given for customers who hasn’t arrived yet “ accordingly official invoices which are issued after clients check outs ( after clients’s departure from the destination , for the realized services ). Please find “realized service invoice list (for official invoices)” for both period "AFTER 23 May 2022" & "BEFORE 23 May 2022" and issued invoices in PDF files. Both period invoices are covered 500.000 euro transfer amounts.
+De diensten waarvoor een factuur uitgeschreven is, vinden hun oorsprong in de overeenkomst gesloten op 1 april 2022 maar met inwerkingtreding reeds op 10
+januari 2020. Naar aanleiding van de geleverde diensten vanwege [de verzoekende partij] werd een factuur opgesteld op 23 mei 2023 → Zowel de datum waarop de overeenkomst werd ondertekend als de datum waarop de Russische onderneming [Touroperator B.] gehouden was een betaling uit te voeren (factuurdatum), bevinden zich NA de sanctionering van de heer [A.P.] waardoor de toepassingsvoorwaarden van artikel 6 van de Verordening (EU) nr. 269/2014 op het eerste zicht niet voldaan leken te zijn.
+Om alsnog tot een eventuele oplossing te komen, werd volgende vraag gesteld door de Algemene Administratie van de Thesaurie:
+Vraag: With a view to the further handling of this file, we were wondering whether there might also be documents from the pre-contractual stage (the stage in negotiations prior to the actual conclusion of a contract with [Touroperator B.]).
+If so, is it possible to send these to us?
+Antwoord: Pre contract signing negotiations between [Touroperator B.]and [de verzoekende partij] mostly done on zoom meetings or telephone conversations regarding to the articles of the contract. You may also find some email correspondences attached. Mr [T.E.] is General Manager and Mrs [E.A.] Sale Manager of [de verzoekende partij] at attached emails and they’re in charge of all tour operator contracts. Our contract, Invoice summaries, official invoices, all answers which explain “purpose of trade” and “money transfer” had already been sent on 11th of May , 2023.
+De e-mails die werden overhandigd dateren van 7 februari 2022, 16 februari 2022
+en 25 februari 2022. Deze berichten dateren van voor de sanctionering van de heer [A.P.] maar tonen onvoldoende aan dat er reeds sprake is van een contract of overeenkomst in de zin van artikel 6 van de Verordening (EU) nr. 269/2014 en zoals gedefinieerd in onderstaande paragraaf afkomstig uit de FAQ’s:
+The term ‘contract’ refers to a binding commitment between parties. Such an agreement should contain all the necessary elements for its validity and the execution of a transaction (such as indication of the parties, price, quantities, delivery dates, modalities of execution, etc.) Most framework contracts which do not specify the quantities or the price would therefore not be considered as a contract for the purpose of the exceptions foreseen for the execution of prior contracts.
+Conclusie:
+- Datum van ondertekening van het contract: 1 april 2022 én dus NA de sanctionering van [A.P.]
+- Datum van inwerkingtreding van het contract: 10 januari 2022 én dus VOOR de sanctionering van [A.P.]
+- Datum van de factuur: 23 mei 2022 en dus NA de sanctionering van [A.P.]
+➔ Toepassingsvoorwaarde in artikel 6 van de Verordening (EU) nr. 269/2014:
+contract of overeenkomst die door deze is gesloten of op grond van een verplichting die voor hem is ontstaan vóór de datum waarop de betrokken natuurlijke persoon, rechtspersoon, entiteit of lichaam in bijlage I werd opgenomen:
+XIV-39.392-6/17
+o Contract of overeenkomst die is gesloten vóór de datum waarop de betrokken natuurlijke persoon, rechtspersoon, entiteit of lichaam in bijlage I werd opgenomen: is niet het geval, de overeenkomst is pas gesloten/ondertekend op 1 april 2022.
+o Verplichting is ontstaan vóór de datum waarop de betrokken natuurlijke persoon, rechtspersoon, entiteit of lichaam in bijlage I werd opgenomen:
+is niet het geval, verplichting tot het betaling van de geldsom is pas op 23 mei 2022 ontstaan voor de Russische onderneming [Touroperator B.].
+De Russische onderneming [Touroperator B.] is niet opgenomen in de sanctielijsten. Desalniettemin zijn er een aantal ‘controle-elementen’ waardoor we [Touroperator B.] alsnog dienen te beschouwen als gesanctioneerd. Deze informatie is afkomstig uit de Orbis- en World Check-rapporten die vanwege [de Bank] aan de Algemene Administratie van de Thesaurie zijn verzonden op 11 januari 2023 (recentere documenten werden opgevraagd maar zijn niet ontvangen).
+Uit informatie – aangebracht door [de Bank]– blijken volgende controle-
+elementen:
+1. Uiteindelijke begunstigden van [Touroperator B.]
+a. [A.P.] → toegevoegd aan bijlage I van voornoemde Verordening (EU)
+nr. 269/2014 door Uitvoeringsverordening (EU) 2022/336 van de Raad van 28 februari 2022 tot uitvoering van Verordening (EU) nr. 269/2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen;
+b. [A.R.] → toegevoegd aan bijlage I van voornoemde Verordening (EU)
+nr. 269/2014 door Uitvoeringsverordening (EU) nr. 826/2014 van de Raad van 30 juli 2014 tot uitvoering van Verordening (EU) nr. 269/2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen.
+c. [Y.T.] → Niet opgenomen in de sanctielijst.
+- Overeenkomstig de “EU Best Practices for the effective implementation of restrictive measures” van 27 juni 2022 zoals opgesteld door de Raad van de Europese Unie, is het criterium waarmee rekening moet worden gehouden bij de beoordeling of een rechtspersoon of entiteit eigendom is van een andere persoon of entiteit het bezit van meer dan 50% van de eigendomsrechten van een entiteit of het hebben van een meerderheidsbelang daarin. Indien aan dit criterium is voldaan, wordt aangenomen dat de rechtspersoon of entiteit eigendom is van een andere persoon of entiteit.
+o Aangezien de heer [A.P.] beschikt over 65% van de aandelen in de onderneming [Touroperator B.], concludeert de Algemene Administratie van de Thesaurie dat [Touroperator B.] kan worden beschouwd als gecontroleerd door/eigendom van de heer [A.P.] die in bijlage I van voornoemde Verordening (EU) nr. 269/2014 is opgenomen.
+- Gevolgen (zie onderstaande paragrafen afkomstig uit de FAQ’s van de Europese Commissie:
+o If non listed entities are deemed to be owned or controlled by listed persons or entities, their assets must be frozen as well, and no funds or economic resources can be made available to them.
+o Assets of an owned or controlled entity that are frozen because they were deemed to be controlled by the listed person can be released on the basis of an authorisation granted in line with Article 6 of Council Regulation (EU) No 269/2014, if the conditions specified therein are fulfilled, notably that payment is due under a contract or agreement that was concluded or an obligation that arose before the date on which the person was listed in Annex I to that Regulation; the
+XIV-39.392-7/17
+frozen funds are used for a payment by a listed person (or in this case the owned/controlled entity), and the payment is not made towards any listed person.
+[…]
+Gezien artikel 6 van Verordening (EU) nr. 269/2014 dat bepaalt dat in afwijking van artikel 2 en mits een betaling verschuldigd is door een in bijlage I vermelde natuurlijke persoon, rechtspersoon, entiteit of lichaam op grond van een contract of overeenkomst die door deze is gesloten of op grond van een verplichting die voor hem is ontstaan vóór de datum waarop de betrokken natuurlijke persoon, rechtspersoon, entiteit of lichaam in bijlage I werd opgenomen, de bevoegde autoriteiten van de lidstaten, onder door hen passend geachte voorwaarden, toestemming kunnen verlenen voor de vrijgave van bepaalde bevroren tegoeden of economische middelen, indien de betrokken bevoegde autoriteit heeft vastgesteld dat:
+a) de tegoeden of economische middelen worden gebruikt voor een betaling door een natuurlijke persoon, rechtspersoon, entiteit of lichaam vermeld in bijlage I; en b) de betaling niet in strijd is met artikel 2, lid 2”.
+3.15. Op 21 december 2023 beslist de Administrateur-generaal van de AAT, voor de minister, om het verzoek tot vrijgave van fondsen te verwerpen.
+Deze beslissing luidt:
+“Verordening (EU) nr. 269/2014 van de Raad van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen -
+Verzoek tot vrijgave van een transactie vanwege [Touroperator B.] richting [de verzoekende partij] via [de Bank] ten belope van een bedrag van 500.000,00 euro.
+[…], Geachte [X]
+De Algemene Administratie van de Thesaurie heeft uw verzoek van 29 maart 2023
+– en berichten van 5 en 6 april 2023, 11 april 2023, 19 april 2023, 28 april 2023, 11 en 25 mei 2023, 15 juni 2023, 13 juli 2023, 8 augustus 2023, 21 september 2023 en 6 november 2023 – tot vrijgave van een transactie vanwege [Touroperator B.] richting [de verzoekende partij] via [de Bank] ten belope van een bedrag van 500.000,00 euro, goed ontvangen.
+Aangezien de heer [A.P.] was toegevoegd aan bijlage I van voornoemde Verordening (EG) nr. 269/2014 door Uitvoeringsverordening (EU) 2022/336 van de Raad van 28 februari 2022 tot uitvoering van Verordening (EU) nr. 269/2014
+betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen;
+Gelet op de due diligence die werd uitgevoerd door [de Bank] en waarbij [de Bank] vaststelt dat [Touroperator B.] voor 75,00% wordt gecontroleerd door [J.S.
+Company International Airport S.], die op haar beurt voor 66,05% wordt gecontroleerd door [S. Kh.], die tot slot voor 100% wordt gecontroleerd door [TPS
+A.];
+Gelet op de due diligence die werd uitgevoerd door [de Bank] en waarbij [de Bank] vaststelt dat de heer [A.P.] de uiteindelijke begunstigde/
+meerderheidsaandeelhouder is van [TPS A.];
+Gelet op onderstaande paragraaf uit de geconsolideerde FAQ’s van de Europese Commissie met betrekking tot de implementatie van Verordening (EG)
+nr. 833/2014 en Verordening (EU) nr. 269/20141:
+XIV-39.392-8/17
+Assets of an owned or controlled entity that are frozen because they were deemed to be controlled by the listed person can be released on the basis of an authorisation granted in line with Article 6 of Council Regulation (EU) No 269/2014, if the conditions specified therein are fulfilled, notably that payment is due under a contract or agreement that was concluded or an obligation that arose before the date on which the person was listed in Annex I to that Regulation (…).
+Vrije vertaling: Tegoeden van een entiteit die eigendom is of onder zeggenschap staat van een op de lijst geplaatste persoon en die bevroren zijn omdat zij geacht werden onder zeggenschap te staan van de op de lijst geplaatste persoon, kunnen worden vrijgegeven op basis van een artikel 6 van de Verordening (EU) nr.
+269/2014 indien aan de daarin gespecificeerde voorwaarden is voldaan, met name wanneer de betaling verschuldigd is uit hoofde van een contract of overeenkomst die is gesloten of een verplichting die is ontstaan vóór de datum waarop de persoon op de lijst in bijlage I bij die verordening is geplaatst (…).
+Gelet op artikel 6, eerste lid van de voornoemde Verordening (EU) nr. 269/2014
+dat bepaalt dat in afwijking van artikel 2 en mits een betaling verschuldigd is door een in bijlage I vermelde natuurlijke persoon, rechtspersoon, entiteit of lichaam op grond van een contract of overeenkomst die door deze is gesloten of op grond van een verplichting die voor hem is ontstaan vóór de datum waarop de betrokken natuurlijke persoon, rechtspersoon, entiteit of lichaam in bijlage I werd opgenomen, de bevoegde autoriteiten van de lidstaten, onder door hen passend geachte voorwaarden, toestemming kunnen verlenen voor de vrijgave van bepaalde bevroren tegoeden of economische middelen, indien de betrokken bevoegde autoriteit heeft vastgesteld dat:
+a) de tegoeden of economische middelen worden gebruikt voor een betaling door een natuurlijke persoon, rechtspersoon, entiteit of lichaam vermeld in bijlage I; en b) de betaling niet in strijd is met artikel 2, lid 2.
+Aangezien uw verzoek niet aan deze voorwaarden voldoet daar de overeenkomst met nummer B-93/22 niet tussen [Touroperator B.] en [de verzoekende partij] –
+en op grond waarvan de factuur met nummer 20200411 van 23 mei 2022 ten belope van 500.000,00 euro verschuldigd is – gesloten is op 1 april 2022;
+Ingevolgde de informatie in ons bezit en de door ons uitgevoerde controles, wordt de betaling van de factuur nr. 20200411 d.d. 23 mei 2022 ten belope van een bedrag van 500.000,00 euro én verschuldigd op grond van de Service Agreement No. B-93/22 d.d. 01.04.2022 door [Touroperator B.] richting [de verzoekende partij] niet toegestaan, daar niet voldaan is aan de toepassingsvoorwaarden van artikel 6, eerste lid van voornoemde Verordening (EU) nr. 269/2014.
+[…]”.
+Dit is de bestreden beslissing.
+3.16. Bij e-mail van 3 januari 2024 wordt de bestreden beslissing meegedeeld aan de verzoekende partij.
+XIV-39.392-9/17
+IV. Verzoek tot vertrouwelijke behandeling van bepaalde stukken
+4. De verwerende partij vraagt in de memorie van antwoord op grond van artikel 87, § 2, van het besluit van de Regent van 23 augustus 1948 ‘tot regeling van de rechtspleging voor de afdeling Bestuursrechtspraak van de Raad van State’ (hierna: algemene procedureregeling), om de vertrouwelijke behandeling van de stukken die door de Bank vertrouwelijk werden meegedeeld aan de verwerende partij en die zij in de ‘Inventaris van de vertrouwelijke stukken’ (stukken 1 tot 4) heeft aangeduid.
+De verwerende partij merkt op dat de essentiële gegevens en passages uit de inhoud van de vertrouwelijke stukken in belangrijke mate werden hernomen in de bestreden beslissing zodat de verzoekende partij van die gegevens kennis heeft kunnen nemen en deze in haar verzoekschrift aan uitvoerige kritiek heeft kunnen onderwerpen. De verzoekende partij blijkt niet te zijn gehinderd bij het aanvoeren van middelen tegen de bestreden beslissing, door het feit dat deze stukken vertrouwelijk zijn gebleven.
+Op de terechtzitting stelt de verwerende partij nog dat zij geen laatste memorie heeft neergelegd omdat zij haar standpunten reeds heeft uiteengezet in de memorie van antwoord, waarin zij volhardt daarin begrepen haar verzoek tot behoud van de vertrouwelijkheid van de in de inventaris aangeduide stukken 1 tot 4.
+Wat de bijkomende vraag betreft die de verzoekende partij in haar laatste memorie formuleert, namelijk dat de Raad van State de verwerende partij bovendien zou bevelen “haar dossiers ‘PID 17995’ en ‘PID 19033’ waarin wel een autorisatie zou zijn verleend, over te leggen”, stelt de verwerende partij op de terechtzitting dat die vordering moet worden afgewezen aangezien deze stukken op generlei wijze deel uitmaken van het voorliggende administratief dossier.
+XIV-39.392-10/17
+5. De verzoekende partij betwist in de memorie van wederantwoord het verzoek om bepaalde documenten uit het administratief dossier vertrouwelijk te behandelen. Volgens haar zijn deze documenten cruciaal voor het debat en houden ze rechtstreeks verband met de bestreden beslissing. De verzoekende partij acht het verzoek tot vertrouwelijkheid niet ontvankelijk omdat het niet voldoende is gemotiveerd zoals vereist door artikel 87, § 2, van de algemene procedureregeling. Enkel het label “vertrouwelijk” toekennen aan documenten volstaat niet: de verwerende partij moet duidelijk aantonen waarom de vertrouwelijkheid absoluut noodzakelijk is en waarom de gevraagde vertrouwelijkheid zwaarder zou wegen dan het recht op een eerlijk proces en het recht op verdediging.
+Daarnaast meent de verzoekende partij dat het verzoek tot vertrouwelijkheid ook ongegrond is. De documenten zijn essentieel voor de discussie over de aandeelhouders- en vennootschapsstructuur van [Touroperator B.] en de toepassing van relevante Europese verordeningen. Het verbergen van deze documenten belemmert de verzoekende partij in haar verdediging en in haar recht op tegenspraak. Bovendien heeft de verwerende partij zelf erkend dat niet alle relevante informatie uit de vertrouwelijke documenten in de bestreden beslissing is opgenomen, wat de verzoekende partij verder hindert in het voeren van een volledige verdediging. De verzoekende partij benadrukt dat vertrouwelijkheid slechts in uitzonderlijke gevallen gerechtvaardigd is en ziet geen concrete reden waarom de openbaarmaking van deze stukken schade zou toebrengen aan de verwerende partij of de Bank, een derde partij die niet direct in de procedure is betrokken. In eerdere stadia heeft de verzoekende partij zelf gevoelige informatie ingediend, waarop de verwerende partij vrij heeft kunnen reageren. Om al die redenen vraagt de verzoekende partij de Raad van State om het verzoek tot vertrouwelijkheid af te wijzen en het debat te heropenen, zodat zij de mogelijkheid krijgt om nieuwe argumenten en middelen aan te voeren op basis van de informatie die uit de vrijgegeven documenten blijkt.
+XIV-39.392-11/17
+In haar laatste memorie merkt de verzoekende partij op dat de verwerende partij geen laatste memorie heeft ingediend waaruit volgens haar blijkt dat de verwerende partij zich niet verzet tegen de openbaarmaking, minstens heeft deze geen argumenten opgeworpen die het gebrek aan openbaarmaking zouden kunnen verhinderen.
+Bijkomend vordert de verzoekende partij in haar laatste memorie de verwerende partij “te bevelen haar dossiers ‘PID 17995’ en ‘PID 19033’ waarin wel een autorisatie zou zijn verleend, over te leggen (mits eventuele anonimisering)
+en dienvolgens de debatten te heropenen teneinde verzoekende partij toe te laten uit de nieuwe gegevens die zij voor het eerst ingevolge de overlegging van deze stukken zal vernemen, nieuwe argumenten te putten ter staving van de reeds aangevoerde middelen of op grond van die gegevens desgevallend ook nieuwe middelen te ontwikkelen”.
+Beoordeling
+A. Betreffende de ontvankelijkheid van het verzoek om inzage in de laatste memorie
+6. In de mate de verzoekende partij de Raad van State in haar laatste memorie, en zulks voor het eerst, verzoekt “te bevelen haar dossiers ‘PID 17995’ en ‘PID 19033’ waarin wel een autorisatie zou zijn verleend, over te leggen (mits eventuele anonimisering) en dienvolgens de debatten te heropenen teneinde verzoekende partij toe te laten uit de nieuwe gegevens die zij voor het eerst ingevolge de overlegging van deze stukken zal vernemen, nieuwe argumenten te putten ter staving van de reeds aangevoerde middelen of op grond van die gegevens desgevallend ook nieuwe middelen te ontwikkelen”, wordt deze vordering om de hierna uiteengezette redenen, afgewezen.
+Immers de dossiers ‘PID 17995’ en ‘PID 19033’ waarvan de verzoekende partij inzage vraagt – evenals het feit dat het gaat om aan het voorliggende dossier gelijkaardige dossiers en dat daarin een autorisatie werd
+XIV-39.392-12/17
+verleend –, zijn door de verwerende partij reeds vermeld in het intern verslag ‘Vrijstellingsverzoek ingediend door [de verzoekende partij]: betaling vanwege [Touroperator B.]’ van de AAT. Dit intern verslag dat niet-vertrouwelijk is neergelegd en deel uitmaakt van het administratief dossier, is door de verwerende partij samen met de memorie van antwoord neergelegd.
+Het valt dan ook niet in te zien, noch wordt aannemelijk gemaakt, laat staan aangetoond, waarom de verzoekende partij niet reeds in de memorie van wederantwoord daarvan inzage heeft gevraagd, wat zij perfect had kunnen doen.
+7. Derhalve – en daargelaten nog dat de genoemde dossiers ‘PID
+17995’ en ‘PID 19033’ die mogelijk “gelijkaardig” zijn doch daarom niet identiek, geen deel uitmaken van het voorliggende administratief dossier –, is de vordering laattijdig wat deze dossiers betreft en derhalve in die mate, onontvankelijk.
+B. Betreffende de gegrondheid van het verzoek om inzage in de memorie van wederantwoord
+8. De verwerende partij heeft op grond van artikel 87, § 2, van de algemene procedureregeling volgende stukken van het administratief dossier als vertrouwelijk ingediend: (i) de e-mail van 30 mei 2022 van de Bank aan de AAT, (ii) het verslag over de aandeelhoudersstructuur van Touroperator B., (iii) het verslag over de uiteindelijke begunstigden van Touroperator B. en (iv) het World-
+check-verslag over A.P.
+De verzoekende partij verzet zich tegen het verzoek tot vertrouwelijkheid omdat het verbergen van deze documenten haar belemmert in haar verdediging en in haar recht op tegenspraak, te meer nu de verwerende partij zelf erkent dat niet alle relevante informatie uit de vertrouwelijke documenten in de bestreden beslissing is opgenomen.
+XIV-39.392-13/17
+9. Een beoordeling en uitspraak over het door de verzoekende partij ingediende verzoek om de vertrouwelijkheid van de sub 8 vermelde vertrouwelijk ingediende stukken van het administratief dossier, dringt zich pas op in zoverre de door de verzoekende partij aangevoerde middelen moeten worden beoordeeld, dewelke evenwel pas aan de orde kunnen komen wanneer zou blijken dat de bestreden beslissing uitgaat van een daartoe bevoegde overheid, wat te dezen nog onzeker is.
+10. In de voorliggende zaak rijst immers de vraag naar de bevoegdheid van de steller van de bestreden akte, middel dat de openbare orde raakt en door de Raad van State, desnoods ambtshalve, moet worden onderzocht.
+In de sub 3.15 aangehaalde bestreden beslissing van 21 december 2023 wordt geen melding gemaakt van enige internrechtelijke bepaling waarop de Administrateur-generaal zijn bevoegdheid steunt om in uitvoering van Verordening (EU) nr. 269/2014 een beslissing te nemen inzake een verzoek tot vrijgave van een transactie, zoals de voorliggende beslissing er een is.
+Naar het oordeel van de Raad van State moet de rechtsgrond voor de bestreden beslissing worden gezocht in artikel 1 van het ministerieel besluit van 13 december 2023 ‘houdende delegatie van de bevoegdheid om beslissingen te nemen krachtens artikel 2, tweede lid, van het koninklijk besluit van 12 december 2023 tot aanduiding van de bevoegde autoriteit betreffende de opdrachten in het kader van de beperkende maatregelen op financieel gebied, overeenkomstig artikel 2 van de wet van 13 mei 2003 inzake de tenuitvoerlegging van de beperkende maatregelen die genomen worden door de Raad van de Europese Unie ten aanzien van Staten, sommige personen en entiteiten’ (hierna:
+ministerieel besluit van 13 december 2023), dat krachtens artikel 2 van datzelfde ministerieel besluit in werking is getreden de dag waarop het in het Belgisch Staatsblad werd bekendgemaakt, zijnde op 20 december 2023.
+Die bepaling strekt de bestreden beslissing van 21 december 2023 derhalve tot rechtsgrond.
+XIV-39.392-14/17
+11. Bij artikel 1 van het genoemde ministerieel besluit van 13 december 2023 machtigt de minister van Financiën de Administrateur-generaal van de AAT van de Federale Overheidsdienst Financiën ertoe de bevoegdheden uit te oefenen als bepaald in artikel 2, tweede lid, van het koninklijk besluit van 12 december 2023 ‘tot aanduiding van de bevoegde autoriteit betreffende de opdrachten in het kader van de beperkende maatregelen op financieel gebied, overeenkomstig artikel 2 van de wet van 13 mei 2003 inzake de tenuitvoerlegging van de beperkende maatregelen die genomen worden door de Raad van de Europese Unie ten aanzien van Staten, sommige personen en entiteiten’ (hierna:
+koninklijk besluit van 12 december 2023).
+Artikel 2 van het koninklijk besluit van 12 december 2023 – dat op zijn beurt is genomen in uitvoering van artikel 2 van de wet van 13 mei 2003
+‘inzake de tenuitvoerlegging van de beperkende maatregelen die genomen worden door de Raad van de Europese Unie ten aanzien van Staten, sommige personen en entiteiten’, gewijzigd bij de wet van 2 mei 2019 ‘houdende diverse financiële bepalingen’ en dat het ministerieel besluit van 13 december 2023 tot rechtsgrond strekt –, bepaalt wat volgt:
+“De Algemene Administratie van de Thesaurie van de Federale Overheidsdienst Financiën is de bevoegde autoriteit als bedoeld in de Europese bepalingen inzake beperkende maatregelen voor de opdrachten aan haar toegewezen door deze bepalingen in het kader van de beperkende maatregelen op financieel gebied.
+De minister bevoegd voor financiën of zijn gedelegeerde beslist, met toepassing van de Europese bepalingen inzake beperkende maatregelen, over de toestemming of weigering van elke aanvraag tot:
+1° afwijking;
+2° beschikbaarstelling of vrijgave van bepaalde bevroren tegoeden of economische middelen;
+3° verrichting;
+4° elke andere beslissing in het kader bedoeld in het eerste lid.
+Dit artikel laat onverlet de bevoegdheden toegekend door andere wettelijke of reglementaire bepalingen aan andere overheden, instellingen en autoriteiten, waaronder in het bijzonder de bevoegdheden van de Gemeenschappen en Gewesten, de officieren en agenten van gerechtelijke of administratieve politie en van de ambtenaren van de Algemene Administratie van de Douane en Accijnzen van de Federale Overheidsdienst Financiën”.
+XIV-39.392-15/17
+De vraag rijst evenwel niet alleen (1.) of de op zeer ruime en algemene wijze gedelegeerde beslissingsbevoegdheid zoals die ligt vervat in artikel 1 van het ministerieel besluit van 13 december 2023, doch ook (2.) of de rechtsgrond waarop die machtigingsbepaling steunt, namelijk artikel 2, tweede lid, van het koninklijk besluit van 12 december 2023, wel kunnen worden ingepast binnen de (delegatieleer zoals die voortvloeit uit de) artikelen 33, 37, 105 en 108, van de Grondwet.
+De Raad van State merkt daarbij op dat de door de daartoe bevoegde overheid te nemen beslissingen inzake een aanvraag tot vrijgave van bevroren financiële en economische tegoeden onder meer zou kunnen raken aan het eigendomsrecht van de verzoekende partij dat een fundamenteel grondrecht is dat onder meer wordt gewaarborgd door artikel 17 van het Handvest van 12 december 2007 van de Grondrechten van de Europese Unie dat te dezen van toepassing is (zie in die zin arresten 12 juni 2014, Peftiev, C.314/13, EU:C:2014:1645, punt 24, en 14 april 2016, Ben Ali/Raad, T-200/14, niet gepubliceerd, EU:T:2016:216, punt 266 en 11 september 2024, NKO AO National Settlement Depository (NSD), T-494/22, punt 132, EU:T:2024:607.), evenals aan andere fundamentele rechten zoals de vrijheid van ondernemen en het vrije verkeer van kapitaal en goederen.
+Aangezien de bevoegdheid van de steller van de akte een essentieel element betreft dat ertoe strekt de beslechting van het geschil te beïnvloeden en dit niet het voorwerp is geweest van een onderzoek door het auditoraat, houdt het recht op tegenspraak in dat de partijen hierover, na kennisneming van een aanvullende auditoraatsverslag, debat moeten kunnen voeren (zie mutatis mutandis EHRM 16 februari 2006, Prikyan en Angelova /Bulgarije, ECLI:CE:ECHR:2006:0216JUD004462498, punt 42; EHRM
+5 september 2013, Čepek / Tsjechische Republiek, ECLI:CE:ECHR:2013:
+0905JUD000981510, punt 45).”.
+XIV-39.392-16/17
+BESLISSING
+1. De Raad van State heropent het debat.
+2. Het door de auditeur-generaal aangestelde lid van het auditoraat wordt gelast met het aanvullend onderzoek.
+Dit arrest is uitgesproken te Brussel, op tweeëntwintig december tweeduizend vijfentwintig, door de Raad van State, XIVde kamer, samengesteld uit:
+Geert Debersaques, kamervoorzitter, Kaat Leus, staatsraad, Patricia De Somere, staatsraad, bijgestaan door Johan Pas, griffier.
+De griffier De voorzitter
+Johan Pas Geert Debersaques
+XIV-39.392-17/17
