@@ -1,0 +1,97 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+XIIIe CHAMBRE
+no 265.273 du 22 décembre 2025
+A. 234.896/XIII-9465
+En cause : l’association sans but lucratif LIGUE ROYALE
+BELGE POUR LA PROTECTION DES OISEAUX, en abrégé « LRBPO », ayant élu domicile chez Me Alain LEBRUN, avocat, place de la Liberté 6
+4030 Grivegnée, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Me Pierre MOËRYNCK, avocat, avenue de Tervueren 34/27
+1040 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+1. Par une requête introduite le 28 octobre 2021, la partie requérante demande, d’une part, l’annulation de la décision du 16 août 2021 par laquelle la directrice générale du Service public Wallonie (SPW) agriculture, ressources naturelles et environnement (ARNE) approuve partiellement le plan de gestion de la perdrix grise pour les années cynégétiques 2021-2024 du conseil cynégétique de la Haute Sambre et, d’autre part, la suspension de l’exécution du même acte.
+II. Procédure
+2. L’arrêt n° 253.996 du 14 juin 2022 a rejeté la demande de suspension de l’acte attaqué et réservé les dépens (ECLI:BE:RVSCE:2022:ARR.253.996). Il a été notifié aux parties.
+Une demande de poursuite de la procédure a été introduite le 24 juin 2022
+par la partie requérante.
+XIII - 9465 - 1/7
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+M. Quentin Picquereau, auditeur adjoint au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+La partie requérante a déposé un dernier mémoire.
+Par une ordonnance du 19 novembre 2025, l’affaire a été fixée à l’audience du 18 décembre 2025.
+M. Lionel Renders, conseiller d’État, a exposé son rapport.
+Me Pierre Moërynck, avocat, comparaissant pour la partie adverse, a été entendu en ses observations.
+M. Xavier Hubinon, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits
+3. Les faits utiles à l’examen de la cause sont exposés dans l’arrêt n° 253.996 du 14 juin 2022. Il y a lieu de s’y référer.
+IV. Seconde branche du moyen repris sous l’intitulé « violation de la finalité exclusive de repeuplement des lâchers »
+IV.1. Thèses des parties
+A. La requête en annulation
+4. Le premier moyen est pris de la violation de l’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 fixant les dates de l’ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 2020 au 30 juin 2025, de l’article 7.1. de la directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages et de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs.
+XIII - 9465 - 2/7
+5. Dans la seconde branche, la partie requérante affirme que l’auteur de l’acte attaqué ne justifie pas les raisons pour lesquelles il s’écarte de la recommandation contenue dans la note n° 4 du département de l’étude du milieu naturel et agricole (Demna) qui préconise de suspendre la chasse pour une période de deux à cinq ans après un lâcher de repeuplement.
+B. Le mémoire en réponse
+6. Par une réponse commune aux deux branches du moyen, la partie adverse observe que la notion de lâcher de repeuplement n’est pas définie par la réglementation cynégétique mais qu’il ressort de la jurisprudence qu’un lâcher dont les individus peuvent être abattus avant même qu’ils aient eu la possibilité de se reproduire au moins une fois ne doit pas être considéré comme un lâcher de repeuplement. Elle en infère que l’autorité décidante ne dispose d’aucune base lui permettant de refuser l’approbation d’un plan de gestion qui ne prévoit pas plus qu’une année d’interdiction de la chasse à la perdrix après la réalisation d’un lâcher de repeuplement. Elle affirme que rien n’empêche la réalisation de lâchers durant plusieurs années successives, ce qui revient à augmenter la période durant laquelle la chasse à la perdrix est suspendue.
+Enfin, elle soutient que la note n° 4 du Demna ne fait rien d’autre que de recommander la réalisation de lâchers sur plusieurs années consécutives. Elle en déduit que des lâchers effectués sur plusieurs années ont pour conséquence d’interdire la chasse durant cette période. Elle est d’avis que le plan de gestion litigieux ne s’écarte pas de la recommandation de cette note.
+IV.2. Examen
+7.1. L’article 12 de l’arrêté du Gouvernement wallon du 29 mai 2020
+fixant les dates de l’ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 2020 au 30 juin 2025, conditionne la chasse à la perdrix grise à l’approbation d’un plan de gestion triennal, dont elle détermine son contenu. Il est rédigé comme suit :
+« § 1er. À partir de l’année cynégétique 2021-2022, la chasse à la perdrix grise est fermée, sauf sur les territoires associés en un conseil cynégétique agréé disposant d’un plan de gestion triennal de l’espèce approuvé par le directeur général du Service public de Wallonie Agriculture, Ressources naturelles et Environnement.
+§ 2. Le plan de gestion triennal comprend au minimum :
+1° la délimitation d’unités de gestion au sein de l’espace territorial du conseil cynégétique ;
+XIII - 9465 - 3/7
+2° la méthode qui est suivie pour évaluer dans chaque unité de gestion la population des perdrix grises présentes au printemps, avant les naissances ;
+3° la méthode qui est suivie pour évaluer le succès de la reproduction dans chaque unité de gestion ;
+4° la politique qui est suivie en matière de lâcher de perdrix grises ;
+5° les normes de prélèvements qu’impose le conseil cynégétique à ses membres titulaires de droit de chasse, en fonction de l’évaluation de la population des perdrix grises présentes au printemps et du succès de la reproduction ;
+6° pour chaque unité de gestion, une évaluation de la qualité des habitats pour la perdrix grise et les mesures envisagées en vue de les restaurer et/ou de les améliorer ;
+7° les mesures prises afin de réguler les prédateurs de la perdrix grise.
+La politique visée à l’alinéa 1er, 4°, consiste soit :
+1° à abandonner totalement les lâchers de perdrix grises, quels qu’ils soient ;
+2° à maintenir ces lâchers en fonction d’un objectif à définir par le conseil cynégétique et moyennant le respect des conditions minimales suivantes :
+a) les lâchers doivent rencontrer uniquement des besoins de repeuplement ;
+b) toutes les précautions sont prises afin d’éviter que les lâchers aient un impact négatif sur le plan sanitaire et génétique ;
+c) les oiseaux lâchés doivent préalablement être bagués ».
+L’article 12, § 2, alinéa 2, 2°, a), de l’arrêté du Gouvernement wallon du 29 mai 2020 précité prévoit, dans le cadre de la mise en œuvre d’un plan de gestion triennal, que la politique en matière de lâcher des perdrix grises peut, à défaut de consister en l’abandon total de tels lâchers, les maintenir en fonction d’un objectif à définir par le conseil cynégétique et moyennant notamment la condition que ces lâchers rencontrent « uniquement des besoins de repeuplement ».
+La notion de lâcher de « repeuplement » n’est définie ni par la loi du 28 février 1882 sur la chasse ni par l’arrêté du Gouvernement wallon du 29 mai 2020
+précité. Les notes au Gouvernement wallon précédant l’adoption de cet arrêté ne donnent aucune précision à cet égard. Il y a donc lieu de s’en remettre au sens usuel des termes. Le centre national français de ressources textuelles et lexicales définit le repeuplement comme visant l’ « action de repeupler ; résultat de cette action ». Il définit le terme « repeupler » comme portant sur les actes de « peupler de nouveau avec une population susceptible de se reproduire » et de « protéger la reproduction ;
+mettre à nouveau des animaux dans […] ».
+Le Demna a établi, en juillet 2020, une note n° 4 relative aux repeuplements de la perdrix grise. Cette note a été distribuée aux conseils cynégétiques en vue de les assister dans l’élaboration de leur plan de gestion. Le Demna y distingue explicitement le « lâcher de repeuplement » du « lâcher de tir ». Il précise également que « la réussite des opérations de repeuplement passe par des mesures de gestion strictes, en faveur des habitats et de tous les facteurs qui peuvent contribuer à améliorer l’état des populations, dont un arrêt volontaire des prélèvements pendant plusieurs années ».
+XIII - 9465 - 4/7
+Il découle de ce qui précède que la notion de repeuplement est à mettre en lien avec la notion de sauvegarde de l’espèce et de reproduction. Un lâcher qui rencontre « uniquement » des besoins de repeuplement peut être assimilé à un lâcher qui vise exclusivement la sauvegarde de l’espèce et l’amélioration de sa viabilité.
+Il en résulte qu’un lâcher peut être considéré comme un lâcher de repeuplement si les individus relâchés ont eu la possibilité, au moins une fois, de se reproduire. En d’autres mots, la qualification de lâcher de repeuplement implique que la chasse à la perdrix grise soit suspendue pendant au moins une année après la réalisation du lâcher.
+La note n° 4 précitée précise encore que le repeuplement présente plus de chance de réussite si « les lâchers sont échelonnés sur plusieurs années, en été, avec des oiseaux provenant de populations appropriées sur le plan génétique, contrôlés sur le plan sanitaire et élevés dans des conditions les plus naturelles possibles, sans subir de prélèvements cynégétiques pendant 2 à 5 ans ». Il est mentionné ce qui suit dans l’annexe 1 de cette note :
+« 6. Les lâchers sont échelonnés sur plusieurs années (minimum 2 ans, 4 ou 5 ans si possible), afin d’aider à surmonter les variations annuelles du climat et les impacts de perturbations naturelles occasionnelles. Les lâchers répétés permettent aussi aux derniers oiseaux arrivants de profiter de l’expérience des spécimens lâchés précédemment.
+(…)
+11. Les prélèvements sont totalement arrêtés pendant toute la durée du repeuplement, soit 2 à 5 ans. La gestion qui consiste à miser sur des lâchers de tir en espérant préserver les populations sauvages, dite “gestion mixte”, est totalement contreproductive. La littérature nous apprend que cette façon de faire non seulement maquille, mais surtout accélère le déclin des populations naturelles, pour les différentes raisons évoquées ci-dessous, qui peuvent se cumuler ».
+Bien qu’il n’apparaît pas de la note précitée que tout lâcher de perdrix grise doit nécessairement être suivi d’une interdiction de prélèvement pendant une période de deux à cinq ans, cette note préconise tout de même l’échelonnement des lâchers sur plusieurs années et donc, par voie de conséquence, une interdiction de prélèvement durant la période de repeuplement, soit pendant deux à cinq ans.
+7.2. L’obligation de motivation formelle qui s’impose à l’autorité en vertu des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs doit non seulement permettre au destinataire de l’acte de comprendre les raisons qui ont amené l’autorité à adopter celui-ci, mais elle doit, en outre, permettre au Conseil d’État de contrôler l’exactitude, l’admissibilité et la pertinence des motifs exprimés dans la décision.
+XIII - 9465 - 5/7
+La note n° 4 précitée constitue un avis émis par une instance spécialisée qui a été distribué aux conseils cynégétiques pour les informer « en appui à la mise en œuvre des plans de gestion de la perdrix grise ». Elle figure au dossier administratif.
+Il s’ensuit que si l’autorité décidante entend s’en écarter, elle doit en expliciter à suffisance les raisons.
+8. En l’espèce, le point 5.3 du plan de gestion litigieux, relatif à la politique suivie en matière de repeuplement, prévoit ce qui suit :
+« Le lâcher de perdrix est admis uniquement dans le cadre du repeuplement d’un territoire.
+Le repeuplement d’une espèce, en l’occurrence la Perdrix grise, vise à développer une souche sauvage qui se reproduira in fine sur le territoire.
+Il va de soi que cette notion est incompatible avec des prélèvements qui seraient réalisés au cours de la même année que celle correspondant aux lâchers. Le Conseil cynégétique imposera donc aux unités de gestion participant à un repeuplement une suspension de la chasse à la Perdrix grise durant l’année suivant le repeuplement et ce dès cette saison cynégétique 2021-2022 ».
+La suspension de la chasse à la perdrix grise durant la saison cynégétique qui suit celle où un lâcher de repeuplement a été réalisé est rappelée au point 5.4 du plan de gestion.
+Pour le reste, le plan de gestion ne contient aucune indication ou prescription quant à l’échelonnement des lâchers de perdrix sur plusieurs années successives, comme cela est préconisé par la note n° 4 précitée.
+En méconnaissance des articles 2 et 3 de la loi du 29 juillet 1991 précitée, les considérations qui précèdent ne permettent pas de comprendre à suffisance ce qui a convaincu l’auteur de l’acte attaqué de s’écarter de la note n° 4 précitée en approuvant un plan de gestion autorisant les lâchers sans pour autant prévoir un échelonnement de ceux-ci sur une certaine période.
+Par conséquent, la seconde branche de ce moyen est fondée, ce qui suffit à entraîner l’annulation de l’acte attaqué.
+V. Indemnité de procédure
+9. La partie requérante sollicite une indemnité de procédure de 924 euros.
+Il y a lieu de faire droit à sa demande.
+XIII - 9465 - 6/7
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Est annulée la décision du 16 août 2021 par laquelle la directrice générale du SPW ARNE approuve partiellement le plan de gestion de la perdrix grise pour les années cynégétiques 2021-2024 du conseil cynégétique de la Haute Sambre.
+Article 2.
+Une indemnité de procédure de 924 euros est accordée à la partie requérante, à la charge de la partie adverse.
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 40 euros, est mise à la charge de la partie adverse.
+Les autres dépens, liquidés à la somme de 400 euros, sont mis à la charge de la partie adverse.
+Ainsi prononcé à Bruxelles le 22 décembre 2025, par la XIIIe chambre du Conseil d’État, composée de :
+Colette Debroux, président de chambre, Lionel Renders, conseiller d’État, Géraldine Rosoux, conseiller d’État, Simon Pochet, greffier.
+Le Greffier, Le Président,
+Simon Pochet Colette Debroux
+XIII - 9465 - 7/7
