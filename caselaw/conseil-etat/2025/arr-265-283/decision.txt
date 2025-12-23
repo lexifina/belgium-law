@@ -1,0 +1,256 @@
+ecli_input     ECLI:BE:RVSCE:2023 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old ecli_annee     2023 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2023 invalide Invalid ECLI ID - 4 element(s)
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+XIIIe CHAMBRE
+no 265.283 du 23 décembre 2025
+A. 236.476/XIII-9667
+En cause : 1. J. V., 2. C. B., 3. C. P., 4. P. P., 5. L. P., ayant tous élu domicile chez Me Christophe THIEBAUT, avocat, avenue des Dessus de Lives 8
+5101 Loyers, contre :
+la commune de Rixensart, représentée par son collège communal, Partie intervenante :
+la société anonyme SOCIÉTÉ GÉNÉRALE FONCIÈRE, ayant élu domicile chez Me Alexis della FAILLE, avocat, place de l’Hôtel de Ville 15-16
+1300 Wavre.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 23 mai 2022, les parties requérantes demandent, d’une part, l’annulation de la décision du 9 mars 2022 par laquelle le collège communal de Rixensart octroie, sous conditions, à la société anonyme (SA)
+Société générale foncière (SOGEFON), un permis d’urbanisme ayant pour objet la construction d’une maison unifamiliale et d’une annexe sur un bien sis rue des Fleurs à Rixensart et, d’autre part, la suspension de l’exécution de cette décision.
+XIII - 9667 - 1/22
+II. Procédure
+L’arrêt n° 254.606 du 27 septembre 2022 a accueilli la requête en intervention de la SA SOGEFON, rejeté la demande de suspension et réservé les dépens (ECLI:BE:RVSCE:2022:ARR.254.606).
+L’arrêt n° 256.262 du 12 avril 2023 a rouvert les débats, renvoyé l’affaire à la procédure ordinaire et réservé les dépens (ECLI:BE:RVSCE:2023:
+ARR.256.262).
+Les parties intervenante et requérantes ont déposé, respectivement, un mémoire en intervention et un mémoire ampliatif.
+Mme Ambre Vassart, auditeur au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Les parties requérantes et intervenante ont déposé un dernier mémoire.
+Par une ordonnance du 3 novembre 2025, l’affaire a été fixée à l’audience du 4 décembre 2025.
+Mme Laure Demez, conseiller d’État, a exposé son rapport.
+Me Jennifer Vanderelst, loco Me Christophe Thiebaut, avocat, comparaissant pour les parties requérantes, et Me Sophia Genin, loco Me Alexis della Faille, avocat, comparaissant pour la partie intervenante, ont été entendues en leurs observations.
+Mme Ambre Vassart, auditeur, a été entendue en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la cause
+Les antécédents utiles à l’examen de la cause sont exposés dans l’arrêt n° 254.606 du 27 septembre 2022. Il y a lieu de s’y référer.
+XIII - 9667 - 2/22
+IV. Premier moyen
+IV.1. Thèse des parties requérantes
+A. La requête en annulation
+Les parties requérantes prennent un premier moyen de la violation des articles D.IV.5, D.IV.27, D.IV.53, alinéa 1er, et D.VIII.2, § 1er, alinéa 2, du Code du développement territorial (CoDT), des articles 2 et 3 de la loi du 29 juillet 1991
+relative à la motivation formelle des actes administratifs, des indications nos 1, 2, 3, 6
+du guide communal d’urbanisme (GCU) de Rixensart, approuvé le 20 juin 1994, et des indications reprises au chapitre 1.4 « Quartier villageois » du schéma de développement communal (SDC), entré en vigueur le 25 décembre 2010, ainsi que de l’erreur manifeste d’appréciation, de l’erreur et de l’insuffisance dans les motifs et du défaut de motivation.
+Elles divisent le moyen en trois branches.
+Dans la première branche, elles soutiennent que l’acte attaqué s’écarte de certaines indications du GCU sans toutefois identifier les écarts ni les octroyer ni les motiver. Elles en identifient trois. À leur estime, le premier écart consiste en une modification du relief du sol supérieure à 0,50 mètre – le projet prévoyant le déblai de terres en vue de créer une cave d’une profondeur d’environ 2,60 mètres et de vides ventilés sur une profondeur d’environ 0,60 mètre en sous-sol – en contradiction avec l’indication qui prévoit que « les modifications du relief du sol sont limitées à 0,50
+mètre maximum ». Quant au deuxième écart qu’elles identifient, elles considèrent qu’il résulte des baies à dominante horizontale prévues dans la façade visible depuis l’espace public en contradiction avec l’indication qui prévoit que « pour les volumes à construire ou à reconstruire, l’ensemble des baies des façades visibles depuis l’espace public présentera une dominante verticale ». Enfin, le troisième écart identifié résulte, selon elles, de l’implantation contraire à l’indication qui prévoit que « s’il existe un ou plusieurs murs mitoyens latéraux, le volume principal est implanté contre un mur mitoyen au moins ».
+Dans la deuxième branche, elles considèrent que l’acte attaqué s’écarte d’une indication du SDC relative à l’implantation en mitoyenneté sans identifier cet écart ni le justifier ni l’octroyer ou, à tout le moins, sans expliquer les raisons pour lesquelles une telle implantation ne devait pas être favorisée. Elles relèvent que le projet est repris en zone de « quartier villageois » à ce schéma et qu’en prévoyant la construction d’une habitation non mitoyenne, il s’écarte de la recommandation contenue dans le chapitre 1.4 du SDC relatif à cette zone qui prévoit qu’il faut
+XIII - 9667 - 3/22
+« favoriser la mitoyenneté des constructions dans le respect des caractéristiques du bâti traditionnel ». Selon elles, afin de respecter les exigences de motivation formelle des actes administratifs, l’autorité devait exposer en quoi l’implantation de la construction projetée en mitoyenneté avec l’habitation située rue Edouard Dereume, 43 était impossible ou que cette solution était moins judicieuse que l’implantation autorisée, et ce d’autant plus vu les critiques émises en ce sens dans le cadre de l’annonce de projet.
+Dans une troisième branche, elles sont d’avis que l’acte attaqué n’expose pas, pour l’écart identifié et autorisé à l’indication qui prévoit que « tout volume principal respectera un rapport pignon/façade compris entre 1.2 et 2 », en quoi le projet ne compromet pas son objectif. Elles relèvent qu’il identifie pour l’ensemble des prescriptions du GCU dont le projet s’écarte, un seul objectif consistant à « renforcer le caractère résidentiel et ouvert de la sous-aire ». Elles soutiennent toutefois que chaque prescription de ce guide poursuit un objectif plus précis que l’acte attaqué n’identifie pas expressément. En ce qui concerne la prescription précitée du GCU, elles soutiennent que l’objectif est de proscrire l’implantation de façades à front de voirie d’une largeur trop importante pour préserver l’harmonie du cadre bâti et avoir des habitations aux façades étroites à front de voirie. Elle en infère que la motivation de l’acte attaqué, dont elle reproduit un extrait, est insuffisante en ce qu’elle ne démontre pas que cet objectif n’est pas compromis.
+B. Le mémoire ampliatif
+Sur la première branche, elles ajoutent, quant à l’écart relatif à la verticalité des baies en façade avant, avoir démontré que la largeur des baies est plus importante que leur hauteur, ce qui atteste, selon elles, d’une dominante horizontale et que l’effet de verticalité créé par les montants de menuiserie sont sans effet dès lors que les baies présentent toujours une largeur plus importante que leur hauteur et que toutes les baies ne sont pas pourvues de ce type de menuiserie. Quant à l’écart relatif à la modification du relief du sol, elles considèrent que la motivation de l’acte attaqué ne montre pas qu’il a été tenu compte des déblais et remblais liés aux excavations pour la cave et les vides ventilés. Pour l’écart relatif à l’implantation du volume principal, elles soutiennent que la partie intervenante confond le SDC, le schéma d’orientation local (SOL) et le GCU.
+Sur la deuxième branche, elles considèrent que la partie adverse devait exposer en quoi elle considérait que l’implantation en mitoyenneté de la construction projetée était impossible ou en quoi cette solution était moins judicieuse que l’implantation autorisée, la simple mention selon laquelle « aucun écart au contenu
+XIII - 9667 - 4/22
+dudit schéma de développement communal n’est constaté » n’étant pas une réponse suffisante aux réclamations formulées à cet égard.
+Sur la troisième branche, elles relèvent que la lacune dénoncée dans l’identification de l’objectif poursuivi par la prescription du GCU en cause ne peut pas être comblée par les extraits de motivation reproduits par la partie intervenante, seul un objectif général et stéréotypé de ce guide ayant été identifié par la partie adverse. Elles ajoutent que la reproduction des réclamations dans l’acte ne suffit pas pour considérer qu’il y a été répondu.
+C. Le dernier mémoire
+Concernant la première branche, elles relèvent que la motivation de l’acte attaqué sur l’écart relatif aux modifications du relief du sol porte uniquement sur celles effectuées en périphérie du volume principal projeté et non sur le déblai de terres nécessaire à la création de la cave et des vides ventilés. Elles estiment que le texte du GCU est clair en ce qu’il vise les modifications du relief du sol dans leur sens usuel, à défaut de définition, à savoir « tous travaux de remblai ou déblai de nature à modifier le niveau naturel du terrain, en ce compris ceux opérés pour la création d’un niveau en sous-sol ou pour les fondations ». De même, pour la notion de « dominante verticale » visée par l’écart relatif à la dominante des baies, elles renvoient à son sens usuel, à défaut de définition, à savoir « ce qui est dominant, essentiel, caractéristique parmi plusieurs choses » et « qui suit la direction de la pesanteur, du fil à plomb en un lieu ; perpendiculaire à l’horizontale ». Elles en infèrent que l’ensemble des baies doivent présenter une caractéristique verticale et que cela n’est pas le cas en l’espèce.
+Quant à l’écart relatif à l’implantation du volume principal, elles soutiennent que le projet ne s’implante pas rue des Fleurs mais le long d’une servitude de passage sur fond privé qui mène à cette rue et le long du sentier n° 31. Elles confirment qu’il existe un mur mitoyen latéral contre lequel le volume principal projeté ne s’implante pas.
+Concernant la deuxième branche, elles soutiennent que les termes du SDC
+sont clairs en ce que, lorsqu’une implantation en mitoyenneté est possible, elle doit être favorisée sous peine d’entraîner un écart à ce schéma. Selon elles, peu importe que le carport projeté soit accolé à l’habitation située au n° 43 de la rue Edouard Dereume, la maison unifamiliale isolée projetée ne répondant pas à l’indication visant à favoriser l’implantation en mitoyenneté. Elles ajoutent que l’acte attaqué est muet sur cette question et que rien ne permet de comprendre que la partie adverse a considéré qu’il n’y avait pas d’écart parce que cette recommandation du schéma ne précise pas qu’il doit s’agir de la mitoyenneté du volume principal ou de l’ensemble des constructions du projet.
+XIII - 9667 - 5/22
+Concernant la troisième branche, elles soutiennent que l’objectif identifié dans l’acte attaqué pour l’ensemble des prescriptions du GCU est un objectif général constituant l’objet même de tout permis d’urbanisme introduit pour cette zone de sorte que sa seule identification ne permet pas de rencontrer la condition de l’article D.IV.5
+du CoDT. Elles estiment que l’objectif poursuivi par la prescription en cause du GCU
+consiste à « proscrire l’implantation de façades à front de voirie d’une largeur trop importante pour préserver l’harmonie du cadre bâti » et ne pas compromettre « une voirie bordée de bâtiments à façade étroite ». Elles ajoutent que, bien que cela ait été dénoncé dans leurs réclamations, l’acte attaqué n’expose pas les raisons pour lesquelles son auteur considère que cet écart ne met pas en péril cet objectif.
+IV.2. Examen
+A. Recevabilité
+1. Le moyen est irrecevable en ce qu’il invoque la violation des articles D.IV.27 et D.VIII.2, § 1er, alinéa 2, du Code du développement territorial (CoDT), à défaut de toute indication, de façon claire et sans ambiguïté, de la manière dont ils ont été concrètement enfreints.
+B. Fondement
+2. Pour satisfaire aux exigences des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, un permis d’urbanisme, comme tout acte administratif à portée individuelle au sens de l’article 1er de cette loi doit faire l’objet d’une motivation formelle, laquelle consiste en l’indication, dans l’acte, des considérations de droit et de fait servant de fondement à la décision. Cette motivation doit être claire, complète, précise, pertinente et adéquate afin de permettre aux intéressés de comprendre les raisons fondant la décision et de vérifier que celle-
+ci a été précédée d’un examen des circonstances de l’espèce. L’étendue de la motivation requise est proportionnelle au caractère discrétionnaire du pouvoir d’appréciation de l’auteur de cet acte et à l’importance de la décision prise.
+Pour être adéquate, la motivation doit reposer sur des éléments qui, au regard du dossier administratif, s’avèrent exacts, c’est-à-dire conformes à la réalité, pertinents pour la solution retenue et légalement admissibles.
+La notion de « motivation adéquate » au sens de l’article D.IV.53 du CoDT rejoint et précise celle qui figure à l’article 3 de la loi du 29 juillet 1991 précitée.
+XIII - 9667 - 6/22
+La motivation d’un acte de l’administration active ne doit pas contenir de réponse à toutes les objections qui ont été émises au cours de la procédure d’annonce de projet. Il faut, mais il suffit, que les motifs de l’acte attaqué répondent au moins globalement aux réclamations et indiquent les raisons de droit et de fait qui ont conduit l’autorité à se prononcer, le degré de précision de la réponse étant fonction de celui de la réclamation. Autrement dit, lorsqu’au cours de l’annonce de projet, des observations précises, dont l’exactitude et la pertinence sont corroborées par le dossier, ont été formulées, le permis délivré ne peut être considéré comme adéquatement motivé que s’il permet de comprendre les raisons pour lesquelles l’autorité passe outre, au moins partiellement, à ces observations.
+3. Les conditions suivant lesquelles un projet peut s’écarter des indications d’un schéma ou d’un guide sont énoncées à l’article D.IV.5 du CoDT libellé comme suit :
+« Un permis ou un certificat d’urbanisme n° 2 peut s’écarter du schéma de développement du territoire lorsqu’il s’applique, d’un schéma de développement pluricommunal, d’un schéma de développement communal, d’un schéma d’orientation local, d’une carte d’affectation des sols, du contenu à valeur indicative d’un guide ou d’un permis d’urbanisation moyennant une motivation démontrant que le projet :
+1° ne compromet pas les objectifs de développement territorial, d’aménagement du territoire ou d’urbanisme contenus dans le schéma, la carte d’affectation des sols, le guide ou le permis d’urbanisation ;
+2° contribue à la protection, à la gestion ou à l’aménagement des paysages bâtis ou non bâtis ».
+L’autorité compétente dispose d’un pouvoir discrétionnaire pour déterminer l’existence d’un écart à une prescription permettant une certaine marge d’appréciation. Partant, seule l’erreur manifeste d’appréciation peut être censurée, sous la réserve des autres causes d’annulation des actes administratifs, telles une erreur de fait, une erreur de droit ou la violation de la loi du 29 juillet 1991 précitée.
+En outre, un permis d’urbanisme peut s’écarter de telles indications si l’autorité, après avoir identifié l’écart, démontre par une motivation adéquate que le projet respecte les conditions fixées dans la disposition légale précitée.
+Concernant en particulier la première condition, la démonstration que les objectifs du document à valeur indicative ne sont pas compromis, implique qu’au préalable, l’autorité détermine ces objectifs. Si ceux-ci ne sont pas expressément identifiés dans le document, ils peuvent toutefois découler de l’ensemble de ses prescriptions. Lorsque les options urbanistiques et architecturales ne sont pas clairement exposées par le document de planification, l’exigence de compatibilité avec ces options fait appel au pouvoir d’appréciation de l’autorité administrative qui doit veiller à ce que les objectifs principaux visés par ce document ne soient pas mis   XIII - 9667 - 7/22
+en péril par l’écart sollicité. L’autorité compétente dispose d’un pouvoir discrétionnaire pour déterminer la nature et la portée des objectifs de développement territorial, d’aménagement du territoire ou d’urbanisme non expressément identifiés dans les schémas, les cartes d’affectation, les guides ou les permis d’urbanisation.
+Partant, seule l’erreur manifeste d’appréciation peut être censurée.
+Toute prescription ou indication d’un schéma ou d’un guide ne constitue pas nécessairement un objectif de développement territorial, d’aménagement du territoire ou d’urbanisme. En effet, considérer que toute prescription définit un objectif revient à rendre impossible tout écart alors que le législateur régional wallon n’accorde plus à ces documents qu’une valeur indicative en vertu de l’article D.III.8
+du CoDT.
+4. Le contrôle du Conseil d’État sur la matérialité des faits et leur qualification est complet. En revanche, le contrôle de l’appréciation est marginal, limité à l’erreur manifeste d’appréciation. L’appréciation est manifestement erronée quand elle est incompréhensible pour tout observateur averti. Il ne suffit pas de constater qu’au regard des mêmes critères, telle autre mesure paraît raisonnablement admissible ou semble même meilleure. Il s’agit de l’attitude qu’aucune autre autorité normalement prudente et diligente placée dans les mêmes circonstances n’aurait adoptée.
+B.1. Première branche
+5. Le projet est repris en « sous-aire différenciée 1/41 d’habitat à caractère résidentiel » au GCU.
+Concernant le grief portant sur l’écart dénoncé relatif aux modifications du relief du sol, le GCU prévoit, à l’alinéa 1er de son indication n° 1 « Implantation -
+Autres dispositions » applicable à cette sous-aire, ce qui suit :
+« L’implantation des volumes et l’aménagement de leurs abords respecteront le relief naturel du sol. Les modifications du relief du sol sont limitées à 0,50 mètre maximum ».
+L’acte attaqué identifie cet écart et motive son admissibilité dans les termes suivants :
+« Considérant que les écarts liés à l’implantation des volumes et l’aménagement de leurs abords qui ne respectent pas le relief naturel du sol et le rez-de-chaussée qui n’épouse pas le relief naturel du terrain semblent justifiés ; qu’en effet, au vu de la configuration du terrain et de sa topographie, les déblais et remblais prévus sont limités à la périphérie des volumes projetés ; qu’ils permettent d’aplanir le terrain autour de l’habitation et du volume annexe à usage de carport ; que les modifications du relief du sol sont de faibles ampleurs (maximum 37 centimètres   XIII - 9667 - 8/22
+près de l’habitation) et s’intègrent de manière harmonieuse au cadre bâti et non-
+bâti existant ; que les aménagements limités des abords suivent au mieux la topographie existante et se raccordent harmonieusement avec les limites de la parcelle ».
+L’autorité a pu interpréter la disposition précitée du GCU comme ne visant pas le sous-sol du volume d’un bâtiment, sous peine d’aboutir à l’impossibilité de réaliser des fondations, des caves ou tous autres accessoires invisibles et enterrés, essentiels à la stabilité ou à l’usage d’un bien et, partant, elle a pu considérer que cet écart s’applique au relief du terrain sur lequel s’implante le bâtiment et à la situation de la partie du bâtiment visible ainsi qu’à ses abords mais pas aux déblais en sous-sol destinés à la création de caves, fondations ou vides ventilés.
+Cette interprétation est d’ailleurs confirmée par le deuxième alinéa de l’indication n°1 du GCU précitée qui prévoit notamment ce qui suit :
+« Le rez-de-chaussée épousera le relief naturel du terrain de façon à limiter au maximum les déblais et les remblais. À cet effet, les documents de demande de permis d’urbanisme seront très précis quant aux cotes de niveau du terrain naturel, du terrain modifié et de la construction projetée ».
+Soutenir que cette indication, dont les deux premiers alinéas doivent être lus ensemble, vise également les déblais ou remblais liés au sous-sol ou au vide ventilé la vide de son sens dès lors que c’est bien uniquement l’emplacement du bâtiment qui est visé et qu’il n’est pas fait mention des niveaux envisagés.
+La motivation précitée de l’acte attaqué permet de comprendre les raisons pour lesquelles l’autorité a considéré que la réclamation des parties requérantes n’est pas pertinente à cet égard.
+6. Concernant le grief portant sur le deuxième écart dénoncé qui porte sur l’indication n° 6 « baies et ouvertures » du GCU applicable à cette même sous-aire, celle-ci prévoit ce qui suit :
+« Pour les volumes à construire ou à reconstruire, l’ensemble des baies des façades visibles depuis l’espace public présentera une dominante verticale et totalisera une surface maximum de 50 % par rapport aux élévations.
+Ces baies doivent procurer un éclairage naturel suffisant des locaux conformément aux normes dictées par le code du logement ».
+L’horizontalité des baies en façade est une caractéristique sujette à une certaine marge d’appréciation dès lors que l’indication du guide évoque une « dominante verticale », sans autre précision. L’autorité a raisonnablement pu considérer que la subdivision des baies en fenêtres distinctes, avec des montants
+XIII - 9667 - 9/22
+verticaux de menuiserie, leur confère une dominante verticale de telle sorte que le projet était conforme à la disposition précitée.
+Il résulte de ce qui précède que l’autorité ne relevant aucun écart à cet égard, elle n’avait pas à se justifier sur ce point.
+En soutenant le contraire, les parties requérantes tentent en réalité de substituer, en opportunité, leur propre appréciation à celle de l’autorité, ce qu’elles ne peuvent, sauf à établir une erreur manifeste d’appréciation dans le chef de l’autorité, non rapportée en l’espèce.
+7. Concernant le grief portant sur le troisième écart dénoncé relatif à l’indication n° 1 du GCU « Implantation - Autres dispositions » qui, selon les parties requérantes, prévoit que « s’il existe un ou plusieurs murs mitoyens latéraux, le volume principal est implanté contre un mur mitoyen au moins », il apparaît que l’indication n° 1 ne contient pas cette mention. Partant, le grief manque en droit à cet égard.
+B.2. Deuxième branche
+8. Le projet est repris en zone de « quartier villageois » au SDC pour laquelle la rubrique 1.4 de ce schéma recommande notamment ce qui suit :
+« favoriser la mitoyenneté des constructions dans le respect des caractéristiques du bâti traditionnel ».
+Cette recommandation vise de manière générique qu’il convient de « favoriser » la mitoyenneté des constructions sans préciser qu’il doit s’agir de la mitoyenneté du volume principal ou de l’ensemble des constructions d’un projet.
+9. L’acte attaqué est notamment motivé comme suit quant à la mitoyenneté du projet :
+« Considérant que le projet prévoit la construction d’une habitation unifamiliale présentant une surface construite au sol de +/-104 m2, composée d’un volume principal, à toiture à deux versants, développée sur 4 niveaux (une cave, un rez-de-
+chaussée, un étage et des combles non aménagées comprises dans le volume de la toiture) et d’un volume annexe à usage de car-port pour vélos et de rangement situé dans le fond de la parcelle et mitoyen avec l’habitation voisine (située rue Edouard Demeure 43) ;
+[…]
+Considérant que le volume annexe projeté, mitoyen avec la maison voisine (située rue Edouard Demeure 43), sera réalisé en structure bois ; que la toiture à un seul versant sera recouverte de tuile de teinte foncée ; qu’afin de préserver l’harmonie
+XIII - 9667 - 10/22
+des volumes projetés, il convient de placer des tuiles identiques à celles du volume principal ».
+Il résulte de ce qui précède que l’autorité ne relève aucun écart à cet égard et n’avait donc pas à se justifier sur ce point.
+En soutenant le contraire, les parties requérantes tentent en réalité de substituer, en opportunité, leur propre appréciation à celle de l’autorité, ce qu’elles ne peuvent, sauf à établir une erreur manifeste d’appréciation dans le chef de l’autorité, non rapportée en l’espèce.
+B.3. Troisième branche
+10. L’acte attaqué identifie l’écart à l’indication n° 1 « Implantation -
+Autres dispositions » du GCU applicable à la « sous-aire différenciée 1/41 d’habitat à caractère résidentiel », à laquelle est soumis le projet, qui prévoit que « tout volume principal respectera un rapport pignon/façade compris entre 1.2 et 2 ».
+Il motive son admissibilité notamment comme suit :
+« Considérant que l’écart lié au volume principal qui ne respecte pas un rapport pignon/façade compris entre 1,2 et 2 est justifié ; qu’au vu de la configuration du terrain, l’implantation du volume paraît cohérente par rapport aux parcelles voisines qui l’entourent ; que le recul latéral de 3 mètres minimum prescrit par le guide communal d’urbanisme est respecté ; que le bâtiment est implanté de manière à s’intégrer au mieux au relief naturel du terrain ;
+[…]
+Considérant qu’au vu des arguments précités, il est raisonnable de conclure que le projet ne compromet pas les objectifs de développement territorial, d’aménagement du territoire ou d’urbanisme du guide communal d’urbanisme et contribue à la protection, à la gestion et à l’aménagement des paysages bâtis et non bâtis de la zone où se localise le projet, vu que :
+• la construction projetée respect la cohérence urbanistique et architecturale du bâti existant ;
+• le projet ne prévoit pas d’abattage et devra prévoir des replantations ;
+• le projet garantit la continuité du tissu bâti ;
+Considérant que le projet s’implante dans un paysage urbanisé constitué majoritairement d’habitations établies en ordre ouvert ; que le paysage bâti s’en voit préservé et ce, malgré le fait que la demande s’écarte des indications du guide communal d’urbanisme ».
+Les parties requérantes considèrent que cette motivation est lacunaire au regard de la condition de l’article D.IV.5 du CoDT qui requiert que l’écart ne compromette pas l’objectif que sous-tend cette prescription indicative.
+XIII - 9667 - 11/22
+L’acte attaqué identifie l’objectif fondamental défini par le GCU pour la sous-aire 1/41 d’habitat à caractère résidentiel dans laquelle se situe le projet, comme suit : « Renforcer le caractère résidentiel et ouvert de la sous-aire ». Il n’est pas démontré qu’en identifiant cet objectif générique à cette rubrique 1/41, l’autorité a commis une erreur manifeste. Elle a, à suffisance, identifié l’objectif pour lequel il est attendu d’elle qu’elle justifie la compatibilité avec le projet. Considérer, comme le font les parties requérantes, que toute prescription du guide définit un objectif particulier, distinct de l’objectif générique précité, revient à rendre impossible tout écart alors que le législateur régional wallon n’accorde plus à ce guide qu’une valeur indicative en vertu de l’article D.III.8 du CoDT.
+En soutenant que la prescription précitée du guide définit un objectif spécifique et que l’admissibilité de l’écart devait être examinée au regard de celui-ci, les parties requérantes tentent en réalité de substituer, en opportunité, leur propre appréciation à celle de l’autorité, ce qu’elles ne peuvent, sauf à établir une erreur manifeste d’appréciation dans le chef de l’autorité, non rapportée en l’espèce.
+La motivation précitée de l’acte attaqué permet de comprendre les raisons pour lesquelles l’autorité a considéré que la réclamation des parties requérantes n’est pas pertinente à cet égard.
+Le premier moyen n’est fondé en aucune de ses branches.
+V. Deuxième moyen
+V.1. Thèse des parties requérantes
+A. La requête en annulation
+Les parties requérantes prennent un deuxième moyen de la violation de l’article D.VIII.2, § 1er, alinéa 2, du CoDT, des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, de l’effet utile de l’annonce de projet et, plus particulièrement, de l’absence ou de l’insuffisance des réponses apportées aux observations émises lors de l’annonce de projet, ainsi que de l’insuffisance et de l’erreur dans les motifs de l’acte.
+Elles soutiennent qu’en adoptant l’acte attaqué, la partie adverse n’a pas tenu compte de toutes les observations formulées lors de l’annonce de projet. Elles estiment ne pas avoir pu identifier dans la motivation de l’acte une réponse à leurs réclamations qu’elles estiment précises et qui portent sur les points suivants :
+XIII - 9667 - 12/22
+- l’absence d’accès à une voirie suffisamment équipée du terrain devant accueillir le projet et sa seule accessibilité par un chemin d’accès privé, à savoir l’ancien sentier n° 54 ;
+- l’incapacité pour la rue des Fleurs, au vu de sa très faible largeur et de son caractère de voie sans issue, d’absorber du charroi supplémentaire, et l’atteinte à la bande de 5 mètres réservée « de façon à préserver un accès aux prairies sises derrière ce terrain (accès agricole, entretien, fauchage, ...) » ;
+- l’implantation parallèle de l’habitation projetée à la voirie, alors que celles existantes et environnantes le sont de manière perpendiculaire ;
+- la hauteur démesurée de la toiture de l’habitation projetée par rapport à celle sous gouttière, son gabarit étant encore accentué par les « chiens-assis » prévus dans les versants de la toiture.
+B. Le mémoire ampliatif
+Elles considèrent que la partie intervenante est en défaut d’expliquer en quoi la motivation répond concrètement aux aspects du projet dénoncés dans leurs réclamations. Elles relèvent que les extraits de motivation reproduits portent seulement sur le caractère privé ou public de la servitude, et non sur les questions de l’accès à une voirie suffisamment équipée et du charroi supplémentaire généré par une nouvelle profession exercée dans le bâtiment en projet. Concernant l’implantation du bien parallèle à la voirie et la hauteur des toitures, elles considèrent que la motivation de l’acte consiste en des clauses de style, ce qui est corroboré, selon elles, par l’usage des termes utilisés « ne semblent pas ».
+C. Le dernier mémoire
+Elles soutiennent que la motivation de l’acte attaqué ne permet pas de comprendre en quoi son auteur a considéré que la servitude privée constituait une voie suffisamment équipée. Elles considèrent avoir démontré que cet accès ne dispose pas d’une largeur de 4 mètres et d’un rayon de braquage compris entre 11 et 15 mètres suffisants pour le passage des véhicules de secours.
+V.2. Examen
+1. La motivation d’un acte de l’administration active ne doit pas contenir de réponse à toutes les objections qui ont été émises au cours de la procédure d’annonce de projet. Il faut, mais il suffit, que les motifs de l’acte attaqué répondent au moins globalement aux réclamations et indiquent les raisons de droit et de fait qui ont conduit l’autorité à se prononcer, le degré de précision de la réponse étant fonction de celui de la réclamation. Autrement dit, lorsqu’au cours de l’annonce de projet, des
+XIII - 9667 - 13/22
+observations précises, dont l’exactitude et la pertinence sont corroborées par le dossier, ont été formulées, le permis délivré ne peut être considéré comme adéquatement motivé que s’il permet de comprendre les raisons pour lesquelles l’autorité passe outre, au moins partiellement, à ces observations.
+2. En l’espèce, les parties requérants critiquent l’absence de réponse satisfaisante dans la motivation de l’acte attaqué au regard de 4 problématiques dénoncées dans leur réclamation.
+De manière générale, sur ce point, la partie adverse s’est ralliée à l’avis de la fonctionnaire déléguée aux termes duquel « les réclamations et observations sont largement détaillées dans le rapport préalable du collège communal précité » et elle se « rallie à la pertinence des arguments développés par le collège communal dans son avis précité ».
+2.1. Sur la problématique de l’accès à une voirie suffisamment équipée, l’acte attaqué est motivé comme suit :
+« Considérant qu’une note attestant d’une servitude de passage est bien existante ;
+que par un arrêt du 4 avril 2009, la Cour de Cassation a confirmé le jugement rendu par le tribunal de première instance de Nivelles le 26 février 2014 qui précise que:
+“l’ancien sentier vicinal n° 54, élargi à +/- 4 mètres depuis l’intersection avec le sentier n° 37 jusqu’à la grille d’accès à la propriété de … et au-delà, dans sa prolongation le long de la clôture actuelle, englobant le pylône électrique et les conduites d’eau qui alimentent exclusivement la propriété fait partie intégrante de la propriété de …” ; que ce tronçon du sentier n°54 est donc privé et appartient à …;
+Considérant qu’une faible partie du sentier n° 54 est grevée par une servitude privée de passage (piétons, véhicules et impétrants) ; que cela ressort d’un acte authentique du 25 juillet 2018 par lequel … a accepté d’établir "au profit des lots attribués une servitude de passage pour piétons, tous véhicules et tous éventuels impétrants en sous-sol au profit des lots 4, 5, 6" ; qu’il y a donc bien servitude de passage, mais uniquement privée réservée à certains bénéficiaires et non à l’ensemble du public ».
+Il en ressort que l’autorité a effectivement tenu compte de la réclamation en ce qui concerne l’accessibilité du bâtiment en projet et de la parcelle sur laquelle il s’implante. La motivation précitée de l’acte attaqué permet de comprendre les raisons pour lesquelles l’autorité a considéré que la réclamation des parties requérantes sur cet aspect n’est pas pertinente.
+2.2. S’agissant du second aspect dénoncé en matière d’accessibilité tenant à l’étroitesse de la voirie, son caractère sans issue et la crainte de l’augmentation de charroi générée par le projet, notamment durant la période des travaux, le caractère suffisant de l’accès à la voirie et à son équipement est notamment fonction du projet considéré. Ainsi, la largeur suffisante de la voirie et la qualité de son revêtement   XIII - 9667 - 14/22
+dépendent de sa capacité à absorber le flux des véhicules que le projet engendre et de la possibilité de faire passer des véhicules de secours. La présence d’une voirie d’une largeur suffisante doit s’apprécier compte tenu de la situation des lieux, mais également de la possibilité d’assortir le permis d’urbanisme de conditions. De même, sur la solidité du revêtement et la largeur de la voirie visées à l’article D.IV.55 du CoDT, l’absence de couverture asphaltée ou goudronnée n’établit pas nécessairement le défaut de revêtement solide mais il est requis que l’assise de la voie soit suffisamment solide pour permettre le passage d’un camion de pompiers ou d’une ambulance.
+Sur cette problématique, l’acte attaqué est motivé comme suit :
+« Considérant que les lignes directrices relatives à l’aménagement de la ZACC
+concernée sont définies par le schéma de développement communal ; que la parcelle visée par la présente demande est concernée par un accès piéton et cyclable au schéma d’aménagement repris au schéma de développement communal ; que les accès automobiles à la ZACC considérée sont envisagés : rue E. Dereume (entre les n° 9 et 17) et par le bas de la Colline du Glain (par l’arrière du site occupé par la Commune) ;
+Considérant que l’espace non aedificandi de 5 mètres prévu en bordure de la limite Est de la parcelle parait largement suffisant pour ne pas compromettre la réalisation future d’un accès piéton et cyclable ; que le projet ne parait pas compromettre la future mise en œuvre de la ZACC dont question ;
+[…]
+Considérant que la circulation de véhicules dans la rue des Fleurs est essentiellement liée aux déplacements des habitants de ladite rue ; que l’implantation d’une habitation unifamiliale supplémentaire n’est [pas] de nature à impacter ou à compromettre la circulation de la rue ».
+L’avis de la fonctionnaire déléguée en ce sens précisait par ailleurs ce qui suit :
+« Considérant qu’il est à s’interroger sur la viabilisation du terrain et si les conditions de l’article D.IV.55 sont rencontrées afin de permettre son urbanisation ;
+Considérant qu’une note attestant d’une servitude de passage est bien existante que le sentier numéro 54 a été élargi à plus ou moins 4 M et qu’une faible partie du sentier est grevée par une servitude privée de passage (piéton véhicule et impétrant) ; qu’il s’agit bien d’une servitude de passage privée réservée à certains bénéficiaires ».
+En outre, l’acte attaqué est assorti de conditions qui confirment que ces éléments ont été pris en compte par l’autorité délivrante. Il s’agit notamment des conditions nos 2, 11, 12 et 17 libellées comme suit :
+XIII - 9667 - 15/22
+« 2. respecter l’avis de la Fonctionnaire déléguée, à savoir :
+[…]
+• réaliser les 5 premiers mètres de l’accès carrossable à l’aide d’un matériau stable et drainant ;
+[…]
+• interdiction d’utiliser le volume annexe (implanté contre l’habitation voisine) pour le parcage d’une voiture ;
+[…]
+11. limiter les emplacements de stationnement sur fonds privés à deux emplacements maximum ;
+12. préalablement au chantier, introduire une demande écrite et expresse de raccordement à l’égout auprès du Département infrastructure […] ;
+[…]
+17. prendre toutes les mesures de conservation nécessaires pour garantir le maintien en bon état de la voirie durant l’exécution des travaux et veiller à ne pas perturber la sécurité ou la commodité du passage sur la voirie publique et le cas échéant, adresser une demande écrite d’autorisation au collège communal au moins 15 jours calendrier avant la date de début des travaux ».
+Il ressort de la motivation et des conditions précitées que l’autorité a examiné la problématique de l’accessibilité de la voirie et son équipement et a répondu aux craintes des réclamants en termes d’augmentation du charroi en limitant les possibilités pour le projet d’accueillir des véhicules supplémentaires.
+2.3. Sur la réclamation relative à l’implantation de l’habitation projetée parallèle à la voirie alors que celles existantes et environnantes le sont de manière perpendiculaire, l’acte attaqué est motivé comme suit :
+« Considérant que l’implantation et le gabarit projetés ne semblent pas imposants ou disproportionnés ; que l’habitation telle que projetée est de nature à s’intégrer au mieux au contexte bâti et non bâti environnant ;
+[…]
+Considérant que l’écart lié au volume principal qui ne respecte pas un rapport pignon/façade compris entre 1,2 et 2 est justifié ; qu’au vu de la configuration du terrain, l’implantation du volume paraît cohérente par rapport aux parcelles voisines qui l’entourent ; que le recul latéral de 3 mètres minimum prescrit par le guide communal d’urbanisme est respecté ; que le bâtiment est implanté de manière à s’intégrer au mieux au relief naturel du terrain ;
+[…]
+Considérant […] que :
+• la construction projetée respecte la cohérence urbanistique et architecturale du bâti existant ;
+• […]
+• le projet garantit la continuité du tissu bâti ».
+Ces considérants ne s’apparentent pas à des clauses de style dès lors que l’on peut comprendre que, selon l’autorité délivrante, le volume de l’habitation n’étant pas imposant, cette dernière pouvait être implantée parallèlement à la voirie. De
+XIII - 9667 - 16/22
+même, elle a apprécié la cohérence de l’implantation du volume compte tenu des parcelles voisines, du relief naturel du terrain et du recul de 3 mètres imposé par le GCU. Elle en conclut que l’implantation du projet s’intègre au cadre bâti existant.
+La motivation précitée de l’acte attaqué permet de comprendre les raisons pour lesquelles l’autorité a considéré que la réclamation des parties requérantes sur cet aspect n’est pas pertinente.
+2.4. Enfin, sur la problématique de la hauteur importante de la toiture de l’habitation projetée par rapport à celle sous gouttière, le gabarit étant encore accentué par les « chiens-assis » prévus dans les versants de la toiture, l’acte attaqué est motivé comme suit :
+« Considérant que l’implantation et le gabarit projetés ne semblent pas imposants ou disproportionnés ; que l’habitation telle que projetée est de nature à s’intégrer au mieux au contexte bâti et non bâti environnant ;
+[…]
+Considérant que l’écart lié au volume principal qui ne respecte pas un rapport toiture/façade tel que la hauteur sous gouttière n’est pas supérieure à la hauteur de la toiture semble justifié ; que la hauteur sous gouttière projetée permet l’intégration de l’étage partiellement engagé dans la toiture ; que le gabarit proposé semble cohérent avec l’ensemble bâti ; qui ne parait pas de nature à porter préjudice au contexte architecture avoisinant ; que l’habitation projetée parait cohérente et harmonieuse ».
+L’autorité a par ailleurs imposé, au titre de condition du permis, de « supprimer les lucarnes projetées sur la toiture du volume annexe à usage de rangement/vélos ».
+La motivation précitée de l’acte attaqué permet de comprendre les raisons pour lesquelles l’autorité a considéré que la réclamation des parties requérantes sur cet aspect n’est pas pertinente.
+3. Le deuxième moyen n’est fondé en aucun de ses griefs.
+XIII - 9667 - 17/22
+VI. Troisième moyen
+VI.1. Thèse des parties requérantes
+A. La requête en annulation
+Les parties requérantes prennent un troisième moyen de la violation de l’article D.IV.53 du CoDT et des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, ainsi que de l’erreur manifeste d’appréciation.
+Elles relèvent que, bien que la demande de permis et les plans indiquent que le projet prévoit la création de trois emplacements de stationnement sur fonds privés, l’acte attaqué impose de les limiter « à deux emplacements maximum ». Elles soutiennent que cette condition est imprécise, laissant une marge de manœuvre au bénéficiaire du permis dans sa mise en œuvre. Elles ajoutent que l’acte attaqué ne précise pas lequel des trois emplacements doit être supprimé ni la manière dont il faut réduire la superficie de la zone de parking initialement prévue.
+B. Le mémoire ampliatif
+Elles sont d’avis qu’en précisant que l’emplacement « visiteurs » doit être supprimé alors que les plans ne figurent pas celui qui leur est réservé, la partie intervenante confirme l’imprécision dénoncée.
+C. Le dernier mémoire
+Elles considèrent que la condition litigieuse précitée n’impose pas de réduire la superficie de la zone de stationnement mais uniquement de limiter le stationnement à deux véhicules, ce qui exclut, à leur estime, toute garantie quant à son respect. Elles ajoutent que, si cette condition imposait la diminution de la zone, elle devait préciser de quelle manière et qu’à défaut de ce faire, elle est illégale.
+VI.2. Examen
+1. L’article D.IV.53 du CoDT dispose comme il suit :
+« Sur la base d’une motivation adéquate, le permis peut être refusé, délivré avec ou sans conditions, avec ou sans charges d’urbanisme ou consentir des dérogations ou des écarts prévus au présent Code.
+XIII - 9667 - 18/22
+Les conditions sont nécessaires soit à l’intégration du projet à l’environnement bâti et non bâti, soit à la faisabilité du projet, c’est-à-dire à sa mise en œuvre et à son exploitation.
+Outre la compatibilité avec le contenu du plan de secteur, en ce compris la carte d’affectation des sols, des schémas, permis d’urbanisation et guides, le permis ou le refus de permis est fondé sur les circonstances urbanistiques locales et peut être fondé notamment sur les motifs et conditions mentionnés dans la présente section ».
+Il ressort des termes de cette disposition qu’un permis d’urbanisme peut être assorti de conditions pour autant qu’elles soient nécessaires soit à l’intégration du projet à l’environnement bâti et non bâti, soit à sa faisabilité. Il est constant que, pour être admissibles, les conditions édictées dans un permis d’urbanisme doivent être précises et limitées quant à leur objet et ne porter que sur des éléments secondaires et accessoires. Elles ne peuvent laisser place à une appréciation dans leur exécution, ni quant à l’opportunité de s’y conformer, ni dans la manière dont elles doivent être exécutées. Elles ne peuvent se référer à un événement futur ou incertain, ou dont la réalisation dépend d’un tiers ou d’une autre autorité. Ce n’est que sur la base des plans complets, qui ne devront plus être modifiés ou complétés, que l’autorité peut délivrer un permis d’urbanisme. Ces diverses limites à l’admissibilité des conditions qui assortissent la délivrance d’un permis sont cumulatives de sorte que si une condition ne satisfait pas à l’une ou à l’autre d’entre elles, elle ne peut pas être admise.
+2. En l’espèce, l’article 1er, 11°, du dispositif de l’acte attaqué prévoit, au titre de condition, l’obligation de « limiter les emplacements de stationnement sur fonds privés à deux emplacements maximum ».
+Cette condition vise à réduire l’unique zone de parking existante située devant le bâtiment projeté. Cette zone, destinée par la demande de permis à pouvoir accueillir trois véhicules, devra être limitée à deux emplacements maximum. Cette condition ne laisse pas de marge d’appréciation inadmissible à son destinataire, même si elle ne précise pas de quel côté cette surface doit être réduite ni par quel aménagement visuel et technique. L’objectif tenant au nombre d’emplacements disponibles après la réalisation de la condition est suffisamment précis.
+Le troisième moyen n’est pas fondé.
+XIII - 9667 - 19/22
+VII. Quatrième moyen
+VII.1. Thèse des parties requérantes
+A. La requête en annulation
+Les parties requérantes prennent un quatrième moyen de la violation de l’article D.IV.55 du CoDT, de l’annexe 2/1, point 1.1, de l’arrêté royal du 7 juillet 1994 « fixant les normes de base en matière de prévention contre l’incendie et l’explosion auxquelles les bâtiments doivent satisfaire » et des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, ainsi que de l’erreur manifeste d’appréciation.
+Elles soutiennent que le projet litigieux s’implante sur un terrain sans accès à une voirie publique pourvue d’une largeur suffisante. Elles considèrent que le chemin privé et la rue des Fleurs disposent d’une largeur réduite qui ne permet pas à deux voitures de se croiser ni d’effectuer une manœuvre, ce qui impliquera des nuisances en termes de charroi et compromettra l’accès par les véhicules de secours.
+Elles en déduisent que le permis devait être refusé conformément à l’annexe 2/1, point 1.1, de l’arrêté royal du 7 juillet 1994 précité qui impose le refus d’un permis « lorsque le terrain n’a pas d’accès à une voie suffisamment équipée en eau, en électricité, pourvue d’un revêtement solide et d’une largeur suffisante, compte tenu de la situation des lieux » pour l’accès des véhicules de secours. Elles ajoutent que les conditions imposées par cette réglementation n’étant pas remplies, l’article D.IV.55 du CoDT qui impose l’accès à une voirie suffisamment équipée n’est pas non plus respecté.
+B. Le mémoire ampliatif
+Elles considèrent que l’existence d’une servitude de passage au profit d’un terrain n’est pas le corolaire d’un accès à une voirie suffisamment équipée. Elles relèvent que leur constat selon lequel la largeur de la voirie et du chemin d’accès privé au projet est à ce point réduite qu’elle ne permet pas le croisement de voitures sur une longueur d’environ 100 mètres n’est pas contredit par la partie intervenante. Elles ajoutent que rien ne démontre que la largeur du chemin litigieux est de 4 mètres et que la zone de parking projetée ne peut pas être prise en compte dans le calcul de cette largeur.
+XIII - 9667 - 20/22
+C. Le dernier mémoire
+Elles confirment que la réalisation du projet litigieux contrevient manifestement à l’annexe 2/1, point 1.1, de l’arrêté royal du 7 juillet 1994 précité qui impose une largeur de voirie de 4 mètres et la mise en place d’un rayon de braquage compris entre 11 et 15 mètres. À l’appui, elles reproduisent des images extraites de WalOnMap qui font apparaître, à plusieurs endroits de la voirie, une largeur de 3,1 ou 3,3 mètres, inférieure à 4 mètres.
+VII.2. Examen
+1. Il est renvoyé aux développements de l’examen du deuxième moyen, sous les points 2.1 et 2.2.
+Il ressort de l’acte attaqué et du dossier administratif que la circulation dans la rue des Fleurs est limitée aux besoins exclusifs des riverains et que le bâtiment en projet est construit en bout de voirie publique à la limite du domaine privé sur lequel il lui est concédé une servitude de passage de telle sorte qu’il sera l’un des derniers bâtiments de la rue.
+Bien que l’existence d’une servitude privée ne soit pas en soi suffisante pour considérer qu’il existe bien un accès répondant aux conditions imposées par l’article D.IV.55 du CoDT, il n’est pas démontré que l’autorité a commis une erreur manifeste en appréciant la largeur suffisante de la voirie et en considérant que l’accès à la parcelle en cause répondait à suffisance aux conditions d’équipement requises par les normes en vigueur. Le fait qu’elle ait limité les emplacements de stationnement et interdit d’utiliser le volume annexe (implanté contre l’habitation voisine) pour le stationnement démontre qu’elle a été attentive à la configuration des lieux et aux nécessités engendrées par le passage de véhicules techniques comme des véhicules de secours.
+Le quatrième moyen n’est pas fondé.
+VIII. Indemnité de procédure
+La partie adverse n’a pas déposé de mémoire, ni sollicité une indemnité de procédure.
+XIII - 9667 - 21/22
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La requête est rejetée.
+Article 2.
+Les contributions prévues à l’article 66, 6o, du règlement général de procédure, liquidées à la somme de 44 euros, sont mises à la charge des parties requérantes.
+Les autres dépens, liquidés à la somme de 2150 euros, sont mis à la charge des parties requérantes, à concurrence de 400 euros chacune, et à la charge de la partie intervenante, à concurrence de 150 euros.
+Ainsi prononcé à Bruxelles le 23 décembre 2025, par la XIIIe chambre du Conseil d’État, composée de :
+Luc Donnay, conseiller d’État, président f.f., Dimitri Yernault, conseiller d’État, Laure Demez, conseiller d’État, Thierry Blanjean, greffier.
+Le Greffier, Le Président,
+Thierry Blanjean Luc Donnay
+XIII - 9667 - 22/22
