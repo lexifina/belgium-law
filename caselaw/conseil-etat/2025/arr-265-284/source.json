@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2025:ARR.265.284",
+  "ecli": "ECLI:BE:RVSCE:2025:ARR.265.284",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2025-12-23",
+  "date_as_printed": "Jugement/arrêt du 23 décembre 2025",
+  "published_on_juportal": "2026-01-13",
+  "language": "fr",
+  "role_number": "A. 242014/XIII-10378",
+  "case_name_as_published": "Arrêt 265284 - Protection de l’environnement - Règlements - 23/12/2025",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2025:ARR.265.284",
+  "source_sha256": "deaebd23e6c09bdaf110efd600044c359cbc7df5fc0d2719d13edeff29fef3bb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2025:ARR.265.284_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/14/sitemap_101.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
