@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2025:ARR.20251223.2F.1",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251223.2F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-23",
+  "date_as_printed": "Jugement/arrêt du 23 décembre 2025",
+  "published_on_juportal": "2025-12-30",
+  "language": "fr",
+  "role_number": "P.25.1651.F",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ACTION PUBLIQUE",
+    "STRAFVORDERING",
+    "INSTRUCTION EN MATIERE REPRESSIVE - INSTRUCTION - Généralités",
+    "ONDERZOEK IN STRAFZAKEN - GERECHTELIJK ONDERZOEK - Algemeen"
+  ],
+  "fiche": [
+    "ACTION PUBLIQUE",
+    "Procureur du Roi - Saisine de deux juges d'instruction d'une même infraction - Légalité - Condition",
+    "Code d'Instruction criminelle - livre premier (Art. 8 à 136ter), modifié par la loi du 11 juillet 1994 relative aux tribunaux de police et portant certaines dispositions relatives à l'accélération et à la modernisation de la justice ... - 17-11-1808 - Art. 28quater - 30 Lien ELI No pub 1808111701",
+    "INSTRUCTION EN MATIERE REPRESSIVE - INSTRUCTION - Généralités",
+    "Saisine de deux juges d'instruction d'une même infraction - Légalité - Condition",
+    "Code d'Instruction criminelle - livre premier (Art. 8 à 136ter), modifié par la loi du 11 juillet 1994 relative aux tribunaux de police et portant certaines dispositions relatives à l'accélération et à la modernisation de la justice ... - 17-11-1808 - Art. 28quater - 30 Lien ELI No pub 1808111701"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251223.2F.1",
+  "source_sha256": "feb80acad15b4ec2f48e59b488ab01c7be2bfe02bc6b4f3ad2f9ec241f33f16d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251223.2F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
