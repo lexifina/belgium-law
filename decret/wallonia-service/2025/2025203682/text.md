@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'Accord entre le Gouvernement de la République gabonaise et le Gouvernement du Royaume de Belgique relatif aux services de transport aérien, fait à Bruxelles le 28 mai 2018, sortira son plein et entier effet.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Les modifications à l'Annexe à l'Accord, adoptées en application de l'article 19, § 4, de l'Accord entre le Gouvernement de la République gabonaise et le Gouvernement du Royaume de Belgique relatif aux services de transport aérien, fait à Bruxelles le 28 mai 2018, sortiront leur plein et entier effet.
