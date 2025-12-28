@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Liberia relatif au transport aérien, fait à Monrovia le 17 juillet 2019, sortira son plein et entier effet.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Les modifications à l'Annexe à l'Accord, adoptées en application de l'article 20, § 4, de l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Liberia relatif au transport aérien, fait à Monrovia le 17 juillet 2019, sortiront leur plein et entier effet.
