@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'Accord entre le Royaume de Belgique et les Etats-Unis mexicains relatif au transport aérien, fait à Bruxelles le 22 février 2023, sortira son plein et entier effet.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Sous réserve de l'alinéa 3, les modifications à l'Annexe à l'Accord, adoptées en application de l'article XVII, § 2, de l'Accord entre le Royaume de Belgique et les Etats-Unis mexicains relatif au transport aérien, fait à Bruxelles le 22 février 2023, sortiront leur plein et entier effet.
+Le Gouvernement wallon notifie au Parlement tout projet de modification de l'Accord, tel que visé à l'alinéa 1er.
+Dans un délai de trois mois suivant la communication du Gouvernement visée à l'alinéa 2, le Parlement peut s'opposer à ce qu'une modification de l'Accord au sens de l'alinéa 1er, sorte son plein et entier effet.
