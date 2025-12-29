@@ -1,0 +1,5 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 55 de l'arrêté du Gouvernement flamand modifiant l'arrêté du Gouvernement flamand du 16 mai 2014 portant la procédure devant certaines juridictions administratives flamandes, en ce qui concerne la numérisation du processus, et fixant l'entrée en vigueur de l'article 2, 1° et 2°, de l'article 8, de l'article 10 à 12, de l'article 18 et de l'article 19, 2°, du décret du 23 novembre 2023 modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, la date " 12 janvier 2026 " est remplacée par la date " 30 mars 2026 ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 56, § 1er, alinéas 1er, 2 et 3, et § 3, alinéas 1er et 2, du même arrêté, la date " 12 janvier 2026 " est remplacée par la date " 30 mars 2026 ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre flamand qui a la justice et le maintien dans ses attributions est chargé de l'exécution du présent arrêté.
