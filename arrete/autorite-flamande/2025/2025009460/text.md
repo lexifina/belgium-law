@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La compétence de charger le gouverneur de province d'accompagner une commune, un centre public d'action sociale, une régie communale autonome ou une association d'aide sociale lors de la mise en oeuvre d'un parcours de remédiation à la suite d'un rapport d'audit judiciaire conformément aux articles 224/1, 241, alinéa 1er, et 479, du décret du 22 décembre 2017 sur l'administration locale, est déléguée au ministre flamand qui a l'administration intérieure et la politique des villes dans ses attributions.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le ministre flamand qui a l'administration intérieure et la politique des villes dans ses attributions est chargé de l'exécution du présent arrêté.
