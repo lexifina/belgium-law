@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251230.2N.13",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251230.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-30",
+  "date_as_printed": "Vonnis/arrest van 30 december 2025",
+  "published_on_juportal": "2026-01-07",
+  "language": "nl",
+  "role_number": "P.25.0333.N",
+  "case_name_as_published": "S.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 37",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 37",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Divers",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Allerlei",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "DROITS DE LA DEFENSE - MATIERE REPRESSIVE",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 37",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 202 - 30 ELI link Pub nr 1808111901 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 37/1 - 31 ELI link Pub nr 1968031601",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Allerlei",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 202 - 30 ELI link Pub nr 1808111901 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 37/1 - 31 ELI link Pub nr 1968031601",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 206 - 30 ELI link Pub nr 1808111901",
+    "RECHT VAN VERDEDIGING - STRAFZAKEN",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 206 - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251230.2N.13",
+  "source_sha256": "50fd6fa6a258b332f7b4b68e9275a3b259a0f52cc6f13af6627641a4006ad859",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251230.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/13/sitemap_26.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
