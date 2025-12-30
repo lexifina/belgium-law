@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2025:ARR.20251230.2N.19",
+  "ecli": "ECLI:BE:CASS:2025:ARR.20251230.2N.19",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2025-12-30",
+  "date_as_printed": "Vonnis/arrest van 30 december 2025",
+  "published_on_juportal": "2026-01-07",
+  "language": "nl",
+  "role_number": "P.25.1616.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "APPLICATION DES PEINES",
+    "STRAFUITVOERING",
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 149",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 149"
+  ],
+  "fiche": [
+    "STRAFUITVOERING",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 728bis - 04 ELI link Pub nr 1967101055",
+    "OPENBAAR MINISTERIE",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 728bis - 04 ELI link Pub nr 1967101055",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 149",
+    "De gecoördineerde Grondwet 1994 - 17-02-1994 - Art. 149 - 30 ELI link Pub nr 1994021048 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 728bis - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2025:ARR.20251230.2N.19",
+  "source_sha256": "5b02d14ad17cbef9a4a5de15f3d9889b07d8a94b3a3654d70e2fab5c431dca69",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2025:ARR.20251230.2N.19_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/16/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
