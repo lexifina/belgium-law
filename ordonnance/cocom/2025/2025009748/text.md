@@ -1,0 +1,45 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1er.</a> - Disposition générale
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Modifications de l'ordonnance du 24 avril 2008 relative aux établissements pour aînés
+
+<a name="Article2" href="#Art.1er">Article</a> <a href="#Article3"> 2</a>
+Dans l'article 2, 1°, de l'ordonnance du 24 avril 2008 relative aux établissements pour aînés, modifié par l'ordonnance du 15 décembre 2022, les mots " le Collège réuni, aux conditions et suivant les modalités qu'il arrête " sont remplacés par les mots " le fonctionnaire dirigeant d'Iriscare ou son délégué, aux conditions et suivant les modalités arrêtées par le Collège réuni ".
+
+<a name="Article3" href="#Article2">Article</a> <a href="#Article4"> 3</a>
+Dans l'article 7 de la même ordonnance, modifié par les ordonnances du 6 décembre 2018 et du 15 décembre 2022, il est inséré un paragraphe 1er/2, rédigé comme suit:
+" § 1er/2. Par dérogation aux paragraphes 1er et 1er/1, en cas de fermeture volontaire de tout ou partie des places agréées d'un établissement, l'autorisation spécifique de mise en service et d'exploitation relative aux places agréées fermées peut être réaffectée, à la demande du gestionnaire ou du représentant de la structure faîtière concernée, à un ou plusieurs établissements agréés relevant du même gestionnaire ou d'un gestionnaire de la même structure faîtière.
+La demande de réaffectation peut être refusée si l'établissement de destination ne présente pas les garanties suffisantes en matière de continuité et de qualité des services et des soins, notamment lorsque des difficultés structurelles ou organisationnelles sont constatées.
+Pour les places agréées en tant que maison de repos, la réaffectation peut porter sur maximum 10 % du nombre de places agréées dans le premier établissement à la date précédant celle de la fermeture volontaire totale ou partielle. Ce nombre de places est, le cas échéant, arrondi à l'unité supérieure.
+Ne peuvent être prises en compte, aux fins d'augmenter le plafond de 10 %, plusieurs fermetures partielles successives lorsqu'elles traduisent une même volonté de réorganisation. ".
+
+<a name="Article4" href="#Article3">Article</a> <a href="#Article5"> 4</a>
+Dans la même ordonnance, l'article 15, § 1er, remplacé par l'ordonnance du 22 décembre 2023, est complété par un alinéa rédigé comme suit:
+" L'application du mécanisme prévu aux alinéas 2 à 8 est suspendu pour l'année 2026. ".
+
+<a name="Article5" href="#Article4">Article</a> <a href="#Article6"> 5</a>
+Dans la même ordonnance, il est inséré un chapitre III/3 intitulé " Déménagement d'un établissement agréé ".
+
+<a name="Article6" href="#Article5">Article</a> <a href="#Article7"> 6</a>
+Dans le chapitre III/3 de la même ordonnance, inséré par l'article 5, il est inséré un article 19/6 rédigé comme suit:
+" Art. 19/6. § 1er. Le gestionnaire d'un établissement agréé peut, moyennant autorisation préalable du Collège réuni, transférer l'activité vers un autre bâtiment.
+Pour statuer sur la demande d'autorisation préalable, le Collège réuni tient compte de la répartition territoriale de l'offre et de la qualité architecturale du bâtiment de destination.
+§ 2. En cas de transfert d'activité autorisé en application du paragraphe 1er, l'autorisation spécifique de mise en service et d'exploitation est transférée à la nouvelle adresse. ".
+
+<a name="Article7" href="#Article6">Article</a> <a href="#Article8"> 7</a>
+Dans la même ordonnance, l'article 27, modifié par l'ordonnance du 15 décembre 2022, est complété par un alinéa rédigé comme suit:
+" Par dérogation à l'alinéa 2, les agents visés à l'alinéa 1er peuvent exercer leur contrôle sur place sans que l'inviolabilité du domicile ne puisse leur être opposée par le gestionnaire ou un résident dans les cas suivants:
+1° lorsque la visite a lieu entre 5 heures et 21 heures et que le juge compétent a préalablement accordé une autorisation de visite;
+2° lorsque la visite a lieu entre 21 heures et 5 heures, et que le juge compétent a préalablement accordé une autorisation de visite particulièrement motivée;
+3° lorsque cela s'avère nécessaire pour des motifs urgents de protection de la santé publique. ".
+
+<a name="Article8" href="#Article7">Article</a> <a href="#LNK0003"> 8</a>
+L'article 29/2 de la même ordonnance, inséré par l'ordonnance du 15 décembre 2022, est complété par un alinéa rédigé comme suit:
+" Chaque année, les services d'Iriscare transmettent au Collège réuni un rapport anonymisé relatif au traitement des demandes d'admission de personnes âgées de moins de soixante ans dans les établissements pour aînés. ".
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Disposition finale
+
+<a name="Article9" href="#Article8">Article</a> 9
+La présente ordonnance entre en vigueur le lendemain de sa publication au Moniteur belge.
