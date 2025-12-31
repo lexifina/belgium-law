@@ -1,0 +1,30 @@
+{
+  "id": "2025005134",
+  "title": "26 JUIN 2025. - Décret modifiant le décret du 22 novembre 2018 relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française",
+  "source_title": "26 JUIN 2025. - Décret modifiant le décret du 22 novembre 2018 relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française",
+  "act": "decret/wallonia-service/2025/2025005134",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-07-10&numac_search=2025005134&page=6&lg_txt=F&caller=list&2025005134=18&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "87b1e72390a0c0c7bc260f6dc32d53a8f873684aedfd0c5ba0333edf19c3ee2e",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-06-26",
+  "published": "2025-07-10",
+  "in_force": "2025-12-31",
+  "in_force_basis": "Justel: Entrée en vigueur : 31 décembre 2025; own clause: Art. 14. Le présent décret entre en vigueur le 31 décembre 2025. Le Gouvernement peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à l'alinéa 1er.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "10 juillet 2025",
+    "Numéro": "2025005134",
+    "page": "58945",
+    "Dossier numéro": "2025-06-26/07",
+    "Entrée en vigueur": "31 décembre 2025",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 824,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2025-12-31"
+}
