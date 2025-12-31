@@ -1085,22 +1085,28 @@ Personne ne peut être nommé titulaire du mandat-adjoint de directeur d'encadre
 Les titulaires des mandats-adjoints de directeur d'encadrement du personnel et de l'organisation et de directeur d'encadrement du budget et de la gestion exercent leurs attributions sous l'autorité et la direction de l'administrateur.
 Sans préjudice des dispositions de la présente loi, les dispositions réglant le régime administratif et pécuniaire du personnel des ministères sont applicables aux titulaires des mandats-adjoints de directeur d'encadrement du personnel et de l'organisation et de directeur d'encadrement du budget et de la gestion. Le Roi détermine leur statut pécuniaire. Les titulaires des mandats-adjoints doivent justifier de la connaissance de la langue néerlandaise ou française, autre que celle de leur diplôme. Le directeur d'encadrement doit justifier l'obtention d'un diplôme dans une autre langue, néerlandaise ou française, que celui de l'autre directeur d'encadrement.
 
-<a name="LNK0048" href="#LNKR0048">CHAPITRE VII.</a> - DES REMUNERATIONS ET DES PENSIONS.
+<a name="LNK0048" href="#LNKR0048">CHAPITRE VII.</a> [<sup>1</sup> Des rémunérations, des mises à la retraite et des pensions]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 4, 040; En vigueur : 01-06-2026&gt;
 
 <a name="Art.103" href="#Art.102ter">Art.</a> <a href="#Art.104"> 103</a>. Une loi fixe les traitements, majorations et indemnités alloués aux membres du Conseil d'Etat, aux membres de l'auditorat, du bureau de coordination et du greffe, ainsi que les indemnités revenant aux assesseurs de la section de législation.
 Les magistrats nommés assesseurs de la section de législation touchent les indemnités au même titre que les autres assesseurs.
 (Alinéa 3 abrogé) &lt;L 28-06-1983, art. 107&gt;
 
-<a name="Art.104" href="#Art.103">Art.</a> <a href="#Art.104/1"> 104</a>. &lt;L 17-10-1990, art. 13&gt; Les membres du Conseil d'Etat, de l'auditorat et du bureau de coordination, ainsi que le greffier en chef sont mis à la retraite si, en raison d'une infirmité grave et permanente, ils ne sont plus à même de remplir dûment leur fonction, ou s'ils ont atteint l'âge de 70 ans.
+<a name="Art.104" href="#Art.103">Art.</a> <a href="#Art.104/1"> 104</a>. Les membres du Conseil d'Etat, de l'auditorat et du bureau de coordination, ainsi que le greffier en chef sont mis à la retraite si, en raison d'une infirmité grave et permanente, ils ne sont plus à même de remplir dûment leur fonction, ou s'ils ont atteint l'âge de 70 ans.
+[<sup>1</sup> Les personnes visées à l'alinéa 1er, qui sont mises à la retraite en raison d'une infirmité grave et permanente, ne peuvent pas prétendre à une pension de retraite à moins qu'elles aient atteint l'âge légal de la pension ou qu'elles remplissent les conditions pour obtenir une pension immédiate ou différée, tels que prévus à l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 5, 040; En vigueur : 01-06-2026&gt;
 
 <a name="Art.104/1" href="#Art.104">Art.</a> <a href="#Art.104/2"> 104/1</a>. &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 54; <b> En vigueur : </b> 01-12-2006&gt; Les membres du Conseil d'Etat, de l'Auditorat, du Bureau de Coordination et du greffe qui ne sont plus à mêmes de remplir leur fonction en raison d'une infirmité grave et permanente, et qui n'ont pas demandé leur retraite, sont avertis par lettre recommandée à la poste, soit d'office, soit à la demande de l'auditeur général, par le premier président. En ce qui concerne le premier président, l'avertissement est donné par l'auditeur général.
 
 <a name="Art.104/2" href="#Art.104/1">Art.</a> <a href="#Art.104/3"> 104/2</a>.[<sup>1</sup> Si, dans le mois de l'avertissement, le membre du Conseil d'Etat, de l'auditorat, du bureau de coordination ou du greffe n'a pas demandé sa mise à la retraite, il est fait application de l'article 117 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier.
-L'assemblée générale du Conseil d'Etat se prononce sur la suite à donner à la décision médicale d'inaptitude définitive, rendue en dernier ressort, sur avis de l'auditeur général ou de l'auditeur général adjoint.
+L'assemblée générale du Conseil d'Etat se prononce sur la suite à donner à la décision médicale d'inaptitude définitive, rendue en dernier ressort [<sup>2</sup> par le Centre d'expertise médicale pour l'aptitude au travail de l'Administration de l'expertise médicale du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement (Medex)]<sup>2</sup>, sur avis de l'auditeur général ou de l'auditeur général adjoint.
 Quinze jours au moins avant la date fixée pour l'assemblée générale, l'intéressé est informé du jour et de l'heure de la séance au cours de laquelle il pourra être entendu à sa demande, et est invité à fournir ses observations par écrit.
 La décision de l'assemblée générale est notifiée au ministre de l'Intérieur dans les quinze jours de son prononcé.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L 2014-01-20/13, art. 31, 026; En vigueur : 03-02-2014&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 6, 040; En vigueur : 01-06-2026&gt;
 
 <a name="Art.104/3" href="#Art.104/2">Art.</a> <a href="#Art.104/4"> 104/3</a>.
 &lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
@@ -1114,18 +1120,23 @@ La décision de l'assemblée générale est notifiée au ministre de l'Intérieu
 <a name="Art.104/6" href="#Art.104/5">Art.</a> <a href="#Art.105"> 104/6</a>.
 &lt;Abrogé par L 2014-01-20/13, art. 38,4°, 026; En vigueur : 03-02-2014&gt;
 
-<a name="Art.105" href="#Art.104/6">Art.</a> <a href="#Art.106"> 105</a>.Les articles 391, 392, 393, 395, 396 et 397 du Code judiciaire sont applicables aux membres du Conseil d'Etat, de l'auditorat et du bureau de coordination, ainsi qu'au greffier en chef (...). &lt;L 17-10-1990, art. 14&gt;
+<a name="Art.105" href="#Art.104/6">Art.</a> <a href="#Art.106"> 105</a>.Les [<sup>3</sup> articles 391, 391/1, 392, 392/1,]<sup>3</sup> [<sup>4</sup> 393, 393/1, 393/2, 395]<sup>4</sup>, 396 et 397 du Code judiciaire sont applicables aux membres du Conseil d'Etat, de l'auditorat et du bureau de coordination, ainsi qu'au greffier en chef (...). [<sup>2</sup> Pour l'application des articles précités à ces personnes, les âges prévus à l'article 383, § 1er, du Code judiciaire sont remplacés par l'âge prévu à l'article 104, alinéa 1er.]<sup>2</sup> &lt;L 17-10-1990, art. 14&gt;
 (Pour l'application de l'article 8, § 1, alinéas 2 et 4, de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, les désignations visées à l'article 74/1 [<sup>1</sup> ainsi qu'aux articles 102bis et 102ter]<sup>1</sup> sont assimilées à des nominations définitives.) &lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006091571" target="_blank">2006-09-15/71</a>, art. 60, 018; <b> En vigueur : </b> 01-12-2006&gt;
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023071101" target="_blank">2023-07-11/01</a>, art. 24, 037; En vigueur : 24-07-2023&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 7, 040; En vigueur : 01-06-2026&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 21,1°, 040; En vigueur : 01-01-2012&gt;
+(<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 21,2°, 040; En vigueur : 01-12-2017&gt;
 
-<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0049"> 106</a>. § 1. Les greffiers et les membres du personnel administratif sont mis à la retraite lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions ou lorsqu'ils ont atteint l'âge de 65 ans.
+<a name="Art.106" href="#Art.105">Art.</a> <a href="#LNK0049"> 106</a>.§ 1. Les greffiers et les membres du personnel administratif sont mis à la retraite lorsqu'une infirmité grave et permanente ne leur permet plus de remplir convenablement leurs fonctions ou lorsqu'ils [<sup>1</sup> ont atteint l'âge légal de la pension tel que prévu à l'article 46, § 3, de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions]<sup>1</sup>.
+[<sup>1</sup> Les personnes visées à l'alinéa 1er, qui ont été mises à la retraite en raison d'une infirmité grave et permanente, ne peuvent pas prétendre à une pension de retraite, à moins qu'elles aient atteint l'âge légal de la pension ou qu'elles remplissent les conditions pour obtenir une pension immédiate ou différée, tels que prévus à l'article 46 de la loi du 15 mai 1984 précitée.]<sup>1</sup>
 La loi générale sur les pensions civiles leur est applicable.
-§ 2. Les greffiers et les membres du personnel administratif qui, à l'âge de 65 ans révolus ne réunissent pas les conditions légales de service pour obtenir une pension de retraite, sont placés dans la position de disponibilité selon le même régime que celui qui est prévu pour les agents de l'Etat.
-Toutefois, dans le cas où ils ne compteraient pas dix années de service, ils sont maintenus en activité jusqu'à ce que le minimum légal du temps de service leur soit acquis.
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
 § 3. Les greffiers et les membres du personnel administratif peuvent, sur la proposition du Conseil d'Etat, être exceptionnellement maintenus en activité au-delà des limites fixées au § 1er, dans le cas où le Conseil d'Etat aurait un intérêt particulier à conserver leur concours, alors qu'ils devraient être remplacés s'ils étaient mis à la retraite.
 Le Roi statue sur le maintien en activité des greffiers sur avis des Ministres réunis en Conseil. Il autorise, de la même manière, le maintien en activité des membres du personnel administratif.
 Le maintien en activité n'a effet que pour un an; il peut être renouvelé.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061801" target="_blank">2026-06-18/01</a>, art. 8, 040; En vigueur : 01-06-2026&gt;
 
 <a name="LNK0049" href="#LNKR0049">CHAPITRE VIII.</a> - DES INCOMPATIBILITES ET DE LA DISCIPLINE.
 
