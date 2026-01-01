@@ -2156,13 +2156,19 @@ En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multip
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061203" target="_blank">2020-06-12/03</a>, art. 91, 044; En vigueur : 26-06-2020&gt;
 
-<a name="Art.136/2" href="#Art.136/1">Art.</a> <a href="#Art.137"> 136/2</a>. [<sup>1</sup> L'occupation interdite de mineurs comme travailleur du sexe
+<a name="Art.136/2" href="#Art.136/1">Art.</a> <a href="#Art.136/3"> 136/2</a>. [<sup>1</sup> L'occupation interdite de mineurs comme travailleur du sexe
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail, a occupé ou fait occuper un mineur comme travailleur du sexe.
 En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de mineurs concernés.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024050326" target="_blank">2024-05-03/26</a>, art. 22, 069; En vigueur : 01-12-2024&gt;
 
-<a name="Art.137" href="#Art.136/2">Art.</a> <a href="#LNK0067"> 137</a>. Les travaux interdits
+<a name="Art.136/3" href="#Art.136/2">Art.</a> <a href="#Art.137"> 136/3</a>. [<sup>1</sup> Les travaux légers par un mineur âgé de 15 ans qui est encore soumis à l'obligation scolaire à temps plein
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en dehors des conditions prévues par la loi du 16 mars 1971 sur le travail et de ses arrêtés d'exécution, a fait ou laissé effectuer ou exercer des travaux légers par un mineur âgé de 15 ans qui est encore soumis à l'obligation scolaire à temps plein.
+L'amende est multipliée par le nombre de mineurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121806" target="_blank">2025-12-18/06</a>, art. 124, 070; En vigueur : 09-01-2026&gt;
+
+<a name="Art.137" href="#Art.136/3">Art.</a> <a href="#LNK0067"> 137</a>. Les travaux interdits
 Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 16 mars 1971 sur le travail :
 1° a fait ou laissé effectuer par un jeune travailleur des travaux souterrains dans les mines, minières et carrières, ou d'autres travaux souterrains interdits par le Roi;
 2° a fait ou laissé effectuer par un jeune travailleur des travaux dépassant ses forces, menaçant sa santé ou compromettant sa moralité.
