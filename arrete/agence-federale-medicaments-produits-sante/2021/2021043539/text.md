@@ -1,0 +1,43 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 28, alinéa 2 de l'arrêté royal du 30 septembre 2020 portant sur la préparation et la délivrance des médicaments et l'utilisation et la distribution des dispositifs médicaux dans les établissements de soins, les modifications suivantes sont apportées :
+1° le 6° est retiré ;
+2° le 6°, retiré par le présent arrêté, est rétabli dans la rédaction suivante :
+" 6° le numéro de lot. "
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. A l'article 21 du même arrêté, les modifications suivantes sont apportées :
+1° le paragraphe 2 est retiré ;
+2° le paragraphe 2, retiré par le présent arrêté, est rétabli dans la rédaction suivante :
+" § 2. Les préparations de la pharmacie doivent être effectuées conformément aux normes PIC/S, tels que repris dans l'Annexe III. "
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. L'article 22 du même arrêté est retiré.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>.
+&lt;Abrogé par AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022053103" target="_blank">2022-05-31/03</a>, art. 5, 002; En vigueur : 26-06-2022&gt;
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. L'article 30 du même arrêté, est retiré.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'article 30 du même arrêté, retiré par le présent arrêté, est rétabli dans la rédaction suivante :
+" Art. 30 § 1er. Le pharmacien hospitalier établit un schéma d'administration sous forme d'un tableau horaire de tous les médicaments et dispositifs médicaux implantables et invasifs à utiliser par le patient lors de son séjour dans l'établissement de soins, ainsi que ceux qui ont été utilisés avant son séjour et dont les données suivantes sont reprises par produit :
+1° le nom du produit ;
+2° le nom et le prénom du patient avec son numéro unique qui lui est attribué par l'établissement de soins ;
+3° la dose à lui administrer ;
+4° la forme pharmaceutique ;
+5° le mode et le moment d'administration ;
+6° la durée du traitement avec le produit.
+§ 2. Pour chaque patient, le pharmacien hospitalier tient un dossier pharmaceutique du patient dans lequel sont reprises les données suivantes :
+1° le schéma d'administration, tel que visé au paragraphe 1er ;
+2° l'anamnèse de la médication à domicile avec les remarques ;
+3° l'indication des médicaments et dispositifs médicaux implantables et invasifs utilisés par le patient pendant son séjour ;
+4° les effets indésirables observés et enregistrés ;
+5° les avis au médecin traitant et au pharmacien d'une officine ouverte au public.
+Pour l'application du paragraphe 2, 2°, est considéré comme médication à domicile, les médicaments et les dispositifs médicaux utilisés par le patient à son admission à l'établissement des soins ou qu'il a utilisés récemment pour une maladie ou pour la prévention d'une maladie. "
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. A l'article 42 du même arrêté, les modifications suivantes sont apportées :
+1° à l'alinéa 1er, les mots " doit avoir introduit un plan d'action auprès de l'AFMPS " sont remplacés par les mots " doit avoir établi un pan d'action " ;
+2° à l'alinéa 1er, les mots " , et le tenir à disposition dans les locaux de la pharmacie hospitalière, pour consultation par les inspecteurs de l'AFMPS sur simple demande. " sont insérés entre les mots " en vue de son application " et les mots " . En ce qui concerne les groupements de collaboration " ;
+3° à l'alinéa 1er, le mot " 24 " est remplacé par le mot " 23 " ;
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge.
+Par dérogation de l'alinéa 1er, l'article 1er, le 2 entre en vigueur le 1er janvier 2023.
+Par dérogation à l'alinéa 1er, les articles 2, le 2°, 4 et 6 entrent en vigueur le 1er janvier 2026.
+
+<a name="Art.9" href="#Art.8">Art.</a> 9. Le Ministre qui a la Santé publique dans ses attributions, est chargé de l'exécution du présent arrêté.
