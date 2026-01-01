@@ -1,1 +1,1 @@
-Sauf si les règles qu'ils contiennent sont inconciliables avec les dispositions du présent chapitre, les chapitres Ier à IV s'appliquent au cautionnement visé à l'article 2043bis à l'exception des articles 2014, alinéa 1er, 2018 et 2019.
+(Abrogé)

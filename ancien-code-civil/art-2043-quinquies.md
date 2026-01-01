@@ -1,6 +1,1 @@
-§ 1er. Sous peine de nullité, le contrat de cautionnement au sens du présent chapitre doit faire l'objet d'un contrat écrit distinct du contrat principal.
-§ 2. La durée de l'obligation principale doit être indiquée dans l'acte de cautionnement, et en cas de cautionnement d'une obligation principale conclue à durée indéterminée, le contrat de cautionnement ne peut être d'une durée supérieure à cinq ans.
-§ 3. Sous peine de nullité, le contrat de cautionnement doit au moins comporter les mentions suivantes, écrites de la main de la caution:
-" en me portant caution de ... dans la limite de la somme de ...en chiffres) couvrant le paiement du principal et en intérêts pour une durée de ..., je m'engage à rembourser au créancier de ... les sommes dues sur mes biens et sur mes revenus si, et dans la mesure où, ... n'y satisfait pas lui-même ".
-§ 4. Le Roi peut, après avis de la Commission consultative spéciale " Clauses abusives " visée aux articles 35 et 36 de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur, déterminer quelles mentions doivent figurer dans le contrat ainsi que les informations relatives à l'obligation principale qui fait l'objet du cautionnement.
-§ 5. L'article 8.21 du Code civil n'est pas d'application.
+(Abrogé)

@@ -1,1 +1,1 @@
-La personne physique qui s'est constituée sûreté personnelle du débiteur à titre gratuit, dont la demande, visée à l'article XX.54, § 3, a été accueillie profite des effets de l'accord amiable.
+Le consommateur qui s'est constitué sûreté personnelle du débiteur au sens de l'article 9.1.42, alinéas 1er et 2, du Code civil, dont la demande, visée à l'article XX.54, § 3, a été accueillie profite des effets de l'accord amiable.

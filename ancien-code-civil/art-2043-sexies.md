@@ -1,2 +1,1 @@
-§ 1er. Sous peine de nullité, lorsque la caution au sens de l'article 2043bis garantit une dette déterminée, l'étendue du cautionnement se limite à la somme indiquée au contrat, augmentée des intérêts au taux légal ou conventionnel sans toutefois que ces intérêts ne soient supérieurs à 50 % du montant principal.
-§ 2. Sous peine de nullité, il ne peut être conclu de contrat de cautionnement dont le montant est manifestement disproportionné aux facultés de remboursement de la caution, cette faculté devant s'apprécier tant par rapport à ses biens meubles et immeubles que par rapport à ses revenus.
+(Abrogé)
