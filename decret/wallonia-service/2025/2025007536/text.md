@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 1er, alinéa 1er, du décret du 27 mai 2004 relatif à l'exercice, par la Communauté germanophone, de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés, modifié en dernier lieu par le décret du 10 janvier 2024, il est inséré un 1° /0 entre le 1° et le 1° /1, rédigé comme suit :
+" 1° /0 à l'article 6, § 1er, VIII, alinéa 1er, 2°, de la loi spéciale, limité au changement ou à la rectification des limites communales situées à l'intérieur du territoire de la région de langue allemande ; ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent décret entre en vigueur le 1er janvier 2026, pour autant qu'un décret identique adopté par le Parlement de la Communauté germanophone entre également en vigueur à cette date.
