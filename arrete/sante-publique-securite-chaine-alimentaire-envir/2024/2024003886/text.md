@@ -1,0 +1,34 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. § 1er. L'infirmier de pratique avancée peut, dans le contexte de soins ou le domaine de spécialisation dans lequel il est actif, exercer les activités cliniques et/ou actes médicaux énoncés ci-après dans le cadre du suivi d'un patient et ce, en tenant compte des restrictions énoncées dans le présent arrêté, et à condition de la mise en oeuvre de la convention de collaboration interprofessionnelle prévue à l'article 4 et selon les modalités prévues dans cette convention de collaboration interprofessionnelle :
+- prendre des décisions et exercer des actes concernant le diagnostic médical, le traitement médical et le suivi de la prise en charge globale du patient après un diagnostic et un traitement préalablement posés par le médecin. Par dérogation, la convention de collaboration interprofessionnelle peut déterminer les décisions et les actes concernant le diagnostic médical, le traitement médical et le suivi de la prise en charge globale du patient ne nécessitant pas de diagnostic et de traitement préalables posés par le médecin et dans quelles conditions et modalités ces décisions et actes doivent être confirmés par le médecin. En particulier, les limitations telles que visées à l'article 2 du présent arrêté doivent être prises en compte ;
+- adresser des patients à d'autres professionnels de soins de santé;
+- prescrire des médicaments et produits de santé ;
+- rédiger des certificats médicaux ;
+- prendre des décisions concernant la planification de l'admission et de la sortie de l'institution de soins.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'infirmier de pratique avancée exerce les activités cliniques et/ou actes médicaux visés à l'article 1er de manière autonome dans le contexte de soins ou le domaine de spécialisation dans lequel il est actif, en tenant compte des restrictions cumulatives suivantes :
+- il s'agit d'activités cliniques courantes et/ou actes médicaux courants ;
+- il s'agit d'activités cliniques et/ou actes médicaux de complexité médicale limitée, comme décrit dans la convention de collaboration interprofessionnelle prévue à l'article 4 ;
+- il s'agit d'activités cliniques et/ou actes médicaux dont les risques sont maîtrisables. Ces risques sont décrits sur la base de critères d'alerte mentionnés dans la convention de collaboration interprofessionnelle prévue à l'article 4.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. La mise en oeuvre des activités cliniques et/ou actes médicaux spécifiés à l'article 1er est limitée à un groupe de patients spécifiques. Les activités cliniques et/ou actes médicaux sont exécutés dans le contexte de soins ou domaine de spécialisation dans lequel l'infirmier de pratique avancée est actif.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. La mise en oeuvre des activités cliniques et/ou actes médicaux précisés à l'article 1er est conditionnée par la mise en oeuvre d'une convention de collaboration interprofessionnelle claire et formalisée qui porte, entre autres, sur la réalisation des activités cliniques et/ou actes médicaux, la collaboration, l'orientation et le suivi du patient.
+§ 2. Cette convention de collaboration est élaborée en étroite collaboration entre l'infirmier de pratique avancée et le médecin, et, le cas échéant d'autres parties prenantes. Elle est périodiquement évaluée et ajustée si nécessaire.
+§ 3. La convention de collaboration contient au moins les éléments suivants :
+1° les modalités de collaboration et d'exécution relatives aux activités et actes suivants :
+a) la détermination et la description des activités cliniques et/ou actes médicaux assurés par l'infirmier de pratique avancée dans le contexte de soins ou le domaine de spécialisation. Cela comprend au moins :
+- une description de la nature du (des) groupe(s) de patients ;
+- la nature des médicaments et produits de santé qui peuvent être prescrits ainsi que les modalités et conditions dans lesquelles ils peuvent être prescrits.
+- les possibilités, modalités et conditions dans lesquelles l'infirmier de pratique avancée peut prendre des décisions et exercer des actes concernant le diagnostic, le traitement et le suivi de 'la prise en charge globale du patient, que ce patient ait eu, ou non, un diagnostic et un traitement préalables posés par le médecin ;
+- les possibilités, modalités et conditions dans lesquelles les décisions et actes concernant le diagnostic médical, le traitement médical et le suivi de la prise en charge globale du patient doivent être confirmés par le médecin ;
+- l'intégration de la consultation et du suivi dans le processus de soins impliquant des activités cliniques médicales et/ou actes médicaux ;
+b) les accords relatifs à la concertation et l'échange d'informations concernant les patients, les rapports, l'orientation du patient et les accords relatifs à la planification de l'admission et de la sortie du patient ;
+2° les modalités concernant la collaboration interprofessionnelle, la révision des modalités de collaboration interprofessionnelle et les possibilités d'ajustement de celles-ci ;
+3° les critères sur base desquels sont décrites les activités cliniques et/ou les actes médicaux de complexité limitée ;
+4° les critères d'alerte sur base desquels les risques sont décrits et qui sont nécessaires pour évaluer s'il s'agit d'activités cliniques et/ou actes médicaux dont les risques sont maîtrisables.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>.Le présent arrêté entre en vigueur le [<sup>1</sup> 1er janvier 2025, à l'exception de l'article 1er, § 1er, troisième et quatrième tirets qui entrent en vigueur au 1er janvier 2026]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025011609" target="_blank">2025-01-16/09</a>, art. 1, 002; En vigueur : 31-12-2024&gt;
+
+<a name="Art.6" href="#Art.5">Art.</a> 6. Le ministre qui a la santé publique dans ses attributions est chargé de l'exécution du présent arrêté.
