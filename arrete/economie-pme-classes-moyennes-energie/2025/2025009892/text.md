@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Conformément à l'article 15, § 7, et à l'article 35, § 5, de l'Accord de coopération du 25 juillet 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service et des citernes de gasoil à des fins de chauffage, la cotisation obligatoire pour l'A.S.B.L. Fonds d'assainissement des sols des citernes à gasoil à des fins de chauffage (numéro d'entreprise : 0726.647.586) est fixée à 0,002 euro par litre de gasoil destiné aux applications de chauffage mis à la consommation.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le 1er janvier 2026.
