@@ -1,0 +1,1263 @@
+<a name="LNK0001" href="#LNKR0001">Livre Ier.</a> - Définitions générales
+
+<a name="Art.I.1er">Art. </a> <a href="#LNK0002"> I.1er</a>. - Les définitions suivantes sont applicables à l'ensemble du Code :
+1° administration : l'administration de la Communauté française qui a dans ses attributions l'organisation, le fonctionnement et les missions des Maisons de justice, la mise en oeuvre et le suivi de la surveillance électronique, l'aide et la prise en charge de toute personne directement concernée par les radicalismes et les extrémismes violents, ainsi que l'agrément et le subventionnement des partenaires apportant de l'aide aux justiciables ;
+2° arrondissement : tout arrondissement judiciaire situé dans la région de langue française et l'arrondissement judiciaire de Bruxelles, limité au territoire de la région bilingue de Bruxelles-Capitale ;
+3° auteur : personne physique ou morale suspecte, inculpée, prévenue, accusée, condamnée ou internée dans le cadre d'une procédure pénale ;
+4° autorité mandante : une instance judiciaire ou administrative habilitée à mandater les services du Gouvernement visés aux articles IV.2 et V.2 pour exécuter la mission prévue par l'article III.2, § 1er, 1° ;
+5° autres acteurs de la justice : acteurs avec lesquels la Communauté française entre en contact dans le cadre de l'exécution de ses missions et qui ne sont pas une autorité mandante ;
+6° concertation de cas : la concertation visée à l'article 458ter du Code pénal ;
+7° donnée personnelle : donnée à caractère personnel au sens de l'article 4.1) du RGPD ;
+8° enfant : toute personne physique âgée de moins de dix-huit ans ;
+9° ETNIC : l'Entreprise publique des Technologies Numériques de l'Information et de la Communication, organisée par le décret du 25 octobre 2018 relatif à l'Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC) ;
+10° gestionnaire : un membre d'un des services du Gouvernement visés aux articles IV.2, V.2, VI.1er ou d'un partenaire qui est en relation professionnelle avec le justiciable faisant l'objet d'une concertation de cas ;
+11° intervention conjointe : mise en oeuvre d'interventions au sein desquelles des professionnels échangent et collaborent au sujet de la meilleure manière d'assurer l'accompagnement du justiciable, et ce, dans le respect de leurs cadres méthodologique et déontologique respectifs ;
+12° justiciable : le sujet de droit, en contact avec la justice concerné par l'une des missions visées à l'article III.2 § 1er, 1° à 3° ou pouvant bénéficier d'au moins une offre de service prévue par le livre VII ;
+13° Ministère : le Ministère de la Communauté française ;
+14° partenaire : organisme agréé et, le cas échéant, subventionné par le Gouvernement pour offrir au justiciable les missions prévues au titre 4 du livre VII ;
+15° participant : un membre d'un des services du Gouvernement visés aux articles IV.2, V.2, VI.1er ou d'un partenaire qui participe à une concertation de cas ;
+16° personne directement concernée par les radicalismes et extrémismes violents : personne physique, majeure ou mineure, se situant dans un contexte de radicalisme ou d'extrémisme violents ayant mené à un comportement infractionnel ou pouvant mener à un tel comportement ;
+17° proche d'enfant : toute personne apparentée ou non à l'enfant qui peut justifier d'un lien d'affection particulier avec lui ;
+18° RGPD : Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (Règlement général sur la protection des données) ;
+19° représentant permanent : une personne désignée par un service relevant des compétences de la Communauté française afin de participer systématiquement aux concertations de cas ;
+20° réseau pertinent et sélectionné : réseau regroupant l'ensemble des services et professionnels qui travaillent dans le domaine des radicalismes et extrémismes violents ou dans le cadre plus global d'actions visant la réinsertion sociale des personnes directement concernées par les radicalismes et extrémismes violents ;
+21° services tiers : services qui collaborent à l'exécution des missions de la Communauté française visées à l'article III.2. § 1er, 1° à 3°, mais qui ne constituent pas une autorité mandante, ni un autre acteur de la justice, ni un partenaire ;
+22° supérieur hiérarchique : un membre d'un service détenant à l'égard du gestionnaire une autorité hiérarchique ou fonctionnelle conformément au règlement de travail applicable ;
+23° tiers: toute personne physique ou morale directement intéressée par les missions visées au titre 4 du livre VII et qui ne peut être qualifiée d'auteur, de victime, de proche d'auteur ou de proche d'enfant ;
+24° traitement : les opérations et ensembles d'opérations visées à l'article 4.2) du RGPD ;
+25° victime : il s'agit :
+a)de la personne physique qui a subi un préjudice, y compris à son intégrité physique, mentale, émotionnelle ou une perte matérielle, directement causé par une infraction pénale ou un fait susceptible d'être qualifié comme tel ;
+b)des proches de la personne physique visée au a) ;
+c)de la personne morale qui a subi un préjudice ou une perte matérielle, directement causé par une infraction pénale ou un fait susceptible d'être qualifié comme tel.
+Par proches, on entend les ayants droit de la victime ou toute personne ayant un lien affectif certain avec cette victime ou encore pouvant justifier d'un dommage personnel.
+
+<a name="LNK0002" href="#LNKR0002">Livre II.</a> - Dispositions générales
+
+<a name="LNK0003" href="#LNKR0003">TITRE 1er.</a> . - Champ d'application du Code, principes généraux et objectif général
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 1er.</a> . - Champ d'application du Code
+
+<a name="ArticleII.1" href="#Art.I.1er">Article</a> <a href="#LNK0005"> II.1</a>. - Le présent Code contient les dispositions générales applicables en matière de justice et d'aide aux justiciables qui relèvent de la compétence de la Communauté française.
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE 2.</a> - Principes généraux
+
+<a name="Art.II.2" href="#ArticleII.1">Art.</a> <a href="#LNK0006"> II.2</a>. - Les services du Gouvernement visés aux articles IV.2, V.2 et VI.1er et les partenaires appliquent les principes généraux suivants :
+1° placer le justiciable au centre des interventions ;
+2° prendre en compte l'environnement socio-relationnel du justiciable ;
+3° considérer le justiciable comme ayant ou pouvant acquérir la capacité d'évoluer ;
+4° prendre en compte les besoins de la victime dans leur globalité ;
+5° prendre en compte l'intérêt supérieur de l'enfant et favoriser sa participation ;
+6° travailler selon une approche intersectorielle ;
+7° s'inscrire dans une approche de justice restauratrice ;
+8° appliquer une méthodologie de travail spécifique.
+
+<a name="LNK0006" href="#LNKR0006">CHAPITRE 3.</a> - Objectif général
+
+<a name="Art.II.3" href="#Art.II.2">Art.</a> <a href="#LNK0007"> II.3</a>. - L'objectif général poursuivi par les services du Gouvernement visés aux articles IV.2, V.2 et VI.1er et les partenaires est de contribuer à maintenir l'équilibre entre l'intérêt général et l'exercice des droits individuels en intervenant auprès :
+1° des victimes ;
+2° des auteurs ou de leurs proches ;
+3° des proches d'enfant ;
+4° des tiers ;
+5° des personnes directement concernées par les radicalismes et extrémismes violents, et ce, de manière ponctuelle ou tout au long de leur parcours judiciaire, à leur demande ou suite à une décision judiciaire.
+
+<a name="LNK0007" href="#LNKR0007">TITRE 2.</a> - Déontologie et participation aux concertations de cas
+
+<a name="LNK0008" href="#LNKR0008">CHAPITRE 1er.</a> . - Dispositions déontologiques générales
+
+<a name="Art.II.4" href="#Art.II.3">Art.</a> <a href="#Art.II.5"> II.4</a>. - § 1er. Le Gouvernement fixe les règles de déontologie applicables aux membres du personnel visés aux articles IV.2, V.2 et VI.1er dans le cadre de l'exécution des missions visées à l'article III.2. § 1er, 1° à 3°, en tenant compte du fait qu'ils :
+1° sont tenus d'exécuter l'ensemble des missions dans le respect des objectifs et des principes visés aux articles II.2, II.3, III.1er et III.3 ;
+2° sont soumis au secret professionnel au sens de l'article 458 du Code pénal ;
+3° veillent à clarifier leur rôle, le contenu et le cadre de leur intervention auprès des justiciables et des professionnels avec lesquels ils entrent en contact.
+§ 2. Le Gouvernement fixe les règles de déontologie applicables aux membres du personnel visés aux articles IV.2 et V.2 dans le cadre de l'exécution des missions visées à l'article III.2, § 1er, 1°, en tenant compte du fait qu'ils transmettent à l'autorité mandante toute information pertinente par rapport au mandat.
+L'obligation de secret persiste vis-à-vis de l'autorité mandante pour tout élément dont la révélation n'est pas strictement nécessaire à l'accomplissement des missions.
+
+<a name="Art.II.5" href="#Art.II.4">Art.</a> <a href="#Art.II.6"> II.5</a>. - Sans préjudice des règles de déontologie propres à certaines professions, toute personne qui participe à l'exécution du livre VII se conforme aux règles de déontologie arrêtées par le Gouvernement.
+
+<a name="Art.II.6" href="#Art.II.5">Art.</a> <a href="#LNK0009"> II.6</a>. - Tout partenaire qui emploie du personnel prévoit dans son règlement de travail des règles de déontologie qui visent à garantir le respect du principe de neutralité, de l'égalité de traitement, ainsi que du secret professionnel et qui tendent à éviter les situations de conflit d'intérêt.
+
+<a name="LNK0009" href="#LNKR0009">CHAPITRE 2.</a> - Concertations de cas
+
+<a name="Art.II.7" href="#Art.II.6">Art.</a> <a href="#Art.II.8"> II.7</a>. - Sans préjudice des dispositions prévues par le décret du 8 juin 2023 organisant la participation des services relevant des compétences de la Communauté française aux cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme, les services du Gouvernement visés aux articles IV.2, V.2 et VI.1er, ainsi que les partenaires sont autorisés à participer à une concertation de cas au sens de l'article 458ter du Code pénal.
+
+<a name="Art.II.8" href="#Art.II.7">Art.</a> <a href="#Art.II.9"> II.8</a>. - L'invitation à une concertation de cas est adressée au supérieur hiérarchique du gestionnaire, à l'adresse du service directement concerné.
+Le supérieur hiérarchique informe le gestionnaire de l'invitation reçue.
+
+<a name="Art.II.9" href="#Art.II.8">Art.</a> <a href="#Art.II.10"> II.9</a>. - Sauf urgence motivée, le délai entre l'envoi de l'invitation et la date de la concertation de cas doit être de minimum 14 jours calendriers.
+
+<a name="Art.II.10" href="#Art.II.9">Art.</a> <a href="#Art.II.11"> II.10</a>. - L'invitation mentionne à tout le moins :
+1° l'objectif de la concertation de cas ;
+2° la date, l'heure et le lieu de la concertation de cas ;
+3° la personne faisant l'objet de la concertation de cas et pour laquelle un membre du service est invité ;
+4° les services invités.
+Si un des éléments mentionnés à l'alinéa 1er n'est pas repris dans l'invitation, le supérieur hiérarchique demande à l'initiateur de la concertation de cas de le lui transmettre dans les plus brefs délais.
+
+<a name="Art.II.11" href="#Art.II.10">Art.</a> <a href="#Art.II.12"> II.11</a>. - § 1er. Le rôle du participant est limité à la réalisation de l'objectif de la concertation de cas.
+Le participant peut être le gestionnaire, un supérieur hiérarchique également soumis au secret professionnel ou un représentant permanent désigné par le service du gestionnaire. Si le participant appartient à cette dernière catégorie, le gestionnaire peut lui communiquer, en vue de la concertation de cas, les informations nécessaires, sans violation de son secret professionnel ou de son obligation de confidentialité. En raison de cet échange d'informations, le participant est soumis à la même réglementation et aux mêmes règles déontologiques que le gestionnaire qui fournit les informations, à savoir les dispositions applicables en matière de protection des données, de devoir de discrétion et de secret professionnel.
+Le Gouvernement détermine les modalités de désignation des membres des services du Gouvernement visés aux articles IV.2, V.2 et VI.1er autorisés à participer à une concertation de cas.
+§ 2. La personne visée au paragraphe 1er amenée à participer à une concertation de cas y participe volontairement. Elle évalue l'opportunité de sa participation à une concertation de cas, qui doit être nécessaire et proportionnée à l'objectif de cette dernière. Elle peut être accompagnée, dans l'évaluation de l'opportunité de sa participation, par un supérieur hiérarchique ou par une personne habilitée à cet effet par son service. Le Gouvernement peut fixer les modalités de cet accompagnement pour les membres des services du Gouvernement visés aux articles IV.2, V.2 et VI.1er.
+§ 3. Si le membre d'un service amené à participer à une concertation de cas n'y participe pas :
+1° le supérieur hiérarchique en informe l'initiateur de la concertation de cas ;
+2° un rapport reprenant les éléments explicatifs de la non-participation est conservé de manière confidentielle au sein du service.
+
+<a name="Art.II.12" href="#Art.II.11">Art.</a> <a href="#Art.II.13"> II.12</a>. - Lorsque la personne faisant l'objet de la concertation de cas est un enfant, la personne visée à l'article II.11, § 1er, apprécie sa participation à la lumière de l'intérêt supérieur dudit enfant.
+
+<a name="Art.II.13" href="#Art.II.12">Art.</a> <a href="#Art.II.14"> II.13</a>. - § 1er. Le participant ne peut partager des informations pendant une concertation de cas que dans la mesure où ces informations sont pertinentes et proportionnelles à l'objectif poursuivi par ladite concertation.
+Le participant est libre de déterminer s'il partage des informations et quelles sont les informations qu'il partage lors d'une concertation de cas, en fonction de l'objectif de celle-ci.
+Le participant peut s'entretenir avec un supérieur hiérarchique ou une personne habilitée à cet effet par son service afin de définir les éléments qui pourront être partagés ou non lors de la concertation de cas, sans préjudice de la possibilité pour le participant d'apprécier la nécessité ou non d'apporter davantage d'informations au cours de la concertation. Le Gouvernement peut déterminer les modalités de cet entretien pour les membres des services du Gouvernement visés aux articles IV.2, V.2 et VI.1er.
+§ 2. Dans le cadre du paragraphe 1er, le participant respecte les règles de confidentialité qui s'appliquent en vertu de la règlementation en vigueur en matière de protection des données personnelles et du Code.
+
+<a name="Art.II.14" href="#Art.II.13">Art.</a> <a href="#Art.II.15"> II.14</a>. - § 1er. Conformément aux prescriptions qui lui sont applicables le cas échéant, le gestionnaire prépare la concertation de cas avec la personne faisant l'objet de la concertation de cas.
+§ 2. Lorsqu'un trajet de suivi est décidé au sein de la concertation de cas, le gestionnaire travaille, conformément aux prescriptions qui lui sont applicables le cas échéant, le contenu de ce trajet avec la personne en ayant fait l'objet.
+
+<a name="Art.II.15" href="#Art.II.14">Art.</a> <a href="#LNK0010"> II.15</a>. - Le participant est tenu au secret conformément à l'article 458ter du Code pénal sans préjudice, le cas échéant, des obligations légales qui le lient. Au début de la concertation de cas, le participant précise son cadre légal et déontologique et en particulier ses obligations légales de faire rapport.
+Après la concertation de cas, le participant peut communiquer au gestionnaire les informations relatives au justiciable ayant fait l'objet de la concertation de cas.
+En raison de cet échange d'informations, le gestionnaire est soumis, en ce qui concerne les secrets communiqués, à l'obligation de secret, visée à l'article 458ter, § 2, du Code pénal, sans préjudice, le cas échéant, de ses obligations légales de faire rapport.
+
+<a name="LNK0010" href="#LNKR0010">TITRE 3.</a> - Protection des données personnelles
+
+<a name="Art.II.16" href="#Art.II.15">Art.</a> <a href="#Art.II.17"> II.16</a>. - § 1er. Les traitements visés par le Code relèvent de la responsabilité du Ministère qui agit en tant que responsable de traitement au sens de l'article 4.7) du RGPD.
+§ 2. Par exception, le partenaire agréé en application du livre VII ou le partenaire qui est sollicité et qui, le cas échéant, assume le rôle de personne de référence en application du livre VIII, est considéré comme responsable de traitement au sens de l'article 4.7) du RGPD pour l'ensemble des opérations qu'il réalise.
+
+<a name="Art.II.17" href="#Art.II.16">Art.</a> <a href="#Art.II.18"> II.17</a>. - Pour l'ensemble des traitements visés par le Code, le Gouvernement précise les éléments suivants :
+1° les modalités de communication vers les personnes concernées ;
+2° les modalités d'exercice des droits des personnes concernées.
+
+<a name="Art.II.18" href="#Art.II.17">Art.</a> <a href="#Art.II.19"> II.18</a>. - § 1er. Dans le cadre des traitements visés par le Code, les données personnelles sont collectées, exploitées, communiquées, transférées et stockées dans des locaux sécurisés par le responsable de traitement, ou dans des solutions informatiques sécurisées mises à disposition par le sous-traitant principal du responsable de traitement au sens de l'article 4.8) du RGPD, l'ETNIC.
+Le Gouvernement précise les modalités des mesures de sécurité visées à l'alinéa 1er.
+§ 2. Dans le cadre de la mise à disposition visée au paragraphe 1er, le Ministère traite les données personnelles relatives à l'identification, l'authentification, la prise de contact, la navigation et la traçabilité des utilisateurs des solutions informatiques.
+Le Gouvernement précise la liste des données personnelles visées à l'alinéa 1er et les durées de conservation de ces données.
+
+<a name="Art.II.19" href="#Art.II.18">Art.</a> <a href="#LNK0011"> II.19</a>. - § 1er. Les données personnelles traitées dans le cadre des traitements visés par le Code peuvent être traitées ultérieurement par le Ministère ou par des opérateurs externes à des fins de recherche scientifique ou historique ou à des fins statistiques.
+§ 2. Les données traitées par le Ministère aux fins visées au paragraphe 1er sont, avant tout transfert éventuel anonymisées ou, si les objectifs visés par le traitement ne peuvent pas être atteints avec une anonymisation, elles sont pseudonymisées.
+Les données transférées aux opérateurs externes aux fins visées au paragraphe 1er sont, en fonction des objectifs du traitement, anonymisées, pseudonymisées ou brutes. Les modalités du transfert sont encadrées par un marché public ou sont déterminées dans une convention.
+§ 3. Les données personnelles traitées dans le cadre des traitements visés par le Code peuvent être traitées ultérieurement par des tiers à d'autres fins que celles prévues au paragraphe 1er en application de réglementations nationales en vigueur.
+
+<a name="LNK0011" href="#LNKR0011">Livre III.</a> - Objectifs, missions, principes de base et collaborations de la Communauté française en matière de justice communautaire
+
+<a name="LNK0012" href="#LNKR0012">TITRE 1er.</a> . - Objectifs en matière de justice communautaire
+
+<a name="Article.III.1" href="#Art.II.19">Article.</a> <a href="#LNK0013"> III.1</a>. Article III.1er. - Les objectifs poursuivis par la Communauté française en matière de justice communautaire sont de contribuer :
+1° concernant les victimes, à éviter une victimisation secondaire ou à surmonter leur traumatisme ;
+2° concernant les auteurs, à préserver la sécurité publique et à éviter la récidive, ainsi que, dans le cadre des activités des services du Gouvernement visés aux articles IV.2, V.2 et VI.1er, à soutenir la demande de réinsertion sociale, notamment:
+a)en les aidant à la mise en place des conditions imposées et en contrôlant le respect de celles-ci ;
+b)en favorisant l'émergence d'une demande de sortie de délinquance et en soutenant le processus de désistance, qui s'entend comme le processus par lequel, avec ou sans l'intervention des services de justice pénale, l'auteur d'infraction met un terme à ses activités délinquantes et mène une vie respectant la loi, par le développement de son capital humain et de son capital social ;
+3° concernant les personnes directement concernées par les radicalismes et extrémismes violents, à prévenir un processus pouvant aboutir au passage à l'acte infractionnel et à soutenir la réinsertion sociale de ces personnes ;
+4° concernant les autorités mandantes, à prendre une décision judiciaire individualisée en fournissant les informations utiles.
+
+<a name="LNK0013" href="#LNKR0013">TITRE 2.</a> - Missions en matière de justice communautaire
+
+<a name="Art.III.2" href="#Article.III.1">Art.</a> <a href="#LNK0014"> III.2</a>. - § 1er. Les missions de la Communauté française en matière de justice communautaire sont :
+1° exécuter les mandats des autorités mandantes conformément à l'article 5, § 1er, III, de la loi spéciale du 8 août 1980 de réformes institutionnelles ;
+2° assurer l'accueil, l'information et l'orientation des justiciables ;
+3° assurer un accompagnement personnalisé de toute personne directement concernée par les radicalismes et extrémismes violents ;
+4° structurer et promouvoir la concertation et la collaboration avec les partenaires, les services tiers, les autorités mandantes et les autres acteurs de la justice ;
+5° remplir une fonction d'information structurelle tant auprès des autorités mandantes que des autres acteurs de la justice concernés ;
+6° développer et soutenir des projets novateurs ;
+7° collaborer avec le monde académique et scientifique ;
+8° agréer et subventionner des partenaires pour exécuter les missions visées au titre 4 du livre VII ;
+9° évaluer et améliorer les politiques menées en matière de justice communautaire.
+§ 2. Le Gouvernement détermine les modalités d'exécution des missions visées au paragraphe 1er, 1° à 3°.
+§ 3. Dans le cadre de l'exercice des missions visées paragraphe 1er, 1° et 3°, il peut être fait appel aux services d'un interprète ou à toute autre forme d'assistance linguistique.
+§ 4. Dans le cadre de la mission visée au paragraphe 1er, 6°, le Gouvernement peut, dans les limites des crédits budgétaires disponibles, subventionner des initiatives qui développent un projet novateur. Par projet novateur, on entend une nouvelle offre de service en faveur d'un groupe cible déterminé, répondant à un besoin spécifique en termes d'accompagnement ou d'encadrement de justiciables.
+Le Gouvernement arrête les modalités d'octroi du subventionnement visé à l'alinéa 1er.
+
+<a name="LNK0014" href="#LNKR0014">TITRE 3.</a> .- Principes de base appliqués en matière de justice communautaire
+
+<a name="Art.III.3" href="#Art.III.2">Art.</a> <a href="#LNK0015"> III.3</a>. - L'exécution des missions prévues à l'article III.2. § 1er, 1° à 3°, respecte les principes de base suivants :
+1° une approche émancipatrice, qui a pour but le développement des compétences du justiciable au sein de son environnement pour qu'il soit à même de prendre position de manière autonome ;
+2° la responsabilisation, qui vise à permettre au justiciable d'agir dans la voie qu'il choisit avec ses moyens personnels en toute connaissance de cause ;
+3° la non-normativité, qui consiste à construire l'intervention au départ du contexte du justiciable, de ses croyances, des principes qui le guident, des comportements qui font sens pour lui, de la façon dont il perçoit la situation qui l'amène à entrer en contact avec un service du Gouvernement ;
+4° la non-substitution, qui signifie que les services du Gouvernement ne décident ni n'agissent à la place du justiciable ou de l'autorité mandante ;
+5° la limitation des dommages, qui consiste à poursuivre les objectifs de la manière qui porte le moins atteinte aux droits des justiciables et, en ce qui concerne les victimes, à éviter la victimisation secondaire. A cette fin, l'intervention doit être minimale et proportionnelle.
+
+<a name="LNK0015" href="#LNKR0015">TITRE 4.</a> - Les collaborations en matière de justice communautaire
+
+<a name="LNK0016" href="#LNKR0016">CHAPITRE 1er.</a> . - Les collaborations avec les autorités mandantes et les autres acteurs de la justice
+
+<a name="Art.III.4" href="#Art.III.3">Art.</a> <a href="#LNK0017"> III.4</a>. - Dans la poursuite de ses objectifs et de l'exécution de ses missions, la Communauté française collabore et échange les informations utiles avec les autorités mandantes et les autres acteurs de la justice associés à l'exécution des missions.
+Ces concertations visent à évaluer et optimaliser les collaborations ainsi qu'à faire des recommandations en matière d'exécution des peines et d'accueil des victimes.
+
+<a name="LNK0017" href="#LNKR0017">CHAPITRE 2.</a> - Les collaborations avec les partenaires, les services tiers ou les membres du réseau pertinent et sélectionné
+
+<a name="Art.III.5" href="#Art.III.4">Art.</a> <a href="#LNK0018"> III.5</a>. - § 1er. La Communauté française collabore avec les partenaires, les services tiers ou les membres du réseau pertinent et sélectionné à l'exécution des missions visées à l'article III.2, § 1er, 1° à 3°.
+§ 2. Les collaborations visées au paragraphe 1er s'effectuent dans le cadre d'une intervention conjointe lorsque les services du Gouvernement, les partenaires, les services tiers ou les membres du réseau pertinent et sélectionné interviennent dans la situation d'un justiciable. A cet effet, ils échangent les informations nécessaires afin de garantir au justiciable une prise en charge optimale.
+§ 3. Le Gouvernement arrête les modalités de collaboration et d'échange d'informations utiles entre la Communauté française, les partenaires, les services tiers et les membres du réseau pertinent et sélectionné.
+
+<a name="LNK0018" href="#LNKR0018">CHAPITRE 3.</a> - Les contacts avec les services de renseignement et de sécurité et avec l'Organe de coordination pour l'analyse de la menace
+
+<a name="Art.III.6" href="#Art.III.5">Art.</a> <a href="#LNK0019"> III.6</a>. - § 1er. L'administration échange d'initiative ou sur demande des données personnelles et des informations avec les services de renseignement et de sécurité, ainsi qu'avec l'Organe de coordination pour l'analyse de la menace, dans les limites des dispositions légales et réglementaires en vigueur.
+Lorsqu'ils agissent dans ce cadre, les membres du personnel de l'administration sont déliés de leur obligation de confidentialité ou de secret.
+§ 2. Le traitement de données visé au paragraphe 1er peut être encadré par un protocole d'accord.
+
+<a name="LNK0019" href="#LNKR0019">Livre IV.</a> - De la compétence relative aux maisons de justice
+
+<a name="LNK0020" href="#LNKR0020">TITRE 1er.</a> . - Définitions propres au livre IV
+
+<a name="ArticleIV.1" href="#Art.III.6">Article</a> <a href="#LNK0021"> IV.1</a>. - Les définitions suivantes sont applicables au livre IV :
+1° accueil et accompagnement des victimes dans le cadre de la procédure judiciaire : accueil et accompagnement des victimes tels que visés par :
+a)l'article 3 bis du Titre préliminaire du Code de procédure pénale ;
+b)la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités de l'exécution de la peine ;
+c)la loi du 5 mai 2014 relative à l'internement ;
+d)l'arrêté royal du 26 septembre 2016 portant exécution de l'article 3, 9°, de la loi du 5 mai 2014 relative à l'internement, portant sur les règles selon lesquelles les victimes peuvent demander à être informées, à être entendues et à formuler des conditions dans leur intérêt ;
+e)l'arrêté ministériel du 27 septembre 2016 fixant le modèle de la déclaration de la victime visé à l'article 1er, 3°, de l'arrêté royal du 26 septembre 2016 portant exécution de l'article 3, 9°, de la loi du 5 mai 2014 relative à l'internement, portant sur les règles selon lesquelles les victimes peuvent demander à être informées, à être entendues et à formuler des conditions dans leur intérêt ;
+f)l'arrêté royal du 13 août 2022 portant exécution des articles de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, qui portent sur les règles selon lesquelles les victimes peuvent demander à être informées, à être entendues et à formuler des conditions dans leur intérêt ;
+g)l'arrêté ministériel du 19 août 2022 fixant le modèle de la fiche victime visé à l'article 1er, 3°, de l'arrêté royal du 13 août 2022 portant exécution des articles de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, qui portent sur les règles selon lesquelles les victimes peuvent demander à être informées, à être entendues et à formuler des conditions dans leur intérêt ;
+2° défendeur : proche d'enfant au centre d'un désaccord familial à l'encontre duquel le demandeur a introduit une requête auprès du tribunal de la famille ;
+3° demandeur : proche d'enfant au centre d'un désaccord familial, qui a introduit une requête auprès du tribunal de la famille afin de formuler une demande concernant le ou les enfant(s) pour le(s)quel(s) il justifie d'un lien d'affection particulier ;
+4° enquête présentencielle : l'enquête sociale ou le rapport d'information succinct tels que visés par :
+a)les articles 37ter et 37sexies du Code pénal ;
+b)la loi du 29 juin 1964 relative à la suspension, au sursis et à la probation ;
+c)la loi du 20 juillet 1990 relative à la détention préventive ;
+d)la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités de l'exécution de la peine ;
+e)la loi du 21 mai 2013 relative à l'application du principe de reconnaissance mutuelle aux jugements et décisions de probation aux fins de la surveillance des mesures de probation et des peines de substitution prononcées dans un Etat membre de l'Union européenne ;
+f)la loi du 5 mai 2014 relative à l'internement ;
+g)l'arrêté royal du 7 juin 2000 déterminant les principes généraux en matière d'usage de l'enquête sociale et du rapport d'information succinct dans les matières pénales ;
+h)l'arrêté royal du 14 Juillet 2022 déterminant le contenu du rapport d'information succinct et de l'enquête sociale visée par les articles 8, alinéa 3, 17, § 1er, alinéa 2, 33, § 2, 34, § 2, alinéa 2, 43, § 2, alinéa 3, et 95/12, § 2, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine ;
+5° étude sociale civile : l'étude sociale telle que visée par l'article 1253ter/6 du Code judiciaire ou l'enquête sociale approfondie telle que visée par :
+a)l'article 348.11 du Code civil ;
+b)l'article 29/1 du décret de la Communauté française du 31 mars 2004 relatif à l'adoption ;
+c)l'arrêté du Gouvernement de la Communauté française du 17 juillet 2020 modifiant l'arrêté du Gouvernement de la Communauté française du 8 mai 2014 relatif à l'adoption ;
+6° milieu de vie : il s'agit des personnes qui résident ou résideront avec l'auteur et qui sont rencontrées soit dans le cadre de la réalisation d'une enquête présentencielle visée au 4°, soit dans le cadre du suivi de l'exécution de la décision de l'autorité mandante visé au 7° ;
+7° suivi de l'exécution de la décision d'une autorité mandante : le suivi de l'exécution de la décision d'une autorité mandante telle que visée par :
+a)l'article 216ter du Code d'instruction criminelle ;
+b)la loi du 29 juin 1964 relative à la suspension, au sursis et à la probation ;
+c)la loi du 20 juillet 1990 relative à la détention préventive ;
+d)la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités de l'exécution de la peine ;
+e)la loi du 15 mai 2012 relative à l'interdiction temporaire de résidence ;
+f)la loi du 21 mai 2013 relative à l'application du principe de reconnaissance mutuelle aux jugements et décisions de probation aux fins de la surveillance des mesures de probation et des peines de substitution prononcées dans un Etat membre de l'Union européenne ;
+g)la loi du 5 mai 2014 relative à l'internement ;
+h)les articles 37ter à 37undecies du Code pénal ;
+8° tiers pertinents : il s'agit de personnes de la sphère privée de l'auteur qui ne résident pas avec lui ou des professionnels qui interviennent auprès de ce dernier.
+Le Gouvernement peut modifier la liste des références légales visées aux 1°, 4°, 5° et 7°.
+
+<a name="LNK0021" href="#LNKR0021">TITRE 2.</a> - Des services habilités à assurer la compétence relative aux Maisons de justice
+
+<a name="Art.IV.2" href="#ArticleIV.1">Art.</a> <a href="#LNK0022"> IV.2</a>. - Le Gouvernement désigne les services au sein de la Communauté française pour assurer la compétence relative aux Maisons de justice, et détermine l'organisation de ceux-ci.
+
+<a name="LNK0022" href="#LNKR0022">TITRE 3.</a> - Des activités des services habilités à assurer la compétence relative aux Maisons de justice
+
+<a name="Art.IV.3" href="#Art.IV.2">Art.</a> <a href="#LNK0023"> IV.3</a>. - § 1er. Les services visés à l'article IV.2 assurent les activités suivantes :
+1° la réalisation de l'enquête présentencielle ;
+2° la réalisation de l'étude sociale civile ;
+3° le suivi de l'exécution de la décision d'une autorité mandante ;
+4° l'accueil et l'accompagnement de la victime dans le cadre de la procédure judiciaire.
+§ 2. Ces services informent de manière régulière les autorités mandantes de l'évolution des activités visées au paragraphe 1er.
+
+<a name="LNK0023" href="#LNKR0023">TITRE 4.</a> - De la protection des données personnelles
+
+<a name="Art.IV.4" href="#Art.IV.3">Art.</a> <a href="#Art.IV.5"> IV.4</a>. - § 1er. Les services visés à l'article IV.2 réalisent les traitements de données personnelles suivants :
+1° réaliser des enquêtes présentencielles et des études sociales civiles ;
+2° assurer l'assistance aux victimes ;
+3° suivre l'exécution de la décision d'une autorité mandante.
+§ 2. Les finalités du traitement visé au paragraphe 1er, 1°, sont les suivantes :
+1° réceptionner, encoder le mandat et désigner un membre du personnel des services visés à l'article IV.2 pour réaliser l'enquête présentencielle ou l'étude sociale civile ;
+2° identifier et authentifier les personnes concernées ;
+3° évaluer la situation de la personne concernée lors de rencontres;
+4° informer l'autorité mandante au moyen d'un rapport.
+§ 3. Les finalités du traitement visé au paragraphe 1er, 2°, sont les suivantes :
+1° réceptionner, encoder la demande d'assistance et désigner un membre du personnel des services visés à l'article IV.2 pour assurer l'assistance aux victimes ;
+2° identifier et authentifier les personnes concernées ;
+3° évaluer la situation de la personne concernée lors de rencontres;
+4° accueillir, accompagner et orienter les victimes ;
+5° informer l'autorité mandante au moyen de la fiche victime conformément à l'article IV.1er, 1°, e) et g).
+§ 4. Les finalités du traitement visé au paragraphe 1er, 3°, sont les suivantes :
+1° réceptionner, encoder le mandat et désigner un membre du personnel des services visés à l'article IV.2 pour réaliser le suivi de la décision de l'autorité mandante ;
+2° identifier et authentifier les personnes concernées ;
+3° évaluer la situation de la personne concernée via des rencontres ;
+4° informer l'autorité mandante au moyen de rapports.
+
+<a name="Art.IV.5" href="#Art.IV.4">Art.</a> <a href="#Art.IV.6"> IV.5</a>. - § 1er. Dans le cadre du traitement visé à l'article IV.4, § 1er, 1°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° l'auteur :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux caractéristiques du logement ;
+h)les données relatives aux études et à la formation ;
+i)les données relatives à la profession et à l'emploi ;
+j)les données relatives à l'enregistrement d'images permettant une identification unique d'une personne ;
+k)les données de santé ;
+l)les données relatives à l'origine raciale ou ethnique ;
+m)les données relatives aux opinions politiques ;
+n)les données relatives aux convictions religieuses ou philosophiques ;
+o)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+p)les données relatives aux infractions, aux poursuites et aux condamnations;
+2° le milieu de vie :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux habitudes de vie ;
+d)les données relatives à la composition du ménage ;
+e)les données relatives aux loisirs et intérêts ;
+f)les données relatives aux caractéristiques du logement ;
+g)les données relatives aux études et à la formation ;
+h)les données relatives à la profession et à l'emploi ;
+i)les données de santé ;
+j)les données relatives aux opinions politiques ;
+k)les données relatives aux convictions religieuses ou philosophiques ;
+l)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+m)les données relatives aux infractions, aux poursuites et aux condamnations ;
+3° le demandeur :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux caractéristiques du logement ;
+h)les données relatives aux études et à la formation ;
+i)les données relatives à la profession et à l'emploi ;
+j)les données relatives à l'enregistrement d'images permettant une identification unique d'une personne
+k)les données de santé ;
+l)les données relatives à l'origine raciale ou ethnique ;
+m)les données relatives aux opinions politiques ;
+n)les données relatives aux convictions religieuses ou philosophiques ;
+o)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+4° le défendeur :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux caractéristiques du logement ;
+h)les données relatives aux études et à la formation ;
+i)les données relatives à la profession et à l'emploi ;
+j)les données de santé ;
+k)les données relatives à l'origine raciale ou ethnique ;
+l)les données relatives aux opinions politiques ;
+m)les données relatives aux convictions religieuses ou philosophiques ;
+n)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+5° la victime :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux habitudes de vie ;
+d)les données relatives à la profession et à l'emploi ;
+e)les données de santé ;
+f)les données relatives à l'origine raciale ou ethnique ;
+g)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+6° les tiers pertinents :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux études et à la formation ;
+d)les données relatives à la profession et à l'emploi ;
+e)les données relatives aux infractions, aux poursuites et aux condamnations ;
+7° les autorités mandantes, les autres acteurs de la justice, les services tiers et les partenaires :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+§ 2. Le traitement des données personnelles visées au paragraphe 1er, 2°, i) à l), n'est envisageable que pour autant que la personne concernée ait consenti au traitement de ces données conformément à l'article 9.2.a) du RGPD.
+§ 3. Les catégories des données visées au paragraphe 1er, 1°, a) et e), 2°, a) et d), 3°, a) et e), et 4°, a) et e), comprennent le numéro de registre national et les données personnelles associées. Ces données sont traitées par le responsable de traitement pour les finalités visées à l'article IV.4, § 2, 2° à 4°.
+La catégorie de données visée au paragraphe 1er, 1°, a), 2°, a), 3°, a), et 4°, a), en ce qui concerne les tiers pertinents privés, comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Les données personnelles visées au paragraphe 1er, 1°, p), 2°, m), et au 6°, e), sont collectées par les services visés à l'article IV.2 directement auprès de la personne concernée ou auprès des autorités mandantes et via un accès au Casier judiciaire central conformément à l'article 593 du Code d'instruction criminelle.
+§ 5. Les services visés à l'article IV.2 peuvent collecter des données via d'autres systèmes d'information des autorités mandantes et des autres acteurs de la justice, dans la mesure où un accès leur a été accordé.
+§ 6. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.IV.6" href="#Art.IV.5">Art.</a> <a href="#Art.IV.7"> IV.6</a>. - § 1er. Dans le cadre du traitement visé à l'article IV.4, § 1er, 2°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° la victime :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage, uniquement lorsque la victime est décédée ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux études et à la formation ;
+h)les données relatives à la profession et à l'emploi ;
+i)les données relatives à l'enregistrement d'images permettant une identification unique d'une personne ;
+j)les données de santé ;
+k)les données relatives à l'origine raciale ou ethnique ;
+l)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+m)les données relatives aux infractions, aux poursuites et aux condamnations ;
+2° l'auteur :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données de santé ;
+e)les données relatives à l'origine raciale ou ethnique ;
+f)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+g)les données relatives aux infractions, aux poursuites et aux condamnations ;
+3° les autorités mandantes, les autres acteurs de la justice, les services tiers et les partenaires :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+§ 2. Les catégories de données personnelles visées au paragraphe 1er, 1°, a) et e), comprennent le numéro de registre national et les données personnelles associées. Ces données sont traitées par le responsable de traitement pour les finalités visées à l'article IV.4, § 3, 2° à 5°. La catégorie de données visée au paragraphe 1er, 1°, a), et 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 3. Les données personnelles visées au paragraphe 1er, 1°, m), et 2°, g), sont uniquement collectées auprès des autorités mandantes par les services visés à l'article IV.2 ou via la consultation du dossier judiciaire, dont l'accès se fonde sur l'article 3bis du Titre préliminaire du Code de procédure pénale.
+§ 4. Les services visés à l'article IV.2 peuvent collecter des données via d'autres systèmes d'information des autorités mandantes et des autres acteurs de la justice, dans la mesure où un accès leur a été accordé.
+§ 5. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.IV.7" href="#Art.IV.6">Art.</a> <a href="#Art.IV.8"> IV.7</a>. - § 1er. Dans le cadre du traitement visé à l'article IV.4, § 1er, 3°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° l'auteur :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux caractéristiques du logement ;
+h)les données relatives aux études et à la formation ;
+i)les données relatives à la profession et à l'emploi ;
+j)les données relatives à l'enregistrement d'images permettant une identification unique d'une personne ;
+k)les données de santé ;
+l)les données relatives à l'origine raciale ou ethnique ;
+m)les données relatives aux opinions politiques ;
+n)les données relatives aux convictions religieuses ou philosophiques ;
+o)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+p)les données relatives aux infractions, aux poursuites et aux condamnations ;
+2° le milieu de vie :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux habitudes de vie ;
+d)les données relatives à la composition du ménage ;
+e)les données relatives aux loisirs et intérêts ;
+f)les données relatives aux caractéristiques du logement ;
+g)les données relatives aux études et à la formation ;
+h)les données relatives à la profession et à l'emploi ;
+i)les données de santé ;
+j)les données relatives aux opinions politiques ;
+k)les données relatives aux convictions religieuses ou philosophiques ;
+l)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+m)les données relatives aux infractions, aux poursuites et aux condamnations ;
+3° la victime :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux habitudes de vie ;
+d)les données relatives à la profession et à l'emploi ;
+e)les données de santé ;
+f)les données relatives à l'origine raciale ou ethnique ;
+g)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+4° les tiers pertinents :
+a) les données d'identification et de contact ;
+b) les données financières ;
+c) les données relatives aux études et à la formation ;
+d) les données relatives à la profession et à l'emploi ;
+e) les données relatives aux infractions, aux poursuites et aux condamnations ;
+5° les autorités mandantes, les autres acteurs de la justice, les services tiers et les partenaires :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+§ 2. Le traitement des données personnelles visées au paragraphe 1er, 2°, i) à l), n'est envisageable que pour autant que la personne concernée ait consenti au traitement de ces données conformément à l'article 9.2.a) du RGPD.
+§ 3. Les catégories de données visées au paragraphe 1er, 1°, a) et e), 2°, a) et d) et 3°, a), comprennent le numéro de registre national et les données personnelles associées. Ces données sont traitées par le responsable de traitement pour les finalités visées à l'article IV.4, § 4, 2° à 4°.
+La catégorie de données visée au paragraphe 1er, 1°, a), 2°, a), 3°, a), et 4°, a), en ce qui concerne les tiers pertinents privés, comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Les données personnelles visées au paragraphe 1er, 1°, p), 2°, m), et au 4°, e) sont collectées par les services visés à l'article IV.2 directement auprès de la personne concernée ou auprès des autorités mandantes et via un accès au Casier judiciaire central conformément à l'article 593 du Code d'instruction criminelle.
+§ 5. Les services visés à l'article IV.2 peuvent collecter des données via d'autres systèmes d'information des autorités mandantes et des autres acteurs de la justice, dans la mesure où un accès leur a été accordé.
+§ 6. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.IV.8" href="#Art.IV.7">Art.</a> <a href="#LNK0024"> IV.8</a>. - § 1er. Dans le cadre des traitements visés à l'article IV.4, les services visés à l'article IV.2 transfèrent les données personnelles nécessaires à l'accomplissement de leurs tâches aux autorités mandantes et aux autres acteurs de la justice, conformément aux dispositions légales et réglementaires applicables aux activités visées à l'article IV.3.
+§ 2. Les données personnelles traitées par les services visés à l'article IV.2 sont également susceptibles d'être transférées aux partenaires et aux services tiers dans le cadre des collaborations visées à l'article III.5.
+Le Gouvernement détermine les modalités du transfert visé à l'alinéa 1er.
+
+<a name="LNK0024" href="#LNKR0024">Livre V.</a> - De la compétence relative à la mise en oeuvre et au suivi de la surveillance électronique
+
+<a name="LNK0025" href="#LNKR0025">TITRE 1er.</a> . - Définitions propres au livre V
+
+<a name="ArticleV.1." href="#Art.IV.8">Article</a> <a href="#LNK0026"> V.1.</a>. - Les définitions suivantes sont applicables au livre V :
+1° alarme : information transmise au service visé à l'article V.2 via le dispositif de surveillance électronique et qui nécessite, le cas échéant, une réaction de la part de celui-ci ;
+2° capacité de placement : le nombre d'auteurs pouvant bénéficier d'un placement, lequel est déterminé en fonction des éléments repris à l'article V.4 ;
+3° congé pénitentiaire : le congé octroyé par l'autorité mandante à l'auteur, qui a pour effet de suspendre le contrôle de celui-ci par des moyens électroniques, pendant une période déterminée ;
+4° contexte social de l'auteur : toutes les personnes qui ont un lien relationnel particulier avec l'auteur et qui sont amenées de ce fait à entrer en contact avec le service visé à l'article V.2 ;
+5° horaire standard : horaire de base imposé à l'auteur en surveillance électronique tel que visé au titre 5, chapitre 1er ;
+6° mandats en cours : le nombre de mandats dont l'exécution est gérée quotidiennement par le service visé à l'article V.2 et ceux qui sont planifiés ;
+7° placement : la mise en place du dispositif de surveillance électronique, y compris, son retrait et les interventions techniques de maintenance sur celui-ci, et le suivi effectif de l'auteur au moyen de ce dispositif ;
+8° programme-horaire : contenu horaire de la surveillance électronique, qui précise les moments où l'auteur est tenu d'être présent à son lieu de résidence et les moments où il est tenu ou autorisé à s'absenter ;
+9° recalcul : réajustement du programme-horaire consistant à déduire des heures de temps libre le temps indûment utilisé par l'auteur ;
+10° ressources en matériel : l'ensemble du matériel utilisé par le service visé à l'article V.2 pour exécuter sa mission ;
+11° surveillance électronique : la surveillance électronique telle que visée par :
+a)la loi du 20 juillet 1990 relative à la détention préventive ;
+b)la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine ;
+c)la loi du 5 mai 2014 relative à l'internement ;
+d)les articles 37ter et 37quater du Code pénal.
+Le Gouvernement peut modifier la liste des références légales au 11°.
+
+<a name="LNK0026" href="#LNKR0026">TITRE 2.</a> - Du service habilité à assurer la compétence relative à la mise en oeuvre et au suivi de la surveillance électronique
+
+<a name="Art.V.2" href="#ArticleV.1.">Art.</a> <a href="#LNK0027"> V.2</a>. - Le Gouvernement désigne le service au sein de la Communauté française pour assurer la compétence relative à la mise en oeuvre et au suivi de la surveillance électronique, et détermine l'organisation de celui-ci.
+
+<a name="LNK0027" href="#LNKR0027">TITRE 3.</a> - Des activités du service habilité à assurer la compétence relative à la mise en oeuvre et au suivi de la surveillance électronique
+
+<a name="Art.V.3" href="#Art.V.2">Art.</a> <a href="#LNK0028"> V.3</a>. - Le service visé à l'article V.2 effectue les activités suivantes :
+1° le placement d'un dispositif de surveillance électronique sur l'auteur et à son lieu de résidence ;
+2° la mise en place et la gestion d'un programme-horaire adapté pour contrôler le respect de celui-ci par l'auteur ;
+3° le suivi du déroulement de la surveillance électronique ;
+4° la gestion des alarmes ;
+5° la centralisation, l'analyse et la transmission aux autorités mandantes, aux autres acteurs de la justice et aux services tiers des informations pertinentes sur la surveillance électronique.
+Le Gouvernement peut confier d'autres activités au service visé à l'article V.2.
+
+<a name="LNK0028" href="#LNKR0028">TITRE 4.</a> - De la capacité de placement
+
+<a name="Art.V.4" href="#Art.V.3">Art.</a> <a href="#Art.V.5"> V.4</a>. - § 1er. Le service visé à l'article V.2 exécute sa compétence en fonction de sa capacité de placement.
+§ 2. La capacité de placement visée à l'alinéa 1er est déterminée en fonction des éléments suivants :
+1° des ressources en matériel du service visé à l'article V.2 ;
+2° du nombre de mandats confiés au service visé à l'article V.2 par les autorités mandantes.
+
+<a name="Art.V.5" href="#Art.V.4">Art.</a> <a href="#Art.V.6"> V.5</a>. - § 1er. Le service visé à l'article V.2 exécute l'ensemble des mandats qui lui sont confiés par les autorités mandantes dans les délais légaux.
+§ 2. Si la capacité de placement ou des circonstances exceptionnelles dûment justifiées ne permettent pas au service visé à l'article V.2 d'exécuter l'ensemble de ses mandats dans les délais légaux, il exécute ceux-ci en suivant l'ordre chronologique dans lequel ils lui ont été confiés en accordant une priorité aux auteurs incarcérés et aux auteurs qui exécutent leur détention préventive sous surveillance électronique.
+§ 3. Par dérogation au paragraphe 2, le service visé à l'article V.2 peut exécuter ses mandats en fonction des critères de priorisation suivants en tenant compte :
+1° de la durée de la surveillance électronique ;
+2° du type de fait commis par l'auteur ;
+3° du risque encouru pour la victime ;
+4° de la situation personnelle de l'auteur.
+Le service visé à l'article V.2 motive sa décision d'appliquer les critères de priorisation visés à l'alinéa 1er, en considérant, le cas échéant, les indications données par l'autorité mandante, les autres acteurs de la justice et les services tiers.
+
+<a name="Art.V.6" href="#Art.V.5">Art.</a> <a href="#LNK0029"> V.6</a>. - Le service visé à l'article V.2 informe de manière régulière les autorités mandantes sur l'état de sa capacité de placement.
+Le Gouvernement détermine les modalités de transmission de cette information.
+
+<a name="LNK0029" href="#LNKR0029">TITRE 5.</a> - De la mise en oeuvre des surveillances électroniques prévues par la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine
+
+<a name="LNK0030" href="#LNKR0030">CHAPITRE 1er.</a> . - Du programme-horaire de surveillance électronique pour les auteurs condamnés à une ou plusieurs peines privatives de liberté de trois ans ou moins
+
+<a name="Art.V.7" href="#Art.V.6">Art.</a> <a href="#Art.V.8"> V.7</a>. - § 1er. Le programme-horaire est composé d'un horaire standard déterminé en fonction de l'occupation journalière de l'auteur et, le cas échéant, du temps nécessaire à la réalisation des conditions particulières individualisées ou des éventuels congés pénitentiaires.
+§ 2. Le programme-horaire peut être adapté :
+1° en fonction de circonstances propres à la situation personnelle de l'auteur ;
+2° si l'auteur a besoin d'une période horaire supplémentaire pour réaliser une condition particulière individualisée ;
+3° si l'auteur bénéficie d'un congé pénitentiaire.
+
+<a name="Art.V.8" href="#Art.V.7">Art.</a> <a href="#LNK0031"> V.8</a>. - § 1er. Lors de la mise en oeuvre d'une surveillance électronique prononcée pour une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à trois ans ou moins, un horaire standard est imposé à l'auteur.
+§ 2. Le Gouvernement fixe l'horaire standard.
+
+<a name="LNK0031" href="#LNKR0031">CHAPITRE 2.</a> - Du programme-horaire de surveillance électronique pour les auteurs condamnés à une ou plusieurs peines privatives de liberté dont le total est supérieur à trois ans
+
+<a name="Art.V.9" href="#Art.V.8">Art.</a> <a href="#LNK0032"> V.9</a>. - § 1er. Lors de la mise en oeuvre d'une surveillance électronique prononcée pour une ou plusieurs peines privatives de liberté dont le total est supérieur à trois ans, le programme-horaire est déterminé en fonction du programme du contenu concret défini par l'autorité mandante dans son jugement.
+Le programme-horaire est établi sur base des conditions générales, des conditions particulières individualisées et le cas échéant, des motivations reprises dans le jugement d'octroi de l'autorité mandante.
+§ 2. Le programme-horaire peut être adapté :
+1° en fonction de circonstances propres à la situation personnelle de l'auteur ;
+2° si l'auteur bénéficie de congés pénitentiaires.
+§ 3. Le Gouvernement arrête les modalités de mise en oeuvre du programme-horaire prévu au paragraphe 1er.
+
+<a name="LNK0032" href="#LNKR0032">CHAPITRE 3.</a> - De la gestion des incidents
+
+<a name="Art.V.10" href="#Art.V.9">Art.</a> <a href="#Art.V.11"> V.10</a>. - Les incidents sont constatés lorsque :
+1° l'auteur ne répond pas aux appels du service visé à l'article V.2 ;
+2° l'auteur effectue un déplacement non autorisé ;
+3° l'auteur n'est pas présent à son lieu de résidence et n'a pas averti le service visé à l'article V.2 de son absence ;
+4° l'auteur ne respecte pas l'horaire lié à sa période d'occupation journalière ou à ses conditions particulières individualisées.
+
+<a name="Art.V.11" href="#Art.V.10">Art.</a> <a href="#LNK0033"> V.11</a>. - Le Gouvernement précise les modalités de mise en oeuvre des mesures qui peuvent être prises par le service visé à l'article V.2 à l'égard de l'auteur qui n'a pas respecté le programme-horaire et qui sont :
+1° mettre en place un accompagnement auprès de l'auteur ;
+2° rappeler à l'auteur ses obligations et l'informer qu'un recalcul peut être effectué ;
+3° recalculer l'horaire de l'auteur ;
+4° effectuer un signalement auprès des autorités mandantes.
+
+<a name="LNK0033" href="#LNKR0033">TITRE 6.</a> - De la protection des données personnelles
+
+<a name="Art.V.12" href="#Art.V.11">Art.</a> <a href="#Art.V.13"> V.12</a>. - § 1er. Le service visé à l'article V.2 réalise le traitement relatif à la mise en oeuvre et au suivi de la surveillance électronique au sens de l'article V.1er, 11°.
+§ 2. Les finalités du traitement visé au paragraphe 1er sont les suivantes :
+1° activer la mise en oeuvre et le suivi de la surveillance électronique ;
+2° identifier et authentifier les personnes concernées ;
+3° exécuter et suivre le déroulement de la surveillance électronique ;
+4° informer l'autorité mandante au moyen de rapports;
+5° déterminer le programme-horaire de l'auteur ;
+6° gérer les incidents visés à l'article V.10;
+7° clôturer la mise en oeuvre et le suivi de la surveillance électronique ;
+8° enregistrer les conversations téléphoniques du service visé à l'article V.2 ;
+9° améliorer le fonctionnement du service visé à l'article V.2.
+
+<a name="Art.V.13" href="#Art.V.12">Art.</a> <a href="#Art.V.14"> V.13</a>. - § 1er. Dans le cadre du traitement visé à l'article V.12, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° l'auteur :
+a) les données d'identification et de contact ;
+b) les données financières ;
+c) les données relatives aux caractéristiques personnelles ;
+d) les données relatives aux habitudes de vie ;
+e) les données relatives à la composition du ménage ;
+f) les données relatives aux loisirs et intérêts ;
+g) les données relatives aux caractéristiques du logement ;
+h) les données relatives aux études et à la formation ;
+i) les données relatives à la profession et à l'emploi ;
+j) les données relatives à l'enregistrement d'images permettant une identification unique d'une personne ;
+k) les données de santé ;
+l) les données relatives aux opinions politiques ;
+m) les données relatives aux convictions religieuses ou philosophiques ;
+n) les données relatives à la vie sexuelle ou à l'orientation sexuelle;
+o) les données relatives aux infractions, aux poursuites et aux condamnations;
+p) les données de géolocalisation générées par l'ensemble du matériel de surveillance électronique dont dispose le service visé à l'article V.2 ;
+q) les données liées à l'enregistrement des conversations téléphoniques ;
+2° les personnes qui font partie du contexte social de l'auteur :
+a) les données d'identification et de contact ;
+b) les données relatives à la composition du ménage ;
+c) les données relatives aux caractéristiques du logement ;
+d) les données relatives à la profession et à l'emploi ;
+e) les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+f) les données relatives aux infractions, aux poursuites et aux condamnations ;
+g) les données liées à l'enregistrement des conversations téléphoniques ;
+3° les autorités mandantes, les autres acteurs de la justice, les services tiers et les partenaires :
+a) les données d'identification et de contact ;
+b) les données relatives à la profession et à l'emploi ;
+c) les données liées à l'enregistrement des conversations téléphoniques.
+§ 2. Le service visé à l'article V.2 peut collecter des données via les systèmes d'information des autorités mandantes et des autres acteurs de la justice, dans la mesure où leur accès lui a été accordé.
+§ 3. Les catégories de données visées au paragraphe 1er, 1°, a) et e), comprennent le numéro de registre national et les données personnelles associées. Ces données sont traitées par le responsable de traitement pour les finalités visées à l'article V.12, § 2, 2° à 7°.
+Lorsqu'il s'agit de données relatives à une personne physique dont les données ne sont pas inscrites au Registre national, le responsable de traitement traite le numéro d'identification de la Banque Carrefour de la sécurité sociale.
+La catégorie de données visée au paragraphe 1er, 1°, a), et 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Les données personnelles visées au paragraphe 1er, 1°, o), et 2°, f), sont collectées par le service visé à l'article V.2 directement auprès de la personne concernée ou auprès des autorités mandantes, des autres acteurs de la justice et via un accès au Casier judiciaire central conformément à l'article 593 du Code d'instruction criminelle.
+§ 5. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.V.14" href="#Art.V.13">Art.</a> <a href="#LNK0034"> V.14</a>. - § 1er. Dans le cadre du traitement visé à l'article V.12, le service visé à l'article V.2 transfère les données personnelles nécessaires à l'accomplissement de leurs tâches aux autorités mandantes et aux autres acteurs de la justice, conformément aux dispositions légales et réglementaires applicables à la surveillance électronique.
+§ 2. Les données personnelles traitées par le service visé à l'article V.2 sont également susceptibles d'être transférées aux partenaires et aux services tiers dans le cadre des collaborations visées à l'article III.5.
+Le Gouvernement détermine les modalités du transfert visé à l'alinéa 1er.
+
+<a name="LNK0034" href="#LNKR0034">Livre VI.</a> - De l'aide et de la prise en charge des personnes directement concernées par les radicalismes et extrémismes violents
+
+<a name="LNK0035" href="#LNKR0035">TITRE 1er.</a> . - Du service habilité à assurer l'aide et la prise en charge des personnes directement concernées par les radicalismes et extrémismes violents
+
+<a name="Article.VI.1er" href="#Art.V.14">Article.</a> <a href="#LNK0036"> VI.1er</a>. - Le Gouvernement désigne le service au sein de la Communauté française pour assurer l'aide et la prise en charge des personnes directement concernées par les radicalismes et extrémismes violents dans les limites des compétences de la Communauté française, et détermine l'organisation de celui-ci.
+
+<a name="LNK0036" href="#LNKR0036">TITRE 2.</a> - Des activités pour assurer l'aide et la prise en charge des personnes directement concernées par les radicalismes et extrémismes violents
+
+<a name="Art.VI.2" href="#Article.VI.1er">Art.</a> <a href="#LNK0037"> VI.2</a>. - Pour assurer la mission visée à l'article III.2, § 1er, 3°, le service visé à l'article VI.1er assure les activités suivantes :
+1° l'identification et la construction d'un réseau pertinent et sélectionné ;
+2° l'accompagnement personnalisé en vue de prévenir l'engagement dans les radicalismes et extrémismes violents ;
+3° l'accompagnement personnalisé au désengagement à l'égard des radicalismes et extrémismes violents.
+
+<a name="LNK0037" href="#LNKR0037">TITRE 3.</a> - De la protection des données personnelles
+
+<a name="Art.VI.3" href="#Art.VI.2">Art.</a> <a href="#Art.VI.4"> VI.3</a>. - § 1er. Le service visé à l'article VI.1er réalise les traitements de données personnelles suivants:
+1° identifier et construire un réseau pertinent et sélectionné ;
+2° offrir un accompagnement personnalisé aux personnes directement concernées par les radicalismes et extrémismes violents.
+§ 2. Les finalités du traitement visé au paragraphe 1er, 1° sont les suivantes :
+1° effectuer l'inventaire des services qui constituent le réseau pertinent et sélectionné ;
+2° optimiser les interventions du service visé à l'article VI.1er ;
+3° mettre à disposition l'expertise et partager des connaissances ;
+4° orienter toute personne qui entre en contact avec le service visé à l'article VI.1er ;
+§ 3. Les finalités du traitement visé au paragraphe 1er, 2° sont les suivantes :
+1° identifier et authentifier la personne concernée ;
+2° s'entretenir et effectuer des démarches auprès de la personne directement concernée par les radicalismes et extrémismes violents et/ou auprès d'un proche ;
+3° collaborer ou réorienter vers un réseau pertinent et sélectionné ;
+4° effectuer le pilotage et l'optimisation des interventions du service visé à l'article VI.1er ;
+5° informer les services visés à l'article IV.2 du déroulement de l'accompagnement visé au paragraphe 1er, 2° au moyen d'un rapport.
+
+<a name="Art.VI.4" href="#Art.VI.3">Art.</a> <a href="#Art.VI.5"> VI.4</a>. - § 1er. Dans le cadre du traitement visé à l'article VI.3, § 1er, 1°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personne concernée sont les suivantes :
+1° les membres du réseau pertinent et sélectionné :
+a) les données d'identification et de contact ;
+b) les données relatives à l'étude et à la formation ;
+c) les données relatives à la profession et à l'emploi ;
+d) les données relatives aux convictions religieuses et philosophiques ;
+e) les données relatives aux opinions politiques ;
+2° toute personne qui entre en contact avec le service visé à l'article VI.1er :
+a) les données d'identification et de contact ;
+b) les données relatives aux caractéristiques personnelles ;
+c) les données relatives aux habitudes de vie ;
+d) les données relatives à la composition du ménage ;
+e) les données relatives aux loisirs et intérêts ;
+f) les données relatives aux études et à la formation ;
+g) les données relatives à la profession et à l'emploi ;
+h) les données relatives à l'origine raciale ou ethnique ;
+i) les données relatives aux convictions religieuses ou philosophiques ;
+j) les données de santé ;
+k) les données relatives aux opinions politiques ;
+l) les données relatives aux infractions, aux poursuites et aux condamnations.
+§ 2. Le traitement des données personnelles visées au paragraphe 1er 1°, d) et e), et au 2°, h), à k) n'est envisageable que pour autant que la personne concernée ait consenti au traitement de ces données conformément à l'article 9.2.a) du RGPD.
+§ 3. La catégorie de données visée au paragraphe 1er, 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VI.5" href="#Art.VI.4">Art.</a> <a href="#Art.VI.6"> VI.5</a>. - § 1er. Dans le cadre du traitement visé à l'article VI.3, § 1er, 2°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personne concernée sont les suivantes :
+1° les personnes directement concernées par les radicalismes et extrémismes violents :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives à l'affiliation ;
+h)les données relatives aux caractéristiques du logement ;
+i)les données relatives aux études et à la formation ;
+j)les données relatives à la profession et à l'emploi ;
+k)les données de santé ;
+l)les données relatives à l'origine raciale ou ethnique ;
+m)les données relatives aux opinions politiques ;
+n)les données relatives aux convictions religieuses ou philosophiques ;
+o)les données relatives à l'appartenance syndicale ;
+p)les données relatives à la vie sexuelle ou à l'orientation sexuelle ;
+q)les données relatives aux infractions, aux poursuites et aux condamnations ;
+r)les données relatives aux mesures d'aide ou aux mesures protectionnelles de la jeunesse ;
+2° les proches :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives aux habitudes de vie ;
+e)les données relatives à la composition du ménage ;
+f)les données relatives aux loisirs et intérêts ;
+g)les données relatives aux caractéristiques du logement ;
+h)les données relatives aux études et à la formation ;
+i)les données relatives à la profession et à l'emploi ;
+j)les données de santé ;
+k)les données relatives à l'origine raciale ou ethnique ;
+l)les données relatives aux opinions politiques ;
+m)les données relatives aux convictions religieuses ou philosophiques ;
+n)les données relatives aux infractions, aux poursuites et aux condamnations ;
+o)les données relatives aux mesures d'aide ou aux mesures protectionnelles de la jeunesse ;
+3° les autres acteurs de la justice :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+§ 2. Le traitement des données personnelles visées au paragraphe 1er, 1°, p), et 2°, j) à m), n'est envisageable que pour autant que la personne concernée ait consenti au traitement de ces données conformément à l'article 9.2.a) du RGPD.
+§ 3. Les catégories visées au paragraphe 1er, 1°, a) et e), comprennent le numéro de registre national et les données associées. Ces données personnelles sont traitées par le responsable de traitement dans le cadre des finalités visées à l'article VI.3, § 3, 1° et 2°.
+La catégorie de données visée au paragraphe 1er, 1°, a), et 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VI.6" href="#Art.VI.5">Art.</a> <a href="#LNK0038"> VI.6</a>. - Les données visées à l'article VI.4, § 1er, 2° et à l'article VI.5, § 1er, 1° et 2°, sont susceptibles d'être transférées aux membres du réseau pertinent et sélectionné, ainsi qu'à des services tiers dans le cadre des collaborations visées à l'article III.5.
+Le Gouvernement détermine les modalités du transfert visé à l'alinéa 1er.
+
+<a name="LNK0038" href="#LNKR0038">Livre VII.</a> - Des partenaires
+
+<a name="LNK0039" href="#LNKR0039">TITRE 1er.</a> . - Définitions propres au livre VII
+
+<a name="ArticleVII.1er" href="#Art.VI.6">Article</a> <a href="#LNK0040"> VII.1er</a>. - Les définitions suivantes sont applicables au livre VII :
+1° aide : accueil, assistance, appui ou soutien, limité dans le temps et apporté au justiciable, conjointement à ses propres efforts ;
+2° auteur : la personne physique qui fait l'objet de poursuites pénales ou qui a été condamnée pénalement ;
+3° auteur détenu: l'auteur qui exécute une peine ou une mesure privative de liberté au sein d'un établissement pénitentiaire, d'un établissement au sens de la loi du 5 mai 2014 relative à l'internement ou d'un centre communautaire ;
+4° intermédiaire : organisme non agréé sur la base du livre VII dont le partenaire a besoin pour mettre en oeuvre la mission pour laquelle il est agréé ;
+5° prestation : actions, activités et tâches permettant l'exécution des missions visées au titre 4, en fonction du type de justiciable concerné ou en fonction de la manière dont la mission est exécutée ;
+6° prise en charge : unité de comptabilisation de la prestation au bénéfice d'un justiciable pouvant faire l'objet d'un subventionnement durant l'année de subventionnement concernée ;
+7° proche d'auteur : le parent ou allié, en ligne directe ou collatérale, le tuteur, le conjoint, le cohabitant légal ou de fait d'un auteur ;
+8° proche d'enfant : la personne physique qui éprouve des difficultés à exercer son droit aux relations personnelles avec un enfant.
+
+<a name="LNK0040" href="#LNKR0040">TITRE 2.</a> - Champ d'application et objectifs généraux
+
+<a name="Art.VII.2" href="#ArticleVII.1er">Art.</a> <a href="#Art.VII.3"> VII.2</a>. - Le livre VII s'applique aux partenaires :
+1° dont le siège d'activité est établi en région de langue française ;
+2° dont le siège d'activité est établi en région bilingue de Bruxelles-Capitale et qui, en raison de leur organisation, se rattachent à la Communauté française pour ce qui concerne les missions prévues au titre 4.
+
+<a name="Art.VII.3" href="#Art.VII.2">Art.</a> <a href="#LNK0041"> VII.3</a>. - Le livre VII tend à la réalisation des objectifs suivants :
+1° améliorer la qualité et l'efficience du service public rendu au justiciable ;
+2° aboutir à une répartition territoriale des offres de services en adéquation avec les besoins des justiciables ;
+3° favoriser la stabilité des emplois dans le secteur non marchand ;
+4° favoriser la constitution et la pérennisation d'une expertise interne des partenaires.
+
+<a name="LNK0041" href="#LNKR0041">TITRE 3.</a> - De la protection des données personnelles
+
+<a name="Art.VII.4" href="#Art.VII.3">Art.</a> <a href="#LNK0042"> VII.4</a>. - § 1er. Dans le cadre de l'application du livre VII, les traitements suivants de données personnelles sont réalisés :
+1° agréer des partenaires ;
+2° octroyer des subventions aux partenaires ;
+3° évaluer l'adéquation entre les offres de services des partenaires et les besoins des justiciables.
+§ 2. Les finalités du traitement visé au paragraphe 1er, 1° sont les suivantes :
+1° gérer les demandes d'agrément, les demandes de modification d'agrément et les demandes de renouvellement d'agrément introduites par les partenaires ;
+2° évaluer le respect des obligations découlant de la législation du travail en cas de retrait ou de non renouvellement de l'agrément ;
+3° contrôler l'exécution des missions par les partenaires.
+§ 3. Les finalités du traitement visé au paragraphe 1er, 2° sont les suivantes :
+1° traiter les demandes de subventionnement des partenaires ;
+2° fixer l'objectif annuel de prise en charge et le montant de la subvention ;
+3° contrôler l'utilisation de la subvention octroyée.
+§ 4. La finalité du traitement visé au paragraphe 1er, 3° vise à assurer la gestion administrative des données des partenaires.
+§ 5. Les données personnelles collectées dans le cadre des traitements visés au paragraphe 1er sont susceptibles d'être transférées au Ministre ayant les Maisons de justice dans ses attributions.
+
+<a name="LNK0042" href="#LNKR0042">TITRE 4.</a> - Des missions des partenaires
+
+<a name="LNK0043" href="#LNKR0043">CHAPITRE 1er.</a> . - Aide juridique de première ligne
+
+<a name="Art.VII.5" href="#Art.VII.4">Art.</a> <a href="#LNK0044"> VII.5</a>. - La mission d'aide juridique de première ligne s'entend comme celle définie à l'article 508/1, 1°, du Code judiciaire.
+
+<a name="LNK0044" href="#LNKR0044">CHAPITRE 2.</a> - Aide sociale
+
+<a name="Art.VII.6" href="#Art.VII.5">Art.</a> <a href="#Art.VII.7"> VII.6</a>. - La mission d'aide sociale s'entend comme toute aide de nature non financière destinée à permettre au justiciable de préserver, d'améliorer ou de restaurer ses conditions de vie, sur le plan familial, social, économique, professionnel, politique ou culturel.
+
+<a name="Art.VII.7" href="#Art.VII.6">Art.</a> <a href="#LNK0045"> VII.7</a>. - Pour mettre en oeuvre l'aide sociale visée à l'article VII.6, les partenaires exécutent au moins une des prestations suivantes :
+1° assurer le suivi du justiciable:
+a)en le soutenant pour faire face aux conséquences d'une situation infractionnelle ou potentiellement infractionnelle ;
+b)en l'informant, en l'orientant et en le soutenant dans ses relations avec la police et les instances judiciaires ;
+c)en lui facilitant l'accès aux instances et organisations spécialisées ;
+2° aider la victime ou l'auteur à sa réinsertion active dans la société :
+a)en évaluant avec la victime ou l'auteur ses besoins et ressources et en définissant des priorités afin qu'il ou elle trouve un nouvel équilibre de vie ;
+b)en collaborant avec l'auteur détenu à la mise en oeuvre de son plan de détention et de son plan de réinsertion sociale ;
+c)en aidant l'auteur détenu dans l'élaboration de propositions de solutions alternatives à la privation de liberté et dans la préparation à la mise en oeuvre de ces solutions alternatives.
+
+<a name="LNK0045" href="#LNKR0045">CHAPITRE 3.</a> - Aide psychologique
+
+<a name="Art.VII.8" href="#Art.VII.7">Art.</a> <a href="#Art.VII.9"> VII.8</a>. - La mission d'aide psychologique s'entend comme toute aide destinée à soutenir psychologiquement le justiciable afin qu'il trouve un nouvel équilibre de vie.
+
+<a name="Art.VII.9" href="#Art.VII.8">Art.</a> <a href="#LNK0046"> VII.9</a>. - Pour mettre en oeuvre l'aide psychologique visée à l'article VII.8, les partenaires exécutent au moins une des prestations suivantes :
+1° soutenir le justiciable pour faire face aux conséquences directes et indirectes d'une infraction pénale ou aux problèmes particuliers liés à sa situation spécifique ;
+2° proposer à l'auteur, au départ de son comportement préjudiciable, un soutien thérapeutique spécialisé et personnalisé visant à l'intégrer dans un processus de changement ;
+3° proposer à la victime, au départ du préjudice subi, un soutien thérapeutique spécialisé et personnalisé centré sur les conséquences directes du traumatisme et sur l'assimilation du choc.
+
+<a name="LNK0046" href="#LNKR0046">CHAPITRE 4.</a> - Aide au lien
+
+<a name="Art.VII.10" href="#Art.VII.9">Art.</a> <a href="#Art.VII.11"> VII.10</a>. - La mission d'aide au lien s'entend comme toute aide qui vise à créer, maintenir, encadrer ou restaurer la relation entre deux personnes, dont au moins une est un justiciable.
+
+<a name="Art.VII.11" href="#Art.VII.10">Art.</a> <a href="#LNK0047"> VII.11</a>. - Pour mettre en oeuvre l'aide au lien visée à l'article VII.10, les partenaires exécutent au moins une des prestations suivantes :
+1° aider le proche d'un enfant qui ne vit pas avec celui-ci à maintenir, créer ou restaurer la relation entre eux, notamment en préparant et en organisant des rencontres dans un lieu adéquat, encadrées par un tiers neutre ;
+2° promouvoir et encadrer les relations entre l'auteur détenu et l'environnement extérieur, en particulier avec ses proches.
+
+<a name="LNK0047" href="#LNKR0047">CHAPITRE 5.</a> - Aide à la communication restauratrice
+
+<a name="Art.VII.12" href="#Art.VII.11">Art.</a> <a href="#LNK0048"> VII.12</a>. - La mission d'aide à la communication restauratrice s'entend comme toute aide qui vise à organiser un espace de communication entre justiciables concernés par une infraction pénale et, si nécessaire, à mettre en place une médiation entre ces justiciables en vue d'en gérer, de manière concertée, les conséquences matérielles et émotionnelles.
+Cette mission s'exerce dans l'esprit de la justice restauratrice.
+
+<a name="LNK0048" href="#LNKR0048">CHAPITRE 6.</a> - Accompagnement à la mise en oeuvre et au suivi des décisions judiciaires
+
+<a name="Art.VII.13" href="#Art.VII.12">Art.</a> <a href="#Art.VII.14"> VII.13</a>. - La mission d'accompagnement à la mise en oeuvre et au suivi des décisions judiciaires s'entend comme toute action qui vise à mettre en place un cadre et des moyens en vue de l'exécution par l'auteur d'une peine ou d'une mesure judiciaire au sein de la communauté, en collaboration avec les services visés à l'article IV.2.
+
+<a name="Art.VII.14" href="#Art.VII.13">Art.</a> <a href="#LNK0049"> VII.14</a>. - Pour mettre en oeuvre l'accompagnement visé à l'article VII.13, les partenaires exécutent au moins une des prestations suivantes :
+1° mettre en place un programme de prise en charge psycho-socio-éducative, au départ d'un comportement préjudiciable, visant la responsabilisation de l'auteur, l'identification de situations à risque, l'élaboration d'alternatives au comportement concerné et l'acquisition de compétences sociales ;
+2° accompagner les peines de travail et les travaux d'intérêt général :
+a)en offrant à l'auteur un choix le plus large possible de lieux de prestation, au sein d'un réseau d'intermédiaires que le partenaire crée, développe et soutient en permanence, en concertation avec les autres partenaires de l'arrondissement judiciaire concernés par la mission ;
+b)en déterminant l'orientation concrète de la peine de travail ou du travail d'intérêt général, en concertation avec l'auteur et le lieu de prestation, en tenant compte notamment des informations transmises par les services visés à l'article IV.2 ;
+c)en mettant en place le cadre et les moyens nécessaires à l'auteur pour prester une peine de travail ou un travail d'intérêt général ;
+d)en soutenant l'auteur tout au long de la mise en place et de l'exécution de la peine de travail ou du travail d'intérêt général ;
+e)éventuellement, en travaillant directement et collectivement avec les auteurs prestant une peine de travail ou un travail d'intérêt général.
+
+<a name="LNK0049" href="#LNKR0049">CHAPITRE 7.</a> - Exécution des missions
+
+<a name="Art.VII.15" href="#Art.VII.14">Art.</a> <a href="#LNK0050"> VII.15</a>. - Le Gouvernement arrête l'ensemble des prestations à effectuer par le partenaire suivant le justiciable concerné ou les modalités d'exécution de chaque mission visée au présent titre.
+
+<a name="LNK0050" href="#LNKR0050">TITRE 5.</a> - De l'agrément
+
+<a name="LNK0051" href="#LNKR0051">CHAPITRE 1er.</a> . - Dispositions générales
+
+<a name="Art.VII.16" href="#Art.VII.15">Art.</a> <a href="#Art.VII.17"> VII.16</a>. - § 1er. Tout organisme qui se propose de réaliser au profit des justiciables des missions prévues au titre 4 doit, pour bénéficier des subventions prévues au titre 6 avoir été agréé par le Gouvernement.
+L'agrément précise la ou les missions pour lesquelles le partenaire est agréé. Pour chaque mission qu'il vise, l'agrément couvre l'ensemble des prestations qui la composent.
+§ 2. Par dérogation au paragraphe 1er, les Commissions d'aide juridique instituées par le Code judiciaire sont dispensées de solliciter un agrément.
+Pour bénéficier des subventions prévues par le titre 6, elles doivent néanmoins respecter les conditions prévues à l'article VII.19, à l'exception du 9°.
+
+<a name="Art.VII.17" href="#Art.VII.16">Art.</a> <a href="#Art.VII.18"> VII.17</a>. - L'agrément couvre un ou plusieurs arrondissements judiciaires.
+Pour l'application du livre VII, l'arrondissement judiciaire de Bruxelles est limité aux dix-neuf communes de l'agglomération bruxelloise.
+
+<a name="Art.VII.18" href="#Art.VII.17">Art.</a> <a href="#LNK0052"> VII.18</a>. - § 1er. Les agréments sont octroyés aux partenaires pour un sextennat fixé selon un cycle de référence d'une durée de six ans débutant à dates fixes, et ce, à partir du 1er janvier 2024.
+L'agrément est valable pour une durée de maximum six ans, renouvelable aux conditions fixées à l'article VII.35.
+§ 2. Les partenaires qui sollicitent une première demande d'agrément au cours d'un sextennat ne pourront se voir octroyer qu'une période d'agrément d'un à cinq ans maximum, prenant fin à l'échéance du sextennat en cours.
+
+<a name="LNK0052" href="#LNKR0052">CHAPITRE 2.</a> - Conditions d'agrément
+
+<a name="Art.VII.19" href="#Art.VII.18">Art.</a> <a href="#Art.VII.20"> VII.19</a>. - Pour pouvoir être agréé, l'organisme visé à l'article VII.16 doit satisfaire aux conditions cumulatives suivantes :
+1° disposer de la personnalité juridique et poursuivre un but non lucratif ;
+2° présenter un projet de mise en oeuvre de la mission pour laquelle il demande à être agréé qui soit en cohérence avec les principes et objectifs généraux visés aux articles II.2, II.3 et VII.3 ;
+3° disposer de locaux répondant aux normes de salubrité et de sécurité applicables, accessibles, adaptés à l'exécution de la mission et garantissant la neutralité du partenaire, la confidentialité des entretiens et le respect de la vie privée du justiciable ;
+4° couvrir sa responsabilité civile, celle de son personnel et de ses immeubles ;
+5° adapter les horaires de prestation aux objectifs de la mission ;
+6° garantir la gratuité de la prestation vis-à-vis du justiciable, excepté lorsqu'un paiement symbolique fait partie de l'aide psychologique qui lui est apportée ;
+7° gérer les données personnelles conformément à la législation portant sur la protection des personnes physiques à l'égard de traitements de données à caractère personnel ;
+8° disposer d'une gestion financière saine ;
+9° disposer d'un personnel ou, si nécessaire, recourir à des professionnels externes, dont la qualification de départ ou l'expérience professionnelle est en lien avec la mission, conformément aux conditions définies par le Gouvernement ;
+10° proposer une formation continue adaptée à l'exercice de la mission.
+
+<a name="Art.VII.20" href="#Art.VII.19">Art.</a> <a href="#Art.VII.21"> VII.20</a>. - § 1er. Dans le cadre de l'application de l'article VII.19, afin de gérer les demandes d'agrément, les catégories de données personnelles traitées par catégorie de personnes concernées sont les suivantes :
+1° la ou les personne(s) de contact pour l'agrément :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi ;
+2° le(s) membre(s) de l'organe de gestion ou d'administration :
+a)les données d'identification;
+b)les données relatives à la profession et à l'emploi ;
+3° le(s) membre(s) du personnel :
+a)les données d'identification;
+b)les données financières ;
+c)les données relatives aux études et à la formation ;
+d)les données relatives à la profession et à l'emploi.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VII.21" href="#Art.VII.20">Art.</a> <a href="#LNK0053"> VII.21</a>. - Le Gouvernement arrête la procédure d'agrément.
+
+<a name="LNK0053" href="#LNKR0053">CHAPITRE 3.</a> - Obligations liées à l'agrément applicables à tous les partenaires
+
+<a name="Art.VII.22" href="#Art.VII.21">Art.</a> <a href="#Art.VII.23"> VII.22</a>. - Le partenaire veille à la diffusion, auprès des justiciables concernés, d'informations relatives à l'existence et aux conditions d'accès de la mission pour laquelle il est agréé.
+Cette diffusion a lieu au minimum dans les locaux où la mission est assurée.
+
+<a name="Art.VII.23" href="#Art.VII.22">Art.</a> <a href="#Art.VII.24"> VII.23</a>. - A la demande de l'administration, le partenaire fournit à cette dernière toute information relative à l'exécution de la mission, selon les modalités arrêtées par le Gouvernement.
+
+<a name="Art.VII.24" href="#Art.VII.23">Art.</a> <a href="#Art.VII.25"> VII.24</a>. - § 1er. Dans le cadre de l'application de l'article VII.23, afin de contrôler l'exécution des missions par les partenaires, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° le ou les personne(s) responsable(s):
+a)les données d'identification et de contact ;
+2° les justiciables :
+a)les données d'identification ;
+b)les données relatives aux caractéristiques personnelles ;
+c)les données relatives à la composition du ménage ;
+d)les données relatives aux infractions, aux poursuites et aux condamnations.
+§ 2. La catégorie de données visée au paragraphe 1er, 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 3. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VII.25" href="#Art.VII.24">Art.</a> <a href="#Art.VII.26"> VII.25</a>. - Le partenaire établit annuellement, selon les modalités arrêtées par le Gouvernement, un rapport des activités menées dans le cadre de son agrément et le transmet à l'administration.
+
+<a name="Art.VII.26" href="#Art.VII.25">Art.</a> <a href="#Art.VII.27"> VII.26</a>. - § 1er. Les catégories de données personnelles traitées par le rapport des activités visé à l'article VII.25 sont, par catégorie de personnes concernées, les suivantes :
+1° le(s) membre(s) du personnel du partenaire :
+a)les données d'identification ;
+b)les données financières ;
+c)les données relatives aux études et à la formation ;
+d)les données relatives à la profession et à l'emploi ;
+2° les justiciables :
+a)les catégories de données visées à l'article VII.24 ;
+b)les catégories de données visées à l'article VII.47.
+Les données visées au 2° sont anonymisées.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VII.27" href="#Art.VII.26">Art.</a> <a href="#Art.VII.28"> VII.27</a>. - A la demande ou en coordination avec l'administration, le partenaire apporte son concours aux actions de sensibilisation des magistrats, des services de police et des intermédiaires nécessaires à l'exécution de la mission.
+
+<a name="Art.VII.28" href="#Art.VII.27">Art.</a> <a href="#LNK0054"> VII.28</a>. - Le cas échéant, le partenaire, dont au moins un représentant y est désigné, participe activement aux travaux des organes de concertation mis en place en vertu du titre 7.
+
+<a name="LNK0054" href="#LNKR0054">CHAPITRE 4.</a> - Evaluation
+
+<a name="Art.VII.29" href="#Art.VII.28">Art.</a> <a href="#Art.VII.30"> VII.29</a>. - L'administration évalue de manière continue le respect par le partenaire des conditions d'agrément prévues à l'article VII.19.
+A cet effet, le partenaire transmet, dans le respect de la déontologie liée à son activité, tout document utile à cette évaluation et donne accès à ses locaux aux agents de l'administration, moyennant avertissement préalable.
+Le Gouvernement arrête les modalités de l'évaluation visée à l'alinéa 1er.
+
+<a name="Art.VII.30" href="#Art.VII.29">Art.</a> <a href="#LNK0055"> VII.30</a>. - L'article VII.20 s'applique au présent chapitre.
+
+<a name="LNK0055" href="#LNKR0055">CHAPITRE 5.</a> - Modification d'agrément
+
+<a name="Art.VII.31" href="#Art.VII.30">Art.</a> <a href="#Art.VII.32"> VII.31</a>. - Avec l'accord du partenaire, le Gouvernement peut étendre ou restreindre le territoire et les missions sur lesquels porte l'agrément.
+Le Gouvernement arrête la procédure de modification d'agrément.
+
+<a name="Art.VII.32" href="#Art.VII.31">Art.</a> <a href="#LNK0056"> VII.32</a>. - L'article VII.20 s'applique au présent chapitre.
+
+<a name="LNK0056" href="#LNKR0056">CHAPITRE 6.</a> - Retrait d'agrément
+
+<a name="Art.VII.33" href="#Art.VII.32">Art.</a> <a href="#Art.VII.34"> VII.33</a>. - § 1er. Si l'évaluation réalisée par l'administration révèle que le partenaire ne respecte pas les principes généraux visés à l'article II.2, les dispositions du livre VII ou que sa gestion financière fait état de graves lacunes, le Gouvernement met en demeure le partenaire d'adopter les mesures nécessaires afin d'y remédier.
+Dans les deux mois de la mise en demeure, le partenaire soumet à l'approbation du Gouvernement un plan de mise en conformité visant à remédier à la situation.
+Si le Gouvernement refuse le plan proposé par le partenaire, il invite ce dernier à lui transmettre un nouveau plan dans le mois.
+En cas de deuxième refus ou si le partenaire ne transmet aucun plan de mise en conformité dans les délais, le Gouvernement impose un plan de mise en conformité.
+§ 2. Au plus tard six mois après l'approbation ou l'imposition du plan visé au paragraphe 1er, l'administration procède à l'évaluation des résultats obtenus. En fonction des résultats de cette évaluation, le Gouvernement peut soit maintenir l'agrément, soit retirer totalement ou partiellement l'agrément, soit accorder un ultime délai de maximum six mois pour se conformer aux dispositions du livre VII, ainsi qu'aux principes généraux visés à l'article II.2. Si à l'expiration de ce dernier délai, les lacunes persistent, le Gouvernement procède au retrait total ou partiel de l'agrément.
+§ 3. Le retrait de l'agrément intervient de manière à permettre à l'employeur de respecter ses obligations découlant de la législation du travail.
+A cet effet, le partenaire joint à son plan de mise en conformité les informations utiles au respect des obligations visées à l'alinéa 1er.
+Néanmoins, le partenaire prend les mesures conservatoires afin de pouvoir faire face à un retrait de l'agrément.
+
+<a name="Art.VII.34" href="#Art.VII.33">Art.</a> <a href="#LNK0057"> VII.34</a>. - L'article VII.20 s'applique au présent chapitre.
+
+<a name="LNK0057" href="#LNKR0057">CHAPITRE 7.</a> - Renouvellement d'agrément
+
+<a name="Art.VII.35" href="#Art.VII.34">Art.</a> <a href="#Art.VII.36"> VII.35</a>. - § 1er. Au plus tard un an avant l'échéance de l'agrément, le partenaire peut en demander le renouvellement.
+Le Gouvernement arrête la procédure de renouvellement d'agrément.
+§ 2. Pour obtenir le renouvellement de son agrément, le partenaire doit satisfaire aux conditions fixées à l'article VII.19.
+Toutefois, le Gouvernement peut accorder le renouvellement de l'agrément du partenaire qui ne respecterait pas l'ensemble des conditions fixées à l'article VII.19 pour autant qu'il puisse se mettre en règle dans les six mois du renouvellement de son agrément.
+A cet effet, le partenaire joint à son dossier de renouvellement un plan de mise en conformité visant à remédier à la situation dans le délai prévu à l'alinéa 2.
+§ 3. Le non-renouvellement de l'agrément intervient de manière à permettre à l'employeur de respecter ses obligations découlant de la législation du travail.
+A cet effet, le partenaire joint à sa demande de renouvellement les informations utiles au respect des obligations visées à l'alinéa 1er.
+Néanmoins, le partenaire prend les mesures conservatoires afin de pouvoir faire face à un non-renouvellement de l'agrément.
+
+<a name="Art.VII.36" href="#Art.VII.35">Art.</a> <a href="#LNK0058"> VII.36</a>. - L'article VII.20 s'applique au présent chapitre.
+
+<a name="LNK0058" href="#LNKR0058">CHAPITRE 8.</a> - Contrôle de l'agrément
+
+<a name="Art.VII.37" href="#Art.VII.36">Art.</a> <a href="#LNK0059"> VII.37</a>. - § 1er. Dans le cadre de l'application des articles VII.33 et VII.35, afin d'évaluer le respect des obligations visées à l'article VII.33, § 3, et à l'article VII.35, § 3, les catégories de données personnelles traitées par catégorie de personnes concernées sont les suivantes :
+1° la ou les personne(s) de contact pour l'agrément :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi ;
+2° le(s) membre(s) du personnel du partenaire :
+a)les données d'identification ;
+b)les données financières ;
+c)les données relatives aux études et à la formation ;
+d)les données relatives à la profession et à l'emploi.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="LNK0059" href="#LNKR0059">TITRE 6.</a> - Du subventionnement
+
+<a name="Art.VII.38" href="#Art.VII.37">Art.</a> <a href="#Art.VII.39"> VII.38</a>. - Le Gouvernement peut accorder aux partenaires des subventions, calculées conformément au présent titre, destinées à soutenir la réalisation des missions et obligations liées à leur agrément.
+Par dérogation à l'alinéa 1er, les prestations pouvant être couvertes par les subventions allouées par l'autorité fédérale en exécution de l'article 69 de la loi du 30 mars 1994 portant des dispositions sociales et de l'article 5, § 2, de la loi du 6 décembre 2005 relative à l'établissement et au financement de plans d'action en matière de sécurité routière ne peuvent faire l'objet d'un subventionnement en vertu du présent titre.
+
+<a name="Art.VII.39" href="#Art.VII.38">Art.</a> <a href="#Art.VII.40"> VII.39</a>. - § 1er. Dans le cadre de l'application de l'article VII.38, afin de traiter les demandes de subventions des partenaires, les catégories de données personnelles traitées pour la personne habilitée à représenter le partenaire sont les données suivantes :
+1° les données d'identification et de contact ;
+2° les données relatives à la profession et à l'emploi.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VII.40" href="#Art.VII.39">Art.</a> <a href="#Art.VII.41"> VII.40</a>. - Le Gouvernement fixe la subvention unitaire accordée par prise en charge pour chaque type de prestation.
+Le Gouvernement arrête les prises en charge comptabilisables pour chaque prestation.
+La subvention couvre les frais de personnel, de fonctionnement et d'investissement liés à l'exécution de la mission définie au titre 4 et au respect des obligations visées au titre 5, chapitre 3.
+
+<a name="Art.VII.41" href="#Art.VII.40">Art.</a> <a href="#Art.VII.42"> VII.41</a>. - § 1er. Dans la limite des crédits budgétaires, les subventions sont réparties par arrondissement judiciaire sur la base d'une analyse triennale des missions offertes et des besoins des justiciables, réalisée par l'administration selon les modalités fixées par le Gouvernement.
+§ 2. Par dérogation au paragraphe 1er, pour les subventions octroyées jusqu'au 31 décembre 2026, les subventions sont réparties par arrondissement judiciaire en tenant compte des rapports des activités rendus par le partenaire ainsi que de toutes les informations dont l'administration dispose en ce qui concerne les missions offertes et les besoins des justiciables dans l'arrondissement judiciaire concerné.
+
+<a name="Art.VII.42" href="#Art.VII.41">Art.</a> <a href="#Art.VII.43"> VII.42</a>. - § 1er. Au cours de chaque sextennat d'agrément, les subventions sont octroyées aux partenaires selon deux triennats de subventionnement consécutifs fixés selon un cycle de référence d'une durée de trois ans.
+§ 2. Le Gouvernement fixe un nombre annuel de prises en charge, valable pour un triennat de subventionnement. Ce nombre peut être revu chaque année de commun accord avec le partenaire.
+L'objectif triennal est obtenu en additionnant les objectifs annuels.
+§ 3. Pour les partenaires qui introduisent une demande de subvention au cours d'un triennat, le Gouvernement fixe un nombre annuel de prises en charge, valable pour un ou deux ans, suivant l'échéance du triennat de subventionnement en cours.
+En cas de subventionnement pour une période de deux ans, le nombre annuel de prises en charge peut être revu l'année suivante de commun accord avec le partenaire.
+L'objectif biennal est obtenu en additionnant les objectifs annuels.
+§ 4. Le Gouvernement arrête les critères selon lesquels le nombre annuel de prises en charge est établi.
+
+<a name="Art.VII.43" href="#Art.VII.42">Art.</a> <a href="#Art.VII.44"> VII.43</a>. - Le montant annuel de subvention accordé au partenaire pour chaque type de prestation est calculé en multipliant le montant unitaire visé à l'article VII.40 avec le nombre de prises en charge fixé conformément à l'article VII.42.
+
+<a name="Art.VII.44" href="#Art.VII.43">Art.</a> <a href="#Art.VII.45"> VII.44</a>. - La subvention annuelle est liquidée en deux tranches :
+1° une première tranche, représentant nonante pour cent de la subvention, est versée au cours du premier trimestre de l'année ;
+2° le solde est versé l'année suivante, dans les trois mois qui suivent la réception des pièces justificatives visées à l'article VII.45, § 2.
+
+<a name="Art.VII.45" href="#Art.VII.44">Art.</a> <a href="#Art.VII.46"> VII.45</a>. - § 1er. Le partenaire transmet mensuellement à l'administration les informations nécessaires à la comptabilisation des prises en charge effectuées.
+Le Gouvernement arrête la liste des informations visées à l'alinéa 1er ainsi que les modalités de leur transmission.
+§ 2. Le partenaire transmet à l'administration, pour le 31 mars au plus tard :
+1° le rapport d'activité visé à l'article VII.25, portant sur l'année précédente ;
+2° le bilan comptable de l'année précédente ;
+3° le tableau de répartition des charges par mission.
+Par dérogation à l'alinéa 1er, les partenaires organisés sous la forme d'un service communal ou provincial sont dispensés de transmettre à l'administration un bilan comptable.
+§ 3. Le partenaire est dispensé de transmettre systématiquement à l'administration les pièces prouvant ses dépenses en lien avec l'exercice de la mission pour laquelle il est agréé.
+Le partenaire conserve toutefois les pièces visées à l'alinéa 1er pendant une période de dix ans et les transmet, sur demande, à l'administration.
+
+<a name="Art.VII.46" href="#Art.VII.45">Art.</a> <a href="#Art.VII.47"> VII.46</a>. - L'administration suit de manière continue l'évolution du nombre de prises en charge réalisées.
+Le Gouvernement arrête les modalités de ce contrôle ainsi que les conditions dans lesquelles l'administration peut demander au partenaire l'adoption d'un plan d'action destiné à remédier aux difficultés constatées.
+
+<a name="Art.VII.47" href="#Art.VII.46">Art.</a> <a href="#Art.VII.48"> VII.47</a>. - § 1er. Dans le cadre de l'application des articles VII.45 et VII.46, afin de contrôler l'utilisation de la subvention, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+1° la ou les personne(s) responsable(s):
+a)les données d'identification et de contact ;
+2° les justiciables :
+a)les données d'identification;
+b)les données relatives aux caractéristiques personnelles ;
+c)les données relatives à la composition du ménage ;
+d)les données relatives aux infractions, aux poursuites et aux condamnations.
+§ 2. La catégorie de données visée au paragraphe 1er, 2°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 3. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="Art.VII.48" href="#Art.VII.47">Art.</a> <a href="#Art.VII.49"> VII.48</a>. - A la fin du triennat en cours, le Gouvernement fixe, après avoir recueilli les observations du partenaire, les nouveaux objectifs du partenaire pour le triennat suivant.
+
+<a name="Art.VII.49" href="#Art.VII.48">Art.</a> <a href="#LNK0060"> VII.49</a>. - Le Gouvernement arrête les modalités de remboursement éventuel des subventions versées, dans le respect des principes fixés à l'article 61, 5°, du décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française.
+Il peut à cet égard fixer des objectifs minimaux à atteindre pour conserver le bénéfice des subventions versées.
+
+<a name="LNK0060" href="#LNKR0060">TITRE 7.</a> - De la concertation et de la coordination
+
+<a name="LNK0061" href="#LNKR0061">CHAPITRE 1er.</a> . - Commission communautaire des Partenariats
+
+<a name="Art.VII.50" href="#Art.VII.49">Art.</a> <a href="#Art.VII.51"> VII.50</a>. - § 1er. Il est institué une Commission communautaire des Partenariats chargée de remettre au Gouvernement un avis sur tout avant-projet de décret et sur tout projet d'arrêté réglementaire portant sur les matières réglées par le livre VII.
+La Commission remet son avis dans un délai de deux mois.
+La moitié au moins de ce délai s'écoule en dehors des périodes de vacances scolaires.
+Si l'avis n'est pas rendu dans le délai visé à l'alinéa 2, il est passé outre à cette formalité.
+§ 2. La Commission peut également remettre un avis, d'initiative ou la demande du Gouvernement, sur :
+1° des questions de politique générale relatives à l'application du livre VII ;
+2° les actions de sensibilisation visées à l'article VII.27.
+Le Gouvernement précise dans sa demande le délai dans lequel il souhaite que l'avis visé à l'alinéa 1er soit rendu.
+
+<a name="Art.VII.51" href="#Art.VII.50">Art.</a> <a href="#Art.VII.52"> VII.51</a>. - La Commission communautaire des Partenariats est composée des membres suivants, ayant voix délibérative :
+1° deux représentants de l'administration, dont un assure la présidence ;
+2° deux représentants des partenaires agréés pour chaque type de mission, désignés sur proposition des partenaires agréés selon les modalités arrêtées par le Gouvernement ;
+3° un représentant de chaque organisation syndicale représentative, désigné sur proposition de celle-ci.
+Pour l'application du présent article, est considérée comme représentative l'organisation syndicale qui :
+1° exerce son activité sur le plan national ;
+2° défend les intérêts de toutes les catégories de personnel des partenaires agréés en vertu du livre VII ;
+3° est affiliée à une organisation interprofessionnelle de travailleurs représentée au Conseil national du Travail ou fait partie d'une telle organisation.
+Siège également, avec voix consultative, un représentant du Ministre ayant les Maisons de justice dans ses attributions.
+Le Gouvernement nomme les membres de la Commission communautaire des Partenariats pour une durée de six ans.
+Le Gouvernement nomme, pour chaque membre ayant voix délibérative, un membre suppléant selon la même procédure que pour les membres effectifs.
+
+<a name="Art.VII.52" href="#Art.VII.51">Art.</a> <a href="#Art.VII.53"> VII.52</a>. - La Commission communautaire des Partenariats est tenue d'élaborer un règlement d'ordre intérieur qui est soumis, ainsi que ses modifications, à l'approbation du Gouvernement.
+
+<a name="Art.VII.53" href="#Art.VII.52">Art.</a> <a href="#Art.VII.54"> VII.53</a>. - L'administration assure le secrétariat de la Commission communautaire des Partenariats.
+Le secrétaire ne prend pas part aux délibérations.
+
+<a name="Art.VII.54" href="#Art.VII.53">Art.</a> <a href="#LNK0062"> VII.54</a>. - § 1er. Afin d'assurer la gestion administrative de la Commission communautaire des Partenariats visée à l'article VII.51, les catégories de données personnelles traitées concernant les personnes désignées en application de l'article VII.51 sont les données d'identification et de contact.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="LNK0062" href="#LNKR0062">CHAPITRE 2.</a> - Commissions d'arrondissement des Partenariats
+
+<a name="Art.VII.55" href="#Art.VII.54">Art.</a> <a href="#Art.VII.56"> VII.55</a>. - Il est institué au sein de chaque arrondissement judiciaire une Commission d'arrondissement des Partenariats chargée de :
+1° récolter à la demande de l'administration les informations relatives à la mise en oeuvre et au suivi des missions prévues par le livre VII ;
+2° donner des avis à l'administration sur l'adéquation entre les offres de services prévues par le livre VII et les besoins des justiciables.
+
+<a name="Art.VII.56" href="#Art.VII.55">Art.</a> <a href="#Art.VII.57"> VII.56</a>. - Chaque Commission d'arrondissement des Partenariats est composée des membres suivants, ayant voix délibérative :
+1° un représentant de l'administration, qui assure la présidence ;
+2° le président et un représentant de chaque Commission thématique ;
+3° un représentant de la Maison de justice de l'arrondissement judiciaire concerné.
+Le Gouvernement nomme les membres des Commissions d'arrondissement des Partenariats pour une durée de six ans.
+Le Gouvernement nomme, pour chaque membre ayant voix délibérative, un membre suppléant selon la même procédure que pour les membres effectifs.
+
+<a name="Art.VII.57" href="#Art.VII.56">Art.</a> <a href="#Art.VII.58"> VII.57</a>. - Le Gouvernement arrête, après avis de la Commission communautaire des Partenariats, le règlement d'ordre intérieur des Commissions d'arrondissement des Partenariats.
+
+<a name="Art.VII.58" href="#Art.VII.57">Art.</a> <a href="#Art.VII.59"> VII.58</a>. - L'administration assure le secrétariat des Commissions d'arrondissement des Partenariats.
+Le secrétaire ne prend pas part aux délibérations.
+
+<a name="Art.VII.59" href="#Art.VII.58">Art.</a> <a href="#LNK0063"> VII.59</a>. - § 1er. Afin d'assurer la gestion administrative des commissions visées à l'article VII.55, les catégories de données personnelles traitées concernant les personnes désignées en application de l'article VII.56 sont les données d'identification et de contact.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="LNK0063" href="#LNKR0063">CHAPITRE 3.</a> - Commissions thématiques des Partenariats
+
+<a name="Art.VII.60" href="#Art.VII.59">Art.</a> <a href="#Art.VII.61"> VII.60</a>. - § 1er. Il est institué au sein de chaque arrondissement judiciaire trois Commissions thématiques des Partenariats réparties comme suit :
+1° une Commission organisée autour des thématiques centrées sur l'auteur ;
+2° une Commission organisée autour des thématiques centrées sur la victime ;
+3° une Commission organisée autour des thématiques centrées sur les justiciables non visés sous 1° et 2°.
+§ 2. Chaque Commission thématique est chargée de :
+1° récolter à la demande de la Commission d'arrondissement les informations relatives à la mise en oeuvre et au suivi des missions dans le cadre de la thématique qui lui est attribuée à l'alinéa 1er ;
+2° donner des avis à la Commission d'arrondissement sur l'adéquation entre les offres de services prévues par le livre VII et les besoins dans le cadre de la thématique qui lui est attribuée à l'alinéa 1er.
+
+<a name="Art.VII.61" href="#Art.VII.60">Art.</a> <a href="#Art.VII.62"> VII.61</a>. - Chaque Commission thématique est composée d'un représentant pour chaque type de mission, désignés sur proposition des partenaires agréés de l'arrondissement judiciaire concerné selon les modalités arrêtées par le Gouvernement.
+Le Gouvernement nomme les membres des Commissions thématiques des Partenariats pour une durée de six ans.
+Le Gouvernement nomme, pour chaque membre ayant voix délibérative, un membre suppléant selon la même procédure que pour les membres effectifs.
+La Commission thématique élit en son sein un président.
+
+<a name="Art.VII.62" href="#Art.VII.61">Art.</a> <a href="#LNK0064"> VII.62</a>. - § 1er. Afin d'assurer la gestion administrative des commissions visées à l'article VII.60, les catégories de données personnelles traitées concernant les personnes désignées en application de l'article VII.61 sont les données d'identification et de contact.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="LNK0064" href="#LNKR0064">TITRE 8.</a> - Rapport d'activités
+
+<a name="Art.VII" href="#Art.VII.62">Art.</a> <a href="#LNK0065"> VII</a>. 63. - Le Gouvernement adresse au Parlement un rapport d'activités portant sur la mise en oeuvre du livre VII tous les trois ans après l'évaluation visée à l'article X.1er, § 1er.
+
+<a name="LNK0065" href="#LNKR0065">Livre VIII.</a> - De l'accompagnement des victimes d'urgences collectives
+
+<a name="LNK0066" href="#LNKR0066">TITRE 1er.</a> . - Définitions propres au livre VIII
+
+<a name="ArticleVIII.1" href="#Art.VII">Article</a> <a href="#LNK0067"> VIII.1</a>. - Les définitions suivantes sont applicables au livre VIII :
+1° accompagnement spécifique : suivi individuel proposé aux victimes d'une urgence collective ;
+2° contexte social de la victime : toutes les personnes qui ont un lien relationnel particulier avec la victime et qui sont amenées de ce fait à être en contact avec les services du Gouvernement, les partenaires et la personne visée à l'article VIII.4, § 1er;
+3° partenaires : partenaires définis à l'article I.1er, 14° exécutant uniquement les missions d'aide sociale et d'aide psychologique visées aux articles VII.6 à VII.9 ;
+4° personne de référence : intervenant d'un service du Gouvernement ou d'un partenaire visés à l'article VIII.3 qui assure l'accompagnement spécifique des victimes d'une urgence collective ;
+5° plan de suivi : plan de suivi psychosocial, c'est-à-dire le dispositif d'intervention qui organise la prise en charge des victimes d'une urgence collective ;
+6° prise en charge des victimes : ensemble des actions structurelles et accompagnement spécifique des victimes d'une urgence collective ;
+7° services du Gouvernement : services visés à l'article IV.2, exerçant uniquement l'activité visée à l'article IV.3, § 1er, 4° ;
+8° service tiers concerné par l'urgence collective: tout service susceptible d'intervenir suite à une urgence collective, autre que les services du Gouvernement et les partenaires visés à l'article VIII.3 ;
+9° urgence collective : événement qui entraîne ou qui est susceptible d'entraîner des conséquences dommageables aux personnes et qui donne lieu à l'ouverture d'une enquête pénale. Par son ampleur ou son impact, cet évènement nécessite la mise en oeuvre de mesures spécifiques et la coordination de la prise en charge des victimes ;
+10° victime : la victime visée à l'article I.1er, 25°, a) et b), qui a subi un dommage directement causé par une situation d'urgence collective.
+
+<a name="LNK0067" href="#LNKR0067">TITRE 2.</a> - De la protection des données personnelles
+
+<a name="Art.VIII.2" href="#ArticleVIII.1">Art.</a> <a href="#LNK0068"> VIII.2</a>. - § 1er. Les services du Gouvernement, les partenaires et la personne visée à l'article VIII.4, § 1er réalisent le traitement relatif à la gestion d'une urgence collective.
+§ 2. Les finalités du traitement visé au paragraphe 1er sont les suivantes :
+1° vérifier les conditions de l'urgence collective ;
+2° identifier et authentifier les victimes en vue de leur prise en charge ;
+3° activer le plan de suivi visé à l'article VIII.5 ;
+4° désigner une personne de référence conformément à l'article VIII.8 ;
+5° accompagner les victimes dans leurs démarches.
+
+<a name="LNK0068" href="#LNKR0068">TITRE 3.</a> - De la personne de référence et de la coordination du suivi psychosocial
+
+<a name="LNK0069" href="#LNKR0069">CHAPITRE 1er.</a> . - De la personne de référence
+
+<a name="Art.VIII.3" href="#Art.VIII.2">Art.</a> <a href="#LNK0070"> VIII.3</a>. - § 1er. Une personne de référence est désignée au sein des services du Gouvernement ou des partenaires suivant la procédure décrite à l'article VIII.8.
+§ 2. Le rôle de la personne de référence est d'être le point de contact central pour le suivi des victimes. Elle offre à la victime d'une urgence collective un accompagnement spécifique.
+§ 3. Les services et partenaires visés au paragraphe 1er veillent à la formation continue des intervenants susceptibles d'assumer le rôle de personne de référence.
+
+<a name="LNK0070" href="#LNKR0070">CHAPITRE 2.</a> - De la coordination du suivi psychosocial
+
+<a name="Art.VIII.4" href="#Art.VIII.3">Art.</a> <a href="#LNK0071"> VIII.4</a>. - § 1er. Le Gouvernement désigne au sein de l'administration une personne chargée de coordonner le suivi psychosocial, d'élaborer le plan de suivi et d'identifier les collaborations à mettre en place en vue de la prise en charge des victimes.
+Le Gouvernement arrête les modalités d'approbation du plan de suivi visé à l'alinéa 1er.
+§ 2. Le Gouvernement peut instituer une instance de concertation et d'avis, réunissant différents acteurs impliqués dans la prise en charge des victimes en vue de la mise en oeuvre du plan de suivi psychosocial.
+Le Gouvernement arrête, le cas échéant, la composition de cette instance, ainsi que le règlement d'ordre intérieur et les règles de confidentialité auxquelles ses membres doivent se soumettre.
+Les catégories de données personnelles traitées concernant les membres qui composent l'instance visée à l'alinéa 1er sont les suivantes :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+§ 3. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 2, alinéa 3, et les durées de conservation de ces données.
+
+<a name="LNK0071" href="#LNKR0071">TITRE 4.</a> - Du plan de suivi psychosocial
+
+<a name="Art.VIII.5" href="#Art.VIII.4">Art.</a> <a href="#LNK0072"> VIII.5</a>. - Le plan de suivi poursuit les objectifs suivants :
+1° assurer la prise en charge des victimes identifiées ;
+2° adapter la prise en charge visée au 1° aux besoins individuels et collectifs des victimes ;
+3° coordonner les interventions des services impliqués dans la prise en charge des victimes.
+
+<a name="LNK0072" href="#LNKR0072">TITRE 5.</a> - De la procédure en cas d'urgence collective
+
+<a name="LNK0073" href="#LNKR0073">CHAPITRE 1er.</a> . - Activation du plan de suivi
+
+<a name="Art.VIII.6" href="#Art.VIII.5">Art.</a> <a href="#LNK0074"> VIII.6</a>. - § 1er. Lorsqu'un événement susceptible d'être une urgence collective survient, la personne visée à l'article VIII.4, § 1er, identifie si la prise en charge des victimes relève d'une urgence collective et, dans l'affirmative, entame un processus d'analyse de la situation, qui vise à :
+1° cibler le périmètre des interventions des services ;
+2° identifier les services concernés par l'intervention ;
+3° évaluer si une coordination de la prise en charge des victimes est nécessaire ;
+4° déterminer les éléments à communiquer aux services et les informations utiles à recueillir auprès d'eux.
+§ 2. A l'issue de l'analyse visée au paragraphe 1er, la personne visée à l'article VIII.4, § 1er, évalue l'opportunité d'activer le plan de suivi et transmet son avis au Gouvernement.
+Le Gouvernement décide d'activer le plan de suivi.
+
+<a name="LNK0074" href="#LNKR0074">CHAPITRE 2.</a> - Mise en oeuvre du plan de suivi psychosocial
+
+<a name="Art.VIII.7" href="#Art.VIII.6">Art.</a> <a href="#Art.VIII.8"> VIII.7</a>. - La personne visée à l'article VIII.4, § 1er assure la mise en oeuvre du plan de suivi en tenant compte des spécificités de l'urgence collective.
+Dans ce cadre, elle peut être amenée à donner des informations structurelles aux victimes identifiées et à collaborer avec les services du Gouvernement, les partenaires et des services tiers concernés par l'urgence collective.
+
+<a name="Art.VIII.8" href="#Art.VIII.7">Art.</a> <a href="#Art.VIII.9"> VIII.8</a>. - § 1er. Les services du Gouvernement et les partenaires visés à l'article VIII.3 peuvent être sollicités par la victime elle-même, par la personne visée à l'article VIII.4, § 1er ou par un service tiers concerné par l'urgence collective.
+§ 2. En application du paragraphe 1er, le service du Gouvernement ou le partenaire qui est sollicité en premier reçoit les coordonnées de la victime, évalue ses besoins et décide de :
+1° désigner en son sein une personne de référence si la situation de la victime le requiert ;
+2° orienter la victime vers un autre service du Gouvernement ou partenaire pour la désignation d'une personne de référence en accord avec les besoins de la victime.
+§ 3. En fonction de l'évolution des besoins de la victime, la personne de référence peut se décharger de sa mission et s'assurer de la désignation d'une nouvelle personne de référence pour permettre la continuité de l'accompagnement spécifique.
+
+<a name="Art.VIII.9" href="#Art.VIII.8">Art.</a> <a href="#ArticleVIII.1"> VIII.9</a>. - § 1er. Lors de la mise en oeuvre du plan de suivi, la personne de référence met en place l'accompagnement spécifique de la victime.
+Dans ce cadre, elle exécute les tâches suivantes :
+1° l'information de la victime au sujet de l'ensemble des démarches à réaliser et des différents types d'aide disponibles ;
+2° l'évaluation des besoins et des ressources de la victime tout au long de la prise en charge ;
+3° le soutien proactif de la victime ;
+4° l'orientation encadrée de la victime.
+§ 2. Les difficultés rencontrées dans le cadre des tâches visées au paragraphe 1er et les informations structurelles jugées pertinentes sont communiquées à la personne visée à l'article VIII.4, § 1er.
+
+<a name="ArticleVIII.1" href="#Art.VIII.9">Article</a> <a href="#LNK0075"> VIII.1</a>.- § 1er. En application de l'article VIII.7, la personne visée à l'article VIII.4, § 1er est susceptible de traiter, par catégorie de personnes concernées, les catégories de données personnelles suivantes :
+1° la victime :
+a)les données d'identification et de contact ;
+b)les données relatives aux caractéristiques personnelles ;
+c)les données relatives à la composition du ménage ;
+d)les données relatives à la profession et à l'emploi ;
+e)les données de santé ;
+2° les personnes qui font partie du contexte social de la victime :
+a)les données d'identification et de contact ;
+3° les services tiers concernés par l'urgence collective:
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+Les données visées à l'alinéa 1er sont susceptibles d'être transférées aux services du Gouvernement et aux partenaires visés à l'article VIII.3, ainsi qu'à des services tiers concernés par l'urgence collective. Le transfert des données personnelles visées à l'alinéa 1er, 1°, e), n'est envisageable que pour autant que la personne concernée ait consenti au traitement de ces données au sens de l'article 9.2.a du RGPD.
+Le Gouvernement détermine les modalités du transfert visé à l'alinéa 2.
+§ 2. Dans le cadre de l'application des articles VIII.8 et VIII.9, les services du Gouvernement et les partenaires sont susceptibles de traiter par catégorie de personnes concernées, les catégories de données personnelles suivantes:
+1° la victime :
+a)les données d'identification et de contact ;
+b)les données financières ;
+c)les données relatives aux caractéristiques personnelles ;
+d)les données relatives à la composition du ménage ;
+e)les données relatives à la profession et à l'emploi ;
+f)les données de santé ;
+2° le contexte social de la victime :
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi ;
+3° les services tiers concernés par l'urgence collective:
+a)les données d'identification et de contact ;
+b)les données relatives à la profession et à l'emploi.
+Les données personnelles visées à l'alinéa 1er, 1°, c), ne peuvent être traitées que moyennant l'accord exprès de la victime et ne peuvent en aucun cas être utilisées à l'encontre de la victime dans le cadre d'une procédure qui implique la prise d'une décision coercitive à son égard.
+§ 3. Les catégories de données visées aux paragraphes 1er, alinéa 1er, 1°, a) et c), et 2, 1°, a) et d), comprennent le numéro de registre national et les données personnelles associées. Ces données sont traitées par chaque responsable de traitement pour les finalités visées à l'article VIII.2, § 2, 2° et 5°.
+La catégorie de données visée aux paragraphes 1er, 1°, a), et 2, 1°, a), comprend la donnée genre. Cette donnée est traitée par le responsable de traitement à des fins statistiques.
+§ 4. Les services du Gouvernement et partenaires visés à l'article VIII. 8 ont accès aux catégories de données relatives aux infractions, aux poursuites et aux condamnations.
+L'accès visé à l'alinéa 1er par les services du Gouvernement se fonde sur l'article 3bis du Titre préliminaire du Code de procédure pénale.
+Les partenaires ne peuvent traiter les données personnelles visées à l'alinéa 1er que si elles ont été directement collectées auprès de la victime et avec son consentement.
+§ 5. Les données visées au paragraphe 2, alinéa 1er, 1°, sont susceptibles d'être communiquées aux services tiers concernés par l'urgence collective.
+§ 6. Les données visées au paragraphe 2, alinéa 1er sont susceptibles d'être échangées et transférées entre les services du Gouvernement, les partenaires et la personne visée à l'article VIII.4, § 1er, notamment dans le cadre des collaborations visées à l'article III.5.
+Le Gouvernement détermine les modalités du transfert visé à l'alinéa 1er.
+§ 7. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au 1er alinéa des paragraphes 1er et 2, ainsi que les durées de conservation de ces données.
+
+<a name="LNK0075" href="#LNKR0075">CHAPITRE 3.</a> - Clôture du plan de suivi psychosocial
+
+<a name="Art.VIII.11" href="#ArticleVIII.1">Art.</a> <a href="#LNK0076"> VIII.11</a>. - § 1er. La personne visée à l'article VIII.4, § 1er, propose au Gouvernement la clôture du plan de suivi, lorsque les critères suivants sont réunis :
+1° toutes les victimes qui le souhaitent disposent d'une personne de référence ;
+2° les collaborations en vue de la prise en charge des victimes ont été établies ;
+3° la coordination de la prise en charge des victimes n'est plus nécessaire.
+Le Gouvernement décide de clôturer le plan de suivi.
+§ 2. Sur proposition de la personne visée à l'article VIII.4, § 1er, le Gouvernement peut décider de réactiver le plan de suivi lorsqu'un des critères visés au paragraphe 1er n'est plus rencontré.
+
+<a name="LNK0076" href="#LNKR0076">CHAPITRE 4.</a> - Evaluation du plan de suivi psychosocial
+
+<a name="Art.VIII.12" href="#Art.VIII.11">Art.</a> <a href="#LNK0077"> VIII.12</a>. - § 1er. La mise en oeuvre du plan de suivi est évaluée tout au long de la prise en charge des victimes d'urgence collective et fait l'objet des adaptations nécessaires.
+§ 2. Après clôture du plan de suivi, une évaluation finale portant sur la mise en oeuvre du plan de suivi est réalisée sous la forme d'un rapport.
+§ 3. Le Gouvernement désigne au sein de ses services les personnes chargées d'exécuter les tâches visées aux paragraphes 1er et 2.
+Le Gouvernement arrête également les modalités de rédaction et les destinataires du rapport visé au paragraphe 2.
+
+<a name="LNK0077" href="#LNKR0077">TITRE 6.</a> - Dispositions budgétaires et financières
+
+<a name="Art.VIII.13" href="#Art.VIII.12">Art.</a> <a href="#Art.VIII.14"> VIII.13</a>.- Un montant de [<sup>1</sup> 280.000]<sup>1</sup> euros, destiné à couvrir les actions prévues au titre 5 en cas d'urgence collective, est inscrit annuellement au budget général des dépenses.
+----------
+(<font color="red">1</font>)&lt;DCFR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121708" target="_blank">2025-12-17/08</a>, art. 65, 002; En vigueur : 01-01-2026&gt;
+
+<a name="Art.VIII.14" href="#Art.VIII.13">Art.</a> <a href="#Art.VIII.15"> VIII.14</a>. - § 1er. En cas de survenance d'une urgence collective, le Gouvernement peut octroyer notamment une subvention aux partenaires visés à l'article VIII.8.
+§ 2. Le Gouvernement arrête les conditions d'octroi et de justification des subventions visées au paragraphe 1er.
+Les conditions visées à l'alinéa 1er portent notamment sur le caractère territorial, l'ampleur ou l'impact de l'urgence collective et les besoins spécifiques rencontrés par les victimes.
+La subvention visée au paragraphe 1er permet de couvrir des dépenses liées à la prise en charge de victimes d'urgence collective en cas de survenance de celle-ci, telles que notamment :
+1° des frais de personnel ;
+2° des frais de location de locaux ;
+3° des frais de déplacement ;
+4° des frais de développement de moyens de communication spécifiques.
+
+<a name="Art.VIII.15" href="#Art.VIII.14">Art.</a> <a href="#LNK0078"> VIII.15</a>. - La formation spécifique des intervenants visés à l'article VIII.3, paragraphe 3, est organisée en amont d'une urgence collective potentielle.
+Dans les limites des crédits budgétaires, le Gouvernement octroie les subventions visant à organiser les modules de formation visés à l'alinéa 1er.
+
+<a name="LNK0078" href="#LNKR0078">Livre IX.</a> - De la commission d'avis de la justice communautaire
+
+<a name="ArticleIX.1" href="#Art.VIII.15">Article</a> <a href="#Art.IX.2"> IX.1</a>. § 1er. - Il est institué une Commission d'avis de la justice communautaire.
+La Commission d'avis remet, à la demande du Gouvernement, un avis sur tout avant-projet de décret et sur tout projet d'arrêté réglementaire portant sur les matières réglées par le Code, à l'exception de celles réglées par le livre VII. La Commission d'avis remet son avis dans un délai de deux mois.
+En cas d'urgence dûment motivée justifiant la remise d'un avis dans un délai inférieur, le Gouvernement précise dans sa demande le délai dans lequel il souhaite que l'avis visé à l'alinéa 2 soit rendu.
+Si l'avis n'est pas rendu ou si la Commission d'avis n'est pas en mesure de se réunir endéans le délai visé à l'alinéa 3, la formalité prévue à l'alinéa 2 est réputée accomplie.
+§ 2. La Commission d'avis se compose des membres suivants :
+1° le fonctionnaire dirigeant de l'administration ou son représentant ;
+2° un procureur général désigné par le Collège des procureurs généraux ou son représentant ;
+3° un magistrat du siège désigné par le Collège des Cours et tribunaux ou son représentant ;
+4° un membre du ministère public désigné par le Conseil des procureurs du Roi ou son représentant ;
+5° le président de l'ordre des barreaux francophone et germanophone ou son représentant ;
+6° un représentant de la Commission communautaire des Partenariats ;
+7° un représentant d'une association qui promeut les Droits Humains ;
+8° quatre personnes licenciées ou titulaires d'un master en droit, en criminologie, en psychologie, en sociologie, en philosophie, pouvant attester d'une expérience professionnelle en lien avec les matières du Code, présentées par l'Académie de Recherche et d'Enseignement supérieur, sur base d'un appel à candidature diffusé auprès de tous les établissements d'enseignement supérieur.
+Les membres de la Commission d'avis visés à l'alinéa 1er, 2° à 8°, assistent aux réunions avec voix délibérative.
+La Commission d'avis peut entendre et inviter à ses travaux, d'initiative ou à leur demande, toute personne physique ou morale susceptible de l'éclairer dans l'exercice de ses missions.
+Siège en qualité d'invité permanent, un représentant du Ministre ayant les Maisons de justice dans ses attributions.
+Les membres de la Commission d'avis visés à l'alinéa 1er, 2°, 3° et 4°, doivent relever du rôle linguistique francophone.
+§ 3. Le Gouvernement nomme les membres de la Commission d'avis pour une durée de six ans.
+Le Gouvernement nomme, pour chaque membre ayant voix délibérative, un membre suppléant selon la même procédure que pour les membres effectifs.
+§ 4. Les membres de la Commission d'avis, à l'exception des membres visés au paragraphe 2, 1°, bénéficient, pour leur participation aux réunions, d'indemnités ainsi que du remboursement des frais de parcours.
+Les indemnités sont versées sur base de la liste des présences établie à la fin de chaque réunion.
+Le Gouvernement fixe le montant des indemnités et frais de parcours visés à l'alinéa 1er.
+§ 5. L'administration assure le secrétariat de la Commission d'avis.
+§ 6. Le Gouvernement arrête les règles de fonctionnement et les modalités de désignation de membres de la Commission d'avis.
+
+<a name="Art.IX.2" href="#ArticleIX.1">Art.</a> <a href="#LNK0079"> IX.2</a>. § 1er. - Afin d'assurer la gestion administrative de la Commission d'avis visée à l'article IX.1er, les catégories de données personnelles traitées concernant les membres visés à l'article IX.1er, § 2, sont les suivantes :
+1° les données d'identification et de contact ;
+2° les données financières ;
+3° les données relatives à la profession et à l'emploi.
+§ 2. Le Gouvernement précise la liste des données personnelles reprises dans les catégories visées au paragraphe 1er et les durées de conservation de ces données.
+
+<a name="LNK0079" href="#LNKR0079">Livre X.</a> - De l'évaluation
+
+<a name="AricleX" href="#Art.IX.2">Aricle</a> X.1er. - § 1er Une évaluation de la mise en oeuvre du Code, présentée sous la forme d'un rapport au Gouvernement transmis au Parlement, sera réalisée au plus tard pour le 1er janvier 2029.
+Par dérogation à l'alinéa 1er, pour le livre VIII, une évaluation sera réalisée après le dépôt du rapport visé à l'article VIII.12, § 2, et à la suite de la clôture du plan de suivi activé lors de la première situation d'urgence collective rencontrée.
+§ 2. Tous les deux ans, l'administration évalue, en se basant sur des données probantes, l'efficience d'une ou de plusieurs politiques menées en matière de justice communautaire.
+Le Gouvernement arrête le contenu et les modalités de cette évaluation.
