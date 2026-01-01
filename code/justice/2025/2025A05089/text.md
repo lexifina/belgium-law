@@ -1,0 +1,257 @@
+<a name="LNK0001" href="#LNKR0001">Titre 1er.</a> Les sûretés personnelles
+
+<a name="LNK0002" href="#LNKR0002">Chapitre 1er.</a> Règles communes
+
+<a name="Art.9.1.1">Art. </a> <a href="#Art.9.1.2"> 9.1.1</a>. Droit supplétif
+Les parties peuvent déroger aux dispositions du présent titre, sauf s'il s'agit de définitions ou si la loi en dispose autrement.
+
+<a name="Art.9.1.2" href="#Art.9.1.1">Art.</a> <a href="#Art.9.1.3"> 9.1.2</a>. Définitions
+Pour l'application du présent titre, on entend par:
+1° "sûreté personnelle": l'obligation d'un tiers de garantir à un créancier le paiement d'une obligation du débiteur principal à l'égard du créancier;
+2° "sûreté personnelle accessoire" ou "cautionnement": une sûreté personnelle qui dépend de la validité, des modalités, de l'étendue et du maintien de l'existence de l'obligation garantie;
+3° "sûreté personnelle autonome" ou "garantie autonome": une sûreté personnelle qui, en vertu de ses termes, ne dépend pas de la validité, des modalités, de l'étendue et du maintien de l'existence de l'obligation garantie;
+4° "débiteur principal": la personne qui est tenue à l'obligation garantie envers le créancier;
+5° "solidarité à titre de sûreté": le fait d'être lié à l'égard d'un créancier comme codébiteur solidaire pour autant que la dette ne concerne pas ce codébiteur au sens de l'article 5.164, § 1er, alinéa 3;
+6° "sûreté pour toutes créances": une sûreté personnelle quant à laquelle il est convenu qu'elle garantit les obligations actuelles et futures du débiteur principal envers le créancier ou qui a une portée équivalente;
+7° "obligation principale" ou "obligation garantie": l'obligation qui est garantie par une sûreté personnelle;
+8° "cautionnement réel": une sûreté réelle constituée pour la dette d'autrui;
+9° "lettre de patronage": une manifestation de volonté, contraignante ou non, d'un tiers quant au fait que le débiteur principal exécutera son obligation.
+
+<a name="Art.9.1.3" href="#Art.9.1.2">Art.</a> <a href="#Art.9.1.4"> 9.1.3</a>. Champ d'application
+Le présent chapitre s'applique à toutes les formes de sûreté personnelle, et en particulier à la sûreté personnelle accessoire (cautionnement) et à la sûreté personnelle autonome (garantie autonome).
+
+<a name="Art.9.1.4" href="#Art.9.1.3">Art.</a> <a href="#Art.9.1.5"> 9.1.4</a>. Naissance
+Une sûreté personnelle peut résulter d'un contrat, d'une manifestation unilatérale de volonté ou de la loi.
+Une sûreté personnelle peut porter sur toute obligation principale.
+On peut constituer une sûreté personnelle sans ordre du débiteur principal, et même à son insu.
+On peut constituer une sûreté personnelle non seulement pour le débiteur principal, mais encore pour celui qui a constitué une sûreté personnelle pour lui.
+
+<a name="Art.9.1.5" href="#Art.9.1.4">Art.</a> <a href="#Art.9.1.6"> 9.1.5</a>. Ayants droit du constituant de la sûreté
+Les obligations du constituant d'une sûreté personnelle se transmettent à ses héritiers et autres ayants droit universels ou à titre universel.
+
+<a name="Art.9.1.6" href="#Art.9.1.5">Art.</a> <a href="#Art.9.1.7"> 9.1.6</a>. Manifestation de volonté certaine
+La constitution d'une sûreté personnelle ne se présume pas; la volonté doit être certaine et ne peut être étendue au-delà des limites dans lesquelles elle a été consentie.
+
+<a name="Art.9.1.7" href="#Art.9.1.6">Art.</a> <a href="#Art.9.1.8"> 9.1.7</a>. Interprétation
+En cas de doute sur sa portée, la constitution d'une sûreté personnelle s'interprète en faveur du constituant de la sûreté.
+
+<a name="Art.9.1.8" href="#Art.9.1.7">Art.</a> <a href="#Art.9.1.9"> 9.1.8</a>. Solidarité à titre de sûreté et porte-fort d'exécution
+Nonobstant toute clause contraire, la solidarité à titre de sûreté est soumise au chapitre 1er du présent titre et aux articles 5.160 à 5.165.
+Nonobstant toute clause contraire, le porte-fort d'exécution est soumis au chapitre 1er du présent titre et à l'article 5.106.
+
+<a name="Art.9.1.9" href="#Art.9.1.8">Art.</a> <a href="#Art.9.1.10"> 9.1.9</a>. Solvabilité et capacité du constituant de la sûreté
+Le débiteur principal obligé, en vertu de la loi, d'une décision judiciaire ou d'une convention, de fournir une sûreté personnelle doit proposer un constituant de sûreté qui ait la capacité de contracter et qui soit suffisamment solvable pour pouvoir exécuter l'obligation.
+
+<a name="Art.9.1.10" href="#Art.9.1.9">Art.</a> <a href="#LNK0003"> 9.1.10</a>. Insolvabilité du constituant de la sûreté
+Lorsque le constituant de la sûreté, accepté par le créancier ou désigné pour lui en justice, est ensuite devenu insolvable, le débiteur principal doit fournir une autre sûreté personnelle.
+Cette règle ne reçoit exception que dans le cas où la sûreté a été fournie en vertu d'un contrat par lequel le créancier a exigé une personne déterminée comme constituant de la sûreté.
+
+<a name="LNK0003" href="#LNKR0003">Chapitre 2.</a> La sûreté personnelle accessoire (cautionnement)
+
+<a name="LNK0004" href="#LNKR0004">Section 1re.</a> La nature et l'étendue du cautionnement
+
+<a name="Art.9.1.11" href="#Art.9.1.10">Art.</a> <a href="#Art.9.1.12"> 9.1.11</a>. Présomption de cautionnement
+Une sûreté personnelle est présumée être un cautionnement, à moins que le créancier n'établisse qu'il en a été convenu autrement.
+
+<a name="Art.9.1.12" href="#Art.9.1.11">Art.</a> <a href="#Art.9.1.13"> 9.1.12</a>. Caractère accessoire
+La validité, les modalités, l'étendue et le maintien de l'existence de l'obligation de la caution dépendent de la validité, des modalités, de l'étendue et du maintien de l'existence de l'obligation principale.
+
+<a name="Art.9.1.13" href="#Art.9.1.12">Art.</a> <a href="#Art.9.1.14"> 9.1.13</a>. Etendue de l'obligation garantie
+L'obligation de la caution n'excède pas l'obligation garantie.
+Le cautionnement qui excède l'obligation principale ou qui est constitué sous des conditions plus onéreuses n'est pas nul; il est réduit à la mesure de l'obligation principale.
+Le cautionnement peut être constitué pour une partie de l'obligation garantie seulement, et sous des conditions moins onéreuses.
+Un contrat entre le créancier et le débiteur principal qui augmente l'étendue des obligations garanties, en alourdit les modalités ou en anticipe l'exigibilité et qui a été conclu après la naissance du cautionnement n'affecte pas l'obligation de la caution, sauf en cas de cautionnement pour toutes créances.
+
+<a name="Art.9.1.14" href="#Art.9.1.13">Art.</a> <a href="#Art.9.1.15"> 9.1.14</a>. Exceptions
+La caution peut opposer au créancier toutes les exceptions inhérentes à l'obligation garantie en ce qui concerne l'existence, la validité, le caractère contraignant, les modalités ou le maintien de l'existence de l'obligation garantie.
+La caution ne peut pas opposer les exceptions personnelles telles que l'incapacité ou l'absence de pouvoir du débiteur principal, personne physique ou morale, ou l'inexistence du débiteur-personne morale, si elle en avait connaissance au moment où le cautionnement a été constitué.
+La caution ne peut pas davantage se prévaloir d'une remise judiciaire dans le cadre d'une procédure d'insolvabilité ou d'un délai de grâce conformément à l'article 5.201.
+
+<a name="Art.9.1.15" href="#Art.9.1.14">Art.</a> <a href="#Art.9.1.16"> 9.1.15</a>. Autorité de la chose jugée
+La caution peut invoquer l'autorité de la chose jugée de décisions judiciaires rendues entre le créancier et le débiteur principal.
+
+<a name="Art.9.1.16" href="#Art.9.1.15">Art.</a> <a href="#Art.9.1.17"> 9.1.16</a>. Obligations futures - Cautionnement pour toutes créances
+Un cautionnement peut être constitué pour des obligations futures, pour autant, nonobstant toute clause contraire, qu'elles soient suffisamment déterminables.
+Nonobstant toute clause contraire, un cautionnement pour toutes créances doit indiquer le montant maximal des obligations de la caution. S'il n'est pas fixé de montant maximal, le cautionnement est limité aux obligations qui existaient lorsque le cautionnement a été constitué.
+
+<a name="Art.9.1.17" href="#Art.9.1.16">Art.</a> <a href="#Art.9.1.18"> 9.1.17</a>. Interprétation du cautionnement pour toutes créances
+Nonobstant toute clause contraire, un cautionnement pour toutes créances ne couvre que les obligations qui étaient raisonnablement prévisibles lors de sa constitution.
+Un tel cautionnement couvre uniquement des obligations qui sont nées des contrats conclus entre le débiteur principal et le créancier.
+Le cautionnement ne s'étend pas aux dettes des ayants droit du débiteur principal ou, dans le cas d'une personne morale, de la personne qui a été absorbée par le débiteur principal. Le cautionnement ne s'étend pas non plus aux dettes transmises au débiteur principal à l'occasion de la cession ou de l'apport d'une branche d'activité.
+Le cautionnement ne s'étend pas aux créances d'un auteur du créancier qui sont nées avant la transmission des droits à ce créancier et qui, à ce moment, n'étaient pas couvertes par le cautionnement.
+
+<a name="Art.9.1.18" href="#Art.9.1.17">Art.</a> <a href="#Art.9.1.19"> 9.1.18</a>. Ayants droit de la caution
+Les héritiers et autres ayants droit universels ou à titre universel de la caution ne répondent que des obligations qui existent au moment de la transmission.
+Si la caution est une personne physique, toute clause contraire est réputée non écrite en cas de décès de celle-ci.
+
+<a name="Art.9.1.19" href="#Art.9.1.18">Art.</a> <a href="#Art.9.1.20"> 9.1.19</a>. Résiliation du cautionnement à durée indéterminée
+Le cautionnement peut être constitué pour une durée déterminée ou indéterminée.
+Si le cautionnement a été constitué pour une durée indéterminée, chaque partie peut y mettre fin moyennant un délai de préavis raisonnable, nonobstant toute clause contraire. Ce délai de préavis est de quarante-cinq jours, à moins qu'un délai plus court n'ait été convenu.
+Lorsqu'il est ainsi mis fin au cautionnement, la caution reste tenue des dettes qui naissent avant le moment de l'expiration du délai de préavis, même si elles ne sont pas encore exigibles, sauf si l'obligation de la caution est limitée contractuellement.
+
+<a name="Art.9.1.20" href="#Art.9.1.19">Art.</a> <a href="#Art.9.1.21"> 9.1.20</a>. Etendue de la couverture
+§ 1er. Si l'étendue du cautionnement est indéterminée, le cautionnement s'étend à l'obligation garantie en principal et aux accessoires, comme les intérêts et les dommages-intérêts ou le montant d'une clause indemnitaire en cas d'inexécution par le débiteur principal.
+Les frais de poursuite judiciaires et extrajudiciaires sont également couverts si la caution a eu la possibilité d'éviter ces frais, en étant avertie à temps de l'intention d'engager les poursuites.
+Si l'obligation principale porte sur une autre prestation que le paiement d'une somme d'argent, le cautionnement vaut également pour la demande des dommages-intérêts dus en raison de l'inexécution de cette obligation, sauf clause contraire en faveur de la caution.
+§ 2. Si un montant maximal a été déterminé pour l'obligation de la caution, le cautionnement couvre les créances visées au paragraphe 1er dans les limites de ce montant maximal.
+
+<a name="Art.9.1.21" href="#Art.9.1.20">Art.</a> <a href="#LNK0005"> 9.1.21</a>. Pluralité de cautions
+Si plusieurs cautions ont garanti la même obligation, chaque caution est tenue solidairement avec les autres cautions dans les limites de son obligation envers le créancier. Cette règle s'applique également lorsque ces cautions ont contracté leurs obligations de sûreté indépendamment les unes des autres.
+Les effets secondaires de la solidarité prévus à l'article 5.163 ne s'appliquent pas aux cautions qui ont pris leurs engagements indépendamment les unes des autres.
+L'alinéa 1er s'applique par analogie au cautionnement réel.
+
+<a name="LNK0005" href="#LNKR0005">Section 2.</a> Les effets du cautionnement entre le créancier et la caution
+
+<a name="Art.9.1.22" href="#Art.9.1.21">Art.</a> <a href="#Art.9.1.23"> 9.1.22</a>. Nature subsidiaire - Mise en demeure
+La caution n'est pas tenue à l'exécution avant que le débiteur principal soit en demeure.
+Le créancier qui met en demeure le débiteur principal est tenu d'en faire la notification en même temps à la caution.
+
+<a name="Art.9.1.23" href="#Art.9.1.22">Art.</a> <a href="#Art.9.1.24"> 9.1.23</a>. Bénéfice de discussion
+Avant de demander l'exécution à la caution, le créancier doit tenter de manière appropriée de l'obtenir du débiteur principal, sauf si la caution s'est obligée solidairement.
+Le créancier n'est pas tenu à cette obligation préalable dans la mesure où il est manifestement impossible ou excessivement difficile d'obtenir le paiement du débiteur principal. Cette exception s'applique en particulier lorsque le débiteur principal fait l'objet d'une faillite, d'une réorganisation judiciaire ou d'un règlement collectif de dettes, sauf si une sûreté réelle a été constituée par le débiteur pour la même obligation.
+
+<a name="Art.9.1.24" href="#Art.9.1.23">Art.</a> <a href="#LNK0006"> 9.1.24</a>. Devoir d'information
+Nonobstant toute clause contraire, le créancier est tenu, à la demande de la caution, de l'informer sans délai du montant de l'obligation garantie.
+
+<a name="LNK0006" href="#LNKR0006">Section 3.</a> Les effets du cautionnement entre le débiteur principal et la caution et entre les cautions
+
+<a name="Art.9.1.25" href="#Art.9.1.24">Art.</a> <a href="#Art.9.1.26"> 9.1.25</a>. Droit de recours de la caution
+La caution peut demander au débiteur principal le remboursement du montant qu'elle a payé au créancier. En garantie de ce recours, la caution est, dans les limites de ce qu'elle a payé, subrogée dans les droits du créancier envers le débiteur principal, et ce, nonobstant toute clause contraire.
+En cas de paiement partiel, les droits partiels restants du créancier envers le débiteur principal ont priorité sur les droits dans lesquels la caution est subrogée.
+En vertu de la subrogation visée à l'alinéa 1er, les accessoires, en ce compris les droits de sûreté personnelle et réelle, sont transmis de plein droit à la caution, nonobstant toute clause contraire ou exclusion de la cessibilité. Les droits envers d'autres constituants de sûreté ne peuvent être exercés que dans les limites de l'article 9.1.26.
+Si le débiteur principal n'est pas tenu envers le créancier pour cause d'incapacité ou absence de pouvoir ou de l'inexistence ou de la méconnaissance de l'objet social de la personne morale débitrice, la caution peut néanmoins réclamer remboursement au débiteur principal à concurrence de l'enrichissement de ce dernier. Cette règle s'applique également si le débiteur principal n'est pas valablement constitué en personne morale.
+
+<a name="Art.9.1.26" href="#Art.9.1.25">Art.</a> <a href="#Art.9.1.27"> 9.1.26</a>. Pluralité de cautions: recours mutuel
+Dans les cas visés à l'article 9.1.21, les constituants de sûretés personnelles ou les constituants de sûretés réelles ont un recours les uns contre les autres proportionnellement à la part de chacun.
+La part de chaque constituant de sûreté est définie par le rapport du risque maximal convenu par ce constituant et de la somme des risques maximaux convenus par tous les constituants. Le moment déterminant est celui de la constitution de la dernière sûreté.
+En cas de sûreté personnelle, le risque maximal est déterminé par le montant maximal convenu de la sûreté. S'il n'a pas été convenu de montant maximal, le montant de l'obligation garantie est pris en compte.
+En cas de sûreté réelle, le risque maximal est déterminé par le montant maximal convenu de la sûreté. S'il n'a pas été convenu de montant maximal, la valeur des biens grevés d'une sûreté est prise en compte.
+Les règles qui précèdent ne s'appliquent pas aux sûretés réelles constituées par le débiteur principal ni aux constituants de sûretés sur lesquelles le créancier n'aurait pas pu exercer de prétention au moment où il a été payé.
+
+<a name="Art.9.1.27" href="#Art.9.1.26">Art.</a> <a href="#Art.9.1.28"> 9.1.27</a>. Pluralité de cautions: recours contre le débiteur principal
+Nonobstant toute clause contraire, chaque caution qui a satisfait à un recours d'un autre constituant de sûreté peut demander au débiteur principal le remboursement du montant qu'elle a payé à l'autre constituant de sûreté. En garantie de ce recours, la caution est, dans les limites de ce qu'elle a payé, subrogée dans les droits que l'autre constituant de sûreté a acquis à l'encontre du débiteur principal.
+
+<a name="Art.9.1.28" href="#Art.9.1.27">Art.</a> <a href="#Art.9.1.29"> 9.1.28</a>. Obligations de la caution avant le paiement
+Avant de payer le créancier, la caution doit notifier au débiteur principal son intention d'y procéder et s'informer auprès de celui-ci de l'encours de l'obligation garantie et de ses exceptions ou demandes reconventionnelles.
+Si la caution paye sans s'informer ou si elle omet d'opposer une exception qui lui a été communiquée par le débiteur principal ou qui lui est connue par d'autres sources, elle est responsable envers le débiteur principal du préjudice qui en a résulté.
+Nonobstant toute clause contraire, les droits de la caution envers le créancier n'en sont pas affectés.
+
+<a name="Art.9.1.29" href="#Art.9.1.28">Art.</a> <a href="#LNK0007"> 9.1.29</a>. Droit de recours anticipé
+La caution peut, même avant d'avoir payé, agir contre le débiteur principal pour être par lui indemnisée:
+1° lorsqu'elle est poursuivie en justice pour le paiement;
+2° lorsque le débiteur principal fait l'objet d'une procédure d'insolvabilité ou est en déconfiture;
+3° lorsque le débiteur principal s'est obligé de lui rapporter sa décharge dans un certain délai;
+4° lorsque l'obligation principale est devenue exigible par l'échéance du terme sous lequel elle avait été contractée;
+5° au bout de dix années, lorsque l'obligation principale n'a pas de terme fixe d'échéance, à moins que l'obligation principale ne soit pas de nature à pouvoir être éteinte avant un temps déterminé.
+
+<a name="LNK0007" href="#LNKR0007">Section 4.</a> L'extinction du cautionnement
+
+<a name="Art.9.1.30" href="#Art.9.1.29">Art.</a> <a href="#Art.9.1.31"> 9.1.30</a>. Causes d'extinction autonomes
+L'obligation qui résulte du cautionnement s'éteint par les mêmes causes que les autres obligations.
+Lorsque le cautionnement est affecté d'un terme extinctif pour agir contre la caution, la caution est libérée à l'échéance du délai si le créancier n'a pas fait de notification à cet effet dans ce délai.
+
+<a name="Art.9.1.31" href="#Art.9.1.30">Art.</a> <a href="#Art.9.1.32"> 9.1.31</a>. Confusion
+La confusion qui s'opère dans la personne du débiteur principal et de sa caution, par exemple lorsque l'un devient l'héritier de l'autre, n'éteint pas l'action du créancier contre celui qui s'est constitué caution de la caution.
+
+<a name="Art.9.1.32" href="#Art.9.1.31">Art.</a> <a href="#Art.9.1.33"> 9.1.32</a>. Subrogation empêchée
+Nonobstant toute clause contraire, la caution est déchargée dans la mesure où elle ne peut plus être subrogée dans les droits ou hypothèques, gages et privilèges utiles du créancier par la faute de celui-ci. A cet égard, le moment auquel ces droits sont nés n'importe pas.
+
+<a name="Art.9.1.33" href="#Art.9.1.32">Art.</a> <a href="#Art.9.1.34"> 9.1.33</a>. Dation en paiement
+En cas de dation en paiement, la caution est déchargée, encore que le créancier vienne à être évincé du bien reçu.
+
+<a name="Art.9.1.34" href="#Art.9.1.33">Art.</a> <a href="#LNK0008"> 9.1.34</a>. Prorogation de terme
+La simple prorogation de terme, accordée par le créancier au débiteur principal, ne décharge pas la caution. Cette dernière peut, en ce cas, poursuivre le débiteur principal pour le forcer au paiement.
+
+<a name="LNK0008" href="#LNKR0008">Chapitre 3.</a> La sûreté personnelle autonome
+
+<a name="Art.9.1.35" href="#Art.9.1.34">Art.</a> <a href="#Art.9.1.36"> 9.1.35</a>. Champ d'application
+La validité, les modalités, l'étendue et le maintien de l'existence de la garantie autonome ne dépendent pas de la validité, des modalités, de l'étendue et du maintien de l'existence de l'obligation garantie.
+La nature autonome d'une sûreté n'est pas affectée par une référence purement générale à une obligation garantie, y compris une sûreté personnelle.
+Le présent chapitre s'applique également à la lettre de crédit documentaire.
+
+<a name="Art.9.1.36" href="#Art.9.1.35">Art.</a> <a href="#Art.9.1.37"> 9.1.36</a>. Obligations du constituant de la garantie autonome lors de l'appel à la garantie autonome
+Le constituant d'une garantie autonome n'est tenu de payer que si la demande de paiement est conforme aux modalités fixées dans la garantie autonome. Le constituant de la garantie autonome ne peut tenir compte que de la demande de paiement pour déterminer si tel est le cas.
+Après réception de la demande de paiement, le constituant d'une garantie autonome doit sans délai en informer la partie qui lui a donné instruction d'émettre la garantie et préciser si la demande est conforme ou non.
+Le constituant de la garantie autonome peut opposer au bénéficiaire toutes les exceptions qu'il tire de sa relation avec ce dernier.
+Le constituant de la garantie autonome ne peut pas opposer d'exceptions relatives à l'obligation garantie ou tirées de sa relation avec la partie qui lui a donné instruction d'émettre la garantie ou avec celui dont les obligations sont garanties.
+Le constituant de la garantie autonome doit, sans délai et au plus tard dans les sept jours ouvrables après réception d'une demande écrite de paiement, s'exécuter conformément à la demande ou informer le bénéficiaire de son refus et des raisons de celui-ci.
+Le constituant de la garantie autonome est responsable du dommage causé par l'inexécution des obligations prévues au présent article.
+
+<a name="Art.9.1.37" href="#Art.9.1.36">Art.</a> <a href="#Art.9.1.38"> 9.1.37</a>. Demande manifestement abusive ou frauduleuse
+Le constituant de la garantie autonome refuse une demande de paiement s'il lui apparaît immédiatement que cette demande est manifestement abusive ou frauduleuse.
+Dans un tel cas, la partie qui a donné instruction d'émettre la garantie autonome ou dont les obligations sont garanties peut interdire l'exécution par le constituant de la garantie ou interdire une demande d'exécution par le bénéficiaire de la garantie.
+
+<a name="Art.9.1.38" href="#Art.9.1.37">Art.</a> <a href="#Art.9.1.39"> 9.1.38</a>. Droit de récupération du constituant de la garantie autonome
+Le constituant de la garantie autonome a le droit de récupérer auprès du bénéficiaire ce qui a été reçu par celui-ci si la demande de paiement ne répondait pas aux conditions de la garantie autonome.
+
+<a name="Art.9.1.39" href="#Art.9.1.38">Art.</a> <a href="#Art.9.1.40"> 9.1.39</a>. Délai
+Si un délai a, directement ou indirectement, été fixé, l'obligation du constituant de la garantie autonome prend fin à l'expiration de ce délai.
+Toute demande de paiement doit, pour être valable, parvenir au constituant de la garantie autonome avant l'expiration du délai.
+Si aucun délai n'a été fixé, la garantie autonome peut être résiliée moyennant un délai de préavis raisonnable.
+
+<a name="Art.9.1.40" href="#Art.9.1.39">Art.</a> <a href="#Art.9.1.41"> 9.1.40</a>. Cession
+La cession de l'obligation garantie n'a pas pour conséquence la cession de la garantie autonome.
+Une garantie autonome ne peut pas être cédée à un autre bénéficiaire.
+Après l'appel de la garantie autonome, la créance en paiement peut être cédée ou donnée en gage.
+
+<a name="Art.9.1.41" href="#Art.9.1.40">Art.</a> <a href="#LNK0009"> 9.1.41</a>. Droits du constituant de la garantie autonome après exécution
+Le constituant de la garantie autonome peut réclamer à la partie qui lui a donné instruction d'émettre la garantie autonome le remboursement de toutes les sommes qu'il a payées conformément à l'article 9.1.36, alinéa 1er. En garantie de ce recours, le constituant de la garantie autonome est, dans les limites de ce qu'il a payé, subrogé dans les droits du créancier envers le débiteur.
+
+<a name="LNK0009" href="#LNKR0009">Chapitre 4.</a> La sûreté personnelle constituée par un consommateur
+
+<a name="Art.9.1.42" href="#Art.9.1.41">Art.</a> <a href="#Art.9.1.43"> 9.1.42</a>. Champ d'application
+Le présent chapitre s'applique lorsqu'une sûreté personnelle est constituée par un consommateur.
+Aux fins du présent chapitre, un consommateur doit être entendu au sens de l'article I.1, 2°, du Code de droit économique. Si le débiteur principal est une personne morale, le présent chapitre ne s'applique pas au constituant de la sûreté lorsque celui-ci peut influencer substantiellement la prise de décision de cette personne morale.
+Le présent chapitre ne s'applique pas si le créancier agit en dehors de son activité professionnelle, à l'exception des articles 9.1.46, alinéas 1er, 2 et 5, 9.1.47 et 9.1.50.
+
+<a name="Art.9.1.43" href="#Art.9.1.42">Art.</a> <a href="#Art.9.1.44"> 9.1.43</a>. Règles applicables
+Sauf disposition contraire dans le présent chapitre, les règles des chapitres 1er et 2 s'appliquent aux sûretés personnelles comprises dans le champ d'application du présent chapitre.
+Un consommateur ne peut pas accorder une autre sûreté personnelle qu'un cautionnement. Si un consommateur consent une garantie autonome, un porte-fort d'exécution, une lettre de patronage contraignante ou une solidarité à titre de sûreté, celui-ci est converti de plein droit en un cautionnement.
+Il ne peut être dérogé, en défaveur du constituant de la sûreté, aux règles du présent chapitre, ni aux articles 9.1.12, 9.1.13, alinéas 1er et 4, 9.1.14, alinéas 1er et 2, 9.1.15, 9.1.21, 9.1.22, 9.1.29 et 9.1.32.
+Il incombe au créancier de prouver que le constituant de la sûreté n'est, au moment de la constitution de la sûreté, pas un consommateur au sens de l'article 9.1.42.
+Après avis de la Commission consultative spéciale Clauses abusives visée aux articles VI.86 et VI.87 du Code de droit économique, le Roi peut déterminer les mentions qui doivent figurer dans le contrat, ainsi que les informations relatives à l'obligation principale qui est l'objet du cautionnement.
+
+<a name="Art.9.1.44" href="#Art.9.1.43">Art.</a> <a href="#Art.9.1.45"> 9.1.44</a>. Devoir d'information précontractuel du créancier
+Avant qu'une sûreté soit constituée, le créancier doit fournir au constituant pressenti les informations visées à l'article 5.16 et en particulier l'informer de l'étendue de la créance garantie, de l'effet général de la sûreté envisagée et des risques particuliers auxquels le constituant peut être exposé selon les informations accessibles au créancier, à la lumière de la situation financière du débiteur principal.
+La violation de l'obligation d'information est sanctionnée conformément à l'article 5.17.
+La preuve du respect de cette obligation d'information est à la charge du créancier.
+
+<a name="Art.9.1.45" href="#Art.9.1.44">Art.</a> <a href="#Art.9.1.46"> 9.1.45</a>. Conditions de forme
+A peine de nullité, la constitution de la sûreté doit faire l'objet d'un écrit distinct du contrat principal, établissant le consentement du constituant de la sûreté.
+
+<a name="Art.9.1.46" href="#Art.9.1.45">Art.</a> <a href="#Art.9.1.47"> 9.1.46</a>. Couverture
+La sûreté personnelle consentie pour créances futures est limitée aux créances découlant d'un contrat existant au moment de l'engagement du constituant de la sûreté et spécialement désigné dans la constitution de sûreté.
+Le contrat dont les créances sont garanties ne peut être un contrat-cadre visé à l'article 5.9. Le contrat dont les créances sont garanties peut être un contrat d'application, déjà existant au moment de la constitution de la sûreté, d'un contrat-cadre.
+La sûreté personnelle est consentie à concurrence d'un montant maximal, qui doit être précisé dans le contrat de sûreté.
+L'obligation de la caution couvre le cautionnement dans les limites de ce montant maximal pour les créances visées à l'article 9.1.20, § 2.
+Les accessoires auxquels est tenu le constituant de la sûreté personnelle ne peuvent pas être supérieurs à 50 % du principal au moment où le créancier fait appel à la caution.
+
+<a name="Art.9.1.47" href="#Art.9.1.46">Art.</a> <a href="#Art.9.1.48"> 9.1.47</a>. Disproportion manifeste
+Une sûreté personnelle doit être proportionnée au patrimoine et aux revenus du constituant de la sûreté.
+En cas de disproportion manifeste au moment où l'obligation est contractée, l'obligation du constituant de la sûreté est réduite au montant qu'il peut acquitter au moment de la constitution de la sûreté personnelle.
+La charge de la preuve de la disproportion manifeste incombe au constituant de la sûreté personnelle.
+
+<a name="Art.9.1.48" href="#Art.9.1.47">Art.</a> <a href="#Art.9.1.49"> 9.1.48</a>. Obligation du créancier de fournir une information annuelle
+Le créancier doit informer annuellement le constituant de la sûreté sur l'obligation garantie en principal, les intérêts et les autres obligations accessoires dus par le débiteur principal au jour de l'information.
+Le créancier est responsable du dommage causé par l'inexécution ou l'exécution tardive de ce devoir d'information.
+
+<a name="Art.9.1.49" href="#Art.9.1.48">Art.</a> <a href="#Art.9.1.50"> 9.1.49</a>. Devoir d'information en cas d'inexécution
+Le créancier doit informer sans délai injustifié le constituant de la sûreté de l'inexécution par le débiteur principal et d'un report d'exigibilité. La notification doit contenir des informations relatives au montant de l'obligation garantie en principal, aux intérêts et aux autres obligations accessoires dus par le débiteur principal au jour de la notification. Une notification supplémentaire d'un nouveau retard d'exécution n'est pas requise avant que trois mois se soient écoulés depuis la notification précédente. La notification n'est pas requise si l'inexécution concerne exclusivement des obligations accessoires du débiteur principal, sauf si le montant total de toutes les obligations garanties inexécutées a atteint cinq pour cent de l'encours de l'obligation garantie.
+Le créancier est responsable du dommage causé par l'inexécution ou l'exécution tardive de la notification visée dans le présent article.
+
+<a name="Art.9.1.50" href="#Art.9.1.49">Art.</a> <a href="#LNK0010"> 9.1.50</a>. Héritiers
+Les obligations des héritiers du constituant d'une sûreté personnelle sont limitées à la part d'héritage revenant à chacun d'entre eux.
+
+<a name="LNK0010" href="#LNKR0010">Chapitre 5.</a> Le cautionnement légal et le cautionnement judiciaire
+
+<a name="Art.9.1.51" href="#Art.9.1.50">Art.</a> <a href="#Art.9.1.52"> 9.1.51</a>. Conditions
+Lorsqu'une personne est obligée, par la loi ou par une décision judiciaire, de fournir une caution, la caution offerte doit remplir les conditions visées aux articles 9.1.9 et 9.1.10.
+
+<a name="Art.9.1.52" href="#Art.9.1.51">Art.</a> <a href="#Art.9.1.53"> 9.1.52</a>. Sûreté alternative
+Celui qui ne peut pas trouver une caution est reçu à donner à sa place une sûreté réelle avec une assiette suffisante.
+
+<a name="Art.9.1.53" href="#Art.9.1.52">Art.</a> <a href="#Art.9.1.54"> 9.1.53</a>. Bénéfice de discussion
+L'article 9.1.23 ne s'applique pas à la caution judiciaire.
+
+<a name="Art.9.1.54" href="#Art.9.1.53">Art.</a> 9.1.54. Sous-caution
+Celui qui a simplement cautionné la caution judiciaire ne peut demander la discussion du débiteur principal ni de la caution.".
