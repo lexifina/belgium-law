@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Dans l'article 50, § 5, de l'arrêté royal du 19 décembre 1967 portant règlement général en exécution de l'arrêté royal n°38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, inséré par l'arrêté royal du 1er septembre 2016, les mots " pour le trimestre qui suit le trimestre au cours duquel elles ont accouché " sont remplacés par les mots " pour les deux trimestres qui suivent le trimestre au cours duquel elles ont accouché ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans l'article 56quater, § 1er, 3°, de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants, inséré par l'arrêté royal du 30 mai 2024, le b) est remplacé par ce qui suit :
+" b) les trimestres qui suivent celui au cours duquel les travailleuses indépendantes ont accouché et pour lesquelles aucune cotisation est due en application de l'article 50, § 5, de l'arrêté royal du 19 décembre 1967 portant règlement général en exécution de l'arrêté royal n°38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants; ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Le présent arrêté entre en vigueur le 1er janvier 2026 et s'applique aux accouchements qui surviennent à partir du 1er janvier 2026.
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. Le ministre qui a les Affaires sociales dans ses attributions, le ministre qui a les Pensions dans ses attributions, et le ministre qui a les Indépendants dans ses attributions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
