@@ -1,0 +1,6 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 2ter, § 1er, de l'arrêté royal du 15 février 1999 fixant la liste des programmes de soins, visée à l'article 12 de la loi coordonnée le 10 juillet 2008 sur les hôpitaux et autres établissements de soins, et indiquant les articles de la loi coordonnée le 10 juillet 2008 relative aux hôpitaux et autres établissements de soins applicables à ceux-ci, inséré par l'arrêté royal du 21 mars 2003 et modifié par les arrêtés royaux du 2 avril 2014 et du 15 décembre 2013, le 3° bis est remplacé comme suit :
+" 3° bis le programme de soins oncologiques affilié pour le cancer du sein, axé sur les procédures diagnostiques, la radiothérapie, les traitements systémiques néo-adjuvants et adjuvants et le suivi d'affections malignes du sein, tel que défini dans le plan de soins individuel établi pour le patient dans le programme coordinateur de soins oncologiques spécialisé pour le cancer du sein ; ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le présent arrêté entre en vigueur le 1er janvier 2026.
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. Le ministre qui a la Santé publique dans ses attributions est chargé de l'exécution du présent arrêté.
