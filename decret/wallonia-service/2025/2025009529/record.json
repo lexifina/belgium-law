@@ -1,0 +1,30 @@
+{
+  "id": "2025009529",
+  "title": "11 DECEMBRE 2025. - Décret modifiant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs",
+  "source_title": "11 DECEMBRE 2025. - Décret modifiant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs",
+  "act": "decret/wallonia-service/2025/2025009529",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-12-16&numac_search=2025009529&page=1&lg_txt=F&caller=list&2025009529=16&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "d65def5f870aafddc1b4497ad9ed5f8d10699d342bcdf70ac741a1d22c3db6fb",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-12-11",
+  "published": "2025-12-16",
+  "in_force": "2026-01-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 janvier 2026; own clause: Art. 3. Le présent décret entre en vigueur le 1er janvier 2026.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "16 décembre 2025",
+    "Numéro": "2025009529",
+    "page": "94043",
+    "Dossier numéro": "2025-12-11/01",
+    "Entrée en vigueur": "1 janvier 2026",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 564,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-01-01"
+}
