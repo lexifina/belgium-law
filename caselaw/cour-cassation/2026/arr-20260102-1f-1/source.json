@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260102.1F.1",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260102.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-02",
+  "date_as_printed": "Jugement/arrêt du 02 janvier 2026",
+  "published_on_juportal": "2026-01-12",
+  "language": "fr",
+  "role_number": "F.23.0028.F",
+  "case_name_as_published": "F. contra COMMUNE DE SAINT-GILLES",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - PROCEDURE",
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - RECHTSPLEGING",
+    "PREUVE - MATIERE FISCALE - Généralités",
+    "BEWIJS - BELASTINGZAKEN - Algemeen"
+  ],
+  "fiche": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - PROCEDURE",
+    "Ordonnance du Conseil de la région de Bruxelles-Capitale du 3 avril 2014 relative à l'établissement, au recouvrement et au contentieux en matière de taxes communales - 03-04-2014 - Art. 9, § 1er, al. 1er et 2 - 20 Lien ELI No pub 2014031322",
+    "PREUVE - MATIERE FISCALE - Généralités",
+    "Ordonnance du Conseil de la région de Bruxelles-Capitale du 3 avril 2014 relative à l'établissement, au recouvrement et au contentieux en matière de taxes communales - 03-04-2014 - Art. 9, § 1er, al. 1er et 2 - 20 Lien ELI No pub 2014031322",
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - PROCEDURE",
+    "L. du 12 novembre 1997 relative à la publicité de l'administration dans les provinces et les communes - 12-11-1997 - Art. 3, 4° - 36 Lien ELI No pub 1997000893"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260102.1F.1",
+  "source_sha256": "4b5dc780a3ad1a9c6b7ae6d02f54717beebc2bb367ed5ae41b805298a4f43828",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260102.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
