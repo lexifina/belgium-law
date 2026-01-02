@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. A l'article 1er du règlement technique de l'Agence fédérale de Contrôle nucléaire du 2 juin 2022 déterminant les modalités de transmission de certaines données de l'inventaire des établissements de classe I, II et III à l'Agence fédérale de Contrôle nucléaire, il est inséré un point 5°, rédigé comme suit :
+" 5° numéro PHI: le numéro unique associé à un appareil, qui est créé par le générateur de numéro prévu à cet effet sur le site web de l'AFCN et qui se compose des lettres " PHI " (Physical Inventory) suivies d'un numéro séquentiel unique de neuf chiffres. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 3.1, point 6° du même règlement est remplacé comme suit :
+" 6° le numéro unique, physiquement et durablement visible apposé par l'exploitant sur l'appareil ou l'accélérateur. Pour l'appareillage médical lourd, ce numéro doit être le MID-ID. Pour les autres appareils capables d'émettre des rayons X et accélérateurs, si les données de l'inventaire physique sont transmises pour la première fois à l'Agence fédérale de contrôle nucléaire à partir du 1er janvier 2026, ce numéro doit être le numéro PHI. ".
+
+<a name="Art.3" href="#Art.2">Art.</a> 3. L'article 3.4, point 8° du même règlement est remplacé comme suit :
+" 8° le numéro unique, physiquement et durablement visible apposé par l'exploitant sur l'appareil. Pour l'appareillage médical lourd, ce numéro doit être le MID-ID. Pour les autres appareils, si les données de l'inventaire physique sont transmises pour la première fois à l'Agence fédérale de Contrôle nucléaire à partir du 1erjanvier 2026, ce numéro doit être le numéro PHI. ".
