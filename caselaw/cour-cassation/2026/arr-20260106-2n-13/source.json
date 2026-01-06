@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260106.2N.13",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260106.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-06",
+  "date_as_printed": "Vonnis/arrest van 06 januari 2026",
+  "published_on_juportal": "2026-01-09",
+  "language": "nl",
+  "role_number": "P.25.1511.N",
+  "case_name_as_published": "V.C.D. nv",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "ROULAGE - LOI RELATIVE A LA POLICE DE LA CIRCULATION ROUTIERE - DISPOSITIONS LEGALES - Article 67 - Article 67ter",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 67 - Artikel 67ter"
+  ],
+  "fiche": [
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 67 - Artikel 67ter",
+    "Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 67ter, vierde lid - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260106.2N.13",
+  "source_sha256": "e1aa3f7d4267377674a4f211836743ff270f49c0a92a104911bd9b6548a826b5",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260106.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
