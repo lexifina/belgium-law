@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260107.2F.3",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260107.2F.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-07",
+  "date_as_printed": "Jugement/arrêt du 07 janvier 2026",
+  "published_on_juportal": "2026-01-09",
+  "language": "fr",
+  "role_number": "P.25.0646.F",
+  "case_name_as_published": "L.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)"
+  ],
+  "fiche": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260107.2F.3",
+  "source_sha256": "19a90e366fc3131d9fe9353587a1a44f522e3504165a031df342580922330e74",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260107.2F.3_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_4.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
