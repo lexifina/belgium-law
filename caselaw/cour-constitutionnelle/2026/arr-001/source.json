@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.001",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.001",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-08",
+  "date_as_printed": "Jugement/arrêt du 08 janvier 2026",
+  "published_on_juportal": "2026-01-19",
+  "language": "fr",
+  "role_number": "1/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation partielle du décret de la Région wallonne du 10 janvier 2024 « modifiant le Code wallon de l'Action sociale et de la Santé concernant la santé mentale et ses services actifs en Wallonie », introduit par l'ASBL « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » et autres. Santé - Région wallonne - Institutions de soins de santé mentale - Dossier individuel du bénéficiaire - Données de santé - Règles répartitrices de compétences - Accès aux données - Protection des données personnelles",
+    "het beroep tot gedeeltelijke vernietiging van het decreet van het Waalse Gewest van 10 januari 2024 « tot wijziging van het Waals Wetboek van Sociale Actie en Gezondheid betreffende de geestelijke gezondheid en de actieve diensten ervan in Wallonië », ingesteld door de vzw « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » en anderen. Gezondheid - Waals Gewest - Instellingen voor geestelijke gezondheidszorg - Individueel dossier van de begunstigde - Gezondheidsgegevens - Bevoegdheidverdelende regels - Toegang tot de gegevens - Bescherming van persoonsgegevens"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation partielle du décret de la Région wallonne du 10 janvier 2024 « modifiant le Code wallon de l'Action sociale et de la Santé concernant la santé mentale et ses services actifs en Wallonie », introduit par l'ASBL « Association Professionnelle des Psychologues cliniciens de la Parole et du Langage » et autres. Santé - Région wallonne - Institutions de soins de santé mentale - Dossier individuel du bénéficiaire - Données de santé - Règles répartitrices de compétences - Accès aux données - Protection des données personnelles"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.001&lang=fr",
+  "source_sha256": "1642887fbcbc5e6fb06f9f1c25c9348ff49bc16765197be928522ed2c186a608",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.001_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_83.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
