@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.006",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.006",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-08",
+  "date_as_printed": "Jugement/arrêt du 08 janvier 2026",
+  "published_on_juportal": "2026-01-19",
+  "language": "fr",
+  "role_number": "6/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle concernant l'article 4.2.1.1.1 du décret de la Région flamande du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, posée par le Tribunal de première instance de Flandre orientale, division de Gand. Environnement - Région flamande - Taxes d'environnement - Pollution des eaux - Champ d'application ratione personae - Exonération générale pour l'État belge",
+    "de prejudiciële vraag over artikel 4.2.1.1.1 van het decreet van het Vlaamse Gewest van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, gesteld door de Rechtbank van eerste aanleg Oost-Vlaanderen, afdeling Gent. Leefmilieu - Vlaams Gewest - Milieuheffingen - Waterverontreiniging - Toepassingsgebied ratione personae - Algemene vrijstelling voor de Belgische Staat"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle concernant l'article 4.2.1.1.1 du décret de la Région flamande du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, posée par le Tribunal de première instance de Flandre orientale, division de Gand. Environnement - Région flamande - Taxes d'environnement - Pollution des eaux - Champ d'application ratione personae - Exonération générale pour l'État belge"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.006&lang=fr",
+  "source_sha256": "dfeee62415f9cdc383b61d4623d817d1116b2f95e7db0cbb448e447701f97731",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.006_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_78.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
