@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.004",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.004",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-08",
+  "date_as_printed": "Jugement/arrêt du 08 janvier 2026",
+  "published_on_juportal": "2026-01-19",
+  "language": "fr",
+  "role_number": "4/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 22 de la loi du 3 mai 2024 « relati[ve] à l'indemnisation des victimes d'un acte de terrorisme et relati[ve] à l'assurance contre les dommages causés par le terrorisme », introduit par l'AISBL « V-Europe » et autres. Droit des assurances - Indemnisation des victimes d'un acte de terrorisme - Régime d'indemnisation en cascade - Absence d'un fonds public d'indemnisation unique",
+    "het beroep tot vernietiging van artikel 22 van de wet van 3 mei 2024 « betreffende de schadeloosstelling van slachtoffers van een daad van terrorisme en betreffende de verzekering tegen schade veroorzaakt door terrorisme », ingesteld door de ivzw « V-Europe » en anderen. Verzekeringsrecht - Schadeloosstelling van slachtoffers van een daad van terrorisme - Cascaderegeling van schadeloosstelling - Ontstentenis van een uniek openbaar schadeloosstellingsfonds"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 22 de la loi du 3 mai 2024 « relati[ve] à l'indemnisation des victimes d'un acte de terrorisme et relati[ve] à l'assurance contre les dommages causés par le terrorisme », introduit par l'AISBL « V-Europe » et autres. Droit des assurances - Indemnisation des victimes d'un acte de terrorisme - Régime d'indemnisation en cascade - Absence d'un fonds public d'indemnisation unique"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.004&lang=fr",
+  "source_sha256": "cf4ae4e41748422acd0412f8cb436a7c33a259c176ac21102ea554adb5220e72",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.004_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_79.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
