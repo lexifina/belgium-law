@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260108.1N.9",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260108.1N.9",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-08",
+  "date_as_printed": "Vonnis/arrest van 08 januari 2026",
+  "published_on_juportal": "2026-01-22",
+  "language": "nl",
+  "role_number": "C.24.0313.N",
+  "case_name_as_published": "M. contra BALOISE BELGIUM nv",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCE AUTOMOBILE OBLIGATOIRE",
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Wet 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen - 21-11-1989 - Art. 29bis, § 1, eerste en zesde lid - 30 ELI link Pub nr 1989011371",
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Wet 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen - 21-11-1989 - Art. 29bis, § 1, eerste en zesde lid - 30 ELI link Pub nr 1989011371",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Wet 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen - 21-11-1989 - Art. 29bis, § 1, eerste en zesde lid - 30 ELI link Pub nr 1989011371"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260108.1N.9",
+  "source_sha256": "1f1aff163758d799e42c0af098336468ca6e43d1189eca20084ff036c5cf761b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260108.1N.9_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
