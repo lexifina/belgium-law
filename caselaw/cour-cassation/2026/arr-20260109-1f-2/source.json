@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260109.1F.2",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260109.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-09",
+  "date_as_printed": "Jugement/arrêt du 09 janvier 2026",
+  "published_on_juportal": "2026-01-22",
+  "language": "fr",
+  "role_number": "C.24.0363.F",
+  "case_name_as_published": "ETAT BELGE FINANCES contra D.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "SAISIE - SAISIE-EXECUTION",
+    "BESLAG - GEDWONGEN TENUITVOERLEGGING"
+  ],
+  "fiche": [
+    "SAISIE - SAISIE-EXECUTION"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260109.1F.2",
+  "source_sha256": "b58ea129487bb5c6b1a8842c6b892be7053ca242df77c6c389895f934f677d28",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260109.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/22/sitemap_9.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
