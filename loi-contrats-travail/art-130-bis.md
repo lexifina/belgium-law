@@ -1,1 +1,1 @@
-Le Roi détermine les conditions et les modalités selon lesquelles des mineurs (de quinze ans ou plus et qui ne sont plus soumis à l'obligation scolaire à temps plein) peuvent conclure des contrats d'occupation d'étudiants.
+Le Roi détermine les conditions et les modalités selon lesquelles des mineurs (de quinze ans ou plus et ...) peuvent conclure des contrats d'occupation d'étudiants.
