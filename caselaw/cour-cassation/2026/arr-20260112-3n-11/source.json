@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260112.3N.11",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260112.3N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-12",
+  "date_as_printed": "Vonnis/arrest van 12 januari 2026",
+  "published_on_juportal": "2026-01-28",
+  "language": "nl",
+  "role_number": "S.25.0018.N",
+  "case_name_as_published": "BELGISCHE STAAT VEILIGHEID EN BINNENL ZAKEN c V.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "CASSATION - ETENDUE - Matière civile",
+    "CASSATIE - VERNIETIGING. OMVANG - Burgerlijke zaken",
+    "RENVOI APRES CASSATION - MATIERE CIVILE",
+    "VERWIJZING NA CASSATIE - BURGERLIJKE ZAKEN",
+    "ACCIDENT DU TRAVAIL - SECTEUR PUBLIC. REGLES PARTICULIERES",
+    "ARBEIDSONGEVAL - OVERHEIDSPERSONEEL. BIJZONDERE REGELS"
+  ],
+  "fiche": [
+    "CASSATIE - VERNIETIGING. OMVANG - Burgerlijke zaken",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1110, vierde lid - 04 ELI link Pub nr 1967101055",
+    "VERWIJZING NA CASSATIE - BURGERLIJKE ZAKEN",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1110, vierde lid - 04 ELI link Pub nr 1967101055",
+    "ARBEIDSONGEVAL - OVERHEIDSPERSONEEL. BIJZONDERE REGELS",
+    "Wet van 3 juli 1967 betreffende (de preventie van of) de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector - 03-07-1967 - Art. 6, § 2 - 01 ELI link Pub nr 1967070305"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260112.3N.11",
+  "source_sha256": "2c7cd0b5ca7a24372344cb52eb2aa6a3cb6d5703ec7f7e5c4139bf27e96d1c80",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260112.3N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_28.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
