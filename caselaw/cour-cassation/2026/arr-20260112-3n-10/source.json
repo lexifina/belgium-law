@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260112.3N.10",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260112.3N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-12",
+  "date_as_printed": "Vonnis/arrest van 12 januari 2026",
+  "published_on_juportal": "2026-01-28",
+  "language": "nl",
+  "role_number": "C.24.0492.N",
+  "case_name_as_published": "CARLINO nv contra BELGISCHE STAAT WERK ECONOMIE",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "CASSATION - ETENDUE - Matière civile",
+    "CASSATIE - VERNIETIGING. OMVANG - Burgerlijke zaken",
+    "RENVOI APRES CASSATION - MATIERE CIVILE",
+    "VERWIJZING NA CASSATIE - BURGERLIJKE ZAKEN",
+    "CALAMITES NATURELLES",
+    "NATUURRAMP"
+  ],
+  "fiche": [
+    "CASSATIE - VERNIETIGING. OMVANG - Burgerlijke zaken",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1110, eerste lid - 04 ELI link Pub nr 1967101055",
+    "VERWIJZING NA CASSATIE - BURGERLIJKE ZAKEN",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1110, eerste lid - 04 ELI link Pub nr 1967101055",
+    "NATUURRAMP",
+    "Wet 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen - 12-07-1976 - Art. 2, § 1, 2° - 30 ELI link Pub nr 1976071205"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260112.3N.10",
+  "source_sha256": "d07f0ac13ccf030aef6e8e672a0c9ec9f825962042bc61a15b47919e6ea77cc6",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260112.3N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
