@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260113.2N.13",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260113.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-16",
+  "language": "nl",
+  "role_number": "P.25.1386.N",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - (MISE EN) LIBERTE SOUS CONDITIONS",
+    "VOORLOPIGE HECHTENIS - INVRIJHEIDSTELLING ONDER VOORWAARDEN",
+    "DETENTION PREVENTIVE - POURVOI EN CASSATION",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Divers",
+    "CASSATIEBEROEP - STRAFZAKEN - Allerlei"
+  ],
+  "fiche": [
+    "VOORLOPIGE HECHTENIS - INVRIJHEIDSTELLING ONDER VOORWAARDEN",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, § 3, tweede lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 36, § 1, vierde en vijfde lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 37, eerste lid - 35 ELI link Pub nr 1990099963",
+    "VOORLOPIGE HECHTENIS - CASSATIEBEROEP",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, § 3, tweede lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 36, § 1, vierde en vijfde lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 37, eerste lid - 35 ELI link Pub nr 1990099963",
+    "CASSATIEBEROEP - STRAFZAKEN - Allerlei",
+    "Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 31, § 3, tweede lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 36, § 1, vierde en vijfde lid - 35 ELI link Pub nr 1990099963 Wet van 20 juli 1990 betreffende de voorlopige hechtenis - 20-07-1990 - Art. 37, eerste lid - 35 ELI link Pub nr 1990099963"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260113.2N.13",
+  "source_sha256": "ada7de219320f425d11ae743c93232a5da50c408ff7422c52c7d713a92303a93",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260113.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
