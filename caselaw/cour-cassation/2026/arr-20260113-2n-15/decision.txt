@@ -1,0 +1,44 @@
+Nr. P.25.1352.N
+R. P.,
+beklaagde,
+eiseres,
+met als raadsman mr. Stijn Catrysse, advocaat bij de balie West-Vlaanderen.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het vonnis in hoger beroep van de correctionele rechtbank West-Vlaanderen, afdeling Brugge, van 12 september 2025.
+De eiseres voert in een memorie die aan dit arrest is gehecht, een middel aan.
+Raadsheer Peter Hoet heeft verslag uitgebracht.
+Advocaat-generaal Dirk Schoeters heeft geconcludeerd.
+II.	BESLISSING VAN HET HOF
+Beoordeling
+Middel
+1.	Het middel voert schending aan van artikel 149 Grondwet, artikel 59, § 3, Wegverkeerswet, artikel 26 van het koninklijk besluit van 21 april 2007 betreffende de ademtesttoestellen en de ademanalysetoestellen (hierna KB Ademtest- en ademanalysetoestellen) en de artikelen 3.6 en 4.3.3 van de bijlage 2, technische specificaties van de ademanalysetoestellen bij dit besluit: het bestreden vonnis oordeelt met betrekking tot de telastlegging C ten onrechte dat de alcoholmeting correct werd uitgevoerd; zowel bij toepassing van de nauwkeurigheidsvoorschriften voor analysatoren in gebruik als bij toepassing van de nauwkeurigheidsvoorschriften voor nieuwe of herstelde analysatoren levert de derde ademanalyse een resultaat op dat buiten de door artikel 59, § 3, Wegverkeerswet vereiste nauwkeurigheid valt, zodat de ademanalyse als niet uitgevoerd moet worden beschouwd; er werd geen bloedproef uitgevoerd.
+2.	Artikel 59, § 3, Wegverkeerswet bepaalt: “Op verzoek van de in § 1, 1° en 2°, bedoelde personen aan wie een ademanalyse werd opgelegd, wordt onmiddellijk een tweede analyse uitgevoerd en, indien het verschil tussen deze twee resultaten meer bedraagt dan de door de Koning bepaalde nauwkeurigheidsvoorschriften, een derde analyse. Indien het eventuele verschil tussen twee van deze resultaten niet meer bedraagt dan de hierboven bepaalde nauwkeurigheidsvoorschriften, wordt het laagste resultaat in aanmerking genomen. Indien het verschil groter is, wordt de ademanalyse als niet uitgevoerd beschouwd.”
+3.	Artikel 26 KB Ademtest- en ademanalysetoestellen bepaalt: “Aan de betrokkene moet uitgelegd worden dat hij een tweede ademanalyse mag vragen, dat bij een eventueel verschil tussen de twee resultaten van meer dan de in bijlage 2 bepaalde nauwkeurigheidsvoorschriften een derde ademanalyse wordt uitgevoerd, en dat indien de drie verschillen tussen die drie resultaten groter zijn dan de voormelde nauwkeurigheidsvoorschriften, een bloedproef wordt uitgevoerd.”
+4.	De bijlage 2 bij het KB Ademtest- en ademanalysetoestellen bepaalt onder punt 3.6: “Meetcyclus De meetcyclus bestaat uit één enkelvoudige geldige meting van de AAC. Een persoon die een ademanalyse moet ondergaan, mag een tweede ademanalyse vragen. Indien het toestel mondalcohol waarneemt, zal een tweede meetcyclus worden uitgevoerd, evenwel met een tussentijd van minimum 15 minuten. Bij een eventueel verschil tussen de twee resultaten, dat groter is dan de voorschriften van punt 4.3, zal een derde ademanalyse uitgevoerd worden. Indien de drie verschillen tussen de drie resultaten groter zijn dan de hoger vermelde nauwkeurigheidsvoorschriften, zal overgegaan worden naar een bloedproef.”
+5.	Punt 4.3.2 van de bijlage 2 bij het KB Ademtest- en ademanalysetoestellen bepaalt de voormelde nauwkeurigheidsvoorschriften als volgt: “Voor nieuwe of herstelde ademanalysatoren.
+De maximaal toegelaten fouten op iedere aanwijzing zijn in plus of min:
+-	0,02 mg/l voor iedere ethanolconcentratie lager dan 0,4 mg/l lucht
+-	5 % in relatieve waarde voor iedere ethanolconcentratie vanaf 0,4 mg/l tot 1,0 mg/l lucht
+-	10 % in relatieve waarde voor iedere ethanolconcentratie vanaf 1,0 mg/l tot 2,0 mg/l lucht
+-	20 % in relatieve waarde voor iedere ethanolconcentratie vanaf 2,0 mg/l tot 3,0 mg/l lucht”
+6.	Punt 4.3.3 van de bijlage 2 bij het KB Ademtest- en ademanalysetoestellen bepaalt de voormelde nauwkeurigheidsvoorschriften als volgt: “Voor de analysatoren in gebruik
+De maximum toegelaten fouten op iedere aanwijzing zijn in plus of min:
+-	0,03 mg/l voor iedere ethanolconcentratie lager dan 0,4 mg/l lucht
+-	7,5 % in relatieve waarde voor iedere ethanolconcentratie vanaf 0,4 mg/l tot 1,0 mg/l lucht
+-	15 % in relatieve waarde voor iedere ethanolconcentratie vanaf 1,0 mg/l tot 2,0 mg/l lucht
+-	30 % in relatieve waarde voor iedere ethanolconcentratie vanaf 2,0 mg/l tot 3,0 mg/l lucht.”
+7.	De regels die gelden voor de afronding van de nauwkeurigheidsvoorschriften worden omschreven in artikel 4.3.4 van bijlage 2 bij het KB Ademtest- en ademanalysetoestellen.
+8.	De bijlage 2 bij het KB Ademtest- en ademanalysetoestellen bepaalt onder punt 4.3.4 over de afronding dat de fouten worden afgerond tot de dichtst benaderde waarde op 0,001 mg/l nauwkeurig. Dit betekent dat een meting die op een duizendste nauwkeurig is, moet worden afgerond op een honderdste, namelijk op een hoger cijfer indien het duizendste dit hoger cijfer het dichtst benadert of op een lager cijfer indien het duizendste dit lager cijfer het dichtst benadert.
+9.	Uit de samenhang van deze bepalingen volgt dat wanneer een derde ademanalyse wordt uitgevoerd, de ademanalyse als niet uitgevoerd wordt beschouwd indien het derde resultaat ook hoger of lager is dan de door de nauwkeurigheidsvoorschriften bepaalde maximaal toegelaten afwijking op het resultaat van de eerste en de tweede analyse. Indien immers het verschil tussen twee van deze resultaten niet meer bedraagt dan de hierboven bepaalde nauwkeurigheidsvoorschriften, wordt het laagste resultaat in aanmerking genomen, dit is het verschil tussen het resultaat van de derde ademanalyse met het resultaat van de eerste of het resultaat van de tweede ademanalyse.
+10.	Het bestreden vonnis oordeelt als volgt: “[De eiser] werd aan een alcoholtest onderworpen. Na een positieve ademtest om 16.09 uur, werd om 16.23 uur een eerste ademanalyse afgenomen, die als resultaat een alcoholopname van 0,66 (mg)/L UAL aangaf; om 16.25 uur werd een tweede ademanalyse afgenomen, die als resultaat een alcoholopname van 0,58 (mg)/L UAL aangaf en om 16.27 uur een derde analyse, met als eindresultaat een alcoholopname van 0,52 (mg)/L UAL. De alcoholmeting werd correct volgens de voorgeschreven procedure uitgevoerd.”
+Met die redenen stelt het bestreden vonnis niet vast welke nauwkeurigheidsvoorschriften van toepassing zijn. Het stelt wel vast dat een derde ademanalyse werd uitgevoerd en dat het resultaat van die ademanalyse 0,52 mg/l UAL bedroeg, terwijl de eerste analyse 0,66 mg/l UAL aangaf en de tweede analyse 0,58 mg/l UAL. De afwijking mag evenwel al naargelang de toegepaste nauwkeurigheidsvoorschriften voor wat betreft de eerste ademanalyse niet meer bedragen dan 0,033 of 0,0495 in min of meer van 0,66 mg/l UAL, en het derde resultaat bijgevolg niet minder mag bedragen dan 0,63 mg/l UAL respectievelijk 0,61 mg/l UAL, terwijl het 0,52 mg/l UAL bedraagt. De afwijking tussen die beide analyses bedraagt dan ook meer dan de nauwkeurigheidsvoorschriften bepalen. Voor wat betreft de tweede analyse mag de afwijking al naargelang de toegepaste nauwkeurigheidsvoorschriften niet meer bedragen dan 0,029 of 0,0435 in min of meer van 0,58 mg/l UAL, en het derde resultaat bijgevolg niet minder mag bedragen dan 0,55 mg/l UAL respectievelijk 0,54 mg/l UAL, terwijl het 0,52 mg/l UAL bedraagt. De ademanalyse moet bijgevolg als niet uitgevoerd worden beschouwd. Het bestreden vonnis stelt ten slotte niet vast dat een bloedproef werd uitgevoerd.
+Aldus kan het bestreden vonnis op grond van die ademanalyse de eiser niet schuldig verklaren aan het feit omschreven in de telastlegging C.
+Het middel is in zoverre gegrond.
+Dictum
+Het Hof,
+Vernietigt het bestreden vonnis in zoverre het de eiseres schuldig verklaart aan de feiten omschreven onder de telastlegging C en haar daarvoor bestraft.
+Beveelt dat van dit arrest melding zal worden gemaakt op de kant van het gedeeltelijk vernietigde vonnis.
+Houdt de beslissing over de kosten aan en laat die over aan de rechter op verwijzing.
+Verwijst de aldus beperkte zaak naar de correctionele rechtbank West-Vlaanderen, rechtszitting houdend in hoger beroep, anders samengesteld.
+Bepaalt de kosten op 194,10 euro.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, tweede kamer, samengesteld uit voorzitter Filip Van Volsem, als voorzitter, de raadsheren Peter Hoet, Eric Van Dooren, Steven Van Overbeke en Jos Decoker, en in openbare rechtszitting van 13 januari 2026 uitgesproken door voorzitter Filip Van Volsem, in aanwezigheid van advocaat-generaal Dirk Schoeters, met bijstand van griffier Ayse Birant.
