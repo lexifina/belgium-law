@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.403",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.403",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-15",
+  "language": "nl",
+  "role_number": "A. 246623/XIV-39981",
+  "case_name_as_published": "Arrest 265403 - Overheidsopdrachten - 13/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.403",
+  "source_sha256": "d2258c9b6226bdd74d269d334119f7a14a284a9627153cf497c63180341bd0e4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.403_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_54.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
