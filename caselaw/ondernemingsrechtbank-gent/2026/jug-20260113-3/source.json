@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260113.3",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260113.3",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-02-05",
+  "language": "nl",
+  "role_number": "O/23/00513",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "vordering tot vervanging curator / vermeende bedreiging / onenigheid inzake verkoop onroerend goed"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "vordering tot vervanging curator / vermeende bedreiging / onenigheid inzake verkoop onroerend goed",
+    "Wetboek van economisch recht - 28-02-2013 - XX.20 - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260113.3",
+  "source_sha256": "bf8e98ab155ec586072148b5ebcc492cead2fe17b0f4903e0280ee38869a313b",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_64.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
