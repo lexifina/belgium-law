@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.1055.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "13 JANUARI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1055.N.pdf",
+  "source_sha256": "efa01b1b635eca936518c474c2a80bf7db9a98c0dbd8a08075b3eb7728618668",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
