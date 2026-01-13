@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260113.2N.12",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260113.2N.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-16",
+  "language": "nl",
+  "role_number": "P.25.1357.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DROITS DE L'HOMME - PACTE INTERNATIONAL RELATIF AUX DROITS CIVILS ET POLITIQUES",
+    "RECHTEN VAN DE MENS - INTERNATIONAAL VERDRAG BURGERRECHTEN EN POLITIEKE RECHTEN",
+    "DROITS DE L'HOMME - DIVERS",
+    "RECHTEN VAN DE MENS - ALLERLEI",
+    "PRINCIPES GENERAUX DU DROIT",
+    "RECHTSBEGINSELEN (ALGEMENE)"
+  ],
+  "fiche": [
+    "RECHTEN VAN DE MENS - INTERNATIONAAL VERDRAG BURGERRECHTEN EN POLITIEKE RECHTEN",
+    "Internationaal Verdrag inzake burgerrechten en politieke rechten - 19-12-1966 - Art. 14.7 - 31 Link Justel databank 19661219-31 Protocol nr. 7 bij het Verdrag ter Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden - 22-11-1984 - Art. 4.1 - 33 Link Justel databank 19841122-33",
+    "RECHTEN VAN DE MENS - ALLERLEI",
+    "Internationaal Verdrag inzake burgerrechten en politieke rechten - 19-12-1966 - Art. 14.7 - 31 Link Justel databank 19661219-31 Protocol nr. 7 bij het Verdrag ter Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden - 22-11-1984 - Art. 4.1 - 33 Link Justel databank 19841122-33",
+    "RECHTSBEGINSELEN (ALGEMENE)",
+    "Internationaal Verdrag inzake burgerrechten en politieke rechten - 19-12-1966 - Art. 14.7 - 31 Link Justel databank 19661219-31 Protocol nr. 7 bij het Verdrag ter Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden - 22-11-1984 - Art. 4.1 - 33 Link Justel databank 19841122-33"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260113.2N.12",
+  "source_sha256": "3d999fbd231ceca1b511c0fbb36603f98bcb84ac4ec03598eeb453ed331224e1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260113.2N.12_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/20/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
