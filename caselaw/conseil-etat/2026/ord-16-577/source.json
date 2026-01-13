@@ -1,0 +1,29 @@
+{
+  "title": "Ordonnance ECLI:BE:RVSCE:2026:ORD.16.577",
+  "ecli": "ECLI:BE:RVSCE:2026:ORD.16.577",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Ordonnance du 13 janvier 2026",
+  "published_on_juportal": "2026-01-19",
+  "language": "fr",
+  "role_number": "A. 246669/XI-25414",
+  "case_name_as_published": "Ordonnance de cassation 16577 - Conseil du Contentieux des Etrangers - 13/01/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ORD.16.577",
+  "source_sha256": "7b856c4a1b0e91bbaf55022cadef2fe24c6c9974369292b8118d9ecac0b8bf6f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ORD.16.577_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_197.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
