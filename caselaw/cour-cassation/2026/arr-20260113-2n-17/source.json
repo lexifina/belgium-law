@@ -1,0 +1,38 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260113.2N.17",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260113.2N.17",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-16",
+  "language": "nl",
+  "role_number": "P.25.0380.N",
+  "case_name_as_published": "D. contra DE STAD HALLE",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "URBANISME - PERMIS DE BATIR",
+    "STEDENBOUW - BOUWVERGUNNING",
+    "URBANISME - DIVERS",
+    "STEDENBOUW - ALLERLEI",
+    "URBANISME - REMISE EN ETAT DES LIEUX. PAIEMENT D'UNE PLUS-VALUE",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE"
+  ],
+  "fiche": [
+    "STEDENBOUW - BOUWVERGUNNING",
+    "Besluit van de Vlaamse Regering 15 mei 2009 houdende coördinatie van de decreetgeving op de ruimtelijke ordening - 15-05-2009 - Art. 4.2.1, 4° - 36 ELI link Pub nr 2009A35738",
+    "STEDENBOUW - ALLERLEI",
+    "Besluit van de Vlaamse Regering 15 mei 2009 houdende coördinatie van de decreetgeving op de ruimtelijke ordening - 15-05-2009 - Art. 4.2.1, 4° - 36 ELI link Pub nr 2009A35738",
+    "STEDENBOUW - HERSTEL VAN PLAATS IN DE VORIGE STAAT. BETALING VAN EEN MEERWAARDE",
+    "Besluit van de Vlaamse Regering 15 mei 2009 houdende coördinatie van de decreetgeving op de ruimtelijke ordening - 15-05-2009 - Art. 6.3.1, § 1, eerste lid - 36 ELI link Pub nr 2009A35738"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260113.2N.17",
+  "source_sha256": "bd607a70f6d9fb7cc7b5d7c0d337b3bf518451313454ee8f0899eb34a010faf1",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260113.2N.17_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
