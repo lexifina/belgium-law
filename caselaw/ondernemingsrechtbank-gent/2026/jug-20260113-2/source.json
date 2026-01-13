@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260113.2",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260113.2",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-14",
+  "language": "nl",
+  "role_number": "O/24/1045",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Vervroegen datum staking van betaling na procedure gerechtelijke reorganisatie"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Vervroegen datum staking van betaling na procedure gerechtelijke reorganisatie",
+    "Wetboek van economisch recht - 23-02-2013 - XX.105 - 19 Link Justel databank 20130223-19",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260113.2",
+  "source_sha256": "cf4cbb834eed9dc0b75cb7286d866ba1024ff85d69ffbcb8cf9332e611539ffa",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/15/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
