@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260113.2N.10",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260113.2N.10",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-13",
+  "date_as_printed": "Vonnis/arrest van 13 januari 2026",
+  "published_on_juportal": "2026-01-16",
+  "language": "nl",
+  "role_number": "P.25.1625.N",
+  "case_name_as_published": "N.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MOTIFS DES JUGEMENTS ET ARRETS - EN CAS DE DEPOT DE CONCLUSIONS - Matière répressive (y compris les boissons spiritueuses et les douanes et accises)",
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "PEINE - AUTRES PEINES - Peine de travail",
+    "STRAF - ANDERE STRAFFEN - Werkstraf"
+  ],
+  "fiche": [
+    "REDENEN VAN DE VONNISSEN EN ARRESTEN - OP CONCLUSIE - Strafzaken (geestrijke dranken en douane en accijnzen inbegrepen)",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies, § 3 - 01 ELI link Pub nr 1867060850",
+    "STRAF - ANDERE STRAFFEN - Werkstraf",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 37quinquies, § 3 - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260113.2N.10",
+  "source_sha256": "37825a7d72ee5bed65d55d430487c6f55c821fb2c3e392cef864fa52bbf829ec",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260113.2N.10_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/19/sitemap_18.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
