@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.405",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.405",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-14",
+  "date_as_printed": "Jugement/arrêt du 14 janvier 2026",
+  "published_on_juportal": "2026-01-14",
+  "language": "fr",
+  "role_number": "A. 246689/VI-23594",
+  "case_name_as_published": "Arrêt 265405 - Marchés publics - 14/01/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.405",
+  "source_sha256": "b418017b6a18ec89884e2da14f293a3eac0637edfb72b01b926d30ecb1475a3c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.405_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_56.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
