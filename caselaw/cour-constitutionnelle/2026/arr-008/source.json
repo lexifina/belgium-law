@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.008",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.008",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-15",
+  "date_as_printed": "Jugement/arrêt du 15 janvier 2026",
+  "published_on_juportal": "2026-01-26",
+  "language": "fr",
+  "role_number": "8/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 19 du décret de la Région wallonne du 14 mars 2024 « modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne la fonction publique locale », introduit par la ville de Namur. Droit administratif - Région wallonne - Communes - Fonction publique - Emplois de promotion - Priorité - Personnel statutaire",
+    "het beroep tot vernietiging van artikel 19 van het decreet van het Waalse Gewest van 14 maart 2024 « tot wijziging van het Wetboek van de Plaatselijke Democratie en Decentralisatie voor wat betreft het plaatselijk openbaar ambt », ingesteld door de stad Namen. Administratief recht - Waals Gewest - Gemeenten - Openbaar ambt - Bevorderingsambten - Voorrang - Statutair personeel"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 19 du décret de la Région wallonne du 14 mars 2024 « modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne la fonction publique locale », introduit par la ville de Namur. Droit administratif - Région wallonne - Communes - Fonction publique - Emplois de promotion - Priorité - Personnel statutaire"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.008&lang=fr",
+  "source_sha256": "6c0411141b06c2847f47fea1fe078385ca6b6732222a80e1d1362133d5780fce",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.008_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_86.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
