@@ -1,0 +1,4 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. L'article 2 de l'arrêté ministériel du 19 juin 2009 établissant la liste des infections à déclaration obligatoire et déléguant la compétence de désigner des fonctionnaires-médecins et des fonctionnaires, modifié par l'arrêté ministériel du 25 août 2023, est remplacé par ce qui suit :
+" Art. 2. La compétence de désigner, en exécution des articles 40 et 44, § 3, 2°, 3° et 5°, du décret du 21 novembre 2003, les fonctionnaires-médecins et les fonctionnaires, figurant à l'article 7 de l'arrêté du Gouvernement flamand du 12 janvier 2024 relatif aux initiatives en matière de facteurs biotiques, est déléguée au secrétaire général du Département Soins. ".
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le présent arrêté entre en vigueur le 15 janvier 2026.
