@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.011",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.011",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-15",
+  "date_as_printed": "Jugement/arrêt du 15 janvier 2026",
+  "published_on_juportal": "2026-01-26",
+  "language": "fr",
+  "role_number": "11/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la demande de suspension du chapitre 1er du titre 5 de la loi-programme du 18 juillet 2025, introduite par l'ASBL « Réseau Belge de Lutte contre la Pauvreté » et autres. Droit social - Sécurité sociale - Chômage - Réformes",
+    "de vordering tot schorsing van hoofdstuk 1 van titel 5 van de programmawet van 18 juli 2025, ingesteld door de vzw « Belgisch Netwerk Armoedebestrijding » en anderen. Sociaal recht - Sociale zekerheid - Werkloosheid - Hervormingen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la demande de suspension du chapitre 1er du titre 5 de la loi-programme du 18 juillet 2025, introduite par l'ASBL « Réseau Belge de Lutte contre la Pauvreté » et autres. Droit social - Sécurité sociale - Chômage - Réformes"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.011&lang=fr",
+  "source_sha256": "95fbfab66427c31b71829a923eab4a9ab4de3223cab0ea767aefce660fa80b62",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.011_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_88.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
