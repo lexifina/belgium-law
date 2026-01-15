@@ -1,0 +1,12 @@
+{
+  "title": "Arrest F.24.0048.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-01-15",
+  "date_as_printed": "15 JANUARI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/F.24.0048.N.pdf",
+  "source_sha256": "2eaadd5e802cc7f49d24e357ab05f24560f9359741e2c01e2d0cfeee2e2bb61a",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only: private-person detail may be present",
+  "privacy_indicator": "domicilie"
+}
