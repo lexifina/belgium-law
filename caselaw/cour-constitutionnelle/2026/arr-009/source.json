@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.009",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.009",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-15",
+  "date_as_printed": "Jugement/arrêt du 15 janvier 2026",
+  "published_on_juportal": "2026-01-26",
+  "language": "fr",
+  "role_number": "9/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle concernant l'article 6, § 2, 2°, de la loi du 11 avril 1994 « relative à la publicité de l'administration », posée par le Conseil d'État. Droit administratif - Publicité de l'administration - Accès aux documents administratifs - Motif d'exception absolu - Secret professionnel de l'avocat",
+    "de prejudiciële vraag over artikel 6, § 2, 2°, van de wet van 11 april 1994 « betreffende de openbaarheid van bestuur », gesteld door de Raad van State. Bestuursrecht - Openbaarheid van bestuur - Toegang tot bestuursdocumenten - Absolute uitzonderingsgrond - Beroepsgeheim van de advocaat"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle concernant l'article 6, § 2, 2°, de la loi du 11 avril 1994 « relative à la publicité de l'administration », posée par le Conseil d'État. Droit administratif - Publicité de l'administration - Accès aux documents administratifs - Motif d'exception absolu - Secret professionnel de l'avocat"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.009&lang=fr",
+  "source_sha256": "8740aab8cf6180de9455fac89acc003131bd01b63b3e41ff9fbed776fcbba340",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.009_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_84.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
