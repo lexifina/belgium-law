@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.437",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.437",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-16",
+  "date_as_printed": "Jugement/arrêt du 16 janvier 2026",
+  "published_on_juportal": "2026-01-20",
+  "language": "fr",
+  "role_number": "A. 243171/XIII-10520",
+  "case_name_as_published": "Arrêt 265437 - Permis d’urbanisme et permis mixtes - 16/01/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.437",
+  "source_sha256": "1c15bd8458f556bda723ce8765eb020d6b0033cc3b27c2ee0deac2438435d798",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.437_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_84.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
