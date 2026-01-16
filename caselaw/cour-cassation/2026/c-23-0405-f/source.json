@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt C.23.0405.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-01-16",
+  "date_as_printed": "16 JANVIER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.23.0405.F.pdf",
+  "source_sha256": "efd97d590a402d8e8bdf8431fce560798708663e8d73539adc35939e4b847028",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
