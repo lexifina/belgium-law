@@ -1,0 +1,179 @@
+ecli_input     ECLI:BE:RVSCE:2022 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old ecli_annee     2022 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2022 invalide Invalid ECLI ID - 4 element(s)
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT DE LA XIIIe CHAMBRE
+no 265.435 du 16 janvier 2026
+A. 241.514/XIII-10.305
+En cause : Gérard D’ANS, ayant élu domicile chez Me Nicolas DUBOIS, avocat, chaussée de Louvain 523
+1380 Lasne, contre :
+la commune de Braine-l’Alleud, représentée par son collège communal.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+1. Par une requête introduite le 25 mars 2024 par la voie électronique, la partie requérante demande l’annulation de la décision du 15 janvier 2024 par laquelle le collège communal de Braine-l’Alleud délivre à J.P. un permis d’urbanisme ayant pour objet la régularisation de la construction d’un bâtiment de bureaux annexe sur un bien sis rue de l’Hôpital, 6 à Braine-l’Alleud.
+II. Procédure
+2. Un mémoire ampliatif a été régulièrement déposé.
+M. Pierre Malka, auditeur adjoint au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+La partie requérante a déposé un dernier mémoire.
+Par une ordonnance du 11 décembre 2025, l’affaire a été fixée à l’audience du 14 janvier 2026 et les parties ont été informées que l’affaire serait traitée par une chambre composée d’un membre.
+XIII - 10.305 - 1/13
+M. Lionel Renders, conseiller d’État, président f.f., a exposé son rapport.
+Me Basile Pittie, loco Me Nicolas Dubois, avocat, comparaissant pour la partie requérante, a été entendu en ses observations.
+M. Pierre Malka, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la cause
+3. La partie adverse n’ayant pas transmis de dossier administratif dans le délai fixé, il y a lieu de considérer, en application de l’article 21, alinéa 3, des lois coordonnées sur le Conseil d’État, que les faits cités par la partie requérante sont réputés prouvés, ceux-ci n’étant pas manifestement inexacts.
+Il reste qu’en vertu de ses pouvoirs d’instruction, l’auditeur rapporteur a sollicité auprès de la partie adverse et obtenu la communication du permis d’urbanisme du 12 novembre 1996 et la décision de refus de permis d’urbanisme du 29 mars 2010, dont il est question sous le point 4.
+4. Le 12 novembre 1996, le collège communal de Braine-l’Alleud délivre à J.P. un permis d’urbanisme ayant pour objet la transformation d’un bien sis rue de l’Hôpital, 6, cadastré division 4, section E, nos 1573 et 1574.
+À une date inconnue, l’entrepôt sis en arrière-zone de ce bien fait l’objet d’un incendie.
+À la suite d’une demande déposée le 8 janvier 2010, le collège communal refuse, le 29 mars 2010, de délivrer à J.P. un permis d’urbanisme ayant pour objet la transformation d’un ancien entrepôt ayant brûlé en un petit logement unifamilial en arrière-zone d’un bien situé rue de l’Hôpital, 6, cadastré division 4, section E, n° 1573A.
+Le 2 août 2018, le collège communal octroie à J.P. un permis d’urbanisme ayant pour objet la construction de bureaux sur un bien sis rue de l’Hôpital, 6, cadastré division 4, section E, n° 1573A. Le permis est mis en œuvre.
+XIII - 10.305 - 2/13
+Le bien précité se situe en zone d’habitat au plan de secteur de Nivelles.
+Il est également repris en zone de centre historique au schéma de développement communal (SDC) de Braine-l’Alleud, approuvé par un arrêté ministériel du 27 février 2012.
+Par l’arrêt n° 253.264 du 17 mars 2022 (ECLI:BE:RVSCE:2022:
+ARR.253.264), le permis d’urbanisme du 2 août 2018 est annulé.
+5. Le 7 septembre 2023, J.P. introduit une nouvelle demande de permis d’urbanisme auprès de la commune de Braine-l’Alleud ayant pour objet la régularisation de la construction d’un bâtiment de bureaux annexe sur le bien précité.
+Le 25 septembre 2023, la commune délivre un accusé de réception actant le caractère complet et recevable de la demande.
+6. Une annonce de projet est organisée du 13 au 27 octobre 2023, qui suscite le dépôt d’une réclamation.
+7. Divers avis sont sollicités et émis au cours de l’instruction administrative.
+8. Le 15 janvier 2024, le collège communal délivre le permis d’urbanisme sollicité, sous conditions.
+Il s’agit de l’acte attaqué.
+IV. Premier moyen
+IV.1. Thèse de la partie requérante
+A. La requête en annulation et le mémoire ampliatif
+9. Le premier moyen est pris de la violation des articles D.IV.5 et D.IV.40
+du Code du développement territorial (CoDT), du SDC de la commune de Braine-
+l’Alleud et de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, ainsi que de l’erreur manifeste d’appréciation.
+10. La partie requérante soutient que le projet autorisé par l’acte attaqué implique un écart aux prescriptions du SDC relatives au centre historique, singulièrement celles relatives aux démolitions et reconstructions, notamment sur la conservation et le rétablissement d’intérieurs d’îlots verts et dégagés.
+XIII - 10.305 - 3/13
+Selon elle, le SDC a pour objectifs d’exclure la densification du centre historique, de mettre en valeur les cœurs d’îlot et, dans l’hypothèse d’une « démolition et/ou reconstruction », de « conserver ou rétablir des intérieurs d’îlots verts et dégagés », ceux-ci n’étant pas respectés par le projet litigieux.
+Se prévalant d’une photographie, elle assure que l’entrepôt préexistant à l’arrière du bien concerné a été entièrement détruit par un incendie bien avant l’introduction de la demande de permis. Elle estime qu’à partir du moment où cet entrepôt était démoli, toute démolition ou reconstruction devait se faire en veillant à conserver ou rétablir des intérieurs d’îlots verts et dégagés.
+Elle indique que le permis d’urbanisme du 12 novembre 1996, concernant l’immeuble sur le bien litigieux se situant à front de la rue de l’Hôpital, prévoyait, semble-t-il, uniquement la construction de quatre emplacements de parking à l’endroit du projet litigieux, sans qu’il n’y soit visé la construction d’une annexe au titre de bureaux. Elle soutient qu’il en résulte que c’est l’acte attaqué qui autorise une reconstruction et une démolition, qui devaient respecter les objectifs précités relatifs à la densité et aux intérieurs d’îlot. Elle fait valoir que tel n’est pas le cas, en méconnaissance de l’exigence de motivation résultant de l’article D.IV.5 du CoDT.
+Elle précise qu’en ce qui concerne la densité du centre historique, elle est de plus ou moins 40 logements à l’hectare. Elle relève que le projet autorisé par l’acte attaqué porte sur un bureau fréquenté par des architectes, ainsi que leurs clients et collaborateurs. Elle fait valoir qu’à partir du moment où cet immeuble n’est pas implanté sur l’alignement en îlot fermé, l’objectif en matière de densité de veiller à conserver ou établir des intérieurs d’îlot verts et dégagés n’est « manifestement » pas atteint.
+Elle soutient que la demande de permis s’écartant des prescriptions indicatives du SDC, elle aurait dû faire l’objet d’une annonce de projet en application de l’article D.IV.40 du CoDT.
+B. Le dernier mémoire
+11. Elle précise n’avoir jamais soutenu que les normes de densité reprises au SDC étaient applicables aux « bureaux ». Elle souligne que le bien litigieux a fait l’objet d’un permis d’urbanisme délivré par le collège communal le 12 novembre 1996 concernant des travaux d’aménagement effectués dans la partie de l’immeuble se situant en façade à rue, lequel comporte actuellement plusieurs appartements. Elle pense qu’ultérieurement, l’entrepôt situé à l’arrière de la parcelle concernée a fait l’objet d’un incendie, ce qui a impliqué, pour des raisons de stabilité, que les murs
+XIII - 10.305 - 4/13
+latéraux du hangar soient étançonnés. Elle indique qu’ensuite, à une date indéterminée, cet entrepôt a été, sans autorisation, démoli par J.P.
+Elle souligne que le SOC précise, pour l’éventuelle densité qui serait d’application en cas de logements, que « la morphologie de référence dans le Centre ancien est donc celle de l’îlot de densité moyenne refermé autour des espaces de cours et jardins ».
+Elle considère que le projet autorisé par l’acte attaqué porte bien sur une démolition/reconstruction dès lors que l’ancien entrepôt a été démoli purement et simplement par son propriétaire et l’on se trouve dès lors en présence, à cet endroit, d’un morceau de terrain vierge de toute construction eu égard à la démolition intervenue. Elle insiste sur l’un des objectifs du SDC de « veiller à conserver ou rétablir des intérieurs d’îlots ouverts et dégagés ».
+Elle fait valoir qu’à partir du moment où le hangar a été démoli, la situation est bien celle d’un intérieur d’îlot non bâti, ce qui est proscrit par le SDC.
+IV.2. Examen
+12. L’article D.IV.40, alinéa 3, du CoDT, alors applicable, dispose comme suit :
+« Les demandes impliquant un ou plusieurs écarts aux plans communaux d’aménagement adoptés avant l’entrée en vigueur du Code et devenus schémas d’orientation locaux, aux règlements adoptés avant l’entrée en vigueur du Code et devenus guides et aux permis d’urbanisation sont soumises à annonce de projet, et ce, jusqu’à la révision ou à l’abrogation du schéma ou du guide ».
+L’article D.IV.5, alinéa 1er, du CoDT, dans sa version applicable au cas d’espèce, dispose comme suit :
+« Sans préjudice de l’alinéa 2, un permis ou un certificat d’urbanisme n° 2 peut s’écarter du schéma de développement du territoire lorsqu’il s’applique, d’un schéma de développement pluricommunal, d’un schéma de développement communal, d’un schéma d’orientation local, d’une carte d’affectation des sols, du contenu à valeur indicative d’un guide ou d’un permis d’urbanisation moyennant une motivation démontrant que le projet :
+1° ne compromet pas les objectifs de développement territorial, d’aménagement du territoire ou d’urbanisme contenus dans le schéma, la carte d’affectation des sols, le guide ou le permis d’urbanisation ;
+2° contribue à la protection, à la gestion ou à l’aménagement des paysages bâtis ou non bâtis ».
+XIII - 10.305 - 5/13
+13. Le projet litigieux se situe en zone de centre historique au schéma de développement communal (SDC) de Braine-l’Alleud, approuvé par un arrêté ministériel du 27 février 2012 et entré en vigueur le 4 août 2012. Ce schéma expose notamment ce qui suit :
+« Les quartiers de centre-ville, centre historique et centre élargi, concentrent à la fois les plus grands défis urbains et les enjeux les plus essentiels en termes de rayonnement urbain. Leur devenir apparaît particulièrement déterminant et moteur pour le renforcement du développement de la commune.
+Le centre historique, délimité par sa ceinture de rues qui correspond à la limite du noyau initial, constitue un ensemble relativement homogène qui a conservé sa cohérence urbanistique et architecturale identifiable à l’échelle de la ville. Il est constitué à la fois de quartiers traditionnels et patrimoniaux dont la structure est clairement établie. Il présente ponctuellement des opportunités de développement.
+La recherche d’un équilibre avec les formes d’urbanisation préexistantes encadre le développement du centre historique dont les principaux axes sont :
+- le renforcement de la qualité résidentielle et des commerces ;
+- le développement d’un espace public de qualité, traité de manière globale.
+De plus le caractère patrimonial devrait être davantage reconnu et valorisé, pour garantir un cadre de qualité aux habitants du quartier, à l’ensemble des Brainois et des visiteurs, y compris les touristes.
+La densité bâtie et la morphologie Le centre historique n’a pas vocation à être densifié, mise à part la reconstruction de dents creuses ou de compléments bâtis localisés. Il s’agit essentiellement de favoriser le renouvellement qualitatif de la ville sur elle-même par la réhabilitation, l’extension locale ou la mise en valeur des cœurs d’îlots.
+La densité actuelle du centre historique avoisine les 40 logements à l’hectare. Cette densité pourra être localement augmentée par les compléments bâtis et les opérations limitées au regard des gabarits existants et par les mesures destinées à favoriser les logements aux étages des commerces.
+Seul dans les secteurs à projets (voir ci-après), les densités peuvent être adaptées à la hausse.
+De manière générale, dans les quartiers du centre historique, la notion de densité est subsidiaire au critère d’intégration dans le contexte préexistant. Le raisonnement en termes de surface de plancher sur surface de sol (rapport P sur S)
+peut être utilisé. Un P/S brut de 1,3 à 1,7 situe le niveau d’urbanisation adapté au secteur du centre ancien.
+En cas de démolition et/ou de reconstruction, la densité à observer sera celle permettant la meilleure intégration urbanistique du projet, notamment au regard de :
+- l’implantation sur l’alignement en îlot fermé ;
+- la hauteur en harmonie avec le profil général de la rue (R+1, R+2) ;
+- la profondeur en harmonie avec le profil général de l’îlot, en veillant à conserver ou rétablir des intérieurs d’îlots verts et dégagés.
+XIII - 10.305 - 6/13
+La morphologie de référence dans le centre ancien est donc celle de l’îlot de densité moyenne refermé autour des espaces de cours et jardins. Il se partage entre les maisons unifamiliales construites en ordre fermé et les immeubles d’appartements.
+Le centre historique admet une mixité d’habitat, sous forme d’appartements de 1, 2 voire 3 chambres et de maisons unifamiliales. Toutefois, le nombre de petites unités (appartements une chambre) doit être limité par rapport aux logements plus importants.
+Le travail sur la division d’îlot permet de limiter les fortes divisions d’immeuble.
+Dans le centre historique, la division équilibrée, liée à la typologie, sera de 1
+commerce et un appartement ou des divisions de maximum 2 appartements par immeuble. Sauf circonstances exceptionnelles (largeur de façade anormalement étroite, raisons patrimoniales…), le rez-de-chaussée doit comporter, et le cas échéant améliorer ou restituer, un accès aisé et indépendant vers les étages.
+La mixité fonctionnelle Le centre historique accueille préférentiellement les activités économiques tertiaires et le commerce de proximité et spécialisé ainsi que le marché. Il doit présenter une grande mixité fonctionnelle. Ces activités sont localisées dans la trame et les gabarits des constructions du centre ».
+14. En l’espèce, les griefs de la partie requérante reposent sur le postulat que l’acte attaqué autorise une « démolition et/ou une reconstruction » au sens des prescriptions indicatives du SDC, applicables au centre historique.
+Il ne ressort pas de l’objet de la demande de permis ni de l’acte attaqué que celui-ci autorise la démolition d’actes et travaux préexistants.
+Par ailleurs, la notion de « reconstruction » n’étant pas définie par le SDC, il y a lieu de l’entendre dans son sens commun, qui vise l’« action de reconstruire ce qui a été détruit » ou l’« action de rétablir dans son état premier » (dictionnaire Larousse).
+Il ressort des éléments auxquels le Conseil d’État peut avoir égard que l’ancien entrepôt qui était implanté sur la parcelle litigieuse a été détruit antérieurement au 8 janvier 2010, date d’introduction de la demande ayant fait l’objet de la décision de refus du 29 mars 2010 du collège communal de délivrance d’un permis d’urbanisme ayant pour objet la transformation d’un ancien entrepôt ayant brûlé en un petit logement unifamilial en arrière-zone.
+Il s’ensuit a fortiori qu’au jour de l’entrée en vigueur du SDC, le 4 août 2012, l’entrepôt n’existait plus, de sorte que la parcelle litigieuse se présentait vierge de toute construction. Partant, le projet autorisé par l’acte attaqué ne consiste pas en la reconstruction d’actes et travaux préexistants sur la parcelle concernée.
+Il découle de ce qui précède que les prescriptions indicatives du SDC
+invoquées, propres à la densité et à la conservation ou le rétablissement des intérieurs   XIII - 10.305 - 7/13
+d’îlot verts et dégagés, ne s’appliquaient pas au projet litigieux, qui n’implique donc aucun écart à ces prescriptions. Il en résulte que les articles D.IV.5 et D.IV.40 du CoDT ne devaient pas être respectés par l’auteur de l’acte attaqué.
+Le premier moyen n’est pas fondé.
+V. Deuxième moyen
+V.1. Thèse de la partie requérante
+A. La requête en annulation et le mémoire ampliatif
+15. Le deuxième moyen est pris de la violation des articles D.II.24, D.IV.53 et R.IV.1-1 du CoDT, et de la loi du 29 juillet 1991 relatives à la motivation formelle des actes administratifs, ainsi que de l’erreur manifeste d’appréciation.
+16. Par une première branche, la partie requérante fait grief à l’auteur de l’acte attaqué de ne pas avoir examiné la compatibilité de l’activité autorisée dans l’immeuble concerné avec le voisinage, en méconnaissance de l’article D.II.24 du CoDT. Elle soutient que la notice d’évaluation des incidences sur l’environnement est lacunaire sur le nombre de personnes qui seront amenées à fréquenter les bureaux nouvellement construits.
+Elle estime que le bâtiment autorisé se trouve en intérieur d’îlot, ce qui devait faire l’objet d’une analyse au regard de l’article D.II.24 du CoDT dès lors que cette situation met en péril la destination principale de la zone d’habitat.
+Elle regrette un manque d’analyse de l’augmentation du charroi et des besoins en stationnement alors qu’elle soutient que le parcage est déjà très difficile dans le quartier. Elle déplore les allées et venues futures que l’activité autorisée engendrera à l’intérieur de l’arrière-zone des habitations.
+17. Par une seconde branche, elle relève que l’immeuble litigieux se situe en zone de cours et jardins, tout comme l’entrepôt antérieur qui a été détruit. Selon elle, l’acte attaqué devait être motivé au regard de ces éléments au regard de l’article R.IV.1-1, alinéa 4, 3°, du CoDT.
+B. Le dernier mémoire
+18. Elle est d’avis qu’il ne lui revient pas de démontrer les nuisances potentielles des allées et venues des collaborateurs amenés à travailler dans
+XIII - 10.305 - 8/13
+l’immeuble nouvellement construit mais à l’acte attaqué d’être adéquatement motivé au regard de l’article D.II.24 du CoDT et de l’article R.IV.1-1 du CoDT.
+V.2. Examen
+V.2.1. Première branche
+19. L’article D.II.24, alinéas 1er et 2, du CoDT dispose comme suit :
+« La zone d’habitat est principalement destinée à la résidence.
+Les activités d’artisanat, de service, de distribution, de recherche ou de petite industrie, les établissements socioculturels, les constructions et aménagements de services publics et d’équipements communautaires, les exploitations agricoles et les équipements touristiques ou récréatifs peuvent également y être autorisés pour autant qu’ils ne mettent pas en péril la destination principale de la zone et qu’ils soient compatibles avec le voisinage ».
+Il ressort des termes de cette disposition que certaines activités non résidentielles peuvent être autorisées en zone d’habitat, qui est une zone multifonctionnelle, pour autant qu’elles ne mettent pas en péril la destination principale de la zone, à savoir la résidence, et qu’elles soient compatibles avec le voisinage. Il s’agit de deux conditions cumulatives distinctes. La première de ces conditions procède à la fois de l’affirmation in abstracto de la mixité de la zone et du caractère prépondérant de la fonction résidentielle, étant entendu que le projet ne peut pas empêcher la zone d’habitat de remplir pleinement sa fonction principale qui est l’habitation. La seconde condition impose qu’il soit tenu compte in concreto de l’importance, de la nature et des caractéristiques des constructions et activités existantes du voisinage au vu, non pas de la construction projetée en tant que telle, mais bien de l’activité qu’abritera la construction. L’examen de ces deux conditions doit faire l’objet d’une motivation spéciale dans l’acte attaqué.
+20. En l’espèce, l’acte attaqué est notamment motivé comme suit :
+« Considérant que le projet consiste en la régularisation des travaux précités ;
+Considérant que le projet porte, plus précisément, sur la construction d’un volume annexe, de type R+1, implanté en fond de parcelle et destiné à un usage de bureaux ;
+Considérant qu’historiquement, la parcelle comprenait des entrepôts en arrière-
+zone en lieu et place du nouveau volume à régulariser, lesquels ont été démolis suite à un incendie ; que ces entrepôts présentaient une emprise au sol d’environ 115 m² nettement supérieure à celle du nouveau volume à usage de bureaux, et minéralisaient la majeure partie de la parcelle ;
+Considérant que le présent projet offre une emprise au sol limitée permettant de créer un espace végétalisé en intérieur d’îlot ;
+XIII - 10.305 - 9/13
+[…]
+Considérant que les toitures plates n’ont pas de vocation à être utilisées comme terrasses ;
+[…]
+Considérant qu’il y a lieu de préserver le patrimoine naturel et paysager régional ;
+Considérant que les matériaux proposés s’intègrent au cadre bâti existant ;
+Considérant que le projet ne modifie pas la physionomie et l’équilibre social du quartier ;
+[…]
+Vu les contraintes et caractéristiques urbanistiques locales connues par l’Administration communale ;
+Considérant que la demande de permis d’urbanisme est suffisamment précise pour permettre à l’Autorité compétente d’analyser le projet et de statuer en pleine connaissance de cause ;
+Considérant que le gabarit est identique à ceux des volumes voisins existants ; que, dès lors, le nouveau volume n’a aucune incidence sur les vues et l’ensoleillement dont bénéficient les parcelles voisines ;
+Considérant que la composition architecturale est résolument contemporaine ; que l’usage de toitures plates, de matériaux et de tonalités neutres renforce l’intégration harmonieuse du volume dans son cadre bâti environnant ;
+Considérant que l’emprise au sol limitée du nouveau volume permet de conserver un espace non bâti à l’intérieur de la parcelle, lequel est agrémenté par des plantations de manière à constituer une zone de respiration en cœur d’îlot ;
+Considérant, qu’en définitive, la création d’un volume à destination de bureaux, en lieu et place d’un entrepôt historique, permet de réduire la minéralisation de la parcelle et de proposer une programmation mieux adaptée en termes d’usage et d’intégration urbaine à l’échelle du quartier ».
+De tels motifs font apparaître à suffisance que l’auteur de l’acte attaqué s’est assuré, au regard du dossier administratif existant au jour de sa prise de décision et estimant que « la demande de permis d’urbanisme est suffisamment précise pour permettre à l’Autorité compétente d’analyser le projet et de statuer en pleine connaissance de cause », que le projet n’empêchait pas la destination principale résidentielle mais au contraire la favorise en limitant l’emprise au sol et en créant un espace végétalisé en intérieur d’îlot par rapport à l’ancien entrepôt ou, à tout le moins, n’impacte pas cette destination par l’absence d’incidences du projet en termes de vue et d’ensoleillement. Il estime que « le projet ne modifie pas la physionomie de l’équilibre social du quartier ». S’agissant d’admettre une activité de bureaux d’architecte, il ressort de ces motifs une analyse suffisamment concrète des conséquences de cette activité sur le voisinage, en tenant compte du cadre environnant. Une telle motivation est adéquate au sens de l’article D.II.24 du CoDT.
+XIII - 10.305 - 10/13
+La première branche du deuxième moyen n’est pas fondée.
+V.2.2. Seconde branche
+21. L’article R.IV.1-1, alinéa 6, 4°, du CoDT définit l’espace de cours et jardins au sens de la nomenclature des actes, travaux et installations exonérés du permis d’urbanisme, d’impact limité ou qui ne requièrent pas le concours obligatoire d’un architecte, comme suit :
+« l’espace au sol à vocation d’agrément lié à une habitation situé soit à l’arrière, soit à l’avant, soit sur le côté de celle-ci et constitué :
+a) soit d’une cour qui est l’espace pourvu d’un revêtement en dur ou en matériau discontinu ;
+b) soit d’un jardin qui est l’espace végétalisé ;
+c) soit d’une combinaison de ces deux éléments ».
+Une telle définition ne prescrit pas les caractéristiques que tout espace de cours et jardins doit avoir mais celles qui sont requises pour pouvoir relever de l’article R.IV.1-1, alinéa 6, 4°, du CoDT
+Il s’ensuit que le grief fondant la branche, reposant sur le postulat inverse, est inopérant.
+22. Le deuxième moyen n’est fondé en aucune de ses branches.
+VI. Troisième moyen
+VI.1. Thèse de la partie requérante
+A. La requête en annulation
+23. Le troisième moyen est pris de la violation des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, des principes de bonne administration et du devoir de minutie, ainsi que du revirement d’attitude de l’autorité administrative et de l’erreur manifeste d’appréciation.
+24. La partie requérante note que, le 29 mars 2010, l’auteur de l’acte attaqué a refusé de délivrer un permis d’urbanisme ayant pour objet la construction de logements au même endroit que l’immeuble litigieux. Elle relève qu’à l’époque, le refus de permis avait été motivé au regard du bon aménagement des lieux et du manque de stationnement. Elle reproche à l’acte attaqué d’autoriser la construction de bureaux sans faire référence à ce précédent refus. Selon elle, l’autorité délivrante
+XIII - 10.305 - 11/13
+devait motiver spécialement l’octroi du permis attaqué au regard de ce refus antérieur dès lors que ce permis ne prévoit toujours aucune place de stationnement.
+B. Le mémoire ampliatif
+25. Elle explique qu’elle ne dispose pas de la décision du 29 mars 2010.
+C. Le dernier mémoire
+26. Elle estime que les circonstances de l’affaire n’ont pas évolué de manière significative entre le précédent permis et l’acte attaqué, et elle ne voit aucun élément nouveau expliquant la contradiction. Si elle concède que quatorze ans séparent les deux décisions, elle assure que la situation n’a pas changé. Elle ne perçoit pas en quoi un projet de logements en arrière-zone, refusé à l’époque car considéré comme non conforme au bon aménagement des lieux, pourrait, en 2024, suivant l’acte attaqué, être autorisé lorsqu’il s’agit de bureaux, ce d’autant que le projet ne répond pas à la critique exposée à l’époque quant à l’absence d’emplacement de stationnement. Elle insiste sur les similitudes des deux projets en termes de caractéristiques architecturales et d’emprise au sol. Elle fait valoir que les règles d’urbanisme local n’ont pas changé depuis lors tandis que les modifications intervenues au niveau du régime régional n’ont eu aucune incidence en l’espèce. Elle en infère qu’il y a un revirement d’attitude injustifié dans le chef de l’auteur de l’acte attaqué.
+VI.2. Examen
+27. Une autorité administrative, dans l’exercice de son pouvoir d’appréciation discrétionnaire, peut toujours opérer un revirement d’attitude. Il y a revirement d’attitude lorsque l’autorité se prononce différemment dans un délai rapproché, en adoptant des attitudes apparemment contradictoires, en application d’une même réglementation, sur des projets identiques ou similaires, alors que les circonstances de l’affaire n’ont pas évolué de manière significative. En ce cas, la motivation formelle de l’acte attaqué doit permettre de comprendre pourquoi l’autorité administrative, dans l’exercice de ce pouvoir d’appréciation, opère un tel revirement. En outre, le revirement d’attitude et sa justification doivent s’apprécier au sujet d’une même autorité et non entre autorités différentes appelées à connaître d’une même demande.
+28. En l’espèce, les projets ayant donné lieu, d’une part, à la décision de refus du 29 mars 2010 et, d’autre part, à l’acte attaqué ne sont pas identiques, ni similaires, le premier portant sur un projet de petit logement unifamilial, tandis que le
+XIII - 10.305 - 12/13
+second concerne un bâtiment de bureaux. Il s’ensuit que la motivation de l’acte attaqué ne devait pas permettre de comprendre les raisons pour lesquelles l’autorité a pris une position différente sur ces deux projets.
+Le troisième moyen n’est pas fondé.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La requête est rejetée.
+Article 2.
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 24 euros, est mise à la charge de la partie requérante.
+Les autres dépens, liquidés à la somme de 200 euros, sont mis à la charge de la partie requérante.
+Ainsi prononcé à Bruxelles le 16 janvier 2026, par la XIIIe chambre du Conseil d’État, composée de :
+Lionel Renders, conseiller d’État, président f.f., Thierry Blanjean, greffier.
+Le Greffier, Le Président,
+Thierry Blanjean Lionel Renders
+XIII - 10.305 - 13/13
