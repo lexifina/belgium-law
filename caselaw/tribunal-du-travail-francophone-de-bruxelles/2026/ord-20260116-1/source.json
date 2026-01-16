@@ -1,0 +1,31 @@
+{
+  "title": "Ordonnance ECLI:BE:TTBRL:2026:ORD.20260116.1",
+  "ecli": "ECLI:BE:TTBRL:2026:ORD.20260116.1",
+  "court": "Tribunal du travail francophone de Bruxelles",
+  "court_code": "TTBRL",
+  "decision_date": "2026-01-16",
+  "date_as_printed": "Ordonnance du 16 janvier 2026",
+  "published_on_juportal": "2026-01-19",
+  "language": "fr",
+  "role_number": "26/14/I",
+  "case_name_as_published": "",
+  "subjects": [
+    "Autres"
+  ],
+  "summary_keywords": [
+    "DROIT JUDICIAIRE - ORGANISATION JUDICIAIRE - Organisation et service tribunaux - Bureau d'assistance judiciaire",
+    "Assistance judiciaire - Procédure par requête en règlement collectif de dettes - Tribunal du travail - Absence de droits de greffe - Absence d'intérêt à l'assistance judiciaire"
+  ],
+  "fiche": [
+    "DROIT JUDICIAIRE - ORGANISATION JUDICIAIRE - Organisation et service tribunaux - Bureau d'assistance judiciaire",
+    "Assistance judiciaire - Procédure par requête en règlement collectif de dettes - Tribunal du travail - Absence de droits de greffe - Absence d'intérêt à l'assistance judiciaire",
+    "Code Judiciaire - 10-10-1967 - 667",
+    "Bulletin juridique & social - BEDORET C, Assistance judiciaire : le tribunal du travail règle la mire - N°709, p. 2"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:TTBRL:2026:ORD.20260116.1",
+  "source_sha256": "bd1a22ea21e2a8ba7790da8bd234369c7f030a5f18246c79f8c590516ba7cd12",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:TTBRL:2026:ORD.20260116.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/19/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
