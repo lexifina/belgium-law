@@ -1,0 +1,1 @@
+<a name="Art.1"></a>Article 1. Article unique. Le Protocole modifiant le Protocole sur les privilèges et immunités de l'Organisation Benelux de la propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 6 décembre 2022, sortira son plein et entier effet.
