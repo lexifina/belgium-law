@@ -1,0 +1,30 @@
+{
+  "id": "2025009528",
+  "title": "11 DECEMBRE 2025. - Loi modifiant le Code civil visant à étendre les possibilités d'attribution du logement familial lors du divorce et à la rendre possible lors de la cessation de la cohabitation légale",
+  "source_title": "11 DECEMBRE 2025. - Loi modifiant le Code civil visant à étendre les possibilités d'attribution du logement familial lors du divorce et à la rendre possible lors de la cessation de la cohabitation légale",
+  "act": "loi/justice/2025/2025009528",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-01-07&numac_search=2025009528&page=10&lg_txt=F&caller=list&2025009528=6&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "91d35fa5ae76d1b74f9215a2ba5afc35b5b07f91966ceeed2074620c377e226e",
+  "source_issuer": "Justice",
+  "made": "2025-12-11",
+  "published": "2026-01-07",
+  "in_force": "2026-01-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 janvier 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "7 janvier 2026",
+    "Numéro": "2025009528",
+    "page": "191",
+    "Dossier numéro": "2025-12-11/19",
+    "Entrée en vigueur": "17 janvier 2026",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 573,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-01-17"
+}
