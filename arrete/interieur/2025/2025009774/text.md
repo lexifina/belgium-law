@@ -1,0 +1,2 @@
+<a name="Art.1"></a>Article 1. Article unique. Le Plan particulier d'urgence et d'intervention (PPUI) pour la centrale nucléaire de Tihange du Gouverneur de la province de Luxembourg est approuvé à compter de l'entrée en vigueur de cet arrêté.
+En cas de modification substantielle du Plan particulier d'urgence d'intervention visé à l'alinéa 1er, celui-ci fera l'objet d'une nouvelle demande d'approbation.
