@@ -1,0 +1,12 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Le présent décret règle une matière communautaire.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. La partie IX de la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, est complétée par un chapitre 4, rédigé comme suit :
+" Chapitre 4. Répartition des moyens pour le désamiantage ".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans la même codification, modifiée en dernier lieu par le décret du 18 juillet 2025, le chapitre 4, ajouté par l'article 2, est complété par un article IX.6, rédigé comme suit :
+" Art. IX.6. Les budgets libérés pour l'enlèvement de matériaux contenant et susceptibles de contenir de l'amiante dans les bâtiments destinés à l'enseignement, sont répartis selon la clé de répartition visée à l'article IX.1, § 1er, accordée à l'Agence de l'Infrastructure dans l'Enseignement et à l'Enseignement communautaire. ".
+
+<a name="Art.4" href="#Art.3">Art.</a> 4. L'article 17 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, remplacé par le décret du 5 juillet 1989 et modifié en dernier lieu par le décret du 7 juillet 2023, est complété par un paragraphe 4, rédigé comme suit :
+" § 4. Par dérogation au paragraphe 1er, l'Agence de l'Infrastructure dans l'Enseignement accorde une subvention pour 100 pour cent des frais liés à l'enlèvement et à l'évacuation des matériaux contenant et susceptibles de contenir de l'amiante dans les bâtiments destinés aux établissements d'enseignement subventionnés, aux centres d'encadrement des élèves, aux internats d'enseignement et aux centres de soutien à l'apprentissage.
+La direction de l'école, du centre ou de l'internat d'enseignement joint à la demande d'une subvention telle que visée à l'alinéa 1er, un certificat d'inventaire d'amiante tel que visé à l'article 3, § 2, 1° /3 du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, pour le site où les travaux sont effectués.
+Pour la direction de l'école, du centre ou de l'internat d'enseignement néerlandophone située dans la région bilingue de Bruxelles-Capitale, un subventionnement augmenté tel que visé à l'alinéa 1er s'applique dès qu'un accord de coopération est conclu entre la Communauté flamande et la Région de Bruxelles-Capitale sur un règlement alternatif pour un certificat d'inventaire d'amiante qui est joint à la demande de subvention telle que visée à l'alinéa 1er. ".
