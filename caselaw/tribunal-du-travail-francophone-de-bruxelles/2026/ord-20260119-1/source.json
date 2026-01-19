@@ -1,0 +1,31 @@
+{
+  "title": "Ordonnance ECLI:BE:TTBRL:2026:ORD.20260119.1",
+  "ecli": "ECLI:BE:TTBRL:2026:ORD.20260119.1",
+  "court": "Tribunal du travail francophone de Bruxelles",
+  "court_code": "TTBRL",
+  "decision_date": "2026-01-19",
+  "date_as_printed": "Ordonnance du 19 janvier 2026",
+  "published_on_juportal": "2026-01-23",
+  "language": "fr",
+  "role_number": "25/269/I",
+  "case_name_as_published": "",
+  "subjects": [
+    "Droit civil"
+  ],
+  "summary_keywords": [
+    "DROIT CIVIL - PERSONNES - Identification - État civil - Rectification",
+    "Droit judiciaire - rectification - erreur commise par une partie - refus"
+  ],
+  "fiche": [
+    "DROIT CIVIL - PERSONNES - Identification - État civil - Rectification",
+    "Droit judiciaire - rectification - erreur commise par une partie - refus",
+    "Code Judiciaire - 10-10-1967 - 794",
+    "Suite à cette décision, le requérant a réintroduit une demande d'assistance judiciaire reprenant l'adresse correcte (26/16/I)."
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:TTBRL:2026:ORD.20260119.1",
+  "source_sha256": "2792c006b1684e0e6bc8c30707147fc34ab97e9fddc3c59d6cfc5cd86154994d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:TTBRL:2026:ORD.20260119.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/23/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
