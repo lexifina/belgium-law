@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.458",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.458",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-19",
+  "date_as_printed": "Jugement/arrêt du 19 janvier 2026",
+  "published_on_juportal": "2026-01-28",
+  "language": "fr",
+  "role_number": "A. 243089/VIII-12705",
+  "case_name_as_published": "Arrêt 265458 - Mandataires locaux - 19/01/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.458",
+  "source_sha256": "68f9014b3bf20b72dfa6a8b713547b8c118c1373cdb19918570184607741a52a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.458_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_104.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
