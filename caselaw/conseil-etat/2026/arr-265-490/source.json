@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.490",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.490",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-20",
+  "date_as_printed": "Vonnis/arrest van 20 januari 2026",
+  "published_on_juportal": "2026-01-22",
+  "language": "nl",
+  "role_number": "A. 246986/IX-10868",
+  "case_name_as_published": "Arrest 265490 - Federaal openbaar ambt - Aanwerving en loopbaan - 20/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.490",
+  "source_sha256": "cb1dbb16a0ff6e9cc1a444920abfe39adf3f77a0e8ad476c7768bcceb319e965",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.490_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_136.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
