@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.489",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.489",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-20",
+  "date_as_printed": "Vonnis/arrest van 20 januari 2026",
+  "published_on_juportal": "2026-01-22",
+  "language": "nl",
+  "role_number": "A. 243191/X-18869",
+  "case_name_as_published": "Arrest 265489 - Plannen van aanleg - 20/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.489",
+  "source_sha256": "43a35513016260d62d9f62d130c332a6cfd42cc724f34c35c91d70ea66a50a17",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.489_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_135.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
