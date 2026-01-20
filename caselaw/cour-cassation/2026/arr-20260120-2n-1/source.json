@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260120.2N.1",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260120.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-20",
+  "date_as_printed": "Vonnis/arrest van 20 januari 2026",
+  "published_on_juportal": "2026-02-02",
+  "language": "nl",
+  "role_number": "P.25.1330.N",
+  "case_name_as_published": "S.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "ORGANISATION JUDICIAIRE - MATIERE REPRESSIVE",
+    "RECHTERLIJKE ORGANISATIE - STRAFZAKEN"
+  ],
+  "fiche": [
+    "RECHTERLIJKE ORGANISATIE - STRAFZAKEN"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260120.2N.1",
+  "source_sha256": "90c21ea0bd28b5087ac145f94b5a8bbe1980591ccb04754d5bf3e51518a76b6e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260120.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/02/sitemap_27.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
