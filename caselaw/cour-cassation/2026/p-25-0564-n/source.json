@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.0564.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-01-20",
+  "date_as_printed": "20 JANUARI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.0564.N.pdf",
+  "source_sha256": "70fe9525a9184a0d3da841deed2f50e486c409ecea85f2cb34cd21af5142740f",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
