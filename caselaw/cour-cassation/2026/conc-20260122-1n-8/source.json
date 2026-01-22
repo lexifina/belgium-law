@@ -1,0 +1,34 @@
+{
+  "title": "Conclusie ECLI:BE:CASS:2026:CONC.20260122.1N.8",
+  "ecli": "ECLI:BE:CASS:2026:CONC.20260122.1N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-22",
+  "date_as_printed": "Conclusie van het Openbaar Ministerie van 22 januari 2026",
+  "published_on_juportal": "2026-02-26",
+  "language": "nl",
+  "role_number": "F.24.0068.N",
+  "case_name_as_published": "VITAFIN contra BELGISCHE STAAT FINANCIËN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Bénéfices",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Winsten",
+    "IMPOTS SUR LES REVENUS - IMPOT DES SOCIETES - Détermination du revenu global net imposable - Plus-values",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Meerwaarden"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Winsten",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 24",
+    "INKOMSTENBELASTINGEN - VENNOOTSCHAPSBELASTING - Vaststelling van het belastbaar netto-inkomen - Meerwaarden",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 47"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:CONC.20260122.1N.8",
+  "source_sha256": "47d126a0990736d19236ae503cc8617d04dca656f3f21537a6ac3d136b80eb51",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:CONC.20260122.1N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/09/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
