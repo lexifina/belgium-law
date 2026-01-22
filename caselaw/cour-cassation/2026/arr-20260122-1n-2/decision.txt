@@ -1,0 +1,62 @@
+Nr. F.23.0040.N
+BELGISCHE STAAT, Federale overheidsdienst Financiën, vertegenwoordigd door de minister van Financiën, met kabinet te 1000 Brussel, Wetstraat 12, voor wie optreedt de adviseur-generaal van de Algemene Administratie Bijzondere Belastinginspectie, dienst geschillen, met kantoor te 9050 Gent (Ledeberg), G. Crommenlaan 6 bus 806, ingeschreven bij de KBO onder het nummer 0308.357.159,
+eiser,
+vertegenwoordigd door mr. Geoffroy de Foestraets en mr. Stefan De Vleeschouwer, advocaten bij het Hof van Cassatie, beiden met kantoor te 1000 Brussel, Dalstraat 67, waar de eiser woonplaats kiest,
+tegen
+1.	A.E.,
+2.	M.S.,
+verweerders,
+vertegenwoordigd door mr. Daniel Garabedian, advocaat bij het Hof van Cassatie, met kantoor te 1000 Brussel, Goedheidsstraat 5, waar de verweerders woonplaats kiezen.
+I.	RECHTSPLEGING VOOR HET HOF
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Gent van 3 januari 2023.
+Advocaat-generaal Johan Van der Fraenen heeft op 3 december 2025 een schriftelijke conclusie neergelegd.
+Raadsheer Myriam Ghyselen heeft verslag uitgebracht.
+Advocaat-generaal Johan Van der Fraenen heeft geconcludeerd.
+II.	CASSATIEMIDDELEN
+De eiser voert in zijn verzoekschrift dat aan dit arrest is gehecht, twee middelen aan.
+III.	BESLISSING VAN HET HOF
+Beoordeling
+Eerste middel
+Tweede onderdeel
+1.	De inkomstenbelastingen dienen in beginsel, onder voorbehoud van toepassing van de door de wet voorziene antimisbruikbepalingen, te worden geheven op de door de belastingplichtige werkelijk gehanteerde juridische constructie.
+2.	Artikel 344, § 1, WIB92, zoals gewijzigd bij artikel 167 Programmawet (I) van 29 maart 2012, bepaalt:
+“Aan de administratie kan niet worden tegengeworpen, de rechtshandeling noch het geheel van rechtshandelingen dat een zelfde verrichting tot stand brengt, wanneer de administratie door vermoedens of andere in artikel 340 bedoelde bewijsmiddelen en aan de hand van objectieve omstandigheden aantoont dat er sprake is van fiscaal misbruik.
+Er is sprake van fiscaal misbruik wanneer de belastingplichtige middels de door hem gestelde rechtshandeling of het geheel van rechtshandelingen één van de volgende verrichtingen tot stand brengt:
+1° een verrichting waarbij hij zichzelf in strijd met de doelstellingen van een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten buiten het toepassingsgebied van die bepaling plaatst; of
+2° een verrichting waarbij aanspraak wordt gemaakt op een belastingvoordeel voorzien door een bepaling van dit Wetboek of de ter uitvoering daarvan genomen besluiten en de toekenning van dit voordeel in strijd zou zijn met de doelstellingen van die bepaling en die in wezen het verkrijgen van dit voordeel tot doel heeft.
+Het komt aan de belastingplichtige toe te bewijzen dat de keuze voor zijn rechtshandeling of het geheel van rechtshandelingen door andere motieven verantwoord is dan het ontwijken van inkomstenbelastingen.
+Indien de belastingplichtige het tegenbewijs niet levert, dan wordt de belastbare grondslag en de belastingberekening zodanig hersteld dat de verrichting aan een belastingheffing overeenkomstig het doel van de wet wordt onderworpen alsof het misbruik niet heeft plaatsgevonden”.
+3.	Het herdefiniëringsproces dat krachtens artikel 344, § 1, vierde lid, WIB92 kan plaatsvinden, laat de administratie toe om in geval van fiscaal misbruik de juridische vormgeving van een verrichting te wijzigen door middel van eliminatie en/of substitutie van een of meer rechtshandelingen, zonder dat de in de plaats gestelde rechtshandelingen gelijksoortige niet-fiscale gevolgen moeten sorteren. Deze bepaling laat niet toe dat loutere rechtsfeiten worden geëlimineerd of gesubstitueerd.
+4.	Wanneer de administratie wenst over te gaan tot substitutie van een of meer rechtshandelingen, dient zij daarenboven de verrichting te respecteren.
+Er is sprake van een niet-toegelaten wijziging van de verrichting wanneer de administratie zich niet beperkt tot het wijzigen van de juridische vormgeving van de door de belastingplichtige gerealiseerde economische operatie, maar wel de economische operatie zelf wijzigt.
+5.	De rechter beoordeelt in feite of de administratie met de door haar beoogde herdefiniëring de verrichting wijzigt. Het Hof kan evenwel nagaan of de feitenrechter gelet op de gedane vaststellingen wettig heeft kunnen besluiten dat de administratie de verrichting heeft gewijzigd.
+6.	De appelrechter stelt vast dat:
+-	de eerste verweerder op 12 oktober 2012 na een verschuiving van aandelenpakketten tussen verschillende bestaande en nieuw opgerichte vennootschappen in Luxemburg, Tsjechië en de Verenigde Staten van Amerika een pakket aandelen in de Luxemburgse vennootschap Primus Holding sàrl (‘het aandelenpakket’) ontvangt van Prime Laundry II LLC, een vennootschap naar het recht van de staat Delaware;
+-	de eerste verweerder op 16 oktober 2012 het aandelenpakket overdraagt aan de door hem en de tweede verweerster opgerichte Nederlandse STAK Hatfield, in ruil voor deelcertificaten van die STAK;
+-	de STAK Hatfield op 18 oktober 2012 het aandelenpakket voor 1 euro per aandeel verkoopt aan de door haar opgerichte Luxemburgse vennootschap Brunelcap spf, waarbij de verkoopprijs blijft openstaan als schuldvordering van de STAK Hatfield op Brunelcap spf;
+-	de spf Brunelcap op 19 oktober 2012 het aandelenpakket overdraagt aan de Nederlandse STAK Tivox, in ruil voor deelcertificaten van die STAK;
+-	de STAK Tivox op 24 oktober 2012 het aandelenpakket, samen met nog bijkomende aandelen Primus Holding sàrl die niet van de eerste verweerder maar van derden komen, overdraagt aan de Nederlandse cv Finax;
+-	de cv Finax op 4 maart 2014 het aldus uitgebreide aandelenpakket in het kader van de overname van de Primusgroep door de Alliance Laundry groep verkoopt aan Alliance Laundry Systems en de verkoopprijs van 140.125.317 euro op 7 maart 2014 werd betaald aan de cv Finax;
+-	Brunelcap spf op 12 maart 2014 op grond van de deelcertificaten die zij heeft van STAK Tivox het deel van de verkoopprijs ontvangt dat overeenstemt met de verkoopprijs van het aandelenpakket, hetzij 4.126.987 euro, en dit bedrag in Luxemburg niet wordt onderworpen aan enige inkomstenbelasting omdat een spf niet is onderworpen aan de Luxemburgse inkomstenbelasting;
+-	Brunelcap spf “als enige de betreffende uitkering […] ontvangen heeft” en “op geen enkele manier, noch geheel, noch gedeeltelijk, noch rechtstreeks, noch onrechtstreeks tot door- of uitbetaling aan [de eerste verweerder] of een of beide [verweerders] is overgegaan”;
+-	de eiser, zich beroepend op de algemene antimisbruikbepaling van artikel 344, § 1, WIB92, is overgegaan tot belasting van de uitkering van 4.126.987 euro als winst van de eerste verweerder.
+7.	De appelrechter oordeelt vervolgens dat artikel 344, § 1, WIB92 niet toelaat dat de uitkering van 4.126.987 euro als winst van de eerste verweerder wordt belast, omdat “de bestreden aanslag gesteund is op de aanname (van feiten) dat de eerste [verweerder] als aandeelhouder een uitkering heeft ontvangen, terwijl dat helemaal niet het geval is” en de eiser “die feiten niet [kan] ‘wegkwalificeren’ op basis van artikel 344, § 1, WIB92”.
+De appelrechter die aldus oordeelt dat de door de eiser voorgestane herdefiniëring een niet-toegelaten wijziging van de verrichting inhoudt, verantwoordt zijn beslissing naar recht.
+Het onderdeel kan niet worden aangenomen.
+Eerste onderdeel
+8.	Om de vordering van de eiser af te wijzen, oordeelt de appelrechter niet dat de bestreden aanslag is gesteund op de aanname dat de eerste verweerder een uitkering “als aandeelhouder” heeft ontvangen “van” spf Brunelcap, maar wel dat de eerste verweerder naar aanleiding van de verkoop van het aandelenpakket geen enkele uitkering heeft ontvangen.
+9.	De aangevoerde miskenning van de bewijskracht heeft, ook al zou ze vaststaan, geen invloed op de wettigheid van die beslissing.
+Het onderdeel is niet ontvankelijk.
+Derde onderdeel
+10.	De in het tweede onderdeel vergeefs bekritiseerde reden draagt de beslissing dat de eiser zich niet kan beroepen op artikel 344, § 1, WIB92.
+Het onderdeel kan niet tot cassatie leiden en is bij gebrek aan belang niet ontvankelijk.
+Tweede middel
+11.	Krachtens artikel 344, § 2, WIB92 kan aan de administratie belast met de vestiging van de inkomstenbelastingen niet worden tegengeworpen, de verkoop, de cessie of de inbreng van aandelen, obligaties, schuldvorderingen of andere titels tot vestiging van leningen, auteursrechten en naburige rechten, uitvindingsoctrooien, fabricageprocédés, fabrieks- of handelsmerken of andere soortgelijke rechten of sommen geld, rechtstreeks of onrechtstreeks, aan een in artikel 227 WIB92 bedoelde belastingplichtige of aan een buitenlandse inrichting waarmee de in België gevestigde belastingplichtige zich rechtstreeks of onrechtstreeks in een of andere band van wederzijdse afhankelijkheid bevindt en die krachtens de bepalingen van de wetgeving van het land waar zij zijn gevestigd, niet aan een inkomstenbelasting is onderworpen of ter zake van de inkomsten uit de vervreemde goederen en rechten aldaar aan een aanzienlijk gunstigere belastingregeling is onderworpen dan die waaraan soortgelijke inkomsten in België zijn onderworpen.
+Deze bepaling laat de administratie enkel toe om een verkoop, cessie of inbreng die aan de gestelde voorwaarden voldoet niet-tegenwerpelijk te verklaren, zodat de belasting kan worden gevestigd alsof de betrokken verkoop, cessie of inbreng nooit heeft plaatsgevonden.
+12.	Het middel dat aanvoert dat deze bepaling de administratie toelaat om bepaalde rechtsgevolgen van een verkoop, en met name het ontvangen van de verkoopprijs, fiscaal toe te rekenen aan een andere partij dan aan de verkoper, faalt naar recht.
+Dictum
+Het Hof,
+Verwerpt het cassatieberoep.
+Veroordeelt de eiser tot de kosten.
+Bepaalt de kosten voor de eiser op 585,94 euro en op de som van 650 euro rolrecht verschuldigd aan de Belgische Staat.
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, eerste kamer, samengesteld uit sectievoorzitter Geert Jocqué, als voorzitter, en de raadsheren Ilse Couwenberg, Sven Mosselmans, Myriam Ghyselen en Eva Van Hoorde en in openbare rechtszitting van 22 januari 2026 uitgesproken door sectievoorzitter Geert Jocqué, in aanwezigheid van advocaat-generaal Johan Van der Fraenen, met bijstand van griffier Sofie Cammaert.
