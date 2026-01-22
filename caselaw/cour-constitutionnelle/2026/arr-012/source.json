@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.012",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.012",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-22",
+  "date_as_printed": "Jugement/arrêt du 22 janvier 2026",
+  "published_on_juportal": "2026-02-02",
+  "language": "fr",
+  "role_number": "12/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 11bis, §§ 1er et 2, du Code de la nationalité belge, posées par la Cour d'appel d'Anvers. Nationalité - Acquisition de la nationalité belge - Acquisition par déclaration de nationalité - Enfant mineur né en Belgique - Conditions",
+    "de prejudiciële vragen betreffende artikel 11bis, §§ 1 en 2, van het Wetboek van de Belgische nationaliteit, gesteld door het Hof van Beroep te Antwerpen. Nationaliteit - Verkrijging van de Belgische nationaliteit - Verkrijging door nationaliteitsverklaring - In België geboren minderjarig kind - Voorwaarden"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 11bis, §§ 1er et 2, du Code de la nationalité belge, posées par la Cour d'appel d'Anvers. Nationalité - Acquisition de la nationalité belge - Acquisition par déclaration de nationalité - Enfant mineur né en Belgique - Conditions"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.012&lang=fr",
+  "source_sha256": "a3bbf9abdaa57bbbe95cd8a75764910a6540230c04e14aa34cc5d5457737be59",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.012_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_89.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
