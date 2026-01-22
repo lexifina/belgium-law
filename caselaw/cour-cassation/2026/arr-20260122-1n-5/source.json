@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260122.1N.5",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260122.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2026",
+  "published_on_juportal": "2026-02-19",
+  "language": "nl",
+  "role_number": "F.24.0040.N",
+  "case_name_as_published": "M. contra VLAAMS GEWEST",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "DROITS DE SUCCESSION",
+    "SUCCESSIERECHTEN"
+  ],
+  "fiche": [
+    "SUCCESSIERECHTEN",
+    "Decreet 13 december 2013 houdende de Vlaamse Codex Fiscaliteit - 13-12-2013 - Art. 2.7.3.4.1 - 06 ELI link Pub nr 2013036154",
+    "SUCCESSIERECHTEN",
+    "Decreet 13 december 2013 houdende de Vlaamse Codex Fiscaliteit - 13-12-2013 - Art. 2.7.3.5.2 - 06 ELI link Pub nr 2013036154"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260122.1N.5",
+  "source_sha256": "919dcabb1c46f283283f343dda48776f2240b602e66ebd0ba0f8e4b82793be1b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260122.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/26/sitemap_43.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
