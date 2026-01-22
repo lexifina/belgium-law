@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.524",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.524",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2026",
+  "published_on_juportal": "2026-01-26",
+  "language": "nl",
+  "role_number": "A. 242765/IX-10521",
+  "case_name_as_published": "Arrest 265524 - Federaal openbaar ambt (behalve bijzondere statuten) - Reglementen - 22/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.524",
+  "source_sha256": "215ad3dde796f245f755047c5c5c798149dd3d70c0a8573caf33a3c875279393",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.524_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_164.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
