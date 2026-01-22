@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260122.1N.3",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260122.1N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-22",
+  "date_as_printed": "Vonnis/arrest van 22 januari 2026",
+  "published_on_juportal": "2026-02-19",
+  "language": "nl",
+  "role_number": "F.24.0016.N",
+  "case_name_as_published": "Dr. S. c. BELGISCHE STAAT FINANCIËN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Réclamations",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Bezwaar"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Bezwaar",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 371"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260122.1N.3",
+  "source_sha256": "368f07d9ca8f7556a5a83650802d28acd13ab82308447bcf76726d7ca307e057",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260122.1N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/09/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
