@@ -1,0 +1,100 @@
+ecli_input     ECLI:BE:GHCC:2010 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      GHCC ecli_cour_old ecli_annee     2010 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:GHCC:2010 invalide Invalid ECLI ID - 4 element(s)
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+XIIIe CHAMBRE
+no 265.519 du 22 janvier 2026
+A. 236.261/XIII-9.634
+En cause : 1. M. P., 2. A. B., 3. C. C., 4. S. J., 5. M. U., 6. C. C., 7. J. B., 8. C. M., 9. D. N., 10. l’association sans but lucratif 100TWh, ayant tous élu domicile chez Mes Benoît CAMBIER et Thomas CAMBIER, avocats, avenue Winston Churchill 253/40
+1180 Bruxelles, contre :
+la Région wallonne, représentée par son Gouvernement, ayant élu domicile chez Me Pierre MOËRYNCK, avocat, avenue de Tervueren 34/27
+1040 Bruxelles,
+Partie intervenante :
+la société anonyme BALI WIND, ayant élu domicile chez Mes Bernard DELTOUR et Valérie VANDEGAART, avocats, boulevard Reyers 80
+1030 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 29 avril 2022 par la voie électronique, les parties requérantes demandent l’annulation des décisions suivantes :
+XIII - 9634 - 1/8
+- la décision du 14 septembre 2021 par laquelle les fonctionnaires technique et délégué octroient à la société anonyme (SA) Bali Wind un permis unique ayant pour objet la construction et l’exploitation d’une centrale électrique de type « turbine gaz vapeur » (TGV) d’une puissance maximale de 870 MW dans un établissement situé chaussée de Nivelles, 95 à Manage ;
+- « l’absence de décision ministérielle valant confirmation implicite de la décision rendue par les Fonctionnaires technique et délégué » ;
+- la décision du 14 septembre 2021 par laquelle les fonctionnaires technique et délégué retirent le permis unique du 12 octobre 2020 « s’il fallait considérer que la décision attaquée et la décision de retrait des fonctionnaires technique et délégué forment un tout ».
+II. Procédure
+Par une requête introduite le 15 juin 2022 par la voie électronique, la SA
+Bali Wind a demandé à être reçue en qualité de partie intervenante.
+Cette intervention a été accueillie par une ordonnance du 4 juillet 2022.
+Le dossier administratif a été déposé.
+Les mémoires en réponse, en réplique et en intervention ont été régulièrement échangés.
+M. Pierre-Yves Mélotte, auditeur au Conseil d’État, a rédigé un rapport sur la base de l’article 12 du règlement général de procédure.
+Le rapport a été notifié aux parties.
+Les parties adverse et intervenante ont déposé un dernier mémoire.
+Par une ordonnance du 1er décembre 2025, l’affaire a été fixée à l’audience du 15 janvier 2026.
+Mme Laure Demez, conseiller d’État, a exposé son rapport.
+Me Thomas Cambier, avocat, comparaissant pour les parties requérantes, Me Adrien Pironet, loco Me Pierre Moërynck, avocat, comparaissant pour la partie adverse, et Me André Lebrun, loco Mes Valérie Vandegaart et Bernard Deltour, avocats, comparaissant pour la partie intervenante, ont été entendus en leurs observations.
+XIII - 9634 - 2/8
+M. Pierre-Yves Mélotte, auditeur, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la cause
+Les faits utiles à l’examen de la cause sont exposés dans l’arrêt n° 265.515
+de ce jour (ECLI:BE:RVSCE:2026:ARR.265.515). Il y a lieu de s’y référer.
+IV. Recevabilité
+IV.1. Recevabilité ratione materiae
+L’article 95, § 8, du décret du 11 mars 1999 relatif au permis d’environnement établit un mécanisme de confirmation de la décision de première instance en cas d’absence de décision de l’autorité de recours dans le délai de rigueur.
+La confirmation découlant directement du décret, elle ne peut être considérée comme une décision implicite susceptible de recours. Seule la décision qui fait l’objet du recours administratif auprès du Gouvernement wallon est susceptible de faire grief et, partant, d’être annulée par le Conseil d’État.
+Le recours est irrecevable en tant qu’il est dirigé contre le deuxième acte attaqué.
+IV.2. Recevabilité ratione personae – intérêt au recours
+A. Thèses des parties
+A.1. La requête en annulation
+Les parties requérantes exposent qu’aucun moyen n’est dirigé contre le troisième acte attaqué en tant qu’il porte retrait de l’autorisation antérieure et que ce retrait, à lui seul, ne leur fait pas grief.
+Elles exposent qu’à l’exception de la dixième partie requérante, elles sont toutes domiciliées à proximité immédiate de la centrale projetée et sont directement affectées par celle-ci. Elles soulignent que le résumé non technique relève lui-même
+XIII - 9634 - 3/8
+que le projet est susceptible d’avoir des incidences non négligeables dans un rayon de 3 kilomètres. Elles en déduisent avoir un intérêt au recours.
+Se référant à son objet social tel que décrit à l’article 4 de ses statuts, la dixième partie requérante expose qu’elle milite pour un mix décarboné, incluant l’énergie nucléaire. Elle estime que la construction de nouvelles centrales au gaz, en remplacement de centrales nucléaires, non exigées par les autorités de contrôle, est irresponsable dans le contexte du changement climatique en cours et compte tenu des engagements de la Belgique pour lutter contre ce phénomène.
+A.2. Le mémoire en réponse
+La partie adverse conteste l’intérêt au recours de la dixième partie requérante, dès lors que son objet social n’est pas de lutter contre la mise en place de centrales telles que celle en projet. Elle en infère que ses intérêts ne sont pas lésés par l’acte attaqué. Elle considère que son objet social est libellé de façon trop large et que cette association ne peut pas bénéficier de la présomption d’intérêt érigée par l’article 9, § 2, de la Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement, et ses annexes I re et II, faite à Aarhus le 25 juin 1998 (Convention d’Aarhus).
+A.3. Le mémoire en intervention
+La partie intervenante conteste l’intérêt à agir de la dixième partie requérante, dès lors que son objet social et son but sont trop généraux pour fonder l’action.
+A.4. Le mémoire en réplique
+La dixième partie requérante réplique que par son objet social, elle cherche précisément à garantir la sécurité d’approvisionnement du pays et la protection de l’environnement à travers la mise en place d’un mix énergétique décarboné qui permettrait de respecter les accords de Paris sur le climat et de limiter la pollution dans les villes. Elle en déduit qu’elle peut bénéficier de la présomption d’intérêt instituée par la Convention d’Aarhus.
+Elle estime que le projet de construction de centrales à gaz est directement lié à la sortie du nucléaire, de sorte que le présent recours, introduit à l’encontre d’un projet qui vise à compenser une perte d’énergie nucléaire existante par la création d’une nouvelle centrale à gaz, entre directement dans le cadre de son objet social. Elle ajoute que ceci est d’autant plus le cas qu’à travers ce recours, elle entend dénoncer
+XIII - 9634 - 4/8
+l’absence d’informations préalables scientifiques, objectives et tangibles, en raison du défaut d’étude préalable des incidences sur l’environnement, tant au sujet du projet que du cadre dans lequel il s’inscrit.
+B. Examen
+B.1. Quant à l’intérêt au recours contre le troisième acte attaqué
+1. La décision des fonctionnaires technique et délégué du 14 septembre 2021 précitée contient deux objets ne formant pas un tout indissociable, à savoir, d’une part, le retrait du permis unique du 12 octobre 2020 et, d’autre part, l’octroi sous conditions d’un nouveau permis unique.
+Les parties requérantes n’ont pas d’intérêt au recours dirigé contre la décision de retrait précitée, celle-ci ayant pour effet de leur donner satisfaction. Elles reconnaissent d’ailleurs que le retrait, à lui seul, ne leur fait pas grief.
+Le recours est irrecevable en tant qu’il est dirigé contre le troisième acte attaqué.
+B.2. Quant à l’intérêt au recours de la dixième partie requérante
+2. Aux termes de l’article 19, alinéa 1er, des lois coordonnées sur le Conseil d’État, un recours en annulation au sens de l’article 14, § 1er, des mêmes lois peut être porté devant la section du contentieux administratif du Conseil d’État par toute partie justifiant d’une lésion ou d’un intérêt. Une partie requérante dispose de cet intérêt requis en droit si deux conditions sont remplies : d’une part, l’acte administratif attaqué doit lui causer un préjudice personnel, direct, certain, actuel et lésant un intérêt légitime, d’autre part, l’annulation éventuelle de cet acte doit lui procurer un avantage direct et personnel, si minime soit-il.
+Il appartient au Conseil d’État d’apprécier si chaque partie requérante qui le saisit justifie d’un intérêt au recours. Sous réserve des dispositions de droit international directement applicables, l’article 19 des lois coordonnées fait ainsi obstacle à l’action populaire qui serait introduite par n’importe quelle personne, qu’elle soit physique ou morale. Le Conseil d’État doit toutefois veiller à ce que la condition de l’intérêt ne soit pas appliquée d’une manière exagérément restrictive ou formaliste (C.C., 30 septembre 2010, n° 109/2010, B.4.3 ECLI:BE:GHCC:2010:
+ARR.109).
+XIII - 9634 - 5/8
+La condition relative au caractère direct de l’intérêt suppose qu’il existe une liaison causale directe, sans interposition d’un lien de droit ou de fait, entre l’acte attaqué et les inconvénients que la partie requérante fait valoir.
+Sont recevables les recours introduits par des personnes morales qui se prévalent pour agir d’une atteinte, portée par l’acte qu’elles contestent, aux intérêts légitimes et collectifs qu’elles poursuivent en raison de leur objet social, pour autant que ces intérêts soient spécifiques ou, en d’autres termes, suffisamment distincts de l’intérêt général.
+Une association sans but lucratif peut agir devant le Conseil d’État pour autant qu’elle satisfasse aux conditions exigées de toutes les autres personnes physiques ou morales, à savoir justifier d’un intérêt direct, personnel et légitime, ainsi que de la qualité requise. Elle témoigne de cette dernière condition lorsqu’elle agit dans le but qu’elle s’est fixé dans ses statuts et que ce but ne coïncide pas avec la défense de l’intérêt général ni avec l’intérêt personnel de ses membres. Pour apprécier le caractère général du but statutaire poursuivi par une association, deux critères doivent être pris en compte : un critère social et un critère géographique. Sur le plan social, est irrecevable le recours en annulation introduit par une association dont l’objet est à ce point large que l’intérêt collectif qu’elle poursuit n’est guère distinct de l’intérêt général. Sur le plan géographique, lorsque l’acte attaqué a une portée géographique bien délimitée, il ne peut être attaqué par une association dont l’action n’est pas limitée territorialement ou couvre une large étendue territoriale sauf si cette association a un objet social spécialisé. Par ailleurs, une association dont l’objet social s’étend à une vaste étendue territoriale n’est recevable à attaquer un acte administratif que si celui-ci a une incidence sur tout ou une grande partie du territoire visé par les statuts de cette association. Cette vérification se fait par l’analyse des statuts de l’association, les termes dans lesquels l’objet social est défini devant être suffisamment précis et spécifiques.
+3. En l’espèce, le but et l’objet social de la dixième partie requérante sont définis par l’article 4 de ses statuts comme suit :
+« Son but et son objet sont de fournir des informations sur les utilisations pacifiques de l’énergie nucléaire à ses membres, au grand public, aux médias, aux organisations d’employeurs, aux organisations d’employés, aux politiciens et à d’autres organisations.
+L’association peut également exercer toutes les activités possibles qui contribuent directement ou indirectement à la réalisation de l’objet désintéressé susmentionné ».
+À la lecture de cet objet social, on n’aperçoit pas en quoi le projet de centrale TGV autorisé par le premier acte attaqué empêche ou contrevient, en lui-
+XIII - 9634 - 6/8
+même, au développement et à la promotion de l’énergie nucléaire qui est le but poursuivi par la dixième partie requérante. En réalité, l’arrêt progressif du nucléaire –
+au jour de l’adoption de l’acte attaqué – résulte d’un choix du législateur et, partant, les inconvénients que cette association fait valoir ne sont pas en liaison causale directe avec l’acte attaqué mais du fait de l’interposition de ce lien de droit.
+La condition relative au caractère direct de l’intérêt de la dixième partie requérante n’étant pas remplie, son recours est irrecevable.
+V. Illégalité du premier acte attaqué
+Le premier acte attaqué ayant été annulé par l’arrêt n° 265.515 de ce jour (ECLI:BE:RVSCE:2026:ARR.265.515), il y a lieu de rejeter la présente requête en tant qu’elle poursuit son annulation et de constater qu’il est illégal pour les motifs de l’arrêt précité.
+VI. Indemnité de procédure et dépens
+Les parties requérantes sollicitent une indemnité de procédure de 700
+euros. Il y a lieu de faire droit à leur demande dans la mesure où elles ont obtenu gain de cause et de mettre les dépens à la charge de la partie adverse.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Le recours est irrecevable en tant qu’il est introduit par la dixième partie requérante et en ce qu’il est dirigé contre les deuxième et troisième actes attaqués.
+La requête est rejetée pour le surplus.
+Article 2.
+Une indemnité de procédure de 700 euros est accordée aux parties requérantes, à la charge de la partie adverse.
+La contribution prévue à l’article 66, 6o, du règlement général de procédure, liquidée à la somme de 22 euros, est mise à la charge de la partie adverse.
+XIII - 9634 - 7/8
+Les autres dépens, liquidés à la somme de 2.150 euros, sont mis à la charge de la partie adverse, à concurrence de 1.800 euros, à la charge de la dixième partie requérante, à concurrence de 200 euros, et à la charge de la partie intervenante, à concurrence de 150 euros.
+Ainsi prononcé à Bruxelles le 22 janvier 2026, par la XIIIe chambre du Conseil d’État, composée de :
+Christine Horevoets, conseiller d’État, président f.f., Lionel Renders, conseiller d’État, Laure Demez, conseiller d’État, Céline Morel, greffier.
+Le Greffier, Le Président,
+Céline Morel Christine Horevoets
+XIII - 9634 - 8/8
