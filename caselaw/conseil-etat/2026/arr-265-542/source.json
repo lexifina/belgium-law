@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.542",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.542",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-23",
+  "date_as_printed": "Jugement/arrêt du 23 janvier 2026",
+  "published_on_juportal": "2026-01-23",
+  "language": "fr",
+  "role_number": "A. 242798/XV-6057",
+  "case_name_as_published": "Arrêt 265542 - Bien-être des animaux - 23/01/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.542",
+  "source_sha256": "bca7b1966c93b96805357cac115c4c29c5b81fb3d773bc21d56fd8e978ed222a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.542_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/11/sitemap_175.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
