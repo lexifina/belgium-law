@@ -1,0 +1,30 @@
+{
+  "id": "2026000001",
+  "title": "18 DECEMBRE 2025. - Arrêté royal modifiant divers arrêtés royaux relatifs à la navigation de plaisance",
+  "source_title": "18 DECEMBRE 2025. - Arrêté royal modifiant divers arrêtés royaux relatifs à la navigation de plaisance",
+  "act": "arrete/mobilite-transports/2025/2026000001",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-01-13&numac_search=2026000001&page=6&lg_txt=F&caller=list&2026000001=28&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "cc115e28eb7115837938df818a717acc203e2d35a0b0cc821f14548fda9c9338",
+  "source_issuer": "Mobilité et Transports",
+  "made": "2025-12-18",
+  "published": "2026-01-13",
+  "in_force": "2026-01-23",
+  "in_force_basis": "Justel: Entrée en vigueur : 23 janvier 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Mobilité et Transports",
+    "Publication": "13 janvier 2026",
+    "Numéro": "2026000001",
+    "page": "1672",
+    "Dossier numéro": "2025-12-18/19",
+    "Entrée en vigueur": "23 janvier 2026",
+    "Ce texte modifie les textes suivants": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 7482,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-01-23"
+}
