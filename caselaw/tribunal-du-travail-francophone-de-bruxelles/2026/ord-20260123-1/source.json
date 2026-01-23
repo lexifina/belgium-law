@@ -1,0 +1,31 @@
+{
+  "title": "Ordonnance ECLI:BE:TTBRL:2026:ORD.20260123.1",
+  "ecli": "ECLI:BE:TTBRL:2026:ORD.20260123.1",
+  "court": "Tribunal du travail francophone de Bruxelles",
+  "court_code": "TTBRL",
+  "decision_date": "2026-01-23",
+  "date_as_printed": "Ordonnance du 23 janvier 2026",
+  "published_on_juportal": "2026-01-26",
+  "language": "fr",
+  "role_number": "26/18/I",
+  "case_name_as_published": "",
+  "subjects": [
+    "Autres"
+  ],
+  "summary_keywords": [
+    "DROIT JUDICIAIRE - ORGANISATION JUDICIAIRE - Organisation et service tribunaux - Bureau d'assistance judiciaire",
+    "Droit judiciaire - assistance judiciaire - procédure de sécurité sociale - dépens - défaut d'intérêt"
+  ],
+  "fiche": [
+    "DROIT JUDICIAIRE - ORGANISATION JUDICIAIRE - Organisation et service tribunaux - Bureau d'assistance judiciaire",
+    "Droit judiciaire - assistance judiciaire - procédure de sécurité sociale - dépens - défaut d'intérêt",
+    "Code Judiciaire - 10-10-1967 - 667",
+    "Bulletin juridique & social - BEDORET C, Assistance judiciaire : le tribunal du travail règle la mire - N°709, p. 2"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:TTBRL:2026:ORD.20260123.1",
+  "source_sha256": "592795fd3afa94b18ab8f240847e07aaa7984ba441b98d048a62824f181dc47b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:TTBRL:2026:ORD.20260123.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/26/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
