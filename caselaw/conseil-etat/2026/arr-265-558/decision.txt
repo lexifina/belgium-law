@@ -1,0 +1,182 @@
+RAAD VAN STATE, AFDELING BESTUURSRECHTSPRAAK
+VOORZITTER VAN DE XIVe KAMER
+nr. 265.558 van 23 januari 2026
+in de zaak A. 246.930/XIV-40.021
+In zake: de NV R.
+bijgestaan en vertegenwoordigd door advocaat Kris Luyckx kantoor houdend te 2000 Antwerpen Amerikalei 122/bus 14
+bij wie woonplaats wordt gekozen
+tegen:
+de gemeente HOOGLEDE
+bijgestaan en vertegenwoordigd door advocaat Gitte Laenen kantoor houdend te 2800 Mechelen Antwerpsesteenweg 16-18
+bij wie woonplaats wordt gekozen
+--------------------------------------------------------------------------------------------------
+I. Voorwerp van de vordering
+1. De vordering, ingesteld op 2 januari 2026, strekt tot de schorsing bij uiterst dringende noodzakelijkheid van de tenuitvoerlegging van “het besluit van het college van burgemeester en schepenen van de gemeente Hooglede d.d.
+17 december 2025 waarbij de overheidsopdracht van gemeente Hooglede met besteknummer 2025/007 (ID: 1382) en referte “software burgerzaken” werd gegund aan [een derde], alsook het bijgevoegde verslag van nazicht van de offertes d.d. 3/12/2025 van gemeente Hooglede.”
+II. Verloop van de rechtspleging
+2. Bij beschikking van 6 januari 2026 werd, in samenspraak met het aangeduide lid van het auditoraat, de procedurekalender vastgesteld.
+XIV-40.021-1/15
+De verwerende partij heeft een nota en een administratief dossier ingediend.
+De partijen zijn opgeroepen voor de terechtzitting, die heeft plaatsgevonden op 21 januari 2026 om 10:00 uur.
+Staatsraad Inge Vos heeft verslag uitgebracht.
+Advocaat Hanne Lambregts, die loco advocaat Kris Luyckx verschijnt voor de verzoekende partij, en advocaten Benjamin Gorrebeeck en Ann-
+Sofie Custers, die loco advocaat Gitte Laenen verschijnen voor de verwerende partij, zijn gehoord.
+Auditeur Frederick Ongena heeft een met dit arrest eensluidend advies gegeven.
+Er is toepassing gemaakt van de bepalingen op het gebruik der talen, vervat in titel VI, hoofdstuk II, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.
+III. Feiten
+3.1. De verwerende partij schrijft een overheidsopdracht voor leveringen uit met als voorwerp ‘Software Burgerzaken’.
+Als plaatsingsprocedure wordt gekozen voor een openbare procedure.
+De opdracht wordt nationaal bekendgemaakt.
+Inzake de geraamde duur en mogelijke verlengingen bepaalt de aankondiging het volgende:
+“5.1.3 Geraamde duur Begindatum: 02/01/2026
+XIV-40.021-2/15
+Einddatum van de duur: 01/01/2030
+5.1.4 Verlenging Maximumaantal verlengingen: 6
+Overige informatie over verlengingen: De opdracht bevat zes verlengingen.”
+De totale uitgave voor de opdracht, met inbegrip van de verlengingen, wordt geraamd op 232.092,74 euro (btw inbegrepen).
+3.2. Luidens het bestek dat op de opdracht van toepassing is, wenst het bestuur één totaalofferte te ontvangen voor volgende modules met een onbeperkt aantal gebruikerslicenties:
+“• Bevolking, inclusief digitale woonstcontrole;
+• Vreemdelingen;
+• Burgerlijke stand, inclusief koppeling Digitale aangifte overlijden (eLys)
+Volgende modules vallen buiten deze opdracht:
+• eLoket voor attesten;
+• Beheer begraafplaatsen.”
+Het bestek bepaalt dat de looptijd van de opdracht, met inbegrip van de verlengingen, 10 jaar bedraagt en zet de redenen uiteen waarom deze termijn volgens de aanbestedende overheid noodzakelijk en gerechtvaardigd is. De looptijd van de opdracht wordt onder punt 2.7. ‘Leveringstermijn’ van het bestek als volgt verduidelijkt:
+“Termijn in maanden: 48 maanden Voorziene begindatum van de leveringen: 2 januari 2026
+Voorziene einddatum van de leveringen: 1 januari 2030
+Er kunnen 6 stilzwijgende verlengingen zijn.
+Verlenging 1 : 12 maanden (vanaf 1 april 2030)
+Verlenging 2 : 12 maanden (vanaf 1 januari 2031)
+Verlenging 3 : 12 maanden (vanaf 1 januari 2032)
+Verlenging 4 : 12 maanden (vanaf 1 januari 2033)
+Verlenging 5 : 12 maanden (vanaf 1 januari 2034)
+Verlenging 6 : 12 maanden (vanaf 1 januari 2035)”
+Punt 1.10 van het bestek vermeldt de volgende gunningscriteria:
+- Kwaliteit en functionaliteit van de software: 45 punten - Prijs: 35 punten
+XIV-40.021-3/15
+- Plan van aanpak betreffende de implementatie en conversie van bestaande gegevens en Service Level Agreement (SLA): 10 punten - Dataveiligheid en noodplanning: 10 punten
+3.3. Twee inschrijvers, onder wie de verzoekende partij, dienen een offerte in.
+3.4. Op 6 juli 2025 wordt een verslag van nazicht opgesteld, op basis waarvan het college van burgemeester en schepenen van de gemeente Hooglede op 17 juli 2025 beslist om de opdracht te gunnen aan de nv C.
+3.5. Tegen de tenuitvoerlegging van deze beslissing stelt de verzoekende partij een vordering tot schorsing bij uiterst dringende noodzakelijkheid in bij de Raad van State, waarna de verwerende partij op 27 augustus 2025 besluit om de beslissing van 17 juli 2025 in te trekken en de door de verzoekende partij ingestelde vordering ingevolge de voormelde intrekking bij arrest nr. 264.364 van 29 september 2025 (ECLI:BE:RVSCE:2025:ARR.264.364)
+wordt verworpen.
+3.6. Op 10 oktober 2025 stelt de verwerende partij aan de verzoekende partij een vraag tot verduidelijking in het kader van artikel 66, § 3, van de wet van 17 juni 2016 ‘inzake overheidsopdrachten’ (hierna: wet van 17 juni 2016).
+Deze vraag wordt door de verzoekende partij beantwoord met een schrijven van 16 oktober 2025.
+3.7. Met een afzonderlijk aangetekend schrijven van 20 oktober 2025
+vraagt de verwerende partij aan beide inschrijvers om een prijsverantwoording te verstrekken voor bepaalde eenheidsprijzen.
+Beide inschrijvers verstrekken op 30 oktober 2025 een prijsverantwoording.
+XIV-40.021-4/15
+3.8. Met een afzonderlijk aangetekend schrijven van 7 november 2025 vraagt de verwerende partij beide inschrijvers nog om een aanvullende prijsverantwoording.
+De verzoekende partij verstrekt een aanvullende prijsverantwoording op 20 november 2025, de nv C. op 21 november 2025.
+3.9. Op 3 december 2025 wordt een nieuw verslag van nazicht opgesteld.
+In het verslag worden beide inschrijvers geselecteerd en de offertes van de beide inschrijvers regelmatig bevonden.
+Inzake het prijs-of kostenonderzoek van de offertes bevat het verslag van nazicht de volgende algemene opmerking:
+“Alle ingediende offertes werden onderworpen aan een prijs- of kostenonderzoek overeenkomstig het artikel 35 van het KB van 18 april 2017.
+Het resultaat van dit onderzoek wordt hieronder weergegeven.
+De aanbestedende overheid wijst er voorts op dat rekening werd gehouden met de omstandigheid dat slechts twee (2) offertes werden ingediend. In die omstandigheden bestaat geen evident uitgangspunt om de ene offerte tot toetsingsmaatstaf te verheffen om de andere offerte op basis daarvan als behept met een abnormale prijs te bestempelen. (RvS 3 juni 2024, nr.
+259.985)”
+Daarna wordt wat het ten aanzien van de nv C. gevoerde bijzonder prijsonderzoek betreft het volgende opgemerkt:
+“Volgende posten werden aangemerkt als schijnbaar abnormaal laag:
+• Jaarlijkse kost – 1
+• Jaarlijkse kost – 2
+• Jaarlijkse kost – 3
+• Jaarlijkse kost – 4
+• Jaarlijkse kost – 5
+• Jaarlijks[…]e kost – 6
+• Eenmalige kost vreemdelingen Volgende prijzen werden aangemerkt als schijnbaar abnormaal hoog:
+• Eénmalige kost: integraties
+XIV-40.021-5/15
+• Eénmalige kost: Infrastructuur De inschrijver werd gevraagd om prijsverantwoording bij schrijven d.d. 20
+oktober 2025 en 7 november 2025.
+De inschrijver bezorgde verantwoordingen bij schrijven d.d. 30 oktober 2025
+en 21 november 2025.
+Ten aanzien van de schijnbaar abnormaal lage prijs die werd opgegeven voor de jaarlijkse onderhoudskost, licht de inschrijver toe dat één (1)
+geïntegreerde huur wordt aangerekend, die bestaat uit twee componenten: de pakketcomponent en de verwerkingscomponent.
+De inschrijver licht toe dat een getrapte huurformule wordt gehanteerd. De inschrijver licht hierbij zijn bedrijfsvisie en werkwijze concreter toe in functie van de geboden oplossing. De aanbestedende overheid stelt vast dat het hanteren van een dergelijke getrapte huurformule een objectief verklarende verantwoording uitmaakt voor een prijsverschil met de andere inschrijver en met de raming in de eerste jaren van de overheidsopdracht.
+De componenten van de onderhoudskost worden verder verantwoord waarbij de inschrijver enerzijds wijst op de efficiëntiewinsten die worden geboekt door de jarenlange ervaring en de schaalvoordelen die worden gerealiseerd door de terbeschikkingstelling van de dienst aan een groot aantal klanten.
+Beide vormen rechtmatige elementen ter verantwoording van een schijnbaar abnormaal lage eenheidsprijzen.[…]
+Tot slot geeft de inschrijver aan maximaal gebruik te maken van toepasssingen die kosteloos beschikbaar zijn vanuit de Vlaamse overheid.
+Ook dit element wordt door de aanbestedende overheid aanvaard als een rechtmatig element ter verantwoording van de schijnbaar abnormaal lage eenheidsprijzen.
+Ten aanzien van de schijnbaar abnormaal lage eenheidsprijs die werd opgegeven voor de éénmalige kost – vreemdelingen merkt de inschrijver terecht op dat deze module reeds werd aangekocht door de aanbestedende overheid zodat deze kost niet opnieuw hoeft te worden gemaakt. Dit maakt een objectieve, rechtsgeldige verantwoording uit.
+Abstractie makend van enige specifieke post, meldt de inschrijver ook een aantal commerciële tegemoetkomingen te hebben vervat in de offerte.
+Ten aanzien van de schijnbaar abnormaal hoge eenmalige kostprijs voor de integraties en de infrastructuur brengt de inschrijver volgende verantwoordingen bij.
+De inschrijver stelt dat de aanbestedende overheid vooralsnog niet beschikt over specifieke integraties, die de inschrijver nodig heeft. Er dient een aanvullende kostprijs te worden voorzien voor de configuratie, de installatie en de onboarding van deze integratiecomponenten. De aanbestedende overheid kon nagaan dat de beoogde integraties inderdaad enerzijds vooralsnog niet beschikbaar zijn en anderzijds inderdaad noodzakelijk zijn voor de goede uitvoering van de opdracht, zodat de verantwoordingen alleszins in principe worden aanvaard. In een aanvullende verantwoording wordt de kostprijs verder cijfermatig uitgesplitst in een gedeelte installatie, opleiding en parametrisering en een prijs voor de componenten die werden ontwikkeld. Deze kostenposten worden herleid naar mandagen inclusief transport op basis van een inschatting van de werklast, waar een beperkte
+XIV-40.021-6/15
+marge bovenop wordt gerekend. De inschrijver licht de overhead nader toe hetgeen naar het inzicht van de aanbestedende overheid een realistische kost bedraagt. Gelet op de gedetailleerde, concrete, cijfermatige verantwoordingen besluit de aanbestedende overheid tot het normaal karakter van de geviseerde prijs.
+De inschrijver stelt ten aanzien van de infrastructuur dat deze kostprijs hoofdzakelijk bestaat uit installatie en conversie, te herleiden naar mandagen op basis van een inschatting van de werklast aan een vast tarief. De inschrijver hanteert dezelfde marge en overhead voor deze post. De inschrijver stelt dat de materiaalkost te verwaarlozen is. De aanbestedende overheid was in de mogelijkheid om de inschatting van de werklast en de gehanteerde overhead/ marge na te gaan, en stelde het marktconform karakter ervan vast zodat wordt besloten tot het normaal karakter van de eenheidsprijs.
+Besluit De prijsverantwoording wordt aanvaard. Er werden geen abnormaal hoge of lage eenheids- of totaalprijzen vastgesteld.”
+Vervolgens wordt in het verslag van nazicht uiteengezet waarom ook de prijsverantwoording verstrekt door de verzoekende partij worden aanvaard.
+Na toetsing aan de gunningscriteria, luidt de finale rangschikking van de offertes als volgt:
+“
+Nr. Naam Score Prijs incl. btw*
+1 [nv C.] 95,5 % € 183.892,80
+2 [verzoekende partij] 75,48 % € 306.844,28
+*Nagerekende bedragen inclusief verlengingen.”
+3.10. Op 17 december 2025 beslist de verwerende partij om goedkeuring te verlenen aan het verslag van nazicht en om de opdracht te gunnen aan de nv C.
+Dit is de bestreden beslissing.
+3.11. Met een aangetekend schrijven en e-mailbericht van 18 december 2025 wordt aan de verzoekende partij meegedeeld dat de opdracht aan een andere inschrijver werd gegund.
+XIV-40.021-7/15
+IV. Verzoek tot vertrouwelijke behandeling van bepaalde stukken
+4.1. De verwerende partij vraagt in de nota met opmerkingen om de vertrouwelijke behandeling van bepaalde door haar neergelegde stukken die zij in de inventaris als vertrouwelijk aanduidt en waarbij zij de redenen opgeeft waarom zij om die vertrouwelijke behandeling vraagt. Ter terechtzitting stelt de verzoekende partij dat, in zoverre in de nota in repliek op haar grieven wordt verwezen naar vertrouwelijk stukken, zij deze stukken graag wil inzien.
+4.2. Op grond van artikel 26 van de wet van 17 juni 2013 ‘betreffende de motivering, de informatie en de rechtsmiddelen inzake overheidsopdrachten, bepaalde opdrachten voor werken, leveringen en diensten en concessies’ (hierna:
+wet van 17 juni 2013) dient de Raad van State, als de ter zake bevoegde verhaalinstantie, de maatregelen te nemen die noodzakelijk zijn om, enerzijds, de vertrouwelijkheid van bepaalde commerciële gegevens en zakengeheimen te waarborgen, en anderzijds, het recht van de partijen op een effectieve rechtsbescherming en op een eerlijk proces te waarborgen, in het bijzonder door te voorzien in een voldoende mate van tegenspraak.
+Het lichten van de vertrouwelijkheid van een stuk dat vertrouwelijke informatie of zakengeheimen bevat, is slechts mogelijk indien zulks noodzakelijk is om het recht op een eerlijk proces te waarborgen. Wat meer in het bijzonder een daartoe strekkend verzoek uitgaande van een verzoekende partij betreft, betekent dit dat deze partij aannemelijk moet maken dat zij zonder kennisneming van het vertrouwelijk stuk niet over voldoende gegevens beschikt om haar middelen te formuleren.
+4.3. In zoverre de voor het eerst ter terechtzitting geformuleerde opmerking van de verzoekende partij omtrent de inzage van stukken als een verzoek tot het lichten van de vertrouwelijkheid van de betrokken stukken dient te worden begrepen, valt vooreerst niet in te zien waarom dergelijk verzoek niet eerder kon worden geformuleerd nu de verzoekende partij reeds kennis had van de nota en de inventaris van het administratief dossier sinds 14 januari 2016.
+XIV-40.021-8/15
+Voorts valt op te merken dat het verzoek betrekking lijkt te hebben op stukken die bedrijfsgevoelige informatie bevatten, waaronder de eenheidsprijzen en prijsverantwoordingen van de gekozen inschrijver.
+Met haar opmerking ter terechtzitting, maakt de verzoekende partij op het eerste gezicht niet aannemelijk te zijn gehinderd bij het aanvoeren van haar middelen tegen de bestreden gunningsbeslissing, door het feit dat onder meer de integrale prijsverantwoording van de gekozen inschrijver vertrouwelijk is gebleven, te meer daar zij in kennis blijkt te zijn gesteld van een samenvattende neerslag in het gunningsverslag. Zij heeft in haar middel de beoordeling van de prijsverantwoording kunnen betwisten. Er blijkt ook niet hoe de niet-inzage van het betrokken stukken te dezen een effectieve rechtsbescherming aan de verzoekende partij zou ontzeggen, noch hoe de niet-inzage afbreuk zou doen aan haar recht op een eerlijk proces.
+Daarbij wordt in herinnering gebracht dat, indien de vertrouwelijkheid van bepaalde commerciële gegevens of zakengeheimen gehandhaafd blijft, de Raad van State in elk geval van de betrokken stukken kennis kan nemen en deze desgevallend in zijn beoordeling betrekt. Hij kan aldus de juistheid nagaan van de veronderstellingen waarop de grieven van de verzoekende partij steunen, en verifiëren of de door de aanbestedende overheid gegeven redenen, ter verantwoording van de wettigheid van de bestreden beslissing, steun vinden in de vertrouwelijke stukken van het administratief dossier.
+4.4. De vraag tot het lichten van de vertrouwelijkheid wordt niet ingewilligd.
+V. Herinnering aan de schorsingsvoorwaarden
+5. Krachtens artikel 17, §§ 1, 5 en 6, van de gecoördineerde wetten op de Raad van State, gelezen in samenhang met de artikelen 15 en 31 van de wet van 17 juni 2013, moet enkel worden onderzocht of in de voorliggende vordering tot schorsing die is ingesteld volgens de procedure bij uiterst dringende noodzakelijkheid, een ernstig middel waarvan het onderzoek zich leent voor een
+XIV-40.021-9/15
+versnelde behandeling of een klaarblijkelijke onwettigheid wordt aangevoerd.
+VI. Onderzoek van het eerste en enig middel
+6. De verzoekende partij voert in het eerste en enig middel de schending aan van artikel 84 van de wet van 17 juni 2016, “artikel 33 e.v.” van het koninklijk besluit van 18 april 2017 ‘plaatsing overheidsopdrachten in de klassieke sectoren’, de materiëlemotiveringsplicht en de zorgvuldigheidsplicht.
+7. Artikel 2, § 1, tweede tot vierde lid, van het besluit van de regent van 23 augustus 1948 ‘tot regeling van de rechtspleging voor de afdeling Bestuursrechtspraak van de Raad van State’ (hierna: de algemene procedureregeling) is op grond van artikel 8, § 1, eerste lid, van het koninklijk besluit van 19 november 2024 ‘tot bepaling van de rechtspleging in kort geding en tot wijziging van diverse besluiten betreffende de procedure voor de afdeling Bestuursrechtspraak van de Raad van State’ (hierna: het koninklijk besluit van 19
+november 2024) – dat immers verwijst naar artikel 4, § 1, tweede lid, van dat besluit – eveneens van toepassing op een vordering tot schorsing bij uiterst dringende noodzakelijkheid.
+De vordering moet bijgevolg een samenvatting van het middel bevatten als voor het middel een verdere uiteenzetting nodig is. Luidens voornoemd artikel 2, § 1, derde lid, van de algemene procedureregeling kan de ontstentenis van de samenvatting van de grief niet leiden tot de niet-
+ontvankelijkheid van het middel, maar luidens het verslag aan de Koning bij het koninklijk besluit van 21 juli 2023 dat deze verplichting invoerde, heeft “die ontstentenis […] als enig mogelijk gevolg voor de verzoeker dat de draagwijdte van zijn grief niet correct samengevat en dus begrepen wordt in het verslag van de auditeur en in het arrest” (BS 26 juli 2023, 62630).
+Te dezen bevat het verzoekschrift weliswaar een uiteenzetting van het eerste en enig middel, maar geen samenvatting van de grieven in de zin van de voornoemde bepalingen, terwijl de verzoekende partij wel aan de hand van
+XIV-40.021-10/15
+omstandige toelichtingen concreter ingaat op de argumenten die volgens haar het middel ondersteunen.
+Uit wat voorafgaat volgt dat, zeker in een kortgedingprocedure ingeleid bij uiterst dringende noodzakelijkheid waarin ook het recht van verdediging van de overige partijen is beperkt, de verzoekende partij moet verdragen dat de Raad van State de grieven samenvat en begrijpt zoals hierna wordt gedaan.
+8. De verzoekende partij betoogt in het eerste en enig middel in essentie dat de verwerende partij, weliswaar laattijdig, na de intrekking van de eerste gunningsbeslissing van 17 juli 2025 een prijsonderzoek heeft gevoerd ten aanzien van de offerte van de gekozen inschrijver, maar dat uit het verslag van nazicht van 3 december 2025 blijkt dat de verwerende partij haar verplichtingen inzake het prijs- of kostenonderzoek alsnog niet is nagekomen. Zij stelt dat de schijnbaar abnormaal lage prijs, die door de gekozen inschrijver werd aangeboden, niet kan worden aanvaard aangezien de gekozen inschrijver enkel een prijs zou hebben opgegeven voor de basisopdracht van vier jaar, en geen voor de verlengingen gedurende een periode van zes jaar, waardoor er in realiteit gedurende een periode van zes jaar sprake zou zijn van een gratis dienstverlening.
+De verzoekende partij doet ook gelden dat de verwerende partij ten onrechte geen vergelijking heeft uitgevoerd met de eigen raming en dat zij in het gunningsverslag geen spoor kan terugvinden van de verantwoording inzake de naleving van verplichtingen inzake sociaal, arbeids- en milieurecht, met inbegrip van de verplichtingen die van toepassing zijn op het vlak van welzijn, lonen en sociale zekerheid.
+Beoordeling
+9. De verzoekende partij formuleert in haar enig middel kritiek op de beoordeling door de verwerende partij in het verslag van nazicht waarbij de door de gekozen inschrijver verstrekte prijsverantwoording werd aanvaard. Deze beoordeling is hoger weergegeven onder punt 3.9 van het feitenrelaas. Er wordt naar verwezen.
+XIV-40.021-11/15
+10. De aanbestedende overheid beschikt bij de toepassing van artikel 36, § 3, van het koninklijk besluit van 18 april 2017 over een beoordelingsruimte om de gegeven prijsverantwoordingen al dan niet te aanvaarden. De Raad van State mag, gesteld voor de toetsing van deze motieven van een aanbestedende overheid, zijn eigen beoordeling niet in de plaats stellen van die van het bestuur. Het komt aan de Raad van State enkel toe om desgevraagd na te gaan of de administratieve overheid is uitgegaan van de juiste feitelijke gegevens, of zij die correct heeft beoordeeld en of zij op grond daarvan binnen de perken van de redelijkheid tot haar besluit is kunnen komen. Hierbij moet zij op zorgvuldige wijze haar beslissing voorbereiden, hetgeen impliceert dat de beslissing dient te steunen op werkelijk bestaande en concrete feiten die met de vereiste zorgvuldigheid werden vastgesteld.
+11. In het verslag van nazicht, waar de bestreden gunningsbeslissing op steunt, zet de verwerende partij uiteen waarom zij de eenheidsprijzen voor de posten waarover zij de gekozen inschrijver heeft bevraagd en de totaalprijs van deze inschrijver niet abnormaal heeft bevonden. Daarbij wordt onder meer verwezen naar een getrapte huurformule, efficiëntiewinsten die hun oorzaak vinden in de ervaring van de inschrijver en gerealiseerde schaalvoordelen, gebruik van kosteloos ter beschikking gestelde toepassingen van de Vlaamse overheid, en een aantal toegekende commerciële tegemoetkomingen.
+Uit de vertrouwelijke stukken van het administratief dossier die de Raad van State heeft kunnen inzien blijkt op het eerste gezicht dat de motieven die het verslag van nazicht vermeldt, steun vinden in de door de gekozen inschrijver verstrekte prijsverantwoordingen.
+12. De verzoekende partij betoogt dat de verwerende partij op basis van de voormelde motivering in het verslag van nazicht niet rechtmatig kon oordelen dat er geen sprake is van een abnormale prijs omdat de verwerende partij ten onrechte met enkele cruciale elementen geen rekening heeft gehouden.
+13. In een eerste kritiek doet de verzoekende partij gelden dat de prijsverantwoordingen van de gekozen inschrijver niet konden worden aanvaard
+XIV-40.021-12/15
+omdat “er in realiteit sprake is van een gratis dienstverlening gedurende een periode van 6 jaar”.
+Anders dan de verzoekende partij betoogt, blijkt nergens uit de offerte van de gekozen inschrijver, noch uit de verstrekte prijsverantwoordingen, die als vertrouwelijk werden neergelegd en de Raad van State heeft kunnen inzien, dat de gekozen inschrijver enkel een prijs zou hebben opgegeven voor de basisopdracht en niets zou aanrekenen voor de verlengingen gedurende 6 jaar.
+Zo blijkt uit de offerte van de gekozen inschrijver dat daarin een gedetailleerd prijsoverzicht wordt geboden voor een periode van 10 jaar, met inbegrip van de in het bestek voorziene verlengingen. De offerte bevat aldus een tabel waarin de prijs per post en per jaar over een periode van 10 jaar is opgenomen.
+Uit die tabel blijkt tevens de kost waartegen de dienstverlening ook na de basisperiode zal gebeuren. De wijze waarop de prijs is aangeboden in de offerte wordt, op het eerste gezicht, bevestigd en verder toegelicht in de geboden prijsverantwoordingen.
+De eerste kritiek van de verzoekende partij lijkt dan ook feitelijke grondslag te missen.
+14. In een tweede kritiek betoogt de verzoekende partij dat de verwerende partij bij haar beoordeling ten onrechte is voorbij gegaan aan de raming, zowel wat de basisopdracht, als de verlengingen betreft.
+Deze kritiek wordt niet bijgevallen.
+Uit de stukken in verband met het prijs-of kostenonderzoek die als vertrouwelijk werden neergelegd, maar die de Raad van State heeft kunnen inzien, blijkt immers dat de verwerende partij in het kader van het algemeen prijsonderzoek de offerte van beide inschrijvers niet alleen vergeleken heeft met het gemiddelde inschrijvingsbedrag maar ook met de raming.
+Anders dan de verzoekende partij het ziet, blijkt uit het verslag van nazicht bovendien dat de verwerende partij de raming wel degelijk bij haar   XIV-40.021-13/15
+beoordeling van de prijsverantwoording heeft betrokken waar zij vaststelt “dat het hanteren van een dergelijke getrapte huurformule een objectief verklarende verantwoording uitmaakt voor een prijsverschil met de andere inschrijver en met de raming in de eerste jaren van de overheidsopdracht”. De verzoekende partij maakt op het eerste gezicht ook niet aannemelijk dat er krachtens enige bepaling of beginsel een verplichting bestaat om de raming in ieder geval bij de eindbeoordeling van een prijsverantwoording te betrekken.
+In zoverre de verzoekende partij er in het kader van deze kritiek opnieuw vanuit gaat dat door de gekozen inschrijver enkel een prijs voor de basisopdracht werd geboden, wordt verwezen naar hetgeen hiervoor onder punt 13
+werd opgemerkt bij de beoordeling van de eerste kritiek.
+15. In de mate dat de verzoekende partij in een derde kritiek nog verwijst naar artikel 36, § 2, vierde lid, van het koninklijk besluit van 18 april 2017
+valt op te merken dat overeenkomstig deze bepaling de aanbestedende overheid in het kader van de in artikel 36, § 2, eerste lid, bedoelde prijzen-of kostenbevraging de inschrijver dient te verzoeken om de schriftelijke verantwoordingen over te maken inzake de eerbiediging van de verplichtingen bedoeld in artikel 7, eerste lid, van de wet van 17 juni 2016, die van toepassing zijn in de domeinen van het sociaal, arbeids- en milieurecht, met inbegrip van de verplichtingen die van toepassing zijn op het vlak van welzijn, lonen en sociale zekerheid.
+Uit de verzoeken tot prijsverantwoording die de verwerende partij op 20 oktober 2025 en 7 november 2025 aan de gekozen inschrijver heeft gericht, blijkt op het eerste gezicht dat de verwerende partij hiernaar gehandeld heeft nu zij de gekozen inschrijver ook hierover uitdrukkelijk blijkt te hebben bevraagd. Uit de stukken van het administratief dossier blijkt op het eerste gezicht ook dat de gekozen inschrijver in zijn prijsverantwoording hiertoe een schriftelijke verantwoording heeft overgemaakt.
+In zoverre de verzoekende partij tot slot betoogt dat de vrees dat deze verplichtingen niet zullen worden nageleefd des te meer geldt nu door de gekozen inschrijver gedurende een periode van 6 jaar gratis dienstverlening zou
+XIV-40.021-14/15
+worden geboden, wordt verwezen naar de beoordeling van de eerste kritiek waaruit reeds is gebleken dat het middel op dit punt feitelijke grondslag lijkt te missen.
+16. Het eerste en enig middel is niet ernstig.
+VII. Besluit
+17. Het enig middel is niet ernstig gebleken. De vordering tot schorsing bij uiterst dringende noodzakelijkheid wordt dan ook verworpen.
+BESLISSING
+1. De Raad van State verwerpt de vordering.
+2. De verzoekende partij wordt verwezen in de kosten van de vordering tot schorsing bij uiterst dringende noodzakelijkheid, begroot op een rolrecht van 200 euro, een bijdrage van 26 euro en een rechtsplegingsvergoeding van 770 euro, die verschuldigd is aan de verwerende partij.
+Dit arrest is uitgesproken te Brussel, op drieëntwintig januari tweeduizend zesentwintig, door de Raad van State, XIVe kamer, samengesteld uit:
+Inge Vos, staatsraad, waarnemend voorzitter, bijgestaan door Johan Pas, griffier.
+De griffier De voorzitter
+Johan Pas Inge Vos
+XIV-40.021-15/15
