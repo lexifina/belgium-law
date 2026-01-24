@@ -1,0 +1,29 @@
+{
+  "id": "2025009991",
+  "title": "16 NOVEMBRE 2025. - Loi interprétative des articles 1er, 3, 8, 10 et 13 de la loi du 3 mai 1880 sur les enquêtes parlementaires",
+  "source_title": "16 NOVEMBRE 2025. - Loi interprétative des articles 1er, 3, 8, 10 et 13 de la loi du 3 mai 1880 sur les enquêtes parlementaires",
+  "act": "loi/justice/2025/2025009991",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-01-14&numac_search=2025009991&page=18&lg_txt=F&caller=list&2025009991=4&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "4fd99246b645fb16fe3f4e420b762359746ddee1c6e7d82e719ed348548c5241",
+  "source_issuer": "Justice",
+  "made": "2025-11-16",
+  "published": "2026-01-14",
+  "in_force": "2026-01-24",
+  "in_force_basis": "Justel: Entrée en vigueur : 24 janvier 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "14 janvier 2026",
+    "Numéro": "2025009991",
+    "page": "1849",
+    "Dossier numéro": "2025-11-16/03",
+    "Entrée en vigueur": "24 janvier 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 110,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-01-24"
+}
