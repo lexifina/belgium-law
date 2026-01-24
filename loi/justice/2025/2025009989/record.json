@@ -1,0 +1,30 @@
+{
+  "id": "2025009989",
+  "title": "16 NOVEMBRE 2025. - Loi modifiant la loi du 3 mai 1880 sur les enquêtes parlementaires, en vue d'instaurer un mécanisme légal d'expiration, de prolongation et de levée du secret",
+  "source_title": "16 NOVEMBRE 2025. - Loi modifiant la loi du 3 mai 1880 sur les enquêtes parlementaires, en vue d'instaurer un mécanisme légal d'expiration, de prolongation et de levée du secret",
+  "act": "loi/justice/2025/2025009989",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-01-14&numac_search=2025009989&page=18&lg_txt=F&caller=list&2025009989=3&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "b8dfe943f931fc8b516a7ef4c869585648a902551afc31f2f95a13de99f8bfba",
+  "source_issuer": "Justice",
+  "made": "2025-11-16",
+  "published": "2026-01-14",
+  "in_force": "2026-01-24",
+  "in_force_basis": "Justel: Entrée en vigueur : 24 janvier 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "14 janvier 2026",
+    "Numéro": "2025009989",
+    "page": "1848",
+    "Dossier numéro": "2025-11-16/02",
+    "Entrée en vigueur": "24 janvier 2026",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 612,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-01-24"
+}
