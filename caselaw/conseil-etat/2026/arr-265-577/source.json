@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.577",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.577",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-26",
+  "date_as_printed": "Vonnis/arrest van 26 januari 2026",
+  "published_on_juportal": "2026-01-28",
+  "language": "nl",
+  "role_number": "A. 241993/X-18682",
+  "case_name_as_published": "Arrest 265577 - Bouwvergunningen en gemengde vergunningen - 26/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.577",
+  "source_sha256": "b4ab1f8cfbf2de3e9b70c08ba491ef4fb1b29fb50fc249f843dd41fa2e88ad9f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.577_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/01/28/sitemap_44.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
