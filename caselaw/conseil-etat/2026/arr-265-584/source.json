@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.584",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.584",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-27",
+  "date_as_printed": "Vonnis/arrest van 27 januari 2026",
+  "published_on_juportal": "2026-02-03",
+  "language": "nl",
+  "role_number": "A. 242310/VII-42569",
+  "case_name_as_published": "Arrest 265584 - Varia (ruimtelijke ordening, stedenbouw, leefmilieu) - 27/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.584",
+  "source_sha256": "dd1e02db27332e862273466a71e39d09e5d666ed18154c7c08bfab6051b37243",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.584_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
