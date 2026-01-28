@@ -1,0 +1,40 @@
+ecli_input     ECLI:BE:RVSCE:2026ARR.265.601 ecli_prefixe   ECLI ecli_pays      BE ecli_cour      RVSCE ecli_cour_old ecli_annee     2026ARR.265.601 ecli_ordre ecli_typedec ecli_datedec ecli_chambre ecli_nosuite Invalid ECLI ID - 4 element(s) ERROR JUPORTARobotRecordLienECLI ECLI:BE:RVSCE:2026ARR.265.601 invalide Invalid ECLI ID - 4 element(s)
+
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LA PRÉSIDENTE DE LA XVe CHAMBRE
+no 265.601 du 28 janvier 2026
+A. 244.906/XV-6.257
+En cause : la société à responsabilité limitée EVERE CASERNE, ayant élu domicile chez Me François TULKENS, avocat, boulevard de l’Empereur, 3
+1000 Bruxelles, contre :
+la commune d’Evere, représentée par son collège des bourgmestre et échevins, ayant élu domicile chez Me Gautier MELCHIOR, avocat, avenue Brugmann, 451
+1180 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite par la voie électronique le 22 mai 2025, la partie requérante demande l’annulation de « la décision du 8 avril 2025 par laquelle la partie adverse accorde à la S.A. Bordet Office une prorogation d’un permis d’urbanisme délivré le 22 mars 2022 et ayant pour objet la transformation d’un immeuble de bureau en établissement hôtelier ».
+II. Procédure
+Le dossier administratif a été déposé.
+Les mémoires en réponse et en réplique ont été régulièrement échangés.
+La partie requérante a adressé un courrier au Conseil d’État le 14 octobre 2025.
+ECLI:BE:RVSCE:2026ARR.265.601
+XV - 6257 - 1/3
+Mme Gaëlle Werquin, auditeur au Conseil d’État, a décidé de faire application de l’article 11/5 du règlement général de procédure.
+Par une ordonnance du 20 novembre 2025 et en l’absence d’objection de l’auditeur rapporteur, la chambre a proposé aux parties que l’affaire ne soit pas appelée à l’audience, conformément à l’article 26, § 2, du règlement général de procédure.
+Aucune partie n’a sollicité la tenue d’une audience.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Désistement
+Par un courrier daté du 9 octobre 2025 et envoyé par recommandé le 14 octobre 2025, la partie requérante a informé le Conseil d’État de son souhait de se désister de son recours. Rien ne s’y oppose.
+IV. Indemnité de procédure
+La partie adverse sollicite une indemnité de procédure de 770 euros. Il y a lieu de faire droit à sa demande.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+Il est donné acte du désistement de la partie requérante.
+Article 2.
+La partie requérante supporte les dépens, à savoir le droit de rôle de 200 euros, la contribution de 26 euros et l’indemnité de procédure de 770 euros, accordée à la partie adverse.
+ECLI:BE:RVSCE:2026ARR.265.601
+XV - 6257 - 2/3
+Ainsi prononcé à Bruxelles le 28 janvier 2026, par la XVe chambre du Conseil d’État, composée de :
+Joëlle Sautois, conseillère d’État, présidente f.f., Caroline Hugé, greffier.
+Le Greffier, La Présidente,
+Caroline Hugé Joëlle Sautois
+ECLI:BE:RVSCE:2026ARR.265.601
+XV - 6257 - 3/3
