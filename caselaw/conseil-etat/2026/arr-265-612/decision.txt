@@ -1,0 +1,331 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT DE LA VIe CHAMBRE SIÉGEANT EN RÉFÉRÉ
+no 265.612 du 29 janvier 2026
+A. 246.977/VI-23.652
+En cause : la société de droit français FLOWBIRD, ayant élu domicile chez Mes Thomas CHRISTIAENS et Benjamin DESCAMPS, avocats, Mechelsesteenweg 64 boite 101
+2018 Anvers, contre :
+la ville de Liège, représentée par le collège communal, ayant élu domicile chez Me Julie BOCKOURT, avocate, place des Nations-Unies 7
+4020 Liège, Partie intervenante :
+la société anonyme KRAUTLI, ayant élu domicile chez Me Ive Van Giel, avocat, Molenbergstraat 10/25
+2000 Anvers.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 9 janvier 2026, la partie requérante demande la suspension, selon la procédure d’extrême urgence, de l’exécution de « la décision du Collège communal de la Ville de Liège sans date connue – notifiée par écrit du 23 décembre 2025, envoyé par lettre recommandée le 26 décembre 2025 – par laquelle l’offre de la partie requérante pour le marché public “relatif à la fourniture et l’installation d’horodateurs sur le territoire de la Ville de Liège, incluant la fourniture de pièces de rechange, de consommables et l’hébergement d’une plateforme de gestion technique centralisée (GTC) pour une durée de 10 ans (en 6 tranches)” a été déclaré substantiellement irrégulière ».
+VIexturg - 23.652 - 1/26
+II. Procédure
+Par une ordonnance du 12 janvier 2026, le calendrier de la procédure a été déterminé et l’affaire a été fixée à l’audience du 23 janvier 2026.
+La note d’observations, le dossier administratif et la requête en intervention ont été déposés dans le respect du calendrier de la procédure.
+La contribution et les droits visés respectivement aux articles 66, 6°, et 70
+de l’arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d’État ont été acquittés.
+M. Xavier Close, conseiller d’État, président f.f., a exposé son rapport.
+Mes Thomas Christiaens et Benjamin Descamps, avocats, comparaissant pour la partie requérante, Me Julie Bockourt, avocate, comparaissant pour la partie adverse, et Me Kris Wauters, loco Me Ive Van Giel, avocat, comparaissant pour la requérante en intervention, ont été entendus en leurs observations.
+M. Constantin Nikis, premier auditeur au Conseil d’État, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la demande
+1. Le 1er octobre 2025, la Ville de Liège publie au Journal officiel de l’Union européenne et au Bulletin des adjudications un avis relatif à un marché public de fournitures ayant pour objet « la fourniture et l’installation d’horodateurs sur le territoire de la Ville de Liège, incluant la fourniture de pièces de rechange, de consommables et l’hébergement d’une plateforme de gestion technique centralisée (GTC) pour une durée de 10 ans (en 6 tranches) ».
+L’avis précise que le marché est passé selon la procédure ouverte.
+L’ouverture des offres est prévue le 3 novembre 2025.
+2. Selon le cahier des charges, le montant total du marché est estimé à 2.336.466 HTVA.
+VIexturg - 23.652 - 2/26
+La partie « clauses techniques » du cahier spécial des charges comporte notamment les prescriptions suivantes :
+« Article 1.2. C.T. – NORMES ET CARATERISTIQUES GENERALES
+[…]
+Interface homme / machine […]
+Les éléments suivants doivent être situés en façade de l’appareil :
+* Introduction des moyens de paiement par carte bancaire (lecteur de carte bancaire muni d’un clavier physique ou virtuel permettant d’introduire un code PIN et un lecteur de carte bancaire NFC (sans contact).
+[…]
+Panneau solaire Le panneau solaire sera soit monté sur l’appareil, soit intégré dans le couvercle du boîtier. Le soumissionnaire indiquera la dimension et la puissance en watt crête en fonction des conditions d’ensoleillement (voir critères d’attribution)
+[…]
+Autonomie en énergie Exigence minimale, l’horodateur doit être entièrement autonome en énergie pendant une période de 45 jours à raison de 75 transactions par jour sans soleil (exemple : en période hivernale).
+Article 1.4. C.T. MODES DE PAIEMENT
+Lors de leur mise en service, les appareils sont prévus pour un paiement par carte uniquement.
+Un descriptif des lecteurs de carte et des fonctionnalités attendues sont repris ci-
+dessous.
+La validation du paiement se fait par appui sur une touche « validation »
+Paiement par carte L’horodateur proposé accepte les cartes bancaires de débit/crédit avec et sans contact comme moyen de paiement, il sera donc équipé de deux lecteurs de carte bancaire tel-que décrit ci-dessous :
+Le soumissionnaire mentionnera les types de cartes acceptées et joindra les certificats d’homologation des différents terminaux proposés :
+* Lecteur de carte bancaire muni d’un clavier physique ou virtuel pour permettre l’encodage d’un code PIN
+* Lecteur de carte bancaire NFC sans contact La plateforme de GTC offrira à l’exploitant la possibilité de paramétrer un montant minimum en cas de paiement par carte bancaire (pour couvrir les frais de transaction).
+VIexturg - 23.652 - 3/26
+Le soumissionnaire renseignera la liste des intégrateurs compatibles avec les terminaux bancaires installés sur les horodateurs.
+Utilisation de cartes rechargeables personnalisables * Caractéristiques Ce mode de paiement n’est pas opérationnel lors de la mise en service mais que le pouvoir adjudicateur se réserve la possibilité de recourir à ce type de paiement à l’avenir et que l’appareil doit pouvoir intégrer l’utilisation de ce type de carte sans modification de l’appareil.
+* Fin de validité de la carte La carte personnalisée avec une date de validité est refusée par tous les horodateurs après la date de fin de validité.
+[...] ».
+3. Outre la requérante, trois opérateurs économiques introduisent une offre dans le délai imparti, à savoir les sociétés KRAUTLI, AD.EL, et RAUWERS
+CONTRÔLE.
+4. Un rapport d’analyse des offres est établi le 16 décembre 2025. Il retient notamment ce qui suit concernant la régularité des offres, en particulier celle de la requérante :
+« L’adjudicateur a procédé à la vérification de la régularité substantielle des offres reçues :
+L’article 1.4 des clauses techniques du cahier spécial des charges du présent marché prévoit ce qui suit :
+“ L’horodateur proposé accepte les cartes bancaires de débit/crédit avec et sans contact comme moyen de paiement, il sera donc équipé de deux lecteurs de carte bancaire tels que décrits ci-dessous :
+- Un lecteur de carte bancaire muni d’un clavier physique ou virtuel permettant l’encodage d’un code PIN;
+- Un lecteur de carte bancaire NFC sans contact.
+Le soumissionnaire mentionnera les types de cartes acceptées et joindra les certificats d’homologation des différents terminaux proposés”.
+Également, l’article 1.14. VARIANTES des clauses administratives prévoit : “Il est interdit de proposer des variantes libres. Aucune variante exigée ou autorisée n’est prévue”.
+Enfin, cet élément de l’article 1.4 des clauses techniques du cahier spécial des charges a été reprécisé de manière transparente à tous les opérateurs économiques potentiels via le forum lors de la publication du marché à la suite d’une interrogation par un des soumissionnaires ayant remis une offre dans le cadre de ce marché.
+Les offres reçues par les soumissionnaires S.R.L. AD.EL, S.A. RAUWERS
+CONTRÔLE et S.A.S. FLOWBIRD ne sont pas conformes à cette disposition du cahier spécial des charges. En effet, il ressort de l’examen des documents transmis par ces soumissionnaires que les horodateurs sont uniquement équipés d’un système de paiement sans contact (NFC) et par conséquent n’intègrent pas de lecteur de carte bancaire avec un clavier physique ou virtuel permettant l’encodage d’un code PIN.
+VIexturg - 23.652 - 4/26
+Irrégularités de l’offre de la firme S.A.S. FLOWBIRD :
+Dans son offre, le document B5 “Mémoire technique horodateur streetsmart” en page 14 mentionne qu’il n’y a pas de PIN pad bancaire (clavier permettant d’encoder un code PIN lors d’une transaction bancaire), il est également indiqué en page 9, “le PIN pad affiché dans l’image n’est pas d’application pour cette offre puisqu’on offre le paiement Chip no CVM qui ne nécessite pas de code PIN pour les montants en dessous de 50 €/transaction”. De plus, le document B16 “liste des pièces détachées” le clavier physique/ virtuel ainsi que le lecteur de carte ne sont pas repris dans la liste de pièces.
+Le CSC en page 42 mentionne une autonomie en énergie et impose 75
+transactions/jours sans soleil pendant 45 jours. Dans son offre document 1. 13
+“critère d’attribution”, le soumissionnaire indique que l’autonomie proposée est de 40 tickets/ jours pendant 45 jours sans recharge et non 75 comme demandé dans le cahier spécial des charges ».
+5. Par délibération du 19 décembre 2025, le Collège communal de la Ville de Liège fait sien le rapport d’analyse des offres, déclare l’offre de la société FLOWBIRD substantiellement irrégulière et attribue le marché à la société KRAUTLI.
+Il s’agit de l’acte attaqué.
+6. Les extraits pertinents de cette décision concernant les différents soumissionnaires sont communiqués par courriel le 23 décembre 2025 et confirmés par lettres recommandées expédiées le 26 décembre 2025.
+IV. Intervention
+Par une requête introduite le 20 janvier 2026, la société anonyme Krautli demande à intervenir dans la procédure en référé d’extrême urgence.
+En tant que bénéficiaire du marché litigieux, elle a un intérêt suffisant à intervenir dans le cadre de la présente procédure. Il y a lieu d’accueillir cette requête.
+V. Premier moyen
+V.1. Thèses des parties
+A. Thèse de la requérante
+La requérante soulève un premier moyen, pris de la violation « de l’article 53 de la loi du 17 juin 2016 relative aux marchés publics […], de l’article 76 de l’arrêté royal du 18 avril 2017 [relatif à la passation des marchés publics dans les secteurs classiques], de l’article 4 de la loi du 17 juin 2016, du principe de minutie, du principe
+VIexturg - 23.652 - 5/26
+de proportionnalité, du principe patere legem et du principe de motivation matérielle en tant que principes généraux de bonne administration ».
+Elle résume son argumentation en ces termes :
+« Le premier moyen concerne l’évaluation erronée de l’offre de la partie requérante en ce qui concerne la proposition de différentes modalités de paiement par carte bancaire. La partie adverse soutient que la partie requérante ne répondrait pas aux exigences techniques telles qu’énoncées dans le cahier des charges.
+Dans la première branche du moyen, la partie requérante démontre que son offre répond bel et bien aux exigences techniques du cahier des charges. Elle propose clairement les deux méthodes de paiement demandées : d’une part le paiement sans contact, et d’autre part la présentation d’une carte bancaire dans le lecteur de cartes.
+Les constatations de la partie adverse, qui estime que la partie requérante n’offre qu’une seule possibilité, sont factuellement incorrectes.
+Dans la deuxième branche, la partie requérante souligne que la fourniture d’un clavier (pour la saisie d’un code PIN de la carte bancaire) ne peut en soi constituer une exigence technique minimale. Cela découle, d’une part, du choix des mots de la partie adverse, qui ne qualifie pas la présence d’un clavier d’exigence minimale, et d’autre part, de la nature du marché et des objectifs poursuivis par la partie adverse (à savoir la facilité d’utilisation pour le payeur). La partie requérante a fait le choix délibéré d’une solution technique permettant à la fois le paiement sans contact et la lecture de carte bancaire, sans qu’il soit nécessaire d’introduire un code PIN. Dans la mesure où l’absence de clavier constituerait une non-conformité technique, il est certain en l’espèce qu’il ne s’agit pas d’une exigence technique minimale. Dès lors, le non-respect de cette spécification ne peut justifier à lui seul que l’offre soit jugée substantiellement irrégulière.
+Dans la troisième branche, la partie requérante démontre qu’une exigence technique minimale visant à imposer la présence d’un clavier serait contraire à l’article 53 de la Loi du 17 juin 2016 et au principe de proportionnalité. Une telle exigence serait exagérément stricte et limiterait la concurrence plus que nécessaire.
+Cette illégalité du cahier des charges implique qu’aucune décision d’attribution légale ne peut être prise ».
+Elle réaffirme cette argumentation dans la note d’audience déposée le 22
+janvier 2026.
+B. Thèse de la partie adverse
+La partie adverse ne résume pas son argumentation en réponse au moyen, comme le requiert l’article 7, § 1er, de l’arrêté royal du 19 novembre 2024 déterminant la procédure en référé et modifiant divers arrêtés relatifs à la procédure devant la section du contentieux administratif du Conseil d’État.
+En substance, elle affirme que le cahier des charges imposait explicitement la présence d’un lecteur de carte bancaire muni d’un clavier permettant l’introduction du code PIN, et qu’il s’agit d’une exigence essentielle.
+VIexturg - 23.652 - 6/26
+C. Thèse de la partie intervenante
+La partie intervenante ne résume pas son argumentation, comme le requiert l’article 6, § 1er, alinéa 2, de l’arrêté royal du 19 novembre 2024 précité.
+Cette argumentation rejoint, en substance, celle de la partie adverse.
+V.2. Appréciation du Conseil d’État
+A. Quant à la première branche
+Selon la requérante, l’acte attaqué repose sur l’affirmation que l’horodateur proposé dans son offre ne comporte pas la possibilité d’un paiement avec contact d’une carte bancaire. Elle soutient que son offre propose bien deux modes de paiement par carte bancaire, l’un avec et l’autre sans contact. L’acte attaqué serait dès lors le résultat d’une lecture erronée de son offre, et violerait de ce fait le devoir de minutie et l’article 76 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques.
+Cet argument est fondé sur les termes de la communication, par la partie adverse, des motifs justifiant le rejet de son offre. Dans cet envoi, après le rappel des dispositions applicables du cahier des charges, apparaissent les motifs suivants :
+« L’offre reçue par le soumissionnaire S.A. S. FLOWBIRD n’est pas conforme à cette disposition du cahier spécial des charges. En effet, il ressort de l’examen des documents transmis par ce soumissionnaire que les horodateurs sont uniquement équipés d’un système de paiement sans contact (NFC) et par conséquent n’intègrent pas de lecteur de carte bancaire avec un clavier physique ou virtuel permettant l’encodage d’un code PIN.
+Dans son offre, le document B5 “Mémoire technique horodateur streetsmart” en page 14 mentionne qu’il n’y a pas de PIN pad bancaire (clavier permettant d’encoder un code PIN lors d’une transaction bancaire), il est également indiqué en page 9, “le PIN pad affiché dans l’image n’est pas d’application pour cette offre puisqu’on offre le paiement Chip no CVM qui ne nécessite pas de code PIN pour les montants en dessous de 50 €/transaction”. De plus, le document B16 “liste des pièces détachées” le clavier physique/virtuel ainsi que le lecteur de carte ne sont pas repris dans la liste de pièces ».
+Ce motif présente une certaine ambiguïté, puisque le premier alinéa, lu seul, pourrait laisser penser qu’il est reproché à la requérante de ne pas offrir une machine permettant la lecture des cartes bancaires via leur insertion dans un terminal.
+Le deuxième alinéa du motif énonce toutefois que l’irrégularité est, plus précisément, de ne pas proposer un horodateur dont le lecteur de carte comporte un clavier « permettant d’encoder un code PIN lors d’une transaction […] ». C’est donc   VIexturg - 23.652 - 7/26
+bien l’absence de ce clavier PIN qui justifie le constat de l’irrégularité substantielle de l’offre.
+Le motif précité doit être interprété comme signifiant que la partie adverse déplore l’absence, sur la machine proposée, d’un lecteur de carte avec contact doté d’un clavier ou d’un écran permettant d’encoder un code PIN. Le rapport d’attribution est, de ce point de vue, mieux rédigé, puisqu’il laisse davantage apparaître que le premier alinéa – rédigé de manière plus générale – concerne trois offres alors que le deuxième alinéa – qui est précédé d’un titre « Irrégularités de l'offre de la firme S.A.S.
+FLOWBIRD » – vise spécifiquement l’offre de la requérante.
+La formulation des deuxième et troisième branches du moyen permet de vérifier que la requérante a bien compris l’irrégularité qui est reprochée à son offre.
+Elle ne conteste par ailleurs pas la motivation formelle de l’acte attaqué ou de la communication qui lui en a été faite.
+L’argument de la requérante, qui repose lui-même sur une lecture erronée de l’acte attaqué, manque donc en fait.
+Pour la même raison, il ne peut être reproché à la partie adverse d’avoir manqué à son devoir de minutie, puisqu’elle a correctement identifié en quoi l’offre de la requérante ne correspondait pas à l’une des prescriptions techniques du marché.
+Le premier moyen, en sa première branche, n’est pas sérieux.
+B. Quant à la deuxième branche
+B.1. Principes applicables
+L’article 76, § 1er, de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques est rédigé comme suit :
+« § 1er. Le pouvoir adjudicateur vérifie la régularité des offres.
+L’offre peut être affectée d’une irrégularité substantielle ou non substantielle.
+Constitue une irrégularité substantielle celle qui est de nature à donner un avantage discriminatoire au soumissionnaire, à entraîner une distorsion de concurrence, à empêcher l’évaluation de l’offre du soumissionnaire ou la comparaison de celle-ci aux autres offres, ou à rendre inexistant, incomplet ou incertain l’engagement du soumissionnaire à exécuter le marché dans les conditions prévues.
+Sont réputées substantielles notamment les irrégularités suivantes :
+1° le non-respect du droit environnemental, social ou du travail, pour autant que ce non-respect soit sanctionné pénalement ;
+VIexturg - 23.652 - 8/26
+2° le non-respect des exigences visées aux articles 38, 42, 43, § 1er, 44, 48, § 2, alinéa 1er, 54, § 2, 55, 83 et 92 du présent arrêté et par l’article 14 de la loi, pour autant qu’ils contiennent des obligations à l’égard des soumissionnaires ;
+3° le non-respect des exigences minimales et des exigences qui sont indiquées comme substantielles dans les documents du marché ».
+Les spécifications techniques imposées par le pouvoir adjudicateur dans les documents du marché constituent des exigences minimales ou substantielles, dont la violation entraîne nécessairement la nullité de l’offre, lorsqu’elles revêtent un caractère essentiel dans le cadre du marché envisagé. Hormis les hypothèses où les documents du marché indiquent expressément qu’il s’agit d’une exigence minimale ou substantielle, une disposition a ce caractère lorsque son auteur a voulu lui attacher une telle portée, notamment parce que sa méconnaissance éventuelle peut avoir pour effet de porter atteinte à l’égalité de traitement entre les soumissionnaires, d’affecter la comparabilité des offres, de modifier le classement de celles-ci ou de compromettre la bonne exécution du marché.
+Lorsque le pouvoir adjudicateur est confronté à des dérogations aux prescriptions des documents du marché, il lui revient, en application de l’article 76 de l’arrêté royal du 18 avril 2017 précité, de les examiner, de qualifier les irrégularités de substantielles ou non substantielles, d’en tirer les conséquences quant à l’écartement de l’offre concernée et d’indiquer, dans la décision d’attribution, les motifs qui justifient sa décision.
+B.2. Application au cas d’espèce
+La requérante ne conteste pas que la présence d’un clavier numérique permettant l’introduction d’un code PIN lors du paiement était une exigence du marché. Les articles 1.2 et 1.4. des clauses techniques du cahier des charges sont, à cet égard, dénués d’ambiguïté.
+Elle conteste en revanche le caractère substantiel de cette prescription technique.
+Elle soutient qu’il ne s’agit pas d’une exigence minimale du marché, Selon elle, pour déterminer si une prescription technique constitue une exigence minimale, il convient d’en rechercher le but. Elle estime que le résultat visé par la partie adverse lorsqu’elle a imposé cette prescription était d’assurer deux modes de paiement (l’un sans contact, l’autre par insertion de la carte), et ce pour la facilité des usagers. Elle affirme que ce résultat est atteint dans son offre, et que le clavier permettant d’insérer un code PIN n’ajoute rien à ce résultat. Selon elle, le paiement pour un parcage en voirie n’atteint jamais la somme de 50 euros, somme à partir de   VIexturg - 23.652 - 9/26
+laquelle un code PIN peut être demandé lorsque la carte est insérée dans le terminal de paiement. Elle en conclut que l’exigence concernée, qui n’est pas utile au but poursuivi par la partie adverse, ne peut être considérée comme minimale.
+Ce raisonnement de la requérante ne peut être suivi.
+La question du caractère substantiel d’une prescription technique ne peut être confondue avec celle de son utilité au regard du but qu’elle poursuit.
+Conformément aux principes rappelés plus haut, à défaut d’une disposition des documents du marché la qualifiant expressément comme telle, une exigence est en effet substantielle ou minimale lorsque son auteur a voulu lui attacher une telle portée. C’est donc la volonté du pouvoir adjudicateur lorsqu’il a rédigé les documents du marché qui doit être identifiée, le but spécifique poursuivi par l’imposition d’une prescription technique déterminée n’étant, dans ce contexte, que l’un des éléments pouvant être pris en considération pour déterminer cette volonté.
+L’acte attaqué expose comme suit les motifs qui amènent la partie adverse à considérer que les prescriptions liées aux caractéristiques techniques du lecteur de carte avec contact, incluant un clavier permettant d’introduire un code PIN, sont des exigences minimales :
+« Conformément à l’article 76, § 1er et 3 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques, les offres des soumissionnaires S.R.L. AD.EL, S.A. RAUWERS CONTRÔLE et S.A.S.
+FLOWBIRD sont irrégulières substantiellement. Les offres ne répondent pas aux exigences minimales du cahier spécial des charges suivant les motivations reprises ci-dessus pour chacun des soumissionnaires. En effet, cette irrégularité est de nature à empêcher l’évaluation de l’offre des soumissionnaires, sa comparaison à l’offre de la firme S.A. Krautli qui est conforme aux documents du marché et donc une offre régulière ».
+Pour démontrer sa volonté d’ériger la prescription technique concernée en exigence minimale, la partie adverse insiste aussi, dans ses écrits, sur le fait qu’un certificat d’homologation du terminal de paiement avec PIN pad était requis. Elle souligne que cette exigence était mentionnée à deux reprises dans le cahier des charges, puis a été rappelée à l’occasion d’une question posée sur le forum de la plateforme eProcurement. Elle estime qu’il faut aussi « relever le caractère incomparable d’offres offrant des fonctionnalités distinctes (terminal de paiement avec ou sans clavier) », et souligne à cet égard que « les offres étaient […] comparées également au regard du prix offert pour les pièces détachées et consommables permettant de reconstituer un horodateur, en ce compris dès lors un terminal de paiement avec clavier ». La partie adverse évoque également les raisons pour lesquelles, en opportunité, il lui est apparu indispensable qu’un code PIN puisse être   VIexturg - 23.652 - 10/26
+introduit, lorsque les usagers « désactivent le paiement sans contact ou disposent encore d’une carte bancaire ne permettant pas le “sans contact” ».
+La requérante, qui se limite à contester l’utilité de la prescription technique au regard du but qu’elle poursuit, ne rencontre pas valablement les affirmations de la partie adverse quant à sa volonté d’en faire une exigence minimale.
+À cet égard, il doit être relevé que l’horodateur est une machine destinée à assurer le paiement, par l’automobiliste, de la redevance liée à l’occupation des voies publiques lors du parcage de son véhicule. Dans le cadre d’un marché visant à la fourniture de telles machines, il peut dès lors être a priori admis que les exigences relatives aux modalités du paiement sont, aux yeux du pouvoir adjudicateur, une considération centrale, et donc essentielle.
+La requérante ne conteste pas non plus que l’irrégularité commise est de nature à empêcher l’évaluation de son offre et sa comparaison avec celle de la partie intervenante, seule à avoir remis une offre régulière. Il n’appartient pas au Conseil d'État de formuler une argumentation à cet égard en lieu et place de la requérante.
+Le premier moyen, en sa deuxième branche, n’est dès lors pas sérieux.
+Pour le surplus, il convient de relever que le but poursuivi par l’imposition d’une prescription technique est utile pour déterminer, dans le cadre d’un contrôle de proportionnalité, si l’exigence concernée ne porte pas une atteinte excessive à la concurrence. Cette question est abordée dans la troisième branche du moyen.
+C. Quant à la troisième branche
+C.1. Principes applicables
+Le pouvoir adjudicateur dispose d’une large marge d’appréciation dans le cadre de la formulation des spécifications techniques d’un marché, qui est justifiée par sa meilleure connaissance des travaux, services ou fournitures dont il a besoin, ce qui implique qu’il est aussi le plus apte à déterminer les exigences auxquelles il doit être satisfait afin d’obtenir les résultats souhaités.
+L’article 4 de la loi du 17 juin 2016 relative aux marchés publics impose cependant au pouvoir adjudicateur de respecter, tout au long de la procédure de passation d’un marché, les principes d’égalité de traitement, de transparence et de proportionnalité.
+VIexturg - 23.652 - 11/26
+Ces principes sont notamment applicables lorsque le pouvoir adjudicateur détermine les spécifications techniques applicables à un marché déterminé.
+L’article 53 de la loi du 17 juin 2016 précitée encadre spécifiquement la formulation des spécifications techniques par le pouvoir adjudicateur. Les quatre premiers paragraphes de cette disposition sont rédigés comme suit :
+« § 1er. Le pouvoir adjudicateur inclut dans les documents du marché les spécifications techniques, qui définissent les caractéristiques requises des travaux, des fournitures ou des services.
+Ces caractéristiques peuvent se référer au processus ou à la méthode spécifique de production ou d’exécution des travaux, des fournitures ou des services demandés ou à un processus propre à un autre stade de leur cycle de vie même lorsque ces facteurs ne font pas partie de leur contenu matériel, à condition qu’ils soient liés à l’objet du marché et proportionnés à sa valeur et à ses objectifs.
+[…]
+§ 2. Les spécifications techniques donnent aux opérateurs économiques une égalité d’accès à la procédure de passation et ne peuvent avoir pour effet que des obstacles injustifiés à l’ouverture des marchés publics à la concurrence soient soulevés.
+§ 3. Sans préjudice des règles techniques nationales obligatoires, dans la mesure où elles sont compatibles avec le droit de l’Union européenne, les spécifications techniques sont formulées de l’une des façons suivantes :
+1° soit en termes de performances ou d’exigences fonctionnelles, en ce compris des caractéristiques environnementales, à condition qu’elles soient suffisamment précises pour permettre aux soumissionnaires de déterminer l’objet du marché et au pouvoir adjudicateur d’attribuer le marché ;
+2° soit par référence à des spécifications techniques et par ordre de préférence, aux normes nationales transposant des normes européennes, aux évaluations techniques européennes, aux spécifications techniques communes, aux normes internationales, aux autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur absence, aux normes nationales, aux agréments techniques nationaux ou aux spécifications techniques nationales en matière de conception, de calcul et de réalisation des ouvrages et d’utilisation des fournitures. Chaque référence est accompagnée de la mention “ou équivalent”;
+[…]
+§ 4. Les spécifications techniques ne peuvent pas faire mention d’une fabrication ou d’une provenance déterminée ou d’un procédé particulier qui caractérise les produits ou les services fournis par un opérateur économique spécifique, ni faire référence à une marque, à un brevet ou à un type, à une origine ou à une production déterminée qui auraient pour effet de favoriser ou d’éliminer certaines entreprises ou certains produits.
+[…] ».
+Cette disposition entend concilier l’imposition de spécifications techniques par les acheteurs publics et l’ouverture des marchés publics à la concurrence, en exigeant de ces spécifications qu’elles soient suffisamment transparentes, non discriminatoires et proportionnées.
+La Cour de Justice de l’Union européenne considère que les articles 18 et 42 de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014
+VIexturg - 23.652 - 12/26
+sur la passation des marchés publics – respectivement transposés en droit interne belge par les articles 4 et 53 de la loi du 17 juin 2016 – imposent que « les spécifications techniques, dans leur ensemble, respectent les principes d’égalité de traitement et de proportionnalité », ce qu’il appartient à la juridiction saisie d’un litige à ce sujet de vérifier, dans le respect de la marge d’appréciation dont dispose le pouvoir adjudicateur (CJUE, Roche Lietuva, 25 octobre 2018, C-413/17, ECLI:EU:C:2018:865, points 40 et 45).
+Ceci implique notamment que les spécifications techniques, lorsqu’elles ont pour effet de restreindre la participation la plus large possible des opérateurs économiques à une procédure de passation, doivent être proportionnées, c’est-à-dire qu’elles doivent être liées à l’objet du marché et qu’elles ne peuvent aller au-delà de ce qui est nécessaire pour satisfaire le besoin identifié par le pouvoir adjudicateur.
+C.2. Application au cas d’espèce
+La requérante estime qu’en exigeant que l’horodateur proposé comporte un clavier utile à l’insertion d’un code PIN, la partie adverse a restreint délibérément la concurrence de manière injustifiée et a dès lors méconnu l’article 53, § 2, de la loi du 17 juin 2016 relative aux marchés publics.
+Elle rappelle son argument, exposé dans la deuxième branche, selon lequel le PIN pad « n’offre aucune valeur ajoutée à la facilité d’utilisation recherchée par la partie adverse en l’espèce » et soutient qu’il « n’existe aucune justification pour imposer cette exigence (minimale) ».
+À cet égard, il ressort des écrits de procédure et des débats à l’audience que les parties ne s’entendent pas sur la question de savoir si, en cas d’introduction de la carte bancaire dans le terminal de paiement de l’horodateur, et lorsque l’utilisateur a désactivé le paiement sans contact, le code PIN de la carte doit nécessairement être introduit pour qu’un paiement soit exécuté. La requérante justifie l’absence d’un clavier PIN sur la machine qu’elle propose par l’affirmation que l’utilisation du code PIN n’est, dans cette hypothèse, pas nécessaire.
+La réponse à cette question – qui semble être abordée par l’article 12 du règlement délégué (UE) 2018/389 de la Commission du 27 novembre 2017
+‘complétant la directive (UE) 2015/2366 du Parlement européen et du Conseil par des normes techniques de réglementation relatives à l’authentification forte du client et à des normes ouvertes communes et sécurisées de communication’ – ne peut être tranchée en extrême urgence, notamment compte tenu de l’absence de tout élément probant susceptible d’appuyer les affirmations respectives des parties.
+VIexturg - 23.652 - 13/26
+Cette réponse n’apparaît, en toute hypothèse, pas utile à ce stade pour trancher la troisième branche du moyen.
+D’une part, à supposer que l’analyse de la requérante quant à l’absence de nécessité de l’insertion d’un code PIN dans ce scénario soit correcte, il n’en demeure pas moins que le pouvoir adjudicateur peut, compte tenu de la marge d’appréciation dont il dispose pour définir les spécifications techniques du marché, estimer que la présence d’un clavier permettant l’introduction d’un code PIN est souhaitable, pour des raisons d’accessibilité du service, de sécurité des paiements, et d’évolution possible du montant des redevances ou de la législation bancaire.
+D’autre part, et surtout, il ressort de l’offre de la requérante que celle-ci était en mesure de proposer un horodateur pleinement conforme à l’exigence litigieuse, et qu’elle a choisi de ne pas le faire, estimant cette exigence inutile.
+Dans son offre, la requérante mentionne ainsi notamment que « le PIN
+pad affiché sur l’image n’est pas d’application pour cette offre puisqu’on offre le paiement chip no CVM qui ne nécessite pas de code PIN pour les montants en dessous de 50 €/transaction ». À l’audience, alors que les parties adverse et intervenante argumentent en ce sens, la requérante ne conteste pas que l’absence d’un PIN pad sur l’horodateur qu’elle propose résulte d’un choix de sa part, et non d’une impossibilité pour elle de se conformer aux exigences du marché.
+Il faut dès lors constater que, quels que soient les objectifs poursuivis par la partie adverse lorsqu’elle a décidé d’imposer cette prescription technique, et quelles que soient les critiques formulées quant à l’utilité ou l’opportunité de ce choix, cette exigence n’était pas de nature à empêcher la requérante de déposer utilement une offre.
+À défaut de tout élément démontrant le contraire, la prescription technique en question – que la requérante a fait le choix d’ignorer – n’apparaît pas de nature à avoir restreint indûment la concurrence.
+Elle ne semble dès lors ni être contraire à l’article 53 de la loi du 17 juin 2016, ni être disproportionnée.
+Le moyen, en sa troisième branche, n’est pas sérieux.
+VIexturg - 23.652 - 14/26
+VI. Deuxième moyen
+VI.1. Thèses des parties
+A. Thèse de la requérante
+La requérante soulève un deuxième moyen pris de « la violation de l’article 53 de la loi du 17 juin 2016, de l’article 76 de [l’arrêté royal du 18 avril 2017
+relatif à la passation des marchés publics dans les secteurs classiques], de l’article 4
+de la loi du 17 juin 2016, des articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, ainsi que du principe de diligence et de minutie et du principe de proportionnalité en tant que principes généraux de bonne administration ».
+Elle résume son moyen comme suit :
+« Le deuxième moyen porte sur l’appréciation erronée de l’offre de la requérante en ce qui concerne l’exigence technique relative à l’autonomie énergétique minimale des horodateurs. La partie adverse estime que l’offre ne satisferait pas, sur ce point, aux exigences techniques prévues par le cahier spécial des charges.
+Dans une première branche du moyen, la partie requérante fait valoir que les constatations de la partie adverse sont matériellement inexactes. La requérante propose en effet des horodateurs capables d’assurer 75 transactions par jour pendant une période de 45 jours sans ensoleillement, de sorte que son offre satisfait aux exigences techniques prévues par le cahier spécial des charges.
+Dans une deuxième branche du moyen, la partie requérante fait valoir qu’une lecture excessivement stricte de l’exigence technique en cause conduirait à constater l’illégalité du cahier spécial des charges. Une telle interprétation impliquerait en effet que les horodateurs ne bénéficieraient d’aucune maintenance ni opération de recharge normales, ce qui reviendrait à imposer une exigence technique excessivement rigide, de nature à restreindre la concurrence au-delà de ce qui est objectivement nécessaire ».
+B. Thèse de la partie adverse
+La partie adverse ne résume pas son argumentation relative au moyen. En substance, elle affirme que le cahier des charges imposait une autonomie minimale de 45 jours sans soleil à raison de 75 tickets/jour, et qu’il s’agissait d’une exigence minimale au sens de l’article 76 de l’arrêté royal du 18 avril 2017. Elle soutient que l’offre de la requérante ne rencontre pas cette exigence.
+VIexturg - 23.652 - 15/26
+C. Thèse de la partie intervenante
+La partie intervenante ne résume pas son argumentation, qui rejoint celle de la partie adverse.
+VI.2. Appréciation du Conseil d’État
+S’agissant des recours introduits sur le fondement de la loi du 17 juin 2013
+relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions, l’intérêt d’un requérant à invoquer un moyen s’examine au regard de l’existence d’une lésion que lui a causée ou risqué de lui causer la violation alléguée.
+Conformément à l’article 76, § 3, de l’arrêté royal du 18 avril 2017, le pouvoir adjudicateur est tenu de déclarer nulle l’offre affectée d’une irrégularité substantielle. Il n’exerce, à cet égard, aucun pouvoir d’appréciation.
+Il résulte du rejet du premier moyen que la requérante ne conteste pas valablement l’une des irrégularités substantielles de son offre, exposée par la décision d’attribution.
+Les violations que la requérante dénonce dans le deuxième moyen visent à contester le constat, par la partie adverse, d’une seconde irrégularité substantielle de son offre. À supposer fondée son argumentation, elle ne remet pas en cause l’irrégularité substantielle qui découle de l’absence, sur l’horodateur proposé, d’un clavier numérique destiné à la saisie d’un code PIN.
+Les violations alléguées dans le deuxième moyen ne sont donc pas susceptibles de léser ou d’avoir lésé la requérante.
+Le deuxième moyen est dès lors, prima facie, irrecevable.
+VII. Troisième moyen (premier nouveau moyen)
+VII.1. Thèses des parties
+A. Thèse de la requérante
+Dans une note de plaidoirie communiquée au Conseil d’État et aux parties le 22 janvier 2026, la requérante soulève un nouveau moyen pris « de la violation des articles 66, § 3, alinéa 1er, et 71 de la loi du 17 juin 2016 relative aux marchés publics,   VIexturg - 23.652 - 16/26
+lus conjointement avec l’article 65, alinéa 1er, de l’arrêté royal du 18 avril 2017, ainsi que de la violation du principe de minutie et de diligence, en tant que principe général de bonne administration, et du principe patere legem quam ipse fecisti ».
+Elle articule son moyen comme suit :
+« En ce que la partie adverse a sélectionné la partie intervenante après lui avoir, à deux reprises, demandé de compléter son offre par la transmission de pièces ou d’informations manquantes relatives aux références exigées par les documents du marché ;
+Alors que les articles 66, § 3, alinéa 1er, et 71 de la loi du 17 juin 2016, lus conjointement avec l’article 65, alinéa 1er, de l’arrêté royal du 18 avril 2017, imposent à l’autorité adjudicatrice d’exclure un soumissionnaire lorsque celui-ci se trouve dans une situation d’exclusion ou ne satisfait pas aux conditions de sélection qualitative fixées par l’avis de marché, sans qu’il puisse être procédé à une régularisation substantielle de l’offre, sous peine de méconnaître les principes d’égalité de traitement et de transparence ».
+B. Thèse de la partie adverse
+Dans une « note d’observations complémentaire » du 23 janvier 2026, puis à l’audience, la partie adverse soutient, en substance, être restée dans les limites de ce que permet l’article 66, § 3, de la loi du 17 juin 2016 relative aux marchés publics, lequel l’autorise à demander la présentation, la clarification ou la complétude de documents manquants en matière de sélection qualitative. Elle affirme que les compléments qui ont été demandés à la partie intervenante sont admissibles, puisqu’ils ne modifient pas les éléments essentiels de l’offre.
+Elle reproche à la requérante de confondre le régime de la sélection qualitative avec celui de la régularité des offres. Elle conteste par ailleurs l’intérêt de la requérante au moyen, puisqu’elle a elle‑même été invitée à compléter son dossier de sélection.
+VII.2. Appréciation du Conseil d’État
+L’avis de marché mentionne les critères de sélection qualitative suivants :
+« La capacité technique des soumissionnaires sera appréciée sur base des éléments suivants :
+- La preuve de 3 commandes portant sur la fourniture et pose de minimum 10
+horodateurs en voirie effectuées au cours des 3 dernières années (2024, 2023, 2022). Chacune des commandes doit être de minimum 60.000,00 EUR HTVA
+chacune dont une comprendra l’installation d’un système de supervision.
+Chacune des trois références relatives à l’objet du marché devront mentionner le nom du destinataire, la date et le montant des commandes.
+VIexturg - 23.652 - 17/26
+# s’il s’agit de commandes à une autorité publique, les commandes sont prouvées par des certificats établis ou visés par l’autorité compétente ;
+# s’il s’agit de commandes à des personnes privées, les certificats sont établis par l’acheteur ; à défaut, une simple déclaration du soumissionnaire est admise ».
+Le cahier spécial des charges renvoie aux critères de sélection visés par l’avis de marché.
+Dans son offre, la partie intervenante mentionne une trentaine de marchés similaires (pour lesquels elle mentionne le nombre d’horodateurs) mais fait en particulier valoir, pour démontrer sa capacité technique, les commandes exécutées pour les villes de Bastogne, d’Ostende, et de Tournai.
+Elle communique à cet effet, en appui de l’offre, les documents suivants :
+- Pour la Ville de Bastogne : Une attestation d’un gestionnaire de projet du service technique de la Ville mentionnant la fourniture et l’installation de 20 horodateurs, en 2023. Le montant de la commande, supérieur à 60.000 euros, est mentionné.
+- Pour la Ville d’Ostende : Une attestation d’une directrice de la Ville d’Ostende concernant la fourniture de 120 horodateurs, en 2023. Le montant de la commande n’est pas mentionné.
+- Pour la Ville de Tournai : Une déclaration sur l’honneur de la requérante elle-même concernant une commande de 70 horodateurs, ainsi que le montant de cette commande. La date mentionnée est « avril 2025 ».
+Le 19 novembre 2025, la demande suivante est adressée à la partie intervenante, via la plateforme eProcurement :
+« Afin de compléter votre offre, nous vous prions de bien vouloir nous transmettre les documents et informations suivants :
+Nous vous demandons de fournir la référence relative à la Ville de Tournai émanant d’une autorité publique. L’attestation de bonne exécution doit impérativement être établie ou visée par l’autorité compétente ».
+Le 25 novembre 2025, la partie intervenante dépose sur la plateforme une attestation émanant de la Bourgmestre de la Ville de Tournai, signée le 24 novembre 2025, confirmant la déclaration déposée par la partie intervenante.
+VIexturg - 23.652 - 18/26
+Le 2 décembre 2025, une nouvelle demande est adressée à la partie intervenante, via la plateforme eProcurement :
+« Après vérification des attestations de bonne exécution jointes à votre offre et à la demande de documents réclamés, nous avons constaté que celles-ci ne comportent pas l’ensemble des informations requises. Nous vous prions dès lors de bien vouloir compléter votre offre comme suit :
+* L’attestation de bonne exécution pour la Ville de Tournai ne mentionne ni le montant de la prestation, ni la date d’exécution. Merci de nous fournir tout document probant attestant de ces précisions manquantes.
+* L’attestation de bonne exécution pour la Ville d’Ostende ne précise pas le montant de la prestation. Merci de nous fournir tout document probant attestant de cette précision manquante.
+* Enfin, merci de nous fournir la preuve de l’intégration d’un système de supervision pour l’une des trois commandes présentées ».
+Par dépôt sur la plateforme le 4 décembre, la partie intervenante communique à la partie adverse l’attestation de la Ville d’Ostende, sur laquelle a été imprimé en outre le montant de la commande, hors TVA.
+Elle communique également des éléments démontrant l’intégration d’un système de supervision pour la Ville de Tournai, et précisant que ce système fait partie de toutes ses offres.
+La partie intervenante dépose en outre une nouvelle attestation émanant de la Ville de Courtrai, relative à la commande de 18 horodateurs, pour un montant dépassant les 60.000 euros, en 2023. Cette commande est mentionnée dans la trentaine des références citées dans son offre, sans toutefois être mise spécialement en exergue pour la démonstration de sa capacité technique.
+A. Quant à la recevabilité
+La partie adverse conteste la recevabilité du moyen.
+S’agissant des recours introduits sur le fondement de la loi du 17 juin 2013
+relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions, l’intérêt d’un requérant à invoquer un moyen s’examine au regard de l’existence d’une lésion que lui a causée ou risqué de lui causer la violation alléguée.
+L’offre de la requérante a été déclarée nulle en raison des irrégularités substantielles qui l’affectaient.
+VIexturg - 23.652 - 19/26
+La violation alléguée par la requérante, à la supposer avérée, affecte la régularité de la décision de sélectionner la partie intervenante, à qui le marché a été attribué.
+La requérante – qui a été sélectionnée sur la base du DUME déposé à l’appui de son offre – a pu être lésée par l’attribution du marché à un soumissionnaire qui, à suivre son argumentation, ne pouvait être valablement sélectionné.
+B. Quant au fond
+La requérante estime que la partie adverse a violé les dispositions visées au moyen en demandant à la partie intervenante de compléter son offre sur des éléments essentiels, ce qui implique une modification de celle-ci après son ouverture, prohibée par le principe d’égalité de traitement. Selon la requérante, la partie intervenante « ne satisfaisait pas, au moment de l’introduction de son offre, aux exigences du critère de sélection qualitative » car « les références initialement produites étaient incomplètes, en ce qu’elles ne mentionnaient pas, pour plusieurs commandes, l’ensemble des données expressément requises, à savoir le montant, la date d’exécution et, pour l’une des trois commandes, la preuve de l’installation d’un système de supervision, pourtant explicitement exigée ».
+L’article 66, § 3, alinéa 1er, de la loi du 17 juin 2016 relative aux marchés publics est rédigé comme suit :
+« § 3. Sans préjudice de l’article 39, § 6, alinéa 2, lorsque les informations ou les documents qui doivent être soumis par le candidat ou soumissionnaire sont ou semblent incomplets ou erronés ou lorsque certains documents sont manquants, le pouvoir adjudicateur peut demander au candidat ou soumissionnaire concernés de présenter, compléter, clarifier ou préciser les informations ou les documents concernés dans un délai approprié, à condition que ces demandes respectent pleinement les principes d’égalité de traitement et de transparence et, s’il est fait usage de la procédure ouverte ou restreinte, que cela ne donne pas lieu à une modification des éléments essentiels de l’offre ».
+En procédure ouverte ou restreinte, la possibilité que donne cette disposition au pouvoir adjudicateur de demander à un soumissionnaire « de présenter, compléter, clarifier ou préciser les informations ou les documents » contenus dans son offre, est conditionnée au respect des principes d’égalité de traitement et de transparence, et à l’interdiction que des éléments essentiels de l’offre soient modifiés.
+Dans le même sens, il ressort de la jurisprudence de la Cour de Justice de l’Union européenne que certaines exigences, déduites du principe d’égalité des soumissionnaires, encadrent la faculté du pouvoir adjudicateur de demander aux soumissionnaires une clarification de leur offre, autorisée dans son principe par   VIexturg - 23.652 - 20/26
+l’article 56, § 3, de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE.
+Ainsi, une demande de clarification d’une offre ne peut intervenir qu’après que le pouvoir adjudicateur a pris connaissance de l’ensemble des offres et elle doit être adressée de manière équivalente à tous les soumissionnaires qui se trouvent dans la même situation. Elle doit porter sur tous les points de l’offre qui requièrent une clarification et elle ne peut pas aboutir à la présentation, par un soumissionnaire, de ce qui apparaîtrait en réalité comme une nouvelle offre. De manière générale, le pouvoir adjudicateur doit par ailleurs traiter les soumissionnaires de manière égale et loyale, de telle sorte qu’une demande de clarification ne puisse pas apparaître comme ayant indûment favorisé ou défavorisé le ou les candidats ayant fait l’objet de cette demande (CJUE, 16 juillet 2012, Manova, C‑336/12, ECLI:EU:C:2013:647, points 31 à 37).
+Cet enseignement est applicable aux clarifications nécessaires à la sélection qualitative des candidats. À cet égard, la Cour de Justice considère que « le pouvoir adjudicateur peut demander que les données figurant dans un tel dossier soient ponctuellement corrigées ou complétées, pour autant qu’une telle demande porte sur des éléments ou des données, tel le bilan publié, dont l’antériorité par rapport au terme du délai fixé pour faire acte de candidature soit objectivement vérifiable »
+(CJUE, Manova, précité, points 38 à 39 ; Voir aussi CJUE, 10 novembre 2016, Ciclat, C-199/15, ECLI:EU:C:2016:853, point 29)
+En l’occurrence, il ressort du dossier administratif que les compléments demandés à la partie intervenante sont tous relatifs aux preuves qu’elle satisfait bien aux critères de la sélection qualitative.
+En ce qui concerne l’égalité de traitement, la partie adverse expose qu’elle a fait le choix de se fier, dans un premier temps, à l’engagement des soumissionnaires, pris lors du dépôt du DUME, qu’ils satisfont bien aux critères de la sélection qualitative. Ce n’est qu’à l’issue du contrôle de la régularité des offres et de leur analyse que la partie adverse a décidé de vérifier si l’attributaire pressenti, à savoir la partie intervenante, répondait bien à ces critères. Elle indique avoir également demandé, à cette occasion, aux autres soumissionnaires de déposer les documents manquants à leur offre.
+La requérante ne conteste pas qu’une telle demande – qui figure du reste au dossier administratif – lui a été adressée, et qu’elle y a répondu. Elle ne conteste
+VIexturg - 23.652 - 21/26
+pas non plus que cette demande concernait la totalité des documents nécessaires à sa sélection qualitative.
+La partie adverse a ensuite constaté, à l’examen des documents produits par la partie intervenante, que certaines informations manquaient encore pour conclure à sa sélection qualitative. Concernant le marché exécuté pour la Ville de Tournai, il s’agissait du montant de la prestation et de sa date d’exécution ; concernant le marché exécuté pour la Ville d’Ostende, il s’agissait du montant de la prestation.
+La partie adverse a dès lors réclamé ces informations complémentaires par une demande formulée via la plateforme eProcurement le 2 décembre 2025. La partie intervenante a déposé les informations requises sur la plateforme eProcurement le 4
+décembre 2025.
+Rien dans le déroulement de cette procédure ne permet de constater une rupture de l’égalité de traitement en faveur de la partie intervenante. Notamment, la requérante a disposé de la possibilité de compléter son offre par le dépôt de l’ensemble des documents nécessaires à sa sélection. Si une deuxième demande de complément d’informations a été adressée à la partie intervenante, et non aux autres soumissionnaires, c’est parce qu’elle était l’attributaire pressentie du marché. Rien ne permet de présumer qu’une telle demande n’aurait pas également été envoyée aux autres soumissionnaires, s’ils s’étaient trouvés dans les mêmes circonstances.
+Pour vérifier le respect de l’article 66, § 3, de la loi du 17 juin 2016, ainsi que celui du principe d’égalité, il convient également de vérifier si les compléments d’information déposés par la partie intervenante ont abouti à une modification de son offre.
+De ce point de vue, il doit être relevé à nouveau que la totalité des informations demandées et obtenues de la partie intervenante concerne sa sélection qualitative. Les compléments d’informations déposés par elle concernent la preuve des commandes réalisées les trois dernières années. Il s’agit donc d’apporter la démonstration de situations dont il peut être objectivement vérifié qu’elles étaient acquises au moment où la partie intervenante a déposé son offre.
+Même si l’attestation signée par la Bourgmestre de Tournai est postérieure à ce dépôt, elle ne fait que participer à la démonstration de la réalisation d’un marché déjà exécuté. Les éléments ainsi démontrés sont donc antérieurs au dépôt de l’offre, ce qui est objectivement vérifiable.
+VIexturg - 23.652 - 22/26
+Les compléments d’information déposés par la partie intervenante n’ont donc pas modifié son offre.
+Le troisième moyen (premier nouveau moyen) n’est pas sérieux.
+VIII. Quatrième moyen (deuxième moyen nouveau)
+VIII.1. Thèse de la partie requérante
+Dans sa note d’audience du 22 janvier 2026, la requérante soulève un « deuxième moyen additionnel » pris de la « violation de l’article 73, § 1, alinéa 2, et de l’article 78 de la loi du 17 juin 2016, lus conjointement avec l’article 73, § 1 de l’arrêté royal du 18 avril 2017, ainsi que du principe de minutie et de diligence en tant que principe général de bonne administration, et de l’obligation de motivation formelle telle que prévue aux articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs ».
+Elle articule son moyen comme suit :
+« En ce que la partie adverse sélectionne la partie intervenante, sans vérifier si le sous-traitant sur la capacité duquel l’attributaire se fonde est légalement impliqué dans l’offre de celui-ci ;
+Alors qu’en vertu de l’article 73, §1er, alinéa 2, et de l’article 78 de la loi du 17 juin 2016 ainsi que de l’article 73, §1er, de l’arrêté royal du 18 avril 2017, un DUME
+au nom de ce sous-traitant aurait dû être joint à l’offre de l’attributaire choisi, de même qu’une déclaration de disponibilité pendant l’exécution du marché.
+Alors que le devoir de diligence et de minutie impose à la partie défenderesse d’examiner minutieusement l’offre de l’attributaire sur ce point ;
+Alors que l’obligation de motivation formelle impose à la partie adverse de consigner les résultats de cet examen et ses constatations dans la décision contestée ».
+VIII.2. Appréciation du Conseil d’État
+Il ressort du dossier administratif, en particulier des mentions du DUME
+déposé par la partie intervenante et des références mentionnées pour les besoins de sa sélection qualitative, que celle-ci ne fait pas appel à la capacité technique de son sous-
+traitant SIGNCO.
+Selon les explications données à l’audience, le sous-traitant en question a rédigé une attestation indiquant, par souci de précaution, qu’il mettait sa capacité technique à disposition de la partie intervenante pour l’exécution du marché. La partie
+VIexturg - 23.652 - 23/26
+intervenante a ensuite déposé, à l’appui de son offre, cette attestation et un DUME
+rempli par ce sous-traitant.
+Ceci a amené la partie adverse à réclamer des informations qui n’étaient, en définitive, pas utiles à la sélection qualitative de la partie intervenante.
+Cet excès de précaution lors de la préparation de l’offre n’est pas susceptible de modifier la qualité de simple sous-traitant de la société SIGNCO, et de modifier les obligations qui s’imposent à la partie adverse dans l’examen de l’offre de la partie intervenante. Il n’est dès lors pas de nature à affecter la régularité de l’offre de la partie intervenante ou de l’acte attaqué.
+Le moyen, qui repose entièrement sur le présupposé que la partie intervenante fait appel à la capacité technique d’un sous-traitant, manque en fait.
+Le quatrième moyen (deuxième nouveau moyen) n’est pas sérieux.
+IX. Confidentialité
+La partie adverse dépose, à titre confidentiel, les offres des soumissionnaires (pièces 13, 15, 18 et 20) et les compléments d’information apportés par les soumissionnaires (pièces 14, 16, 17, 19 et 21). Elle demande le maintien de cette confidentialité dans sa note d’observations, sans justifier cette demande mais en mentionnant que la requérante reconnaît cette confidentialité dans sa requête.
+La requérante dépose la totalité de son offre à titre confidentiel (pièces B.0 à B.44). Elle demande le maintien de cette confidentialité en se référant au secret des affaires et à la jurisprudence constante du Conseil d’État.
+Ces demandes n’étant pas contestées, il y a lieu, à ce stade de la procédure, de maintenir la confidentialité des pièces concernées.
+X. Indemnité de procédure et autres dépens
+La partie adverse sollicite une indemnité de procédure de 770 euros. Il y a lieu de faire droit à sa demande.
+Le rejet du recours justifie que les autres dépens soient mis à charge de la requérante, à l’exception de ceux relatifs à l’intervention qui sont laissés à la charge de la partie intervenante.
+VIexturg - 23.652 - 24/26
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La requête en intervention introduite par la SA Krautli est accueillie.
+Article 2.
+La demande de suspension d’extrême urgence est rejetée.
+Article 3.
+L’exécution immédiate du présent arrêt est ordonnée.
+Article 4.
+Les pièces suivantes sont, à ce stade de la procédure, tenues pour confidentielles :
+- Les pièces 13 à 21 du dossier administratif ;
+- Les pièces B.0 à B.44 du dossier de la requérante.
+Article 5.
+La partie intervenante supporte le droit de 150 euros lié à son intervention.
+La partie requérante supporte les autres dépens, à savoir le droit de rôle de 200 euros, la contribution de 26 euros et l’indemnité de procédure de 770 euros accordée à la partie adverse.
+VIexturg - 23.652 - 25/26
+Ainsi prononcé à Bruxelles le 29 janvier 2026, par la VIe chambre du Conseil d’État siégeant en référé, composée de :
+Xavier Close, conseiller d’État, président f.f., Vincent Durieux, greffier.
+Le Greffier, Le Président,
+Vincent Durieux Xavier Close
+VIexturg - 23.652 - 26/26
