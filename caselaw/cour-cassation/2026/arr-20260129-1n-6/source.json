@@ -1,0 +1,42 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260129.1N.6",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260129.1N.6",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Vonnis/arrest van 29 januari 2026",
+  "published_on_juportal": "2026-02-18",
+  "language": "nl",
+  "role_number": "C.24.0494.N",
+  "case_name_as_published": "V. c. BELGISCH BUREAU VAN DE AUTOVERZEKERAARS VZW",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht",
+    "Droit international public",
+    "Internationaal publiekrecht",
+    "Droit européen",
+    "Unierecht"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCE AUTOMOBILE OBLIGATOIRE",
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "TRAITES ET ENGAGEMENTS INTERNATIONAUX",
+    "INTERNATIONALE VERDRAGEN",
+    "UNION EUROPEENNE - DROIT MATERIEL - Divers",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Allerlei"
+  ],
+  "fiche": [
+    "VERZEKERING - W.A.M.-VERZEKERING",
+    "Verdrag inzake de wet welke van toepassing is op verkeersongevallen op de weg, opgemaakt te 's-Gravenhage op 4 mei 1971. - Bekrachtiging. - 04-05-1971 - Art. 2, 6° - 32 Link Justel databank 19710504-32 Verordening (EG) nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) - 11-07-2007 - Art. 19 KB 11 juli 2003 houdende de vaststelling van de toelatingsvoorwaarden en de werking van het Belgisch Bureau en het Gemeenschappelijk Waarborgfonds - 11-07-2003 - Art. 4, § 4 - 98 ELI link Pub nr 2003011513",
+    "INTERNATIONALE VERDRAGEN",
+    "Verdrag inzake de wet welke van toepassing is op verkeersongevallen op de weg, opgemaakt te 's-Gravenhage op 4 mei 1971. - Bekrachtiging. - 04-05-1971 - Art. 2, 6° - 32 Link Justel databank 19710504-32 Verordening (EG) nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) - 11-07-2007 - Art. 19 KB 11 juli 2003 houdende de vaststelling van de toelatingsvoorwaarden en de werking van het Belgisch Bureau en het Gemeenschappelijk Waarborgfonds - 11-07-2003 - Art. 4, § 4 - 98 ELI link Pub nr 2003011513",
+    "EUROPESE UNIE - VERDRAGSBEPALINGEN - Allerlei",
+    "Verdrag inzake de wet welke van toepassing is op verkeersongevallen op de weg, opgemaakt te 's-Gravenhage op 4 mei 1971. - Bekrachtiging. - 04-05-1971 - Art. 2, 6° - 32 Link Justel databank 19710504-32 Verordening (EG) nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) - 11-07-2007 - Art. 19 KB 11 juli 2003 houdende de vaststelling van de toelatingsvoorwaarden en de werking van het Belgisch Bureau en het Gemeenschappelijk Waarborgfonds - 11-07-2003 - Art. 4, § 4 - 98 ELI link Pub nr 2003011513"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260129.1N.6",
+  "source_sha256": "1771ef9000226f03ab8e2d75ffbf12f0376ae62bdf380537c4e997efeb5a5ac8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260129.1N.6_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_13.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
