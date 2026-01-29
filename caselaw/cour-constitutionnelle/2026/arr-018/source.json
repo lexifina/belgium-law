@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.018",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.018",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Jugement/arrêt du 29 janvier 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "18/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la « notification de grief constitutionnel » concernant un arrêt de la Cour d'appel de Bruxelles du 22 octobre 2025, introduite par Georges Van Volsem. Procédure préliminaire - Irrecevabilité manifeste - Requête",
+    "de « kennisgeving van grondwettelijke grief » betreffende een arrest van het Hof van Beroep te Brussel van 22 oktober 2025, ingediend door Georges Van Volsem. Voorafgaande rechtspleging - Klaarblijkelijke niet-ontvankelijkheid - Verzoekschrift"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la « notification de grief constitutionnel » concernant un arrêt de la Cour d'appel de Bruxelles du 22 octobre 2025, introduite par Georges Van Volsem. Procédure préliminaire - Irrecevabilité manifeste - Requête"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.018&lang=fr",
+  "source_sha256": "c4b76b1061237a57af5f882f6594d485cd8abfd76faecc0b186ae7c28d461fbd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.018_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_95.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
