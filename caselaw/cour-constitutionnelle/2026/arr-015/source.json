@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.015",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.015",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Jugement/arrêt du 29 janvier 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "15/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles 194/1 et 194/2 du décret flamand du 22 décembre 2017 « sur l'administration locale », posées par le Tribunal du travail d'Anvers, division d'Anvers. Droit public - Administration locale - Agents statutaires - Régime de licenciement - Alignement sur le régime applicable aux agents contractuels - Règles répartitrices de compétences - Possibilités de licenciement - Modalités",
+    "de prejudiciële vragen betreffende de artikelen 194/1 en 194/2 van het Vlaamse decreet van 22 december 2017 « over het lokaal bestuur », gesteld door de Arbeidsrechtbank te Antwerpen, afdeling Antwerpen. Publiek recht - Lokaal bestuur - Statutaire personeelsleden - Ontslagregeling - Gelijkschakeling met de regeling van de contractuele personeelsleden - Bevoegdheidverdelende regels - Ontslagmogelijkheden - Modaliteiten"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles 194/1 et 194/2 du décret flamand du 22 décembre 2017 « sur l'administration locale », posées par le Tribunal du travail d'Anvers, division d'Anvers. Droit public - Administration locale - Agents statutaires - Régime de licenciement - Alignement sur le régime applicable aux agents contractuels - Règles répartitrices de compétences - Possibilités de licenciement - Modalités"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.015&lang=fr",
+  "source_sha256": "71f8f9f4225ff4c89a3e0d1e7fb0699d646ae3ffe2c20bcaf2cd393d9c7b7ba4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.015_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_91.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
