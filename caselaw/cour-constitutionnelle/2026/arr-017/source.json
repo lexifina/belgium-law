@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.017",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.017",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Jugement/arrêt du 29 janvier 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "17/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative aux articles 17, 134, 135 et 138 du Code des droits de succession, tels qu'ils étaient applicables avant leur modification par la loi du 28 décembre 2023 « portant des dispositions fiscales diverses », posée par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Droits de succession - Immeubles situés à l'étranger - Restitution des droits - Prescription - Délai de forclusion de deux ans",
+    "de prejudiciële vraag betreffende de artikelen 17, 134, 135 en 138 van het Wetboek der successierechten, zoals van toepassing vóór de wijziging ervan bij de wet van 28 december 2023 « houdende diverse fiscale bepalingen », gesteld door de Franstalige Rechtbank van eerste aanleg te Brussel. Fiscaal recht - Successierechten - In het buitenland gelegen goederen - Teruggave van de rechten - Verjaring - Vervaltermijn van twee jaar"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative aux articles 17, 134, 135 et 138 du Code des droits de succession, tels qu'ils étaient applicables avant leur modification par la loi du 28 décembre 2023 « portant des dispositions fiscales diverses », posée par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Droits de succession - Immeubles situés à l'étranger - Restitution des droits - Prescription - Délai de forclusion de deux ans"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.017&lang=fr",
+  "source_sha256": "92536678ee892a22631f2ea0321d32465abe5fed78efddc66a3472fb1fbc6722",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.017_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_92.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
