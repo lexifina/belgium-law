@@ -1,0 +1,51 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2026:JUG.20260129.1",
+  "ecli": "ECLI:BE:ORANT:2026:JUG.20260129.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Vonnis/arrest van 29 januari 2026",
+  "published_on_juportal": "2026-02-03",
+  "language": "nl",
+  "role_number": "A/17/04104",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Aansprakelijkheid buiten de tienjarige aansprakelijkheid",
+    "Aansprakelijkheid aannemer, gespecialiseerde aannemer, informatieverplichtingen, aansprakelijkheid hoofdaannemer voor onderaannemer",
+    "BURGERLIJK RECHT - VERBINTENISSENRECHT- ALGEMENE BEGINSELEN - Modaliteiten - Hoofdelijke verbintenis - In solidum",
+    "Aansprakelijkheid aannemer, aansprakelijkheid studiebureau, aansprakelijkheid in solidum, regresvordering, verhaal, voorwaardelijke indeplaatsstelling",
+    "BURGERLIJK RECHT - ZAKELIJKE RECHTEN - Hinder - Burenhinder",
+    "Burenhinder, aannemingswerken, aansprakelijkheid opdrachtgever, aansprakelijkheid aannemer, contractuele vrijwaringsverbintenis foutloze burenhinder",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - VERZEKERINGEN - Landverzekering - Schadeverzekering",
+    "Aansprakelijkheidsverzekering, schorsing verzekeringsdekking",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - VERZEKERINGEN - Landverzekering - Schadeverzekering - Aansprakelijkheidsverzekering",
+    "Aansprakelijkheidsverzekering, schadegeval",
+    "ABR-verzekering (alle bouwplaatsrisico's), verzekering in tweede rang, verzekering in excedent, verzekering in verschil in limieten (DIL, difference in limits), verzekering in verschil in voorwaarden (DIC, difference in conditions)"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Bouwrecht - Aanneming - Aansprakelijkheid buiten de tienjarige aansprakelijkheid",
+    "Aansprakelijkheid aannemer, gespecialiseerde aannemer, informatieverplichtingen, aansprakelijkheid hoofdaannemer voor onderaannemer",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1797 - 34 ELI link Pub nr 1804032154",
+    "BURGERLIJK RECHT - VERBINTENISSENRECHT- ALGEMENE BEGINSELEN - Modaliteiten - Hoofdelijke verbintenis - In solidum",
+    "Aansprakelijkheid aannemer, aansprakelijkheid studiebureau, aansprakelijkheid in solidum, regresvordering, verhaal, voorwaardelijke indeplaatsstelling",
+    "BURGERLIJK RECHT - ZAKELIJKE RECHTEN - Hinder - Burenhinder",
+    "Burenhinder, aannemingswerken, aansprakelijkheid opdrachtgever, aansprakelijkheid aannemer, contractuele vrijwaringsverbintenis foutloze burenhinder",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - VERZEKERINGEN - Landverzekering - Schadeverzekering",
+    "Aansprakelijkheidsverzekering, schorsing verzekeringsdekking",
+    "Wet - 04-04-2014 - 69 - 23 ELI link Pub nr 2014011239 Wet - 04-04-2014 - 56 - 23 ELI link Pub nr 2014011239 Wet - 04-04-2014 - 71 - 23 ELI link Pub nr 2014011239",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - VERZEKERINGEN - Landverzekering - Schadeverzekering - Aansprakelijkheidsverzekering",
+    "Aansprakelijkheidsverzekering, schadegeval",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - VERZEKERINGEN - Landverzekering - Schadeverzekering",
+    "ABR-verzekering (alle bouwplaatsrisico's), verzekering in tweede rang, verzekering in excedent, verzekering in verschil in limieten (DIL, difference in limits), verzekering in verschil in voorwaarden (DIC, difference in conditions)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2026:JUG.20260129.1",
+  "source_sha256": "0f09fb5323e8b76060671efbb0fda89b9156093c2ba8ebf211381a033bc8528a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2026:JUG.20260129.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/03/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
