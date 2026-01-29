@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.016",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.016",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Jugement/arrêt du 29 janvier 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "16/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles 1.10, 3.62 et 5.14, alinéa 1er, du Code civil, posées par le Juge de paix du deuxième canton de Liège. Droit civil - Propriété immobilière - Empiètement - Isolation d'un bâtiment préexistant - Opposition aux travaux - Absence de pouvoir d'appréciation du juge - Abus de droit",
+    "de prejudiciële vragen betreffende de artikelen 1.10, 3.62 en 5.14, eerste lid, van het Burgerlijk Wetboek, gesteld door de Vrederechter van het tweede kanton Luik. Burgerlijk recht - Onroerende eigendom - Grensoverschrijding - Isolatie tegen een bestaand gebouw - Verzet tegen de isolatiewerken - Ontstentenis van beoordelingsvrijheid van de rechter - Rechtsmisbruik"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles 1.10, 3.62 et 5.14, alinéa 1er, du Code civil, posées par le Juge de paix du deuxième canton de Liège. Droit civil - Propriété immobilière - Empiètement - Isolation d'un bâtiment préexistant - Opposition aux travaux - Absence de pouvoir d'appréciation du juge - Abus de droit"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.016&lang=fr",
+  "source_sha256": "9a69d382bf5217fdc3d5ef90d7208372e7996431930e5dc5ae49f6abc70c980d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.016_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_94.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
