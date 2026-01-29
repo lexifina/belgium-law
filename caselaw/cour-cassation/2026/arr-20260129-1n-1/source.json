@@ -1,0 +1,46 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260129.1N.1",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260129.1N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-29",
+  "date_as_printed": "Vonnis/arrest van 29 januari 2026",
+  "published_on_juportal": "2026-02-18",
+  "language": "nl",
+  "role_number": "C.24.0216.N",
+  "case_name_as_published": "Stad Gent contra A.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit constitutionnel",
+    "Constitutioneel recht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "TRIBUNAUX - GENERALITES",
+    "RECHTBANKEN - ALGEMEEN",
+    "COMMUNE",
+    "GEMEENTE",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 1er",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1"
+  ],
+  "fiche": [
+    "RECHTBANKEN - ALGEMEEN",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6 - 30 Link Justel databank 19501104-30 Decreet 27 november 2015 betreffende lage-emissiezones - 27-11-2015 - Art. 10, § 1 - 09 ELI link Pub nr 2015036551 Reglement van 23 april 2019 voor een lage-emissiezone (LEZ) in Gent - 23-04-2019 - Art. 6, §§ 2 en 3",
+    "GEMEENTE",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6 - 30 Link Justel databank 19501104-30 Decreet 27 november 2015 betreffende lage-emissiezones - 27-11-2015 - Art. 10, § 1 - 09 ELI link Pub nr 2015036551 Reglement van 23 april 2019 voor een lage-emissiezone (LEZ) in Gent - 23-04-2019 - Art. 6, §§ 2 en 3",
+    "RECHTBANKEN - ALGEMEEN",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Decreet 27 november 2015 betreffende lage-emissiezones - 27-11-2015 - Art. 10, § 1 - 09 ELI link Pub nr 2015036551 Reglement van 23 april 2019 voor een lage-emissiezone (LEZ) in Gent - 23-04-2019 - Art. 6, §§ 2 en 3",
+    "GEMEENTE",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Decreet 27 november 2015 betreffende lage-emissiezones - 27-11-2015 - Art. 10, § 1 - 09 ELI link Pub nr 2015036551 Reglement van 23 april 2019 voor een lage-emissiezone (LEZ) in Gent - 23-04-2019 - Art. 6, §§ 2 en 3",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.1",
+    "Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend op 4 november 1950, te Rome - 04-11-1950 - Art. 6.1 - 30 Link Justel databank 19501104-30 Decreet 27 november 2015 betreffende lage-emissiezones - 27-11-2015 - Art. 10, § 1 - 09 ELI link Pub nr 2015036551 Reglement van 23 april 2019 voor een lage-emissiezone (LEZ) in Gent - 23-04-2019 - Art. 6, §§ 2 en 3"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260129.1N.1",
+  "source_sha256": "244220514228a25bdd20f31e88abfeed4f8946929d67c901823df633fd6c646d",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260129.1N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
