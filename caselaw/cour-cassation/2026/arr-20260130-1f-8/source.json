@@ -1,0 +1,40 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260130.1F.8",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260130.1F.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-01-30",
+  "date_as_printed": "Jugement/arrêt du 30 janvier 2026",
+  "published_on_juportal": "2026-02-17",
+  "language": "fr",
+  "role_number": "F.23.0057.F",
+  "case_name_as_published": "VILLE DE GEMBLOUX contra CS MAG s.r.l.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - TAXES COMMUNALES",
+    "GEMEENTE-, PROVINCIE- EN PLAATSELIJKE BELASTINGEN - GEMEENTEBELASTINGEN",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 172",
+    "GRONDWET - GRONDWET 1994 (ART. 100 TOT EINDE) - Artikel 172"
+  ],
+  "fiche": [
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - TAXES COMMUNALES",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 10 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 11 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 172 - 30 Lien ELI No pub 1994021048",
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - TAXES COMMUNALES",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 10 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 11 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 172 - 30 Lien ELI No pub 1994021048",
+    "TAXES COMMUNALES, PROVINCIALES ET LOCALES - TAXES COMMUNALES",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 10 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 11 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 172 - 30 Lien ELI No pub 1994021048",
+    "CONSTITUTION - CONSTITUTION 1994 (ART. 100 A FIN) - Article 172",
+    "La Constitution coordonnée 1994 - 17-02-1994 - Art. 10 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 11 - 30 Lien ELI No pub 1994021048 La Constitution coordonnée 1994 - 17-02-1994 - Art. 172 - 30 Lien ELI No pub 1994021048"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260130.1F.8",
+  "source_sha256": "836888cc2017f16a19c1eeb6ad72c9acfff5bdf415aad7d0e21139e0915292b8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260130.1F.8_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_31.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
