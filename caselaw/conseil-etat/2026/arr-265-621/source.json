@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.621",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.621",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-01-30",
+  "date_as_printed": "Vonnis/arrest van 30 januari 2026",
+  "published_on_juportal": "2026-02-04",
+  "language": "nl",
+  "role_number": "A. 236530/X-18165 - A. 242851/X-18824 - A. 242875/X-18827",
+  "case_name_as_published": "Arrest 265621 - Varia (binnenlandse zaken en lokale besturen) - 30/01/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.621",
+  "source_sha256": "5a474d8bcca2e0aba76e0c83f931175bf712885f572b18f573795778fe33c337",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.621_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
