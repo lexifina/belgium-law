@@ -1,0 +1,198 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LA PRÉSIDENTE f.f. DE LA VIe CHAMBRE SIÉGEANT EN RÉFÉRÉ
+no 265.629 du 30 janvier 2026
+A. 246.800/VI-23.619
+En cause : la société de droit turque KARSAN O TOMOTIV
+SANAYI VE TICARET, ayant élu domicile chez Me Thomas CAMBIER, avocat, avenue Léopold Wiener 127 bte 11
+1170 Bruxelles, contre :
+l’Opérateur de Transport de Wallonie, ayant élu domicile chez Mes Virginie DOR, Pauline ABBA
+et Flore VERHOEVEN, avocates, chaussée de la Hulpe 178
+1170 Bruxelles.
+Partie requérante en intervention :
+la société anonyme IVECO BELGIUM, ayant élu domicile chez Mes Philip PEERENS et Kristof LANGENS, avocats, Kouterveldstraat 7B/2
+1831 Diegem.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 19 décembre 2025, la partie requérante demande la suspension, selon la procédure d’extrême urgence, de l’exécution de « la décision de la partie adverse du 5 décembre 2025 d’attribuer le lot 2 de l’accord-cadre Fourniture d’une solution de transport public de type autobus électriques standards et articulés à la société IVECO BELGIUM ».
+Par une requête introduite le 19 janvier 2026, la partie requérante demande l’annulation de cette décision.
+VIexturg - 23.619 - 1/14
+II. Procédure
+Par une ordonnance du 22 décembre 2025, le calendrier de la procédure a été déterminé et l’affaire a été fixée à l’audience du 19 janvier 2026.
+Par une ordonnance du 8 janvier 2026, une ordonnance modificative a été prise afin de modifier le calendrier de la procédure.
+La note d’observations, le dossier administratif et la requête en intervention ont été déposés dans le respect du calendrier de la procédure.
+La contribution et les droits visés respectivement aux articles 66, 6°, et 70
+de l’arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d’État ont été acquittés.
+Mme Florence Piret, conseillère d’État, présidente f.f., a exposé son rapport.
+Me Thomas Cambier, avocat, comparaissant pour la partie requérante, Mes Virginie Dor et Pauline Abba, avocates, comparaissant pour la partie adverse, et Me Kristof Langens, avocat, comparaissant pour la partie requérante en intervention, ont été entendus en leurs observations.
+Mme Muriel Vanderhelst, premier auditeur au Conseil d’État, a été entendue en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la demande
+Selon la relation qu’en donne la partie adverse, les faits utiles à l’examen de la demande se présentent comme suit :
+« 1. La partie adverse, l’Opérateur de Transport de Wallonie (ci-après aussi “l’OTW”), a lancé, par procédure négociée avec mise en concurrence préalable, un accord-cadre ayant pour objet la fourniture “d’une solution de transport public de type autobus électriques standards et articulés”.
+Le marché est divisé en deux lots.
+VIexturg - 23.619 - 2/14
+Le premier lot a pour objet des autobus électriques articulés d’une longueur d’environ 12 mètres et équipés de trois portes.
+Le second lot (ci-après aussi “lot n°2”) a pour objet des autobus électriques articulés d’une longueur d’environ 18 mètres et équipés de quatre portes. C’est la (deuxième) décision d’attribution du second lot qui est attaquée par la partie requérante.
+Il est prévu que l’accord-cadre sera conclu avec un seul opérateur économique pour chacun des lots. Il n’y a pas de remise en concurrence pour l’attribution des marchés subséquents au sein de l’accord-cadre.
+2. Ce marché est régi par le Cahier spécial des charges portant la référence “DG/TECH/2024-23” (ci-après “CSC”) […]. Il contient des clauses administratives et techniques, ainsi que 19 annexes.
+3. Le CSC résume, de la manière suivante, l’objet du marché […] :
+“Ces véhicules seront neufs et du type autobus, Classe I, au sens du R107.
+La seule source externe d’énergie autorisée est l’électricité. Le véhicule proposé étant un véhicule entièrement électrique, les auxiliaires de chauffage le seront aussi”.
+Pour le lot n° 2, la quantité présumée est de 120 véhicules et la quantité maximale est de 250 véhicules. La valeur maximale de l’accord-cadre est de 361.536.997,5
+EUR pour le lot n° 2.
+4. Le 11 décembre 2024, l’OTW approuve les conditions du marché et la procédure de passation du marché […].
+5. Ce marché fait l’objet d’un avis, de même objet, publié au Bulletin des Adjudications le 16 décembre 2024 et au Journal officiel de l’Union européenne le 18 décembre 2024 […].
+6. Deux avis rectificatifs sont publiés au Bulletin des Adjudications et au Journal officiel de l’Union européenne, en dates du 23 décembre 2024 et du 27 décembre 2024 pour le premier, et en dates du 7 janvier 2025 et du 9 janvier 2025 pour le deuxième […].
+7. Les demandes de participation devaient parvenir à la partie adverse au plus tard le 27 janvier 2025 à 11h00.
+Les candidats suivants ont été sélectionnés par une décision de la partie adverse du 27 février 2025 […] :
+- SOLARIS BUS & COACH […] (Pologne) ;
+- DAIMLER BUSES BELGIUM […] [Belgique];
+- IRIZAR S. COOP […] (Espagne) ;
+- IVECO BELGIUM […][Belgique] ;
+- KARSAN OTOMOTIV SANAYI VE TICARET SA […] (Turquie) ;
+- STOCKX SRL […] [Belgique] ;
+VIexturg - 23.619 - 3/14
+- VDL BUS & COACH BELGIUM SA […] [Belgique] ;
+- Groupement : VIAMOTIVE-HIGER […] [Belgique] ;
+- VOLVO BUS CORPORATION […] (Suède) ;
+- Groupement : YES-CRRC […] (Suède).
+8. Au plus tard à la date du 31 mars 2025, date fixée pour la remise des offres initiales, les six soumissionnaires suivants ont remis une offre […] :
+9.
+10. Des tests des véhicules sont organisés […] à la suite d’une prise de convenances avec les soumissionnaires. Les résultats font l’objet d’un procès-
+verbal qui est approuvé par les soumissionnaires.
+11. L’OTW a décidé de faire valoir sa capacité de négociation dans cette procédure. Par un envoi du 17 juillet 2025, l’OTW a demandé aux soumissionnaires de présenter une BAFO […].
+La date limite de réception des BAFO’s (offres finales) est fixée au 19 septembre 2025.
+Les entreprises suivantes ont remis une BAFO […] :
+12. Après une analyse minutieuse et détaillée des offres au regard des critères d’attribution, un rapport d’examen des offres est établi et daté du 16 octobre 2025,
+VIexturg - 23.619 - 4/14
+au terme duquel l’offre de la SA VDL BUS & COACH BELGIUM est désignée comme l’offre régulière économiquement la plus avantageuse […].
+Par une décision du 12 novembre 2025, le conseil d’administration de la partie adverse décide […] :
+“d’attribuer le lot n° 2 de cet accord-cadre au soumissionnaire ayant remis l’offre régulière la plus avantageuse économiquement (au regard des critères d’attribution) à savoir VDL BUS & COACH BELGIUM SA […]”.
+Il s’agit de la première décision d’attribution adoptée pour le lot n° 2.
+13. Le 26 novembre 2025, l’adjudicataire pressenti du lot n° 2, la S.A. VDL BUS
+& COACH BELGIUM (ci-après la « SA VDL »), indique à la partie adverse que la référence initiale des essieux (composant essentiel des bus) n’étant plus disponible, les solutions alternatives entraînent un besoin de reconception des bus du lot concerné (lot n° 2) avec pour conséquence des retards importants empêchant le respect des délais contractuels […].
+14. Le 28 novembre 2025, le Conseil d’administration de la partie adverse décide de retirer la décision précitée d’attribution du lot n° 2 […].
+Il ressort des déclarations de la SA VDL que celle-ci émet une réserve en ce qu’elle indique ne pas pouvoir respecter les délais contractuels fixés dans le CSC. Une telle réserve constitue une irrégularité substantielle, en ce sens que le soumissionnaire refuse de respecter les délais du CSC.
+Une telle réserve rend son engagement à exécuter le marché dans les conditions prévues inexistant et à tout le moins incomplet et incertain.
+15. Après une analyse minutieuse et détaillée des offres au regard des critères d’attribution, un nouveau rapport d’examen des offres est établi et daté du 3 décembre 2025, au terme duquel l’offre de la SA IVECO est désignée comme l’offre régulière économiquement la plus avantageuse […].
+Par une décision du 5 décembre 2025, le Conseil d’administration de la partie adverse décide […] :
+“d’attribuer le lot n° 2 de cet accord-cadre au soumissionnaire ayant remis l’offre régulière la plus avantageuse économiquement (au regard des critères d’attribution) à savoir IVECO BELGIUM, Alfons Gossetlaan, 28A, bus 3 à 1702 GROOTBIJGAARDEN”.
+Il s’agit de l’acte attaqué.
+15. La décision motivée d’attribution (ou, selon le cas, l’extrait pertinent de celle-
+ci) a été communiquée le 5 décembre 2025, par courriel et par courriers recommandés, aux soumissionnaires précités ».
+VIexturg - 23.619 - 5/14
+IV. Intervention
+Par une requête introduite le 9 janvier 2026, la société anonyme IVECO
+BELGIUM a demandé à intervenir dans la procédure en référé d’extrême urgence.
+En tant que bénéficiaire du lot 2 du marché litigieux, elle a un intérêt suffisant à intervenir dans le cadre de la présente procédure. Il y a lieu d’accueillir cette requête.
+V. Premier moyen
+V.1. Thèses des parties
+A. Requête
+La requérante prend un premier moyen « de l’erreur manifeste d’appréciation, de la contrariété entre les causes et les motifs » et de la violation des principes et dispositions suivants :
+« - la Constitution, notamment de ses articles 10 et 11 (égalité et non-
+discrimination) et 33 (motivation matérielle) ;
+- la loi du 17 juin 2016 relative aux marchés publics et, plus spécifiquement, de ses articles 4 (principe d’égalité et de transparence et principe de proportionnalité), 66 et 83 (régularité et comparaison des offres) ; 120
+(procédure négociée avec publication) 147 (régularité et comparaison des offres– secteurs spéciaux) ;
+- l’arrêté royal du 18 juin 2017 relatif à la passation des marchés publics dans les secteurs spéciaux, notamment de ses articles 64 (engagement des offres)
+74 (examen de la régularité des offres) ; 85 (comparaison des offres et attribution à l’offre économiquement la plus avantageuse), 87 (retrait d’offre et refus de maintien de l’engagement par l’attributaire) ;
+- l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques, notamment de ses articles 65 (engagement de l’offre)
+76 (régularité des offres), 87 (comparaison des offres et attribution à l’offre économiquement la plus avantageuse), 89 (retrait d’offre et refus de maintien de l’engagement par l’attributaire) ;
+- la loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions, notamment de ses articles 2 (offre et engagement) 4 et 5 (motivation de la décision d’attribution) ;
+- la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, notamment de ses articles 2 et 3 ;
+- les principes de bonne administration, dont les principes d’égalité et de transparence, le principe de proportionnalité, les devoirs de prudence et de minutie, et le principe patere legem quam ipse fecisti ».
+Le moyen est aussi pris de la violation de la théorie du retrait des actes et de la violation de :
+VIexturg - 23.619 - 6/14
+« - Le principe général de non-rétroactivité des actes administratifs et l’article 1.2
+du Code civil ;
+- Le principe général de sécurité juridique et de légitime confiance ;
+- Les lois coordonnées du 12 janvier 1973 sur le Conseil d’État et, plus spécifiquement, de ses articles 14, 19 et 30 ».
+Le moyen est résumé en ces termes :
+« En ce que :
+La partie adverse a procédé au retrait de la première décision d’attribution du marché à VDL en raison d’un motif qui est entièrement imputable à ce soumissionnaire et qui est intervenu après la décision motivée d’attribution et après sa communication à tous les soumissionnaires.
+Par ailleurs, ce retrait n’a été suivi d’aucune modification des conditions du marché, ni des offres des autres soumissionnaires.
+Or, la partie adverse a considéré qu’il était nécessaire de procéder à une nouvelle comparaison des offres et elle a procédé de la sorte :
+- D’abord l’examen des offres régulières au terme duquel l’offre de VDL est jugée irrégulière sur la base des déclarations d’un représentant de VDL, postérieures au dépôt des offres et qualifiées de réserve ;
+- Ensuite les offres sont à nouveau comparées, mais en excluant l’offre de VDL, ce qui renverse le classement et conduit IVECO à passer devant la requérante.
+A priori, cette inversion de classement entre IVECO et la requérante semble résulter de l’application des méthodes de règles de trois et de moyenne qui sont bouleversées si l’offre de VDL est retirée.
+L’inversion du classement est donc directement en lien avec les déclarations postérieures du représentant de VDL et avec la décision de la partie adverse de déclarer cette offre irrégulière et de procéder à une nouvelle comparaison en excluant cette offre de la comparaison.
+Alors que Il n’était pas permis (et encore moins nécessaire) de procéder à une nouvelle comparaison des offres, en excluant de cette nouvelle comparaison l’offre de VDL
+en raison des déclarations de son représentant, formulées après la première attribution, et qui sont assimilées, à tort, à une irrégularité substantielle devant conduire à l’écartement de cette offre avant la comparaison des offres.
+En effet :
+- Cela revient à permettre à un soumissionnaire de procéder à un retrait de son offre, ce qui n’est pas autorisé et ne pourrait en aucun cas avoir un effet déterminant sur l’attribution du marché, ce d’autant moins lorsque ces déclarations interviennent après l’adoption et la communication d’une première décision motivée d’attribution ;
+- Tout au plus, cette déclaration de VDL devrait être assimilée à un refus de maintien de la validité d’une offre, ce qui devait donner lieu à l’application de l’article 87 de l’AR qui ne permet pas une nouvelle comparaison telle qu’elle est faite dans l’acte attaqué ;
+- La partie adverse confond deux réalités juridiques différentes : l’examen des offres (régularité et comparaison) et la conclusion du marché.
+Face à un soumissionnaire qui refuse d’exécuter le marché qui lui est attribué, le pouvoir adjudicateur a la liberté de renoncer à le contraindre à exécuter le marché, ce qui est sans incidence sur la régularité de son offre pris en compte pour la comparaison. La comparaison des offres ne peut être refaite en excluant a posteriori cette offre.
+- Du reste, l’offre n’est pas irrégulière, les déclarations complémentaires d’un représentant de VDL ne pouvant pas modifier cette offre et la rendre irrégulière.
+VIexturg - 23.619 - 7/14
+- L’adoption de l’acte attaqué conduit la partie adverse à faire dépendre la comparaison des offres d’un évènement extérieur, aléatoire et postérieur au dépôt des offres.
+- Enfin, le postulat de départ selon lequel les offres irrégulières doivent nécessairement et obligatoirement toujours être écartées avant la comparaison des offres ne repose sur aucun fondement juridique.
+- Pour le surplus, la partie requérante constate des incohérences (erreur manifeste d’appréciation) non motivées entre les cotations mathématiques de la première décision et de l’acte attaqué. Elle sollicite la production des informations permettant de contrôler ces cotations.
+L’acte attaqué est également adopté à la suite et sur la base d’un retrait illégal qui constitue un acte préalable dont l’illégalité affecte l’acte attaqué, conformément notamment à l’article 159 de la Constitution.
+À tout le moins et à titre subsidiaire, cette nouvelle comparaison est illégale en ce qu’elle repose sur un motif selon lequel il était nécessaire de procéder à une nouvelle comparaison ».
+B. Note d’observations et requête en intervention
+La réponse au premier moyen fait l’objet de développements qui n’ont toutefois été résumés ni par la partie adverse ni par la partie intervenante.
+V.2. Appréciation du Conseil d’État
+La requérante demande notamment au Conseil d’État de constater l’illégalité du retrait de la première décision d’attribution et d’écarter celui-ci sur la base de l’article 159 de la Constitution. Sans le retrait de la première décision d’attribution, l’adoption de la deuxième décision d’attribution qui se fonde sur une nouvelle évaluation des offres (acte attaqué) n’est plus valablement justifiée. Par conséquent, le grief tiré de l’illégalité de la décision de retrait est à examiner en premier lieu. Une telle illégalité a les effets les plus étendus.
+Par ailleurs, la régularité du retrait, qui concerne la compétence de son auteur et touche donc à l’ordre public, doit, au besoin, être vérifiée d’office. Le Conseil d’État n’est dès lors pas tenu par la portée, le cas échéant, limitée du moyen, lequel reproche surtout à la partie adverse d’avoir procédé à une nouvelle analyse des offres.
+Quant à l’exception soulevée par la partie intervenante
+La partie intervenante soutient que la requérante n’est pas recevable à critiquer la légalité du retrait de la première décision d’attribution, dès lors qu’elle n’a pas introduit de demande de suspension contre celui-ci.
+La requérante peut, dans le cadre de la présente demande, contester, de manière incidence, la légalité du retrait de la première décision d’attribution, dès lors   VIexturg - 23.619 - 8/14
+que ce retrait n’est pas devenu définitif, ce qui est bien le cas en l’espèce, puisque la requérante a, le 12 janvier 2026, introduit un recours en annulation contre la décision de retrait (G./A. 246.990/VI-23.654).
+L’exception d’irrecevabilité soulevée par la partie intervenante ne peut être retenue.
+Quant au caractère sérieux du moyen
+La décision d’attribuer le lot 2 du marché à la SA VDL Bus & Coach Belgium (ci-après : « SA VDL ») a été adoptée le 12 novembre 2025 et communiquée le 14 novembre 2025 aux différents soumissionnaires. Elle approuve le rapport d’examen des offres, établi le 16 octobre 2025, qui contient la proposition de classement suivante :
+Il fait peu de doute que la décision d’attribution du 12 novembre 2025 est créatrice de droit dans le chef de l’attributaire du lot 2 du marché, dans le sens où une telle décision a, à tout le moins, des effets avantageux à son égard, même avant la conclusion du contrat. Rien n’indique, par ailleurs, que la SA VDL aurait renoncé à la décision d’attribution précitée ou acquiescé au retrait de celle-ci.
+Plus fondamentalement, il faut relever que la réglementation des marchés publics distingue clairement les différentes étapes de la procédure de passation depuis son lancement jusqu’à la conclusion du contrat, en vue notamment de garantir, à tous les stades, le respect des principes de concurrence, d’égalité, de non-discrimination et de transparence. Au regard des différentes règles qui gouvernent la matière et assurent la mise en œuvre de ces principes, il semble prima facie difficilement concevable qu’un adjudicateur puisse, pour des considérations d’opportunité, revenir sur l’analyse – et le classement – des offres, après l’adoption et la communication de la décision d’attribution. Une telle possibilité ferait peser un risque d’arbitraire dans l’action de
+VIexturg - 23.619 - 9/14
+l’adjudicateur et ouvrirait la voie à des pratiques collusoires entre soumissionnaires, susceptibles de fausser le jeu de la concurrence, en violation des principes précités.
+Il apparaît ainsi cohérent de n’autoriser le retrait d’une décision d’attribution d’un marché public que dans un cadre strict, propre à assurer de manière objective le respect des principes de concurrence, d’égalité, de non-discrimination et de transparence, à savoir uniquement lorsqu’une disposition légale l’autorise expressément ou sur la base du principe général du retrait des actes administratifs créateurs de droit, qui n’autorise le retrait que dans des hypothèses déterminées.
+La requérante invoque l’article 87 de l’arrêté royal du 18 juin 2017 relatif à la passation des marchés publics dans les secteurs spéciaux, en affirmant que cette disposition fixait la marche à suivre pour réattribuer le lot 2 du marché, sans devoir procéder à une nouvelle analyse des offres. Force est toutefois de constater que cette disposition ne trouve à s’appliquer que dans la phase qui précède l’attribution du marché (« avant d’attribuer le marché ») et ne pouvait dès lors servir de fondement au retrait de la décision d’attribution adoptée le 12 novembre 2025.
+La partie adverse invoque, quant à elle, l’article 85 de la loi du 17 juin 2016 relative aux marchés publics – auquel renvoie l’article 153 de la même loi pour les marchés publics dans les secteurs spéciaux. Certes, cette disposition permet, tant que le marché n’est pas conclu, de retirer une décision d’attribution alors qu’elle n’est entachée d’aucune irrégularité. Toutefois, dans l’hypothèse visée à cette disposition, le retrait n’est admis que pour renoncer à un marché ou recommencer la procédure.
+Cette disposition ne permet pas un retrait en opportunité pour réattribuer le marché à un autre soumissionnaire. Elle ne peut, dès lors, non plus, servir de fondement au retrait de la décision d’attribution du 12 novembre 2025, qui charge les Services Techniques et le Service Achats de procéder à une nouvelle comparaison des offres.
+En dehors de l’hypothèse très précise visée à l’article 85 de la loi du 17 juin 2016 – où l’adjudicateur décide de renoncer au marché ou de recommencer la procédure –, la décision d’attribution du 12 novembre 2025 pouvait, pour les raisons déjà exposées, être retirée sur la base du principe général du retrait des actes administratifs créateurs de droit.
+Selon le principe général de droit du retrait des actes administratifs, une autorité administrative ne peut retirer un acte créateur de droit que s’il est irrégulier et dans les soixante jours de son adoption ou jusqu’à la clôture des débats en cas de recours en annulation introduit dans le délai requis auprès du Conseil d’État. Au-delà de ce délai, l’autorité n’est plus compétente pour retirer cet acte, sauf autorisation
+VIexturg - 23.619 - 10/14
+légale expresse ou en cas de constat de fraude ou vice à ce point grave ou manifeste que l’acte créateur de droit doit être tenu pour inexistant.
+En l’espèce, il n’est pas contesté que le retrait est intervenu dans le délai prévu pour l’introduction du recours en annulation devant le Conseil d’État alors que la décision d’attribution du 12 novembre 2025 n’était pas encore devenue définitive.
+Le retrait contesté ne constate toutefois aucune irrégularité qui entacherait cette décision. Le retrait est justifié « en raison des éléments nouveaux portés à la connaissance du pouvoir adjudicateur et de la nécessité de réévaluer les offres à la lumière de ceux-ci ». Dans la note au conseil d’administration de l’OTW – à laquelle se réfère la décision de retrait contestée –, il est précisé ce qui suit :
+« Considérant que l’information relative à la décision motivée d’attribution a été envoyée par courriel et par courrier le 14 novembre 2025 aux soumissionnaires, dont notamment l’opérateur VDL BUS & COACH BELGIUM SA, lui indiquant que son offre avait été retenue ;
+Considérant qu’en date du 26 et 27 novembre 2025, l’opérateur VDL BUS &
+COACH BELGIUM SA a informé officiellement l’OTW que la référence initiale des essieux (composant essentiel des bus) n’étant plus disponible, les solutions alternatives entraînent un besoin de reconception des bus du lot concerné (lot 2)
+avec pour conséquence des retards importants empêchant le respect des délais contractuels, ce qui constitue un élément essentiel du marché ;
+Considérant qu’à la suite des éléments précités portés à la connaissance de l’OTW, une nouvelle analyse par le pouvoir adjudicateur des offres du lot n° 2 de l’accord-
+cadre régi par le CSC n° DG/TECH/2024-23 s’avère nécessaire ;
+Considérant que le retrait est une décision par laquelle une autorité supprime rétroactivement un acte qu’elle a pris, de sorte que celui-ci est censé n’avoir jamais existé ; il a le même effet qu’une annulation ».
+De tels motifs ne font état d’aucune illégalité qui entacherait la décision d’attribution du 12 novembre 2025.
+Dans leurs écrits de procédure, les parties intervenante et adverse soutiennent que l’offre de la SA VDL est affectée d’une irrégularité substantielle qui existait déjà en germe dans la BAFO remise par cette société. Elles expliquent qu’au vu des éléments contenus dans le courrier adressé le 26 novembre 2025 par un représentant de cette société, l’offre en cause contient une réserve puisque cette société s’avère incapable de respecter les délais impératifs d’exécution fixés dans le cahier des charges.
+Sans devoir examiner la validité de ce raisonnement, ces explications ne permettent, en tout cas, pas d’établir le caractère irrégulier de la décision d’attribution du 12 novembre 2025. En effet, la légalité d’un acte administratif s’apprécie au moment où il a été adopté, en fonction des éléments de droit et de fait en possession de l’autorité à ce moment. Or, la déclaration de la SA VDL est postérieure à la décision   VIexturg - 23.619 - 11/14
+d’attribution du 12 novembre 2025. Rien n’indique qu’au moment où elle a pris cette décision, la partie adverse savait ou devait savoir que les essieux proposés dans l’offre de la SA VDL n’étaient pas – ou ne seraient plus – disponibles.
+Par ailleurs, la décision de retrait ne se fonde pas sur le constat d’une fraude ou d’un acte devant être tenu pour inexistant en raison du vice qui l’affecterait.
+La décision de retrait est donc illégale, en sorte que la deuxième décision d’attribution – qui est justifiée par ce retrait – l’est également.
+Dans cette mesure, le premier moyen est sérieux. Il suffit à ordonner la suspension de la décision d’attribution attaquée.
+Il convient encore de relever que le constat du caractère sérieux du moyen, qui retient la violation du principe général de droit du retrait des actes administratifs, est conforme aux enseignements de l’arrêt Kolin du 24 octobre 2024 (C-652/22)
+(ECLI:EU:C:2024:910) rendu par la Cour de justice de l’Union européenne, qui juge que les autorités nationales, et donc les juges nationaux, « ne sauraient interpréter les dispositions nationales de transposition de la directive 2014/25 [relative à la passation de marchés par des entités opérant dans les secteurs de l’eau, de l’énergie, des transports et des services postaux et abrogeant la directive 2004/17/CE] comme s’appliquant également à des opérateurs économiques de pays tiers n’ayant pas conclu d’accord [international avec l’Union garantissant l’accès égal et réciproque aux marchés publics], qui auraient été admis, par une entité adjudicatrice, à participer à une procédure de passation d’un marché public dans l’État membre concerné, et ce, sous peine de méconnaître le caractère exclusif de la compétence de l’Union en ce domaine » (§ 65) et que « [s]’il est concevable que les modalités de traitement de tels opérateurs doivent être conformes à certaines exigences, telles que celles de transparence ou de proportionnalité, un recours de l’un d’eux tendant à dénoncer la méconnaissance de telles exigences par l’entité adjudicatrice ne peut être examiné qu’à la lumière du droit national et non du droit de l’Union » (§ 66).
+VI. Balance des intérêts
+La partie adverse n’identifie pas – et le Conseil d’État n’aperçoit pas – les conséquences négatives d’une suspension de l’exécution de l’acte attaqué, qui l’emporteraient sur ses avantages.
+VIexturg - 23.619 - 12/14
+VII. Confidentialité
+La partie adverse demande de maintenir la confidentialité des pièces 8 à 10, 12 à 19 et 36 du dossier administratif.
+La requérante sollicite, à l’audience, la levée de la confidentialité des pièces 12 et 13 du dossier administratif, si le Conseil d’État devait conclure au rejet de la demande après avoir examiné les deux moyens de la requête.
+Dès lors que le présent arrêt ordonne la suspension de l’exécution de la décision d’attribution du lot 2 du marché litigieux, il n’y a pas lieu, à ce stade, d’examiner la demande, formulée par la requérante, de divulgation des pièces 12 et 13 du dossier administratif.
+Il convient de maintenir provisoirement la confidentialité de toutes les pièces du dossier administratif qui sont déposées à titre confidentiel.
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La requête en intervention introduite par la SA Iveco Belgium est accueillie.
+Article 2.
+La suspension de l’exécution de la décision prise le 5 décembre 2025 par le conseil d’administration de l’OTW d’attribuer, à la SA Iveco Belgium, le lot 2 de l’accord-cadre « Fourniture d’une solution de transport public de type autobus électriques standards et articulés » est ordonnée.
+Article 3.
+L’exécution immédiate du présent arrêt est ordonnée.
+VIexturg - 23.619 - 13/14
+Article 4.
+Les pièces 8 à 10, 12 à 19 et 36 du dossier administratif sont, à ce stade de la procédure, tenues pour confidentielles.
+Article 5.
+Les dépens, en ce compris l’indemnité de procédure, sont réservés.
+Ainsi prononcé à Bruxelles le 30 janvier 2026, par la VIe chambre du Conseil d’État siégeant en référé, composée de :
+Florence Piret, conseillère d’État, présidente f.f., Adeline Schyns greffière.
+La Greffière, La Présidente,
+Adeline Schyns Florence Piret
+VIexturg - 23.619 - 14/14
