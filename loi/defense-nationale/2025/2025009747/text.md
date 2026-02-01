@@ -1,0 +1,45 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Dans la loi du 18 mars 1838 organique de l'Ecole royale militaire, il est inséré l'intitulé d'un chapitre 1er, comportant les articles 1er à 6, rédigé comme suit:
+"Chapitre 1er. - Dispositions introductives"
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans l'article 1erbis, § 1er, alinéa 2, de la même loi, inséré par la loi du 6 juillet 1967 et remplacé par la loi du 22 mars 2001, les mots "la recherche scientifique" sont remplacés par les mots "avec la recherche et le développement".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. L'article 3 de la même loi est abrogé.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans la même loi, il est inséré l'intitulé d'un chapitre 2, comportant les articles 7 à 20, rédigé comme suit:
+"Chapitre 2. - Organisation générale"
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Dans l'article 8 de la même loi, remplacé par la loi du 8 août 1921, les mots "l'Ecole militaire" sont remplacés par les mots "l'Ecole".
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Dans l'article 10 de la même loi, modifié par la loi du 27 mars 2003, les mots "l'Ecole militaire" sont remplacés par les mots "l'Ecole".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. L'article 11 de la même loi, rétabli par la loi du 22 mars 2001, est remplacé par ce qui suit:
+"Art. 11. Au sein de l'Ecole, il est créé un patrimoine propre sous la dénomination "Patrimoine de l'Ecole royale militaire".
+Le Patrimoine de l'Ecole royale militaire est doté d'une personnalité juridique propre.
+Le Roi fixe les modalités de fonctionnement du Patrimoine de l'Ecole royale militaire."
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. L'article 12 de la même loi, rétabli par la loi du 22 mars 2001, est remplacé par ce qui suit:
+"Art. 12. Les revenus et moyens du Patrimoine de l'Ecole royale militaire se composent :
+1° des fonds, redevances et contributions dus pour les études, essais, analyses et autres prestations effectuées par les chaires, laboratoires, centres et services de l'Ecole;
+2° des libéralités, legs, donations, bourses et prix accordés au Patrimoine de l'Ecole royale militaire, sans préjudice de l'application de l'article 14;
+3° des intérêts et plus-values des actifs du Patrimoine de l'Ecole royale militaire;
+4° des revenus provenant de la gestion, de la valorisation ou de l'éventuelle aliénation des biens ou des produits intellectuels appartenant au Patrimoine de l'Ecole royale militaire;
+5° des subsides octroyés dans le cadre de programmes et de projets nationaux ou internationaux;
+6° autres revenus déterminés par le Roi."
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. A l'article 13 de la même loi, rétabli par la loi du 22 mars 2001, les modifications suivantes sont apportées:
+1° l'alinéa 1er est remplacé par ce qui suit:
+"Le Patrimoine de l'Ecole royale militaire peut posséder en propriété ou autrement les immeubles nécessaires à l'accomplissement de ses missions, ainsi que des missions de l'Ecole. Il peut également investir dans des biens immobiliers en vue de maintenir la valeur de ses actifs.";
+2° l'alinéa 3 est remplacé par ce qui suit:
+"L'Etat peut transférer les immeubles affectés au service de l'Ecole ou du Patrimoine de l'Ecole royale militaire au Patrimoine de l'Ecole royale militaire avec dispense du droit proportionnel d'enregistrement et du droit de transcription, par acte passé sans frais en application de l'article 9 de la loi du 27 mai 1870, portant simplification des formalités en matière d'expropriation pour cause d'utilité publique."
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. A l'article 14, alinéa 1er, de la même loi, rétabli par la loi du 22 mars 2001 et modifié par la loi du 16 juillet 2005, les modifications suivantes sont apportées :
+1° la phrase "Conformément aux dispositions de l'article 910 du Code civil, les dispositions entre vifs ou par testament au profit du Patrimoine de l'Ecole royale militaire n'ont d'effet qu'autant qu'elles sont autorisées par arrêté royal." est remplacée par la phrase :
+"Conformément aux dispositions de l'article 4.143 du Code civil, les dispositions entre vifs ou par testament au profit du Patrimoine de l'Ecole royale militaire n'ont d'effet que pour autant qu'elles aient été approuvées par le Roi.";
+2° le mot "autorisation" est remplacé par le mot "approbation".
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Dans l'article 16 de la même loi, rétabli par la loi du 22 mars 2001 et modifié en dernier lieu par la loi du 1er août 2006, l'alinéa 2 est remplacé par ce qui suit:
+"Le Commandant de l'Ecole et, à son défaut, le directeur de l'enseignement académique, ou leur délégué, représentent l'Ecole dans le cadre de la gestion de son patrimoine vis-à-vis des tiers."
+
+<a name="Art.13" href="#Art.12">Art.</a> 13. La présente loi entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge.
