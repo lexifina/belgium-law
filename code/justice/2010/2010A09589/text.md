@@ -1737,10 +1737,13 @@ S'il existe des circonstances atténuantes, la peine d'emprisonnement peut être
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 18, 046; En vigueur : 30-07-2020&gt;
 
-<a name="Art.110/1" href="#Art.110">Art.</a> <a href="#LNK0058"> 110/1</a>. [<sup>1</sup> Le facteur aggravant
+<a name="Art.110/1" href="#Art.110">Art.</a> <a href="#LNK0058"> 110/1</a>.[<sup>1</sup> Le facteur aggravant
 Lorsque l'infraction est punie d'une sanction de niveau 4, la circonstance qu'elle ait été commise sciemment et volontairement constitue un facteur aggravant qui doit être pris en considération par le juge lors du choix de la sanction parmi les sanctions de niveau 4 et lors du choix des sanctions pénales particulières.]<sup>1</sup>
+[<sup>2</sup> Si une amende pénale est infligée, le montant de celle-ci ne peut pas être inférieur à la moitié du montant maximum de l'amende pénale prévue dans la sanction de niveau 4 à l'article 101 du présent Code.
+Les alinéas précédents ne s'appliquent pas aux infractions pour lesquelles le fait qu'elles ont été commises sciemment et volontairement a déjà été pris en considération comme élément aggravant pour augmenter le niveau de sanction applicable d'un niveau de sanction inférieur à la sanction de niveau 4.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051519" target="_blank">2024-05-15/19</a>, art. 52, 068; En vigueur : 01-07-2024&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121918" target="_blank">2025-12-19/18</a>, art. 3, 071; En vigueur : 01-02-2026&gt;
 
 <a name="LNK0058" href="#LNKR0058">CHAPITRE 4.</a> - Les règles applicables aux amendes administratives
 
@@ -1775,10 +1778,13 @@ L'amende administrative infligée à l'assuré social peut être réduite en des
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2020061205" target="_blank">2020-06-12/05</a>, art. 19, 046; En vigueur : 30-07-2020&gt;
 
-<a name="Art.115/1" href="#Art.115">Art.</a> <a href="#Art.116"> 115/1</a>. [<sup>1</sup> Le facteur aggravant
+<a name="Art.115/1" href="#Art.115">Art.</a> <a href="#Art.116"> 115/1</a>.[<sup>1</sup> Le facteur aggravant
 Lorsque l'infraction est punie d'une sanction de niveau 4, la circonstance qu'elle ait été commise sciemment et volontairement constitue un facteur aggravant qui doit être pris en considération par l'administration compétente lors du choix du montant de l'amende administrative de la sanction de niveau 4.]<sup>1</sup>
+[<sup>2</sup> Le montant de l'amende administrative infligée ne peut pas être inférieur à la moitié du montant maximum de l'amende administrative prévue dans la sanction de niveau 4 à l'article 101 du présent Code.
+Les alinéas précédents ne s'appliquent pas aux infractions pour lesquelles le fait qu'elles ont été commises sciemment et volontairement a déjà été pris en considération comme élément aggravant pour augmenter le niveau de sanction applicable d'un niveau de sanction inférieur à la sanction de niveau 4.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051519" target="_blank">2024-05-15/19</a>, art. 56, 068; En vigueur : 01-07-2024&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121918" target="_blank">2025-12-19/18</a>, art. 4, 071; En vigueur : 01-02-2026&gt;
 
 <a name="Art.116" href="#Art.115/1">Art.</a> <a href="#LNK0059"> 116</a>.Le sursis
 § 1er. L'administration compétente peut décider qu'il sera sursis à l'exécution de la décision infligeant une amende administrative, en tout ou en partie, pour autant que le contrevenant ne s'est pas vu infliger une amende administrative de niveau 2, 3 ou 4 ou n'a pas été condamné à une sanction pénale de niveau 2, 3 ou 4 durant les cinq années qui précèdent la nouvelle infraction.
@@ -3577,9 +3583,10 @@ Est punie d'une sanction de niveau 4, toute personne qui met obstacle à la surv
 La sanction visée à l'alinéa 1er n'est pas d'application aux infractions à l'article 29 du présent Code.
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.
 L'amende [<sup>1</sup> peut être multipliée]<sup>1</sup> par le nombre de travailleurs concernés.
-[<sup>1</sup> La violence physique ou psychique ou la menace à l'égard d'un inspecteur social constitue un facteur aggravant qui doit être pris en considération par le juge lors du choix de la sanction parmi les sanctions de niveau 4 et lors du choix des sanctions pénales particulières ou par l'administration compétente lors du choix du montant de l'amende administrative de la sanction de niveau 4.]<sup>1</sup>
+[<sup>1</sup> La violence physique ou psychique ou la menace à l'égard d'un inspecteur social constitue un facteur aggravant qui doit être pris en considération par le juge lors du choix de la sanction parmi les sanctions de niveau 4 et lors du choix des sanctions pénales particulières ou par l'administration compétente lors du choix du montant de l'amende administrative de la sanction de niveau 4.]<sup>1</sup> [<sup>2</sup> Si une amende pénale ou administrative est infligée, le montant de celle-ci ne peut pas être inférieur à la moitié du montant maximum de l'amende pénale ou administrative prévue dans la sanction de niveau 4 à l'article 101 du présent Code.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051519" target="_blank">2024-05-15/19</a>, art. 112, 068; En vigueur : 01-07-2024&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121918" target="_blank">2025-12-19/18</a>, art. 5, 071; En vigueur : 01-02-2026&gt;
 
 <a name="Art.210" href="#Art.209">Art.</a> <a href="#Art.211"> 210</a>.Le non-respect des mesures de contrainte prises par les inspecteurs sociaux
 § 1er. Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire [<sup>1</sup> , ou l'indépendant]<sup>1</sup> qui n'observe pas les mesures prescrites en exécution des articles 43 à 49.
