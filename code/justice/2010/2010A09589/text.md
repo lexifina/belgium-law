@@ -2022,16 +2022,23 @@ Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.]<su
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 17, 017; En vigueur : 01-05-2016&gt;
 
-<a name="Art.127" href="#Art.126/1">Art.</a> <a href="#Art.128"> 127</a>.[<sup>1</sup> Le bien-être des travailleurs lors de l'exécution de leur travail
-Sans préjudice des dispositions des articles 119 à 126 et 128 à 133, est puni d'une sanction de niveau 3 :
+<a name="Art.127" href="#Art.126/1">Art.</a> <a href="#Art.%20127/1."> 127</a>.[<sup>1</sup> Le bien-être des travailleurs lors de l'exécution de leur travail
+[<sup>2</sup> Sans préjudice des dispositions des articles 119 à 126, 127/1 et 128 à 133]<sup>2</sup>, est puni d'une sanction de niveau 3 :
 1° l'employeur, son préposé ou son mandataire qui a enfreint les dispositions de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et de ses arrêtés d'exécution;
 2° la personne n'appartenant pas au personnel de l'employeur qui exécute les missions qui lui sont confiées en application de la loi précitée du 4 août 1996, contrairement aux dispositions de cette loi et de ses arrêtés d'exécution ou qui n'exécute pas ces missions conformément aux conditions et modalités prescrites par cette loi et ses arrêtés d'exécution.
 Les infractions sont punies d'une sanction de niveau 4 lorsqu'elles ont eu comme conséquence des ennuis de santé ou un accident du travail pour un travailleur.
 Le juge peut en outre prononcer les peines prévues aux articles 106 et 107.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016022909" target="_blank">2016-02-29/09</a>, art. 18, 017; En vigueur : 01-05-2016&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121920" target="_blank">2025-12-19/20</a>, art. 43, 072; En vigueur : 01-01-2026&gt;
 
-<a name="Art.128" href="#Art.127">Art.</a> <a href="#Art.129"> 128</a>.[<sup>1</sup> La création et le fonctionnement du service interne pour la prévention et la protection au travail
+<a name="Art.%20127/1." href="#Art.127">Art.</a> <a href="#Art.128">127/1</a>. [<sup>1</sup> Le trajet de réintégration du travailleur en incapacité de travail
+Est puni d'une sanction de niveau 2, l'employeur qui occupe vingt travailleurs ou plus, tel que visé à l'article 33 de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, son préposé ou mandataire, et qui, en violation de la même loi et de ses arrêtés d'exécution, n'a pas demandé au conseiller en prévention-médecin du travail de démarrer un trajet de réintégration pour le travailleur en incapacité de travail qui, selon l'estimation du conseiller en prévention-médecin du travail, a un potentiel de travail, au plus tard six mois après le début de l'incapacité de travail de ce travailleur.
+L'amende est multipliée par le nombre de travailleurs concernés.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121920" target="_blank">2025-12-19/20</a>, art. 44, 072; En vigueur : 01-01-2026&gt;
+
+<a name="Art.128" href="#Art.%20127/1.">Art.</a> <a href="#Art.129"> 128</a>.[<sup>1</sup> La création et le fonctionnement du service interne pour la prévention et la protection au travail
 Est puni d'une sanction de niveau 3, l'employeur, son préposé ou mandataire qui :
 1° n'institue pas un service interne pour la prévention et la protection au travail dans l'entreprise, en application de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et de ses arrêtés d'exécution;
 2° empêche le fonctionnement du service interne pour la prévention et la protection au travail, tel qu'il est prévu par la loi précitée du 4 août 1996 et ses arrêtés d'exécution;
