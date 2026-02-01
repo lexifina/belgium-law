@@ -1,0 +1,29 @@
+{
+  "id": "2026000363",
+  "title": "19 DECEMBRE 2025. - Arrêté royal octroyant un subside fédéral unique aux zones de police nouvellement fusionnées",
+  "source_title": "19 DECEMBRE 2025. - Arrêté royal octroyant un subside fédéral unique aux zones de police nouvellement fusionnées",
+  "act": "arrete/interieur/2025/2026000363",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-01-22&numac_search=2026000363&page=5&lg_txt=F&caller=list&2026000363=8&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f",
+  "source_sha256": "19b331a1b7e81f4226d4da7254ba5b462e9f47fcbd7b4939f7f021b6ad224924",
+  "source_issuer": "Intérieur",
+  "made": "2025-12-19",
+  "published": "2026-01-22",
+  "in_force": "2026-02-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 février 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Intérieur",
+    "Publication": "22 janvier 2026",
+    "Numéro": "2026000363",
+    "page": "3265",
+    "Dossier numéro": "2025-12-19/A0",
+    "Entrée en vigueur": "1 février 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 515,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-02-01"
+}
