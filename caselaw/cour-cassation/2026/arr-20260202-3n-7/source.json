@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260202.3N.7",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260202.3N.7",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-02",
+  "date_as_printed": "Vonnis/arrest van 02 februari 2026",
+  "published_on_juportal": "2026-02-27",
+  "language": "nl",
+  "role_number": "S.25.0048.N",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit de l'insolvabilité",
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "REGLEMENT COLLECTIF DE DETTES",
+    "COLLECTIEVE SCHULDENREGELING"
+  ],
+  "fiche": [
+    "COLLECTIEVE SCHULDENREGELING",
+    "Gerechtelijk Wetboek - Deel V: BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) - 10-10-1967 - Art. 1675/2 - 05 ELI link Pub nr 1967101056"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260202.3N.7",
+  "source_sha256": "b2a2abc9e4bd492b5567f52151a4df1c0b405c3a1f4047fa010bf151cac76077",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260202.3N.7_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_33.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
