@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2026:JUG.20260202.1",
+  "ecli": "ECLI:BE:ORANT:2026:JUG.20260202.1",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2026-02-02",
+  "date_as_printed": "Vonnis/arrest van 02 februari 2026",
+  "published_on_juportal": "2026-02-18",
+  "language": "nl",
+  "role_number": "A/25/01583",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Tenietgaan verbintenis",
+    "Opzegging, opzeggingsbeding, opzeggingsvergoeding, schadebeding",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - HANDELSPRAKTIJKEN - Onrechtmatige bedingen",
+    "Onrechtmatige bedingen, onrechtmatige bedingen tussen ondernemingen, marktpraktijken, gebruiken",
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Totstandkoming overeenkomst",
+    "Algemene contractsvoorwaarden, algemene voorwaarden, totstandkoming contract"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Tenietgaan verbintenis",
+    "Opzegging, opzeggingsbeding, opzeggingsvergoeding, schadebeding",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1226 - 33 ELI link Pub nr 1804032153",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - HANDELSPRAKTIJKEN - Onrechtmatige bedingen",
+    "Onrechtmatige bedingen, onrechtmatige bedingen tussen ondernemingen, marktpraktijken, gebruiken",
+    "Wetboek van economisch recht - 28-02-2013 - VI.91/3 - 19 ELI link Pub nr 2013A11134",
+    "BURGERLIJK RECHT - VERBINTENISSEN UIT OVEREENKOMST - Totstandkoming overeenkomst",
+    "Algemene contractsvoorwaarden, algemene voorwaarden, totstandkoming contract"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2026:JUG.20260202.1",
+  "source_sha256": "04801461f390e8e0c891190468452eeb4635c111e8d94c5cee89436503352bd4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2026:JUG.20260202.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
