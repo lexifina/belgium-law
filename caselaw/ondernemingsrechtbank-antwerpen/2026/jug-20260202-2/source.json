@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORANT:2026:JUG.20260202.2",
+  "ecli": "ECLI:BE:ORANT:2026:JUG.20260202.2",
+  "court": "Ondernemingsrechtbank Antwerpen",
+  "court_code": "ORANT",
+  "decision_date": "2026-02-02",
+  "date_as_printed": "Vonnis/arrest van 02 februari 2026",
+  "published_on_juportal": "2026-02-18",
+  "language": "nl",
+  "role_number": "A/25/04471",
+  "case_name_as_published": "",
+  "subjects": [
+    "Burgerlijk recht",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Koop-verkoop - Consumentenkoop",
+    "Consumentenkoop, toepassing consumentenkoopwetgeving",
+    "Consumentenkoop, verjaring, meldingsverplichting, Europees consumentenrecht",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Beperkt deskundigenonderzoek, mondeling verslag deskundige, mini-expertise"
+  ],
+  "fiche": [
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Koop-verkoop - Consumentenkoop",
+    "Consumentenkoop, toepassing consumentenkoopwetgeving",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1649bis - 34 ELI link Pub nr 1804032154 oud Burgerlijk Wetboek - 21-03-1804 - 1649quater - 34 ELI link Pub nr 1804032154",
+    "BURGERLIJK RECHT - BIJZONDERE OVEREENKOMSTEN - Koop-verkoop - Consumentenkoop",
+    "Consumentenkoop, verjaring, meldingsverplichting, Europees consumentenrecht",
+    "oud Burgerlijk Wetboek - 21-03-1804 - 1649quater - 34 ELI link Pub nr 1804032154",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek",
+    "Beperkt deskundigenonderzoek, mondeling verslag deskundige, mini-expertise",
+    "Gerechtelijk Wetboek - 10-10-1967 - 986 - 04 ELI link Pub nr 1967101055"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORANT:2026:JUG.20260202.2",
+  "source_sha256": "2cab5b2db169d8aae97a08865af607b745c91f9f54e23a5ee9ce26b4c4c11c35",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORANT:2026:JUG.20260202.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/18/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
