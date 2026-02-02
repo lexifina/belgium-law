@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260202.3N.2",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260202.3N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-02",
+  "date_as_printed": "Vonnis/arrest van 02 februari 2026",
+  "published_on_juportal": "2026-02-27",
+  "language": "nl",
+  "role_number": "S.23.0009.N",
+  "case_name_as_published": "D. contra Federale Verzekering Gemeenschappelijke",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "ACCIDENT DU TRAVAIL - REPARATION - Généralités",
+    "ARBEIDSONGEVAL - VERGOEDING - Algemeen"
+  ],
+  "fiche": [
+    "ARBEIDSONGEVAL - VERGOEDING - Algemeen",
+    "Arbeidsongevallenwet van 10 april 1971 - 10-04-1971 - Art. 22, eerste lid - 01 ELI link Pub nr 1971041001 Arbeidsongevallenwet van 10 april 1971 - 10-04-1971 - Art. 23, eerste tot vijfde lid - 01 ELI link Pub nr 1971041001"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260202.3N.2",
+  "source_sha256": "b895651e4c9cb9be1212ab3ca8ebcd3f892a6923ae8310dd401ea1a76a737725",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260202.3N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_16.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
