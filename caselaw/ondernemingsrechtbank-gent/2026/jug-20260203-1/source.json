@@ -1,0 +1,41 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260203.1",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260203.1",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-05",
+  "language": "nl",
+  "role_number": "O/2400956",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Gevolgen bewind XX.32 WER / kosten van advocaat bijstand tijdens gerechtelijke reorganisatie / wijze van betaling / compensatie / goedkeuring bewind / betwisting door curator",
+    "betaling kosten XX.53 WER tijdens periode opschorting. Kosten advocaat / bijstand / pauliaanse vordering door curator bij later faillissement",
+    "beoordeling opportuniteit van (kosten van) gerechtelijke reorganisatie bij latere faillietverklaring",
+    "curator tegen advocaat over ereloon betaald op dag van faillietverklaring / afwijzing vordering vrijwaring door voorlopig bewindvoerder"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Gevolgen bewind XX.32 WER / kosten van advocaat bijstand tijdens gerechtelijke reorganisatie / wijze van betaling / compensatie / goedkeuring bewind / betwisting door curator",
+    "Wetboek van economisch recht - 28-02-2013 - XX.112 - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - XX.32 - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - XX.53 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "betaling kosten XX.53 WER tijdens periode opschorting. Kosten advocaat / bijstand / pauliaanse vordering door curator bij later faillissement",
+    "Wetboek van economisch recht - 28-02-2013 - XX.53 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "beoordeling opportuniteit van (kosten van) gerechtelijke reorganisatie bij latere faillietverklaring",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "curator tegen advocaat over ereloon betaald op dag van faillietverklaring / afwijzing vordering vrijwaring door voorlopig bewindvoerder",
+    "Wetboek van economisch recht - 28-02-2013 - XX.110 - 19 ELI link Pub nr 2013A11134"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260203.1",
+  "source_sha256": "2fd8a9fd14f05bca1911ca8e5215a427fa1b86474cf58b94299fb995cb487eb6",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/05/sitemap_63.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
