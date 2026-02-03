@@ -1,0 +1,32 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORBRL:2026:JUG.20260203.1",
+  "ecli": "ECLI:BE:ORBRL:2026:JUG.20260203.1",
+  "court": "Nederlandstalige ondernemingsrechtbank Brussel",
+  "court_code": "ORBRL",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "nl",
+  "role_number": "N202600029",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "Bestuursverbod; Beroepsverbod; Kwijtschelding; Strafrechtelijk karakter",
+    "FISCAAL RECHT - FISCAAL RECHT - ALGEMENE BEGINSELEN - Algemene rechtsbeginselen fiscaal recht - Non bis in idem"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "Bestuursverbod; Beroepsverbod; Kwijtschelding; Strafrechtelijk karakter",
+    "FISCAAL RECHT - FISCAAL RECHT - ALGEMENE BEGINSELEN - Algemene rechtsbeginselen fiscaal recht - Non bis in idem"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORBRL:2026:JUG.20260203.1",
+  "source_sha256": "70dcf4154a02e7b94ebe82bf9de9ef13add0bb293be66aba36ab253c4bb3a7ae",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORBRL:2026:JUG.20260203.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/06/sitemap_14.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
