@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260203.2N.11",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260203.2N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "nl",
+  "role_number": "P.25.1326.N",
+  "case_name_as_published": "DKM contra MINISTER VAN FINANCIËN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit pénal",
+    "Strafrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DOUANES ET ACCISES",
+    "DOUANE EN ACCIJNZEN",
+    "INFRACTION - PARTICIPATION",
+    "MISDRIJF - DEELNEMING",
+    "APPRECIATION SOUVERAINE PAR LE JUGE DU FOND",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER"
+  ],
+  "fiche": [
+    "DOUANE EN ACCIJNZEN",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 67 - 01 ELI link Pub nr 1867060850",
+    "MISDRIJF - DEELNEMING",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 67 - 01 ELI link Pub nr 1867060850",
+    "ONAANTASTBARE BEOORDELING DOOR DE FEITENRECHTER",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 66 - 01 ELI link Pub nr 1867060850 Strafwetboek 1867 - 08-06-1867 - Art. 67 - 01 ELI link Pub nr 1867060850",
+    "DOUANE EN ACCIJNZEN",
+    "Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie - 09-10-2013 - Art. 5.15 Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie - 09-10-2013 - Art. 77.3"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260203.2N.11",
+  "source_sha256": "14969d0d50ca05af69fb72ff184829409abc88ef732d5a9fea984f6a428e8399",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260203.2N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_7.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
