@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORBRL:2026:JUG.20260203.3",
+  "ecli": "ECLI:BE:ORBRL:2026:JUG.20260203.3",
+  "court": "Nederlandstalige ondernemingsrechtbank Brussel",
+  "court_code": "ORBRL",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-10",
+  "language": "nl",
+  "role_number": "A202502428",
+  "case_name_as_published": "",
+  "subjects": [
+    "Overige"
+  ],
+  "summary_keywords": [
+    "GERECHTELIJK RECHT - GERECHTELIJK RECHT- ALGEMENE BEGINSELEN - Betekening en kennisgeving - Bijzondere betekeningen - Vereffening - Faillissement",
+    "Vereffenaar; Fonds derden; Belang en hoedanigheid verweerder"
+  ],
+  "fiche": [
+    "GERECHTELIJK RECHT - GERECHTELIJK RECHT- ALGEMENE BEGINSELEN - Betekening en kennisgeving - Bijzondere betekeningen - Vereffening - Faillissement",
+    "Vereffenaar; Fonds derden; Belang en hoedanigheid verweerder",
+    "Wet - 26-06-2002 - 35 Wetboek van Koophandel - 01-01-0001 - XX.172 Wetboek van Koophandel - 01-01-0001 - XX.135 Gerechtelijk Wetboek - 01-01-0001 - 17"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORBRL:2026:JUG.20260203.3",
+  "source_sha256": "c64b1a8754c55f7e757d9ed5a42a149152e741136291ec4f86b59855ef9bcfdc",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORBRL:2026:JUG.20260203.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/10/sitemap_50.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
