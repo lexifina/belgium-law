@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORBRL:2026:JUG.20260203.2",
+  "ecli": "ECLI:BE:ORBRL:2026:JUG.20260203.2",
+  "court": "Nederlandstalige ondernemingsrechtbank Brussel",
+  "court_code": "ORBRL",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "nl",
+  "role_number": "O/2025/02008",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "Strafrechtelijk karakter; XX.229 WER; Kennelijke grove fout",
+    "XX.229 WER; Strafrechtelijk karakter; Beschermingsmaatregel"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "Strafrechtelijk karakter; XX.229 WER; Kennelijke grove fout",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE - Faillissement",
+    "XX.229 WER; Strafrechtelijk karakter; Beschermingsmaatregel"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORBRL:2026:JUG.20260203.2",
+  "source_sha256": "1c993e535ec4d888b222af1ff8823fd056de83f52d894f8b8ca93fa4f127d132",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:ORBRL:2026:JUG.20260203.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/06/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
