@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0129.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "3 FEBRUARI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0129.N.pdf",
+  "source_sha256": "a0ce78ddd8338ea3aa62120604f68093dda17a9d9a67eb2bd6d0c6af50b6b174",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
