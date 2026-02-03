@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:RVSCE:2026:ARR.265.634",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.634",
+  "court": "Raad van State",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "nl",
+  "role_number": "A. 241049/XII-9704",
+  "case_name_as_published": "Arrest 265634 - Ziekenhuizen - 03/02/2026",
+  "subjects": [
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "fiche": [
+    "RAAD VAN STATE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - RAAD VAN STATE - Arresten (Raad van State)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.634",
+  "source_sha256": "13373e91fa7da571b217c64d8724dd71d88da5f2045072487a6614849d572f2b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.634_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_32.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
