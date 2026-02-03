@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260203.2N.8",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260203.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "nl",
+  "role_number": "P.25.0383.N",
+  "case_name_as_published": "MINISTER VAN FINANCIËN contra D.",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "DOUANES ET ACCISES",
+    "DOUANE EN ACCIJNZEN",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Action civile (règles particulières)",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Burgerlijke rechtsvordering (bijzondere regels)",
+    "APPEL - MATIERE REPRESSIVE (Y COMPRIS DOUANES ET ACCISES) - Effets. Compétence du juge",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter"
+  ],
+  "fiche": [
+    "DOUANE EN ACCIJNZEN",
+    "Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie - 09-10-2013 - Art. 79.1, a) Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 257, § 3 - 31 ELI link Pub nr 1977071850 Wet 22 december 2009 betreffende de algemene regeling inzake accijnzen - 22-12-2009 - Art. 6, §§ 1 en 2, a) - 13 ELI link Pub nr 2009003493 Wet 22 december 2009 betreffende de algemene regeling inzake accijnzen - 22-12-2009 - Art. 45 - 13 ELI link Pub nr 2009003493",
+    "DOUANE EN ACCIJNZEN",
+    "Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie - 09-10-2013 - Art. 79.1, a) Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 257, § 3 - 31 ELI link Pub nr 1977071850 Wet 22 december 2009 betreffende de algemene regeling inzake accijnzen - 22-12-2009 - Art. 6, §§ 1 en 2, a) - 13 ELI link Pub nr 2009003493 Wet 22 december 2009 betreffende de algemene regeling inzake accijnzen - 22-12-2009 - Art. 45 - 13 ELI link Pub nr 2009003493",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Burgerlijke rechtsvordering (bijzondere regels)",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 283 - 31 ELI link Pub nr 1977071850 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 203, § 1 - 30 ELI link Pub nr 1808111901 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 204, eerste lid - 30 ELI link Pub nr 1808111901",
+    "HOGER BEROEP - STRAFZAKEN (DOUANE EN ACCIJNZEN INBEGREPEN) - Gevolgen. Bevoegdheid van de rechter",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 283 - 31 ELI link Pub nr 1977071850 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 203, § 1 - 30 ELI link Pub nr 1808111901 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 204, eerste lid - 30 ELI link Pub nr 1808111901",
+    "DOUANE EN ACCIJNZEN",
+    "Algemene Wet 18 juli 1977 inzake douane en accijnzen - 18-07-1977 - Art. 283 - 31 ELI link Pub nr 1977071850 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 203, § 1 - 30 ELI link Pub nr 1808111901 Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 204, eerste lid - 30 ELI link Pub nr 1808111901"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260203.2N.8",
+  "source_sha256": "6f0207da00f37cb2cc2ca751e7810bddc9f87b24ec76b43c1763a87372576611",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260203.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_6.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
