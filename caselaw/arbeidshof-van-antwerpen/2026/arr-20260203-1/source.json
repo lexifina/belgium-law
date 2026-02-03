@@ -1,0 +1,34 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2026:ARR.20260203.1",
+  "ecli": "ECLI:BE:AHANT:2026:ARR.20260203.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2026-02-03",
+  "date_as_printed": "Vonnis/arrest van 03 februari 2026",
+  "published_on_juportal": "2026-03-03",
+  "language": "nl",
+  "role_number": "2025/AA/26",
+  "case_name_as_published": "A.B. tegen GREENYARD LOGISTICS BELGIUM NV",
+  "subjects": [
+    "Strafrecht",
+    "Arbeidsrecht"
+  ],
+  "summary_keywords": [
+    "STRAFRECHT - DISCRIMINATIE - RACISME - XENOFOBIE - Antidiscriminatiewet - 25 februari 2003 - Begrippen - Handicap - art. 2, § 3",
+    "SOCIAAL RECHT - ARBEID - Welzijn werknemer - Maatregelen",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "STRAFRECHT - STRAFRECHT - ALGEMENE BEGINSELEN - Legaliteit"
+  ],
+  "fiche": [
+    "STRAFRECHT - DISCRIMINATIE - RACISME - XENOFOBIE - Antidiscriminatiewet - 25 februari 2003 - Begrippen - Handicap - art. 2, § 3",
+    "SOCIAAL RECHT - ARBEID - Welzijn werknemer - Maatregelen",
+    "STRAF - ALGEMEEN. STRAF EN MAATREGEL. WETTIGHEID",
+    "STRAFRECHT - STRAFRECHT - ALGEMENE BEGINSELEN - Legaliteit"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2026:ARR.20260203.1",
+  "source_sha256": "de276d6bd7653774c9fc70b912bcb204ec942ab4b72081e9d083bf36244bf5dd",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2026:ARR.20260203.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_19.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
