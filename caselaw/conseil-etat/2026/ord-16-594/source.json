@@ -1,0 +1,29 @@
+{
+  "title": "Ordonnance ECLI:BE:RVSCE:2026:ORD.16.594",
+  "ecli": "ECLI:BE:RVSCE:2026:ORD.16.594",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-04",
+  "date_as_printed": "Ordonnance du 04 février 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "A. 246895/XI-25441",
+  "case_name_as_published": "Ordonnance de cassation 16594 - Conseil du Contentieux des Etrangers - 04/02/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ORD.16.594",
+  "source_sha256": "ad3e0c0c931bf8617d97b33fccdd67c4378ae492db85d05e0ea70b49fd2d70c8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ORD.16.594_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_81.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
