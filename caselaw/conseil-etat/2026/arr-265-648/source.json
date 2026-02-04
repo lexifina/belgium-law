@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.648",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.648",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-04",
+  "date_as_printed": "Jugement/arrêt du 04 février 2026",
+  "published_on_juportal": "2026-02-05",
+  "language": "fr",
+  "role_number": "A. 246497/XI-25388",
+  "case_name_as_published": "Arrêt 265648 - Contentieux scolaire (échec, refus d’inscription) - 04/02/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.648",
+  "source_sha256": "984996827f9c7a800386e46777dddbf0d52544f7a0f613db77c5b08130e03e27",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.648_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_43.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
