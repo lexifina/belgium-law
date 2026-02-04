@@ -1,0 +1,29 @@
+{
+  "title": "Ordonnance ECLI:BE:RVSCE:2026:ORD.16.593",
+  "ecli": "ECLI:BE:RVSCE:2026:ORD.16.593",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-04",
+  "date_as_printed": "Ordonnance du 04 février 2026",
+  "published_on_juportal": "2026-02-09",
+  "language": "fr",
+  "role_number": "A. 246841/XI-25434",
+  "case_name_as_published": "Ordonnance de cassation 16593 - Conseil du Contentieux des Etrangers - 04/02/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Section administration"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ORD.16.593",
+  "source_sha256": "70eb50b31b12a000ee0ec2217b313efc4d37800d0b4cad5503b7a1d4576be449",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ORD.16.593_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_80.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
