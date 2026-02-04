@@ -1,0 +1,241 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT F.F. DE LA VIe CHAMBRE SIÉGEANT EN RÉFÉRÉ
+no 265.651 du 4 février 2026
+A. 246.943/VI-23.640
+En cause : 1. la société anonyme PROXIMUS, 2. la société anonyme PROXIMUS NXT IT, ayant toutes deux élu domicile chez Mes Virginie DOR et Guillaume POULAIN, avocats, chaussée de La Hulpe 178
+1170 Bruxelles, contre :
+la société anonyme de droit public AGENCE DU NUMÉRIQUE, ayant élu domicile chez Me Marie VASTMANS, avocate, chaussée de La Hulpe 187
+1170 Bruxelles.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 6 janvier 2026, les parties requérantes demandent, d’une part, la suspension, selon la procédure d’extrême urgence, de l’exécution de « la décision du Conseil d’administration de l’Agence du Numérique (en abrégé “AdN”) du 18 décembre 2025 par laquelle le marché public de services, ayant pour objet “Accord-cadre de services portant sur la mise à disposition d’une équipe opérationnelle pour intervenir sur site en réponse à des cyber-incidents 24H/7
+sur le territoire wallon”, est attribué au groupement d’opérateur économique représenté par la société Network Research Belgium (en abrégé “NRB”) et par laquelle l’offre des parties requérantes a été jugé irrégulière », et d’autre part, l’annulation de cette décision.
+II. Procédure
+Par une ordonnance du 8 janvier 2026, le calendrier de la procédure a été déterminé et l’affaire a été fixée à l’audience du 22 janvier 2026.
+VIexturg - 23.640 - 1/20
+La note d’observations et le dossier administratif ont été déposés dans le respect du calendrier de la procédure. Constatant que la pièce J de son dossier ne semblait pas avoir été correctement téléchargée, la partie adverse a procédé à un nouveau dépôt de cette pièce, cette fois non fusionnée, le 21 janvier 2025.
+La contribution et les droits visés respectivement aux articles 66, 6°, et à l’article 70, de l’arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d’État ont été acquittés.
+M. Aurélien Vandeburie, conseiller d’État, président f.f., a exposé son rapport.
+Mes Virginie Dor et Guillaume Poulain, avocats, comparaissant pour la partie requérante, et Mes Marie Vastmans et Louise Brunetto, avocates, comparaissant pour la partie adverse, ont été entendus en leurs observations.
+M. Constantin Nikis, premier auditeur au Conseil d’État, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la demande
+1. En mai 2025, est publié, à l’initiative de la partie adverse, un avis de marché relatif à un accord-cadre de services portant sur la mise à disposition d’une équipe opérationnelle pour intervenir sur site en réponse à des cyber-incidents 24H/7
+sur le territoire wallon. Le cahier spécial des charges se rapportant à ce marché porte le n° 2024-39.
+Le mode de passation est la procédure ouverte.
+Un avis de marché rectificatif est publié le 2 juin 2025.
+2. L’article II.B.2. du cahier spécial des charges détermine l’objet du marché. Il dispose, notamment, ce qui suit :
+VIexturg - 23.640 - 2/20
+3. L’article II.E.2. du cahier spécial des charges fixe les critères d’attribution applicables au marché litigieux comme ceci :
+• Prix (40 points) :
+o Tarif du call center (4 points) ;
+o Niveau 1 : tarif horaire total d’un groupe composé du chef de l’équipe et de minimum une personne de l’équipe opérationnelle (12 points) ;
+o Niveau 2 : tarif horaire total d’un groupe composé du chef de l’équipe et de minimum trois personnes de l’équipe opérationnelle (12 points) ;
+o Niveau 3 : tarif horaire total d’un groupe composé du chef de l’équipe et de minimum six personnes de l’équipe opérationnelle (12 points) ;
+• Critère de connaissances et d’outillage (20 points) ;
+• Critère de contenu (15 points) ;
+• Use case (25 points).
+4. La date limite de dépôt des offres est fixée au 2 juin 2025, et postposée au 12 juin 2025.
+5. A la date limite de dépôt des offres, trois offres sont déposées respectivement par :
+• le groupement d’opérateurs économiques composé de la SA NETWORK
+RESEARCH BELGIUM, la SA APPROACH BELGIUM et la SA EASI (ci-
+après « NRB») ;
+• le groupement d’opérateurs économiques composé de la SA PROXIMUS et de la SA PROXIMUS NXT IT (ci-après « PROXIMUS ») ;
+• La SAS SIA PARTNERS.
+VIexturg - 23.640 - 3/20
+6. Le 17 juillet 2025, le conseil d’administration de la partie adverse décide :
+• d’approuver le rapport d’analyse des offres du 14 juillet 2025 et de faire siens les motifs de celui-ci ;
+• de sélectionner NRB, PROXIMUS et SIA PARTNERS ;
+• de déclarer régulières formellement les offres déposées par NRB, PROXIMUS
+et SIA PARTNERS ;
+• de déclarer irrégulières substantiellement et matériellement les offres déposées par NRB, PROXIMUS et SIA PARTNERS ;
+• de renoncer à poursuivre la procédure ouverte ;
+• de recourir à la procédure concurrentielle avec négociation, conformément à l’article 38, § 1er, alinéa 1er, 2°, de la loi du 17 juin 2016 relative aux marchés publics ;
+• de ne pas publier d’avis de marché, en application de l’article 38, § 1er, alinéa 2, de la loi du 17 juin 2016 dès lors qu’elle invite les trois soumissionnaires sélectionnés et ayant remis une offre formellement régulière à participer à la procédure concurrentielle avec négociation ;
+• d’approuver les documents du marché modifiés (clauses administratives et annexes) y relatifs, les autres documents du marché (clauses techniques), approuvés par le conseil d’administration le 25 avril 2025 et le 22 mai 2025, demeurant inchangés.
+• d’inviter NRB, PROXIMUS et SIA PARTNERS à déposer une offre dans le cadre de la procédure concurrentielle avec négociation.
+7. Sans être contredite, la partie adverse affirme avoir invité, le 28 juillet 2025, les soumissionnaires précités à remettre une offre dans le cadre de la procédure concurrentielle avec négociation, via la plateforme e-Procurement. Elle affirme également avoir publié un avenant au cahier spécial des charges.
+8. Le 31 juillet 2025, la partie adverse transmet un courrier aux parties requérantes, sollicitant la remise d’une offre identique à celle déposée dans le cadre de la procédure ouverte.
+9. Le 4 août 2025, elle procède à l’ouverture des offres. Les trois soumissionnaires précités ont déposé une offre sur la plateforme e-Procurement.
+10. Le 11 août 2025, après avoir apparemment tenu une réunion avec chaque soumissionnaire le 6 août ayant pour objet la régularisation de leur offre, la
+VIexturg - 23.640 - 4/20
+partie adverse invite chacun des trois soumissionnaires à clarifier et à régulariser son offre via la plateforme e-Procurement pour le 22 août 2025 au plus tard.
+11. Le 18 septembre 2025, la partie adverse adresse à chacun des soumissionnaires une demande de justification de prix.
+12. Le 20 novembre 2025, le conseil d’administration de la partie adverse décide :
+• d’approuver le rapport d’analyse des offres du 20 novembre 2025 et de faire siens les motifs de celui-ci ;
+• de sélectionner NRB, Proximus et Sia Partners ;
+• de déclarer formellement régulières les offres déposées par NRB, PROXIMUS
+et SIA PARTNERS ;
+• de déclarer matériellement régulières les offres déposées par NRB et SIA
+PARTNERS ;
+• de déclarer substantiellement et matériellement irrégulière l’offre déposée par PROXIMUS en ce que les prix proposés présentent un caractère anormal ;
+• d’attribuer le marché AdN 2024-39 au soumissionnaire ayant déposé l’offre économiquement la plus avantageuse, à savoir NRB.
+Cette décision est communiquée aux parties requérantes le 27 novembre 2025, par courriers recommandé et électronique.
+13. Le 12 décembre 2025, les parties requérantes introduisent un recours en suspension, selon la procédure d’extrême urgence, et en annulation contre la décision du 20 novembre 2025.
+14. Le 18 décembre 2025, la partie adverse décide de retirer la décision du 20 novembre 2025 attribuant le marché litigieux à NRB.
+Le même jour, elle prend la décision suivante :
+VIexturg - 23.640 - 5/20
+Il s’agit de l’acte attaqué.
+IV. Troisième moyen
+IV.1. Thèses des parties
+A. Requête
+Les requérantes soulèvent un troisième moyen, « pris de la violation :
+[d]es articles 4, 83 et 84 de la loi du 17 juin 2016 relative aux marchés publics ; [d]es articles 35, 36 et 76 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques ; [d]es articles 4 et 5 de la loi du 17 juin 2013
+relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions ; [d]es articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs ; [d]u principe de la concurrence et de son corollaire le principe d’égalité entre soumissionnaires ; [d]u principe patere legem quam ipse fecisti et du cahier spécial des charges régissant le marché litigieux ; [d]u devoir de minutie, principe général de bonne administration, et notamment de la vérification des faits pris en considération ; [d]e l’erreur manifeste d’appréciation, de l’inexactitude ou de l’inadéquation des motifs de droit et de fait ».
+Elles exposent que la partie adverse a procédé de manière incorrecte à la vérification et à l’examen de leur prix, ce qui a conduit à l’écartement de leur offre pour irrégularité substantielle.
+Dans une première branche, elles font valoir qu’avant de prendre sa décision sur une éventuelle anormalité des prix, la partie adverse aurait dû leur communiquer les informations sur lesquelles elle fondait son analyse de l’anormalité des prix, afin de leur permettre de réagir et de fournir des explications.
+VIexturg - 23.640 - 6/20
+Dans une seconde branche, elles soutiennent que la partie adverse a indûment rejeté les justifications de prix transmises, méconnu son propre cahier spécial des charges et n’a pas apprécié la solution technique qu’elles ont proposée, qu’elle n’a pourtant pas invalidée.
+B. Note d’observations
+Concernant la première branche du moyen, la partie adverse résume ses développements comme ceci :
+« L’AdN n’a pas violé les dispositions visées au moyen en ce que les parties requérantes ont proposé un prix anormalement bas pour les postes relatifs aux différents niveaux d’intervention.
+En effet, il ressort de la vérification des prix effectuée par l’AdN que les prix proposés par les parties requérantes ne pourraient permettre d’exécuter les obligations qui résultent du cahier spécial des charges, sauf à être compensés à tort dans un autre poste, ce qui démontre un effet spéculatif dans le chef de PROXIMUS ».
+Dans les développements de la réfutation de la première branche du moyen, la partie adverse relève notamment que dans leurs réponses, les requérantes ont mentionné explicitement que certains experts affectés aux équipes d’intervention sont financés par le poste relatif au call center et non par les postes relatifs aux différents niveaux d’intervention. Elle affirme que le caractère anormalement bas des prix proposés par les parties requérantes pour les postes relatifs aux différents niveaux d’intervention a été confirmé au regard du coût horaire HTVA d’un profil en cybersécurité fixé par le SPW, des tarifs journaliers pour des spécialistes IT externes mentionnés dans un rapport de la Cour de comptes et du coût journalier des personnes travaillant en freelance dans le domaine de la cybersécurité mentionné sur la plateforme « Free-word ». Selon elle, la mention de ces différents chiffres se limite à conforter la conclusion selon laquelle les prix proposés par les parties requérantes sont anormaux. Elle ajoute que ces informations étaient soit connues des requérantes, soit sont publiques.
+S’agissant de la seconde branche du moyen, la partie adverse résume ses développements comme ceci :
+« L’AdN n’a pas violé les dispositions visées au moyen en ce que les questions et réponses déposées sur le forum dans le cadre de la procédure ouverte sont applicables pour la seconde étape de la procédure, à savoir la procédure concurrentielle avec négociation. En outre, l’irrégularité de l’offre des parties requérantes procède d’une mauvaise lecture du cahier spécial des charges et notamment des contours des exigences du service du call center, se reflétant dans des prix anormaux et un modèle économique et commercial ne correspondant pas aux besoins du pouvoir adjudicateur. Les parties requérantes ont, en effet, intégré dans le prix relatif au call center des éléments devant être pris en compte dans le   VIexturg - 23.640 - 7/20
+cadre du prix des postes relatifs aux différents niveaux d’intervention. Après une analyse approfondie de la justification des prix des parties requérantes, il en ressort que l’anormalité de leurs prix trouve également son origine dans la spéculation des prix du marché, les parties requérantes ayant proposé un prix anormalement élevé pour un poste que l’AdN commandera quoi qu’il arrive et un prix anormalement bas pour les postes dont le nombre d’activations est inconnu et incertain ».
+C. Débats à l’audience
+La partie adverse souligne que si les profils proposés par les requérantes sont très compétents, les prix proposés sont très bas, ce qui n’est possible, selon elle, que si cela est compensé par d’autres postes, en particulier celui du call center. Elle affirme que les tarifs auxquels il est fait référence dans le rapport d’analyse des offres ne sont que la confirmation de son raisonnement.
+IV.2. Appréciation du Conseil d’État
+Quant à la première branche
+L’article 36 de l’arrêté royal du 18 avril 2017 prévoit, notamment, ce qui suit :
+« § 1er. Lorsque les prix ou les coûts semblent anormalement bas ou élevés lors de la vérification des prix ou des coûts effectuée conformément à l’article 35, le pouvoir adjudicateur procède à un examen de ces derniers. Lorsqu’il est fait usage de la procédure concurrentielle avec négociation, la procédure négociée directe avec publication préalable et la procédure négociée sans publication préalable, l’examen se fait sur la base des dernières offres introduites, ce qui n’empêche nullement que le pouvoir adjudicateur puisse déjà procéder à cet examen à un stade antérieur de la procédure.
+§ 2. Lors de l’examen des prix ou des coûts, le pouvoir adjudicateur invite le soumissionnaire à fournir les justifications écrites nécessaires relatives à la composition du prix ou du coût considéré comme anormal dans un délai de douze jours, à moins que l’invitation ne détermine un délai plus long. Lorsqu’il est fait usage de la procédure négociée sans publication préalable, le pouvoir adjudicateur peut prévoir un délai plus court dans les documents du marché, moyennant une disposition expressément motivée.
+La charge de la preuve de l’envoi des justifications incombe au soumissionnaire.
+Les justifications concernent notamment :
+1° l’économie du procédé de construction, du procédé de fabrication des produits ou de la prestation des services ;
+2° les solutions techniques choisies ou les conditions exceptionnellement favorables dont dispose le soumissionnaire pour exécuter les travaux, pour fournir les produits ou les services ;
+3° l’originalité des travaux, des fournitures ou des services proposés par le soumissionnaire ;
+4° l’obtention éventuelle par le soumissionnaire d’une aide publique octroyée légalement.
+Lors de l’examen des prix ou des coûts visé à l’alinéa 1er, le pouvoir adjudicateur invite le soumissionnaire à fournir des justifications écrites concernant le respect des obligations visées à l’article 7, alinéa 1er, de la loi, applicables dans les
+VIexturg - 23.640 - 8/20
+domaines du droit environnemental, social et du travail en ce compris les obligations applicables en matière de bien-être, de salaires et de sécurité sociale.
+Le pouvoir adjudicateur n’est toutefois pas tenu de demander des justifications des prix de postes négligeables.
+Si nécessaire, le pouvoir adjudicateur interroge à nouveau le soumissionnaire par écrit. Dans ce cas, le délai de douze jours peut être réduit.
+§ 3. Le pouvoir adjudicateur apprécie les justifications reçues et :
+1° soit constate que le montant d’un ou de plusieurs poste(s) non négligeable(s)
+présente(nt) un caractère anormal et écarte l’offre en raison de l’irrégularité substantielle dont elle est entachée ;
+2° soit constate que le montant total de l’offre présente un caractère anormal et écarte l’offre en raison de l’irrégularité substantielle dont elle est entachée ;
+3° soit motive dans la décision d’attribution que le montant total de l’offre ne présente pas de caractère anormal.
+Le pouvoir adjudicateur écarte également l’offre s’il établit que son montant total est anormalement bas parce qu’elle contrevient aux obligations en matière de droit environnemental, social ou du travail, visées à l’article 7, alinéa 1er, de la loi et ce, en raison de l’irrégularité substantielle dont elle est entachée. Lorsque l’offre contrevient aux obligations applicables dans le domaine du droit social fédéral ou du droit du travail fédéral, le pouvoir adjudicateur le communique conformément au paragraphe 5, alinéa 2.
+Dans le cadre de l’évaluation, le pouvoir adjudicateur peut également tenir compte d’informations qui ne proviennent pas du soumissionnaire. Ces données sont soumises au soumissionnaire afin de lui permettre d’y réagir.
+Si le pouvoir adjudicateur constate qu’une offre paraît anormalement basse du fait de l’obtention d’une aide d’Etat par le soumissionnaire, il ne peut rejeter cette offre pour ce seul motif que s’il consulte le soumissionnaire et que celui-ci n’est pas en mesure de démontrer, dans un délai suffisant fixé par le pouvoir adjudicateur, que l’aide en question était compatible avec le marché intérieur au sens de l’article 107
+du Traité sur le fonctionnement de l’Union européenne. Le pouvoir adjudicateur qui écarte une offre dans ces conditions le communique conformément au paragraphe 5, alinéa 3. Le présent alinéa n’est applicable que pour les marchés dont le montant estimé est égal ou supérieur aux seuils fixés pour la publicité européenne.
+§ 4. […]
+§ 5. […]
+§ 6. Sauf disposition contraire dans les documents du marché, le présent article n’est applicable ni à la procédure concurrentielle avec négociation, ni à la procédure négociée directe avec publication préalable, ni à la procédure négociée sans publication préalable pour autant qu’il s’agisse d’un marché de fournitures ou de services dont le montant estimé est inférieur aux seuils fixés pour la publicité européenne ou d’un marché de travaux dont le montant estimé est inférieur à 500.000 euros ».
+Le rapport au Roi précédent cet arrêté énonce notamment ce qui suit à propos de cette disposition :
+« Il convient également de souligner que le soumissionnaire peut éprouver des difficultés à donner les informations nécessaires à la justification de son prix ou de son coût. Seraient ainsi considérées comme insuffisantes la simple confirmation du prix sans explication, la justification confuse, vague ou imprécise... Le pouvoir adjudicateur peut, dans un tel cas, justifier ledit prix ou coût en tenant compte de ses connaissances propres ou d’autres d’informations qui ne proviendraient pas du soumissionnaire. Il devra également soumettre ces données au soumissionnaire afin de lui donner la possibilité d’y réagir et ce, avant qu’il ne prenne sa décision.
+Cette obligation découle de l’article 69.3 de la directive 2014/24/UE, dans lequel il est prévu que le pouvoir adjudicateur doive organiser une consultation avec le   VIexturg - 23.640 - 9/20
+soumissionnaire. De cette manière, il est garanti que les droits de la défense seront respectés. En outre, il est rappelé que le principe de l’égalité est également d’application dans ce contexte ».
+En l’espèce, la partie adverse a interrogé les parties requérantes et les a invitées à justifier leurs prix.
+Dans le cadre de l’analyse des justifications fournies, le rapport d’analyse des offres indique, notamment, s’agissant de « l’ingénierie des prix », que l’offre des requérantes, mentionnant un prix très élevé pour le poste relatif au call center et un prix très bas pour les postes relatifs aux différents niveaux d’intervention est spéculative (page 20). Selon le rapport, les prix remis sont le résultat d’une spéculation dans le chef des requérantes notamment par la mise en place de leur modèle économique et commercial qui conduit à proposer un prix très élevé pour le poste relatif au call center, qui est un poste que la partie adverse commandera quoiqu’il arrive et un prix très bas pour les postes relatifs aux niveaux d’intervention qui sont exprimés en QP et dont le nombre d’activations est à ce jour inconnu et incertain (page 19).
+Le rapport relève également que dans l’offre des requérantes, les frais des postes relatifs au différents niveaux d’intervention ont été inclus dans le poste relatif au call center, ce qui « démontre à la fois la spéculation du soumissionnaire sur les prix proposés mais encore l’anormalité de ces derniers » (page 24). Il énonce ensuite, en substance, que les profils proposés par les parties requérantes sont très compétents mais à un tarif (à supposer qu’il constitue à lui seul le tarif horaire de ces profils ce que conteste la partie adverse) inférieur au tarif horaire pratiqué dans le domaine de la cybersécurité. Il se fonde pour cela sur le coût horaire d’un profil en cybersécurité fixé par le SPW, indiquant que ces coûts horaires sont bien connus des requérantes qui répondent à de nombreux marchés dont ceux du SPW. Le rapport s’appuie également sur des tarifs journaliers pour des spécialistes IT externes issus d’un rapport public de la Cour des comptes et sur le coût journalier des personnes travaillant en Freelance dans le domaine de la cybersécurité, accessible sur la plateforme Free-
+word. Il précise que la comparaison avec le SPW est adéquate, la partie adverse étant, comme le SPW, une unité d’administration publique servant les actions du Gouvernement wallon (page 24). Le rapport d’analyse des offres considère en conclusion notamment que les prix de l’offre des requérantes sont anormaux.
+Il s’ensuit que dans le cadre de l’évaluation des justifications reçues, la partie adverse a tenu compte d’informations qui ne proviennent pas des requérantes.
+L’article 36, § 3, alinéa 3, de l’arrêté royal du 18 avril 2017 prévoit qu’en ce cas, ces données sont soumises au soumissionnaire afin de lui permettre d’y réagir. Il ne ressort pas du dossier administratif que tel ait été le cas. Si le courrier du 18 septembre 2025
+VIexturg - 23.640 - 10/20
+adressé par la partie adverse aux requérantes indique que le tarif horaire proposé pour des professionnels en cybersécurité est inférieur à celui d’un junior en informatique tel que proposé par la matrice des prix utilisée par le SPW, cette matrice n’a pas été communiquée à cette occasion, ce qu’ont d’ailleurs relevé les requérantes dans leur réponse. En outre, l’affirmation suivant laquelle les parties requérantes participeraient à des marchés du SPW n’est, prima facie, pas établie. En toute hypothèse, les données issues du rapport de la Cour des comptes et du site Free-word n’ont pas été communiquées aux requérantes. Au terme d’un examen opéré dans le cadre de la procédure d’extrême urgence, il importe peu que ces informations soient publiques, la réglementation n’établissant pas de distinction à cet égard. Enfin, et contrairement à ce qu’indique la partie adverse dans sa note d’observations, elle paraît bien, prima facie, avoir procédé à une comparaison des tarifs des requérantes avec ces informations. Il importe peu qu’à son estime il s’agissait de « confirmer » son analyse, puisque cette « confirmation » a eu lieu lors de l’analyse des justifications reçues.
+La première branche du troisième moyen est sérieuse.
+V. Deuxième moyen
+V.1. Thèses des parties
+A. Requête
+Les requérantes soulèvent un deuxième moyen, « pris de la violation : -
+[d]es articles 4 et 83 de la loi du 17 juin 2016 relative aux marchés publics ; des articles 42, 43, 44 et 76 de l’arrêté royal du 18 avril 2017 relatif à la passation des marchés publics dans les secteurs classiques ; [d]es articles 4 et 5 de la loi du 17 juin 2013
+relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions ; [d]es articles 2 et 3 de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs ; [d]u principe patere legem quam ipse fecisti et du cahier spécial des charges régissant le marché litigieux ; [d]u devoir de minutie, principe général de bonne administration, et notamment de la vérification des faits pris en considération ; [d]e l’erreur manifeste d’appréciation, de l’inexactitude ou de l’inadéquation des motifs de droit et de fait ».
+Les requérantes soutiennent que l’offre du groupement NRB, pourtant déclarée régulière, est entachée d’une irrégularité substantielle pour défaut de signature de l’offre finale par une personne dument habilitée à engager EASI.
+VIexturg - 23.640 - 11/20
+A l’appui de leur moyen, elles font notamment valoir qu’à la lecture du rapport d’analyse des offres, l’offre de NRB n’a été signée pour la société EASI, membre de ce groupement, que par M. H., alors que l’offre aurait dû être signée par deux administrateurs de la société EASI en vertu de ses statuts. Elles relèvent également qu’au regard des termes du CSC, la partie adverse ne pouvait valablement soutenir, dans son rapport d’analyse des offres, que la signature par un administrateur délégué serait conforme, alors même que le CSC impose une exigence différente.
+Elles affirment qu’il ne ressort ni de l’acte attaqué, ni du rapport d’analyse des offres du 18 décembre 2025, ni d’aucun autre document communiqué que la société EASI
+ait fourni les éléments démontrant que la signature de l’offre relève de la gestion journalière. Selon elles, l’absence de cette mention constitue, à tout le moins, une méconnaissance de l’obligation de motivation, laquelle impose au pouvoir adjudicateur de signaler toutes les difficultés rencontrées dans l’analyse de la régularité des offres, afin que les soumissionnaires évincés puissent comprendre les raisons pour lesquelles le soumissionnaire retenu a été accepté.
+Elles ajoutent qu’en toute hypothèse, la partie adverse ne pouvait inviter le GOE, représenté par la SA Network Research Belgium et comprenant la société EASI, à rectifier le pouvoir de signature de M. H. Selon elles, pour les marchés dont le montant estimé est égal ou supérieur au seuil fixé pour la publicité européenne et pour lesquels il est fait usage d’une procédure permettant une négociation, l’article 76, § 4, de l’arrêté du 18 avril 2017 interdit toute régularisation d’une offre finale - ou même d’une autre offre en l’absence de précision dans les documents du marché, ce qui est le cas en l’espèce - lorsqu’elle est entachée d’une irrégularité substantielle.
+B. Note d’observations
+La partie adverse résume ses développements comme ceci :
+« PROXIMUS soutient à tort que l’AdN aurait procédé à une régularisation illégale de l’offre de l’attributaire pressenti du marché, laquelle serait entachée d’une irrégularité substantielle. Il ressort toutefois du dossier administratif que l’offre de NRB n’était pas affectée par une telle irrégularité. L’AdN s’est bornée à adresser une demande de clarification au sens de l’article 66, § 3, de la loi du 17 juin 2016, à la suite de la constatation d’une erreur, sans que cela n’implique la modification de l’offre.
+À défaut de toute irrégularité, les dispositions de l’article 76 de l’arrêté royal du 18
+avril 2017 relatives à la régularisation des offres ne trouvent pas à s’appliquer. En tout état de cause, et pour autant qu’une régularisation doive être retenue, quod non, celle-ci était expressément autorisée tant par l’article 76, § 4, alinéa 3, de l’arrêté royal du 18 avril 2017 que par les documents du marché, et est intervenue à un stade des offres initiales.
+Le fait que l’AdN n’ait pas engagé de négociations ne remet nullement cette analyse en cause. Conformément à l’article 38, § 5, de la loi du 17 juin 2016, le   VIexturg - 23.640 - 12/20
+pouvoir adjudicateur dispose en effet d’une large marge d’appréciation pour attribuer le marché sur la base des offres initiales, sans être tenu de solliciter une BAFO. Une interprétation contraire porterait atteinte à la cohérence du régime légal et viderait de sa substance la faculté reconnue au pouvoir adjudicateur de renoncer à des négociations lorsqu’il les estime inutiles ».
+Elle fait également valoir que les requérantes n’ont pas intérêt au moyen et celui-ci doit être déclaré irrecevable. Selon elle, à supposer que l’offre de l’attributaire pressenti du marché soit déclarée substantiellement irrégulière, les requérantes n’en récupèreraient pas pour autant une chance de se voir attribuer le marché dès lors que l’offre de SIA PARTNERS serait alors la seule offre régulière.
+C. Débats à l’audience
+Les requérantes relèvent des discordances entre le rapport d’analyse des offres, tel qu’il leur a été communiqué, et le contenu de la note d’observations. Elles constatent que, selon le rapport d’analyse des offres, le groupement NRB a été invité à régulariser sa signature, alors que la régularisation d’une offre finale est interdite.
+Elles soutiennent qu’elles ont intérêt à soulever ce moyen, leur offre ayant été jugé à tort irrégulière et qu’en toute hypothèse, cela lui procurerait une nouvelle chance de remporter le marché, la partie adverse pouvant décider de relancer le marché si seule une offre restait régulière.
+Les requérantes font également valoir que le mandat d’EASI devait être signé avant le dépôt de l’offre du groupement NRB et que si ce mandat est daté du 9 juillet 2025, il ne peut porter sur l’offre initiale déposée le 12 juin 2025 dans le cadre de la procédure ouverte. Elles soutiennent également que ce mandat, qui ne peut être général, ne peut porter sur l’offre déposée par le groupement NRB le 1er août 2025 car à la date du 9 juillet, la partie adverse n’avait pas encore pris la décision de relancer le marché.
+La partie adverse expose que, comme le relate le rapport d’analyse des offres du 14 juillet 2025, l’offre de NRB déposée dans le cadre de la procédure ouverte a été déclarée irrégulière à défaut de preuve de la compétence de signature, la réponse de ce soumissionnaire transmise le 9 juillet 2025 n’ayant pas pu être prise en compte.
+Elle fait valoir que dans le cadre de la procédure concurrentielle avec négociation, l’offre de ce soumissionnaire était identique et que le mandat d’EASI du 9 juillet lui a été communiqué à la suite de sa demande de clarification. Elle estime qu’il n’était pas nécessaire d’obtenir un nouveau mandat, celui-ci préexistant l’offre.
+VIexturg - 23.640 - 13/20
+Les requérantes relèvent qu’en toute hypothèse ni le rapport d’analyse des offres ni l’acte attaqué ne reflètent ces explications de la partie adverse.
+V.2. Appréciation du Conseil d’État
+Pour contester la recevabilité du moyen, la partie adverse se fonde sur le fait que l’offre des requérantes est irrégulière. Il ressort toutefois de l’examen de la première branche du troisième moyen que sur ce point l’acte attaqué a été adopté en violation de l’article 36, § 3, alinéa 3, de l’arrêté royal précité. L’exception d’irrecevabilité du moyen ne peut dès lors être retenue. Dans ces circonstances, l’illégalité relevée dans le cadre du second moyen a, à tout le moins, pu léser ou risquer de léser les requérantes.
+Les articles 42 à 44 de l’arrêté royal du 18 avril 2017 énoncent ce qui suit :
+« Art. 42. § 1er. Dans le cadre d’une procédure ouverte ou d’une procédure négociée directe avec publication préalable, le soumissionnaire ne doit pas signer individuellement l’offre, ses annexes et le DUME, lorsque ce dernier doit être présenté, au moment où ces derniers sont chargés sur la plateforme électronique mentionnée à l’article 14, § 7, de la loi. Ces documents sont signés de manière globale par l’apposition d’une signature sur le rapport de dépôt y afférent.
+Néanmoins, dans le cadre de la procédure négociée directe avec publication préalable, seuls les rapports de dépôt relatifs à l’offre initiale et à l’offre finale doivent être signés.
+§ 2. Dans le cadre d’une procédure restreinte, d’une procédure concurrentielle avec négociation, d’un dialogue compétitif et d’un partenariat d’innovation, le candidat ne doit pas signer individuellement la demande de participation. Il en va de même pour le DUME, lorsqu’il doit être présenté. Les deux documents précités peuvent toutefois être signés de manière globale par l’apposition d’une signature sur le rapport de dépôt lié à la demande de participation et ce, au moment où ces derniers sont chargés sur la plateforme électronique mentionnée à l’article 14, § 7, de la loi.
+Lorsque l’opérateur économique n’a pas recours à cette possibilité, le DUME
+lorsqu’il doit être présenté, doit être joint à nouveau et être signé globalement par le biais du rapport de dépôt visé à l’alinéa 2.
+Lorsque dans une phase ultérieure, des offres et leurs annexes sont introduites dans le cadre d’une des procédures visées à l’alinéa 1er, aucune signature individuelle n’est exigée au moment du chargement sur la plateforme électronique mentionnée à l’article 14, § 7, de la loi. Ces documents sont signés de manière globale par l’apposition d’une signature sur le rapport de dépôt y afférent.
+Néanmoins, dans le cadre de la procédure concurrentielle avec négociation et du partenariat d’innovation, seuls les rapports de dépôt relatifs à l’offre initiale et à l’offre finale doivent être signés.
+§ 3. Dans le cas d’une procédure négociée sans publication préalable, le pouvoir adjudicateur précise si une signature est requise, le type de signature, ainsi que les documents à signer.
+Art. 43. § 1er. Sauf disposition contraire dans les documents du marché, le rapport de dépôt visé à l’article 42 doit être revêtu d’une signature électronique qualifiée.
+§ 2. Les modifications à une offre qui interviennent après la signature du rapport de dépôt, ainsi que son retrait donnent lieu à l’envoi d’un nouveau rapport de dépôt qui doit être signé conformément au paragraphe 1er.
+L’objet et la portée des modifications doivent être indiqués avec précision.
+VIexturg - 23.640 - 14/20
+Le retrait doit être pur et simple.
+Lorsque le rapport de dépôt dressé à la suite des modifications ou du retrait visés à l’alinéa 1er, n’est pas revêtu de la signature visée au paragraphe 1er, la modification ou le retrait est d’office entaché de nullité. Cette nullité ne porte que sur les modifications ou le retrait et non sur l’offre elle-même.
+§ 3. Le présent article n’est pas d’application aux enchères électroniques et ce, conformément à l’article 109, § 1er.
+Art. 44. § 1er. Les signatures visées à l’article 43 sont émises par la ou les personne(s) compétente(s) ou mandatée(s) à engager le soumissionnaire.
+L’alinéa 1er s’applique à chaque participant lorsque l’offre est déposée par un groupement d’opérateurs économiques. Ces participants sont solidairement responsables La responsabilité solidaire visée à l’alinéa 2 ne s’applique pas à un architecte qui constituerait un groupement au sein duquel il y a un entrepreneur.
+§ 2. Lorsque le rapport de dépôt est signé par un mandataire, celui-ci mentionne clairement son (ses) mandant(s). Le mandataire joint l’acte électronique authentique ou sous seing privé qui lui accorde ses pouvoirs ou une copie scannée de la procuration.
+Il fait, le cas échéant, référence au numéro de l’annexe du Moniteur belge qui a publié l’extrait de l’acte concerné, en mentionnant la/les page(s) et/ou le passage concernés.
+En vue de marchés ultérieurs, un mandant peut déposer la procuration donnée à cet effet à un ou plusieurs mandataires. Cette procuration ne vaut que pour les marchés du pouvoir adjudicateur auquel elle est remise. Le mandataire prévoit, dans chaque offre, une référence à ce dépôt.
+Le rapport de dépôt signé électroniquement au nom d’une personne morale, à l’aide d’un certificat attribué au nom de cette personne morale qui s’engage uniquement en son nom propre et pour son compte, ne requiert pas de mandat supplémentaire ».
+L’obligation de motivation formelle, à laquelle la partie adverse est tenue en vertu des dispositions dont la violation est invoquée par le moyen, répond à une double exigence : elle doit permettre non seulement au destinataire de l’acte de comprendre les raisons qui ont amené l’autorité à adopter celui-ci, mais également au Conseil d’État de contrôler l’exactitude, l’admissibilité et la pertinence des motifs exprimés dans la décision. Les motifs exprimés dans un acte administratif doivent être exacts et reposer sur les éléments du dossier administratif, celui-ci permettant de vérifier que les éléments retenus ne sont pas inexacts. La motivation d’une décision doit être claire, complète, précise et adéquate afin que les intéressés puissent vérifier qu’elle a été précédée d’un examen des circonstances de l’espèce. Par ailleurs, en vertu de l’obligation de motivation matérielle qui lui incombe, la partie adverse est tenue de faire reposer l’acte qu’elle adopte sur des motifs exacts, pertinents et légalement admissibles.
+Le rapport d’analyse des offres indique ce qui suit concernant l’examen de la régularité de l’offre du groupement NRB :
+« Offre du GOE représenté par Network Research Belgium Il ressort du document “Annexe 2.3 – Mandats des signataires EASI” joint à l’offre déposée par les membres du GOE représenté par Network Research Belgium que Monsieur H. dispose d’un mandat d’administrateur de la société EASI. Il ne ressort   VIexturg - 23.640 - 15/20
+néanmoins pas de ce document que Monsieur H. est l’administrateur-délégué de cette société, ni qu’il dispose d’un mandat spécial afin de soumettre des offres dans le cadre d’un marché public. En effet, il ressort des statuts de la société EASI que celle-ci peut valablement être représentée par deux administrateurs agissant conjointement ou la ou les personnes déléguées à la gestion journalière. À la lecture de l’Exposé des motifs du Code des sociétés et associations, il appert que le dépôt d’une offre dans le cadre d’un marché public relève de la gestion journalière d’une société, notamment lorsque cette société est amenée à déposer régulièrement offre.
+Aux termes de son courrier du 11 août 2025 faisant suite à la réunion du 6 août 2025, l’AdN a demandé au GOE représenté par Network Research Belgium des clarifications à ce sujet. Ledit soumissionnaire a fourni les documents corrigés, dans le cadre de la régularisation des offres.
+Partant, la société EASI étant valablement représentée, l’offre du GOE représenté par Network Research Belgium n’est entachée d’aucune irrégularité à ce propos ».
+Prima facie, ce motif peut laisser entendre que l’offre de ce soumissionnaire aurait été signée par M. H., et que la partie adverse l’aurait amené à justifier ce pouvoir de signature, ce que corrobore la lecture du courrier du 11 août 2025, et que ce seraient les documents « corrigés » transmis par le groupement NRB
+qui l’auraient déterminée à admettre que l’offre de ce soumissionnaire n’était pas irrégulière.
+Le procès-verbal d’ouverture des offres mentionne que pour ce soumissionnaire l’offre a été signée par M. T.T. et O.L.
+Dans sa note d’observations, la partie adverse fait état de ce que le mandat – signé le 9 juillet 2025 – de représentation d’EASI, conférant à NRB le pouvoir de représenter le groupement dans le cadre du dépôt de l’offre pour l’accord-cadre en cause lui a été communiqué le 21 août 2025 en réponse au courrier de la partie adverse du 11 août 2025. Comme le relèvent les requérantes à l’audience, une telle explication n’apparaît pas dans le rapport d’analyse des offres auquel se réfère l’acte attaqué.
+Dans ces circonstances, la motivation formelle de l’acte attaqué apparaît insuffisante. Elle ne reflète pas l’ensemble des circonstances de l’espèce qui ont été examinées par la partie adverse et qui ont précédé l’adoption de cet acte. En particulier, cette motivation ne permet pas de comprendre précisément comment se présentait l’offre de ce soumissionnaire sur le plan des signatures, ni quelle interrogation précise lui a été adressée et ne laisse rien apparaître de la portée exacte de la réponse reçue à la suite de cette interrogation ni des raisons pour lesquelles la partie adverse a accepté de prendre en considération un mandat daté du 9 juillet 2025
+alors qu’à cette date la partie adverse n’avait pas renoncé à la procédure ouverte. En tant qu’il dénonce la méconnaissance de l’obligation de motivation formelle, le moyen doit être déclaré sérieux, sans qu’il ne soit nécessaire d’examiner les autres griefs soulevés à l’appui de ce dernier.
+VIexturg - 23.640 - 16/20
+VI. Balance des intérêts
+La partie adverse n’identifie pas – et le Conseil d’État n’aperçoit pas – les conséquences négatives d’une suspension de l’exécution de l’acte attaqué, qui l’emporteraient sur ses avantages.
+VII. Confidentialité
+VII.1. Thèses des parties
+Les parties requérantes déposent leur offre ainsi que les documents relatifs à leur prix (explication de l’inventaire, justification des prix) à titre confidentiel (pièces 6, 8 et 10).
+La partie adverse dépose, à titre confidentiel, les offres (pièces A à F), les documents « en lien direct avec le contenu des offres » (pièces A à S, à savoir les courriers adressés par la partie adverse aux soumissionnaires les 9 juillet, 11 août et 18 septembre 2025, et les courriers de réponses de ces soumissionnaires). Elle dépose également à titre confidentiel les pièces T (procès-verbal de la réunion de son conseil d’administration du 18 décembre 2025) et U (rapport d’analyse des offres du 18 décembre 20205). Elle justifie ce caractère confidentiel de manière à ne pas nuire au secret des affaires (article 26 de la loi du 17 juin 2013) et à une concurrence loyale entre les entreprises (article 10, § 1er de la loi du 17 juin 2013).
+Par un courrier du 20 janvier 2026, les parties requérantes sollicitent la levée de la confidentialité des pièces G (Courriers de l’AdN à l’attention de NRB du 11 août 2025), J (Documents fournis dans le cadre de la régularisation de NRB) et T, qui, selon elles, ne relèvent pas du secret des affaires, à tout le moins la communication d’une version expurgée des éléments relevant du secret des affaires.
+A la suite des débats tenus lors de l’audience, durant laquelle la partie adverse a indiqué que, contrairement à ce qui ressort de la note d’observations, le procès-verbal des délibérations du conseil d’administration du 18 décembre 2025
+n’est pas signé par le président du conseil d’administration ainsi que par la majorité des membres présents, mais le serait lors du conseil d’administration du 22 janvier 2025, les requérantes ont renoncé à leur demande de levée de la confidentialité de la pièce T.
+Les requérantes ont toutefois maintenu leur demande de levée de la confidentialité pour les pièces G et J en ce qui concerne le point relatif à la signature de l’offre du groupement NRB par EASI.
+VIexturg - 23.640 - 17/20
+VII.2. Appréciation du Conseil d’Etat
+La confidentialité des pièces 6, 8 et 10 du dossier des parties requérantes, ainsi que celle des pièces A à F, H à I, K à T et U n’étant pas ou plus contestées, il y a lieu, à ce stade de la procédure, de maintenir la confidentialité des pièces concernées.
+L’article 26 de la loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions est libellé comme suit :
+« L’instance de recours doit garantir la confidentialité et le droit au respect des secrets d’affaires au regard des informations contenues dans les dossiers qui lui sont communiqués par les parties à la cause, notamment par l’autorité adjudicatrice qui est tenue de déposer l’intégralité du dossier, tout en pouvant elle-même connaître de telles informations et les prendre en considération. Il appartient à cette instance de décider dans quelle mesure et selon quelles modalités il convient de garantir la confidentialité et le secret de ces informations, en vue des exigences d’une protection juridique effective et du respect des droits de la défense des parties au litige afin que la procédure respecte, dans son ensemble, le droit à un procès équitable ».
+La partie adverse n’identifie pas – et le Conseil d’État n’aperçoit pas, à la lecture du contenu des points relatifs à la signature de l’offre du groupement NRB
+dans les pièces G et J du dossier administratif – quels secrets d’affaires seraient en jeu, dont le respect serait compromis par une divulgation de ces pièces.
+Par ailleurs, la partie adverse n’explique pas en quoi la divulgation du contenu de ces points nuirait à une concurrence loyale entre entreprises.
+Dans ces circonstances, il y a lieu d’ordonner la levée de confidentialité des pièces G et J du dossier administratif, uniquement pour ce qui concerne les points relatifs à la signature de l’offre du groupement NRB (point 2 du courrier du 11 août 2025 et annexes 2 et 4 de la réponse du 21 août 2025). Ces pièces, expurgées des autres points pour lesquels la levée de la confidentialité n’est plus requise et n’apparaît pas se justifier à ce stade de la procédure, seront mises à la disposition de la requérante par la partie adverse.
+VIexturg - 23.640 - 18/20
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La suspension de l’exécution de la décision du Conseil d’administration de l’Agence du Numérique du 18 décembre 2025 par laquelle le marché public de services, ayant pour objet “Accord-cadre de services portant sur la mise à disposition d’une équipe opérationnelle pour intervenir sur site en réponse à des cyber-incidents 24H/7 sur le territoire wallon”, est attribué au groupement d’opérateur économique représenté par la société Network Research Belgium et par laquelle l’offre des parties requérantes a été jugé irrégulière est ordonnée.
+Article 2.
+L’exécution immédiate du présent arrêt est ordonnée.
+Article 3.
+Les pièces 6, 8 et 10 du dossier des parties requérantes, ainsi que celle des pièces A à F, H à I, K à T et U sont, à ce stade de la procédure, tenues pour confidentielles.
+La levée de la confidentialité des pièces G et J du dossier administratif est ordonnée pour ce qui concerne les points relatifs à la signature de l’offre du groupement NRB (point 2 du courrier du 11 août 2025 et annexes 2 et 4 de la réponse du 21 aout 2025). Ces pièces J et G sont, pour le reste, tenues pour confidentielles à ce stade de la procédure.
+A dater de la notification du présent arrêt, la partie adverse est invitée à déposer les pièces G et J du dossier administratif expurgées des éléments confidentiels, et ce au plus tard le 15 février 2026.
+Article 4.
+Les dépens, en ce compris l’indemnité de procédure, sont réservés.
+VIexturg - 23.640 - 19/20
+Ainsi prononcé à Bruxelles le 4 février 2026, par la VIe chambre du Conseil d’État siégeant en référé, composée de :
+Aurélien Vandeburie, conseiller d’État, président f.f., Adeline Schyns, greffière.
+La Greffière, Le Président,
+Adeline Schyns Aurélien Vandeburie
+VIexturg - 23.640 - 20/20
