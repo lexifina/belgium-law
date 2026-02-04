@@ -1,0 +1,42 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260204.2F.12",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260204.2F.12",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-04",
+  "date_as_printed": "Jugement/arrêt du 04 février 2026",
+  "published_on_juportal": "2026-02-05",
+  "language": "fr",
+  "role_number": "P.26.0135.F",
+  "case_name_as_published": "N.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit international public",
+    "Internationaal publiekrecht"
+  ],
+  "summary_keywords": [
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "VOORLOPIGE HECHTENIS - BEVEL TOT AANHOUDING",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "VOORLOPIGE HECHTENIS - HANDHAVING",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 3",
+    "RECHTEN VAN DE MENS - VERDRAG RECHTEN VAN DE MENS - Artikel 6 - Artikel 6.3"
+  ],
+  "fiche": [
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "Code d'instruction criminelle - Livre II, Titre VII (Art. 589 à 648) - 16-12-1808 - Art. 611 - 30 Lien ELI No pub 1808121650 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 19, § 5 - 35 Lien ELI No pub 1990099963",
+    "DETENTION PREVENTIVE - MANDAT D'ARRET",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 3 - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 21, § 3, al. 1er - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 4 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 67 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 104 - 39 Lien ELI No pub 2005009033",
+    "DETENTION PREVENTIVE - MAINTIEN",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 3 - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 21, § 3, al. 1er - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 4 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 67 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 104 - 39 Lien ELI No pub 2005009033",
+    "DROITS DE L'HOMME - CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTES FONDAMENTALES - Article 6 - Article 6, § 3",
+    "Convention de sauvegarde des droits de l'homme et des libertés fondamentales, signée à Rome le 4 novembre 1950 - 04-11-1950 - Art. 6, § 1er - 30 Lien DB Justel 19501104-30 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 21, § 3, al. 1er - 35 Lien ELI No pub 1990099963 L. du 20 juillet 1990 relative à la détention préventive - 20-07-1990 - Art. 22, al. 4 - 35 Lien ELI No pub 1990099963 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 67 - 39 Lien ELI No pub 2005009033 L. de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus - 12-01-2005 - Art. 104 - 39 Lien ELI No pub 2005009033"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260204.2F.12",
+  "source_sha256": "7278629d590e4df19f090ba8bd350a03bb01e648c36dd7b0d6d975860f6571d3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260204.2F.12_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/06/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
