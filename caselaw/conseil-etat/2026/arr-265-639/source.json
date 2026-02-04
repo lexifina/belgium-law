@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.639",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.639",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-04",
+  "date_as_printed": "Jugement/arrêt du 04 février 2026",
+  "published_on_juportal": "2026-02-06",
+  "language": "fr",
+  "role_number": "A. 235820/XIII-9579",
+  "case_name_as_published": "Arrêt 265639 - Protection de l’environnement - Règlements - 04/02/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.639",
+  "source_sha256": "0353c4c05d063e7d6dbfff545cf8545053bdf5cf121b1adf7763b9ad435c8428",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.639_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_36.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
