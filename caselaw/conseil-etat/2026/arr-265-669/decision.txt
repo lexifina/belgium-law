@@ -1,0 +1,304 @@
+CONSEIL D’ÉTAT, SECTION DU CONTENTIEUX ADMINISTRATIF
+LE PRÉSIDENT F.F. DE LA VIe CHAMBRE SIÉGEANT EN RÉFÉRÉ
+no 265.669 du 5 février 2026
+A. 246.951/VI-23.645
+En cause : la société de droit canadien DE HAVILLAND
+AIRCRAFT OF CANADA LIMITED, ayant élu domicile chez Mes Flip PETILLION, Diégo NOESEN
+et Jan JANSSEN, avocats, Guido Gezellestraat 126
+1654 Huizingen, contre :
+l’État belge, représenté par le ministre de la Défense.
+------------------------------------------------------------------------------------------------------
+I. Objet de la requête
+Par une requête introduite le 7 janvier 2026, la partie requérante demande, d’une part, la suspension, selon la procédure d’extrême urgence, de l’exécution de « la décision du Ministre de la Défense, chargé du Commerce extérieur, du 23 décembre 2025 de ne pas sélectionner la candidature de la requérante et de tenir la requérante à l’écart dans le cadre du marché public 24AC004 » et, d’autre part, l’annulation de cette décision.
+II. Procédure
+Par une ordonnance du 12 janvier 2026, le calendrier de la procédure a été déterminé et l’affaire a été fixée à l’audience du 27 janvier 2026.
+La note d’observations et le dossier administratif ont été déposés dans le respect du calendrier de la procédure.
+La contribution et les droits visés respectivement aux articles 66, 6°, et à l’article 70 de l’arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d’État ont été acquittés.
+M. Xavier Close, Conseiller d’État président f.f., a exposé son rapport.
+VIexturg - 23.645 - 1/23
+Mes Jan Janssen, Diego Noesen et Julien Haverals, avocats, comparaissant pour la partie requérante, et Mme Alice Bonte, Colonel, et Mme Valérie Schuermans, Lieutenant-Colonel, comparaissant pour la partie adverse, ont été entendus en leurs observations.
+M. Pacôme Noumair, auditeur au Conseil d’État, a été entendu en son avis conforme.
+Il est fait application des dispositions relatives à l’emploi des langues, inscrites au titre VI, chapitre II, des lois sur le Conseil d’État, coordonnées le 12 janvier 1973.
+III. Faits utiles à l’examen de la demande
+1. De nombreuses pièces utiles à l’exposé de l’affaire étant déposées par la partie adverse à titre confidentiel, notamment le guide de sélection applicable au marché, il convient de se référer, pour partie, aux faits énoncés par elle dans la note d’observations quant au déroulement de la procédure de passation. Ces faits ont pu être vérifiés par le Conseil d’État et n’ont pas fait l’objet d’une contestation par la requérante :
+« 1. Le 2 décembre 2023, la Défense établit une demande d’accord préalable relative au marché public […] visant à l’acquisition et au soutien d’aéronefs Special Operations Aviation Fixed Wing (SOF Air FW) dans le cadre du plan STAR et à l’acquisition d’un avion de surveillance maritime (Maritime Surveillance Coastguard Aircraft) dans le cadre du programme belge de surveillance aérienne au-dessus de la mer du nord pour le compte de l’Institut royal des sciences naturelles de Belgique (IRSNB) […].
+La procédure choisie par le pouvoir adjudicateur est la procédure négociée sans publicité (ci-après, la “PNSP”) sur la base de l’article 25, 1°, b), de la loi relative aux marchés publics et à certains contrats de travaux, fournitures et de services dans le domaine de la défense et de la sécurité du 13 août 2011 […] et de l’article 346, §1er, b), du Traité sur le Fonctionnement de l’Union européenne […]. Le recours à cette procédure fait l’objet d’une justification, notamment dans la demande d’accord préalable […].
+L’attribution se fait à l’offre économiquement la plus avantageuse selon un rapport qualité technico-logistique (40%) / prix (60%).
+Le marché public comprend :
+- une tranche fixe au profit des Special Operations Forces de la Force terrestre (ci-après, “SOF”) se composant de cinq Mission Aircraft (volet 1) avec l’Initial –
+In service support (ci-après, “I-ISS”) (volet 2) et la formation (volet 3) ;
+- une tranche conditionnelle au profit de l’IRSNB se composant d’un Mission Aircraft (volet 1) avec l’I-ISS (volet 2) et la formation (volet 3).
+VIexturg - 23.645 - 2/23
+En outre, les soumissionnaires doivent déposer quatre variantes concernant, d’une part, le Green Aircraft et, d’autre part, l’ensemble des capteurs proposés :
+- au moins deux Green Aircraft différents doivent être proposés par au moins deux Original Equipment Manufacturer différents (ci-après, “OEM”) ;
+- au moins deux ensembles des capteurs et senseurs différents doivent être proposés par Green Aircraft.
+[…]
+3. Le 10 mars 2024, une invitation à introduire une demande de participation est envoyée via la plateforme e-Procurement du Service Public Fédéral Stratégie et Appui à une liste restreinte d’opérateurs économiques identifiés comme potentiels candidats au marché […].
+La requérante ne figure pas parmi ces opérateurs économiques car elle ne remplit pas les conditions (voir infra) pour être candidate au marché.
+En effet, la publication du pouvoir adjudicateur est accompagnée d’un guide de sélection […] qui fixe les critères à remplir pour déposer valablement sa candidature et participer à la suite de la procédure en obtenant le cahier spécial des charges […].
+Celui-ci détermine notamment que […] :
+“ Les demandes de participation peuvent être introduites soit par une seule entreprise, soit par un ensemble d’entreprises (ci-après dénommé ‘consortium’)
+prenant la forme d’une association temporaire ou d’un autre partenariat. Tous les membres du consortium doivent être une société belge ayant son siège social en Belgique depuis au moins dix (10) ans, conformément à la législation belge.
+Sauf indication contraire, la société ou le consortium est désigné dans le présent document par le terme ‘candidat’.
+(…)
+Outre les responsabilités spécifiques exclusivement réservées au candidat belge (une seule entreprise belge ou les entreprises belges composant le consortium)
+telles que décrites ci-dessus (…), le candidat est également autorisé à travailler avec des sous-traitants (étrangers) supplémentaires (UE ou non-UE), par exemple pour la production et la livraison de l’avion (l’OEM), la formation et l’entraînement du personnel, les capteurs, les logiciels, les radios, etc.
+(…)
+Lorsqu’une demande de participation est faite par un consortium, il convient d’indiquer quel membre du consortium agira en tant que Prime Contractor, qui sera le titulaire du mandat (point de contact) vis-à-vis le Pouvoir adjudicateur (voir le modèle de document à l’appendice 1 de l’annexe A). Il sera chargé de regrouper les preuves demandées en fonction des critères de sélection propres à chaque membre du consortium, d’en évaluer l’exactitude et la pertinence et de les transmettre au Pouvoir adjudicateur pour une évaluation plus approfondie ”.
+Le guide de sélection […] fixe encore que :
+“ Le candidat devra prouver sa capacité à livrer efficacement les cinq (05) plus un (01) CS-23, avion bimoteur Single Pilot IFR Certified dans des conditions de givrage connues, avec le calendrier de livraison associé. Cela se fera de préférence sur la base d’une déclaration de consentement ou d’intention de coopérer signée par le fabricant ou le fournisseur, et pour au moins deux (02)
+types d’aéronefs différents par au moins deux (02) OEM différents”.
+VIexturg - 23.645 - 3/23
+Une telle déclaration d’intention sera signée par la requérante en tant qu’OEM
+[…].
+5. À la date limite fixée le 7 juin 2024 à 10 h 00 pour l’introduction des demandes de participation […], le pouvoir adjudicateur enregistre une seule demande de participation de la part du consortium SABENA AEROSPACE
+ENGINEERING – SOCIÉTÉ NATIONALE DE CONSTRUCTION
+AÉROSPATIALE (ci-après, le “consortium SABENA-SONACA”) […] .
+Dans la Fiche A du guide de sélection “Demande de participation conformément à l’annexe A du présent guide de sélection” introduite par le consortium SABENA-
+SONACA […], la SABENA AEROSPACE ENGINEERING déclare être la partie mandatée du consortium SABENA-SONACA, agissant en tant que son représentant et point de contact central du pouvoir adjudicateur (“Prime contractor” au sens du guide de sélection […].
+Par ailleurs, en ce qui concerne sa capacité de livraison, le consortium SABENA-
+SONACA introduit la Fiche […] “Documents sur les critères de sélection qualitative / Composition et/ou organisation du candidat / Capacité de livraison /
+Déclaration signée de consentement ou d’intention de coopérer avec l’OEM”.
+Dans cette fiche remplie et signée par la requérante le 12 avril 2024, la requérante exprime son intention de coopérer avec le consortium SABENA-SONACA, en qualité d’OEM, pour la livraison potentielle au consortium de six aéronefs DHC-6
+Twin Otter dans le cadre du marché public […].
+6. Sur la base du rapport de sélection établi par le pouvoir adjudicateur le 6
+juillet 2024 […], la ministre de la Défense prend la décision motivée de sélection du consortium SABENA-SONACA le 19 juillet 2024 […].
+Cette décision est notifiée au consortium le 4 septembre 2024 […].
+[…]
+7. Par ailleurs, le pouvoir adjudicateur envisage de diviser la procédure d’attribution en deux phases :
+- la première phase concerne le choix du Green Aircraft et de l’I-ISS ainsi que de la formation associée (Green Aircraft selection). Cette phase débouche sur une première décision d’attribution partielle ;
+- lancée en parallèle, la seconde phase porte sur le choix des équipements (Mission Aircraft selection) : elle concerne l’acquisition de senseurs, de l’I-ISS
+ainsi que de la formation qui s’y associent. Cette seconde phase débouche sur une deuxième décision d’attribution partielle.
+[…]
+8. Par courrier du 3 avril 2025 […], le pouvoir adjudicateur communique le C.S.Ch. […] au consortium SABENA-SONACA.
+À ce stade, la tranche optionnelle relative à l’aéronef de l’IRSNB est abandonnée de sorte que le C.S.Ch. ne porte plus que sur la tranche fixe […]. Par ailleurs, l’échelonnement du processus d’attribution en deux phases y est décrit tout en maintenant l’objet du marché, comme exposé au point 1 supra en ce qui concerne la capacité SOF Air FW : l’acquisition de cinq Mission Aircraft, avec l’I-ISS et la formation […].
+VIexturg - 23.645 - 4/23
+Dans l’après-midi du 24 avril 2025, une réunion est organisée par le consortium SABENA-SONACA entre la Défense et les deux OEM afin de répondre aux questions concernant les spécifications techniques liées aux Green Aircraft […].
+[…]
+9. Le consortium SABENA-SONACA introduit une offre initiale pour la phase 1 le 9 mai 2025. Celle-ci comprend une offre de base avec les cinq Green Aircrafts proposés par la société TEXTRON AVIATION INC. et une variante avec les cinq Green Aircrafts proposés par la requérante […].
+[…].
+10. Le 6 juin 2025, le consortium SABENA-SONACA introduit une offre révisée pour la phase 1 […] à propos de laquelle le pouvoir adjudicateur rend un feedback le 11 juin 2025 […], lequel entraînera l’adaptation de l’offre révisée pour parvenir à la BAFO (voir infra).
+Il ressort des différentes pièces déposées par la partie adverse concernant les étapes décrites aux points 9 et 10 que la requérante est en course pour chacune de ces étapes de la négociation : son Green Aircraft est repris dans la variante de l’offre initiale au même titre que l’appareil concurrent […] de même que dans la variante de l’offre révisée […]. Le pouvoir adjudicateur rend un feedback au sujet de la variante tout comme pour l’offre de base […].
+[…]
+11. Le 26 juin 2025, le consortium SABENA-SONACA introduit une Best and Final Offer (ci-après « BAFO ») suivie le 4 juillet 2025 d’une offre initiale pour la phase 2 […].
+La BAFO comprend une offre de base avec les cinq Green Aircrafts proposés par la société TEXTRON AVIATION INC. et une variante avec les cinq Green Aircrafts proposés par la requérante.
+12. Le 23 juillet 2025, les services du pouvoir adjudicateur émettent un rapport d’attribution qui conclut à la régularité de l’offre de base et de la variante. Au terme d’un processus de comparaison égalitaire de l’offre de base et de la variante, sur la base des mêmes critères d’attribution, le rapport conclut au caractère économiquement le plus avantageux de l’offre de base relative au Green Aircraft proposé par la société TEXTRON AVIATION INC.
+Par conséquent, ce rapport propose à l’ordonnateur compétent d’attribuer la phase 1 du marché au consortium SABENA-SONACA pour l’offre de base et de confirmer le déphasage du marché tel que présenté au point 7 de la présente note d’observations […] ».
+2. Le 4 décembre 2025, la requérante écrit au ministre de la Défense pour se plaindre du déroulement de la procédure de passation, dont elle affirme qu’il serait incompatible avec les règles normalement applicables en matière de passation des marchés publics.
+3. Le 23 décembre 2025, le Conseil des ministres approuve l’attribution de la phase 1 du marché.
+VIexturg - 23.645 - 5/23
+À la même date, le ministre de la Défense attribue la phase 1 du marché au consortium SABENA ENGINEERING-SONACA.
+4. Par courrier du même jour, le ministre de la Défense répond en ces termes au courrier de la requérante du 4 décembre 2025 (traduction libre de l’anglais) :
+« Nous vous remercions pour votre lettre du 4 décembre 2025 concernant le marché public 24AC004 relatif à l’acquisition d’avions SOF Air FW par la Défense belge.
+Soyez assuré(e) que votre lettre a reçu toute notre attention et a fait l’objet d’un examen juridique et procédural approfondi. À la suite de cet examen, nous concluons que, bien que ce marché de défense relève de l’article 346 du Traité sur le fonctionnement de l’Union européenne – qui accorde aux États membres une plus grande latitude par rapport aux règles habituelles des marchés publics – les principes fondamentaux de transparence, d’égalité de traitement et de concurrence loyale ont été pleinement respectés tout au long du processus.
+Nous tenons à souligner que, conformément au cadre réglementaire applicable, le consortium Sabena Engineering/Sonaca est le seul soumissionnaire pour ce marché et que la Défense belge n’a aucune relation contractuelle ni de contacts directs avec d’éventuels sous-traitants. Par conséquent, le consortium est le seul interlocuteur pertinent pour la Défense. Dans ce contexte, nous confirmons que toutes les décisions et informations pertinentes de la Défense ont été officiellement communiquées au consortium par les voies appropriées.
+Concernant les éléments de haute qualité de la proposition de votre client mentionnés dans votre lettre, nous avons considéré qu’ils ont été dûment pris en compte lors de l’évaluation et que l’offre a été jugée conforme. Toutefois, nous souhaitons attirer votre attention sur le fait que ces aspects s’inscrivaient dans un ensemble de critères plus large, établi pour mesurer les exigences opérationnelles de la Défense belge.
+Veuillez également noter que le déploiement progressif n’a pas modifié l’objectif final du contrat, à savoir la livraison de « Mission Aircrafts », qui demeurent les seuls produits à fournir par le consortium Sabena Engineering/Sonaca, unique soumissionnaire dans cette procédure.
+Pour toute autre question ou remarque, nous vous invitons à les adresser directement au consortium, car il est le seul interlocuteur de la Défense belge ».
+Il s’agit de l’acte attaqué.
+IV. Recevabilité
+IV.1. Thèses des parties
+A. Thèse de la requérante
+La requérante soutient que l’acte attaqué comporte la décision de ne pas la sélectionner. Elle souligne qu’en application de l’article 46 de la loi du 17 juin 2013, toute personne ayant ou ayant eu un intérêt à obtenir le marché et ayant été ou risquant   VIexturg - 23.645 - 6/23
+d’être lésée par la violation alléguée peut solliciter la suspension d’une décision de l’entité adjudicatrice.
+Elle soutient qu’elle a « introduit une candidature dans le délai imparti par le pouvoir adjudicateur » et qu’elle a donc un intérêt direct à être sélectionnée et à pouvoir déposer une offre, ce qui suffit à justifier son intérêt à agir. Elle se réfère encore à un arrêt Amec Spie Belgium, n° 152.174 du 2 décembre 2005 de l’assemblée générale de la section du contentieux administratif du Conseil d’État, selon lequel la décision de non-sélection, pour le candidat évincé, n’est pas une simple mesure préparatoire mais une « décision préalable » produisant des effets juridiques définitifs, en le privant de toute possibilité de participer au marché et lui fait directement grief.
+Sur cette base, la requérante conclut que l’acte attaqué la lèse directement.
+Elle estime disposer d’un intérêt certain à en poursuivre l’annulation et la suspension, dès lors que « ces mesures lui permettront de retrouver une chance de se voir attribuer le marché ».
+Dans sa note d’audience et à l’audience, la requérante soutient que la qualité pour agir ne dépend pas de sa qualification de « sous-traitant » ou de « soumissionnaire », mais de l’existence d’un effet direct, personnel et défavorable de l’acte attaqué. Elle fait valoir que le constructeur de l’avion est, en réalité, l’opérateur économique décisif pour l’objet principal du marché, représentant l’essentiel de la valeur et de la fonctionnalité du marché, et qu’il est en l’espèce artificiel de la réduire à un « simple sous‑traitant ».
+Elle rappelle que, selon la jurisprudence, l’opérateur qui n’a pas pu déposer offre parce qu’il en a été empêché par des conditions du marché qu’il conteste, peut néanmoins satisfaire à la condition d’intérêt à obtenir le marché. Elle soutient que la requérante a été illégalement empêchée de participer directement à la procédure, en raison d’une condition de localisation en Belgique depuis dix ans imposée au contractant principal.
+Elle affirme n’avoir eu d’autre choix que de « soumettre son offre par l’intermédiaire du consortium SABENA-SONACA ». Elle souligne qu’en pratique, le pouvoir adjudicateur a traité directement avec elle comme si elle était un véritable soumissionnaire (réunions directes, questions techniques, visite sur site, évaluation spécifique de son offre, lettre du 23 décembre 2025).
+Elle en déduit que lui nier la qualité pour agir au motif de son statut de sous‑traitant revient à permettre au pouvoir adjudicateur de soustraire ses décisions de passation au contrôle juridictionnel « par un raisonnement circulaire ».
+VIexturg - 23.645 - 7/23
+Selon la requérante, la lettre ministérielle du 23 décembre 2025 constitue une décision administrative affectant directement les droits subjectifs de la requérante.
+Elle confirme en effet que son offre, bien que conforme, n’est pas retenue, sur la base de critères qualitatifs non communiqués.
+Elle soutient que c’est le pouvoir adjudicateur, et non le consortium SABENA-SONACA, qui a de facto opéré le choix du constructeur de l’avion, et que la décision de rejet provient donc d’une autorité publique dans le cadre de la procédure de passation.
+Dans ces circonstances, la requérante estime que lui refuser la qualité pour agir créerait un déni de protection juridictionnelle effective, puisqu’elle est directement affectée par une décision qu’elle ne pourrait pas contester.
+IV.2. Appréciation du Conseil d’État
+La partie adverse soutient que la requérante n’est intervenue dans la procédure qu’en qualité de sous-traitante d’un soumissionnaire, et qu’elle ne peut dès lors solliciter la suspension de l’acte attaqué sur le fondement de l’article 47 de la loi du 17 juin 2013.
+Dans ses écrits et à l’audience, la requérante insiste sur les spécificités de l’affaire. Elle réfute, au regard du rôle essentiel joué par le fournisseur du « green aircraft » dans le cadre du marché concerné, pouvoir être considérée comme un simple sous-traitant du consortium SABENA ENGINEERING-SONACA. Elle insiste à cet égard sur le fait qu’aucune entreprise belge n’est en mesure de fournir un avion ayant les spécificités techniques exigées. De son point de vue, elle doit être considérée comme un véritable soumissionnaire, exerçant l’ensemble des droits et des prérogatives que la loi du 17 juin 2016 et la loi du 17 juin 2013 réservent aux opérateurs économiques ayant déposé une offre.
+En toute hypothèse, elle souligne qu’elle doit pouvoir disposer du droit de contester une disposition des documents du marché qui, de manière irrégulière, l’empêche de participer à une procédure de passation.
+A. Principes applicables
+L’article 47 de loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions est applicable aux marchés publics   VIexturg - 23.645 - 8/23
+relevant de la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité et qui atteignent les seuils européens. Il dispose que l’instance de recours peut ordonner la suspension de l’exécution des décisions prises par les autorités adjudicatrices dans les mêmes conditions que celles visées à l’article 46 de la même loi, c’est-à-dire pour autant, d’une part, que le recours soit introduit par une personne qui a, ou a eu, un intérêt à obtenir le marché et, d’autre part, que les violations alléguées aient lésé, ou risqué de léser, la partie requérante.
+La condition d’avoir, ou d’avoir eu, un intérêt à obtenir le marché est en principe remplie pour l’opérateur économique qui a déposé une offre en vue d’obtenir le marché. En revanche, l’opérateur économique qui n’a pas soumissionné ne satisfait pas à cette condition, sauf dans l’hypothèse où il a été empêché de participer à la procédure de passation et de déposer offre pour des raisons qu’il estime devoir critiquer.
+Ces conditions de recevabilité des recours introduits sur le fondement de la loi précitée du 17 juin 2013 résultent de la transposition de l’article 1er, § 3, de la directive 89/665/CEE du Conseil, du 21 décembre 1989 ‘portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de passation des marchés publics de fournitures et de travaux’. Elles transposent également l’article 55, § 4, de la directive 2009/81/CE
+du Parlement européen et du Conseil du 13 juillet 2009 ‘relative à la coordination des procédures de passation de certains marchés de travaux, de fournitures et de services par des pouvoirs adjudicateurs ou entités adjudicatrices dans les domaines de la défense et de la sécurité, et modifiant les directives 2004/17/CE et 2004/18/CE’.
+La Cour de Justice de l’Union européenne a déjà jugé qu’il découle de er l’article 1 , § 3, de la directive 89/665/CEE que la participation à une procédure de passation d’un marché public peut, en principe, valablement constituer une condition dont la satisfaction est requise pour établir que la personne concernée justifie d’un intérêt à obtenir le marché ou risque de subir un préjudice du fait du caractère prétendument illégal de la décision de l’attribuer (CJUE, Grossmann Air Service, 12
+février 2004, C-230/02, (ECLI:EU:C:2004:93), point 27 ; CJUE, 28 novembre 2018, Amt Azienda Trasporti e Mobilità, C-328/17, (ECLI:EU:C:2018:958), point 46).
+Elle a toutefois précisé que, dans l’hypothèse où une entreprise « n’a pas présenté une offre en raison de la présence de spécifications prétendument discriminatoires dans les documents relatifs à l’appel d’offres ou dans le cahier des charges, lesquelles l’auraient précisément empêchée d’être en mesure de fournir l’ensemble des prestations demandées », elle doit être « en droit d’exercer un recours   VIexturg - 23.645 - 9/23
+directement à l’encontre desdites spécifications, et ce avant même que n’intervienne la clôture de la procédure de passation du marché public concerné » (CJUE, Grossmann Air Service, précité, point 28 ; CJUE, Amt Azienda Trasporti e Mobilità, précité, point 47).
+Dans le même arrêt, la Cour a jugé que le fait pour un opérateur économique de ne pas introduire un recours contre une décision du pouvoir adjudicateur fixant les spécifications d’un marché, dans la mesure où celles-ci l’empêchent de participer utilement à la procédure visant à sa passation, et d’attendre la notification de la décision d’attribution de ce marché pour contester celle-ci devant l’instance de recours et invoquer l’irrégularité desdites spécifications, ne correspond pas aux objectifs de rapidité et d’efficacité de la directive 89/665/CEE. Selon la Cour, « un tel comportement, dans la mesure où il est susceptible de retarder sans raison objective l’introduction des procédures de recours, dont la mise en œuvre a été imposée aux États membres par la directive 89/665, est de nature à nuire à l’application effective des directives communautaires en matière de passation de marchés publics ». (CJUE, Grossmann Air Service, précité, points 38 et 39).
+Concernant les délais de recours applicables, il ressort de la lecture combinée des articles 46, 47 et 55, §§ 1er et 3, de la loi du 17 juin 2013 que la demande de suspension d’une décision prise par une autorité adjudicatrice, « y compris celles portant des spécifications techniques, économiques et financières discriminatoires », doit, à peine d’irrecevabilité, être introduite dans un délai de quinze jours « à compter de la publication, de la communication ou de la prise de connaissance de l’acte, selon le cas ».
+Lorsqu’un acte ne doit être ni publié, ni notifié, le délai de recours débute au moment où la partie requérante prend une connaissance suffisamment effective de l’acte qu’elle entend contester, et non au moment où elle acquiert la conviction de son irrégularité.
+B. Application au cas d’espèce
+Au vu de l’argumentation de la requérante, il convient de déterminer, en premier lieu, en quelle qualité elle est intervenue dans la procédure de passation, celle-
+ci ayant une incidence sur la recevabilité de son recours.
+Le guide de sélection contient les définitions suivantes, qui sont utiles à la compréhension de l’objet du marché et des conditions imposées pour y participer :
+VIexturg - 23.645 - 10/23
+« - Green Aircraft : l’aéronef non modifié, tel que produit par le fabricant d’équipement d’origine (OEM).
+[…]
+- I-ISS : Initial In Service Support […]
+- Integrator : l’Integrator est responsable du développement et de l’intégration du réseau de systèmes de mission dans le Green Aircraft. Le réseau de systèmes de mission est le cœur du système et garantit que tous les capteurs et systèmes (d’armes) peuvent fonctionner ensemble de manière intégrée.
+[…]
+- (M)DOA : (Military) Design Organization Approval, délivré par une autorité de navigabilité reconnue.
+[…]
+- Mission Aircraft : un Green Aircraft modifié, sur lequel tous les capteurs et systèmes (y compris les systèmes de communication, l’armement et les systèmes d’autoprotection, le cas échéant) ont été intégrés par l’Integrator.
+- MRO : L’entité de maintenance, de réparation et de révision (Maintenance, Repair & Overhaul) est une entité certifiée qualifiée pour effectuer la maintenance, les réparations et les révisions d’un aéronef, d’un moteur ou d’accessoires. Le MRO
+doit être reconnu à cette fin par l’EASA, la FAA ou une autorité équivalente reconnue par la BMAA.
+- OEM : Original Equipment Manufacturer (fabricant d’équipement d’origine)
+- Prime Contractor : il est la partie mandatée du consortium et agit en tant que son représentant. Il est le point de contact central en matière de défense.
+[…]
+- STOL : Short Take-Off & Landing (décollage et atterrissage courts) ».
+Le guide de sélection étant déposé à titre confidentiel par la partie adverse, il sera simplement relevé que le marché a pour objet, en substance, la désignation d’une entreprise ou d’un consortium d’entreprises chargé :
+- de fournir des « mission aircraft » correspondant aux prescriptions du marché, ce qui implique au préalable le choix et l’acquisition de « green aircraft », auxquels sont ensuite intégrés les capteurs et systèmes choisis par la partie adverse ;
+- de procurer un soutien « I-ISS » (fourniture de pièces de rechange, entretien et soutien à l’ingénierie) pendant une période de quatre ans, à compter de la date d’acceptation du premier aéronef ;
+- de former notamment « les pilotes, le commandant de mission, les opérateurs de capteurs, les techniciens et le personnel de soutien ».
+Le guide de sélection comprend en outre les conditions suivantes, concernant l’organisation de l’entreprise ou du consortium d’entreprises souhaitant participer à la procédure de passation :
+« Les demandes de participation peuvent être introduites soit par une seule entreprise, soit par un ensemble d’entreprises (ci-après dénommé “consortium”)
+prenant la forme d’une association temporaire ou d’un autre partenariat. Tous les membres du consortium doivent être une société belge ayant son siège social en   VIexturg - 23.645 - 11/23
+Belgique depuis au moins dix (10) ans, conformément à la législation belge. Sauf indication contraire, la société ou le consortium est désigné dans le présent document par le terme “candidat”.
+Les caractéristiques suivantes peuvent, mais ne doivent pas nécessairement, être réunies au sein d’une seule entreprise. Toutefois, dans le cas d’un consortium, les caractéristiques suivantes doivent être présentes dans la combinaison proposée :
+1. Prime Contractor : il est la partie mandatée du consortium et agit en tant que son représentant. Il est le point de contact central en matière de défense. Ce Prime Contractor doit être une société belge qui, en vertu du droit belge, a son siège social en Belgique depuis au moins dix (10) ans. En outre, le Prime Contractor doit être lui-même un Integrator ou, s’il n’est pas l’Integrator, doit au moins disposer d’un certificat d’approbation (M)DOA. Ce certificat (M)DOA doit être valide à la date de la demande de participation et soumis à l’Administration contractante dans le cadre de la demande de participation.
+2. Integrator : il doit s’agir d’une société belge ayant son siège social en Belgique depuis au moins 10 ans, conformément à la législation belge. L’Integrator est responsable du développement et de l’intégration du réseau de systèmes de mission dans le Green Aircraft. Le réseau de systèmes de mission est le cœur du système et garantit que tous les capteurs et systèmes (d’armes) peuvent fonctionner ensemble de manière intégrée.
+3. MRO : il doit s’agir d’une société belge dont le siège social est situé en Belgique depuis au moins 10 ans, conformément à la législation belge. Le MRO doit disposer d’un certificat EASA Part-145 valide (ou équivalent). Ce certificat doit être valide à la date de la demande de participation et soumis au Pouvoir adjudicateur dans le cadre de la demande de participation.
+4.(M)DOA : dans le consortium proposé, au moins l’une des parties doit disposer d’un certificat (M)DOA détenu par une société belge ayant son siège social en Belgique depuis au moins dix ans, afin de pouvoir développer un (Military)
+(Supplemental) Type Certificate (M)(S)TC. Ce certificat (M)DOA sera délivré conformément à la réglementation EASA Part 21J, ou l’équivalent délivré par une autorité compétente reconnue par la BMAA.
+Si le candidat n’est pas encore titulaire d’un tel certificat à la date de la demande de participation, il doit démontrer qu’il a déposé la demande d’obtention de ce certificat, sous la forme d’un Initial Investigation Information Package, auprès de l’autorité ou des autorités compétentes au plus tard le 26 janvier 2024 (date d’approbation du dossier par le Conseil des Ministres). Une liste des autorités approuvées par la BMAA figure à l’annexe B.
+Le champ d’application du DOA (M)DOA doit comprendre au moins les éléments suivants :
+[…]
+Outre les responsabilités spécifiques exclusivement réservées au candidat belge (une seule entreprise belge ou les entreprises belges composant le consortium)
+telles que décrites ci-dessus (Prime Contractor / Integrator / MRO / (M)DOA), le candidat est également autorisé à travailler avec des sous-traitants (étrangers)
+supplémentaires (UE ou non-UE), par exemple pour la production et la livraison de l’avion (l’OEM), la formation et l’entraînement du personnel, les capteurs, les logiciels, les radios, etc. Toutes les dispositions relatives à l’accès des sous-traitants de pays tiers en dehors de l’UE s’appliquent sans préjudice aux sous-traitants et fournisseurs étrangers non-membres de l’UE (article 21 de la Loi).
+[…]
+VIexturg - 23.645 - 12/23
+Dans le cadre du présent marché, le candidat (ou l’un des membres du consortium dans le cas où le candidat est un consortium) agira en tant que Prime Contractor vis-à-vis du Pouvoir adjudicateur et devra, pendant toute la durée et les différentes étapes du présent contrat :
+- Veiller à ce que les divers capteurs, systèmes de communication et […] soient intégrés dans un réseau de systèmes de mission de qualité, même si ces divers composants et capteurs sont fournis par diverses entités telles que l’Integrator, l’OEM et d’autres sous-traitants et fournisseurs.
+- Veiller à ce que le réseau des systèmes de mission soit intégré avec succès dans le Green Aircraft ;
+- Pouvoir répondre rapidement, efficacement et effectivement à l’évolution des besoins et des opportunités qui se présentent sur le marché en s’appuyant sur une capacité de recherche et développement performante qui veille à la compatibilité et à l’interopérabilité des différents capteurs et systèmes (communications, armements, systèmes d’autodéfense).
+- Accorder l’attention nécessaire à l’assurance de la qualité dans toutes les phases du présent marché et tout au long des processus de recherche, de développement, de production, de distribution et de service après-vente.
+[…] »
+Sur le plan de l’accès à cette procédure de passation, la partie adverse, se fondant sur l’article 346 du TFUE, a donc imposé que l’entreprise candidate, ou les entreprises qui constituent le consortium candidat, soient des sociétés belges ayant leur siège social en Belgique depuis au moins dix ans. En revanche, l’entreprise ou le consortium en question est autorisé à sous-traiter certains aspects du marché à des opérateurs économiques situés dans ou en dehors de l’Union européenne. Ils sont notamment autorisés à recourir à des sous-traitants étrangers « pour la production et la livraison de l’avion (l’OEM) ».
+En application des documents du marché, la requérante – qui est une société dont le siège social est sis au Canada – n’était pas dans les conditions pour solliciter une participation à la procédure de passation. Elle n’a dès lors pas reçu de proposition en ce sens de la partie adverse.
+Son implication dans la procédure de passation résulte uniquement de ses liens contractuels avec le consortium SABENA ENGINEERING-SONACA, qui lui a proposé d’être l’« OEM » fabriquant les « green aircraft », dont la livraison était nécessaire pour ultérieurement fournir à la partie adverse des « mission aircraft »
+conformes aux exigences du marché.
+Concrètement, la requérante, dans le cadre des relations contractuelles qu’elle entretient avec le consortium SABENA ENGINEERING-SONACA, a proposé un aéronef à ce dernier, qui a intégré cette proposition dans la variante de son offre à la partie adverse.
+VIexturg - 23.645 - 13/23
+Elle n’est dès lors intervenue dans la procédure de passation qu’en tant que (potentielle) sous‑traitante du consortium SABENA ENGINEERING-SONACA, qui seul pouvait se porter candidat à l’attribution du marché. En cela, la situation de la requérante ne peut être comparée à celle ayant conduit à l’arrêt d’assemblée Amec Spie Belgium, n° 152.174 du 2 décembre 2005, qu’elle cite dans sa requête. Dans cette autre affaire, la requérante s’était portée candidate à l’appel d’offres restreint publié par le pouvoir adjudicateur.
+Le fait que, dans le cadre de la procédure, la partie adverse a décidé elle-
+même du « green aircraft » répondant le mieux aux exigences du marché n’a pas d’incidence à cet égard. La partie adverse s’est limitée en effet, ce faisant, à opérer un choix entre l’offre principale et la variante proposée par le consortium SABENA
+ENGINEERING-SONACA, seul soumissionnaire autorisé à remettre une offre. Elle ne s’est pas prononcée sur une candidature ou une offre de la requérante.
+Les arguments que la requérante énonce pour présenter la livraison de « green aircraft » comme l’objet principal du marché – ce qui aurait selon elle une incidence sur la recevabilité de son recours – ne peuvent être suivis. Ils reviennent à nier, d’une part, l’important pouvoir d’appréciation dont dispose le pouvoir adjudicateur dans la détermination de cet objet et, d’autre part, le fait que le marché concerne à la fois, la livraison de « mission aircraft », un soutien « I-ISS » pendant quatre ans et des formations pour le personnel concerné. Il n’appartient pas à la requérante de décider que la partie adverse aurait pu faire d’autres choix, l’autorisant à soumissionner directement, dans l’organisation de cette commande. La requérante n’affirme pas, ni a fortiori ne démontre, que la partie adverse aurait commis une erreur manifeste d’appréciation en organisant la procédure comme elle l’a fait.
+Ni la participation de la requérante à certaines réunions techniques, ni le rôle important du « green aircraft » dans la configuration du « mission aircraft » n’ont par ailleurs pour effet de conférer à la requérante la qualité de candidate ou de soumissionnaire.
+Puisqu’elle n’est pas un opérateur économique ayant déposé une demande de participation ou une offre, la requérante n’a pas eu un intérêt à obtenir le marché.
+Elle n’est dès lors pas recevable à contester, sur le fondement de la loi du 17 juin 2013
+relative à la motivation, à l'information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions, les décisions qui, dans le cadre de la procédure de passation, visent à son attribution.
+VIexturg - 23.645 - 14/23
+En sa qualité d’opérateur économique, la requérante doit toutefois pouvoir disposer, dans le cadre des procédures prévues par la loi du 17 juin 2013 précitée, de la possibilité de contester la régularité des dispositions des documents du marché qui ne lui permettent pas de déposer utilement une offre.
+Sous cet angle, le recours introduit par la requérante n’est toutefois pas non plus recevable.
+En premier lieu, la requérante donne pour objet à son recours la décision contenue dans le courrier du ministre de la Défense du 23 décembre 2025 qui, selon elle, contient la décision de ne « pas sélectionner la candidature de la requérante et de [la] tenir […] à l’écart […] du marché ».
+Ce courrier ne contient toutefois pas une telle décision. Le courrier du 23
+décembre 2025, qui est une réponse à la correspondance de la requérante du 4
+décembre 2025, se limite à affirmer que, dans le cadre de la procédure de passation en cause, les principes fondamentaux de la législation sur les marchés publics ont été respectés, que « le consortium SABENA ENGINEERING-SONACA est le seul soumissionnaire pour ce marché et que la Défense belge n’a aucune relation contractuelle ni de contacts directs avec d’éventuels sous-traitants » et que l’offre de ce consortium a été « jugée conforme » en ce qu’elle contenait la proposition d’avion de la requérante. Cette correspondance, qui explique que le consortium SABENA
+ENGINEERING-SONACA est le seul soumissionnaire du marché et que la Défense n’a aucune relation directe avec la requérante, décrit une réalité existante. Il ne modifie pas l’ordonnancement juridique.
+La requérante ne s’est pas concrètement portée candidate à l’attribution du marché. Aucune décision n’a donc été prise – ni ne doit être prise – concernant une telle candidature.
+Ce courrier du ministre, à supposer qu’il soit attaquable dans le cadre de la loi du 17 juin 2013, n’est pas l’acte qui empêche la requérante de se porter candidate à la procédure de passation. Cette impossibilité résulte uniquement et directement des conditions contenues dans le guide de sélection, qui n’est pas l’objet de la requête en suspension.
+En deuxième lieu, s’agissant d’une procédure négociée sans publication préalable, les documents du marché ne devaient pas être publiés. La requérante ne devait par ailleurs pas en recevoir une communication de la part de la partie adverse.
+En ce qui la concerne, le délai de recours contre les dispositions du guide de sélection débutait donc le jour où elle a pris connaissance de ce document.
+VIexturg - 23.645 - 15/23
+La requérante admet, dans sa requête, avoir été informée des dispositions du guide de sélection en avril 2024, lorsqu’elle a accepté « de fournir l’exclusivité au consortium SABENA ENGINEERING et SONACA, sous certaines conditions, notamment : […] [que] la requérante aurait accès aux documents d’appel d’offres et à la proposition d’appel d’offres préparés pour la Défense belge […] ». La requérante confirme à l’audience avoir eu connaissance du guide de sélection, qu’elle dépose d’ailleurs à l’appui de son recours.
+La requérante connait donc, depuis qu’elle a conclu un accord avec le consortium SABENA ENGINEERING-SONACA, les conditions excluant notamment la participation au marché d’opérateurs économiques n’ayant pas leur siège social en Belgique depuis au moins 10 ans.
+Conformément à l’article 55 de la loi du 17 juin 2013, si la requérante entendait obtenir la suspension de ces conditions elles-mêmes, qui l’empêchent d’introduire une demande de participation, elle devait introduire son recours dans les quinze jours de la prise de connaissance des dispositions concernées du guide de sélection. Un tel recours n’a pas été introduit.
+En troisième lieu, la requérante ne peut pas contester à titre incident les dispositions du cahier des charges à l’occasion d’un recours introduit contre la décision d’attribution ou contre d’autres actes intervenus en cours de procédure de passation.
+Dans l’arrêt Labonorm, n° 152.173 prononcé le 2 décembre 2005 par l’assemblée générale de la section du contentieux administratif (ECLI:BE:RVSCE:2005:ARR.152.173), le Conseil d’État a certes jugé « que la faculté d'introduire immédiatement un recours en annulation et une demande en suspension contre la décision d'adopter le cahier spécial des charges n'empêche pas que les irrégularités qu'un soumissionnaire reproche à une prescription de ce cahier puissent encore être invoquées de manière recevable contre des décisions ultérieures prises dans le cadre de la procédure de passation ; qu’à l’appui de son recours contre les décisions attaquées, la partie requérante peut, dès lors, invoquer l’illégalité du cahier spécial des charges, même si devant le Conseil d'État, elle n'a pas attaqué en tant que telle la décision d'adopter le cahier spécial des charges ».
+Cet enseignement ne s’applique toutefois que lorsqu’un opérateur économique est un candidat ou un soumissionnaire, c’est-à-dire lorsqu’il a participé, en cette qualité, à la procédure d’attribution. Or, comme rappelé ci-avant, la requérante n’a pas introduit une demande de participation à la procédure de passation   VIexturg - 23.645 - 16/23
+en cause, et n’y est intervenue qu’en tant que sous-traitante du consortium SABENA
+ENGINEERING-SONACA.
+Elle n’a, de ce fait, pas eu un intérêt à obtenir le marché, et n’est pas recevable à contester la décision d’attribution.
+Elle ne peut donc, corrélativement, invoquer utilement l’enseignement de l’arrêt Labonorm pour contester, par le biais d’un recours contre la décision d’attribution, les dispositions du guide de sélection.
+En quatrième lieu, la requérante ne développe en toute hypothèse, dans sa requête, aucun moyen visant à contester la régularité des dispositions du guide de sélection qui réservent la procédure de passation à des entreprises ayant leur siège social en Belgique, alors que ce sont ces dispositions qui empêchent qu’elle se porte candidate.
+Elle n’a invoqué une violation de l’article 346 du TFUE qu’à l’occasion de sa note de plaidoirie, déposée le 26 janvier 2026. Cet argument – qui aurait pu être soulevé dans la requête et ne l’a pas été – est toutefois irrecevable.
+Les violations alléguées dans les moyens soulevés dans la requête ne sont pas relatives à l’exigence que l’entreprise ou le consortium candidat ait son siège social en Belgique. Le premier moyen vise ainsi à contester l’utilisation d’une procédure négociée sans publication préalable. Le deuxième moyen déplore l’absence d’un avis relatif à l’attribution du marché et d’une décision justifiant le recours à une procédure négociée. Le troisième moyen reproche à la partie adverse d’avoir violé le principe de transparence en modifiant, en cours de procédure de passation, certaines spécifications techniques.
+La requérante n’est pas recevable à invoquer ces violations qui, à les supposer avérées, ne l’ont pas lésée ou n’ont pas pu la léser.
+Compte tenu de ce qui précède, le recours ne répond pas aux conditions de recevabilité énoncées par l’article 46 de la loi du 17 juin 2013. Il est dès lors irrecevable.
+Contrairement à ce qu’affirme la requérante, le constat de l’irrecevabilité de son recours n’implique pas une violation du droit à un recours effectif.
+L’article 47 de la loi du 17 juin 2013 ouvrait à la requérante un recours efficace et rapide contre l’acte du pouvoir adjudicateur l’empêchant de participer à la   VIexturg - 23.645 - 17/23
+procédure de passation. Comme le requièrent les directives 89/665/CEE et 2009/81/CE, cette loi vise à aménager un équilibre entre l’effectivité des recours juridictionnels ouverts aux opérateurs économiques contre les décisions des pouvoirs adjudicateurs et la nécessité de faire en sorte que l’exercice de ces recours ne compromette pas indéfiniment la bonne fin de la passation ou de l’exécution des marchés. Le respect des conditions de recevabilité prévues par la loi pour l’introduction des recours est inhérent au maintien de cet équilibre.
+V. Extension de l’objet du recours
+V.1. Thèse de la requérante
+Dans une note d’audience déposée le 26 janvier 2026, la requérante sollicite en ces termes une extension de l’objet de la requête :
+« Lorsque la partie requérante a introduit sa requête en annulation et en suspension, elle n’avait pas été informée que le marché avait été attribué à Textron par l’intermédiaire du consortium Sabena–Sonaca. Ce n’est qu’après avoir obtenu un accès partiel au dossier administratif que la partie requérante a pris connaissance de la décision d’attribution prétendument motivée adressée à Sabena–Sonaca (et, en définitive, à Textron) le 27 décembre 2025.
+Au moment de l’introduction de la requête, la partie requérante ne pouvait raisonnablement pas contester cette décision, dès lors qu’elle ignorait jusqu’à l’existence même de celle-ci. La lettre adressée par la partie requérante au ministère de la Défense le 4 décembre 2025 […] confirme qu’à cette date, la partie requérante croyait encore qu’aucune décision n’avait été prise.
+[…] Dès lors que le ministère de la Défense n’a pas notifié à la partie requérante l’attribution du marché, que ce soit à son profit ou à celui d’un concurrent, la partie requérante s’est réservé le droit de modifier sa requête en annulation et en suspension dès qu’elle serait informée de l’attribution illégale du marché à un concurrent.
+La partie requérante sollicite désormais l’autorisation de modifier sa requête en annulation et en suspension en conséquence, ayant appris le 21 janvier 2026
+l’attribution illicite du marché à Textron par l’intermédiaire du consortium Sabena–Sonaca.
+[…] La partie adverse soutient en outre que la partie requérante aurait dû avoir connaissance de la décision d’attribution par le biais de communiqués de presse annonçant que le marché avait été attribué à Sabena–Sonaca. Ces communiqués identifiaient toutefois uniquement le consortium comme adjudicataire et ne précisaient pas quel constructeur d’avions avait été sélectionné pour fournir le ministère de la Défense. Dès lors, la partie requérante ne pouvait déduire de ces communiqués que sa propre offre n’avait pas été retenue, ni qu’elle était tenue de contester des documents ne constituant pas une décision au sens juridique du terme.
+En outre, ces communiqués de presse sont datés du 24 décembre 2025, tandis que la décision d’attribution sélectionnant Textron par l’intermédiaire du consortium Sabena–Sonaca n’a été notifiée que le 27 décembre 2025 (sans copie à la partie requérante). Jusqu’au 21 janvier 2026, la partie requérante n’a reçu aucune   VIexturg - 23.645 - 18/23
+indication selon laquelle un choix entre Textron et elle-même aurait déjà été opéré par le ministère (seul organe décisionnel dans cette procédure). Il ne peut dès lors être reproché à la partie requérante de ne pas avoir identifié les communiqués de presse du 24 décembre — qui ne révélaient rien — comme l’acte attaqué au sens des articles 46 et 47 de la loi du 17 juin 2013.
+Pour toutes ces raisons, la partie requérante a légitimement identifié la lettre du 23
+décembre 2025 comme l’acte attaqué dans sa requête en annulation et en suspension et sollicite l’autorisation d’y ajouter la décision d’attribution du 23
+décembre 2025 dont elle a eu connaissance le 21 janvier 2026. Pour ces deux motifs, la procédure introduite par la partie requérante est recevable ratione materiae ».
+V.2. Appréciation du Conseil d’État
+Il convient de relever que la requérante ne sollicite pas que l’objet de sa requête soit interprété comme visant, en réalité, la décision motivée d’attribution. Elle expose au contraire qu’elle ne pouvait avoir connaissance de cette décision lorsqu’elle a introduit son recours, et réaffirme à de multiples reprises, dans sa note d’audience et à l’audience, que l’acte spécifiquement visé dans sa requête lui cause un grief.
+La requérante introduit donc bien une demande d’extension de l’objet de son recours.
+Selon une jurisprudence constante, une demande d’extension de l’objet du recours ne peut toutefois être accueillie si, comme en l’espèce, la requête dont il est sollicité l’extension de l’objet est irrecevable.
+La demande de la requérante est dès lors rejetée.
+VI. Confidentialité
+VI.1. Demandes des parties
+A. Demandes de la partie adverse
+La partie adverse dépose de nombreuses pièces à titre confidentiel. Elle demande le maintien de cette confidentialité en se fondant sur l’exposé suivant :
+« 58. En application à l’article 42, § 1er, de la loi du 17 juin 2013, ainsi que de l’article 12 de la loi du 13 août 2011, la partie adverse demande que l’ensemble des pièces confidentielles qu’elle a déposées dans le cadre du marché litigieux soient soustraites à la consultation de la partie requérante. La communication de ces pièces est susceptible de porter préjudice aux intérêts commerciaux légitimes et secrets d’affaires de l’adjudicataire provisoire du marché litigieux, ainsi que de ses éventuels sous-traitants et/ou fournisseurs.
+VIexturg - 23.645 - 19/23
+La partie requérante ayant exposé des préoccupations de ses propres intérêts commerciaux dans sa requête, il est raisonnable de supposer que cette volonté de la partie adverse ne sera pas sujette à une quelconque discussion.
+Aussi, la partie adverse précise qu’un certain nombre de pièces du dossier administratif confidentiel sont également déposées dans le dossier administratif “ordinaire”. Dans ce dernier dossier, les passages confidentiels de certains documents ont été rendus illisibles pour les motifs évoqués au présent titre. Cette méthodologie apparaît dans la présente note d’observations par la mention du numéro du dossier administratif confidentiel et du numéro de la version non confidentielle où cela s’avère nécessaire.
+59. La partie adverse demande expressément à votre Conseil de traiter ces pièces de manière confidentielle, et ce, en application de l’article 58 de la loi du 17 juin 2013. Il est en effet inacceptable que la partie requérante ait accès aux pièces du dossier administratif confidentiel, étant donné que ces pièces relèvent du secteur de la défense, concernent les intérêts essentiels de la sécurité belge et tombent sous le champ d’application de l’article 346 TFUE.
+Votre Conseil a d’ailleurs confirmé ce procédé dans son arrêt n° 258.383 du 10
+janvier 2024 : […]
+60. En outre, la confidentialité de tous les documents du dossier administratif confidentiel est également justifiée au regard de l’article 6, § 1er, 4°, de la loi du 11
+avril 1994 relative à la publicité de l’administration. Il est en effet difficile de contester que le marché litigieux vise à équiper la Défense d’avions utilisés dans le cadre d’opérations spéciales. Il sert donc incontestablement la sécurité et la défense du pays.
+Votre Conseil a d’ailleurs déjà statué en référence à cet article de loi en ce qui concerne le matériel de la Défense et la confidentialité des pièces déposées : […]
+61. La partie adverse souhaite également attirer l’attention de votre Conseil sur le fait que certaines pièces du dossier administratif confidentiel – par exemple les pièces confidentielles 3 et 27 – concernent les délibérations du Conseil des ministres. Les documents présentés lors du Conseil des ministres sont confidentiels et les ministres doivent veiller à ce qu’ils le restent. En ce qui concerne l’accès à ces pièces relatives aux délibérations du Conseil des ministres, il est également renvoyé à l’article 6, § 2, 3°, de la loi du 11 avril 1994 précitée, qui s’oppose à leur divulgation. Cette position a également été confirmée lors d’une demande d’explications à ce sujet au Sénat.
+62. En ce qui concerne les avis des inspecteurs généraux des finances (pièces confidentielles 1, 14 et 24), ceux-ci contiennent également des considérations confidentielles relatives à des aspects opérationnels et techniques, ainsi que des estimations budgétaires de la Défense. Il convient donc de traiter ces informations de manière confidentielle afin de préserver les intérêts de l’État.
+La confidentialité de ces avis est reconnue dans la brochure et dans le code déontologique du Corps de l’Inspection des Finances.
+63. Enfin, au vu de sa qualité de sous-traitant (et non de soumissionnaire) dans le présent marché litigieux, la partie requérante n’a pas à connaître des documents du marché, de façon générale pour tous les motifs évoqués dans le présent titre et en particulier en raison du caractère sensible de ce marché et de la protection des intérêts essentiels de sécurité de l’Etat ».
+VIexturg - 23.645 - 20/23
+B. Demandes de la requérante
+La requérante dépose à titre confidentiel ce qu’elle qualifie de « candidature » – en réalité l’offre qu’elle a adressée à la société SABENA-
+ENGINEERING – ainsi que son courrier du 4 décembre 2025 à la partie adverse (pièces 6 et 7).
+La requérante déplore par ailleurs, à l’audience, la quantité de pièces déposées à titre confidentiel par la partie adverse. Selon elle, cette attitude la prive notamment de la possibilité de contester utilement le raisonnement du pouvoir adjudicateur quant à l’application de l’article 346 du TFUE, ce qui porte atteinte à son droit à un recours effectif.
+À l’audience, elle sollicite la levée de la confidentialité des pièces déposées à ce titre par la partie adverse, et plus particulièrement les pièces 7, 8 et 15
+de la partie confidentielle du dossier administratif.
+VI.2. Appréciation du Conseil d’État
+A. Quant aux pièces du dossier administratif
+L’article 58 de la loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions, est rédigé comme suit :
+« L’instance de recours doit garantir un niveau de confidentialité approprié et le droit au respect des secrets d’affaires au regard des informations, le cas échéant classifiées, contenues dans les dossiers qui lui sont communiqués par les parties à la cause, notamment par l’autorité adjudicatrice qui est tenue de déposer l’intégralité du dossier. L’instance de recours peut cependant connaître de telles informations et les prendre en considération. Elle agit dans le respect des intérêts en matière de défense ou de sécurité tout au long de la procédure. Elle décide dans quelle mesure et selon quelles modalités il convient de concilier la confidentialité et le secret de ces informations avec le respect des droits de la défense et de veiller à ce que la procédure respecte, dans son ensemble, le droit à un procès équitable ».
+La requérante estime que son droit au recours effectif nécessite la levée de la confidentialité de certaines pièces du dossier administratif.
+Le recours est toutefois jugé prima facie irrecevable, car il ne remplit pas les conditions énoncées par les articles 46, 47 et 55 de la loi du 17 juin 2013 relative à la motivation, à l’information et aux voies de recours en matière de marchés publics, de certains marchés de travaux, de fournitures et de services et de concessions.
+VIexturg - 23.645 - 21/23
+L’irrecevabilité ainsi constatée est liée aux dispositions du guide de sélection que la partie adverse dépose à titre confidentiel. Il ressort toutefois de la requête et de ses annexes que la requérante a reçu du consortium SABENA
+ENGINEERING-SONACA la copie de ce guide. Elle est dès lors en mesure de discuter utilement de la recevabilité de son recours sans que la confidentialité de cette pièce soit levée.
+En ce qui concerne les autres pièces que la partie adverse dépose à titre confidentiel, la requérante n’a – compte tenu de l’irrecevabilité apparente de son recours, et des causes de cette irrecevabilité – pas d’intérêt procédural à en prendre connaissance, puisque ces pièces ne sont pas utiles à l’examen de la recevabilité du recours.
+Cet intérêt procédural est notamment absent en ce qui concerne la soustraction à la consultation des parties des documents qui expliquent le choix de la partie adverse de recourir à l’article 346 du TFUE, cette question étant liée au fondement d’un moyen, qui n’a du reste pas été valablement soulevé par la requérante.
+Le maintien de la confidentialité des pièces concernées ne porte donc pas atteinte au droit au recours effectif de la requérante.
+La demande de la requérante est dès lors rejetée à ce stade du litige.
+Pour les besoins de la motivation du présent arrêt, celle-ci étant une garantie du procès équitable, la confidentialité du guide de sélection est toutefois levée en ce qui concerne les passages cités plus haut.
+B. Quant aux pièces déposées par la requérante
+La confidentialité des pièces 6 et 7 de la requérante n’est pas contestée par la partie adverse. Il n’y a dès lors pas lieu de la lever.
+Compte tenu du fait que la partie adverse dépose le guide de sélection à titre confidentiel, et que ce guide peut comporter certaines informations sensibles liées à la défense nationale, il convient d’ordonner que la pièce 5 de la requérante – à savoir ce même document – soit soustraite à la consultation des parties.
+VIexturg - 23.645 - 22/23
+PAR CES MOTIFS, LE CONSEIL D’ÉTAT DÉCIDE :
+Article 1er.
+La demande de suspension est rejetée.
+Article 2.
+L’exécution immédiate du présent arrêt est ordonnée.
+Article 3.
+Les pièces suivantes sont, à ce stade du litige, tenues pour confidentielles :
+- les pièces 1 à 29 du dossier administratif (partie confidentielle) ;
+- les pièces 5, 6 et 7 du dossier de la requérante.
+La pièce n° 5 du dossier de la requérante doit être soustraite par le greffe à la consultation des autres parties.
+Article 4.
+Les dépens, en ce compris l’indemnité de procédure, sont réservés.
+Ainsi prononcé à Bruxelles le 5 février 2026, par la VIe chambre du Conseil d’État siégeant en référé, composée de :
+Xavier Close, conseiller d’État, président f.f., Adeline Schyns, greffière.
+La Greffière, Le Président,
+Adeline Schyns Xavier Close
+VIexturg - 23.645 - 23/23
