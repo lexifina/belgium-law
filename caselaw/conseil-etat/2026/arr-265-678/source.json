@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:RVSCE:2026:ARR.265.678",
+  "ecli": "ECLI:BE:RVSCE:2026:ARR.265.678",
+  "court": "Conseil d'État",
+  "court_code": "RVSCE",
+  "decision_date": "2026-02-06",
+  "date_as_printed": "Jugement/arrêt du 06 février 2026",
+  "published_on_juportal": "2026-02-12",
+  "language": "fr",
+  "role_number": "A. 243851/VIII-12822",
+  "case_name_as_published": "Arrêt 265678 - Discipline (fonction publique) - 06/02/2026",
+  "subjects": [
+    "Droit administratif"
+  ],
+  "summary_keywords": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "fiche": [
+    "CONSEIL D'ETAT",
+    "DROIT PUBLIC ET ADMINISTRATIF - CONSEIL D'ÉTAT - Arrêts (Conseil d'État)"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:RVSCE:2026:ARR.265.678",
+  "source_sha256": "edd926aea913024c03767b90089155078b49773ab770cc99ef93d7da09944520",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:RVSCE:2026:ARR.265.678_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/04/sitemap_70.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
