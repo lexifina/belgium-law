@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260206.1F.2",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260206.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-06",
+  "date_as_printed": "Jugement/arrêt du 06 février 2026",
+  "published_on_juportal": "2026-02-20",
+  "language": "fr",
+  "role_number": "C.25.0105.F",
+  "case_name_as_published": "VILLE DE LA LOUVIERE contra W. ET CO s.a.",
+  "subjects": [
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "CONVENTION - FIN",
+    "OVEREENKOMST - EINDE"
+  ],
+  "fiche": [
+    "CONVENTION - FIN"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260206.1F.2",
+  "source_sha256": "d4bc71a44b5e680b951887abdcff1ebf1b5a2aac5cd4d27d72ab54d289ffa9a4",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260206.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/20/sitemap_2.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
