@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260209.3F.4",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260209.3F.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-09",
+  "date_as_printed": "Jugement/arrêt du 09 février 2026",
+  "published_on_juportal": "2026-02-17",
+  "language": "fr",
+  "role_number": "S.23.0069.F",
+  "case_name_as_published": "ONSS contra BESIDE PRODUCTIONS s.r.l.",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "SOCIALE ZEKERHEID - WERKNEMERS"
+  ],
+  "fiche": [
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 342 - 31 Lien ELI No pub 2002021488 L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 344 - 31 Lien ELI No pub 2002021488"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260209.3F.4",
+  "source_sha256": "ba2ad963aecf25e4d656fdb5c7471133f514598b2c9d45d28c5bdfac3f330650",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260209.3F.4_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
