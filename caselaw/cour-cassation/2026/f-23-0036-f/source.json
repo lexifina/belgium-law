@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt F.23.0036.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-02-09",
+  "date_as_printed": "9 FÉVRIER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/F.23.0036.F.pdf",
+  "source_sha256": "194d047b0e2317dc95a2c565e3cf211b8b9c744f913accec1c82c8a4730f7ab2",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
