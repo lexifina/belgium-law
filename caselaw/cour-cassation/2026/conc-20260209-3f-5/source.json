@@ -1,0 +1,34 @@
+{
+  "title": "Conclusion ECLI:BE:CASS:2026:CONC.20260209.3F.5",
+  "ecli": "ECLI:BE:CASS:2026:CONC.20260209.3F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-09",
+  "date_as_printed": "Conclusions du Ministère public du 09 février 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "S.23.0065.F",
+  "case_name_as_published": "ONSS contra ANCHO GROUP s.r.l.",
+  "subjects": [
+    "Droit de la sécurité sociale",
+    "Sociale-zekerheidsrecht"
+  ],
+  "summary_keywords": [
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "SOCIALE ZEKERHEID - WERKNEMERS"
+  ],
+  "fiche": [
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 342 - 31 Lien ELI No pub 2002021488 L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 344 - 31 Lien ELI No pub 2002021488",
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 342 - 31 Lien ELI No pub 2002021488 L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 344 - 31 Lien ELI No pub 2002021488",
+    "SECURITE SOCIALE - TRAVAILLEURS SALARIES",
+    "L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 342 - 31 Lien ELI No pub 2002021488 L.-programme (I) du 24 décembre 2002 - 24-12-2002 - Art. 344 - 31 Lien ELI No pub 2002021488"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:CONC.20260209.3F.5",
+  "source_sha256": "116ac48771f7dfcad4ff29b2433cd54b15cae879021ecf495d837afedaaa5b42",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:CONC.20260209.3F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_31.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
