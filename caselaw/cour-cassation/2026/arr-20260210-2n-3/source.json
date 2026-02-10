@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260210.2N.3",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260210.2N.3",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-10",
+  "date_as_printed": "Vonnis/arrest van 10 februari 2026",
+  "published_on_juportal": "2026-02-17",
+  "language": "nl",
+  "role_number": "P.25.1599.N",
+  "case_name_as_published": "C. contra K.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "CONDAMNATION AVEC SURSIS ET SUSPENSION DU PRONONCE DE LA CONDAMNATION - SURSIS PROBATOIRE",
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - PROBATIEUITSTEL"
+  ],
+  "fiche": [
+    "VEROORDELING MET UITSTEL EN OPSCHORTING VAN DE VEROORDELING - PROBATIEUITSTEL"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260210.2N.3",
+  "source_sha256": "f1d60905da89be76e45c415b2aa539510194fff290e06ee96f6153c373dc9961",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260210.2N.3_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_46.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
