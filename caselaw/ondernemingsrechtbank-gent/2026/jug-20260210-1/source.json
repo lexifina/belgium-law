@@ -1,0 +1,37 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260210.1",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260210.1",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-02-10",
+  "date_as_printed": "Vonnis/arrest van 10 februari 2026",
+  "published_on_juportal": "2026-02-24",
+  "language": "nl",
+  "role_number": "V/25/00179",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "kwalificatie tot boedelschuld van bezettingsvergoeding na faillissement",
+    "kwalificatie boedelschuld bezettingsvergoeding na faillissement",
+    "Plichten curator bij ontruiming huurpand"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "kwalificatie tot boedelschuld van bezettingsvergoeding na faillissement",
+    "Wetboek van economisch recht - 28-02-2013 - XX.139 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "kwalificatie boedelschuld bezettingsvergoeding na faillissement",
+    "Wetboek van economisch recht - 28-02-2013 - XX.139 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Plichten curator bij ontruiming huurpand"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260210.1",
+  "source_sha256": "8e5dfba0233e6a1706b8dcebb0c05a674d9de88438e950777e642251687792f9",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/25/sitemap_8.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
