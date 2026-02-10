@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260210.2N.4",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260210.2N.4",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-10",
+  "date_as_printed": "Vonnis/arrest van 10 februari 2026",
+  "published_on_juportal": "2026-02-17",
+  "language": "nl",
+  "role_number": "P.25.1565.N",
+  "case_name_as_published": "D.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "PREUVE - MATIERE REPRESSIVE - Généralités",
+    "BEWIJS - STRAFZAKEN - Algemeen"
+  ],
+  "fiche": [
+    "BEWIJS - STRAFZAKEN - Algemeen"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260210.2N.4",
+  "source_sha256": "f88ddcafd564e823a67ea62db5d34bfefbcbbca077b0bc9105f0a48b2af18aa8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260210.2N.4_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_45.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
