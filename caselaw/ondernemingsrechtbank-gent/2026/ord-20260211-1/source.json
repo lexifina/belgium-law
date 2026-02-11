@@ -1,0 +1,30 @@
+{
+  "title": "Beschikking ECLI:BE:ORGNT:2026:ORD.20260211.1",
+  "ecli": "ECLI:BE:ORGNT:2026:ORD.20260211.1",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-02-11",
+  "date_as_printed": "Beschikking van 11 februari 2026",
+  "published_on_juportal": "2026-02-24",
+  "language": "nl",
+  "role_number": "O/25/01109",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "machtiging rechter-commissaris bijstand derden / verzoek curator"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "machtiging rechter-commissaris bijstand derden / verzoek curator",
+    "Koninklijk Besluit - 26-04-2018 - 7"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:ORD.20260211.1",
+  "source_sha256": "59689cb8774d536eb576a1254254b52e7ad710c59676d594ef4953b64988d8fd",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/24/sitemap_1.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
