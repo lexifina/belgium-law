@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260212.1N.5",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260212.1N.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-12",
+  "date_as_printed": "Vonnis/arrest van 12 februari 2026",
+  "published_on_juportal": "2026-03-10",
+  "language": "nl",
+  "role_number": "F.24.0084.N",
+  "case_name_as_published": "H. contra BELGISCHE STAAT FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Droit de la famille",
+    "Familierecht"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - IMPOT DES PERSONNES PHYSIQUES - Revenus divers",
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Diverse inkomsten",
+    "DIVORCE ET SEPARATION DE CORPS - PROCEDURE EN DIVORCE - Divorce par consentement mutuel",
+    "ECHTSCHEIDING EN SCHEIDING VAN TAFEL EN BED - ECHTSCHEIDINGSPROCEDURE - Echtscheiding door onderlinge toestemming"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - PERSONENBELASTING - Diverse inkomsten",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1287 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1288 - 04 ELI link Pub nr 1967101055 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 90, eerste lid, 3°",
+    "ECHTSCHEIDING EN SCHEIDING VAN TAFEL EN BED - ECHTSCHEIDINGSPROCEDURE - Echtscheiding door onderlinge toestemming",
+    "Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1287 - 04 ELI link Pub nr 1967101055 Gerechtelijk Wetboek - Deel IV: BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies) - 10-10-1967 - Art. 1288 - 04 ELI link Pub nr 1967101055 Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 90, eerste lid, 3°"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260212.1N.5",
+  "source_sha256": "7f9a422d093529703a722a9cff0b7a011fa3142a838387ee565aa0701e06922e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260212.1N.5_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
