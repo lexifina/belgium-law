@@ -1,0 +1,43 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260212.1N.2",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260212.1N.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-12",
+  "date_as_printed": "Vonnis/arrest van 12 februari 2026",
+  "published_on_juportal": "2026-02-27",
+  "language": "nl",
+  "role_number": "F.24.0042.N",
+  "case_name_as_published": "D. contra BELGISCHE STAAT FINANCIEN",
+  "subjects": [
+    "Droit fiscal",
+    "Belastingrecht",
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Rectification de la déclaration par l'administration",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "ORDRE PUBLIC",
+    "OPENBARE ORDE",
+    "IMPOTS SUR LES REVENUS - ETABLISSEMENT DE L'IMPOT - Cotisation et enrôlement",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag en inkohiering"
+  ],
+  "fiche": [
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 346 Wet 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen - 29-07-1991 - Art. 6 - 36 ELI link Pub nr 1991000416",
+    "OPENBARE ORDE",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 346",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Wijziging door de administratie van een aangifte",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 346",
+    "INKOMSTENBELASTINGEN - AANSLAGPROCEDURE - Aanslag en inkohiering",
+    "Wetboek Inkomstenbelastingen 1992 - 12-06-1992 - Art. 356"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260212.1N.2",
+  "source_sha256": "d68b6c14496251c3093f91c0c9ba4eae1f67517527fda7f783e672602fbbbe89",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260212.1N.2_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_22.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
