@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.021",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.021",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-02-12",
+  "date_as_printed": "Jugement/arrêt du 12 février 2026",
+  "published_on_juportal": "2026-02-23",
+  "language": "fr",
+  "role_number": "21/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives à l'article 497/2, 5°, de l'ancien Code civil, posées par le Tribunal de première instance de Flandre orientale, division de Termonde. Droit civil - Personnes protégées - Action en divorce pour désunion irrémédiable prouvée - Impossibilité de représentation par l'administrateur",
+    "de prejudiciële vragen betreffende artikel 497/2, 5°, van het oud Burgerlijk Wetboek, gesteld door de Rechtbank van eerste aanleg Oost-Vlaanderen, afdeling Dendermonde. Burgerlijk recht - Beschermde personen - Vordering tot echtscheiding op grond van een bewezen onherstelbare ontwrichting - Onmogelijkheid van vertegenwoordiging door de bewindvoerder"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives à l'article 497/2, 5°, de l'ancien Code civil, posées par le Tribunal de première instance de Flandre orientale, division de Termonde. Droit civil - Personnes protégées - Action en divorce pour désunion irrémédiable prouvée - Impossibilité de représentation par l'administrateur"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.021&lang=fr",
+  "source_sha256": "d46edf39935a8484d1ef2f234cf0d93a09591817e99429406ba584cda792a8d9",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.021_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/07/sitemap_98.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
