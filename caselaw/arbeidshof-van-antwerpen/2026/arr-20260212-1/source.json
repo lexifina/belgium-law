@@ -1,0 +1,29 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:AHANT:2026:ARR.20260212.1",
+  "ecli": "ECLI:BE:AHANT:2026:ARR.20260212.1",
+  "court": "Arbeidshof van Antwerpen",
+  "court_code": "AHANT",
+  "decision_date": "2026-02-12",
+  "date_as_printed": "Vonnis/arrest van 12 februari 2026",
+  "published_on_juportal": "2026-02-17",
+  "language": "nl",
+  "role_number": "2020/AA/373",
+  "case_name_as_published": "A.B. tegen ACE PACKAGING NV",
+  "subjects": [
+    "Overige"
+  ],
+  "summary_keywords": [
+    "DESKUNDIGENONDERZOEK",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek - Ereloon"
+  ],
+  "fiche": [
+    "DESKUNDIGENONDERZOEK",
+    "GERECHTELIJK RECHT - RECHTSPLEGING - Bewijs (gerechtelijk recht) - Deskundigenonderzoek - Ereloon"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:AHANT:2026:ARR.20260212.1",
+  "source_sha256": "50020ce6b416a15cd920104b707330ad6bc5aa97f6af1a2e71f62da90f2dc6e8",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:AHANT:2026:ARR.20260212.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/02/17/sitemap_49.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
