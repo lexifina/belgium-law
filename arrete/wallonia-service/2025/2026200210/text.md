@@ -1,0 +1,8 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. Des crédits d'engagement à concurrence de 800 milliers d'EUR et des crédits de liquidation à concurrence de 460 milliers d'EUR sont transférés du programme 114 de la division organique 18 au programme 001 de la division organique 18.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. La ventilation des adresses budgétaires suivantes des programmes 001 et 114 de la division organique 18 du budget général des dépenses de la Région wallonne pour l'année budgétaire 2025 est modifiée comme suit :
+(en milliers d'EUR)
+
+<table border="1"><tr><td valign="top" colspan="3">Adresse budgétaire </td><td valign="top" colspan="2">Crédits initiaux </td><td valign="top" colspan="2">Réallocation </td><td valign="top" colspan="2">Crédits ajustés </td></tr><tr><td valign="top">DO </td><td valign="top">Compte budgétaire (2-5 sec) <br>  </td><td valign="top">Domaine fonctionnel </td><td valign="top">CE </td><td valign="top">CL </td><td valign="top">CE </td><td valign="top">CL </td><td valign="top">CE </td><td valign="top">CL </td></tr><tr><td valign="top">18 </td><td valign="top">81211000 </td><td valign="top">001.066 </td><td valign="top">4 310 </td><td valign="top">3 061 </td><td valign="top">800 </td><td valign="top">460 </td><td valign="top">5 110 </td><td valign="top">3 521 </td></tr><tr><td valign="top">18 </td><td valign="top">83132000 </td><td valign="top">114.004 </td><td valign="top">88 606 </td><td valign="top">72 057 </td><td valign="top">- 800 </td><td valign="top">- 460 </td><td valign="top">87 806 </td><td valign="top">71 597</td></tr></table>
+
+(...)
