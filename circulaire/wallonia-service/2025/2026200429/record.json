@@ -1,0 +1,29 @@
+{
+  "id": "2026200429",
+  "title": "12 DECEMBRE 2025. - Circulaire relative au projet de décret-programme budgétaire portant des mesures diverses : taxe sur la force motrice",
+  "source_title": "12 DECEMBRE 2025. - Circulaire relative au projet de décret-programme budgétaire portant des mesures diverses : taxe sur la force motrice",
+  "act": "circulaire/wallonia-service/2025/2026200429",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-02-06&numac_search=2026200429&page=1&lg_txt=F&caller=list&2026200429=15&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "f5746ffefd4dfa4a624b622f296a68056e59b7c11f0453d625f77175b72a0763",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-12-12",
+  "published": "2026-02-06",
+  "in_force": "2026-02-16",
+  "in_force_basis": "Justel: Entrée en vigueur : 16 février 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "6 février 2026",
+    "Numéro": "2026200429",
+    "page": "5717",
+    "Dossier numéro": "2025-12-12/29",
+    "Entrée en vigueur": "16 février 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 1122,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-02-16"
+}
