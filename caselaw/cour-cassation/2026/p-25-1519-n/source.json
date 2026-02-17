@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.25.1519.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-02-17",
+  "date_as_printed": "17 FEBRUARI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1519.N.pdf",
+  "source_sha256": "221569eadd69621d6682820bd9c774a5ed9d992ea02fab7a5ba100fc3f592aae",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
