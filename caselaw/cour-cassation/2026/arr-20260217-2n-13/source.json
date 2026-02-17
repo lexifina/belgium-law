@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260217.2N.13",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260217.2N.13",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-17",
+  "date_as_printed": "Vonnis/arrest van 17 februari 2026",
+  "published_on_juportal": "2026-02-23",
+  "language": "nl",
+  "role_number": "P.25.0306.N",
+  "case_name_as_published": "A.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht",
+    "Droit fiscal",
+    "Belastingrecht"
+  ],
+  "summary_keywords": [
+    "FAILLITE ET CONCORDATS - INFRACTIONS EN RELATION AVEC LA FAILLITE. INSOLVABILITE FRAUDULEUSE",
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - MISDRIJVEN IN VERBAND MET FAILLISSEMENT, BEDRIEGLIJK ONVERMOGEN",
+    "TAXES ASSIMILEES AUX IMPOTS SUR LES REVENUS",
+    "BELASTINGEN (MET DE INKOMSTENBELASTINGEN GELIJKGESTELDE)"
+  ],
+  "fiche": [
+    "FAILLISSEMENT, FAILLISSEMENTSAKKOORD EN GERECHTELIJK AKKOORD - MISDRIJVEN IN VERBAND MET FAILLISSEMENT, BEDRIEGLIJK ONVERMOGEN",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 489bis, 1° - 01 ELI link Pub nr 1867060850",
+    "BELASTINGEN (MET DE INKOMSTENBELASTINGEN GELIJKGESTELDE)",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 489bis, 1° - 01 ELI link Pub nr 1867060850"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260217.2N.13",
+  "source_sha256": "2861271c58375186956f1d9faea6b84e28345ddb7830d90c66028ca29005d08e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260217.2N.13_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_11.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
