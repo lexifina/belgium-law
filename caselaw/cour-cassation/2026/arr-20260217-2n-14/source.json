@@ -1,0 +1,40 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260217.2N.14",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260217.2N.14",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-17",
+  "date_as_printed": "Vonnis/arrest van 17 februari 2026",
+  "published_on_juportal": "2026-02-23",
+  "language": "nl",
+  "role_number": "P.26.0100.N",
+  "case_name_as_published": "V. contra M.",
+  "subjects": [
+    "Autres",
+    "Overige",
+    "Droit civil",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - MATIERE REPRESSIVE - Décisions contre lesquelles on peut se pourvoir - Action civile - Partie civile",
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Burgerlijke rechtsvordering - Burgerlijke partij",
+    "ACTION CIVILE",
+    "BURGERLIJKE RECHTSVORDERING",
+    "RESPONSABILITE HORS CONTRAT - DOMMAGE - Dommage matériel. Eléments et étendue",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - SCHADE - Materiële schade. Elementen en grootte"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - STRAFZAKEN - Beslissingen vatbaar voor cassatieberoep - Burgerlijke rechtsvordering - Burgerlijke partij",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420, eerste lid - 30 ELI link Pub nr 1808121050",
+    "BURGERLIJKE RECHTSVORDERING",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420, eerste lid - 30 ELI link Pub nr 1808121050",
+    "AANSPRAKELIJKHEID BUITEN OVEREENKOMST - SCHADE - Materiële schade. Elementen en grootte",
+    "Wetboek van Strafvordering - Boek II, Titel III (Art. 407 tot en met 447bis) - 10-12-1808 - Art. 420, eerste lid - 30 ELI link Pub nr 1808121050"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260217.2N.14",
+  "source_sha256": "92958ad610340c2b03e437fd12220d5a03a3cc1a196afb9035dce7c83157ba68",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260217.2N.14_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_10.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
