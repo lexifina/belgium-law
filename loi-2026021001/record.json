@@ -1,0 +1,21 @@
+{
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-02-16&numac_search=2026200237&page=5&lg_txt=F&caller=list&2026200237=3&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+  "source_sha256": "828e3dffa7899e096f97873af01d45e96a74086a0edb57226f661fe43a81e318",
+  "title": "10 février 2026. - Loi modifiant la loi relative aux marchés publics concernant des mesures particulières applicables aux marchés publics pour des projets transfrontaliers liés au réseau transeuropéen de transport",
+  "numac_search": "2026200237",
+  "act_id": "2026021001",
+  "kind": "publisher",
+  "language": "fr",
+  "in_force": "2026-02-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 février 2026",
+  "provisions": 7,
+  "source_tokens": 1631,
+  "text_status": "current consolidated text; oldest version available in this runner pass",
+  "listing": {
+    "url": "https://www.ejustice.just.fgov.be/cgi_loi/list.pl?language=fr&sum_date=&page=5&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+    "sha256": "526e0457595bfb1ab4f8af4e5478451b85b762b86fa657ff4513b49b1b758d0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
