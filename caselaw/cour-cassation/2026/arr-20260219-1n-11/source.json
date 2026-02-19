@@ -1,0 +1,33 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260219.1N.11",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260219.1N.11",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-19",
+  "date_as_printed": "Vonnis/arrest van 19 februari 2026",
+  "published_on_juportal": "2026-03-10",
+  "language": "nl",
+  "role_number": "C.24.0332.N",
+  "case_name_as_published": "AKTUM bv contra V.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "POURVOI EN CASSATION - GENERALITES - DES POURVOIS DANS L'INTERET DE LA LOI -",
+    "CASSATIEBEROEP - ALGEMEEN - CASSATIEBEROEP IN HET BELANG VAN DE WET -"
+  ],
+  "fiche": [
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Algemeen",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Allerlei",
+    "CASSATIEBEROEP - BURGERLIJKE ZAKEN - Beslissingen vatbaar voor cassatieberoep - Beslissingen uit hun aard niet vatbaar voor cassatieberoep",
+    "HOGER BEROEP - BURGERLIJKE ZAKEN (HANDELSZAKEN EN SOCIALE ZAKEN INBEGREPEN) - Beslissingen en partijen",
+    "EIGENDOM"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260219.1N.11",
+  "source_sha256": "b053e83e3c304539046942b2817b8a81875857449e5ad34aea7f77060754ac77",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260219.1N.11_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/10/sitemap_21.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
