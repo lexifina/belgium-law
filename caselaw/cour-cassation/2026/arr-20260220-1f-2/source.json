@@ -1,0 +1,38 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260220.1F.2",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260220.1F.2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-20",
+  "date_as_printed": "Jugement/arrêt du 20 février 2026",
+  "published_on_juportal": "2026-03-12",
+  "language": "fr",
+  "role_number": "C.22.0488.F",
+  "case_name_as_published": "LIEGE AIRPORT SECURITY s.a. c. ETAT BELGE INTERIEUR",
+  "subjects": [
+    "Droit européen",
+    "Unierecht",
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "UNION EUROPEENNE - QUESTIONS PREJUDICIELLES",
+    "EUROPESE UNIE - PREJUDICIELE GESCHILLEN",
+    "AVIATION",
+    "LUCHTVAART"
+  ],
+  "fiche": [
+    "UNION EUROPEENNE - QUESTIONS PREJUDICIELLES",
+    "Règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 - Normes de base communes dans le domaine de la sûreté de l'aviation civile - Mise en oeuvre - Autorité nationale responsable de la coordination et de la surveillance",
+    "Règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et abrogeant le règlement (CE) n° 2320/2002 - 11-03-2008 - Art. 6",
+    "AVIATION",
+    "Union européenne - Question préjudicielle - Règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 - Normes de base communes dans le domaine de la sûreté de l'aviation civile - Mise en oeuvre - Autorité nationale responsable de la coordination et de la surveillance",
+    "Règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et abrogeant le règlement (CE) n° 2320/2002 - 11-03-2008 - Art. 6"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260220.1F.2",
+  "source_sha256": "100f1a4b6e09f60fd897900ceafacadb45492093fcccc27b0958d21da74b906a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260220.1F.2_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_15.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
