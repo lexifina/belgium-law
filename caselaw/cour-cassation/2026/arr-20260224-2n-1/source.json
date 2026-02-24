@@ -1,0 +1,30 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260224.2N.1",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260224.2N.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-24",
+  "date_as_printed": "Vonnis/arrest van 24 februari 2026",
+  "published_on_juportal": "2026-03-09",
+  "language": "nl",
+  "role_number": "P.26.0067.N",
+  "case_name_as_published": "B.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "REGLEMENT DE JUGES - MATIERE REPRESSIVE - Entre juridictions d'instruction et juridictions de jugement - Généralités",
+    "REGELING VAN RECHTSGEBIED - STRAFZAKEN - Tussen onderzoeksgerecht en vonnisgerecht - Algemeen"
+  ],
+  "fiche": [
+    "REGELING VAN RECHTSGEBIED - STRAFZAKEN - Tussen onderzoeksgerecht en vonnisgerecht - Algemeen",
+    "Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 525 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 526 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 526bis - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 527 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 527bis - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 528 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 528bis - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 529 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 530 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 531 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 532 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 533 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 534 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 535 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 536 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 537 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 538 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 539 - 30 ELI link Pub nr 1808121450 Wetboek van Strafvordering - Boek II, Titels V en VI (Art. 525 tot en met 588) - 14-12-1808 - Art. 540 - 30 ELI link Pub nr 1808121450"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260224.2N.1",
+  "source_sha256": "d0c1d68a8a42d436531f04c03c1f6038dd6ce529110f4fda185b535e8a61b67b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260224.2N.1_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/09/sitemap_24.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
