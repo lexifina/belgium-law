@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.024",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.024",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-02-26",
+  "date_as_printed": "Jugement/arrêt du 26 février 2026",
+  "published_on_juportal": "2026-03-09",
+  "language": "fr",
+  "role_number": "24/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les demandes de suspension des articles 3, 5, 6, 8 et 9 de la loi du 18 juillet 2025 « modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les conditions pour le regroupement familial », introduites par Muneer Sablal et Haifa Atya et par Akram Hasan et Abdullah Ahmed. Droit des étrangers - Bénéficiaire du statut de protection subsidiaire - Membres de la famille qui ne se trouvent pas sur le territoire belge - Regroupement familial - Conditions",
+    "de vorderingen tot schorsing van de artikelen 3, 5, 6, 8 en 9 van de wet van 18 juli 2025 « tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat de voorwaarden voor gezinshereniging betreft », ingesteld door Muneer Sablal en Haifa Atya en door Akram Hasan en Abdullah Ahmed. Vreemdelingenrecht - Begunstigde van de subsidiaire beschermingsstatus - Familieleden die zich niet op het Belgisch grondgebied bevinden - Gezinshereniging - Voorwaarden"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les demandes de suspension des articles 3, 5, 6, 8 et 9 de la loi du 18 juillet 2025 « modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les conditions pour le regroupement familial », introduites par Muneer Sablal et Haifa Atya et par Akram Hasan et Abdullah Ahmed. Droit des étrangers - Bénéficiaire du statut de protection subsidiaire - Membres de la famille qui ne se trouvent pas sur le territoire belge - Regroupement familial - Conditions"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.024&lang=fr",
+  "source_sha256": "68e77f136d5093a52a99eaaf647e3f0349d1f22c12a01344a9857dff2fc507a3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.024_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/09/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
