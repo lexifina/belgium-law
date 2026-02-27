@@ -1,0 +1,30 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260227.1F.1",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260227.1F.1",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-02-27",
+  "date_as_printed": "Jugement/arrêt du 27 février 2026",
+  "published_on_juportal": "2026-03-12",
+  "language": "fr",
+  "role_number": "C.25.0151.F",
+  "case_name_as_published": "G. contra AXA BELGIUM s.a.",
+  "subjects": [
+    "Droit commercial",
+    "Handelsrecht"
+  ],
+  "summary_keywords": [
+    "ASSURANCES - ASSURANCES TERRESTRES",
+    "VERZEKERING - LANDVERZEKERING"
+  ],
+  "fiche": [
+    "ASSURANCES - ASSURANCES TERRESTRES",
+    "L. du 30 juillet 1979 relative à la prévention des incendies et des explosions ainsi qu'à l'assurance obligatoire de la responsabilité civile dans ces mêmes circonstances - 30-07-1979 - Art. 8, al. 1er - 30 Lien ELI No pub 1979073002"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260227.1F.1",
+  "source_sha256": "ac7b401f5256039f73a4558e8a76a61fcf3bc82aa2f51cb3a83a2fa371f5a2cb",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260227.1F.1_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/12/sitemap_17.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
