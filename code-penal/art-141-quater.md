@@ -1,0 +1,2 @@
+En cas de condamnation, comme auteur, coauteur ou complice, à une peine d'emprisonnement d'au moins cinq ans sans sursis, pour une des infractions visées au présent titre, le juge se prononce d'office sur la déchéance de la nationalité belge de l'intéressé, dans le respect des conditions prévues à l'article 23/2 du Code de la nationalité belge.
+Le juge peut décider, par un jugement spécialement motivé, de ne pas prononcer la déchéance de la nationalité belge lorsque les conséquences de celle-ci seraient manifestement déraisonnables et disproportionnées.
