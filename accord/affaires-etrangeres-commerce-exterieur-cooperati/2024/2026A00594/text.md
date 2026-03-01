@@ -1,0 +1,56 @@
+<a name="Art.Ier">Article </a> <a href="#ArticleII">Ier</a>
+Champ d'application et objectif
+1. Le présent Accord a pour objectif de mettre en place un ensemble de règles et de procédures juridiques visant à appuyer et simplifier la mise en oeuvre des programmes et des projets qui relèvent du champ d'application de cet Accord.
+2. L'Accord s'appliquera à tous les programmes et projets d'assistance technique et/ou financière situés en Ukraine et financés en tout ou en partie par la Partie belge (ci-après dénommés les programmes et projets). Cela comprend les programmes et projets en cours, les programmes et projets en préparation et les futurs programmes et projets après l'entrée en vigueur du présent Accord.
+3. L'assistance technique comprend, entre autres, le transfert de savoir-faire, le coaching, la consultation, la fourniture d'équipements et de matériels ainsi que l'assistance liée à l'introduction de nouvelles technologies nécessaires à la mise en oeuvre fructueuse des programmes et projets.
+4. L'aide financière comprend, entre autres, des subventions destinées à financer la fourniture de biens, d'équipements et de matériels, de travaux et de services nécessaires à la mise en oeuvre fructueuse des programmes et projets.
+5. Le terme " personnel international " désigne les membres du personnel embauchés ou engagés dans le cadre du présent Accord pour des programmes et des projets mis en oeuvre par Enabel, l'Agence belge de développement, qui ne sont pas citoyens ukrainiens et ne résident pas de manière permanente en Ukraine, recrutés dans le cadre d'un contrat de travail soumis au droit belge.
+6. Chaque programme et projet s'inscrivant dans le cadre du présent Accord peut faire l'objet d'accords distincts entre les parties impliquées dans ce programme ou projet. Ces accords distincts préciseront en détail les droits et obligations de chaque partie au programme ou au projet.
+7. La Partie ukrainienne veillera à ce que tous les programmes et projets s'inscrivant dans le cadre du présent Accord soient enregistrés, gratuitement et sans délai, auprès du Secrétariat du Cabinet des ministres de l'Ukraine, conformément à la législation ukrainienne.
+
+<a name="ArticleII" href="#Art.Ier">Article</a> <a href="#ArticleIII"> II</a>
+Représentation
+1. Pour les questions relatives à la mise en oeuvre de l'Accord, le Secrétariat du Cabinet des ministres de l'Ukraine et le Service public fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement de Belgique seront les autorités compétentes pour représenter respectivement la Partie ukrainienne et la Partie belge. Pour le compte de la Partie belge, l'Ambassadeur extraordinaire et plénipotentiaire du Royaume de Belgique en Ukraine est chargé de l'exécution du présent Accord. Toute communication à la Partie belge concernant le présent Accord sera adressée à l'Ambassade du Royaume de Belgique en Ukraine.
+2. Les Parties, agissant par l'intermédiaire des autorités compétentes, se consulteront régulièrement.3. Pour l'exécution du présent Accord et par dérogation aux dispositions de la loi du 23 novembre 2017 du Royaume de Belgique portant modification du nom de la Coopération technique belge et définition des missions et du fonctionnement d'Enabel, Agence belge de Développement, Enabel est autorisée à mettre en oeuvre ses programmes et projets en Ukraine, bien que l'Ukraine ne figure pas sur la liste des pays partenaires de la Coopération belge au développement.
+
+<a name="ArticleIII" href="#ArticleII">Article</a> <a href="#ArticleIV"> III</a>
+Acteurs impliqués
+1. Pour la Partie belge, les acteurs impliqués dans la mise en oeuvre des programmes et projets ou d'une partie d'entre eux peuvent être les suivants :
+* les autorités publiques fédérales, ainsi que le Parlement fédéral,
+* Enabel, l'Agence belge de développement,
+* d'autres partenaires multilatéraux ou acteurs bilatéraux,
+* les banques de développement, les organisations de la société civile sous toutes leurs formes telles qu'autorisées par la législation belge, et les acteurs institutionnels, y compris les universités.
+2. A cette fin, la Partie ukrainienne autorise Enabel, l'Agence belge de développement visée au paragraphe 1 du présent article, à mettre en place et à maintenir un bureau de représentation d'Enabel en Ukraine (ci-après dénommé " Représentation d'Enabel "), et reconnaît un Directeur pays et son personnel local et international pour exécuter les tâches qui leur sont confiées par Enabel en ce qui concerne les programmes et les projets en Ukraine relevant du présent Accord.
+3. Pour la partie ukrainienne, les acteurs impliqués dans la mise en oeuvre des programmes et projets ou d'une partie d'entre eux peuvent être les suivants :
+* le pouvoir exécutif, le Secrétariat du Cabinet des ministres de l'Ukraine, le Bureau du Président de l'Ukraine, les commissions et le Secrétariat de la Verkhovna Rada de l'Ukraine, la Banque Nationale de l'Ukraine, la Cour suprême, les juridictions supérieures spécialisées, le Bureau national de lutte contre la corruption de l'Ukraine, la Chambre des comptes, d'autres organes étatiques, les organes exécutifs des gouvernements locaux,
+* les résidents d'Ukraine (organisations non gouvernementales, entreprises, institutions, organisations de toutes les formes de propriété, personnes morales et physiques).
+
+<a name="ArticleIV" href="#ArticleIII">Article</a> <a href="#ArticleV"> IV</a>
+Dispositions fiscales et douanières
+1. Aux fins de la mise en oeuvre des programmes et projets rentrant dans le cadre du présent Accord, l'admission de biens en Ukraine et la fourniture de biens en Ukraine sont exemptées de toutes taxes, droits de douane, redevances et autres charges d'effet équivalent. Cette disposition s'applique également aux services, fonds et autres ressources liés à la mise en oeuvre des programmes et projets relevant du champ d'application du présent Accord, y compris ceux destinés aux activités officielles de la Représentation d'Enabel.
+2. La Partie ukrainienne s'assurera de l'octroi rapide, conformément à la législation ukrainienne, des licences pour des importations/admissions temporaires de biens nécessaires à la mise en oeuvre des programmes et projets rentrant dans le cadre du présent Accord.
+3. Les biens nécessaires à la réalisation des programmes et projets dans le cadre du présent Accord peuvent être importés sur le territoire douanier de l'Ukraine puis réexportés après l'achèvement des travaux en franchise de droits, taxes et autres charges d'effet équivalent, y compris les frais de douane. Si ces biens sont cédés sur le territoire douanier de l'Ukraine, ils seront imposés en vertu de la législation ukrainienne, à moins qu'ils ne soient vendus à d'autres personnes bénéficiant elles-mêmes d'une exonération des droits, taxes et redevances.
+4. Les biens personnels du personnel international et des membres de leur famille vivant avec eux seront exonérés d'impôts indirects, y compris les droits d'importation, pour autant que le séjour dudit expert soit temporaire et lié à un programme ou à un projet s'inscrivant dans le cadre du présent Accord. Ces biens seront réexportés après l'expiration de la période de mise en oeuvre du programme ou du projet en question. Si ces biens sont cédés sur le territoire douanier de l'Ukraine, les droits, taxes et autres redevances obligatoires seront prélevés en vertu de la législation ukrainienne.
+5. L'importation en Ukraine en franchise de droits ou l'achat local en franchise de taxes d'un véhicule à moteur par membre du personnel international est autorisée, à condition que le véhicule ne soit utilisé que pendant la durée de son affectation à un programme ou à un projet et qu'il soit réexporté au terme de cette période.
+6. En Ukraine, le personnel international sera exonéré de l'impôt sur le revenu et de tout autre impôt direct, des taxes sur les salaires et émoluments versés dans le cadre des programmes et des projets en Ukraine.
+
+<a name="ArticleV" href="#ArticleIV">Article</a> <a href="#ArticleVI"> V</a>
+Lutte contre la corruption
+Les Parties pratiqueront une tolérance zéro à l'égard de la corruption et toutes autres irrégularités financières dans le cadre des programmes et des projets, et en rapport avec ceux-ci. La politique de tolérance zéro s'applique à tous les membres du personnel, aux consultants et aux autres personnes ne faisant pas partie du personnel, ainsi qu'aux partenaires coopérants dans le cadre des programmes et des projets, et en rapport avec ceux-ci.
+
+<a name="ArticleVI" href="#ArticleV">Article</a> <a href="#ArticleVII"> VI</a>
+Droits du personnel international
+1. La Partie ukrainienne s'assurera que le personnel international affecté au programme et au projet d'aide technique et/ou financière enregistrés dans le cadre du présent Accord, ainsi que les membres de leur famille, seront rapidement autorisés à se rendre sur place et se verront délivrer gratuitement des visas de longue durée, sur invitation de l'organisme étatique, de l'entreprise ou de l'organisation qui bénéficiera de cette aide.
+2. La Partie ukrainienne fournira gratuitement au personnel international, ainsi qu'aux membres de leur famille, tous les documents nécessaires, tels que les permis de séjour temporaires, et accomplira toutes les formalités sans retard déraisonnable, en vertu de la législation ukrainienne.
+3. La partie Ukrainienne s'assurera que le personnel international aura le droit d'ouvrir et de gérer un compte bancaire en Ukraine pour ses besoins personnels, les soldes étant transférables en euros (EUR) ou dans toute autre monnaie convertible conformément aux exigences de la législation ukrainienne sur le change.
+
+<a name="ArticleVII" href="#ArticleVI">Article</a> VII
+Dispositions finales
+1. Le présent Accord est conclu pour une durée illimitée.
+2. Cet Accord entrera en vigueur le premier jour du deuxième mois suivant la date de réception par les voies diplomatiques de la dernière notification écrite par laquelle les parties se sont mutuellement informées de l'accomplissement des procédures juridiques internes.
+3. En attendant son entrée en vigueur conformément au paragraphe 2 du présent article, les articles I, II, III, V, VI (paragraphes 1 et 2) et VII s'appliqueront à titre provisoire à compter de la date de sa signature.
+4. Toute modification du présent Accord sera convenue par écrit entre les Parties et entrera en vigueur conformément au paragraphe 2 du présent article.
+5. Chaque Partie peut résilier le présent Accord moyennant un préavis écrit adressé à l'autre Partie. Dans ce cas, l'Accord expirera six (6) mois après la date de réception d'une telle notification par l'autre Partie.
+6. En cas de résiliation, les dispositions du présent Accord continueront de s'appliquer à tous les programmes et projets convenus avant la résiliation.
+7. En cas de litige quant à la mise en oeuvre ou à l'interprétation de l'Accord, les Parties se consulteront en vue de trouver une solution.
+FAIT à Bruxelles et Kyiv, le 20 août 2024 en deux exemplaires originaux, chacun en langues ukrainienne, française, néerlandaise et anglaise, tous les textes faisant également foi. En cas de divergence d'interprétation des dispositions du présent Accord, le texte anglais prévaudra.
