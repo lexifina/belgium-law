@@ -672,16 +672,16 @@ Lors de la séance au cours de laquelle la demande est traitée, le Collège des
 <a name="Art.25octies/1" href="#Art.25octies">Art.</a> <a href="#Art.25octies/2"> 25octies/1</a>.
 &lt;Abrogé par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051203" target="_blank">2024-05-12/03</a>, art. 9, 335; En vigueur : 01-01-2026&gt;
 
-<a name="Art.25octies/2" href="#Art.25octies/1">Art.</a> <a href="#Art.25nonies"> 25octies/2</a>.
-§ 1. [<sup>3</sup> ...]<sup>3</sup>
+<a name="Art.25octies/2" href="#Art.25octies/1">Art.</a> <a href="#Art.25nonies"> 25octies/2</a>.§ 1. [<sup>3</sup> ...]<sup>3</sup>
 § 2. [<sup>3</sup> ...]<sup>3</sup>
 § 3. [<sup>3</sup> ...]<sup>3</sup>
 § 4. [<sup>3</sup> ...]<sup>3</sup>
-[<sup>2</sup> § 5. Par dérogation à l'article 167, les contestations relatives aux décisions de cohorte relèvent de la compétence du Conseil d'Etat conformément à l'article 14 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.]<sup>2</sup>
+[<sup>2</sup> § 5. [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014020713" target="_blank">2014-02-07/13</a>, art. 9, 216; En vigueur : 01-12-2014&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014030909" target="_blank">2014-03-09/09</a>, art. 2, 217; En vigueur : 01-12-2014&gt;
 (<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051203" target="_blank">2024-05-12/03</a>, art. 10, 335; En vigueur : 01-01-2026&gt;
+(<font color="red">4</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024052912" target="_blank">2024-05-29/12</a>, art. 2, 341; En vigueur : 01-03-2026&gt;
 
 <a name="Art.25nonies" href="#Art.25octies/2">Art.</a> <a href="#LNK0017"> 25nonies</a>.
 &lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2005042734" target="_blank">2005-04-27/34</a>, art. 2; <b> En vigueur : </b> 01-04-2005&gt; Si le Collège des médecins-directeurs décide immédiatement de l'intervention sur la base d'une facture, l'organisme assureur paie le montant accordé au bénéficiaire ou au dispensateur de soins endéans un délai de 15 jours ouvrables à dater de la réception de la notification de la décision du Collège des médecins-directeurs.
@@ -888,10 +888,12 @@ La Commission visée à l'article 31ter, § 1er, peut dans son avis proposer l'i
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051203" target="_blank">2024-05-12/03</a>, art. 17, 335; En vigueur : 01-01-2026&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2025121921" target="_blank">2025-12-19/21</a>, art. 3, 340; En vigueur : 01-01-2026&gt;
 
-<a name="Art.31quinquies" href="#Art.31quater">Art.</a> <a href="#LNK0029"> 31quinquies</a>. [<sup>1</sup> § 1er. La décision d'accès précoce fixant des critères d'inclusion et, le cas échéant, des critères d'exclusion et la décision d'accès rapide sont des décisions-cadres limitées dans le temps qui se fondent sur les données médicales disponibles. La durée de validité de la décision d'accès précoce fixant des critères d'inclusion et, le cas échéant, des critères d'exclusion et la durée de validité de la décision d'accès rapide sont établies dans les limites fixées par le Roi. La description du groupe cible ainsi que les critères d'inclusion et/ou d'exclusion sont publiés sur le site internet de l'Institut.
+<a name="Art.31quinquies" href="#Art.31quater">Art.</a> <a href="#LNK0029"> 31quinquies</a>.[<sup>1</sup> § 1er. La décision d'accès précoce fixant des critères d'inclusion et, le cas échéant, des critères d'exclusion et la décision d'accès rapide sont des décisions-cadres limitées dans le temps qui se fondent sur les données médicales disponibles. La durée de validité de la décision d'accès précoce fixant des critères d'inclusion et, le cas échéant, des critères d'exclusion et la durée de validité de la décision d'accès rapide sont établies dans les limites fixées par le Roi. La description du groupe cible ainsi que les critères d'inclusion et/ou d'exclusion sont publiés sur le site internet de l'Institut.
 § 2. Les demandes individuelles faites dans le cadre de l'article 25 et suivants qui ne répondent ni aux critères d'inclusion, ni aux critères d'exclusion prévus par une décision d'accès précoce ou d'accès rapide sont examinées individuellement en vertu des critères repris aux articles 25bis à 25sexies. Dans ces circonstances, le montant de l'intervention ne peut excéder le montant fixé par le Roi en vertu de l'article 31sexies, § 7, alinéa 3, ou en vertu de l'article 31septies, § 4, alinéa 3.]<sup>1</sup>
+[<sup>2</sup> § 3. Par dérogation à l'article 167, les contestations relatives aux décisions d'accès précoce fixant des critères d'inclusion et, le cas échéant, des critères d'exclusion et aux décisions d'accès rapide relèvent de la compétence du Conseil d'Etat conformément à l'article 14 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024051203" target="_blank">2024-05-12/03</a>, art. 18, 335; En vigueur : 01-01-2026&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024052912" target="_blank">2024-05-29/12</a>, art. 3, 341; En vigueur : 01-03-2026&gt;
 
 <a name="LNK0029" href="#LNKR0029">A.</a> [<sup>1</sup> Accès précoce]<sup>1</sup>
 ----------
