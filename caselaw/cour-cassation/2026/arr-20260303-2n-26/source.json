@@ -1,0 +1,26 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260303.2N.26",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260303.2N.26",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-03-03",
+  "date_as_printed": "Vonnis/arrest van 03 maart 2026",
+  "published_on_juportal": "2026-03-09",
+  "language": "nl",
+  "role_number": "P.25.1429.N",
+  "case_name_as_published": "V.",
+  "subjects": [],
+  "summary_keywords": [
+    "COMMUNICATIONS. TELECOMMUNICATIONS",
+    "COMMUNICATIE. TELECOMMUNICATIE"
+  ],
+  "fiche": [
+    "COMMUNICATIE. TELECOMMUNICATIE"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260303.2N.26",
+  "source_sha256": "b89af3d149b2a5080619a20a00fd2cceb60c8b72237e5484458e6b41a109a799",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260303.2N.26_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/09/sitemap_29.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
