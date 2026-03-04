@@ -1,0 +1,44 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260304.1",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260304.1",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-03-04",
+  "date_as_printed": "Vonnis/arrest van 04 maart 2026",
+  "published_on_juportal": "2026-03-05",
+  "language": "nl",
+  "role_number": "O/24/00881",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht",
+    "Financieel recht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Pauliana XX.114 WER netting / redding",
+    "pauliana XX.114 WER",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - FINANCIEEL RECHT - Financiële instellingen en tussenpersonen - Bemiddelaars - Financiële Instrumenten",
+    "nettingovereenkomst WFZ nakende insolventie",
+    "pauliana Nettingovereenkomst",
+    "afwijzing XX.114 WER wegens geen benadeling"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "Pauliana XX.114 WER netting / redding",
+    "Wetboek van economisch recht - 28-02-2013 - XX.114 - 19 ELI link Pub nr 2013A11134",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "pauliana XX.114 WER",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - FINANCIEEL RECHT - Financiële instellingen en tussenpersonen - Bemiddelaars - Financiële Instrumenten",
+    "nettingovereenkomst WFZ nakende insolventie",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "pauliana Nettingovereenkomst",
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "afwijzing XX.114 WER wegens geen benadeling"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260304.1",
+  "source_sha256": "950190709e76eaa455252ea53c0fc2bbf7a19c0e7a624aa9289778bcbea87994",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_42.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
