@@ -1,0 +1,32 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260304.2F.8",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260304.2F.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-03-04",
+  "date_as_printed": "Jugement/arrêt du 04 mars 2026",
+  "published_on_juportal": "2026-03-05",
+  "language": "fr",
+  "role_number": "P.25.0802.F",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit administratif",
+    "Bestuursrecht"
+  ],
+  "summary_keywords": [
+    "ENVIRONNEMENT (DROIT DE L')",
+    "MILIEURECHT"
+  ],
+  "fiche": [
+    "ENVIRONNEMENT (DROIT DE L')",
+    "Décret de la Région wallonne du 27 juin 1996 relatif aux déchets - 27-06-1996 - Art. 11, § 1er - 44 Lien ELI No pub 1996027438 Arrêté du Gouvernement wallon du 14 juin 2001 favorisant la valorisation de certains déchets - 14-06-2001 - Art. 2, al. 1er - 50 Lien ELI No pub 2001027388",
+    "ETABLISSEMENTS DANGEREUX ET INSALUBRES",
+    "Décret de la Région wallonne du 27 juin 1996 relatif aux déchets - 27-06-1996 - Art. 11, § 1er - 44 Lien ELI No pub 1996027438 Arrêté du Gouvernement wallon du 14 juin 2001 favorisant la valorisation de certains déchets - 14-06-2001 - Art. 2, al. 1er - 50 Lien ELI No pub 2001027388"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260304.2F.8",
+  "source_sha256": "a0b9639b25a769d2dc8c7c233ddf60408aa045c85b080a7867e08400fffadf6c",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260304.2F.8_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
