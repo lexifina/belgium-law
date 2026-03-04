@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:ORGNT:2026:JUG.20260304.2",
+  "ecli": "ECLI:BE:ORGNT:2026:JUG.20260304.2",
+  "court": "Ondernemingsrechtbank Gent",
+  "court_code": "ORGNT",
+  "decision_date": "2026-03-04",
+  "date_as_printed": "Vonnis/arrest van 04 maart 2026",
+  "published_on_juportal": "2026-03-05",
+  "language": "nl",
+  "role_number": "O/25/00322",
+  "case_name_as_published": "",
+  "subjects": [
+    "Insolventierecht",
+    "Burgerlijk recht"
+  ],
+  "summary_keywords": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "aanvaarding aangifte schuldvordering / hangend geding / bezwaar door gefailleerde",
+    "BURGERLIJK RECHT - VOORRECHTEN EN HYPOTHEKEN",
+    "Voorrecht onbetaalde verkoper / onroerendmaking / faillissement"
+  ],
+  "fiche": [
+    "HANDELS-, ECONOMISCH EN FINANCIEEL RECHT - INSOLVENTIE",
+    "aanvaarding aangifte schuldvordering / hangend geding / bezwaar door gefailleerde",
+    "Wetboek van economisch recht - 28-02-2013 - XX.119 - 19 ELI link Pub nr 2013A11134 Wetboek van economisch recht - 28-02-2013 - XX.162 - 19 ELI link Pub nr 2013A11134",
+    "BURGERLIJK RECHT - VOORRECHTEN EN HYPOTHEKEN",
+    "Voorrecht onbetaalde verkoper / onroerendmaking / faillissement",
+    "Wetboek der registratie-, hypotheek- en griffierechten - 30-11-1939 - 20,5"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:ORGNT:2026:JUG.20260304.2",
+  "source_sha256": "f59be01cf4ce8ecbc74338e58f8b1881f963bd75ed27a08cb685715a02964cf4",
+  "official_pdf": "",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/05/sitemap_44.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
