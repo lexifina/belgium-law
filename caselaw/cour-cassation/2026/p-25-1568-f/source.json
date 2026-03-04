@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.25.1568.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-04",
+  "date_as_printed": "4 MARS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.1568.F.pdf",
+  "source_sha256": "0315f527f061b3c90308123ecc7006d804e9e5f24f5e7c0946024a0e9dd6f522",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
