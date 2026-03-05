@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.028",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.028",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-03-05",
+  "date_as_printed": "Jugement/arrêt du 05 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "28/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation de l'article 4, § 1er, alinéa 2, de la loi du 3 juillet 1967 « sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public », introduit par J.T. Droit social - Sécurité sociale - Accidents du travail - Secteur public - Petites incapacités permanentes de travail - Rentes - Calcul - Rémunérations de référence - Indexation",
+    "het beroep tot vernietiging van artikel 4, § 1, tweede lid, van de wet van 3 juli 1967 « betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector », ingesteld door J.T. Sociaal recht - Sociale zekerheid - Arbeidsongevallen - Overheidssector - Kleine blijvende arbeidsongeschiktheden - Renten - Berekening - Referentiebezoldigingen - Indexering"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation de l'article 4, § 1er, alinéa 2, de la loi du 3 juillet 1967 « sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public », introduit par J.T. Droit social - Sécurité sociale - Accidents du travail - Secteur public - Petites incapacités permanentes de travail - Rentes - Calcul - Rémunérations de référence - Indexation"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.028&lang=fr",
+  "source_sha256": "d1cd8706f19bf6454ef8e326d4a97baa4f8dd887f77d305d0e8ba0ed36b5f80a",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.028_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_37.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
