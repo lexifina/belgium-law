@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.029",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.029",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-03-05",
+  "date_as_printed": "Jugement/arrêt du 05 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "29/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 27 de l'ordonnance de la Région de Bruxelles-Capitale du 12 décembre 2016 « portant la deuxième partie de la réforme fiscale » et à l'article 6 de l'ordonnance de la Région de Bruxelles-Capitale du 23 novembre 2017 « effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale » (modifications de l'article 257 du CIR 1992), posée par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Région de Bruxelles-Capitale - Précompte immobilier - Remise ou modération - Bien immeuble à destination commerciale - Abrogation de la modération proportionnelle du précompte immobilier pour inoccupation ou improductivité indépendante de la volonté du contribuable - Règles répartitrices de compétences",
+    "de prejudiciële vraag betreffende artikel 27 van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 12 december 2016 « houdende het tweede deel van de fiscale hervorming » en artikel 6 van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 23 november 2017 « houdende wetgevende aanpassingen met het oog op de overname van de dienst onroerende voorheffing door het Brussels Hoofdstedelijk Gewest » (wijzigingen van artikel 257 van het WIB 1992), gesteld door de Franstalige Rechtbank van eerste aanleg te Brussel. Fiscaal recht - Brussels Hoofdstedelijk Gewest - Onroerende voorheffing - Kwijtschelding of vermindering - Onroerend goed met een handelsbestemming - Afschaffing van de proportionele vermindering van de onroerende voorheffing voor leegstand of improductiviteit buiten de wil van de belastingplichtige - Bevoegdheidverdelende regels"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 27 de l'ordonnance de la Région de Bruxelles-Capitale du 12 décembre 2016 « portant la deuxième partie de la réforme fiscale » et à l'article 6 de l'ordonnance de la Région de Bruxelles-Capitale du 23 novembre 2017 « effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale » (modifications de l'article 257 du CIR 1992), posée par le Tribunal de première instance francophone de Bruxelles. Droit fiscal - Région de Bruxelles-Capitale - Précompte immobilier - Remise ou modération - Bien immeuble à destination commerciale - Abrogation de la modération proportionnelle du précompte immobilier pour inoccupation ou improductivité indépendante de la volonté du contribuable - Règles répartitrices de compétences"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.029&lang=fr",
+  "source_sha256": "471b6cabb1e10eb3a7bf0047335866efe58e31ab3c710a0293afd19053b1b5e3",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.029_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_36.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
