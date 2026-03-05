@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.027",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.027",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-03-05",
+  "date_as_printed": "Jugement/arrêt du 05 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "27/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "le recours en annulation des articles 41 et 43 de la loi-programme du 18 juillet 2025, introduit par Michel Maus. Droit fiscal - Système permanent de régularisation fiscale - Restauration",
+    "het beroep tot vernietiging van de artikelen 41 en 43 van de programmawet van 18 juli 2025, ingesteld door Michel Maus. Fiscaal recht - Permanent systeem inzake fiscale regularisatie - Herinvoering"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "le recours en annulation des articles 41 et 43 de la loi-programme du 18 juillet 2025, introduit par Michel Maus. Droit fiscal - Système permanent de régularisation fiscale - Restauration"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.027&lang=fr",
+  "source_sha256": "78a4d2e2e2ec6e3ca7c99a2da2b4fe6adafdaa04367b046a221fce4faa5e351f",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.027_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_38.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
