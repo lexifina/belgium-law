@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.025",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.025",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-03-05",
+  "date_as_printed": "Jugement/arrêt du 05 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "25/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "les questions préjudicielles relatives aux articles 1399, 1400, 1401, 1404, 1405, 1417 et 1432 de l'ancien Code civil, posées par le tribunal de la famille du Tribunal de première instance de Namur, division de Namur. Droit civil - Régime matrimonial légal - Liquidation - Actions d'une société financées au moyen de fonds propres - Plus-value sur actions - Récompense au patrimoine commun",
+    "de prejudiciële vragen betreffende de artikelen 1399, 1400, 1401, 1404, 1405, 1417 en 1432 van het oud Burgerlijk Wetboek, gesteld door de familierechtbank van de Rechtbank van eerste aanleg Namen, afdeling Namen. Burgerlijk recht - Wettelijk huwelijksvermogensstelsel - Vereffening - Aandelen van een vennootschap die met eigen gelden zijn gefinancierd - Meerwaarde op aandelen - Vergoeding aan het gemeenschappelijk vermogen"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "les questions préjudicielles relatives aux articles 1399, 1400, 1401, 1404, 1405, 1417 et 1432 de l'ancien Code civil, posées par le tribunal de la famille du Tribunal de première instance de Namur, division de Namur. Droit civil - Régime matrimonial légal - Liquidation - Actions d'une société financées au moyen de fonds propres - Plus-value sur actions - Récompense au patrimoine commun"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.025&lang=fr",
+  "source_sha256": "09f8b5e976e6dc1cfadc7a6e19cacc5f1f464d2373829fad4f521366d0c31b7b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.025_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_39.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
