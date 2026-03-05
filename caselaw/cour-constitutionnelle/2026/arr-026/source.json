@@ -1,0 +1,36 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:GHCC:2026:ARR.026",
+  "ecli": "ECLI:BE:GHCC:2026:ARR.026",
+  "court": "Cour constitutionnelle (Cour d'arbitrage) / Grondwettelijk Hof (Arbitragehof) / Verfassungsgerichtshof (Schiedshof)",
+  "court_code": "GHCC",
+  "decision_date": "2026-03-05",
+  "date_as_printed": "Jugement/arrêt du 05 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "26/2026",
+  "case_name_as_published": "",
+  "subjects": [
+    "Verfassungsrecht",
+    "Droit constitutionnel",
+    "Constitutioneel recht"
+  ],
+  "summary_keywords": [
+    "COUR CONSTITUTIONNELLE",
+    "GRONDWETTELIJK HOF",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "PUBLIEK EN ADMINISTRATIEF RECHT - GRONDWETTELIJK HOF",
+    "la question préjudicielle relative à l'article 14 du décret de la Communauté flamande du 7 mai 2004 « portant création de l'agence autonomisée interne dotée de la personnalité juridique ' Vlaams Agentschap voor Personen met een Handicap ' (Agence flamande pour les Personnes handicapées) », posée par la Cour d'appel d'Anvers. Droit social - Sécurité sociale - Communauté flamande - Personnes handicapées - Dommage - Indemnisation - Agence flamande pour les Personnes handicapées - Droit de subrogation - Exclusion - Perte d'une chance",
+    "de prejudiciële vraag betreffende artikel 14 van het decreet van de Vlaamse Gemeenschap van 7 mei 2004 « tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap », gesteld door het Hof van Beroep te Antwerpen. Sociaal recht - Sociale zekerheid - Vlaamse Gemeenschap - Personen met een handicap - Schade - Vergoeding - Vlaams Agentschap voor Personen met een Handicap - Subrogatierecht - Uitsluiting - Verlies van een kans"
+  ],
+  "fiche": [
+    "COUR CONSTITUTIONNELLE",
+    "DROIT PUBLIC ET ADMINISTRATIF - COUR CONSTITUTIONNELLE",
+    "la question préjudicielle relative à l'article 14 du décret de la Communauté flamande du 7 mai 2004 « portant création de l'agence autonomisée interne dotée de la personnalité juridique ' Vlaams Agentschap voor Personen met een Handicap ' (Agence flamande pour les Personnes handicapées) », posée par la Cour d'appel d'Anvers. Droit social - Sécurité sociale - Communauté flamande - Personnes handicapées - Dommage - Indemnisation - Agence flamande pour les Personnes handicapées - Droit de subrogation - Exclusion - Perte d'une chance"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:GHCC:2026:ARR.026&lang=fr",
+  "source_sha256": "2ff8bbd948cfe7cbb3baed1178c5c14bcf676bc6efc5e8674bb4609686571a6b",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:GHCC:2026:ARR.026_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_40.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
