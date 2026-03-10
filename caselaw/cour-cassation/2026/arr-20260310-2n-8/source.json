@@ -1,0 +1,36 @@
+{
+  "title": "Vonnis/arrest ECLI:BE:CASS:2026:ARR.20260310.2N.8",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260310.2N.8",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-03-10",
+  "date_as_printed": "Vonnis/arrest van 10 maart 2026",
+  "published_on_juportal": "2026-03-17",
+  "language": "nl",
+  "role_number": "P.25.1665.N",
+  "case_name_as_published": "P.",
+  "subjects": [
+    "Autres",
+    "Overige"
+  ],
+  "summary_keywords": [
+    "OPPOSITION",
+    "VERZET"
+  ],
+  "fiche": [
+    "VERZET",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187, § 1, vierde lid - 30 ELI link Pub nr 1808111901 Strafwetboek 1867 - 08-06-1867 - Art. 92 - 01 ELI link Pub nr 1867060850 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "VERJARING - STRAFZAKEN - Straf - Algemeen",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 92 - 01 ELI link Pub nr 1867060850 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "STRAF - ANDERE STRAFFEN - Allerlei",
+    "Strafwetboek 1867 - 08-06-1867 - Art. 92 - 01 ELI link Pub nr 1867060850 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601",
+    "WEGVERKEER - WEGVERKEERSWET - WETSBEPALINGEN - Artikel 38",
+    "Wetboek van Strafvordering - Boek II, Titel I (Art. 137 tot en met 216septies) - 19-11-1808 - Art. 187, § 1, vierde lid - 30 ELI link Pub nr 1808111901 Strafwetboek 1867 - 08-06-1867 - Art. 92 - 01 ELI link Pub nr 1867060850 Wet 16 maart 1968 betreffende de politie over het wegverkeer - 16-03-1968 - Art. 38, § 3, 3° en 4° - 31 ELI link Pub nr 1968031601"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260310.2N.8",
+  "source_sha256": "35e77137ef84ff240feb4443d038520a5ebe8531924eeba290211c1a1c7e8820",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260310.2N.8_NL.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/17/sitemap_29.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
