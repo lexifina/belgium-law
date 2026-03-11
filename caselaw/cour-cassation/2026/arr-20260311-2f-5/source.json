@@ -1,0 +1,29 @@
+{
+  "title": "Jugement/arrêt ECLI:BE:CASS:2026:ARR.20260311.2F.5",
+  "ecli": "ECLI:BE:CASS:2026:ARR.20260311.2F.5",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "court_code": "CASS",
+  "decision_date": "2026-03-11",
+  "date_as_printed": "Jugement/arrêt du 11 mars 2026",
+  "published_on_juportal": "2026-03-16",
+  "language": "fr",
+  "role_number": "P.25.1614.F",
+  "case_name_as_published": "M.",
+  "subjects": [
+    "Droit pénal",
+    "Strafrecht"
+  ],
+  "summary_keywords": [
+    "MINISTERE PUBLIC",
+    "OPENBAAR MINISTERIE"
+  ],
+  "fiche": [
+    "MINISTERE PUBLIC"
+  ],
+  "source": "https://juportal.just.fgov.be/content/ViewDecision.php?id=ECLI:BE:CASS:2026:ARR.20260311.2F.5",
+  "source_sha256": "aee25dd9f51f8448b1c0aeb198b8be76c7b752fce1768940a1cabcae2c5e7b1e",
+  "official_pdf": "https://juportal.just.fgov.be/JUPORTAwork/ECLI:BE:CASS:2026:ARR.20260311.2F.5_FR.pdf",
+  "sitemap": "https://juportal.just.fgov.be/JUPORTAsitemap/2026/03/16/sitemap_25.xml",
+  "record_type": "published court decision (anonymised as published by Juportal)",
+  "scope": "decision text as published on the official Juportal page (HTML), line breaks kept"
+}
