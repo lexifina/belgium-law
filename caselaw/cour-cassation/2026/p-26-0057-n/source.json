@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0057.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-17",
+  "date_as_printed": "17 MAART 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0057.N.pdf",
+  "source_sha256": "78150ca17c60fc23245be9f83d0cbaa2374030df86e009b7ea8a10d49482bd5c",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
