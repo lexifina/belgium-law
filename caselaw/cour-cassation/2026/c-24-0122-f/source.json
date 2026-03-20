@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt C.24.0122.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-20",
+  "date_as_printed": "20 MARS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.24.0122.F.pdf",
+  "source_sha256": "f9c2d8aea98853ae34d67e67303e8725a5e887188fcde54f5d3d255cf2571b44",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}

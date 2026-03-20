@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt C.25.0183.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-20",
+  "date_as_printed": "20 MARS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.25.0183.F.pdf",
+  "source_sha256": "7306c73e883c9b835f86f62f272c54947c1bf66d45202690a2d540835a65a902",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
