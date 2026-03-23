@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.25.0060.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-23",
+  "date_as_printed": "23 MARS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.25.0060.F.pdf",
+  "source_sha256": "12218ac73aa9c758a6fc8eac87a6fae713ecbaba18137b1fd8074e7061423b83",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
