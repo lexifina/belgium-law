@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.19.0047.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-03-23",
+  "date_as_printed": "23 MARS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.19.0047.F.pdf",
+  "source_sha256": "4b6c1c881f69a8da522d4675d19a9e029146b7337fdf59424433c63a3bf2b4b0",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
