@@ -4434,8 +4434,22 @@ Lorsque l'enfant nouveau né doit rester hospitalisé après les sept premiers j
 La condition visée à l'alinéa 1er ne s'applique pas :
 1° pendant la période au cours de laquelle la titulaire fait usage de la faculté visée à l'article 114, alinéa 6;
 2° pendant la période de prolongation du repos postnatal à concurrence des périodes pendant lesquelles la travailleuse a exercé un travail durant une période de protection de la maternité visée à l'article 114bis ou a repris un travail adapté durant son incapacité de travail, dans les conditions visées à l'article 100, § 2, de la sixième semaine ou de la huitième semaine en cas de naissance multiple, à la deuxième semaine y incluse précédant l'accouchement.]<sup>1</sup>
+[<sup>2</sup> Ne sont toutefois pas prises en compte à titre d'activité visée à l'alinéa 1er à partir du quinzième jour à compter du jour de l'accouchement et peuvent donc être exercées, les activités dans le cadre:
+1° de l'exercice d'un volontariat au sens de la loi du 3 juillet 2005 relative aux droits des volontaires;
+2° d'un mandat de conseiller communal;
+3° d'un mandat de membre d'un conseil de l'aide sociale;
+4° d'un mandat de conseiller d'un centre public d'action sociale;
+5° d'un mandat de membre d'un comité spécial du service social;
+6° d'un mandat de conseiller d'une zone de police;
+7° d'un mandat de membre d'un conseil de district;
+8° d'un mandat en tant que représentant d'une commune ou d'un centre public d'action sociale;
+9° d'un mandat de conseiller provincial;
+10° d'un mandat en tant que représentant d'une province.
+Dans le cadre de l'exercice du volontariat visé à l'alinéa 3, 1°, une attestation de l'organisation auprès de laquelle la titulaire exerce le bénévolat est préalablement transmise à l'organisme assureur à titre de pièce justificative.
+Dans le cadre de l'exercice d'un mandat politique visé à l'alinéa 3, 8° et 10°, une copie de la décision du conseil communal, du conseil de l'aide sociale, du conseil du centre public d'action sociale ou du conseil provincial attribuant le mandat concerné est préalablement transmise à l'organisme assureur à titre de pièce justificative.]<sup>2</sup>
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014042577" target="_blank">2014-04-25/77</a>, art. 5, 220; En vigueur : 16-06-2014&gt;
+(<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021107" target="_blank">2026-02-11/07</a>, art. 2, 343; En vigueur : 01-04-2026&gt;
 
 <a name="LNK0105" href="#LNKR0105">CHAPITRE V.</a> - Des conditions d'octroi. - [<sup>1</sup> Dispositions particulières]<sup>1</sup> à l'assurance maternité.
 ----------
