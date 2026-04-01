@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.25.0906.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-04-01",
+  "date_as_printed": "1er AVRIL 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.25.0906.F.pdf",
+  "source_sha256": "42115baace704d216d719898abc0b0eb6024ef8467fb283bb7a8bf73799558e8",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
