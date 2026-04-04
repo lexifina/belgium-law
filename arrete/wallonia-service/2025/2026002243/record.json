@@ -1,0 +1,30 @@
+{
+  "id": "2026002243",
+  "title": "11 DECEMBRE 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 18 septembre 2008 relatif au soutien de la recherche, du développement et de l'innovation en Wallonie",
+  "source_title": "11 DECEMBRE 2025. - Arrêté du Gouvernement wallon modifiant l'arrêté du Gouvernement wallon du 18 septembre 2008 relatif au soutien de la recherche, du développement et de l'innovation en Wallonie",
+  "act": "arrete/wallonia-service/2025/2026002243",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-03-25&numac_search=2026002243&page=1&lg_txt=F&caller=list&2026002243=25&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "99e55888ec066c6861a568023523f76c730afaa6a3166561bc37e3a6c8a8ef47",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-12-11",
+  "published": "2026-03-25",
+  "in_force": "2026-04-04",
+  "in_force_basis": "Justel: Entrée en vigueur : 4 avril 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "25 mars 2026",
+    "Numéro": "2026002243",
+    "page": "17913",
+    "Dossier numéro": "2025-12-11/38",
+    "Entrée en vigueur": "4 avril 2026",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 485,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-04-04"
+}
