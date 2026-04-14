@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.26.0362.N2",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-04-14",
+  "date_as_printed": "14 APRIL 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0362.N2.pdf",
+  "source_sha256": "c687afe115f38fad248589306433e56b97bb411ffebcb7e5107ee9c899763519",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
