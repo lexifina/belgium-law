@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt F.25.0073.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-04-20",
+  "date_as_printed": "20 AVRIL 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/F.25.0073.F.pdf",
+  "source_sha256": "eda3fccffd02d41c649028c804af71a4cdfc20a32fad5a7bb1e6f7e64df4da41",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
