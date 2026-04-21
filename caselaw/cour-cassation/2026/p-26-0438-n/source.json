@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0438.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-04-21",
+  "date_as_printed": "21 APRIL 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0438.N.pdf",
+  "source_sha256": "90949bab102b4a349066fce210b1634ecfceb6db866ed33f77303ef0cce35d7f",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
