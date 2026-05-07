@@ -1,4 +1,4 @@
-§ 1er. Une entité qualifiée Consommateurs est toute personne morale qui, à sa demande, a été agréée par le ministre. La demande d'agrément de la personne morale en tant qu'entité qualifiée est accordée par le ministre à condition qu'elle soit introduite de la manière déterminée par le Roi et qu'elle démontre que cette personne morale satisfait à tous les critères suivants:
+§ 1er. Une entité qualifiée Consommateurs est toute personne morale qui, à sa demande, a été agréée par le ministre. La demande d'agrément de la personne morale en tant qu'entité qualifiée est accordée par le ministre à condition ... et qu'elle démontre que cette personne morale satisfait à tous les critères suivants:
 1° il s'agit d'une personne morale constituée conformément au droit belge et qui peut démontrer douze mois d'activité publique réelle dans la protection des intérêts des consommateurs avant sa demande d'agrément;
 2° son objet statutaire démontre qu'elle a un intérêt légitime à protéger les intérêts des consommateurs comme le prévoient les directives et règlements européens auxquels l'article XVII.37, 34°, fait référence;
 3° elle poursuit un but non lucratif;
