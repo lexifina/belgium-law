@@ -1,0 +1,184 @@
+<a name="LNK0001" href="#LNKR0001">TITRE I.</a> - Champ d'application
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. Le présent arrêté s'applique aux membres du personnel des services qui assistent le pouvoir judiciaire.
+Le présent arrêté ne s'applique pas aux titulaires des mandats de greffier en chef et de secrétaire en chef, visés à l'article 160, § 8, alinéa 4, du Code judiciaire, dans la mesure où il s'agit de leur propre évaluation.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0002"> 2</a>. § 1er. Pour l'application du présent arrêté royal, il y a lieu d'entendre par :
+1° magistrat chef de corps : les magistrats visés à l'article 58bis, alinéa 1er, 2°, du Code judiciaire ;
+2° supérieur hiérarchique : le magistrat ou le membre du personnel nommé à titre définitif visé à l'article 287, § 1er, alinéa 3 du Code judiciaire ;
+3° chef fonctionnel : le magistrat ou le membre personnel nommé à titre définitif ou contractuel visé à l'article 287, § 1er, alinéa 3 du Code judiciaire ;
+4° membre du personnel : les membres du personnel contractuels ou nommés de l'ordre judiciaire visés à la partie II, livre Ier, titre III, du Code judiciaire et les conseillers et attachés au service de la documentation et de la concordance des textes auprès de la Cour de cassation visés à l'article 260 du même Code, ainsi que le candidat-magistrat visé à l'article 259octies, § 7, du même Code ;
+5° stagiaire : le membre du personnel qui accomplit un stage et n'est pas nommé à titre définitif ;
+6° évaluation : l'appréciation descriptive du fonctionnement, des compétences et des aptitudes du membre du personnel ;
+7° cycle d'évaluation : le processus de suivi qui rythme l'évaluation depuis la description de fonction et/ou la fixation des objectifs jusqu'à leur appréciation finale ;
+8° remédiation : un encadrement sur mesure convenu par l'évaluateur et le membre du personnel avec le soutien du ministre qui a la Justice dans ses attributions ou son délégué ;
+9° jour presté : jour, demi-jour, voire le cas échéant toute prestation entamée, où le membre du personnel travaille effectivement selon l'horaire de travail convenu avec le supérieur hiérarchique ou le chef fonctionnel dont il dépend ;
+10° jour ouvrable : tous les jours de la semaine à l'exception des samedis, des dimanches et des jours fériés ;
+11° stage : cycle d'évaluation d'un stagiaire ;
+12° description de fonction : la description de l'objectif de la fonction, des résultats qui y sont liés, des exigences de la fonction et du contexte dans lequel fonctionne le membre du personnel.
+§ 2. Les tâches confiées au magistrat-chef de corps dans le présent arrêté sont exercées, en ce qui concerne les membres du personnel qui, sur la base du Code judiciaire, sont en fonction auprès d'un service public fédéral, par le mandataire compétent pour le service où ils travaillent.
+
+<a name="LNK0002" href="#LNKR0002">TITRE II.</a> - L'évaluation du membre du personnel qui n'est pas stagiaire
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE Ier.</a> - Cycle d'évaluation, entretiens, rapports et procédures
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>.Le cycle d'évaluation commence le 1er janvier.
+Toutefois, le cycle d'évaluation commence :
+1° à la nomination du membre du personnel à l'issue du stage, à la promotion au niveau supérieur ou à la classe supérieure du membre du personnel, ou à la nomination par mutation ou mobilité prévue dans l'article 330quater, § 2, du Code judiciaire ou changement de grade ;
+2° le premier jour de l'exécution du contrat pour un membre du personnel engagé par contrat de travail ;
+3° le premier jour du changement de fonction ;
+4° au constat de clôture d'une remédiation ;
+5° à l'attribution d'une mention " insuffisant ".
+Par dérogation à l'article 287bis, § 1er, du Code judiciaire, et sans préjudice [<sup>1</sup> des articles 287, § 2, et 287bis, § 2, alinéa 4, du Code judiciaire]<sup>1</sup>, le magistrat-chef de corps peut décider de démarrer à une même date des cycles d'évaluation des membres du personnel du service dont le cycle d'évaluation est reconduit sur base de l'article 287bis, § 3, du Code judiciaire.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021201" target="_blank">2026-02-12/01</a>, art. 1, 002; En vigueur : 01-03-2026&gt;
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>.Si le consensus ne peut être atteint entre l'évaluateur et le membre du personnel sur la description de fonction visée à l'article 287bis, § 2, alinéa 3, du Code judiciaire, le ministre qui a la Justice dans ses attributions ou son délégué désigne un membre du personnel de niveau A comme médiateur. Le médiateur peut uniquement prendre part à la médiation s'il n'est impliqué d'aucune manière dans l'attribution de la mention " insuffisant ". [<sup>1</sup> Si la médiation échoue, le magistrat-chef de corps détermine la description de fonction par décision motivée. ]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021201" target="_blank">2026-02-12/01</a>, art. 2, 002; En vigueur : 01-03-2026&gt;
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>.§ 1er. [<sup>1</sup> Si le consensus ne peut être atteint entre l'évaluateur et le membre du personnel sur les objectifs de prestation et de développement personnel visés à l'article 287bis, § 2, alinéa 4, du Code judiciaire, le ministre qui a la Justice dans ses attributions ou son délégué désigne un membre du personnel de niveau A comme médiateur. Le médiateur peut uniquement prendre part à la médiation s'il n'est impliqué d'aucune manière dans l'attribution de la mention " insuffisant ". Si la médiation échoue, le magistrat-chef de corps détermine, sur base de la description de fonction, et le cas échéant de la description de fonction adaptée, les objectifs de prestation et de développement personnel, par décision motivée. ]<sup>1</sup>
+Le cas échéant, les objectifs de prestation sont compatibles avec l'exercice des prérogatives syndicales telles qu'elles sont définies par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, par l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, par la loi du 25 avril 2007 organisant les relations entre les autorités publiques et les organisations syndicales des greffiers de l'Ordre judiciaire, des référendaires près la Cour de cassation, des référendaires, des juristes de parquet et des criminologues près les cours et tribunaux et par [<sup>2</sup> l'arrêté royal du 8 mars 2009 portant exécution de la loi du 25 avril 2007 organisant les relations entre les autorités publiques et les organisations syndicales des greffiers de l'Ordre judiciaire, des référendaires près la Cour de cassation, des référendaires, des juristes de parquet et des criminologues près les cours et tribunaux]<sup>2</sup>.
+§ 2. Par dérogation à l'article 287bis, § 1er, du Code judiciaire et sans préjudice de l'article 6, lorsque la fin d'un cycle d'évaluation, en application de l'article 287bis, § 3, du Code judiciaire, doit avoir lieu dans les six mois qui précèdent la date de démarrage des cycles d'évaluation fixée en application de l'article 3, alinéa 3, le cycle d'évaluation se termine la veille dudit démarrage. Le paragraphe 1er est, le cas échéant, d'application.
+§ 3. Par dérogation à l'article 287bis, § 1er, du Code judiciaire et sans préjudice de l'article 6, lorsque la fin d'un cycle d'évaluation est prévue en application de l'article 287bis, § 3, du Code judiciaire, dans les six mois qui suivent la date de démarrage des cycles d'évaluation fixés en application de l'article 3, alinéa 3, le cycle d'évaluation se termine la veille dudit démarrage. Le paragraphe 1er est, le cas échéant, d'application.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021201" target="_blank">2026-02-12/01</a>, art. 3, 002; En vigueur : 01-03-2026&gt;
+(<font color="red">2</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042007" target="_blank">2026-04-20/07</a>, art. 38, 003; En vigueur : 09-05-2026&gt;
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. L'entretien de cycle d'évaluation a lieu dans le dernier mois du cycle d'évaluation ou dans le mois qui suit la fin de celui-ci.
+Lorsque le membre du personnel est absent au moment de l'entretien, cet entretien a lieu au plus tard dans le mois qui suit la reprise du travail.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. § 1er. Pendant le cycle d'évaluation, un entretien de fonctionnement est tenu sur invitation de l'évaluateur :
+1° en cas de modification du régime de travail afin d'adapter les objectifs de prestation et de développement ;
+2° lors de la reprise de travail d'un membre du personnel qui a été absent pendant plus de septante jours sans interruption, sauf lorsqu'un entretien de cycle d'évaluation doit avoir lieu à ce moment, conformément à l'article 6.
+§ 2. Les objectifs de prestation et de développement peuvent être adaptés de commun accord durant l'entretien de fonctionnement.
+Si le consensus ne peut pas être atteint, le ministre qui a la Justice dans ses attributions ou son délégué, désigne un membre du personnel de niveau A comme médiateur. Le médiateur peut uniquement prendre part à la médiation s'il n'est impliqué d'aucune manière dans l'attribution de la mention " insuffisant ".
+Si la médiation échoue, le magistrat chef de corps prend une décision motivée.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Un entretien de fonctionnement organisé à l'initiative de l'évaluateur a lieu au plus tôt vingt jours prestés après la notification du rapport de l'entretien de fonctionnement précédent.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Sans préjudice de l'article 8, le supérieur hiérarchique décide au plus tôt d'une remédiation pour le membre du personnel lors du deuxième entretien de fonctionnement d'un cycle d'évaluation.
+La mention " insuffisant " visée à l'article 287bis, § 5, alinéa 3, 2°, du Code judiciaire est attribuée lors d'un entretien au cours du cycle d'évaluation et après une remédiation.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#Art.11"> 10</a>. Le supérieur hiérarchique informe le ministre qui a la Justice dans ses attributions de sa décision de remédiation pour le membre du personnel.
+Le ministre qui a la Justice dans ses attributions ou son délégué est responsable de la mise en oeuvre de la remédiation du membre du personnel selon les modalités définies à l'article 287bis, § 6, du Code judiciaire et au chapitre II. Il assure un rôle de conseil au supérieur hiérarchique et au membre du personnel tout au long de la remédiation.
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. A l'issue des entretiens visés à l'article 287bis, § 2, du Code judiciaire et à l'article 8, l'évaluateur rédige un rapport.
+Sans préjudice de l'article 25, le membre du personnel peut adresser à l'évaluateur, qui lui en accuse réception, ses observations et remarques écrites à l'occasion de chaque rapport.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. § 1er. Le rapport de cycle d'évaluation est notifié par l'évaluateur au membre du personnel dans les vingt jours ouvrables qui suivent l'entretien de cycle d'évaluation.
+Sauf disposition dérogatoire, le rapport visé à l'alinéa 1er produit ses effets au terme du cycle d'évaluation.
+§ 2. Le rapport de l'entretien de fonctionnement organisé à l'initiative de l'évaluateur, est notifié par le supérieur hiérarchique au membre du personnel selon les modalités définies au § 1er, alinéa 1er.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Le supérieur hiérarchique procède, le cas échéant après consultation du chef fonctionnel, à l'entretien qui se conclut par une décision de remédiation ou par l'attribution d'une mention " insuffisant ".
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Pour l'application de l'article 6, le magistrat-chef de corps vérifie que chaque membre du personnel obtient son entretien de cycle d'évaluation.
+Lorsque le magistrat-chef de corps est lui-même l'évaluateur, il appartient au collège du ministère public, au collège des cours et tribunaux, au comité de direction de la Cour de cassation ou à un représentant désigné par eux de procéder aux vérifications mentionnées à l'alinéa 1er.
+A défaut d'entretien de cycle d'évaluation dans un délai de trois mois à compter de la fin du cycle d'évaluation visé à l'article 6, alinéa 1er, et sans préjudice de l'article 6, alinéa 2, le cycle d'évaluation prend cours le premier jour qui suit la fin du cycle d'évaluation précédent.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0004"> 15</a>. Par dérogation à l'article 287bis, § 1er, du Code judiciaire, la remédiation décidée par le supérieur hiérarchique lors de l'entretien de cycle d'évaluation ou, le cas échéant lors de l'entretien de fonctionnement, postpose la fin du cycle d'évaluation si son terme arrive durant la remédiation.
+Sans préjudice de l'alinéa 1er, l'entretien qui acte la clôture de la remédiation ou l'attribution de la mention " insuffisant " met fin au cycle d'évaluation.
+Par dérogation à l'article 12, § 1er, alinéa 2, le rapport de l'entretien visé à l'alinéa 2 produit ses effets le premier jour du mois qui suit.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE II.</a> - La remédiation
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. Sans préjudice de l'article 287bis, § 6, alinéa 4, du Code judiciaire :
+1° la durée convenue de la remédiation n'est adaptable qu'une fois ;
+2° il peut, de commun accord, être mis fin à tout moment à la remédiation.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. Sans préjudice de l'article 287bis, § 4, du Code judiciaire et de l'article 9, le ministre qui a la Justice dans ses attributions ou son délégué encadre la remédiation et fait rapport régulier au supérieur hiérarchique.
+Le ministre qui a la Justice dans ses attributions ou son délégué est compétent notamment pour :
+1° proposer les termes de l'accord de remédiation ;
+2° veiller au contrôle sur la mise en oeuvre et le déroulement de la remédiation ;
+3° définir les rôles et les responsabilités des intervenants dans le cadre de la remédiation du membre du personnel ;
+4° faire rapport sur le déroulement de la remédiation en formulant des conclusions et le cas échéant des recommandations.
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#Art.19"> 18</a>. L'accord de remédiation porte sur les éléments suivants :
+1° les objectifs en lien avec le fonctionnement à la base de la demande de remédiation ;
+2° les pistes d'accompagnement envisagées ;
+3° la durée de la période de remédiation ;
+4° la liste de résultats concrets et mesurables attendus, et, le cas échéant, la planification afférente ;
+5° les outils et les formes de soutien à mettre en place et les moyens de développement de compétences adaptés dans le cadre de la remédiation.
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>.§ 1er. Lors d'un entretien de fonctionnement organisé au début de la remédiation, le supérieur hiérarchique, le membre du personnel et le ministre qui a la Justice dans ses attributions ou son délégué s'accordent sur la remédiation et ses modalités.
+Par dérogation à l'alinéa 1er, [<sup>1</sup> et sans préjudice du paragraphe 4, ]<sup>1</sup> le membre du personnel peut refuser la remédiation.
+Le refus de remédiation n'empêche pas l'attribution possible de la mention " insuffisant " au terme de six mois sans préjudice des soixante jours prestés minimum visés à l'article 287bis, § 6, alinéa 4, du Code judiciaire.
+Par dérogation [<sup>1</sup> à l'article 287bis, § 2, alinéa 4, du Code judiciaire et ]<sup>1</sup> à l'article 5, § 1er, l'évaluation du membre du personnel en remédiation se concentre sur les objectifs de prestation et les objectifs de développement définis dans l'accord de remédiation visé à l'article 18.
+§ 2. A intervalles réguliers convenus par les parties à la remédiation, lors d'un entretien de fonctionnement, le supérieur hiérarchique décide, notamment sur base du rapportage effectué par le ministre qui a la Justice dans ses attributions ou son délégué, des suites à donner à la remédiation.
+§ 3. A la fin de la remédiation convenue et sans préjudice de l'article 287bis, § 6, alinéa 4, du Code judiciaire et de l'article 16, le supérieur hiérarchique clôture la remédiation lors d'un entretien et décide, notamment sur la base du rapportage transmis par le ministre qui a la Justice dans ses attributions ou son délégué, que le membre du personnel :
+1° intègre un nouveau cycle d'évaluation ;
+2° bénéficie d'une prolongation de la remédiation ;
+3° se voit attribuer la mention " insuffisant ".
+Pour l'alinéa 1er, 1° et 3°, l'entretien de fonctionnement est assimilé à un entretien de cycle d'évaluation.
+[<sup>1</sup> § 4. La remédiation est obligatoire pour le membre du personnel auquel la mention " insuffisant " est attribuée. ]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021201" target="_blank">2026-02-12/01</a>, art. 4, 002; En vigueur : 01-03-2026&gt;
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0005"> 20</a>. Le ministre qui a la Justice dans ses attributions ou son délégué fait rapport au supérieur hiérarchique et à l'évalué sur l'état d'avancement de la remédiation et formule des conclusions et, éventuellement, des recommandations au moins une fois au cours d'une période de remédiation de six mois.
+A la fin de la période de remédiation convenue conformément à l'article 18, et sans préjudice de l'article 287bis, § 6, alinéa 4, du Code judiciaire et de l'article 16, le ministre qui a la Justice dans ses attributions ou son délégué fait rapport à l'évaluateur et à l'évalué des conclusions et, éventuellement, des recommandations sur l'évolution du membre du personnel et sur l'exécution de l'accord de remédiation. A cette occasion, il peut proposer au supérieur hiérarchique :
+1° de démarrer un nouveau cycle d'évaluation pour le membre du personnel ;
+2° de prolonger la remédiation pour le membre du personnel ;
+3° d'attribuer une mention " insuffisant ".
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE III.</a> - Recours contre une mention " insuffisant " et son rapport d'évaluation auprès de la commission d'évaluation
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. La commission d'évaluation délibère valablement lorsqu'au moins six membres sont présents, à concurrence de trois membres désignés par le ministre qui a la Justice dans ses attributions, comptant le président, et de trois membres désignés par les organisations syndicales représentatives.
+Lorsque plus de six membres sont présents et qu'au moment du vote, le nombre de membres désignés par le ministre qui a la Justice dans ses attributions et le nombre de membres désignés par les organisations syndicales représentatives n'est pas égal, la parité est rétablie par tirage au sort. Le président ne prend pas part au tirage au sort.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#Art.23"> 22</a>. Un membre de la commission d'évaluation ne peut siéger que s'il n'a pris part, en aucune façon, à l'attribution de la mention ou au déroulement du stage.
+Le membre du personnel et l'évaluateur sont invités d'office à être entendus.
+La commission d'évaluation peut entendre le magistrat-chef de corps ou tout autre intervenant qui est impliqué dans l'évaluation concernée.
+Le vote a lieu au scrutin secret. En cas de partage des voix, le président détermine la portée de l'avis ou, en cas de stage, de la décision ou de la proposition.
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>. § 1er. Le membre du personnel comparaît devant la commission d'évaluation. Il peut se faire assister par la personne de son choix. Il ne peut pas se faire représenter.
+Le défendeur ne peut faire partie, à aucun titre, de la commission d'évaluation.
+La comparution du membre du personnel, à sa demande, n'est pas incompatible avec l'usage des technologies nouvelles de communication. L'accord du membre du personnel est requis.
+§ 2. La commission d'évaluation délibère sans entendre le membre du personnel, sur la base du seul dossier d'évaluation, lorsque le membre du personnel n'a pas répondu à la première ni à la deuxième convocation.
+§ 3. L'absence de l'évaluateur n'empêche pas la commission d'évaluation de délibérer.
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. Le recours visé à l'article 287bis, § 8, alinéa 1er, du Code judiciaire est introduit auprès du magistrat chef de corps, qui en accuse immédiatement réception et transmet le recours sans délai à la commission d'évaluation. Le magistrat-chef de corps transmet également à celle-ci une copie de la partie du dossier d'évaluation individuel relatif au cycle d'évaluation concernée par le recours.
+La Commission peut, pour les besoins du recours, demander à consulter l'ensemble des pièces du dossier d'évaluation individuel.
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0006"> 25</a>. Dans les vingt jours ouvrables qui suivent la réception de l'avis visé à l'article 287bis, § 8, alinéa 2, du Code judiciaire, le ministre qui a la Justice dans ses attributions ou son délégué communique sa décision au membre du personnel.
+Le cas échéant, la remédiation prévue au chapitre II débute au plus tôt le lendemain du jour où le ministre qui a la Justice dans ses attributions ou son délégué a communiqué au membre du personnel l'avis de la commission d'évaluation en même temps que la décision qu'il a éventuellement prise.
+Lorsque la commission d'évaluation a proposé de maintenir la mention " insuffisant ", le ministre qui a la Justice dans ses attributions ou son délégué en informe le membre du personnel et lui communique l'avis.
+
+<a name="LNK0006" href="#LNKR0006">TITRE III.</a> - Dispositions spécifiques au stagiaire
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. Dans chaque service, le stage est dirigé par l'évaluateur.
+L'accord du magistrat-chef de corps est requis lorsqu'il en est fait mention explicite dans les dispositions du présent titre.
+
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#Art.28"> 27</a>. L'entretien de planification de stage a lieu dans le mois qui suit le début du stage. Au cours de l'entretien de planification de stage, l'évaluateur définit les objectifs de prestation et au moins deux objectifs de développement personnel de manière à :
+1° permettre l'intégration optimale du stagiaire au sein de son service et de l'ordre judiciaire en général ;
+2° établir si le stagiaire possède les aptitudes et capacités requises à l'exercice de la fonction afférentes à l'emploi qu'il occupe.
+L'entretien de planification du stagiaire prévoit dans quelle mesure, chaque objectif défini à l'alinéa 1er doit être rempli afin de permettre l'appréciation de l'évolution du stagiaire lors de chaque entretien de fonctionnement obligatoire défini à l'article 28.
+
+<a name="Art.28" href="#Art.27">Art.</a> <a href="#Art.29"> 28</a>. § 1er. Les entretiens de fonctionnement visent à faire le point sur le fonctionnement du stagiaire, sur les résultats atteints, sur les difficultés éventuelles et sur les moyens à mobiliser pour y remédier. A la demande du stagiaire, le magistrat-chef de corps ou son délégué prend part aux entretiens.
+Afin de permettre l'appréciation de l'évolution du stagiaire au cours du stage, les objectifs fixés lors de l'entretien de planification, ou adaptés lors d'un précédent entretien de fonctionnement, sont complétés, adaptés ou précisés lors de chaque entretien de fonctionnement obligatoire.
+Chaque entretien de fonctionnement obligatoire se clôture par un rapport.
+§ 2 L'évaluateur transmet le rapport de l'entretien de fonctionnement obligatoire au stagiaire dans les vingt jours ouvrables qui suivent l'entretien. Une copie en est communiquée sans délai au magistrat-chef de corps.
+§ 3. La mention de fonctionnement " insuffisant " obtenue lors des entretiens de fonctionnement obligatoires de stage visés à l'article 287ter, § 2, du Code judiciaire est sans effet sur la carrière du membre du personnel.
+
+<a name="Art.29" href="#Art.28">Art.</a> <a href="#Art.30"> 29</a>. § 1er. L'entretien d'évaluation de stage a lieu dans le dernier mois du stage, éventuellement prolongé.
+Lorsque le stagiaire est absent au moment de l'entretien, cet entretien est reporté au plus tard dans le mois qui suit la reprise du travail.
+§ 2. L'entretien de fin de stage se clôture par un rapport.
+
+<a name="Art.30" href="#Art.29">Art.</a> <a href="#Art.31"> 30</a>. Le magistrat-chef de corps ou son délégué réalise lui-même l'évaluation du stagiaire en cas de manquement de l'évaluateur.
+
+<a name="Art.31" href="#Art.30">Art.</a> <a href="#Art.32"> 31</a>. Pendant la période de prolongation du stage conformément à l'article 287ter, § 3, alinéa 2, 2°, du Code judiciaire, l'évaluateur décide, en concertation avec le magistrat-chef de corps, s'il y a lieu pour le stagiaire soit de compléter sa formation soit de toute autre mesure d'amélioration.
+
+<a name="Art.32" href="#Art.31">Art.</a> <a href="#LNK0007"> 32</a>. Lorsque la période de stage est considérée comme favorable à la nomination, le premier cycle d'évaluation défini à l'article 3 démarre le premier jour qui suit la nomination définitive.
+
+<a name="LNK0007" href="#LNKR0007">TITRE IV.</a> - Disposition abrogatoire
+
+<a name="Art.33" href="#Art.32">Art.</a> <a href="#LNK0008"> 33</a>. L'arrêté royal du 27 mai 2014 relatif à l'évaluation des membres du personnel de l'Ordre judiciaire est abrogé.
+
+<a name="LNK0008" href="#LNKR0008">TITRE V.</a> - Entrée en vigueur
+
+<a name="Art.34" href="#Art.33">Art.</a> <a href="#Art.35"> 34</a>. Le présent arrêté entre en vigueur le 1er janvier 2026.
+
+<a name="Art.35" href="#Art.34">Art.</a> <a href="#LNK0009"> 35</a>. Les articles 4, 6 à 11, 12, a) et b), 13 à 18, 22 à 29, 50, 67 à 73, 74, 4°, 75 à 77 et 79 de la loi du 7 mai 2024 portant des dispositions diverses relatives au statut du personnel judiciaire entrent en vigueur le 31 décembre 2025.
+
+<a name="LNK0009" href="#LNKR0009">TITRE VI.</a> - Disposition finale
+
+<a name="Art.36" href="#Art.35">Art.</a> 36. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
