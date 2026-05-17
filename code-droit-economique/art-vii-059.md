@@ -6,7 +6,7 @@ Le Roi peut modifier le montant visé à l'alinéa 2.
 Dans ce cas, avant d'ouvrir un service bancaire de base, l'établissement de crédit peut vérifier si le consommateur détient déjà ou non un compte de paiement auprès d'un autre établissement de crédit situé en Belgique qui lui permet d'utiliser les services visés à l'article VII.57, § 1er. L'établissement de crédit peut se fonder sur une déclaration sur l'honneur signée à cette fin par le consommateur.
 Dans les cas où l'institution de crédit refuse, elle en informe le consommateur immédiatement après sa décision de refus.
 § 2. L'établissement de crédit peut résilier le service bancaire de base si l'une au moins des conditions suivantes est remplie:
-1° le consommateur est condamné pour escroquerie, abus de confiance, banqueroute frauduleuse, faux en écriture, ou le consommateur a délibérément utilisé son compte de paiement, dans le cadre du service bancaire de base, à des fins illégales;
+1° le consommateur est, au cours des cinq dernières années, condamné pour escroquerie, abus de confiance, banqueroute frauduleuse, faux en écriture, ou le consommateur a délibérément utilisé son compte de paiement, dans le cadre du service bancaire de base, à des fins illégales;
 2° dans le cadre du service bancaire de base, il n'y a eu aucune opération de paiement sur le compte de paiement concerné pendant plus de vingt-quatre mois consécutifs;
 3° le consommateur a fourni des informations inexactes pour obtenir un service bancaire de base, alors que des informations exactes auraient conduit à l'absence d'un tel droit au service bancaire de base;
 4° le consommateur ne répond plus aux conditions de résidence visées à l'article VII.57, § 2, alinéa 1er;

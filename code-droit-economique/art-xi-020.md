@@ -23,12 +23,16 @@ La requête ne peut être intégralement ou partiellement rejetée sans que soit
 2° la requête est présentée dans le délai fixé par le Roi;
 3° la requête expose les motifs pour lesquels le délai de priorité n'a pas été respecté;
 4° l'Office constate que, dans le délai de priorité, la demande ultérieure n'a pas été déposée bien que la diligence requise en l'espèce ait été exercée.
+La requête en restauration de priorité est inscrite au registre.
 La requête ne peut être intégralement ou partiellement rejetée sans que soit donnée à la partie requérante la possibilité de présenter, dans un délai fixé par le Roi, des observations sur le refus envisagé.
+La décision de restauration ou de refus est publiée au registre.
 § 10. Lorsqu'une copie d'une demande antérieure comme preuve de priorité n'est pas remise à l'Office dans le délai prescrit par le Roi, l'Office rétablit le droit de priorité, si:
 1° une requête à cet effet est présentée à l'Office conformément aux conditions prescrites par le Roi;
 2° la requête est présentée dans le délai prescrit par le Roi pour la remise de la copie de la demande antérieure;
 3° l'Office constate que, dans le délai prescrit par le Roi, la copie à fournir a été demandée à l'office auprès duquel la demande antérieure a été déposée;
 4° une copie de la demande antérieure est remise dans le délai prescrit par le Roi.
+La requête en rétablissement de priorité est inscrite au registre.
 La requête ne peut être intégralement ou partiellement rejetée sans que soit donnée à la partie requérante la possibilité de présenter, dans un délai fixé par le Roi, des observations sur le refus envisagé.
+La décision de rétablissement ou de refus est publiée au registre.
 § 11. Le dépôt d'une requête aux termes des paragraphes 8, 9 et 10 donne lieu au paiement de la taxe fixée par le Roi.
 La requête visée aux paragraphes 8, 9 et 10 est de plein droit sans effet si la taxe visée à l'alinéa 1er n'a pas été payée dans le délai prévu par le Roi.

@@ -1,2 +1,1 @@
-Lorsque l'organe d'inscription constate qu'un prestataire de services d'intermédiation de données ne satisfait pas aux conditions énoncées aux articles 11, 12 et 31 du règlement 2022/868 et à la section 1re du présent chapitre, il le lui notifie par envoi recommandé et lui donne la possibilité d'exposer son point de vue dans un délai de trente jours. Ce délai commence à courir le troisième jour qui suit celui de l'envoi de la notification.
-Si, après l'expiration de ce délai, les mesures nécessaires n'ont pas été prises, l'organe d'inscription peut décider du report du début de la fourniture du service d'intermédiation de données ou de la suspension de la fourniture du service d'intermédiation de données. Cette décision est notifiée par envoi recommandé.
+(Abrogé)

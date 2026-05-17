@@ -1,5 +1,5 @@
 § 1er. Toute annonce d'une réduction de prix au consommateur indique le prix antérieur appliqué par l'entreprise pendant une durée déterminée avant l'application de la réduction de prix.
 Le prix antérieur désigne le prix le plus bas appliqué par l'entreprise au cours d'une période de trente jours avant l'application de la réduction de prix.
 Si l'entreprise exploite plusieurs points de vente ou utilise plusieurs techniques de vente, le prix de référence est le prix le plus bas qu'elle a appliqué au cours de la période visée à l'alinéa 2 dans le point de vente ou selon la technique de vente pour lesquels l'annonce est faite.
-§ 2. Pour les produits qui sont sur le marché depuis moins de trente jours, le prix antérieur est le prix le plus bas que l'entreprise a pratiqué pendant une période qui n'est pas inférieure à sept jours avant l'application de la réduction de prix.
+§ 2. Pour les biens qui sont sur le marché depuis moins de trente jours, le prix antérieur est le prix le plus bas que l'entreprise a pratiqué pendant une période qui n'est pas inférieure à sept jours avant l'application de la réduction de prix.
 § 3. Les périodes visées aux paragraphes 1er et 2 ne sont pas d'application pour les biens susceptibles de se détériorer ou d'expirer rapidement.
