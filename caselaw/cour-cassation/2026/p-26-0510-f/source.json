@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.26.0510.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-05-27",
+  "date_as_printed": "27 MAI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0510.F.pdf",
+  "source_sha256": "2c94d0c68e7631435d1f5d4e574f319ad4dbcb15f076afaa983761e328a26167",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
