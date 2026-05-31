@@ -1,0 +1,13 @@
+# 18 AVRIL 2024. - Arrêté royal relatif à la lutte contre la rhinotrachéite infectieuse bovine
+
+Official issuer: Sante Publique, Sécurité de la Chaine Alimentaire et Environnement.
+
+[Official consolidated text](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-05-06&numac_search=2024004072&page=86&lg_txt=F&caller=list&2024004072=29&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f).
+
+Current consolidated text; oldest version available in this record. One version, dated 2026-05-31 by the source. Earlier versions are not included.
+
+Made: 2024-04-18. Published: 2024-05-06.
+
+In-force basis: Justel: Entrée en vigueur : 16 mai 2024; latest dated amendment note En vigueur: 2026-05-31; source explicitly supplies the commencement date.
+
+Text is reproduced as Justel publishes it, including textual amendment notes and annexes.
