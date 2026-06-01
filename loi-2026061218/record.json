@@ -1,0 +1,21 @@
+{
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-06-30&numac_search=2026201717&page=3&lg_txt=F&caller=list&2026201717=1&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+  "source_sha256": "78301d2f9300591ee51fe8bd9447ddafb221bb0e7722cb6547825087aa55ab1c",
+  "title": "12 juin 2026. - Loi modifiant la loi du 20 juillet 1991 portant des dispositions sociales et diverses",
+  "numac_search": "2026201717",
+  "act_id": "2026061218",
+  "kind": "publisher",
+  "language": "fr",
+  "in_force": "2026-06-01",
+  "in_force_basis": "Justel: entre en vigueur le 1er juin 2026",
+  "provisions": 10,
+  "source_tokens": 2923,
+  "text_status": "current consolidated text; oldest version available in this runner pass",
+  "listing": {
+    "url": "https://www.ejustice.just.fgov.be/cgi_loi/list.pl?language=fr&sum_date=&page=3&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+    "sha256": "0adfcefc2e0c6f95e390bd1aea57b0fe5b21ed8dd9db54f13cc0eeffc37d0a96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
