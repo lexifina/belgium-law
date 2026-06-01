@@ -1,0 +1,32 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. L'article 61/1 de la loi du 4 avril 2014 relative aux assurances, inséré par la loi du 4 avril 2019 et remplacé par la loi du 30 octobre 2022, est complété par un 3° rédigé comme suit :
+"3° à l'assurance annulation voyage, qui rembourse en tout ou en partie les personnes assurées en cas d'annulation d'un voyage pour des raisons médicales, familiales ou professionnelles.".
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. Dans la partie 4, titre II, chapitre 1er, section Ibis, de la même loi, il est inséré une sous-section 1/1, comportant un article 61/1/1, intitulée "Sous-section 1/1. - Document d'information".
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Dans la sous-section 1/1 insérée par l'article 3, il est inséré un article 61/1/1 rédigé comme suit :
+"Art. 61/1/1. L'entreprise d'assurances fournit au candidat assuré, de sa propre initiative, par écrit et de manière claire, explicite et non équivoque, des informations concernant les dispositions de la présente section, le Bureau du suivi de la tarification visé à l'article 217 et la Caisse de compensation agréée conformément à l'article 220, sous la forme d'un document d'information standardisé. Ce document d'information est transmis au candidat assuré au moins en même temps que le questionnaire médical et conjointement avec ce dernier. Il est également publié sur le site internet de l'entreprise d'assurances.
+Le Roi peut, après avoir recueilli l'avis du Centre fédéral d'expertise des soins de santé, déterminer la forme et les lignes directrices concernant le contenu du document d'information standardisé."
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Dans l'article 61/2 de la même loi, inséré par la loi du 4 avril 2019 et remplacé par la loi du 30 octobre 2022, les paragraphes 1 et 2 sont remplacés par ce qui suit :
+" § 1er. Sans préjudice de l'article 58, les personnes qui sont ou ont été atteintes d'une pathologie cancéreuse, quel qu'en soit le type, et qui veulent contracter une assurance telle que visée à l'article 61/1, 1°, ne doivent plus, à l'expiration d'un délai de cinq ans après la fin d'un traitement réussi et en l'absence de rechute dans ce délai, déclarer cette pathologie à leur assureur.
+§ 2. Si l'entreprise d'assurances a connaissance de la pathologie cancéreuse visée au paragraphe 1er, il lui est interdit, à l'expiration d'un délai de cinq ans après la fin d'un traitement réussi et en l'absence de rechute dans ce délai, de prendre en compte cette pathologie cancéreuse pour déterminer l'état de santé actuel, tel que visé à l'article 61."
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Dans l'article 61/8 de la même loi, inséré par la loi du 30 octobre 2022, les paragraphes 1 et 2 sont remplacés par ce qui suit :
+" § 1er. Sans préjudice de l'article 58, les personnes qui sont ou ont été atteintes d'une pathologie cancéreuse, quel qu'en soit le type, et qui veulent contracter une assurance telle que visée à l'article 61/1, 2°, ne doivent plus, à l'expiration d'un délai de cinq ans après la fin d'un traitement réussi et en l'absence de rechute et d'incapacité de travail à la suite de la pathologie cancéreuse dans ce délai, déclarer cette pathologie à leur assureur.
+§ 2. Si l'entreprise d'assurances a connaissance de la pathologie cancéreuse visée au paragraphe 1er, il lui est interdit, à l'expiration d'un délai de cinq ans après la fin d'un traitement réussi et en l'absence de rechute et d'incapacité de travail à la suite de la pathologie cancéreuse dans ce délai, de prendre en compte cette pathologie cancéreuse pour déterminer l'état de santé actuel, tel que visé à l'article 61."
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Dans la partie 4, titre II, chapitre 1er, section Ibis, de la même loi, il est inséré une sous-section 4, comportant les articles 61/14 et 61/15, intitulée "Sous-section 4. - Assurance annulation voyage".
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Dans la sous-section 4 insérée par l'article 7, il est inséré un article 61/14 rédigé comme suit :
+"Art. 61/14. § 1er. Pour l'assurance visée à l'article 61/1, 3°, toute pathologie stable au moment de la réservation du voyage visée au paragraphe 3 est considérée comme oubliée en ce sens qu'en cas d'annulation ultérieure, cette pathologie ne pourra pas être invoquée par l'assureur pour ne pas accorder la garantie assurée.
+§ 2. Sans préjudice de l'article 58, nulle personne atteinte d'une pathologie stable visée au paragraphe 3 n'est tenue de la déclarer à son assureur. Si l'entreprise d'assurance a connaissance d'une pathologie visée à l'alinéa 1er, il lui est interdit de prendre en compte cette pathologie pour déterminer l'état de santé actuel, tel que visé à l'article 61.
+§ 3. Par pathologie stable, on entend toute pathologie qui ne nécessite aucun nouveau traitement médical ou médicament durant le mois précédant la réservation du voyage et pour laquelle, selon le médecin traitant, il n'existe aucune contre-indication médicale à effectuer le voyage.
+§ 4. Le Roi peut fixer les modalités d'application du présent article, notamment les modalités administratives et les procédures de vérification d'une pathologie stable."
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. Dans la même sous-section 4, il est inséré un article 61/15 rédigé comme suit :
+"Art. 61/15. Sans préjudice de la compétence des cours et tribunaux, les litiges relatifs à l'application des dispositions de la présente sous-section sont d'abord soumis, par la partie la plus diligente, au Bureau du suivi de la tarification visé à l'article 217. Le Bureau du suivi de la tarification donne son avis dans un délai de quinze jours ouvrables prenant cours à la date de la réception du dossier complet. Sur simple demande du Bureau, l'entreprise d'assurance transmet son dossier.
+Le financement de la mission d'avis du Bureau du suivi de la tarification sur les litiges visés à l'alinéa 1er est à charge de la Caisse de compensation agréée conformément à l'article 220."
+
+<a name="Art.10" href="#Art.9">Art.</a> 10. La présente loi entre en vigueur le premier jour du treizième mois qui suit celui de sa publication au Moniteur belge.
