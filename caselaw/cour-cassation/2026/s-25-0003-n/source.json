@@ -1,0 +1,11 @@
+{
+  "title": "Arrest S.25.0003.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-01",
+  "date_as_printed": "1 JUNI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.25.0003.N.pdf",
+  "source_sha256": "cb862396d08e18fa47a1aac43663b4446a3f0dcacef18ddebb453d5d9fe9364a",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
