@@ -1,0 +1,12 @@
+{
+  "title": "Arrêt C.23.0459.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-08",
+  "date_as_printed": "8 JUIN 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.23.0459.F.pdf",
+  "source_sha256": "e9bba3434afc07568e8b02fc592446bb89b0ba185b4e8644631cc7704fe3fc74",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "metadata and official link only: private-person detail may be present",
+  "privacy_indicator": "domicilié"
+}
