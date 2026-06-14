@@ -1,0 +1,29 @@
+{
+  "id": "2025005063",
+  "title": "10 MARS 2025. - Arrêté ministériel établissant les valeurs de référence des mesures d'azote potentiellement lessivable pour l'année 2024",
+  "source_title": "10 MARS 2025. - Arrêté ministériel établissant les valeurs de référence des mesures d'azote potentiellement lessivable pour l'année 2024",
+  "act": "arrete/wallonia-service/2025/2025005063",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-06-04&numac_search=2025005063&page=9&lg_txt=F&caller=list&2025005063=6&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "15ab0b92cb47d60ef25840992563f186cbee160c87c69db3f1d89dc0c51dc6d0",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-03-10",
+  "published": "2026-06-04",
+  "in_force": "2026-06-14",
+  "in_force_basis": "Justel: Entrée en vigueur : 14 juin 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "4 juin 2026",
+    "Numéro": "2025005063",
+    "page": "30389",
+    "Dossier numéro": "2025-03-10/08",
+    "Entrée en vigueur": "14 juin 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 829,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-06-14"
+}
