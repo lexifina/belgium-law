@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0393.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-16",
+  "date_as_printed": "16 JUNI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0393.N.pdf",
+  "source_sha256": "61f183184c88824eb4de03dca019665c3826df5422ff283bf5e1184c327277d3",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
