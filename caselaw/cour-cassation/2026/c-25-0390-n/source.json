@@ -1,0 +1,11 @@
+{
+  "title": "Arrest C.25.0390.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-29",
+  "date_as_printed": "29 JUNI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.25.0390.N.pdf",
+  "source_sha256": "d28d92afa1b204ce8fba5b8aa0d380d58bee675aea1a78c2d4e0811503505b79",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
