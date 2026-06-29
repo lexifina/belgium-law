@@ -1,0 +1,11 @@
+{
+  "title": "Arrest S.24.0021.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-29",
+  "date_as_printed": "29 JUNI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.24.0021.N.pdf",
+  "source_sha256": "e6db3c2f6adf19e2ffaa7e79ed46e421aebd3d391a95c2c002ebe4b8cdbb59fb",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
