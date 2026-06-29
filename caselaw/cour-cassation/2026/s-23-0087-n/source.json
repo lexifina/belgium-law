@@ -1,0 +1,11 @@
+{
+  "title": "Arrest S.23.0087.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-06-29",
+  "date_as_printed": "29 JUNI 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.23.0087.N.pdf",
+  "source_sha256": "e2c01542015a999954283df6d4a122d533b12fa13f4a4a985311e053a4b0e6ac",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
