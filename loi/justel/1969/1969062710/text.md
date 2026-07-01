@@ -54,10 +54,11 @@ Dans ce cas, le donneur d'ordre est assimilé à l'employeur et doit assumer les
 ----------
 (<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022121609" target="_blank">2022-12-16/09</a>, art. 18, 091; En vigueur : 01-01-2024&gt;
 
-<a name="Art.1ter" href="#Art.1bis">Art.</a> <a href="#Art.%201quater."> 1ter</a>.[<sup>1</sup> La présente loi est également applicable aux travailleurs exerçant un flexi-job [<sup>2</sup> et aux employeurs qui ressortissent d'une des commissions paritaires ou du Fonds social et de garantie visés à l'article 2 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale]<sup>2</sup> et qui sont liés par un contrat de travail flexi-job.]<sup>1</sup>
+<a name="Art.1ter" href="#Art.1bis">Art.</a> <a href="#Art.%201quater."> 1ter</a>.[<sup>1</sup> La présente loi est également applicable aux travailleurs exerçant un flexi-job [<sup>2</sup> et aux employeurs [<sup>3</sup> visés à l'article 2 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale]<sup>3</sup>]<sup>2</sup> qui sont liés par un contrat de travail flexi-job.]<sup>1</sup>
 ----------
 (<font color="red">1</font>)&lt;Inséré par L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2015111605" target="_blank">2015-11-16/05</a>, art. 13, 059; En vigueur : 01-12-2015&gt;
 (<font color="red">2</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017122501" target="_blank">2017-12-25/01</a>, art. 40, 067; En vigueur : 01-01-2018&gt;
+(<font color="red">3</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062803" target="_blank">2026-06-28/03</a>, art. 2, 093; En vigueur : 01-07-2026&gt;
 
 <a name="Art.%201quater." href="#Art.1ter">Art.</a> <a href="#Art.2">1quater</a>. [<sup>1</sup> § 1er. Les titulaires d'une licence de "coureur élite avec contrat", délivrée par la Royale Ligue Vélocipédique Belge, sont réputés se trouver dans les liens d'un contrat de travail d'employé en ce qui concerne l'application de la présente loi.
 § 2. La Royale Ligue Vélocipédique Belge est réputée, pour l'application de la présente loi, être l'employeur des personnes visées au présent article.
