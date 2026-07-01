@@ -1,0 +1,30 @@
+{
+  "id": "2025004290",
+  "title": "30 MAI 2025. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus et portant adaptation de la taxe de mise en circulation",
+  "source_title": "30 MAI 2025. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus et portant adaptation de la taxe de mise en circulation",
+  "act": "decret/wallonia-service/2025/2025004290",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2025-06-12&numac_search=2025004290&page=7&lg_txt=F&caller=list&2025004290=2&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=SERVICE+PUBLIC+DE+WALLONIE",
+  "source_sha256": "ebd06f8278b57ba1fb692dbb22bf6ecd2f15e8f5db010ee97b72b3713a084f2a",
+  "source_issuer": "Service public de Wallonie",
+  "made": "2025-05-30",
+  "published": "2025-06-12",
+  "in_force": "2026-07-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 juillet 2025; own clause: Art. 4. Le présent décret entre en vigueur le 1er juillet 2025. | Par dérogation, l'article 2 entre en vigueur au 1er juillet 2026.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Service public de Wallonie",
+    "Publication": "12 juin 2025",
+    "Numéro": "2025004290",
+    "page": "52935",
+    "Dossier numéro": "2025-05-30/02",
+    "Entrée en vigueur": "1 juillet 2025",
+    "Ce texte modifie le texte suivant": ""
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 2066,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-07-01"
+}
