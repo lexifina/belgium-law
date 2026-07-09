@@ -1,0 +1,21 @@
+{
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-06-29&numac_search=2026004579&page=5&lg_txt=F&caller=list&2026004579=18&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+  "source_sha256": "59b77e8181bc4e5bcefbe87f1192b9adfd21c13a3c44d9546eebebe8ac007dd1",
+  "title": "7 janvier 2026. - Loi portant assentiment à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018",
+  "numac_search": "2026004579",
+  "act_id": "2026010715",
+  "kind": "publisher",
+  "language": "fr",
+  "in_force": "2026-07-09",
+  "in_force_basis": "Justel: Entrée en vigueur : 9 juillet 2026",
+  "provisions": 2,
+  "source_tokens": 73,
+  "text_status": "current consolidated text; oldest version available in this runner pass",
+  "listing": {
+    "url": "https://www.ejustice.just.fgov.be/cgi_loi/list.pl?language=fr&sum_date=&page=5&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+    "sha256": "526e0457595bfb1ab4f8af4e5478451b85b762b86fa657ff4513b49b1b758d0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
