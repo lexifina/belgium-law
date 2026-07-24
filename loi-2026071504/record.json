@@ -1,0 +1,21 @@
+{
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-07-24&numac_search=2026201893&page=2&lg_txt=F&caller=list&2026201893=3&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+  "source_sha256": "4add12035cc23f750648d21cbda45472415331109f296b0cf01bf3e514e33609",
+  "title": "15 juillet 2026. - Révision de l'article 195 de la Constitution",
+  "numac_search": "2026201893",
+  "act_id": "2026071504",
+  "kind": "publisher",
+  "language": "fr",
+  "in_force": "2026-07-24",
+  "in_force_basis": "Justel: Entrée en vigueur : 24 juillet 2026",
+  "provisions": 1,
+  "source_tokens": 284,
+  "text_status": "current consolidated text; oldest version available in this runner pass",
+  "listing": {
+    "url": "https://www.ejustice.just.fgov.be/cgi_loi/list.pl?language=fr&sum_date=&page=2&trier=promulgation&dt=LOI&ddd=2026-01-01&ddf=2026-12-31&fr=f",
+    "sha256": "390b8a560beedcfbac0ada7efdf3f1bad1b00b10bc97f811a7f0633032f5dae2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}

@@ -1,0 +1,21 @@
+Texte
+
+Article 1. Article unique. A l'article 195 de la Constitution, la disposition transitoire, insérée par la révision de la Constitution du 29 mars 2012, est remplacée par ce qui suit :
+
+"Disposition transitoire
+
+Toutefois, les Chambres, constituées à la suite du renouvellement des Chambres du 9 juin 2024 peuvent, d'un commun accord avec le Roi, statuer sur la révision des dispositions et articles suivants, exclusivement dans le sens indiqué ci-dessous :
+
+1° l'article 36, en vue de stipuler que le pouvoir législatif fédéral se compose de la Chambre des représentants et du Roi;
+
+2° l'article 74, en vue d' abroger l'article;
+
+3° l'article 100, alinéa 2, troisième phrase, en vue d'abroger cette phrase;
+
+4° l'article 143, § 2, en vue de ne plus attribuer au Sénat un rôle dans la prévention et le règlement des conflits d'intérêts;
+
+5° l'article 198, en vue de confier les compétences prévues dans cet article au Roi et à la Chambre des représentants constituante.
+
+Les Chambres ne pourront délibérer sur les points visés à l'alinéa 1er si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et nul changement ne sera adopté s'il ne réunit au moins les deux tiers des suffrages.
+
+La présente disposition transitoire ne constitue pas une déclaration au sens de l'article 195, alinéa 2.".
