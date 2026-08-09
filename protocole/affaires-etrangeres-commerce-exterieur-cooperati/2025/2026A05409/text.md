@@ -1,0 +1,3 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> 2. Le Protocole additionnel entre le Royaume de Belgique et l'Organisation européenne pour la sécurité de la navigation aérienne, à l'Accord entre l'Organisation européenne pour la sécurité de la navigation aérienne et le Royaume de Belgique sur les privilèges et immunités de l'organisation complémentaire à la Convention internationale de coopération pour la sécurité de la navigation aérienne " Eurocontrol " du 13 décembre 1960, signé à Bruxelles le 17 juillet 2006, fait à Bruxelles le 23 juillet 2025, sortira son plein et entier effet.
