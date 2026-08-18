@@ -1,0 +1,11 @@
+{
+  "title": "Arrest 26CAS0495",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-08-18",
+  "date_as_printed": "18 AUGUSTUS 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/26CAS0495.pdf",
+  "source_sha256": "a694e9563efabbf35a02626858a773eaceb613921831e55ab3c1ba01f4470920",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
