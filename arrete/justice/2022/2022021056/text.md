@@ -1,0 +1,133 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1.</a> - Définitions
+
+<a name="Art.1er"></a>Article <a href="#LNK0002"> 1er</a>. Pour l'application du présent arrêté, on entend par :
+1° la loi : la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine ;
+2° le service compétent des communautés: le service désigné par les communautés qui assure l'information générale et spécifique et le soutien et l'assistance des victimes dans le cadre des modalités d'exécution de la peine privative de liberté ;
+3° la fiche victime : un document dont le modèle est déterminé par le ministre de la Justice et qui comprend les informations suivantes:
+- les données d'identification de la victime et, le cas échéant, de son représentant légal (nom, prénoms, ainsi que le numéro du Registre national ou, à défaut, leurs lieu et date de naissance) et les coordonnées de la victime ou de son représentant légal;
+- le nom du condamné à l'égard duquel la victime souhaite exercer ses droits dans le cadre de l'exécution de la peine privative de liberté et, le cas échéant, la date de naissance, le lien éventuel avec la personne condamnée, ainsi que la date du jugement et le tribunal qui l'a rendu ;
+- l'indication que la victime souhaite être informée des décisions relatives aux modalités d'exécution de la peine, de la fin de la peine et de la libération définitive;
+- l'indication que la victime souhaite être entendue par le juge de l'application des peines ou le tribunal de l'application des peines ;
+- la formulation des conditions susceptibles d'être imposées dans l'intérêt de la victime ;
+- si la victime le souhaite, les informations relatives à l'indemnisation et toutes autres informations supplémentaires que la victime veut communiquer au juge de l'application des peines ou au tribunal de l'application des peines ;
+- les droits de la victime dans le cadre de la protection de ses données à caractère personnel, comme énoncés au titre II, chapitre 3, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+4° le greffe : le greffe du tribunal de l'application des peines ;
+5° banque de données informatisée : le Dossier Judiciaire Electronique Intégré de Suivi, visé par l'article 15 de la loi du 5 mai 2019 portant dispositions diverses en matière d'informatisation de la Justice, de modernisation du statut des juges consulaires et relativement à la banque des actes notariés.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Détermination des [<sup>1</sup> infractions visées]<sup>1</sup> par l'article 3/1 de la loi
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061602" target="_blank">2026-06-16/02</a>, art. 39, 002; En vigueur : 01-09-2026&gt;
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#LNK0003"> 2</a>.§ 1er. Conformément à l'article 3/1 de la loi, le ministère public près la juridiction qui a rendu le jugement ou l'arrêt ayant acquis autorité de chose jugée saisit le service compétent des communautés aux fins de contacter les victimes [<sup>1</sup> d'infractions reprises]<sup>1</sup> aux points 1° à 3° ci-dessous et pour [<sup>1</sup> lesquelles]<sup>1</sup> des condamnations ont été prononcées dans ce jugement ou cet arrêt:
+1° [<sup>1</sup> une infraction intentionnelle ayant causé la mort de la victime :
+- la mort causée suite à une violation grave du droit international humanitaire (articles 82 à 89 du Code pénal) ;
+- le meurtre (article 96 du Code pénal) ;
+- l'assassinat (article 97 du Code pénal) ;
+- le meurtre commis dans le cadre d'une autre infraction (article 98 du Code pénal) ;
+- le meurtre commis avec un mobile discriminatoire (article 99 du Code pénal);
+- le meurtre commis sur un mineur ou sur une personne en situation de vulnérabilité (article 100 du Code pénal);
+- le meurtre intrafamilial (article 101 du Code pénal) ;
+- le meurtre commis sur une personne exerçant une fonction sociétale (article 102 du Code pénal);
+- la mort causée suite à de la torture ou à un traitement inhumain (articles 118 et 126 du Code pénal) ;
+- la mort causée par un viol ou une atteinte à l'intégrité sexuelle (article 139 du Code pénal) ;
+- la mort causée, sans intention de la donner, par des actes de violence, avec ou sans préméditation (articles 197 et 198, 4°, du Code pénal) ;
+- la mort causée par des actes de violence commis avec un mobile discriminatoire (article 199, alinéa 1er, 4°, du Code pénal);
+- la mort causée par des actes de violence commis sur un mineur ou sur une personne en situation de vulnérabilité (article 200, alinéa 1er, 4°, du Code pénal);
+- la mort causée par des actes de violence intrafamiliale (article 201, alinéa 1er, 4°, du Code pénal);
+- la mort causée par des actes de violence commis sur une personne exerçant une fonction sociétale (article 202, alinéa 1er, 4°, du Code pénal);
+- la mort causée suite à des mutilations génitales féminines (article 209 du Code pénal) ;
+- la mort causée suite à des mutilations génitales féminines commises sur une mineure ou sur une personne en situation de vulnérabilité (article 210, alinéa 1er, du Code pénal) ;
+- la mort causée suite à une perte de grossesse pratiquée sur une personne qui n'y a pas consenti (article 215 du Code pénal) ;
+- la mort causée, sans intention de la donner, par la privation de liberté (article 222 du Code pénal) ;
+- la mort causée par l'enlèvement de mineurs et de personnes en situation de vulnérabilité (article 225 du Code pénal) ;
+- la mort causée suite à une prise d'otage (article 228 du Code pénal) ;
+- la mort causée par la traite d'êtres humains et le trafic des êtres humains (article 260, § 2, 1°, du Code pénal) ;
+- la mort causée, sans intention de la donner, par la vente d'enfants (article 274, § 2, 1°, du Code pénal) ;
+- la mort causée à la suite du trafic d'organe humain (articles 280, § 2, 1°, et 284, § 2, 1°, du Code pénal) ;
+- la mort causée, sans intention de la donner, par l'abstention d'aide (article 301 du Code pénal) ;
+- la mort causée par l'abus de la situation de faiblesse de personnes (article 308 du Code pénal) ;
+- la mort causée suite à une entrave à la circulation (article 321 du Code pénal) ;
+- la mort d'un mineur ou d'une personne en situation de vulnérabilité causée par un délaissement (article 330 du Code pénal) ;
+- la mort causée par une privation délibérée d'aliments ou de soins infligée à des mineurs et à des personnes en situation de vulnérabilité (article 335 du Code pénal) ;
+- la mort d'un mineur ou d'une personne en situation de vulnérabilité causée suite à un défaut d'entretien (article 337 du Code pénal) ;
+- la mort causée, sans intention de la donner, par un vol avec violences ou menaces ou par une extorsion (article 469, § 3, 2°, du Code pénal) ;
+- la mort causée, sans intention de la donner, par un vol avec violences ou les menaces ou par une extorsion de matières nucléaires (article 473, § 3, 2°, du Code pénal) ;
+- la mort causée par un incendie commis de manière délibérée (article 509 du Code pénal);
+- la mort causée, sans intention de la donner, par le vandalisme accompagné d'actes de violence (article 521 du Code pénal)]<sup>1</sup>.
+2° [<sup>1</sup> une infraction non intentionnelle ayant causé la mort de la victime :
+- l'homicide par défaut grave de prévoyance ou de précaution (article 106 du Code pénal) ;
+- l'homicide dans le cadre de la circulation (article 107 du Code pénal);
+- l'homicide aggravé dans le cadre de la circulation (article 107/1 du Code pénal)]<sup>1</sup>.
+3° [<sup>1</sup> le viol (articles 138 à 149 du Code pénal)]<sup>1</sup>.
+§ 2. Dans des cas exceptionnels, en raison des circonstances particulières propres au dossier, le ministère public près la juridiction qui a rendu le jugement ou l'arrêt ayant acquis autorité de chose jugée peut décider de saisir le service compétent des communautés lorsque la condamnation a été prononcée pour d'autres faits que ceux visées au § 1er.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026061602" target="_blank">2026-06-16/02</a>, art. 40, 002; En vigueur : 01-09-2026&gt;
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Modalités selon lesquelles la victime peut demander à être informée ou être entendue ou formuler des conditions susceptibles d'être imposées dans son intérêt lors de l'octroi des modalités d'exécution de la peine
+
+<a name="LNK0004" href="#LNKR0004">Section 1.</a> - Disposition relative à la victime désignée dans la saisine du ministère public visée par l'article 3/1 de la loi
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0005"> 3</a>. § 1er. La saisine, par le ministère public, du service compétent des communautés, visée par l'article 3/1 de la loi, est accompagnée des informations suivantes:
+- les données d'identification (nom, prénoms, ainsi que le numéro du Registre national ou, à défaut, leurs lieu et date de naissance) des victimes;
+- une copie des jugements et arrêts.
+§ 2. Le service compétent des communautés contacte sans délai les victimes désignées dans la saisine en vue de les informer de la procédure d'exécution de la peine privative de liberté et des droits dont elles disposent dans ce cadre.
+Si la victime le souhaite, une fiche victime est établie.
+
+<a name="LNK0005" href="#LNKR0005">Section 2.</a> - Disposition relative à la victime visée par l'article 2, 6°, a) et b) de la loi
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#LNK0006"> 4</a>. Le greffe de la juridiction de jugement adresse sans délai un courrier informatif à la victime visée par l'article 2, 6°, a) et b) de la loi au moment où une décision judiciaire prononçant une peine privative de liberté acquiert force de chose jugée.
+Ce courrier précise à la victime quels sont ses droits dans le cadre de la loi et quelles sont les formalités à accomplir si elle souhaite être informée, être entendue ou formuler des conditions susceptibles d'être imposées dans son intérêt lors l'octroi d'une modalité d'exécution de la peine.
+Il contient également une fiche victime vierge et les coordonnées du service compétent des communautés.
+
+<a name="LNK0006" href="#LNKR0006">Section 3.</a> - Disposition relative à la victime visée par l'article 3 de la loi
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#LNK0007"> 5</a>. La victime qui a introduit, conformément à l'article 3 de la loi, une demande écrite, reçoit du greffe la décision du juge de l'application des peines relative à l'intérêt direct et légitime, accompagnée d'un courrier informatif.
+Ce courrier précise à la victime quels sont ses droits dans le cadre de la loi et quelles sont les formalités à accomplir si elle souhaite être informée, être entendue ou formuler des conditions susceptibles d'être imposées dans son intérêt lors l'octroi d'une modalité d'exécution de la peine.
+Il contient également une fiche victime vierge et les coordonnées du service compétent des communautés.
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 4.</a> - Dispositions relatives à la fiche victime
+
+<a name="LNK0008" href="#LNKR0008">Section 1.</a> - Disposition relatives à l'établissement de la fiche victime
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#LNK0009"> 6</a>. La fiche victime peut être établie à tout moment de la procédure. Elle peut être complétée par la victime elle-même ou avec l'assistance du service compétent des communautés. Elle est signée par la victime.
+Lorsque la victime établit elle-même la fiche victime, elle la transmet au greffe d'un tribunal de l'application des peines ou au service compétent des communautés.
+
+<a name="LNK0009" href="#LNKR0009">Section 2.</a> - Disposition relatives à l'enregistrement et la conservation de la fiche victime
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#LNK0010"> 7</a>. § 1er. La fiche victime et les informations qu'elle contient sont introduites dans la banque de données informatisée afin que ces informations puissent être prises en compte au moment opportun, par les acteurs, qui interviennent au stade de l'exécution de la peine conformément à leurs missions légales,.
+Lorsque la fiche victime est transmise par la victime au greffe, le greffe l'introduit sans délai dans la banque de données informatisée.
+Lorsque la fiche victime est établie avec l'assistance du service compétent des communautés ou transmis à ce service par la victime, ce service l'introduit sans délai dans la banque de données informatisée.
+§ 2. La page "Coordonnées de la victime" de la fiche victime ne peut pas être communiquée au condamné ni à son avocat. Les mesures techniques et organisationnelles nécessaires sont mises en oeuvre afin de le garantir, y compris la conservation distincte de cette page.
+Lorsque le condamné demande une copie du dossier ou chaque fois que le dossier est tenu à la disposition du condamné et de son avocat pour consultation, le greffe veille à ce que le sous-dossier contenant la page "Coordonnées de la victime" ne figure pas dans le dossier.
+
+<a name="LNK0010" href="#LNKR0010">Section 3.</a> - Disposition relatives à la modification, au retrait ou à l'actualisation de la fiche victime
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#LNK0011"> 8</a>. La victime peut à tout moment modifier ou retirer la fiche victime.
+Pour modifier ou retirer la fiche victime, la victime doit s'adresser au service compétent des communautés ou au greffe d'un tribunal de l'application des peines.
+Le ministère public, le juge de l'application des peines ou le tribunal de l'application des peines peuvent saisir le service compétent des communautés en vue d'une actualisation de la fiche victime.
+
+<a name="LNK0011" href="#LNKR0011">CHAPITRE 5.</a> - Communication des décisions au service compétent des communautés
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0012"> 9</a>. Lorsque le service compétent des communautés intervient dans un dossier, les décisions prises par le juge de l'application des peines, le tribunal de l'application des peines ou la Cour de cassation lui sont communiquées.
+
+<a name="LNK0012" href="#LNKR0012">CHAPITRE 6.</a> - Assistance d'un interprète
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0013"> 10</a>. La victime qui souhaite comparaître en personne à l'audience pour être entendue sur les conditions susceptibles d'être imposées dans son intérêt et qui ne comprend pas la langue de la procédure le fait savoir sans délai au greffe du tribunal de l'application des peines par le moyen de communication écrit le plus rapide dès qu'elle reçoit la lettre recommandée qui l'informe des lieu, jour et heure de l'audience. Le greffe prend les mesures appropriées pour que la victime soit assistée d'un interprète juré à l'audience.
+
+<a name="LNK0013" href="#LNKR0013">CHAPITRE 7.</a> - Agrément des associations
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0014"> 11</a>. L'agrément des associations habilitées à assister la victime conformément aux dispositions de la loi est octroyé aux mêmes conditions et selon la même procédure que celles prévues à l'article 53bis de l'arrêté royal du 18 décembre 1986 relatif à la commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels.
+L'agrément visé à l'alinéa 1er peut être demandé par une organisation au nom d'associations qui remplissent les conditions fixées, pour autant que cette organisation apporte la preuve qu'elle est habilitée à représenter ces associations.
+
+<a name="LNK0014" href="#LNKR0014">CHAPITRE 8.</a> - Dispositions finales
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. L'arrêté ministériel du 30 janvier 2007 fixant le contenu du dossier d'informations visé à l'article 7, dernier alinéa, de l'arrêté royal du 29 janvier 2007 portant exécution de l'article 2, 6°, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, est abrogé.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Les déclarations de victimes et les fiches victimes établies en application de l'arrête royal du 29 janvier 2007 portant exécution de l'article 2, 6°, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, restent valides après l'entrée en vigueur du présent arrêté.
+Le greffe transmet sans délai au service compétent des communautés les déclarations de victimes dans lesquelles des victimes ont indiqué qu'elles souhaitaient formuler des conditions qui pourraient être imposées dans leur intérêt avec l'intervention d'un assistant de justice du service d'accueil des victimes, et qui n'ont pas encore été transmises au service compétent des communautés au moment de l'entrée en vigueur du présent arrêté ou qui ont été reçues par le greffe après cette entrée en vigueur, accompagnées des informations visées à l'article 3. Le service compétent des communautés contacte sans délai la victime pour l'informer sur la procédure d'exécution de la peine privative de liberté et ses droits à cet égard, conformément aux dispositions du présent arrêté royal.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#Art.15"> 14</a>. Les associations, visées à l'article 11, qui sont déjà agréées dans le cadre de l'article 4 de l'arrête royal du 29 janvier 2007 portant exécution de l'article 2, 6°, de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, restent agréées dans le cadre du présent arrêté.
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. Le présent arrêté entre en vigueur le 1er septembre 2022.
+
+<a name="Art.16" href="#Art.15">Art.</a> 16. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
