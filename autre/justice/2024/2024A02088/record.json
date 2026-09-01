@@ -1,0 +1,29 @@
+{
+  "id": "2024A02088",
+  "title": "29 FEVRIER 2024. - Livre II du Nouveau Code pénal",
+  "source_title": "29 FEVRIER 2024. - Livre II du Nouveau Code pénal(NOTE : Consultation des versions antérieures à partir du 08-04-2024 et mise à jour au 02-04-2026)",
+  "act": "autre/justice/2024/2024A02088",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2024-04-08&numac_search=2024A02088&page=112&lg_txt=F&caller=list&2024A02088=12&trier=promulgation&ddd=2024-01-01&ddf=2024-12-31&fr=f",
+  "source_sha256": "93caa6230236b9d9e82390bfbd0158137780e7b11186986141c2bc7f82c8ef81",
+  "source_issuer": "Justice",
+  "made": "2024-02-29",
+  "published": "2024-04-08",
+  "in_force": "2026-09-01",
+  "in_force_basis": "Justel: Entrée en vigueur : 1 septembre 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Justice",
+    "Publication": "8 avril 2024",
+    "Numéro": "2024A02088",
+    "page": "40548",
+    "Dossier numéro": "2024-02-29/34",
+    "Entrée en vigueur": "1 septembre 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 79706,
+  "checked_on": "2026-11-16",
+  "source_in_force_date": "2026-09-01"
+}
