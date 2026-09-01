@@ -1,0 +1,179 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1<sup>ER</sup>.</a> - Dispositions générales
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour l'application de la présente loi, on entend par:
+1° travail du sexe: l'accomplissement d'actes de prostitution en exécution d'un contrat de travail de travailleur du sexe;
+2° employeur: une personne morale agréée conformément aux dispositions de la présente loi qui occupe un ou plusieurs travailleurs du sexe en vertu d'un contrat de travail de travailleur du sexe;
+3° travailleur du sexe: la personne qui s'engage contre rémunération à fournir du travail du sexe en exécution d'un contrat de travail de travailleur du sexe;
+4° contrat de travail de travailleur du sexe: le contrat par lequel un travailleur du sexe s'engage à fournir du travail du sexe contre rémunération sous l'autorité d'un employeur visé au 2°;
+5° organisation représentative des travailleurs: les organisations interprofessionnelles de travailleurs représentées au Conseil central de l'économie et au Conseil national du Travail et les organisations professionnelles et interprofessionnelles affiliées à une telle organisation interprofessionnelle ou faisant partie de celle-ci;
+6° personne de référence: personne désignée par l'employeur afin de se tenir à la disposition du travailleur du sexe et de veiller à ce que le travail du sexe soit organisé de manière sécuritaire.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0002"> 3</a>. Le contrat de travail de travailleur du sexe est un contrat de travail au sens de la loi du 3 juillet 1978 relative aux contrats de travail.
+Toutes les dispositions du droit du travail et de la sécurité sociale s'y appliquent, sous réserve des exceptions prévues par la présente loi.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - Dispositions en matière du droit du travail
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Seules les personnes majeures peuvent conclure un contrat de travail de travailleur du sexe. Il est interdit de faire ou de laisser travailler des mineurs ou de leur faire ou laisser exercer une activité en tant que travailleurs du sexe.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le travail du sexe ne peut être effectué par une personne ayant le statut principal d'étudiant. Le travail du sexe ne peut pas non plus être effectué dans le cadre d'un contrat de travail flexi-job, ni en tant que travailleur occasionnel.
+Le travail du sexe sous forme de travail à domicile n'est possible qu'aux conditions cumulatives suivantes:
+a) le Roi fixe les conditions à respecter en matière de sécurité, de santé, de bien-être et de qualité du travail pour les travailleurs du sexe;
+b) une convention collective de travail rendue obligatoire par le Roi soit conclue à cet égard au sein de la commission paritaire compétente, réglant au moins les points suivants:
+- la manière d'organiser le contrôle des lois sociales au domicile;
+- la manière d'enregistrer le temps de travail;
+- l'intervention de l'employeur dans les frais exposés par le travailleur;
+c) le travailleur du sexe consent volontairement à effectuer du travail à domicile.
+L'accord du travailleur du sexe visé au point c) est constaté par écrit et ne peut être conclu que pour une durée de six mois renouvelable. L'accord doit être expressément et préalablement donné avant la période visée.
+Il est interdit à l'employeur de mettre un travailleur du sexe engagé par lui à la disposition d'un tiers qui fait usage des services de ce travailleur du sexe et qui exerce sur celui-ci une part quelconque de l'autorité appartenant normalement à l'employeur.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Le contrat de travail de travailleur du sexe doit être constaté par écrit pour chaque travailleur du sexe individuellement, au plus tard au moment où commence l'exécution de son contrat et mentionne le numéro d'agrément de l'employeur prévu à l'article 15, alinéa 2, de la présente loi.
+Une copie du contrat visé à l'alinéa 1er doit être conservée, soit sous format papier, soit sous format électronique, à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 instituant les règlements de travail.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. § 1er. A aucun moment, le travailleur du sexe ne peut être contraint à accomplir un quelconque acte de prostitution. Dans le cadre de l'exécution du contrat de travail de travailleur du sexe, le travailleur du sexe a notamment le droit, à tout moment, de refuser les rapports sexuels avec un client ou l'accomplissement de certains actes sexuels, de cesser ou d'interrompre l'activité sexuelle ou d'imposer ses propres conditions à l'activité ou l'acte sexuel. L'exercice de ce droit ne peut être considéré comme un manquement à l'exécution du contrat de travail de la part du travailleur du sexe. Aucune conséquence négative ne peut être attachée à l'exercice de ce droit pour le travailleur du sexe.
+§ 2. Lors de l'exercice des droits et libertés visés au paragraphe 1er, le travailleur a le droit de s'absenter du travail, avec maintien de sa rémunération normale. La rémunération normale pour cette absence se calcule conformément à la législation en matière de jours fériés.
+§ 3. Sans préjudice des procédures existantes en vertu de la réglementation relative au bien-être des travailleurs lors de l'exécution de leur travail et du Code pénal social, si le travailleur du sexe a fait usage du droit de refuser d'avoir des rapports sexuels avec un client ou d'accomplir certains actes sexuels plus de dix fois sur une période de six mois, l'employeur ou le travailleur du sexe a la possibilité de demander l'intervention du service désigné par le Roi. Ce service examine le respect des dispositions relatives au bien-être au travail par l'employeur et entend les parties concernées. Le travailleur du sexe peut se faire assister par une personne de son choix.
+§ 4. Lorsqu'il existe des indications concrètes que sa sécurité ou intégrité sera atteinte par un acte d'exposition, le travailleur du sexe a le droit de refuser d'accomplir cet acte.
+§ 5. L'employeur ne peut pas adopter une mesure défavorable à l'encontre du travailleur du sexe qui exerce le droit visé au paragraphe 1er ou 4, sauf pour des motifs étrangers à l'exercice de ce droit.
+Lorsque l'employeur adopte une mesure défavorable à l'encontre du travailleur du sexe concerné dans un délai de six mois suivant l'exercice du droit visé au paragraphe 1er ou 4, il appartient à l'employeur de prouver que la mesure défavorable a été adoptée pour des motifs qui sont étrangers à l'exercice de ce droit.
+La charge de la preuve de ces motifs incombe à l'employeur. A la demande du travailleur du sexe, l'employeur lui en donne connaissance par écrit.
+Si le motif invoqué à l'appui de la mesure défavorable ne répond pas aux dispositions de l'alinéa 1er, ou à défaut de motif, l'employeur qui a pris la mesure doit payer au travailleur du sexe une indemnité égale soit à une indemnité forfaitaire correspondant à six mois de rémunération brute, soit au préjudice réellement subi.
+L'indemnité visée à l'alinéa 4 est exclue de l'assiette de calcul des cotisations ONSS.
+§ 6. L'employeur ne peut pas faire d'acte tendant à mettre fin unilatéralement au contrat de travail à l'encontre du travailleur du sexe qui exerce le droit visé au paragraphe 1er ou 4, sauf pour des motifs étrangers à l'exercice de ce droit.
+Lorsque l'employeur fait un acte tendant à mettre fin unilatéralement au contrat de travail pendant une période de six mois suivant l'exercice du droit visé au paragraphe 1er ou 4, il appartient à l'employeur de prouver que le licenciement a été pris pour des motifs qui sont étrangers à l'exercice de ce droit.
+La charge de la preuve de ces motifs incombe à l'employeur. A la demande du travailleur du sexe, l'employeur lui en donne connaissance par écrit.
+Si le motif invoqué à l'appui du licenciement ne répond pas aux dispositions de l'alinéa 1er ou à défaut de motif, l'employeur paie une indemnité forfaitaire égale à la rémunération brute de six mois, sans préjudice des indemnités dues au travailleur du sexe en cas de rupture du contrat de travail.
+Pour l'application de ce paragraphe, est assimilé à un licenciement par l'employeur pendant la période de protection, tel que visé à l'alinéa 1er, tout acte de l'employeur à l'issue de cette période qui tend à mettre unilatéralement fin au contrat de travail et pour lequel des mesures préparatoires ont été prises durant cette période. Par la prise de mesures préparatoires, on entend également le fait de prendre la décision de licencier.
+L'indemnité visée à l'alinéa 4 est exclue de l'assiette de calcul des cotisations ONSS.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le travailleur du sexe a le droit de mettre fin au contrat de travail de travailleur du sexe sans préavis ni indemnité.
+Pour l'application de la règlementation chômage, il est tenu compte de la spécificité du travail du sexe.
+En outre, nul ne peut être contraint d'accepter de prester un travail du sexe.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0003"> 9</a>. En cas de retrait de l'agrément visé au chapitre 4 de la présente loi, le travailleur a droit à une indemnité compensatoire de préavis à charge de l'employeur conformément aux dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Obligation de désigner une personne de confiance
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0004"> 10</a>. L'employeur qui occupe des travailleurs du sexe doit désigner une ou plusieurs personnes de confiance, quel que soit le nombre de travailleurs occupés, conformément aux conditions et aux procédures visées à l'article 32sexies de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+Par dérogation à l'article 32sexies, § 2, alinéa 3, de la loi du 4 août 1996 précitée, au moins une de ces personnes de confiance fait partie du personnel de l'employeur, si celui-ci occupe 20 travailleurs ou plus.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Obligation d'obtenir un agrément préalable pour les employeurs occupant des travailleurs du sexe
+
+<a name="LNK0005" href="#LNKR0005">Section 1<sup>ère</sup>.</a> - Principes
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. Seuls les employeurs qui ont obtenu un agrément préalable conformément aux dispositions du présent chapitre sont autorisés à occuper des travailleurs du sexe.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>.Ne commet pas l'infraction de proxénétisme au sens de [<sup>1</sup> l'article 265, alinéa 1er, premier tiret,]<sup>1</sup> du Code pénal, l'employeur agréé qui occupe un ou plusieurs travailleurs du sexe dans le cadre d'un contrat de travail de travailleur du sexe, conformément aux dispositions de la présente loi et de ses arrêtés d'exécution.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026031616" target="_blank">2026-03-16/16</a>, art. 61, 002; En vigueur : 01-09-2026&gt;
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0006"> 13</a>. Si un employeur agréé conformément aux dispositions du présent chapitre et de ses arrêtés d'exécution ne remplit plus les conditions nécessaires pour être agréé ou ne respecte pas de quelque manière que ce soit les dispositions de la présente loi, l'agrément peut être suspendu ou retiré par les ministres qui ont la Justice et le Travail dans leurs attributions, agissant conjointement à cet effet. A cet égard, le Roi peut déterminer des modalités plus précises relatives à la manière de procéder. La suspension ou le retrait de l'agrément peut également être prononcé par les cours et tribunaux du travail.
+
+<a name="LNK0006" href="#LNKR0006">Section 2.-.</a> Conditions d'agrément
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0007"> 14</a>.Pour pouvoir être agréé comme employeur au sens de la présente loi, les conditions suivantes doivent être cumulativement remplies:
+1° l'employeur est constitué comme personne morale ayant la forme légale soit d'une société à responsabilité limitée, à l'exclusion des sociétés unipersonnelles, soit d'une société coopérative, soit d'une ASBL. Les personnes physiques ne peuvent en aucun cas obtenir un tel agrément;
+2° l'employeur doit avoir un siège social ou un siège d'exploitation qui se trouve en Belgique;
+3° le ou les administrateur(s) doivent être clairement identifié(s) par leur nom, prénom et numéro de registre national. L'employeur est tenu de signaler tous les changements d'administrateur(s) à l'administration désignée par le Roi;
+4° les administrateurs ne peuvent pas avoir été condamnés en tant [<sup>1</sup> qu'auteur ou participant, à une peine principale visée à l'article 36 du Code pénal, même assortie d'un sursis, consistant en une peine d'emprisonnement, une amende, une peine de travail, une peine de surveillance électronique ou une peine de probation, au titre de l'une des infractions définies au:]<sup>1</sup>
+a) [<sup>1</sup> livre II, titre 3, chapitre 3, section 1re, du Code pénal concernant l'atteinte à l'intégrité sexuelle, le voyeurisme, la diffusion non consentie de contenus à caractère sexuel et le viol]<sup>1</sup>;
+b) [<sup>1</sup> livre II, titre 3, chapitre 3, section 2, sous-section 2, du Code pénal concernant l'exploitation sexuelle de mineurs à des fins de prostitution]<sup>1</sup>;
+c) [<sup>1</sup> livre II, titre 3, chapitre 1er, section 1re, chapitre 2 et chapitre 4, section 1re, du Code pénal concernant les infractions contre la vie, la torture, le traitement inhumain et le traitement dégradant et les infractions contre l'intégrité physique ou psychique]<sup>1</sup>;
+d) [<sup>1</sup> livre II, titre 2, chapitre 3, du Code pénal concernant les infractions portant atteinte à l'intégrité sexuelle, le droit à l'autodétermination sexuelle et les bonnes moeurs]<sup>1</sup>;
+e) [<sup>1</sup> livre II, titre 2, chapitre 7, sections 2, 3, 4, 5, 6 et 7, du Code pénal concernant la traite et le trafic des êtres humains, l'abus de prostitution, la vente d'enfants, le trafic d'organes humains, l'exploitation de la mendicité et les pratiques abusives des marchands de sommeil]<sup>1</sup>;
+f) [<sup>1</sup> les articles 219 à 222 et les articles 348 à 351 du Code pénal]<sup>1</sup>;
+g) [<sup>1</sup> livre II, titre 5, chapitre 1er, section 1re, du Code pénal concernant le vol et l'extorsion, à l'exception des articles 463 et 465]<sup>1</sup>;
+h) [<sup>1</sup> livre II, titre 5, chapitre 1er, section 2, du Code pénal concernant les fraudes et les articles 661 à 663 du Code pénal]<sup>1</sup>.
+Afin de pouvoir vérifier la condition énoncée dans le présent point, les administrateurs doivent présenter à l'autorité qui délivre l'agrément un extrait de casier judiciaire datant de moins de trois mois, conformément à l'article 596, alinéa 1er, du Code d'instruction criminelle.
+5° les statuts de la société ou de l'association doivent indiquer expressément que tous les droits et libertés des travailleurs du sexe qu'elle occupe seront respectés, notamment ceux prévus par la présente loi et en particulier les droits et libertés suivants:
+a) à aucun moment, le travailleur du sexe ne peut être contraint à accomplir un quelconque acte de prostitution;
+b) le travailleur du sexe peut refuser une personne comme partenaire sexuel;
+c) le travailleur du sexe peut refuser des actes sexuels;
+d) à tout moment, le travailleur du sexe peut arrêter ou interrompre une activité sexuelle;
+e) le travailleur du sexe peut imposer ses propres conditions à l'activité ou l'acte sexuel.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026031616" target="_blank">2026-03-16/16</a>, art. 62, 002; En vigueur : 01-09-2026&gt;
+
+<a name="LNK0007" href="#LNKR0007">Section 3.</a> - Procédure d'agrément
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. L'agrément est accordé par les ministres qui ont la Justice et le Travail dans leurs attributions, agissant conjointement à cet effet.
+Un numéro d'agrément est attribué à l'employeur.
+Le Roi fixe les modalités pratiques relatives à l'introduction et au traitement d'une telle demande d'agrément.
+Toute décision d'agrément, de retrait ou de suspension de l'agrément est immédiatement notifiée aux administrations désignées par le Roi.
+Le Roi peut déterminer les modalités de cette notification.
+Chaque année, l'administration désignée par le Roi communique à la commission paritaire qui est compétente pour les travailleurs du sexe la liste des employeurs agréés.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#LNK0008"> 16</a>. En vue de prendre leur décision, les ministres qui ont la Justice et le Travail dans leurs attributions consultent au préalable au moins le procureur du Roi et l'auditorat du travail compétents pour le ou les lieux où se trouve une unité d'établissement pour laquelle la demande d'agrément est introduite.
+
+<a name="LNK0008" href="#LNKR0008">Section 4.</a> - Conditions à respecter pour occuper les travailleurs du sexe dans l'entreprise agréée
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>.Durant la période d'agrément, outre les conditions d'agrément prévues à l'article 14, les conditions suivantes doivent être remplies:
+1° l'employeur ne peut pas déléguer à des sous-traitants l'exercice de l'autorité patronale et les obligations qui lui incombent à l'égard des personnes qui effectuent des activités de travail du sexe;
+2° ni les administrateurs, ni le personnel de direction et d'encadrement ne peuvent avoir été condamnés en tant [<sup>1</sup> qu'auteur ou participant à une peine principale visée à l'article 36 du Code pénal, même assortie d'un sursis, consistant en une peine d'emprisonnement, une amende, une peine de travail, une peine de surveillance électronique ou une peine de probation]<sup>1</sup>, au titre de l'une des infractions visées à l'article 14, alinéa 1er, 4°;
+3° l'employeur doit garantir la disponibilité d'une personne de référence en continu pendant toute la durée des prestations;
+Les modalités par lesquelles la ou les personnes de référence sont joignables sont indiquées par écrit et portées à la connaissance du travailleur du sexe.
+4° l'employeur doit respecter le droit du travail, de la sécurité sociale, des sociétés, le droit commercial et fiscal, ainsi que les conventions collectives de travail en vigueur et la réglementation relative à l'occupation de travailleurs étrangers;
+5° l'employeur doit veiller à ce que chaque pièce de l'établissement où est effectué le travail du sexe soit équipée d'un bouton d'urgence, ainsi qu'à ce que le travailleur du sexe dispose d'un bouton d'urgence mobile, qui le relie immédiatement à la personne de référence, lorsque le travailleur du sexe effectue des prestations de travail en dehors des locaux de l'établissement;
+6° l'employeur doit garantir l'accès aux locaux aux organisations socio-médicales qui opèrent indépendamment de l'employeur et qui sont orientées sur le bien-être des travailleurs, ainsi qu'aux associations professionnelles des travailleurs du sexe, y compris les organisations représentatives des travailleurs.
+Le Roi fixe des conditions supplémentaires en matière de sécurité, de santé, de bien-être et de qualité du travail pour les travailleurs du sexe, qui complètent les conditions énumérées à l'alinéa 1er. Ces conditions d'agrément supplémentaires doivent contenir au moins les éléments suivants:
+- les dimensions minimales de la chambre et les conditions d'hygiène spécifiques qui doivent y être respectées;
+- les obligations d'affichage des informations sur les numéros d'urgence, les coordonnées des organisations représentatives des travailleurs et les organisations de soutien et les recommandations en matière de sexe sans risque;
+- le nombre maximal de travailleurs du sexe en fonction du nombre de chambres;
+- les conditions pour la vérification de l'identité des travailleurs du sexe présents;
+- le rappel que l'employeur est toujours responsable de ce qui se passe au sein de son établissement.
+----------
+(<font color="red">1</font>)&lt;L <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026031616" target="_blank">2026-03-16/16</a>, art. 63, 002; En vigueur : 01-09-2026&gt;
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0009"> 18</a>. § 1er. Pour l'application de la présente loi, les catégories de personnes concernées par le traitement de données à caractère personnel sont:
+a) les administrateurs;
+b) le personnel de direction et d'encadrement.
+§ 2. Les catégories particulières de données traitées par la présente loi, sont:
+a) pour les administrateurs: leur nom, prénom, numéro de registre national, et l'extrait de casier judiciaire;
+b) pour le personnel de direction et d'encadrement: leur nom, prénom, numéro de registre national, et l'extrait de casier judiciaire.
+§ 3. Ces données sont utilisées dans le cadre de l'examen de la demande d'agrément et du respect des conditions à respecter pour occuper les travailleurs du sexe dans l'entreprise agréée.
+§ 4. Les catégories de destinataires de ces données sont les autorités visées dans le cadre de l'examen de la demande d'agrément et du respect des conditions à respecter pour occuper les travailleurs du sexe dans l'entreprise agrée.
+§ 5. Sauf autre disposition dans des lois particulières, ces données sont conservées durant la période de l'agrément et jusqu'à un an après la fin de l'agrément.
+
+<a name="LNK0009" href="#LNKR0009">CHAPITRE 5.-.</a> Surveillance
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#LNK0010"> 19</a>. Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 49 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.
+
+<a name="LNK0010" href="#LNKR0010">CHAPITRE 6.</a> - Modification du Code pénal social
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. A l'article 103 du Code pénal social, modifié par la loi du 11 novembre 2013, les mots "de stagiaires ou d'indépendants concernés," sont remplacés par les mots "de stagiaires, d'indépendants, de mineurs ou de travailleurs du sexe concernés,".
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. L'article 122/3 du même Code, inséré par la loi du 29 février 2016 et modifié par la loi du 5 novembre 2023, est complété par un alinéa rédigé comme suit:
+"Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail:
+1° ne désigne aucune personne de confiance;
+2° ne désigne pas au moins une personne de confiance faisant partie du personnel de l'employeur si celui-ci occupe 20 travailleurs ou plus.".
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#Art.23"> 22</a>. Dans le livre 2, chapitre 1er, section 4, du même Code, il est inséré un article 136/2, rédigé comme suit:
+"Art. 136/2. L'occupation interdite de mineurs comme travailleur du sexe
+Est puni d'une sanction de niveau 4, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail, a occupé ou fait occuper un mineur comme travailleur du sexe.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de mineurs concernés.".
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>. L'article 177 du même Code, modifié par les lois des 29 février 2016 et 12 juin 2020, est complété par le paragraphe 3, rédigé comme suit:
+" § 3. Est puni d'une sanction de niveau 4:
+1° toute personne qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail, met un travailleur du sexe qu'elle a engagé à la disposition d'un tiers qui fait usage des services de ce travailleur du sexe et exerce sur lui une part quelconque de l'autorité appartenant à l'employeur;
+2° tout utilisateur qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail, occupe un travailleur du sexe mis à sa disposition par un employeur et qui exerce sur lui une part quelconque de l'autorité appartenant à l'employeur.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleurs du sexe concernés.".
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. Dans l'intitulé de la section 2 du chapitre 6 du livre 2 du même Code, les mots "et le contrat de travail pour l'exécution de travail temporaire" sont remplacés par les mots ", le contrat de travail pour l'exécution de travail temporaire et le contrat de travail de travailleur du sexe".
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0011"> 25</a>. Dans le livre 2, chapitre 6, section 2, du même Code, il est inséré un article 186/2, rédigé comme suit:
+"Art. 186/2. Le contrat de travail de travailleur du sexe
+Est puni d'une sanction de niveau 2, l'employeur, son préposé ou son mandataire qui, en contravention à la loi du 3 mai 2024 portant des dispositions en matière du travail du sexe sous contrat de travail:
+1° n'a pas établi le contrat de travail de travailleur du sexe par écrit pour chaque travailleur du sexe individuellement, au plus tard au moment où commence l'exécution de son contrat;
+2° a établi le contrat de travail de travailleur du sexe de manière incomplète ou inexacte;
+3° n'a pas pris les mesures nécessaires afin que le contrat de travail de travailleur du sexe soit tenu en tout temps à la disposition des fonctionnaires et agents chargés de la surveillance;
+4° n'a pas conservé le contrat de travail de travailleur du sexe, soit sous format papier, soit sous format électronique, à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 instituant les règlements de travail.
+En ce qui concerne les infractions visées à l'alinéa 1er, l'amende est multipliée par le nombre de travailleur du sexe concernés.".
+
+<a name="LNK0011" href="#LNKR0011">CHAPITRE 7.</a> - Dispositions finales
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. Le gouvernement évaluera les dispositions de la présente loi et de ses arrêtés d'exécution deux ans après leur entrée en vigueur.
+
+<a name="Art.27" href="#Art.26">Art.</a> 27. La présente loi entre en vigueur le premier jour du sixième mois qui suit celui de sa publication au Moniteur belge.
+Le Roi peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à l'alinéa 1er pour chacune des dispositions de la présente loi.
