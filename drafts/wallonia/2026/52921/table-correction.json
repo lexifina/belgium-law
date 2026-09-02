@@ -1,0 +1,12 @@
+{
+  "kind": "correction",
+  "corrects": "drafts/wallonia/2026/52921/text.txt",
+  "replacement": "text-corrected.txt",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/623.pdf",
+  "source_sha256": "acf3c0a0a0517033ca905a592f9fc2ee7b1e00c7d412f1d8b3bcbd0a5eb04f29",
+  "source_page": 15,
+  "table_rows": 6,
+  "table_columns": 3,
+  "method": "PyMuPDF word coordinates clipped to detected PDF table cells; no OCR and no manual word changes",
+  "published_original_commit": "176016fc3df70488c6b1b6ae4ff0c5cb31ccafcc"
+}
