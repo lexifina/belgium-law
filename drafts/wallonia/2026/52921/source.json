@@ -1,0 +1,12 @@
+{
+  "status": "adopted parliamentary text; not promulgated law",
+  "kind": "draft",
+  "title": "modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne",
+  "parliament_publication_date": "2026-09-02",
+  "parliament_publication_id": "52921",
+  "reference": "PARCHEMIN 623 (2025-2026)",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/623.pdf",
+  "source_sha256": "acf3c0a0a0517033ca905a592f9fc2ee7b1e00c7d412f1d8b3bcbd0a5eb04f29",
+  "text_extraction": "pdftotext -layout, unedited UTF-8 output",
+  "pdf_images": 0
+}
