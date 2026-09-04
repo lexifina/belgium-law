@@ -1,0 +1,11 @@
+{
+  "title": "Arrest C.25.0447.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-09-04",
+  "date_as_printed": "4 SEPTEMBER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.25.0447.N.pdf",
+  "source_sha256": "852c68633c0e9df655e5da713de822f4f4f6273802d0883271c751c1ce2ccbd3",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
