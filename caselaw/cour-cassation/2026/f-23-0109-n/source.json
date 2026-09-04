@@ -1,0 +1,11 @@
+{
+  "title": "Arrest F.23.0109.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-09-04",
+  "date_as_printed": "4 SEPTEMBER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/F.23.0109.N.pdf",
+  "source_sha256": "e5288a822683355e802a66117284d5d687fccfddcd152a02bdcf9b84374de465",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
