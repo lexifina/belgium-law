@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0560.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-09-08",
+  "date_as_printed": "8 SEPTEMBER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0560.N.pdf",
+  "source_sha256": "66027aab88c506cfe3a0c38c7b315d4714598554af29823dbd7eae7ba5eaaa76",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
