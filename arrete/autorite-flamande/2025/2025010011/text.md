@@ -1,0 +1,389 @@
+<a name="LNK0001" href="#LNKR0001">TITRE 1er.</a> - Dispositions générales
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 1er.</a> - Définitions
+
+<a name="Art.1er"></a>Article <a href="#LNK0003"> 1er</a>. Dans le présent arrêté il est entendu par :
+1° l'entité compétente : l'Agence de l'Agriculture et de la pêche visée dans l'article 29/1, premier alinéa, 2°, de l'arrêté du Gouvernement flamand du 3 juin 2005 concernant l'organisation de l'administration flamande;
+2° pêche dans les passes: pêche sur l'Escaut en amont jusqu'à une ligne imaginaire entre le point le plus à l'ouest de l'île de Walcheren et l'intersection à la ligne de base de la frontière belgo-néerlandaise ;
+3° zone-ZBS : une zone biologiquement sensible avec un régime spécifique de gestion de l'effort de pêche, comme déterminé dans l'article 6 du règlement (CE) 1954/2003 du 4 novembre 2003;
+4° jour de mer communautaire: une période ininterrompue de 24 heures comme enregistrée dans le journal de bord électronique pendant laquelle un navire est absent du port et présent dans une certaine zone-CIEM ou pendant une partie de cette période ;
+5° plafond quotidien : une quantité maximale qui peut être pêchée par jour de mer, comme fixé dans le présent arrêté ;
+6° quantités des minimis : des quantités d'espèces qui relèvent à l'obligation d'embarquement et qui peuvent être rejetées à concurrence d'une quantité maximale exprimée en pourcentages des captures totales par la flotte nationale de cette espèce et dans la zone concernée ;
+7° journal de bord électronique: le journal électronique non-papier pour l'enregistrement des données du journal de pêche et des données de la déclaration de débarquement ;
+8° engins réglementés: BT1 chalut à perche avec un maillage de plus de 120 mm ; BT2 chalut à perche avec un maillage de 80-119 mm ; TR1 trawl pêche aux panneaux (OTB) et la senne écossaise (SSC) avec un maillage de plus de 100 mm ; TR2 trawl (OTB et SSC) avec un maillage de 80-99 mm ; TR3 trawl (OTB) avec un maillage de 16-55 mm; GNS (filet fixe) tous les filets maillants; GTR tous les trémails. Usage d'au moins 40 mm dans la zone-CIEM VIIj pendant la pêche ciblée de calmar avec des chaluts de fond et des sennes ;
+9° GSF : Grand Segment de Flotte comme visé à l'article 1er, 6° de l'arrêté du Gouvernement flamand du 16 décembre 2005 instituant une licence de pêche et portant des mesures temporaires pour l'exécution du régime communautaire relatif à la conservation et à l'exploitation durable des ressources halieutiques ;
+10° zone-CIEM: description de zones et secteurs, mentionnée dans l'annexe III au règlement (CE) n° 218/2009 du Parlement européen et du Conseil du 11 mars 2009 relatif à la communication de statistiques sur les captures nominales des Etats membres se livrant à la pêche dans l'Atlantique du Nord-Est ;
+11° PSF : Petit Segment de Flotte comme visé à l'article 1er, 7° de l'arrêté du Gouvernement flamand du 16 décembre 2005 instituant une licence de pêche et portant des mesures temporaires pour l'exécution du régime communautaire relatif à la conservation et à l'exploitation durable des ressources halieutiques ;
+12° puissance motrice : la puissance comme définie dans la liste officielle des navires de pêche belges 2025, le cas échéant, majorée par la puissance additionnelle mentionnée à licence de pêche ;
+13° Zone norvégienne : Zone économique exclusive norvégienne au sud de 62° N ;
+14° Estuaire de l'Escaut : la partie de l'Escaut où l'effet de la marée se fait sentir. Il concerne l'Escaut maritime, l'Escaut occidental, ainsi que toute la zone de l'estuaire de l'Escaut ;
+15° filet fixe : engin de pêche composé d'une ralingue supérieure équipée de flotteurs et d'une ralingue inférieure lestée, avec un réseau à une ou plusieurs parois entre les deux;
+16° plan de rejet Mer du Nord : plan de rejet comme mentionné dans le règlement délégué (UE) 2023/2459 de la Commission du 22 août 2023 complétant le règlement (UE) 2018/973 du Parlement européen et du Conseil en précisant les modalités de l'obligation de débarquement pour certaines pêcheries dans la mer du Nord pour la période 2024-2027 ;
+17° plan de rejet eaux occidentales : plan de rejet comme établi par le règlement délégué (UE) 2023/2623 de la Commission du 22 août 2023 complétant le règlement (UE) 2019/472 du Parlement européen et du Conseil en précisant les modalités de l'obligation de débarquement pour certaines pêcheries dans les eaux occidentales pour la période 2024-2027;
+18° jour de navigation: la présence ininterrompue en mer d'une durée minimale de quatre heures. La sortie en mer d'un navire pendant une durée d'au maximum 24 heures est considérée comme un jour de navigation. La sortie en mer d'un navire de plus de 24 heures ou un multiple de 24 heures constitue chaque fois un nouveau jour de navigation. Un jour de navigation s'applique seulement au voyage en mer ;
+19° le règlement (CE) 1124/2009 : le règlement (CE) No 1224/2009 du Conseil du 20 novembre 2009 instituant un régime communautaire de contrôle afin d'assurer le respect des règles de la politique commune de la pêche, modifiant les règlements (CE) no 847/96, (CE) no 2371/2002, (CE) no 811/2004, (CE) no 768/2005, (CE) no 2115/2005, (CE) no 2166/2005, (CE) no 388/2006, (CE) no 509/2007, (CE) no 676/2007, (CE) no 1098/2007, (CE) no 1300/2008, (CE) no 1342/2008 et abrogeant les règlements (CEE) no 2847/93, (CE) no 1627/94 et (CE) no 1966/2006 ;
+20° autorisation de pêche : le document de pêche visé à l'article 7 du règlement (CE) n° 1224/2009 ;
+21° voyage en mer : la durée d'une sortie d'un navire de pêche à compter de son départ d'un port de départ jusqu'au moment de son arrivée dans un port d'arrivée ;
+22° effort de pêche : le produit de la capacité et l'activité d'un navire de pêche. Pour un groupe de navires, il s'agît de la somme des efforts de pêche de chaque navire faisant partie du groupe ;
+23° navire de pêche : chaque navire équipé pour l'exploitation commerciale de ressources halieutiques et reprise dans la liste officielle des navires de pêche belges 2025;
+24° panneau flamand : le panneau comme défini dans l'article 1, point 1 du règlement délégué (UE) 2023/2459 de la Commission du 22 août 2023 complétant le règlement (UE) 2018/973 du Parlement européen et du Conseil en précisant les modalités de l'obligation de débarquement pour certaines pêcheries dans la mer du Nord pour la période 2024-2027 ;
+25° chalut sélectif : filet comme défini dans l'article 1er de l'arrêté ministériel du 8 juillet 2002 établissant les modalités pour l'utilisation de chaluts sélectifs pour la pêche à la crevette, dont l'utilisation est obligatoire pour la pêche à la crevette.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 2.</a> - Dispositions générales et interdictions de pêche
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Les quantités de poisson d'espèces soumises à des limites de capture supplémentaires est attribuée à un navire de pêche. Les quantités ne sont pas transférables à un autre navire de pêche.
+La quantité de poisson par espèce exprimée en kg est le poids du produit après pesage et triage des captures.
+Les quantités maximales de poissons de captures accessoires mentionnées à l'article 25 concernent des quantités maximales attribuées valorisables, dont la valeur du dépassement est retenue.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. L'administrateur-général de l'entité compétente a délégation pour prendre des décisions et communiquer la constatation factuelle concernant la réalisation, déterminé par l'Union européenne:
+1° du quota de capture pour certaines espèces de poissons dans certaines zones-CIEM ;
+2° du niveau d'effort de pêche pour certains groupes d'engins dans certaines zones-CIEM ;
+3° de l'application de fermetures en temps réel conformément au règlement (UE) n ° 724/2010 de la Commission du 12 août 2010 établissant les modalités d'application de la fermeture en temps réel de certaines pêcheries en mer du Nord et dans le Skagerrak.
+La conséquence de la constatation, visée au premier alinéa, est la fermeture de la zone-CIEM concernée, respectivement pour :
+1° des activités de capture des espèces de poisson concernés, ce qui implique une interdiction de pêche pour toutes les navires de pêche de ces espèces de poissons dans les eaux des zones-CIEM concernées, ainsi que la détention à bord, le transbordement et le débarquement des espèces de poisson qui ont été capturés dans ces eaux ;
+2° des activités de capture par des navires de pêche avec des engins de pêche en question, ce qui implique pour les navires de pêche en question une interdiction de pêche dans les eaux des zones-CIEM concernées, ainsi que la détention à bord, le transbordement et le débarquement de produits de pêche qui ont été capturés dans ces eaux.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. Aux navires de pêche de la flotte de pêche de l'Escaut qui ne peuvent pratiquer la pêche que dans les passes, il n'est pas attribué des quantités des espèces pour lesquels des limitations complémentaires de capture ont été fixés au niveau national dans les zones-CIEM II et IV (mer du Nord et l'Estuaire de l'Escaut).
+A tous les autres navires de pêche, à l'exception des navires de pêche de la flotte de pêche de l'Escaut qui sont autorisés de pêcher dans l'Estuaire de l'Escaut, il est interdit de pêcher dans les passes de l'Escaut occidental (Westerschelde).
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>.§ 1. Dans la période du 1er janvier 2026 jusqu'au 31 décembre 2026 inclus, il est interdit de:
+1° pêcher dans la zone-CIEM IIIa, notamment le Skagerak ;
+2° pêcher dans la zone-CIEM VIa, notamment ouest de l'Ecosse ;
+3° pêcher le hareng dans les zones-CIEM I, II ;
+4° être équipé ou pêcher avec un engin TR3 qui n'est pas prévu de façon permanente d'un chalut sélectif;
+5° pratiquer la pêche ciblée de bar aux filets fixes avec un maillage inférieur à 120 mm ;
+6° pratiquer la pêche ciblée de raie aux filets fixes ;
+7° être équipé ou pêcher avec des chaluts à perche des segments BT1 et BT2 sans que l'arrière, à savoir les trois derniers mètres du chalut devant le cul de chalut, n'est pas équipée du panneau flamand;
+8° pour des navires du PSF, effectuer des temps de remorquage de plus de 90 minutes ;
+9° être équipé ou pêcher avec des chaluts à perche du segment BT2 du GSF, dont la ralingue inférieure n'est pas munie d'un cordage anti-pierres, le soi-disant flip up rope, ou dont le chalut à perche n'est pas muni en bas ou devant le panneau flamand, d'un panneau benthonique sous la forme d'un panneau avec des mailles carrées d'un maillage de 170 mm et une longueur et largeur d'au moins 1,8 m ;
+10° de pêcher l'anguille dans toutes les zones-CIEM.
+11° effectuer des voyages en mer combinés entre les zones-CIEM VIIfg et VIIa;
+12° effectuer des voyages en mer combinés entre les zones-CIEM VIId et IVc.
+§ 2. Par dérogation au paragraphe 1er, 11° et 12°, des voyages en mer combinés sont autorisés pour des navires de pêche qui fournissent pendant leurs sorties de pêche les données en temps réel suivantes à l'autorité compétente, pourque les captures de produits de pêche puissent être tracées conformément à l'article 58 du règlement (CE) n° 1224/2009 :
+1° le poids combiné avec zone géographique par activité de pêche ;
+2° des données GPS ;
+3° des données concernant la consommation de carburant ;
+4° le cas échéant, des données concernant la motricité.
+Afin de pouvoir utiliser cette dérogation, le propriétaire d'un navire de pêche introduit une demande auprès l'entité compétente par lettre recommandée ou par e-mail. L'entité compétente met à la disposition un formulaire à cet effet. L'usage du formulaire et sa réception constituent des exigences formelles.
+[<sup>1</sup> L'autorité compétente délivre une autorisation permettant d'effectuer les sorties de mer combinées visées au premier alinéa. Cette autorisation n'est valable que tant que les conditions énoncées au premier alinéa sont respectées.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 1, 006; En vigueur : 01-07-2026&gt;
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. En exécution des plans pluriannuels, les espèces qui sont soumis à des mesures spécifiques de contrôle, sont débarqués aux ports d'Oostende, Zeebrugge et Nieuwpoort.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. § 1er. Les suivantes tailles minimales de référence de conservation s'appliquent à partir du 1er janvier 2026:
+1° pour turbot: 32 cm de longueur;
+2° pour barbue: 32 cm de longueur;
+3° pour sole limande: 25 cm de longueur;
+4° pour flet: 25 cm de longueur;
+5° pour mulet: 20 cm de longueur;
+6° pour raie: 50 cm de longueur;
+7° pour tacaud: 20 cm de longueur;
+8° pour baudroie entier: 500 g de poids;
+9° pour baudroie étêté: 200 g de poids;
+10° pour sole: 24 cm de longueur;
+11° pour limande: 23 cm de longueur.
+La commercialisation pour la consommation humaine directe des espèces visées au premier alinéa est interdite, si elles n'ont pas la taille minimale de référence de conservation imposée par la réglementation européenne et par le premier alinéa.
+La détention à bord et le débarquement dans des ports de l'Union européenne d'espèces, dans une forme de présentation qui empêche tout contrôle des tailles minimales de référence de conservation reprises dans la législation flamande ou européenne, est interdite.
+Dans les criées belges, le triage national de queues de baudroies, connu comme queue de baudroies 6 (ayant un poids de produit inférieur à 200 g), ne peuvent pas être commercialisés. Les quantités des captures qui relèvent à ce triage, ne peuvent pas être vendues pour la consommation humaine et doivent être dénaturées par la criée, avant le début de la criée ou à la demande explicite des superviseurs de l'autorité compétente.
+Le réglage le plus bas des appareils de classification automatique utilisés dans les criées, est fixé à 200 g pour baudroies étêtés.
+§ 2. Pour les espèces pour lesquelles des facteurs de conversion n'ont pas été établis, les facteurs de conversion suivants seront utilisés pour calculer le poids vif à partir du poids transformé :
+1° facteur 1,18 pour poissons ronds éviscérés;
+2° facteur 1,05 pour poissons plats éviscérés ;
+3° facteur 3 pour produits de pêche étêtés ;
+4° facteur 4 pour des pinces de crabes.
+§ 3. Si le pesage de produits de pêche conformément l'article 60 du règlement (CE) 1224/2009 est effectué par une crié belge enregistrée, le relevé de pesés contient les données suivantes :
+1° la date à laquelle le pesage a été terminé ;
+2° le moment auquel le pesage a été terminé ;
+3° le code FAO à 3 lettres de l'espèce pesé ;
+4° les résultats du pesage, exprimé en kg de poids de produit, pour chaque quantité de chaque espèce ;
+5° le numéro d'identification externe et le nom du navire de pêche duquel vient la quantité pesée ;
+6° la forme de présentation des produits de pêche pesés.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Pour la pêche de sole dans les zones-CIEM II et IV, VIIa, VIId, VIIe, VIIf, g, VIIh, j, k et VIIIa, b, les conditions des minimis définies respectivement dans le plan de rejets pour la mer du Nord et le plan de rejets des eaux occidentales s'appliquent.
+Pour la pêche de plie au chalut à perche BT2 (80-119 mm) dans les zones-CIEM IV, VIIa-g, les conditions élevées de survie définies dans le plan de rejets pour la mer du Nord et eaux occidentales s'appliquent.
+Pour la pêche de turbot au chalut à perche avec un maillage dans le cul de chalut égal ou supérieur à 80 mm (TBB) dans la zone-CIEM IV les conditions élevées de survie définies dans le plan de rejets pour la mer du Nord s'appliquent.
+Pour la pêche de merlan sous la taille minimale de référence de conservation avec des engins TR2 dans la sous-zone-CIEM IVa et IVb, et la pêche de langoustine dans la zone-CIEM IV, les conditions des minimis définies dans le plan de rejets pour la mer du Nord peuvent être appliquées.
+Pour la pêche d'églefin dans les zones-CIEM VIIe-k, les conditions des minimis définies dans le plan de rejets pour les eaux occidentales peuvent être appliquées.
+Pour la pêche de limande dans la zone-CIEM VII, les conditions des minimis peuvent être appliquées dans certain cas, comme défini dans le plan de rejet des eaux occidentales.
+Pour la pêche de merlan dans les zones-CIEM IV et VIId-e, les conditions des minimis définies dans les plans de rejets pour la mer du Nord et les eaux occidentales peuvent être appliquées.
+Pour la pêche de maquereau et chinchard dans les zones-CIEM IV, VIIb-k, et VIIIa, b, les conditions des minimis définies respectivement dans les plans de rejets pour la mer du Nord et les eaux occidentales peuvent être appliquées.
+Pour la pêche de limande et baudroie, dans les zones-CIEM VIIIa, b, les conditions des minimis définies dans les plans de rejets pour les eaux occidentales peuvent être appliquées.
+Les quantités rejetées doivent être rapportées dans le journal de bord électronique.
+Si une valeur seuil visée à l'article 14, 16 ou 20 risque d'être dépassée pendant un voyage en mer, les activités de pêche seront suspendues immédiatement et les activités seront déplacées par au moins 10 milles nautiques. Pour les pêcheries effectuées avec des navires ayant un tonnage brute inférieure à 80 GT, les activités seront déplacées par au moins 3 milles nautiques.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#LNK0004"> 9</a>. Il est interdit aux pêcheurs à la ligne, qui pêchent à partir de navires ne disposant pas de licence de pêche, de détenir à bord, de transborder et de débarquer au total plus de 5 kg de cabillaud par personne embarquée et par voyage en mer. Le poisson est embarqué en état intact et peut être éviscéré.
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 3.</a> - Limitation d'activités
+
+<a name="LNK0005" href="#LNKR0005">Section 1ère.</a> - Effort de pêche
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0006"> 10</a>.Un effort de pêche peut être attribué à des groupes d'effort par attribution de ours de mer. Un effort de pêche peut être attribué aux groupes d'effort suivants pour les zones-CIEM VII et VIII: les segments TR1, TR2, TR3, BT1, BT2, GN1 et GT1.
+Pour la zone-CIEM VII, un niveau d'effort de pêche maximal annuel est établi séparément pour les espèces démersales dans la zone-ZBS. Il s'agît d'une zone qui est entourée par la côte d'Irlande, au sud de 53° 30'LN, et à l'ouest de 07° 00'LO et les lignes droites interconnectent ensuite les coordonnés géographiques suivantes:
+- le point à la côte de l'Irlande à 53° 30'LN;
+- 53° 30'LN, 12° 00'LO;
+- 53° 00'LN, 12° 00'LO;
+- 51° 00'LN, 11° 00'LO;
+- 49° 30'LN, 11° 00'LO;
+- 49° 30'LN, 07° 00'LO;
+- le point à la côte de l'Irlande à 07° 00'LO.
+A chaque dépassement des limites des zones-CIEM [<sup>1</sup> ...]<sup>1</sup>, les capitaines des navires de pêche inscrivent dans leur journal de bord électronique, le jour, le moment et la position du dépassement.
+L'enregistrement d'heures de pêche dans le journal de bord électronique est obligatoire.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042701" target="_blank">2026-04-27/01</a>, art. 1, 004; En vigueur : 01-05-2026&gt;
+
+<a name="LNK0006" href="#LNKR0006">Section 2.</a> - Jours de mer communautaires dans la zone de reconstitution de sole, notamment la zone-CIEM VIIe
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#LNK0007"> 11</a>.§ 1er. Le système de limitation du nombre de jours en mer communautaires dans la zone-CIEM VIIe, institué conformément à l'annexe II du règlement (UE) 2025/202 du Conseil du 30 janvier 2025 établissant, pour 2025, les possibilités de pêche pour certains stocks halieutiques, applicables dans les eaux de l'Union et, pour les navires de pêche de l'Union, dans certaines eaux n'appartenant pas à l'Union, s'applique en janvier 2026.
+Le nombre de jours de mer communautaires dans la zone-CIEM VIIe, visé à [<sup>1</sup> l'annexe II du règlement (UE) 2026/249 du Conseil du 26 janvier 2026 établissant, pour 2026, 2027 et 2028, les possibilités de pêche pour certains stocks halieutiques, applicables dans les eaux de l'Union et, pour les navires de pêche de l'Union, dans certaines eaux n'appartenant pas à l'Union, et modifiant le règlement (UE) 2025/202]<sup>1</sup>, est attribué pour la période du 1er février 2026 jusqu'au 31 janvier 2027 inclus.
+Dans la zone-CIEM VIIe, le transfert de jours de mer communautaires entre navires de pêche individuels est interdit.
+§ 2. Des navires de pêche qui ont pêché à l'aide d'un chalut à perche dans la période entre 2003 jusqu'en 2024 inclus dans la zone-CIEM VIIe, recevront une licence de pêche VIIe 2026.
+§ 3. A chaque dépassement des limites de la zone-CIEM VIIe, les capitaines des navires de pêche inscrivent dans leur journal de bord électronique, le jour, le moment et la position du dépassement.
+La licence de pêche des navires de pêche qui dépassent leur nombre de jours en mer communautaires dans la zone-CIEM VIIe, peut être retirée pour au moins cinq jours successifs par l'autorité compétente.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021902" target="_blank">2026-02-19/02</a>, art. 1, 002; En vigueur : 01-03-2026&gt;
+
+<a name="LNK0007" href="#LNKR0007">Section 3.</a> - Jours de navigation
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>.Il est interdit à tous les navires de pêche de réaliser plus de 285 jours de navigation par an.
+De plus, il est interdit à tous les navires de pêche de réaliser plus de [<sup>1</sup> 245 jours de navigation]<sup>1</sup> dans des eaux occidentales entre le 1er janvier 2026 jusqu'au 31 décembre 2026. Au présent article, il est entendu par eaux occidentales, toutes les zones-CIEM VII et VIIIab.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042701" target="_blank">2026-04-27/01</a>, art. 2, 004; En vigueur : 01-05-2026&gt;
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#LNK0008"> 13</a>. Du moment qu'un navire de pêche dépasse le nombre maximum de jours de navigation autorisé, visé à l'article 12 et tenant compte de la réduction éventuelle visée à l'article 27, § 1, de deux jours de navigation, ces jours de navigation seront déduits du nombre maximal de jours de navigation autorisés, qui sera attribué à ce navire de pêche à partir du 1er janvier 2027.
+Le nombre de jours à réduire, sera augmenté par un jour de navigation pour chaque dépassement de deux jours de navigation.
+La réduction de jours de navigation est appliquée à la zone-CIEM à laquelle le dépassement se rapporte.
+
+<a name="LNK0008" href="#LNKR0008">TITRE 2.</a> - Système de gestion collectif
+
+<a name="LNK0009" href="#LNKR0009">CHAPITRE 1er.</a> - Attribution de possibilités de captures selon la puissance motrice
+
+<a name="LNK0010" href="#LNKR0010">Section 1ère.</a> - Sole mer du Nord - zones-CIEM II, IV
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0011"> 14</a>.§ 1er. Sur base de l'utilisation moyenne du quota de sole au cours des années 2023-2024-2025, le quota de sole disponible est réparti comme suit : 70% pour les navires de pêche du GSF et 30% pour les navires de pêche du PSF.
+Le quota des minimis de sole s'élève au maximum à 5% du quota de sole pour la zone-CIEM II et IV. La valeur seuil visée à l'article 8 est fixée pour les pêcheries de sole dans les zones-CIEM II, IV à 10% au maximum des captures de sole déjà réalisées pendant le voyage en mer concerné dans la zone concernée.
+Lorsque ce quota des minimis est épuisé, il est interdit à ces navires de pêche d'utiliser encore le système des minimis pour la sole provenant des zones-CIEM concernées.
+§ 2. A partir du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans les zones-CIEM II, IV (mer du Nord et l'estuaire de l'Escaut) que les captures de sole d'un navire de pêche du PSF dépassent une quantité égale à [<sup>3</sup> 140 kg]<sup>3</sup> multipliée par la puissance motrice du navire de pêche, exprimée en kW.
+§ 3. A partir du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV (mer du Nord et l'estuaire de l'Escaut) que les captures de sole d'un navire de pêche du GSF dépassent une quantité égale à 20 kg multipliée par la puissance motrice du navire de pêche, exprimée en kW.
+[<sup>2</sup> Dans la période du 1er juillet 2026 au 31 octobre 2026 inclus, il est interdit, dans les zones CIEM II, IV, à savoir la mer du Nord et l'estuaire de l'Escaut, à un navire de pêche du GSF, lors de la pêche à la sole, de dépasser une quantité égale à 25 kg multipliée par la puissance motrice du navire de pêche, exprimée en kW.]<sup>2</sup>
+§ 4. Des voyages en mer combinés ne sont pas autorisées entre les zones-CIEM IV et VIIf, g, et entre les zones-CIEM II, IV et VIIa.
+[<sup>1</sup> En cas de sorties de pêche combinées entre la zone-CIEM IV et une autre zone-CIEM que visée au premier alinéa, il est interdit aux navires de pêche du GSF que les captures de sol dans la zone-CIEM IV dépassent une quantité égale à 400 kg par jours de navigation. Pour des navires de pêche du PSF le plafond quotidien dans la zone-CIEM IV s'élève en ce cas à 200 kg par jour de navigation]<sup>1</sup>.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042701" target="_blank">2026-04-27/01</a>, art. 3, 004; En vigueur : 01-05-2026&gt;
+(<font color="red">2</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 2, 006; En vigueur : 01-07-2026&gt;
+(<font color="red">3</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026091702" target="_blank">2026-09-17/02</a>, art. 1, 007; En vigueur : 11-09-2026&gt;
+
+<a name="LNK0011" href="#LNKR0011">Section 2.</a> - Plie mer du Nord - Zone-CIEM IV
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#LNK0012"> 15</a>.§ 1. Sur base de l'utilisation moyenne du quota de plie au cours des années 2023-2024-2025, le quota de plie disponible est réparti comme suit : 87% pour les navires de pêche du GSF et 13% pour les navires de pêche du PSF.
+§ 2. Dans la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM IV (mer du Nord et l'estuaire de l'Escaut) que les captures de plie d'un navire de pêche du PSF dépassent une quantité égale à 460 kg, multipliée par la puissance motrice du navire de pêche, exprimée en kW. De cette quantité attribuée, une quantité maximale de 60 kg par KW peut être pêchée par navire avant le 15 mars 2026.
+§ 3. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV (mer du Nord et l'estuaire de l'Escaut) que les captures de plie d'un navire de pêche du GSF dépassent une quantité égale à 200 kg, multipliée par la puissance motrice du navire de pêche, exprimée en kW. De cette quantité attribuée, une quantité maximale de 60 kg par KW peut être pêchée par navire avant le 15 mars 2026.
+[<sup>1</sup> Dans la période du 1er juillet 2026 au 31 octobre 2026 inclus, il est interdit, dans les zones CIEM II, IV, à savoir la mer du Nord et l'estuaire de l'Escaut, il est interdit à un navire de pêche du GSF, lors de la pêche à la plie, de dépasser une quantité égale à 200 kg multipliée par la puissance motrice du navire de pêche, exprimée en kW.]<sup>1</sup>
+§ 4. Il est interdit pour un navire de pêche du PSF, effectuant des voyages en mer combinés dans les zones-CIEM IV et VIId le cas échéant tenant compte de l'article 5, § 2, que ses captures de plie réalisées dans la zone-CIEM IV, dépassent une quantité égale à 800 kg par voyage en mer, multipliée par le nombre de jours de navigation réalisé pendant cette voyage en mer dans la zone-CIEM IV.
+Il est interdit pour un navire de pêche du GSF, effectuant des voyages en mer combinés dans les zones-CIEM IV et VIId, le cas échéant tenant compte de l'article 5, § 2, que ses captures de plie réalisées dans la zone-CIEM IV, dépasse une quantité égale à 1600 kg par voyage en mer, multipliée par le nombre de jours de navigation réalisé pendant cette voyage en mer dans la zone-CIEM IV.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 3, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0012" href="#LNKR0012">Section 3.</a> - Sole Canal de Bristol et Mer Celtique - zones-CIEM VIIf, g
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#LNK0013"> 16</a>.§ 1. Sur base de l'utilisation moyenne du quota de sole au cours des années 2023-2024-2025, le quota de sole disponible est réparti comme suit : 96% pour les navires de pêche du GSF et 4% pour les navires de pêche du PSF.
+Le quota total de sole dans les zones-CIEM VIIf, g, réservé aux navires de pêche du PSF, est fixé à 24 tonnes pour la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus.
+Le quota des minimis est fixé à 3% du quota total de sole dans les zones VIIf, g. La valeur seuil visée à l'article 8 est fixée pour les pêcheries de sole dans les zones-CIEM VIIf, g à 5% maximum des captures de sole déjà réalisées pendant le voyage en mer concerné dans la zone concernée. Lorsque ce quota des minimis est épuisé, il est interdit à ces navires de pêche d'utiliser encore le système des minimis pour la sole provenant des zones-CIEM concernées.
+§ 2. Dans la période du 1er janvier 2026 jusqu'au 31 décembre 2026 inclus, il est interdit pour un navire de pêche du PSF d'être présent dans les zones-CIEM VIIf, g.
+Par dérogation au premier alinéa, seuls les navires de pêche du PSF qui sont repris sur la liste "Autorisation de pêche Canal de Bristol PSF 2026" sont autorisés d'être présents dans les zones-CIEM VIIf, g, et ce à partir du 1er février 2026 jusqu'au 31 octobre 2026 inclus.
+Afin de pouvoir être ajouté à la liste, visée au deuxième alinéa, des propriétaires de navires de pêche sont obligés de soumettre une demande à l'entité compétente par lettre recommandé ou e-mail au plus tard le 6 janvier 2026 à 12h00.
+Sauf révision par l'entité compétente, la quantité de sole attribuée dans les zones-CIEM VIIf, g pour la période du 1er février 2026 au 31 octobre 2026 inclus, s'élève à au moins 4000 kg par navire qui est repris sur la liste, visée au deuxième alinéa.
+En cas de dépassement des quantités de sole, visées au quatrième alinéa, les quantités de sole dépassées par le navire de pêche concerné seront déduites en double du quota de sole du navire concerné.
+L'obtention d'une `Autorisation de pêche dans le canal de Bristol' implique l'engagement de l'armateur et du capitaine de pêcher le quota attribué, sauf cas de force majeure.
+Si au moins 80 % du quota attribué n'est pas pêché, le quota non pêché sera déduit, sauf cas de force majeure, du quota de sole du navire concerné pendant la même année ou l'année suivante.
+S'il n'a pêché aucun quota, le navire concerné sera, sauf cas de force majeure, exclu de la possibilité de soumettre une demande d'une licence de pêche spécifique pendant une période de trois ans.
+§ 3. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans les zones-CIEM VIIf, g pour un navire de pêche du GSF de réaliser des captures de sole qui dépassent une quantité égale à 8 kg, multipliée par la puissance motrice de ce navire de pêche, exprimée en kW.
+[<sup>1</sup> Dans la période du 1er juillet 2026 au 31 octobre 2026 inclus, il est interdit, dans les zones CIEM VIIf et g, à un navire de pêche du GSF de dépasser, lors de la pêche à la sole, une quantité égale à 8 kg multipliée par la puissance motrice du navire de pêche, exprimée en kW.]<sup>1</sup>
+[<sup>1</sup> § 4. Pour chaque effort de pêche de 20 000 kW de jours en mer communautaires réalisé par un navire dans la zone ZBS visée à l'article 10, deuxième alinéa, à compter du 1er juillet 2026, 1 000 kg sont déduits du quota de sole attribué à ce navire pour la première période d'attribution de 2027, provenant de la zone CIEM VIIf, g.
+La réduction visée au premier alinéa est plafonnée à 3 000 kg par navire.
+L'effort de pêche, visé au premier alinéa, est défini comme le produit du nombre de jours pendant lesquels le navire est actif dans une zone donnée et de la puissance motrice, exprimée en kW.
+Sur demande écrite, le service de la pêche de l'entité compétente communique le nombre de kW de jours de pêche en mer communautaires effectués par le navire dans la zone ZBS.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 4, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0013" href="#LNKR0013">Section 4.</a> - Cabillaud eaux occidentales - zones-CIEM VIIb-c, VIIe-k, VIII
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#LNK0014"> 17</a>.Dans la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans les zones-CIEM VIIb-c, VIIe-k, VIII pour un navire de pêche du PSF, que les captures totales de cabillaud dépassent une quantité égale à 50 kg.
+Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans les zones-CIEM VIIb-c, VIIe-k, VIII pour un navire de pêche du GSF, que les captures totales de cabillaud dépassent une quantité égale à 100 kg.
+[<sup>1</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans les zones-CIEM VIIb-c, VIIe-k, VIII pour un navire de pêche du GSF, que les captures totales de cabillaud dépassent une quantité égale à 200 kg.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 5, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0014" href="#LNKR0014">Section 5.</a> - Cabillaud Manche est - zone-CIEM VIId
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0015"> 18</a>. A partir du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM VIId pour un navire de pêche, que les captures totales de cabillaud dépassent une quantité égale à 1,5 kg, multipliée par la puissance motrice du navire de pêche, exprimée en kW.
+
+<a name="LNK0015" href="#LNKR0015">Section 6.</a> - Sole Golfe de Gascogne - zone-CIEM VIIIa, b
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#LNK0016"> 19</a>.[<sup>1</sup> § 1.]<sup>1</sup> La présence d'un navire de pêche dans les zones-CIEM VIIa, b est interdite dans la période du 1er janvier 2026 jusqu'au 31 décembre 2026 inclus.
+[<sup>1</sup> § 2. Par dérogation au premier paragraphe, seuls les navires de pêche qui sont repris sur la liste " licences de pêche Golfe de Gascogne 2026 " sont autorisés d'être présent dans les zones-CIEM VIIIa et b à partir du 1er juin 2026 00h00.
+Afin de pouvoir être repris sur la liste, visée au premier alinéa, les propriétaires de navires de pêche du grand segment de flotte, doivent introduire avant le 1er avril 2026 une demande d'obtention d'une licence de pêche, par lettre recommandée ou par e-mail auprès l'autorité compétente.
+§ 3. A partir du 1er juin 2026 jusqu'au 30 septembre 2026 inclus, il est interdit que les captures de sol dans les zones-CIEM VIIIa et b d'un navire de pêche, qui figure sur la liste visée au paragraphe 2, dépassent une quantité égale à [<sup>2</sup> 1000 kg, majoré par la quantité égale à]<sup>2</sup> 15 kg, multipliée par la puissance motrice du navire, exprimée en kW.
+§ 4. Lorsque la quantité de sol, visée au paragraphe 3, est dépassée, la quantité de sol dépassée est déduite de la quantité de sol qui est allouée au navire de pêche concerné pour 2027.
+§ 5. Les navires de pêche qui sont repris sur la liste " licence de pêche Golfe de Gascogne 2026 ", remettent pour la zone-CIEM VIIfg une quantité de sol de 6 kg/kW pour la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus.
+De plus, pour la zone-CIEM VIIa (Mer d'Irlande) une quantité de sol de 6 kg/kW est également remise pour ces navires dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus.
+Pendant une même sortie de pêche dans la Golfe de Gascogne, un seul type d'engin ne peut être tenu à bord.
+§ 6. Il est interdit d'effectuer des sorties de pêche mixtes, combinant pendant une même sortie de pêche les zones-CIEM VIIIa et b avec des activités de pêche dans d'autres zones-CIEM.
+§ 7. En cas de non-respect du paragraphe 1er ou paragraphe 2, le nombre maximal de jours de navigation visé à l'article 12 du navire de pêche concerné est réduit de 10 jours.
+De plus, il est interdit aux navires de pêche visés au premier alinéa, d'être présent pendant l'année 2027 dans les zones-CIEM VIIIa et b.
+§ 8. Le quota des minimis pour les zones-CIEM VIIIa et b est fixé à 9750 kg de sol. La valeur seuil visée à l'article 8 pour la pêche de sol dans les zones-CIEM VIIIa et b, est fixée à un maximum de 8% des captures de sol déjà réalisées pendant la sortie de pêche dans la zone concernée.
+§ 9. Le nombre de navires qui peut obtenir une " licence de pêche Golfe de Gascogne 2026 " est limité à neuf.
+§ 10. L'entité compétente fournit en temps utile un aperçu détaillé des dispositions techniques aux armateurs par une circulaire.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026032601" target="_blank">2026-03-26/01</a>, art. 1, 003; En vigueur : 01-04-2026&gt;
+(<font color="red">2</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026052803" target="_blank">2026-05-28/03</a>, art. 1, 005; En vigueur : 01-06-2026&gt;
+
+<a name="LNK0016" href="#LNKR0016">CHAPITRE 2.</a> [<sup>1</sup> Allocation de possibilités de pêche par sortie de pêche ou selon la puissance motrice ]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026032601" target="_blank">2026-03-26/01</a>, art. 2, 003; En vigueur : 01-04-2026&gt;
+
+<a name="LNK0017" href="#LNKR0017">Section 1.</a> - Sole - zone-CIEM VIIa, VIId, VIIe
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#LNK0018"> 20</a>.§ 1. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans la zone-CIEM VIIa pour un navire de pêche du GSF, que les captures de sole dépassent une quantité égale à [<sup>1</sup> [<sup>2</sup> 14]<sup>2</sup>]<sup>1</sup>, multipliée par la puissance motrice du navire de pêche, exprimée en kW.
+[<sup>4</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit, dans la zone CIEM VIIa, pour un navire du GSF de réaliser une capture totale de sole supérieure à 14 kg multiplié par la puissance motrice du navire de pêche, exprimée en kW.]<sup>4</sup>
+§ 2. Le quota des minimis lié aux captures de sole dans la zone-CIEM VIId est fixé à 3% du quota de sole dans la zone-CIEM VIId. La valeur seuil visée à l'article 8 pour les pêcheries de sole, est fixée à 5% maximum pour les pêcheries de sole déjà réalisées pendant le voyage en mer dans la zone-CIEM concernée. A l'épuisement de ce quota des minimis, il est interdit à ces navires de pêche d'utiliser encore le quota des minimis de sole pour la zone-CIEM concernée.
+Sur base de l'utilisation moyenne du quota de sole au cours des années 2023-2024-2025, le quota de sole disponible est réparti comme suit : 72 % pour les navires de pêche de la GSF et 28 % pour les navires de pêche de la PSF.
+Dans la période du 1er janvier 2026 jusqu'au 31 janvier 2026 inclus est interdit dans la zone-CIEM VIId pour un navire de pêche du PSF, que les captures de sole, réalisées par voyage en mer, dépassent une quantité égale à 200 kg, multipliée par le nombre de jour de navigation pendant ce voyage en mer dans la zone-CIEM concernée. [<sup>3</sup> Dans la période du 1er février 2026, jusqu'au 31 mai 2026 inclus, la quantité maximale est limitée à 150 kg par jour de navigation. A partir du 1er juin 2026, cette quantité maximale est limité à 100 kg par jour de navigation.]<sup>3</sup>
+Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, Il est interdit dans la zone-CIEM VIId pour un navire de pêche du GSF, que les captures de sole, réalisées par voyage en mer, dépassent une quantité égale à 4 kg, multipliée par la puissance motrice du navire de pêche, exprimée en kW.
+[<sup>4</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit, dans la zone CIEM VIId pour un navire du GSF de réaliser une capture totale de sole supérieure à 1 kg multiplié par la puissance motrice du navire de pêche, exprimée en kW.]<sup>4</sup>
+En cas de voyages en mer combinés avec présence dans les zones-CIEM VIId et VIIe, il est interdit pour un navire de pêche du PSF dans la zone-CIEM VIId de dépasser une quantité de 90 kg de soles, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM concernée.
+En cas de voyages en mer combinés avec présence dans les zones-CIEM VIId et VIIe, il est interdit pour un navire de pêche du GSF dans la zone-CIEM VIId de dépasser une quantité de 200 kg de soles, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM concernée.
+Il est interdit pour un navire de pêche du PSF, effectuant des voyages en mer combinés dans la zone-CIEM VIId, II et IV, que les captures de soles réalisées le cas échéant conformément l'article 5 § 2, réalisées par voyage en mer dans la zone-CIEM VIId, dépassent une quantité égale à 100 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM VIId.
+Il est interdit pour un navire de pêche du GSF, effectuant des voyages en mer combinés dans la zone-CIEM VIId, II et IV, que les captures de soles réalisées le cas échéant conformément l'article 5 § 2, réalisées par voyage en mer dans la zone-CIEM VIId, dépassent une quantité égale à 400 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM VIId.
+Il est interdit pour un navire de pêche du PSF, effectuant des voyages en mer combinés dans les zones-CIEM VIId et VIIf, g, que les captures de soles, réalisées par voyage en mer, dépassent une quantité égale à 90 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM VIId.
+Il est interdit pour un navire de pêche du GSF, effectuant des voyages en mer combinés dans la zone-CIEM VIId et VIIf, g, que les captures de soles, réalisées par voyage en mer, dépassent une quantité égale à 200 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM VIId.
+§ 3. Le quota des minimis lié aux captures de soles dans la zone-CIEM VIIe est fixé à 3% du quota de sole dans la zone-CIEM VIIe. La valeur seuil visée à l'article 8 pour les pêcheries de sole, est fixée à 5% maximum pour les pêcheries de soles déjà réalisées pendant le voyage en mer dans la zone-CIEM concernée. A l'épuisement de ce quota des minimis, il est interdit à ces navires de pêche d'utiliser encore le quota des minimis de sole pour la zone-CIEM VIIe.
+Dans la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM VIIe pour un navire de pêche du PSF disposant d'un permis de pêche conformément à l'article 11 § 2, que les captures totales de soles dépassent une quantité égale à 800 kg.
+Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans la zone-CIEM VIIe pour un navire de pêche du GSF disposant d'un permis de pêche conformément à l'article 11 § 2, que les captures totales de sole dépassent une quantité égale à 1600 kg.
+[<sup>4</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM VIIe pour un navire de pêche du GSF disposant d'un permis de pêche conformément à l'article 11 § 2, que les captures totales de sole dépassent une quantité égale à 600 kg.]<sup>4</sup>
+Il est interdit pour un navire de pêche, effectuant des voyages en mer combinés dans les zones-CIEM VIIe et VIIf, g, que les captures de soles réalisées dans les zones-CIEM VIIe, pendant ce voyage en mer, dépassent une quantité égale à 300 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM VIIe.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026032601" target="_blank">2026-03-26/01</a>, art. 3, 003; En vigueur : 01-04-2026&gt;
+(<font color="red">2</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042701" target="_blank">2026-04-27/01</a>, art. 4, 004; En vigueur : 01-05-2026&gt;
+(<font color="red">3</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026052803" target="_blank">2026-05-28/03</a>, art. 2, 005; En vigueur : 01-06-2026&gt;
+(<font color="red">4</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 6, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0018" href="#LNKR0018">Section 2.</a> - Sole sud-ouest d'Irlande - zones-CIEM VIIh, j, k
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#LNK0019"> 21</a>.§ 1. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026, il est interdit pour tout navire de pêche d'effectuer des captures totales de sole supérieures à 500 kg dans les zones-CIEM VIIh, j, k.
+[<sup>1</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit, dans la zone CIEM VIIh, j, k pour un navire de réaliser une capture totale de sole supérieure à 1 kg multiplié par la puissance motrice du navire de pêche, exprimée en kW.]<sup>1</sup>
+§ 2. Un quota scientifique de 6 tonnes est réservé, à chaque fois réparti par voyage en mer d'au maximum 1500 kg par trimestre.
+Afin de pouvoir bénéficier de ce quota scientifique, des propriétaires de navires de pêche qui, selon la liste officielle des navires de pêche belges 2025, sont équipés du chalut à perche et appartiennent au GSF, adressent une demande par lettre recommandée ou par e-mail à l'autorité compétente au plus tard le 6 janvier 2026, à 12 heures.
+Des demandes pour plusieurs trimestres sont possibles. L'entité compétente attribuera le quota scientifique aux candidats ayant régulièrement présenté une demande. En cas d'un nombre suffisant de candidats, un navire ne peut entrer en ligne de compte que pour un seul trimestre. Il est procédé à un tirage au sort si plusieurs demandes concernent le même trimestre. Un candidat et un candidat remplaçant seront désignés pour chaque trimestre.
+Le quota scientifique de 1500 kg de sole au maximum doit être pêché dans ces zones-CIEM concernées en cinq jours de mer consécutifs au maximum et au moyen d'une pêche ciblée aux soles. La partie non pêchée est définitivement perdue. Toute quantité pêchée en sus de ce quota est imputée sur l'allocation normale du navire. Au terme des cinq jours, le navire de pêche débarque ses captures.
+Le voyage en mer doit être effectué dans sa totalité dans la zone-CIEM VIIh, j, k. Pendant le voyage entier, au moins un seul scientifique de l'ILVO doit être à bord. Le demandeur doit fournir les mesures nécessaires pour assurer la sécurité du scientifique pendant la pêche.
+Au cas où un propriétaire d'un navire sélectionné, sauf cas de force majeur, ne participe pas à la recherche scientifique, le navire ne sera plus éligible à la recherche scientifique analogue jusqu'en 2028 y compris, et la quantité de sole attribuée, visée au troisième alinéa, sera réduite pour la quantité attribuée pour la période concernée. Si cette différence concerne une quantité négative, le déficit sera déduit du quota unique établi pour le navire en question au cours d'une autre période d'allocation de la même année ou de l'année suivante.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 7, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0019" href="#LNKR0019">Section 3.</a> - Plie
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0020"> 22</a>.§ 1. Il est interdit dans les zones-CIEM VIId, e, pour un navire de pêche du PSF, que les captures de plie réalisées par voyage en mer, dépassent une quantité égale à 800 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+Il est interdit dans les zones-CIEM VIId, e, pour un navire de pêche du GSF, que les captures de plie réalisées par voyage en mer, dépassent une quantité égale à 1600 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+Il est interdit pour un navire de pêche du PSF, effectuant des voyages en mer combinés dans la zone-CIEM VIId et IV, que les captures de plie dans la zone-CIEM IV, par voyage en mer réalisées le cas échéant conformément à l'article 5 § 2, dépassent une quantité égale à 800 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM IV.
+Il est interdit pour un navire de pêche du GSF, effectuant des voyages en mer combinés dans la zone-CIEM VIId et IV, que les captures de plie dans la zone-CIEM IV, par voyage en mer réalisées le cas échéant conformément à l'article 5 § 2, dépassent une quantité égale à 1600 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM IV.
+§ 2. Il est interdit dans les zones-CIEM VIIf, g, pour un navire de pêche que les captures de plie réalisées par voyage en mer, dépassent une quantité égale à 10 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+§ 3. [<sup>1</sup> Dans la période du 1er janvier 2026 jusqu'au 28 février 2026 inclus, il est ]<sup>1</sup> interdit pour un navire de pêche du GSF, que les captures de plie dans la zone-CIEM VIIa, réalisées par voyage en mer, dépassent une quantité égale à 250 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans la zone-CIEM concernée.
+[<sup>1</sup> [<sup>2</sup> Dans la période du 1er février 2026 jusqu'au 30 avril 2026 inclus]<sup>2</sup>, Il est interdit pour un navire de pêche du GSF, que les captures de plie dans la zone-CIEM VIIa, réalisées par voyage en mer, dépassent une quantité égale à 25 kg par jour de navigation. ]<sup>1</sup>
+[<sup>2</sup> A partir du 1er mai 2026 il est interdit dans la zone-CIEM VIIa que les captures de plie par sortie de pêche, réalisées par un navire de pêche du GSF, dépassent une quantité égale à 50 kg par jour de navigation.]<sup>2</sup>
+§ 4. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans les zones-CIEM VIIh, j, k, pour un navire de pêche du GSF, que les captures de plie réalisées, dépassent une quantité égale à 400 kg.
+[<sup>3</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit, dans la zone CIEM VIIh, j, k pour un navire du GSF de réaliser une capture totale de plie supérieure à 1 kg multiplié par la puissance motrice du navire de pêche, exprimée en kW.]<sup>3</sup>
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026021902" target="_blank">2026-02-19/02</a>, art. 2, 002; En vigueur : 01-03-2026&gt;
+(<font color="red">2</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026042701" target="_blank">2026-04-27/01</a>, art. 5, 004; En vigueur : 01-05-2026&gt;
+(<font color="red">3</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 8, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0020" href="#LNKR0020">Section 4.</a> - Cabillaud et baudroie
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#LNK0021"> 23</a>.§ 1. Il est interdit dans les zones-CIEM II, IV, Mer du Nord et Estuaire de l'Escaut, pour un navire de pêche du PSF, que les captures de cabillaud réalisées par voyage en mer, dépassent une quantité égale à 50 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+Il est interdit dans les zones-CIEM II, IV, Mer du Nord et Estuaire de l'Escaut, pour un navire de pêche du GSF, que les captures de cabillaud réalisées par voyage en mer, dépassent une quantité égale à 100 kg, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+§ 2. Les quantités fixées aux paragraphe 1 pour les zones-CIEM II, IV (Mer du Nord et l'Estuaire de l'Escaut) seront augmentées de 500 kg, si le navire concerné utilise pendant toute la durée de sa voyage en mer des filets d'un maillage supérieur à 100 mm pour la pêche au chalut à panneaux (TR1) ou supérieur à 120 mm pour la pêche au chalut à perche (BT1) dans les zones-CIEM en question, multipliée par le nombre de jours de navigation pendant ce voyage en mer dans les zones-CIEM concernées.
+§ 3. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans la zone-CIEM VIIa que les captures totales de cabillaud réalisées par un navire de pêche, dépassent une quantité égale à 50 kg.
+[<sup>1</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM VIIa que les captures totales de cabillaud réalisées par un navire de pêche, dépassent une quantité égale à 200 kg.]<sup>1</sup>
+§ 4. Il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) que les captures de baudroies dépassent une quantité égale de 600 kg en poids vif multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+§ 5. L'entité compétente interrogera les armateurs au cours du premier trimestre 2026 sur la possibilité de pratiquer la pêche au chalut à panneaux dans la zone norvégienne à partir d'avril 2026. En cas de réponse positive, l'entité compétente répartira le quota entre les candidats ayant régulièrement présenté une demande. S'il y a trop de demandes, un tirage au sort sera organisé par l'entité compétente lors de la session de mars 2026 de la Commission des quotas.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 9, 006; En vigueur : 01-07-2026&gt;
+
+<a name="LNK0021" href="#LNKR0021">Section 5.</a> - Raie
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#LNK0022"> 24</a>. § 1. Il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du PSF, que les captures de raie dépassent une quantité égale à 350 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+Il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du GSF, que les captures de raie dépassent une quantité égale à 700 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+Par dérogation au premier et deuxième alinéa, les quantités maximales autorisées sont doublées pour les navires de pêche qui sont uniquement armés pour le chalutage aux panneaux d'après la Liste officielle des navires de pêche belges 2025.
+§ 2. Il est interdit dans les zones-CIEM VIId, pour un navire de pêche du PSF, que les captures de raie dépassent une quantité égale à 200 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans la zone-CIEM concernées.
+Il est interdit dans les zones-CIEM VIId, pour un navire de pêche du GSF, que les captures de raie dépassent une quantité égale à 400 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans la zone-CIEM concernées.
+§ 3. Il est interdit dans les zones-CIEM VIIa-c, e-k, pour un navire de pêche du PSF, que les captures de raie dépassent une quantité égale à 400 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+Il est interdit dans les zones-CIEM VIIa-c, e-k, pour un navire de pêche du GSF, que les captures de raie dépassent une quantité égale à 800 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+§ 4. Les captures de raie dépassant les quantités autorisées mentionnées aux §§ 1, 2 et 3, doivent être rejetées dans la mer pour cause de leur niveau de survie élevé, conformément aux plans de discard Mer du Nord - eaux occidentales septentrionales.
+Les dispositions des paragraphes 2 et 3 ne s'appliquent pas à la raie brunette.
+
+<a name="LNK0022" href="#LNKR0022">Section 6.</a> - Autres espèces de poisons
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#LNK0023"> 25</a>.§ 1. Il est interdit dans les zones-CIEM II, IV et VII pour un navire de pêche, que les captures de maquereau dépassent une quantité égale à 50 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer.
+[<sup>1</sup> Il est interdit pour un navire de pêche dans les zones-CIEM VII, VIIIab que les captures de maquereaux par voyage en mer dépassent une quantité égale à 100 kg, multipliée par le nombre de jours de navigation réalisé pendant ce voyage en mer.]<sup>1</sup>
+§ 2. Il est interdit dans les zones-CIEM IV et VIId (Mer du Nord et Manche Est), pour un navire de pêche, que les captures de hareng par voyage en mer dépassent une quantité de 150 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer.
+§ 3. Il est interdit pour un navire de pêche, que les captures de merlu dépassent une quantité égale à 300 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer.
+§ 4. [<sup>1</sup> Dans la période entre le 1er janvier 2026 et le 31 mai 2026]<sup>1</sup> il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du PSF, que les captures de limande sole dépassent une quantité égale à 175 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+[<sup>1</sup> A partir du 1er juin 2026, il est interdit dans les zones-CIEM II, IV (Estuaire de L'Escaut et mer du Nord) que les captures de limande sole par voyage en mer réalisées par un navire de pêche du PSF, dépassent une quantité égale à 350 kg, multipliée par le nombre de jours de navigation réalisé pendant ce voyage en mer dans les zones-CIEM concernées.]<sup>1</sup>
+Il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du GSF, que les captures de limande sole dépassent une quantité égale à 350 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+[<sup>1</sup> Dans la période entre le 1er janvier 2026 et le 31 mai 2026]<sup>1</sup> il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du PSF, que les captures de plie grise dépassent une quantité égale à 25 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+[<sup>1</sup> A partir du 1er juin 2026, il est interdit dans les zones-CIEM II, IV (Estuaire de L'Escaut et mer du Nord) que les captures de limande sole par voyage en mer réalisées par un navire de pêche du GSF, dépassent une quantité égale à 700 kg, multipliée par le nombre de jours de navigation réalisé pendant ce voyage en mer dans les zones-CIEM concernées.]<sup>1</sup>
+Il est interdit dans les zones-CIEM II, IV (Mer du Nord et Estuaire de l'Escaut) pour un navire de pêche du GSF, que les captures de plie grise dépassent une quantité égale à 50 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+§ 5. Il est interdit dans les zones-CIEM VIIbc-k pour un navire de pêche du PSF dans la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, que les captures de merlan dépassent une quantité égale à 200 kg par navire.
+Il est interdit dans les zones-CIEM VIIbc-k pour un navire de pêche du GSF dans la période du 1er janvier 2026 jusqu'au 31 octobre 2026 inclus, que les captures de merlan dépassent une quantité égale à 400 kg par navire.
+[<sup>2</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans les zones-CIEM VIIbc-ek pour un navire de pêche du GSF, que les captures de merlan dépassent une quantité égale à 500 kg.]<sup>2</sup>
+§ 6. Il est interdit dans la zone-CIEM VIId pour un navire de pêche du PSF, que les captures de merlan dépassent une quantité égale à 500 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans la zone-CIEM concernée.
+Il est interdit dans la zone-CIEM VIId pour un navire de pêche du GSF, que les captures de merlan dépassent une quantité égale à 1000 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans la zone-CIEM concernée.
+Par dérogation au premier et deuxième alinéa, les quantités maximales autorisées sont doublées pour les navires de pêche qui sont uniquement armés à la senne ou pour le chalutage aux panneaux d'après la Liste officielle des navires de pêche belges 2025.
+§ 7. Dans la période du 1er janvier 2026 jusqu'au 30 juin 2026 inclus, il est interdit dans la zone-CIEM VIIa, pour un navire de pêche du GSF, que les captures de merlan dépassent une quantité égale à 50 kg.
+[<sup>2</sup> Dans la période du 1er juillet 2026 jusqu'au 31 octobre 2026 inclus, il est interdit dans la zone-CIEM VIIa pour un navire de pêche du GSF, que les captures de merlan dépassent une quantité égale à 200 kg.]<sup>2</sup>
+§ 8. Le quota des minimis pour merlan pêchés à la planche ou à la senne dans les zones-CIEM II et IVc est fixé à 4% des captures dans ces zones.
+Le quota des minimis pour merlan sous la taille minimale de référence capturés par le biais de chalut à perche (BT2), est fixé à 2 % des captures.
+Le seuil visé à l'article 8, est fixé pour le merlan dans les zones CIEM II et IV et dans les zones CIEM VIIb-k, à un maximum de 10% des captures de merlan déjà réalisées pendant le voyage en mer dans la zone concernée. A l'épuisement de ce quota des minimis, il est interdit à ces navires de pêche d'utiliser encore le quota des minimis de merlan pour les zones-CIEM concernées.
+§ 9. Il est interdit dans les zones-CIEM II et IV pour un navire de pêche du PSF, que les captures de lieu noir dépassent une quantité égale à 40 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+Il est interdit dans les zones-CIEM II et IV pour un navire de pêche du GSF, que les captures de lieu noir dépassent une quantité égale à 80 kg, multipliée par le nombre de jours de navigation, réalisé pendant ce voyage de mer dans les zones-CIEM concernées.
+Pour les jours de navigation auxquels le navire de pêche utilise des engins du groupe d'effort TR1, les quantités, visées au deuxième alinéa, sont doublées.
+§ 10. [<sup>3</sup> Dans la période du 1er janvier 2026 au 12 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV que les captures totales de turbots par voyage en mer, réalisées par un navire de pêche du PSF, dépassent une quantité égale à 150 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+A partir du 13 juin 2026, il est interdit dans les zones-CIEM II, IV que les captures totales de turbots par voyage en mer, réalisées par un navire de pêche du PSF, dépassent une quantité égale à 400 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+Dans la période du 1er janvier 2026 au 12 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV que les captures totales de turbots par voyage en mer, réalisées par un navire de pêche du GSF, dépassent une quantité égale à 300 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+A partir du 13 juin 2026, il est interdit dans les zones-CIEM II, IV que les captures totales de turbots par voyage en mer, réalisées par un navire de pêche du GSF, dépassent une quantité égale à 800 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+Dans la période du 1er janvier 2026 au 12 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV que les captures totales de barbues par voyage en mer, réalisées par un navire de pêche du PSF, dépassent une quantité égale à 75 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+A partir du 13 juin 2026, il est interdit dans les zones-CIEM II, IV que les captures totales de barbues par voyage en mer, réalisées par un navire de pêche du PSF, dépassent une quantité égale à 200 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+Dans la période du 1er janvier 2026 au 12 juin 2026 inclus, il est interdit dans les zones-CIEM II, IV que les captures totales de barbues par voyage en mer, réalisées par un navire de pêche du GSF, dépassent une quantité égale à 150 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question.
+A partir du 13 juin 2026, il est interdit dans les zones-CIEM II, IV que les captures totales de barbues par voyage en mer, réalisées par un navire de pêche du GSF, dépassent une quantité égale à 400 kg multiplié par le nombre de jours de navigation réalisés au cours de ce voyage en mer dans les zones-CIEM en question]<sup>3</sup>.
+§ 11. [<sup>2</sup> Il est interdit dans les zones-CIEM VIIb-k, VIII que les captures totales d'églefins, réalisées par un navire de pêche du PSF, dépassent une quantité égale à 100 kg par navire.
+Dans la période du 1er janvier 2026 au 30 juin inclus, il est interdit dans les zones-CIEM VIIb-k, VIII que les captures totales d'églefins, réalisées par un navire du GSF dépassent une quantité égale à 200 kg par navire.
+Dans la période du 1er juillet 2026 au 31 octobre inclus, il est interdit dans les zones-CIEM VIIb-k, VIII que les captures totales d'églefins, réalisées par un navire du GSF dépassent une quantité égale à 200 kg par navire.
+Dans la période du 1er janvier 2026 au 30 juin inclus, il est interdit dans la zones-CIEM VIIa que les captures totales d'églefins, réalisées par un navire dépassent une quantité égale à 200 kg par navire.
+Dans la période du 1er juillet 2026 au 31 octobre inclus, il est interdit dans la zone-CIEM VIIa que les captures totales d'églefins, réalisées par un navire dépassent une quantité égale à 200 kg par navire]<sup>2</sup>.
+§ 12. Il est interdit dans les zones-CIEM II et IV, que les captures totales de lingues par voyage en mer, dépassent une quantité égale à 30 kg multiplié par le nombre de jours de navigation réalisé au cours de ce voyage en mer dans la zone-CIEM en question.
+Les limitations visées aux premier alinéa ne sont pas applicables jusqu'à la réalisation de 60% du quota concerné, y compris les échanges de quota. Le cas échéant, l'entité compétente fera la communication nécessaire à cet égard en temps utile.
+§ 13. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten een hoeveelheid te overschrijden die gelijk is aan 50 kg per vaartuig.
+§ 14. Het is in de ICES-gebieden VII voor een vissersvaartuig van het KVS verboden bij de witte koolvisvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.
+Il est interdit dans les zones-CIEM IVb-c et VIId, que les captures totales de chinchards communs par voyage en mer, dépassent une quantité égale à 100 kg multiplié par le nombre de jours de navigation réalisé au cours de ce voyage en mer dans la zone-CIEM en question.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026052803" target="_blank">2026-05-28/03</a>, art. 3, 005; En vigueur : 01-06-2026&gt;
+(<font color="red">2</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 10, 006; En vigueur : 01-07-2026&gt;
+(<font color="red">3</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026062903" target="_blank">2026-06-29/03</a>, art. 10,3°, 006; En vigueur : 13-06-2026&gt;
+
+<a name="LNK0023" href="#LNKR0023">TITRE 3.</a> - Echange de jours
+
+<a name="Art.26" href="#Art.25">Art.</a> <a href="#Art.27"> 26</a>. § 1. Les revenus des dépassements des quantités attribuées maximales valorisables sous la forme de plafonds quotidiens, visés à l'article 25, paragraphes 1 à 5 y compris, les paragraphes 7 et 9, les paragraphes 11 à 13 y compris sont retenus au bénéfice du compte de poisson récupérée de l'organisation de producteurs Rederscentrale.
+§ 2. Pour l'exécution des dispositions du présent article, la Rederscentrale effectue la supervision dans les criées selon les modalités conclues avec l'entité compétente dans le cadre du Règlement (UE) no 1379/2013 du Parlement et du Conseil du 11 décembre 213 portant organisation commune des marchés des produits dans le secteur de la pêche et de l'aquaculture.
+Des prix moyens forfaitaires sont utilisés, basés sur les prix moyens du marché 2025.
+
+<a name="Art.27" href="#Art.26">Art.</a> <a href="#LNK0024"> 27</a>.§ 1. En cas d'infraction des articles 10 à 12 et 14 jusqu'au 25 inclus, ou en cas d'infraction aux limitations imposées aux licences de pêche, la licence de pêche qui a été délivrée au navire de pêche, peut être retirée pour une période d'au moins 5 jours consécutifs.
+L'entité compétente prend cette décision de retrait de la licence de pêche et en informe le propriétaire du navire de pêche par lettre recommandée. Le retrait prend effet le troisième jour suivant le jour de la notification. Pendant la période de retrait, le navire de pêche doit être inactif dans un port de pêche belge. Le nombre maximal de jours de navigation, visé à l'article 12, est réduit du nombre de jours pendant lesquels la licence de pêche a été retirée. Le nombre maximal de jours de navigation mentionné à l'article 12, deuxième alinéa, est réduit du nombre de jours pendant lesquels le permis de pêche a été retiré si l'infraction constatée concerne les eaux occidentales.
+§ 2. Si les possibilités de pêche allouées, visées aux articles 14 à 25 inclus, sont dépassées par le navire de pêche, le degré de dépassement exprimé en kilogrammes [<sup>1</sup> ...]<sup>1</sup> est déduit des possibilités de pêche allouées à ce navire pour la période correspondante de l'année 2027.
+L'entité compétente communique la déduction calculée des possibilités de pêche au propriétaire du navire de pêche concerné par lettre recommandée.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026032601" target="_blank">2026-03-26/01</a>, art. 4, 003; En vigueur : 01-01-2026&gt;
+
+<a name="LNK0024" href="#LNKR0024">TITRE 4.</a> - Dispositions finales
+
+<a name="Art.28" href="#Art.27">Art.</a> 28. Le présent arrêté entre en vigueur le 1er janvier 2026. Il cesse d'être en vigueur le 1er janvier 2027, à l'exception des articles 3, 10, 11, 13, 26 et 27.
