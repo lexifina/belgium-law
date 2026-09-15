@@ -1,0 +1,592 @@
+<a name="LNK0001" href="#LNKR0001">CHAPITRE 1.</a> - Champ d'application et définitions
+
+<a name="Art.1er"></a>Article <a href="#Art.2"> 1er</a>. Le présent arrêté précise les critères d'agrément spécifiques pour :
+1° les médecins qui souhaitent être agréés comme médecin spécialiste pour le titre professionnel particulier de niveau 2 de médecin spécialiste en chirurgie cardiaque, de médecin spécialiste en chirurgie thoracique, de médecin spécialiste en chirurgie vasculaire ou de médecin spécialiste en chirurgie viscérale, tel que visé à l'article 1er de l'arrêté royal du 25 novembre 1991 établissant la liste des titres professionnels particuliers réservés aux praticiens de l'art médical, en ce compris l'art dentaire ;
+2° les médecins spécialistes qui souhaitent être agréés comme maître de stage en chirurgie cardiaque, en chirurgie thoracique, en chirurgie vasculaire ou en chirurgie viscérale ;
+3° l'agrément des services de stage en chirurgie cardiaque, en chirurgie thoracique, en chirurgie vasculaire ou en chirurgie viscérale.
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Pour l'application du présent arrêté, il faut entendre par :
+1° arrêté fixant les critères généraux : l'arrêté ministériel du 23 avril 2014 fixant les critères généraux d'agrément des médecins spécialistes, des maîtres de stage et des services de stage ;
+2° candidat spécialiste : médecin, titulaire d'un titre de niveau 1 tel que visé dans l'arrêté précité du 25 novembre 1991, en formation pour l'obtention d'un titre professionnel particulier de niveau 2 de médecin spécialiste en chirurgie cardiaque, de médecin spécialiste en chirurgie thoracique, de médecin spécialiste en chirurgie vasculaire ou de médecin spécialiste en chirurgie viscérale.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#LNK0002"> 3</a>. Sans préjudice de l'arrêté fixant les critères généraux, les médecins spécialistes en chirurgie cardiaque, les médecins spécialistes en chirurgie thoracique, les médecins spécialistes en chirurgie vasculaire ou les médecins spécialistes en chirurgie viscérale, les maîtres de stage et les services de stage en chirurgie cardiaque, en chirurgie thoracique, en chirurgie vasculaire ou en chirurgie viscérale répondent aux normes d'agrément fixées dans le présent arrêté pour être agréés.
+Le candidat spécialiste est agréé en tant que médecin spécialiste en chirurgie cardiaque, médecin spécialiste en chirurgie thoracique, médecin spécialiste en chirurgie vasculaire ou médecin spécialiste en chirurgie viscérale après avoir suivi une formation complète de six ans dont trois années de formation de base intitulée " tronc commun en chirurgie " et trois années de formation supérieure en chirurgie cardiaque, en chirurgie thoracique, en chirurgie vasculaire ou en chirurgie viscérale.
+En dérogation à l'article 11 de l'arrêté fixant les critères généraux, le candidat spécialiste peut accomplir au maximum un an de la durée de sa formation en tronc commun en chirurgie et un an de la durée de sa formation supérieure dans un autre Etat membre de l'Union européenne, dans un Etat membre de l'Espace économique européen non membre de l'Union européenne, dans un Etat avec lequel l'Union européenne et ses Etats membres ont conclu un accord d'association qui est entré en vigueur et qui stipule que, dans le cadre de l'accès à et de l'exercice d'une activité professionnelle, ce ressortissant ne peut pas être discriminé en raison de sa nationalité.
+En dérogation à l'article 14, alinéa 3, de l'arrêté fixant les critères généraux, la moitié de la durée de l'étude scientifique peut remplacer au maximum une année de la durée totale de la formation visée à l'alinéa 2.
+
+<a name="LNK0002" href="#LNKR0002">CHAPITRE 2.</a> - La formation en tronc commun en chirurgie
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. La formation en tronc commun en chirurgie du candidat spécialiste comporte :
+a) un stage de six mois dans un service de stage agréé en chirurgie viscérale;
+b) un stage de six mois dans un service de stage agréé en chirurgie vasculaire ;
+c) un stage de trois mois dans un service de stage agréé en chirurgie thoracique ;
+d) un stage de trois mois dans un service de stage agréé en chirurgie cardiaque ;
+e) un stage de trois mois en traumatologie ;
+f) un stage de neuf mois comprenant :
+1° un stage de trois mois dans un service de stage agréé en soins intensifs ou en service d'urgence,
+2° deux stages de trois mois à effectuer dans un service de stage agréé pour le titre de niveau 2 en chirurgie cardiaque, en chirurgie thoracique, en chirurgie vasculaire, ou en chirurgie viscérale, à condition d'effectuer les stages dans des spécialités différentes.
+En dérogation au 2°, les deux stages de trois mois peuvent être effectuer dans deux services de stage agréés en chirurgie viscérale, à condition que les services de stage soient spécialisés dans des pathologies différentes.
+Le stage en traumatologie peut concerner les soins d'urgences ou l'orthopédie.
+§ 2. Au cours de la troisième année de la formation en tronc commun en chirurgie, le candidat spécialiste effectue un stage de six mois dans un service de stage agréé dans une des spécialités suivantes :
+a) chirurgie cardiaque ;
+b) chirurgie thoracique ;
+c) chirurgie vasculaire ;
+d) chirurgie viscérale.
+§ 3. A la fin de la formation en tronc commun en chirurgie, le candidat spécialiste doit :
+1° disposer des compétences visées dans l'annexe 1re au présent arrêté ;
+2° obtenir une certification " Advanced Trauma and Life Support " ou une certification similaire.
+Sans préjudice des articles 19 et 20 de l'arrêté fixant les critères généraux, le candidat spécialiste doit, à la fin de la formation en tronc commun en chirurgie, apporter la preuve qu'il a acquis les compétence visées par la formation en tronc commun chirurgie et réussir une évaluation organisée selon les modalités définies à l'article 20, alinéa 1er, de l'arrêté fixant les critères généraux.
+§ 4. La formation en tronc commun en chirurgie doit permettre au candidat spécialiste d'acquérir des connaissances théoriques, cliniques et techniques dans les domaines suivants :
+1° diagnostic, soins périopératoires et thérapies de diverses affections chirurgicales, y compris les soins intensifs, l'oncologie, la médecine d'urgence et le fonctionnement et l'organisation de ces services ;
+2° compétences de base en chirurgie ouverte et mini-invasive (endoscopique et robotique) ;
+3° connaissances permettant d'assurer la prise en charge adéquate des patients (poly)traumatisés et des enfants.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. La fonction de maitre de stage coordinateur visée à l'article 8 de l'arrêté fixant les critères généraux est occupée par un maitre de stage différent pendant la formation en tronc commun en chirurgie et pendant la formation supérieure dans la spécialité concernée.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#LNK0003"> 6</a>. Les services de stage pour la formation en tronc commun en chirurgie respectent les obligations suivantes :
+1° le service de stage assure la formation permanente de l'équipe ;
+2° le service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+Le système de politique de qualité et de sécurité est suffisamment développé pour permettre des expériences pertinentes aux candidats spécialistes, comme visé dans les compétences finales de leur spécialité ;
+3° le service de stage dispose des moyens pour utiliser la formation en réalité virtuelle ;
+4° le service de stage offre un cadre permettant la discussion et la collaboration multidisciplinaire.
+
+<a name="LNK0003" href="#LNKR0003">CHAPITRE 3.</a> - Critères d'agréments spécifiques pour les médecins spécialistes, les maîtres de stage et les services de stage en chirurgie cardiaque
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. § 1er. Le candidat spécialiste peut être agréé en tant que médecin spécialiste en chirurgie cardiaque après avoir suivi une formation correspondant à une formation à temps plein de six ans au moins, dont trois années de formation en tronc commun en chirurgie et trois années de formation supérieure en chirurgie cardiaque.
+La réussite de l'évaluation de la formation en tronc commun en chirurgie est obligatoire avant de débuter la formation supérieure en chirurgie cardiaque.
+§ 2. Sans préjudice de l'article 10 de l'arrêté fixant les critères généraux, la formation supérieure en chirurgie cardiaque comprend au moins un an de formation dans un hôpital désigné comme hôpital universitaire ou un service de stage désigné comme universitaire, selon les modalités définies à l'article 10 fixant les critères généraux.
+§ 3. A la fin de la formation supérieure en chirurgie cardiaque le candidat spécialiste dispose des compétences visées dans l'annexe 2 au présent arrêté.
+
+<a name="Art.8" href="#Art.7">Art.</a> <a href="#Art.9"> 8</a>. Le maître de stage en chirurgie cardiaque est attaché à temps plein (au moins huit dixièmes de l'activité professionnelle normale) au service de stage et consacre la plus grande partie de son temps à des activités cliniques, polycliniques et techniques dans le domaine de la chirurgie cardiaque.
+
+<a name="Art.9" href="#Art.8">Art.</a> <a href="#Art.10"> 9</a>. § 1er. Les critères d'agrément pour les services de stage en chirurgie cardiaque sont les suivants :
+1° le service de stage remplit les critères prévus dans l'arrêté royal du 15 juillet 2004 fixant les normes auxquelles les programmes de soins "pathologie cardiaque" doivent répondre pour être agréés concernant les programmes de soins suivants :
+- pathologie cardiaque (A1),
+- diagnostic invasif (B1),
+- thérapie interventionnelle, non-chirurgicale (B2),
+- chirurgie cardiaque (B3),
+- stimulateur cardiaque (P),
+- électrophysiologie (E) ;
+2° Le service de stage dispose d'une structure adaptée avec un nombre suffisant de lits dédiés à la chirurgie cardiaque. Ces lits doivent se trouver dans un hôpital qui dispose d'une structure adéquate, en particulier d'un service de cardiologie et d'une fonction de soins intensifs ;
+3° le service de stage doit couvrir des pathologies cardiaques suffisamment variées ;
+4° le service de stage pratique au moins quatre cents opérations en chirurgie cardiaque par an ;
+5° le service de stage assure la formation permanente de l'équipe ;
+6° le service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+Le système de politique de qualité et de sécurité est suffisamment développé pour permettre des expériences pertinentes aux candidats spécialistes, comme visé dans les compétences finales de leur spécialité ;
+7° le service de stage dispose des moyens pour utiliser la formation en réalité virtuelle ;
+8° le service de stage offre un cadre permettant la discussion et la collaboration multidisciplinaire.
+§ 2. Le service de stage dispose d'un cadre technologique actualisé afin d'offrir des processus de soins de qualité optimale.
+Le service de stage doit avoir accès aux différentes modalités et options thérapeutiques, chirurgicales et interventionnelles, pour un traitement optimal et individualisé de la pathologie cardiaque.
+
+<a name="Art.10" href="#Art.9">Art.</a> <a href="#LNK0004"> 10</a>.Le maître de stage en chirurgie cardiaque peut former des candidats spécialistes à condition que, pour chaque candidat spécialiste à former [<sup>1</sup> visé par l'arrêté fixant les critères généraux]<sup>1</sup> :
+1° l'équipe de stage dispose d'au moins un autre médecin, agréé depuis au moins trois ans dans la même spécialité, qui travaille à temps plein (au moins huit dixièmes de l'activité professionnelle normale) dans le service de stage ;
+2° le service de stage pratique au moins quatre cents opérations en chirurgie cardiaque par an.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 1, 002; En vigueur : 15-09-2026&gt;
+
+<a name="LNK0004" href="#LNKR0004">CHAPITRE 4.</a> - Critères d'agréments spécifiques pour les médecins spécialistes, les maîtres de stage et les services de stage en chirurgie thoracique
+
+<a name="Art.11" href="#Art.10">Art.</a> <a href="#Art.12"> 11</a>. § 1er. Le candidat spécialiste peut être agréé en tant que médecin spécialiste en chirurgie thoracique après avoir suivi une formation correspondant à une formation à temps plein de six ans au moins, dont trois années de formation en tronc commun en chirurgie et trois années de formation supérieure en chirurgie thoracique.
+La réussite de l'évaluation de la formation en tronc commun en chirurgie est obligatoire avant de débuter la formation supérieure en chirurgie thoracique.
+§ 2. A la fin de la formation supérieure en chirurgie thoracique le candidat spécialiste dispose des compétences visées dans l'annexe 3 au présent arrêté.
+
+<a name="Art.12" href="#Art.11">Art.</a> <a href="#Art.13"> 12</a>. Le maître de stage en chirurgie thoracique est attaché à temps plein (au moins huit dixièmes de l'activité professionnelle normale) au service de stage et consacre la plus grande partie de son temps à des activités cliniques, polycliniques et techniques dans le domaine de la chirurgie thoracique.
+
+<a name="Art.13" href="#Art.12">Art.</a> <a href="#Art.14"> 13</a>. Les critères d'agrément pour les services de stage en chirurgie thoracique sont les suivants :
+1° le service de stage doit couvrir des domaines de la chirurgie thoracique suffisamment variées et doit notamment inclure les soins en oncologie thoracique ;
+2° par an, le service de stage procède au moins à trois cents interventions en chirurgie thoracique, dont au moins soixante résections anatomiques ;
+3° le service de stage dispose d'une structure adaptée avec un nombre suffisant de lits dédiés à la chirurgie thoracique. Ces lits doivent se trouver dans un hôpital qui dispose d'une structure adéquate, en particulier d'un service de pneumologie et d'une fonction de soins intensifs. Le service de stage doit pouvoir faire appel à un laboratoire d'anatomie pathologique où sont assurés en permanence la recherche de cryocoupes, à la kinésithérapie thoracique, le traitement de la douleur, la bronchoscopie et à l'avis sur la prévention et le traitement des infections.
+4° le service de stage assure la formation permanente de l'équipe ;
+5° le service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+Le système de politique de qualité et de sécurité est suffisamment développé pour permettre des expériences pertinentes aux candidats spécialistes, comme visé dans les compétences finales de leur spécialité ;
+6° le service de stage dispose des moyens pour utiliser la formation en réalité virtuelle ;
+7° le service de stage offre un cadre permettant la discussion et la collaboration multidisciplinaire.
+Sont considérés comme des interventions en chirurgie thoracique, les procédures effectuées sur le thorax, à l'exclusion de la mise en place de drains thoraciques, des biopsies ou des procédures de diagnostic telles que l'endoscopie.
+Sont considérés comme une résection anatomique, la résection d'une partie anatomique du poumon, y compris les voies respiratoires, les veines et les artères, la pneumonectomie, la lobectomie ou la segmentectomie.
+
+<a name="Art.14" href="#Art.13">Art.</a> <a href="#LNK0005"> 14</a>.Le maître de stage en chirurgie thoracique peut former des candidats spécialistes à condition que, pour chaque candidat spécialiste à former [<sup>1</sup> visé par l'arrêté fixant les critères généraux]<sup>1</sup>, l'équipe de stage dispose d'au moins un autre médecin, agréé depuis au moins trois ans dans la même spécialité, qui travaille à temps plein (au moins huit dixièmes de l'activité professionnelle normale) dans le service de stage.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 1, 002; En vigueur : 15-09-2026&gt;
+
+<a name="LNK0005" href="#LNKR0005">CHAPITRE 5.</a> - Critères d'agréments spécifiques pour les médecins spécialistes, les maîtres de stage et les services de stage en chirurgie vasculaire
+
+<a name="Art.15" href="#Art.14">Art.</a> <a href="#Art.16"> 15</a>. § 1er. Le candidat spécialiste peut être agréé en tant que médecin spécialiste en chirurgie vasculaire après avoir suivi une formation correspondant à une formation à temps plein de six ans au moins, dont trois années de formation en tronc commun en chirurgie et trois années de formation supérieure en chirurgie vasculaire.
+La réussite de l'évaluation de la formation en tronc commun en chirurgie est obligatoire avant de débuter la formation supérieure en chirurgie vasculaire.
+§ 2. A la fin de la formation supérieure en chirurgie vasculaire le candidat spécialiste dispose des compétences visées dans l'annexe 4 au présent arrêté.
+
+<a name="Art.16" href="#Art.15">Art.</a> <a href="#Art.17"> 16</a>. Le maître de stage chirurgie vasculaire est attaché à temps plein (au moins huit dixièmes de l'activité professionnelle normale) au service de stage et consacre la plus grande partie de son temps à des activités cliniques, polycliniques et techniques dans le domaine de la chirurgie vasculaire.
+
+<a name="Art.17" href="#Art.16">Art.</a> <a href="#Art.18"> 17</a>. § 1er. Les critères d'agrément pour les services de stage en chirurgie vasculaire sont les suivants :
+1° le service de stage doit disposer, dans le même établissement, d'une polyclinique, d'une fonction " soins urgents spécialisés ", d'un service de médecine interne et d'une fonction de soins intensifs ;
+2° le service de stage procède à au moins quatre cents admissions, en hospitalisation classique ou de jour, à quatre cents opérations, en artérielles ou veineuses, en endovasculaires et chirurgie ouverte, et à deux mille consultations par an ;
+3° le service de stage dispose des moyens d'effectuer des examens radiologiques préopératoires immédiats et un diagnostic vasculaire non invasif ;
+4° le service de stage développe des activités scientifiques dans le domaine de la chirurgie vasculaire ;
+5° le service de stage assure la formation permanente de l'équipe ;
+6° le service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+Le système de politique de qualité et de sécurité est suffisamment développé pour permettre des expériences pertinentes aux candidats spécialistes, comme visé dans les compétences finales de leur spécialité ;
+7° le service de stage dispose des moyens pour utiliser la formation en réalité virtuelle ;
+8° le service de stage offre un cadre permettant la discussion et la collaboration multidisciplinaire.
+
+<a name="Art.18" href="#Art.17">Art.</a> <a href="#LNK0006"> 18</a>.Le maître de stage en chirurgie vasculaire peut former des candidats spécialistes à condition que, pour chaque candidat spécialiste à former [<sup>1</sup> visé par l'arrêté fixant les critères généraux]<sup>1</sup>, l'équipe de stage dispose d'au moins un autre médecin, agréé depuis au moins trois ans dans la même spécialité, qui travaille à temps plein (au moins huit dixièmes de l'activité professionnelle normale) dans le service de stage.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 1, 002; En vigueur : 15-09-2026&gt;
+
+<a name="LNK0006" href="#LNKR0006">CHAPITRE 6.</a> - Critères d'agréments spécifiques pour les médecins spécialistes, les maîtres de stage et les services de stage en chirurgie viscérale
+
+<a name="Art.19" href="#Art.18">Art.</a> <a href="#Art.20"> 19</a>. § 1er. Le candidat spécialiste peut être agréé en tant que médecin spécialiste en chirurgie viscérale après avoir suivi une formation correspondant à une formation à temps plein de six ans au moins, dont trois années de formation en tronc commun en chirurgie et trois années de formation supérieure en chirurgie viscérale.
+La réussite de l'évaluation de la formation en tronc commun en chirurgie est obligatoire avant de débuter la formation supérieure en chirurgie viscérale.
+§ 2. A la fin de la formation supérieure en chirurgie viscérale le candidat spécialiste dispose des compétences visées dans l'annexe 5 au présent arrêté.
+§ 3. La dernière année de la formation supérieure en chirurgie viscérale peut cibler un sous-domaine de la chirurgie viscérale, en concertation avec le candidat spécialiste et le maître de stage coordinateur.
+A la fin de la formation dans le sous-domaine de la chirurgie mammaire le candidat spécialiste dispose des compétences visées dans l'annexe 6 au présent arrêté.
+
+<a name="Art.20" href="#Art.19">Art.</a> <a href="#Art.21"> 20</a>. Le maître de stage en chirurgie viscérale est attaché à temps plein (au moins huit dixièmes de l'activité professionnelle normale) au service de stage et consacre la plus grande partie de son temps à des activités cliniques, polycliniques et techniques dans le domaine de la chirurgie viscérale.
+
+<a name="Art.21" href="#Art.20">Art.</a> <a href="#Art.22"> 21</a>. § 1er. Les critères d'agrément pour les services de stage en chirurgie viscérale sont les suivants :
+1° le service de stage doit couvrir des pathologies suffisamment variées ;
+2° par an, le service de stage réalise au moins cent interventions dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N450 et trois cents interventions dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N350, conformément à la nomenclature des prestations médicales établie par l'INAMI ;
+3° le service de stage assure la formation permanente de l'équipe ;
+4° le service de stage dispose d'un système de contrôle et de garantie de la qualité de la formation.
+Le système de politique de qualité et de sécurité est suffisamment développé pour permettre des expériences pertinentes aux candidats spécialistes, comme visé dans les compétences finales de leur spécialité ;
+5° le service de stage dispose des moyens pour utiliser la formation en réalité virtuelle ;
+6° le service de stage offre un cadre permettant la discussion et la collaboration multidisciplinaire.
+§ 2. Le stage dans le sous-domaine de la chirurgie mammaire est accompli dans une clinique du sein coordinatrice agréée.
+
+<a name="Art.22" href="#Art.21">Art.</a> <a href="#LNK0007"> 22</a>.Le maître de stage en chirurgie viscérale peut former des candidats spécialistes à condition que, pour chaque candidat spécialiste à former [<sup>1</sup> visé par l'arrêté fixant les critères généraux]<sup>1</sup>:
+1° l'équipe de stage dispose d'au moins un autre médecin, agréé depuis au moins trois ans dans la même spécialité, qui travaille à temps plein (au moins huit dixièmes de l'activité professionnelle normale) dans le service de stage ;
+2° le service de stage réalise au moins cent interventions dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N450 et trois cents interventions dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N350, conformément à la nomenclature des prestations médicales établie par l'INAMI par an.
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 1, 002; En vigueur : 15-09-2026&gt;
+
+<a name="LNK0007" href="#LNKR0007">CHAPITRE 7.</a> - Dispositions transitoires et finales
+
+<a name="Art.23" href="#Art.22">Art.</a> <a href="#Art.24"> 23</a>. L'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie est abrogé.
+L'alinéa 1er n'est pas d'application pour la durée de l'application des articles 24 à 26.
+
+<a name="Art.24" href="#Art.23">Art.</a> <a href="#Art.25"> 24</a>. Le candidat spécialiste qui, à la date d'entrée en vigueur du présent arrêté, a entamé sur la base d'un plan de stage approuvé une formation en vue de l'obtention d'un titre de médecin spécialiste en chirurgie peut poursuivre sa formation de médecin spécialiste en chirurgie ou modifier son plan de stage.
+Le candidat spécialiste qui poursuit sa formation peut obtenir le titre de médecin spécialiste en chirurgie, en application de l'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie.
+En dérogation à l'article 24 et 24/1 de l'arrêté fixant les critères généraux, pour l'accomplissement de ces stages, un maître de stage, une équipe de stage et un service agréés en chirurgie cardiaque, chirurgie thoracique, chirurgie vasculaire ou chirurgie viscérale peuvent être désignés.
+Le candidat spécialiste qui a obtenu l'approbation de la modification de son plan de stage ou de son stage compensatoire peut obtenir le titre de médecin spécialiste en chirurgie cardiaque, de médecin spécialiste en chirurgie thoracique, de médecin spécialiste en chirurgie vasculaire ou de médecin spécialiste en chirurgie viscérale.
+La demande de modification du plan de stage est introduite dans un délai d'un an à partir de l'entrée en vigueur du présent arrêté. Elle comprend les documents justifiant les compétences finales acquises dans la spécialité concernée.
+Le plan de stage est adapté afin d'acquérir l'ensemble des compétences finales de la spécialité concernée.
+Si toutes les compétences finales n'ont pas encore été acquises, la commission d'agrément peut proposer un stage compensatoire.
+
+<a name="Art.25" href="#Art.24">Art.</a> <a href="#Art.%2025/1."> 25</a>. § 1er. Le maître de stage et le service de stage qui, à la date d'entrée en vigueur du présent arrêté, disposent d'un agrément restent soumis, jusqu'à l'expiration de leur agrément à l'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie.
+Pendant une période de sept ans à partir de l'entrée en vigueur du présent arrêté, l'agrément peut être renouvelé dans les conditions prévues à l'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie.
+§ 2. Les conditions d'ancienneté pour les maitres de stage et les membres de l'équipe de stage ne sont pas d'application jusqu'à, respectivement, neuf et six ans après l'entrée en vigueur du présent arrêté
+§ 3. Un médecin spécialiste en chirurgie peut accomplir les critères de supervision prévus à l'article 36, § 1er, de l'arrêté fixant les critères généraux jusqu'à sept ans après l'entrée en vigueur du présent arrêté.
+
+<a name="Art.%2025/1." href="#Art.25">Art.</a> <a href="#Art.%2025/2.">25/1</a>. [<sup>1</sup> Par dérogation aux articles 10, 14, 18 et 22, le maître de stage peut former des candidats spécialistes en formation en tronc commun en chirurgie cardiaque, chirurgie thoracique, chirurgie vasculaire ou chirurgie viscérale, urologie, orthopédie, neurochirurgie et chirurgie plastique, à condition de respecter un ratio de minimum un autre médecin reconnu dans la même spécialité que le maitre de stage dans l'équipe de stage et qui travaille à temps plein (au moins huit dixièmes de l'activité professionnelle normale) dans le service de stage pour maximum deux médecins spécialistes en formation.
+Le nombre de candidats de la formation supérieure en chirurgie cardiaque, chirurgie thoracique, chirurgie vasculaire ou chirurgie viscérale formés par le maître de stage ne peut jamais être supérieur au nombre de médecins spécialistes dans l'équipe de stage, à l'exclusion du maître de stage, qui travaillent à temps plein dans le service de stage (au moins huit dixièmes de l'activité professionnelle normale) et qui sont reconnus dans la même spécialité que le maître de stage.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 2, 002; En vigueur : 15-09-2026&gt;
+
+<a name="Art.%2025/2." href="#Art.%2025/1.">Art.</a> <a href="#Art.26">25/2</a>. [<sup>1</sup> § 1er. Par dérogation à l'article 9, § 1er, 4°, les services de stage en chirurgie cardiaque peuvent être agréés s'ils pratiquent au moins trois cents opérations en chirurgie cardiaque par an.
+§ 2. Par dérogation à l'article 13, 2°, les services de stage en chirurgie thoracique peuvent être agréés s'ils procèdent au moins à deux cents interventions en chirurgie thoracique, dont au moins cinquante résections anatomiques, par an.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 3, 002; En vigueur : 15-09-2026&gt;
+
+<a name="Art.26" href="#Art.%2025/2.">Art.</a> <a href="#Art.%2026/1."> 26</a>. § 1er. Le médecin spécialiste qui, à la date d'entrée en vigueur du présent arrêté, dispose d'un agrément en chirurgie en application de l'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie, conserve son agrément.
+§ 2. En dérogation aux chapitres 1 à 6, peut être agréé comme médecin spécialiste en chirurgie cardiaque, comme médecin spécialiste en chirurgie thoracique, comme médecin spécialiste en chirurgie vasculaire ou comme médecin spécialiste en chirurgie viscérale, tout médecin spécialiste en chirurgie notoirement connu comme particulièrement compétent et actif médicalement dans la spécialité concernée au cours des trois dernières années, préalablement à la date d'entrée en vigueur du présent arrêté.
+La preuve qu'il est notoirement connu comme particulièrement compétent peut être fournie notamment par le biais d'un certificat, comme ceux des associations professionnelles ou scientifiques, et par le biais de publications personnelles, formation continue ou autres activités portant sur la spécialité concernée, notamment la participation active à des congrès (inter)nationaux et à des réunions scientifiques.
+La preuve qu'il est actif médicalement dans la spécialité concernée est apportée par la preuve d'une activité minimale d'interventions chirurgicales pertinentes en moyenne par an durant les trois dernières années précédant l'entrée en vigueur du présent arrêté:
+1° pour l'agrément en chirurgie cardiaque : cinquante opérations avec coeur artificiel et techniques apparentés, effectuées en première main conformément à l'évolution technologique ;
+2° pour l'agrément en chirurgie thoracique : dix interventions dans le domaine de la chirurgie thoracique dont la valeur est égale ou supérieure à N1000 et vingt interventions dans le domaine de la chirurgie thoracique dont la valeur est égale ou supérieure à N600, conformément à la nomenclature des prestations médicales établie par l'INAMI ;
+3° pour l'agrément en chirurgie vasculaire : cent prestations réalisées dans le domaine de la chirurgie vasculaire selon la nomenclature des prestations de santé établie par l'INAMI ;
+4° pour l'agrément en chirurgie viscérale : cinquante interventions dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N450 et cent prestations dans le domaine de la chirurgie viscérale dont la valeur est égale ou supérieure à N350, conformément la nomenclature des prestations médicales établie par l'INAMI.
+La preuve de l'activité médicale minimale ne peut être apportée par les activités pratiquées en période de formation.
+La demande d'agrément est introduite dans un délai de trois ans à partir de l'entrée en vigueur du présent arrêté.
+§ 3. Le médecin spécialiste en chirurgie est autorisé à obtenir l'agrément dans une seule spécialité en application du § 2.
+Pour l'acquisition d'un titre supplémentaire en dehors du champ d'application du § 2, les dispositions de l'article 3/1 de l'arrêté fixant les critères généraux sont d'application. Au moins le moitié de la durée de la formation devra être accomplie.
+
+<a name="Art.%2026/1." href="#Art.26">Art.</a> <a href="#Art.27">26/1</a>. [<sup>1</sup> § 1er. Pour les médecins spécialistes qui disposent d'un agrément en chirurgie en application de l'arrêté ministériel du 12 décembre 2002 fixant les critères spéciaux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage pour la spécialité de la chirurgie et qui introduisent avant le 1er juillet 2027 une demande de formation en vue de l'obtention d'un agrément comme médecin spécialiste en chirurgie cardiaque, comme médecin spécialiste en chirurgie thoracique, comme médecin spécialiste en chirurgie vasculaire ou comme médecin spécialiste en chirurgie viscérale, les aménagements suivants peuvent être accordés, sur la base d'une analyse au cas par cas, sur la base des compétences pertinentes acquises au cours de formations ou d'une expérience professionnelle récente avant le 1er juillet 2026 :
+1° par dérogation à l'article 3/1, alinéa 2, de l'arrêté fixant les critères généraux, pour la formation visée à l'alinéa 1, les dispenses accordées peuvent excéder la moitié de la durée minimale de la formation pour la spécialité en question ;
+2° par dérogation à l'article 18, § 2, de l'arrêté fixant les critères généraux, pendant la durée la formation visée à l'alinéa 1, le candidat spécialiste peut exercer une activité médicale en dehors de ses activités de formation.
+§ 2. Le médecin spécialiste en chirurgie est autorisé à obtenir l'agrément dans une seule spécialité en application du § 1er.
+Pour l'acquisition d'un titre supplémentaire en dehors du champ d'application du § 1er, les dispositions de l'article 3/1 de l'arrêté fixant les critères généraux sont d'application. Au moins la moitié de la durée de la formation devra être accomplie.]<sup>1</sup>
+----------
+(<font color="red">1</font>)&lt;Inséré par AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 4, 002; En vigueur : 15-09-2026&gt;
+
+<a name="Art.27" href="#Art.%2026/1.">Art.</a> <a href="#LNK0008"> 27</a>. Le présent arrêté entre en vigueur le 1er juillet 2026.
+
+<a name="LNK0008" href="#LNKR0008">ANNEXES.</a>
+
+<a name="Art.N1" href="#Art.27">Art.</a> <a href="#Art.N2"> N1</a>.
+Annexe 1.
+Compétences de la formation en tronc commun en chirurgie
+A la fin de la formation en tronc commun en chirurgie, le candidat spécialiste a acquis les compétences nécessaires dans les domaines suivants, tant au niveau théorique que pratique :
+1. Compétences génériques
+1° Compétences générales
+a) Communication avec le patient, la famille
+b) Transfert aux collègues et aux autres dispensateurs de soins
+c) Fonctionnement au sein de l'équipe soignante
+d) Réflexion critique sur les indications
+e) Réflexion critique sur la qualité des soins, notamment la morbidité et la mortalité
+f) Réflexion critique sur le coût des soins
+g) Revue de la littérature
+h) Manipulation prudente des rayons X - outils de diagnostic (certificat de radioprotection ou certificat assimilé)
+2° Anatomie chirurgicale de base de l'abdomen et du rétropéritoine, de la région inguinale, du thorax, du cou, du poumon et du médiastin, du coeur et des gros vaisseaux sanguins
+3° Compréhension de la stratégie périopératoire, notamment la nutrition, la prophylaxie de la thrombose et régimes de passage pour les antiagrégants et les anticoagulants, l'évaluation du risque opératoire, la gestion des fluides et gestion des antibiotiques et la compréhension des principes de la récupération assistée
+4° Principes de la chirurgie mini-invasive, notamment pneumopéritoine, thoracoscopie et endovasculaire
+5° Cicatrisation des plaies et cicatrisation des anastomoses
+6° Types et soulagement des chocs
+7° Transfusion sanguine, notamment les indications et les risques
+1. Compétences spécifiques à la chirurgie cardiaque
+1° Outils de diagnostic, notamment échocardiographie et doppler
+2° Connaissance de base en anesthésie
+3. Compétences spécifiques à la chirurgie thoracique
+1° Bases de l'oncologie thoracique et médiastinale
+2° Drainage pleural
+3° Pneumothorax et pleurodèse
+4° Epanchement pleural et empyème thoracique
+5° Chylothorax
+6° Médiastinite
+7° Diagnostic et évaluation de la masse dans le cou
+8° Obstructions des voies respiratoires supérieures
+4. Compétences spécifiques à la chirurgie vasculaire
+1° Bonne compréhension des pathologies suivantes :
+- pathologie de l'athéromatose et principes de la prévention cardio-vasculaire
+- tableaux cliniques associés à la souffrance artérielle occlusive, chronique et aiguë
+- tableaux cliniques associés aux anévrismes, chroniques et aigus
+- tableaux cliniques associés à la dissection
+- thrombose veineuse profonde et thromboembolie
+- pathologie veineuse superficielle
+- vénésection pour accès vasculaire
+- syndrome des loges aigu
+- pied diabétique
+- traumatisme vasculaire
+2° Notions concernant les pathologies suivantes :
+- souffrance occlusive non athéromateuse
+- syndrome de traversée thoracobrachiale
+- infection et traitement des prothèses vasculaires
+- lymphoedème primaire et secondaire
+5. Compétences spécifiques à la chirurgie viscérale
+1° Principes de base de l'oncologie
+2° Bonne compréhension de l'abdomen aigu - imagerie pour le diagnostic et l'indication d'une chirurgie urgente
+3° Connaissance théorique de base de la viscéro-synthèse, du matériel de suture et du maillage
+4° Base théorique de la stomie, la gastrostomie et entérostomie
+6. Compétences spécifiques à la traumatologie
+1° Certification " Advanced Trauma and Life Support " ou une certification assimilée
+2° Soins de la plaie traumatique, y compris la place de l'antibioprophylaxie
+7. Compétences techniques chirurgicales
+§ 1er. Les compétences techniques chirurgicales sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D).
+§ 2. Les compétences techniques chirurgicales sont les suivantes :
+1° Compétences générales :
+- interventions chirurgicales générales : incision, hémostase et suture de plaies (D)
+- soins de plaies complexes, notamment la thérapie V.A.C. (D)
+- drainage d'un abcès (D)
+- mise en place et retrait d'un drain thoracique (D)
+2° Compétences spécifiques à la chirurgie cardiaque :
+- sternotomie et fermeture de sternotomie (C)
+- prélèvement de la veine saphène par chirurgie ouverte ou endoscopique (C)
+- drainage pleural (C)
+- V.A.C. sternal (C)
+- Drainage du péricarde (B)
+3° Compétences spécifiques à la chirurgie thoracique :
+- thoracotomie et fermeture de thoracotomie (C-D)
+- thoracoscopie exploratoire (C-D)
+- lobectomie cunéiforme ouverte et thoracoscopique (B-C)
+- bullectomie et abrasion pour pleurodèses (B-C)
+- trachéotomie percutanée et opératoire (A-B)
+4° Compétences spécifiques à la chirurgie vasculaire :
+- amputation (orteil - sous le genou - cuisse) (C-D)
+- embolectomie et thrombectomie pour ischémie aiguë d'un membre (B-C)
+- anastomose vasculaire et patchplastie (C-D)
+- implantation d'un port-à-cath/d'un cathéter permanent (D)
+- fasciotomie pour syndrome des loges (D)
+- contrôle de l'hémorragie traumatique (C)
+- drainage du pied diabétique aigu (C)
+- phlébectomie (B-C)
+- implantation de la fistule auriculoventriculaire (B)
+- embolectomie et thrombectomie des vaisseaux viscéraux (A)
+- endartérectomie de l'artère carotide (A)
+- revascularisation endovasculaire (A)
+- traitement endovasculaire de l'anévrisme (A)
+- embolisation de l'hémorragie (A)
+- traitement des varices (A)
+- procédure de pontage artériel ouvert (A)
+5° Compétences spécifiques à la chirurgie viscérale :
+- accès à l'abdomen par laparotomie et laparoscopie, y compris l'utilisation de la robotique, et fermeture de l'abdomen (C-D)
+- anastomose intestinale : couture manuelle et viscérosynthèse (B-C)
+- mise en place d'une stomie par colostomie et iléostomie (B-C)
+- jénunostomie d'alimentation et gastrostomie entérale (C-D)
+- réparation d'une éviscération - VAC - suture par traction (C-D)
+- techniques proctologiques de base : drainage d'abcès - séton de fistule - hémorroïdectomie externe (D)
+- résection d'une tumeur superficielle de la peau et des tissus mous (D)
+- appendicectomie par laparoscopie (C-D)
+- réparation de hernies (B-C)
+- cholécystectomie par laparoscopie (B-C)
+6° Compétences spécifiques à la traumatologie :
+- compétences de la certification " Advanced Trauma and Life Support " ou une certification assimilée (D)
+- soins de la plaie traumatique (D)
+- stabilisation temporaire des fractures notamment traction, attelle, plâtre (D)
+- chirurgie de contrôle des lésions, y compris arrêt de l'hémorragie et arrêt de la contamination (C-D)
+
+<a name="Art.N2" href="#Art.N1">Art.</a> <a href="#Art.N3"> N2</a>.
+Annexe 2.
+Compétences finales de la formation supérieure en chirurgie cardiaque
+A la fin de la formation supérieure en chirurgie cardiaque, le candidat spécialiste a acquis les compétences nécessaires tant au niveau théorique que pratique.
+Les compétences sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D)
+Les compétences sont les suivantes :
+1. Compétences cliniques
+- Diagnostic des problèmes cardiaques, indication et suivi postopératoire (D)
+- Avantages et inconvénients des interventions chirurgicales cardiaques, évaluation du risque pour le patient (D)
+- Choix de la meilleure technique, chirurgicale ou interventionnelle, dans l'intérêt du patient (D)
+- Rédaction de rapports d'opération (D)
+- Réalisation de consultations pré- et postopératoires (D)
+- Présentation de cas lors de la réunion d'équipe multidisciplinaire (D)
+- Permanences en chirurgie cardiaque avec prise en charge des urgences (D)
+2. Compétences techniques
+- Procédure de chirurgie cardiaque les plus courantes : pontage aorto-coronarien, avec ou sans pompe, chirurgie valvulaire simple (valve aortique et mitrale), chirurgie aortique élective de l'aorte ascendante, soins initiaux d'une dissection aortique, réopération et révision pour hémorragie ou tamponnade, implantation de stimulateurs cardiaques et de défibrillateurs automatiques implantables (D)
+- Techniques de cardiologie interventionnelle : rayonnement, fils guide, feuilles, stents, produit de contraste (D)
+- Connaissance et interprétation des techniques d'imagerie (D)
+- Technique du pontage cardio-pulmonaire (D)
+3. Compétences non techniques
+- Communication, gestion, multidisciplinarité, leadership, capacité de prise de décision (D)
+- Processus de soins, rapports d'incidents (D)
+- Droits du patient (D)
+- Contrôle de la qualité, rapport coût-efficacité, organisation du système de soins de santé (D)
+- Formation d'étudiants et du personnel infirmier (D)
+- Présentation de résultats scientifiques (D)
+
+<a name="Art.N3" href="#Art.N2">Art.</a> <a href="#Art.N4"> N3</a>.
+Annexe 3.
+Compétences finales de la formation supérieure en chirurgie thoracique
+A la fin de la formation supérieure en chirurgie thoracique, le candidat spécialiste a acquis les compétences nécessaires dans les domaines suivants, tant au niveau théorique que pratique.
+Les compétences sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D)
+Les compétences sont les suivantes :
+1. Compétences techniques
+- Biopsie pulmonaire et résection en coin (wedge) (D)
+- Pneumothorax (D)
+- Résection de bulles (D)
+- Pleurodèse (D)
+- Décortication d'empyèmes de stade II (D)
+- Médiastinoscopie (D)
+- Trachéotomie (D)
+- Fenêtre péricardique (D)
+- Sympathectomie (D)
+- Prise en charge de traumatisme thoracique majeur, notamment hémothorax massif, perforation pulmonaire et stabilisation du volet thoracique (D)
+- Manipulation radiologique interventionnelle, notamment biopsie guidée par imagerie médicale (computed tomography), procédures de drainage, ablation par radiofréquence, radiothérapie stéréotaxique (D)
+- Endoscopie et manipulations endoscopiques, notamment bronchoscopie, écho-endoscopie des voies aériennes, pose d'un stent (D)
+- Résection (d'une partie) des poumons (D)
+- Chirurgie et réparation du diaphragme (D)
+- Lymphadénectomie mediastinale (D)
+- Traitement du chylothorax (D)
+[<sup>1</sup> - interventions sur la thyroïde et la parathyroïde (C)]<sup>1</sup>
+2. Compétences générales
+- Consultation, évaluation périopératoire, traitement et soins postopératoires dans le service et suivi (D)
+- Exécution de l'ensemble du spectre des interventions thoraciques, électives et en urgence (D)
+- Approche conventionnelle et vidéoscopique des pathologies thoraciques (D)
+- Diagnostic et détermination du stade d'une pathologie thoracique et techniques de soutien relatives aux pathologies thoraciques (D)
+- Application de la classification et de l'enregistrement des tumeurs thoraciques (D)
+- Participation active au traitement d'aide du patient souffrant d'une maladie thoracique, notamment traitement de la douleur, alimentation entérale et parentérale (D)
+- Participation à des discussions multidisciplinaires relatives aux pathologies thoraciques (D)
+3. Compétences non techniques
+- Approche globale des processus de soins (D)
+- Collaboration multi- et interdisciplinaire (D)
+- Culture de la sécurité du patient (D)
+- Suivi et surveillance des processus de soins (D)
+- Analyse et interprétation de données et présentation didactique (D)
+- Prise en charge de l'amélioration de la qualité, y compris la planification, la réalisation et le suivi (D)
+- Organisation et communication concernant les transitions dans le trajet de soins des patients intra-muros et extra-muros (D)
+- Rapportage et analyse des incidents et quasi-incidents (D)
+- Droits du patient (D)
+- Communication avec les dispensateurs de soins, les patients et leur personne de confiance (D)
+
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 5, 002; En vigueur : 15-09-2026&gt;
+
+<a name="Art.N4" href="#Art.N3">Art.</a> <a href="#Art.N5"> N4</a>.
+Annexe 4.
+Compétences finales de la formation supérieure en chirurgie vasculaire
+A la fin de la formation supérieure en chirurgie vasculaire, le candidat spécialiste a acquis les compétences nécessaires dans les domaines suivants, tant au niveau théorique que pratique.
+Les compétences sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D)
+Les compétences techniques chirurgicales sont les suivantes :
+1. Tableau clinique
+1° Système vasculaire artériel
+- Athéromatose (D)
+- Thrombose aiguë et ischémie (D)
+- Maladie cérébro-vasculaire (D)
+- Syndrome du compartiment (D)
+- Infections pied diabétique (D)
+- Embolie artérielle périphérique (D)
+- Artériopathie périphérique oblitérante (D)
+- Dissection aortique (D)
+- Anévrisme aortique (D)
+- Anévrisme périphérique (D)
+- Anévrisme viscéral (D)
+- Artériopathie oblitérante non athérosclérosique (B)
+- Sténose artère rénale ( D)
+- Syndrome de la traversée thoraco-brachiale (B)
+- Infection de la greffe vasculaire (B)
+2° Système vasculaire veineux
+- Evaluation de la jambe gonflée (D)
+- Thrombophlébite (D)
+- Varices (D)
+- Congestion veineuse et insuffisance veineuse chronique (D)
+- Thrombose veineuse (D)
+3° Accès vasculaire
+- Principes d'accès vasculaire et phlébotomie (D)
+4° Lymphatique
+- Lymphoedème primaire et secondaire (D)
+2. Intervention et procédure
+1° Système vasculaire artériel
+- Stratégie conservatrice pour patients présentant des troubles vasculaires (D)
+- Amputation des membres inférieurs en fonction de la pathologie, notamment athérosclérose et diabète (D)
+- Embolectomie et thrombectomie - Artériel (D)
+- Revascularisation des membres inférieurs : chirurgie ouverte et endovasculaire (D)
+- Réparation de l'anévrisme aorto-iliaque abdominal : chirurgie ouverte (D)
+- Réparation de l'anévrisme aorto-iliaque abdominal : endovasculaire (D)
+- Réparation aorto-iliaque sur artériopathie oblitérante : endovasculaire (D)
+- Réparation aorto-iliaque sur artériopathie oblitérante : chirurgie ouverte (C)
+- Vaisseaux extra-crâniens - endovasculaire (B)
+- Endartériectomie carotidienne (D)
+- Principes d'interventions endovasculaires (D)
+- Politique opératoire en cas de dissection aortique : chirurgie ouverte et endovasculaire (B)
+- Politique opératoire d'anévrisme thoracique abdominal : tant chirurgie ouverte qu'endovasculaire (B)
+- Pontage extra-anatomique (D)
+- Fistule aorto-entérique (B)
+- Occlusion de l'artère mésentérique : chirurgie ouverte et endovasculaire (D)
+- Réparation de l'anévrisme périphérique (D)
+- Politique en cas d'infection de la greffe vasculaire (B)
+- Embolectomie et thrombectomie de l'artère mésentérique supérieure (D)
+- Ultrasound in the Diagnosis and Management of Vascular Diseases (D)
+2° Système vasculaire veineux
+- Traitement occlusion veineuse (B)
+- Insuffisance veineuse et opération varices (D)
+3° Accès vasculaire
+- Greffe artério-veineuse et fistule (D)
+- Pose de dispositifs pour accès veineux (D)
+4° Lymphatique
+- Thérapie de compression (D)
+- Fistule lymphoveineuse, liposuccion, transfert ganglion lymphatique (A)
+5° Vasculaire-traumatique
+- Management de traumatisme vasculaire (D)
+6° Hémorragie
+- Techniques d'embolisation (B)
+- Traitement par chirurgie ouverte (D)
+7° Malformations vasculaires
+- Techniques d'embolisation (A)
+8° Endoleaks
+- Techniques d'embolisation (D)
+3. Pied diabétique
+- Politique générale en matière de pied diabétique et organisation de la clinique du pied diabétique (D)
+
+<a name="Art.N5" href="#Art.N4">Art.</a> <a href="#Art.N6"> N5</a>.
+Annexe 5.
+Compétences finales de la formation supérieure en chirurgie viscérale
+A la fin de la formation supérieure en chirurgie viscérale le candidat spécialiste a acquis les compétences nécessaires dans les domaines suivants, tant au niveau théorique que pratique.
+Les compétences sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D)
+Les compétences sont les suivantes :
+1. Compétences générales
+- Approche globale des processus de soins
+- Collaboration multidisciplinaire
+- Culture de la sécurité du patient
+- Contrôle de la qualité et trajets d'amélioration (morbidité/mortalité)
+- Réglementation sur les droits des patients
+- Compétences en communication
+- Organisation des soins de santé
+- Financement des soins de santé et rapport coût-efficacité
+2. Compétences techniques
+§ 1er. Les compétences techniques sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D).
+§ 2. Les compétences techniques sont les suivantes :
+- Laparoscopie/Laparotomie exploratrice (D)
+- Cholécystectomie (D)
+- Exploration des voies biliaires (A)
+- Splénectomie (D)
+- Interventions bariatriques (B-C)
+- Procédures anti-reflux (B)
+- Traitement de perforation gastrique (D)
+- Gastrectomie (C)
+- Traitement d'obstruction de l'intestin grêle (D)
+- Appendicectomie (D)
+- Colectomie segmentaire (D)
+- Mise en place d'une stomie (D)
+- Interventions proctologiques (D)
+- Traitement de prolapsus rectal (C)
+- Résection rectale (B)
+- Résection cunéiforme du foie (C)
+- Drainage pour pancréatite (C)
+- Ablation de la glande surrénale (C)
+- Réparation de lésions de la paroi abdominale (D)
+- Endoscopie flexible périopératoire (D)
+[<sup>1</sup> - interventions sur la thyroïde et la parathyroïde (C)]<sup>1</sup>
+Les interventions sont effectuées par voie ouverte ou minimale invasive : laparoscopie, laparoscopie assistée ou robotique.
+3. Connaissances théoriques
+- Connaissances en anatomie et pathologie chirurgicale des maladies viscérales et de la paroi abdominale
+- Moyens diagnostiques dans le domaine des maladies viscérales
+- Gestion des fluides et politique nutritionnelle en phase périopératoire
+- Connaissance de la morbidité postopératoire la plus fréquente, classification, diagnostic en temps opportun et traitement
+- Principes de la chirurgie oncologique dans le domaine de la chirurgie viscérale (la consultation oncologique multidisciplinaire)
+- Principes de base de la prise en charge médicale et chirurgicale d'une pathologie inflammatoire du tube digestif
+- Principes de diagnostic et de traitement de l'abdomen aigu
+- Principes de diagnostic et de traitement du traumatisme abdominal
+- Maladies fonctionnelles et organiques de l'oesophage
+- Pathologies de la vésicule et des voies biliaires
+- Connaissance des mécanismes et traitement du traumatisme des voies biliaires
+- Pathologies de la rate
+- Physiopathologie de l'obésité morbide et notion de surveillance postopératoire du patient bariatrique
+- Affections bénignes et malignes de l'estomac
+- Pathologies de l'intestin grêle et de l'appendice
+- Pathologies colorectales bénignes et malignes
+- Maladies proctologiques
+- Maladies fonctionnelles du périnée (défécation obstruée et incontinence fécale)
+- Pathologies du foie, avec une attention portée sur la cirrhose et l'hypertension portale
+- Insuffisance hépatique
+- Principes de base du prélèvement et de la transplantation d'organes viscéraux
+- Pathologies bénignes et malignes du pancréas
+- Maladies de la glande surrénale
+- Maladies de la paroi abdominale
+- Principes de base des pathologies du thorax
+- Maladies congénitales fréquentes
+- Notions de la chirurgie viscérale pédiatrique
+
+----------
+(<font color="red">1</font>)&lt;AM <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026090705" target="_blank">2026-09-07/05</a>, art. 6, 002; En vigueur : 15-09-2026&gt;
+
+<a name="Art.N6" href="#Art.N5">Art.</a> N6.
+Annexe 6.
+Compétences finales dans le sous-domaine de la chirurgie mammaire
+1. Connaissances théoriques
+- Organisation de la clinique du sein et de l'approche multidisciplinaire du cancer du sein
+- Pathologies bénignes et malignes du sein
+- Connaissance du diagnostic des pathologies du sein, y compris les techniques de repérage
+- Notions de risque de cancer du sein
+2. Aptitudes pratiques
+§ 1er. Les aptitudes pratiques sont fixées par niveau :
+1° Observation (A)
+2° Pratique sous une supervision stricte (B)
+3° Pratique sous une supervision limitée (C)
+4° Exécution en toute autonomie (D).
+§ 2. Les aptitudes pratiques sont les suivantes :
+- Chirurgie guidée par l'image (D)
+- Mastectomie (D)
+- Galactophorectomie (C)
+- Biopsie du ganglion sentinelle (D)
+- Curage des ganglions lymphatiques axillaires (D)
+- Mammoplastie (C)
+- Reconstruction mammaire par implant (C)
+- Bases de la reconstruction par lambeau libre et pédiculé (B-C)
