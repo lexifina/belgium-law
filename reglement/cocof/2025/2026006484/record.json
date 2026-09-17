@@ -1,0 +1,29 @@
+{
+  "id": "2026006484",
+  "title": "24 AVRIL 2025. - Règlement fixant les congés, absences et disponibilités du personnel enseignant non subventionné de la Commission communautaire française",
+  "source_title": "24 AVRIL 2025. - Règlement fixant les congés, absences et disponibilités du personnel enseignant non subventionné de la Commission communautaire française",
+  "act": "reglement/cocof/2025/2026006484",
+  "source": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&sum_date=&pd_search=2026-09-07&numac_search=2026006484&page=1&lg_txt=F&caller=list&2026006484=10&trier=promulgation&ddd=2025-01-01&ddf=2025-12-31&fr=f&so=COMMISSION+COMMUNAUTAIRE+FRANCAISE",
+  "source_sha256": "0b7d1130919c81ead54d75618bbf0198ef54159e3e4a08e7446e27dbc12c9b0d",
+  "source_issuer": "Commission communautaire française",
+  "made": "2025-04-24",
+  "published": "2026-09-07",
+  "in_force": "2026-09-17",
+  "in_force_basis": "Justel: Entrée en vigueur : 17 septembre 2026; source explicitly supplies the commencement date.",
+  "history": "current-only",
+  "first_law": null,
+  "source_metadata": {
+    "Source": "Commission communautaire française",
+    "Publication": "7 septembre 2026",
+    "Numéro": "2026006484",
+    "page": "49124",
+    "Dossier numéro": "2025-04-24/09",
+    "Entrée en vigueur": "17 septembre 2026"
+  },
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "independent_source_tokens": 31967,
+  "checked_on": "2026-11-15",
+  "source_in_force_date": "2026-09-17"
+}
