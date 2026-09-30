@@ -1,0 +1,12 @@
+{
+  "status": "adopted parliamentary text; not promulgated law",
+  "kind": "draft",
+  "title": "relatif aux clusters d'innovation stratégique et aux écosystèmes d'innovation stratégique",
+  "parliament_publication_date": "2026-09-30",
+  "parliament_publication_id": "53081",
+  "reference": "PARCHEMIN 657 (2025-2026)",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/657.pdf",
+  "source_sha256": "7eff81aaeb07b6241a9471c368bb4dae9594876d8774abbef6236334fa40a0c7",
+  "text_extraction": "pdftotext -layout, unedited UTF-8 output",
+  "pdf_images": 0
+}
