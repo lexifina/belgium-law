@@ -1,0 +1,12 @@
+{
+  "status": "adopted parliamentary text; not promulgated law",
+  "kind": "draft",
+  "title": "ratifiant la décision de report de la reprise par la Région wallonne du service de l'impôt en matière de droits de succession et de droits d'enregistrement tels que visés aux 4°, 6°, 7° et 8° de l'article 3, alinéa 1er, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions",
+  "parliament_publication_date": "2026-09-30",
+  "parliament_publication_id": "53076",
+  "reference": "PARCHEMIN 613 (2025-2026)",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/613.pdf",
+  "source_sha256": "8d5d3847947daa48c2e16406b3d1f3216dcb07ce9d8d4f5de2060c48fcabb9eb",
+  "text_extraction": "pdftotext -layout, unedited UTF-8 output",
+  "pdf_images": 0
+}
