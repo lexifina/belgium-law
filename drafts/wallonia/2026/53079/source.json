@@ -1,0 +1,12 @@
+{
+  "status": "adopted parliamentary text; not promulgated law",
+  "kind": "draft",
+  "title": "modifiant le décret du 18 avril 2013 relatif au cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport",
+  "parliament_publication_date": "2026-09-30",
+  "parliament_publication_id": "53079",
+  "reference": "PARCHEMIN 625 (2025-2026)",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/625.pdf",
+  "source_sha256": "dce2e67a487d024e43449d70ce9deb9586129c9df8d503663ec901e0bbc7ce24",
+  "text_extraction": "pdftotext -layout, unedited UTF-8 output",
+  "pdf_images": 0
+}
