@@ -1,0 +1,30 @@
+<a name="Art.1er"></a>Article <a href="#Art.2">1er</a>.Le présent arrêté s'applique aux membres du personnel des services qui assistent le pouvoir judiciaire. Pour l'application du présent arrêté, l'on entend par membre du personnel qui assiste le pouvoir judiciaire : le membre du personnel nommé ou contractuel de l'ordre judiciaire, visé dans la partie II, livre Ier, titre III, du Code judiciaire, [<sup>1</sup> le référendaire près la Cour de cassation,]<sup>1</sup> l'attaché et le conseiller au service de la documentation et de la concordance des textes auprès de la Cour de cassation visé à l'article 260 du même Code, [<sup>1</sup> le directeur non-magistrat du service d'appui commun auprès du Collège des cours et tribunaux,]<sup>1</sup> ainsi que le candidat-magistrat visé à l'article 259octies, § 7, du même Code.
+----------
+(<font color="red">1</font>)&lt;AR <a href="/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2026093001" target="_blank">2026-09-30/01</a>, art. 1, 002; En vigueur : 01-10-2026&gt;
+
+<a name="Art.2" href="#Art.1er">Art.</a> <a href="#Art.3"> 2</a>. Le membre du personnel bénéficie d'un chèque-repas électronique par jour presté.
+Par dérogation à l'alinéa 1er est exclu du bénéfice du chèque-repas le membre du personnel qui bénéficie de l'indemnité forfaitaire mensuelle pour frais de séjour visée à l'article 86 de l'arrêté royal du 13 juillet 2017 fixant les allocations et indemnités des membres du personnel de la fonction publique fédérale.
+
+<a name="Art.3" href="#Art.2">Art.</a> <a href="#Art.4"> 3</a>. La valeur nominale du chèque-repas s'élève à six euros dont 1,09 euro de contribution du membre du personnel et 4,91 euro à charge du service public fédéral Justice.
+La valeur nominale visée à l'alinéa 1er est un montant qui ne bénéficie pas du régime d'indexation.
+Les chèques-repas sont nominatifs. Ils sont mis à disposition du membre du personnel au plus tard le dernier jour ouvrable du mois qui suit le mois civil pour lequel ils sont dus.
+
+<a name="Art.4" href="#Art.3">Art.</a> <a href="#Art.5"> 4</a>. § 1er. Les jours à prendre en compte pour le calcul du nombre de chèques-repas auxquels le membre du personnel a droit, sont les jours prestés qui se définissent comme le jour, le demi-jour, voire le cas échéant toute prestation entamée, où le membre du personnel travaille effectivement selon l'horaire de travail convenu avec le chef hiérarchique.
+Si un membre du personnel est rappelé de son repos, un chèque-repas lui est accordé pour la nouvelle prestation qu'il vient de commencer.
+Par dérogation à l'alinéa 1er, le ministre de la Justice détermine la liste des services et/ou des catégories de membres du personnel qui peuvent bénéficier d'un nombre de chèques-repas calculé en divisant le nombre total d'heures effectivement prestées au cours du trimestre par 7 heures 36 minutes. Si le résultat de la division donne lieu à un nombre décimal, il est arrondi à l'unité supérieure. Si le nombre ainsi obtenu est supérieur au nombre maximum de jours ouvrables susceptibles d'être prestés par le membre du personnel à temps plein au cours du trimestre, il est réduit à ce dernier nombre.
+§ 2. Sans préjudice du § 1er, le bénéfice de chèques-repas est maintenu lorsque le membre du personnel :
+- est désigné au secrétariat des procureurs européens délégués, mis à disposition du commissariat national drogue ou délégué dans un service public fédéral ;
+- est en congé syndical au sens des articles 36 à 39 de l'arrêté royal du 8 mars 2009 portant exécution de la loi du 25 avril 2007 organisant les relations entre les autorités publiques et les organisations syndicales des greffiers de l'Ordre judiciaire, les référendaires près la Cour de cassation, et les référendaires et juristes de parquet près les cours et tribunaux et de l'article 77, § 1er, alinéa 1er, de l'article 81, § 1er, et de l'article 82 de l'arrêté royal du 28 septembre 1984 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités ;
+- bénéficie d'une dispense de service au sens de l'article 40 de l'arrêté royal du 8 mars 2009 portant exécution de la loi du 25 avril 2007 organisant les relations entre les autorités publiques et les organisations syndicales des greffiers de l'Ordre judiciaire, les référendaires près la Cour de cassation, et les référendaires et juristes de parquet près les cours et tribunaux et des articles 81, § 2, 83, § 1er, et 84 de l'arrêté royal du 28 septembre 1984 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités ;
+- bénéficie d'une dispense de service pour suivre une formation ou d'un congé de formation.
+Toute autre dispense de service que celles énumérées à l'alinéa 1er, qui couvre un jour ouvrable du membre du personnel ne donne pas droit à un chèque-repas.
+§ 3. Le membre du personnel qui bénéficie d'une indemnité forfaitaire pour frais de séjour à l'étranger comme prévu au titre III, chapitre IV, section 3, de l'arrêté royal du 13 juillet 2017 fixant les allocations et indemnités des membres du personnel de la fonction publique fédérale, bénéficie de chèque-repas pour la durée de la mission.
+Le montant de la contribution du service public fédéral Justice au chèque-repas est déduit de l'indemnité précitée conformément à l'arrêté royal du 13 juillet 2017 susmentionné.
+
+<a name="Art.5" href="#Art.4">Art.</a> <a href="#Art.6"> 5</a>. Le membre du personnel bénéficie d'un chèque-repas électronique par jour presté à partir du premier jour du mois au cours duquel le présent arrêté entre en vigueur.
+
+<a name="Art.6" href="#Art.5">Art.</a> <a href="#Art.7"> 6</a>. Les articles 3, 41, 51 et 52 de la loi du 7 mai 2024 portant des dispositions diverses relatives au statut du personnel judiciaire produisent leur effet le 26 mai 2024.
+
+<a name="Art.7" href="#Art.6">Art.</a> <a href="#Art.8"> 7</a>. Le présent arrêté royal produit ses effets le 27 mai 2024.
+
+<a name="Art.8" href="#Art.7">Art.</a> 8. Le ministre qui a la Justice dans ses attributions est chargé de l'exécution du présent arrêté.
