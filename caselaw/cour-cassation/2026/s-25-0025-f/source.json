@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.25.0025.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-12",
+  "date_as_printed": "12 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.25.0025.F.pdf",
+  "source_sha256": "c32e0065bf40f3f244e8c41176d67cf65e27268247cb511d7e7d082f9dd597be",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
