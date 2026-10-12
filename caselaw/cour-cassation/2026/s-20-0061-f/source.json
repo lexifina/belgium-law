@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.20.0061.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-12",
+  "date_as_printed": "12 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.20.0061.F.pdf",
+  "source_sha256": "41ec4344c2a228e71623ed1fdf6c5be70dca346fc4a1acc794cb9f0e24a9e4f2",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
