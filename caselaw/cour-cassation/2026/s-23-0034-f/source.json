@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt S.23.0034.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-12",
+  "date_as_printed": "12 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/S.23.0034.F.pdf",
+  "source_sha256": "f47f3de8e2927969d8d0c379a3caacbe92a0b094354ed3c4a0e880bb1f2265fa",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
