@@ -1,0 +1,29 @@
+Texte
+
+CHAPITRE 1er. - Disposition introductive
+
+Article 1er . La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+CHAPITRE 2. - Modifications de la loi-programme (I) du 24 décembre 2002
+
+Art. 2 . A l'article 42, 3°, de la loi-programme (I) du 24 décembre 2002, remplacé par la loi-programme du 18 juillet 2025, les modifications suivantes sont apportées:
+
+1° au b), les mots "qui est redevable de cotisations sociales qui sont basées sur un revenu qui atteint au moins le revenu visé à l'article 12, § 1er, alinéa 2, du même arrêté" sont remplacés par les mots "qui est redevable de cotisations sociales qui sont basées sur un revenu qui atteint au moins le revenu visé à l'article 12, § 2, alinéa 1, du même arrêté";
+
+2° le f) est remplacé par ce qui suit:
+
+"f) le travailleur indépendant assujetti visé à l'article 13bis, § 2, 1°, 2°, 4°, 7° ou 9°, du même arrêté;".
+
+Art. 3 . A l'article 44 de la même loi, les modifications suivantes sont apportées:
+
+1° le paragraphe 2, modifié en dernier lieu par la loi du 18 février 2018, est complété par un alinéa rédigé comme suit:
+
+"Lorsque le montant de la cotisation ainsi calculé est inférieur au montant minimum de la cotisation visée au paragraphe 2/3, ce dernier montant prévaut comme montant de la cotisation.";
+
+2° dans le paragraphe 2/3, deuxième alinéa, modifié en dernier lieu par la loi du 7 mai 2019, "8,17 %" est remplacé par "8,50 %";
+
+3° dans le paragraphe 2/5, a) et b), inséré par la loi du 25 avril 2014, "8,17 %" est chaque fois remplacé par "8,50 %".
+
+CHAPITRE 3. - Disposition d'entrée en vigueur
+
+Art. 4. La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
