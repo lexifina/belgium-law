@@ -1,0 +1,11 @@
+{
+  "title": "Arrest 26CAS0305",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-13",
+  "date_as_printed": "13 OKTOBER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/26CAS0305.pdf",
+  "source_sha256": "6e00f7aa80ef7ceb919fb37f2005e9f56d06e034b9cd215aba16e3ab877c1ac0",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
