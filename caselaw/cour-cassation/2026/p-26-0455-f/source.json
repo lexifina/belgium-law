@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt P.26.0455.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-14",
+  "date_as_printed": "14 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0455.F.pdf",
+  "source_sha256": "3786c094e5b51185d8454a7632111a9345bbcdff06c0ec113ca43a9562c21e9b",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
