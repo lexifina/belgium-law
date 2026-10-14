@@ -1,0 +1,12 @@
+{
+  "status": "adopted parliamentary text; not promulgated law",
+  "kind": "draft",
+  "title": "modifiant l'article 35sexies du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité",
+  "parliament_publication_date": "2026-10-14",
+  "parliament_publication_id": "53168",
+  "reference": "PARCHEMIN 664 (2025-2026)",
+  "source": "https://nautilus.parlement-wallon.be/Archives/2026_2027/PARCHEMIN/664.pdf",
+  "source_sha256": "48855c3b8ee217363a6677c84edaf19fb781bca9911eb52453d73cabc2b45308",
+  "text_extraction": "pdftotext -layout, unedited UTF-8 output",
+  "pdf_images": 0
+}
