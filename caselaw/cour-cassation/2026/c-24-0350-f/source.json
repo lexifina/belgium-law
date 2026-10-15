@@ -1,0 +1,11 @@
+{
+  "title": "Arrêt C.24.0350.F",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-15",
+  "date_as_printed": "15 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/C.24.0350.F.pdf",
+  "source_sha256": "652c82fbe8f9d623693f9484f88f21581c2a0e472053e9a68b588158d2e0ade5",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
