@@ -1,0 +1,11 @@
+{
+  "title": "Arrest 26CAS0240",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-21",
+  "date_as_printed": "21 OCTOBRE 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/26CAS0240.pdf",
+  "source_sha256": "e80be506ceac66e851b8fc1f930920629c2ae7a9376623849574dbc0a62f9a07",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
