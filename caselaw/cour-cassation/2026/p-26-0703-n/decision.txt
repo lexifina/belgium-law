@@ -1,0 +1,243 @@
+27 OKTOBER 2026  P.26.0703.N/1
+
+              Hof van Cassatie van België
+
+                                    Arrest
+
+Nr. P.26.0703.N
+R.,
+beklaagde, aangehouden,
+eiser,
+met als raadsman mr. Loïc Cerulus, advocaat bij de balie Antwerpen,
+tegen
+1. F.,
+
+    burgerlijke partij,
+2. J.,
+
+    burgerlijke partij,
+3. D.,
+
+    burgerlijke partij,
+verweerders.
+27 OKTOBER 2026                P.26.0703.N/2
+
+I. RECHTSPLEGING VOOR HET HOF
+
+Het cassatieberoep is gericht tegen het arrest van het hof van beroep te Antwerpen,
+correctionele kamer, van 23 april 2026.
+De eiser voert in een memorie, die aan dit arrest is gehecht, een middel aan.
+Sectievoorzitter Erwin Francis heeft verslag uitgebracht.
+Advocaat-generaal Isabelle De Tandt heeft geconcludeerd.
+
+II. BESLISSING VAN HET HOF
+
+Beoordeling
+
+Ontvankelijkheid van het cassatieberoep en de memorie
+
+1. Uit de stukken waarop het Hof vermag acht te slaan, blijkt niet dat de eiser
+zijn cassatieberoep heeft laten betekenen aan de verweerders of dat hij zijn memorie
+aan de verweerders ter kennis heeft gebracht, zoals vereist door de artikelen 427 en
+429 Wetboek van Strafvordering.
+In zoverre gericht tegen de beslissing over de burgerlijke vorderingen, zijn het
+cassatieberoep en de memorie niet ontvankelijk.
+
+Middel
+
+2. Het middel voert schending aan van artikel 6.1 en 6.3.b EVRM, alsook
+miskenning van de algemene rechtsbeginselen van de eerbiediging van het recht
+van verdediging en de wapengelijkheid: het arrest oordeelt dat artikel 6 EVRM niet
+is geschonden en het recht op een eerlijk proces niet is miskend aangezien de eiser
+over afdoende tijd en faciliteiten heeft beschikt om de harde schijven en de daarop
+terug te vinden informatie te consulteren en zijn verweer erover te voeren, terwijl
+het dossier tevens beschrijvingen en snapshots van de vele geanalyseerde bestanden
+bevat; wanneer de bewijsvoering in overwegende mate steunt op digitale gegevens,
+omvat het recht op toegang tot het bewijs noodzakelijkerwijze de mogelijkheid voor
+de verdediging om de authenticiteit, de integriteit, de volledigheid en de context
+27 OKTOBER 2026  P.26.0703.N/3
+
+van die digitale gegevens zelfstandig te onderzoeken; dat onderzoek is onmogelijk
+wanneer, zoals hier, uitsluitend een door de onderzoekende instanties doorgevoerde
+selectie van digitale gegevens wordt meegedeeld; de verdediging kan zonder
+toegang tot de volledige dataset de accuraatheid en de volledigheid van de selectie
+niet nagaan, noch kan zij eigen zoekopdrachten uitvoeren, alternatieve hypotheses
+toetsen, de metadata onderzoeken, de chronologie reconstrueren, de
+betrouwbaarheid van de forensische extractie controleren, de “Chain of custody”
+(vrij vertaald: keten van bewaring) verifiëren, dan wel nagaan of gegevens à
+décharge buiten het dossier zijn gebleven; een proces-verbaal waarin de
+politiediensten verslag uitbrengen van hun selectie vormt geen equivalent voor de
+toegang tot de oorspronkelijke digitale gegevens; bijgevolg moest de eiser toegang
+krijgen tot alle overtuigingsstukken, met inbegrip van alle digitale gegevens; de
+eiser had bovendien geen toegang tot alle dossierstukken omdat de van de NAS-
+server gekopieerde bestanden gebreken vertoonden.
+
+3. Artikel 6.1 en 6.3.b EVRM, zoals uitgelegd door het Europees Hof voor de
+Rechten van de Mens in het arrest Einarsson en anderen tegen IJsland van 4 juni
+2019, verbiedt de rechter niet om zijn oordeel over de schuld van een beklaagde te
+baseren op een selectie van bewijsgegevens die de opsporings- of
+onderzoeksinstanties met enkel het gebruik van een geautomatiseerd zoeksysteem
+hebben verkregen uit een massa aan digitale gegevens aangetroffen op in beslag
+genomen gegevensdragers. Een dergelijke selectie kan namelijk onontbeerlijk zijn,
+onder meer wanneer de grote hoeveelheid aan teruggevonden gegevens geen
+nazicht van elk van die gegevens toelaat, maar slechts een screening en verdere
+filtering ervan aan de hand van software die toelaat gebruik te maken van bepaalde
+zoekcriteria. De opsporings- en onderzoeksinstanties worden, weliswaar op grond
+van een weerlegbaar vermoeden, geacht loyaal op te treden bij de uitoefening van
+hun desbetreffende werkzaamheden en hun verslaggeving daarover.
+
+4. In een dergelijk geval dient de beklaagde kennis te krijgen van alle relevante
+gegevens met betrekking tot de door de opsporings- of onderzoeksinstanties
+toegepaste zoekcriteria en dient hij over de mogelijkheid te beschikken om dezelfde
+dataset te screenen en te filteren aan de hand van eigen zoekcriteria, die hij zo
+precies mogelijk dient op te geven en waarvan hij de relevantie voor zijn zaak
+enigszins aannemelijk dient te maken. Verder dient hij toegang te krijgen tot alle
+27 OKTOBER 2026  P.26.0703.N/4
+
+gegevens die de opsporings- of onderzoeksinstanties inhoudelijk hebben ingezien.
+Kortom dient alles in het werk te worden gesteld opdat de beklaagde zijn recht op
+een eerlijk proces en recht van verdediging zoveel mogelijk naar behoren en in
+redelijkheid kan uitoefenen volgens de mogelijkheden aanwezig in de concrete
+zaak. Indien aan deze voorwaarden is voldaan, vereisen het recht van verdediging
+en het recht op een eerlijk proces niet dat de beklaagde toegang krijgt tot alle in
+beslag genomen bulkgegevens die de opsporings- of onderzoeksinstanties niet als
+dusdanig zelf hebben onderzocht.
+
+5. De rechter oordeelt onaantastbaar of de beklaagde aan de hand van de hem
+ter beschikking gestelde informatie en gegevens in staat is om doelmatig zijn recht
+op een eerlijk proces en recht van verdediging uit te oefenen, dan wel of de
+beklaagde recht heeft op de inzage of het onderzoek van bijkomende gegevens.
+
+Het Hof gaat na of de rechter uit zijn vaststellingen geen onmogelijk te
+verantwoorden gevolgen afleidt.
+
+In zoverre het middel uitgaat van een andere rechtsopvatting, faalt het naar recht.
+
+6. Het arrest verwerpt het verweer van de eiser dat zijn recht van verdediging,
+zijn recht op een eerlijk proces en de regel van wapengelijkheid zouden zijn
+miskend doordat hij geen inzage kreeg in het geheel van de in beslag genomen
+digitale gegevens. Het steunt dat oordeel in essentie op de volgende redenen:
+
+- het recht op toegang tot processtukken is niet absoluut. Hoewel een partij in
+   beginsel toegang moet krijgen tot het strafdossier en de relevante
+   overtuigingsstukken, kunnen beperkingen worden aanvaard wanneer deze
+   gerechtvaardigd zijn. Bij zeer omvangrijke digitale gegevensbestanden mogen
+   de onderzoeksrechter en de politie een selectie maken van relevante gegevens,
+   waarbij hun loyaliteit wordt vermoed zolang het tegendeel niet aannemelijk
+   wordt gemaakt;
+
+- de zaak betrof een uitzonderlijk grote hoeveelheid digitale gegevens. Op één
+   NAS-schijf stonden bijna twee miljoen mediabestanden, goed voor meer dan
+   122 dagen beeldmateriaal. Om praktische redenen werd slechts een deel van die
+   bestanden manueel onderzocht. De onderzoekers analyseerden uiteindelijk
+   297.808 bestanden, ongeveer 15 procent van het totaal;
+27 OKTOBER 2026  P.26.0703.N/5
+
+- de selectie van de onderzochte bestanden gebeurde volgens objectieve criteria.
+   De onderzoekers werkten niet met inhoudelijke zoektermen of subjectieve
+   filters, maar analyseerden eenvoudigweg opeenvolgende bestanden in hun
+   chronologische volgorde. Daardoor bestaat er geen aanwijzing dat bewust
+   materiaal à décharge buiten beschouwing werd gelaten;
+
+- de vervolgende overheid heeft geen kennis genomen van het grootste deel van
+   de niet-geanalyseerde bestanden. Artikel 6 EVRM vereist volgens het Europees
+   Hof voor de Rechten van de Mens niet dat een beklaagde toegang krijgt tot alle
+   bulkdata wanneer ook het openbaar ministerie daarvan geen effectieve kennis
+   heeft genomen. In dat geval volstaat het dat de gehanteerde selectiecriteria
+   gekend zijn;
+
+- de eiser heeft zelf geen concrete selectiecriteria voorgesteld die toelaten om
+   eventueel ontlastend materiaal terug te vinden in de niet-geanalyseerde
+   bestanden. Nochtans was hij als installateur en gebruiker van het camerasysteem
+   bijzonder goed geplaatst om bijvoorbeeld bepaalde locaties, periodes of
+   gebeurtenissen aan te duiden waarin zich volgens hem materiaal à décharge
+   bevond;
+
+- het argument dat de foutieve tijdsaanduiding op sommige beelden een zinvolle
+   inzage onmogelijk maakte, overtuigt niet. De beelden konden ondanks die
+   technische afwijking nog steeds voldoende in tijd en ruimte worden gesitueerd;
+
+- de verdediging kreeg daadwerkelijk toegang tot alle beschikbare camerabeelden
+   die uit de NAS-systemen werden gerecupereerd, inclusief de beelden die door
+   de onderzoekers niet waren geanalyseerd en waarop het openbaar ministerie zich
+   niet beriep. De inhoud van de gegevensdragers werd ter beschikking gesteld via
+   verschillende harde schijven;
+
+- het is gerechtvaardigd dat de originele forensische kopieën zelf niet werden
+   overhandigd aan de verdediging, dit om de integriteit van het bewijsmateriaal te
+   beschermen en een eventuele tegenexpertise mogelijk te houden. De aan de
+   verdediging verstrekte kopieën bevatten dezelfde relevante gegevens;
+
+- de technische problemen die zich bij de inzage voordeden werden actief
+   aangepakt. Toen een harde schijf te traag werkte, werd een nieuwe SSD-schijf
+27 OKTOBER 2026  P.26.0703.N/6
+
+   aangekocht en ingericht. Ook nadien werd de inhoud opnieuw ter beschikking
+   gesteld in een overzichtelijke structuur;
+
+- de politie en de RCCU hebben transparant en uitvoerig uitgelegd hoe de
+   gegevens werden verzameld, gekopieerd, geëxporteerd en ter beschikking
+   gesteld. Ook de technische vragen van de verdediging werden inhoudelijk
+   beantwoord;
+
+- er zijn geen aanwijzingen dat bestanden verloren zijn gegaan, ontoegankelijk
+   werden gemaakt of verkeerd werden gekopieerd. De stellingen van de
+   verdediging hierover vinden geen steun in het strafdossier;
+
+- de verschillen in bestandsnamen, onleesbare bestanden en afwijkingen in
+   tijdsregistratie werden technisch verklaard door de RCCU en vormen geen
+   aanwijzing dat de betrouwbaarheid van het materiaal werd aangetast of dat een
+   zinvolle inzage onmogelijk was;
+
+- de eiser kreeg gedurende een lange periode de mogelijkheid om de
+   gegevensdragers te consulteren. Hij verkreeg reeds in september 2023 toegang
+   tot de betrokken overtuigingsstukken, kon daarna meermaals inzage nemen en
+   kreeg ook in hoger beroep opnieuw toegang. Nadat het hof van beroep
+   bijkomende inzage had bevolen, verklaarde de eiser bovendien zelf dat hij geen
+   verdere inzage meer wenste, hoewel hij nog niet alle bestanden had bekeken;
+
+- zowel in eerste aanleg als in hoger beroep kreeg de verdediging voldoende tijd
+   en faciliteiten om het dossier te bestuderen, opmerkingen te formuleren en de
+   zaak ter rechtszitting te bespreken. Ook na de bijkomende inzage werd nog een
+   ruim uitstel toegestaan zodat de verdediging de stukken kon doornemen;
+
+- de omstandigheid dat de eiser tijdens de inzage naar eigen zeggen reeds
+   elementen à décharge had gevonden, bevestigt volgens het hof van beroep juist
+   dat hij daadwerkelijk toegang had tot potentieel materiaal à décharge.
+
+7. Op die gronden kan het arrest wettig oordelen dat de eiser afdoende toegang
+heeft gehad tot de relevante digitale gegevens en over voldoende tijd en middelen
+heeft beschikt om zijn verdediging voor te bereiden, alsook dat de strafprocedure
+in haar geheel eerlijk is verlopen en eisers recht van verdediging niet is miskend.
+
+In zoverre kan het middel niet worden aangenomen.
+                      27 OKTOBER 2026  P.26.0703.N/7
+
+8. Voor het overige komt het middel op tegen de onaantastbare beoordeling van
+de feiten door het arrest of verplicht het tot een onderzoek van feiten, waarvoor het
+Hof niet bevoegd is.
+
+In zoverre is het middel niet ontvankelijk.
+
+Ambtshalve onderzoek
+
+9. De substantiële of op straffe van nietigheid voorgeschreven rechtsvormen zijn
+in acht genomen en de beslissing is overeenkomstig de wet gewezen.
+
+Dictum
+
+Het Hof,
+
+Verwerpt het cassatieberoep.
+
+Veroordeelt de eiser tot de kosten.
+
+Bepaalt de kosten op 298,71 euro.
+
+Dit arrest is gewezen te Brussel door het Hof van Cassatie, tweede kamer,
+samengesteld uit sectievoorzitter Erwin Francis, als voorzitter, de raadsheren Peter
+Hoet, Steven Van Overbeke, Bruno Lietaert en Jos Decoker, en in openbare
+rechtszitting van 27 oktober 2026 uitgesproken door sectievoorzitter Erwin Francis,
+in aanwezigheid van advocaat-generaal Isabelle De Tandt, met bijstand van griffier
+Kristel Vanden Bossche.
+

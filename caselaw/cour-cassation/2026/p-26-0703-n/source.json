@@ -1,0 +1,11 @@
+{
+  "title": "Arrest P.26.0703.N",
+  "court": "Cour de cassation / Hof van Cassatie",
+  "decision_date": "2026-10-27",
+  "date_as_printed": "27 OKTOBER 2026",
+  "source": "https://www.cass.be/pdf/arresten-arrets/P.26.0703.N.pdf",
+  "source_sha256": "bb5807e565cad346eac8fe151df54180335a56aabc1b1361f64bbefaba8c66ce",
+  "text_layer": "pdftotext -enc UTF-8 -layout",
+  "record_type": "published court decision",
+  "scope": "full official PDF plus text-layer extraction"
+}
