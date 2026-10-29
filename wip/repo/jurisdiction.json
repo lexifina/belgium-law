@@ -1,0 +1,11 @@
+{
+  "path": "be",
+  "code": "BE",
+  "name": "Belgium",
+  "level": "country",
+  "repo": "https://github.com/lexifina/belgium-law",
+  "build": "built: Constitution 1994-2026 (37 versions), Code pénal 1990-2026 (178), ancien Code civil 2009-2026 (115), Code civil 2019- (9); text from legalize-be and archived Justel pages, dated by Justel's notes",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 3
+}

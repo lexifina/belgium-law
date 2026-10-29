@@ -710,7 +710,8 @@ def code_civil() -> dict:
         f'captures, {n_new} in all, 2022-2026). Its articles enter on the book\'s in-force day as Justel records it '
         '(legalize-be front matter "entry_into_force"), credited to the law that enacted it; an article whose '
         'oldest captured wording carries a later note reads the placeholder from that day until the note\'s day. '
-        'Livre 7 does not exist yet; livre 2 titres 1-2 are not yet enacted.',
+        'Only the books with an archived consolidated Justel page are built (livres 1, 2 titre 3, 3, 4, 5, 6, 8 and '
+        '9 titre 1).',
         f'Code civil: {merged_old + merged_new} wordings differed from the next only in Justel\'s typesetting and '
         'take its latest rendering.',
         f'Code civil: every capture compared with this history on its own day (exact/total): ancien {vsum(ver_old)}; '
