@@ -101,6 +101,8 @@ def strip_notes(body: str) -> tuple[str, list[dict]]:
     s = re.sub(r'(?<![<\w])((?:L|LS|AR) \d{4}-\d\d-\d\d/\d+,[^<>\n]*?En vigueur\s*:[^<>\n]*?>)', reopen, s)
     s = re.sub(r'\s<\s*(?=\n|$)', '', s)
     s = NOTE.sub(drop, s)
+    # the tail of a note whose start legalize-be lost: "...sans jugement; En vigueur: 01-07-1999>"
+    s = re.sub(r'(?<=[;,.])\s*(?:\*\*)?En vigueur\s*:(?:\*\*)?\s*[^<>\n]{0,40}>', '', s)
     s = PARENCHANGE.sub(drop, s)
     s = PARENNOTE.sub(' ', s)
     s = re.sub(r'\[\s*(\.\.\.|…)\s*\]', '(...)', s)
@@ -113,7 +115,7 @@ def strip_notes(body: str) -> tuple[str, list[dict]]:
         p = re.sub(r'\s+', ' ', p.replace(' ', ' ')).strip()
         p = p.replace('’', "'").replace('‘', "'").replace('…', '...')
         p = re.sub(r'\s+([.,;:])(?=\s|$)', r'\1', p)
-        if p and not re.fullmatch(r'[.;,\s]+', p):
+        if p and not re.fullmatch(r'[.;,*\s]+', p):
             paras.append(p)
     if not paras and any(n['repeal'] for n in notes):
         paras = ['(Abrogé)']

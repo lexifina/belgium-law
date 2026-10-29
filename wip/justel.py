@@ -20,11 +20,11 @@ def to_md(raw: bytes) -> str:
     if not a:
         return ''
     t = t[min(a):]
-    for end in ('<div id="list-title-sw_t"', '<div id="list-title-sw_', '</div>'):
-        j = t.find(end)
-        if j > 0:
-            t = t[:j]
-            break
+    # the text ends where the page's next box (new layout) or the table cell (old layout) ends
+    ends = [j for j in (t.find('<div id="list-title-sw_'), t.find('</div>'), t.lower().find('</th>'),
+                        t.lower().find('<a name="modification"')) if j > 0]
+    if ends:
+        t = t[:min(ends)]
     t = re.sub(r'<sup>(?:(?!</sup>).)*?<span[^>]*>\s*(\d+)\s*</span>(?:(?!</sup>).)*?</sup>',
                lambda m: m.group(1).translate(SUPD), t, flags=re.S | re.I)
     t = re.sub(r'<sup>\s*(?:<[^>]*>\s*)*(\d+)\s*(?:<[^>]*>\s*)*</sup>', lambda m: m.group(1).translate(SUPD), t,
