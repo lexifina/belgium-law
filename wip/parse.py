@@ -245,17 +245,21 @@ def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tupl
     return tl
 
 
-def drop_missing(act: Act, tl: dict, final_keys: set[str], day: str, log: dict) -> None:
-    """legalize-be's files never drop an article, so provisions renumbered away linger. A provision absent from a
-    full Justel page added last is removed: on the day a provision with its words first appears under another
-    number (renumbered; credited like that appearance), else on that page's day (unexplained)."""
+def drop_missing(act: Act, tl: dict, snaps: list[tuple[str, set]], log: dict) -> None:
+    """legalize-be's files never drop an article, and Justel removes some repealed ones from its page. A provision
+    absent from the newest full Justel page (snaps: [(day, unit keys)] of full pages, oldest first) is removed: on
+    the day a provision with its words first appears under another number (renumbered; credited like that
+    appearance), else on the day of the first page from which it is missing for good (unexplained)."""
+    final_keys = snaps[-1][1]
     for k in sorted(tl):
         evs = tl[k]
         if k in final_keys or evs[-1][1] is None:
             continue
+        seen = [i for i, (d, ks) in enumerate(snaps) if k in ks]
+        day = snaps[seen[-1] + 1][0] if seen else snaps[0][0]
         words = lmd.canon(evs[-1][1])
         hit = None
-        for k2 in sorted(final_keys):
+        for k2 in sorted(final_keys) if len(words) > 40 and not words.startswith('(abroge') else []:
             if k2 == k or k2 not in tl:
                 continue
             for e in tl[k2]:
@@ -527,7 +531,7 @@ def code_penal() -> dict:
     log = defaultdict(list)
     tl = timeline(act, '1990-04-05', laws, log)
     if newest:
-        drop_missing(act, tl, act.sources[-1]['units'], newest[0]['day'], log)
+        drop_missing(act, tl, [(newest[0]['day'], act.sources[-1]['units'])], log)
     vs = build_versions(act, tl)
     for v in vs:
         v['source_url'] = 'https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel'
@@ -579,18 +583,20 @@ def code_penal() -> dict:
 
 OLD_CC = {'1804032130': 'Titre préliminaire, livre I (art. 1-515)', '1804032131': 'livre II (art. 516-710bis)',
           '1804032132': 'livre III, titres I-II (art. 711-1100)', '1804032133': 'livre III, titres III-V (art. 1101-1581)',
-          '1804032134': 'livre III, titres VI-XIII (art. 1582-2010)', '1804032135': 'livre III, titres XIV-XX',
-          '1804032136': 'part 36'}
+          '1804032134': 'livre III, titres VI-XIII (art. 1582-2010)', '1804032135': 'livre III, titres XIV-XX'}
+# not used: Justel text 1804032136, "[ANCIEN] CODE CIVIL. - LIVRE III - TITRE V. Du régime en Communauté", the
+# pre-1976 wording of arts. 1399-1581 that Justel keeps beside the current one (same article numbers)
 # the new Code civil: Justel's consolidated book -> the law that enacted it (legalize-be NUMAC), book label
 NEW_CC = [('2019A12168', '2019012168', 'livre 8'), ('2020A20347', '2020020347', 'livre 3'),
           ('2022A30600', '2022030600', 'livre 2, titre 3'), ('2022B30600', '2022030600', 'livre 4'),
           ('2022A32057', '2022032057', 'livre 1'), ('2022A32058', '2022032058', 'livre 5'),
           ('2024A01600', '2024001600', 'livre 6'), ('2025A05089', '2025005089', 'livre 9, titre 1')]
-MONTH_N = {m: i + 1 for i, m in enumerate(MONTHS)}
+MONTH_N = {m.replace('é', 'e').replace('û', 'u'): i + 1 for i, m in enumerate(MONTHS)}
 
 
 def fr_iso(s: str) -> str:
-    m = re.match(r'\s*(\d+)(?:er)?\s+(\S+)\s+(\d{4})', s.lower())
+    s = s.lower().replace('é', 'e').replace('û', 'u')
+    m = re.match(r'\s*(\d+)(?:er)?\s+(\S+)\s+(\d{4})', s)
     return f'{m.group(3)}-{MONTH_N[m.group(2)]:02d}-{int(m.group(1)):02d}'
 
 
@@ -628,9 +634,9 @@ def code_civil() -> dict:
     tl = timeline(old, start, laws, log_old)
     for cn, caps in part_caps.items():
         if caps:
-            last = [s for s in old.sources if s.get('part') == cn][-1]
+            snaps = [(s['date'], s['units']) for s in old.sources if s.get('part') == cn]
             mine = {k for k in tl if any(old.sources[w['i']].get('part') == cn for w in old.seq[k])}
-            drop_missing(old, {k: tl[k] for k in mine}, last['units'], last['date'], log_old)
+            drop_missing(old, {k: tl[k] for k in mine}, snaps, log_old)
     vs_old = build_versions(old, tl)
     for v in vs_old:
         v['source_url'] = 'https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel'
