@@ -24,10 +24,13 @@ def to_md(raw: bytes) -> str:
         if j > 0:
             t = t[:j]
             break
-    t = re.sub(r'<sup>(?:(?!</sup>).)*?(\d+)(?:(?!</sup>).)*?</sup>', lambda m: m.group(1).translate(SUPD), t,
+    t = re.sub(r'<sup>(?:(?!</sup>).)*?<span[^>]*>\s*(\d+)\s*</span>(?:(?!</sup>).)*?</sup>',
+               lambda m: m.group(1).translate(SUPD), t, flags=re.S | re.I)
+    t = re.sub(r'<sup>\s*(?:<[^>]*>\s*)*(\d+)\s*(?:<[^>]*>\s*)*</sup>', lambda m: m.group(1).translate(SUPD), t,
                flags=re.S | re.I)
     t = re.sub(r'\(<font[^>]*>(\d+)</font>\)', r'(\1)', t, flags=re.I)
-    t = re.sub(r"<A NAME='Art\.([^']+)'[^>]*>\s*Art\.?\s*</A>\s*(?:<A [^>]*>)?\s*[^<]*?(?:</A>)?\s*\.",
+    t = re.sub(r"<A NAME='Art\.([^']+)'[^>]*>(?:\s*Art(?:icle)?\.?\s*)?</A>\s*(?:Art(?:icle)?\.?\s*)?"
+               r"(?:<A [^>]*>)?\s*[^<]*?(?:</A>)?\s*\.",
                lambda m: f'\n\n##### Article {m.group(1)}. ', t, flags=re.I)
     t = re.sub(r"<A NAME='LNK\d+'[^>]*>([^<]*)</A>", lambda m: f'\n\n### {m.group(1)}', t, flags=re.I)
     t = re.sub(r'<BR\s*/?>', '\n\n', t, flags=re.I)

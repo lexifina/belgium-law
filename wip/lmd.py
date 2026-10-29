@@ -32,6 +32,9 @@ INFORCE_ISO = re.compile(r'En vigueur\s*:\s*(\d{4})-(\d\d)-(\d\d)')
 FOOTRULE = re.compile(r'^-{5,}\s*$')
 FOOTNOTE = re.compile(r'^\((\d+)\)\s*<.*>\s*$')
 PARENNOTE = re.compile(r'\((?:voir |NOTE|ACC |L \d|L \[|pour le livre)[^()]*(?:\([^()]*\)[^()]*)*\)', re.I)
+# an old-style note in parentheses: "(inséré par L 1996-03-25/34, art. 1, En vigueur: 1996-04-29)"
+PARENCHANGE = re.compile(r'\(\s*((?:ins[ée]r[ée]e?s?|abrog[ée]e?s?|remplac[ée]e?s?|modifi[ée]e?s?|r[ée]tablie?s?)'
+                         r'\s+par\s+(?:L|LS|AR)\s+\d{4}-\d\d-\d\d/\d+[^()]*)\)', re.I)
 HEAD = re.compile(r'^(#{1,6})\s+(.*)$')
 ART = re.compile(r'^Article\s+([^\s.]+(?:\s*/\s*\d+)*)\.*\s*(.*)$')
 
@@ -91,7 +94,14 @@ def strip_notes(body: str) -> tuple[str, list[dict]]:
             notes.append(n)
         return ' '
     s = LINK.sub(r'\1', s)
+    # a note whose "<" Justel misplaced (old versions): "... exprimés. L 2005-02-25/40, art. 1, 019; En vigueur: D>"
+    def reopen(m):
+        before = s[:m.start()].rsplit('\n', 1)[-1]
+        return m.group(0) if before.rfind('<') > before.rfind('>') else '<' + m.group(1)
+    s = re.sub(r'(?<![<\w])((?:L|LS|AR) \d{4}-\d\d-\d\d/\d+,[^<>\n]*?En vigueur\s*:[^<>\n]*?>)', reopen, s)
+    s = re.sub(r'\s<\s*(?=\n|$)', '', s)
     s = NOTE.sub(drop, s)
+    s = PARENCHANGE.sub(drop, s)
     s = PARENNOTE.sub(' ', s)
     s = re.sub(r'\[\s*(\.\.\.|…)\s*\]', '(...)', s)
     s = re.sub(r'\[\s*(Abrog[ée]e?s?)\s*\]', r'(\1)', s)
@@ -165,12 +175,15 @@ def units(md: str, sub_heads: set[str] | None = None) -> tuple[list[tuple[str, s
                 cur = [k[0], k[1], k[2], [rest]]
                 out.append(cur)
             elif (re.match(r'Dispositions? transitoires?\.?$', title, re.I) and prev is not None
-                  and (sub_heads is None or prev[0] in sub_heads)):
-                # a paragraph of the article that legalize-be rendered as a heading
+                  and (sub_heads is None or prev[0] in sub_heads) and len(prev) == 4
+                  and not any(re.fullmatch(r'Dispositions? transitoires?\.?', x.strip(), re.I) for x in prev[3])):
+                # a paragraph of the article that legalize-be rendered as a heading (once: legalize-be
+                # repeats the block)
                 cur = prev
                 cur[3] += ['', title, '']
+                cur.append('sub')
             continue
         if cur is not None:
             cur[3].append(line)
-    res = [(k, lab, kind, '\n'.join(body).strip('\n')) for k, lab, kind, body in out]
+    res = [(u[0], u[1], u[2], '\n'.join(u[3]).strip('\n')) for u in out]
     return res, skipped
