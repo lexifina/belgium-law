@@ -14,7 +14,8 @@ SUPD = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 
 
 def to_md(raw: bytes) -> str:
-    t = raw.decode('latin-1')
+    t = re.sub(r'\s+', ' ', raw.decode('latin-1'))   # older pages break lines inside tags
+    t = re.sub(r'<a\s+name\s*=\s*', "<A NAME=", t, flags=re.I)
     a = [i for i in (t.find("<A NAME='LNK"), t.find("<A NAME='Art.")) if i >= 0]
     if not a:
         return ''

@@ -29,7 +29,7 @@
    "name": "Justel (SPF Justice, Moniteur belge), consolidated text, read through Internet Archive captures",
    "url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
    "retrieved": "2026-10-29",
-   "requests": 33,
+   "requests": 38,
    "licence": "Official acts: no copyright (Code de droit économique, art. XI.172, § 2). Justel's robots.txt disallows /cgi_loi/, /eli/ and /mopdf/, so Justel was read only through web.archive.org `id_` captures.",
    "notes": "Constitution (Justel cn 1994021730): the capture of 2026-08-24 supplies the newest text; every capture is compared with our text in verification/constitution.json."
   }
@@ -3202,7 +3202,7 @@
   "Constitution: 3 wordings differed from the next only in Justel's typesetting (older versions mark changed words with parentheses, later ones with brackets; case, accents and final stops tidied later); each paragraph takes Justel's latest rendering of the same words.",
   "Constitution: Justel's inline notes and change markers ([¹ ]¹, older bare brackets) are removed from the text; a provision that Justel shows only as a repeal note reads \"(Abrogé)\". The anchors M, M1, M2 (structure) and N1, N2 (the 1994 correspondence tables, which Justel does not reproduce) are not provisions.",
   "Constitution: law labels are Justel's citations, \"L <date of the act>/<Justel serial>\"; every one here is a revision of the Constitution, and the link opens its Justel record. Their Moniteur belge publication dates are not in the source data, so \"published\" is left empty.",
-  "Constitution: compared with 33 archived Justel pages (2009-2026): 2 match provision for provision on their capture day, ignoring typesetting; see verification/constitution.json.",
+  "Constitution: compared with 38 archived Justel pages (2009-2026): 5 match provision for provision on their capture day, ignoring typesetting; see verification/constitution.json.",
   "Constitution: 1 changes have no new dated note; they are committed as unexplained (publisher), dated by the Justel version (legalize-be Source-Id date) or capture that first shows them: art-140 (2008-12-29)."
  ],
  "ai_use": [

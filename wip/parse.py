@@ -299,8 +299,10 @@ def verify(versions: list[dict], caps: list[dict], sub_heads=None, rename=None) 
         if len(theirs) < 20:
             continue
         ours = state_on(versions, c['day'])
+        def cl(t):
+            return [lmd.canon(x) for x in t.splitlines()]
         diff = sorted(k for k in set(ours) & set(theirs)
-                      if ours[k] != PLACEHOLDER and lmd.canon(ours[k]) != lmd.canon(theirs[k]))
+                      if ours[k] != PLACEHOLDER and cl(ours[k]) != cl(theirs[k]))
         rows.append({'capture': c['ts'], 'day': c['day'], 'units': len(theirs), 'differ': diff,
                      'only_ours': sorted(k for k in set(ours) - set(theirs) if ours[k] not in (PLACEHOLDER,)),
                      'only_justel': sorted(set(theirs) - set(ours))})
