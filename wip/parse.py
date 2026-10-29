@@ -191,7 +191,11 @@ def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tupl
 
         ev: list[tuple] = []
         first = s[0]
-        late = [n for n in first['notes'] if day(n) and day(n) > start]
+        base = act.sources[first['i']]
+        is_base = first['i'] == 0 or base.get('base')
+        st = max(start, base.get('start') or start) if is_base else start
+        bcredit = list(base.get('credit') or []) if is_base else []
+        late = [n for n in first['notes'] if day(n) and day(n) > st]
         if late:
             dmax = max(day(n) for n in late)
             ins = sorted((n for n in late if n['insert']), key=day)
@@ -199,11 +203,11 @@ def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tupl
                 if day(ins[0]) < dmax:
                     ev.append((day(ins[0]), PLACEHOLDER, laws.credit([ins[0]]), 'inserted; first wording not in source'))
             else:
-                ev.append((start, PLACEHOLDER, [], 'source wording is later than this day'))
+                ev.append((st, PLACEHOLDER, bcredit, 'source wording is later than this day'))
                 log['placeholder_start'].append(k)
             ev.append((dmax, first['text'], laws.credit([n for n in late if day(n) == dmax]), 'notes'))
-        elif first['i'] == 0:
-            ev.append((start, first['text'], [], 'first'))
+        elif is_base:
+            ev.append((st, first['text'], bcredit, 'first'))
         else:
             d = act.sources[first['i']]['date']
             log['unexplained'].append((k, first['i'], d, 'appears without a dated note'))
@@ -573,9 +577,149 @@ def code_penal() -> dict:
             '_log': dict(log)}
 
 
+OLD_CC = {'1804032130': 'Titre préliminaire, livre I (art. 1-515)', '1804032131': 'livre II (art. 516-710bis)',
+          '1804032132': 'livre III, titres I-II (art. 711-1100)', '1804032133': 'livre III, titres III-V (art. 1101-1581)',
+          '1804032134': 'livre III, titres VI-XIII (art. 1582-2010)', '1804032135': 'livre III, titres XIV-XX',
+          '1804032136': 'part 36'}
+# the new Code civil: Justel's consolidated book -> the law that enacted it (legalize-be NUMAC), book label
+NEW_CC = [('2019A12168', '2019012168', 'livre 8'), ('2020A20347', '2020020347', 'livre 3'),
+          ('2022A30600', '2022030600', 'livre 2, titre 3'), ('2022B30600', '2022030600', 'livre 4'),
+          ('2022A32057', '2022032057', 'livre 1'), ('2022A32058', '2022032058', 'livre 5'),
+          ('2024A01600', '2024001600', 'livre 6'), ('2025A05089', '2025005089', 'livre 9, titre 1')]
+MONTH_N = {m: i + 1 for i, m in enumerate(MONTHS)}
+
+
+def fr_iso(s: str) -> str:
+    m = re.match(r'\s*(\d+)(?:er)?\s+(\S+)\s+(\d{4})', s.lower())
+    return f'{m.group(3)}-{MONTH_N[m.group(2)]:02d}-{int(m.group(1)):02d}'
+
+
+def front(numac: str) -> dict:
+    """legalize-be's YAML front matter (Justel's record) for the newest file of an act."""
+    md = legalize_sources(numac)[-1]['md']
+    return dict(re.findall(r'^(\w+): "(.*)"$', md.split('\n---', 1)[0], re.M))
+
+
+def full_captures(cn: str) -> list[dict]:
+    """Captures that hold a consolidated text (later ones are Justel's bot challenge)."""
+    out = []
+    for c in captures(cn):
+        if len(lmd.units(justel.to_md(cached(c['wb'])))[0]) >= 5:
+            out.append(c)
+    return out
+
+
+def code_civil() -> dict:
+    from collections import defaultdict
+    # --- the old Code civil (1804), from Justel's pages, part by part
+    old = Act()
+    part_caps = {}
+    for cn in OLD_CC:
+        caps = full_captures(cn)
+        part_caps[cn] = caps
+        for j, c in enumerate(caps):
+            s = justel_source(c['wb'], c['day'])
+            s.update(base=(j == 0), start=c['day'], part=cn)
+            old.add(s)
+    merged_old = old.normalise_markup()
+    laws = Laws()
+    log_old = defaultdict(list)
+    start = min(c[0]['day'] for c in part_caps.values() if c)
+    tl = timeline(old, start, laws, log_old)
+    for cn, caps in part_caps.items():
+        if caps:
+            last = [s for s in old.sources if s.get('part') == cn][-1]
+            mine = {k for k in tl if any(old.sources[w['i']].get('part') == cn for w in old.seq[k])}
+            drop_missing(old, {k: tl[k] for k in mine}, last['units'], last['date'], log_old)
+    vs_old = build_versions(old, tl)
+    for v in vs_old:
+        v['source_url'] = 'https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel'
+    vs_old[0]['note'] = (f'The oldest text available: Justel\'s consolidated old Code civil as archived on {start}. '
+                         'Not the Code as enacted in 1804.')
+    ver_old = {cn: verify(vs_old, caps) for cn, caps in part_caps.items() if caps}
+    # --- the new Code civil (2019-), book by book
+    new = Act()
+    book_laws = {}
+    for cn, numac, book in NEW_CC:
+        fm = front(numac)
+        key = f'loi-{numac}'
+        books = [b for c2, n2, b in NEW_CC if n2 == numac]
+        enacted = fr_iso(fm['title'].split('.')[0])
+        laws.laws[key] = {'label': f'Loi du {fr_date(enacted)} (C. civ., {" et ".join(books)})', 'kind': 'law',
+                          'title': fm['title'].split(' (NOTE')[0].split('(NOTE')[0].strip(),
+                          'enacted': enacted, 'published': fm.get('publication_date'),
+                          'url': fm.get('source'), 'temporary_until': None, 'restores': None, 'note': None}
+        book_laws[cn] = (key, fr_iso(fm['entry_into_force']), book)
+    first_book = min(NEW_CC, key=lambda b: book_laws[b[0]][1])[0]
+    new_caps = {}
+    for cn, numac, book in sorted(NEW_CC, key=lambda b: book_laws[b[0]][1]):
+        caps = full_captures(cn)
+        new_caps[cn] = caps
+        key, day, _ = book_laws[cn]
+        for j, c in enumerate(caps):
+            s = justel_source(c['wb'], c['day'])
+            s.update(base=(j == 0), start=day, part=cn,
+                     credit=[] if (j or cn == first_book) else [key])
+            new.add(s)
+    merged_new = new.normalise_markup()
+    log_new = defaultdict(list)
+    tl2 = timeline(new, book_laws[first_book][1], laws, log_new)
+    vs_new = build_versions(new, tl2)
+    for v in vs_new:
+        v['source_url'] = 'https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr'
+    ver_new = {cn: verify(vs_new, caps) for cn, caps in new_caps.items() if caps}
+    (HERE / 'verification').mkdir(exist_ok=True)
+    (HERE / 'verification' / 'code-civil.json').write_text(json.dumps({'ancien': ver_old, 'nouveau': ver_new},
+                                                                      indent=1), encoding='utf-8')
+    acts = [
+        {'slug': 'ancien-code-civil', 'short': 'anc. C. civ.', 'title': 'Code civil (21 mars 1804), dit ancien Code civil',
+         'url': 'https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel', 'first_law': None,
+         'earlier_laws': [], 'versions': vs_old},
+        {'slug': 'code-civil', 'short': 'C. civ.', 'title': 'Code civil (loi du 13 avril 2019 et livres suivants)',
+         'url': laws.laws[book_laws[first_book][0]]['url'], 'first_law': book_laws[first_book][0],
+         'earlier_laws': [], 'versions': vs_new},
+    ]
+    n_old = sum(len(c) for c in part_caps.values())
+    n_new = sum(len(c) for c in new_caps.values())
+
+    def vsum(ver):
+        return ', '.join(f'{cn}: {v["exact"]}/{v["captures"]}' for cn, v in ver.items())
+    dec = [
+        'Ancien Code civil: legalize-be has no file for the 1804 Code civil, so it is read only from Justel\'s '
+        f'consolidated pages (Justel splits it into parts, text numbers 1804032130-1804032136), {n_old} Internet '
+        'Archive captures from 2009 to 2026 (about two a year per part, plus the newest). The first version is '
+        f'the oldest capture ({start}), credited to the publisher; it is not the Code as enacted in 1804.',
+        'Ancien Code civil: each article\'s successive wordings across the captures are dated by the Justel notes '
+        'they gained, as for the Constitution; a capture\'s own date is used only for a change with no new dated '
+        'note (unexplained). A change made and replaced between two captures is not seen.',
+        'Ancien Code civil: the books of the new Code civil replace parts of it; Justel marks the replaced '
+        'articles repealed, with the in-force day, and they read "(Abrogé)" from that day.',
+        'Code civil (2019-): each book is read from Justel\'s consolidated page of that book (Internet Archive '
+        f'captures, {n_new} in all, 2022-2026). Its articles enter on the book\'s in-force day as Justel records it '
+        '(legalize-be front matter "entry_into_force"), credited to the law that enacted it; an article whose '
+        'oldest captured wording carries a later note reads the placeholder from that day until the note\'s day. '
+        'Livre 7 does not exist yet; livre 2 titres 1-2 are not yet enacted.',
+        f'Code civil: {merged_old + merged_new} wordings differed from the next only in Justel\'s typesetting and '
+        'take its latest rendering.',
+        f'Code civil: every capture compared with this history on its own day (exact/total): ancien {vsum(ver_old)}; '
+        f'nouveau {vsum(ver_new)}; see verification/code-civil.json.',
+    ] + common_decisions(log_old, 'Ancien Code civil') + common_decisions(log_new, 'Code civil (2019-)')
+    caps_all = [c for v in part_caps.values() for c in v] + [c for v in new_caps.values() for c in v]
+    return {'sources': [justel_source_entry(caps_all, 'Ancien Code civil (Justel cn 1804032130-36) and the books '
+                                            'of the new Code civil (Justel NUMAC 2019A12168, 2020A20347, '
+                                            '2022A30600, 2022B30600, 2022A32057, 2022A32058, 2024A01600, '
+                                            '2025A05089): every word of this part comes from these captures.'),
+                        legalize_source_entry([n for _, n, _ in NEW_CC], 0) | {
+                            'notes': 'Used only for the enacting laws\' titles, publication and in-force days (YAML '
+                                     'front matter of be/<NUMAC>.md, a copy of Justel\'s record).'}],
+            'laws': laws.laws, 'acts': acts, 'applies': [], 'decisions': dec, 'ai_use': AI_USE,
+            '_log': {**{f'old_{k}': v for k, v in log_old.items()}, **{f'new_{k}': v for k, v in log_new.items()}}}
+
+
 def main() -> None:
-    which = sys.argv[1:] or ['10', '20']
-    for key, name, fn in (('10', '10-constitution', constitution), ('20', '20-code-penal', code_penal)):
+    which = sys.argv[1:] or ['10', '20', '30']
+    for key, name, fn in (('10', '10-constitution', constitution), ('20', '20-code-penal', code_penal),
+                          ('30', '30-code-civil', code_civil)):
         if key in which:
             part = fn()
             log = part.pop('_log')

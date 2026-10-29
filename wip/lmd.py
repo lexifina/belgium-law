@@ -199,6 +199,10 @@ def units(md: str, sub_heads: set[str] | None = None) -> tuple[list[tuple[str, s
                 lab, rest = a.group(1), a.group(2)
                 # legalize-be sometimes doubles the label: "Article 112/1.. 112/1. text"
                 rest = re.sub(r'^' + re.escape(lab) + r'\.\s*', '', rest)
+                # Justel's anchor "Art. 5. 270." (a stray space) in a book numbered 5.1, 5.2 ...
+                mm = re.match(r'((?:\d+\.)*\d+)\.\s*', rest)
+                if re.fullmatch(r'\d+', lab) and mm and out and out[-1][1].startswith(f'Art. {lab}.'):
+                    lab, rest = f'{lab}.{mm.group(1)}', rest[mm.end():]
                 k = art_key(lab)
                 if k is None:
                     skipped.append(lab)
