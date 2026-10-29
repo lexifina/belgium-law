@@ -1,13 +1,12 @@
 {
- "captures": 38,
- "exact": 5,
+ "captures": 57,
+ "exact": 24,
  "rows": [
   {
    "capture": "20091216080745",
    "day": "2009-12-16",
    "units": 209,
    "differ": [
-    "art-066",
     "art-118",
     "art-166",
     "art-173"
@@ -20,7 +19,6 @@
    "day": "2010-02-17",
    "units": 209,
    "differ": [
-    "art-066",
     "art-118",
     "art-166",
     "art-173"
@@ -33,7 +31,6 @@
    "day": "2011-09-20",
    "units": 209,
    "differ": [
-    "art-066",
     "art-118",
     "art-173"
    ],
@@ -376,6 +373,22 @@
    "only_justel": []
   },
   {
+   "capture": "20160717131748",
+   "day": "2016-07-17",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20160731170039",
+   "day": "2016-07-31",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
    "capture": "20160731170134",
    "day": "2016-07-31",
    "units": 214,
@@ -386,6 +399,142 @@
   {
    "capture": "20160804170959",
    "day": "2016-08-04",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20160916170825",
+   "day": "2016-09-16",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20160927215811",
+   "day": "2016-09-27",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20170610084853",
+   "day": "2017-06-10",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20170701151722",
+   "day": "2017-07-01",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20170825032810",
+   "day": "2017-08-25",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20171105083243",
+   "day": "2017-11-05",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20180105093849",
+   "day": "2018-01-05",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20180905112307",
+   "day": "2018-09-05",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20181203185427",
+   "day": "2018-12-03",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20190123071735",
+   "day": "2019-01-23",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20190717112020",
+   "day": "2019-07-17",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191016165534",
+   "day": "2019-10-16",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191020034429",
+   "day": "2019-10-20",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191022215155",
+   "day": "2019-10-22",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191022220050",
+   "day": "2019-10-22",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191023032010",
+   "day": "2019-10-23",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191215124816",
+   "day": "2019-12-15",
    "units": 214,
    "differ": [],
    "only_ours": [],

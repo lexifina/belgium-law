@@ -467,14 +467,79 @@ def constitution() -> dict:
             '_log': dict(log)}
 
 
+def code_penal() -> dict:
+    from collections import defaultdict
+    act = Act()
+    src = legalize_sources('1867060850')
+    for s in src:
+        act.add(s)
+    caps = captures('1867060801')
+    # the newest real Justel page after legalize-be's last file (2026-02-26); later captures are bot challenges
+    newest = [c for c in caps if c['day'] == '2026-05-03']
+    for c in newest:
+        act.add(justel_source(c['wb'], c['day']))
+    merged = act.normalise_markup()
+    laws = Laws()
+    log = defaultdict(list)
+    tl = timeline(act, '1990-04-05', laws, log)
+    vs = build_versions(act, tl)
+    for v in vs:
+        v['source_url'] = 'https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel'
+    vs[0]['note'] = ('The oldest text Justel keeps: its archived versions start on 5 April 1990. Not the Code as '
+                     'enacted in 1867.')
+    ver = verify(vs, caps)
+    (HERE / 'verification').mkdir(exist_ok=True)
+    (HERE / 'verification' / 'code-penal.json').write_text(json.dumps(ver, indent=1), encoding='utf-8')
+    late = [r for r in ver['rows'] if r['day'] >= '2024-01-01']
+    act_d = {'slug': 'code-penal', 'short': 'C. pén.', 'title': 'Code pénal (8 juin 1867)',
+             'url': 'https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel',
+             'first_law': None, 'earlier_laws': [], 'versions': vs}
+    dec = [
+        'Code pénal: text from legalize-be (166 files for NUMAC 1867060850, one per Justel archived version, from '
+        '5 April 1990, the start of Justel\'s archive) and, after legalize-be\'s last file (Justel update of '
+        '18 February 2026), the archived Justel page of 3 May 2026 (Internet Archive capture '
+        f'{newest[0]["ts"] if newest else "-"}). The first version is the oldest text available (5 April 1990), '
+        'credited to the publisher, not the Code as enacted in 1867.',
+        'Code pénal: each article\'s successive wordings are dated by the Justel notes they gained, as for the '
+        'Constitution; legalize-be\'s commit dates are not used.',
+        'Code pénal: the new Code pénal (lois du 29 février 2024, livres I et II) replaces the 1867 Code. Its '
+        'in-force day was first set at two years after publication (8 April 2026); Justel\'s note on art. 38 of '
+        'the livre I law records its postponement to 1 September 2026 by L 2026-03-30/01, art. 252, and Justel\'s '
+        'page of 3 May 2026 still shows the 1867 Code in force. No source used here gives the clause for livre II, '
+        'so the replacement is not committed: the 1867 Code ends with its last sourced version. The new Code is '
+        'not built: legalize-be\'s files for the two laws mix the laws\' own articles with the Code\'s, under the '
+        'same numbers.',
+        'Code pénal: Justel added the euro conversion (L 2000-06-26/42, in force 1 January 2002) to many articles '
+        'only in 2010; those articles carry euros from 1 January 2002 here, so Justel\'s pages of 2009 and early '
+        '2010 differ from this history in about 200 articles, all but 5 of them by francs and euros only.',
+        'Code pénal: words the Constitutional Court annulled (Justel prints them in italics with a note naming the '
+        'ruling) are removed from the day the ruling was published in the Moniteur belge, credited to the ruling '
+        '(kind "court"), e.g. arrêt n° 148/2017.',
+        'Code pénal: seven articles legalize-be labels "auto-NNN" (its parser lost the article number) are left '
+        'out; their articles are read from the other files that label them.',
+        f'Code pénal: {merged} wordings differed from the next only in Justel\'s typesetting and take its latest '
+        'rendering.',
+        f'Code pénal: compared with {ver["captures"]} archived Justel pages (2009-2026); the {len(late)} pages from '
+        f'2024 on match provision for provision in {sum(1 for r in late if not r["differ"])}; see '
+        'verification/code-penal.json.',
+    ] + common_decisions(log, 'Code pénal')
+    return {'sources': [legalize_source_entry(['1867060850'], len(src)),
+                        justel_source_entry(caps, 'Code pénal (Justel cn 1867060801): the capture of 2026-05-03 '
+                                            'supplies the newest text; every capture is compared with our text in '
+                                            'verification/code-penal.json.')],
+            'laws': laws.laws, 'acts': [act_d], 'applies': [], 'decisions': dec, 'ai_use': AI_USE,
+            '_log': dict(log)}
+
+
 def main() -> None:
-    which = sys.argv[1:] or ['10']
-    if '10' in which:
-        part = constitution()
-        log = part.pop('_log')
-        write_part('10-constitution', part)
-        print('constitution:', len(part['acts'][0]['versions']), 'versions,', len(part['laws']), 'laws;',
-              {k: len(v) for k, v in log.items()})
+    which = sys.argv[1:] or ['10', '20']
+    for key, name, fn in (('10', '10-constitution', constitution), ('20', '20-code-penal', code_penal)):
+        if key in which:
+            part = fn()
+            log = part.pop('_log')
+            write_part(name, part)
+            print(name, len(part['acts'][0]['versions']), 'versions,', len(part['laws']), 'laws;',
+                  {k: len(v) for k, v in log.items()})
 
 
 if __name__ == '__main__':
