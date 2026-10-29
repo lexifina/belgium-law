@@ -1,0 +1,2071 @@
+{
+ "country": "BE",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "La Constitution coordonnée",
+   "url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+   "versions": [
+    {
+     "from": "1994-02-27",
+     "units": 204,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1996-04-19",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1997-03-01",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1997-04-02",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1997-06-21",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-06-16",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-06-18",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-11-24",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-12-15",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-04-09",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-05-29",
+     "units": 205,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2000-05-25",
+     "units": 206,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2000-05-27",
+     "units": 206,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-03-31",
+     "units": 206,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-02-26",
+     "units": 207,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-01-31",
+     "units": 207,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2004-06-11",
+     "units": 207,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-02-17",
+     "units": 208,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-03-11",
+     "units": 208,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-03-21",
+     "units": 208,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-04-07",
+     "units": 208,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-12-28",
+     "units": 208,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-04-26",
+     "units": 209,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-05-08",
+     "units": 209,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2008-12-29",
+     "units": 209,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-04-06",
+     "units": 209,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-08-22",
+     "units": 210,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-10-14",
+     "units": 210,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-01-31",
+     "units": 213,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-03-31",
+     "units": 214,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-25",
+     "units": 214,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-29",
+     "units": 214,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-05-02",
+     "units": 214,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-30",
+     "units": 215,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-03",
+     "units": 215,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2025-06-30",
+     "units": 215,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-07-24",
+     "units": 215,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "C. pén.",
+   "title": "Code pénal (8 juin 1867)",
+   "url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 644,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1990-04-15",
+     "units": 644,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1990-06-19",
+     "units": 644,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1990-08-25",
+     "units": 645,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1991-01-01",
+     "units": 645,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1992-10-01",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1993-03-01",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1993-05-24",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1993-08-03",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1993-09-05",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1994-07-31",
+     "units": 646,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1995-02-03",
+     "units": 648,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1995-05-05",
+     "units": 653,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1995-05-20",
+     "units": 653,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1996-07-26",
+     "units": 653,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1996-08-11",
+     "units": 653,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1997-05-01",
+     "units": 653,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1997-07-13",
+     "units": 654,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-01-01",
+     "units": 660,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-02-16",
+     "units": 660,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-10-02",
+     "units": 662,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1998-12-27",
+     "units": 662,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-03-08",
+     "units": 662,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-04-02",
+     "units": 664,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-07-01",
+     "units": 664,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-07-02",
+     "units": 668,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "1999-08-18",
+     "units": 668,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2000-12-30",
+     "units": 668,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-02-13",
+     "units": 672,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-03-27",
+     "units": 676,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-07-03",
+     "units": 677,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-08-01",
+     "units": 677,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2001-08-20",
+     "units": 677,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-01-01",
+     "units": 679,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-02-17",
+     "units": 679,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-04-30",
+     "units": 679,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-05-07",
+     "units": 685,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-08-24",
+     "units": 693,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2002-09-15",
+     "units": 693,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-02-22",
+     "units": 693,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-02-24",
+     "units": 694,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-03-13",
+     "units": 694,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-03-27",
+     "units": 702,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-05-05",
+     "units": 702,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-05-12",
+     "units": 702,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-05-15",
+     "units": 703,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2003-08-07",
+     "units": 710,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2004-01-08",
+     "units": 712,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2004-01-15",
+     "units": 712,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2004-12-19",
+     "units": 712,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-02-01",
+     "units": 712,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-02-20",
+     "units": 713,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-04-01",
+     "units": 713,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-08-08",
+     "units": 713,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-09-01",
+     "units": 715,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-09-02",
+     "units": 717,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2005-09-12",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-03-10",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-03-31",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-06-09",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-09-22",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-10-16",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2006-12-11",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-01-07",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-01-15",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-02-01",
+     "units": 730,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-02-22",
+     "units": 734,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-03-02",
+     "units": 736,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-06-08",
+     "units": 736,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-06-09",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-06-25",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-07-01",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-07-13",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-09-01",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2007-10-01",
+     "units": 738,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2009-04-15",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2009-12-31",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-14",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-15",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-21",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-25",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-03-08",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-04-09",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-09-01",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-01-17",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-07-13",
+     "units": 739,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-07-23",
+     "units": 740,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-01-01",
+     "units": 744,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-01-30",
+     "units": 744,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-02-02",
+     "units": 746,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-07-29",
+     "units": 747,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-01-21",
+     "units": 747,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-02-10",
+     "units": 747,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-03-01",
+     "units": 747,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-03-04",
+     "units": 747,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-03-14",
+     "units": 751,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-05-02",
+     "units": 752,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-06-14",
+     "units": 752,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-06-16",
+     "units": 755,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-07-29",
+     "units": 755,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-08-02",
+     "units": 755,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-09-26",
+     "units": 755,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-03",
+     "units": 757,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-03-01",
+     "units": 757,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-04-18",
+     "units": 757,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-10",
+     "units": 760,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-24",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-07-02",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-07-09",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-07-12",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-07-18",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-08-01",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-09-01",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-01-01",
+     "units": 762,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-08-15",
+     "units": 763,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-09-05",
+     "units": 763,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-02-19",
+     "units": 763,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-02-29",
+     "units": 764,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-04-15",
+     "units": 764,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-06-08",
+     "units": 764,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-06-12",
+     "units": 767,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-06-18",
+     "units": 770,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-08-11",
+     "units": 770,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-08-21",
+     "units": 770,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-10-01",
+     "units": 770,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-12-22",
+     "units": 770,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-01",
+     "units": 771,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-09",
+     "units": 771,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-27",
+     "units": 771,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-05-08",
+     "units": 771,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-07-24",
+     "units": 771,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-08-03",
+     "units": 773,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-06",
+     "units": 773,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-13",
+     "units": 775,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-16",
+     "units": 776,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-12",
+     "units": 776,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-02-15",
+     "units": 776,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-01",
+     "units": 778,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-12",
+     "units": 778,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-12",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-28",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-30",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-29",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-01",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-08",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-31",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-03",
+     "units": 779,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-07",
+     "units": 780,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-21",
+     "units": 780,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-29",
+     "units": 780,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-01",
+     "units": 790,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-07-01",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-09-01",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-02-24",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-01",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-12-10",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-17",
+     "units": 792,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-01",
+     "units": 857,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 857,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-08-18",
+     "units": 857,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-31",
+     "units": 859,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-01",
+     "units": 859,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-18",
+     "units": 865,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-28",
+     "units": 870,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-01",
+     "units": 870,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-08",
+     "units": 870,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-05",
+     "units": 878,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-04-08",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-04-18",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-01",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-07",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2025-01-01",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2025-08-04",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-16",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-19",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-26",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-28",
+     "units": 885,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-05-03",
+     "units": 884,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ancien-code-civil",
+   "short": "anc. C. civ.",
+   "title": "Code civil (21 mars 1804), dit ancien Code civil",
+   "url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-16",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-01-25",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-02-17",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-04-09",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-05-20",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-07-01",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-07-10",
+     "units": 2308,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-08-01",
+     "units": 2309,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2010-09-01",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-01-01",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-01-10",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-04-01",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2011-09-20",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-04-01",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-05-14",
+     "units": 2314,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-05-17",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-06-18",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-08-13",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-08-20",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-09-01",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-10-03",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2012-12-30",
+     "units": 2315,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-01-21",
+     "units": 2316,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-04-09",
+     "units": 2316,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-06-09",
+     "units": 2316,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-07-11",
+     "units": 2316,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-09-01",
+     "units": 2317,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2013-10-03",
+     "units": 2322,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-02-01",
+     "units": 2322,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-15",
+     "units": 2322,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-24",
+     "units": 2322,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-05-29",
+     "units": 2322,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-06-01",
+     "units": 2323,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-06-13",
+     "units": 2323,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-06-15",
+     "units": 2323,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-06-26",
+     "units": 2324,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-07-18",
+     "units": 2324,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-09-01",
+     "units": 2385,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-10-25",
+     "units": 2386,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2014-12-07",
+     "units": 2388,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-01-01",
+     "units": 2399,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-02-04",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-03-15",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-03-19",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-09-01",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2015-11-16",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-07-01",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-09-28",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2016-12-31",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-01-01",
+     "units": 2400,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-04-01",
+     "units": 2401,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-06-10",
+     "units": 2401,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-06-26",
+     "units": 2401,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-08-03",
+     "units": 2403,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-09-01",
+     "units": 2414,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-05",
+     "units": 2414,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-01",
+     "units": 2415,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-03-01",
+     "units": 2423,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-01",
+     "units": 2428,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-26",
+     "units": 2428,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-09",
+     "units": 2428,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-12",
+     "units": 2428,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-30",
+     "units": 2428,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-01",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-04",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-20",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-01",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-08",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-22",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-05",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-01",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-10",
+     "units": 2457,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-01",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-25",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-31",
+     "units": 2479,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-01",
+     "units": 2479,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-08",
+     "units": 2471,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-29",
+     "units": 2471,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-16",
+     "units": 2452,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-31",
+     "units": 2452,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-01-01",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-05-04",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-06-11",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-08-17",
+     "units": 2456,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-09-01",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-01",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2020-12-24",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-01-01",
+     "units": 2458,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-19",
+     "units": 2461,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-23",
+     "units": 2461,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-01",
+     "units": 2461,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-18",
+     "units": 2461,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2021-12-10",
+     "units": 2461,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-05",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-08-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-31",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-11",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-01",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-06",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-13",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-26",
+     "units": 2481,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-01",
+     "units": 2482,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-04-08",
+     "units": 2483,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-07",
+     "units": 2483,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-07-01",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2024-10-01",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2025-01-01",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-17",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    },
+    {
+     "from": "2026-05-19",
+     "units": 2484,
+     "source_url": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "code-civil",
+   "short": "C. civ.",
+   "title": "Code civil (loi du 13 avril 2019 et livres suivants)",
+   "url": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019012168/justel",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 39,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-01",
+     "units": 227,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 581,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2022-08-08",
+     "units": 581,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-01",
+     "units": 584,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-01",
+     "units": 866,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-16",
+     "units": 866,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2025-01-01",
+     "units": 921,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-01",
+     "units": 975,
+     "source_url": "https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
