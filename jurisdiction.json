@@ -1,0 +1,11 @@
+{
+  "path": "be",
+  "code": "BE",
+  "name": "Belgium",
+  "level": "country",
+  "repo": "https://github.com/lexifina/belgium-law",
+  "build": "built: Constitution 1994-2026 (37 versions), Code pénal 1990-2026 (178), ancien Code civil 2009-2026 (115), Code civil 2019- (9), titre préliminaire du Code de procédure pénale 1993-2024 (60), Code de la nationalité belge 1991-2025 (28), Code électoral 2003-2024 (37), Code de droit international privé 2004-2024 (25), loi du 30 juillet 2018 sur la protection des données 2018-2025 (8); text from legalize-be and archived Justel pages, dated by Justel's notes",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 3
+}

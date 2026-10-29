@@ -1,0 +1,520 @@
+day,kind,law,acts,files,branch
+1990-04-05,start,,code-penal,644,main
+1990-04-15,law,l-1990-04-03-30,code-penal,5,main
+1990-06-19,law,l-1990-04-09-35,code-penal,1,main
+1990-08-25,law,l-1990-07-17-30,code-penal,4,main
+1991-01-01,law,l-1990-12-04-32,code-penal,1,main
+1991-07-06,start,,code-nationalite,31,main
+1991-07-16,law,l-1991-05-22-35,code-nationalite,1,main
+1992-01-01,law,l-1991-06-13-31,code-nationalite,4,main
+1992-10-01,law,l-1991-03-21-30,code-penal,1,main
+1993-03-01,law,l-1993-01-12-34,code-penal,5,main
+1993-05-24,law,l-1993-03-09-34,code-penal,1,main
+1993-08-03,law,l-1993-06-16-35,code-penal,1,main
+1993-09-05,law,l-1993-06-29-31,code-penal,1,main
+1993-10-03,law,l-1993-08-06-35,code-nationalite,10,main
+1993-12-31,start,,titre-preliminaire-code-procedure-penale,31,main
+1994-02-27,start,constitution-1994,constitution,204,main
+1994-07-31,law,l-1994-07-11-33,code-penal titre-preliminaire-code-procedure-penale,2,main
+1995-02-03,law,l-1994-06-30-49,code-penal,2,main
+1995-05-05,law,l-1995-03-27-36,code-penal,2,main
+1995-05-05,law,l-1995-04-13-32,code-penal titre-preliminaire-code-procedure-penale,9,main
+1995-05-05,law,l-1995-04-13-33,code-penal titre-preliminaire-code-procedure-penale,3,main
+1995-05-20,law,l-1995-04-07-57,code-penal,1,main
+1995-12-31,law,l-1995-04-13-44,code-nationalite,1,main
+1996-04-19,law,l-1996-03-25-32,constitution,1,main
+1996-04-19,law,l-1996-03-25-33,constitution,1,main
+1996-04-19,law,l-1996-03-25-34,constitution,1,main
+1996-07-26,law,l-1996-06-30-34,code-penal,1,main
+1996-08-11,law,l-1996-07-10-42,code-penal,49,main
+1997-03-01,law,l-1997-02-28-31,constitution,1,main
+1997-04-02,law,l-1997-03-11-36,constitution,1,main
+1997-05-01,law,l-1993-12-24-37,code-penal,1,main
+1997-06-21,law,l-1997-05-20-44,constitution,1,main
+1997-07-13,law,l-1997-05-20-50,code-penal,1,main
+1998-01-01,law,l-1997-08-08-50,code-penal,1,main
+1998-01-01,law,l-1997-08-08-80,code-penal,8,main
+1998-02-16,law,l-1997-11-24-51,code-penal,2,main
+1998-06-16,law,l-1998-06-12-32,constitution,1,main
+1998-06-18,law,l-1998-06-17-32,constitution,1,main
+1998-07-27,law,l-1998-06-10-39,titre-preliminaire-code-procedure-penale,2,main
+1998-10-02,law,l-1998-03-12-39,code-penal titre-preliminaire-code-procedure-penale,5,main
+1998-11-24,law,l-1998-11-20-30,constitution,1,main
+1998-12-15,law,l-1998-12-11-30,constitution,1,main
+1998-12-16,law,l-1998-12-11-31,titre-preliminaire-code-procedure-penale,2,main
+1998-12-27,law,l-1998-10-30-34,code-penal,1,main
+1999-03-08,law,l-1999-01-10-49,code-penal,3,main
+1999-04-02,law,l-1999-02-10-39,code-penal titre-preliminaire-code-procedure-penale,17,main
+1999-04-09,law,l-1999-03-12-35,constitution,1,main
+1999-05-29,law,l-1999-05-07-32,constitution,1,main
+1999-07-01,law,l-1999-05-07-61,code-penal titre-preliminaire-code-procedure-penale,2,main
+1999-07-02,law,l-1999-05-04-60,code-penal titre-preliminaire-code-procedure-penale,12,main
+1999-08-18,law,ar-1999-06-09-57,code-penal,1,main
+1999-09-01,law,l-1998-12-22-51,code-nationalite,5,main
+2000-04-30,law,l-2000-03-28-31,titre-preliminaire-code-procedure-penale,1,main
+2000-05-01,law,l-2000-03-01-49,code-nationalite,12,main
+2000-05-25,law,l-2000-03-23-38,constitution,1,main
+2000-05-27,law,l-2000-05-16-33,constitution,1,main
+2000-12-12,law,l-2000-06-30-45,titre-preliminaire-code-procedure-penale,1,main
+2000-12-30,law,l-1999-05-07-77,code-penal,1,main
+2001-02-13,law,l-2000-11-28-34,code-penal,5,main
+2001-03-27,law,l-2000-11-28-35,code-penal titre-preliminaire-code-procedure-penale,62,main
+2001-03-31,law,l-2001-03-30-30,constitution,1,main
+2001-07-03,law,l-2001-04-04-39,code-penal titre-preliminaire-code-procedure-penale,11,main
+2001-08-01,law,l-2001-04-29-39,code-penal,1,main
+2001-08-20,law,l-2001-07-04-55,code-penal titre-preliminaire-code-procedure-penale,2,main
+2001-09-11,law,l-2001-07-18-43,titre-preliminaire-code-procedure-penale,1,main
+2002-01-01,law,l-2000-06-26-42,code-penal,175,main
+2002-01-01,law,l-2001-12-10-31,code-penal,2,main
+2002-02-17,law,l-2001-12-11-50,code-penal,3,main
+2002-02-26,law,l-2002-02-21-33,constitution,1,main
+2002-02-26,law,l-2002-02-21-34,constitution,1,main
+2002-04-30,law,l-2002-04-26-30,code-penal,1,main
+2002-05-07,law,l-2002-04-17-33,code-penal,11,main
+2002-08-24,law,l-2002-06-14-42,code-penal,14,main
+2002-09-05,law,l-2002-07-16-41,titre-preliminaire-code-procedure-penale,1,main
+2002-09-15,law,l-2002-08-02-67,code-penal,2,main
+2003-01-10,start,,code-electoral,291,main
+2003-01-20,law,l-2002-12-13-40,code-electoral,13,main
+2003-01-20,law,l-2002-12-13-41,code-electoral,20,main
+2003-01-31,law,l-2002-12-17-44,constitution,1,main
+2003-02-22,law,l-2003-01-28-33,code-penal,1,main
+2003-02-24,law,l-2002-12-19-86,code-penal titre-preliminaire-code-procedure-penale,4,main
+2003-03-13,law,l-2003-01-23-42,code-penal,89,main
+2003-03-27,law,l-2003-02-25-37,code-penal,8,main
+2003-03-31,law,l-2003-02-19-42,code-electoral,9,main
+2003-04-07,law,l-2003-03-11-36,code-electoral,5,main
+2003-04-16,law,l-2003-04-02-34,code-electoral,2,main
+2003-05-05,unexplained,,code-penal,1,main
+2003-05-12,law,l-2003-04-03-52,code-penal,1,main
+2003-05-15,law,l-2003-04-04-59,code-penal,3,main
+2003-05-18,law,l-2002-03-07-49,code-electoral,3,main
+2003-05-29,law,l-2003-03-13-63,titre-preliminaire-code-procedure-penale,1,main
+2003-08-07,law,l-2003-08-05-32,code-penal titre-preliminaire-code-procedure-penale,16,main
+2003-09-01,law,l-2002-07-16-41,titre-preliminaire-code-procedure-penale,1,main
+2004-01-08,law,l-2003-12-19-34,code-penal titre-preliminaire-code-procedure-penale,9,main
+2004-01-10,law,l-2003-12-22-42,titre-preliminaire-code-procedure-penale code-electoral,2,main
+2004-01-15,law,l-2005-01-12-39,code-penal,1,main
+2004-04-05,law,l-2004-03-02-41,code-electoral,2,main
+2004-05-07,law,w-2004-04-25-45,code-electoral,1,main
+2004-06-11,law,l-2004-06-10-32,constitution,1,main
+2004-10-01,start,,code-droit-international-prive,140,main
+2004-12-19,law,l-2004-11-22-32,code-penal,6,main
+2005-01-10,law,l-2004-12-27-30,code-nationalite code-electoral,2,main
+2005-02-01,unexplained,,code-penal,1,main
+2005-02-17,law,l-2005-02-02-31,constitution,1,main
+2005-02-20,law,l-2005-01-10-38,code-penal,1,main
+2005-03-11,law,l-2005-02-25-40,constitution,30,main
+2005-03-21,law,l-2005-02-25-40,constitution,3,main
+2005-04-01,law,l-2004-06-17-37,code-penal,15,main
+2005-04-07,law,l-2005-03-26-31,constitution,1,main
+2005-04-08,law,acc-2005-062,titre-preliminaire-code-procedure-penale,1,main
+2005-05-13,law,l-2005-04-13-30,titre-preliminaire-code-procedure-penale,1,main
+2005-08-08,law,l-2005-07-20-41,code-penal,7,main
+2005-09-01,law,l-2003-04-24-32,code-penal,3,main
+2005-09-02,law,l-2005-08-10-62,code-penal,4,main
+2005-09-02,law,lw-2005-08-10-62,code-penal,1,main
+2005-09-12,law,l-2005-08-10-61,code-penal titre-preliminaire-code-procedure-penale,19,main
+2005-12-28,law,l-2005-12-06-47,constitution,1,main
+2005-12-28,law,l-2005-12-06-48,constitution,1,main
+2005-12-28,law,l-2005-12-06-49,constitution,1,main
+2005-12-28,law,l-2005-12-06-50,constitution,1,main
+2005-12-30,law,l-2005-12-27-34,titre-preliminaire-code-procedure-penale,1,main
+2006-01-09,law,l-2005-12-23-31,titre-preliminaire-code-procedure-penale,1,main
+2006-01-31,law,l-2005-06-22-35,titre-preliminaire-code-procedure-penale,1,main
+2006-03-10,law,l-2006-02-09-33,code-penal,2,main
+2006-03-31,law,l-2005-07-20-52,code-penal,4,main
+2006-03-31,law,l-2006-05-22-37,titre-preliminaire-code-procedure-penale,2,main
+2006-04-11,unexplained,,code-electoral,2,main
+2006-04-21,law,l-2006-03-27-34,code-electoral,8,main
+2006-06-09,law,l-2006-06-08-30,code-penal,4,main
+2006-07-28,unexplained,,code-nationalite,1,main
+2006-08-07,law,l-2006-07-20-39,code-nationalite,1,main
+2006-09-22,law,l-2006-05-15-46,code-penal,5,main
+2006-10-16,law,l-2006-05-15-35,code-penal,2,main
+2006-12-11,law,l-2006-05-18-53,code-penal,1,main
+2006-12-28,law,l-2006-12-03-40,titre-preliminaire-code-procedure-penale,1,main
+2006-12-28,law,l-2006-12-27-32,code-nationalite,9,main
+2006-12-28,unexplained,,code-nationalite,1,main
+2007-01-07,law,l-2006-12-27-32,code-penal,2,main
+2007-01-07,law,l-2006-12-27-33,code-penal,5,main
+2007-01-15,law,l-2005-01-12-39,code-penal,5,main
+2007-02-01,law,l-2006-05-17-35,code-penal titre-preliminaire-code-procedure-penale,2,main
+2007-02-22,law,l-2006-12-20-41,code-penal,5,main
+2007-03-02,law,l-2007-01-25-39,code-penal,2,main
+2007-03-07,unexplained,,code-electoral,1,main
+2007-03-17,law,l-2007-02-13-37,code-electoral,26,main
+2007-04-26,law,l-2007-04-25-30,constitution,1,main
+2007-05-04,law,l-2007-04-21-51,code-electoral,1,main
+2007-05-08,law,l-2007-05-07-30,constitution,1,main
+2007-06-01,law,ar-2006-12-27-32,code-nationalite,1,main
+2007-06-08,law,l-2007-05-11-42,code-penal titre-preliminaire-code-procedure-penale,3,main
+2007-06-09,law,l-2007-05-10-35,code-penal,10,main
+2007-06-25,law,l-2007-04-25-76,code-penal,1,main
+2007-07-01,law,l-2007-05-09-44,code-penal code-droit-international-prive,2,main
+2007-07-13,law,l-2000-06-26-42,code-penal,3,main
+2007-07-13,unexplained,,code-penal,2,main
+2007-09-01,law,l-2007-04-27-00,code-penal,1,main
+2007-09-01,law,l-2007-05-10-55,code-droit-international-prive,2,main
+2007-09-01,law,l-2007-05-10-63,code-penal,1,main
+2007-09-01,law,l-2007-05-15-62,code-penal,1,main
+2007-10-01,law,l-2006-05-15-35,code-penal,2,main
+2007-10-01,law,l-2006-06-13-40,titre-preliminaire-code-procedure-penale,1,main
+2008-12-29,law,l-2008-12-22-31,constitution,1,main
+2008-12-29,unexplained,,constitution,1,main
+2009-04-01,law,l-2009-01-31-33,code-droit-international-prive,1,main
+2009-04-15,law,l-2009-04-14-01,code-penal code-electoral,36,main
+2009-04-15,unexplained,,code-electoral,7,main
+2009-12-16,start,,ancien-code-civil,2308,main
+2009-12-17,law,l-2017-07-06-24,code-droit-international-prive,1,main
+2009-12-31,law,l-2000-06-26-42,code-penal,4,main
+2009-12-31,law,l-2009-12-30-01,code-penal,10,main
+2009-12-31,unexplained,,code-penal,11,main
+2010-01-11,unexplained,,titre-preliminaire-code-procedure-penale,1,main
+2010-01-14,law,l-2009-12-30-12,code-penal,1,main
+2010-01-15,unexplained,,code-penal,1,main
+2010-01-16,law,l-2009-12-30-14,ancien-code-civil,2,main
+2010-01-21,law,l-2009-12-21-14,code-penal,3,main
+2010-01-25,law,l-2009-12-30-14,code-penal ancien-code-civil code-droit-international-prive,4,main
+2010-02-17,unexplained,,ancien-code-civil,1,main
+2010-03-08,law,l-2010-02-21-03,code-penal,2,main
+2010-04-09,law,l-2010-03-08-08,code-penal,4,main
+2010-04-09,law,l-2010-03-10-03,ancien-code-civil,2,main
+2010-05-01,law,l-2009-12-21-14,titre-preliminaire-code-procedure-penale,1,main
+2010-05-20,law,l-2010-04-18-06,ancien-code-civil,1,main
+2010-07-01,law,l-2010-04-06-35,ancien-code-civil,3,main
+2010-07-01,law,l-2010-06-02-23,ancien-code-civil,1,main
+2010-07-01,law,l-2010-06-02-24,ancien-code-civil,2,main
+2010-07-10,law,l-2010-06-02-35,ancien-code-civil,1,main
+2010-08-01,law,l-2010-03-19-05,ancien-code-civil,8,main
+2010-09-01,law,l-2010-02-04-26,code-penal,1,main
+2010-09-01,law,l-2010-06-02-33,ancien-code-civil,16,main
+2011-01-01,law,l-2010-01-10-12,ancien-code-civil,1,main
+2011-01-10,law,l-2010-12-29-01,ancien-code-civil,1,main
+2011-01-17,law,l-2010-12-13-07,code-penal,1,main
+2011-04-01,law,l-2011-03-03-01,ancien-code-civil,1,main
+2011-07-13,unexplained,,code-penal,1,main
+2011-07-23,law,l-2011-06-01-08,code-penal,1,main
+2011-09-20,unexplained,,ancien-code-civil,4,main
+2012-01-01,law,l-2007-04-26-89,code-penal,5,main
+2012-01-30,law,l-2011-11-30-28,code-penal titre-preliminaire-code-procedure-penale,5,main
+2012-02-02,law,l-2011-11-26-19,code-penal,34,main
+2012-03-17,law,l-2012-02-06-11,titre-preliminaire-code-procedure-penale,3,main
+2012-04-01,law,l-2011-08-13-17,ancien-code-civil,1,main
+2012-04-06,law,l-2012-03-29-06,constitution,1,main
+2012-05-14,unexplained,,ancien-code-civil,1,main
+2012-05-17,law,l-2012-04-11-13,ancien-code-civil,1,main
+2012-06-18,law,l-2012-05-15-04,ancien-code-civil,2,main
+2012-06-21,law,l-2017-07-06-24,code-droit-international-prive,1,main
+2012-07-29,law,l-2012-07-05-07,code-penal,1,main
+2012-08-13,law,l-2012-07-16-04,ancien-code-civil,1,main
+2012-08-20,law,l-2012-06-20-15,ancien-code-civil,2,main
+2012-08-22,law,l-2012-07-19-20,constitution,1,main
+2012-08-22,law,l-2012-07-19-23,constitution,1,main
+2012-08-22,law,l-2012-07-19-33,code-electoral,24,main
+2012-09-01,law,l-2012-05-15-04,ancien-code-civil,1,main
+2012-09-01,law,l-2012-07-19-32,code-electoral,8,main
+2012-10-03,unexplained,,ancien-code-civil,2,main
+2012-10-14,law,l-2012-07-19-22,constitution,1,main
+2012-12-14,law,l-2012-12-04-04,code-nationalite,5,main
+2012-12-14,unexplained,,code-droit-international-prive,1,main
+2012-12-30,law,l-2012-12-13-03,ancien-code-civil,1,main
+2013-01-01,law,l-2011-11-30-28,titre-preliminaire-code-procedure-penale,1,main
+2013-01-01,law,l-2012-12-04-04,code-nationalite code-droit-international-prive,16,main
+2013-01-10,law,l-2012-12-31-01,code-nationalite,1,main
+2013-01-21,law,l-2012-12-10-14,code-penal ancien-code-civil,41,main
+2013-02-10,law,l-2012-12-27-29,code-penal titre-preliminaire-code-procedure-penale,3,main
+2013-02-10,law,l-2013-01-14-06,code-penal,1,main
+2013-02-10,law,l-2013-01-14-07,titre-preliminaire-code-procedure-penale,1,main
+2013-03-01,law,l-2012-02-23-08,code-penal,1,main
+2013-03-04,unexplained,,code-penal,2,main
+2013-03-14,law,l-2013-02-18-01,code-penal,7,main
+2013-04-09,unexplained,,ancien-code-civil,2,main
+2013-05-02,law,l-2012-12-14-52,code-penal,2,main
+2013-06-09,unexplained,,ancien-code-civil,2,main
+2013-06-14,unexplained,,code-penal,7,main
+2013-06-16,law,l-2013-05-23-09,code-penal,6,main
+2013-07-11,law,l-2013-05-23-19,ancien-code-civil,1,main
+2013-07-29,law,l-2013-07-15-02,code-penal,2,main
+2013-08-02,law,l-2013-04-29-14,code-penal,1,main
+2013-08-02,law,l-2013-06-24-24,code-penal,7,main
+2013-09-01,law,l-2013-01-14-16,ancien-code-civil,15,main
+2013-09-26,law,acc-2013-127,code-penal,1,main
+2013-10-03,law,l-2013-06-02-08,code-penal ancien-code-civil,13,main
+2013-11-22,law,l-2013-10-24-14,titre-preliminaire-code-procedure-penale,1,main
+2014-01-01,law,l-2012-07-19-29,code-electoral,3,main
+2014-01-31,law,l-2014-01-06-04,constitution,1,main
+2014-01-31,law,l-2014-01-06-05,constitution,1,main
+2014-01-31,law,l-2014-01-06-06,constitution,1,main
+2014-01-31,law,l-2014-01-06-07,constitution,1,main
+2014-01-31,law,l-2014-01-06-08,constitution,1,main
+2014-01-31,law,l-2014-01-06-09,constitution,1,main
+2014-01-31,law,l-2014-01-06-10,constitution,1,main
+2014-01-31,law,l-2014-01-06-11,constitution,1,main
+2014-01-31,law,l-2014-01-06-12,constitution,1,main
+2014-01-31,law,l-2014-01-06-13,constitution,1,main
+2014-01-31,law,l-2014-01-06-14,constitution,1,main
+2014-01-31,law,l-2014-01-06-15,constitution,1,main
+2014-01-31,law,l-2014-01-06-17,constitution,1,main
+2014-01-31,law,l-2014-01-06-18,constitution,1,main
+2014-01-31,law,l-2014-01-06-19,constitution,1,main
+2014-01-31,law,l-2014-01-06-20,constitution,1,main
+2014-01-31,law,l-2014-01-06-21,constitution,1,main
+2014-01-31,law,l-2014-01-06-22,constitution,1,main
+2014-01-31,law,l-2014-01-06-23,constitution,1,main
+2014-01-31,law,l-2014-01-06-24,constitution,1,main
+2014-01-31,law,l-2014-01-06-25,constitution,1,main
+2014-01-31,law,l-2014-01-06-29,constitution,1,main
+2014-01-31,law,l-2014-01-06-30,constitution,1,main
+2014-01-31,law,l-2014-01-06-31,constitution,1,main
+2014-01-31,law,l-2014-01-06-32,constitution,1,main
+2014-01-31,law,l-2014-01-06-33,constitution,1,main
+2014-01-31,law,l-2014-01-06-34,constitution,1,main
+2014-01-31,law,l-2014-01-06-35,constitution,1,main
+2014-01-31,law,l-2014-01-06-36,constitution,1,main
+2014-01-31,law,l-2014-01-06-37,constitution,1,main
+2014-01-31,law,l-2014-01-06-38,constitution,1,main
+2014-01-31,law,l-2014-01-06-39,constitution,1,main
+2014-01-31,law,l-2014-01-06-40,constitution,1,main
+2014-01-31,law,l-2014-01-06-41,constitution,1,main
+2014-01-31,law,l-2014-01-06-42,constitution,1,main
+2014-01-31,law,l-2014-01-06-43,constitution,1,main
+2014-01-31,law,l-2014-01-06-44,constitution,1,main
+2014-01-31,law,l-2014-01-06-45,constitution,1,main
+2014-01-31,unexplained,,code-electoral,1,main
+2014-02-01,law,l-2013-12-21-26,ancien-code-civil,1,main
+2014-02-14,unexplained,,code-electoral,1,main
+2014-02-24,law,l-2014-02-10-02,code-electoral,13,main
+2014-03-01,law,l-2013-11-27-05,code-penal,3,main
+2014-03-31,law,l-2012-07-19-21,constitution,1,main
+2014-03-31,law,l-2014-01-06-58,code-electoral,1,main
+2014-04-18,law,l-2014-02-11-12,code-penal,4,main
+2014-04-30,law,l-2014-01-06-58,code-electoral,27,main
+2014-05-10,law,l-2014-04-10-24,code-penal titre-preliminaire-code-procedure-penale,8,main
+2014-05-10,law,l-2014-04-10-25,code-penal,1,main
+2014-05-15,law,l-2014-04-25-23,ancien-code-civil,1,main
+2014-05-24,law,l-2014-04-25-23,code-penal ancien-code-civil titre-preliminaire-code-procedure-penale code-nationalite code-droit-international-prive,22,main
+2014-05-25,law,l-2014-01-06-16,constitution,1,main
+2014-05-25,law,l-2014-01-06-26,constitution,1,main
+2014-05-25,law,l-2014-01-06-27,constitution,1,main
+2014-05-25,law,l-2014-01-06-28,constitution,1,main
+2014-05-25,law,l-2014-01-06-49,code-electoral,2,main
+2014-05-25,law,l-2014-01-06-62,code-electoral,68,main
+2014-05-29,law,l-2014-05-12-02,ancien-code-civil,1,main
+2014-06-01,law,l-2014-05-08-10,ancien-code-civil,9,main
+2014-06-13,unexplained,,ancien-code-civil,6,main
+2014-06-15,law,l-2013-12-21-50,ancien-code-civil,3,main
+2014-06-26,law,l-2014-04-25-23,ancien-code-civil,1,main
+2014-06-26,unexplained,,ancien-code-civil,3,main
+2014-07-01,law,l-2014-01-06-64,code-electoral,2,main
+2014-07-02,unexplained,,code-penal,1,main
+2014-07-09,unexplained,,code-penal,1,main
+2014-07-12,law,l-2014-05-05-07,code-penal,1,main
+2014-07-18,law,l-2014-05-05-09,code-penal ancien-code-civil,10,main
+2014-08-01,law,l-2014-05-12-07,code-penal,1,main
+2014-09-01,law,l-2013-01-21-12,code-electoral,1,main
+2014-09-01,law,l-2013-03-17-14,code-penal ancien-code-civil code-nationalite,112,main
+2014-09-01,law,l-2013-07-15-22,titre-preliminaire-code-procedure-penale,1,main
+2014-09-01,law,l-2013-07-30-23,code-penal ancien-code-civil code-nationalite code-droit-international-prive,97,main
+2014-09-01,law,l-2013-11-27-13,code-droit-international-prive,1,main
+2014-09-01,law,l-2014-04-25-23,ancien-code-civil,20,main
+2014-09-01,law,l-2014-05-08-02,ancien-code-civil,3,main
+2014-09-01,law,l-2014-05-12-02,ancien-code-civil,8,main
+2014-10-25,unexplained,,ancien-code-civil,17,main
+2014-12-07,unexplained,,ancien-code-civil,73,main
+2015-01-01,law,l-2012-08-03-44,code-penal,1,main
+2015-01-01,law,l-2014-01-06-56,code-electoral,1,main
+2015-01-01,law,l-2014-05-05-08,ancien-code-civil,19,main
+2015-01-01,law,l-2014-12-18-01,ancien-code-civil code-droit-international-prive,9,main
+2015-02-04,law,l-2014-05-22-09,ancien-code-civil,1,main
+2015-03-15,unexplained,,ancien-code-civil,21,main
+2015-03-19,unexplained,,ancien-code-civil,2,main
+2015-08-15,law,l-2015-07-20-08,code-penal code-nationalite,5,main
+2015-08-17,law,l-2017-07-06-24,code-droit-international-prive,7,main
+2015-09-01,law,l-2013-01-14-16,ancien-code-civil,3,main
+2015-09-01,law,l-2013-03-17-14,ancien-code-civil,1,main
+2015-09-01,law,l-2013-12-21-26,ancien-code-civil,2,main
+2015-09-01,law,l-2014-04-25-23,ancien-code-civil,1,main
+2015-09-05,law,l-2015-07-20-19,code-penal,1,main
+2015-10-22,law,l-2015-10-19-01,titre-preliminaire-code-procedure-penale,1,main
+2015-11-16,unexplained,,ancien-code-civil,14,main
+2016-02-19,unexplained,,code-penal,9,main
+2016-02-29,law,l-2016-02-01-09,code-penal titre-preliminaire-code-procedure-penale,9,main
+2016-02-29,law,l-2016-02-05-11,code-penal titre-preliminaire-code-procedure-penale,39,main
+2016-04-15,law,l-2016-03-25-07,code-penal,1,main
+2016-05-23,law,l-2016-05-04-03,code-electoral,1,main
+2016-06-08,unexplained,,code-penal,1,main
+2016-06-12,law,l-2016-05-20-04,code-penal,3,main
+2016-06-18,law,l-2016-05-31-02,code-penal titre-preliminaire-code-procedure-penale,11,main
+2016-07-01,law,l-2016-06-19-01,ancien-code-civil,1,main
+2016-08-11,unexplained,,code-penal,6,main
+2016-08-21,law,l-2016-08-03-15,code-penal titre-preliminaire-code-procedure-penale,3,main
+2016-09-28,law,l-2016-07-21-40,ancien-code-civil,1,main
+2016-10-01,law,l-2016-05-04-03,code-penal,1,main
+2016-12-22,unexplained,,code-penal,2,main
+2016-12-30,law,l-2016-11-17-12,code-electoral,13,main
+2016-12-31,law,l-2016-05-04-03,ancien-code-civil,1,main
+2017-01-01,law,l-2013-07-11-19,ancien-code-civil,1,main
+2017-01-01,law,l-2016-12-14-09,code-penal,3,main
+2017-01-01,law,l-2016-12-25-13,ancien-code-civil,2,main
+2017-01-01,law,l-2016-12-25-14,titre-preliminaire-code-procedure-penale,1,main
+2017-01-09,law,l-2016-12-25-14,code-penal,1,main
+2017-01-27,law,l-2016-12-25-37,code-penal,2,main
+2017-04-01,law,l-2017-02-20-15,ancien-code-civil,1,main
+2017-04-01,law,l-2017-02-20-17,ancien-code-civil,14,main
+2017-05-08,law,l-2017-03-30-11,code-penal,1,main
+2017-06-10,unexplained,,ancien-code-civil,2,main
+2017-06-26,unexplained,,ancien-code-civil,1,main
+2017-07-01,law,l-2017-06-08-09,titre-preliminaire-code-procedure-penale,1,main
+2017-07-24,law,l-2017-07-06-24,code-penal,2,main
+2017-08-03,law,l-2017-07-06-24,code-penal ancien-code-civil code-nationalite code-droit-international-prive,32,main
+2017-09-01,law,l-2017-03-19-08,ancien-code-civil,12,main
+2017-11-05,unexplained,,ancien-code-civil,1,main
+2017-11-06,unexplained,,code-penal,1,main
+2017-11-13,law,l-2017-10-18-09,code-penal,5,main
+2017-11-16,law,l-2017-10-18-08,code-penal,2,main
+2017-11-29,law,l-2017-10-24-03,constitution,1,main
+2018-01-01,law,l-2013-07-11-19,ancien-code-civil,2,main
+2018-01-01,law,l-2017-06-25-03,ancien-code-civil,5,main
+2018-01-01,law,l-2017-07-06-24,code-droit-international-prive,2,main
+2018-01-01,law,ar-2017-12-13-13,ancien-code-civil,1,main
+2018-01-12,law,acc-2017-148,code-penal,3,main
+2018-02-15,law,l-2018-03-06-04,code-penal,1,main
+2018-03-01,law,l-2017-07-06-24,ancien-code-civil,10,main
+2018-03-01,law,l-2018-01-07-01,ancien-code-civil,1,main
+2018-04-01,law,l-2017-09-19-06,ancien-code-civil,11,main
+2018-05-01,law,l-2017-08-11-14,code-penal code-droit-international-prive,12,main
+2018-05-12,law,l-2018-03-18-14,code-penal titre-preliminaire-code-procedure-penale,4,main
+2018-05-24,unexplained,,code-electoral,2,main
+2018-05-26,unexplained,,ancien-code-civil,1,main
+2018-06-03,law,l-2018-04-19-25,code-electoral,42,main
+2018-06-09,law,l-2018-05-25-02,ancien-code-civil,1,main
+2018-07-12,law,l-2018-06-15-03,ancien-code-civil,2,main
+2018-07-12,law,l-2018-06-18-03,code-penal ancien-code-civil code-nationalite code-droit-international-prive,17,main
+2018-07-28,law,l-2018-07-11-02,code-penal titre-preliminaire-code-procedure-penale,3,main
+2018-07-30,law,l-2018-07-11-07,code-penal ancien-code-civil,10,main
+2018-07-30,law,l-2018-07-11-10,code-penal,2,main
+2018-08-17,law,l-2018-07-22-04,titre-preliminaire-code-procedure-penale,1,main
+2018-09-01,law,l-2017-07-31-25,ancien-code-civil,70,main
+2018-09-01,law,l-2018-07-22-01,ancien-code-civil,65,main
+2018-09-04,unexplained,,ancien-code-civil,2,main
+2018-09-05,start,,loi-protection-donnees,286,main
+2018-10-20,law,l-2018-09-20-14,ancien-code-civil,1,main
+2018-10-29,unexplained,,code-penal,1,main
+2018-11-01,law,l-2018-04-15-14,code-penal ancien-code-civil,4,main
+2018-11-01,law,l-2018-06-18-09,code-penal,1,main
+2018-11-08,law,l-2018-10-15-03,code-penal ancien-code-civil,5,main
+2018-11-22,unexplained,,ancien-code-civil,1,main
+2018-12-05,unexplained,,ancien-code-civil,3,main
+2019-01-01,law,l-2018-06-18-03,ancien-code-civil,14,main
+2019-01-10,law,l-2018-12-21-09,ancien-code-civil,16,main
+2019-03-01,law,l-2018-12-21-09,ancien-code-civil,44,main
+2019-03-25,law,acc-2019-040,ancien-code-civil,1,main
+2019-03-31,law,l-2018-06-18-03,code-penal ancien-code-civil code-nationalite code-droit-international-prive,168,main
+2019-03-31,law,l-2018-12-21-09,ancien-code-civil,4,main
+2019-03-31,law,l-2019-03-23-01,ancien-code-civil,1,main
+2019-03-31,law,l-2020-07-31-03,ancien-code-civil,1,main
+2019-04-01,law,l-2019-02-11-10,ancien-code-civil,1,main
+2019-04-04,unexplained,,code-droit-international-prive,1,main
+2019-05-01,law,l-2019-03-23-06,code-droit-international-prive,6,main
+2019-05-02,law,l-2019-04-22-06,constitution,1,main
+2019-06-03,law,l-2019-05-02-32,loi-protection-donnees,1,main
+2019-06-03,law,l-2019-05-05-10,code-penal titre-preliminaire-code-procedure-penale,20,main
+2019-06-07,law,l-2019-05-05-12,code-penal,2,main
+2019-06-07,law,l-2019-05-05-13,code-penal,1,main
+2019-06-08,unexplained,,ancien-code-civil,10,main
+2019-06-21,unexplained,,code-penal,2,main
+2019-06-29,law,l-2019-05-05-19,code-penal ancien-code-civil,3,main
+2019-07-01,law,l-2019-05-22-19,code-penal titre-preliminaire-code-procedure-penale,12,main
+2019-12-16,unexplained,,ancien-code-civil,19,main
+2019-12-30,law,l-2019-11-14-10,titre-preliminaire-code-procedure-penale,2,main
+2019-12-31,law,l-2018-12-21-09,ancien-code-civil,1,main
+2020-01-01,law,l-2017-07-06-24,ancien-code-civil,9,main
+2020-01-01,law,l-2019-05-05-10,titre-preliminaire-code-procedure-penale,1,main
+2020-05-04,law,l-2020-04-30-03,ancien-code-civil,1,main
+2020-06-11,law,acc-2020-058,ancien-code-civil,1,main
+2020-07-01,law,l-2020-05-04-16,code-penal,5,main
+2020-08-17,law,l-2020-07-31-03,ancien-code-civil,5,main
+2020-09-01,law,l-2019-05-08-14,code-penal ancien-code-civil titre-preliminaire-code-procedure-penale code-droit-international-prive,7,main
+2020-09-01,law,l-2020-07-31-03,ancien-code-civil code-droit-international-prive,24,main
+2020-11-01,start,loi-2019012168,code-civil,39,main
+2020-11-01,law,l-2019-04-13-28,ancien-code-civil,59,main
+2020-12-24,law,l-2020-12-20-02,ancien-code-civil,2,main
+2021-01-01,law,l-2019-03-10-03,ancien-code-civil code-droit-international-prive,5,main
+2021-02-24,law,l-2021-02-17-04,code-penal,2,main
+2021-02-24,unexplained,,code-penal,1,main
+2021-03-30,law,l-2021-03-17-02,constitution,1,main
+2021-06-19,law,l-2021-05-20-20,ancien-code-civil,6,main
+2021-06-23,unexplained,,ancien-code-civil,1,main
+2021-09-01,law,l-2020-02-04-16,code-penal ancien-code-civil,32,main
+2021-09-01,law,loi-2020020347,code-civil,188,main
+2021-09-18,unexplained,,ancien-code-civil,2,main
+2021-12-10,law,l-2021-11-28-01,code-penal ancien-code-civil,2,main
+2022-01-10,law,l-2021-12-21-05,loi-protection-donnees,2,main
+2022-03-17,law,l-2022-02-28-02,code-penal,1,main
+2022-06-01,law,l-2022-03-20-05,ancien-code-civil,27,main
+2022-06-01,law,l-2022-03-21-01,code-penal titre-preliminaire-code-procedure-penale,128,main
+2022-06-05,unexplained,,ancien-code-civil,1,main
+2022-07-01,law,l-2022-01-19-18,code-penal ancien-code-civil code-civil,129,main
+2022-07-01,law,loi-2022030600,code-civil,354,main
+2022-08-01,law,l-2022-07-20-06,ancien-code-civil code-droit-international-prive,6,main
+2022-08-08,law,l-2022-07-30-03,code-civil,2,main
+2022-08-18,law,l-2022-07-30-03,code-penal,4,main
+2022-11-01,law,l-2022-07-30-03,code-civil,16,main
+2022-12-31,law,l-2022-12-06-02,code-penal ancien-code-civil code-nationalite,19,main
+2023-01-01,law,l-2022-04-28-24,ancien-code-civil,1,main
+2023-01-01,law,l-2022-04-28-25,ancien-code-civil,240,main
+2023-01-01,law,loi-2022032057,code-civil,12,main
+2023-01-01,law,loi-2022032058,code-civil,270,main
+2023-01-01,law,l-2022-10-13-10,code-penal,2,main
+2023-01-01,law,l-2022-11-22-06,code-civil,1,main
+2023-03-11,law,l-2023-02-08-05,ancien-code-civil,2,main
+2023-06-16,law,l-2023-05-25-04,code-droit-international-prive,2,main
+2023-09-18,law,l-2023-07-12-10,code-penal,13,main
+2023-10-01,law,l-2023-03-28-02,ancien-code-civil code-electoral,68,main
+2023-10-01,law,l-2023-07-20-19,ancien-code-civil,3,main
+2023-10-16,law,l-2023-06-19-06,code-civil,1,main
+2023-10-28,law,l-2023-07-31-15,code-penal,6,main
+2023-12-09,law,l-2024-04-14-16,code-electoral,2,main
+2024-01-01,law,l-2018-04-19-25,code-electoral,1,main
+2024-01-01,law,l-2023-09-13-08,code-penal ancien-code-civil code-nationalite code-droit-international-prive,69,main
+2024-01-06,law,l-2023-12-19-05,ancien-code-civil code-nationalite,5,main
+2024-01-08,law,l-2023-12-22-05,code-penal,1,main
+2024-01-13,law,l-2023-12-25-12,ancien-code-civil,1,main
+2024-01-26,law,l-2022-02-24-26,ancien-code-civil,1,main
+2024-02-05,law,l-2024-01-18-06,code-penal code-nationalite,31,main
+2024-03-01,law,l-2023-12-19-05,ancien-code-civil,11,main
+2024-03-29,unexplained,,code-nationalite,1,main
+2024-04-08,law,l-2024-03-27-02,code-penal ancien-code-civil titre-preliminaire-code-procedure-penale code-nationalite,24,main
+2024-04-08,law,l-2024-03-28-60,code-nationalite,1,main
+2024-04-18,law,l-2024-02-29-11,code-penal,1,main
+2024-04-28,law,l-2024-04-09-07,titre-preliminaire-code-procedure-penale code-electoral,38,main
+2024-05-05,unexplained,,code-electoral,3,main
+2024-05-09,law,l-2024-03-29-32,loi-protection-donnees,1,main
+2024-06-01,law,l-2024-05-16-55,code-penal,1,main
+2024-06-03,law,l-2024-05-15-01,constitution,1,main
+2024-06-07,law,l-2024-05-15-03,code-penal ancien-code-civil loi-protection-donnees,3,main
+2024-07-01,law,l-2024-01-07-03,ancien-code-civil,6,main
+2024-07-01,law,l-2024-05-15-03,ancien-code-civil,1,main
+2024-07-15,law,l-2024-05-16-57,loi-protection-donnees,1,main
+2024-10-01,law,l-2024-03-29-15,loi-protection-donnees,16,main
+2024-10-01,law,l-2024-05-15-20,ancien-code-civil,1,main
+2025-01-01,law,l-2023-09-13-08,ancien-code-civil,5,main
+2025-01-01,law,l-2023-11-08-06,ancien-code-civil,1,main
+2025-01-01,law,l-2024-02-07-18,code-penal ancien-code-civil code-civil,10,main
+2025-01-01,law,l-2024-05-15-15,code-nationalite,1,main
+2025-01-01,law,loi-2024001600,code-civil,55,main
+2025-02-01,law,l-2024-06-02-09,loi-protection-donnees,5,main
+2025-06-30,law,l-2025-06-12-07,constitution,1,main
+2025-08-04,law,l-2025-07-18-16,code-penal,1,main
+2025-08-04,unexplained,,code-penal,1,main
+2026-01-01,law,l-2025-06-05-09,ancien-code-civil,40,main
+2026-01-01,law,loi-2025005089,code-civil,54,main
+2026-01-16,law,l-2025-12-19-73,code-penal,6,main
+2026-01-17,law,l-2025-12-11-19,ancien-code-civil,2,main
+2026-01-19,law,l-2025-12-19-94,code-penal,2,main
+2026-02-26,law,l-2026-02-08-04,code-penal,1,main
+2026-02-28,law,l-2026-02-08-02,code-penal,1,main
+2026-05-03,unexplained,,code-penal,1,main
+2026-05-19,unexplained,,ancien-code-civil,13,main
+2026-07-24,law,l-2026-07-15-04,constitution,1,main
