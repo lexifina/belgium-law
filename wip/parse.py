@@ -31,11 +31,7 @@ OUT = HERE / 'corpus.d'
 REPO = 'legalize-dev/legalize-be'
 PLACEHOLDER = '[La source ne donne pas le texte en vigueur à cette date.]\n'
 JUSTEL_CN = 'https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search={}'
-LAW_KINDS = {'L': ('L', 'law'), 'LS': ('LS', 'law'), 'LSP': ('LSP', 'law'), 'LO': ('LO', 'law'),
-             'AR': ('AR', 'decree'), 'ARR': ('ARR', 'decree'), 'A': ('A', 'decree'), 'AL': ('AL', 'decree'),
-             'LW': ('LW', 'law'), 'W': ('W', 'law'), 'ACC': ('ACC', 'court'), 'LP': ('LP', 'law'),
-             'DCFL': ('DCFL', 'law'), 'DRW': ('DRW', 'law'), 'DCFR': ('DCFR', 'law'), 'ORD': ('ORD', 'law'),
-             'D': ('D', 'law')}
+LAW_KINDS = {'AR': 'decree', 'ARR': 'decree', 'A': 'decree', 'AL': 'decree', 'ACC': 'court'}
 
 
 def sha(b: bytes) -> str:
@@ -46,19 +42,24 @@ def cached(url: str) -> bytes:
     return (CACHE / sha(url.encode())).read_bytes()
 
 
-def legalize_rows(numac: str) -> list[dict]:
+def legalize_sources(numac: str) -> list[dict]:
     idx = json.loads((CACHE / 'legalize' / 'index.json').read_text(encoding='utf-8'))
-    rows = []
+    out = []
     for r in idx['commits']:
         if r['numac'] != numac:
             continue
         url = f'https://raw.githubusercontent.com/{REPO}/{r["commit"]}/be/{numac}.md'
         raw = cached(url)
         m = re.search(r'^Source-Id: \S+?@v(\d+):(\d{4}-\d\d-\d\d)', r['message'], re.M)
-        rows.append({'commit': r['commit'], 'url': url, 'sha256': sha(raw), 'md': raw.decode('utf-8'),
-                     'vnum': m.group(1) if m else '001', 'vdate': m.group(2) if m else None,
-                     'src': f'legalize-be {r["commit"][:12]}'})
-    return rows
+        out.append({'kind': 'legalize', 'commit': r['commit'], 'url': url, 'sha256': sha(raw),
+                    'md': raw.decode('utf-8'), 'vnum': m.group(1) if m else '001',
+                    'date': m.group(2) if m else None})
+    return out
+
+
+def justel_source(url: str, day: str) -> dict:
+    raw = cached(url)
+    return {'kind': 'justel', 'url': url, 'sha256': sha(raw), 'md': justel.to_md(raw), 'date': day}
 
 
 def note_key(n: dict) -> tuple:
@@ -66,207 +67,178 @@ def note_key(n: dict) -> tuple:
     return (n['kind'], n['ref'], art.group(1).strip() if art else '')
 
 
-def law_key(n: dict) -> str | None:
-    if n['ref'].endswith('/?'):
-        return None
-    label, _ = LAW_KINDS.get(n['kind'], (n['kind'], 'law'))
-    return f'{label.lower()}-{n["ref"].replace("/", "-")}'
+class Act:
+    """Successive wordings of each provision of one act, read from several sources in order."""
 
-
-class History:
-    """Successive wordings of each provision of one act, from several sources in order."""
-
-    def __init__(self, sub_heads=None):
+    def __init__(self, sub_heads: set[str] | None = None):
         self.seq: dict[str, list[dict]] = {}
         self.labels: dict[str, tuple[str, str]] = {}
         self.sources: list[dict] = []
         self.skipped: set[str] = set()
         self.sub_heads = sub_heads
 
-    def add(self, md: str, src: dict, only: set[str] | None = None, full: bool = False) -> set[str]:
-        """Add one source text (all of it, or only units in `only`). Returns the unit keys it holds."""
+    def add(self, src: dict, rename: dict | None = None) -> set[str]:
         i = len(self.sources)
         self.sources.append(src)
-        us, sk = lmd.units(md, self.sub_heads)
+        us, sk = lmd.units(src['md'], self.sub_heads)
         self.skipped |= set(sk)
-        got = {}
+        got: dict[str, tuple] = {}
         for k, lab, kind, raw in us:
-            if only is not None and k not in only:
-                continue
+            if rename and k in rename:
+                k, lab = rename[k]
             text, notes = lmd.strip_notes(raw)
-            if k in got:   # legalize-be repeats some articles; keep the fuller copy
-                if len(text) <= len(got[k][0]):
-                    continue
+            if k in got and len(text) <= len(got[k][0]):   # legalize-be repeats some articles
+                continue
             got[k] = (text, notes, lab, kind)
         for k, (text, notes, lab, kind) in got.items():
             s = self.seq.setdefault(k, [])
             self.labels[k] = (lab, kind)
             if not s or s[-1]['text'] != text:
-                s.append({'i': i, 'text': text, 'notes': notes})
+                s.append({'i': i, 'text': text, 'notes': notes, 'seen': [i]})
             else:
+                s[-1]['seen'].append(i)
                 s[-1]['notes_last'] = notes
-        if full:
-            src['full'] = set(got)
+        src['units'] = set(got)
         return set(got)
 
+    def final_dates(self) -> dict:
+        """In-force day of every note, from its latest appearance (Justel corrected some dates later)."""
+        out = {}
+        for s in self.seq.values():
+            for w in s:
+                for n in w['notes'] + w.get('notes_last', []):
+                    if n['date']:
+                        out[note_key(n)] = n['date']
+                    elif n['undetermined']:
+                        out[note_key(n)] = None
+        return out
 
-def final_dates(h: History) -> dict:
-    """The in-force day of every note, from its latest appearance (Justel corrects some dates later)."""
-    out = {}
-    for s in h.seq.values():
-        for w in s:
-            for n in w['notes'] + w.get('notes_last', []):
-                if n['date']:
-                    out[note_key(n)] = n['date']
-                elif n['undetermined']:
-                    out.setdefault(note_key(n), None)
-    return out
-
-
-def normalise_markup(h: History) -> int:
-    """Older Justel versions mark changed words with ( ) where newer ones use [ ] (both stripped here, but not
-    the parentheses). Where a paragraph's words equal a later paragraph's, take the later rendering; then merge
-    wordings that became identical. Returns the number of wordings merged."""
-    merged = 0
-    for k, s in h.seq.items():
-        for j in range(len(s) - 2, -1, -1):
-            later = {lmd.canon(p): p for p in s[j + 1]['text'].splitlines()}
-            paras = [later.get(lmd.canon(p), p) for p in s[j]['text'].splitlines()]
-            s[j]['text'] = '\n'.join(paras) + ('\n' if paras else '')
-        out = []
-        for w in s:
-            if out and out[-1]['text'] == w['text']:
-                out[-1]['notes_last'] = w['notes']
-                out[-1].setdefault('merged', []).append(w['i'])
-                merged += 1
-                continue
-            out.append(w)
-        h.seq[k] = out
-    return merged
+    def normalise_markup(self) -> int:
+        """Older Justel versions mark changed words with ( ) where newer ones use [ ] (brackets are stripped,
+        parentheses cannot be). Where a paragraph's words equal a later paragraph's, use the later rendering;
+        then merge wordings that became identical. Returns how many were merged."""
+        merged = 0
+        for k, s in self.seq.items():
+            for j in range(len(s) - 2, -1, -1):
+                later = {lmd.canon(p): p for p in s[j + 1]['text'].splitlines()}
+                paras = [later.get(lmd.canon(p), p) for p in s[j]['text'].splitlines()]
+                s[j]['text'] = '\n'.join(paras) + ('\n' if paras else '')
+            out = []
+            for w in s:
+                if out and out[-1]['text'] == w['text']:
+                    out[-1]['seen'] += w['seen']
+                    out[-1]['notes_last'] = w['notes']
+                    merged += 1
+                    continue
+                out.append(w)
+            self.seq[k] = out
+        return merged
 
 
-def timeline(h: History, start: str, decisions: list, laws: dict) -> dict[str, list[tuple]]:
-    """Per unit: [(day, text or None, [law keys], why)], dated by the notes each wording gained."""
-    fd = final_dates(h)
+class Laws:
+    def __init__(self):
+        self.laws: dict[str, dict] = {}
+
+    def key(self, n: dict) -> str | None:
+        if n['ref'].endswith('/?'):
+            return None
+        k = f'{n["kind"].lower()}-{n["ref"].replace("/", "-")}'
+        if k not in self.laws:
+            kind = LAW_KINDS.get(n['kind'], 'law')
+            d, num = n['ref'].split('/')
+            self.laws[k] = {'label': f'{n["kind"]} {n["ref"]}', 'kind': kind, 'title': None, 'enacted': d,
+                            'published': None,
+                            'url': JUSTEL_CN.format(d.replace('-', '') + num.zfill(2)) if kind != 'court' else None,
+                            'temporary_until': None, 'restores': None, 'note': None}
+        return k
+
+    def credit(self, notes: list[dict]) -> list[str]:
+        return sorted({k for k in (self.key(n) for n in notes) if k})
+
+
+def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tuple]]:
+    """Per unit: [(day, text or None, [law keys], why)], each wording dated by the notes it gained.
+
+    - A wording whose notes all took effect on one day D is in force from D, credited to the act(s) named.
+    - A wording that gained notes with two in-force days D1 < D2 is in force only from D2; from D1 the
+      source does not give the wording (PLACEHOLDER), credited to the act(s) of D1.
+    - The first wording of a unit is in force from `start` unless it carries notes in force after `start`:
+      then the unit is absent before an insertion note's day, or reads PLACEHOLDER (publisher) before the
+      latest note's day, when the wording arrives credited to that note's act.
+    - A change with no new dated note is "unexplained" (publisher), dated by the source that first shows it.
+    """
+    fd = act.final_dates()
     tl: dict[str, list] = {}
-    unexplained = []
-    backwards = []
 
-    def credit(ns):
-        ks = []
-        for n in ns:
-            k = law_key(n)
-            if k:
-                ks.append(k)
-                if k not in laws:
-                    label, kind = LAW_KINDS.get(n['kind'], (n['kind'], 'law'))
-                    num = n['ref'].replace('-', '').split('/')
-                    laws[k] = {'label': f'{label} {n["ref"]}', 'kind': kind, 'title': None,
-                               'enacted': n['ref'][:10], 'published': None,
-                               'url': JUSTEL_CN.format(num[0] + num[1].zfill(2)) if kind != 'court' else None,
-                               'temporary_until': None, 'restores': None, 'note': None}
-        return sorted(set(ks))
+    def day(n):
+        return fd.get(note_key(n))
 
-    for k, s in h.seq.items():
-        ev = []
+    for k, s in act.seq.items():
+        ev: list[tuple] = []
         first = s[0]
-        late = [n for n in first['notes'] if fd.get(note_key(n)) and fd[note_key(n)] > start]
-        if h.sources[first['i']].get('first', False) is False and first['i'] > 0:
-            # the unit first appears in a later source: inserted, dated by its notes
-            late = [n for n in first['notes'] if fd.get(note_key(n))]
+        late = [n for n in first['notes'] if day(n) and day(n) > start]
         if late:
-            ds = sorted({fd[note_key(n)] for n in late})
-            dmax = ds[-1]
-            ins = [n for n in late if n['insert']]
-            if first['i'] > 0 or ins:
-                if ins and fd[note_key(ins[0])] < dmax:
-                    ev.append((fd[note_key(ins[0])], PLACEHOLDER, credit(ins), 'inserted, wording not in source'))
+            dmax = max(day(n) for n in late)
+            ins = sorted((n for n in late if n['insert']), key=day)
+            if ins:
+                if day(ins[0]) < dmax:
+                    ev.append((day(ins[0]), PLACEHOLDER, laws.credit([ins[0]]), 'inserted; first wording not in source'))
             else:
-                ev.append((start, PLACEHOLDER, [], 'text in source is later'))
-                if ds[0] > start and ds[0] < dmax:
-                    pass
-            ev.append((dmax, first['text'], credit([n for n in late if fd[note_key(n)] == dmax]), 'notes'))
+                ev.append((start, PLACEHOLDER, [], 'source wording is later than this day'))
+                log['placeholder_start'].append(k)
+            ev.append((dmax, first['text'], laws.credit([n for n in late if day(n) == dmax]), 'notes'))
         elif first['i'] == 0:
             ev.append((start, first['text'], [], 'first'))
         else:
-            unexplained.append((k, first['i'], 'appears without a dated note'))
-            ev.append((h.sources[first['i']]['date'], first['text'], [], 'unexplained'))
+            d = act.sources[first['i']]['date']
+            log['unexplained'].append((k, first['i'], d, 'appears without a dated note'))
+            ev.append((d, first['text'], [], 'unexplained'))
         for j in range(1, len(s)):
             w, prev = s[j], s[j - 1]
             old = {note_key(n) for n in prev['notes'] + prev.get('notes_last', [])}
             new = [n for n in w['notes'] if note_key(n) not in old]
-            ds = sorted({fd[note_key(n)] for n in new if fd.get(note_key(n))})
-            last_day = ev[-1][0]
-            if ds:
-                dmax = ds[-1]
-                if dmax <= last_day:
-                    backwards.append((k, w['i'], dmax, last_day))
-                    if dmax < last_day:
-                        dmax = last_day
-                earlier = [n for n in new if fd.get(note_key(n)) and fd[note_key(n)] < dmax
-                           and fd[note_key(n)] > last_day]
-                if earlier:
-                    d0 = min(fd[note_key(n)] for n in earlier)
-                    ev.append((d0, PLACEHOLDER, credit([n for n in earlier if fd[note_key(n)] == d0]),
+            ds = sorted({day(n) for n in new if day(n)})
+            last = ev[-1][0]
+            ds_after = [d for d in ds if d > last]
+            if ds_after:
+                dmax = ds_after[-1]
+                if len(ds_after) > 1:
+                    d0 = ds_after[0]
+                    ev.append((d0, PLACEHOLDER, laws.credit([n for n in new if day(n) == d0]),
                                'two in-force days in one wording'))
-                ev.append((dmax, w['text'], credit([n for n in new if fd.get(note_key(n)) == ds[-1]]), 'notes'))
+                    log['split'].append((k, ds_after))
+                ev.append((dmax, w['text'], laws.credit([n for n in new if day(n) == dmax]), 'notes'))
+            elif ds:
+                # the notes it gained took effect on or before the last change we placed: same day as that
+                log['backwards'].append((k, w['i'], ds, last))
+                ev.append((last, w['text'], laws.credit([n for n in new if day(n)]), 'notes (same day)'))
             else:
-                day = h.sources[w['i']]['date']
-                if day <= last_day:
-                    day = last_day
-                unexplained.append((k, w['i'], 'changed without a new dated note'))
-                ev.append((day, w['text'], [], 'unexplained'))
-        # same day twice: keep the last
-        out = []
+                d = max(act.sources[w['i']]['date'], last)
+                log['unexplained'].append((k, w['i'], d, 'changed without a new dated note'))
+                ev.append((d, w['text'], [], 'unexplained'))
+        out: list[tuple] = []
         for e in ev:
             if out and out[-1][0] == e[0]:
                 out[-1] = (e[0], e[1], sorted(set(out[-1][2]) | set(e[2])), e[3])
             else:
                 out.append(e)
         tl[k] = out
-    h.unexplained = unexplained
-    h.backwards = backwards
     return tl
 
 
-def versions(h: History, tl: dict, act_slug: str) -> list[dict]:
-    days = sorted({e[0] for evs in tl.values() for e in evs})
-    state: dict[str, str] = {}
-    out = []
-    for d in days:
-        units, credits, changed = {}, {}, False
-        for k, evs in tl.items():
-            for e in evs:
-                if e[0] == d:
-                    if state.get(k) != e[1]:
-                        changed = True
-                        if e[2]:
-                            credits[k] = e[2]
-                    state[k] = e[1]
-        for k in sorted(state):
-            if state[k] is not None:
-                lab, kind = h.labels[k]
-                units[k] = {'label': lab, 'kind': kind, 'text': state[k]}
-        if changed or not out:
-            srcs = sorted({h.sources[e_i]['url'] for k, evs in tl.items() for e in evs if e[0] == d
-                           for e_i in [0]})
-            out.append({'from': d, 'units': units, 'credits': credits})
-    return out
-
-
-def finish_versions(h: History, tl: dict) -> list[dict]:
+def build_versions(act: Act, tl: dict) -> list[dict]:
     """Versions as `changes` against the one before (the first holds every unit)."""
     days = sorted({e[0] for evs in tl.values() for e in evs})
     state: dict[str, str | None] = {}
     out = []
     for d in days:
-        changes, credits, srcs = {}, {}, set()
+        changes, credits = {}, {}
         for k in sorted(tl):
             for e in tl[k]:
                 if e[0] != d:
                     continue
                 if state.get(k) != e[1]:
-                    lab, kind = h.labels[k]
+                    lab, kind = act.labels[k]
                     changes[k] = {'label': lab, 'kind': kind, 'text': e[1]} if e[1] is not None else None
                     if e[2]:
                         credits[k] = e[2]
@@ -283,10 +255,22 @@ def finish_versions(h: History, tl: dict) -> list[dict]:
     return out
 
 
+def state_on(versions: list[dict], day: str) -> dict[str, str]:
+    st: dict[str, str] = {}
+    for v in versions:
+        if v['from'] > day:
+            break
+        for k, u in (v.get('units') or v.get('changes') or {}).items():
+            if u is None:
+                st.pop(k, None)
+            else:
+                st[k] = u['text']
+    return st
+
+
 def write_part(name: str, part: dict) -> None:
     OUT.mkdir(exist_ok=True)
     p = OUT / f'{name}.json'
     tmp = p.with_suffix('.json.tmp')
-    tmp.write_text(json.dumps(part, ensure_ascii=False, indent=1, sort_keys=False) + '\n', encoding='utf-8',
-                   newline='\n')
+    tmp.write_text(json.dumps(part, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     os.replace(tmp, p)

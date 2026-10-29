@@ -11,6 +11,7 @@ We keep the notes as data (dates and credits) and strip them, and the markers, f
 from __future__ import annotations
 
 import re
+import unicodedata
 
 SUP = '¹²³⁴⁵⁶⁷⁸⁹⁰'
 LATIN = ['bis', 'ter', 'quater', 'quinquies', 'sexies', 'septies', 'octies', 'novies', 'nonies', 'decies',
@@ -110,9 +111,12 @@ def strip_notes(body: str) -> tuple[str, list[dict]]:
 
 
 def canon(text: str) -> str:
-    """Text compared without Justel's markup: older versions mark changed words with ( ) where newer use [ ]."""
-    t = re.sub(r'[()\[\]]', '', text)
-    return re.sub(r'\s+', ' ', re.sub(r'\s+([.,;:])', r'\1', t)).strip()
+    """Text compared without Justel's typesetting: older versions mark changed words with ( ) where newer use
+    [ ], and Justel later fixed case, accents and final stops ("alinéa 3 abrogé" -> "Alinéa 3 abrogé.")."""
+    t = unicodedata.normalize('NFKD', re.sub(r'[()\[\]]', '', text).lower())
+    t = ''.join(c for c in t if not unicodedata.combining(c))
+    t = re.sub(r'\s+', ' ', re.sub(r'\s+([.,;:])', r'\1', t)).strip()
+    return t.rstrip('.;: ')
 
 
 def art_key(label: str) -> tuple[str, str, str] | None:
