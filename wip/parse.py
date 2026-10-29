@@ -87,6 +87,8 @@ class Act:
             if rename and k in rename:
                 k, lab = rename[k]
             text, notes = lmd.strip_notes(raw)
+            if not text:   # a heading-only block (legalize-be lost the body); not a wording
+                continue
             if k in got and len(text) <= len(got[k][0]):   # legalize-be repeats some articles
                 continue
             got[k] = (text, notes, lab, kind)
@@ -237,6 +239,36 @@ def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tupl
                 out.append(e)
         tl[k] = out
     return tl
+
+
+def drop_missing(act: Act, tl: dict, final_keys: set[str], day: str, log: dict) -> None:
+    """legalize-be's files never drop an article, so provisions renumbered away linger. A provision absent from a
+    full Justel page added last is removed: on the day a provision with its words first appears under another
+    number (renumbered; credited like that appearance), else on that page's day (unexplained)."""
+    for k in sorted(tl):
+        evs = tl[k]
+        if k in final_keys or evs[-1][1] is None:
+            continue
+        words = lmd.canon(evs[-1][1])
+        hit = None
+        for k2 in sorted(final_keys):
+            if k2 == k or k2 not in tl:
+                continue
+            for e in tl[k2]:
+                if e[1] and e[0] >= evs[-1][0] and lmd.canon(e[1]) == words:
+                    hit = (e[0], e[2], k2)
+                    break
+            if hit:
+                break
+        if hit:
+            d = max(hit[0], evs[-1][0])
+            evs.append((d, None, hit[1], f'renumbered as {hit[2]}'))
+            log['renumbered'].append((k, hit[2], d))
+        else:
+            evs.append((max(day, evs[-1][0]), None, [], 'not on the newest full Justel page'))
+            log['dropped'].append((k, day))
+        if len(evs) > 1 and evs[-1][0] == evs[-2][0]:
+            evs[-2:] = [evs[-1]]
 
 
 def build_versions(act: Act, tl: dict) -> list[dict]:
@@ -393,6 +425,14 @@ def common_decisions(log: dict, title: str) -> list[str]:
                  'unexplained (publisher), dated by the Justel version (legalize-be Source-Id date) or capture '
                  'that first shows them: '
                  + '; '.join(f'{k} ({day})' for k, i, day, why in sorted(log['unexplained'])) + '.')
+    if log.get('renumbered'):
+        d.append(f'{title}: {len(log["renumbered"])} provisions renumbered away are removed on the day their words '
+                 'first appear under the new number: '
+                 + '; '.join(f'{k} -> {k2} ({day})' for k, k2, day in sorted(log['renumbered'])) + '.')
+    if log.get('dropped'):
+        d.append(f'{title}: {len(log["dropped"])} provisions that legalize-be still carries are absent from the '
+                 'newest full Justel page and are removed on that page\'s day (unexplained): '
+                 + ', '.join(k for k, day in sorted(log['dropped'])) + '.')
     if log['backwards']:
         d.append(f'{title}: {len(log["backwards"])} wordings gained notes whose in-force day is earlier than a '
                  'change already placed (Justel recorded the change late); they are committed on that later '
@@ -482,6 +522,8 @@ def code_penal() -> dict:
     laws = Laws()
     log = defaultdict(list)
     tl = timeline(act, '1990-04-05', laws, log)
+    if newest:
+        drop_missing(act, tl, act.sources[-1]['units'], newest[0]['day'], log)
     vs = build_versions(act, tl)
     for v in vs:
         v['source_url'] = 'https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel'
