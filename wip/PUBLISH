@@ -1,0 +1,1 @@
+Belgium (gitlaw-BE-2, 2026-10-29): remote main was still the scaffold 74d1975 when checked; all three parts built locally into an empty repo (414 commits), check.py 0 mismatches / 0 trailer errors, --compare identical, parse.py deterministic.
