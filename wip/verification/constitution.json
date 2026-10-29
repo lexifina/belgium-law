@@ -1,6 +1,6 @@
 {
- "captures": 57,
- "exact": 24,
+ "captures": 70,
+ "exact": 37,
  "rows": [
   {
    "capture": "20091216080745",
@@ -536,6 +536,110 @@
    "capture": "20191215124816",
    "day": "2019-12-15",
    "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20191216234519",
+   "day": "2019-12-16",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20200215124023",
+   "day": "2020-02-15",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20201129083030",
+   "day": "2020-11-29",
+   "units": 214,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20210630230408",
+   "day": "2021-06-30",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20211123022209",
+   "day": "2021-11-23",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20220612055444",
+   "day": "2022-06-12",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20221122205755",
+   "day": "2022-11-22",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20230517161904",
+   "day": "2023-05-17",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20231117104709",
+   "day": "2023-11-17",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20240330233459",
+   "day": "2024-03-30",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20241003023753",
+   "day": "2024-10-03",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20250304114810",
+   "day": "2025-03-04",
+   "units": 215,
+   "differ": [],
+   "only_ours": [],
+   "only_justel": []
+  },
+  {
+   "capture": "20250624150912",
+   "day": "2025-06-24",
+   "units": 215,
    "differ": [],
    "only_ours": [],
    "only_justel": []

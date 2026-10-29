@@ -438,8 +438,9 @@ def common_decisions(log: dict, title: str) -> list[str]:
                  'first appear under the new number: '
                  + '; '.join(f'{k} -> {k2} ({day})' for k, k2, day in sorted(log['renumbered'])) + '.')
     if log.get('dropped'):
-        d.append(f'{title}: {len(log["dropped"])} provisions that legalize-be still carries are absent from the '
-                 'newest full Justel page and are removed on that page\'s day (unexplained): '
+        d.append(f'{title}: {len(log["dropped"])} provisions are absent from the newest full Justel page (Justel '
+                 'drops some repealed articles; legalize-be never drops one) and are removed on the day of the first '
+                 'page from which they are missing for good (unexplained): '
                  + ', '.join(k for k, day in sorted(log['dropped'])) + '.')
     if log['backwards']:
         d.append(f'{title}: {len(log["backwards"])} wordings gained notes whose in-force day is earlier than a '
@@ -698,6 +699,11 @@ def code_civil() -> dict:
         'Ancien Code civil: each article\'s successive wordings across the captures are dated by the Justel notes '
         'they gained, as for the Constitution; a capture\'s own date is used only for a change with no new dated '
         'note (unexplained). A change made and replaced between two captures is not seen.',
+        'Ancien Code civil: Justel text 1804032136 ("Livre III - Titre V. Du régime en Communauté") is left out: '
+        'it is the pre-1976 wording of arts. 1399-1581, which Justel keeps beside the current one under the same '
+        'article numbers.',
+        'Ancien Code civil: Justel numbered the adoption articles "344.1" in older pages and "344-1" later; both '
+        'are the same file (art-344-001.md).',
         'Ancien Code civil: the books of the new Code civil replace parts of it; Justel marks the replaced '
         'articles repealed, with the in-force day, and they read "(Abrogé)" from that day.',
         'Code civil (2019-): each book is read from Justel\'s consolidated page of that book (Internet Archive '

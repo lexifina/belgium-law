@@ -39,7 +39,7 @@ COURT = re.compile(r"arr[êe]t\s+n°\s*(\d+)/(\d{4})\s+du\s+(\d\d)-(\d\d)-(\d{4}
                    r"(?:\(M\.B\.\s*(\d\d)-(\d\d)-(\d{4})[^)]*\))?\s*,?\s*la Cour (?:constitutionnelle|d.arbitrage) "
                    r"a annul[ée]", re.I)
 HEAD = re.compile(r'^(#{1,6})\s+(.*)$')
-ART = re.compile(r'^Article\s+(\d+(?:\.\d+)+[A-Za-z]*(?:\s*/\s*\d+)*|[^\s.]+(?:\s*/\s*\d+)*)\.*\s*(.*)$')
+ART = re.compile(r'^Article\s+(\d+(?:[.-]\d+)+[A-Za-z]*(?:\s*/\s*\d+)*|[^\s.]+(?:\s*/\s*\d+)*)\.*\s*(.*)$')
 
 
 def note_info(inner: str) -> dict | None:
@@ -162,8 +162,9 @@ def art_key(label: str) -> tuple[str, str, str] | None:
         for part in sl.split('/')[1:]:
             key += f'-{int(part):02d}'
         return key, f'Art. {num}{suf.lower()}{sl}', 'art'
-    m = re.fullmatch(r'(\d+(?:\.\d+)+)([A-Za-z]*)((?:/\d+)*)', lab)
-    if m:   # the new Code civil numbers articles by book: 5.201, 9.1.52, 2.3.87
+    # the new Code civil numbers articles by book (5.201, 9.1.52, 2.3.87); the old one has 344.1, later "344-1"
+    m = re.fullmatch(r'(\d+(?:\.\d+)+)([A-Za-z]*)((?:/\d+)*)', re.sub(r'^(\d+)-(?=\d)', r'\1.', lab))
+    if m:
         nums, suf, sl = m.groups()
         parts = nums.split('.')
         key = 'art-' + '-'.join(parts[:-1]) + f'-{int(parts[-1]):03d}'
