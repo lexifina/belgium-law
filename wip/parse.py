@@ -101,16 +101,16 @@ class Act:
         src['units'] = set(got)
         return set(got)
 
-    def final_dates(self) -> dict:
-        """In-force day of every note, from its latest appearance (Justel corrected some dates later)."""
+    def final_dates(self, k: str) -> dict:
+        """In-force day of every note in unit k, from its latest appearance there (Justel corrected some dates
+        later; the same amending article can carry different days in different provisions)."""
         out = {}
-        for s in self.seq.values():
-            for w in s:
-                for n in w['notes'] + w.get('notes_last', []):
-                    if n['date']:
-                        out[note_key(n)] = n['date']
-                    elif n['undetermined']:
-                        out[note_key(n)] = None
+        for w in self.seq[k]:
+            for n in w['notes'] + w.get('notes_last', []):
+                if n['date']:
+                    out[note_key(n)] = n['date']
+                elif n['undetermined']:
+                    out[note_key(n)] = None
         return out
 
     def normalise_markup(self) -> int:
@@ -167,13 +167,14 @@ def timeline(act: Act, start: str, laws: Laws, log: dict) -> dict[str, list[tupl
       latest note's day, when the wording arrives credited to that note's act.
     - A change with no new dated note is "unexplained" (publisher), dated by the source that first shows it.
     """
-    fd = act.final_dates()
     tl: dict[str, list] = {}
 
-    def day(n):
-        return fd.get(note_key(n))
-
     for k, s in act.seq.items():
+        fd = act.final_dates(k)
+
+        def day(n):
+            return fd.get(note_key(n))
+
         ev: list[tuple] = []
         first = s[0]
         late = [n for n in first['notes'] if day(n) and day(n) > start]
