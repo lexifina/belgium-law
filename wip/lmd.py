@@ -35,6 +35,9 @@ PARENNOTE = re.compile(r'\((?:voir |NOTE|ACC |L \d|L \[|pour le livre)[^()]*(?:\
 # an old-style note in parentheses: "(inséré par L 1996-03-25/34, art. 1, En vigueur: 1996-04-29)"
 PARENCHANGE = re.compile(r'\(\s*((?:ins[ée]r[ée]e?s?|abrog[ée]e?s?|remplac[ée]e?s?|modifi[ée]e?s?|r[ée]tablie?s?)'
                          r'\s+par\s+(?:L|LS|AR)\s+\d{4}-\d\d-\d\d/\d+[^()]*)\)', re.I)
+COURT = re.compile(r"arr[êe]t\s+n°\s*(\d+)/(\d{4})\s+du\s+(\d\d)-(\d\d)-(\d{4})\s*"
+                   r"(?:\(M\.B\.\s*(\d\d)-(\d\d)-(\d{4})[^)]*\))?\s*,?\s*la Cour (?:constitutionnelle|d.arbitrage) "
+                   r"a annul[ée]", re.I)
 HEAD = re.compile(r'^(#{1,6})\s+(.*)$')
 ART = re.compile(r'^Article\s+([^\s.]+(?:\s*/\s*\d+)*)\.*\s*(.*)$')
 
@@ -63,9 +66,21 @@ def note_info(inner: str) -> dict | None:
             'repeal': bool(re.match(r'\s*abrog[ée]', low)), 'raw': s.strip()}
 
 
+def court_notes(s: str) -> list[dict]:
+    """Constitutional Court annulments Justel notes in the text: the annulled words are printed in italics."""
+    out = []
+    for m in COURT.finditer(LINK.sub(r'\1', s).replace('**', '')):
+        num, yr, d, mo, y = m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)
+        mb = f'{m.group(8)}-{m.group(7)}-{m.group(6)}' if m.group(6) else None
+        out.append({'kind': 'ACC', 'ref': f'{yr}/{int(num):03d}', 'vnum': None, 'date': mb or f'{y}-{mo}-{d}',
+                    'ruling': f'{y}-{mo}-{d}', 'published': mb, 'undetermined': False, 'insert': False,
+                    'repeal': False, 'court': True, 'raw': m.group(0)})
+    return out
+
+
 def strip_notes(body: str) -> tuple[str, list[dict]]:
     """Text without Justel's notes and markers, plus the notes found (in order)."""
-    notes = []
+    notes = court_notes(body)
     out_lines = []
     in_foot = False
     for line in body.split('\n'):
@@ -75,16 +90,20 @@ def strip_notes(body: str) -> tuple[str, list[dict]]:
         if in_foot:
             if not line.strip():
                 continue
-            if FOOTNOTE.match(line.strip()):
-                inner = line.strip()[line.strip().index('<') + 1:-1]
-                n = note_info(inner)
-                if n:
-                    n['foot'] = True
-                    notes.append(n)
+            if re.match(r'\(\d+\)', line.strip()):   # a footnote: a dated note, or Justel's remark
+                for inner in re.findall(r'<([^<>]*)>', line):
+                    n = note_info(inner)
+                    if n:
+                        n['foot'] = True
+                        notes.append(n)
                 continue
             in_foot = False
         out_lines.append(line)
     s = '\n'.join(out_lines)
+    # annulled words (italics) go when the provision carries the Court's annulment note; else only the asterisks
+    if any(n.get('court') for n in notes):
+        s = re.sub(r'(?<!\*)\*(?!\*)[^*]+?(?<!\*)\*(?!\*)', ' ', s, flags=re.S)
+    s = re.sub(r'(?<!\*)\*(?!\*)', '', s)
 
     def drop(m):
         n = note_info(m.group(1))

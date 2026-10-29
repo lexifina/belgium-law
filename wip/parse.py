@@ -143,6 +143,18 @@ class Laws:
         if n['ref'].endswith('/?'):
             return None
         k = f'{n["kind"].lower()}-{n["ref"].replace("/", "-")}'
+        if n.get('court'):
+            if k not in self.laws:
+                yr, num = n['ref'].split('/')
+                self.laws[k] = {'label': f'C. const. {int(num)}/{yr}', 'kind': 'court',
+                                'title': f'Cour constitutionnelle, arrêt n° {int(num)}/{yr} du {n["ruling"]}',
+                                'enacted': n['ruling'], 'published': n['published'],
+                                'url': f'https://www.const-court.be/public/f/{yr}/{yr}-{int(num):03d}f.pdf',
+                                'temporary_until': None, 'restores': None,
+                                'note': 'The Constitutional Court annulled words of this provision; Justel prints '
+                                        'them in italics, and they are removed here from the day the ruling was '
+                                        'published in the Moniteur belge.'}
+            return k
         if k not in self.laws:
             kind = LAW_KINDS.get(n['kind'], 'law')
             d, num = n['ref'].split('/')

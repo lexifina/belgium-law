@@ -21,8 +21,10 @@ def to_md(raw: bytes) -> str:
         return ''
     t = t[min(a):]
     # the text ends where the page's next box (new layout) or the table cell (old layout) ends
-    ends = [j for j in (t.find('<div id="list-title-sw_'), t.find('</div>'), t.lower().find('</th>'),
-                        t.lower().find('<a name="modification"')) if j > 0]
+    first = max(t.find("<A NAME='Art."), 0)
+    low = t.lower()
+    ends = [j for j in (t.find('<div id="list-title-sw_', first), t.find('</div>', first), low.find('</th>', first),
+                        low.find('<a name="modification"', first)) if j > 0]
     if ends:
         t = t[:min(ends)]
     t = re.sub(r'<sup>(?:(?!</sup>).)*?<span[^>]*>\s*(\d+)\s*</span>(?:(?!</sup>).)*?</sup>',
@@ -34,6 +36,7 @@ def to_md(raw: bytes) -> str:
                r"(?:<A [^>]*>)?\s*[^<]*?(?:</A>)?\s*\.",
                lambda m: f'\n\n##### Article {m.group(1)}. ', t, flags=re.I)
     t = re.sub(r"<A NAME='LNK\d+'[^>]*>([^<]*)</A>", lambda m: f'\n\n### {m.group(1)}', t, flags=re.I)
+    t = re.sub(r'</?(?:i|em)>', '*', t, flags=re.I)   # italics: words annulled by the Constitutional Court
     t = re.sub(r'<BR\s*/?>', '\n\n', t, flags=re.I)
     t = re.sub(r'<[^<>]+>', '', t)
     t = htmlmod.unescape(t).replace(' ', ' ')
