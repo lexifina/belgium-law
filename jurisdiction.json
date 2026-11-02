@@ -1,0 +1,11 @@
+{
+  "path": "be",
+  "code": "BE",
+  "name": "Belgium",
+  "level": "country",
+  "repo": "https://github.com/lexifina/belgium-law",
+  "build": "built: Constitution 1994-2026 (37 versions) and in Dutch 2008-2025 (17), Code pénal 1990-2026 (178), ancien Code civil 2009-2026 (114), Code civil 2019- (9), titre préliminaire du Code de procédure pénale 1993-2024 (60), Code d'instruction criminelle livre premier 2009-2024 (78), livre II titre Ier 2009-2024 (40), titre II 2009-2022 (25), titre III 2009-2019 (10), titre IV 2009-2024 (21), titres V-VI 2009-2024 (5) and titre VII 2009-2024 (22), in Dutch livre II titre II 2014-2022 (18), titre III 2019 (1) and titres V-VI 2015-2016 (3), Code judiciaire 1985-2026 (618), Code de la nationalité belge 1991-2025 (28), Code électoral 2003-2024 (36), Code de droit international privé 2004-2024 (25), loi du 30 juillet 2018 sur la protection des données 2018-2025 (8), loi du 4 août 1996 sur le bien-être des travailleurs 1996-2024 (52), loi sur le travail du 16 mars 1971 1985-2026 (54), loi du 3 juillet 1978 sur les contrats de travail 1981-2026 (116), loi du 15 décembre 1980 sur les étrangers 1991-2025 (131), loi du 10 avril 1971 sur les accidents du travail 1981-2024 (109), Code des sociétés et des associations 2019-2026 (32), Code de droit économique 2013-2026 (162); text from legalize-be and archived Justel pages, dated by Justel's notes",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 3
+}

@@ -1,0 +1,22 @@
+The legal texts in this repository are official acts of the Kingdom of Belgium. Official acts of the authorities
+are not protected by copyright in Belgium (Code de droit économique, art. XI.172, § 2).
+
+They come from Justel, the consolidated legislation of the SPF Justice (Moniteur belge / Belgisch Staatsblad):
+
+  Source: Justel, https://www.ejustice.just.fgov.be/cgi_loi/welcome.pl?language=fr, read through
+  - legalize-be (Legalize, https://github.com/legalize-dev/legalize-be, commit
+    da37dfb18b17b06f8f8dc74c0d724cca22292bee), whose data licence is "Licence ouverte / open data fédéral belge
+    (CC0 par défaut)" and whose pipeline is under the MIT License (https://github.com/legalize-dev/legalize-pipeline);
+    each of its files names its official Justel source in its YAML front matter;
+  - Internet Archive captures of Justel pages (https://web.archive.org/), retrieved 28-29 October 2026.
+
+Changes made by Lexifina: each version was converted to one Markdown file per article, one paragraph per line;
+Justel's inline notes and change markers were removed from the text and used to date and credit each change;
+typesetting differences between Justel versions were normalised to Justel's latest rendering; words annulled by
+the Constitutional Court were removed from the day the ruling was published; and the versions were arranged as git
+commits credited to the acts that made each change. The wording of the law was not changed. Neither the SPF
+Justice nor Legalize endorses this repository. It is not an official publication.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
