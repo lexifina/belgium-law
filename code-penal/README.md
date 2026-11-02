@@ -1,6 +1,6 @@
 # Code pénal (8 juin 1867)
 
-C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel>
+C. pén. · 175 versions, from 1990-04-05 (latest in force: 2026-05-03) · <https://www.ejustice.just.fgov.be/eli/loi/1867/06/08/1867060850/justel>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,9 +27,9 @@ C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <http
 | Art. 20 | [art-020.md](art-020.md) | 1 | 1996-08-11 |
 | Art. 21 | [art-021.md](art-021.md) | 3 | 2007-01-15 |
 | Art. 22 | [art-022.md](art-022.md) | 1 | 2004-12-19 |
-| Art. 23 | [art-023.md](art-023.md) | 2 | 2004-12-19 |
+| Art. 23 | [art-023.md](art-023.md) | 1 | 2004-12-19 |
 | Art. 24 | [art-024.md](art-024.md) | 2 | 2007-01-15 |
-| Art. 25 | [art-025.md](art-025.md) | 5 | 2021-02-24 |
+| Art. 25 | [art-025.md](art-025.md) | 5 | 2018-01-12 |
 | Art. 26 | [art-026.md](art-026.md) | 1 | 1996-08-11 |
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
@@ -50,15 +50,15 @@ C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <http
 | Art. 36 | [art-036.md](art-036.md) | 1 | 1999-07-02 |
 | Art. 37 | [art-037.md](art-037.md) | 1 | 1999-07-02 |
 | Art. 37bis | [art-037-bis.md](art-037-bis.md) | 1 | 1999-07-02 |
-| Art. 37decies | [art-037-decies.md](art-037-decies.md) | 1 | 2024-02-05 |
-| Art. 37novies | [art-037-novies.md](art-037-novies.md) | 1 | 2024-02-05 |
+| Art. 37decies | [art-037-decies.md](art-037-decies.md) | 2 | 2024-02-05 |
+| Art. 37novies | [art-037-novies.md](art-037-novies.md) | 2 | 2024-02-05 |
 | Art. 37octies | [art-037-octies.md](art-037-octies.md) | 4 | 2024-02-05 |
-| Art. 37quater | [art-037-quater.md](art-037-quater.md) | 3 | 2016-02-19 |
-| Art. 37quinquies | [art-037-quinquies.md](art-037-quinquies.md) | 6 | 2022-06-01 |
-| Art. 37septies | [art-037-septies.md](art-037-septies.md) | 4 | 2019-06-03 |
-| Art. 37sexies | [art-037-sexies.md](art-037-sexies.md) | 3 | 2016-02-19 |
+| Art. 37quater | [art-037-quater.md](art-037-quater.md) | 3 | 2016-05-01 |
+| Art. 37quinquies | [art-037-quinquies.md](art-037-quinquies.md) | 7 | 2022-06-01 |
+| Art. 37septies | [art-037-septies.md](art-037-septies.md) | 3 | 2019-06-03 |
+| Art. 37sexies | [art-037-sexies.md](art-037-sexies.md) | 2 | 2016-05-01 |
 | Art. 37ter | [art-037-ter.md](art-037-ter.md) | 6 | 2022-06-01 |
-| Art. 37undecies | [art-037-undecies.md](art-037-undecies.md) | 1 | 2024-02-05 |
+| Art. 37undecies | [art-037-undecies.md](art-037-undecies.md) | 2 | 2024-02-05 |
 | Art. 38 | [art-038.md](art-038.md) | 1 | 2002-01-01 |
 | Art. 39 | [art-039.md](art-039.md) | 0 |  |
 | Art. 40 | [art-040.md](art-040.md) | 0 |  |
@@ -86,9 +86,9 @@ C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <http
 | Art. 56 | [art-056.md](art-056.md) | 1 | 2016-02-29 |
 | Art. 57 | [art-057.md](art-057.md) | 0 |  |
 | Art. 57bis | [art-057-bis.md](art-057-bis.md) | 1 | 2014-05-24 |
-| Art. 58 | [art-058.md](art-058.md) | 2 | 2016-08-11 |
-| Art. 59 | [art-059.md](art-059.md) | 2 | 2016-08-11 |
-| Art. 60 | [art-060.md](art-060.md) | 4 | 2018-10-29 |
+| Art. 58 | [art-058.md](art-058.md) | 2 | 2016-05-01 |
+| Art. 59 | [art-059.md](art-059.md) | 2 | 2016-05-01 |
+| Art. 60 | [art-060.md](art-060.md) | 4 | 2018-01-12 |
 | Art. 61 | [art-061.md](art-061.md) | 1 | 2019-06-03 |
 | Art. 62 | [art-062.md](art-062.md) | 1 | 2003-03-13 |
 | Art. 63 | [art-063.md](art-063.md) | 1 | 2003-03-13 |
@@ -558,7 +558,7 @@ C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <http
 | Art. 405bis | [art-405-bis.md](art-405-bis.md) | 3 | 2012-02-02 |
 | Art. 405quater | [art-405-quater.md](art-405-quater.md) | 6 | 2024-02-05 |
 | Art. 405ter | [art-405-ter.md](art-405-ter.md) | 2 | 2012-02-02 |
-| Art. 406 | [art-406.md](art-406.md) | 2 | 2018-02-15 |
+| Art. 406 | [art-406.md](art-406.md) | 2 | 2018-03-15 |
 | Art. 407 | [art-407.md](art-407.md) | 1 | 2003-03-13 |
 | Art. 408 | [art-408.md](art-408.md) | 1 | 2003-03-13 |
 | Art. 409 | [art-409.md](art-409.md) | 4 | 2024-02-05 |
@@ -862,7 +862,7 @@ C. pén. · 178 versions, from 1990-04-05 (latest in force: 2026-05-03) · <http
 | Art. 544 | [art-544.md](art-544.md) | 0 |  |
 | Art. 545 | [art-545.md](art-545.md) | 1 | 2002-01-01 |
 | Art. 546 | [art-546.md](art-546.md) | 1 | 2002-01-01 |
-| Art. 546/1 | [art-546-01.md](art-546-01.md) | 4 | 2024-06-01 |
+| Art. 546/1 | [art-546-01.md](art-546-01.md) | 4 | 2024-07-04 |
 | Art. 546/2 | [art-546-02.md](art-546-02.md) | 2 | 2026-01-19 |
 | Art. 546/3 | [art-546-03.md](art-546-03.md) | 1 | 2016-06-12 |
 | Art. 547 | [art-547.md](art-547.md) | 1 | 2003-03-13 |
