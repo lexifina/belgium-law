@@ -1,0 +1,174 @@
+{
+ "parts": {
+  "10-constitution.json": {
+   "acts": [
+    "constitution"
+   ],
+   "sha256": "80afe3efea54e382a4f6d08c545bbf47f4d69bc8b47054e98859c26f629cc68f"
+  },
+  "20-code-penal.json": {
+   "acts": [
+    "code-penal"
+   ],
+   "sha256": "d88ca44c98509c7eb786175d887a1c166de68e10896d99dbace97643c84c06b0"
+  },
+  "30-code-civil.json": {
+   "acts": [
+    "ancien-code-civil",
+    "code-civil"
+   ],
+   "sha256": "e96b34fcd056b2fee10abe7894a5f08dc0ad6005b447d6f16a3282186363a232"
+  },
+  "40-titre-preliminaire-cpp.json": {
+   "acts": [
+    "titre-preliminaire-code-procedure-penale"
+   ],
+   "sha256": "dbda421a3bdd8e66b2e12e222b3cefe9f2741328c17b2102534a461d4b56ffb2"
+  },
+  "41-cic-livre-1.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-1"
+   ],
+   "sha256": "7c2c3f5583c602331aa884b8212deac96fbb4ecf07706eb2f0f0f450dabe8392"
+  },
+  "42-cic-livre-2-titre-1.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titre-1"
+   ],
+   "sha256": "4c52b71572e2492c862cebed886c21501c2488b2dac753c9d49b0b8847483b40"
+  },
+  "43-cic-livre-2-titre-2.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titre-2"
+   ],
+   "sha256": "5690f3a0a29c621c5be86f877a4b6037c5603d75375e59c7d7e0e184bc8f5f0d"
+  },
+  "44-cic-livre-2-titre-3.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titre-3"
+   ],
+   "sha256": "da2ed8a13041893fb686750a2ecc1bb2b9686cfc283256da43a771e2a83a54e5"
+  },
+  "45-cic-livre-2-titre-4.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titre-4"
+   ],
+   "sha256": "04cbd28fb1de29411cb2b0363d677d78b599a7ab7c113d84fef0bbef6acfb4f5"
+  },
+  "46-cic-livre-2-titres-5-6.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titres-5-6"
+   ],
+   "sha256": "6a61f0fc33a8ab820bec7bf5ddafb485b1a01acfb8287a22c85e223ce94a0370"
+  },
+  "47-cic-livre-2-titre-7.json": {
+   "acts": [
+    "code-instruction-criminelle-livre-2-titre-7"
+   ],
+   "sha256": "7334f1cb3fefb3e2c2146034223dea1de898c1c883c013f0b9a6d614d7dc8398"
+  },
+  "50-code-judiciaire.json": {
+   "acts": [
+    "code-judiciaire"
+   ],
+   "sha256": "14c2284237d4bff39005beb708ef2e89ceb483425d5d8af6c05ebd3c4f817a12"
+  },
+  "60-code-nationalite.json": {
+   "acts": [
+    "code-nationalite"
+   ],
+   "sha256": "a1df06dd19ff1dcf967a9071f72ebcd594f0a308292ab274900ed6e69f62c215"
+  },
+  "61-code-electoral.json": {
+   "acts": [
+    "code-electoral"
+   ],
+   "sha256": "de54737138eab20bb4ca37f556aaa7359faedf29c6d0bae5b2cd12a19012f189"
+  },
+  "62-code-dip.json": {
+   "acts": [
+    "code-droit-international-prive"
+   ],
+   "sha256": "dfe413184d88658ea8f1224fd486669fdcdddd3dda286dde1bc5ba451cb788ef"
+  },
+  "63-protection-donnees.json": {
+   "acts": [
+    "loi-protection-donnees"
+   ],
+   "sha256": "a2e246612a174c547fa7c801aca450430d60715dc6af340af526a94ec7f0cd44"
+  },
+  "70-contrats-travail.json": {
+   "acts": [
+    "loi-contrats-travail"
+   ],
+   "sha256": "9863ac34075ddf28a22d09276018ce25ed4448487733aa1396ba337a47248094"
+  },
+  "71-bien-etre.json": {
+   "acts": [
+    "loi-bien-etre-travailleurs"
+   ],
+   "sha256": "a9fd4ec6672736594f85ac4b78dfe501a5a4fa9bca99e79ca41c756bad233a0d"
+  },
+  "72-loi-travail.json": {
+   "acts": [
+    "loi-sur-le-travail"
+   ],
+   "sha256": "d5865659142a78b2df1143e851164d4896025c9df715b9e86c4816c3e2a6567f"
+  },
+  "73-etrangers.json": {
+   "acts": [
+    "loi-etrangers"
+   ],
+   "sha256": "8c2682db40d5c58b4981cb52b1c6f878d7688e67888ce45ebee200977c5f7f47"
+  },
+  "74-accidents-travail.json": {
+   "acts": [
+    "loi-accidents-travail"
+   ],
+   "sha256": "97137d048f7f84e87ef49feea890d8d7f10dd52749443b0afbabaeb77e3cd6dc"
+  },
+  "75-code-societes.json": {
+   "acts": [
+    "code-societes-associations"
+   ],
+   "sha256": "0f79cedf19ea3093d60e029007cf68238450181628fcb82a0cbcfe99739c39cc"
+  },
+  "76-code-droit-economique.json": {
+   "acts": [
+    "code-droit-economique"
+   ],
+   "sha256": "5383740919eeaff36347743a7b1bc069b4440ca6adef76d07f8dd132b6c3e07a"
+  },
+  "80-grondwet.json": {
+   "acts": [
+    "grondwet"
+   ],
+   "sha256": "1880b661d456d0aafcef2419986b0f87215a47c3e49e30b6c8a6ac48bcfd7020"
+  },
+  "81-strafwetboek.json": {
+   "acts": [
+    "strafwetboek"
+   ],
+   "sha256": "3fe5a823569545749d4eb00366a5dc418c4f75bc352e11fa39ada9c4b36a2468"
+  },
+  "85-sv-boek-2-titel-2.json": {
+   "acts": [
+    "wetboek-van-strafvordering-boek-2-titel-2"
+   ],
+   "sha256": "2a79ec1fcfb4f98f9c90783da92f6cd1775b70b8cb98b364140d9cc5cda60735"
+  },
+  "86-sv-boek-2-titel-3.json": {
+   "acts": [
+    "wetboek-van-strafvordering-boek-2-titel-3"
+   ],
+   "sha256": "4e4d2853aab483df8c72e7dec1308c97dd7a393326b1b8e73f7770fa61bb6442"
+  },
+  "88-sv-boek-2-titels-5-6.json": {
+   "acts": [
+    "wetboek-van-strafvordering-boek-2-titels-5-6"
+   ],
+   "sha256": "01c696cbab79be5c6554f7fa10b5b060e56ad69dbf2d9acecd84a82f2a4636d3"
+  }
+ },
+ "schema": 1
+}
