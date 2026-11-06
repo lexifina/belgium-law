@@ -1,5 +1,7 @@
 # Belgium: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Belgium's national law, which global-law reads at `belgium/national/acts/`.
+
 The law of Belgium as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day. The text is French; the Constitution and three texts of the Code d'instruction criminelle (livre II, titres II, III and V-VI) are also given in Dutch (`grondwet/` and `wetboek-van-strafvordering-*/`, from Justel's Dutch pages). Dutch and German are equally official; the other Dutch texts and the German texts are not built yet.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `be/`.
