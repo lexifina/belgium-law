@@ -1,0 +1,2 @@
+La marque des institutions d'essai visées à l'article 3 est constituée par un symbole. La plus grande netteté de frappe est imposée.
+Préalablement à tout emploi d'une telle marque, son empreinte doit être approuvée par le Commissaire des monnaies. A cette fin, une empreinte sur une planche de cuivre qui y est destinée, et trois reproductions de cette empreinte doivent être déposées auprès du Commissaire des monnaies. Ce dépôt de l'empreinte et son approbation ne portent pas préjudice aux droits des tiers.
