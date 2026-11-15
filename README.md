@@ -30,7 +30,8 @@ De tekst is Frans, zoals Justel hem afdrukt; de Grondwet (`grondwet/`), de Code 
 
 - **[Vraag Claude naar het Belgische recht](https://global-law.lexifina.com/v1/try_claude?country=belgium)**: opent Claude met een eerste vraag klaar.
 - **[Vraag het ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=belgium)**: dezelfde vraag in ChatGPT.
-- **[Roep de API aan in je browser](https://global-law.lexifina.com/v1/search_law?query=vacances+annuelles&jurisdictions=belgium)**: een zoekopdracht in het Belgische recht naar "vacances annuelles" (jaarlijkse vakantie), als JSON. De documentatie staat [hier](https://lexifina.com/api/global-law).
+- **[Zoek in het Belgische recht op onze site](https://lexifina.com/law?country=belgium&q=vacances+annuelles)**: een zoekopdracht naar "vacances annuelles" (jaarlijkse vakantie), met de tekst van elke bepaling en de versies ervan, zonder account.
+- **[REST-API voor ontwikkelaars](https://global-law.lexifina.com/v1/search_law?query=vacances+annuelles&jurisdiction=belgium)**: dezelfde zoekopdracht als JSON, zonder sleutel. De documentatie staat [hier](https://lexifina.com/api/global-law).
 
 Beide assistenten lezen het archief via de gratis connector Global law (MCP, `https://global-law.lexifina.com/mcp`); de eerste keer geeft de chat je de link om hem toe te voegen. Vraag in het Frans, in het Nederlands of in het Engels.
 
