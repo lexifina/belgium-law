@@ -61,6 +61,7 @@ Each change is credited to the act that made it, with Justel's citation (`L 2014
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus: 2,095 versions, no mismatch.
 - A second build from the same corpus gave identical hashes.
 - History is append-only: no merge commits, no dates going backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Belgian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

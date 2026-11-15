@@ -61,6 +61,7 @@ Elke wijziging wordt toegeschreven aan de akte die haar aanbracht, met de citati
 - `tools/check_repo.py` leest elke versie uit git terug op de dag van inwerkingtreding en op de dag ervoor, en beide moeten overeenkomen met het corpus: 2.095 versies, geen enkele afwijking.
 - Een tweede build uit hetzelfde corpus gaf identieke hashes.
 - De geschiedenis wordt alleen aangevuld: geen merge-commits, geen datums die teruglopen, niets gedateerd in de toekomst, en de trailers van elke commit zijn leesbaar.
+- [vulnerabilities/](vulnerabilities/): mogelijke redactionele fouten in het Belgische recht, gevonden door de detectoren van global-law en met de hand gecontroleerd.
 
 ## Wat het niet toont
 
