@@ -1,5 +1,7 @@
 # How this repository was made (Belgium)
 
+**Layout change (2026-11-15).** After this build the act folders moved into one folder per kind of act (`code/`, `wetboek/`, `loi/`, …), and the Code judiciaire, the ancien Code civil, the Code de droit économique and the Code des sociétés et des associations were split into sub-folders; no law text changed. The act names below are unchanged; [`data/paths.json`](data/paths.json) gives each one's folder.
+
 This file is written by the build on 2026-11-02, the day the source data was retrieved.
 
 ## Sources

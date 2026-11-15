@@ -38,13 +38,17 @@ def branches() -> tuple[str, str | None]:
 
 
 def history(branch: str, path: str, repo=None) -> list[tuple[str, str, str]]:
-    """(commit, in-force day, author) for every commit touching path, newest first."""
-    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch, '--', path)
+    """(commit, in-force day, author) for every commit touching path, newest first. With the layout map on, under
+    today's path and the path before the move, and without the layout commit (Kind: documentation: it moves folders,
+    it changes no law)."""
+    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an'
+            + ('%x09%(trailers:key=Kind,valueonly,separator=)' if LAYOUT else ''), branch, '--',
+            *dict.fromkeys((path, to_old(path))))
     out = git(*args) if repo is None else _g(repo, *args)
     rows = []
     for line in out.splitlines():
-        h, d, a = (line.split('\t') + ['', ''])[:3]
-        if d.strip():
+        h, d, a, k = (line.split('\t') + ['', '', ''])[:4]
+        if d.strip() and not (LAYOUT and 'documentation' in k):
             rows.append((h, d.strip(), a))
     return rows
 
@@ -70,13 +74,101 @@ def _under(p: str, base: str) -> bool:
 
 
 def _ls(repo, commit: str, path: str) -> dict[str, str]:
-    """{path: blob id} of every file at or under `path` in `commit`."""
+    """{path: blob id} of every file at or under `path` in `commit`. With the layout map on (the command line), a
+    commit from before the layout change is read at the path the act had then, and its files named by today's paths."""
     out = {}
-    for rec in _g(repo, '-c', 'core.quotePath=false', 'ls-tree', '-r', '-z', commit, '--', path).split('\0'):
+    for rec in _g(repo, '-c', 'core.quotePath=false', 'ls-tree', '-r', '-z', commit, '--',
+                  *dict.fromkeys((path, to_old(path)))).split('\0'):
         meta, _, p = rec.partition('\t')
         if p and meta.split()[1] == 'blob':
-            out[p] = meta.split()[2]
+            out[to_new(p)] = meta.split()[2]
     return out
+
+
+# Layout change (data/paths.json, 2026-11-15): act folders moved into one folder per kind (code/, wetboek/, loi/, ...)
+# and acts of more than 1,000 articles split into sub-folders. Commits before the change hold the old paths; with the
+# map on, history() and _ls() read both, so a day before the change reads as it did. Act names stay as they were
+# (`code-penal` in Corrects trailers and data/versions.json); either the name or the folder can be given. Off unless
+# main() turns it on, so tools/check_repo.py reads the history exactly as built.
+LAYOUT: dict = {}
+
+
+def _load_layout(ref: str = 'main') -> None:
+    """data/paths.json: "paths" {act id: folder} (as in gitlaw_common's on_layout.py), "split" {act id: rule} for the
+    acts whose article files sit in sub-folders, "moved" {folder before: folder now} for other folders."""
+    import json
+    try:
+        doc = json.loads(git('show', f'{ref}:data/paths.json'))
+    except (subprocess.CalledProcessError, ValueError):
+        return
+    split = doc.get('split') or {}
+    LAYOUT['acts'] = {a: {'path': p, 'split': split.get(a)} for a, p in (doc.get('paths') or {}).items()}
+    LAYOUT['moved'] = dict(sorted((doc.get('moved') or {}).items(), key=lambda kv: -len(kv[0])))  # longest first
+    LAYOUT['tops'] = {k.split('/', 1)[0] for k in [*LAYOUT['acts'], *LAYOUT['moved']]}
+
+
+def _bucket(split: str | None, stem: str) -> str | None:
+    """The sub-folder of a split act's article file: by 500 article numbers, or by book (livre)."""
+    if split == 'range500':
+        m = re.match(r'art-(\d+)', stem)
+        if m:
+            lo = int(m.group(1)) // 500 * 500
+            return f'art-{max(lo, 1):04d}-{lo + 499:04d}'
+    elif split == 'livre-roman':
+        m = re.match(r'art-([ivxlc]+)-', stem)
+        if m:
+            return f'livre-{m.group(1)}'
+    elif split == 'livre':
+        m = re.match(r'art-(\d+)-', stem)
+        if m:
+            return f'livre-{int(m.group(1)):02d}'
+    return None
+
+
+def to_new(p: str) -> str:
+    """Today's path of a path (file or folder) as it was before the layout change."""
+    if not LAYOUT:
+        return p
+    top = p.split('/', 1)[0]
+    if top not in LAYOUT['tops']:
+        return p
+    for old, a in LAYOUT.get('acts', {}).items():
+        if _under(p, old):
+            rest = p[len(old):]
+            if a.get('split') and rest.count('/') == 1 and rest.endswith('.md') and rest != '/README.md':
+                b = _bucket(a['split'], rest[1:-3])
+                if b:
+                    return f'{a["path"]}/{b}{rest}'
+            return a['path'] + rest
+    moved = LAYOUT.get('moved', {})
+    for old in moved:
+        if _under(p, old):
+            return moved[old] + p[len(old):]
+    return p
+
+
+def to_old(p: str) -> str:
+    """The path a path of today's layout had before the change (itself if it did not move)."""
+    best = None
+    for old, a in LAYOUT.get('acts', {}).items():
+        if _under(p, a['path']) and (best is None or len(a['path']) > len(best[1])):
+            best = (old, a['path'], a.get('split'))
+    for old, new in LAYOUT.get('moved', {}).items():
+        if _under(p, new) and (best is None or len(new) > len(best[1])):
+            best = (old, new, None)
+    if not best:
+        return p
+    old, new, split = best
+    parts = p[len(new):].split('/')[1:]
+    if split and len(parts) == 2 and parts[1].endswith('.md') and _bucket(split, parts[1][:-3]) == parts[0]:
+        parts = parts[1:]
+    return '/'.join([old, *parts])
+
+
+def act_path(act: str) -> str:
+    """An act's folder today, given its name (`code-penal`) or its folder (`code/penal`)."""
+    act = act.rstrip('/')
+    return LAYOUT.get('acts', {}).get(act, {}).get('path') or to_new(act)
 
 
 def corrections(ref: str, repo=None) -> list[dict]:
@@ -100,15 +192,15 @@ def corrections(ref: str, repo=None) -> list[dict]:
                 a, _, b = parts[1].partition('..')
                 ranges[parts[0]] = (a, b or None)
         acts = list(ranges)
-        listed = [p.strip() for p in named.split('\x1f') if p.strip()]
-        given = [p.strip().rstrip('/') for p in apath.split('\x1f') if p.strip()]
+        listed = [to_new(p.strip()) for p in named.split('\x1f') if p.strip()]
+        given = [to_new(p.strip().rstrip('/')) for p in apath.split('\x1f') if p.strip()]
         paths = {}
         for i, a in enumerate(acts):
             if i < len(given):
                 paths[a] = given[i]
             else:
                 dirs = {p.rsplit('/', 1)[0] for p in listed if '/' in p}
-                paths[a] = dirs.pop() if len(dirs) == 1 and len(acts) == 1 else a
+                paths[a] = dirs.pop() if len(dirs) == 1 and len(acts) == 1 else act_path(a)
         files: dict[str, dict] = {}
         if listed:
             for a in acts:
@@ -120,6 +212,7 @@ def corrections(ref: str, repo=None) -> list[dict]:
             f = _g(repo, '-c', 'core.quotePath=false', 'diff-tree', '-r', '-z', '--no-renames', '--no-commit-id',
                    f'{h}^', h).split('\0')
             for meta, path in zip(f[0::2], f[1::2]):
+                path = to_new(path)
                 for a in acts:
                     if _under(path, paths[a]) and path.endswith('.md') and path != f'{paths[a]}/README.md':
                         m = meta.split()
@@ -147,7 +240,7 @@ class Reader:
 
     def path(self, act: str) -> str:
         n = self.name(act)
-        return next((f['paths'][n] for f in self.fixes if n in f['paths']), act)
+        return next((f['paths'][n] for f in self.fixes if n in f['paths']), act_path(act))
 
     def rows(self, act: str) -> list[tuple[str, str, str]]:
         """(commit, in-force day, author), newest first, of the act's ordinary commits (corrections left out)."""
@@ -199,24 +292,36 @@ def commit_on(day: str, path: str) -> tuple[str, str, str] | None:
 
 
 def resolve(commit: str, act: str, unit: str, files: list[str] | None = None) -> str | None:
+    """An act's file for a unit given by file name (`art-019`) or by number (`19`); the file may sit in a sub-folder
+    of the act (an act split by article numbers or by book)."""
     if files is None:
-        files = git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n')
-    exact = f'{act}/{unit}.md'
-    if exact in files:
-        return exact
+        files = list(_ls(None, commit, act))
+    files = [f for f in files if _under(f, act)]
+    name = lambda f: f.rsplit('/', 1)[1]  # noqa: E731
+    exact = [f for f in files if name(f) == f'{unit}.md']
+    if len(exact) == 1:
+        return exact[0]
     m = re.fullmatch(r'(\d+)(.*)', unit)
     if m:
-        want = re.compile(rf'{re.escape(act)}/[a-z-]*0*{int(m.group(1))}{re.escape(m.group(2))}\.md$')
-        hits = [f for f in files if want.match(f)]
+        want = re.compile(rf'[a-z-]*0*{int(m.group(1))}{re.escape(m.group(2))}\.md')
+        hits = [f for f in files if want.fullmatch(name(f))]
         # A bare number means the article: "19" is art-019, not a transitional provision numbered 19.
-        arts = [f for f in hits if f.split('/', 1)[1].startswith(('art-', 'art'))]
+        arts = [f for f in hits if name(f).startswith(('art-', 'art'))]
         if len(arts) == 1:
             return arts[0]
         if len(hits) == 1:
             return hits[0]
         if hits:
-            sys.exit(f'{unit} is ambiguous in {act}: {", ".join(h.split("/", 1)[1][:-3] for h in hits)}. Give the file name.')
+            sys.exit(f'{unit} is ambiguous in {act}: {", ".join(name(h)[:-3] for h in hits)}. Give the file name.')
     return None
+
+
+def _acts() -> list[str]:
+    """What `on.py <day>` lists: every act folder of the layout map, and each other top-level folder."""
+    paths = [p for p in git('-c', 'core.quotePath=false', 'ls-tree', '-r', '--name-only', 'main').split('\n') if '/' in p]
+    acts = {a['path'] for a in LAYOUT.get('acts', {}).values()}
+    top = {p.split('/')[0] for p in paths if not any(_under(p, a) for a in acts)}
+    return sorted(acts | top - {'data', 'tools', 'visualisations', 'vulnerabilities'})
 
 
 def main():
@@ -231,18 +336,17 @@ def main():
         dt.date.fromisoformat(day)
     except ValueError:
         sys.exit(f'{day!r} is not a date (YYYY-MM-DD).')
+    _load_layout()
     main_ref, future = branches()
     readers = {r: Reader(r) for r in (main_ref, future) if r}
     if any(rd.fixes for rd in readers.values()):
         return corrected(day, args, show_law, readers[main_ref], readers.get(future))
     if len(args) == 1:
-        acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
-                       if '/' in p and p.split('/')[0] not in ('data', 'tools')})
-        for act in acts:
+        for act in _acts():
             hit = commit_on(day, act)
             print(f'{act}\t' + (f'{hit[1]}\t{hit[0][:10]}\t{hit[2]}' if hit else 'not in force yet'))
         return
-    act = args[1]
+    act = act_path(args[1])
     hit = commit_on(day, act)
     if not hit:
         sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
@@ -254,12 +358,11 @@ def main():
         if show_law:
             last = commit_on(day, path)
             print(f'# in force from {last[1]}, last changed by {last[2]} ({last[0][:10]})\n')
-        sys.stdout.write(git('show', f'{commit}:{path}'))
+        sys.stdout.write(git('cat-file', 'blob', _ls(None, commit, path)[path]))
         return
-    files = [f for f in git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n')
-             if f.endswith('.md') and not f.endswith('/README.md')]
+    files = {f: o for f, o in _ls(None, commit, act).items() if f.endswith('.md') and not f.endswith('/README.md')}
     for f in sorted(files):
-        sys.stdout.write(git('show', f'{commit}:{f}') + '\n')
+        sys.stdout.write(git('cat-file', 'blob', files[f]) + '\n')
 
 
 def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_future: Reader | None) -> None:
@@ -274,9 +377,7 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
         return f'\tcorrected by {used[-1]["commit"][:10]}' if used else ''
 
     if len(args) == 1:
-        acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
-                       if '/' in p and p.split('/')[0] not in ('data', 'tools')})
-        for act in acts:
+        for act in _acts():
             files, hit, used = reader(act).files(act, day)
             if files is None:
                 print(f'{act}\tnot in force yet')
@@ -291,7 +392,7 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
     if not files:
         sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
     if len(args) > 2 or rd.path(act).endswith('.md'):
-        path = rd.path(act) if len(args) == 2 else resolve('', act, args[2], sorted(files))
+        path = rd.path(act) if len(args) == 2 else resolve('', rd.path(act), args[2], sorted(files))
         if not path or path not in files:
             sys.exit(f'{act}/{args[2]} was not in the text on {day} (it may have been inserted later or removed earlier).')
         if show_law:

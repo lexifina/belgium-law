@@ -9,7 +9,8 @@
 A thin wrapper around tools/on.py: the version is chosen by each commit's `In-force:` trailer, never by its commit
 date, and branches named wip* are ignored. An article number (`41`, `7bis`, `112/1`) becomes the file key
 (`art-041`, `art-007-bis`, `art-112-01`); Roman numbers (`I`, `IV`) are the transitional provisions of the
-Constitution (`disp-trans-01`, `disp-trans-04`). Standard library only.
+Constitution (`disp-trans-01`, `disp-trans-04`). The act is its folder (`code/judiciaire`, `loi/contrats-travail`) or
+its name (`code-judiciaire`, as in data/paths.json). Standard library only.
 """
 import re
 import runpy

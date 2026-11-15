@@ -13,18 +13,20 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution and 23 codes and laws, with 2,095 versions from Justel: among them the Code pénal, the old and new Code civil, the Code judiciaire, the Code d'instruction criminelle (as Justel's eight texts), the Code de droit économique, the Code des sociétés et des associations, four labour laws and the loi sur les étrangers. Five of them are also given in Dutch. Each act's folder has a `README.md` listing every article and when it changed; [`data/laws.csv`](data/laws.csv) lists every amending act.
 
-Each act is a folder, one file per article (`loi-contrats-travail/art-037.md` is art. 37 of the Loi relative aux contrats de travail of 3 July 1978; `art-007-bis.md` is art. 7bis, `art-112-01.md` art. 112/1).
+One folder per kind of act, in the language of the text: `constitution/` and `grondwet/` (the Constitution in French and in Dutch), `code/` (the codes in French: `code/civil/`, `code/judiciaire/`, `code/penal/`, `code/instruction-criminelle/livre-1/` …) and `wetboek/` (in Dutch: `wetboek/strafwetboek/`, `wetboek/strafvordering/…`), `loi/`, `arrete/`, `decret/`, `ordonnance/`, `reglement/`, `circulaire/`, `convention/`, `accord/`, `revision/` (revisions of the Constitution) and `autre/` (other texts), with `caselaw/` (case law), `local/` and `drafts/` (drafts, not law). An act with its versions is a folder, one file per article (`loi/contrats-travail/art-037.md` is art. 37 of the Loi relative aux contrats de travail of 3 July 1978; `art-007-bis.md` is art. 7bis, `art-112-01.md` art. 112/1); a code of more than 1,000 articles is split into sub-folders of 500 article numbers (`code/judiciaire/art-0500-0999/`) or by book (`code/droit-economique/livre-xi/`, `code/societes-associations/livre-07/`). Justel's other texts are filed by kind, issuer and year under their NUMAC (`loi/justice/2026/2026000329/`). [`data/paths.json`](data/paths.json) gives each act's folder and where the folders were before 15 November 2026.
 
-The text is in French, as Justel prints it; the Constitution (`grondwet/`), the Code pénal (`strafwetboek/`) and three texts of the Code d'instruction criminelle (`wetboek-van-strafvordering-*/`) are also in Dutch. The German text, equally official, is not here, and an English translation is not part of this record.
+The text is in French, as Justel prints it; the Constitution (`grondwet/`), the Code pénal (`wetboek/strafwetboek/`) and three texts of the Code d'instruction criminelle (`wetboek/strafvordering/`) are also in Dutch. The German text, equally official, is not here, and an English translation is not part of this record.
 
 ## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| Every change to art. 37 of the Loi relative aux contrats de travail | `git log -p --word-diff -- loi-contrats-travail/art-037.md` |
-| Which act wrote each paragraph of art. 37? | `git blame loi-contrats-travail/art-037.md` |
-| Every version of the Loi relative aux contrats de travail, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- loi-contrats-travail` |
-| Art. 37 as in force on 1 January 2000 | `python tools/en_vigueur_au.py 2000-01-01 loi-contrats-travail 37` |
+| Every change to art. 37 of the Loi relative aux contrats de travail | `git log --follow -p --word-diff -- loi/contrats-travail/art-037.md` |
+| Which act wrote each paragraph of art. 37? | `git blame loi/contrats-travail/art-037.md` |
+| Every version of the Loi relative aux contrats de travail, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- loi/contrats-travail loi-contrats-travail` |
+| Art. 37 as in force on 1 January 2000 | `python tools/en_vigueur_au.py 2000-01-01 loi/contrats-travail 37` |
+
+The folders have been where they are since 15 November 2026; `--follow`, the old path beside the new one and `tools/on.py` read an act from before that day too.
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -84,6 +86,10 @@ Each change is credited to the act that made it, with Justel's citation (`L 2014
 See [`LICENSE`](LICENSE). Official acts are not protected by copyright in Belgium (Code de droit économique, art. XI.172, § 2); legalize-be's data is under the "Licence ouverte / open data fédéral belge (CC0 par défaut)". Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): empty for now, a place for charts on Belgian law, drawn from this repository.
 
 ## More
 

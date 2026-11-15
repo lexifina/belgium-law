@@ -13,18 +13,20 @@ Onderdeel van [lexifina/global-law](https://github.com/lexifina/global-law), é�
 
 **Wat er nu in staat:** de Grondwet en 23 wetboeken en wetten, met 2.095 versies uit Justel: daaronder de Code pénal, de oude en de nieuwe Code civil, de Code judiciaire, de Code d'instruction criminelle (als de acht teksten van Justel), de Code de droit économique, de Code des sociétés et des associations, vier arbeidswetten en de loi sur les étrangers. Vijf ervan staan ook in het Nederlands. De map van elke akte heeft een `README.md` met elk artikel en wanneer het werd gewijzigd; [`data/laws.csv`](data/laws.csv) noemt elke wijzigende akte.
 
-Elke akte is een map, met één bestand per artikel (`loi-contrats-travail/art-037.md` is art. 37 van de Loi relative aux contrats de travail van 3 juli 1978; `art-007-bis.md` is art. 7bis, `art-112-01.md` art. 112/1).
+Eén map per soort akte, in de taal van de tekst: `constitution/` en `grondwet/` (de Grondwet in het Frans en in het Nederlands), `code/` (de wetboeken in het Frans: `code/civil/`, `code/judiciaire/`, `code/penal/`, `code/instruction-criminelle/livre-1/` …) en `wetboek/` (in het Nederlands: `wetboek/strafwetboek/`, `wetboek/strafvordering/…`), `loi/`, `arrete/`, `decret/`, `ordonnance/`, `reglement/`, `circulaire/`, `convention/`, `accord/`, `revision/` (herzieningen van de Grondwet) en `autre/` (andere teksten), met `caselaw/` (rechtspraak), `local/` en `drafts/` (ontwerpen, geen recht). Een akte met haar versies is een map met één bestand per artikel (`loi/contrats-travail/art-037.md` is art. 37 van de Loi relative aux contrats de travail van 3 juli 1978; `art-007-bis.md` is art. 7bis, `art-112-01.md` art. 112/1); een wetboek van meer dan 1.000 artikelen is verdeeld in submappen per 500 artikelen (`code/judiciaire/art-0500-0999/`) of per boek (`code/droit-economique/livre-xi/`, `code/societes-associations/livre-07/`). De andere teksten uit Justel staan per soort, uitvaardiger en jaar onder hun NUMAC (`loi/justice/2026/2026000329/`). [`data/paths.json`](data/paths.json) geeft de map van elke akte en waar de mappen vóór 15 november 2026 stonden.
 
-De tekst is Frans, zoals Justel hem afdrukt; de Grondwet (`grondwet/`), de Code pénal (`strafwetboek/`) en drie teksten van de Code d'instruction criminelle (`wetboek-van-strafvordering-*/`) staan ook in het Nederlands. De Duitse tekst, die evenzeer officieel is, staat er niet in, en een Engelse vertaling maakt geen deel uit van dit archief.
+De tekst is Frans, zoals Justel hem afdrukt; de Grondwet (`grondwet/`), de Code pénal (`wetboek/strafwetboek/`) en drie teksten van de Code d'instruction criminelle (`wetboek/strafvordering/`) staan ook in het Nederlands. De Duitse tekst, die evenzeer officieel is, staat er niet in, en een Engelse vertaling maakt geen deel uit van dit archief.
 
 ## Vragen als git-commando's
 
 | Vraag | Commando |
 | --- | --- |
-| Elke wijziging van art. 37 van de Loi relative aux contrats de travail | `git log -p --word-diff -- loi-contrats-travail/art-037.md` |
-| Welke akte schreef elke alinea van art. 37? | `git blame loi-contrats-travail/art-037.md` |
-| Elke versie van de Loi relative aux contrats de travail, met de dag van inwerkingtreding | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- loi-contrats-travail` |
-| Art. 37 zoals van kracht op 1 januari 2000 | `python tools/en_vigueur_au.py 2000-01-01 loi-contrats-travail 37` |
+| Elke wijziging van art. 37 van de Loi relative aux contrats de travail | `git log --follow -p --word-diff -- loi/contrats-travail/art-037.md` |
+| Welke akte schreef elke alinea van art. 37? | `git blame loi/contrats-travail/art-037.md` |
+| Elke versie van de Loi relative aux contrats de travail, met de dag van inwerkingtreding | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- loi/contrats-travail loi-contrats-travail` |
+| Art. 37 zoals van kracht op 1 januari 2000 | `python tools/en_vigueur_au.py 2000-01-01 loi/contrats-travail 37` |
+
+De mappen staan sinds 15 november 2026 op hun huidige plaats; `--follow`, het oude pad naast het nieuwe en `tools/on.py` lezen een akte ook van vóór die dag.
 
 **Buiten git** stellen we dit archief ook openbaar en gratis beschikbaar:
 
@@ -86,6 +88,10 @@ Zie [`LICENSE`](LICENSE). Officiële akten zijn in België niet auteursrechtelij
 Geen AI-model heeft juridische tekst geschreven, vertaald of verbeterd; de scripts zijn geschreven door een AI-model (zie [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dit is een vertaling van de Engelse versie ([README.en.md](README.en.md)); bij verschillen geldt de Engelse versie.
+
+## Visualisaties
+
+[visualisations/](visualisations/): nog leeg, een plaats voor grafieken over het Belgische recht, getekend uit deze repository.
 
 ## Meer
 
