@@ -1,10 +1,10 @@
 category,category_nl,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
-Lapsed time limits,Verstreken termijnen,33,14,33,3,3
+Lapsed time limits,Verstreken termijnen,33,14,33,1,1
 Retroactive or pre-publication dates,Inwerkingtreding vóór bekendmaking,6,6,6,0,0
 Stale amounts,Achterhaalde bedragen,14,14,14,5,4
-References to deleted provisions,Verwijzingen naar geschrapte bepalingen,16,16,16,2,2
+References to deleted provisions,Verwijzingen naar geschrapte bepalingen,4,4,4,1,1
 References to repealed placeholders,Verwijzingen naar “opgeheven” artikelen,607,607,0,0,0
 Dead fines,Straffen zonder strafbaar feit,10,10,0,0,0
 Duplicate numbering,Dubbele nummering,281,279,0,0,0
-Dead currencies,Verdwenen munten,38,38,0,0,0
+Dead currencies,Verdwenen munten,29,29,0,0,0
 Publisher notes,Opmerkingen van de uitgever,10,1,0,0,0
