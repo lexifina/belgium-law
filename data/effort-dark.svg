@@ -3,16 +3,16 @@
 <defs><linearGradient id="yg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fbf7f"/><stop offset="1" stop-color="#3fbf7f" stop-opacity="0.35"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#0c120f" stroke="#26332c"/>
 <rect x="710.6" y="27" width="141.4" height="24" rx="12" fill="#141c18"/>
-<text x="781.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">record to Jul 24, 2026</text>
+<text x="781.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">record to Nov 13, 2026</text>
 <text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">Belgian law as a git history</text>
 <rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
-<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">29</text>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">35</text>
 <text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">acts</text>
 <line x1="122.2" y1="86" x2="122.2" y2="126" stroke="#26332c"/>
-<text x="138.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">2,048</text>
+<text x="138.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">2,054</text>
 <text x="138.2" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">changes, as commits</text>
 <line x1="293.4" y1="86" x2="293.4" y2="126" stroke="#26332c"/>
-<text x="309.4" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">15,145</text>
+<text x="309.4" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">15,981</text>
 <text x="309.4" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">provision files</text>
 <line x1="445.8" y1="86" x2="445.8" y2="126" stroke="#26332c"/>
 <text x="461.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1,288</text>
@@ -83,8 +83,8 @@
 <rect x="785.88" y="274.9" width="15.37" height="71.1" rx="1.5" fill="url(#yg-dark)"><title>2024: 103 changes took effect</title></rect>
 <rect x="802.05" y="319.1" width="15.37" height="26.9" rx="1.5" fill="url(#yg-dark)"><title>2025: 39 changes took effect</title></rect>
 <text x="809.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2025</text>
-<rect x="818.23" y="329.4" width="15.37" height="16.6" rx="1.5" fill="url(#yg-dark)"><title>2026: 24 changes took effect</title></rect>
-<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">2,048 changes dated by their in-force day.</text>
+<rect x="818.23" y="325.3" width="15.37" height="20.7" rx="1.5" fill="url(#yg-dark)"><title>2026: 30 changes took effect</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">2,054 changes dated by their in-force day.</text>
 <rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
 <text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Completeness, checked against the official sources on Nov 12, 2026</text>
 <text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Constitution</text>
