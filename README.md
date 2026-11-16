@@ -91,7 +91,13 @@ Dit is een vertaling van de Engelse versie ([README.en.md](README.en.md)); bij v
 
 ## Visualisaties
 
-[visualisations/](visualisations/): nog leeg, een plaats voor grafieken over het Belgische recht, getekend uit deze repository.
+[visualisations/](visualisations/): Belgisch recht in 20 grafieken, getekend uit deze repository.
+
+Onder meer:
+
+- De acht Belgische wetgevers, het Belgisch Staatsblad en de Europese richtlijnen
+- Kamer en Senaat, de wetgevingskalender en terugwerkende kracht
+- De meest gewijzigde wetboeken, het nieuwe Strafwetboek en de hoven
 
 ## Meer
 

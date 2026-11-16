@@ -89,7 +89,13 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): empty for now, a place for charts on Belgian law, drawn from this repository.
+[visualisations/](visualisations/): Belgian law in 20 charts, drawn from this repository.
+
+Including:
+
+- Belgium's eight lawmakers, the Moniteur belge and EU directives
+- Chamber and Senate, the legislative calendar and retroactive changes
+- The codes changed most often, the new Criminal Code and the courts
 
 ## More
 
